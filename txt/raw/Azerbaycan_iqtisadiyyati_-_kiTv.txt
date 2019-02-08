@@ -1,0 +1,3500 @@
+1
+Bakı, may 2010
+Azərbaycan iqtisadiyyatı - 2009
+Məlumatlandırıcı və analitik bülleten
+Azərbaycan iqtisadiyyatı - 2009
+2
+Azərbaycan iqtisadiyyatı - 2009
+Naşir:  İqtisadi Tədqiqatlar Mərkəzi 
+Layihə rəhbəri: Qubad İbadoğlu
+Nəşrə məsul şəxs: Rasim Hüseynov
+İcmalın  redaktoru: Qalib Toğrul
+Tərtibatçı: Mahir Allahverdiyev
+İlk sayı dərc olunan “Azərbaycan iqtisadiyyatı - 2009” məlumat və analitik icmalında ötən il ölkə iqti-
+sadiyyatında baş vermiş keyfiyyət və kəmiyyət dəyişiklikləri, inkişaf meylləri təhlil edilib. İcmal Azərbaycan
+və ingilis dillərində çap olunur. 
+Rəsmi statistik məlumat və İTM-in alternativ hesablamaları nəşrin əsas mənbələrini təşkil edir. 
+İcmal dörd bölmədən ibarətdir. Birinci bölmədə əsas makroiqtisadi göstəricilərin (ümumi daxili məhsul,
+investisiyalar, xarici ticarət), ikinci bölmədə isə ötən ilin dövlət büdcəsinin icrasi vəziyyətinin, Mərkəzi
+Bankın pul siyasətinin, habelə bank sektorunun, qiymətli kağızlar və sığorta bazarının, məzənnə siyasətinin
+təhlili verilib. Üçüncü bölmədə kənd təsərrüfatı və sənaye sektorunun inkişaf meylləri və problemlərinə
+ətraflı nəzər salınıb. Nəhayət, dördüncü bölmədə 2010-cu ilin dövlət büdcəsinin gəlir və xərclərinin  və
+inflya siyanın proqnoz göstəricilərindən geniş bəhs olunub. 
+İcmal geniş oxucu kütləsi üçün nəzərdə tutulub. Hökumət qurumları, biznes sektoru, elmi-tədqiqat insti-
+tutları və mərkəzləri, beynəlxalq və ictimai təşkilatlar, həmçinin səfirliklər, universitetlərin müəllim heyəti,
+tələbələr və iqtisadiyyatla maraqlananlar icmaldan faydalana bilərlər. 
+İcmal İqtisadi Məsələlər üzrə İsveçrə Dövlət Katibliyinin dəstəyi ilə “Alternativ inflyasiya səviyyəsinin
+hesablanması və  modellərin inkişafı” layihəsi çərçivəsində İTM tərəfindən hazırlanıb.  İcmaldakı material-
+lara görə məsuliyyəti müəlliflər daşıyır. İcmal İqtisadi Məsələlər üzrə İsveçrə Dövlət Katibliyinin və İsveçrə
+hökumətinin mövqeyini əks etdirmir.
+Azərbaycan iqtisadiyyatı – 2009
+Ünvan: C.Cabbarlı küç. 44, Kaspian Plaza 3, IX mərtəbə, AZ 1065, 
+Tel: + 994 12 437 32 30; Fax: + 994 12 437 32 40
+www.erc-az.org
+erc-az@azeurotel.com
+“Azərbaycan iqtisadiyyatı - 2009” icmalı İqtisadi Tədqiqatlar Mərkəzi tərəfindən capa hazırlanıb, 
+2010-cu ildən ildə 4 dəfə nəşri planlaşdırılır. 
+© Müəllif hüququ İqtisadi Tədqiqatlar Mərkəzinə məxsusdur.
+Azərbaycan iqtisadiyyatı - 2009
+3
+MÜNDƏRICAT 
+Ön söz .................................................................................................................................................................6
+1. Makroiqtisadi göstəricilər ............................................................................................................................9
+1.1 ÜDM istehsalı .............................................................................................................................................10
+1.2 İnvestisiyalar ...............................................................................................................................................13
+1.3 İnflyasiya ....................................................................................................................................................16
+1.4 Xarici ticarət ...............................................................................................................................................19
+2. Maliyyə bölməsi...........................................................................................................................................21
+2.1 İcmal büdcə .................................................................................................................................................22
+2.2 Monetar siyasət ...........................................................................................................................................25
+2.3 Bank bölməsi ..............................................................................................................................................27
+2.4 Məzənnə siyasəti .........................................................................................................................................29
+2.5 Sığorta bazarı ..............................................................................................................................................30
+2.6 Qiymətli kağızlar bazarı..............................................................................................................................31
+3. İqtisadiyyatın sahə strukturu.....................................................................................................................32
+3.1. Sənaye .......................................................................................................................................................33
+3.2. Aqrar siyasət ..............................................................................................................................................37
+4. Proqnozlar ..................................................................................................................................................40
+4.1. 2010-cu ilin büdcəsi ...................................................................................................................................41
+4.2. 2010-cu ilin inflyasiyası.............................................................................................................................45
+Azərbaycan iqtisadiyyatı - 2009
+4
+CƏDVƏLLƏR VƏ DIAQRAMLAR
+Cədvəl 1. 2009-cu ildə neft və qeyri-neft ÜDM-nin artım dinamikası .........................................................11
+Cədvəl 2. Son üç ilin əsas makroiqtisadi göstəriciləri...................................................................................12
+Cədvəl 3. 1995-2009-cu illərdə əsas kapitala yönəldilmiş investisiyalar .....................................................13
+Cədvəl 4. Əsas kapitala yönəldilmiş investisiyaların maliyyə mənbələri üzrə strukturu..............................14
+Cədvəl 5. Əsas kapitala yönəldilmiş investisiyaların sahələr üzrə strukturu ................................................14
+Cədvəl 6. İstehlak qiymətləri indeksi ............................................................................................................16
+Cədvəl 7. Qiymət və tariflərin məcmu və qruplar üzrə indeksləri ................................................................17
+Cədvəl 8. İstehlak Qiymətləri İndeksinin dəyişməsi .....................................................................................18
+Cədvəl 9. MDB və digər ölkələrlə idxal - ixrac əməliyyatlarinin dinamikası...............................................19
+Cədvəl 10. Azərbaycanda neft və qaz hasilatı ...............................................................................................33
+Cədvəl 11. Əsas sənaye məhsullarının istehsalı və dinamikası................................................................34-35
+Cədvəl 12. Sənayedə stehsalçı qiymətləri indeksi.........................................................................................36
+Cədvəl 13. Azərbaycanın torpaq ehtiyatları ..................................................................................................39
+Cədvəl 14. Dövlət büdcəsinin gəlirləri və xərcləri ........................................................................................41
+Cədvəl 15. 2010-cu il dövlət büdcəsi gəlirlərinin əsas mənbələri .................................................................42
+Cədvəl 16. 2010-cu il dövlət büdcəsi gəlirlərinin strukturu ..........................................................................43
+Cədvəl 17. 2010-cu il dövlət büdcəsi xərclərinin bölmələr üzrə xüsusi çəkisi .............................................45
+Diaqram 1. ÜDM-in real və nominal artım dunamikası (illər üzrə).............................................................10
+Diaqram 2. 2009-cu ildə neft və qeyri-neft ÜDM-nin artım dinamikası (faizlə) .........................................11
+Diaqram 3. 2009-cu ilin yanvar-dekabr aylarında ÜDM-in strukturu..........................................................11
+Diaqram 4. Əsas kapitala qoyulmuş investisi yaların mənbələri...................................................................13
+Diaqram 5. Neft və qeyri-neft sahələri üzrə investisiya bölgüsü..................................................................13
+Diaqram 6. 2009-cu ildə əsas kapitala yönəldilmiş investisiyanın xarici ölkələr və beynəlxalq təşkilatlar 
+üzrə strukturu (%) ..........................................................................................................................................15
+Diaqram 7. 2009-cu ildə əsas kapitala yönəldilmiş idaxili və xarici investisiyalar (milyon manat)............15
+Diaqram 8. 2009-cu ildə aylıq İQİ üzrə DSK və İTM-in məlumatlarının müqayisəsi.................................17
+Diaqram 9. İxracın coğrafiyası .....................................................................................................................19
+Diaqram 10. İxracın strukturu.......................................................................................................................19
+Diaqram 11. İdxalın coğrafiyası ...................................................................................................................20
+Diaqram 12. İdxalın strukturu.......................................................................................................................20
+Diaqram 13. Büdcə gəlirləri və xərcləri .......................................................................................................22
+Diaqram 14. Qeyri-neft defisiti və qeyri-neft ÜDM-i ..................................................................................22
+Diaqram 15. 2009-cu ilin büdcə gəlirlərinin strukturu .................................................................................23
+Diaqram 16. Dövlət Neft Fondundan büdcəyə transfertlər .........................................................................23
+Diaqram 17. Büdcə xərclərinin strukturu .....................................................................................................24
+Diaqram 18. 2009-cu ildə pul bazasının istiqaməti ......................................................................................25
+Diaqram 19. 2001-ci ildən 2009-cu ilə kimi pul bazasının istiqaməti..........................................................25
+Diaqram 20. M2 və M3 pul aqreqatlarının dəyişməsi ..................................................................................26
+Diaqram 21. 2009-cu ildə kreditlərin sahələr üzrə strukturu........................................................................27
+Diaqram 22. Kreditlərin faiz dərəcələrinin dəyişməsi ..................................................................................27
+Diaqram 23. 2009-cu ildə kreditlərin dinamikası .........................................................................................27
+Diaqram 24. Kreditlərin valyutalar üzrə strukturu .......................................................................................27
+Diaqram 25. Kredit-depozit nisbəti ..............................................................................................................28
+Diaqram 26. Kredit-M3 nisbəti.....................................................................................................................28
+Diaqram 27. M3-qeyri-neft ÜDM-i nisbəti ..................................................................................................28
+Diaqram 28. Nominal effektiv məzənnə (Dekabr 2000 = 100) ....................................................................28
+Diaqram 29. Real effektiv məzənnə (Dekabr 2000 = 100)...........................................................................29
+Diaqram 30. Sığorta tələbinin strukturu .......................................................................................................30
+Azərbaycan iqtisadiyyatı - 2009
+5
+Diaqram 31. 2009-cu ildə sığorta bazarı.......................................................................................................30
+Diaqram 32. 2009-cu ildə sığorta bazarı.......................................................................................................30
+Diaqram 33. İlkin yerləşdirmə və təkrar bazar göstəriciləri. 2008-2009......................................................31
+Diaqram 34. 2008-ci ildə qiymətli kağızların həcmi ....................................................................................31
+Diaqram 35. 2009-cu ildə qiymətli kağızların həcmi ...................................................................................31
+Diaqram 36. İqtisadi rayonlar üzrə sənaye məhsulunun istehsalı (manatla) ................................................33
+Diaqram 37. 2009-ci ildə sənaye sahələri üzrə istehsalın dinamikası (2008-ci illə müqayisədə, %-lə).......33
+Diaqram 38. Kənd təsərrüfatı istehsalının strukturu (mln.AZN)..................................................................37
+Diaqram 39. 2008-ci il əkinçilik məhsullarının istehsalı (1 000 ton) ..........................................................38
+Diaqram 40. Məhsuldarlıq (1000 s/ha).........................................................................................................38
+Diaqram 41. İqtisadiyyata sektorlar üzrə qoyulan birbaşa kapital (milyon manatla) ..................................39
+Diaqram 42. Dövlət büdcəsi .........................................................................................................................41
+Diaqram 43. 2010-cu il dövlət büdcəsi xərclərinin bölmələr üzrə xüsusi çəkisi..........................................44
+Diaqram 44. 2010-cu il dövlət büdcəsi xərclərinin strukturu .......................................................................45
+Azərbaycan iqtisadiyyatı - 2009
+6
+2008-ci ildə dünyanın əsas maliyyə mərkəzlərində
+başlayan böhran 2009-cu ildə dünya iqtisadiyyatını
+bürüyərək istisnasız bütün ölkələrə öz mənfi təsirini
+göstərdi. Təzahürləri hələ 2008-ci ilin ikinci yarısından
+Azərbaycan iqtisadiyyatında, əsasən də maliyyə sek-
+torunda müsahidə olunan qlobal maliyyə və iqtisadi
+böhran, 2009-cu ildə ölkə iqtisadiyyatının digər sek-
+torlarına da nüfuz etdi. Əvvəlki 3 ildə müşahidə
+edilmiş orta illik 22%-lik iqtisadi artım sürəti 2009 –
+cu ildə 9,3%-ə endi. İlk baxışdan bu artım dünyada
+tüğyan edən böhran şəraitində nəinki regional, hətta
+qlobal baxımdan kifayət qədər yuksək göstəricidir.
+Ancaq Azərbaycan hələ də xammal ölkəsi olaraq qalır
+və iqtisadiyyatdakı bu artım ölkə iqtisadiyyatının real
+vəziyyətini o qədər də adekvat əks etdirmir. Ötən
+2009-cu il ölkə iqtisadiyyatının əsas ixrac məhsulun-
+dan - neftdən, daha doğrusu, onun qiymətindən
+asılılığını bir daha qabarıq şəkildə göstərdi. Ölkənin
+Ümumi Daxili Məhsulunun (ÜDM) üçdə iki hissəsi
+ixrac edilir və milli iqtisadiyyatın artımının yarıdan
+çoxu xarici tələb amilləri hesabına formalaşır. Bu bax-
+imdan ölkədə istehsal olunan neftin həcmi və onun
+dünya bazar qiymətlərinin dinamikası milli iqti-
+sadiyyat üçün çox önəmlidir. 
+ÜDM-in real artımının 9,3% səviyyəsində qərar-
+laşmasında neft sektorunda formalaşan ÜDM-in
+14,3%-lik və həcmcə ondan kiçik olan qeyri–neft
+ÜDM-nin 3,2%-lik artımı səbəb oldu. Qeyd edək ki,
+ÜDM-in real artımı istehsalın fiziki artım göstəricisidir
+və onun dinamikası sözsüz ki, ölkə iqtsadiyyatının ak-
+tivliyini əks etdirən göstərici kimi qəbul edilir. Ancaq
+iqtisadiyyatında xammal konponenti üstünluk təşkil
+edən ölkələr üçün fiziki həcmlərin artımını iqtsadiy-
+yatın aktivliyi kimi səciyyələndirmək tam da doğru ol-
+mazdı. Çünki həmin xammalın qiyməti xarici
+faktorlarla, xarici tələblə müəyyənləşir və qiymətlər
+düşdükdə tamam başqa mənzərə açılır. Bu isə ondan
+ibarətdir ki, Azərbaycanda UDM-in real artımı fo-
+nunda ölkənin müasir tarixində ilk dəfə olaraq nominal
+ÜDM-in azalması qeydə alındı, deflyatorun səviyyəsi
+2008-ci ildəki 127,8%-dən, 78,8%-ə endi. Yəni daha
+çox məhsul və xidmətlər istehsal olundu, ancaq onun
+müqabilində daha az vəsait əldə edildi. Daha ümu-
+miləşdirici göstərici olan - adambaşına duşən ÜDM,
+2008-ci ildəki 4604 manatdan ($5603), 2009-cu ildə
+3917 manata ($4874) qədər azaldi. Azərbaycanda
+ÜDM-in nominal həcminin azalması neftin qiymətinin
+düşməsi və qeyri-neft sektorunun zəif inkişaf sürəti ilə
+səciyyələnir. 
+2009-cu ildə Azərbaycanda faktiki bazar
+qiymətlərilə 34,6 mlrd. manatliq ÜDM istehsal edilib.
+Əvvəlki, 2008-ci ildə isə ölkədə 40,1 mlrd. manatlıq
+ÜDM əldə edilmişdi. Beləliklə, əgər maliyyə-iqtisadi
+böhran baş verməsəydi və 2009-cu ildə ortalama
+qiymətlər 2008-ci il səviyyəsində qalsaydi, onda ötən
+il nominal ÜDM-in həcmi 43,9 mlrd. manat təşkil
+edərdi. 2009-cu ildə nominal ÜDM-in baza və faktiki
+qiymətləri arasındakı fərq (43,9 mlrd. manat – 34,6
+mlrd. manat) 9,3 mlrd. manatdır ($11,6 mlrd.). Bu isə
+maliyyə-iqtisadi böhran nəticəsində Azərbaycanın
+əldən çıxartdığı, qazana bilmədiyi məbləğdir, dolayısı
+ilə itkisidir. Həmin bu itkilər özünü Dövlət Neft Fon-
+dunun və dövlət büdcəsinin planlaşdırılan gəlirlərinin
+azalmasinda, tikinti, metallurgiya, kimya kompleksi,
+alüminium sənayesi və biznesin digər sahələrinin əldə
+edə biləcəyi qazanclarda göstərdi.
+Neftin hər barelinin qiymətinin $10 düşməsi Azər-
+baycanın tədiyyə balansı üçün $2 milyard itki
+deməkdir. Nəzərə alsaq ki, neftin orta qiyməti 2009-cu
+ildə 2008-ci ildəki $96,5-dan, $62-a düşüb, onda
+tədiyyə balansının profisiti hökumətin gözləntilərindən
+$5 mlrd. az olaraq $11 mlrd. səviyyəsinə enə bilər, ilkin
+gözləntilər isə təxminən $16 mlrd. idi. ÜDM-in yarısını
+formalaşdıran sənaye sektorunda ötən il real artım
+8,6% səviyyəsində olmuşdu. Əsas sənaye məhsulları
+olan xam neftin həcmi 13.5% artaraq 50.4 milyon tona,
+təbii qaz hasilatı isə 23.7 (+3,9%) milyard kub metrə
+çatmışdı. Ötən il ümumilikdə sənayenin əsas bölməsi
+olan mədənçıxarmada istehsalın həcmi əvvəki ili
+12.5% üstələyib. Sənayedəki artım məhz mədənçıxar-
+madakı artım hesabına formalaşmışdı, çünki sənayenin
+digər iki bölməsində - emal sənayesi və elektrik ener-
+jisi, qaz və suyun istehsalı və bölüşdürülməsi
+bölmələrində istehsalın müvafiq olaraq 7,7% və 10,8%
+azalması müşahidə edilib. Beləliklə, sənaye sahəsində
+formalaşan ÜDM-in 12,8% -lik artımının səbəbkarı
+mədənçıxarma sənayesindəki artım oldu. Maddi is-
+tehsalın digər sahələrində - kənd təsərrüfatında ÜDM-
+in həcmi 3,5% artıb, tikintidə isə 8,2%-lik tənəzzül
+qeydə alınıb. Sonuncuda qeydə alınan azalma kənd
+təsərrüfatındakı artımı üstələyərək nəticədə maddi is-
+tehsaldakı 10%-lik artımın mədənçıxarma sənayesində,
+daha doğrusu, neft-qaz hasilatında olan artımin
+hesabına olduğunu üzə çıxartdı. 
+Beləliklə də, qeyri–neft ÜDM-nin 3,2%-lik ar -
+tımına qeyri–neft maddi istehsal sahələri yox, xidmət
+sahələrində qeydə alınmış artımlar səbəb oldu,
+məsələn, rabitə xidmətlərində 13,1%-lik artım,
+Ön söz
+Azərbaycan iqtisadiyyatı - 2009
+7
+nəqliyyatdakı 9,3%, ticarətdəki 8,9%, sosial və digər
+xidmətlər sahəsindəki 7,7%-lik artımlar.
+Nominal ÜDM-in neqativ dinamikası fonunda ötən
+il Azərbaycan əhalisinin pul gəlirləri 2008-ci ildəkilə
+müqayisədə 8,0% artaraq 22,4 mlrd. manata çatdı. 
+Ümumiyyətlə, daha çox hallarda nominal ÜDM-in
+azalması əsasən əhalinin gəlirlərinin azalması ilə yanaşı,
+məşğulluğun da azalmasına səbəb olur (qeyd edək ki,
+sənayedə məşğulluq təxminən 10% azaldı). Adam -
+başına düşən gəlirlər 6,7% artaraq, 2 537 manatadək
+yüksəldi. Əhalinin gəlirləri istehsal olunmuş faktiki
+ÜDM-də 15 faiz bəndi artaraq 2008-ci ildəki 50,0% -
+dən 64,8%-ə qədər yüksəldi. Bu isə özlüyündə ötən il
+əsas fondlara, dövriyyə vəsaitlərinə, və ümumilikdə
+məcmu yığıma yönəldilən vəsaitlərin azalmasından, is-
+tehlakla yığım arasında son vaxtlar yaranmış paritetin
+pozulmasdan xəbər verir. Əhali gəlirlərinin əsas mən-
+bəyi olan əmək haqları da ötən il orta hesabla artdı. Orta
+aylıq əmək haqqının 8,6% artaraq 298 manata çatması
+istehlak bazarlarında müvafiq qiymət artımlarına səbəb
+olmadı. Əhali əlindəki vasaitləri daha qənaətlə xə-
+clməyə üstünlük verdi. İnflyasiya və deflyasiya proses-
+ləri ötən ili yarıya böldülər. İlin birinci yarısı deflyasiya,
+ikinci yarısı isə inflyasiya proses ləri şəraitində keçdi və
+aylıq istehlak qiymətləri indeksi 2,1 faiz bəndi hüdud-
+larında dəyişərək ( - 0,8%, + 1,3% arasında tərəddüd
+etdi) illik +1,5% təşkil etdi. Əgər əhalinin gəlirlərinin
+ÜDM-dəki xüsusi çəksinin artımı istehlak bazarlarına
+ciddi təzyiq göstərmədisə, ÜDM-in yığıma gedən
+hissəsi, investisiya qoyuluşları kifayət qədər azaldı.
+Rəsmi məlumatlara əsasən, əsas kapitala yönəldilən in-
+vestisiyaların həcmi ötən il 18,7% azalaraq (qeyd edək
+ki, 2008-ci ildə artım 34,4% idi) 7 mlrd. 359 mln. manat
+təşkil etdi. Milli iqtisadiyyat xarici investisiyaların 1/3-
+ni itirməklə yanaşı, daxili investisiyaların həcmi də
+14,2% azaldı. Daxili investisiyaların əsas mən-
+bələrindən olan dövlət büdcəsinin xərcləri 28% azalaraq
+2 mlrd. 678 mln. manat və ya ümumi investisiyaların
+36,4%-ni təşkil etdi. Büdcə inves tisi yalarının azal-
+masının səbəbi daxilolmalar üzrə bütün ilboyu büdcənin
+icra olunmaması idi. 
+2009-cu ildə dövlət büdcəsinin gəlir və xərcləri
+2008-ci ilin göstəricilərindən aşağı səviyyədə icra ol-
+undu. İlkin məlumatlara görə, ötən il dövlət büdcəsinə
+10 mlrd. 325,9 mln. manat yığmaq mümkün olub. Bu
+isə 2008-ci ildəkindən 4,1% və ya 436,8 mln. manat
+azdır. Büdcə xərcləri isə ötən il 2008-ci ildəkindən
+2,5% və ya 271,2 mln. manat az olaraq, 10 503.9 mln.
+manat səviyyəsində icra olundu. Xüsusi qeyd etmək
+lazımdır ki, 2009-cu il büdcəsinin 2008-cu il büd-
+cəsindən zəif icrası Neft Fondundan dövlət büdcəsinə
+transfertlərin 2008-ci ildəkinə nisbətən 1 mlrd. 115
+mln. manat artırılması, yəni 3 mlrd. 800 mln. manat-
+dan 4 mlrd. 915 mln. manata çatdirılması fonunda baş
+verib. Ümumilikdə 2009-cu ildə dövlət büdcəsinə neft
+mədaxili 6 mlrd. 897 mln. manat və ya bütün büdcə
+daxilolmalarının 66,8%-ni təşkil edib, o cümlədən
+47,6%-i Neft Fondundan transfertlər. Müqayisə üçün
+qeyd edək ki, son göstəricilər 2008-ci ildə müvafiq
+olaraq 67,8% və 35,3% səviyyəsində qərarlaşmışdılar.
+Neftə qlobal tələbin azalması və bunun nəticəsində
+onun qiymətinin düşməsi Azərbaycan büdcəsinin Neft
+Fondunun transfertlərdən kənar neft gəlirlərinin xüsusi
+çəkisini 2008–ci ildəki 32,5%-dən ötən il 19,2%-ə
+qədər endirdi. 
+Maraqlıdır ki, böhran ilinə baxmayaraq Dövlət
+Neft Şirkəti büdcəyə, daha “əlverişli” 2008-ci ildə -
+kindən ümumilikdə 117,1 mln. manat çox, yəni 1 mlrd.
+468,9 mln manat vəsait köçürdü. Görünür, burada
+Dövlət başçısının 29 dekabr 2009-cu il Fərmanı ilə is-
+tehlak edilmiş təbii qaza görə əhalinin 1 oktyabr 2009-
+cu il tarixinə Dövlət Neft Şirkətinin “Azəriqaz”
+İstehsalat Birliyinə yaranmış 327,0 milyon manat
+məbləğində borclarının dövlət büdcəsi hesabına silin-
+məsi əhəmiyyətli rol oynadı. Və Şirkət ilin sonuncu
+ayında əvvəlki 11 ayda büdcəyə ödədiyi tədiyyələrin
+yarıdan çoxu (56,9%) həcmində - 532,6 mln manat
+ödəniş etdi. Bununla belə, Şirkət mənfəət vergisi üzrə
+1 mlrd 450 mln manat proqnoza qarşı 1 mlrd. 272,6
+mln. manat ödəmiş oldu. Mənfəət vergisi uzrə Azərbay-
+can Beynəlxalq Əməliyyat Şirkətinin ödənişləri isə daha
+zəif olub, 1 mlrd. 230 mln. manat prognoza qarşı - cəmi
+513,2 mln. manat və ya 2008-ci ildəkindən 1 mlrd.
+636,2 mln. manat (76,1%) az ödədi. 
+Xüsusilə qeyd etmək lazimdir ki, 2009-cu ildə ilk
+dəfə olaraq Neft Fondudan büdcə transferləri Vergilər
+Nazirliyi xətti ilə daxilolmalardan çox oldu.
+Büdcə daxilolmalarının 39,8%-i və ya 4 mlrd.
+113,5 mln. manatı Vergilər Nazirliyi, 10,8%-i və ya 1
+mlrd. 112,7 mln. manatı Dövlət Gömrük Komitəsi
+tərəfindən təmin edilib, 47,6%-i və ya 4 mlrd. 915,0
+mln. manatı Dövlət Neft Fondundan, 1,8%-i və ya
+184,7 mln. manatı isə sair mənbələrdən daxil olub.
+Ümumilikdə 2009-cu il büdcə prognozlarının gəlir
+(12 mlrd. 177 mln. manat) və xərclər ( 12 mlrd. 355
+mln. manat) üzrə müvafiq olaraq 15,2% və 14,5%
+kəsirlə icra olunması nəticəsində bir sıra dövlət pro-
+qramlarının qeyri-müəyyən vaxta ertələnməsinə,
+büdcə təşkilatı işçilərinin əmək haqlarını dondurdul-
+masına gətirib çixartdı. 
+Ötən il Azərbaycanın xarici ticarət dövriyyəsi də
+ürəkaçan olmadı. Rəsmi statistikaya görə, xarici ticarət
+dövriyyəsinin 2,5 dəfədən artıq azalması qeydə alındı.
+Əgər 2008-ci ildə Azərbaycanın ixrac-idxal əməliy-
+Azərbaycan iqtisadiyyatı - 2009
+8
+yatları $54 mlrd. 920 mln. təşkil edirdisə, ötən il bu
+göstərici $20 mlrd. 818 mln.-a qədər azaldı, müsbət
+saldo $8 mlrd. 579 mln. təşkil etdi. Müqayisə üçün
+qeyd edək ki, 2008-ci ildə bu göstərici 4,7 dəfə çox
+olub və $40 mlrd. 593 mln. təşkil edib. Acınacaqlı
+vəziyyət ölkənin qeyri- neft ixracında müşahidə ol-
+undu. Qlobal tələbatın azalması və bunun nəticəsində
+qiymətlərin azalması keyfiyyətcə nisbətən aşağı olan
+Azərbaycan məhsullarının rəqabətliliyini daha da zəi-
+flətdi. Alüminium və ondan hazırlanan məmulatların
+ixracı 10 dəfə, kimya sənayesi məhsullarının ixracı 3
+dəfə, qara metallar və onlardan hazırlanan məmulat-
+ların ixracı 2 dəfə azaldı, hətta meyvə-tərəvəzin də
+ixracında 10%-lik azalma qeydə alındı. 
+Adambaşına düşən qeyri-neft ixracatı 2008-ci
+ildəki $167-dan 2009-cu ildə $124-a enib (2009-cu
+ildə Ermənistanda bu rəqəm $218 olub). Bəzi beynəlx-
+alq maliyyə institutlarının ekspertlərinin fikrincə,
+Azərbaycan adambaşına qeyri-neft ixracatına görə, bir
+sıra kasıb Afrika ölkələrindən də geri qalır və qeyri-
+neft iqtisadiyyatının inkişafı sahəsində həyata keçirilən
+siyasət onların fikrincə səmərəsizdir.
+Qlobal maliyyə-pul bazarlarının sıxıntısı şəraitində
+bankların, milli şirkətlərin xaricdən borclanması, on-
+ların yenidən maliyyələşməsi imkanları nəinki məh-
+dudlaşdı, hətta bir sıra borcların vaxtından əvvəl
+qaytarılması tələb olundu. Belə şəraitdə Azərbaycan
+bankları il ərzində $1,2 mlrd. borc qaytardılar. Bundan
+başqa xaricdə yaşayan soydaşlarımızın regionların
+əhalisi üçün sosial baxımdan xüsusi əhəmiyyət kəsb
+edən pul transferləri də xeyli azaldı. Nəticədə milli
+iqtisadiyyat bəzi qonşu ölkələrdə olduğu kimi, manatın
+devalvasiyası təzyiqləri ilə qarşılaşdı. Bu təzyiqlər
+özünü ötən ilin birinci rübündə - əhalinin devalvasiya
+gözləntilərinin daha çox artdığı (Rusiya və Erməni-
+standaki devalvasiyadan sonra) və bununla da əlaqədar
+pullarının xeyli hissəsini xarici valyutalara çevirdiyi
+şəraitdə - qabarıq şəkildə göstərdi. Milli valyutanın
+stabilliyini qorumaq üçün Mərkəzi Bank xeyli
+resurslar sərf etməli oldu və bu da sonda demək olar
+ki, özünü doğrultdu. Bütövlükdə, il ərzində Mərkəzi
+Bankın xalis emissiyası 1,8 mlrd. manat təşkil etdi. 
+Daxili və xarici maliyyə mənbələrinin azalması
+şəraitində Mərkəzi Bank pul siyasətini ciddi şəkildə
+yumşaltmalı oldu, uçot dərəcəsi 15%-dən 2%-dək
+azaldıldı
+2009-cu il ərzində qanunvericilikdə bir sıra əlavə
+tədbirlər görüldü:
+- sığortalanan əmanətlərin məbləği 5 dəfə artırıldı
+– 6 min manatdan 30 min manata çatdırıldı. 
+- bankların xarici borclarının qaytarılmasını təmin
+etmək üçün onlara zəruri yardım göstərildi. 
+- qanunvericiliklə banklara və sığorta təşkilatlarına
+kapitallaşdırma məqsədi ilə vergi güzəştləri tətbiq ol-
+undu (Nizamnamə kapitalına yönəldilən mənfəət
+vergidən azad edildi), mümkün itkilərlə bağlı banklar
+maliyyə ehtiyatlanmasını artırdı. Bütün bu tədbirlər
+2009-cu ilin birinci rübündə bank sektorunda
+müşahidə edilən gərginliyi aradan qaldırdı, onlarin
+likvidliyini sabitləşdirdi. Azərbaycan bank sektorunun
+beynəlxalq maliyyə bazarlarına məhdud səviyyədə
+qatildığı və Mərkəzi Bankın irimiqyaslı antiböhran
+tədbirləri və birbaşa maliyyə yardımları bank sistemini
+iflasdan qurtarsa da, sığorta, qiymətli kağızlar və lizinq
+bazarı tənəzzülə uğradı və bu proses indi də davam et-
+məkdədir.
+Azərbaycan iqtisadiyyatı - 2009
+9
+MAKROİQTİSADİ
+GÖSTƏRİCİLƏR
+Azərbaycan iqtisadiyyatı - 2009
+10
+2009-cu ildə əvvəlki 3 ildə Azərbaycanda
+müşahidə edilmiş orta illik 22%-lik real iqtisadi
+artım sürəti 9,3%-ə endi. Ölkənin müasir tarixində
+ilk dəfə iqtisadiyyatın real (fiziki) artımı
+qarşılığında ÜDM-in nominal həcminin 21,2%-
+lik azalması qeydə alındı. Bunun əksi olan proes-
+lər ötən əsrin 90-cı illərinin əvvəllərində, ölkədə
+yüksək inflyasiya və hiperinflya siyanın tüğyan et-
+diyi dövrlərdə müşahidə olunmuşdu. Hər iki
+proses istənilən ölkənin iqtisadiyyatı üçün neqativ
+tendensiya göstəricisi olmaqla onun makroiqtisadi
+stabilliyinə xərər gətirəcək amildir. Bu baxımdan
+Ümumi Daxili Məhsul istehsalı
+Diaqram 1. ÜDM-in real və nominal artım dunamikası (illər üzrə, manatla və faizlə)
+Diaqram 2. 2009-cu ildə neft və qeyri-neft ÜDM-nin artım dinamikası (aylar üzrə, faizlə)
+ÜDM-in artım 
+dinamikası (%)
+Qeyri-neft 
+ÜDM-nin artım 
+dinamikası (%)
+Neft ÜDM-nin
+artım dinamikası
+(%)
+Azərbaycan iqtisadiyyatı - 2009
+11
+2009-cu ili ölkə iqtisadiyyatı üçün
+ağır illər sayılan ötən əsrin 90-cı
+illərinin əvvəlləri ilə müqayisə et -
+mək olar. 2009-cu ildə, 2008-cu
+il dəki 40,1 mlrd. manatlıq ÜDM-
+ə qarşı, faktiki qiymətlərlə 34,6
+mlrd. manat həcmində ÜDM is-
+tehsal olundu. ÜDM-in real
+artımının 9,3% səviyyəsində
+qərarlaşmasında neft sektorunda
+formalaşan ÜDM-in 14,3%-lik və
+həcmcə ondan kiçik olan qeyri-
+neft ÜDM-nin 3,2%-lik artımı
+səbəb oldu.
+Adambaşına duşən ÜDM
+2008-ci ildəki 4604 manatdan ($5603), 2009-cu
+ildə 3917 manata ($4874) qədər azaldı. ÜDM-in
+həcminin azalması dunya maliyyə-iqtisadi
+böhranı nəticəsində ölkənin əsas ixracatı olan
+neftin qiymətinin düşməsi və qeyri-neft sektoru-
+nun zəif inkişaf sürəti ilə bağlıdır. 
+2009-cu ildə Azərbaycan iqtisadiyyatının
+qeyri-neft sektorunda 15 mlrd. 683 mln. manatlıq,
+neft sektorunda isə 16 mlrd. 257 mln. manatlıq
+ÜDM istehsal edildi. Məhsula və idxala xalis
+vergilər isə ÜDM-də 2 mlrd. 639 mln. manat
+təşkil etdi. 
+İstehsal edilmiş ÜDM-in 64,1%-i iqtisadiyya -
+tın istehsal, 28,3%-i xidmət sahələrinin payına
+düşüb, məhsula və idxala görə ödənilmiş xalis
+vergilər isə ÜDM-in 7,6%-ni təşkil edib.
+ÜDM-in 50,0%-i sənayedə, 6,7%-i kənd təsər-
+rüfatı, ovçuluq və meşə təsərrüfatında, 7,4%-i tik-
+intidə, 6,6%-i nəqliyyat və anbar təsərrüfatında,
+2,0%-i poçt və rabitədə, 7,0%-i topdan və
+pərakəndə ticarət avtomobillərinin, məişət məmu-
+latlarının və şəxsi istifadə əşyalarının təmiri üzrə
+xidmətlər, 1,0%-i mehmanxana və restoran xid-
+mətləri, 11,7%-i isə sosial və digər xidmətlər
+göstərən sahələrdə istehsal olunub.
+Neftin dunya bazar qiymətlərinin aşağı
+düşməsi nəticəsində iqtisadiyyatın qeyri-neft
+sahələrində yaradılmış əlavə dəyərin ÜDM-də xü-
+susi çəkisi 2008-ci ildəkinə nisbətən 7,5 faiz bəndi
+artaraq 45,4% təşkil etdi, neft sektorunun payı isə
+47% səviyyəsində qərarlaşdı.
+Cədvəldən göründüyü kimi məhsul istehsalı
+sahələrindəki 10%-lik artım məhz sənayedəki
+12,8%-lik artım hesabına formalaşıb, cünki
+UDM-də daha böyük xüsusi çəkiyə malik olan
+tikinti sektorunun tənəzzülü xüsusi çəkisi ondan
+kiçik olan kənd təsərrüfatındaki artimdan daha
+çox olub. Öz növbəsində, sənayedəki əlavə
+dəyərin artımı mədənçixarma sənayesində
+müşahidə olunan artım hesabına, daha doğrusu
+neft hasilatiının yüksəlməsi nəticəsində baş verib,
+çünki sənayenin digər iki sferasında ötən il tənəz-
+zül qeydə alınıb (bax: Sənaye bölməsinə). Belə-
+liklə kənd təsərrüfatındakı 3,5%-lik artıma
+Cədvəl 1. 2009-cu ildə neft və qeyri-neft ÜDM-nin artım dinamikası (aylar üzrə, faizlə)
+I II III IV V VI VII VIII IX X XI XII
+ÜDM artımı (%) -2.6 3.4 4.1 4.3 4.4 3.6 2.7 5.0 6.1 8.3 9.0 9.3
+Qeyri-neft ÜDM-nin
+artımı (%)
+2.8 13.9 13.7 8.4 6.6 4.1 3.6 1.5 0.8 1.1 1.0 3.2
+Neft ÜDM-nin 
+artımı (%)
+-6.8 -2.8 -2.1 2.0 3.3 3.4 2.3 7.4 9.6 13.6 15.1 14.3
+Diaqram 3. 2009-cu ilin yanvar-dekabr aylarında ÜDM-in strukturu
+Azərbaycan iqtisadiyyatı - 2009
+12
+baxmayaraq, ümumilikdə neftdənkənar məh-
+sulların istehsalı sahəsində, UDM-in real
+artımının olmadığını görmək olar. İqtisadiyyatın
+qeyri-neft sektorundakı artımı isə əsasən böhran-
+dan xeyli az zərər çəkmiş xidmət sahələrindəki -
+poçt və rabitədəki 13,1%-lik, nəqliyyatdakı 9,3%-
+lik, ticarətdəki 8,9%-lik, sosial və digər xidmətlər
+sahəsindəki 7,7%-lik artım hesabına formalaşıb.
+2007 2008 2009
+ÜDM, mln. AZN 
+Artım dinamikası, %-lə
+28 360.5
+25.0
+40 137.2
+10.8
+34 578.7
+9.3
+Adambaşına düşən ÜDM, dollarla 3 474 5 603 4 874.1
+Neft ÜDM-i, mln.AZN 
+Artım dinamikası, %-lə 
+15 411.7
+36.8
+22 251.3
+6.8
+16 527.3
+14.3
+Qeyri-neft ÜDM-i, mln.AZN 
+Artım dinamikası, %-lə
+9 533.9
+11.4
+15 197.2
+15.9
+15 683.2
+3.2
+İnflyasiya, % 
+Aylıq, 12 aylıq (İllik) 
+orta illik
+19.6
+16.7
+15.4
+20.8
+0.6
+1.5
+Əhalinin gəlirləri, artım dinamikası, %-lə 40.3 37.8 8.0
+Orta aylıq əməkhaqqı, AZN 
+Artım dinamikası, %-lə
+214.0
+42.0
+274.4
+24.2
+298.0
+8.6
+Cədvəl 2. Son üç ilin əsas makroiqtisadi göstəriciləri
+Azərbaycan iqtisadiyyatı - 2009
+13
+Maliyyə-iqtisadi böhran nəticəsində yaşadığımız əsrin əvvəlindən əsas kapitala yönəldilmiş investisiyaların
+orta illik 34%-lik artımı 2009-cu ildə 18,7%-lik azalma ilə yadda qaldı. Qlobal tələbatın azalması fonunda
+ixrac mallarının və xüsusən xam neft və neft məhsulları qiymətinin aşağı düşməsilə və qlobal likvidlik çatış-
+mazlığının Azərbaycanın maliyyə sektorunun xaricdən borclanması imkanlarını məhdudlaşdırması ilə qlobal
+böhran Azərbaycan iqtisadiyyatına öz təsirini yetərincə göstərdi. 
+Ümumilikdə qlobal ÜDM daralması ilə tamamlan-
+mış 2009-cu ildə, Azərbaycan da 9,3 mlrd. manatlıq
+ÜDM daralmasına məruz qaldı. Nəticədə daxili in-
+vestisiya qoyuluşları, o cümlədən müəssisə və təşki-
+latların gəlirlərinin azalması nəticəsində kapital
+qoyuluşları və bununla yanaşı büdcə daxilolmalarının
+aşağı düşməsi səbəbindən dövlət investisiya qoyu-
+luşları azaldı. Digər tərəfdən, maliyyə resurslarına
+çıxış imkanlarının məhdudlaşması xarici investisiya
+axınlarını daraltdı. Milli iqtisadiyyat xarici in-
+vestisiyaların 1/3-ni itirməklə yanaşı, daxili in-
+vestisiyaların həcmi də 14,2% azaldı. 
+2009-cu ildə ölkənin iqtisadi və sosial sahələrinin
+inkişafı üçün bütün maliyyə mənbələrindən əsas kapitala
+7 mlrd. 358,7 mln. manat investisiya yönəldilib. Dövlət
+mülkiyyətinə məxsus müəssisə və təşkilatlar inşaat
+işlərinə 4 mlrd. 433,9 mln. manat, qeyri-dövlət müəs-
+sisələri 2 mlrd. 924,8 mln. manat vəsait sərf ediblər. İs-
+tehsal təyinatlı obyektlərin inşasında 5 mlrd. 455,1 mln.
+manatlıq, qeyri-istehsal təyinatlı obyektlərin tikintisində
+1 mlrd. 903,6 mln. manatlıq investisiyadan istifadə
+edilib. 
+Əsas kapitala yönəldilmiş vəsaitin 79,9%-ni daxili
+investisiyalar, 20,1%-ni isə xarici investisiyalar təşkil
+edib. Daxili investisiyaların isə 70,4%-i dövlət
+mülkiyyətinə məxsus müəssisə və təşkilatların,
+29,6%-i qeyri-dövlət mülkiyyətinə məxsus müəs-
+sisələrin payına düşüb. 2009-cu ildə əsas kapitala
+yönəldilmiş ümumi investisiyanın 5374,1 mln. manatı
+və ya 73%-i qeyri-neft bölməsinin, 1984,6 mln. man-
+atı və ya 27%-i neft bölməsinin payına düşüb.
+2009-cu ildə büdcədən maliyyələşdirilməsi nəzərdə
+tutulmuş inşaat işlərini həyata keçirmək üçün dövlət büd-
+cəsindən 4 mlrd. 718 mln. manat vəsaitin ayrılması plan-
+laşdırılmışdı. Ancaq ilboyu büdcənin icra olunmaması bu
+mənbədən investisiyaların azalmasına gətirib çıxartdı və
+nəticədə nəzərdə tutulmuş məbləğin yalnız 53%-dən və
+ya 2 mlrd. 498 mln. manatından istifadə edildi. 
+Əsas kapitala yönəldilmiş sərmayənin ümumi həc-
+mində müəssisə və təşkilatların vəsaitləri 3 mlrd. 521,9
+mln. manat və ya ümumi investisiyaların 47,9%-i,
+bank kreditləri 384,7 mln. manat (5,2%-i), büdcə və-
+saitləri (o cümlədən yerli büdcələrin vəsaitləri) 2 mlrd.
+İnvestisiyalar
+İllər 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Əsas kapitala
+yönəldilmiş in-
+vestisiyalar
+82 212 139 123 98 103 121 184 174 135 117 115 124 132 81.3
+Cədvəl 3. 1995-2009-cu illərdə əsas kapitala yönəldilmiş investisiyalar (əvvəlki ilə nisbətən faizlə)
+Diaqram 5. Neft və qeyri-neft sahələri üzrə 
+investisiya bölgüsü
+Qeyri-neft
+73%
+Neft
+27%
+Diaqram 4. Əsas kapitala qoyulmuş investisi yaların
+mənbələri
+Dövlət
+56.2%
+Qeyri-dövlət
+23.7%
+Xarici
+20.1%
+Azərbaycan iqtisadiyyatı - 2009
+14
+Cədvəl 4. Əsas kapitala yönəldilmiş investisiyaların maliyyə mənbələri üzrə strukturu
+Cədvəl 5. Əsas kapitala yönəldilmiş investisiyaların sahələr üzrə strukturu
+2009-cu ildə, mln.
+manat
+Əvvəlki ilə nisbə -
+tən, %-lə (müqa -
+yisəli qiymətlərlə)
+Ümumi 
+həcmdə xüsusi 
+çəkisi, %-lə
+Cəmi 7 358.7 81.3 100.0
+o cümlədən: 
+Müəssisə və təşkilatların vəsaitləri
+3 521.9 86.7 47.9
+Bank kreditləri 384.7 110.5 5.2
+Büdcə vəsaitləri 2 678.0 72.1 36.4
+Büdcədənkənar fondların vəsaitləri 473.9 75.8 6.4
+Əhalinin şəxsi vəsaiti 299.7 103.3 4.1
+Digər vəsaitlər 0.5 10.1 0
+678,0 mln. manat (36,4%-i), büdcədənkənar fondların
+vəsaitləri 473,9 mln. manat (6,4%-i), əhalinin şəxsi və-
+saitləri 299,7 mln. manat (4,1%-i), digər vəsaitlər isə
+0,5 mln. manat təşkil edib. 
+Maliyyə mənbələri üzrə əsas kapitala yönəldilmiş
+investisiyadan istifadə yuxarıdakı kimi olub (Cədvəl 4)
+İl ərzində əsas kapitala yönəldilmiş bütün in-
+vestisiyanın 40,9%-i sənaye sahələrinin inkişafına,
+3,5-%-i kənd təsərrüfatına, 0,1%-i balıqçılığa, 0,4%-i
+tikintiyə, 2,9%-i ticarət və xidmətə, 0,7%-i mehmanx-
+ana və restoranlara, 23,8-%-i nəqliyyata, 1,9%-i ra-
+bitəyə, 0,2%-i maliyyə sektoruna, 10,9%-i daşınmaz
+əmlakla əlaqədar əməliyyatlara (ondan 8,8%-i mənzil
+tikintisinə), 7,1%-i dövlət idarəetməsinə, 1,5%-i təh-
+silə, 2,1%-i səhiyyəyə, 4,0%-i digər kommunal, sosial
+və şəxsi xidmətlərin göstərilməsi sahələrinə sərf edilib. 
+Sahələrin adı
+2009-cu ildə,
+mln. manatla
+2009/2008, %-lə
+(müqayisəli
+qiymətlərlə)
+Xüsusi çəkisi,
+%-lə
+CƏMİ 7 358.7 81.3 100.0
+O cümlədən: Dövlət bölməsi 4 433.9 78.3 60.3
+Qeyri-dövlət bölməsi 2924.8 86.4 39.7
+Kənd təsərrüfatı 254.0 75.7 3.5
+Sənaye 3 009.3 75.1 40.9
+O cümlədən: I. Mədənçıxarma sənayesi 2 013.6 73.0 27.4
+II. Emal sənayesi 338.9 89.2 4.6
+III. Elektrik enerjisi, qaz və suyun 
+istehsalı və bölüşdürülməsi
+656.8 75.5 8.9
+Ticarət və şəxsi istifadə əşyalarının təmiri 215.9 2.5 2.9
+Nəqliyyat 1 749.6 93.3 23.8
+Rabitə 142.2 88.4 1.9
+Daşınmaz əmlak əməliyyatları 802.2 98.6 10.9
+Ondan: mənzil tikintisi 644.8 97.3 8.8
+Dövlət idarəetməsi 525.5 67.6 4.1
+Təhsil 106.3 37.8 1.5
+Səhiyyə və sosial xidmətlər 155.8 61.0 2.1
+Digər kommunal, sosial və şəxsi 
+xidmətlərin göstərilməsi
+295.7 72.2 4.0
+Azərbaycan iqtisadiyyatı - 2009
+15
+Əsas kapitala yönəldilmiş in-
+vestisiyanın həcmi iqtisadiyyatın
+sahələri üzrə Cədvəl 5-dəki kimi xarak-
+terizə olunur.
+Əvvəlki illərdə olduğu kimi, 2009-cu
+ildə də Azərbaycan iqtisadiyyatına
+yatırılmış investisiyaların əsas hissəsi
+paytaxtın payına düşüb. Ötən il bütün
+maliyyə mənbələrindən Bakıda iqti-
+sadiyyatın inkişafına 4 mlrd. 443 mln
+manat və ya ölkə iqtisadiyyatının müx-
+təlif sahələrinə yönəldilən bütün in-
+vestisiyaların 60,3%-i qoyulub. Ötən il
+Azərbaycan iqtisadiyyatına in-
+vestisiyalar 18,7% azaldığı halda, pay-
+taxtda investisiya yatırımları daha çox,
+25,4% azalıb. Bu isə əsasən, neft sek-
+toruna qoyulan investisiyaların daral-
+ması ilə bağlıdır. 
+Qalan investisiyalar ölkənin iqtisadi rayonları üzrə
+belə bölünüb:
+- Abşeron iqtisadi rayonu – 2,3%;
+- Gəncə-Qazax iqtisadi rayonu -4,6%; 
+- Quba-Xaçmaz – 4,1%;
+- Aran – 5,4%;
+- Naxçıvan – 5,6%. 
+İnvestisiyaların 13,3%-nin iqtisadi rayonlar üzrə
+bölğüsünü aparmaq hökumətə mumkün olmayıb,
+qalan 4,4% yatırımlar isə digər 5 iqtisadi rayonun
+payına düşüb.
+2009-cu ildə Sumqayıt şəhərində 525 MVt gücündə
+Elektrik Stansiyası, Gədəbəy Qızıl-mis emalı və
+Hacıqabul Kərpic zavodları, Quba rayonunda modul
+tipli “Şahdağ” Elektrik stansiyası, Bakıda “Azadlıq
+prospekti” Metro stansiyası, Beynəlxalq Avtovağzal
+Kompleksi, Şərur rayonunda Asfalt-beton zavodu,
+Naxçıvan şəhərində və Şərur rayonunda meyvə-tərəvəz
+saxlamaq üçün soyuducu anbarlar, ölkənin müxtəlif
+bölgələrində 288,5 kilometr uzunluğunda fiber-optik
+magistral kabel xətti, bütün maliyyə mənbələri
+hesabına ümumi sahəsi 1363,3 min kvadrat metr olan
+yeni yaşayış evləri, 20 622 şagird yerlik ümumtəhsil
+məktəbi, Şəmkir, İsmayıllı və Şərur rayonlarında
+Olimpiya İdman kompleksləri istifadəyə verilib. 
+2009-cu ildə xarici mənbələrdən əsas kapitala
+yönəldilmiş investisiyanın həcmi son 8 ildə ən aşağı
+səviyyəyə düşərək 1 mlrd. 477,3 mln. manat təşkil
+edib. Əvvəlki ilə nisbətən Azərbaycan iqtisadiyyatı
+xarici investisiyaların 1/3-ni itirib. Bunu bir tərəfdən
+neft sektoruna yatırımların azalması ilə əlaqələn dir -
+mək olarsa, dıgər tərəfdən birbaşa qlobal maliyyə-iqti-
+sadi böhranın təsiri kimi qiymətləndirmək
+müm kündür. :
+Diaqram 6. 2009-cu ildə əsas kapitala yönəldilmiş investisiyanın
+xarici ölkələr və beynəlxalq təşkilatlar üzrə strukturu (%) 
+Diaqram 7. 2009-cu ildə əsas kapitala yönəldilmiş daxili və xarici investisiyalar (milyon manat) 
+ABŞ
+Yaponiya
+Norveç
+Türkiyə Fransa
+Çexiya Beynəlxalq təşkilatlar
+Böyük Britaniya
+Almaniya
+Azərbaycan iqtisadiyyatı - 2009
+16
+Rəsmi məlumatlara görə, Azərbaycanda 2009-cu
+ilin ilk ayında deflyasiya qeydə alınıb. İstehlak
+Qiymətləri İndeksi (İQİ) yanvarda əvvəlki aya nis-
+bətən -0.6%, fevralda -0.8%, martda -0.7%, apreldə və
+mayda -0.2%, iyunda isə -0.6% olub. İlin ikinci
+yarımilindən başlayaraq dekabr da daxil olmaqla in-
+flyasiya prosesləri müşahidə olunub. İQİ iyulda 0.8%,
+avqustda 0.1%, sentyabrda və oktyabrda 0.4%,
+noyabrda 1.3%, dekabrda isə 0.8% səviyyəsində qeydə
+alınıb. İl ərzində İQİ 2.1 faiz bəndi (-0.8 və +1.3) ar-
+alığında tərəddüd edib. Ötən il deflyasiyanın və infly-
+asiyanın aşağı səviyyəsinin qeydə alınması ilk
+növbədə qlobal maliyyə böhranı nəticəsində istehlak
+bazarına təzyiqin azalması ilə bağlıdır. Böhran
+başlanandan sonra neftin dünya bazar qiymətlərinin
+kəskin enməsi nəticəsində ölkəyə daxil olan neft
+pullarının azalması, istehsal sahələrində durğunluğun
+müşahidə olunması əhalini gəlirlərini daha qənatlə xər-
+cləməyə məcbur etdi ki, bu da son nəticədə məcmu
+tələbin daralmasına gətirdi. Qonşu Rusiyanın böhran-
+dan daha çox ziyan görən ölkələr siyahısında olması
+bu ölkədə çalışan həmvətənlilərimizin də gəlirlərinin
+azalmasına yol açdı. Nəticədə Rusiyadan daxil olan
+pulların məbləğində də əhəmiyyətli azalma müşahidə
+olundu. Bütün bunlarla yanaşı, Mərkəzi Bankın man-
+atın məzənnəsi saxlamağa yönəlmiş fəaliyyəti də
+ölkədə inflyasiyanın cilovlanmasına imkan verdi.
+Nəticədə 2008-ci ildəki 20.8%-lik inflyasiyaya qarşı
+2009-cu ildə 1.5%-lik inflyasiya qeydə alındı.
+Müqayisə üçün deyək ki, 2009-cu ildə Ukraynada
+12.3%-lik, Belorusda 10.1%-lik, Rusiyada isə 8.8%-
+lik inflyasiya qeydə alınıb. 2009-cu ildə Azərbaycanın
+ən iri ticarət partnyoru olan Avropa Birliyində isə İQİ
+1.4% təşkil edib. 
+Rəsmi məlumata görə, 2009-cu ilin dekabr ayında
+istehlak mallarının qiymətləri və xidmət tarifləri
+əvvəlki aya nisbətən 0,8%, yanvar-dekabr aylarında
+əvvəlki ilin müvafiq dövrünə nisbətən isə 1,5% baha-
+laşıb. 2009-cu ilin yanvar-dekabr aylarında ərzaq məh-
+sulları, içkilər, tütün üzrə 2008-ci ilin yanvar-dekabr
+aylarına nisbətən 1.5%-lik ucuzlaşma, qeyri-ərzaq
+məhsulları üzrə 3.4%-lik bahalaşma, xidmətlər üzrə
+isə 7.1%-lik qiymət artımı qeydə alınıb.
+Dövlət Statsitika Komitəsinin rəsmi məlumatına
+görə, ölkənin iqtisadi rayonları üzrə 2009-cu ilin yan-
+var-dekabr aylarında əvvəlki ilin müvafiq dövrünə nis-
+bətən istehlak qiymətləri indeksinin dəyişməsində
+cəmi mallar və xidmətlər üzrə ən yüksək göstərici
+Bakıda (3.4%) və Lənkəranda (2.6%) müşahidə ol-
+unub. Ən aşağı göstərici isə Naxçıvanda qeydə alınıb
+(-2.7%)
+İqtisadi Tədqiqatlar Mərkəzinin 2009-cu ildə Azər-
+baycanın 11 regionunda apardığı hesablamalara görə
+isə, ötən ilin son ayında Azərbaycanda istehlak
+qiymətləri indeksi 0.93% artıb. Qeyd olunan dövrdə
+Bakıda qiymətlər regionlara nisbətən 4 dəfədən də çox
+bahalaşıb – 1.54%. Regionlarda isə bu dövrdə cəmi
+0.33%-lik artım müşahidə olunub. 2009-cu ilin
+dekabrında ən yüksək bahalaşma 1.72% olmaqla ərzaq
+məhsullarında qeydə alınıb.
+İTM-in statistik müşahidələri göstərib ki, 2009-cu
+il ərzində (yanvar-dekabr) Azərbaycanda 0.56%-lik in-
+flyasiya baş verib. Bu zaman Bakıda 2.67%-lik baha-
+İnflyasiya
+Cədvəl 6. İstehlak qiymətləri indeksi
+Aylar
+Əvvəlki aya
+nisbətən, % 
+İlin əvvəlindən
+əvvəlki ilin mu-
+vafiq dovrunə
+nisbətən, % 
+2008
+I 2.5 15.3
+II 2.2 15.7
+III 3.1 16.5
+IV 3.1 17.8
+V 2.3 19.2
+VI 0.1 20.2
+VII -0.3 20.9
+VIII 0.0 21.3
+IX 0.9 21.5
+X 0.8 21.6
+XI 0.1 21.4
+XII -0.4 20.8
+2009
+I -0.6 11.9
+II -0.8 10.3
+III -0.7 8.4
+IV -0.2 6.6
+V -0.2 4.9
+VI -0.6 3.7
+VII 0.8 3.1
+VIII 0.1 2.6
+IX 0.4 2.1
+X 0.4 1.7
+XI 1.3 1.5
+XII 0.8 1.5
+Azərbaycan iqtisadiyyatı - 2009
+17
+laşma, regionlarda isə 1.50%-lik ucuzlaşma olub. Bu
+dövrdə istehlak səbəti üzrə ən yüksək göstərici olan
+9.59%-lik bahalaşma xidmət sektorunda qeydə alınıb.
+Mərkəzi Bankda aparılan tədqiqatlar göstərir ki,
+Azərbaycana xaricdən inflyasiya həm hazır istehlak
+malları vasitəsilə (birbaşa təsir), həm də aralıq istehlak
+məhsulları vasitəsilə (dolayı təsir) idxal olunur. Hazır
+istehlak mallarının qiymətləri tərəfdaş ölkələrdəki in-
+flyasiyadan və manatın nominal effektiv məzənnəsinin
+dəyişməsindən təsirlənir.
+Son illər ölkədə bir çox yeyinti sənayesi sahəsinin
+inkişafı ilə əlaqədar olaraq aralıq istehlak mallarının
+idxalı da artıb ki, onların da qiymətlərinin dəyişməsi
+istehsalın maya dəyərinə və yekunda hazır məhsulun
+qiymətinə təsir göstərib. Müəyyən olunub ki, son bir
+ildə Azərbaycana xaricdən inflyasiya idxalının 60%-i
+birbaşa təsirlə, 40%-i isə dolayı təsirlə izah olunur. Bu
+amil 2009-cu ildə məzənnə siyasətinin formalaş-
+masında nəzərə alınıb.
+2009-cu ildə ilk dəfə olaraq İQİ və ÜDM deflya-
+toru kəskin fərqləndi. 1.5%-lik İQİ qeydə alınsa da,
+ÜDM deflyatoru 20%-in altında oldu. ÜDM deflya-
+torunun belə enməsi isə istehsalçı qiyməti indeksi ilə
+bağlı olub.
+Dövr ərzində sənaye sahələrində orta illik istehsalçı
+qiymətləri (SİQİ) 19.2% aşağı düşüb. Orta illik SİQİ-
+nin aşağı düşməsi əsasən qeyri-neft sektorunda is-
+tehsalçı qiymətlərinin azalması ilə əlaqədardır.
+Qeyri-neft sektorunda istehsalçıların qiymət in-
+deksinin enməsində isə emal sənayesi sahələri başlıca
+Cədvəl 7. Qiymət və tariflərin məcmu və qruplar üzrə indeksləri
+2009-cu ilin dekabr ayı
+2009-cu ilin noyabr ayına 
+nisbətən
+2009-cu ilin yanvar-dekabr ayları
+2008-ci ilin yanvar-dekabr 
+aylarına nisbətən
+Cəmi mallar və xidmətlər üzrə 100.8 101.5
+Ərzaq məhsulları, içkilər, tütün 101.4 98.5
+Qeyri-ərzaq malları 100.2 103.4
+Xidmətlər 100.0 107.1
+Diaqram 8. 2009-cu ildə aylıq İQİ üzrə DSK və İTM-in məlumatlarının müqayisəsi
+Azərbaycan iqtisadiyyatı - 2009
+18
+amil olub. Belə ki, il ərzində emal sənayesi sahələrində
+istehsalçı qiymətləri 7.3% ucuzlaşıb.
+Rəsmi məlumatlara görə, ötən ilin dekabr ayında
+kənd təsərrüfatı məhsullarının istehsalçı qiymətləri in-
+deksi əvvəlki aya nisbətən 1,0% bahalaşıb, yanvar-
+dekabr aylarında isə 2008-ci ilin müvafiq dövrünə
+nisbətən 0,3%-lik qiymət artımı qeydə alınıb. Bitkiçi-
+lik, bostançılıq və bağçılıq məhsullarının istehlsaçı
+qiymətlərində 2009-cu ilin yanvar-dekabr aylarında
+2008-ci ilin müvafiq dövrünə nisbətən 2.9%-lik ucu-
+zlaşma, Diri mal-qara və heyvandarlıq məhsullarında
+0.4%-lik qiymət artımı, meşə təsərrüfatında isə 2.6%-
+lik bahalaşma müşahidə olunub.
+Manatın real effektiv məzənnə indeksi 2009-cu il
+ərzində 5.5% ucuzlaşıb ki, bu da ölkənin rəqabət qa-
+biliyyətinin artmasına gətirib çıxarıb. Manatın sabitliyi
+əhalinin yığımlarının dəyərsizləşməsinin qarşısını alıb
+və ölkədən kapitalın axınına imkan verməyib. Bütün-
+lükdə inflyasiya və məzənnə dəyişmələri 2009-cu ildə
+Azərbaycanda makroiqtisadi sabitliyin qorunmasına
+xidmət edib.
+Cədvəl 8. İstehlak Qiymətləri İndeksinin dəyişməsi (2009-cu ilin yanvar-dekabr aylarında əvvəlki ilin müvafiq
+dövrünə nisbətən, faizlə)
+Cəmi mallar və
+xidmətlər üzrə
+Ərzaq məh-
+sulları, içkilər,
+tütün
+Qeyri-ərzaq 
+malları
+Xidmətlər
+Bakı şəhəri 103,4 99,7 103,1 111,1
+Abşeron 100,2 97.8 104,6 103,8
+Gəncə-Qazax 101,7 98,8 103,6 107,3
+Şəki-Zaqatala 100,4 99,1 101,3 103,9
+Lənkəran 102,6 100,4 105,9 105,8
+Quba-Xaçmaz 101,3 97,1 107,4 107,1
+Aran 100,6 97,5 103,5 105,1
+Yuxarı Qarabağ 99,6 96,5 104,9 104,9
+Dağlıq Şirvan 99,5 97,7 97,9 106,4
+Naxçıvan 97,3 95,0 98,1 102,4
+Azərbaycan iqtisadiyyatı - 2009
+19
+Ötən il Azərbaycanın xarici ticarət dövriyyəsinin 2,5 dəfədən artıq azalması qeydə alındı. Əgər 2008-ci ildə
+Azərbaycanın ixrac-idxal əməliyyatları $54 mlrd. 920 mln. təşkil edirdisə, 2009-cu ildə bu göstərici $20 mlrd.
+818 mln.-a düşdü. Azərbaycandan ixrac 3,2 dəfədən artıq - 2008-ci ildəki $47 mlrd. 756 mln.-dan 2009-cu ildə
+$14 mlrd. 698,5 mln.-a qədər - azaldı. Azərbaycana idxal isə cəmi 14,6% azalaraq, $6 mlrd. 119 mln. təşkil
+etdi. İxracın əhəmiyyətli dərəcədə azalmasına baxmayaraq, ölkənin aktiv ticarət saldosu qorunub saxlandi.
+2009-cı ildə Azərbaycanın xarici ticarətində müsbət saldo $8 mlrd. 579 mln. oldu. Müqayisə üçün qeyd edək
+ki, 2008-ci ildə bu göstərici 4,7 dəfə çox qeydə alınıb və $40 mlrd. 593 mln. təşkil edib.
+2009-cu ildə Azərbaycanda qeydiyyatda olan hüquqi
+və fiziki şəxslər dünyanın 137 ölkəsindəki tərəfdaşları
+ilə idxal-ixrac əməliyyatları aparıblar. Ticarət
+əlaqələrinin 70,6%-i ixracın, 29,4%-i isə idxalın
+hesabına formalaşıb. Mal mübadiləsinin 89,6%-i, o
+cümlədən ixracın 91,7%-i və idxalın 84,5%-i sərbəst
+dönərli valyuta sövdələşmələri yolu ilə həyata keçirilib.
+İxrac-idxal əməliyyatlarının 53,3%-i Avropa,
+32,1%-i Asiya, 13,5%-i Amerika, 1,1%-i Afrika qitəsi
+ölkələrinin və Okeaniyanın payına düşüb.
+Azərbaycan ixrac əməliyyatlarının 25,8%-ni
+İtaliya, 11,9%-ni ABŞ, 9,0%-ni Fransa, 8,4%-ni İsrail,
+5,1%-ni Rusiya, 4,6%-ni Tayvan (Çinin əyaləti),
+4,5%-ni İndoneziya, 4,0%-ni Kanada, 2,7%-ni Gür-
+cüstan, 2,6%-ni Malayziya, 2,2%-ni İspaniya, 1,8%-
+ni Hindistan, 17,4%-ni isə digər ölkələrlə aparıb.
+Xarici ölkələrə göndərilən malların 92,8%-ni mine ral
+məhsullar, o cümlədən 91,7%-ni xam neft və neft emalı
+məhsulları, 3,6%-ni ərzaq malları, 1,2%-ni quru, hava və su
+nəqliyyatı vasitələri, 0,8%-ni az qiymətli metallar və onlar-
+dan hazırlanmış məmulatlar, 0,4%-ni plastik kütlə, kauçuk,
+rezin və onlardan hazırlanmış məmulatlar, 0,3%-ni toxucu-
+luq materialları və məmulatları, 0,2%-ni kimya sənayesi
+məhsulları, 0,2%-ni maşın və mexanizmlər, elektrotexnika
+avadanlığı, qalan 0,5%-ni isə digər mallar təşkil edib. 
+Qlobal tələbatın azalması nəticəsində qiymətlərin en-
+məsi keyfiyyətcə aşağı olan Azərbaycan məhsullarının
+rəqabətliliyini daha da zəiflətdi. Alüminium və ondan hazır-
+lanan məmulatların ixracı 10 dəfə, kimya sənayesi məh-
+sullarının ixracı 3 dəfə, qara metallar və onlardan hazırlanan
+məmulatlarin ixracı isə 2 dəfə azaldı, hətta meyvə-tərəvəzin
+də ixracında 10%-lik azalma qeydə alındı. 
+Adambaşına düşən qeyri-neft ixracatı 2008-ci ildəki
+$167-dan 2009-cu ildə $124-a endi. Bəzi ekspertlərin
+hesablamalarına görə, Azərbaycan adambaşına qeyri-
+neft ixracatına görə, bir sıra kasıb Afrika ölkələrindən
+də geri qalır. Onların fikrincə, qeyri-neft iqtisadiyyatının
+inkişafı sahəsində həyata keçirilən siyasət səmərəsizdir. 
+Ötən il 2008-ci illə müqayisədə bitki mənşəli məh-
+sulların ixracı 10,3%, mineral məhsullar 70,6%, kimya
+sənayesi məhsulları 68,7%, plastik kütlə, kauçuk, rezin
+və onlardan hazırlanmış məmulatlar 50,9%, az
+qiymətli metallar və onlardan hazırlanmış məmulatlar
+66,7%, maşın və mexanizmlər, elektrotexnika avadan-
+lığının ixracı isə 35,9% azalıb, heyvan və ya bitki
+mənşəli piylər və yağların ixracı 4,4%, hazır ərzaq
+Xarici ticarət
+Cədvəl 9. MDB və digər ölkələrlə idxal - ixrac əməliyyatlarinin dinamikası (əvvəlki ilə nisbətən % -lə) 
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+MDB ölkələrinə ixrac 104 102 130 61 91 111 95 109 136 185 147 103 119 147 101
+Digər ölkələrə ixrac 93 97 118 93 192 210 139 92 117 133 115 158 91 931 29
+MDB ölkələrindən idxal 47 149 103 115 80 115 119 146 131 141 120 145 91 123 80
+Digər ölkələrdən idxal 150 141 71 152 106 112 124 103 175 130 119 115 120 127 88
+Avropa 
+53.3%
+Asiya 
+32.1%
+Amerika 
+13.5%
+Diaqram 9. İxracın coğrafiyası
+Diaqram 10. İxracın strukturu
+Afrika və
+Okeaniya
+1.1%
+Mineral məhsullar
+92.8%
+Ərzaq malları 3.6%
+Digər
+2.4%
+Nəqliyyat 
+vasitələri 
+1.2%
+Azərbaycan iqtisadiyyatı - 2009
+20
+məhsulları, spritli və spirtsiz içkilər, sirkə, tütün 9,1%,
+toxuculuq materialları və məmulatları isə 3,2% artıb.
+İdxal əməliyyatlarının 17,5%-i Rusiya, 14,8%-i
+Türkiyə, 9,0%-i Almaniya, 8,4%-i Ukrayna, 7,9%-i Çin,
+4,5%-i Böyük Britaniya, 4,3%-i ABŞ, 2,4%-i Yaponiya,
+2,3%-i Fransa, 2,2%-i Belarus, 2,1%-i İtaliya, 2,0%-i
+Koreya Respublikası, 1,9%-i İsveç, 1,9%-i Braziliya,
+1,5%-i İsveçrə, 17,3%-i isə digər ölkələrlə aparılıb. 
+2009-cu ildə ölkəmizə gətirilən məhsulların 34,8%-ni
+maşın və mexanizmlər, elektrotexnika avadanlığı, 15,7%-
+ni ərzaq malları, 12,8%-ni quru, hava və su nəqliyyatı va-
+sitələri, 10,8%-ni az qiymətli metallar və onlardan
+hazırlanmış məmulatlar, 6,6%-ni kimya sənayesi məh-
+sulları, 3,5%-ni optik, fotoqrafik, tibbi, digər cihaz və
+aparatlar, 2,8%-ni mineral məhsullar, 2,8%-ni plastik kütlə,
+kauçuk, rezin və onlardan hazırlanmış məmulatlar, qalan
+10,2%-ni digər mallar təşkil edib. Hazır ərzaq məhsulları,
+spirtli və spirtsiz içkilər, sirkə, tütün idxalı 2008-ci ilə nis-
+bətən 6,9%, diri heyvanlar və heyvan mənşəli məhsullar
+27,6%, emal olunmamış gön, aşılanmış dəri, təbii xəz, on-
+lardan hazırlanan məmulatlar 16,0%, oduncaq, mantar, on-
+lardan hazırlanan məmulatlar 2,6% artıb, bitki mənşəli
+məhsullar 39,6%, mineral məhsullar 48,9%, kimya sə-
+nayesi məhsulları 8,2%, plastik kütlə, kauçuk, rezin və on-
+lardan hazırlanmış məmulatlar 29,4%, az qiymətli metallar
+və onlardan hazırlanmış məmulatlar 13,2%, maşın və mex-
+anizmlər, elektrotexnika avadanlığı 3,6%, quru, hava və su
+nəqliyyatı vasitələrinin idxalı isə 35,9% azalıb.
+2009-cu ildə ölkəyə gətirilən kərə yağı və digər süd
+yağları 2008-ci illə müqayisədə 48,6%, təzə tərəvəz 2,5
+dəfə, təzə meyvə 2,0 dəfə, çay 10,0%, xam şəkər 22,2%,
+mineral və qazlaşdırılmış sular 24,9%, siqaret 3,0%, dərman
+vasitələri 12,8%, qara metallardan çubuqlar və armaturlar
+8,2%, traktorlar 22,2% artıb, quş əti 28,8%, kartof 28,5%,
+buğda 28,9%, düyü 20,0%, buğda unu 69,0%, bitki piyləri
+və yağları 13,1%, şokolad məmulatları 3,6%, araq 50,3%,
+sement klinkerləri və sement 16,6%, uzununa doğranmış
+meşə materialları 8,5%, minik avtomobilləri 28,8%, yük
+avtomobilləri 45,6%, avtobusların idxalı isə 30,9% azalıb. 
+2009-cu ildə Müstəqil Dövlətlər Birliyinə (MDB) üzv
+olan ölkələrlə ticarət dövriyyəsinin ümumi həcmi $3,0
+mlrd., o cümlədən idxal $1 mlrd.826 mln., ixrac $1
+mlrd.136 mln. olub. MDB-yə üzv ölkələrlə ticarətdə $690
+mln. həcmində mənfi ticarət saldosu yaranıb. Xarici
+ticarət dövriyyəsinin $17,9 mlrd., və ya 85,8%-i, o cüm-
+lədən ixracın 92,3%-i, idxalın isə 70,2%-i MDB-yə daxil
+olmayan dövlətlərin payına düşüb. Həmin dövlətlərlə
+ticarət əlaqələrinin 76%-ni ixrac, 24%-ni idxal təşkil edib,
+$9,3 mlrd. müsbət xarici ticarət saldosu yaranıb.
+Ötən il idxal-ixrac əməliyyatlarının azalması nəticə sində
+xarici ticarətlə məşğul olanların da sayı azalıb. Əgər 2008-
+ci ildə xarici ticarətlə 13 265 hüquqi və fiziki şəxs məşğul
+olmuşdusa, 2009-cu ildə bu göstərici 9261 enib. Bunlardan
+4087-i hüquqi (2008-ci ildə - 4364), 5174-ü (2008-ci ildə -
+8901) isə fiziki şəxs olmaqla 2008-ci illə müqayisədə mü-
+vafiq olaraq 6,7% və 72% azalma qeydə alınıb. 
+Dövlət Gömrük Komitəsinin məlumatına əsasən
+ixrac əməliyyatlarında dövlət sektorunun payı 93,6%
+və ya $13 mlrd. 760 mln., özəl sektorun payı 5,3% və
+ya $779 mln., fiziki şəxslərin payı isə $159 mln (1,1%)
+olub. Göründüyü kimi ölkə ÜDM-nin formalaş-
+masında 85%-lik paya malik olan özəl sektor ixracda
+özünün adekvat əksini tapmayıb. 
+İdxal əməliyyatlarında dövlət sektorunun payı $2 mlrd.
+25 mln. (33,08%), özəl sektorun payı $3 mlrd. 793 mln.
+(62%), fiziki şəxslərin payı isə $302 mln. (4,9%) olub.
+Rusiya
+Türkiyə
+Almaniya
+Ukrayna
+Elektrotexnika,
+ma şın və mexa -
+nizmlər
+Az qiymətli metallar və
+onlardan hazırlanmış
+məmulatlar
+Kimya sənayesi
+məhsulları
+Digər
+Ərzaq malları
+Nəqliyyat 
+vasitələri
+34.8%
+15.7%
+15.7%
+19.3%
+6.6%
+12.8%
+33.6%
+17.5%
+14.8%9%
+7.9%
+4.5%
+4.3%
+8.4%
+Çin 
+Böyük Britaniya
+ABŞ
+Digər
+Diaqram 11. İdxalın coğrafiyası
+Diaqram 12. İdxalın strukturu
+Azərbaycan iqtisadiyyatı - 2009
+21
+MALİYYƏ BÖLMƏSİ
+2009-cu ildə neftin qiymətinin düşməsi, dövlət sek-
+torunun gəlirlərinin 2008-ci ildəki 19.4 milyard manat
+ilə müqayisədə 24% azalmasına səbəb olub. Məcmu
+büdcənin profisitinin ÜDM-ə nisbəti 2008-ci ildəki
+19% ilə müqayisədə azalsa da, 2009-cu ildə də 9%
+təşkil edib. Dövlət büdcə gəlirlərinin azalmasını pri-
+oritet təşkil etməyən xərclərin azaldılması və davam
+edən kapital xərclərinin maliyyələşdirilməsi hesabına
+tənzimləyib. Nəticədə, dövlət qeyri-neft fiskal defisitin
+kəskin artımının qarşısını alıb, eyni zamanda sosial
+xərclərin artımına nail olub. 2007-ci ildəki 26% ilə
+müqayisədə, 2009-cu ildə büdcə xərclərinin ÜDM-
+dəki payı 43% təşkil edib ki, gəlirlər üçün müvafiq
+göstərici 52%-ə bərabər olub. 
+İcmal büdcənin qeyri-neft kəsiri 2009-cu ildə yük-
+sək olub və qeyri-neft ÜDM-ə nisbəti 2008-ci ildəki
+46%-ə qarşı 2009-cu ildə 43% təşkil edib. Dövlət gə -
+lir lərinin və xərclərinin ekpansiyadan sonrakı dövrdə
+azalması gözlənilir.
+2009-cu ilin dövlət büdcəsi qanununun qəbulu çox
+ziddiyyətli bir şəraitdə baş verdi. Dünyada qlobal
+böhranın təsirləri artıq açıq-aydın müşahidə edilir,
+bunun qarşılığında xam neftin dünya bazarında
+qiyməti kəskin aşağı düşürdü. Bu dövr ərzində, əgər
+əksər neft ölkələri hökumətləri ciddi və təxirəsalınmaz
+tədbirlər görərək büdcədə neftin qiymətinin daha aşağı
+həddə hesablanması, habelə iqtisadi strukturda diver-
+sifikasiya yönümlü dəyişikliklər edilməsi haqqında
+düşünürdülərsə, Azərbaycanda böyük bir arxayınlıq
+əhvali-ruhiyyəsi hökm sürürdü.
+Hökumət Azərbaycan Respublikasının Dövlət Neft
+Fondunun transferlərinə arxayın olub 2009-cu il üçün
+neftin qiymətini büdcədə 70 dollardan hesabladı. Bu
+rəqəm büdcəsi əsasən neftdən asılı olan ölkələr arasında
+ən yüksək idi. Hökumətin bu cür yanaşması, bir növ,
+simptomatik idi. Əsasən inzibati amirlik metodlarına
+əsaslanan ölkə iqtisadiyyatı sanki dünya bazarında nə
+baş verdiyinin fərqinə varmır, onsuz da Neft Fondu
+hesabına büdcəni tam icra edəcəyinə əmin olduğunu nü-
+mayiş etdirirdi. 2009-cu ilin nəticələri vəziyyətin gö-
+zlənildiyindən də gərgin olduğunu göstərdi. Belə ki,
+2009-cu ildə dövlət büdcəsinin mədaxil proqnozu 12
+177,0 mln. manata qarşı 10 325,9 mln. manat və ya 84,8
+faiz icra olunmub ki, bu da 2008-ci illə müqayisədə
+436,8 mln. manat və ya 4,1 faiz azdır. Büdcə daxilol-
+malarının 39,8 faizi və ya 4 113,5 mln. manatı Azərbay-
+can Respublikasının Vergilər Nazirliyi, 10,8 faizi və ya
+1 112,7 mln. manatı Azərbaycan Respublikasının Döv -
+lət Gömrük Komitəsi tərəfindən təmin edilib, 47,6 faizi
+və ya 4 915,0 mln. manatı Azərbaycan Respublikası
+Dövlət Neft Fondundan, 1,8 faizi və ya 1 84,7 mln.
+manatı sair mənbələrdən daxil olub.
+Azərbaycan Respublikasının Vergilər Nazirliyi mə-
+daxil proqnozunu 71,5 faiz icra etməklə dövlət büd-
+cəsinə 4 113,5 mln. manat vəsait təmin edib ki, bu da
+proqnoza nisbətən 1 636,5 mln. manat, 2008-ci illə
+müqayisədə isə 1 581,9 mln. manat və ya 27,8 faiz
+azdır. Azalmanın əsas səbəbi kimi neftin qiymətindəki
+nəzərəçarpacaq enməni göstərmək olar. Belə ki, 2009-
+cu ildə neft ixracı 23,4% artsa da, orta qiymət 2008-ci
+ildə bir barel üçün 96,5-dən 61 dollara endi.
+2009-cu ildə dövlət büdcəsinə vergi orqanları va-
+sitəsilə toplanmış vəsaitin 30,9 faizi və ya 1 272,6 mln.
+Azərbaycan iqtisadiyyatı - 2009
+22
+İcmal büdcə
+Diaqram 14. Qeyri-neft kəsiri və qeyri-neft ÜDM-i
+Diaqram 13. Büdcə gəlirləri və xərcləri
+9000
+7500
+6000
+4500
+3000
+1500
+0
+20 000
+15 000
+10 000
+5 000
+0
+46% 43%
+2005 2006
+2005 2006 2007 2008 2009
+qeyri-neft kəsiri
+gəlirlər xərclər
+qeyri-neft kəsiri/qeyri-neft ÜDM-i
+2007 2008 2009
+50,00%
+40,00%
+30,00%
+20,00%
+10,00%
+0,00%
+Azərbaycan iqtisadiyyatı - 2009
+23
+manatı Dövlət Neft Şirkətinin, 12,5 faizi və ya 513,2
+mln. manatı Azərbaycan Beynəlxalq Əməliyyat Şirkə-
+tinin mənfəət vergisinin payına düşür. Azərbaycan Re-
+spublikasının Vergilər Nazirliyi tərəfindən 2009-cu
+ildə toplanmış ümumi vəsaitlərin 56,6 faizini və ya
+2327,7 mln. manatını qeyri-neft gəlirləri təşkil edir ki,
+bu da proqnoza nisbətən 742,3 mln. manat və ya 24,2
+faiz az, 2008-ci ilin müvafiq dövrü ilə müqayisədə isə
+70,0 mln. manat və ya 3,1 faiz çoxdur.
+2009-cu ildə Dövlət Neft Fondunun gəlirləri 8
+176,7 milyon manat, xərcləri isə 5 294,5 milyon manat
+təşkil edib. Fondun büdcəsinin mədaxil hissəsi 97,8,
+məxaric hissəsi isə 99,5 faiz yerinə yetirilib. Fonda
+daxil olan vəsaitin böyük hissəsi (93,4%) mənfəətli
+neft və qaz satışından yaranıb. 
+MBQ öz rəyində qeyd edirdi ki: “Xam neftin hər
+bareli üçün qiymətin hətta 40 dollara düşəcəyi halda
+belə dövlət büdcəsinin icrasında problem gözlənilmir.
+Nəzərə almaq lazımdır ki, dövlət büdcəsində neft
+gəlirlərinin dörddə üçü ARDNF-in transfertlərindən
+ibarətdir. 2009-cu il üzrə icmal büdcənin gəlirləri pro-
+qnozlaşdırılan zaman neftin hökumət tərəfindən he -
+sablama bazası kimi istifadə etdiyi qiymət həddi
+özünü doğruldarsa, ARDNF-in gəlirləri 14 567 mln.
+manat təşkil edəcək.
+Bu halda 2009-cu ildə fonddan proqnozlaşdırılan
+büdcə ayırmaları ARDNF-in gəlirlərinin cəmi 34
+faizini təşkil edəcək. Yuxarıda qeyd olunduğu kimi, ən
+pis qiymət ssenarisinin (məsələn, hər barel üçün 40
+ABŞ dolları) olacağı halda ARDNF-in proqno-
+zlaşdırılan gəlirlərinin 2 dəfədən çox azalması
+mümkünsüzdür. Göründüyü kimi, hətta bu cür kəskin
+azalma şəraitində belə ARDNF nəinki dövlət büdcəsi
+üzrə öhdəliklərini, habelə fondun öz xərc öhdəliklərini
+də icra etmək imkanında olacaq. Lakin bu halda
+ARDNF-in ümumi gəlirlərinin 60 faizə qədəri dövlət
+büdcəsinə transfer edilə bilər. Nəticədə neftin qiymə-
+tinin enməsindən itkilər dövlət büdcəsində deyil, icmal
+büdcədə hiss olunacaq”.
+2009-cu ildə ARDNŞ dövlət büdcəsinə 1,47 mil-
+yard manat vergi ödəyib. Bu, ötən ilin göstəricisindən
+117,1 milyon manat çoxdur. Nəzərə almaq lazımdır ki,
+artımda az daolsa “Azəriqaz”ın ARDNŞ-nin balansına
+daxil olmasının payı var. Qeyd edək ki, 2009-cu ildə
+“Azəriqaz” 40 milyon manat vergi ödəyib. Eyni za-
+manda, şirkət il ərzində Dövlət Sosial Müdafi ə Fon-
+duna 115,16 milyon manat köçürüb ki, bu da 2008-ci
+ilin göstəricisindən 7 milyon manat çoxdur. Dövlət
+büdcəsinin gəlirlərində isə şirkətin payı 14,3% təşkil
+edib. Gördüyümüz kimi, 2009-cu ildə o qədər də
+əlverişli olmayan konyuktur ARNDŞ-nin büdcəyə
+ödəmələrini azaltmadı. Bu həm də onu göstərir ki,
+ARDNŞ-nin büdcə ödəmələri onun iqtisadi imkan-
+larından yox, hökumətin çətin anlarda sınanılmış inz-
+ibati üsullarını işə salmağından keçir. Digər iri vergi
+ödəyicilərindən “Azərenerji” ASC 2009-cu ildə dövlət
+büdcəsinə cəmi 130 milyon manat köçürüb. Bununla
+yanaşı, Xəzər Dəniz Gəmiçiliyi və “Azərbaycan
+Dəmir Yolları” QSC kimi iri vergi ödəyicilərinin bir-
+likdə ödəmələri heç büdcə gəlirlərinin 0,5%-ni təşkil
+etmir. Ümumiyyətlə, diqqət çəkən məqam ondadır ki,
+ARDNŞ-dən başqa digər əsas iri dövlət müəs-
+sisələrinin büdcə ödəmələrində payı müqayisəolunmaz
+dərəcədə aşağıdır. Müqayisə üçün qeyd edək ki, “Az-
+ercell” MMC-nin 2009-cu ildə dövlət büdcəsinə
+ödəmələri 150 milyon manat təşkil etmişdir. 
+Böhran ilində, gözlənildiyi kimi büdcə xərclərinin
+icrasında ciddi dəyişiklikıər baş verdi. Əsasən azalma
+ilə müşayiət olunan əksər xərc maddələri, daha çox
+sosial müdafiə və təminat xərclərindən yan keçməklə,
+investisiya istiqamətində qeydə alındı.
+2009-cu il dövlət büdcəsinin icrası ilə bağlı
+Maliyyə Nazirliyinin məlumatına əsasən, ümumi in-
+vestisiya xərcləri 3 567,3 mln. manat olmuşdur ki, bu
+da proqnoza nisbətən 75,4% icra deməkdir. 2008-ci
+illə müqayisədə azalma 724,7 milyon manat və ya
+16,9% olmuşdur. Göründüyü kimi, vəsait çatışmazlığı
+Diaqram 15. 2009-cu ilin büdcə gəlirlərinin strukturu
+Diaqram 16. Dövlət Neft Fondundan büdcəyə 
+transfertlər 
+Digər
+1.8%Dövlət Gömrük Komitəsi
+10.8%
+Dövlət Neft Fondu
+47.6%
+Vergilər Nazirliyi
+39.8%
+Azərbaycan iqtisadiyyatı - 2009
+24
+üzündən ən çox ixtisara məruz qalan istiqamət in-
+vestisiya xərcləri olub.
+2009-cu ildə dövlət büdcəsinin dövlət əsaslı vəsait
+qoyuluşu xərclərindən təhsil və səhiyyə obyektlərinin tik-
+intisi və yenidənqurulmasına 140 milyon manat vəsait
+yönəldilib. Yeni məktəblərin tikintisi, məktəblərin əsaslı
+təmiri və yenidənqurulması, uşaq bağçalarının əsaslı
+təmiri, dövlət ali təhsil müəssisələrinin əsaslı təmiri və
+yenidənqurulması məhz bu vəsait hesabına həyata keçir-
+ilmişdir. 2009-cu ildə dövlət büdcəsi xərclərində aqrar və
+ətraf mühitin mühafizəsi xərcləri 2008-ci ilə nisbətən
+38,5, mənzil və kommunal təsərrüfatı xərcləri 24,9,
+ümumi dövlət xidmətləri xərcləri 14,7, məhkəmə
+hakimiyyəti, hüquq-mühafizə və prokurorluq orqan-
+larının saxlanılması xərcləri 21,5 faiz çox olub.
+Maraqlıdır ki, hətta 2009-cu ildə də sosial xərclər
+azalmayıb. Belə ki, bu dövrdə sosialyönümlü tədbir-
+lərin (elm, təhsil, səhiyyə, sosial təminat, mədəniyyət
+xərcləri) maliyyələşdirilməsinə dövlət büdcəsi xər-
+clərinin 26,2 faizi və ya 2 763,0 mln. manatı yönəldilib
+ki, bu da 2008-ci illə müqayisədə 450,4 mln. manat və
+ya 19,5 faiz çoxdur.
+Böhrana baxmayaraq, hökumətin sosial müdafiə və
+sosial təminat xərclərini azaltmaması, əksinə, artırması,
+əslində, müsbət haldır. Daxili istehlak bazarında idxalın
+xüsusi çəkisinin əhəmiyyətli olması şəraitində yeridilən
+məzənnə siyasəti ötən il orta illik inflyasiyanın 1,5%
+səviyyəsində saxlanmasında mühüm rol oynayıb. Aşağı
+inflyasiya və məzənnə sabitliyi əhalinin sosial vəziyyə-
+tinin qorunmasına müəyyən qədər imkan verib, əhalinin
+pul gəlirlərinin real artımı dövr ərzində 6% olub.
+Hələ 2006-cı ildə büdcənin mədaxil hissəsində
+cəmi 0,2 faiz artımın olması, məxaricin isə 5,8 faiz
+kəsirlə yerinə yetirilməsi nəticəsində yaranan 78,6
+mln. manatlıq profisitin, əsasən, gəlirlərin artımı ilə
+yox, xərc maddələrinin tam icra edilməməsi ilə bağlı
+olduğunu göstərmişdik. Büdcəyə edilən əlavə və dəyi -
+şikliklərdən sonra büdcə defisiti 2007-ci il dövlət büd-
+cəsinin ilkin variantına nisbətdə 43,5% artaraq 0,5
+milyard manat proqnozlaşdırılmışdı (əvvəlki defisit
+379 mln. manat, sonrakı defisit 544 mln. manat) və
+onun gözlənilən illik ÜDM-dəki xüsusi çəkisi 2,5%-ə
+yaxın olmalı idi. Əslində isə 2007-ci ilin dövlət büd-
+cəsində cəmi 51,1 mln. manat kəsir oldu. 2008-ci ilin
+büdcə layihəsində 1,126 mlrd. manat kəsir proqnoz -
+laşdırılırdı. Lakin yekunda 2008-ci il üzrə dövlət büd-
+cəsində 11,5 mln. manat həcmində kəsir yarandı.
+2009-cu ildə isə büdcə kəsirinin cəmi 178 mln. manat
+olması nəzərdə tutulmuşdu.
+2010-cu ilin büdcəsində fiskal stimullaşdırmanı təmin
+etmək məqsədilə vergi sistemində bir sıra dəyi şikliklər
+nəzərdə tutulur. Mənfəət vergisi 22%-dən 20%-ə, gəlir
+vergisinin maksimum dərəcəsi 35%-dən 30%-ə endirilib
+və kiçik sahibkarların sadələşdirilmiş vergiyə cəlb olun-
+ması həddi qaldırılıb. Hökümət 2010-cu ilin büdcə proq -
+nozlaşdırılmasında mühafizəkar siyasətə üstünlük
+ve rərək, 1 barel neftin qiymətini 45 dollar götürüb.
+Sənaye, tikinti və faydalı qazıntılar
+Təhsil
+Müdafiə
+Sosial müdafiə və sosial təminat
+Ümumi dövlət xidmətləri
+Əsas bölmələrə aid edilməyən xidmətlər
+Məhkəmə hakimiyyəti, hüquq-mühafizə və prokurorluq
+Kənd təsərrüfatı - 3%
+Mənzil və kommunal 
+təsərrüfatı - 2%
+Mədəniyyət, incəsənət - 1%
+İqtisadi fəaliyyət - 1%
+Nəqliyyat və rabitə - 1%
+38%
+8%
+4%
+6%6%8%
+9%
+10%
+11%
+Diaqram 17. Büdcə xərclərinin strukturu
+Azərbaycan iqtisadiyyatı - 2009
+25
+Rəsmi statistikaya görə, inflyasiya 2008-ci ildəki
+yüksək səviyyəsindən - 15.4%-dən 2009-cu ilin so-
+nuna 1.5%-ə enib. Əlverişli xarici şərait (neftin və
+ərzağın aşağı dünya qiymətləri) və daxili tələb təzy-
+iqinin azalması ilboyu qiymətlərdə məqbul hərəkətlən-
+məyə səbəb olub. 2009-cu ilin yanvar ayından
+başlayaraq Mərkəzi Bank (MB) manatın qısa müddət
+davam edən dollar/avro səbətinə bağlanması siyasətini
+dəyişərək yeni mənimsədiyi məzənnə rejimi olan
+manat/dollar kursunun sabitliyinə çox önəm verib və
+kursun sabitliyini qorumaq istiqamətində qətiyyətini
+bir daha nümayiş etdirib. Ölkədə və dünyada dolların
+qiymətinin yüksəlməsi təzyiqi altında MB-nin
+beynəlxalq rezervləri 2008-ci ilin sonuna mövcud olan
+6.5 mlrd dollardan 2009-cu ilin iyul ayına 4.9 mlrd.
+dollara düşüb və bu da öz növbəsində pul bazasının
+əhəmiyyətli dərəcədə azalmasına gətirib çıxarıb.
+MB-nin günbəgün güclənən dollar qarşısında
+mana tın məzənnəsini sabit saxlamaq səyləri pul baza-
+sının 2008 dekabr – 2009 aprel dövrü ərzində kəskin
+daralmasına (təqribən 25%) səbəb olub. Adekvat ster-
+ilizasiya rıçaqlarının olmaması MB-nin pul kütləsinin
+azalmasının qarşısını vaxtında almaq imkanını məh-
+dudlaşdırıb. Oxşar problem yaxın keçmişdə manatın
+dollar qarşısında güclənəməyə başladığı dövrdə də
+özünü büruzə vermişdi. O vaxt MB manatın dollara
+münasibətdə qiymətinin artmasına pul bazasını şişirt-
+mək hesabına nail olmuşdu .
+Əslində xammal qiymətlərindəki dalğalanmaların
+səbəb olduğu məzənnənin yüksək volatallığı xammal
+ixrac edən ölkələrə xas xüsusiyyətlərdəndir. Azərbay-
+canın timsalında MB məzənnə kursunu sabit saxladığı
+üçün xarici ticarət şokları daxili bazarda dalğalan-
+malara çevrilib. Belə ki, maliyyə böhranı dövründə (və
+ya mənfi ticarət şokları ölkə iqtisadiyyatına zərbə vur-
+duğu zaman) pul kütləsini artıraraq böhrana qarşı təd-
+bir görmək lazım olduğu zaman MB-nin məzənnəni
+sabit saxlamaq cəhdi nəticəsində pul kütləsi daralıb.
+Sonradan digər alətlər hesabına bu azalma bərpa
+edilib. Və ya neft qiymətlərinin kəskin qalxdığı dövr-
+lərdə (müsbət ticarət şoku) pul siyasətini sıxmaq lazım
+gələndə MB-nin məzənnə kursunu qorumaq cəhdləri
+pul kütləsinin artmasına gətirib çıxarmışdı. Başqa
+sözlə, ticarət şoklarına tez-tez məruz qalan ölkələrdə
+məzənnəyə müəyyən dərəcədə elastiklik verilməsi bu
+şokların ölkə iqtisadiyyatına təsirini azaltmaq və pul
+kütləsindəki arzuolunmaz dalğalanmaların qarşısını
+almaq yönündə monetar idarəçilərin işini asanlaşdırır.
+Antiböhran tədbirləri nəticəsində pul bazasının
+2008-ci ilin dekabr səviyyəsi 2009-cu ilin sonunda
+bərpa edilib. Bu MB-nin istifadə etdiyi dolayı alətlər
+(rezerv norması, yenidənmaliyyələşdirmə dərəcəsi və
+s.) hesabına reallaşıb. Bu zaman açıq bazar əməliy-
+yatlarının payı çox kiçik olub.
+Monetar siyasət
+Diaqram 18. 2009-cu ildə pul bazasının istiqaməti Diaqram 19. 2001-ci ildən 2009-cu ilə kimi pul 
+bazasının istiqaməti
+Pul bazası Pul bazası (manatla)
+Pul bazası
+se
+n
+.
+o
+kt
+.
+n
+o
+y.
+d
+e
+k.
+ya
+n
+.
+fe
+v.
+m
+a
+rt
+a
+p
+r.
+m
+a
+y
+iy
+u
+n
+iy
+u
+l
+a
+vq
+.
+se
+n
+.
+o
+kt
+.
+n
+o
+y.
+d
+e
+k.
+Azərbaycan iqtisadiyyatı - 2009
+26
+İlin birinci yarısında MB diskont dərəcəsini 2008-
+ci ilin dekabrı üçün olan 8%-dən 2009-cu ilin may
+ayında 2%-ə və bununla yanaşı faiz koridorunun
+yuxarı həddini 13%-dən 7%-ə edirməklə bank sektoru-
+nun likvidlik ehtiyaclarını ödəməyi hədəfləmişdi. Re-
+zerv norması da 6%-dən may ayında 0.5%-ə endirildi.
+Bundan başqa, MB müvəqqəti likvidlik problemi
+yaşayan bəzi banklara kredit də ayırmışdı. Noyabrda
+MB «UniBanka» 50 mln. manat həcmində kredit,
+digər kommersiya banklarına isə qısamüddətli güzəşt
+kimi 250 mln. dollar borc vermişdi.
+Bütövlükdə birbaşa kreditlər və istifadə olunan
+dolayı alətlər hesabına (rezerv norması, MB notları,
+və s.) 2009-cu il ərzində MB iqtisadiyyata 1627 mln.
+manat injeksiya edib ki, bu da ÜDM-in 5%-ni təşkil
+edir. Dövr ərzində verilən kreditlərin 22%-i bank sek-
+torunun, digər böyük hissəsi isə strateji dövlət təşki-
+latlarının (ARDNŞ, «Azəralüminium» və s.) payına
+düşüb. İl ərzində bank sektorunun qısamüddətli likvid-
+lik məhdudiyyətlərini yumşaltmaq üçün MB 2020.4
+mln. manat REPO əməliyyatı icra edib və heç bir əks-
+REPO əməliyyatı həyata keçirməyib.
+Azərbaycan Respublikası Prezidentinin 19 iyun
+2009-cu il fərmanı ilə “Azərbaycan Respublikası Milli
+Bankı haqqında” qanununa edilən dəyişikliklər
+qüvvəyə minib. Bu dəyişikliklərlə Mərkəzi Bank
+xarici valyuta ilə uzunmüddətli və subordinasiya kred-
+itlərini bank sektoruna vermək hüququ əldə edib. MB
+həm də ictimai-iqtisadi əhəmiyyətli layihələri banklar
+vasitəsi ilə maliyyələşdirmək və ya real sektora likvid-
+lik vermək imkanı qazanıb. Dəyişikliklərdən sonra
+MB-nin dövlət qiymətli kağızalarının birinci bazarında
+iştirakına icazə verilib.
+2010-cu il üçün pul siyasətinin əsas istiqamətlərini
+əks etdirən bəyanatında MB 3%-lik rəsmi illik inflya -
+siya hədəfini dəstəkləyəcəyini açıqlayıb. MB-nin elan
+olunmuş sabit məzənnə rejimi ilə bağlı öhdəçiliyi hər
+vəchlə yerinə yetirəcəyinə heç bir şübhə yoxdur.
+Lakin monetar siyasətə verilmiş rol məzənnənin
+sabitliyini qoruyub saxlamaq olduğu müddətdə və
+maliyyə siyasətini dominantlığı şəraitində müstəqil
+monetar siyasətin aparılması sabit məzənnə siyasəti ilə
+ziddiyət təşkil edəcək.
+Diaqram 20. M2 və M3 pul aqreqatlarının dəyişməsi
+se
+n
+.
+o
+kt
+.
+n
+o
+y.
+d
+e
+k.
+ya
+n
+.
+fe
+v.
+m
+a
+rt
+a
+p
+r.
+m
+a
+y
+iy
+u
+n
+iy
+u
+l
+a
+vq
+.
+se
+n
+.
+o
+kt
+.
+n
+o
+y.
+d
+e
+k.
+Azərbaycan iqtisadiyyatı - 2009
+27
+Maliyyə böhranına baxmayaraq fəaliyyət göstərən
+bankların az bir hissəsi (46 bankdan 7-si) öz hesabat-
+larında 2009-cu ili zərərlə başa vurduqlarını göstəri-
+blər. Bank sektorunun qənaətbəxş vəziyyətini bank
+mənfəətinin bank kapitalında payını müşahidə etməklə
+də görmək olar. Belə ki, bu göstərici 21.3%-dən (317
+mln. manat) il ərzində 23.2%-ə (408 mln. manata)
+yüksəlib.
+Bankın aktivləri ilin əvvəli ilə müqayisədə 13.5%
+artaraq 2009-cu ilin sonuna 11665 mln. manata çatıb
+ki, bunun da 68.3%-ni müştərilərə verilən kreditlər
+təşkil edib. Ev təsərrüfatlarına verilən kreditlər ümumi
+kredit portfelinin ən böyük hissəsini təşkil edib, lakin
+onun səviyyəsində 2008-ci ilin sentyabr ayı ilə müqay-
+isədə azalma müşahidə olunub. Ticarət sektoruna ver-
+ilən kreditlər portfeldə öz həcminə görə ikinci yerdə
+gəlir. Kənd təsərrüfatına verilən kreditlər tarixi aşağı
+səviyyəsində qalmaqda davam edib.
+Kredit portfeli 2009-cu ilin ilk rübündə ən aşağı
+səviyyəsinə çatıb ki, bu zaman ən yüksək azalma
+xarici valyuta ilə verilən kreditlərdə müşahidə olunub.
+Digər tərəfdən milli və xarici valyutada verilən
+kreditlərin faiz dərəcələri 2008-ci ilin noyabr ayından
+başlayaraq fərqli dinamika nümayiş etdirib. Manatla
+verilən kreditlərin faiz dərəcələrində müşahidə edilən
+enmə kreditlərin həcmində də mülayim azalma ilə
+yadda qalıb. Bunun əksinə, xarici valyuta ilə verilən
+kreditlərin həcmindəki kəskin azalma onların faiz
+dərəcələrində müntəzəm artma ilə müşahidə olunub.
+Bank sektoru
+Diaqram 22. Kreditlərin faiz dərəcələrinin dəyişməsi
+Diaqram 23. 2009-cu ildə kreditlərin dinamikası
+Diaqram 21. 2009-cu ildə kreditlərin sahələr üzrə
+strukturu
+Diaqram 24. Kreditlərin valyutalar üzrə strukturu
+se
+n
+.
+o
+kt
+.
+h
+o
+y.
+d
+e
+k.
+ya
+n
+.
+fe
+v.
+m
+a
+rt
+a
+p
+r.
+m
+a
+y
+iy
+u
+n
+iy
+u
+l
+a
+vq
+.
+se
+n
+.
+o
+kt
+.
+n
+o
+y.
+d
+e
+k.
+se
+n
+.
+d
+e
+k.
+m
+a
+rt
+iy
+u
+n
+se
+n
+.
+d
+e
+k.
+se
+n
+.
+d
+e
+k.
+m
+a
+rt
+iy
+u
+n
+se
+n
+.
+d
+e
+k.
+se
+n
+.
+d
+e
+k.
+m
+a
+rt
+iy
+u
+n
+se
+n
+.
+d
+e
+k.
+ABŞ dolları
+ABŞ dollarıAZN
+İstehlak kreditləri Kənd təsərrüfatıDigər Ticarət
+manat
+Sonuncu fakt verilən kreditlərin böyük bir his -
+səsinin bankların xarici maliyyə bazarlarından aldıq -
+ları resurslar hesabına mümkün olduğunun sübutudur.
+Bank sektorunun bu xüsusiyyəti haqqında bu sektorda
+mövcud olan kredit/depozit nisbətinin dinamikasını
+izləməklə də məlumat əldə edə bilərik. Bu nisbətin
+100% olması banka depozit qoyulan hər 1 manatın (və
+ya dolların) bank tərəfindən 1 manat kreditə çev ril -
+diyini bildirir. Bu nisbətin 100%-dən yuxarı olması isə
+əsasən verilən kreditlərin xarici maliyyə bazarlarından
+əldə edilmiş resurslar hesabına mümkün olduğunu
+göstərir.
+2009-cu ildə bankların kredit portfelinin struktu-
+runda qısamüddətli kreditlərin payı azalmaqda davam
+edib. Portfelin valyuta strukturu incələndiyi zaman
+xarici valyuta ilə verilən kreditlərin ümumi kredit port-
+felindəki payı 40% olub. 
+2009-cu ildə daxili tələbi stimullaşdırmaq və əmlak
+bazarındakı durğunluğun qarşısını almaq üçün MB
+İpoteka Fondunun effektiv işləməsi üçün müəyyən
+tədbirlər gördü. Nəticədə verilən ipoteka kreditlərinin
+həcmi 20% böyüyərək 341.9 mln. manata çatdı.
+Bank sektorunun passivlər tərəfinə nəzər saldıqda
+görürük ki, depozitlər 2009-cu il ərzində də bankların
+maliyyə resurslarının əsas qaynağı kimi qalmaqda
+davam edib. Depozit/aktiv (balans) nisbəti 40% olub
+ki, bu da bir daha xaricdən borclanmanın əhəmiyyətli
+olduğunu göstərir. Hüquqi şəxslərin depozitləri 18.8%
+azalaraq 2319.3 mln. manata düşsə, ev təsərrüfat-
+larının əmanətləri il ərzində 22.5% artaraq 2334.9 mln.
+manata çatıb.
+Bundan başqa MB-nin banklara verdiyi resursların
+çəkisi bank sektorunun passivlərində artaraq 2.7%-dən
+15.2%-ə qalxıb ki, bu da 1466.2 mln. manat həcmində
+kredit deməkdir.
+Qeyd etmək yerinə düşər ki, son illərdə maliyyə
+sistemi milli iqtisadiyyatda öz mövqeyini möhkəm-
+ləndirib və resursların səfərbər olunmasında mühüm
+rol oynamağa başlayıb. Milli iqtisadiyyatın bu xü-
+susiyyətini M3 aqreqatının 2003-2009-cu illər ərzində
+qeyri-neft ÜDM-ində payını (maliyyə dərinliyinin bir
+ölçüsü) izləməklə də görmək olar.
+M3/ÜDM (qeyri-neft) nisbətinin 2003-cü ildə 23%
+olmasına baxmayaraq bu nisbət 3 il ərzində 3 dəfə
+artıb. Kredit və M3 aqreqatının qarşılıqlı müqayisəsi
+də maraqlı məqamları ortaya çıxarıb. Bir nəticə budur
+ki, ölkə maliyyə sistemində «kredit köpüyü» mövcud
+ola
+bilər. Əgər belədirsə, MB yalnız bank sektorunun pas-
+sivlərinə nəzarətlə kifayətlənməməli, həm də bank
+kreditlərinin sağlam artımı üçün aktivləri də nəzarətdə
+saxlamalıdır. İkincisi, M3 aqreqatının ümumi iqti-
+sadiyyatda mövcud olan likvidlik haqqında tam
+dolğun məlumat vermə imkanı məhdudlaşıb.
+Azərbaycan iqtisadiyyatı - 2009
+28
+Diaqram 26. Kredit-M3 nisbəti
+Kreditlər M3
+Diaqram 27. M3-qeyri-neft ÜDM-i nisbəti
+Diaqram 25. Kredit-depozit nisbəti
+Azərbaycan iqtisadiyyatı - 2009
+29
+2008-ci ilin martında Mərkəzi Bank milli valyutanı
+dollar-avro səbətinə bağlamaqla yeni valyuta məzən-
+nəsi rejiminə keçdi. Bu idxal olunan inflyasiyanı məh-
+dudlaşdırmaq və ikitərəfli valyuta məzənnəsi riskini
+aradan qaldırmaqla valyuta sabitliyini təmin etmək
+üçün zəruri addım idi. 2008-ci il ərzində dollar-avro
+kursunun volatallığı və manatın dollara münasibətdə
+ucuzlaşması təhlükəsi 2009-cu ilin yanvarında man-
+atın yenidən dollara bağlanmasına səbəb oldu və
+Mərkəzi Bankın intervensiyası milli valyutanın deval-
+vasiyasının qarşısını aldı. İntervensiya nəticəsində
+xarici valyuta ehtiyatları 2008-ci sonundakı 6.5 mil-
+yard dollardan 2009-cu ildə 4.9 milyarda endi. 2009-
+cu ilin sonunda bu ehtiyatlar nisbətən bərpa olunaraq
+5.4 milyard dollara qədər qalxdı. Fikrimizcə, 2010-cu
+ildə qlobal iqtisadiyyatda gözlənilən canlanma və
+ölkəyə xarici kapital axınının artımı manatın kursunun
+dəstəklənməsinə müsbət təsir edəcək.
+2009-cu ildə manatın nominal effektiv məzənnə -
+sinin 1.8% ucuzlaşmasına baxmayaraq, Azərbaycanda
+inflyasiyanın ticarət tərəfdaşı olan ölkələrə nisbətən
+aşağı olması səbəbindən real effektiv məzənnə 6.1%
+ucuzlaşıb. Belə ki, ötən ilin dekabrına nəzərən Azər-
+baycanda inflyasiya cəmi 0.6% olduğu halda, ticarət
+tərəfdaşı olan ölkələrdə müvafiq orta göstərici 5.9%
+olub.
+Məzənnə siyasəti
+Diaqram 28. Nominal effektiv məzənnə
+(Dekabr 2000 = 100)
+Diaqram 29. Real effektiv məzənnə
+(Dekabr 2000 = 100)
+Ümumi
+ticarət İdxal İxrac Ümumi ticarət İdxal İxrac
+Azərbaycan iqtisadiyyatı - 2009
+30
+2009-cu ilin yanvarından başlayaraq Maliyyə
+Nazirliyi (MN) sığorta şirkətlərinin kapitallarının
+qiymətləndirilməsində başqa kriteriyalara əsaslanır.
+Misal üçün, nazirlik qiymətləndirmə üçün artıq nizam-
+namə kapitalını ümumi meyar kimi qəbul edir. 2008-
+ci ilin avqustunda MN minimum kapital tələbini
+tədricən qaldırmaq üçün proqram qəbul etmişdi. 1 yan-
+var 2009-cu il tarixinə qədər sığorta və təkrar sığorta
+şirkətlərindən uyğun olaraq minimum 1 mln. və 2 mln.
+manat kapitala malik olmaq tələb edilirdi. 1 yanvar
+2010-cu il tarixindən başlayaraq kapital tələbləri
+sığorta şirkətləri üçün 2 mln. manat və təkrar sığorta
+şirkətləri üçün 4 mln. manat təyin edilib. 2009-cu ilin
+yanvar ayında sığorta şirkətlərinin icmal nizamnamə
+kapitalı 79.8 mln. manat təşkil edirdi ki, bu da
+fəaliyyətdə olan 28 sığorta şirkətinə orta hesabla 2.85
+mln. manatın düşməsi deməkdir. 
+Bank və sığorta şirkətləri arasındakı qarşılıqlı əlaqə
+əhəmiyyətli dərəcədə qüvvətlidir. Bank sektorundan
+birbaşa və dolayı kanallarla sığorta yığımları ümumi
+yığımların 42%-ni təşkil edib. Sığorta portfelində yeni
+maşınların sığortalanmasından əldə edilən yığımlar
+62%, daşınmaz əmlakın sığortalanmasından gələn
+yığımlar 26%, üçüncü şəxs qarşısında məsuliyyətin
+sığortası və tibbi sığortadan gələn yığımlar isə 11%
+olub. Bu günə olan məlumata görə, 15 aparıcı sığorta
+şirkətindən 12-nin təsisçiləri banklar və ya tərkibində
+bank olan holdinqlərdir.
+2008-ci ilin üçüncü rübündən başlayaraq maliyyə
+böhranı və ölkənin bank sektorundakı problemlərlə
+əlaqədar sığorta xidmətlərinə tələb azalmışdı. 2009-cu
+ilin birinci rübündə sığorta şirkətlərinin yığımları 42.86
+mln. manat təşkil etmişdi ki, bu da keçən ilin eyni
+dövrü ilə müqayisədə 16.9% azalma demək idi. Digər
+tərəfdən sığorta ödənişləri 10.32 mln. manata qalxmışdı
+ki, bu da keçən illə müqayisədə 14.8% artımı
+göstərirdi. Lakin ilin əvvəlində sığorta bazarında
+müşahidə olunan pisləşmə ilin sonuna doğru yavaşımış
+və bazarda sabitləşmə hiss olunmuşdu. 2009-cu ilin so-
+nunda, sığorta yığımları 163.3 mln. manata çatmışdı ki,
+bu da keçənilki göstərici ilə müqayisədə 9% az idi.
+Sığorta ödənişləri isə 53.01 mln. mant olmuşdu. Bu isə
+keçən ilə görə 6.4% artım demək idi.
+Bank sektorundakı yaxşılaşma ilə paralel olaraq
+sığorta bazarında da yaxşılaşmanın davam edəcəyi gö-
+zlənilir. Lakin müəyyən islahatların həyata keçirilməsi,
+həyat sığortası bazarının inkişafının stimullaşdırılması,
+həmçinin məcburi sığorta haqqında qanunun qəbul
+olun ması bu prosesin davamlı olmasını stimullaşdıra
+bilər.
+Sığorta bazarı
+Diaqram 30. Sığorta tələbinin strukturu
+icbari
+I rüb II rüb IV rübIII rüb
+I rüb II rüb IV rübIII rüb
+I rüb II rüb IV rübIII rüb
+əmlak
+təklif tələb
+həyat
+icbari əmlak həyat
+Diaqram 32. 2009-cu ildə sığorta bazarı
+Diaqram 31. 2009-cu ildə sığorta bazarı
+Azərbaycan iqtisadiyyatı - 2009
+31
+Cari ildə Azərbaycanda qiymətli kağızlar bazarın-
+dakı fəallıq makroiqtisadi proseslərin mühüm təsirinə
+məruz qaldı. 2009-cu ilin ilk aylarında maliyyə insti-
+tutları və real sektor arasında dövri əlaqələrin zəi-
+fləməsi iqtisadi fəallıqda kəskin durğunluqla müşahidə
+olundu. Valyuta bazarının volatallığı, banklar və digər
+iqtisadi subyektlərin likvidliyə olan tələbinin dəyiş -
+məsi dövlət qiymətli kağızlar bazarında əməliyyatlara
+ciddi təsir etdi. Belə ki, il ərzində dövlət  qiymətli kağı-
+zları bazarında aktivliyin azalması qeydə alındı.
+Mərkəzi Bankın yumşaq monetar siyasət yeritməsi və
+əsas sterilizasiya aləti olan qısamüddətli notların bu-
+raxılışını 5 dəfə azaltması da öz təsirini göstərdi.
+Bunun digər mühüm səbəbləri bazarın nisbətən aşağı
+gəlirliliyə malik olması və bazarda qiymətli kağızları
+“ödənişə qədər saxlamaq” strategiyasını üstün tutan
+iştirakçıların əksəriyyət təşkil etməsidir.
+Qiymətli kağızlar bazarında tranzaksiyaların
+həcminin ötən illə müqayisədə 9.7 milyard manatdan
+3.4 milyard manata düşməsinə baxmayaraq bazarın in-
+frastukturunda mühüm keyfiyyət dəyişiklikləri baş
+verib. Cari ildə Maliyyə Nazirliyi ortamüddətli qiy -
+mətli kağızlar və bir illik çağırılan istiqrazlar burax-
+maqla qiymətli kağızlar bazarında aktiv iştirakçıya
+çevrilib. Nəticədə, dövlət qiymətli kağızlarının həcmi
+55% artaraq 661 milyon manata çatıb.
+Qiymətli Kağızlar üzrə Dövlət Komitəsi müxtəlif
+alətlərdən istifadə edərək korporativ qiymətli kağızlar
+bazarının genişlənməsində aktiv iştirak edib. Korpo-
+rativ kağızların həm həcmi, həm də növləri cari ildə
+artıb. 2009-cu ildə Azərbaycan İpoteka Fondu ilk dəfə
+bazarda istiqraz yerləşdirib.
+Bakı Fond Birjası (BFB) tərəfindən yeni qeydiyyat
+qaydalarının qəbul edilməsi həm ilkin təkliflərin, həm
+də təkrar bazarda əməliyyatların artımına səbəb oldu.
+Nəticədə BFB-də korporativ səhmlər və istiqrazlarla
+tranzaksiyalar müvafiq olaraq 2.3 və 28 dəfə artıb.
+Fond bazarı
+Diaqram. T
+34 54
+MB-nin notları
+2091.7
+MB-nin notları
+354.7
+Dövlət 
+istiqrazları
+426.8
+Dövlət 
+istiqrazları
+661.1
+Korporativ 
+səhmlər
+367.0
+Korporativ 
+səhmlər
+342.4
+Korporativ istiqrazlar 
+47.7
+Korporativ 
+istiqrazlar 
+114.8
+62
+174
+197 42
+Korporativ 
+istiqrazlar
+Korporativ 
+səhmlər
+İPO, 2008 İPO, 2009 təkrar bazar,
+2008
+təkrar bazar,
+2009
+18
+18
+Diaqram 34. 2008-ci ildə qiymətli kağızların həcmi
+Diaqram 35. 2009-cu ildə qiymətli kağızların həcmi
+İlkin
+yerləşdirmə,
+2008
+İlkin
+yerləşdirmə,
+2009
+Diaqram 33. İlkin yerləşdirmə və təkrar bazar
+göstəriciləri. 2008-2009
+Azərbaycan iqtisadiyyatı - 2009
+32
+İQTİSADİYYATIN
+SAHƏ STRUKTURU
+Azərbaycan iqtisadiyyatı - 2009
+33
+Sənaye Azərbaycan  iqtisadiyyatında ən böyük xü-
+susi çəkiyə malik olan sahədir. Son illər ölkədə istehsal
+olunan Ümumi Daxili Məhsulun (ÜDM) yarıdan çoxu
+məhz bu sahədə formalaşır. 2009-cu ildə qlobal
+maliyyə-iqtisadi böhran nəticəsində neftin qiymətinin
+kəskin enməsi sənayenin ÜDM-dəki xüsusi çəkisinin
+2007-ci ildəki 59,5% və 2008-ci ildəki 57,4%-dən
+50% səviyyəsinə enməsinə səbəb oldu. Sənayenin
+Azərbaycan iqtisadiyyatda böyük paya malik ol-
+masının əsas səbəbi neft sektorudur. 2009-cu ildə sə-
+naye istehsalının 81,5%-i neft sektorunun  və ancaq
+18,5% -i  qeyri-neft sektorunun payına düşüb.
+Ötən il sənayedə 22,2 mlrd. manatlıq sənaye məh-
+sulu istehsal edilmiş, onun 75.7% mədənçıxarma,
+18.9%  emal, 5.4% elektrik enerjisi, qaz və suyun is-
+tehsalı və bölüşdürülməsi bölmələrində yaradılmışdı.
+Sənaye məhsulunun 90,7%-i  və ya 20,1 mlrd. man-
+atlıq həcmi Bakıda istehsal edilib. Paytaxtda sənaye
+istehsalının artımı 8,9% olduğu halda, ölkə üzrə bu
+gəstərici 8,6%-ə bərabər olub. Bu isə özlüyündə
+reğionlarda sənaye istehsalının orta ölkə göstəricindən
+aşağı olması deməkdir. Sənaye məhsulu istehsalında
+paytaxtın payının yüksək olması ilk növbədə karbo-
+hidrogen hasilatı ilə, istehsal artımı isə hasilatın fiziki
+həcmlərinin artımı ilə bağlıdır.  Digər iqtisadi rayon-
+larda sənaye məhsulunun istehsalı aşağıdakı kimi ol-
+muşdur:
+- Abşeron iqtisadi rayonu - 225,2 mln. manat (o
+cümlədən Sumqayıt 133,2 mln. manat);
+- Gəncə-Qazax iqtisadi rayonu - 147 mln. manat (o
+cümlədən Gəncə 63,8 mln. manat); 
+- Aran 587,2 mln. manat;
+- Naxçıvan 212,5 mln. manat; 
+Qalan  887 mln. manatlıq  istehsal digər 6 iqtisadi
+rayonun  payına düşüb.
+2009-cu ildə əsas sənaye məhsulları olan xam
+neftin həcmi 13.5% artaraq 50.4 mln. ton, əmtəəlik
+təbii qaz hasilatı isə 16.3 milyard kub metr olmuşdur
+(ümumi qaz hasilatı 23,6 milyard kub metr olmuşdur). 
+Sənayenin mədənçıxarma bölməsi ölkə iqtisadiy-
+yatı üçün xüsusi önəm daşıyır və bu sahədə istehsalın
+həcmi 16.8 mlrd. manat olaraq 2008-cu ilin göstəri-
+cisini 12.5% üstələmişdir. 
+2009-cu ildə Azərbaycan Beynəlxalq Əməliyyat
+Şirkəti (ABƏŞ) tərəfindən 41,9 mln. ton neft və ya
+16.8% çox, 10,1 milyard kub metr və ya 9,0% çox
+əmtəəlik təbii qaz hasil edilmişdir. Eyni zamanda, bu
+sahədə fəaliyyət göstərən müştərək müəssisələr xam neft
+hasilatını 5,5% artırmışlar. “Azəri-Çıraq-Günəşli”
+Sənaye
+Diaqram 37. 2009-ci ildə sənaye sahələri üzrə is-
+tehsalın dinamikası (2008-ci illə müqayisədə, %-lə)
+Diaqram 36. İqtisadi rayonlar üzrə sənaye 
+məhsulunun istehsalı (manatla)
+İllər
+Neft, milyon
+tonla
+Qaz, milyon
+kubmetrlə
+1995 9,2 6 644
+2000 14,0 5 642
+2001 14,9 5 535
+2002 15,3 5 144
+2003 15,4 5 128
+2004 15,5 4 995
+2005 22,2 5 732
+2006 33,2 9 080
+2007 42,6 16 850
+2008 44,5 22 800
+2009 50,4 23 600
+Cədvəl 10. Azərbaycanda neft və qaz hasilatı
+Mədənçıxarma
+sənayesi
+112.5%
+Abşeron
+225.2 mln.
+Aran
+587.2 mln.
+Gəncə-Qazax 
+147 mln.
+Digər iqtisadi rayonlar
+887 mln.
+Naxçıvan 
+212.5 mln.
+92.3%
+89.2%
+Emal sənayesi
+Elektrik 
+enerjisi, qaz və
+suyun istehsalı
+və bölüşdü -
+rülməsi
+Azərbaycan iqtisadiyyatı - 2009
+34
+yataqlar blokunu işlədən Konsorsium tərəfindən ötən il
+satılmış neftin 64,7%-i Azərbaycanın payına düşmüşdür. 
+Hasilatına 2009-cü ilin yayından başlanmış və iqti-
+sadiyyat üçün xüsusi önəmi olan qızıl hasilatı 333 kq
+səviyyəsində olmuşdur. 
+Sənayenin ikinci böyük xüsusi çəkiyə malik emal
+bölməsində 7,7%-lik azalma müşahidə olunub.  Bu-
+rada 4,2 mlrd. manatlıq məhsul istehsal olunmuşdur.
+İstehsalın daha çox hissəsi – içki və tütün də daxil ol-
+maqla qida məhsulları istehsalının payına düşmüşdür.
+Qida məhsullarından şəkər istehsalı 16.5% artaraq
+314.9 min ton, çay 8.4% artaraq 7.7 min ton, ət 2.8%
+artaraq 159.5 min ton, süd 3.0% artaraq 61.7 mln. dkl,
+kərə yağı 0.9% artaraq 14.2 min ton, şampan şərabı
+13.4% artaraq 40.6 min dkl, pivə 12.3% artaraq 3.6
+mln. dkl, araq 12.4% artaraq 841.8 min dkl olmuşdur.
+Məhsul növləri
+2009-cu ilin
+yanvar-
+dekabr ay-
+larında
+istehsal
+edilib
+Əvvəlki ilin 
+müvafiq
+dövrünə nis-
+bətən, %-lə
+01.01.2010-
+cu il
+vəziyyətinə
+hazır məhsul
+ehtiyatı
+Xam neft və təbii qaz hasilatı
+Xam neft, 1000 ton 50 376.3 113.5 213.8
+dövlət sektoru 7 254.9 98.4 140.7
+qeyri-dövlət sektoru 43 121.4 116.5 73.1
+Təbii qaz (səmt qazı daxil olmaqla), milyon m3 23 584.0 100.8 -
+o cümlədən əmtəəlik 16 322.7 99.9 -
+dövlət sektoru 6 215.3 88.2 -
+qeyri-dövlət sektoru 10 107.4 108.8 -
+İçki istehsalı (başqası göstərilmirsə, qeyri-dövlət sektoru)
+Şampan şərabı, 1000 dkl 40.6 113.4 7.9
+Araq, 1000 dkl 841.8 112.4 38.3
+Üzüm şərabı, 1000 dkl 407.5 49.9 111.1
+Pivə, 1000 dkl 3 627.6 112.3 193.9
+Brendi (konyak), 1000 dkl 21.1 33.7 53.2
+Alkoqolsuz içkilər, 1000 dkl 16 667.3 81.2 525.7
+Sair qida məhsullarının istehsalı  (başqası göstərilməyibsə, qeyri-dövlət sektoru)
+Qənd və şəkər tozu, min ton 314.9 116.5 1.1
+Çörək və çörək-bulka məmulatları, min ton 728.8 98.0 -
+Qənnadı məmulatları, ton 45 731.6 108.3 361.1
+dövlət sektoru 71.3 55.5 -
+qeyri-dövlət sektoru 45 660.3 108.4 361.1
+Qablaşdırılmış təbii çay, ton 7 731.0 108.4 366.6
+Papiros və siqaretlər, mln. ədəd 2 339.2 87.9 93.0
+Neft məhsullarının istehsalı (başqası göstərilməyibsə, dövlət sektoru)
+Avtomobil benzini, min ton 1237.7 93.8 30.1
+Neft-kimya sənayesində istifadə üçün benzin, min ton 260.3 84.4 13.6
+Ağ neft, min ton 609.6 79.1 10.5
+Dizel yanacağı, min ton 2 366.5 93.7 92.3
+Sürtkü yağları, min ton 44.9 67.9 12.3
+Neft bitumu, min ton 236.2 107.2 3.4
+Azərbaycan iqtisadiyyatı - 2009
+35
+Emal sənayesində ikinci böyük xüsusi çəkisi olan
+neft məhsullarının istehsalı sahəsində 1 mlrd. 346 mln.
+manatlıq məhsul istehsal olunmuşdur. İl ərzində
+1237.7 min ton avtomobil benzini, 609.6 min ton ağ
+neft, 2366.5 min ton dizel yanacağı istehsal edilmişdir.
+Avtomobil yollarının çəkilişi üçün mühüm əhəmiyyətə
+malik olan neft bitumunun istehsalı yanvar-dekabr ay-
+larında 7,2% artmış və 236.2 min ton təşkil etmişdir. 
+Kimya sənayesində, rezin və plastik kütlə məmu-
+latları istehsalı müəssisələri tərəfindən 163.1 mln.
+manatlıq məhsul istehsal edilmişdir. 2008-ci ilin orta-
+larında başlanmış maliyyə iqtisadi böhran ilə əlaqədar
+dünya bazarlarında neft-kimya məhsullarının şatış
+qiymətlərinin kəskin aşağı düşməsi 2009–cü ilin
+əvvəlindən kimya sənayesi müəssisələri üçün ciddi
+çətinliklər yaratmış və bu səbəbdən müəssisələr böyük
+fasilələrlə işləmişdir.
+2008-ci illə müqayisədə ötən il məhsul istehsalı
+kimya sənayesində 37.8%, rezin və plastik kütlə mə-
+mulatları istehsalında isə 15.0% azalmışdır.  Əsas
+kimya məhsullarından azotun, propilenin, polietilenin,
+izopropil spirtinin istehsalı aşağı düşmüşdür. Lak-boya
+məmulatlarının istehsalında (16.3 %), yuyucu mad-
+dələrin (31.4 %), plastik pəncərə qapaqlarının və jalüz -
+lərin (77.8 %) istehsalında artım olmuşdur. 
+Tikinti materialları sənayesində istehsal və
+Məhsul növləri
+2009-cu ilin
+yanvar-
+dekabr ay-
+larında
+istehsal
+edilmişdir
+Əvvəlki ilin 
+müvafiq
+dövrünə nis-
+bətən, %-lə
+01.01.2010-
+cu il
+vəziyyətinə
+hazır məhsul
+ehtiyatı
+Kimya sənayesi  (başqası göstərilməyibsə, dövlət sektoru)
+Azot, mln. kub metr 13.2 79.0 -
+Propilen, min ton 22.2 63.4 0.5
+Polietilen, min ton 41.8 64.6 3.2
+İzopropil spirti (mütləq), min ton 10.0 45.8 6.7
+Lak-boya məmulatları, ton (qeyri-dövlət sektoru) 2 728.8 116.3 299.8
+Sement, əhəng və gips istehsalı (başqası göstərilməyibsə, qeyri-dövlət sektoru)
+Sement, 1000 ton 1 280.9 80.3 13.9
+Tikinti gipsi, ton 45 617.1 118.9 961.3
+Tikinti əhəngi, ton 248.7 56.2 1.5
+dövlət sektoru 10.0 - 1.5
+qeyri-dövlət sektoru 238.7 54.0 -
+Metallurgiya (başqası göstərilməyibsə qeyri-dövlət sektoru)
+Çuquntökmə, ton 1 549.4 90.2 693.6
+dövlət sektoru 1 549.4 90.2 693.6
+Poladtökmə, min ton 49.5 66.2 1.4
+dövlət sektoru 39.2 59.9 -
+qeyri-dövlət sektoru 10.3 109.6 1.4
+Armatur, min ton 110.8 54.5 10.3
+Elektrik enerjisi, qaz və suyun istehsalı və bölüşdürülməsi
+Elektrik enerjisi, mln. kVt-saat 17 762.6 87.2 -
+o cümlədən:
+su elektrik stansiyalarının istehsalı 2 228.4 100.2 -
+istilik elektrik stansiyalarının istehsalı 15 534.2 85.6 -
+Cədvəl 11. Əsas sənaye məhsullarının istehsalı və dinamikası
+Azərbaycan iqtisadiyyatı - 2009
+36
+göstərilmiş xidmətlərin həcmi 15,1% azalmışdır. Bu
+sahədə əsas məhsullardan olan sement və sementdən
+hazırlanan məhsulların istehsalı tikintinin həcminin
+kəskin azalması ilə əlaqədar aşağı düşmüşdür. Ancaq
+asfalt istehsalı 2.0 dəfə artmış, həmçinin, keramika
+tavaları və lövhələrinin də istehsalı ötən illə müqay-
+isədə 41.9%, tikinti gipsi isə 18.9% çox olmuşdur.
+Müəssisələr tərəfindən 1.3 mln. ton sement, 18.9 min
+kub metr sementdən yığma-tikinti konstruksiyaları, 5.5
+min ton tikinti blokları istehsal edilmişdir. 
+Metallurgiya sənayesi və hazır metal məmulat-
+larının istehsalı müəssisələrində 170 mln. manatlıq
+məhsul istehsal olunmuş, xidmətlər göstərilmişdir. İl
+ərzində bu sahədə  1.5 min ton çuquntökmə, 312.5 ton
+məftil, 1621 ədəd alüminiumdan qapı və pəncərə blok-
+ları istehsal edilmişdir. 
+Maşın və avadanlıqların istehsalı, elektrik və elek-
+tron avadanlığı, nəqliyyat vasitələri və avadan-
+lıqlarının istehsalı sahəsində məhsul istehsalının həcmi
+347 mln. manat olmuşdur. Ölkədə ilk dəfə olaraq
+Gəncə Avtomobil Zavodunda 6 ədəd “Kəpəz” markalı
+avtokran istehsal edilmişdir. 2009-cu ildə 9227 ədəd
+televizor istehsal olunmaqla 16,7% çoxalmış, kassa
+aparatlarının istehsalı isə əvvəlki illə müqayisədə ar-
+taraq 284 ədəd olmuşdur.    
+Sənayedə elektrik enerjisi, qaz və suyun istehsalı
+və bölüşdürülməsi bölməsinin xüsusi çəkisi 5.4%-dir.
+Elektrik enerjisi istehsalının azalması səbəbindən  sahə
+üzrə sənaye məhsulunun və göstərilmiş xidmətlərin
+həcmi 10,8%  azalmış və 1 mlrd.203 mln. manat təşkil
+etmişdir. Ölkədə 17.8 milyard kVt-saat elektrik ener-
+jisi istehsal olunmuş, onun 12.5 %-i su elektrik stan-
+siyalarının, 87.5 %-i isə istilik elektrik stansiyalarının
+payına düşmüşdür. 
+Sənayedə fəaliyyət göstərən səhmdar cəmiy -
+yətlərinin məhsul istehsalı 839.3 mln. manat olmaqla,
+ümumi sənaye buraxılışının 3,8%-ni təşkil edib.
+2009-cu il  ölkədə fəaliyyət göstərən müəssisə və
+təşkilatlarda çalışan muzdlu işçilərin 12.1%-i və ya
+161.2 min nəfəri ölkə sənayesində işləmişdir. İşçilərin
+hər beş nəfərindən üçü sənayenin dövlət bölməsinə,
+hər beş nəfərindən ikisi isə qeyri-dövlət bölməsinə
+məxsus müəssisələrdə çalışmışdır. Mədənçıxarma sə-
+nayesi üzrə fəaliyyət göstərən müəssisələrdə çalışan
+işçilər bütün sənayeçilərin 22.7%-ni, elektrik enerjisi,
+qaz və suyun istehsalı və bölüşdürülməsi ilə məşğul
+olanlar 25.7%-ni, emal sənayesində çalışanlar isə
+51.6%-ni təşkil etmişdir. 
+Sənaye işçilərinin orta aylıq əmək haqqı 439
+manat təşkil etmiş və 2008-ci illə  müqayisədə 3,1%
+artmışdır. Qeyri-dövlət müəssisələrində işçilərin əmək
+haqqı 524 manat olmaqla dövlət müəssisələrində
+işləyənlərin əmək haqqından 1,4 dəfə yüksək olmuş-
+dur. Əmək haqqı emal sənayesində 7.6%, elektrik en-
+erjisi, qaz və suyun istehsalı və bölüşdürülməsi
+bölməsində  isə 4.4% artmışdır, mədənçıxarmada isə
+0,1% azalmişdir.
+Əgər qeyri-dövlət sektoru  əmək haqlarını böhran
+dövrünə müvafiq olaraq artırmamış, ümumilikdə 0,4%
+azaltmışdırsa, əksinə dövlət sektoru əmək haqlarını
+5,6% artırmışdir. Neft sektoru üzrə bir işçinin orta
+aylıq nominal əmək haqqı 990 manat olaraq 0,9%
+azalmışsa da, sektorda çalısan  Azərbaycan vətən-
+daşlarının əmək haqları 6,5% artaraq 752 manatı
+keçmisdir. 
+Neft məhsullarının  istehsalı sahəsində əmək
+haqları 10,9% artaraq 506 manata çatmışdır. Əmək
+haqlarının neftin dünya bazar qiymətlərinin düşməsi
+fonunda məhz bu sahədə artması iqtisadi nəzəriyyə ilə
+izah olunmasa da, sahənin dövlət inhisarında olub,
+hələ də Sovetlər üslubunda idarəolunması ilə çox asan
+izah olunur.
+Əmək haqqının daha yüksək səviyyəsi neft sek-
+torunda, nəqliyyat avadanlıqlarının istehsalı, metal-
+lurgiya və digər qeyri-metal mineral maddələrin
+istehsalı sahələrində müşahidə olunmuşdur.   
+Sənaye məhsullarının istehsalçı qiymətləri 2009-cu
+ildə 2008-ci ilə nisbətən 19,2 % azalmış və əsas
+bölmələr üzrə aşağıdakı kimi olmuşdur.
+2009/2008 
+(%-lə)
+Sənaye məhsullarının 
+istehsalçı qiymətləri indeksi 
+80.8
+Mədənçıxarma sənayesi 66.9
+o cümlədən:
+Neft və qaz hasilatı 66.6
+Mədənçıxarma sənayesinin
+digər sahələri 
+88.4
+Emal sənayesi 92.7
+Elektrik enerjisi, qaz və suyun
+istehsalı və bölüşdürülməsi
+100.9
+Cədvəl 12. Sənayedə itehsalçı qiymətləri indeksi
+Azərbaycan iqtisadiyyatı - 2009
+37
+Kənd təsərrüfatı sektorunun inkişafı regionlarda yox-
+sulluğun azaldılması və ərzaq təhlükəsizliyinin təmin ol-
+unması baxımından vacibdir. Aqrar sahə Azərbaycanın
+neft pullarının təsirinin az hiss olunduğu kənd yerləri
+üçün gəlirin və stabilliyin vacib mənbələrindəndir. Azər-
+baycanın ev təsərrüfatlarında ərzaq xərclərinin payı
+ələlxüsus da, kənd yerlərində, daha yüksəkdir. Beləliklə,
+kəndlərdə ev təsərrüfatları ərzaq ehtiyacının böyük bir
+hissəsini aqrar sahənin hesabına ödəyir.
+Azərbaycanın kənd təsərrüfatı sektorunda 2009-cu
+ildə 3.5 faiz artım qeydə alınıb. Kənd təsərrüfatında
+istehsalın təxminən 37%-i heyvandarlığın, 63%-i isə
+əkinçiliyin payına düşür.  Kənd təsərrüfatı naziri İsmət
+Abbasovun sözlərinə görə, 2009-cu ildə Azərbaycanda
+bəzi məhsul növlərində rekord göstəricilər əldə olunub
+və 2010-cu ildə bu ənənə davam edəcək. Rəsmi
+məlumatlata görə, 2009-cu ildə heyvandarlıqda 2.2%-
+lik yüksəlişə nail olunub. Bundan başqa, bu dövrdə
+kənd təsərrüfatı məhsullarının, xüsusilə təbii fəlakət
+nəticəsində pambıq və bəzi bostan bitkilərinin əkin
+sahəsi azalıb. Ölkədə pambıq plantasiyalarının azal-
+masına münasibət bildirən Abbasov qeyd edib ki,
+2010-cu ildə dünya bazarında pambığa tələb artdığın-
+dan qiymətlər yüksəlib. Nazirin sözlərinə görə, emal
+müəssisələri pambıq əkən fermerləri stimullaşdırmağa
+başlayacaq. Hətta bunun üçün fermerlərə zəruri
+maliyyə dəstəyi də verilə bilər.
+2009-cu ilin yanvar-avqustunda Azərbaycandan
+204.263 milyon dollarlıq kənd təsərrüfatı məhsulları,
+o cümlədən 93.4 milyon dollar məbləğində bitkiçilik,
+10.575 milyon dollar məbləğində heyvandarlıq məh-
+sulları ixrac edilib.
+Bu dövr ərzində Azərbaycana 449.691 milyon dol-
+larlıq kənd təsərrüfatı məhsulları, o cümlədən 174.251
+milyon dollarlıq bitkiçilik, 36.059 milyon dollarlıq hey-
+vandarlıq və 239.367 milyon dollarlıq ərzaq idxal edilib.
+Kənd təsərrüfatı məhsullarının satışı üçün 343
+yarmarka keçirilib, belə yarmarkalarda 77 min ton
+məhsul satılıb. 
+2009-cu ildə Azərbaycanda ÜDM-in 6.7%-i kənd
+təsərrüfatının payına düşüb. Rəsmi statistikaya görə,
+2009-cu ildə 2988.3 min ton taxıl, 1177.9 min ton
+tərəvəz, 983 min ton kartof, 721 min ton meyvə, 411
+min ton tarla bitkiləri istehsal edilib. 1995-ci illə
+müqayisədə ölkədə taxıl istehsalı 3.2 dəfə, tərəvəz is-
+tehsalı 2.8 dəfə, meyvə istehsalı 2.2 dəfə, kartof is-
+tehsalı 6.3% artıb. 2009-cu ildə Azərbaycanda 2320.6
+milyon manat dəyərində kənd təsərrüfatı məhsulu is-
+tehsal olunub. İstehsal olunmuş məhsulların faktiki
+qiymətlə məbləği 3433.4 milyon manat təşkil edib ki,
+bu da 2008-ci ilə nisbətən 3.5% çoxdur. 
+1999-cu ildə başlayaraq kənd təsərrüfatı məh-
+sullarının istehsalçıları torpaq vergisi istisna olmaqla,
+bütün vergilərdən azad edilib. Bundan başqa, fermer-
+lərin motor yağı, gübrə və yanacağın alınmasına xər-
+clədiyi vəsaitin 50 faizini hökumət ödəyir. Aqrar sahədə
+maddi-texniki təchizatı yaxşılaşdırmaq üçün qurulmuş
+"Aqrolizinq" istehsalçılara güzəştli qiymətlərlə xid-
+mətlər təklif edir. Kənd təsərrüfatında köhnəlmiş
+texnika ilə yerinə yetirilən işlər aşağı keyfiyyətli olur,
+nəticədə 30-40 milyon manat məbləğində məhsul itirilir.
+Buna görə də, cari tələbləri qarşılamaq üçün xidmət
+müəssisələrinin böyük şəbəkəsinin təşkili vacibdir. 
+«Aqrolizinq» Açıq Səhmdar Cəmiyyəti Azərbaycan
+Respublikasının Prezidenti İlham Əliyevin 23 oktyabr
+2004-cü il tarixli 468 nömrəli sərəncamı əsasında
+yaradılıb. Prezidentin 22 sentyabr 2005-ci il tarixli 1019
+nömrəli və 23 yanvar 2007-ci il tarixli 1907 nömrəli
+sərəncamları ilə Cəmiyyətin fəaliyyəti genişləndirilib.
+«Aqrolizinq» Açıq Səhmdar Cəmiyyətinin əsas vəzifəsi
+kənd təsərrüfatı məhsulu istehsalçılarının maddi-texniki
+bazasını möhkəm lən dirmək və onlara aqrotexniki xid-
+mətlər göstərməkdən ibarətdir. Cəmiyyət kənd təsərrü-
+fatı məhsulu istehsalçılarını əsasən kənd təsərrüfatı
+texnikası, texnoloji avadanlıq, ehtiyat hissələri, aq ro -
+kimyəvi maddələr və ziyanvericilərə qarşı mübarizə
+preparatları ilə təmin edir. 
+Cəmiyyət aqrar sahədə fəaliyyət göstərən sahibkarların
+sifarişləri əsasında sərfəli tariflə cəmi 20 addan çox müx-
+təlif xidmət işləri (əkin, səpin, becərmə, məhsul yığımı və
+sair) yerinə yetirir, məhsulun müasir texnologiyaya uyğun
+istehsalında onlara kömək göstərir. Cəmiyyətin respub-
+likanın rayonlarında 4 rayonlararası təchizat bazası, 55
+təsərrüfat hesablı rayon aqroservis filialı və onların 100-
+dən çox mexanikləşdirilmiş dəstələri, Bakı şəhərində 1
+Kənd təsərrüfatı
+Diaqram 38. Kənd təsərrüfatı istehsalının strukturu
+(mln.AZN)
+K/t Ev təs. Heyvandarlıq
+Azərbaycan iqtisadiyyatı - 2009
+38
+mərkəzi təchizat bazası Regionların Sosial-iqtisadi İnkişafı
+Dövlət Proqramının həyata keçirilməsində fəal iştirak edir. 
+Səhmdar Cəmiyyət 2005-ci ildən fermerləri 9467
+ədəd aqrar texnika, o cümlədən taxıl biçini üçün 990
+kombayn, 2494 traktor, kənd təsərrüfatı üçün 5843
+maşın və qoşqu, 46 ədəd texniki avadanlıqla təmin edib.
+Əkinçilik məhsullarının həcmi və strukturu 2009-cu
+ildə də dəyişib. Taxıl istehsalı 1999-cu ildəki 1098,3
+min tondan 2009-cu ildə 3000 min tona çatıb. Bundan
+başqa kartof, tərəvəz və meyvə istehsalı da kəskin artıb.
+Qeyd edilməlidir ki, 2009-cu ildə kartof, tərəvəz və
+bostan məhsullarının istehsalı illik tələbatı üstələyib və
+ixrac imkanları genişlənib. Buna baxmayaraq yenə də
+əkinçilik məhsullarının məhsuldarlığı aşağı səviyyədə
+qalır. Əgər məhsuldarlıq artırılsa, daha çox kənd təsər-
+rüfatı məhsulu istehsal edilə bilər ki, bu da ixracın artımı
+və idxalın əvəzlənməsi baxımından əhəmiyyətlidir.
+Azərbaycan Respublikası Prezidentinin 2008-ci il 25
+avqust tarixli sərəncamı ilə təsdiq edilmiş “2008-2015-
+ci illərdə Azərbaycan Respublikasında əhalinin ərzaq
+məhsulları ilə etibarlı təminatına dair Dövlət Proqramı”
+aqrar sahənin davamlı inkişafının təmin edilməsində
+mühüm rola malikdir. Dövlət Proqramının yerinə yetir-
+ilməsi ilə əlaqədar həmin sənəddə 164 tədbir nəzərdə
+tutulur ki, onun da 101-i kənd təsərrüfatı sahəsinə aiddir.
+Dövlət Proqramında əsas hədəf kimi 2015-ci ildə taxılın
+məhsuldarlığının hər hektardan 32 sentnerə, ümumi is-
+tehsalın 2.8 milyon tona, ət istehsalının 340 min tona,
+süd və süd məhsulları istehsalının 2.4 milyon tona, quş
+əti istehsalının 80 min tona, yumurta istehsalının 1.3
+milyard ədədə, kartof istehsalının 1.12 milyon tona,
+tərəvəz və bostan məhsulları istehsalının 1.72 milyon
+tona, meyvə istehsalının 800 min tona, çay yarpağı is-
+tehsalının 3 min tona çatdırılması nəzərdə tutulub. Proq -
+ramda qeyd edilən məqsədlərə nail olunması üçün aqrar
+sahənin qarşısında mühüm vəzifələr durur. Eyni za-
+manda, bu vəzifələrin yerinə yetirilməsi üçün dövlət
+tərəfindən fermerlərə qayğı və diqqət göstərilir.
+Son illərdə dövlət toxumçuluq, tingçilik və damazlıq
+müəssisələrində əvvəlki illərlə müqayisədə müəyyən
+irəliləyişlər əldə edilib. Kənd təsərrüfatı nazirinin müavini
+Aslan Aslanov bildirib ki, 2009-cu ildə ümumilikdə
+adıçəkilən təsərrüfatlarda 5931 hektar sahədə taxıl əkini
+aparılıb, 11171 min ton məhsul istehsal edilib ki, bu da
+2008-ci illə müqayisədə təqribən 2 min ton, 2007-ci illə
+müqayisədə isə 6 min ton çoxdur. 2009-cu ildə elmi-
+tədqiqat institutlarının təcrübə təsərrüfatlarında istehsal
+edilən elit və superelit toxumlarına görə dövlət büd-
+cəsindən ödənilən subsidiyaların həcmi 927.4 min manat,
+dövlət və özəl toxumçuluq təsərrüfatlarında istehsal
+edilən I və II reproduksiyalı toxumlara və tinglərə görə
+büdcə subsidiyalarının həcmi 5 milyon manat təşkil edib.
+Rusiya Federasiyasından gətirilmiş, özəl toxumçuluq
+təsərrüfatlarında əkilən I reproduksiyalı buğda toxumu-
+nun əkin sahəsi 953.8 hektar, məhsuldarlıq səviyyəsi 34.7
+sentner, ümumi məhsul istehsalı 3312.9 min ton, ondan
+kondisiyalı toxum istehsalı 2636.6 min ton təşkil edib.
+2008-ci illə müqayisədə 2009-cu ildə bütün təsərrü-
+fat kateqoriyaları üzrə mal-qaranın baş sayı və heyvan-
+darlıq məhsulları istehsalı artıb. Belə ki, 2009-cu il 1
+iyul vəziyyətinə, ölkə üzrə 2583.7 min baş qaramal, o
+cümlədən, 1248,5 min baş inək və camış, 8446.8 min
+baş qoyun və keçi mövcud olub ki, bu da 2008-ci illə
+müqayisədə müvafiq olaraq 2.0%; 2.1%; 1.6% çoxdur.
+1 iyul 2009-cu il vəziyyətinə, ölkə üzrə 147.3 min ton
+ət, 700.6 min ton süd, 614.1 min ədəd yumurta, 13.0
+min ton yun istehsal edilib. 2008-ci illə müqayisədə ət
+istehsalı 1.5 min ton, süd istehsalı 17.2 min ton, yumurta
+istehsalı 67.9 min ədəd, yun istehsalı 0.3 min ton artıb. 
+Heyvandarlıqda damazlıq təsərrüfatlarının fəaliyyətinin
+genişləndirilməsinə diqqət yetirilməsi aqrar sahənin
+davamlı inkişafının təmin edilməsi baxımından mühüm
+əhəmiyyətə malikdir. Bu baxımdan Azərbaycan Respub-
+likasında lizinq yolu ilə güzəştlə satın alınmış düyələrin
+Diaqram 39. 2008-ci il əkinçilik məhsullarının 
+istehsalı (1 000 ton) 
+Diaqram 40. Məhsuldarlıq (1000 s/ha)
+taxıl pambıq tütün kartof
+tərəvəz qarpız şəkər çuğ. günəbaxan
+ta
+xıl
+pa
+m
+bı
+q
+tü
+tü
+n
+ka
+rto
+f
+tə
+rə
+və
+z
+qa
+rp
+ız
+şə
+kə
+r ç
+uğ
+.
+gü
+nə
+ba
+xa
+n
+Azərbaycan iqtisadiyyatı - 2009
+39
+təsərrüfatlar üzrə paylanması təmin edilib. 3 sentyabr 2009-
+cu il tarixə, təsərrüfatlara 770 baş düyə satılıb, onlardan da
+535 başı bala verib. Bu praktikanın genişləndirilməsi
+hazırda diqqət mərkəzindədir. Ölkə üzrə kənd təsərrüfatı
+məhsulları istehsalının intensivləşdirilməsi hazırda qarşıda
+duran ən mühüm vəzifələrdən biri hesab olunur.
+İqtisadi İnkişaf Nazirliyi artıq beynəlxalq standart-
+lara cavab verən texnologiya əsasında soyuducu anbar
+komplekslərinin yaradılması üçün investisiya layi-
+hələrinin maliyyələşdirilməsi prosesinə start verib. Belə
+ki, 2009-cu il iyulun 31-də nazirliyin Sahibkarlığa
+Kömək Milli Fondu soyuducu anbar komplekslərinin
+tikintisi üzrə sahibkarlıq subyektlərinin təqdim etdiyi 12
+investisiya layihəsinin maliyyələşdiriləcəyini elan edib.
+Bu layihələr ölkənin 4 iqtisadi rayonunu əhatə edir:
+Quba-Xaçmaz iqtisadi rayonu üzrə 6, Aran iqtisadi ray-
+onu üzrə 4, Lənkəran və Gəncə-Qazax iqtisadi rayon-
+larının hər birində 1 investisiya layihəsi nəzərdə tutulur.
+Hər biri 2000 tonluq olan anbarlardan Aran, Lənkəran,
+Quba-Xaçmaz və Gəncə-Qazax iqtisadi rayonlarında
+meyvə-tərəvəz və digər ərzaq məhsullarının tədarükü,
+saxlanılması və satışı üçün istifadə olunacaq.
+2009-cu ildə dövlətin kənd təsərrüfatı istehsalına vergi
+imtiyazı, güzəştli subsidiyalaşdırma və kerditləşdirmə
+siyasəti, habelə investisiya qoyuluşu hesabına verdiyi
+dəstək 700 milyon manat civarında olub.
+2009-cu ildə də kommersiya kreditinin faiz dərəcələri
+ilə kənd təsərrüfatında rentabellik səviyyəsi arasında
+kəskin fərq olması aqrar sahəni bank kapitalı üçün
+maraqsız edib. Xüsusilə, qlobal iqtisadi böhran şəraitində
+özəl banklar aqrar sektora kredit ayırmağa bir o qədər də
+həvəs göstərməyib. 8641.5 min hektar torpaq fondu olan
+Azərbaycanda ərazinin yalnız 54.9%-i kənd təsərrüfatına
+yararlıdır. Bu ərazilərin də əksəriyyəti - 2915.4 min hektarı
+daimi bitkilər (bağlar, üzümlüklər, tingliklər, çay plan-
+tasiyaları) otlaqlar və biçənəklər altında olan torpaqlardır.
+Cəmi 1.8 milyon hektar sahə şumluq kimi istifadə olunur.
+Suvarılan torpaqlar ölkənin kənd təsərrüfatına
+yararlı torpaq sahələrinin üçdə birini (1432.7 min hek-
+tar) təşkil etsə də, ölkədə istehsal olunan kənd təsər-
+rüfatı məhsullarının 90-95%-i bu torpaqların payına
+düşür. Suvarılan torpaqların təxminən üçdə birindən
+çoxu (565 min hektarı) mexaniki üsulla, 349.4 min
+hektarı elektrikləşmənin köməyi, 68.2 min hektar
+dizel-nasos stansiyaları, 147.7 min hektarı isə sub-
+artezian quyuları vasitəsi ilə suvarılır.
+Azərbaycan Respublikası arid zonada yerləşir,
+onun su ehtiyatları olduqca məhduddur. Yerüstü su
+ehtiyatları 32.2 milyard kubmetr təşkil edir və
+quraqlıq illərdə 22.6 milyard kubmetrə qədər azalır.
+Yeraltı su ehtiyatları isə 5.2 milyard kubmetrdir. Re-
+spublikada orta  illik  su çatışmazlığı 4.5-5 milyard
+kubmetr arasında dəyişir. Yerüstü su ehtiyatlarının 70
+faizi  ölkə  hüdudlarından  xaricdə formalaşır. Daxili
+çayların əsas sərfi yaz dövrünə düşdüyündən və ək-
+səriyyətinin axını tənzimlənmədiyindən, sel və daşqın
+sularından tam istifadə etmək mümkün olmur.  Sellər
+və daşqınlar hər il ölkə iqtisadiyyatına külli miqdarda
+ziyan vurur. Onların  zərərli təsirinə yüzlərlə yaşayış
+evi, min hektarlarla  əkin sahələri,  dəmir və avtomobil
+yolları, elektrik xətləri, qaz kəmərləri, kanallar və
+kollektorlar, hidrotexniki qurğular, digər mühəndis
+kommunikasiyaları məruz qalır. Daxili çayların sulu
+dövrü əsasən yaz və payız mövsümlərinə təsadüf et-
+diyinə  və onların əksərinin axını tənzimlənmədiyinə
+görə, onlardan səmərəli istifadə etmək mümkün olmur.
+Hazırda respublikada orta illik su çatışmazlığı 3.7 kub
+km, quraqlıq illərdə isə 4.75 kub km təşkil edir. Çay-
+lardan ekoloji, energetika və digər məqsədlər üçün
+məcburi su buraxmalarını nəzərə alsaq, su çatışmaz -
+lığının miqdarı təsəvvürəgəlməz qiymətə malik olar.    
+Ümumiyyətlə, respublikada il ərzində 10-13 kub
+km su istifadə olunur ki, onun 60-70%-i kənd təsərrü-
+fatının, 20-25%-i sənayenin, qalan hissəsi isə təsərrü-
+fat və içməli su tələbatının ödənilməsinə sərf edilir.
+Diaqram 41. İqtisadiyyata sektorlar üzrə qoyulan 
+birbaşa kapital (milyon manatla) 
+Cədvəl 13. Azərbaycanın torpaq ehtiyatları
+Topraq növü Sahəsi
+Torpaq sahəsi (1 000 ha) 8 260
+Şumluq torpaq (1 000 ha) 1 760
+Daimi bitkilər (1 000 ha) 71
+Otlaqlar (1 000 ha) 1 920
+Suvarılan torpaqlar 1 455
+Sudan istifadə, xüsusi çəki
+Kənd təsərrüfatı 67.5%
+Sənaye 27.7%
+Ev təsərrüfatı 4.8%
+sənaye
+kənd təsərrüfatı
+tikinti
+nəqliyyat və 
+rabitə
+digər
+Azərbaycan iqtisadiyyatı - 2009
+40
+PROQNOZLAR
+Azərbaycan iqtisadiyyatı - 2009
+41
+2010-cu il dövlət büdcəsinin gəlirləri ümumi daxili
+məhsulun 31,5 faizini təşkil etməklə 10015,0 mln.
+manat, o cümlədən qeyri-neft sektoru üzrə daxilol-
+malar 3570,0 mln. manat olacağı gözlənilir. Bu 2009-
+cu ilin təsdiq olunmuş proqnozu ilə müqayisədə
+2025,0 mln. manat və ya 16,8 faiz az,  gözlənilən dax-
+ilolmalarla müqayisədə 314,0 mln. manat və ya 3,2
+faiz çoxdur. Qeyd etmək lazımdır ki, 2010-cu ildə
+dövlət büdcəsi gəlirlərinin ümumi daxili məhsulda xü-
+susi çəkisi 2009-cu il dövlət büdcəsinin təsdiq olun-
+muş gəlirlər üzrə göstəricilərinin hesablanması üçün
+qəbul edilmiş ÜDM-də xüsusi çəkisi ilə müqayisədə
+3,9 faiz çoxdur.
+Beləliklə də 2010-cu ilin büdcə gəlirlərində  Azər-
+baycan Respublikası Dövlət Neft Fondundan trans-
+fertlərin payının 49,07 faiz, Azərbaycan Res pub likasının
+Vergilər Nazirliyi üzrə daxil olmaların 39,7 faiz, Azər-
+baycan Respublikasının Dövlət Gömrük Komitəsi üzrə
+daxil olmaların isə  10,98 faiz olacağı gözlənilir.
+2010-cu il dövlət büdcəsi gəlirlərinin 
+strukturu və əsas mənbələri 
+Cədvəl 14. Dövlət büdcəsinin gəlirləri və xərcləri
+Diaqram 42. Dövlət büdcəsi
+95.4% 
+mərkəzləşdirilmiş gəlirlər
+4.6% yerli gəlirlər
+İllər 2003 2007 2008 2009
+Dövlət büdcəsinə daxilolmalar (milyon manat)
+Artım, faizlə
+1 220.9
+34.1
+6 007.3
+55
+10 763.0
+79.2
+10 325.9
+-4.1
+Neft gəlirləri (milyon manat)
+Artım, faizlə
+470
+35.8
+3 564
+58
+7 299.6
+104.8
+6 897
+-5.5
+Qeyri-neft gəlirləri (milyon manat)
+Artım, faizlə
+751
+32.9
+2 443.3
+51
+3 463.4
+41.8
+3 429
+-1.0
+Dövlət büdcəsinin xərcləri (milyon manat)
+Artım, faizlə
+1 235
+32.5
+6 058.7
+6.0
+10 680
+76.3
+10 503.9
+-2.5
+o cümlədən investisiya qoyuluşları (milyon manat)
+Artım, faizlə
+90 1 915
+2.2
+4 276
+2.1
+3 177.0
+-25.7
+2010-cu İLİN 
+DÖVLƏT BÜDCƏSİ
+Azərbaycan iqtisadiyyatı - 2009
+42
+2010-cu ildə Vergilər Nazirliyi üzrə dövlət büdcəsi -
+nə 3980,0 mln. manat daxilolma nəzərdə tutulur ki, bu
+da cari il üzrə təsdiq olunmuş proqnozdan 1770,0 mln.
+manat və ya 30,8 faiz az, gözlənilən daxilolmadan
+354,0 mln. manat və ya 9,8 faiz çoxdur. Proqno-
+zlaşdırılan daxilolmaların 38,4 faizi və ya 1530,0 mln.
+manatı neft sektorunun, 2450,0 mln. manatı isə qeyri-
+neft sektorunun payına düşür.
+Ümumilikdə Vergilər Nazirliyi üzrə daxilolmaların
+dövlət büdcəsi gəlirlərinin 39,7 faizini təşkil edəcəyi
+proqnozlaşdırılır ki, bu da 2009-cu ilin gözlənilən
+daxil olmalarına nisbətən 2,3 faiz çoxdur.
+Vergi orqanlarının xətti ilə qeyri-neft sektorundan
+2450,0 mln. manat vəsaitin dövlət büdcəsinə təmin
+edilməsi nəzərdə tutulur ki, bu da 2009-cu ilin təsdiq
+olunmuş proqnozu ilə müqayisədə 620,0 mln. manat
+və ya 20,2 faiz az, gözlənilən daxilolmalarla müqay-
+isədə 134,0 mln. manat və ya 5,8 faiz çoxdur. 2010-cu
+ildə qeyri-neft sektorundan daxilolmaların ümumi
+daxili məhsulda xüsusi çəkisi 7,7 faiz təşkil edir ki, bu
+da 2009-cu ilin təsdiq olunmuş proqnozu ilə müqay-
+isədə 0,7 faiz çoxdur.
+2010-cu ildə Vergilər Nazirliyi xətti ilə rayon və
+şəhərlərin yerli gəlirləri üzrə daxilolmalar (Bakı şəhəri
+istisna olmaqla) 347,1 mln. manat nəzərdə tutulur.
+Həmin gəlirlər dövlət büdcəsinə Vergilər Nazirliyi
+xətti ilə nəzərdə tutulan daxilolmaların 8,7 faizini
+təşkil edir ki, bu da 2009-cu illə müqayisədə 2,5 faiz
+çoxdur.
+Dövlət Gömrük Komitəsinin xətti ilə təmin edilən
+vəsaitin dövlət büdcəsində xüsusi çəkisi 11,0 faiz,
+toplanacaq vergi və rüsumlar üzrə daxilolmanın
+1100,0 mln. manat olacağı nəzərdə tutulur ki, bu da
+2009-cu ilin təsdiq olunmuş proqnozu ilə müqayisədə
+200,0 mln. manat və ya 15,4 faiz, gözlənilənə nisbətən
+isə 1,8 faiz və ya 20,0 mln. manat azdır. 2010-cu il
+üçün Dövlət Gömrük Komitəsi üzrə mədaxil proq -
+nozunun ümumi daxili məhsulda xüsusi çəkisi 3,4 faiz
+təşkil edir ki, bu da 2009-cu ilin təsdiq olunmuş pro-
+qnozu ilə müqayisədə 0,4 faiz çoxdur.
+Makroiqtisadi proqnoz göstəricilərinə əsasən 2010-
+cu ildə qeyri-neft sektoru və idxalın 6373,1 mln. ABŞ
+dolları səviyyəsində proqnozlaşdırılması Dövlət Göm-
+rük Komitəsinin xətti ilə təmin ediləcək daxilolmaların
+2008-ci il səviyyəsində müəyyən edilməsinə səbəb ol-
+muşdur.
+Əmlak Məsələləri Dövlət Komitəsi tərəfindən
+dövlət mülkiyyətində olan əmlakın icarəyə veril -
+məsindən dövlət büdcəsinə 5,0 mln. manat daxilol-
+manın təmin ediləcəyi gözlənilir ki, bu da 2009-cu ilin
+təsdiq olunmuş proqnozuna nisbətən 0,3 mln manat və
+ya 6,4 faiz çoxdur.
+2010-cu il ərzində icmal büdcənin tərkib hissəsi
+olan Dövlət Neft Fondundan dövlət büdcəsinə  birbaşa
+transfertlər 4915,0 mln. manat proqnozlaşdırılır ki, bu
+da 2009-cu il səviyyəsindədir.
+Sair mənbələrdən dövlət büdcəsinə 15,0 mln.
+mana tın daxil olacağı proqnozlaşdırılır.
+Ayrı-ayrı gəlir növləri üzrə daxilolmalar aşağıdakı
+kimi proqnozlaşdırılır:
+Fiziki şəxslərin gəlir vergisi üzrə daxilolmalar
+ümumi büdcə gəlirlərinin 6,8 faizini təşkil etməklə
+680,0 mln. manat nəzərdə tutulur. Ölkənin əsas
+makroiqtisadi proqnoz göstəricilərinə əsasən 2010-cu
+ildə orta aylıq əmək haqqının 16,9 faiz artımı, habelə
+Vergi Məcəlləsinə edilmiş əlavə və dəyişikliklərə
+əsasən fiziki şəxslərin muzdlu fəaliyyətindən əldə olu -
+nan aylıq gəlirin 2000 manatdan çox olan hissəsi üçün
+tətbiq edilən vergi dərəcəsinin 35 faizdən 30 faizə
+endirilməsi nəticəsində 23,0 mln. manat ehtimal olu-
+nan itki nəzərə alınmaqla bu tədiyyə növü üzrə proq -
+noz cari ilin gözlənilən icrasına nisbətdə 38,0 mln.
+manat və ya 5,9 faiz çox nəzərdə tutulur. Bu tədiyyə
+növü üzrə daxilolmaların ümumi daxili məhsulda xü-
+susi çəkisi 2,1 faiz təşkil edir ki, bu da 2009-cu ilin
+təsdiq olunmuş proqnozu ilə eyni səviyyədədir.
+Hüquqi şəxslərin mənfəət vergisi üzrə daxilolma
+proqnozu dövlət büdcəsi gəlirlərinin 10,9 faizini təşkil
+etməklə 1096,0 mln. manat nəzərdə tutulur ki, bu da
+cari ilin təsdiq olunmuş proqnozu ilə müqayisədə
+1118,0 mln. manat və ya 50,5 faiz azdır. Mənfəət ver-
+gisi üzrə daxilolmaların 330,0 mln. manatını Xəzər
+dənizinin Azərbaycan sektorunda Azəri, Çıraq
+yataqlarının və Günəşli yatağının dərinlikdə yerləşən
+Мянбяляр цзря дахилолмалар Милйон манатла Фаизля
+Азярбайъан Республикасынын Верэиляр Назирлийи цзря  3 980,0 49,07
+Азярбайъан Республикасынын Дювлят Эюмрцк Комитяси цзря  1 100,0 10,98
+Азярбайъан Республикасы Дювлят Нефт Фондундан трансфертляр  4 915,0 39,70
+Саир дахилолмалар 20,0 0,25
+Cədvəl 15. 2010-cu il dövlət büdcəsi gəlirlərinin əsas mənbələri
+Azərbaycan iqtisadiyyatı - 2009
+43
+Верэи вя саир дахилолмалар
+Мябляь, 
+мин манатла
+Хцсуси чякиси, 
+фаизля
+Физики шяхслярин эялир верэиси 680 000,0 6,78
+Щцгуги шяхслярин мянфяят (эялир) верэиси 1 096 000,0 10,94
+Ялавя дяйяр верэиси 1 876 000,0 18,73
+Аксиз 552 000,0 5,51
+Щцгуги шяхслярин ямлак верэиси 101 000,0 1,0
+Щцгуги шяхслярин торпаг верэиси 35 000,0 0,34
+Йол верэиси 40 500,0 0,40
+Мядян верэиси 130 000,0 1,29
+Садяляшдирилмиш верэи 90 000,0 0,89
+Эюмрцк рцсумлары 213 500,0 2,13
+Дювлят рцсуму 73 000,0 0,72
+Дювлят мцлкиййятиндя олан торпагларын иъаряйя верилмясиндян дахилолмалар 4 000,0 0,03
+Дювлят ямлакынын, юзялляшдирилян дювлят мцяссися вя обйектляринин алтын-
+дакы торпагларын иъаряйя верилмясиндян дахилолмалар
+5 000,0 0,04
+Азярбайъан Республикасында истещсал едилян вя гиймятляри тянзимлянян
+мящсулларын контракт (сатыш) гиймяти иля (ихраъ хяръляри чыхылмагла) юлкяда-
+хили топдансатыш гиймяти арасындакы фяргдян дахилолмалар
+164 000,0 1,63
+Хариъи дювлятлярин щюкумятляриня верилмиш кредитляр цзря дахил олмалар 468,0 0,00
+Сящмляриндя дювлятин пайы олан банклардан вя диэяр кредит тяшкилатларын-
+дан алынан дивидендляр
+80,0 0,00
+Азярбайъан Республикасынын дювлят зяманяти иля кредит тяшкилатларындан
+алынмыш кредитляр цзря дахилолмалар
+1 780,0 0,01
+Гейри-малиййя дювлят мцяссисяляриндян алынан дивидендляр 1 200,0 0,01
+Дювлят Нефт Фондундан дахилолмалар 4 915 000,0 49,07
+Бцдъядян верилмиш кредитляр цзря дахилолмалар 5 850,0 0,05
+Мцвафиг иъра щакимиййяти органы иля ясас вя тякрар боръалан щцгуги шяхсляр
+арасында баьланмыш тякрар мцгавиляляр вя кредитлярин истифадяси иля ялагядар
+васитячи (аэент) банкларла баьланан мцгавиляляр цзря дювлят бцдъясиня дахи-
+лолмалар
+2 900,0 0,02
+Аксиз маркаларынын сатышындан дахилолмалар 2 722,0 0,02
+Саир эялирляр 25 000,0 0,24
+Cədvəl 16. 2010-cu il dövlət büdcəsi gəlirlərinin strukturu
+Azərbaycan iqtisadiyyatı - 2009
+44
+hissəsinin birgə işlənilməsi və neft hasilatının pay böl-
+güsü haqqında saziş üzrə podratçı tərəflərin mənfəət
+vergisi məbləği təşkil edir. Qeyd olunmalıdır ki, 2010-
+cu ilin yanvar ayının 1-dən mənfəət vergisinin 22
+faizdən 20 faizə endirilməsi ilə bağlı gözlənilən 90,2
+mln. manat itki bu vergi növü üzrə proqnozun hazır-
+lanması zamanı nəzərə alınmışdır.
+Əlavə dəyər vergisi üzrə 1876,0 mln manat daxil -
+olma nəzərdə tutulmuşdur ki, bunun da 1078,0 mln.
+manatı vergi, 798,0 mln. manatı isə gömrük orqan-
+larının payına düşür. Əlavə dəyər vergisi üzrə daxilol-
+maların büdcə gəlirlərinə nisbəti 18,7 faiz olacaq.
+Qeyd etmək lazımdır ki, 2010-cu il üçün əlavə dəyər
+vergisinin ümumi daxili məhsulda xüsusi çəkisi 5,9
+faiz təşkil edəcək ki, bu da 2009-cu ilin təsdiq olun -
+muş proqnozu ilə müqayisədə 0,6 faiz, o cümlədən
+Vergilər Nazirliyi üzrə 0,2 faiz, Dövlət Gömrük
+Komitəsi üzrə isə 0,4 faiz çoxdur.
+2010-cu il dövlət büdcəsi gəlirlərinin 5,5 faizini
+təşkil edəcək aksiz vergisi üzrə 552,0 mln. manat
+daxil olma proqnozlaşdırılır ki, bunun da 470,0 mln.
+manatının Vergilər Nazirliyi, 82,0 mln. manatının isə
+Dövlət Gömrük Komitəsi vasitəsi ilə təmin olunacağı
+gözlənilir. Bu da 2009-cu ilin təsdiq olunmuş proq -
+nozu ilə müqayisədə 67,0 mln. manat və ya 13,8 faiz
+çoxdur. 2010-cu il üçün daxilolma proqnozunun
+ÜDM-də xüsusi çəkisi 1,8 faiz təşkil edir ki, bu da
+2009-cu ilin təsdiq olunmuş proqnozu ilə müqayisədə
+0,7 faiz, o cümlədən Vergilər Nazirliyi üzrə 0,6 faiz,
+Dövlət Gömrük Komitəsi üzrə isə 0,1 faiz çoxdur.
+Növbəti il üçün mədən vergisi üzrə 130,0 milyon
+manat daxilolma nəzərdə tutulur. Qeyri-neft sektorun-
+dan mədən vergisi üzrə proqnoz cari ilin gözlənilən
+daxilolmasına nisbətən 33,3 faiz və ya 1,0 mln. manat
+çox nəzərdə tutulur.
+Hüquqi şəxslərin əmlak vergisi üzrə 101,0 mln.
+manat və ya cari ilin gözlənilən icrasına nisbətən 6,3
+faiz artım nəzərdə tutulub. Qeyd edək ki, qeyri-neft
+sektorundan cari ilin sonuna qədər gözlənilən vergi
+yığımlarının məbləği ilə müqayisədə bu artım 15,6 faiz
+çox təşkil edəcək.
+2010-cu ildə yol vergisindən vergi orqanlarının
+xətti ilə 34,0 mln. manat, Dövlət Gömrük Komitəsinin
+xətti ilə isə 6,5 mln. manat daxilolma nəzərdə tutulub
+ki, bu da 2009-cu ilin təsdiq olunmuş proqnozu ilə
+müqayisədə 4,2 mln. manat və ya 11,6 faiz çoxdur. Bu
+tədiyyə növü cari ilin gözlənilən icrasına nisbətən
+Vergilər Nazirliyi üzrə 13,0 faiz və ya 3,9 mln. manat,
+Dövlət Gömrük Komitəsi üzrə 8,3 faiz və ya 0,5 mln
+manat artım nəzərdə tutulur.
+Hüquqi şəxslərin torpaq vergisi üzrə növbəti il
+üçün də cari ildə gözlənildiyi həcmdə (35 mln. manat)
+daxilolma proqnozlaşdırılır.
+Sadələşdirilmiş vergi növü üzrə 90 mln manat dax-
+Д
+юв
+ля
+т я
+са
+сл
+ы в
+яс
+аи
+т г
+ой
+у
+лу
+шу
+ 
+35
+49
+.0
+ м
+лн
+. м
+ан
+ат
+М
+ц
+да
+фи
+я 
+12
+05
+.8
+ м
+лн
+. м
+ан
+ат
+Т
+ящ
+си
+л 
+12
+76
+.8
+ м
+лн
+. м
+ан
+ат
+Ф
+он
+дл
+ар
+, б
+ц
+дъ
+яд
+ян
+кя
+н
+ар
+ в
+яс
+аи
+тл
+яр
+ в
+я 
+с.
+97
+7.
+3 
+м
+лн
+. м
+ан
+ат
+ 
+С
+ос
+иа
+л м
+ц
+да
+фи
+я 
+вя
+ с
+ос
+иа
+л т
+ям
+ин
+ат
+11
+92
+.3
+ м
+лн
+. м
+ан
+ат
+Ц
+м
+у
+м
+и д
+юв
+ля
+т х
+ид
+м
+ят
+ля
+ри
+10
+42
+.3
+ м
+лн
+. м
+ан
+ат
+М
+ящ
+кя
+м
+я,
+ щ
+ц
+гу
+г,
+ м
+ц
+щ
+аф
+из
+я 
+вя
+ п
+ро
+ку
+ро
+рл
+у
+г
+70
+7.
+4 
+м
+лн
+. м
+ан
+ат
+С
+ящ
+ий
+йя
+ 
+47
+9.
+4 
+м
+лн
+. м
+ан
+ат
+К
+ян
+д 
+тя
+ся
+рр
+ц
+фа
+ты
+38
+2.
+7 
+м
+лн
+. м
+ан
+ат
+М
+яд
+ян
+ий
+йя
+т, 
+ин
+ъя
+ся
+н
+ят
+, и
+н
+фо
+рм
+ас
+ий
+а,
+ б
+яд
+ян
+ тя
+рб
+ий
+яс
+и
+17
+2.
+8 
+м
+лн
+. м
+ан
+ат
+М
+ян
+зи
+л-
+ко
+м
+м
+у
+н
+ал
+20
+1.
+2 
+м
+лн
+. м
+ан
+ат
+Н
+яг
+ли
+йй
+ат
+ в
+я 
+ра
+би
+тя
+77
+.0
+ м
+лн
+. м
+ан
+ат
+31.5 10.7 11.3 8.7 10.6 9.3 6.3 4.3 3.4
+1.5 1.8
+0.7
+Diaqram 43. 2010-cu il dövlət büdcəsi xərclərinin bölmələr üzrə xüsusi çəkisi
+Azərbaycan iqtisadiyyatı - 2009
+45
+ilolma proqnozlaşdırılır ki, bu da 2009-cu ilin təsdiq
+olunmuş proqnozuna nisbətən 12 mln. manat və ya
+15,4 faiz çoxdur. 2010-cu ilin yanvar ayının 1-dən tət-
+biqinə başlanılacaq Vergi Məcəlləsinə edilmiş əlavə və
+dəyişikliklərə müvafiq olaraq hüquqi şəxslərin
+sadələşdirilmiş vergi üzrə vergi tutulan əməliyyat-
+larının həcmi 90 min manatdan 150 min mana ta dək
+artırılması ilə bağlı gözlənilən əlavə da xil olmalar
+hesablamalarda nəzərə alınıb.
+2010-cu il üçün dövlət rüsumu üzrə 73 mln. manat
+daxilolma proqnozlaşdırılır ki, bu da cari ilin təsdiq
+olun muş proqnozu ilə müqayisədə 13,0 mln. manat və
+ya 21,7 faiz artım deməkdir.
+Sair daxilolmalar üzrə növbəti il 189,0 mln. manat
+daxilolma gözlənilir ki, bunun da 157 mln. manatı neft
+sektorunun payına düşür. Neft sektoru çıxılmaqla sair
+daxilolmalar 2009-cu ilin təsdiq olunmuş proq nozu ilə
+müqayisədə 12 mln. manat və ya 50,1 faiz çoxdur.
+Dövlət mülkiyyətində olan torpaqların icarəyə
+veril məsindən daxilolmalar üzrə növbəti il üçün cari
+ildə gözlənilən həcmdə (4 mln. manat) daxilolma
+proq nozlaşdırılır.
+Gömrük rüsumlarından 2010-cu il ərzində dövlət
+büdcəsinə 213,5 mln. manatın daxil olacağı proqnoz -
+laşdırılır.
+2010-cu ildə dövlət büdcəsinin xərcləri dövlətin
+orta və uzunmüddətli prioritetlərini özündə birləşdirən
+iqtisadi xəttinin həyata keçirilməsinə, sosial-iqtisadi
+inkişaf sürətinin qorunub saxlanılmasına, iqtisadiyya -
+tın tənzimlənməsi və stimullaşdırılmasına, ölkəmizin
+iqtisadi qüdrətinin daha da artırılmasına, milli
+maraqlarımızın beynəlxalq miqyasda təmin edilməsi -
+nə, regionların tarazlı inkişafına, qeyri-neft sektorunun
+və sahibkarlığın inkişaf etdirilməsinə, istehsal və sosial
+infrastrukturların müasir tələblər səviyyəsində qurul-
+masına, xalqın rifah halının yaxşılaşdırılmasına
+maliyyə təminatı olacaq.
+2010-cu ildə də dövlət büdcəsi xərclərinin struktu-
+runun və icrası prosesinin təkmilləşdirilməsi, bu
+sahədə şəffaflığın və ünvanlılığın təmin edilməsi is-
+Diaqram 44. 2010-cu il dövlət büdcəsi xərclərinin
+strukturu
+58.5% 
+cari xərclər (6590.4 mln. AZN)
+2.6%
+kreditlərə və faizlərə
+xidmətlə bağlı xərclər
+(287.1 mln. AZN)
+38.9% 
+əsaslı xərclər (4386.5 mln. AZN)
+Büdcə xərcləri Min AZN %-lə
+1 Dövlət əsaslı vəsait qoyuluşu 3 549.0 31.50
+2 Müdafiə 1 205.8 10.70
+3 Təhsil 1 276.8 11.33
+4 Fondlar, büdcədənkənar vəsaitlər və s. 977.3 8.67
+5 Sosial müdafiə və sosial təminat 1 192.3 10.58
+6 Ümumi dövlət xidmətləri 1 042.3 9.25
+7 Məhkəmə, hüquq-mühafizə və prokurorluq 707.4 6.28
+8 Səhiyyə 479.4 4.25
+9 Kənd Təsərrüfatı 382.7 3.39
+10 Cultural, Arts, IT and Gymnastics 172.8 1.53
+11 Mənzil-kommunal 201.2 1.78
+12 Nəqliyyat və rabitə 77.0 0.68
+Cədvəl 17. 2010-cu il dövlət büdcəsi xərclərinin bölmələr üzrə xüsusi çəkisi
+Azərbaycan iqtisadiyyatı - 2009
+46
+tiqamətində işlər davam etdiriləcək.
+2010-cu il dövlət büdcəsinin xərcləri ümumi daxili
+məhsulun 35,4 faizi həcmində və ya 2009-cu ilin gö-
+zlənilən icrasına nisbətən 2,8 faiz çox nəzərdə tutulur.
+Kəsirin maliyyələşmə mənbələri və Dövlət Neft
+Fondundan ayrılan 4915,0 mln manat transfert nəzərə
+alınmaqla, 2010-cu il dövlət büdcəsinin xərcləri
+11264,0 mln manat proqnozlaşdırılır ki, bu da 2009-
+cu ilin təsdiq olunmuş göstəricilərinə nisbətən 1091,0
+mln. manat və ya 8,8 faiz az, 2009-cu ilin gözlənilən
+icrasına nisbətən 1248,0  mln. manat və ya 12,5 faiz
+çoxdur.2010-cu il dövlət büdcəsinin xərclərinin struk-
+turuna daxil olan cari xərclər 6590,4 mln. manat, əsaslı
+xərclər 4386,5 mln. manat, kreditlər üzrə borclara, fai-
+zlərə xidmətlə bağlı xərclər 287,1 mln. manat təşkil
+edəcək.
+2010-cu il dövlət büdcəsində əsas fondlara əsaslı
+vəsait qoyuluşu xərcləri üçün dövlət əsaslı vəsait
+qoyuluşu, əsas vəsaitlərin alınması, əsaslı tikinti, əsaslı
+təmir və s.) 4386,5 mln. manat və ya xərclərin 21,2
+faizi həcmində, təqaüdlər və sosial müavinətlər üçün
+1162,2 mln. manat və ya xərclərin 10,3 faizi həcmində,
+dərman, sarğı ləvazimatlarının və ərzaq məhsullarının
+alınması üçün 328,5 mln. manat və ya xərclərin 2,9
+faizi həcmində, inventar və avadanlıqların alınması
+üçün 172,4 mln. manat və ya xərclərin 1,5 faizi həc-
+mində, nəqliyyat, kommunal və kommunikasiya xid-
+mətləri haqqının ödənilməsi xərcləri üçün 155,6 mln.
+manat və ya xərclərin 1,4 faizi həcmində, idarənin
+saxlanılması və cari təmir xərcləri üçün 178 mln.
+manat və ya xərclərin 1,6 faizi həcmində, ezamiyyə
+xərclərinin ödənilməsi üçün 40,1 mln. manat və ya
+xərclərin 11 faizi həcmində, digər xərclərin ödənilməsi
+üçün (icarə və muzdlu xidmətlər, öhdəliklər üzrə
+maliyyə əməliyyatları, ssudalar, faizlər üzrə ödənişlər,
+üzvlük haqqı üzrə ödənişlər, qrantlar və digər
+ödənişlər, bank xərcləri) 866,9 mln. manat və ya xərc -
+lərin 7,7 faizi həcmində vəsait nəzərdə tutulub.
+Azərbaycan iqtisadiyyatı - 2009
+47
+Iqtisadi Tədqiqatlar Mərkəzi İqtisadi Məsələlər
+üzrə İsveçrə Dövlət Katibliyi (SECO) tərəfindən
+maliyyələşdirilən “Alternativ inflyasiya səviyyəsinin
+hesablanması və modellərin işlənilməsi” layihəsi
+çərçivəsində apardığı  tədqiqat işində müxtəlif metod-
+lardan istifadə etməklə Azərbaycan üçün inflyasiyanı
+proqnozlaşdırıb. ARIMA, VAR və Fillips əyrisini bu
+məqsədlə qiymətləndirilib. 
+Eyni zamanda Mərkəzin ekspertləri tərəfindən
+2000-ci ilin yanvar -  2009-cu ilin dekabr ayı üzrə
+aylıq göstəricilərindən istifadə etməklə laq uzunluğu
+5 və 1 olan, həmçinin 0 tərtibdə kointeqrasiya olunmuş
+İQİ, məzənnə indeksi, sənaye məhsulunun qiymət in-
+deksi və pul kütləsi (M2) VAR üsulu ilə model-
+ləşdirilib. Tədqiqatın nəticəsində 84 parametr
+qiymətləndirlib. Belə ki, 4 tənlik 5 laq (bir də konstant)
+nəzərə alınmaqla: 84 (21x4) parametrdən ibarət olub.
+Tədqiqat göstərib ki. inflyasiya göstəricisi özündən
+əvvəlki inflyasiya hədlərindən asılıdır. Belə  ki, infly-
+asiya laqları artdıqca bu asılılıq da artır. Məsələn, bir
+ay əvvəl İQİ-nin 1 faiz artımı indiki İQİ-ni  1.6  faiz
+sürətləndirir. Manatın nominal məzənnə indeksi İQİ-
+yə neqativ təsir göstərir. Məzənnənin bir ay əvvəl 1
+faiz artımı İQİ-ni 0.66 faiz  azaldır.   Laq dərinliyi art-
+dıqca İQİ və məzənnə arasında əlaqə də “rəqs” edir.
+Pul kütləsinin İQİ-yə təsiri fiksə olunmuş məzənnə
+siyasətinə uyğun olub. M2 pul kütləsinin 1 vahid
+artımı İQİ-ni 0,003 vahid sürətləndirir.  Tədqiqat
+nəticəsində məlum olub ki,  Sənaye məhsulunun is-
+tehsalçı qiymət indeksinin də inflyasiya üzərində təsiri
+aydın görünür. Modelə görə sənaye məhsulunun is-
+tehsalçı qiymət indeksinin 1 vahid artımı İQİ-ni 0.03
+vahid yüksəldir.         
+Beləliklə , qiymətləndirmələr göstərir ki, inflyasiya
+gözləntiləri və keçmiş dövrün inflyasiyası cari infly-
+asiyanı yaradan əhəmiyyətli faktorlardandır və onların
+təsirləri təqribən eynidir. Tədqiqat işində aparılan
+hesablamalr göstərir ki,  qeyri-neft məcmu buraxılış
+kəsrinin inflyasiya yaratmaq kanalı yoxdur.  Bu
+nəticənin bir neçə izahı ola bilər: (i) ÜDM hesabla-
+narkən idxal məhsulları nəzərə alınmadığı halda İQİ
+hesablanmasında o öz əksini tapır. İdxal məhsullarının
+istehlak zənbilində payının əhəmiyyətli olduğunu
+nəzərə alsaq nəticə izah olunandır (ii) digər izah isə in-
+stitusional, bazar strukturu və inhisarçılıq  amilləri ilə
+bağlıdır. 
+Tədqiqat nəticəsində məlum olmuşdur ki,  Fillips
+Əyrisindən inflyasiya proqnozlaşdırılmasında geniş is-
+tifadə olunmasına baxmayaraq Azərbaycan Fillips
+əyrisi özünü doğrultmadığından proqnozlaşdırma aləti
+kimi istifadə edilməmişdir.  Odur ki,  ekspertlər Azər-
+baycanda inflyasiyanı ARIMA, şərti VAR və şərtsiz
+VAR üsulu inflyasiyanı 3 variantda proqnozlaşdırıblar. 
+2010-cu il üçün inflyasiya proqnozu nəticələr
+aşağıdakı cədvəllərdə  öz əksini tapmışdır.
+2010-cu ilin inflyasiyası
+Period (%)
+Proqnoz (şər -
+ti model %)
+2010, Yanvar 1.91 1.72 (0.5)
+2010, Fevral 0.74 1.06 (1.1)
+2010, Mart 1.11 1.19 (1.3)
+2010, Aprel 0.64 1.26 (0)
+2010, May 0.07 0.5
+2010, İyun -0.87 -0.56
+2010, İyul -0.62 -0.41
+2010, Avqust -0.17 0.55
+2010, Sentyabr 0.75 0.99
+2010, Oktyabr 1.46 1.18
+2010, Noyabr 1.46 1.25
+2010, Dekabr 1.42 1.29
+Cədvəl 18. 2010-cu il üçün aylar üzrə inflyasiya 
+proqnozu
+Azərbaycan iqtisadiyyatı - 2009
+48
+2010-cu il dövlət büdcəsinin gəlirləri
+üzrə əsas istiqamətlər
+Yenidən baxılma ilə 2010-cu il dövlət büdcəsi
+gəlirlərinin 1490,0 mln. manat artırılaraq 11505,0 mln.
+manata çatdırılması nəzərdə tutulur ki, bu da təsdiq ol-
+unmuş proqnoza nisbətən 14,9 faiz çoxdur. Artımdan
+sonra dövlət büdcəsi gəlirlərinin 3620,0 mln. manatı
+qeyri-neft sektorunun, 7885,0 mln. manatı isə neft sek-
+torunun payına düşəcəkdir.
+2010-cu il dövlət büdcəsi gəlirlərinin 2 istiqamətdə
+artırılması nəzərdə tutulur:
+1) Vergilər Nazirliyinin topladığı gəlirləri 490,0
+mln. manat;
+2) Dövlət Neft Fondundan dövlət büdcəsinə verilən
+transfertləri 1,0 mlrd. manat artırmaq.
+Artımlardan sonra Vergilər Nazirliyi vasitəsilə
+dövlət büdcəsinə yığılan gəlirlər 4470,0 mln. manat
+təşkil etməklə 2010-cu il təsdiq olunmuş büdcəsinə
+nisbətən 12,3 faiz, 2009-cu ilin faktiki göstəriciləri ilə
+müqayisədə isə 356,5 mln. manat və ya 8,7 faiz çox
+olacaqdır.
+2010-cu il yenidən baxılmış dövlət büdcəsinin
+gəlirlərinin artımı xam neftin satış qiymətinin artımı
+nəticəsində bir sıra vergilər üzrə daxilolmaların, o
+cümlədən hüquqi şəxslərdən mənfəət (gəlir) ver-
+gisinin, əlavə dəyər vergisinin və Azərbaycan Respub-
+likası Dövlət Neft Fondundan dövlət büdcəsinə
+transfertin məbləğinin artırılması hesabına təmin
+ediləcəkdir.
+Bu hesaba Azərbaycan Beynəlxalq Əməliyyat
+Şirkəti üzrə 320,0 mln. manat mənfəət vergisindən,
+Azərbaycan Respublikası Dövlət Neft Şirkəti üzrə isə
+120,0 mln. manat Azərbaycan Respublikasında is-
+tehsal edilən və qiymətləri tənzimlənən məhsullarının
+kontrakt (satış) qiyməti ilə (ixrac xərcləri çıxılmaqla)
+ölkədaxili topdansatış qiyməti arasındakı fərq üzrə
+daxilolmalardan artım yaranacaqdır.
+Dövlət büdcəsinin gəlirləri üzrə yaranmış əlavə
+gəlirlərin və Azərbaycan Respublikası Dövlət Neft
+Fondundan dövlət büdcəsinə ediləcək transfertin
+dövlət büdcəsinin xərclərinə yönəldilməsi hesabına
+dövlət büdcəsinə əlavə olaraq 50,0 mln. manat əlavə
+dəyər vergisi daxil olacaqdır.
+Eyni zamanda, bir sıra vergi ödəyicilərinin şəhər
+və rayon ərazi vergi orqanlarının uçotundan çıxarılaraq
+mərkəzləşdirilmiş qaydada vergi ödəmələri
+nəticəsində şəhər və rayonlar üzrə yerli gəlirlərin pro-
+qnozlarında dəyişikliklər aparılmaqla, həmin gəlirlərin
+30,8 mln. manat azaldılması, müvafiq olaraq dövlət
+büdcəsinin mərkəzləşdirilmiş gəlirlərinin həmin
+məbləğə qədər artırılması nəzərdə tutulur.
+Ayrı-ayrı gəlir növləti üzrə daxilolmalar aşağıdakı
+kimi proqnozlaşdırılır:
+Hüquqi şəxslərin mənfəət (gəlir) vergisi üzrə dax-
+ilolmalar dövlət büdcəsi gəlirlərinin 12,3 faizini təşkil
+etməklə 1416,0 mln. manat proqnozlaşdırılır ki, bu da
+cari ilin təsdiq olunmuş proqnozla müqayisədə 320,0
+mln. manat və ya 29,2 faiz, 2009-cu ilin faktiki göstəri-
+cisi ilə müqayisədə 86,8 mln. manat və ya 6,5 faiz çox-
+dur.
+Vergi orqanlarının xətti ilə toplanan əlavə dəyər
+vergisi üzrə 1128,0 mln. manat daxilolma nəzərdə tu-
+tulmuşdur ki, bu da 2010-cu ilin təsdiq olunmuş pro-
+qnozuna nisbətən 50,0 mln. manat və ya 4,6 faiz
+çoxdur. Büdcə gəlirlərində əlavə dəyər vergisi üzrə
+daxilolmaların xüsusi çəkisi 9,8 faiz təşkil edir.
+Sair daxilolmalar üzrə 309,0 mln. manat proqno-
+zlaşdırılır ki, bunun da 277,0 mln. manatı neft sektoru-
+nun payına düşür. Bu daxilolma 2010-cu ilin təsdiq
+olunmuş proqnozuna nisbətən 120,0 mln. manat və ya
+1,6 dəfə çoxdur. Sair daxilolmaların büdcə gəlirlərinə
+nisbəti 2,7 faizdir.
+«Azərbaycan Respublikasının 2010-cu il dövlət büdcəsi haqqında»
+Azərbaycan Respublikasının Qanununa dəyişikliklər edilməsi
+barədə» Azərbaycan Respublikasının Qanun layihəsinə dair
+İZAHAT
+«Azərbaycan Respublikasının 2010-cu il dövlət büdcəsi haqqında Azərbaycan RespublikasınınQanununa
+dəyişikliklər edilməsi barədə» Azərbaycan Respublikasının Qanun layihəsinə dair İzahat «Büdcə sistemi
+haqqında» Azərbaycan Respublikası Qanununun 23.7.1.1-ci maddəsinə uyğun olaraq hazırlanmışdır.
+Azərbaycan iqtisadiyyatı - 2009
+49
+2010-cu il dövlət büdcəsinin xərcləri
+üzrə əsas istiqamətlər
+Yenidən baxılma ilə 2010-cu il dövlət büdcəsi xər-
+clərinin 1011,3 mln. manat artırılaraq 12275,3 mln.
+manata çatdırılması nəzərdə tutulur ki, bu da 2010-cu
+il təsdiq olunmuş dövlət büdcəsinin xərclərinə nisbətən
+9,0 faiz, 2009-cu ilin faktiki icrasına nisbətən 1706,4
+mln. manat və ya 16,1 faiz çox olacaqdır.
+Dövlət büdcəsinin cari xərclərinin artımı üçün
+nəzərdə tutulan 399,3 mln. manat vəsaitin 300,0 mln.
+manatı və ya 75,1 faizi Kür, Araz və digər çayların daş-
+ması nəticəsində ölkə ərazisində baş verən irimiqyaslı
+təbii fəlakətin, habelə buk imi halların gələcəkdə
+təkrarlanmasının qarşısının alınması, onun iqtisadiyy-
+atın müxtəlif sahələrinə, əhaliyə vurduğu ziyanın
+nəticələrinin aradan qaldırılmasına, 99,3 mln. manatı
+və ya 24,9 faizi əvvəlcədən dövlət büdcəsinin nəzərdə
+tutulmayan bəzi məsələlərin həlli, o cümlədən əhalinin
+sağlamlığının yaxşılaşdırılması üçün bir sıra dövlət
+proqramlarının («Hemofiliya və talassemiya irsi qar
+xəstəlikləri üzrə Dövlət Proqrammı»nın maliyyə təmi-
+natı ilə bağlı xərclərə (2006-2010-cu illər), «Xroniki
+böyrək çatışmazlığı üzrə Tədbirlər Proqrammı»nın
+maliyyə təminatı ilə bağlı xərclərə (2006-2010-cu
+illər) və “Yoluxucu xəstəliklərin immunoprofilak-
+tikasına dair Tədbirlər Proqramı”nın maliyyə təminatı
+ilə bağlı xərclərə (2006-2010-cu illər), elmin maddi-
+texniki təminatının gücləndirilməsi, kommunal siste-
+mində tədbirlər üzrə xərclərə, xarici ölkələrdə
+səfirliklər və digər diplomatik nümayəndəliklər üçün
+inzibati binaların alınması, xaricdə diasporanın
+inkişafı, 2010-cu il üçün Azərbaycan Respublikasının
+elm, mədəniyyət və ədəbiyyat üzrə Dövlət mükafatı
+almış şəxslərə mükafatın ödənilməsi və digər
+ödənişlərin tənzimlənməsi xərclərinə yönəldiləcəkdir.
+2010-cu il dövlət büdcəsinə yenidən baxılması ilə
+sosialyönümlü tədbirlərə aid olan elm, təhsil, səhiyyə,
+mədəniyyət, incəsənət, informasiya, bədən tərbiyəsi xər-
+clərinə əlavə xərclərin 14,5 mln. manatı sərf ediləcəkdir.
+Sənaye və tikinti, iqtisadi fəaliyyət, əsas bölmələrə
+aid edilməyən xidmətlər üzrə xərclərə əlavə xərclərin
+970,8 mln. manatının, o cümlədən dövlət əsaslı vəsait
+qoyuluşu xərclərinə 608,5 mln. manatının yönəl -
+dilməsi nəzərdə tutulur.
+Artımdan sonra dövlət büdcəsinin əsaslı vəsait qoyu-
+luşu xərcləri 4157,5 mln. manata çatmaqla, onun büd-
+cədə xüsusi çəkisi 2,4 faiz artaraq 33,9 faiz olacaq.
+Əsaslı xərclərin artımı üçün nəzərdə tutulan 608,5
+mln. manat vəsaitin 400,0 mln. manatı və ya 65,7 faizi
+ölkəmizin yerləşdiyi bölgələrdə yaranmış geosiyasi
+vəziyyətə uyğun olaraq, onun müdafiə qabiliyyətinin
+daha da artırılması və təhlükəsizliyinin təmin edilməsi
+xərclərinə, 205,8 mln. manatı və ya 33,8 faizi elm,
+səhiyyə, təhsil və sosial müdafiə sahələrində bir sıra
+təxirəsalınmaz problemlərin həlli, Bakı şəhərinin elek-
+trik enerji ilə təchizatının etibarlılığının təmin edilməsi,
+ölkənin nəqliyyat infrastrukturları üzrə müvafiq layi-
+hələrin başa çatdırılması xərclərinə yönəldiləcək.
+Ümumi dövlət xərclərinə əlavə xərclərin 16,7 mln.
+manatı ayrılacaq.
+Dövlət büdcəsinin yerli gəlir və xərclərini tənzim-
+ləmək üçün məkrəzləşdirilmiş xərclərdən ayrılan və-
+saitin (dotasiya) məbləği isə 30,8 mln. manat və ya 4,2
+faiz artacaq.
+2010-cu il dövlət büdcəsinin kəsirinin maliy yələş -
+dirilməsi üçün nəzərdə tutulmuş 1249,0 mln. manat və-
+saitin əlavə gəlirlər hesabınm 478,7 mln. manatının
+azaldılması və dövlət büdcəsinin kəsirinin maliyyələş -
+dirilməsi üçün 770,3 mln. manat məbləğində maliy -
+yələşdirmə mənbəsinin saxlanılması nəzərdə tutulur.
+Nəticədə dövlət büdcəsinin kəsiri ilin sonuna gözlənilən
+ümumi daxili məhsulun 2,3 faizini təşkil edəcək.
+2010-cu il icmal büdcəsinin gəlir və
+xərclərinin əsas istiqamətləri
+Yenidən baxılmadan sonra 2010-cu il icmal büd-
+cənin gəlirlərinin 3193,5 mln manat və ya təsdiq olun-
+muş büdcəyə nisbətən 26,9 faiz artırılması nəzərdə
+tutulur. Artımıən 2700,0 mln. manatını və ya 84,5
+faizini Azərbaycan Respublikası Dövlət Neft Fon-
+dunun gəlirləri, 490,0 mln. manatını və ya 15,4 faizini
+dövlət büdcəsinin gəlirləri, 3,5 mln. manatını və ya 0,1
+faizini Naxçıvan Muxtar Respublikası büdcəsinin
+gəlirləri təşkil edəcəkdir.
+İcmal büdcənin xərcləri təsdiq olunmuş büdcəyə nis-
+bətən 13,6 faiz artaraq 14350,6 mln. manat təşkil edəcək.
+Yenidən baxılmadan sonra icmal büdcənin profisiti
+727,8 mln manata çatacaqdır.
+Dövlət Neft Fondunun gəlirləri nəzərə alınmadan
+icmal büdcənin kəsiri 7935,3 mln. manat olmaqla gö-
+zlənilən ümumi daxili məhsulda xüsusi çəkisi 24,0 faiz
+təşkil edəcəkdir.
+Dövlət büdcəsindən Naxçıvan Muxtar Respub-
+likasının büdcəsinə nəzərdə tutulan dotasiyanın 2,7
+mln. manat, Naxçıvan Muxtar Respublikasının öz
+gəlirlərinin isə 3,5 mln. manat artırılması hesabına
+onun büdcəsinin gəlir və xərcləri 6,2 mln. manat və ya
+təsdiq olunmuş büdcəyə nisbətən 2,3 faiz artacaqdır.
+Dövlət Neft Fondunun 1,0 mlrd. manat əlavə
+xərcini dövlət büdcəsinə verilən transfert təşkil edəcək.

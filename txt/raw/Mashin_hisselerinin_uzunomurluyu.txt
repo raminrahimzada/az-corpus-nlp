@@ -1,0 +1,8477 @@
+ZAHİD KƏRİMOV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MAŞIN HİSSƏLƏRİNİN 
+UZUNÖMÜRLÜYÜ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+Z.H. KƏRİMOV 
+ 
+Azərbaycan Respublikasının Əməkdar Elm Xadimi, 
+texnika elmləri doktoru, professor 
+ 
+ 
+ 
+ 
+ 
+MAŞIN HİSSƏLƏRİNİN 
+UZUNÖMÜRLÜYÜ 
+ 
+ 
+Ali texniki məktəblər üçün dərs vəsaiti 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B A K I  –  « E l m »  - 2009 
+ 
+ 
+ 
+ 
+ 2
+Resenzent: t.e.d., professor Abdullayev A.H. 
+İxtisas readktoru: t.e.n., professor Mustafayev S.M. 
+ 
+Kərimov Z.H. Maşın hissələrinin uzunömürlüyü. Ali texniki məktəblər üçün 
+dərs vəsaiti. I nəşr – Bakı, Elm nəşriyyatı, 2009, səh. 113, şəkil 40. 
+ 
+ISBN 5-8066-1722-x 
+ 
+Təqdim olunan vəsait müəllifin Azərbaycan Dövlət Neft Akademiyasının 
+«Maşın hissələri və yükqaldırıcı maşınlar» kafedrasında «Mühəndis mexanik» 
+ixtisasında bakalavr təhsili alan tələbələrə oxuduğu mühazirələr əsasında yazılmışdır.  
+Kitabda dəyişən yükə görə möhkəmliyə hesablama və uzunömüliyə; 
+uzunömürlüyün təyin edilməsində ehtimal statistika üsullarına; sürtünməyə işləyən 
+maşın hissələrinin uzunömürlüyünə; reoloji modellərə aid materiallar; uzunömürlük 
+meyarına görə konstruksiyaların optimallaşdırılması şərh edilmiş və onların izahı 
+əyanı misal və hesablamalarla müşaiət edilmişdir.  
+Kitabdan tələbələrlə yanaşı mühəndis və texniklər də istifadə edə bilər.  
+ 
+( ) 200807655
+2004070000
+−
+−z  
+ 
+ 
+ 
+ 
+© «Elm» nəşriyyatı - 2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+Mündəricat 
+ 
+Giriş ……………………………………………………………………………….. 5 
+I FƏSİL. DƏYİŞƏN YÜKƏ GÖRƏ MÖHKƏMLİYƏ  
+HESABLAMA………………………………………………………………………………….. 9 
+1.1 Gərginlik tsiklləri…..……………………………………………………………………. 9 
+1.2  Dəyişən tsikl üzrə yüklənən materialların mexaniki 
+xassələri.…………………………………………………………………………………………. 10 
+1.3 Möhkəmlik şərtləri .……………………………………………………………………. 12 
+1.4 Gərginliyin qeyri stasionar rejimdə baş verdiyi hal üçün 
+möhkəmliyə ehtiyat əmsalının və uzunömürlüyün təyin olunması ..……. 22 
+1.5 Qayış ötürməsinin uzunömürlüyə hesabı……………………………………… 25 
+1.6 Diyirlənmə yastıqlarının dinamik yükqaldırma qabiliyyətinə görə 
+uzunömürlüyə hesablanması……………………………………………………………… 29 
+1.7 Dişli çarx ötürməsinin hesablanmasında  
+uzunömürlük əmsalının təyini …………………………………………………………... 33 
+1.8 Qazma avadanlığının uzunömürlüyə hesabı …………………………………. 37 
+1.9 Gəminin avar vintinin işləmə müddətinin təyini [5] …………………….. 41 
+II FƏSİL.UZUNÖMÜRLÜYÜN TƏYİN EDİLMƏSİNDƏ  
+EHTİMAL-STATİSTİKA ÜSULLARI ……………………………..……………… 47 
+2.1 Ümumi məlumat………………………….……………………………………………… 47 
+2.2 Təsadüfi kəmiyyətlərin normal paylanma qanunu ……………………….. 50 
+2.3. Konstruksiyaların dağılma ehtimalı …………………………………………… 54 
+2.4 Gərginlik ampletudasının müxtəlif qanunlarla 
+dəyişdiyi hal üçün maşın hissələrinin işləmə müddətinin  
+təyin edilməsi ..................................................................................................................... 55 
+2.5 Müntəzəm yüklənmə ehtimal olunan halda hissələrin  
+yorulmaya hesabı .............................................................................................................. 59 
+III FƏSİL. SÜRTÜNƏN MAŞIN HİSSƏLƏRİNİN  
+UZUNÖMÜRLÜYÜ ………………………………………………………………………... 62 
+3.1. Yeyilməyə davamlılıq ……………………………………………………………….. 62 
+3.2 Sürüşmə yastıqlarının uzunömürlüyə hesabı ………………………………... 67 
+3.3 Yumrucuqlu mexanizmin uzunömürlüyə hesabı …………………….......... 70 
+3.4 Yan val kipləşdiricisinin uzunömürlüyə hesabı ……………………………. 72 
+IV FƏSİL. REOLOJİ MODELLƏR ……………………………………………......... 74 
+4.1 Elastik model – Huk qanunu ……………………………………………………….. 74 
+4.2 Özlü mühitin modeli – Nyuton qanunu ………………………………………... 75 
+4.3 Özlü-elastik mühitin modeli – Maksvell cisminin modeli …………….. 75 
+4.4 Elastik-özlü mühitin modeli – Foyqt cisminin modeli …………………... 77 
+ 4
+ 
+ 
+V FƏSİL. UZUNÖMÜRLÜK MEYARINA GÖRƏ 
+KONSTRUKSİYALARIN OPTİMALLAŞDIRILMASI …………………... 79 
+5.1 Umumi məlumat ………………………………………………………………………… 79 
+5.2 Maşın intiqalı muftasının optimal layihələndirilməsi …………………… 82 
+5.3 Sürüşmə yastıqlarının konstruksiyasının optimallaşdırılması ………… 90 
+5.4 Vint cütü konstruksiyasının optimallaşdırılması ........................................ 94 
+5.5 Tormozun optimal layihələndirilməsi …………………………………………. 99 
+VI FƏSİL. DƏNİZ NEFT-MƏDƏN HİDROTEXNİKİ 
+QURĞULARIN UZUNÖMÜRLÜYƏ HESABI ………………………….......... 104 
+6.1 Ümumi məlumat ………………………………………………………………………… 104 
+6.2 Küləyin təsiri …………………………………………………………………………….. 104 
+6.3 Dalğanın təsiri ……………………………………………………………………………. 106 
+6.4 Platformanın rəqsi hərəkətinin differensial tənliyi  
+və onun həlli ……………………………………………………………………....................... 108 
+6.5 Hidrotexniki qurğunun uzunömürlüyə hesabı ………………………………. 110 
+ƏDƏBİYYAT …………………………………………………………………………………. 113 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 
+GİRİŞ 
+ 
+ 
+ Maşınların uzunömürlüyü dedikdə, onların texniki şərtləri, nasazlıqlar baş 
+vermədən, təmin edəcəkləri müddət nəzərdə tutulur. Bu proses layihələndirmədə 
+maşınların hazırlanması üçün istifadə olunan materialların keyfiyyətindən, 
+hazırlanma texnologiyasından, maşınların istismar şəraitindən, maşının normal 
+işləməsinə nəzarətdən, idarə olunmasının səviyyəsindən, ətraf mühitin təsirindən, 
+işləmə müddəti materialların keyfiyyətinin dəyişməsindən və sair amillərdən asılıdır. 
+Bir çox hallarda bu amillərin bəziləri bir-birindən asılı olaraq dəyişir. 
+  İlk dövrlərdə maşınların layihələndirilməsi statik yükə görə aparılırdı. Bu 
+halda xarici təsirdən yaranan ekvivalent yükün bu və ya digər möhkəmlik nəzəriyyəsi 
+ilə müəyyən olunan həddi yükdən kiçik olması şərti ödənilirdi. Maşınların 
+məhsuldarlığı və sürəti artdıqca xarici təsirdən hissələrdə yaranan gərginliyini 
+dəyişmə xarakterini də nəzərə almaq lazım gəldi. Ilk başlanğıcda dinamik 
+düvvələrdən yaranan gərginlik də nəzərə alınmaqla, maksimum gərginliyin həddi 
+gərginlikdən kiçik olması şərti ödənilirdi. Sonrakı tədqiqatlar nəticəsində maşın 
+hissələrinin dağılmasına bir çox əlavə amillərin də təsir etdiyi aydın oldu. 
+Bu amillərə maşın hissələri hazırlanarkən yol verilən deffektlər; səthin 
+təmizliyinin növü; təsir edən xarici qüvvələrin dəyişmə xarakteri; miqyas faktoru; 
+gərginliyin konsentrasiyası, materialların dözümlüyu və sair faktorlar daxildir. 
+Layihələndirmə işində bu amillərin təsirini nəzərə almaq üçün dünya miqyasında 
+tədqiqat işləri aparıldı və sorğu materialları hazırlandı. 
+Müəyyən temperatur şəraitində materiallar öz mexaniki xassələrini dəyişir. Bu 
+səbəbdən onlarda plastiklik, axıcılıq və digər xassələr yaranır. Bu halda Huk 
+qanununa tabe olan elastik modeldən Maksvell, Foxt, Kelvin və sair fiziki modellərə 
+keçmək lazım gəlir. Bu modellərdə elastik xassə ilə yanaşı axıcılıq, plastiklik, 
+qocalaraq köhnəlmə xassələri də nəzərə alınır. 
+Ilk dövrlərdə layihələndirmə işində maşın hissələrinin yalnız iki vəziyyətdə 
+olduğu qəbul edilirdi: saz vəziyyəti və nasaz vəziyyəti. Sonradan iş prosesində 
+ 6
+zədələnmələrin meydana çıxması və zədələnmiş vəziyyətdə maşın hissələrinin işləyə 
+bilməsi problemi meydana çıxdı. Keçən əsrin 20-ci illərində Qriffits tərəfindən, 
+deformasiya olunan cisimlərin mexanikası əsasında, materialların kövrək dağılması 
+nəzəriyyəsi yaradıldı. O, təklif etdi ki, dağılma prosesini energetik konsepsiya 
+əsasında izah etmək lazımdır.  
+Bu nəziryyəyə əsasən səthdə yığılmış sərbəst enerji çatların əmələ gəlməsi üçün 
+lazım olan enerjidən çox olduqda dağılma baş verir. 1926-ci ildə Rits möhkəmliyi 
+öyrənmək üçün ehtimal üsulları tətbiq etməyə başladı. 1939-cu ildə Veybula kövrək 
+dağılmanı tədqiq etmək üçün statistik metoddan istifadə etməyi təklif etdi. Sonradan 
+Irvin göstərdi ki, plastik zonanın yaranıb qeyri-stabil dağılma deffektinin əmələ 
+gəlməsi üçün bu zonanın ölçüsü lövhənin qalınlığından 2 dəfə çox olmalıdır. Həm də 
+Irvin göstərmişdir ki, çatların yayılma sürəti gərginliyin intensivliyindən asılıdır. 
+Irvinin düsturuna əsasən çatların yayılma sürəti gərginliyin intensivliyindən asılıdır: 
+( )mKC
+dn
+dlv Δ≤≤ , 
+burada: C , m  - əmsallardır; 
+n  - gərginlik tsikllərinin sayıdır; 
+l  - çatın uzunluğu; 
+v  - çatın uzunluğunun yayılma sürəti; 
+minmax KKK −=Δ ; 
+maxK  - gərginliyin intensivliyi əmsalının maksimum qiymətidir: 
+lK πσ 2Δ=Δ  . 
+ Freydental kövrək dağılmanı izah etmək üçün müxtəlif konsepsiyalar 
+işləmişdir. 
+Birinci konsepsiya zəncirin zəif bənd konsepsiyasıdır. Yəni konstruksiyanın 
+dağılması onun zəif bəndində baş verir. 
+İkinci konsepsiya isə klassik dərz konsepsiyasından ibarətdir. Bu konsepsiyaya 
+görə konstruksiyanın dağılması dərzin bütün çübüqlarında baş verir. Qırılma ən zəif 
+çıbuqdan başlayır. Misal üçün, kanatın dağılması bir məftilin qırılmasından başlayır. 
+ 7
+Maşın hissələrində çatların əmələ gəlməsi dörd mərhələdə baş verir. Birinci 
+mərhələ inqubasiya periodudur. 
+Bu periodda kristallarda ilk baxışda nəzərə çarpmayan daxili dəyişikliklər baş 
+verir. Təsir tsikllərinin sayı artdıqca bu hal ikinci mərhələyə keçir. Bu halda nəzərə 
+çarpan çatlar görünməyə başlayır. Bu çatların əmələ gəlməsinin ikinci mərhələsidir.  
+Üçüncü mərhələdə  çatlar tədricən böyüyərək həddi vəziyyətə çatır. 
+Dördüncü mərhələdə çatların inkişafının tormozlanması baş verir. 
+Son zamanlar müəyyən edilmişdir ki, hissələrin səthi qalvanik üsulla nazik 
+miss qatı ilə örtülərsə dəyişən yük şəraitində işləyən bu hissələrdə gərginliyin 
+konsentrasiyası çox olan nöqtə ətrafında səthə çəkilən miss kristalları öz rəngini 
+dəyişir. Yapon alimlərindən Okubo bu effektdən istifadə etməklə hissələrdə 
+gərginliyin konsentrasiyasını müəyyən edə bilmişdir. Sonradan bu iş ADNA-nı 
+«Maşın hissələri və YQM»-lar kafedrasında aparılmışdır.   
+Maşınlarda qəzanın baş vermə statistikası onu göstərir ki, bu qəzalar bir çox 
+hallarda insan təlafatına səbəb olur. Misal üçün Rusiya Federasiyasında 40 milyon 
+nəqliyyat maşını vardır. İl ərzində baş verən qəzaların nəticəsində 20 min adam həlak 
+olur, 100 minlərlə adam isə xəsarət alır. Statistika göstərir ki, hər min nəfərə düşən 
+insan ölümünin sayına görə birinci yerdə dəniz neyt mədənləri durur. Təyyarələrdə 
+baş verən qəzaların yalnız 30%-ə qədəri bilavasitə insan faktoru ilə bağlıdır. Bu 
+sahədə qəzaların baş verməsinin əsas səbəbi konstruksiyanın həddindən artıq 
+yüklənməsidir. 
+Maşın hissələrinin sıradan çıxmasının bir səbəbi də korroziyadır. Xarici 
+mühitin dağıdıcı təsirindən poladlar çox böyük sürətlə korroziyaya məruz qalaraq öz 
+keyffiyyətini itirir. Tədqiqatlar göstərmişdir ki, polad nümunələr adi su şəraitində 
+dəyişən yükə məruz qalarsa onun dözümlülük həddi havadakına nisbətən 2 dəfə 
+azalır. Korroziya şəraitində poladın səthi bütünlüklə qabıq bağlayır. Yer kürrəsində 
+mövcud olan 6 milyard ton metal indiyə qədər istehsal olunan metalın cəmi 30%-ni 
+təşkil edir. Qalan 70%-isə korroziyadan çürüyərək torpağa qarışmışdır. Poladlarda 
+dağılma xarici mühitdə 15% SH2  və 10% 2CO  qazı olduqda daha intensiv baş verir. 
+ 8
+Həştərxan vilayətində və Qazaxıstanda çıxarılan neftin tərkibində belə aqressiv 
+korroziyaedici maddələr çox olduğundan burada istifadə olunan neft avadanlığı çox 
+böyük sürətlə sıradan çıxır. Sonralar paslanmayan poladlardan istifadə etməklə 
+aqressiv şəraitdə işləyən avadanlığın ömrünü uzatmaq mümkün oldu. Bunun üçün 
+volframlı-molibdenli poladlardan istifadə edilməklə yeni avadanlıq hazırlandı. 
+Konstruksiyaların uzunömürlüyünün artırılmasının bir üsulu da onların optimal 
+layihələndirilməsidir. Bu məsələdə materialın seçilməsi, konstruksiyanın əsas həndəsi 
+parametrlərinin təyin edilməsi tələb olunan məqsəd funksiyasının minimum və ya 
+maksimum olmasını təmin etmək və iş görmə qabiliyyəti kriteriyalarını ödəməklə 
+əldə edilir. 
+Sürtünən maşın hissələrinin sıradan çıxmasının əsas səbəbi sürtünən səthlərin 
+yeyilməsidir. Müəyyən edilmişdir ki, sıradan çıxan maşınların 80…90%-i sürtünən 
+səthlərin yeyilməsi hesabına, qalan 10…20%-i isə digər səbəblərdən, misal üçün, 
+qırılmadan, dartılmadan və s. baş verir. 
+Dünya enerji resursunun təxminən üçdə bir hissəsi hazırda bu və ya digər 
+formada sürtünmənin dəf olunmasına sərf olunur. Odur ki, sürtünmə prosesinin 
+oyrənilməsi xüsusi əhəmiyyətə malikdir. Mexaniki sistemlərin sürtünmə və yeyilməsi 
+ilə məşqul olan sahə «Tribonika» adlanır ki, bu da yunanca tribos – sürtünmə 
+sözündən götürülmüşdir.   
+Yeyilmə mürəkkəb proses olub öz xarakterinə görə mexaniki, molekulyar-
+mexaniki və korroziya olunmaqla mexaniki kimi qruplara ayrılır. 
+Mexaniki yeyilməyə abraziv, yorulmaqla və plastik deformasiya olunmaqla 
+yeyilmə növləri aiddir. 
+Molekulyar-mexaniki yeyilməyə yapışaraq qopmaqla, qat-qat olub qopmaqla 
+yeyilmə növləri aiddir. 
+Korroziya olunmaqla mexaniki yeyilməyə oksidləşərək, frettinq korroziya 
+olunaraq yeyilmə və səthi aktiv qarışıqların təsiri ilə yeyilmə aiddir. 
+Bütün bu göstərilən amilləri nəzərə almadan maşın hissələrinin uzunömürlüyə 
+hesablanmasını aparmaq mümkün deyildir. 
+ 
+ 9
+ 
+ 
+I FƏSİL  
+ 
+DƏYİŞƏN YÜKƏ GÖRƏ MÖHKƏMLİYƏ HESABLAMA 
+ 
+Dəyişən yükə görə möhkəmliyə hesablama aparmaq üçün aşağıdakıları 
+müəyyənləşdirmək lazımdır. 
+1. Təsir edən qüvvənin və bu qüvvədən hissələrdə yaranan gərginliklərin 
+qrafiki müəyyənləşdirilir. 
+2. Dəyişən tsikl üzrə yüklənən materialların mexaniki xassələri müəyyən edilir. 
+3. Möhkəmlik sərfi qəbul edilməlidir. 
+Bu göstərilənlərdən istifadə etməklə möhkəmlik və uzunömürlük əmsalları 
+təyin edilir.  
+ 
+1.1 Gərginlik tsiklləri. 
+ 
+Gərginlik simmetrik tfikl üzrə dəyişərsə onun qrafiki şəkil 1-də göstərilən kimi 
+olur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 1 
+ 
+Gərginliklər döyünən (şəkil 2) və asimmetrik tsikl üzrə də dəyişir (şəkil 3). aσ  
+- girginliyin amplitudası; mσ  - orta qiyməti T  - periodu; maxσ  və minσ  - uyğun 
+olaraq maksimum və minimum qiymətlərdir. 
+ 10
+ 
+ 
+ 
+Şəkil 2                                                         Şəkil 3 
+ 
+1, 2 və 3-cu şəkildə göstərilən qaydada dəyişən gərginlik qrafikləri üçün 
+gərginlik tsiklinin xarakteristikası ( )R  qəbul olunmuşdur: 
+max
+minR
+σ
+σ
+=                                                           (1) 
+Simmetrik tsikl üçün minmax σσ −=  və 1−=R ; döyünən tsikl üçün 0=maxσ ; 
+0=R ; sabit gərginlik üçün maxmin σσ =  və 1+=R  və s. 
+Ümumi halda isə gərginliyin dəyişməsi stoxastik (qarma-qarışıq) xarakterdə 
+dəyişir (şəkil 4). Gərginliyin stoxastik xarakter üzrə dəyişməsi geniş yayılmış haldır. 
+Misal üçün, yolun kələ-kötürlüyü təsirindən maşın hissələrində yaranan gərginliklər, 
+dəniz dalğalar və külək təsirindən dəniz neft avadanlıqlarında yaranan gərginliklər və 
+s. buna misal ola bilər. 
+1.2 Dəyişən tsikl üzrə yüklənən materialların mexaniki xassələri 
+Yuxarıda göstərildiyi kimi, materiallar statik  yük şəraitində işlədikdə onların 
+mexaniki xassələri nümunələri statik yüklənməklə dartılıb-sıxılması diaqrammı 
+əsasında təyin edilirdi. Dəyişən yük şəraitində işləyən materialların mexaniki 
+xassələri bu materiallardan hazırlanan nümunələrin standart proqram üzrə xüsusi 
+maşınlarda aparılan sınaqlar nəticəsində qurulan əyrilərlə (şəkil 5) müəyyən edilir. 
+Şəkildə göstərilən ABC  əyrisinə Vöhler əyrisi deyilir. Ordinat oxunda gərginlik 
+ 11
+amplitudasının onluq loqarifmi, obsis oxunda isə gərginlik tsiklərinin onluq loqarifmi 
+qeyd edilmişdir. Gərginliyin B  nöqtəsinə uyğun gələn qiymətinə dözümlülük həddi 
+deyilir.  
+ 
+Şəkil 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 5 
+ 
+Simmetrik tsikllərdə 1−=R  olduğundan dözümlülük həddi 1−σ  kimi, 
+asimmetrik tsikllərdə isə Rσ  kimi işarə edilir. ABC  sınıq xəttinin AB  hissəsini ifadə 
+edən fiziki tənliyi çıxaraq. EKD  üçbucağından 
+ 12
+μctg
+KD
+EK
+=  
+12 NlgNlgEK −= ;    21 σσ lglgKD −=  
+olduğundan 
+mctg
+llg
+NlgNlg
+==
+−
+− μ
+σσ 21
+12  
+qəbul edək. Onda 
+2
+1
+1
+2
+σ
+σlgm
+N
+Nlg =  
+və ya 
+m
+lg
+N
+Nlg ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+2
+1
+1
+2
+σ
+σ , 
+nəticədə 
+constNN mm == 2211 σσ                                            (3) 
+alarıq. (3) tənliyi əslində fiziki tənlik olub Vöhler əyrisinin AB  hissəsini ifadə edir. 
+m  - üst göstəricisi olub, hissələrin gərginlikli vəziyyəti, forması, mexaniki xassəsi, 
+termiki emalından asılıdır. Onun qiyməti 6…9 intervalında dəyişir. 
+ 
+1.3 Möhkəmlik şərtləri 
+ 
+Hissələr tsikllik yük altında işləyərsə, aşağıdakı üç hal ola biləp: 
+a) S tas ionar  re j imdəki  ( )maxσ  maks imum gə rg in l ik  t s ik l i  ( )Rσ  
+dözümlülük  həddindən k iç ikdi r .  Başqa sözlə, Ramax const σσσ <==  (şəkil 
+6). Bu halda hissələr uzun müddət işləyə bilər və dağılmaz. Ona görə də belə hissələr 
+üçün ∞=nS  yaza bilərik. Onda 
+s
+RS
+σ
+σ
+σ =  
+olacaq. Burada nS  - uzunömürlüyə ehtiyat əmsalı; σS  - möhkəmliyə ehtiyat 
+əmsalıdır. Vöhler əyriləri səthi müəyyən təmizliklə emal olunmuş, diametri 
+ 13
+( )mmd 107K=  hamar silindrin dəyişən tskillərdə sınaqdan keçirilməsi nəticəsində 
+qurulmuşdur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 6 
+ 
+Ona görə də baxılan maşın hissəsi üçün möhkəmliyə ehtiyat əmsalını tapmaq 
+lazım gəldikdə Rσ -in Vöhler yərilərindən tapılmış qiyməti müəyyən əmsallar daxil 
+etməklə dəqiqləşdirilməlidir. Baxılan maşın hissəsinin həndəsi ölçülərinin təsirini 
+nəzərə alan əmsal dK  ilə işarə edilir (şəkil 7). Burada qırıq xətlər karbonlu poladlara, 
+bütov xətt isə legirlənmiş polada aiddir. 
+ 
+Şəkil 7 
+ 
+Hissələrin formasının dəyişdiyi və yaxud onların üzərinə digər hissələr 
+gərilərək oturduğu yerlərdə gərginliyin qiyməti artır (şəkil 8). Göründüyü kimi, II −   
+kəsiyində ölçü dəyişir və ona görə də burada gənginlik maksimum qiymət alır.  II −   
+ 14
+kəsiyindəki gərginliyin maksimum qiymətinin  IIII −   kəsiyində nominal qiymətinə 
+nisbəti gərginliyin konsentrasıyasının nəzəri əmsalı adlanır və  
+nom
+max
+σ
+σασ =  ;                                                        (5) 
+nom
+max
+τ
+τατ =  ;                                                        (6) 
+ifadələri ilə hesablanır. σα  və ya τα  əmsalları vasitəsilə möhkəmliyin azalmasını 
+bütün hallarda həqiqətdə olduğu kimi əks etdirmək mümkün olmur. 
+ 
+Şəkil 8 
+ 
+Kifayət qədər plastik xassəyə malik olan materiallarda sabit yük təsirindən 
+yaranan gərginlik axıcılıq həddinə çatdıqda səlisləşir və kəsik üzrə təxminən bərabər 
+paylanır. Deformasiyanın sonrakı aprtımı gərginliyin çoxalması ilə müşayiət 
+olunmur. Ona görə də belə materiallar üçün dağıdıcı gərginlik, demək olar ki, 
+konsentrasiyadan asılı olmur. 
+Dəyişən yük altında işləyən hissələrdə isə dağıdıcı gərginlik əsasən 
+konsentrasiyadan asılı olsa da, möhkəmliyin azalması α  - əmsalının qiymətinə tam 
+yuğun gəlmir. Misal üçün, 2=α  olarsa gərginliyin konsentrasiyası çox olan bu 
+kəsiyi hesabladıqda, təsir edən yükü heç də 2 dəfə azaltmaq düzgün olmazdı. α -nin 
+bu qiymətində möhkəmliyin azalması bir çox digər amillərdən – materialın 
+xassəsindən, termiki emaldan, hissələrin möhkəmliyini artıran texnoloji üsullardan və 
+ 15
+s. amillərdən asılıdır. Ona görə də simmetrik tsikllərdə işləyən hissələrdə gərginliyin 
+konsetrasiyası hesabına möhkəmliyin azalması konsentrasiyanın effektivlik əmsalı ilə 
+xarakterizə edilir: 
+h
+K
+1
+1
+−
+−=
+σ
+σ
+σ                                                          (7) 
+h
+K
+1
+1
+−
+−=
+τ
+τ
+τ                                                           (8) 
+burada 1−σ  pardaqlanmış hamar səthli nümunənin dözümlülük həddi; h1−σ  isə həmin 
+ölçülü, lakin üzərində bu və digər konsentrator olan hissənin dözümlülük həddidir 
+(həkil 9 a,b, və 10). Müxtəlif növ konsentratorlar olan hal üçün σK  və τK -nun 
+qiymətlərini onlar üçün qürülmüş əyridən tapmaq olar. Bütov xətlər 2=
+d
+D ; qırıq 
+xətlər 251,
+d
+D
+=  qiymətlərinə aiddir. Dəyişən yük altında işləyən hissələrin 
+dağılmasına onların səthələrinin emal təmizliyinin də böyük təsiri vardır. Bu təsir vK  
+əmsalı daxil etməklə nəzərdə tutulur. Nəticədə normal və toxunan gərginliklərin 
+simmetrik tsikl üzrə dəyişdiyi hal üçün möhkəmliyə ehtiyat əmsalı: 
+[ ]S
+KK
+KS
+a
+vd
+≥= −
+σ
+σ
+σ
+σ
+1  ,                                           (9) 
+[ ]S
+KK
+KS
+a
+vd
+≥= −
+τ
+τ
+τ
+τ
+1  .                                           (10) 
+Əgər gərginlik asimmetrik tsikl üzrə dəyişərsə, onda asimmetrik gərginlik 
+stiklinə həssaslıq əmsalı 
+σ
+ψ  və 
+τ
+ψ  daxil etməklə ehtiyat əmsalı hesablanır. Bu halda 
+möhkəmliyə ehtiyat əmsalı 
+[ ]S
+KK
+KS
+ma
+vd
+≥
++
+= −
+σψσ
+σ
+σ
+σ
+σ
+1                                      (11) 
+ 16
+[ ]S
+KK
+KS
+ma
+vd
+≥
++
+= −
+τψτ
+τ
+τ
+τ
+τ
+1                                        (12) 
+olur. Əgər verilmiş nöqtə ətrafında həm normal və həm də toxunan gərginlik 
+yaranarsa, onda möhkəmliyə ümumi ehtiyat əmsalı 
+222
+111
+τσ SSS
++=                                                   (13) 
+[ ]S
+SS
+SSS ≥
++
+=
+22
+τσ
+τσ                                             (14) 
+Şəkil 9                                                          Şəkil 10 
+ 
+ψ  - əmsalının qiyməti əsasən materialdan və hissələrin termiki emal növündən 
+asılıdır. Normallaşdırılmış və yaxşılaşdırılmış legirli poladlar üçün MPaM 800>σ  
+olduqda 4030 ,, K=σψ ; 20150 ,, K=τψ  qəbul olunur. Sementləşdirilmiş və 
+azotlaşdırılmış poladlar üçün isə uyğun olaraq 60,=σψ ; 40,=τψ  və 80,=σψ ; 
+50,=τψ  qəbul olunur. 
+Hesablanan hissənin materialı üçün 1−σ -in qiyməti təcrubi olaraq təyin 
+edilməzsə, poladlar üçün onu təqribi olaraq belə hesablamaq olar. Əyilməyə 
+ 17
+hesabladıqda ( ) .h.M,, σσ 60401 K=− . Sürüşməyə hesabladıqda 11 60 −− = σσ ,S,  
+simmetrik tsikl üzrə dəyişən dartılmaya hesabladıqda 11 750 −− ≈ σσ ,D,  qəbul edilir. 
+Gərginlik döyünən tsikl üzrə dəyişərsə, 0=R , bu halda dözümlülük həddi 
+10 61 −≈ σσ ,  və 10 91 −≈ ττ ,  qəbul olunur. 
+b). Stasionar rejimdəki maksimum gərginlik tsikli maxσ  dözümlülük həddindən 
+Rσ  böyükdür. rimax const σσσ >== . Bu halda təsir edən işçi gərginlik tsiklləri sayı 
+uiN -yə, 6=ci şəkildə göstərildiyi kimi Riσ  həddi gərginliyi, iσ  gərginliyinə isə iN  
+həddi tsiklər sayı uyğun gəlir. Bu kəmiyyətləri bilməklə möhkəmliyə ehtiyat əmsalı 
+i
+RiS
+σ
+σ
+σ =                                                      (15) 
+uzunömürlüyə ehtiyat əmsalı isə 
+ui
+i
+L N
+NS =                                                     (16) 
+ifadələrindən tapılır. Təsir edən gərginliyin tsiklləri sayı artdıqca hər iki əmsal kiçilir, 
+uiN -nin qiyməti iN -yə bərabər olduqda 1== LSSσ  olur. Əgər hesağlama nümunə 
+üçün deyil, müəyyən maşın hissəsi üçün aparılarsa, onda (11) və (12) düsturlarında 
+1−σ  əvəzinə Riσ ; 1−τ  əvəzinə isə Riτ  yazmaq lazımdır. 
+011 NN
+mm
+i ⋅=⋅ −σσ  
+ifadəsindən istifadə etməklə (16) düsturunu aşağıdakı kimi yaza bilərik 
+ui
+m
+m
+L N
+NS
+1
+01
+σ
+σ−=  .                                                 (17) 
+LS -i baxılan hissə üçün hesablamaq lazım gələrsə, onda 
+m
+m
+ui
+ma
+vd
+L N
+N
+KK
+KS
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
++
+= − 01
+σψσ
+σ
+σ
+σ
+                                (18) 
+ifadəsindən tapıla bilər. Hesablama toxunan gərginliyiə görə aparılarsa (18)-də σ  
+əvəzinə τ  yazmaq lazımdır. 
+ 18
+ v) Gə rg in l ik  dəyişən qraf ik  üzrə  baş  ver i r .  Məlum olduğu kimi, 
+maşın müxtəlif yük və sürətlərdə işləyir. Misal üçün, bir növbə ərzində yükqaldırıcı 
+kran çəkisi müxtəlif olan yükləri müxtəlif sürətlərlə qaldırıb-endirir. Belə hallarda 
+yükün Q  (qyvvənin, əyici momentin, burucu momentin, gərgindiyin və s.) və sürətin 
+zamandan asılı dəyişmə qrafiki qurulur (şəkil 11). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 11 
+Yükün hər qiymətinə uyğun dəyişmə tezliyi ω  ilə işarə olunmuşdur; ii Qt −  
+yükünün təsir müddəti; ut  - yükləmə blokunun təsir müddəti və ya periodu; ft  - 
+fasilə müddətidir. Əgər yükün dəyişmə qrafiki təkrar olunarsa, maşının iş müddəti 
+ərzində yüksəlmə bloklarının sayı μ  ilə işarə edilir. Onda iQ  yükünün işçi tsikllərin 
+sayı. 
+( )kitN iiui K1== μω                                             (19) 
+ifadəsindən tapıla bilər. (19) düsturu vasitəsilə hesablama apardıqdan sonra Q  ilə 
+tsikllərin sayı uiN  arasında asılılıq yükün azalması ardıcıllığı üzrə qurulur (şəkil 12). 
+Göstərilən qrafik üzrə yüklənmiş maşın hissəsinin hesablanması aşağıdakı iki 
+variantda aparılır. 
+I. Verilmiş yükləmə qafikinin təsirinə ekvivalent olan stasionar tsikllərin sayı 
+eN  təyin edilir. Bu halda hesablama yükü hQ  adətən, 1QQQ maxh ==  qəbul edilir. 
+ 19
+Başqa sözlə, verilmiş yükləmə qrafiki (şəkil 12, a) ona ekvivalent olan stasionar 
+yükləmə qrafiki (şəkil 12, b) ilə əvəz edilir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 12 
+II. Yükün dəyişməsindəki hesablama tsikllərinin sayı hN  verilir. Verilmiş 
+yükləmə qrafikinin təsirinə ekvivalent təsir yaradan stasionar tsikllərdəki yük eQ  
+təyin edilir (şəkil 12,b). 
+I variant. Ekvivalent stikllərin sayını tapmaq üçün əsasən üç ifadədən istifadə 
+olunur: 
+Verilmiş yükləmə qrafikindən ( )uNQQ = ; 
+Vöhler əyrilərinin riyazi ifadəsindən 
+e
+m
+hi
+m
+i NQNQ
+′′ =  .                                              (20) 
+iQ  ilə gərginlik iσ  arasındakı asılılıq xətti asılılıq olarsa, mm =′  olur. Digər hallarda 
+m′ -i tapmaq üçün Q  ilə σ  arasındakı asılılığı bilmək lazımdır. 
+ Dəyişən yük təsiri altında işləyən maşın hissələrinin zədələnmələrinin xətti 
+toplanma (şəkil 13) qanunundan 
+∑
+=
+==+++
+k
+i i
+u
+k
+ukuu
+N
+N
+N
+N
+N
+N
+N
+N
+1
+1
+2
+2
+1
+1 1K                               (21) 
+istifadə olunur. (21) ifadəsinin sağ tərəfində əksərən vahid əvəzinə a  da yazılır: 
+∑
+=
+=
+k
+i i
+ui a
+N
+N
+1
+.                                                (22) 
+ 20
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 13 
+Əgər yükün tsikllərdən asılılıq qrafiki səlis əyri üzrə dəyişərsə (şəkil 14), onda 
+(22) iəfadəsi aşağıdakı kimi yazılır: 
+∫ =
+N
+u a
+N
+dN
+0
+,                                                   (23) 
+N  - hissələrdə zədə yarada bilən tsikllərin sayıdır. (20) ifadəsindən 
+m
+i
+m
+h
+ei Q
+QNN ′
+′
+=                                                   (24) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 14 
+ 21
+Bu ifadəni (22) ifadəsində yerinə yazsaq, alarıq: 
+∑
+=
+′
+′
+=
+k
+i
+m
+he
+m
+iu a
+QN
+QN
+1
+1                                                  (25) 
+buradan 
+∑
+=
+′
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+k
+i
+ui
+m
+h
+e NQ
+Q
+a
+N
+1
+11                                             (26) 
+iN -ni (19)-dən (25)-yə yazaq 
+∑
+=
+′
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+k
+i
+ii
+m
+h
+e tQ
+Q
+a
+N
+1
+1 ωμ                                            (27) 
+ Yükləmə qrafiki pilləli deyil, səlis əyri üzrə dəyişərsə (şəkil 14), onda yükün 
+paylanma sıxlığı funksiyası təyin edilir: 
+( )
+dQ
+dN
+N
+Qf u
+e
+1
+=                                                  (28) 
+barada eN  - təsir edən yükləmə tsikllərinin ümumi sayıdır, 
+( )dQQfNdN eu =                                              (29) 
+düsturundan tapılır. (29) və (24)-ni (23)-də yerinə yazsaq: 
+a
+Q
+QN
+dQQNQ
+Q
+=
+ƒ
+∫
+′
+′
+max
+m
+m
+h
+e
+e )(  
+buradan ekvivalent tsikllər sayı 
+∫ ƒ= ′′
+max
+)(mm
+h
+c
+Q
+Q
+e dQQQaQ
+NN .                                      (30) 
+II variant. Bu halda Vöhler tənliyi aşağıdakı kimi yazılır: 
+,NQNQ h
+m
+ei
+m
+i
+′′ =                                                (31) 
+.
+Q
+NQNi m
+i
+h
+m
+e
+′
+′
+=                                                   (32) 
+iN -in bu ifadəsini (22)-də yerinə yazsaq 
+ 22
+a
+NQ
+QN
+=
+⋅
+⋅
+∑ ′
+′k
+1=i h
+m
+e
+m
+iui  
+buradan 
+m
+n
+1i
+ui
+m
+i
+h
+′
+=
+′∑ ⋅= )(
+1 NQ
+aN
+Qe   .                                      (33) 
+Adatən, 0NNh =  - baza təiskllərinin sayına bərabər qəbul olunur. Əgər yükün 
+paylanması sıxlığının ehtimalı məlum olarsa, onda (23), (32) və (33) ifadələrini birgə 
+həll etməklə ekvivalent yükü tapmaq olar: 
+a
+Q
+NQ
+dQQNQ
+=
+ƒ
+∫
+′
+′
+max
+Q
+m
+h
+m
+h
+e )(  
+buradan 
+m
+Q
+m
+h
+e
+max
+′
+′∫ ƒ=
+Q
+e dQQQaN
+NQ )(                                        (34) 
+alarıq. Yuxarıda göstərildiyi kimi, 0NNh =  baza tsikllərinin sayına bərabər qəbul 
+edilir. eQ  - yə uyğun ekvivalent gərginlik eσ  və eτ  tapılır, möhkəmliyə ehtiyat 
+əmsalı uyğun olaraq (9) - (10) düsturlarında ea σσ →  və ea ττ →  ilə əvəz olunmaqla 
+hesablanır. Ekvivalent gərginlik asimmetrik tsiklə görə hesablanarsa, 
+ea σσ 2
+1 R−
+= , 
+em σσ 2
+1 R+
+=  . 
+ 
+1.4  Gərginliyin qeyri stasionar rejimdə baş verdiyi hal üçün möhkəmliyə ehtiyat 
+əmsalının və uzunömürlüyün təyin olunması. 
+ 
+Bu halda möhkəmliyə ehtiyat əmsalı 
+e
+iRn
+σσ
+=                                                      (35) 
+nisbəti kimi təyin edilir. eσ  (34) ifadəsinə analoji olaraq 
+ 23
+( )m m
+h
+c
+e
+max
+df
+aN
+N
+∫
+′
+=
+σ
+σ
+σσσσ                                      (35) 
+şəklində yazılır. Burada hN  (29)-a əsasən 
+( )∫
+′
+=
+max
+dfNN ch
+σ
+σ
+σσ                                          (37) 
+şəklində yazılır. hN -ı (36)-da yerinə yazsaq və 1=a  qəbul etsək: 
+( )
+( )
+m
+m
+e max
+max
+df
+df
+∫
+∫
+′
+′= σ
+σ
+σ
+σ
+σσ
+σσσ
+σ                                                 (38) 
+alarıq. Burada ( )rmaxr σσσσ −−=′  qəbul edilir. σ ′-dən kiçik gərginliklərin təsiri 
+nəzərə alınmır. Bu halda rmin σσ <  olduğu nəzərdə tutulur. rmin σσ <  olarsa onda 
+minσσ =′  qəbul edilir. rσ  - dözümlülük həddidir. 
+Yorulmaya müqavimət iR  stasionar rejimli tskilin gərginliyi olub, elementi 
+hN  tsikldən sonra həddi vəziyyətə gətirir. Bunun üçün Vöhler düsturunu aşağıdakı 
+kimi yaza bilərik. 
+constNNNNR me
+m
+e
+m
+rh
+m
+i ==== σσσ 0                          (39) 
+Buradan                              
+m
+h
+ri N
+NR 0σ=                                                  (40) 
+və 
+( )m c
+ri max
+dfN
+NR
+∫
+′
+= σ
+σ
+σσ
+σ 0                                         (41) 
+(41) və (38)-i (35)-də yerinə yazsaq 
+( )m mc
+r
+max
+df
+N
+N
+n
+∫
+′
+=
+σ
+σ
+σ
+σσσ
+σ
+0
+                                      (42) 
+ 24
+alarıq. 
+ Toxunan gərginlik yarandığı hal üçün (42)-də σ  işarəsi τ  ilə əvəz olunur: 
+( )m mc
+r
+max
+df
+N
+N
+n
+∫
+′
+=
+τ
+τ
+τ
+τττ
+τ
+0
+                                       (43) 
+həm normal və həm də toxunan gərginlik yaranarsa ümumi ehtiyat əmsalı 
+2
+1 ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++
+=
+τ
+σ
+σ
+n
+n
+nn                                             (44) 
+kimi təyin edilir. 
+ Konstruksiya həddi vəziyyətə çatdıqda möhkəmliyə ehtiyat əmsalı 1=n  qəbul 
+olunur. Bu şərtə əsasən (42)-dən həddi tsikllərin sayını aşağıdakı ifadədən təyin edə 
+bilərik. 
+( )∫
+′
+=
+max
+df
+NN
+m
+m
+r
+c σ
+σ
+σσσ
+σ0  .                                      (45) 
+Toxunan gərginlik təsir edən hal üçün: 
+( )∫
+′
+=
+max
+df
+NN
+m
+m
+r
+c τ
+τ
+τττ
+τ0                                          (46) 
+yaza bilərik. Hər iki gərginlik yaranarsa 
+( )
+( )
+( )
+1
+1
+2
+0 =
+⎟⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
+⋅+
+∫
+∫
+∫
+′
+′
+′
+m
+m
+m
+r
+r
+m mc
+r
+max
+max
+max
+df
+df
+df
+N
+N
+σ
+σ
+τ
+τ
+σ
+σ
+σσσ
+τττ
+τ
+σ
+σσσ
+σ
+ 
+ifadəsindən 
+ 25
+( )
+( )
+( )
+m
+m
+max
+max
+r
+rm
+m
+r
+c
+max
+max
+max
+df
+df
+df
+NN
+⎥
+⎥
+⎥
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎢
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
+⋅+
+=
+∫
+∫
+∫
+′′
+′
+′
+2
+0
+1 σ
+σ
+τ
+τ
+σ
+σ σσσ
+τττ
+τ
+σσσσ
+σ                       (47) 
+alarıq. 
+ 
+1.5 Qayış ötürməsinin uzunömürlüyə hesabı 
+ 
+Qayışlar əsasən aşağıdakı səbəblərdən dağılır: 1. Qayış dartılaraq hər dəfə 
+qasnaqlardan keçdikdə əyilmədən yaranan gərginlik çox böyük qiymət alır (şəkil 15). 
+Qayış dövr etdikcə gərginlik döyünən tsikl üzrə dəyişir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 15 
+a) qayış boyunca gərginliklərin paylanması; 
+ 26
+b) bir tsikldə gərginliklərin dəyişməsi. 
+Gərginliyin ən böyük qiyməti: 
+2
+1
+0 50 vd
+E, Fmax ρ
+δσσσ +++=                                  (48) 
+qiyməti alır. Burada 0σ  - qayışın başlanğıc dartılma gərginliyi; Fσ  - faydalı 
+ötürülən gərginlik; 
+1d
+Eδ  - qayışda əyilmədən yaranan gərginlik; δ  - qayışın qalınlığı; 
+1d  - aparan qasnağın diametri; E  - Yunq modulu; 
+2vρ  - ətalət gərginliyi; ρ  - qayış 
+materialının sıxlığı; v  - sürətidir. Ona görə də hesablamada qayışın qaçışları tezliyi 
+l
+vU = -in qiyməti məhdudlaşdırılır. 
+Gərginliyin müəyyən qiymətində tsikllərin sayı həddi qiymətə çatanda qayış 
+qırılır. Bu halda 
+023600 NtUz cmax
+m
+N
+m σσ =                                         (49) 
+şərti ödənilir. Burada maxσ  - qayışda yaranan maksimum gərginlik (MPa) (48) 
+ifadəsindən təyin edilir; 2z  - ötürmədəki qasnaqların sayı; Nσ  - əsas yükləmə 
+tsikllərinin sayı 70 10=N -yə uyğun dözümlülük həddidir; m  - Vöhler əyrilərinin 
+göstəricisi olub, rezinləşdirilmiş qayışlar üçün 6=m  qəbul edilir; m -in bu qiymətinə 
+MPa,N 57=σ uyğun gəlir. Qayışın iş müddəti (saat): 
+[ ].t
+Uz
+CNt
+max
+c ≤=
+2
+0
+3600 m
+u
+m
+N
+σ
+σ                                               (50) 
+[ ]t  - qayışın buraxılabilən iş müddətidir. 
+[ ] ruCCU
+tt ⎥⎦
+⎤
+⎢⎣
+⎡= 0                                                   (51) 
+ifadələrindən tapılır. Burada 
+san
+Ut 10 =− ; 1=u ; 22 =z  olduqda qayışın iş müddəti 
+(cədvəl 1), 1≠− uCu  olduqda yükləmə şəraitini nəzərə alan əmsaldır (cədvəl 2): 
+ 27
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+++
+=
+6
+max
+6
+/1
+2
+σ
+σ
+σ
+u
+Cu
+яй
+d
+                                     (52) 
+ifadəsindən tapıla bilər. Burada 20 2
+vFd ρ
+σσσ ++= , 
+1D
+E δσ =яй . Rezinləşmiş 
+qayışlar üçün MPaE 140= . 
+Cədvəl 1 
+0t -in qiyməti 
+Qayışda dartılmada  
+yaranan gərginlik, 
+MPa,dσ  
+δ
+1D -nin uyğun qiymətlərindəki 
+25 30 35 40 45 50 
+2,4 
+2,8 
+3,2 
+3,6 
+4,0 
+4,4 
+4,8 
+950
+725
+535
+410
+320
+250
+195
+1970
+1430
+1040
+775 
+585 
+425 
+345 
+3560
+2460
+1750
+1280
+950 
+725 
+535 
+5850
+3950
+2740
+1900
+1390
+1020
+750 
+8710 
+5850 
+3950 
+2740 
+1900 
+1390 
+1010 
+12400 
+8050 
+5280 
+3560 
+2460 
+1750 
+1280 
+ 
+Cədvəl 2 
+uC  - əmsalının qiymətləri 
+Gərginliklər nisbəti, 
+яйσ
+σ d  
+Ötürmə ədədinin u  uyğun qiymətlərində uC  əmsalı 
+1 1,12 1,26 1,41 1,56 2,00 2,52 3,0 4,0 
+0,75 
+1,0 
+1,5 
+1,00 
+1,00 
+1,00 
+1,14
+1,18
+1,20
+1,27
+1,32
+1,38
+1,38
+1,44
+1,51
+1,46
+1,55
+1,68
+1,62
+1,7 
+1,68
+1,72 
+1,8 
+1,87 
+1,77 
+1,84 
+1,91 
+1,82
+1,88
+1,95
+ 
+rC  - iş rejimini nəzərə alan əmsalıdır: 
+∑
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+k
+i
+ii
+max
+i
+r
+lv
+UC
+1
+6
+σ
+σ
+                                            (53) 
+iσ  - verilmiş iş rejimində qayışda yaranan maksimum gərginlikdir; hər bir rejim üçün 
+(48) düsturu ilə maksimum yükə görə hesablanır. iiU σ− -ə uyğun gələn rejimdaki 
+ 28
+qaçışların sayıdır; maxσ  - maksimum yükə uyğun gələn ən böyük gərginlikdir; maxσ -
+da (48) düsturu ilə hasablanır.  maxU σ− -a uyğun gələn rejimdəki qaçışların sayıdır. 
+K  - iş rejimlərinin miqdarıdır. 
+1
+1
+e
+ baxılan rejimdə qayışın iş müddətinin ümumi iş 
+müddətinə olan nisbətidir. 
+ Ədəbiyyat [1]-də yastı qayış ötürməsinin hesablanmasına aid misala 
+baxılmışdır. Hərəkət aparan qasnağa gücu kVtP 11= , dövlər sayı 
+дяг
+дювр9601 =n  olan 
+elektrik mühərrikindən ötürülür. 
+ Aparılan qasnağın dəqiqdəki dövrlər sayı 
+дяг
+дювр3701 =n -dir. Qayış ötürməsini 
+uzunömürlüyə hesablayaq. Bu verilənlərə uyğun qayış ötürməsinin ötürmə ədədi 
+562,u = ; aparan qasnağın diamteri mmd 2801 = qayışın sürəti san
+m,v 114= ; qaçışları 
+sayı ⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+san
+U 13 ; MPa,810 =σ ;  MPa,F 81=σ ; 
+1d
+Eδσ =яй ; MPaE 200= ; 
+mm,256=δ ; 
+3м
+кг1100=ρ ; MPa,max 477=σ . Qayışın uzunluğu m,l 585= ; 
+532
+585
+114 ,
+,
+,
+l
+vU ===  ; 41K=u  arada olduqda 321 ,Ci K= ; 
+7
+0 10=N ; 6=m ; cədvəl 
+1-dən 532,u = -ə uyğun 721,Ci = ; rezinləşmiş qayış üçün MPaN 7=σ . Onda qayışın 
+saatlarla işləmə müddəti: 
+saat
+,
+,
+,v
+CNt i
+max
+N
+s 64053223600
+72110
+477
+7
+23600
+76
+0
+6
+6
+=
+⋅⋅
+⋅
+⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+⋅⋅
+⋅=
+σ
+σ  
+Qayışın uzunömürlüyünün artırılmasında onun qalınlığının seçilməsinin böyük 
+əhəmiyyəti vardır. Əgər mm,753=δ  qəbul etsək onda MPa,max 745=σ  olur. Bu 
+halda saatts 2943=  alınır. Deməli mm,256=δ , qayışın eni mmb 63=  və qatları sayı 
+5=z  əvəzinə mm,753=δ ; mmb 100=  və 3=z  olan qayış seçilərsə onun işləmə 
+müddəti 64,  dəfə artıq olar. 
+ 
+ 29
+ 
+1.6 Diyirlənmə yastıqlarının dinamik yükqaldırma qabiliyyətinə görə 
+uzunömürlüyə hesablanması 
+ 
+ Diyirlənmə yastıqları valın diametrinə və təyinatına görə QOST üzrə seçilir, 
+sonra isə uzunömürlüyə hesablanır. Diyirlənmə yastıqlarının dağılmasının əsas səbəbi 
+diyircəklərin və onların qaçış yolunun yorularaq ovxalanmasıdır. Yastıq tozdan, 
+zibillənmədən qorunmadıqda onun abraziv yeyilmə təsirindən dağılması baş verir. 
+Böyük yüklərdə yastıq halqalarının işçi səthində dalğavarı kələ-kötürlük əmələ gəlir 
+ki, bu da onun normal işləməsini pozur. Yastıq kifayət qədər yağlanmadıqda və 
+düzğün quraşdırılmadıqda onun hissələri tez yeyilir, xüsusən seperator dağılıb sıradan 
+çıxır. 
+Bütün bu göstərilən cəhətləri hesablamada nəzərə alsaq çətin olduğundan 
+hazırda diyirlənlə yastıqları yorularaq ovxalanmaya qarşı hesablanır. Hesablama 
+Vöhler düsturu əsasında aparılır:  
+const.mH =Nσ                                      (54) 
+Əgər bu düsturda həddi kontakt gərginliyini Hσ  ekvivalent radial qüvvə eF ; 
+həddi tsikllər sayını N   QOST 1885-73-ə uyğun olaraq milyon dövrlər sayı ilə 
+ölçülən uzunömürlülüklə əvəz etsək, yaza bilərik: 
+constme =
+′LF .                                                     (55) 
+ Nəzəri və təcrübi tədqiqatların nəticəsində bütün diyirlənmə yastıqları üçün 
+.lnmL 1=  dövrə uyğun CFe =  dinamik yükqaldırma qabiliyyəti təyin edilmiş və 
+QOST üzrə cədvəllərdə verilmişdir. Dinamik yükqaldırma qabiliyyəti dedikdə elə bir 
+sabit yük C  nəzərdə tutulur ki, yastıq onu bir milyon dövr ərzində dağılmadan qəbul 
+edə bilsin. Yastığın uzun zaman işləmə müddəti və ya uzunömürlüyü dedikdə isə 
+sınanan yastıqların ümumi sayının 90%-dən çoxunun dağılmadan işlədiyi müddət 
+nəzərdə tutulur. 
+ Əgər (55)-də 1=L  və CF =  yazsaq, onda 
+mm
+e C
+′′ =LF . 
+ 30
+Yastığın milyon dövrlərlə ölçülən uzun zaman işləmə müddəti 
+m
+e
+′
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+F
+CL mln. dövr .                                     (56) 
+Yastığın saat hesabı ilə ölçülən uzun zaman işləmə müddəti 
+m
+e
+h
+′
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+==
+F
+C
+n
+L
+n
+L
+60
+10
+60
+10 66  saat .                        (57) 
+Kürəcikli yastıqlarda 3=′m  diyircəkli yastıqlarda 
+3
+10
+=′m . Ümumi 
+maşınqayırmada 100002500K=hL  saat; дяг
+дювр101K=n  olduqda hesablamada 
+дяг
+дювр10=n  qəbul olunur. 
+дяг
+дювр101K=n  olduqda yastıq statik yükqaldırma 
+qabiliyyətinə görə (QOST 18854-73 əsasən) hesablanır. 
+Yastığı dinamik yükqaldırma qabiliyyətinə görə uzunömürlüyə hesabladıqda 
+ekvivalent yük eF  aşağıdakı düsturlar üzrə təyin edilir. Radial və radial-dayaq 
+yastıqları üçün 
+( ) Tbare KKYFXVFF +=                                           (58) 
+dayaq yastıqları üçün 
+Tbae KKFF =                                                   (59) 
+burada X  - radial yük əmsalı; Y  - oxboyu yük əmsalı; V  - kinematik əmsal (daxili 
+halda fırlandıqda 1=V ; xarici halda fırlandıqda 21,V = götürülür); rF  - radial yük; 
+aF   - oxboyu yük; bK  - təhlükəsizlik əmsalı (sabit yüklərdə 1=bK ; orta təkanlı 
+yüklərdə 8131 ,,Kb K= ; zərbəli yüklərdə 32K=bK  götürülür); TK  - temperatur 
+təsirini nəzərə alan əmsaldır (temperatur C0250100K  arasında dəyişdikdə 
+4101 ,,KT K=  qiymətləri alır). X  və Y  əmsallarının qiymətləri QOST 18855-73 üzrə 
+qəbul edilir (cədvəl 2). 
+Radial-dayaq yastıqlarında təsir edən radial qüvvədən vala oxboyu qüvvə 
+düşür (şəkil 16, a, b). Ona görə də aF  qüvvəsini tapdıqda aşağıdakı qaydaya riayət 
+etmək lazımdır. 
+ 31
+ 
+Cədvəl 2 
+Radial və radial-dayaq, bircərgəli kürəcəkli 
+yastıqlar üçün X  və Y  əmsalları* 
+Kontakt bucağı 
+0Kα  0C
+Fa  e
+VF
+F
+r
+a ≤ e
+VF
+F
+r
+a >  e  
+X  Y X  Y  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18…20 
+24…26 
+0,014
+0,028
+0,056
+0,084
+0,110
+0,170
+0,280
+0,014
+0,029
+0,057
+0,086
+0,110
+0,170
+0,290
+0,430
+- 
+- 
+1 0 
+ 
+ 
+ 
+0,56
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0,45
+ 
+ 
+ 
+0,43
+0,41
+2,30
+1,99
+1,71
+1,55
+1,45
+0,31
+1,15
+1,81
+1,62
+1,46
+1,34
+1,22
+1,13
+1,04
+1,01
+1,00
+0,87
+0,19 
+0,22 
+0,26 
+0,28 
+0,30 
+0,34 
+0,38 
+0,30 
+0,34 
+0,37 
+0,41 
+0,45 
+0,48 
+0,52 
+0,54 
+0,57 
+0,68 
+ 
+Əgər raIIraI FF ≥ , 0≥h.oxF  və ya raIIraI FF < , raraIIh.ox FFF −≥  olarsa, 
+raIaI FF = , b.oxraIaII FFF += ; əgər raIIraI FF <  və raIraIIh.ox FFF −≤  olarsa, 
+b.oxraIIaI FFF −= ; raIIaII FF =  qəbul edilir. Burada h.oxF  vala təsir edən oxboyu 
+qüvvə rIIF  radial qüvvə hesabına yastıqda yaranan oxboyu qüvvədir. Radial və 
+radial-dayaq kürəcikli yastıqlarda rrI eFF = ; konus diyircəkli yastıqlarda 
+                                                          
+*  Радиал биръярэяли дийиръякли йастыглар цчцн αtg,e 51= , e
+VF
+F
+r
+a ≤  олдугда 1=X  вя 0=Y  
+ямсаллары; e
+VF
+F
+r
+a >  олдугда 40,X =  вя αctg,Y 40=  гябул олунур. 
+ 32
+rra eF,F 830= . Belə bir misala baxaq. Tutaq ki, 16a şəklində göstərilən 
+NF h.ox 6000= ; NFraI 3000= ; NFraII 2000= . aIF  və aIIF  təyin etməli. 
+raIIraI FF > ; 0>h.oxF  olduğundan NFF raIaI 3000== ; =+= b.oxraIaII FFF  
+N900060003000 =+= . Yastıq dəyişən yük və dövrlər sayında işləyirsə, onda 
+ekvivalent yük belə tapılır: 
+3
+3
+2
+3
+21
+3
+1
+L
+LFLFLFF neneeekv
+K++
+= ,                               (60) 
+burada 1eF , 2eF , …, enF  - uyğun olaraq yastığa 1L , 2L , …, nL  işləmə 
+müddətlərində təsir edən ekvivalent qüvvə; L  - işləmə müddətidir (milyon dövrlər 
+sayı ilə). 
+Şəkil 16 
+Misal: Yastığa təsir edən radial qüvvə NFr 4510= ; oxboyu qüvvə 
+N,Fa 553127= , yastığın diametri mmd 55= ; valın dəqiqədəki dövrlər sayı 
+дяг
+дювр9801 =n ; kinematik əmsal 1=V ; radial yük əmsalı 450,X = ; oböoyu yük 
+əmsalı 811,Y = ; sürət əmsalı 41,Kb = ; temperatur əmsalı 1=tK . 
+ 33
+Standartdan konus diyircəkli 7610 №-li yastıq seçirik. Bu yastıq üçün dinamik 
+yükgötürmə kNC 145= . Bu verilənlərə əsasən yastığı uzunömürlüyə hesablayırıq. 
+Ekvivalent yükü hesablayaq 
+( ) ( ) =⋅⋅⋅+⋅⋅=+= 144155312781145101450 ,,,,KKYFXVFF tbare
+kN,N, 7710510766 ≈=  
+ Yastığın uzunömürlüyü 
+il,,Lh 36119806024365
+7710
+14510
+3
+10
+6
+=
+⋅⋅⋅
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+=  
+Bu yastıq il,3611  işləyəcəkdir. Yastığın standarta uyğun ölçüləri: mmd 55= ; 
+mmD 120= ; mmB 43= ; mmc 35= ; mm,T 545= ; mmf 3= ; mmf 11 = ; 
+kNC 137= ; kNC 1450 = . 
+ 
+1.7 Dişli çarx ötürməsinin hesablanmasında  
+uzunömürlük əmsalının təyini 
+ 
+ Dişli çarx ötürməsi hesablandıqda buraxıla bilən kontakt gərginliyi HPσ  
+aşağıdakı ifadədən təyin edilir: 
+HL
+HP
+blimH
+HP KS
+σσ =                                             (61) 
+burada blimHσ  - əsas tsikllərin sayına uyğun gələn kontakt dözümlülüyü həddi; HPS - 
+təhlükəsizlik əmsalı; HLK - uzunömürlük əmsalıdır. Bu əmsal 
+6
+HE
+HO
+HL N
+NK =                                                      (62) 
+düsturu ilə təyin edilir. 
+HON  - uzunmüddətli dözümlülük həddinə uyğun gələn gərginliklərin dəyişmə 
+tsiklinin əsas ədədidir. 56>HRC  olduqda 610120 ⋅=HON  qəbul edilir. Digər 
+hallarda (cədvəl 3) isə 
+4230 ,HO HBN =                                               (63) 
+ 34
+1>
+HO
+HE
+N
+N  və yük sabit olduqda 
+24
+HE
+HO
+HL N
+NK =                                                (64) 
+Gədvəl 3 
+Uzunmüddətli dözümlülük həddinə uyğun gələn gərginliklərin 
+dəyişmə tsiklinin əsas ədədləri 
+ Materialın bərkliyi, HB 
+100…200 250 300 350 400 450 500 
+HON , mln. tsikllərlə 10 17 25 35 50 68 85 
+ 
+Bu halda HLK -in qiyməti 0,9-dan az olmamalıdır (cədvəl 4). Dəyişən iş 
+rejimində isə 1>
+HO
+HE
+N
+N  olduqda 1=HLK  qəbul edilir. Dişin materialı bircinsli olarsa, 
+62,KHL >  səthi tablandıqda isə 81,KHL >  olmalıdır. 
+Bərkliyin HB və HRC ölçüləri arasında müəyyən asılılıq vardır (cədvəl 5). 
+Sabit iş rejimlərində aparan dişli çarxın dişlərinin yükləmə tsikllərinin sayı 
+aşağıdakı ifadədən tapılır: 
+ωω nLKKN ililsHE 57324365 ⋅⋅=                                     (65) 
+burada sK - sutkada istifadə əmsalı; ilK  - illik istifadə əmsalı; ω  - çarxın bucaq 
+sürəti; ilL  - ötürmənin iş müddəti, il; ωn  - aparan dişli çarxla eyni zamanda ilişməyə 
+daxil olan aparılan dişli çarxların sayıdır. Hərəkət yalnız bir aparılan dişli çarxa 
+ötürüləndə 1=ωn  
+Cədvəl 4 
+Uzunömürlük əmsalı HLK  
+HO
+HE
+N
+N  0,005 0,01 0,02 0,03 0,05 0,08 0,1 
+HLK  2,4 2,15 1,95 1,8 1,6 1,55 1,45 
+HO
+HE
+N
+N  0,2 0,3 0,4 0,5 0,8 1  
+HLK  1,35 1,22 1,15 1,10 1,05 1,00  
+ 35
+Cədvəl 5 
+Bərkliyin HB və HRC ilə ölçülən qiymətləri arasında asılılıq 
+HRC  20 25 30 35 40 45 50 55 60 65 
+HB  220 250 280 325 375 425 485 540 605 670 
+ 
+Dəyişən iş rejimində HEN -ni hesablamaq üçün yükün dəyişmə qrafiki 
+verilməlidir (şəkil 17, a). Maksimum yükə 0T  görə ekvivalent tsikllərin sayını HEN  
+tapmaq üçün Vöhler düsturundan istifadə etmək lazımdır: 
+constNTNT i
+m
+iHE
+m ==0                                             (66) 
+ 
+ 
+Şəkil 17 
+Digər tərəfdən zədələrin xətti toplanma qanununa əsasən 
+1
+0
+=
+′
+∑
+=
+n
+i i
+i
+N
+n                                                       (67) 
+burada ii Tn −′  yükünə uyğun işçi tsikllərin sayı; ii TN −  yükünə uyğun zədələyici 
+tsikllərin sayı. Əgər baxılan rejimdə ötürmənin iş müddəti; it , saat, dəqiqədəki 
+dövrlər sayı n  olarsa, bu halda 
+iilSiilSi tnKKntnKKn ωωω 57360 ==′                                  (68) 
+Burada 573 əmsalı çarxın dəqiqədəki dövrlər sayından n  bucaq sürətinə ω  
+ 36
+keçərkən alınmışdır:  
+30
+nπω = ;     
+π
+ω30
+=n    alınan  ifadəni  60-a yurduğda 
+5733060 =⋅
+π
+ əmsalı alınır. (69) və (68)-i (67)-da yerinə yazsaq, sabit bucaq 
+sürətlərində 
+1573
+0 0
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∑
+=
+n
+i
+HE
+m
+i
+iilS
+N
+T
+T
+tnKK αω ω  . 
+∑
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+n
+i
+m
+i
+iilSHE T
+TtnKKN
+0 0
+573 αω ω  .                                       (69) 
+ilLt 24365 ⋅=  və 
+00 γ
+γ ii
+T
+T
+=  olduğunu nəzərə alsaq 
+∑
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⋅⋅=
+n
+i
+m
+i
+iililSHE LKKN
+0 0
+24365573
+γ
+γαω .                            (70) 
+Cəm işarəsini açıq şəklində yazsaq dəyişən iş rejimi üçün HEN -nin ifadəsini aşağıdakı kimi 
+yaza bilərik: 
+×⋅⋅= ωω nLKKN ililSHE 24365573  
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+++⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++×
+3
+0
+3
+0
+3
+3
+3
+0
+2
+2
+3
+0
+1
+10 γ
+γα
+γ
+γα
+γ
+γα
+γ
+γαα nnK .                         (71) 
+Periodik olaraq qiymət və istiqamətcə dəyişən yük təsir etdikdə (şəkil 17, b) 
+müəyyən hallarda ötürmədəki dişlərin bir qismi həmişə yükün kiçik (17, v şəkildəki 
+aparılan dişli çarxın 1-ci və 13-cü dəşləri), digər qismi isə yükün böyük (17, v 
+şəkildəki aparılan dişli çarxın 6-ci və 18-ci dişləri)  qiymətlərini qəbul edir. Nəticədə 
+dişlərin bir hissəsi daha tez yorularaq qırılır. Ötürmədəki hər bir dişin yükün bütün 
+spektrlərini qəbul etməsi üçün 
+1
+2
+2
+1
+z
+z
+n
+n
+=  nisbəti surət və məxrəci eyni tam ədədə 
+ixtisar olunmayan sonsuz kəsr olmalıdır. Məsələn 121 =z , 232 =z  olduqda bu şərt 
+ödənilir. Neft quyularının istismarında işlədilən mancanaq dəzğahı reduktorunun 
+ 37
+çıxış valı bir dövr etdikdə ona düşən yük 17, b şəkildəki kimi dəyişir. Ona görə də bu 
+reduktorları layihə etdikdə yuxarıda göstərilən cəhət nəzərə alınmalıdır. 
+ 
+1.8 Qazma avadanlığının uzunömürlüyə hesabı 
+ 
+Neft və qaz quyularının qazılması prosesi qazma alətinin quyuya endirilməsi 
+və dəyişdirilməsi ilə müşaiət edilir. Nəticədə qazma kəmərinin şamlarını bir bir açıb 
+bağlamaqla kəmərin çəkisi sıfırdan maksimuma qədər dəyişir və hər yeni alət quyuya 
+endirilib qaldırıldıqda bu təkrar olunur. Bu prosesdə asqı qurğusu mütamadi dəyişən 
+yük təsiri altında olur. Dərinlikdən asılı olaraq quyuya endirilən alətlərin sayı z   ilə 
+dərinlik X  arasında belə bir asılılıq vardır: 
+ЭBXz =                                                           (72) 
+Quyunun layihə dərinliyinə uyğun qazma alətlərinin sayını sz  ilə işarə etsək x  
+dərinliyindən layihə dərinliyinə qədər işlənən alətlərin sayı z′ : 
+zzz s −=′                                                         (73) 
+olacaq (şəkil 18). Qazılan quyuların sayın k  ilə işarə etsək onda elementar 
+yükləmələrin sayı (şəkil 18). 
+( )dx
+l
+zzkdn
+sl
+s −=                                                 (74) 
+burada sll  bir boru şamının uzunluğudur. 
+(72)-ni (74)-də nəzərə alsaq 
+( )dxBxz
+l
+kdn эs
+sl
+−=                                            (75) 
+yaza bilərik. 
+ 
+A
+qx
+=σ  qəbul etsək 
+σσ d
+q
+BAz
+ql
+kAdn ээ
+э
+s
+sl
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−=                                      (76) 
+alarıq. Burada σ  - gərginlik; q  - 1m borunun çəkisi; A  - borunun en kəsik sahəsi; k  
+- qazılan quyuların sayıdır. 
+ 38
+Bu ifadəni  
+( ) σσ dfNdn s=                                                  (77) 
+ilə müqayisə etsək 
+( ) ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−= ээ
+э
+s
+sls q
+ABz
+qlN
+kAf σσ                                    (78) 
+alarıq. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 18 
+ 
+Zədələnmələrin xətti toplanma qanununa əsasən 
+∫
+′
+=
+max
+a
+N
+dnσ
+σ
+                                                   (79) 
+Vöhler düsturuna əsasən isə 
+01NNN
+m
+e
+m
+e
+m
+−== σσσ  .                                     (80) 
+Buradan 
+m
+e
+m
+e
+m
+m NNN
+σ
+σ
+σ
+σ
+== − 01  ;                                     (81) 
+(81) və (77)-ni (79)-da yazsaq, alarıq 
+( ) a
+N
+dfNmax
+e
+m
+e
+s
+m
+=∫
+′
+σ
+σ σ
+σσσ                                      (82) 
+Buradan ekvivalent gərginlik üçün 
+ 39
+( )
+( )
+m
+m
+e max
+max
+dfa
+df
+∫
+∫
+′
+′= σ
+σ
+σ
+σ
+σσ
+σσσ
+σ                                       (83) 
+alarıq. Ekvivalent yük əmsalı 
+( )
+( )
+m
+m
+maxmax
+e
+e max
+max
+dfa
+df
+k
+∫
+∫
+′
+′== σ
+σ
+σ
+σ
+σσ
+σσσ
+σσ
+σ 1                               (84) 
+olacaq. ( )σf -nin ifadəsini (78)-dən (84)-ə yazsaq: 
+m
+э
+э
+э
+s
+э
+э
+э
+s
+m
+max
+e max
+max
+d
+q
+BAza
+d
+q
+BAz
+k
+∫
+∫
+′
+′
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+= σ
+σ
+σ
+σ
+σσ
+σσσ
+σ
+1                             (85) 
+olar. Inteqralı açıb 
+AB
+z
+э
+э
+s
+max 1
+1
+=σ  olduğunu nəzərə alsaq, yaza bilərik. 
+( ) ( )
+( ) ( )
+( )
+m э
+maxmax
+э
+max
+m
+max
+e
+ээ
+эmmэ
+эmma
+эk
+⎪⎭
+⎪
+⎬
+⎫
+⎪⎩
+⎪
+⎨
+⎧
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
++−⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ ′′
++
+⎪⎭
+⎪
+⎬
+⎫
+⎪⎩
+⎪
+⎨
+⎧
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+++−+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ ′
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ ′
++
+⋅
+++⋅+
++
+=
++
+1
+11
+11
+1
+1
+σ
+σ
+σ
+σ
+σ
+σ
+σ
+σ
+    (86) 
+maxσ
+σ ′  - nisbətinin kiçik qiymətlərində 
+( )( )
+me эmma
+эk
+11
+1
++++
++
+=                                        (87) 
+1=a ; 2=э ; 6=m  qiymətlərində kifayət qədər dərin quyu qazan avadanlıq üçün 
+60,ke =  alınır. Yəni belə qazma avadanlığı maksimum yükün 60%-nə bərabər 
+stasionar dəyişən yükə hesablanmalıdır. 
+(81)-i (79)-da yazsaq 
+ 40
+∫
+′ −
+=
+max
+a
+N
+dn
+m
+mσ
+σ σ
+σ
+01
+                                               (88) 
+yaza bilərik. 
+(77)-ni (88)-də yazsaq 
+( )
+∫
+′ −
+=
+max
+a
+N
+dfN
+m
+s
+mσ
+σ σ
+σσσ
+01
+                                     (89) 
+alarıq. 
+ ( )σf -nin ifadəsini (78)-dən (89)-a yazıb k -ya görə həll etsək: 
+σσ
+σ
+σ
+σ
+d
+q
+Bz
+ql
+A
+aNk
+max
+э
+э
+э
+s
+sl
+m
+∫
+′
+−
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+= 01                                        (90) 
+Bu ifadəni sadələşdirsək 
+⎥
+⎥
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎢
+⎢
+⎣
+⎡
+++
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ ′
+−
+−
++
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ ′
+−
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
+=
++++
+−
+1
+1
+1
+1
+11
+0
+1
+эm
+l
+l
+m
+l
+l
+lz
+alN
+KK
+K
+k
+эm
+s
+m
+s
+ss
+sl
+dv
+maxσ
+σ
+σ
+                                 (91) 
+burada gərginliyin konsentrasiya əmsalı σK ; səthin təmizliyini nəzərə alan əmsal vK  
+və həndəsi ölçünü nəzərə alan əmsal dK  - daxil edilmişdir.  
+Çox ağır kəmər üçün 0→
+′
+sl
+l  qəbul etsək 
+( )( )
+эlz
+эmmalN
+KK
+K
+k
+ss
+sl
+m
+dv
+max
+1101 +++
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
+=
+−
+σ
+σ
+σ
+                           (92) 
+alarıq. 
+ 41
+100=sz ; mls 5000= ; mlsl 25= ; 1=a ; 6=m ; 2=э ; mh, σσ 4501 =− ; 
+MPamh 900=σ ; ( ) lm.gpmax ⋅−= γγσ ; 378000 m
+N
+p =γ  - poladın; 320000 m
+N
+m.p =γ  
+- gili məhlulun xüsusi çəkisidir; 
+( ) MPaPamax 2901029050002000078000 6 =⋅=⋅−=σ  
+MPa, 4059004501 =⋅=−σ  
+42,K =σ ; 60,Kd = ; 80,Kv = ; 
+7
+0 10=N  qəbul etsək qazıla bilən quyuların sayını 
+hesablaya bilərik: 
+( )( )
+=
++++
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
+=
+−
+эlz
+эmmalN
+KK
+K
+k
+ss
+sl
+m
+dv
+max
+1101σ
+σ
+σ
+ 
+( )( )
+57
+25000100
+1261625110
+290
+8060
+42
+405 7
+6
+,
+,
+,,
+,
+≈
+⋅⋅
++++⋅⋅⋅
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
+⋅
+⋅=  
+Deməli 5000m-lik 7 quyunu seçilmiş boru kəməri vasitəsiylə təhlüuəsiz 
+qazmaq mümkündür. 
+ 
+1.9 Gəminin avar vintinin işləmə müddətinin təyini [5]. 
+ 
+Gəminin iş şəraitindən asılı olaraq avar valındakı maksimum gərginlik tsikli 
+aşağıdakı hədlərdə dəyişir. Normal gərginlik ( ) MPamin 12=σ -dan ( ) MPamax 36=σ  
+arada. Toxunan gərginlik isə ( ) MPamin 8=τ -dan ( ) MPamax 24=τ -a qədər dəyişir. 
+Gərginlik tsiklinin təkrərlanma tezliyinin paylanması üçbucaq şəklində olduğu qəbul 
+olunur (şəkil 19). 
+ 42
+Il ərzində val 75% işləyir. Onun orta sürəti 
+дяг
+дювр150 -dir. Belə olduqda val il 
+ərzində 61060 ⋅ dövr edəcəkdir. 
+Korrozialı mühitdə polad nümunələrinin sınağı nəticəsində Vöhler əyrilərinin 
+aşağıdakı parametrləri alınmışdır: 7=m ; 60 1050 ⋅=N ; MPar 112=σ . Əyrinin 
+üfüqü hissəsi yoxdur. Toxunan gərginlik üçün də 7=m ; 60 1050 ⋅=N  qəbul olunur 
+MPa, rr 5650 == στ . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 19 
+ 
+( ) ( ) ( )minmaxmax σσσσσ +=<<  qiymətlərində şəkil 19-dakı əyrinin AB  
+hissəsinin tənliyi 
+( ) 0=+= σσ bfa  
+A  və B  nöqtələrində 
+( )
+( ) ⎪⎭
+⎪
+⎬
+⎫
+−
++=
+⋅+=
+min
+min
+σσ
+σ
+σ
+1
+0
+ba
+ba
+ 
+olduğundan 
+( )mina σ=  
+( ) ( ) ( )
+( )
+4
+2
+222 minmax
+minminminminb
+σσ
+σσσσσσσσ
+−
+=−=+−−=  
+ 43
+Onda 
+( ) ( ) ( )σσσσσ f24
+1
+minmaxmin −+=  
+bradan 
+( ) ( )
+( )2
+4
+minmax
+min
+σσ
+σσ
+σ
+−
+−
+=f ; 
+Deməli ( ) σσσ <<min  qiymətlərində 
+( ) ( )
+( )( )2
+4
+minmax
+minf
+σσ
+σσ
+σ
+−
+−
+=                                         (93) 
+ifadəsini alırıq. Qrafikin BC  hissəsində maxσσσ << . Bu halda 
+( )σσ bfa +=  
+C  və B  nöqtələrində 
+0⋅+= bamaxσ  
+( )min
+ba
+σσ
+σ
+−
+⋅+=
+1  
+buradan 
+maxa σ=  
+( )( ) ( ) ( )( ) ( ) ( )( ) ( ) ( ) =++−=−−−= minmaxminmaxminmaxminb σσσσσσσσσσσσ 2  
+( )
+44
+2 2222 minmaxminminmaxmax
+minmaxminmax
+σσσσσσσσσσσ −−=+⋅+−⋅=−⋅=  
+onda 
+( ) ( )σσσσσ fminmaxmax ⋅
+−
+−=
+4
+2
+ 
+Buradan 
+( )
+( ) ( )( )2
+4
+minmax
+maxf
+σσ
+σσσ
+−
+−
+=  
+Deməli σσσ <<max  arada 
+( ) ( )
+( ) ( )( )2
+4
+minmax
+maxf
+σσ
+σσ
+σ
+−
+−
+=                                            94 
+ 44
+olacaq. 
+Maksimum gərginlik tsiklinin orta qiyməti: 
+( ) ( ) MPaminmax 24
+2
+1236
+2
+=
++
+=
++
+=
+σσ
+σ  
+( ) ( ) MPaminmax 16
+2
+824
+2
+=
++
+=
++
+=
+ττ
+τ  
+(93) və (94) ifadələrini (42) düsturunda nəzərə alsaq və minσσ =′  qəbul etsək 
+(42) düsturuna daxil olan inteqral üçün yaza bilərik: 
+( ) ( )
+( ) ( )( )
+( ) ( )
+( ) ( )( )( )( )
+( )
+=
+−
+−
++
+−
+−
+=∫ ∫ ∫
+max
+min min
+max
+dddf
+minmax
+maxm
+minmax
+minmm
+σ
+σ
+σ
+σ
+σ
+σ
+σ
+σσ
+σσ
+σσ
+σσ
+σσ
+σσσσ 22 44  
+( )
+( ) ( )( )
+( )
+( )
+( ) ( )( )
+( )
+=
+−
++
+−
++
+⋅
++
+−
++
+⋅
+−
++=
+++++
+max
+minmax
+mm
+max
+minmax
+m
+min
+m
+mmmm
+min
+σ
+σ
+σ
+σ
+σσ
+σσσ
+σσ
+σσσ
+2
+21
+2
+12
+214124  
+( ) ( ) ( ) ( ) ( ) ( ) ( )
+( )
+( )( ) ( ) ( )( )
+=
+−++
++−+++−+
+⋅=
+++++
+2
+2112
+21
+1221
+4
+minmax
+mm
+maxmin
+m
+min
+m
+mm
+mmmm max
+σσ
+σσσσσσ
+σ
+σ
+σ
+σ
+( )( ) ( ) ( )( )
+( ) ( ) ( )⎢⎣
+⎡ ++−+⋅
+−++
+=
+++ 12
+2 2121
+4 m
+min
+m
+minmax
+mm
+mm
+σσσ
+σσ
+ 
+( ) ( ) ( ) ( ) ( ) =⎥⎦
+⎤++⋅+−++
+++++ 2122 12 mmmax
+m
+max
+m
+min mm σσσσσ  
+( )( ) ( )( )
+( ) ( ) ( )⎢⎣
+⎡ −+++⋅⋅
+−++
+= ++
++ 222
+2 1221
+4 m
+max
+m
+min
+m
+minmax
+m
+mm
+σσσ
+σσ
+ 
+( ) ( ) ( )( ) ( )( ) ( ) ( )( )
+( )⎢⎣
+⎡ ++⋅
+−++
+=⎥⎦
+⎤++−
+++ 2
+2
+1 12
+21
+42 m
+minmax
+minmax
+m m
+mm
+m σ
+σσ
+σσσ  
+( ) ( ) ( )( ) ( )( )
+×
+−++
+=⎥⎦
+⎤+−++
++++
+2
+222
+21
+422
+minmax
+minmax
+σσ
+σσσ
+mm
+m mmm  
+( ) ( )
+( )( ) ( )
+( )
+×
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+−++
+=⎥⎦
+⎤
+⎢⎣
+⎡ +−× +
+++
+2
+222
+121
+42
+max
+min
+m
+min
+mm
+max
+mm
+σ
+σ
+σσσ  
+ 45
+( )
+( )
+( )
+( )
+mm
+mm
+J maxmax
+max
+min
+max
+σσ
+σ
+σ
+σ
+σ
+σ=⋅⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
++⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+−×
+++ 22
+21  ; 
+( )( ) ( )
+( )
+( )
+( )
+( ) ⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
++⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+−⋅
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+−++
+=
+++ 22
+2 21
+121
+4
+m
+max
+min
+m
+max
+min
+maxmm
+J
+σ
+σ
+σ
+σ
+σ
+σ
+σ                      (95) 
+Nəticədə 
+( )
+( )
+( )
+m
+max
+m Jdf
+max
+min
+σσσσ σ
+σ
+σ
+=∫                                     (96) 
+alırıq. 
+Ədədi qiymətləri (95)-də yazsaq 
+1170
+36
+12198
+36
+12
+36
+2421
+4 2
+99
+,J =
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ −⋅⋅
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−
+⋅=σ        alırıq 
+Onda 
+( )
+( )
+( )
+m
+max
+m ,df
+max
+min
+σσσσ
+σ
+σ
+⋅=∫ 1170  
+olacaq 
+Analoji olaraq: 
+( )
+( )
+( )
+( )
+m
+max
+m ,df
+max
+min
+ττττ
+τ
+τ
+⋅=∫ 1170                                       (97) 
+olacaq 
+(96) və (97)-ni (42) və (43)-də yazıb, alınan ifadələri (44)-də nəzərə alsaq və həddi 
+vəziyyət üçün möhkəmliyə ehtiyat əmsalını 1=n  qəbul etsək avar vintinin valının 
+işləmə tsiklləri sayı eN -i  62,K =σ ; 02,K =τ  qəbul etməklə aşağıdakı ifadədən 
+təyin edə bilərik. 
+ 46
+( )
+( )
+( )
+=
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎣
+⎡
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+⋅+
+⋅⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+= m
+m
+rmax
+maxr
+m
+max
+r
+e
+J
+J
+K
+K
+KJ
+NN
+2
+0
+1
+1
+σ
+τ
+σ
+τ
+σσ
+τσ
+τσ
+σ
+σ  
+6
+7
+2
+7
+76
+1073
+1170
+1170
+566236
+2241121
+1
+3652
+112
+1170
+1050 ⋅=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⋅
+⋅⋅
+⋅⋅
++
+⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+⋅
+⋅⋅=
+,
+,
+,
+,,
+tsikl. 
+Bu da 
+21
+1060
+1073
+6
+6
+,Ne =
+⋅
+⋅
+=  il 
+işləmə müddətinə uyğun gəlir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47
+ 
+II FƏSİL  
+UZUNÖMÜRLÜYÜN TƏYİN EDİLMƏSİNDƏ  
+EHTİMAL-STATİSTİKA ÜSULLARI 
+ 
+2.1 Ümumi məlumat 
+ Maşın və onun hissələrinin uzunömürlüyü və etibarlığının əsas göstəricilərinə 
+saz işləmə ehtimalı ( )tP , nasazlıqların baş verməsinə qədər olan iş müddəti ( )tm , 
+nasazlıqların intensivliyi ( )tλ  daxildir. Əgər sınaqdaq keçirilən obyektlərin sayı 0N , 
+sınaq müddətində nasaz obyektlərin sayı N ′  olarsa, onda saz hissələrin sayı 
+NNNt ′−= 0  və saz işləmə ehtimalı 
+( ) ( )tF
+N
+N
+N
+N
+N
+NNtP t −=
+′
+−==
+′−
+= 11
+000
+0                           (98) 
+olacaqdır. Burada ( )tF  - nasazlıqların baş verməsi ehtimalıdır. Deməli, 
+( ) ( ) 1=+ tFtP                                                 (99) 
+Məsələn, sınaqdan keçən hissələrin sayı 1000 =N , müəyyən iş müddətdə 
+nasaz hissələrin sayı 10=′N  olarsa 
+( ) 90
+100
+10100
+0
+0 ,
+N
+NNtP =−=
+′−
+=  
+( ) 1=tP  olduqda ( ) 0=tF  və əksinə, zaman sonsuzluğa yaxınlaşdıqda ( ) 0→tP ; 
+( ) 1→tF  olur (şəkil 20,a). 
+ Nasazlığın meydana çıxmasının sıxlıq funksiyası (şəkil 20,b) 
+( ) ( )
+dt
+tdFtf =                                               (100) 
+və ya 
+( ) ( )
+dt
+tdPtf −=                                               (101) 
+Əgər zamanın t  anında saz obyuktlərin sayı tN , tΔ  müddətdən sonra nasaz 
+hissələrin sayı N ′Δ  qədər artarsa, onda 
+ 48
+tN
+N
+tΔ
+′Δ
+=λ                                                (102) 
+nasazlığın intensivliyi adlanır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 20 
+Misal üçün, əgər baxılan anda hissələrin sayı 120=tN ; 10 saatdan sonra 
+sıradan çıxan hissələrin sayı 12=ΔN  olarsa, 
+saat
+110
+10120
+12 2−=
+⋅
+=λ  
+olacaqdır. 
+(102) ifadəsində limitə keçsək, 
+( )
+dtN
+dN
+dtN
+NNd
+dtN
+Nd
+t
+t
+t
+t
+t
+−=
+−
+=
+′
+= 0λ                                    (103) 
+(103)-in sağ tərəfindəki ifadənin surət və məxrəcini 0N -a bölsək və ( )tPN
+Nt =
+0
+  
+olduğunu nəzərə alsaq 
+( )
+( )
+( )
+( )tP
+tf
+dttP
+tdP
+=−=λ                                            (104) 
+Nasazlıqların intensivliyinin istismar müddətindən asılılıq əyrisinin üç 
+xarakterik hissəsi vardır (şəkil 21). 
+ 49
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 21 
+ 
+I – başlanğıc işləmə perioduna bt uyğun gələn hissə. Bu hissə təzə obyektlərin 
+sınağına aiddir. Ona görə də burada λ  daha böyük qiymət alır. Burada λ -nin qiyməti 
+layihənin mükəmməliyindən, onu hazırlayan müəssisələrin müasir texnika və 
+mütəxəssislərlə təchiz olunma dərəcəsindən, materialın keyfiyyətindən və s. asılıdır. 
+Bu dövrdə meydana çıxan qüsurlar aradan qaldırıldıqdan sonra obyektdən tam gücü 
+ilə normal istifadə edilə bilər. Buna görə də yeni avtomobillərdə hərəkət sürətini ilk 
+dövrlərdə müəyyən həddən çox artırmağa icazə verilmir. 
+II - normal istismar perioduna nt  uyğun gələn hissə. Bu hissədə nasazlıq xeyli 
+az olur. Lakin sıradan çıxmalar təsədüfən olur və qəflətən baş verir. Bu hissədə 
+nasazlığın əsas səbəbi istismar qaydalarına riayət olunmaması, obyektdə texniki 
+qulluğun zəif olması, cari və əsaslı təmirin vaxtında aparılmamasıdır. 
+III – obyektdə intensiv olaraq nasazlıqların meydana çıxması periodudur - it . 
+Burada yeyilmə, hissələrdə yorulmadan çatlar əmələ gəlməsi, qocalma və s. 
+amillərdən λ  sürətlə artır. Bu periodda çalışmaq lazımdır ki, yeyilən, sıradan 
+çıxmaqda olan hissələr vaxtında yenisi ilə əvəz olunsun; dağılmada olan obyekt 
+qabaqcadan istismardan çıxarılsın və s; 
+İkinci periodda λ -nin qiyməti çox az dəyişir, demək olar ki, sabit qalır: 
+const=λ . Bu halda 
+( )
+( )
+dt
+tdP
+tP
+1
+−=λ  ;         ( )( ) dttP
+tdP λ−= . 
+İkinci ifadəni inteqrallasaq 
+ 50
+( ) CttPln +−= λ  
+0=t  anında ( ) 1=tP  olduğundan 0=C  və 
+( ) tetP λ−=                                                   (105) 
+Deməli, nasazlıqların intensivliyi sabit olduğu hallarda saz işləmə ehtimalı 
+üstlü funksiya üzrə dəyişir (şəkil 22). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 22 
+ 
+Əgər obyekt n  sayda bir-biri ilə ardıcıl birləşdirilmiş hissədən ibarətdirsə, 
+onda saz işləmə ehtimalı 
+( ) ( ) ( ) ( ) ( )∏
+=
+=⋅⋅⋅=
+n
+i
+in tPtPtPtPtP
+1
+21 K                                  (106) 
+Əgər obyekt hər birinin saz işləmə ehtimatı ( ) 970,tP =  olan 10 ardıcıl 
+birləşdirilmiş hissədən ibarətdirsə, 
+( ) 740970 10 ,,tP ≈=  
+Deməli, obyektlərin etibarlığını artırmaq üçün onların quruluş sxemlərində 
+ardıcıl birləşdirilmiş hissələrin sayını azaltmaq lazımdır. 
+ 
+2.2 Təsadüfi kəmiyyətlərin normal paylanma qanunu 
+Təbiətdə və texnikada rast gəldiyimiz bir çox kəmiyyətlər öz orta qiymətləri 
+ətrafında dəyişir. Misal üçün Avropada insanların orta boy səviyyəsi 1,8 m olduğu 
+halda insanların bir qisminin boyu bundan daha az, digər qisminin boyu isə bundan 
+daha çoxdur. Buna onların ayaqlarının, başlarının ölçülərini də misal göstərmək olar.  
+ 51
+Texnikada maşın və qurğulara təsir edən xarici qüvvələr, onların 
+materiallarının mexaniki xassələrini xarakterizə edən kəmiyyətlər də müəyyən orta 
+hədd ətrafında dəyişir. Ona görə də konstruksiyaları uzunömürlüyə hesabladıqda bu 
+cəhətlər nəzərə alınmalıdır. 
+Təsadüfi kəmiyyətlərin normal paylanma qanunu Qaus funksiyası ilə ifadə 
+olunur. Bu funksiya belə yazılır: 
+( )
+2
+2
+2
+2
+1 S
+Ax
+e
+S
+y
+−
+−
+=
+π
+ ,                                            (107) 
+burada x  - təsədufi kəmiyyət; A  - onun orta qiyməti; S  - orta kvadratik xəta; 
+143,=π -dür. 
+ Paylanma funksiyası iki əsas parametr vasitəsiylə müəyyən edilir: dəyişənlərin 
+orta qiyməti Avə dəyişənlərin orta kvadratik xətası və ya dispersiyası S  ilə. 
+i
+n
+i
+i Ann
+A ∑
+=
+=
+1
+1  ;                                                (108) 
+( )21 AAn
+n
+S ii −= ∑   ,                                       (109) 
+burada ii An −  - rəqəminə uyğun təkrarlanmaların sayı; n  - ümumi dəyişənlərin 
+sayıdır. 
+Belə bir misala baxaq:  
+Şəkil 23-də %
+n
+ny i 100⋅=  qiymətlərinə uyğun nöqtələr dairəvi olmaqla 
+göstərilmiş və qırıq xətlərlə birləşdirilmişlər. Dəyişənlərin orta qiyməti: 
+MPa,An
+n
+A
+i
+ii 1607
+1 14
+1
+== ∑
+=
+ 
+dispersiyası isə 
+( ) MPa,AAn
+n
+S
+i
+ii 6232
+1 14
+1
+2
+=−= ∑
+=
+ 
+alınmışjır. Bu qiymətlərə uyğun Qaus funksiyası 
+ 52
+( )
+( ) %e,e
+S
+y ,x,S
+Ax
+1001520
+2
+1 22
+2
+1607072702 ⋅=⋅= −−
+−
+−
+π
+ 
+olacaqdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 23 
+y -nin hesablanmış bu qiymətləri şəkil 23-də qara nöqtələrlə göstərilmiş və 
+bütov xətlə birləşdirilmişlər. Şəkil 23-də göstərilən əyrilərə əsasən polad materialının 
+möhkəmlik həddinin 603 və 605 MPa arada olması ehtimalını tapmaq üçün 
+ştrixlənmiş sahənin əyrinin əhatə etdiyi ümumi sahəyə olan nisbəti hesablamaq 
+lazımdır bu sahələr uyğun olaraq 15 MPa və 100 MPa olduğundan, göstərilən ehtimal 
+%p 15=  olacaqdır. 
+ 53
+Polad materialı nümunələrinin möhkəmliyə yoxlanması nəticəsində müəyyən 
+edilmişdir ki 235=n  nümunənin möhkəmlik həddi cədvəl 6-da göstərildiyi kimi 
+dəyişir. Bu dəyişmələrə uyğun paylanma qanununu müəyyən edək. 
+Cədvəl 6 
+Gərginliyin paylanmasının statistik analizi 
+Sıra nömrəsi 1 2 3 4 5 6 7 8 
+[ ] [ ]iA йа вя ..hMσ  601 602 603 604 605 606 607 608 
+in  2 6 13 16 26 36 38 28 
+Ümumi saya görə, 
+% lə-y 0,85 2,56 5,72 6,84 11,12 15,36 16,21 11,97 
+iinA  1202 3612 7839 9664 15730 21816 23066 17024 
+AAi −  74,42 156,06 218,53 153,76 114,66 43,56 0,38 22,68 
+( )2AAn ii −  74,42 156,06 218,53 153,76 114,66 43,56 0,38 22,68 
+( )
+n
+AA
+S
+n
+i
+i∑ −
+=
+2
+ 
+        
+AXAX ii −= ;  -6,1 -5,1 -4,1 -3,1 -2,1 -1,1 -0,1 0,9 
+( )2AX −  37,21 26,01 16,81 9,61 4,41 1,21 0,01 0,81 
+( )AX −− 07270,  -2,705 -1,891 -1,222 -0,699 -0,321 -0,088 -0,0007 -0,059 
+( )207270 AXe −− ,  0,067 0,1511 0,195 0,4966 0,726 0,09139 1 0,9416 
+( )2072701520 AXe −− ,,  0,01 0,023 0,045 0,075 0,11 0,14 0,152 0,143 
+Ümumi saya görə, % lə normal paylanma 1 2,3 4,5 7,5 11 14 15,2 14,3 
+Cədvəl 6-nın davamı 
+ 
+ 54
+2.3. Konstruksiyaların dağılma ehtimalı 
+Konstruksiyalara təsir edən yükün paylanma funksiyası ( )Ny  və yükgötürmə 
+qabiliyyətinin paylanma funksiyası ( )ϕy  məlum olarsa konstruksiyanın dağılma 
+ehtimalını N.S.Streletski üsuluyla təxmini olaraq müəyyən etmək mümkündür. Şəkil 
+24-də ( )Ny  və ( )ϕy  əyriləri qurulmuşdur. y  - oxunda faizlərlə ehtimal qiymətləri, x  
+- oxunda isə uyğun riyazi gözləmələr, A  - təsir edən yükün və yükgötürmə 
+qabiliyyəti göstərilmişdir. Əyrilərin kəsişmə nöqtəsində 0ϕ=oN  olur.  
+( )Ny  əyrisinin 0N -dan sağa, yəni 0NN > ; ( )ϕy  əyrisinin 0ϕ -dan soldakı, 
+yəni 0ϕϕ <  qiymətlərinə uyğun gələn hallarda konstruksiyanın dağılma ehtimalı baş 
+verir. Bu ehtimal şəkil 24-də göstərilən ştrixlənmiş 1ω  və 2ω  sahələri, daha doğrusu 
+bu sahələrin hasili 21 ωω ,  - ilə giymətləndirilir. Konstruksiyanın dağılmamasının 
+zəmanəti isə 
+(110) 211 ωω−=T                                               
+ifadəsi olacaqdır. 
+ 
+ 
+ 
+ 
+Şəkil 24 
+ 
+Sıra nömrəsi 9 10 11 12 13 14 15 
+[ ] [ ]iA йа вя ..hMσ  609 610 611 612 613 614  
+in  28 18 10 8 4 2  
+Ümumi saya görə, 
+% lə-y 11,97 7,69 4,23 3,42 1,21 0,85  
+iinA  17052 10980 6110 4896 2452 1228 1607,=A  
+AAi −  1,9 2,9 3,9 4,9 5,9 6,9  
+( )2AAn ii −  101,08 151,38 152,1 192,08 139,24 25,22  
+( )
+n
+AA
+S
+n
+i
+i∑ −
+=
+2
+ 
+      2,623 
+AXAX ii −= ;  1,9 2,9 3,9 4,9 5,9 6,9  
+( )2AX −  3,61 8,41 15,21 24,01 34,81 47,61  
+( )AX −− 07270,  -0,262 -0,65 -1,106 -1,746 -2,531 -3,461  
+( )207270 AXe −− ,  0,77 0,522 0,33 0,174 0,08 0,031  
+( )2072701520 AXe −− ,,  0,117 0,079 0,05 0,026 0,012 0,005  
+Ümumi saya görə, % lə normal paylanma 11,7 7,9 5 2,6 1,2 0,5  
+ 55
+Burada 
+( )
+( ) ⎪
+⎪
+⎭
+⎪
+⎪
+⎬
+⎫
+=
+=
+∫
+∫
+∞−
+∞
+0
+0
+2
+1
+ϕ
+ϕϕω
+ω
+dy
+dnNy
+N                                                    (111) 
+kimi də hesablana bilər. 
+ 
+2.4 Gərginlik ampletudasının müxtəlif qanunlarla 
+dəyişdiyi hal üçün maşın hissələrinin işləmə müddətinin  
+təyin edilməsi 
+ Müxtəlif gərginlik ampletudasının şəraitində işləyən konstruksiyanın istismar 
+şəraiti, tsiklik olaraq, hər bl  müddətdən sonra təkrar olunarsa onda ümumi L  istismar 
+müddətində belə təkrarlanan blokların sayı: 
+ 
+bl
+L
+=λ                                                           (112) 
+olacaqdır. 
+ Bir blokdakı gərginlik amplitudalarının bütün səviyyələrinin təkrarlanan 
+tsikllərinin ümumi sayı 
+∑
+=
+=
+r
+i
+ibb vv
+1
+.                                                    (113) 
+Burada ibv , aiσ  gərginlik amplitudasının yükləmə blokundakı təkrarlanan tsikllərinin 
+sayıdır. Konstruksiyanın işləmə müddətində aiσ  gərginlik amplitudasının 
+təkrarlandığı tsikllərin ümumi sayı: 
+λ⋅= ibi vn                                                    (114) 
+olacaq. 
+ Bütün gərginlik səviyyələrinin təkrarlanmalarının ümumi sayı isə belə 
+hesablana bilər 
+ 56
+∑
+=
+==
+r
+i
+bic vnN
+1
+λ .                                             (115) 
+Vöhler düsturuna əsasən  
+m
+ai
+m
+h
+i
+NN
+σ
+σ 01−= . 
+(114)-ü zədələnmələrin xətti toplanma qanununun ifadəsində yazsaq 
+∑
+=
+−= n
+i
+m
+aiib
+m
+dp
+v
+Na
+1
+01
+σ
+σ
+λ  .                                              (116) 
+d1−σ - hissənin əyilmədə dözümlülük həddidir. (116) düsturu ilə konstruksiyanın orta 
+işləmə resursunu hesablamaq olar. Bu resurs konstrusiyada yorulma qüsurları 
+yaranana qədər işlədiyi blokların sayı ilə ifadə edilir. 
+ Gərginlik amplitudasının paylanması sıxlıq ehtimalı ( )af σ  olan kəsilməyən 
+funksiya kimi verilərsə onda 
+∫
+∞
+−
+=
+d
+pan
+dn
+1σ
+ 
+( ) ( ) aabaac dfvdfNdn σσλσσ ==  
+və 
+m
+a
+d NN
+σ
+σ 01−=  
+yazmaqla 
+Jv
+Na
+b
+m
+dop
+⋅
+= −1
+σ
+λ                                              (117) 
+alarıq. Burada 
+( )∫
+∞
+−
+=
+d
+aa
+m
+a dfJ
+1σ
+σσσ                                       (118) 
+qəbul edilmişdir. 
+( )af σ -nin müxtəlif paylanma qanunlarına uyğun λ -nin ifadəsi cədvəl 7-də 
+verilmişdir [3]. Burada 
+ 57
+( ) ⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+−
+2
+2
+1
+2 nГn
+n
+ψ                                            (119) 
+( )nψ -in qiyməti 
+ 
+( )
+( )
+⎪
+⎪
+⎩
+⎪
+⎪
+⎨
+⎧
+−−⎟
+⎠
+⎞
+⎜
+⎝
+⎛ −
+−−−
+=
+−
+ндягиймятляри ъцт ин
+ндягиймятляри тяк in
+n!n
+n!!n
+n n
+1
+2
+2
+2
+2
+1
+2
+π
+ψ                             (120) 
+ 
+ifadələrindən təyin edilir. Burada ( ) ( )( )245312 −−=− nn,,,,!!n K  
+ 
+( ) ( )
+3
+31 πψψ ==  ;                   ( ) 12 =ψ  
+Cədvəl 7 
+Gərginlik amplitudasının müxtəlif paylanma qanunlarında hissələrin 
+resursunu hesablama düsturları 
+Gərginlik 
+Amplitu- 
+dasının 
+paylan- 
+ması 
+Amplitudanın paylanma 
+qanununun sıxlıq 
+ehtimalı 
+Resursun təyin olunma düsturu Qeyd 
+Normal 
+( )
+22
+2
+2 a
+aa
+a
+S
+e
+S
+σ
+σσ
+σ π
+−
+−
+ ( ) ( )∑
+=
+++′′
+= m
+r
+mb
+m
+r,xPrVCv
+xN
+a
+0
+2
+0
+000
+11
+2
+ψ
+πσλ
+σ
+ 
+a
+S
+x
+aД
+σ
+σσ −
+= −10  
+a
+a
+a
+S
+v
+σ
+σ
+σ =  
+mC′ - 
+Binominal əmsallar 
+Sağ qol 
+normal 
+paylan- 
+madır 
+2
+2
+2
+2
+2 a
+a
+a
+S
+e
+S
+σ
+σ
+σ π
+−
+ ( ) ( )112 20
+2
+00
+++
+=
+m,xPmv
+xNa
+b
+m
+p
+ψ
+λ
+π
+ 
+a
+S
+x Д
+σ
+σ 1
+0
+−=  
+Ekspo- 
+nensial 
+ 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−
+a
+a
+e
+a
+σ
+σ
+σ
+1
+ ( ) ( )22222
+2
+0
+1
+00
+++
+⋅
+=
+−
+m,xPmv
+xNa
+b
+mm
+p
+ψ
+λ  
+a
+Д
+S
+x 10
+−=
+σ
+ 
+Reley 
+düsturu 
+üzrə 
+2
+2
+2
+2
+a
+a
+Sa e
+S
+σ
+σ
+σ
+σ
+−
+ ( ) ( )22 20
+00
+++
+=
+m,xPmv
+Nxa
+b
+m
+p
+ψ
+λ  
+a
+S
+x Д
+σ
+σ 1
+0
+−=  
+ 58
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 24  ( )n,xP  inteqralının qiymətləri 
+ 
+aσ  gərginlik amplitudasının orta qiyməti 
+∑
+=
+=
+n
+r
+ara n 1
+1 σσ  
+Orta kvadratik xəta və ya dispersiya 
+( )∑
+=
+−
+−
+=
+n
+r
+aarn
+S
+a
+1
+2
+1
+1 σσσ , 
+( ) ∫
+∞ −−
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+=
+x
+nn
+nГn
+dyeyn;xP 2
+1
+2
+222
+1  ;     ,,,,n K321=  
+2
+2
+2
+a
+S
+y a
+σ
+σ
+=  variasiya əmsalıdır. 
+( )n;xP  inteqralının qiymətləri şəkil 24-də verilmişdir. 
+ 59
+ Gərginlik bloklarının sayı tapıldıqdan sonra hissələrin resursunun həddi 
+qiyməti 
+blL λ=  
+təyin edilir. Hissənin çıxdaş edildiyi işləmə müddətini чL  ilə işarə etsək onun 
+resursunun ehtiyat əmsalı 
+чL
+Lnh =                                                      (121) 
+ifadəsindən təyin edilir. Bu qiymət buraxıla bilən [ ]hn  qiymətindən az olmamalıdır. 
+Uzun müddət işləyən konstruksiyalarda (20 ildən çox) adətən gərginlik 
+amplitudası 
+iaσ  dözümlülük həddindən kiçik olur. Bu halda çevrilmiş gərginlik 
+blokundan istifadə olunur, yəni bütün gərginlik amplitudalarının qiyməti n  dəfə  
+artılırır və hesablama 
+n
+d
+ai
+1−>
+σσ  qiymətləri üçün aparılır. Onda hissələrin bloklarla 
+ifadə olunan resursu belə təyin olunur: 
+( )∑
+−=
+bi i
+m
+a
+m
+dp
+vn
+Na
+σ
+σ
+λ 01  ,                                            (122) 
+burada n -in qiyməti [ ]n -dən çox olmamalıdır. 
+ 
+2.5 Müntəzəm yüklənmə ehtimal olunan halda  
+hissələrin yorulmaya hesabı 
+Müntəzəm yüklənmə rejimində gərginliyin vaxtdan asılı olaraq dəyişmə tsikli 
+sabit xarakteristikalı olub eyni, dəyişməz periodla baş verir. 
+Maşın hissələrinin ehtimal olunan möhkəmlik şərti, bu halda, gərginlik 
+amplitudasının təsadüfi olaraq dəyişməsi və materialın dözümlülük həddinin 
+qiymətinin təsadüfi faktorlardan asılı olaraq dəyişməsinin statistik 
+qiymətləndirilməsinə əsaslanır [3]. Gərginlik amplitudasının və dözümlülük həddinin 
+normal qanunla paylandığı hal üçün dağılmanın ehtimal olunan hesabı qiyməti 
+ 60
+01 <−= − adM σσ                                              (123) 
+şərtindən təyin edilir. 
+Burada d1−σ  - dözümlülük həddinin median qiyməti olub 
+D
+d Kσ
+σσ 11 −− =  ifadəsindən 
+təyin edilir. ∑
+=
+−− =
+n
+i
+in 1
+11
+1 σσ ; 
+i1−σ - i  nömrəli ərintidən hazırlanmış nümunələrin 
+sınağı nəticəsində alınan dözümlülük hədlərinin orta qiymətidir; n  - ərintilərin 
+sayıdır; DKσ  - hissələrdəki gərginliyin konsentrasiya əmsalıdır; aσ  - gərginlik 
+amplitudasının orta qiymətidir. 
+Əgər d1−σ  və aσ -in paylanması normal olub qarşılıqlı asılı olmazsa onda M -
+də normal qanun üzrə paylanacaq və onun parametrləri ( )MS;M  - orta qiyməti və 
+dispersiyası aşağıdakı kimi təyin oluna bilər 
+adM σσ −= −1                                                (124) 
+222
+1 ad
+SSSM σσ += −                                             (125) 
+Dağılma ehtimalı P -nin qiymətinə uyğun Mpp SuMM += - kimi təyin edilir. 
+Burada Pu p −  ehtimalına uyğun kvantildir. Dağılma ehtimalı 0=+= Mpp SuMM  
+şərtindən təyin edilir. Nəticədə 
+22
+1
+1
+a
+SS
+Mu
+d
+ad
+M
+p
+σσ
+σσ
++
+−
+=−=
+−
+−                                       (126) 
+a
+hn
+σ
+σ 1−=  - ehtiyat əmsalını və 
+d
+d
+d
+S
+v
+1
+1
+1
+−
+−
+−
+=
+σ
+σ
+σ , 
+a
+a
+a
+S
+v
+σ
+σ
+σ =  variasiya əmsallarını qəbul 
+etsək 
+222
+1
+1
+ad
+vvn
+nu p
+σσ +
+−
+=
+−
+                                        (127) 
+alarıq. n , 
+d
+v
+1−σ  və avσ -ni bilməklə pu  kvantilini (127)-dən təyin edə bilərik. pu -nin 
+qiymətini bilməklə normal paylanma cədvəlindən maşın hissələrinin dağılma ehtimalı 
+P -ni təyin etmək mümkündür. 
+ 61
+ Şəkil 25-də 
+d
+v
+1−σ -nin 0,04 və 0,08 qiymətləri üçün dağılma ehtimalının pu  
+kvantilindən asılılığı n  və 
+a
+vσ -nin müxtəlif qiymətlərinə uyğun verilmişdir. 
+ Digər paylanma qanunlarında maşın hissələrinin dağılma ehtimalı 
+( ) ( )dyyfyzPP zy∫
+∞
+Φ=<−=
+0
+0α                               (128) 
+ifadəsindən təyin edilə bilər [3]. Burada yf , ay σ=  gərginlik amplitudasının 
+paylanmasının sıxlıq funksiyasıdır. ( )yzΦ -isə dz 1−= σ  dözümlülük həddinin 
+paylanmasının sıxlıq funksiyasıdır. ( ) ( ) ( )∫=Φ=Φ
+a
+dzzfy azz
+σ
+σ
+0
+, ( )zf z , dz 1−= σ -nin 
+paylanmasının sıxlıq funksiyasıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 25 Dağılma ehtimalını təyin etmək üçün diaqramma 
+ 
+ 
+ 
+ 
+ 
+ 62
+ 
+III FƏSİL  
+SÜRTÜNƏN MAŞIN HİSSƏLƏRİNİN UZUNÖMÜRLÜYÜ 
+3.1. Yeyilməyə davamlılıq 
+ 
+Sürtünən maşın hissələrinin sıradan çıxmasının əsas səbəbi sürtünən səthlərin 
+yeyilməsidir. Müəyyən edilmişdir ki, sıradan çıxan maşınların 85…90%-i sürtünən 
+səthlərin yeyilməsi hesabına, qalan 10…15%-i isə digər səbəblərdən, misal üçün, 
+qırılmadan, dağılmadan, və s. baş verir. 
+Dünya enerji resursunun təxminən 
+3
+1  hissəsi hazırda bu və ya digər formada 
+sürtünmənin dəf olunmasına sərf olunur. Odur ki, sürtünmə prosesinin öyrənilməsi 
+xüsusi əhəmiyyətə malikdir. Mexaniki quruluşların etibarlılığı, istismarı və yeyilməsi 
+ilə məşğul olan elm sahəsi «Tribonika» adlanır. Bu ad tribos – yunan dilində 
+sürtünmə sözündən götürülmüşdür.  
+Yeyilmə mürəkkəb proses olub öz xarakterinə görə mexaniki, molekulyar-
+mexaniki və korroziya olunmaqla mexaniki kimi qruplara ayrılır. 
+Mexaniki yeyilməyə abraziv, yorulmaqla və plastik deformasiya olunmaqla 
+yeyilmə növləri aiddir. 
+Molekulyar-mexaniki yeyilməyə yapışaraq qopmaqla, qat-qat olub qopmaqla 
+yeyilmə növləri aiddir. 
+Korroziya olunmaqla mexaniki yeyilməyə oksidləşərək, frettinq, korroziya 
+olunaraq yeyilmə və səthi aktiv qarışıqların təsiri ilə yeyilmə aiddir. 
+Mexaniki yeyilmə mexaniki proseslərdə baş verir. 
+Abraziv yeyilmə kontakt səthinə düşən bərk hissəciklərin görüşən səthləri 
+cızması və kəsməsi nəticəsində baş verir. Bu hissəciklər səthlərdən kiçik 
+yonqarabənzər metal qatları çıxarır. Nəticədə hissələrin səthində çala-çuxurlar əmələ 
+gəlir. Abraziv materiallar mineral mənşəli hissələrin səthindən qopan metal 
+hissəcikləri şəklində ola bilər. Bu hissəciklərin bərkliyi əsas materialın bərkliyindən 
+çox, plastikliyi isə ondan azdır. 
+ 63
+Hissələrin abraziv yeyilməyə davamlığı onların səthinin bərkliyi ardıqca 
+çoxalır. Ona görə də səthdəri bərkitmə – tablama, sementləmə və s. hissələrin 
+uzunömürlüyünü artırmağa imkan verir. Abraziv hissəciklərin kontakt səthinə 
+düşməməsi üçün qoruyucu quruluşlardan, kipləşdiricilərdən, yağı təmizləyən 
+süzgəclərdən və s. istifadə olunur. 
+Plastik deformasiya olunmaqla yeyilmə iki qismə ayrılır. Səthlər arasındakı 
+təzyiq kiçik olduqda, bü səthlər üzərindəki kələ-kötürlüklər əzilərək səthin daha da 
+hamarlaşmasına və sürtünmənin azalmasına səbəb olur. Səthlər arasındakı təzyiq çox 
+olduqda isə hissələrin üz səthi xeyli dərəcədə öz formasını dəyişir və bu da əlavə 
+dinamik gərginlik yaranmasına səs-küyə, hissələrin normal yağlanmasının 
+pozulmasına səbəb olur. Belə hallarda görüşən səthlərdə yaranan gərginliyin 
+qiymətini daha dəqiq hesablamaq və bu səthlərin bərkliyini artırmaq lazım gəlir. 
+Yorularaq yeyilmə səthlərdə təkrar təsir edən kontakt gərginliyi hesabına baş verir. 
+Dişli çarxlarda dişlər, diyirlənmə yastıqlarında diyirciklər, çəkicin işlək səthi və s. 
+hissələr iş zamanı görüşdükləri digər hissələrlə kontakta girdikdə onların səthində 
+kontakt gərginliyi yaranır. Bu gərginlik təkrar olunduqda hissəlirn səthində yorulma 
+nəticəsində mikroskopik çatlar (10-20 mkm) əmələ gəlir və müəyyən şəraitdə bu 
+çatlar genişlənir. Proses hissələrin səthindən kiçik qəlpələrin qopması ilə nəticələnir. 
+Qəlpələrin sayı artdıqca səthdə əvvəlcə az nəzərə çarpan, sonra isə tədricən böyüyüb 
+ölçüsü 2-3 mm-ə çatan çala-çüxürlar əmələ gəlir. Görüşən səthlərin bu növ 
+dağılmasına yorularaq gilələnmə Pittinq deyilir. Pittinq – ingliscə xəndək, çüxür 
+deməkdir. 
+Metal səthində çatların böyüməsinə bu çatlara süzülən yağın hidrodinamik 
+təzyiqinin, səthi aktiv maddələrin adsorbsiya və adsorbsiya-kimyəvi xassələrinin 
+böyük təsiri olur. 
+Müəyyən şəraitdə yorulmadan yaranan çatlar metalın daxilində kontakt 
+səthindən içəridə baş verir. Çatlar genişləkdikdə metalın səthindən iri hissəciklər 
+qopur, metal səthi qat-qat soyulur. Belə halda əsas hissə zəifləyir və tezliklə dağılır. 
+Bir-birindən ayrılmayan səthlərə dəyişən qüvvə təsir edərsə, belə halda da 
+yorulmadan dağılma baş verə bilər. 
+ 64
+Molekulyar-mexaniki yeyilmə. Hissələrin bir-birinə sıxılma təzyiqi 
+həddindən artıq çox olduqda səthin üst qoruyucu pərdəsi dağılır, plastik deformasiya 
+baş verir və hissələr elə sıx kontaktda olur ki, nəticədə onlar arasındakı əlaqə 
+molekulların ilişmə təsir qüvvəsi üzrə baş verir. Bu hadisə ilişmə adlanır. Hissələr 
+bir-birinə nisbətən hərəkət etdikdə bu işilmə dağılır, digər yerdə isə yenisi əmələ 
+gəlir. Molekulların qarşılıqlı təsir qüvvəsi və mexaniki təsir nəticəsində səthlərin 
+zədələnməsi m o l e k u l y a r - m e x a n i k i  yeyilmə adlanır. 
+Molekulyar-mexaniki yeyilmənin ən təhlükəli növü materialın qoparaq bir 
+səthdən digər səthə yapışmasıdır. Bu halda səthdəki daha yumşaq material qopur və 
+əzilərək digər səthə yapışmaqla onun üzərində ləkə əmələ gətirir. Material qopan 
+səthdə isə ölçülər 100-200 mkm olan yekə şırımlar əmələ gəlir. Belə yeyilmə növü 
+q o p a r a q  y e y i l m ə  adlanır. 
+Sürüşmə sürtünmə sürəti böyük olan hallarda kontakt səthində böyük 
+temperatur yaranır və səthlərə sürtünən yağ öz qoruyucu xassəsini itirir. Bilavasitə 
+yüksək temperatur şəraitində metal-metal ilə görüşükdə səthləri bir-birinə yapışıb 
+qopmaqla dağılır. Bu təhlükəli yeyilmənin qarşısını almaq üçün xüsusi soyutma 
+sistemi nəzərdə tutulması və sürtünmə cütü daha münasib seçilməlidir. 
+Korroziya olunmaqla mexaniki yeyilmə. Sürtünən maşın hissələrinin səth qatı 
+müəyyən müddətdən sonra öz xassəsini dəyişir. Səthin çox nazik qatının bərkliyi artır 
+və bu, metal ilə xarici mühit komponentləri arasında daha sıx kimyəvi əlaqə 
+yaratmağa kömək edir. Nəticədə metal səthində müəyyən təbəqə yaranır. Bu təbəqə 
+sürtülüb yeyildikdən sonra proses yenidən təkrar olunur. Görüşən səthlərin bü cür, 
+sürtünərək pozulması korroziya olunmaqla mexaniki yeyilmə adlanır. Misal üçün 
+dəniz neft mədənlərində estakadaları saxlayan dayaq borularının bir hissəsi suda 
+digər hissəsi isə havada qalır. Su ilə haıanın görüşmə sərhəddindəki «yuyulan» hissə 
+daha tez korroziya olunaraq dağılır. Bu səth dalğa qalxdıqda islanır. Yatdıqda isə 
+quruyur. Boru səthində müəyyən kimyəvi qat əmələ gəlir. Dalğaların təkrar təsirindən 
+həmin qat silinir və yenisi əmələ gəlir. Beləliklə, borular «yuyulan» səth üzrə 
+nazikləşir və qırılma təhlükəsi artır. 
+ 65
+Oksiləşmə reaksiyası ilə baş verən korroziya olunmaqla mexaniki yeyilmənin 
+sürəti çox kiçikdir. Lakin tərkibinə səthi aktiv maddələr əlavə olunan yağlardan 
+istifadə etdikdə metal səthində yaranan bərk qatın sürtünməyə müqaviməti əsas 
+materialdan daha çox olur. Bu qatın yeyilmə dərəcəsi əsas materialın dağıla 
+biləcəyini qabaqcadan müdafiə etməyə imkan verir. 
+Korroziya olunmaqla mexaniki yeyilmə sürtünən səthlərin işarəsi dəyişməklə 
+kiçik sürtünmə sürətlərində, hissələrin deformasiyası və bəndlərdəki boşalmalarla 
+yanaşı baş verərsə belə yeyilməyə frettinq-korroziya deyilir. Frettinq korroziya 
+prosesi çox kiçik sürətlə gedir. Ona görə də frettinq korroziya məhz uzun müddət 
+belə şəraitdə işləyən hissələrin dağılmasına səbəb ola bilər. 
+Frettinq korroziyanı azaltmağın əsas üsullarından biri hissəlirin işçi səthinin 
+bərkliyini artırmaqdır. Bu, azotlaşdırma termik emal üsulu ilə aparıldıqda xüsusilə 
+səmərəlidir. Digər səmərəli üsullardan biri isə fosforlaşdırılmış işçi səthlərin disulfid 
+molibdenlə örtülməsidir. 
+Ümumiyyətlə, sürtünmə mürəkkəb proses olub, bir çox amillərlə 
+səciyyələndirilir. Sürtünmə və yeyilmənin zərərli təsirinin azadılması çox böyük 
+texniki problemdir. Bu sahədə bioloji proseslərin öyrənilməsi və onların texnikada 
+tətbiqi çox böyük fayda verə bilər. Məlum olduğu kimi, canlı orqanizmlərdəki 
+oynaqlarda sürtünmə əmsalı 0,001…0,03 arasında olur. Ən mükəmməl maşın 
+konstruksiyalarında belə, sürtünmə əmsalının qiyməti bu qiymətdən on, hətta yüz 
+dəfələrlə böyük olur. Ona görə də canlı (insan) orqanizminin oynaqlarındakı (şəkil 
+26) sürtünmə prosesini təbqiq edib öyrənmək və onu texnikada tətbiq etmək çox 
+perspektivlidir. Axırıncı on-iyirmi il ərzində bu sahədə bəzi nəticələr alınmışdır.  
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 26 
+ 66
+1 – sümük; 2 –şəffaf özlü maye; 3 – örtük qatı; 4 – oynaq qığırdağıdır. 
+Oynaq qığırdağı sümüyün üstünü nazik qatla örtür. Bu qatın qalınlığı cavan 
+adamlarda 4 – 7 mm-ə qədər olur. Qığırdaq məsaməli olduğundan yağlayıcı maddə 
+adi halda qismən bu məsamələrə dolur və qığırdaq qatını şişirdir. Oynağa qüvvə 
+düşdükdə qığırdaq sıxılır, yağlayıcı şəffaf maye məsamələrdən çıxıb onun səthini 
+daha yaxşı örtür. 
+Qığırdaq sıxıldıqca bərkiyir və xarici təsirə daha yaxşı müqavimət göstərir. 
+Qüvvə götürüddükdə yağlayıcı maddə yenə də qığırdağa hopur. Beləliklə, insan 
+oynaqlarının fizioloji quruluşu elədir ki, o xarici təsirə uyğunlaşmaqla sürtünməni 
+azaldır və qığırdaqların yeyilməsinin qarşısı alınır. Yaşlı adamlarda oynaqlar 
+kövrəkləşdiyi üçün bu proses pis gedir və ona görə də oynaqlarda ağrı hiss olunur. 
+Buradan aydın olur ki, təbiətdə ən mükəmməl texniki vasitələrə belə örnək ola 
+biləcək çoxlu nümunələr vardır. Onların quruluşu və bu quruluşda gedən proseslərin 
+öyürənilməsinin müasir texnikanın tərəqqisində əhəsiyyəti böyükdür. 
+Yeyilməni xarakterizə edən parametrlərdən biri yeyilmə intensivliyidir. O, hJ  
+yeyilən qatın qalınlığının Lh  sürtünmə yoluna L  nisbəti kimi müəyyən edilir: 
+L
+hJ Lh =  
+Əgər sürtünmə səthlərin təkrar kontaktı nəticəsində baş verərsə, onda L  
+əvəzinə bıxılan nöqtənin kontakt sahəsinə neçə dəfə düşməsi sayını SN  yazmaq 
+lazımdır: 
+S
+N
+N N
+h
+J S
+S
+=                                                 (129) 
+burada 
+SNh  - baxılan nöqtənin SN  sayda kontakta girdikdən sonra hissənin yeyildiyi 
+qatın qalınlığıdır. 
+Yeyilmə intensivliyinin əksi olan kəmiyyətə yeyilməyə davamlılıq deyilir. 
+Yeyilən hissələri uzunömürlülüyə hesabladıqda Vöhler əyrilərinin tənliyinə 
+analoji empirik ifadədən istifadə olunur: 
+constLQm = ;          constNS
+m
+H =σ .                             (130) 
+ 67
+Yağlanmayan səthlər üçün 1=m , yağlanan səthlər üçün 3≈m  qəbul olunur. 
+Hissələrin yeyilməyə davamlığının artırılması üçün ilk növbədə aşağıdakı 
+cəhətləri nəzərə almaq lazımdır: 
+1. Yeyilmənin növü, mexaniki, fiziki-kimyəvi mexanizmi və s. yaxından 
+öyrənilməlidir; 
+2. Sürtünmə cütünə daxil olan materiallar elə seçilməlidir ki, yeyilmə az olsun. 
+Məsələn, bu məqsədlə sürüşmə yastıqlarının val ilə görüşən səthi yeyilməyə davamlı 
+material olan babbit ilə örtülür; 
+3. Sürtünən hissələr elə layihələndirilməlidir ki, sürtünmə səthinə düşən təzyiq 
+buraxılabilən həddən kiçik olsun; 
+4. Sürtünən səthlərin yağlanması təmin olunmalıdır. Yağın markası elə 
+seçilməlidir ki, o hissələrin iş şəraitinə uyğun gəlsin. Məsələn, isti hava şəraitində 
+istiyə, soyuq iqlim şəraitində isə donmaya davamlı yağlar işlədilməlidir. Xüsusi 
+şəraitdə yağı təzyiq altında dövri sistemlə sürtünən səthlərə vermək və onun 
+soyudulmasını təmin etmək lazımdır; 
+5. Xarici mühitin təsiri ilə korroziyaya uğrayıb tez sıradan çıxan hissələrin 
+səthi korroziyaya davamlı maddə və ya örtüklərə izolə edilməlidir; 
+6. Sürtünən hissələrin daxil olduğu mexaniki sistem statik həll olunan 
+mexaniki sistem olmalıdır. Əks halda oynaqlarda əlavə reaksiya qüvvələri yaranır və 
+sürtünmə artır; 
+7. Layihə etdikdə çalışmaq lazımdır ki, tez yeyilən hissələr mümkün qədər 
+standart ölçülərdə olsun və təmir zamanı asanlıqla dəyişdirilə bilsin; 
+8. Maşın və mexanizməlrin istismarı dövründə onların vəziyyətinə nəzarət və 
+cari təmir vaxtlı-vaxtında, yaxşı təşkil edilməlidir. 
+ 
+3.2 Sürüşmə yastıqlarının uzunömürlüyə hesabı 
+Sürüşmə yastıqları quru, yarım quru və yağlı iş rejimlərində işləmələrindən 
+asılı olaraq müxtəlif üsullarla hesablanırlar. Quru və yarım quru sürtünmə şəraitində 
+işləyən yastıqlar yastıq içliyinə düşən xüsusi təzyiqin - q  buraxıla bilən qiymətlərdən 
+kiçik olması – yəni 
+ 68
+[ ]qq ≤                                                      (129) 
+ 
+və yastıq içliyi ilə valın vahid səthində sürtünmədən yaranan güc itgisinin buraxıla 
+bilən qiymətdən kiçik olması şərtinin ödənilməsinə görə hesablanır. 
+[ ]qvqv ≤                                                     (130) 
+v  - valın içliyə sürtünən səthinin nöqtələrinin xətti sürətidir. 
+Yağlama şəraitində işləyən sürtünmə yastıqları isə zəmanətli yağlı işləmə 
+əmsalın K  buraxıla bilən qiymətindən [ ]K  böyük olması şərtinə görə hesablanır. 
+[ ]K
+RR
+hK
+zz
+min >
++
+=
+11
+                                        (131) 
+Burada minh  - valla yastıq isliyi arasındakı yağ qatının minimum qalınlığı; 1zR - valın, 
+2zR - içliyin səthinin kələkötürlüklərinin hündürlüyüdür. 
+ (129) – (131) ifadəsindən göründüyü kimi bu hesablama üsulları yastığın 
+işləmə müddətini təyin etməyə imkan vermir. 
+ Qərarlaşmış iş rejimində yastığın yeyilməsinin xətti intensivlik əmsalının 
+inteqral qiyməti 
+L
+hIh =                                                       (132) 
+Burada h  - yeyilən qatın qalınlığı; L  - sürtünmə yoludur 
+bp KRntL π2=                                               (133) 
+Burada R  - valın radiusu; n  - dəqiqədəki dövrlər sayı; pt  - fırlanma müddəti; bK  - 
+başlanğıc işləməni nəzərə alan əmsaldır, 970950 ,,Kb K= . 
+ h -ın qiyməti həddi yeyilməyə uyğun qatın qalınlığı hε -ilə başlanğıc işləmə 
+periodundakı yeyilən qatın qalınlıqları fərginə bərabər qəbul edilir: 
+bhh εε −=                                                  (134) 
+hI -in qiyməti yeyilmə prosesində səthlərin deformasiyasının növündən asılı olaraq 
+təyin edilir. Ilkin elastik deformasiyasında [6]: 
+ 69
+( )20 1340 μ
+σ
+τ
+α
+−
+′
+= m
+m
+n
+m
+h E
+PK,I                                    (135) 
+Ilkin plastik deformasiyada isə [6]: 
+( ) ( )mm
+m
+h HB,E
+PK,I βτμ
+σα
+6701340 0
+20 +⋅−
+′
+=                                (136) 
+Burada K ′  - sürtünən səthlərdə yaranan dartıcı və toxunan nτ  gərginliklər arasındakı 
+əmsal olub yüksək elastik materiallar üçün üçə, kövrək materiallar üçün isə beşə 
+bərabərdir; m  - yorulma əyrisinin göstəricisi olub 143K=m  arada qəbul olunur; 
+dσ - dartılmada möhkəmlik həddi; E - yeyilməyə məruz qalan cismin materialının 
+Yunq modulu; μ  - Puasson əmsalı; 0P  - səthə olan təzyiq; 0τ  və β  - yeyilən səthin 
+friksion parametrləri; HB  - həmin səthin bərkliyidir. 
+(133), (134), (135) və (136) ifadələrini (132) də yazsaq alarıq: 
+Ilkin elastik deformasiya baş verdiyi halda sürüşmə yastığının qərarlaşmış 
+rejimdə işləmə müddəti: 
+( )
+( ) mnmp
+m
+dbh
+PKRnK
+E,t
+τμ
+σεε
+0
+2
+0
+1
+470
+⋅−′
+−
+=   .                                      (137) 
+Ilkin plastik deformasiya baş verərsə sürüşmə yastığının qərarlaşmış rejimdə 
+işləmə müddəti: 
+( )
+( ) ( )mmp
+m
+dbh
+HB,PKRnK
+E,t
+⋅+⋅−′
+⋅−
+=
+βτμ
+σεε
+6701
+470
+0
+2
+0
+ .                           (138) 
+(137) və (138) ifadələrinə daxil olan parametrlərin düzgün tənzimlənməsi ilə 
+yastığın qərarlaşmış iş rejiminin müddətini artırmaq mümkündür. 
+Misal: Radiusu mmR 100= ; dəqiqədəki dövrlər sayı 
+дяг
+дювр1000=n  olan val 
+sürüşmə yastığına MPaP 50 =  xüsusi təzyiqlə sıxılır. Yastığın yeyilməsi 
+mmh bh 5=−= εε  - həddi vəziyyətə çatdıqda onun işləmə müddətini təyin edək. 
+f
+K
+n
+d 1==
+τ
+σ ; 050,f =  sürtünmə əmsalıdır; 3=′K ; 5=m ; 30,=μ ; 
+MPaE 50 10= ; 960,K p =   
+ 70
+( )
+( ) ( ) саатдяг 6,117705653,01396,01000100
+2010547,0
+1
+47,0
+25
+55
+0
+2 ==⋅−⋅⋅⋅⋅
+⋅⋅⋅
+=
+−′
+⋅⋅−
+= m
+n
+m
+p
+m
+dbh
+PKRnK
+Et
+τμ
+σεε  
+Əgər 020,f =  olarsa onda саат411484,t =  olacaq. 
+Buradan görürük ki, yastığın normal işləmə müddəti valla yastıq içliyi 
+arasındakı sürtünmə əmsalından əsaslı olaraq asılıdır. Sürtünən hissələrin səthinin 
+təmizliyi və keyfiyyətli yağlanması təmin edildikcə yastığın işləmə müddəti də əsaslı 
+şəkildə artır. 
+3.3 Yumrucuqlu mexanizmin uzunömürlüyə hesabı 
+ Yumrucuqlu mexanizmlər texnikada çox geniş yayılmışdır. Yumrucuğun 1 
+profil əyrisindən asılı olaraq aparılan bəndə 2 dəqiq yerdəyişmə vermək mümkündür 
+(şəkil 27).  
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 27 Yumrucuq cütü 
+Yumrucuq mexanizminin etibarlı işləməsi üçün onun hissələri lazımi ölcüdə 
+olmalıdır. Mexanizm işlədikcə hissələr sürtünərək yeyilir və bu ölçülər pozulur. 
+Yeyilmə həddi vəziyyətə çatdıqda mexanizmin etibarlı işləmə müddətini hesablamaq 
+lazım gəlir. 
+Tutaq ki, yumrucuq saniyədə z  dövr edir. Hər dövrdə yeyilən qatın qalınlığı 
+*h1  olarsa onda bir saniyədəki yeyilən qatın qalınlığı zhh
+**
+g 1=  olacaq. Yumrucuğun 
+saatlarla işləmə müddəti yt  olarsa yeyilən qatın qalınlığı g
+* zth, 1
+31063 ⋅⋅  olacaq. Bu 
+qiymət ( ) *hK 001 ⋅− -ə bərabər olduqda iş rejimi pozulur. Burada *oh  - yeyilən qatın 
+həddi qiyməti 30200 ,,K K=  arada qəbul olunan əmsaldır. Sutkadan istifadə əmsalı 
+im  daxil etməklə yumrucuqlu mexanizmin qərarlaşmış işləmə müddətini (sutkalarla) 
+aşağıdakı ifadədən təyin edə bilərik: 
+ 71
+( )
+zmh,
+hKt *
+*
+y
+1
+4
+00
+10648
+1
+⋅
+⋅−
+=                                              (139) 
+Yumrucuğun bir dövr etməsi nəticəsində onun səthinin yeyilməsinin qalınlığı 
+*h1  aşağıdakı ifadədən təyin edilir [6]:  
+( ) ( ) ( ) ( )
+( ) 2
+1
+2
+1
+1
+2
+1
+0
+2
+1
+2
+1
+21
+2
+12
+1
+70120
+ElR
+hHB,NRRK,h
+t
+M
+tt
+*
+⋅
+⋅++−′
+=
+σ
+βτμ                   (140)  
+Burada 
+n
+K
+τ
+σ
+=′ ; σ  - normal; nτ  - toxunan molekulalar arası gərginlikdir; 
+143K=t  yorulma əyrilərinin göstəricisidir; 30,=μ  Puasson əmsalı; 1R , 2R -uyğun 
+olaraq fırlanmayan və fırlanan yumrucuq cütünün radiusları; l  - yumrucuqların 
+uzunluğu; N  - yumrucuğu sıxan qüvvə; HB  - sürtünən səthin bərkliyi; 0τ  və β  
+sürtünən səthin parametrləridir; Mσ  - möhkəmlik həddi; E  - materialın Yunq 
+moduludur; h  - görüşən yumrucuqların mərkəzlərinin yaxınlaşmasıdır; 0τ  və β -nın 
+qiymətləri bəzi polad markaları üçün ədəbiyyətda [6] verilmişdir. Polad 45 üçün 
+MPaHB 450= ; MPa,61290 =τ ; 0720,=β ; 1120,f = . 
+Misal: Yumrucuqlu mexanizm iki slindrik yumrucuqdan ibarətdir. Tərpənməz 
+yumrucuğun radiusu mmR 151 = , fırlanan yumrucuğun radiusu mmR 402 = . 
+Yumrucuqlar bir birinə NN 500=  qüvvə ilə sıxılır. Yumrucuqlar səthləri tablanmış 
+poladdan hazırlanmışdır, МРа,E 51012 ⋅= , 30,=μ . Yumrucuğun həddi yeyilməsi 
+mm,h* 800 = -dir. Fırlanan yumrucuğun fırlanma tezliyi сан
+дювр10=z ; eni mml 10= -
+din. Yumrucuğun işləmə müddətini təyin edək. 
+Əvvəlcə (140) düsturuna əsasən *h1 -i hesablayırıq. 51,K =′ , 4=t , 50,h = , 
+020700 ,HB,
+M
+=
+⋅+
+σ
+βτ   qəbul etsək: 
+( ) ( ) ( )
+( )
+mm,
+,
+,,,,h
+,
+* 9
+522
+1
+2
+1
+2
+142
+1
+2
+12
+124
+1 10054
+10124015
+8002050040153012150 −⋅=
+⋅⋅⋅
+⋅⋅⋅+−⋅
+=  
+ 72
+(139) düsturuna əsasən 200 ,K = , 30,m =  qəbul etməklə yumrucuq 
+mexanizminin normal işləmə müddəti: 
+( ) ilsutkatq 6816101001930100543010648
+80201 4
+94 ,,,,,
+,,
+==⋅=
+⋅⋅⋅⋅
+⋅−
+= −  olacaq. 
+ 
+3.4 Yan val kipləşdiricisinin uzunömürlülüyə hesabı 
+ 
+Şəkil 27-də göstərilən yan val kipləşdiricisi val üzərindəki iki mühiti bir-
+birindən təcrid etmək üçün tətbiq olunur. Yan kipləşdiricisinin işçi səthləri arasında 
+bu səthlərin kələ-kötürlüyü və həndir-hündürlüyu ilə bağlı ara boşluğu olur ki, bu da 
+onları sıxan qüvvədən, kələ-kötürlüklərin hündürlük xassələrindən, səth qatının 
+mexaniki xassəsindən asılı olaraq dəyişir.  
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 28. Yan val kipləşdiricisi 
+ 
+Yan val kipləşdiricisinin yeyilməyə davamlığı sadələşdirilmiş üsulla aşağıdakı 
+kimi hesablana bilər: 
+LI
+lt
+h ⋅
+Δ
+=                                                 (141) 
+Burada lΔ  - yan val kipləşdiricisinin həddi yeyilmə qalınlığı; L - sürtünmə məsafəsi; 
+hI  - xətti yeyilmə intensivliyinin vahid tsikldəki qiymətidir. 
+ Sürtünmə yolunun uzunluğu 
+tKqndL S0060π=                                       (142) 
+Burada q  – kipgəcin daxili diametri, 8070 ,,q K=  - qeyri müntəzəm yeyilməni 
+ 73
+nəzərə alan əmsal; 
+дяг
+дювр
+−0n -ilə mütəhərrik elementin dəqiqədəki fırlanma tezliyi; 
+SK  - sutkadan istifadə əmsalı; t  - saatlarla işləmə müddətidir. 
+ Bir tsikl ərzində yeyilmənin xətti intensivliyi hI ′  - aşağıdakı kimi təyin edilir: 
+( ) ( )
+( ) ⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+−
+Δ
++
+⋅−′
+=′
+5
+42
+5
+2
+5
+1
+5
+1
+0
+2
+1
+501340
+μ
+βτ
+σ
+μ EP,
+E
+PK,I St
+M
+S
+t
+h                    (143) 
+Burada SP  - sürtünən səthə olan təzyiq; Δ  - səthin kələ-kötürlüyünün hündürlüyu; 
+digər kəmiyyətlər, 3.3-də şərh edildiyi kimidir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 74
+ 
+IV FƏSİL  
+REOLOJİ MODELLƏR 
+ 
+Müasir dövrdə texnikada və məişətdə işlədilən bir çox konstruksiyalar elastik, 
+özlü və plastik xassələrə malik olan yeni materiallardan hazırlanır. Belə 
+konstruksiyaların gərginlikli deformasiyalı vəziyyətini tədqiq etmək üçün onların 
+fenomenoloji modellərini qurmaq lazımdır.  
+Bu modellər gərginlik, deformasiya və onların dəyişmə sürətləri arasında 
+qurulmuş fiziki asılılıqdan ibarət olub əsasən materialların tədqiqatlarının nəticəsində 
+alınan mə’lumatlara əsasən müəyyənləşdirilir. Onların riyazi ifadələri müəyyən 
+ardıcıllıqla əlaqələndirilən sadə elementlərdən tərtib olunur. Sadə elementlərə misal 
+olaraq materialın elastik xasəsini modelləşdirən elastik elementi (yay), özülü 
+xassələri modelləşdirən mayeli elementi (dempfer, hidravlik amortizator) göstərmək 
+olar. Elastik element şəkil 29-də, mayeli element isə şəkil 30-də verilmişdir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 29 Elastik element              Şəkil 30 Özülü xassəli element 
+ 
+4.1 Elastik model – Huk qanunu 
+Rabitə deformasiyası birölçülü olduqda elastik elementin gərginliyi və nisbi 
+deformasiyası arasındakı asılılıq Huk qanunu ilə ifadə edilir: 
+     εσ E=        (144) 
+ 75
+burada E  - elastiklik moduludur. 
+Mayeli elementdə piston ilə silindr arasında araboşluğunun olması nəzərdə 
+tutulmalıdır. Piston hərəkət etdikdə araboşluğundan axan maye hərəkətinin 
+hidrodinamik müqaviməti özlü müqaviməti xarakterizə edir. 
+ 
+4.2 Özlü mühitin modeli – Nyuton qanunu 
+ 
+Bu halda deformasiya (pistonun yerdəyişməsi) və gərginlik (piston tərəfindən 
+ötürülən qüvvə) arasındakı asılılıq özülü cisimlər üçün Nyuton qanunu ilə ifadə 
+olunur: 
+    
+dt
+dεησ =       (145) 
+burada −η özlülük əmsalıdır. 
+ 
+4.3 Özlü-elastik mühitin modeli – Maksvell cisminin modeli 
+ 
+Elastik və özülü elementləri ardıcıl birləşdirsək (şəkil 31a), onda hər hansı P  
+qüvvəsinin təsiri ilə bu qüvvənin tətbiq nöqtəsinin yerdəyişməsi u , yayın uzanması 
+1u ilə pistonun silindrə nisbətən yerdəyişməsi 2u  cəmindən ibarət olacaqdır:  
+21 uuu += . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 31. Maksvel cismi 
+ 76
+ 
+Bu asılılıqdan zamana görə törəmə alsaq: 
+dt
+du
+dt
+du
+dt
+du 21 +=  
+Alınan ifadənin hər iki tərəfini l-yə bölsək: 
+     
+dt
+d
+dt
+d
+dt
+d 21 εεε +=  
+Burada ε=
+l
+u ;  11
+.
+l
+u ε= ;  22
+.
+l
+u ε=  qəbul olunmuşdur. 
+(144) və (145)-yə əsasən axırıncı bərabərlikdən Maksvell cisminin deformasiya 
+tənliyini alırıq. 
+η
+σσε
++=
+dt
+d
+Edt
+d 1      (146) 
+const== 0σσ  olduqda Maksvell cismi sabit sürətlə deformasiya olunacaqdır: 
+η
+σε 0=
+dt
+d  
+Buradan 
+Et
+0
+0
+σε ==  şərtini nəzərə alsaq: 
+t
+E η
+σσε 00 +=  
+    alırıq. const=ε   olduqda (146) tənliyindən 
+01 =+
+η
+σσ
+dt
+d
+E
+ 
+olacaqdır. Axırıncı tənlikdə 00 σσ ==t   fərz etsək (şəkil 31b): 
+1
+0
+t
+t
+e
+−
+=σσ , 
+Deformasiya həddi qiymətə [ ]ε -ə çatdıqda [ ] [ ]t
+E η
+σσε 00 +=  yazıb elementin 
+işləmə müddətini [ ]t  - tapa bilərik: 
+[ ] [ ] [ ] [ ] ⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+−=−=⋅⎥⎦
+⎤
+⎢⎣
+⎡ −= 1
+0
+1
+00
+0
+ε
+εηε
+σ
+η
+σ
+ησε t
+EE
+t                      (147) 
+ 77
+burada 
+E
+t η=1  - gərginliyin relaksasiyası (boşalma) müddəti, başqa sözlə, sabit 
+deformasiyada gərginliyin e dəfə azalması vaxtıdır. 
+ Maksvell cismi üçün gərginliyin relaksasiya əyrisi şəkil 31b-də göstərilmişdir. 
+Şəkildən göründüyü kimi gərginlik üstlü funksiya qanunu üzrə dəyişir və nəticədə 
+sıfra yaxınlaşır. 
+ 
+4.4 Elastik-özlü mühitin modeli – Foyqt cisminin modeli 
+ 
+Elastik və özülü elementləri paralel birləşdirsək, P  qüvvəsi şəkil 32-də təsvir 
+olunan cismə təsir edən qüvvələrin cəminə bərabər olar: 
+                                                    21 PPP +=  
+Bu halda yayın uzunluğunun dəyişməsi və pistonun yerdəyişməsi eyni 
+olacaqdır. Ona görə də 
+                                                  
+dt
+du
+k
+PcuP 1, 21 ==  
+yaza bilərik. Onda 
+dt
+du
+k
+cuP 1+=  
+olacaqdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 32 Foyqt cismi 
+ 78
+Axırıncı ifadənin hər iki tərəfini А -ya bölüb 
+,,
+A
+P
+A
+clE == σ          
+kA
+l
+=η   işarə etsək, Foyqt cisminin deformasiya tənliyini alırıq: 
+                   
+dt
+dE εηεσ +=  .                                                  (148) 
+00==tε      şərti ilə const== 0σσ  olduqda. (148)-in həllindən 
+)1( 10 t
+t
+e
+E
+−
+−=
+σ
+ε      (149) 
+alırıq.  
+Burada 
+E
+t η=1 - elastikliyin sonrakı təsir muddətidir.  
+ Bu hal üçün )(tε  əyrisi şəkil 32b-də göstərilmişdir. 
+ Digər sadə elementləri də nəzərdən keçirməklə və onların müxtəlif 
+kombinasiyalarını yaratmaqla daha mürəkkəb mexaniki modellər düzəltmək 
+mümkündür. 
+ Ümumiyyətlə, fenomenolojı nəzəriyyənin quruluşu, öyrənilən hadisənin 
+müəyyən qədər ideallaşdırılmasına əsaslanır. Bu əsasda tərtib olunan modellər 
+mexaniki prosesin yalnız bəzi xassələrini əks etdirir. Onlar ən tipik cəhətləri əks 
+etdirməklə tədqiqatı formalaşdırmağa və müxtəlif riyazı üsullardan istifadə etməyə 
+imkan verir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 79
+V FƏSİL  
+UZUNÖMÜRLÜK MEYARINA GÖRƏ KONSTRUKSİYALARIN 
+OPTİMALLAŞDIRILMASI 
+ 
+5.1 Ümumi məlumat 
+Konstruksiyaların optimallaşdırılması məsələsində qəbul olunmuş meyarın 
+(məqsəd funksiyasının) minimum (maksimum) olması və məhdudiyyət şərtlərinin 
+ödənilməsi əsasında konstruksiyanın optimal parametrləri təyin edilir və bu əsasda o 
+layihələndirilir [7, 13].  
+Optimallaşdırılmanın qeyri xətti proqramlaşdırma qolu aşağıdakı kimi ifadə 
+olunur. Məqsəd funksiyası ( )xg0 -in minimum (maksimum) qiymətini:  
+( ) ( )
+( )
+( )
+( ) ⎪
+⎪
+⎭
+⎪
+⎪
+⎬
+⎫
+=≥
+==
+=≤
+−
+3
+2
+1
+0
+210
+210
+210
+mlxg
+mkxg
+mjxg
+xg
+l
+k
+j
+,,,
+,,,
+,,,
+maxmin
+K
+K
+K
+                                  (150) 
+nRx∈  və məqsəd funksiyası, məhdudiyyət şərtləri qeyri xətti funksiyalardır. 
+Qefri xətti proqramlaşdırma məsələsinin həllinin müxtəlif axtarış üsulları vardır [7]. 
+Bəzi sadə məsələlərin həllini həndəsi proqramlaşdırma metodu vasitəsilə 
+reallaşdırmaq mümkündür [7, 13]. 
+Həndəsi proqramlaşdırma üsulunun əsas qayəsi məqsəd funksiyası və 
+məhdudiyyət sətrlərinin pozinom şəkildə ifadə olunmasıdır. Ümumi halda 
+( ) ∑
+=
+=
+n
+i
+a
+m
+aa
+i
+niii X,,XXCxg
+1
+21
+21 K                                  (151) 
+Burada 0>jX ; m,,,j K21= ; 0>iC ; n,,,i K21= ; ija  - ixtiyari həqiqi ədədlərdir. 
+Bu məsələ belə ifadə olunur: 
+( )xg0  məqsəd funksiyasının minimum qiymətini 
+( )
+( ) ⎪⎭
+⎪
+⎬
+⎫
+=≤
+=>
+→
+j,,,jxg
+m,,,i;x
+minxg
+j
+i
+K
+K
+211
+210
+0
+вя                                   (152) 
+ 80
+Burada ( )xg0  funksiyası və ( )xg j  məhdudiyyət funksiyaları (151)-də göstərilən 
+pozimonlardan ibarətdir. 
+Məsələnin çətinlik dərəcəsi d  aşağıdakı kimi təyin edilir: 
+( )1+−= mnd                                                    (153) 
+n  - məqsəd funksiyası və məhdudiyyətlər də daxil olmaqla bütün pozinomlardakı 
+toplananların sayı; m  - optimallaşdırılacaq parametrlərin sayıdır. 
+ Həndəsi proqramlaşdırma məsələsinin həlli yəni məqsəd funksiyasının 
+minimum qiymətinin tapılması ikili funksiya ( )δV -nin maksimum qiymətinin 
+tapılmasına gətirilir. Bu qiymət: 
+( ) ( ) ( )∏∏
+== ⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+p
+k
+k
+n
+i i
+i k
+iCV
+01
+δλ
+δ
+δλ
+δ
+δ                                (154) 
+Burada 0>C  verilmiş məsələdəki pozinomların qarşısındakı əmsallardır: 
+( )
+( )
+∑
+∈
+=
+kji
+ik δδλ           p,,,k K21=                                (155) 
+Burada ( ) { }kkkk n,m,m,mkj K21 ++= ,  p,,,k K10= ;   
+10 =m ; 101 += nm ; ,,nm K121 +=   11 += −pp nm ;  nnp = . 
+Ikili dəyişənlərə ( )n,,,ii K21=δ  aşağıdakı məhdudiyyətlər qoyulur: 
+0≥iδ , n,,,i K21=                                            (156) 
+( )
+1
+0
+=∑
+∈Ji
+iδ                                                             (157) 
+∑
+=
+=
+n
+i
+iija
+1
+0δ ,    m,,,j K21=                               (158) 
+Burada  ija  - həqiqi kəmiyyət olub, ilkin məsələdəki dəyişənlərin dərəcələridir. 
+Ikili funksiyanın maksimum qiymətinə uyğun ′δ  təyin edildikdən sonra 
+konstruksiyanın optimal parametrləri:  
+[ ]
+( ) [ ]⎪
+⎪
+⎩
+⎪⎪
+⎨
+⎧
+=∈
+′
+′
+=∈⎟
+⎠
+⎞⎜
+⎝
+⎛ ′′
+=
+kji
+jiV
+x,,xxC
+k
+i
+i
+a
+m
+aa
+i
+miii
+δλ
+δ
+δδ 0
+21
+21 K                      (158) 
+ 81
+ifadələrindən təyin edilir. ( ) 0>′δλk -da k bütün müsbət tam qiymətlər alır. 
+Məsələnin çətinlik dərəcəsi şıfra bərabər olduqda iδ -lərin sayı onları təyin 
+etmək üçün tərtib olunan tənliklərin sayını bərabər olur (156), (157) və məsələnin 
+həlli elə də çətinlik təşkil etmir. 
+Məsələnin çətinlik dərəcəsi 0-dan böyük olduqda onda ikili dəyişənlərin həlli: 
+( ) ( )∑
+=
++=
+d
+j
+j
+jbrb
+1
+0δ                                           (159) 
+ifadəsindən təyin edilir. Burada r  - bazis dəyişənləri; ( )0b  - normallaşdırma vektoru; 
+( )jb  - ilgəksiz vektorlardır. 
+ Bu halda ikili funksiyanın maksimum qiyməti 
+( ) ( ) ( ) ( ) ( ) ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+= ∏ ∑∏
+= =
+−
+=
+n
+i
+p
+k
+r
+k
+r
+i
+d
+j
+r
+j
+kij rrKKrV
+1 11
+0
+λδ λδ                 (160) 
+ifadəsindən təyin edilir. 
+Burada  
+( )∑
+=
+=
+n
+i
+jb
+ij
+iCK
+1
+,          d,,,j K10=                               (161) 
+( ) ( ) ( )∑
+=
++=
+d
+j
+j
+kjkk rr
+1
+0 λλλ ,    p,,,k K21=                         (162) 
+( ) ( )
+[ ]
+∑
+∈
+=
+kJi
+j
+i
+j
+k bλ ,      p,,,k K21= ,    d,,,j K21= . 
+r  - vektorunun komponentlərinə müsbət qiymətlər alması məhdudiyyətləri qoyulur. 
+Yəni 
+( ) ( )∑
+=
+≥+
+d
+j
+j
+iji brb
+1
+0 0;         n,,,i K21=                          (163) 
+Bundan başqa normallaşdırma 
+( )∑
+−
+=
+0
+1
+0 1
+n
+i
+ib                                                 (164) 
+və ortaqonallıq şərti də yerinə yetirilməlidir: 
+ 82
+( )∑
+=
+=
+n
+i
+iijba
+1
+0 0         m,,,j K21=  
+Ikili funksiyanın maksimum qiymətini təmin edən jr -nin qiymətləri 
+( ) ( )
+∏∏
+==
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+p
+k
+k
+n
+i
+b
+ij
+j
+k
+j
+iK
+11
+λδλδ ;              d,,,j K21=               (165) 
+Barada 
+( )
+∑
+=
+=
+n
+i
+b
+ij
+j
+iCK
+1
+;          d,,,j K21=                         (166) 
+Ikili funksiyanın maksimum qiyməti: 
+( ) ( ) ( ) ( )∏∏
+==
+−
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+p
+k
+k
+n
+i
+b
+i
+kiKV
+11
+0
+00 λδλδδ                                 (167) 
+ifadəsindən təyin edilir. 
+Məqsəd funksiyasını minimum qiymətə gətirən dəyişənlərin optimal qiymətləri 
+(158) tənliklərdən təyin edilir. 
+ 
+5.2 Maşın intiqalı muftasının optimal layihələndirilməsi 
+ 
+Maşın intiqalında (şəkil 33) güc ötürən valların yastıqlarının sıradan 
+çıxmasının səbəblərindən biri də intiqalda istifadə olunan elastik muftalarının 
+parametrlərinin düzgün seçilməməsidir. 
+ 
+ 
+ 
+ 
+ 
+Şəkil 33. İntiqalın dinamik modelinin sxemi 
+ 
+ 
+ 
+ 
+Şəkil 34. İki kütləvi sistemin dinamik modelinin sxemi 
+ 83
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 35. Yükün dəyişmə əyriləri və sistemin ona reaksiyası 
+Şəkil 34-də intiqal bir-biri ilə elastik elementlə əlaqələndirilmiş iki kütləli 
+cisim kimi təqdim edilmişdir. Elastik elementdən soldakı elementlərin 1 gətirilmiş 
+ətalət momenti 1J -dir və element 1T  momenti ilə yüklənmişdir. Bu moment mühərrik 
+tərəfindən yaradılır. Elastik elementdən solda isə gətirilmiş ətalət momenti 2J -olan 2 
+cismidir ki, o da 2T  müqavimət momenti ilə yüklənmişdir. Mühərrik işə düşdükdə 2 
+cisminə əlavə qısa müddətli zərbə impulsları təsir edəcəkdir. Ona görə də hər dəfə bu 
+moment sT  - sabit qiymətə çatmaqla yanaşı impulslu və harmonik toplananlarına da 
+malik olacaqdır. Bu növ artan yükləri uyğun olaraq C , I  və H  indeksləri ilə işarə 
+edək (şəkil 35). 
+Bu yüklərin hər birinə sistemin reaksiyası müəyyən müddətdən sonra 
+sönəcəkdir. Bu müddətləri hər yükə uyğun olaraq CL , IL  və HL  ilə işarə edəcəyik. 
+Zədələnmələrin xətti toplanma qanununa əsasən [1, 3, 4, 12]: 
+∫ =
+ъямn
+a
+N
+dn
+0
+                                                      (168) 
+a  - nisbi uzunömürlüklərin cəmi; ъямn  - yorulma zədələnməsi yaradan tsikllərin sayı; 
+N  - tsiklik yükdən hissənin həddi vəziyyətə çatdığı tsikllərin sayıdır [11, 12]: 
+Φ= Lddn                                                        (169) 
+( L  - yükləmə tsikllərinin ümumi sayı; Φ  - yükün paylanma funksiyasıdır). 
+(169)-i (168)-də nəzərə alsaq 
+∫ =
+Φъямn
+L
+a
+N
+d
+0
+                                                     (170) 
+ 84
+Vöhler düsturuna əsasən 
+m
+DD
+m TNNT =                                                 (171) 
+Onda 
+∫ =
+Φ1
+0 L
+a
+TN
+dT
+m
+DD
+m
+                                                 (172) 
+və ya 
+∫ =Φ
+1
+0
+00
+L
+TaNdT
+m
+m  
+Işçi mexanizmə bütün növ yüklərin təsir etdiyini nəzərə alsaq 
+∫ ∫∫ =Φ+Φ+Φ
+1
+0
+00
+1
+0
+1
+0 L
+TaNdTdTdT
+m
+C
+m
+CCH
+m
+SHHSI
+m
+SII χχχ                       (173) 
+Burada 
+CHI
+I
+I LLL
+L
+++
+=χ  
+CHI
+H
+H LLL
+L
+++
+=χ  
+CHI
+C
+C LLL
+L
+++
+=χ  
+IL , HL , CL  - mexanizmin uyğun yük təsirində işləmə müddətidir. 
+Zədələnmələrin yalnız yükün ən böyüyünün təsirindən baş verdiyini nəzərə 
+alsaq (173) ifadəsini belə yaza bilərik: 
+L
+TaNTTT mCC
+m
+SHH
+m
+SII maxmax
+0
+0=++ χχχ                            (174) 
+Müxtəlif növ yüklərə muftanın maksimal reaksiyası ədəbiyyatdan məlumdur 
+[4, 11]: 
+2-cisminə impulsiv yük təsir etdikdə 
+I
+ISTT CSImax
+1ω+=  , 
+harmonik yük təsir etdikdə 
+ 85
+( )
+1
+2
+2
+2
+1 1
+−
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ Ω
+−⋅−+=
+ωCHCSH
+TT
+J
+JTT
+maxmax
+ 
+burada 
+( )∫ −=
+St
+CI dtTTS
+0
+2 , 
+21 III +=  , 
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++=
+21
+11
+II
+Cω  . 
+Ω  - sistemin məxsusi rəqs tezliyidir. 
+ 
+maxSIT  və maxSHT -un qiymətlərini (175)-də yerinə yazsaq: 
+m
+CC
+m
+D
+m
+CH
+CH
+m
+CI TL
+TaNTT
+I
+ITS
+I
+IT max χ
+ω
+χωχ −=
+⎥
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎢
+⎣
+⎡
+Ω
+−
+−
+++⎟
+⎠
+⎞
+⎜
+⎝
+⎛ + 02
+211
+1
+ . 
+Bu ifadədən L -in maksimum qiymətinə 
+m
+CH
+CH
+m
+CI
+TT
+I
+ITS
+J
+ITg max
+⎥
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎢
+⎣
+⎡
+Ω
+−
+−
+++⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +=
+2
+2
+211
+0
+1
+ω
+χωχ                 (175) 
+minimum qiyməti uyğun gəlir. 
+⎪
+⎪
+⎭
+⎪
+⎪
+⎬
+⎫
+≤+=
+≤+=
+≤+=
+→+=
+−
+−−
+−−
+−
+1
+1
+1
+1
+32
+2
+8273
+2
+6
+2
+352
+1
+14
+1
+131
+22110
+ttCtCg
+CtCg
+tCtCg
+mintCtCg mm
+ω
+ωω
+ω                                      (174) 
+və 11 χ=C ; 22 χ=C ; CTC =3 ; I
+STC 14 = ; 15 =C ; 
+2
+6 Ω=C ; CTC =3 ; 
+( )
+J
+JTTC CHmax
+1
+28 −= . 
+ 86
+ (174) – məsələsi həndəsi proqramlaşdırma məsələsidir. Proqramın axtarılan 
+parametrləri - 1t ; 2t ; t ; ω -dır. Bu məsələdə pozinomların sayı 8=n ; dəyişənlərin 
+sayı 4=m ; məsələnin çətinlik dərəcəsi: 
+( ) ( ) 31481 =+−=+−= mnd  
+(174) məsələsi üçün ikili funksiya belə yazılır: 
+( ) ×⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+87654321
+8
+8
+7
+7
+6
+6
+5
+5
+4
+4
+3
+3
+2
+2
+1
+1
+δδδδδδδδ
+δδδδδδδδ
+δ CCCCCCCCV  
+( )( )( )( )( )( )876543 876543 δδδδδδ δδδδδδ +++ +++× .                             (175) 
+0≥iδ ;    821 ,,,i K=  
+Normallaşdırma şərti 
+121 =+δδ .                                               (176) 
+Ortoqonallıq şərti 
+⎪
+⎪
+⎭
+⎪
+⎪
+⎬
+⎫
+=+−−
+=−
+=++−
+=−−
+0222
+0
+0
+0
+8654
+85
+872
+431
+δδδδ
+δδ
+δδδ
+δδδ
+m
+m
+                                        (177) 
+(176) və (177) beş tənliyə səkkiz naməlum dəyişən daxil olduğundan bu 
+tənlikləri 6δ ; 7δ  və 8δ -ə görə həll edək: 
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎭
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎬
+⎫
+=
+=
+=
+=
+=
+−−−=
++=
+−−=
+88
+77
+66
+85
+64
+8763
+872
+871
+2
+2
+11
+111
+δδ
+δδ
+δδ
+δδ
+δδ
+δδδδ
+δδδ
+δδδ
+m
+mm
+mm
+                                            (178) 
+δ
+r
+-nın vektorial ifadəsi aşağıdakı kimi olacaqdır: 
+( ) ( ) ( ) ( )
+8
+3
+7
+2
+6
+10 δδδδ
+rrrr
+bbbb +++=                                (179) 
+burada (178) və (179)-a əsasən 
+ 87
+( )
+0
+0
+0
+0
+0
+0
+1
+0
+m
+b =
+r
+ ; ( )
+0
+0
+0
+0
+2
+2
+0
+0
+1
+−
+=b
+r
+ ; ( )
+0
+1
+0
+0
+0
+1
+1
+1
+2
+−
+−
+=
+m
+m
+b
+r
+ ; ( )
+1
+0
+0
+1
+0
+1
+1
+1
+3
+−
+−
+=
+m
+m
+b
+r
+ . 
+6δ ; 7δ ; 8δ -in qiymətləri aşağıdakı tənliklərdən təyin edilir: 
+( ) ( ) ( )∏∏
+=
+−
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+p
+k
+j
+k
+i
+jb
+ij
+kiK
+1
+8
+1
+λδλδ ,  321 ,,j =                         (180) 
+Burada 
+( )∑
+=
+=
+8
+1i
+jb
+ij
+iCK  ,    321 ,,j =                                  (181) 
+431 δδλ += ;   652 δδλ += ;  873 δδλ +=  
+( ) ( ) jjj bb 431 +=λ ;   
+( ) ( ) jjj bb 652 +=λ ;   
+( ) ( ) jjj bb 873 +=λ  
+Onda 
+( ) ( ) ( ) 004
+0
+3
+0
+1 =+= bbλ  ; 
+( ) ( ) ( ) 006
+0
+5
+0
+2 =+= bbλ  ; 
+( ) ( ) ( ) 008
+0
+7
+0
+3 =+= bbλ  ; 
+( ) ( ) ( ) 02214
+1
+3
+1
+1 =+−=+= bbλ  
+( ) ( ) ( ) 10124
+2
+3
+2
+1 −=+−=+= bbλ  
+( ) ( ) ( ) 10134
+3
+3
+3
+1 −=+−=+= bbλ  
+( ) ( ) ( ) 11016
+1
+5
+1
+2 =+=+= bbλ  
+( ) ( ) ( ) 00026
+2
+5
+2
+2 =+=+= bbλ  
+( ) ( ) ( ) 10136
+3
+5
+3
+2 =+=+= bbλ  
+ 88
+( ) ( ) ( ) 00018
+1
+7
+1
+3 =+=+= bbλ  
+( ) ( ) ( ) 10128
+2
+7
+2
+3 =+=+= bbλ  
+( ) ( ) ( ) 01038
+3
+7
+3
+3 =+=+= bbλ  
+Bu qiymətləri (46) və (47)-də yazsaq, alarıq: 
+( ) ( ) ( )
+( ) ( )682876
+3
+60
+87
+1
+65
+0
+432
+3
+6
+2
+4
+1 2
+4
+δδλδδ
+δδδδδδδ
+δ
+δδ
++−−−
+=+++= −
+m
+K  ; 
+( ) ( ) ( )
+876
+7
+1
+87
+871
+87
+0
+65
+1
+43
+2
+3
+1
+1
+27
+2 2 δδδ
+δ
+δδ
+δδδδδδδδ
+δδ
+δδ
+−−−⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++
+−−
+=+++=
+−
+−
+m
+mK
+m
+m
+m
+m
+ ; 
+( ) ( ) ( ) =+++= −− 187165143
+3
+1
+1
+85
+1
+2
+3 δδδδδδδδ
+δδδ
+m
+m
+K  
+( ) ( )86876
+2
+8
+1
+87
+87
+2 λδδδδ
+δ
+δδ
+δδ
++⋅−−−⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++
+−−
+=
+−
+m
+m m
+m
+ ; 
+2
+3
+6
+2
+40
+8
+0
+7
+1
+6
+0
+5
+2
+4
+2
+3
+0
+2
+0
+11 C
+CCCCCCCCCCK =≡ −  ; 
+3
+1
+1
+1
+270
+8
+1
+7
+0
+6
+0
+5
+0
+4
+1
+3
+1
+2
+1
+12 CC
+CC
+CCCCCCCCK m
+m
+mm =≡ −−  ; 
+3
+1
+1
+85
+1
+21
+8
+0
+7
+0
+6
+1
+5
+0
+4
+1
+3
+1
+2
+1
+13 CC
+CCC
+CCCCCCCCK m
+m
+mm =≡ −−  . 
+jK -ların uyğun qiymətlərini bərabərləşdirsək 6δ , 7δ  və 8δ -in tapılması üçün 
+aşağıdakı tənlikləri alarıq: 
+( ) ( )
+( )( ) ⎪
+⎪
+⎪
+⎪
+⎭
+⎪
+⎪
+⎪
+⎪
+⎬
+⎫
+=
++−−−⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++
+−−
+=
+−−−⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++
+−−
+=
++−−−
+−
+−
+8
+1
+1
+85
+1
+2
+86876
+2
+8
+1
+87
+87
+3
+1
+1
+1
+27
+876
+7
+1
+87
+87
+2
+3
+6
+2
+4
+68
+2
+876
+3
+6
+2
+2
+2
+4
+CC
+CCC
+m
+m
+CC
+CC
+m
+m
+C
+CC
+m
+m
+mm
+m
+m
+mm
+m
+δδδδδ
+δ
+δδ
+δδ
+δδδ
+δ
+δδ
+δδ
+δδδδδ
+δ
+           (182) 
+ 89
+(182) sistemindən 6δ , 7δ  və 8δ -i tapdıqdan sonra 51 δδ ,,K -in qiymətlərini 
+(178)-dən tapıb t  və ω -nın optimal qiymətlərini (158) düsturları vasitəsiylə təyin edə 
+bilərik: 
+( )
+( )⎪⎩
+⎪
+⎨
+⎧
+==
+=
+=′′ ,,,k;,,,,,i
+,i;V
+ttC
+k
+i
+ia
+m
+a
+i
+mii
+321876543
+21
+1
+1
+δλ
+δ
+δδ
+K  
+misal üçün 
+43
+31
+13 δδ
+δ
++
+=−
+opt
+tC  ; 
+43
+41
+14 δδ
+δω
++
+=−
+opt
+tC opt . 
+Onda sistemin sərbəst rəqs tezliyi 
+34
+43
+δ
+δω
+C
+C
+opt = , 
+ifadəsindən təyin edilə bilər. 
+Muftanın optimal sərtliyi isə 
+J
+JJ
+C optopt
+21
+2ω
+=      olacaq.             21 JJJ +=  
+ Neft quyularının yeraltı təmir aqreqatının (Azinmaş 37) transmisiyasını iki 
+kütləli sistem kimi imitasiya edən sistemin optimal sərtliyi və məxsusi rəqs tezliyini 
+hesablayaq. 
+Hesağlamanın ilkin parametrləri: 21 39420 mkg,I ⋅= ; 
+2
+2 59746 mkg,I ⋅= ; 
+mNTC ⋅=130 ; s
+rad145=Ω ; mNT
+maxH ⋅=1752 ; 10,I =χ ; 850,H =χ ; 050,C =χ ; 
+rad
+smN,S ⋅⋅= 926 ; 6=m . 
+Onda 101 ,C = ; 8502 ,C = ; 1303 =C ; 5214 ,C = ; 15 =C ; 210256 =C ; 
+1307 =C ; 5428 ,C = . 
+Bazis sabitləri 
+028702
+3
+5
+2
+4
+1 ,C
+CCK == ;     441
+3
+1
+1
+1
+27
+2 ,CC
+CC
+K m
+m
+=
+⋅
+⋅
+= ;    0281,0
+3
+1
+1
+85
+1
+2
+3 == CC
+CCC
+K m
+m
+ 
+ 90
+İkili dəyişənlər 
+147306 ,=δ ;   340047 ,=δ ;   161808 ,=δ  
+Onda: 
+( ) ( ) 2494011 871 ,m =+⋅−= δδδ ;  750601 12 ,=−= δδ ;  
+203612 8763 ,m =−−−= δδδδ ;  294602 64 ,== δδ ; 16180085 ,== δδ ; 
+43
+31
+3 δδ
+δ
++
+=−opttC ; 
+43
+4
+4
+1
+δδ
+δω
++
+=− opt
+i
+opttC . 
+Buradan 
+s
+rad,
+C
+C
+opt 34209
+43
+34 ==
+δ
+δω ;   mkH
+I
+IICopt ⋅== 1621
+2ω  
+Beləliklə sərtliyi mkH,Copt ⋅= 216  olan mufta intiqalın maksimum 
+uzunömürlüyünü təmin edəcəkdir. 
+ 
+5.3 Sürüşmə yastıqlarının konstruksiyasının optimallaşdırılması 
+ 
+Sürüşmə yastığının (şəkil 38) optimallaşdırılması üçün məqsəd funksiyası kimi 
+yastığın yeyilməsi və valın əyintisinin minimum olması, məhdudiyyət şərti kimi isə 
+yastığa düşən təzyiqin buraxıla bilən həddə olması qəbul edilir [7, 13]: 
+ 
+minyaag →+Δ= 0210                                            (183) 
+ 
+[ ]qq ≤                                                        (184) 
+ 
+Burada 1a ; 2a  - düzləndirici əmsallar; Δ  - sapfanın yeyilməsinin intensivliyi; 
+0y  - yastıq içliyində valın əyilməsidir. 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 38 Sürüşmə yastığı 
+ 91
+Sapfanın yeyilmə intensivliyi 
+Ω==Δ MN γγ                                               (185) 
+v  - sürtünməyə sərf olunan vahid gücə düşən yeyilmədir; N  - surtunməyə sərf 
+olunan gücdür; M  - yastıqdakı sürtünmə momenti; Ω  - valın bucaq sürətidir. 
+ fFRM =  qəbul etsək 
+FvfRΩ=Δ                                                 (186) 
+burada f  - sürtünmə əmsalı; F  - yastığa düşən radial qüvvə; 
+2
+dR =  yastığın 
+radiusu; d  - diametridir. 
+ Sürtünmə əmsalı [1, 7]: 
+( ) ( )
+⎪⎭
+⎪
+⎬
+⎫
+⎪⎩
+⎪
+⎨
+⎧
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+−⎟
+⎠
+⎞
+⎜
+⎝
+⎛+−+= εεψ 052131211191921150
+2
+,
+b
+R,,,,f                   (187) 
+ifadəsindən təyin edilir. Burada ψ  - nisbi araboşluğu; ε  - nisbi ekssentresitet; 
+21
+Bb = . Onda valın yastıq içliyində əyintisi 
+4
+3
+14
+ER
+Fbyo π
+=                                                   (188) 
+Nəticədə 
+⎭
+⎬
+⎫
+≤=
+→++=
+−−
+−−
+111
+1
+411
+43
+13
+2
+1
+3
+210
+bRCg
+minRbCbRCRCg                        (190) 
+həndəsi proqramlaşdırma məsələsini alarıq. 
+Burada: 
+( )[ ]εψ −+Ω= 119192115011 ,,,vFaC ; 
+( ) ( )εεψ −⋅−⋅Ω= 0521312119192112 ,,,,vFaC ; 
+E
+FaC
+π
+2
+3
+4
+= ; 
+[ ]q
+FC
+44
+=  
+90,=ε  və Rb ≈1  qiymətlərində 
+ 92
+ψΩ= vFa,C 11 570          ψΩ= vFa,C 12 1840      alarıq. 
+ Buradan görürük ki, 0g -ın ifadəsindəki birinci hədd ikincidən təqribən 3 dəfə 
+böyükdür. Ona görə də, ikinci həddi nəzərdən atsaq belə bir məsələ alarıq 
+⎭
+⎬
+⎫
+≤=
+→+=
+−−
+−
+111
+1
+411
+43
+1310
+bRCg
+minRbCRCg                                      (191) 
+23 CC ′=  və 34 CC ′=  işarə etsək, alarıq 
+⎭
+⎬
+⎫
+≤′=
+→′+=
+−−
+−
+111
+1
+311
+43
+1210
+bRCg
+RbCRCg min                                   (192) 
+(192) həndəsi proqramlaşdırma məsələsinin çətinlik dərəcəsi 
+( ) ( ) 01231 =+−=+−= mnd  
+sıfra bərabərdir. Ikili dəyişənlər üçün normallaşdırma və ortoqonallıq şərtləri belə 
+yazılacaq: 
+121 =′+δδ  
+04 321 =−′−′ δδδ  
+03 32 =′−′ δδ  
+buradan 
+8
+7
+1 =′δ ;    8
+1
+2 =′δ ;    8
+3
+3 =′δ                  
+alırıq 
+Ikili funksiyanın maksimum qiyməti 
+( ) 3
+21
+3
+321
+3
+2
+2
+1
+1
+3
+3
+3
+2
+2
+1
+1 δ
+δδ
+δ
+δδδ
+δδ
+δ
+δδδ
+δ ′
+′′
+′
+′′′
+′⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+′
+′
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+′
+=′⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+′
+′
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+′
+′
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+′
+= CCCCCCV               (193) 
+olacaq. 
+ R  və 1b -in optimal qiymətləri aşağıdakı ifadələrdən təyin edilir: 
+( )
+( ) ⎭
+⎬
+⎫
+′′=′
+′′=
+−
+2
+43
+12
+11
+δδ
+δδ
+VRbC
+VRC
+                                        (194) 
+Buradan 
+ 93
+( )
+8
+1
+3
+328
+3
+3
+8
+1
+2
+8
+1
+1
+8
+1
+1
+1 77
+C
+CCCC
+CC
+VR
+′′
+=′=
+′′
+=
+δδ                       (195) 
+Qiymətlərini yerinə yazsaq, alarıq: 
+[ ]
+8
+3
+1
+3
+283850
+qEva
+Fa,R
+ψΩ
+=  . 
+Onda yastığın diametrinin optimal qiyməti: 
+[ ]
+8
+3
+1
+3
+267712
+qEva
+Fa,Rd
+ψΩ
+==                                     (197) 
+olacaq. (194)-ün ikinci tənliyindən 
+( )
+3 4
+1
+2
+1 RC
+Vb ⋅
+′
+=
+δδ  
+( )δ ′V , 2δ  və R -in ifadələrini yerinə yazsaq 
+8
+2
+5
+31
+1 7C
+CCb
+′
+′
+=                                                 (198) 
+alarıq. 1C , 3C′  və 2C′ -in ifadələrini yerinə yazıb sadələşdirsək 
+[ ]
+8
+5
+2
+5
+1
+1 2970
+qa
+EFva,b ψΩ⋅=                                       (199) 
+alarıq. Buradan yastığın optimal uzunluğu üçün 
+[ ]
+8
+5
+2
+5
+1
+1 59402
+qa
+EFva,bB ψΩ⋅==                                (200) 
+alarıq. (197) və (200) ifadələrini tərəf tərəfə vursaq 
+[ ] [ ]q
+F
+q
+F,Bd ≈= 9960                                          (201) 
+ (189) məhdudiyyət şərtini alarıq ki, bu da məsələnini düzğün həll edildiyinə 
+dəlalət edir.  
+ 94
+Qazma bucurğadının kardan muftasının sürüşmə yastığının optimal ölçülərini 
+təyin edək. Valdakı burucu moment: mkNT ⋅= 36 ; kgv 710−= ; 00150,=ψ ; 90,=ε ; 
+[ ] MPaq 8= ; Herts6,1=Ω ; kNF 90= ; 901 ,a = ; 102 ,a = ; MPaE 5102 ⋅= .  
+Onda 
+[ ]
+( ) mm
+,,,
+,,
+qEva
+Fa,d 146
+800150611010290
+10901067716771 8 375
+33
+8
+3
+1
+3
+2 =
+⋅⋅⋅⋅⋅⋅
+⋅⋅
+⋅=
+Ω
+⋅= −ψ
+ 
+[ ]
+( ) mm
+qa
+EFvaB 876
+810
+10901020015061109059405940 8 5
+5357
+8 5
+2
+5
+1 ,
+,
+,,,,, =
+⋅
+⋅⋅⋅⋅⋅⋅
+⋅=
+Ω
+⋅=
+−ψ  
+mmd 150=    və   mmB 80=   qəbul edirik. 
+ 
+5.4 Vint cütü konstruksiyasının optimallaşdırılması 
+ 
+ Vint cütü texnikada geniş yayılmış preslərin, torna dəzgahının, siyirtmələrin, 
+mexaniki domkrtatların əsas elementlərdəndir. Vint cütü konstruksiyasını 
+optimallaşdırmaq üçün məqsəd funksiyası kimi konstruksiyasının dəyəri və onun 
+yeyilməsi ilə əlaqədar təmir xərclərinin cəmi qəbul edilir: 
+02010 ggg += ,                                                (202) 
+Burada 
+HdCg m 4
+2
+0101
+πρ⋅= ; 
+qCg ⋅= 0202  ; 
+d  - xarici diametr; H  - vintin qaykasının hündürlüyü; mρ  - vint materialının sıxlığı; 
+01C  - vintin qaykada qalan hissəsinin vahid kütləsinin dəyəri; 02C  - vintin vahid 
+yeyilməsi ilə bağlı məsrafləri; q  - vint yivinin vahid səthinə düşən yükdür: 
+( )212
+4
+ddz
+Fkq
+−
+=
+π
+ ; 
+z  - qaykadakı vint yivlərinin sayı; d  - yivin daxili diametri; 1d  - yiv sarğılarında 
+yükün qeyri bərabər paylanmasını nəzərə alan əmsaldır: 
+ 95
+( )( ) ξξξππ
+11
+111
+37037030
+7512
+44 −−
+===
+⋅
+=
++−
+=
+HkFd,
+dH
+Fk,
+dzP
+Fk,
+,dHz
+Fk
+ddddz
+Fkq  , 
+F  - vintə düşən oxboyu qüvvədir. 
+Nəticədə 
+11
+2
+2
+10
+−−+= HdaHdag . 
+Burada 
+ξ
+ρπ
+02
+2
+011
+370
+4
+FCk,
+a
+Ca
+j
+m
+=
+=
+                                            (203) 
+Məhdudiyyət şərti kimi aşağıdakılar qəbul edilir: 
+1. Yivin gövdəsində yaranan dartılma və sıxılma gərginliyinə qoyulan 
+məhdudiyyət [1]: 
+[ ]
+142
+1
+1
+1 <=′
+сыхσπd
+Fkg  
+və ya 
+1211 <=′
+−dCg                                                (204) 
+burada 
+[ ] [ ]сыхсых σσπ
+11
+1
+71
+750
+4 Fk,
+,
+FkC ==  ; 
+1k  - vintin burulmasından yaranan gərginliyi nəzərə alan əmsal; [ ]сыхσ  - vint 
+materialının sıxılmada buraxıla bilən gərginliyidir 
+ 2. Vint yivinin kəsilmə gərginliyinə qoyulan məhdudiyyət [1]: 
+[ ]τ
+π
+τ ≤=
+Pdz
+Fk j
+1
+ ; 
+[ ] [ ] [ ] [ ]ττξτξπτπ ≤===
+′ −
+−
+1
+1
+11
+2
+430
+750
+H
+dFk,
+Pzd,
+Fk
+Pdz
+Fk
+g jjj  
+və ya  
+11122 <=′
+−− HdCg                                            (205) 
+ 96
+[ ]τξ
+jFk,C
+430
+2 =  ; 
+[ ]τ  - vint materialının kəsilmədə buraxıla bilən gərginliyidir. 
+3. Vint yivində yaranan əyilmə gərginliyinə qoyulan məhdudiyyət [1]: 
+[ ]яйяй σπσ ≤= 211
+26
+Pdz
+FHk j  . 
+Qəbul etsək ki, 
+22
+PH ς=  ;    PP ξ=1 ;    PzH = ; 
+d,d 7501 =  ;   50,=ς  ;   750,=ξ , 
+alarıq 
+[ ]яйяй σπξ
+ς
+ξπ
+ς
+σ ≤==
+dH
+Fk
+Pd,z
+PFk
+jj
+222
+4
+750
+2
+6
+ 
+və ya 
+11133 ≤=′
+−− HdCg                                              (206) 
+[ ]яйσπξ
+ς
+23
+4 Fk
+C j=  
+[ ]яйσ  - vint materialının əyilmədə buraxıla bilən gərginliyidir. 
+ Əyilmə gərginliyinə qoyulan məhdudiyyət aşağıdakı kimi yazılır: 
+[ ]яйяз σξσ ≤=
+−− 11370 HFdk,
+q j  
+Buradan  
+11
+44
+−−=′ HdCg                                                (207) 
+[ ]язσξ
+Fk,
+C j
+370
+4 =  
+(205), (206) və (207) məhdudiyyət şərtlərinə eyni 11 −− Hd həddi daxil 
+olduğundan onları ortaqlaşdırıb 
+ 97
+( ) 1
+3
+1 11
+432 ≤++
+−− HdCCC                                   (208) 
+alarıq. 
+(204) və (208) –i tərəf tərəfə vursaq 
+11331 ≤=
+−− Hdag                                         (209) 
+alarıq. 
+Burada  
+( )43213 3 CCC
+Ca ++=  
+Nəticədə vint konstruksiyasının optimallaşdırılması məsələsi belə bir qeyri 
+xətti optimallaşdırma məsələsinin həllinə gətirilir: 
+minHdaHdag →+= −− 112
+2
+10                                 (210) 
+qiymətini 
+11331 ≤=
+−− Hdag                                          (211) 
+məhdudiyyət şərti daxilində tapmalı. 
+ Bu məsələni həndəsi proqramlaşdırma üsulu ilə həll edəcəyik [13]. 
+ Bu üsul əsasında verilmiş məqsəd funksiyasının minimum qiymətinə ikili 
+funksiyanın maksimum qiyməti uyğun gəlir 
+( ) 3
+321
+3
+3
+3
+2
+2
+1
+1 δ
+δδδ
+δ
+δδδ
+δυ ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+aaar .                              (212) 
+Ikili dəyişənlər vektorunun toplananları normallaşdırma və ortoqonallıq 
+şərtlərinə əsasən tərtib olunmuş tənliklərdən təyin edilir: 
+⎪
+⎭
+⎪
+⎬
+⎫
+=−−
+=−−
+=+
+0
+032
+1
+321
+321
+21
+δδδ
+δδδ
+δδ
+                                        (213) 
+Bu sistemin həllindən 
+3
+2
+1 =δ  ;     3
+1
+2 =δ  ;     3
+1
+3 =δ  . 
+alınır. 
+ 98
+Nəticədə ikili funksiyasının maksimum, məqsəd funksiyasının minimum 
+qiyməti üçün belə bir ifadə alırıq: 
+( ) ( ) 3 322133
+1
+3
+3
+1
+2
+3
+2
+1
+0 4
+3
+3
+1
+3
+2 aaaa
+aagV
+minmax =
+⎟⎟
+⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎜
+⎜
+⎝
+⎛
+⎟⎟
+⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎜
+⎜
+⎝
+⎛
+==δ                   (214) 
+ Ikili xassəsinin əsas teoremindən layihələndirmənin optimal parametrlərini 
+aşağıdakı sistem təqliyin həllindən tapa bilərik [7]: 
+( )
+( ) ⎪⎭
+⎪
+⎬
+⎫
+=
+=
+−−
+max
+max
+Hda
+,Hda
+δυδ
+δυδ
+r
+r
+2
+11
+2
+1
+2
+1                                            (215) 
+Buradan 
+( )[ ]
+3
+2
+2
+31
+33
+2
+3
+3 2
+31
+21
+3 2
+3
+2
+2
+4
+13 2
+21
+2
+21
+2
+1
+2
+4
+9
+3
+1
+3
+2
+a
+aa
+a
+aa
+aa
+aaa
+aa
+d max =
+⋅
+=
+⋅⋅
+==
+δυδδ
+r
+ ;      (216) 
+( )
+31
+2
+3
+2
+2
+4
+3
+2
+1
+31
+3
+32
+2
+13
+2
+1
+1 2
+4
+1
+4
+3
+3
+2
+aa
+a
+a
+aaa
+aaa
+da
+H max =
+⋅
+==
+δυδ
+r
+                           (217) 
+Nəzərə alsaq ki, 
+014 4
+Ca mρ
+π
+=  ; 
+022
+370
+C
+Fk,
+a j
+ξ
+=  ; 
+( ) [ ] [ ] [ ] [ ] =⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+++=++=
+язяйых σξςσπξ
+ς
+τξσ
+Fk,FkFk,Fk,
+CCCCa jjj
+s
+j 3704430
+3
+71
+3 2432
+1
+3  
+[ ] [ ] [ ] [ ]⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+++=
+язяйяй σξςσπξ
+ξ
+τξσ
+3704430
+3
+71
+2
+1
+2 ,,kkF, j  , 
+aşağıdakı nisbəti yazaq: 
+3 2
+31
+2
+31
+3
+2
+3 2
+3131
+3
+2
+3
+2 2222
+aa
+a
+aa
+a
+aaaa
+aa
+d
+P
+⋅
+⋅
+=
+⋅
+=  ; 
+ 99
+Onda 
+3 2
+31
+2
+31
+2
+3 22 d
+aa
+a
+aa
+aH ⋅⋅⋅=                                        (218) 
+Konstruksiyanın möhkəmlik həddinə görə iş qabiliyyətinin yivin əzilmə 
+gərginliyi və vintin sıxılma gərginlikləri ilə müəyyən edildiyini nəzərə alsaq, yaza 
+bilərik: 
+[ ] [ ]язсых σξξσ
+jkkF,,a 1
+2
+3
+71370 ⋅
+=                                        (219) 
+Ədədi misala baxaq: 
+NF 20000= ;     [ ] MPa80=сыхσ  ;      [ ] [ ]сыхяз σσ 60,=  ;     [ ] MPa48=язσ ; 
+750,=ξ  ; 50,=ς ; 3м
+кг8000=ρ ; 
+3м
+ман1000001 =C ; N
+mман 2⋅
+⋅= −402 10410,C ; 
+3
+7
+011 102861000080004
+143
+4 m
+man,,Ca m ⋅=⋅⋅== ρ
+π ; 
+24
+022 21411041050
+220000370370 mman,,
+,
+,CFk,a ⋅=⋅⋅⋅⋅== −
+ξ
+; 
+[ ] [ ]
+46
+12
+2
+1
+2
+3 10454010485075080
+231200007137071370 m,
+,,
+,,,kkF,,a j −⋅=
+⋅⋅⋅⋅
+⋅⋅⋅⋅
+=
+⋅
+=
+язсых σξςσ
+; 
+mm,
+,
+,,
+a
+aad 517
+21412
+10454010286
+2
+3
+1227
+3
+2
+3
+21 ≈
+⋅
+⋅⋅⋅
+==
+−
+; 
+mm,m,m,
+,,
+,
+aa
+aH 64504560104560
+10454010286
+214122 1
+67
+31
+2 ==⋅=
+⋅⋅⋅
+⋅
+== −− . 
+Standarta əsasən mmd 20= ; mmH 50=  qəbul edirik. 
+ 
+5.5 Tormozun optimal layihələndirilməsi 
+ 
+Tormozlar texnikada geniş istifadə edilən konstruksiyadır. Onların əsas 
+vəzifəsi hərəkəti sürtünmə güvvəsi hesabına operativ olaraq dayandırmaqdır. 
+ 100
+Şəkil 39-da tormoz qasnağının sxemi göstərilmişdir. Qasnağın əsas həndəsi 
+parametrləri: diametr D , eni B  və qalınlığı h -dır. Bu parametrlərin optimal 
+qiymətlərini müxtəlif kriteriyalara əsasən təyin etmək mümkündür. Qasaqlı tormozun 
+optimal paramterlərini təyin etmək üçün məqsəd funksiyası kimi qasnağın çəkisi və iş 
+zamanı yaranan temperatur gərginliyinin mənfi amillərinin cəminin minimum olması 
+qəbul edilir [7]. 
+ϕϕσπρ 210 aBDhag +=                                          (220) 
+Burada 1a  və 2a -çəki və ya samballıq əmsalları; ϕϕσ  - qasnaqdakı temperatur 
+gərginliyidir: 
+( )( )212 1 μασϕϕ −−= ttE                                         (221) 
+burada α  qasnaq materialının istidən genişlənmə əmsalı; E  - Yunq modulu; 1t  və 2t  
+- tormozlamadan qabaq və sonrakı temperaturalar; μ  - Puasson əmsalıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 39. Tormoz qasnağın sxemi 
+ 
+ Qasnağın temperaturunun artımını vahid zamanda udulan istiliyin sürtünmə 
+müqavimətini dəf etmək üçün sərf olunan gücə bərabərliyi şərtindən tapırıq: 
+( ) τωρπ 012 tkMBDhttC =− .                                       (222) 
+ Burada C  - qasnaq materialının xüsusi istilik tutumu; k  - qasnağın udduğu 
+enerjinin həcmini nəzərə alan əmsal; 0ω  - qasnağın başlanğıc bucaq sürəti; τ  - 
+tormozlama müddəti; TM  - tormozlamada sonundakı sürtünmə momenti: 
+BpfD,M t
+250 π=                                               (223) 
+ 101
+burada p  - qasağın tormoz qasnağı səthinə etdiyi təzyiq; f  - qasaqla qasnaq 
+arasındakı sürtünmə əmsalıdır. (223)-ü (222) də yazsaq alarıq: 
+hC
+pDkftt
+ρ
+τω
+2
+0
+12 =−  .                                            (224) 
+(224)-ü (221)-də nəzərə alsaq: 
+( )2
+0
+12 μρ
+τωασϕϕ
+−
+=
+khC
+kDEpf   . 
+Onda məqsəd funksiyası aşağıdakı şəkil alır: 
+1
+210
+−+′= DhCDhBCg , 
+burada    πρ11 aC =′ ; ( )2
+20
+2 12 μρ
+τωα
+−
+=
+C
+kaEpfC . 
+Qasnağın əyilməyə möhkəmlik şərtini yazaq: 
+[ ]яйяйяй σσ ≤== 2
+2
+4
+3
+h
+pB
+W
+M
+ 
+Buradan 
+[ ]
+p
+hB
+3
+2 яй
+σ
+≤  .                                                (225) 
+Tormozlanmanın baş verməsi üçün sondakı sürtünmə momentı tM  tormoz 
+valındakı bürücü momentdən böyük olmalıdır: 
+TM t ≥      və ya    T
+pfBD
+≥
+2
+2π . 
+Bu axırıncı ifadəni nəzərə alsaq optimallaşdırma məsələsini belə yaza bilərik: 
+⎭
+⎬
+⎫
+≤=
+→+=
+−−
+−
+11231
+1
+2
+2
+10
+hDCg
+minDhCDhCg                                       (226) 
+Burada 
+[ ]
+p
+aC
+3
+4
+11
+яйσρπ=  ; 
+[ ]яйσρπ 4
+32
+3
+p
+f
+TC =  . 
+ 102
+ (226) məsələsini həndəsi proqramlaşdırma üsulu ilə həll edək [13]. Layihənin 
+dəyişən parametrləri kimi D  və h  qəbul edilmişdir yəni 2=′m ; pozinomların sayı 
+3=n . Deməli məsələnin çətinlik dərəcəsi: 
+( ) ( ) 01231 =+−=+′−′= mnd  
+Ikili funksiyanın maksimumu: 
+( ) 3
+321
+3
+3
+3
+2
+2
+1
+1 δ
+δδδ
+δ
+δδδ
+δ ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+CCCV                                  (227) 
+olacaqdır. 1δ , 2δ  və 3δ  - ortoqonallıq və normallaşdırma şərtlərindən təyin edilir: 
+121 =+δδ  
+02 321 =−+ δδδ  
+02 321 =−− δδδ  
+Buradan 
+50321 ,=== δδδ  
+alırıq. 
+Onda məqsəd funksiyasının minimum qiyməti: 
+3210 2 CCCg min =                                               (228) 
+Layihənin parametrlərinin optimal qiymətləri 
+min
+gDhC 01
+2
+1 δ=                                               (229) 
+və 
+min
+gDhC 02
+1
+2 δ=
+−                                             (230) 
+ifadələrindən 
+3
+1
+1
+2
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+C
+Ch       və     
+6
+1
+2
+3
+31
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+C
+CCD  
+kimi təyin edilə bilər. 1C , 2C  və 3C -ün ifadələrini yerinə yazsaq: 
+( ) [ ]3 122
+20
+4
+3
+12 яйσπμρ
+τωα p
+ac
+kaEpfh
+−
+=  ,                                 (231) 
+ 103
+( )
+[ ]6 20342
+232
+1 112
+kaEpf
+cTaD
+τωασπ
+μρ
+яй
+−
+=  ,                                 (232) 
+[ ]
+( )3 122
+20
+13
+2
+pac
+kaEf
+B
+πμρ
+στωα
+−
+= яй .                                             (233)              
+alarıq. 
+ Bu axırıncı ifadələrindən tormoz qasnağının optimal parametrlərini təyin etmək 
+mümkündür. BU-75Br – qazma qurğusunun tormozu üçün aşağıdakı hesablamanı 
+aparaq: 
+mkHT ⋅= 20 ; 50,k = ; Herts38,150 =ω ; 30,=μ ; 20,f = ; QPaE 210= ; 
+[ ] MPa50=яйσ ; MPa,p 250= ; 161012 −−⋅= Kα ; 11400 −− ⋅⋅= KkqDjc ; 
+331087 −− ⋅⋅= mkq,p ;  s5=τ ; 621 10=aa ; 12 =a   
+Bu qiymətlərdə mmD 1094= ; mm,h 2512= ;  mm,B 2204=  alırıq. BU-75Br – 
+qurğusunda isə mmD 1180=  və mmB 250=  qəbul edilmişdir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 104
+VI FƏSİL 
+6. DƏNİZ NEFT-MƏDƏN HİDROTEXNİKİ QURĞULARIN 
+UZUNÖMÜRLÜYƏ HESABI 
+ 
+6.1 Ümumi məlumat 
+ 
+Dəniz neft-qaz hidrotexniki qurğuları yataqların istismarı müddətində iş görmə 
+qabiliyyətinə malik olmalı, dayanıqlı və təhlükəsiz iş prosesini təmin etməlidir. Xəzər 
+dənizi şəraitində yataqların istismar müddəti 20…30 il nəzərdə tutulur. Ona görə də 
+hidrotexniki qurğular layihə olunarkən onların bu göstərilən müddətdə normal 
+işləməsinə təminat verilməlidir. Bu da layihələndirmə prosesində uzunömürlüyə 
+hesablama aparmaqla əldə edilir. Təəssüflə qeyd etmək lazımdır ki, hazırda belə bir 
+mükəmməl hesablama üsulları işlənməmişdir. Bunun da əsas səbəbi uzunömürlüyə 
+hesablamanın müxtəlif təsadüfü faktorlardan, külək, dalğa, zəlzələ, korroziya, 
+konstruktiv və texnoloji amillərdən asılı olmasıdır. 
+ 
+6.2 Küləyin təsiri 
+Dəniz hidrotexniki qurğularına küləyin təsiri aşağıdakı ifadə ilə təyin edilir [8, 
+9, 10]: 
+αυ 25390 cosCA,Fk =                                        (234) 
+burada: A  - külək tutan səthin sahəsi; υ  - küləyin sürəti; C  - adsız kəmiyyət olub 
+düzbucaqlı tirlər üçün 1,5; dairəvi silindrik tirlər üçün 0,5; yaşayış binasının divarı 
+üçün 1,0 qəbul edilir; α  - səthin normalı ilə küləyin istiqaməti arasındakı bucaqdır. 
+Küləyin sürəti υ  - dəniz səthindən 10 m hündürlük üçün verilir. Digər hündürlüklər 
+üçün küləyin sürəti aşağıdakı düsturdan hesablanır [8]: 
+7
+1
+0 10
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+yVV .                                          (235) 
+Küləyin artıb azalması kop KVV ⋅=  ifadəsində nəzərdə tutulur. 411 ,Kk K=  arada 
+qəbul edilir. Şəkil 40-də Neft Daşlarında il ərzində küləkli günlər barəsində olan 
+ 105
+məlumatlar verilmişdir [9]. Küləyin ballara görə xarakteristikası cədvəl 8–də 
+verilmişdir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 40 Neft Daşlarında küləkli günlər 
+(on illik müşahidələrin orta qiyməti) 
+ 
+Cədvəl 8 
+Küləyin ballara görə xarakteristikası 
+Ballar Bofort şkalası üzrə 
+küləyin 
+adlandırılması 
+Küləyin 
+sürəti,V,m/s 
+Dalğanın 
+hündürlüyü,h, m 
+Dalğanın 
+periodu,τ , s 
+Dalğanın 
+uzunluğu,λ , m 
+0 Sakit hal 0…0,5 0,3 2,5 10 
+1 Yavaş külək 0,6…2,7 2,1 4,5 32 
+2 Yüngül külək 1,5…3,3 2,5 4,9 32 
+3 Zəif külək 3,4…5,2 3,0 5,3 45 
+4 Mülayim 5,3…7,4 3,6 5,9 54 
+5 Sərin 7,5…9,8 4,4 6,5 65 
+6 Güclü külək 9,9…12,4 5,3 7,1 79 
+7 Möhkəm küləkli 12,5…15,2 6,3 7,8 94 
+8 Çox güclü külək 15,3…18,2 7,4 8,4 110 
+9 Fırtına 18,3…21,5 8,6 9,1 129 
+10 Güclü fırtına 21,6…25,1 10,0 9,8 150 
+11 Tufan 25,2…29,0 11,5 10,5 171 
+12 Qasırğa >29 13,0 11,1 194 
+ 
+ 
+ 
+ 106
+6.3 Dalğanın təsiri 
+ 
+Küləyin təsirindən dəniz səthində suyun lənkər vurması dalğalanmaya səbəb 
+olur. Dalğalar hidrotexniki qurğulara müəyyən qüvvə ilə təsir edir. Hesablamalar ya 
+qasırğa şəraiti üçün, ya da statistik hidrometroloji şərait üçün aparılır. Bunun üçün 
+müxtəlif dalğa nəzəriyyələrindən istifadə edilir. Bu nəzəriyyələrdən ən sadəsi Eri 
+nəzəriyyəsidir. Eri nəzəriyyəsi dalğa hündürlüyü H -ın dalğa uzunluğu λ  və dənizin 
+dərinliyi h -a nisbətən daha kiçik qiymətlərində düzgün nəticələr verir. Dənizin dərin 
+yerlərində qurulan hidrotexniki qurğular üçün digər nəzəriyyələr daha münasibdir. 
+Eri nəzəriyyəsinə əsasən sabit diametrli sütuna dalğanın göstərdiyi təsir qüvvəsi 
+aşağıdakı düsturla təyin edilir [8]: 
+                   ( ) ( )×−⎥⎦
+⎤
+⎢⎣
+⎡ +⋅⋅= tkxcos
+khsh
+ky
+khsh
+kyshH
+k
+DpCF c ωω 22
+2 22
+32d
+ 
+( ) ( )tkxsin
+shkh
+shkyHD
+k
+pCtkxcos ωωπω −⋅⋅⋅−−× 2
+2
+42
+я                            (236) 
+burada: 
+λ
+π2
+=k   - dalğa ədədi; t  - zaman, 
+T
+πω 2= ; T  - dalğa periodu; ρ  - dəniz 
+suyunun sıxlığı; cC  və яC  əmsallar; D  - borunun diametridir.  0160 ,,Cc K= , 
+0251 ,,C K=я  arada qəbul edilir. X - oxu dalğanın yayılma istiqamətində, Y - oxu isə 
+dənizin dibindən səthinə doğru yönəlir. Dalğanın parametrləri cədvəl 9-də 
+verilmişdir. Xəzər dənizi şəraitində, Neft Daşlarında dalğalı günlərin sayı barədə 
+məlumat şəkil 41-də verilmişdir. 
+ Xəzər dənizinin dərin yerlərində hidrotexniki qurğular şəbəkə tipli metal 
+konstruksiyadan ibarət olduğu üçün onların modeli əslində fəza ferması kimi qəbul 
+edilməli və onun tədqiq olunması inşaat mexanikası qaydalarına əsasən, başlıca 
+olaraq sonlu elementlər üsulu ilə aparılmalıdır [10]. Digər variant isə qurğuya kütləsi 
+ox boyu paylanmış tir kimi baxmaqdır [10]. Ən müxtəsəri isə ona kütləsi uc 
+nöqtəsində toplanmış elastik çubuqla əlaqələndirilmiş bir kütləli cisim kimi 
+baxmaqdır. Bu halda Reley üsulundan istifadə etməklə hidrotexniki qurğunun 
+ 107
+fermasının kütləsinin üçdə biri platformanın kütləsinə əlavə olunur [4]. Sistemin 
+sərtliyi isə konsol tirin sərtliyi kimi təyin edilir.  
+Cədvəl 9 
+Dalğanın parametrləri 
+Parametrlər 
+Dənizin dalğalanması, ball 
+1 2 3 4 5 6 7 8 9 10 11 12 Sakit
+m,H  2,1 2,5 3,0 3,6 4,4 5,3 6,3 7,4 8,6 10 11,5 13 0,3 
+san,T  4,5 4,9 5,3 5,9 6,5 7,1 7,8 8,4 9,1 9,8 10 11 2,5 
+m,λ  32,0 37,0 45,0 54,0 65,0 79,0 94,0 110 129 150 171 194 10 
+T
+πω 2=  1,395 1,28 1,118 1,06 0,97 0,88 0,80 0,74 0,69 0,64 0,60 0,57 2,51 
+λ
+π2=k  
+0,
+19
+6 
+0,
+16
+9 
+0,
+13
+9 
+0,
+11
+6 
+0,
+09
+6 
+0,
+07
+9 
+0,
+06
+6 
+0,
+05
+7 
+0,
+04
+8 
+0,
+04
+1 
+0,
+03
+6 
+0,
+03
+2 
+0,
+62
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 41 Neft Daşlarında dalğalı günlər 
+           (on illik müşahidələrin orta qiyməti) 
+Təsir edən xarici qüvvələrdən platformanın yerdəyişməsi təyin edildikdən 
+sonra dinamik qüvvələr də nəzərə alınmaqla qurğuya olan təsir 
+CXF =                                                     (237) 
+ifadəsindən təyin edilə bilər. Burada, X  - fermanın horizontal yerdəyişməsi; C  - 
+hidrotexniki qurğunun əyilmədəki sərtliyidir. 
+ 
+ 108
+ 
+ 
+ 
+6.4 Platformanın rəqsi hərəkətinin diferensial tənliyi və onun həlli 
+ 
+Platformanın rəqsi hərəkətinin diferensial tənliyi aşağıdakı kimi tərtib edilir: 
+FCX
+dt
+xdM =+2
+2
+                                            (238) 
+burada: 
+kd FFF +=  
+Dalğanın təsir qüvvəsi - dF  belə təyin edilir: 
+( ) tHD
+k
+Ctt
+khsh
+kh
+khsh
+khshH
+k
+DCF cd ωω
+πρωωωρ sincoscos 2
+2
+22
+2
+42
+22
+32
+⋅⋅+⎥⎦
+⎤
+⎢⎣
+⎡ += я  
+Küləyin təsir qüvvəsi kF : 
+α25390 cosCAv,Fk =                                          (240) 
+Su axınının təsir qüvvəsi Hω -ın ifadəsində gF -nin birinci həddində ona sudan 
+10 m hündürlükdə küləyin sürətinin 1% qədəri əlavə etməklə nəzərdə tutulur [1, 4]: 
+21 3
+1 MMM +=  
+Burada: 1M  - platformanın; 2M - platforma altı metal konstruksiyanın kütləsidir. 
+Nəticədə (238) tənliyi aşağıdakı şəkil alır: 
+tcostcosatsinaacx
+dt
+xdM ωωω 2102
+2
+++=+                        (241) 
+burada: 
+α20 5390 cosCAv,a =                                       (242) 
+HD
+k
+Ca 2
+2
+1 42
+ωπρ ⋅= я ,                                      (243) 
+( ) ⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +=
+khsh
+kh
+khsh
+khshH
+k
+DCa 22
+2
+2
+22
+32
+ωρ я .                        (244) 
+ 109
+(227) təqliyinin hər iki tərəfini M -ə bölsək 
+tcostcosatsinaaxv
+dt
+xd ωωω 211
+2
+2
+2
+++=+                      (245) 
+alarıq. Burada 
+M
+Cv =2 ;  tcostcos ωω =  halı üçün, yəni 
+ω
+π
+2
+0 ≤≤ t  olduqda tənliyin 
+həlli sərbəst rəqslər nəzərə alınmadığı hal üçün aşağıdakı şəkil alır 
+tcos
+v
+a,tsin
+v
+a
+v
+a,aX ω
+ω
+ω
+ω
+2
+4
+5050
+22
+2
+22
+1
+2
+2
+−
++
+−
++
++
+=                   (246) 
+(246) – ifadəsi 
+ω
+π
+2
+=t  qiymətində 
+22
+2
+22
+1
+2
+20
+4
+505050
+ωω −
+−
+−
++
++
+=
+v
+a,
+v
+a,
+v
+a,aX ,                          (246) 
+( )
+( ) ω
+π
+ω
+ω
+ω 2
+41
+22
+2
+22
+1 ≤⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+−
+−
+=
+va
+vaarccost                                (248) 
+olduqda isə 
+                                  ( )
+( )
++
+−
+−
+−
+−
++
++
+= 2222
+2
+2222
+1
+22
+1
+2
+20 4150
+ω
+ω
+ω va
+va
+v
+a
+v
+a,aX  
+( )
+( ) ⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+−
+−
+−
+−
++ 142
+4
+50
+2222
+2
+2222
+1
+22
+2
+ω
+ω
+ω va
+va
+v
+a,                                 (249 
+alırıq 
+ Hesablamanı (247) və (249) ifadələrindən X -in daha böyük qiymət aldığı hal 
+üçün aparmaq lazımdır. 
+ Hidrotexniki qurğuların elementlərində yaranan dinamik gərginliklər sonlu 
+elementlər üsulundan istifadə edilməklə təyin edilə bilər [8, 9, 10]. Lakin qurğunun 
+metal konstruksiyası çoxlu sayda çubuqlardan ibarət olduğundan bütün çubuqlarda 
+gərginliklərin təyin edilməsi, xüsusiylə də dinamik gərginliklərin təyini çətin və 
+mürəkkəb əməliyyatdır. Nəzərə alsaq ki, qurğunun normal işləməsi başlıca olaraq 
+əsas yük daşıyıcı boruların möhkəmliyindən asılıdır, ilk növbədə bu boruların 
+uzunömürlüyə tədqiqi aparılmalıdır. Bundan başqa, boruların su üstü hissəsi periodik 
+ 110
+olaraq korroziyaya qarşı örtüklərlə, su altı hissəsi isə müxtəlif dəniz canlıları ilə xarici 
+mühitdən təcrid edildiklərindən konstruksiyanın zəifləməsi ilk növbədə borunun 
+dalğa yuyan hissəsində baş verir. Ona görə də möhkəmliyə hesablamanı 
+konstruksiyanın əsas borularının dalğa yuyan hissəsi üçün aparmaq lazımdır. 
+Konstruksiyanın göstərilən hissəsində əsas borularda sıxılma сыхσ  və əyilmə яйσ  
+gərginlikləri yaranır. Sıxılmada yaranan gərginlik 
+0A
+Q
+=сыхσ                                                       (250) 
+əyilmədə yaranan gərginlik isə 
+xW
+M яй
+яй =σ                                                      (251) 
+ifadəsindən təyin edilir. Burada Q  - platformanın çəkisi; 0A  - hidrotexniki qurğunun 
+əsas dayaqlarının üfuqi en kəsik sahəsi; яйM  - təsir edən qüvvənin qorxulu kəsiyin 
+mərkəzinə nəzərən momenti; xW  - boru kəsiklərinin neytral oxa nəzərən müqavimət 
+momentidir. 
+0FHM =яй                                                  (252) 
+0H  - platformanın mərkəzindən dəniz səthinə qədər məsafə; F - təsir edən üfuqi 
+qüvvədir, CXF =  ifadəsinə əsasən təyin edilir 
+ 
+6.5 Hidrotexniki qurğunun uzunömürlüyə hesabı 
+ 
+Uzunömürlüyə hesablama zədələnmələrin xətti toplanma qanununa əsasən 
+aparılır [1]. 
+a
+N
+nn
+i i
+i =∑
+=1
+                                                (253) 
+Burada in - uyğun işçi tsikllərin; iN  - dağıdıcı tsiklərin sayıdır; 1=a  qəbul 
+edilir. 
+Əgər müəyyən gücdə dalğaların il ərzində baş verdiyi günlərin sayı it , 
+dalğanın periodu iT  olarsa, onda 
+ 111
+илLT
+tn
+i
+i
+i 360024 ⋅=                                      (254) 
+olacaqdır. Bu baxılan dalğaya uyğun gərginliyi iσ  ilə işarə etsək Vehler əyrilərindən 
+(şəkil 42) ilgσ  və inlg  yə uyğun iNlg -ni təyin edə bilərik. Onda konstruksiyanın 
+illərlə işləmə müddəti 
+∑
+=
+⋅
+= n
+i ii
+i
+NT
+t
+aL
+1
+360024
+ил                                             (255) 
+olacaqdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 42 Vöhler qrafiki 
+ 
+Əgər korroziya nəticəsində boruların en kəsik sahələri zəifləyirsə, bu iσ -nin 
+ifadəsindəki 
+ixW  təyin edildikdə nəzərə alınmalıdır. Boru materialının xassəsinin 
+dəyişməsi Vöhler əyrilərinin sol tərəfə paralel sürüşdürülməsi və 1−σ -in səviyyəsinin 
+endirilməsi ilə nəzərdə tutulmalıdır. iσ -nin qiyməti 1−σ -dən aşağıya olarsa, iN -nin 
+qiyməti Vöhler əyrilərinin mailli hissəsinin aşağıya doğru uzadılması ilə əldə edilir. 
+(255) ifadəsində 
+01NN
+m
+i
+m
+i −= σσ                                                (256) 
+Vöhler düsturunu nəzərə alsaq, 
+m
+i
+m
+i
+NN
+σ
+σ 01−=  
+ 112
+yaza bilərik. Onda 
+∑
+=
+−
+⋅
+=
+n
+i i
+m
+ii
+m
+T
+t
+NaL
+1
+01
+360024 σ
+σ
+ил                                         (257) 
+alarıq. Burada m -Vöhler əyrilərinin göstəricisidir. Əgər gərgtnliyin konsentrasiyası 
+σK , miqyas faktoru β , səthin kələ-kötürlüyünü nəzərə alan əmsal ε -ni gərginliyin 
+orta qiyməti mσ  və asimmetriya əmsalı ϕ -ni nəzərə alsaq: 
+m
+mmi
+n
+i i
+i
+m
+K
+T
+t
+NaL
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
++⋅
+=
+∑
+=
+−
+σϕσ
+εβ
+σ
+σ
+1
+01
+360024
+ил                           (258) 
+Bu düstur vasitəsiylə hidrotexniki qurğunun təhlükəsiz işləmə müddəti 
+hesablana bilər. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 113
+  Ədəbiyyat 
+1.Kərimov Z.H. Maşın hissələri və yükqaldırıcı-nəqledici maşınlar. Bakı, 
+«Maarif», 2002-ci il. 
+1.Мирзаджанзаде А.Х., Огибалов А.М., Керимов З.Г. Термо-вязкоупругость 
+и пластичность в нефтепромысловом деле. М. «Недра», 1983 г. 
+2.Серенсен С.В., Когаев В.П., Шнейдерович Р.М. Несущая способность и 
+расчет деталей машин на прочность. М., Машгиз, 1963 г. 
+3.Детали машин. Расчет конструкирование. Справочник. Под ред. Ачеркана 
+Н.С. т.1, 2, 3. М., Машиностроение, 1969 г. 
+4.Искрицкий Д.Е. Строительная механика элементов машин. Л., 
+Судостроение, 1970 г. 
+5.Крагельский Н.М., Михин Н.М. Узлы трения машин. М., 
+Машиностроение, 1984 г. 
+6.Керимов З.Г., Багиров С.А. Автоматизированное проектирование 
+конструкций. М., Машиностроение, 1985 г. – 224 с. 
+7.Доусон Т. Проектирование сооружений морского шельфа. Л., 
+Судостроение, 1988, 288 с. 
+8.Ибрагимов А.М. Нефтепромысловые гидротехнические сооружения. М., 
+Недра, 1996 г., 528 с. 
+9.Gnilke W. Lebensdauerberechnung der Maschinenelemente. VEB Verlag 
+Texnik Berlin, 1982. 
+10.Gartner P. und Kerimov S.G. Amvendung der Methode der geometrischen 
+Optimerung bei der konstruktion und Projektierung von Andrieben. Freib Fosch – 
+H.A.627.Hrsg: Rektor der Bergakademie Freiberg Leipzig: VEB Deutscher Verlag 
+fцr Gruhd – Stoffindustrie, 1981. 
+11.Керимов З.Г., Адигезалов Ф.А., Хартман В. Оптимизации конструкций 
+полдшипников скольжения шарнирных муфт буровых установок. Нефть и газ. 
+1980, 35, с. 76-80. 
+12.Дафин Р., Питерсон Э., Зенер К. Геометрическое программирование. Пер. 
+с англ. М., Мир, 1973, 311 с. 
+ 114
+13.Дафин Р., Питерсон Э., Зенер К. Геометрическое программирование. Пер. с 
+англ. М., Мир, 1973, 311 с. 
+ 

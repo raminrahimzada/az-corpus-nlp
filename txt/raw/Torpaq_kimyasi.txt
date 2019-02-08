@@ -1,0 +1,6263 @@
+ARİF HÜSEYNOV 
+NAMİQ HÜSEYNOV 
+ 
+ 
+ 
+ 
+ 
+TORPAQ KİMYASI 
+Ali  məktəblər üçün dərslik 
+ 
+ 
+ 
+ 
+Azərbaycan Respublikası Təhsil 
+Nazirinin  23 may 2012-ci il tarixli 
+902 saylı əmri ilə ali məktəb 
+tələbələri üçün dərslik  kimi təsdiq 
+edilmişdir. 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+Bakı – 2012 
+Elmi redaktor: ADAU-nun Torpaqşünaslıq, aqrokimya və ekoloji 
+kənd təsərrüfatı kafedrasının müdiri, k.t.e.d., 
+professor A.H.Babayev 
+ 
+Rəyçilər:  AMEA Torpaqşünaslıq və aqrokimya institutu, üzvi 
+gübrələr və örtülü qruntun aqrokimyası 
+laboratoriyasının müdiri, k.t.e.d., prof. P.B.Zamanov. 
+ 
+GDU-nin tədris işləri üzrə prorektoru, k.e.d., prof. Y.Ə.Yusifov 
+ 
+ADAU-nun Aqrotexnologiya fakültəsinin dekanı, k.e.d., prof. 
+E.M.Mövsümov. 
+ 
+ADAU-nun Torpaqşünaslıq, aqrokimya və ekoloji lənd təsərrüfatı 
+kafedrasının professoru, k.t.e.d.. F.H.Axundov 
+ 
+Arif Hüseynov, Namiq Hüseynov. 
+TORPAQ KİMYASI. (Ali  məktəblər üçün dərslik). 
+Bakı – 2012. 582 səh. 
+ 
+Dərslikdə torpaq kimyasının kənd  təsərrüfatında istifadə olun-
+malı məsələləri açıqlanıb, xam və mədəniləşdirilmiş torpaqlarda vacib 
+olan kimyəvi reaksiyalar xarakterizə edilmiş, torpaqda ion mübadiləsinin 
+fundamental qanunları, turşuluğu və qələviliyi, oksidləşmə-reduksiya pro-
+sesləri və rejimi, spesifik və qeyri-spesifik maddələri və gilli mineralların 
+formalaşması kifayət qədər işıqlandırılmışdır. 
+Torpaq kimyasının tətbiqi məsələləri və torpağın kimyəvi çirklən-
+mədən mühafizə problemləri araşdırılaraq, mövcud ədəbiyyat məlumatları 
+əsasında torpaq proseslərinin termodinamika məsələləri xeyli genişlən-
+dirilmiş, torpaq humusunun vəziyyəti haqqında qayda və prinsiplər forma-
+laşdırılmışdır. Torpağın kimyəvi xüsusiyyətlərinin və monitorinqin qiy-
+mətləndirilməsində onun rənginin göstəricilərindən istifadə imkanları 
+müəyyənləşdirilibdir. 
+Dərslik universitetlərin “Aqrokimya və torpaqşünaslıq”, “Aqro-
+nomluq”, “Meliorasiya”, “Biologiya”, “Ekologiya” və digər uyğun gələn 
+ixtisasların tələbələri üçün, eləcə də magistrantlar, doktorantlar və elmi 
+işçilər üçün nəzərdə tutulmuşdur. 
+ 
+ 
+Yerdə ol, göydə ol, fərqi yox bunun, 
+Torpaqsan yenə də torpaqdır sonun. 
+N.Gəncəvi 
+ 
+ 
+ÖN SÖZ 
+ 
+Ta qədim zamanlardan müasir dövrümüzədək bəşər si-
+vilizasiyasının əsaslarını formalaşdıran amillərdən biri torpaq 
+və onunla bağlı münasibətlər sistemi olmuşdur. Xalqların for-
+malaşması, cəmiyyətin ictimai sifarişi əsasında sosial-siyasi 
+təsisat olaraq dövlətlərin yaranması, başqa sözlə, müasir bey-
+nəlxalq sistemin qurulması kimi məsələlər də bilavasitə torpaq 
+amili ilə bağlı olmuşdur. 
+Əgər belə demək mümkünsə, torpağa münasıbət fakto-
+runun tarixin ən mühüm hadisə və proseslərində, dövlətlərin 
+yaranmasında və çökməsində, hətta ictimai formasiyaların də-
+yişməsində belə həlledici rolu olmuş, bəşəriyyətin torpağa 
+verdiyi qiymət bütün tarix boyu dəyişməyərək müasir zamana 
+qədər gəlib çıxmışdır. 
+Lakin son yüz illikdə respublikamızın əhalisinin sürətli 
+artımı, yaşayış məntəqələrinin hədsiz genişlənməsi, böyük su-
+varma massivlərinin yaranması, dağ-mədən, energetika, nəq-
+liyyat və s. sənayenin digər sahələrinin intensif inkişafı ətraf 
+mühitə, təbii ekosistemlərə, o cümlədən torpağın kimyəvi xas-
+sələrinə neqativ antropogen təsirlərin dəfələrlə artmasına gəti-
+rib çıxarmışdır. Nəticədə əkinəyararlı və digər kateqoriyalar-
+dan olan torpaqların sahəcə azalması və onların münbitlik 
+göstəricilərinin, xüsusilə kimyəvi tərkibinin keyfiyyətcə pis-
+ləşməsi səbəbindən biopotensialın azalması baş vermişdir. 
+3
+Qeyd edək ki, respublikamız dünya ölkələri arasında 
+kənd təsərrüfatına yararlı torpaq sahələri ilə təmin olunmasına 
+görə sonuncu yerlərdə durur. Belə ki, hazırda bu kateqoriya-
+dan olan torpaqların hər adama düşən miqdarı respublikamız-
+da 0,12-0,14 ha arasında dəyişir ki, bu da olduqca zəif göstəri-
+ci hesab olunur. Bu vəziyyət torpaq örtüyünün hər qarışından 
+səmərəli istifadənin vacibliyini bizə bir daha diktə edir. 
+Uzun müddət «Yeni dünya» jurnalının baş redaktoru iş-
+ləmiş, yazıçı, publisist, ixtisasca meliorator, professor S.P.Za-
+lıginin təbirincə desək «torpaq qatı cəmi 30, 40 və ya tutaq ki, 
+50 sm qalınlığa malikdir. Hər şey – heyvanların, bitkilərin 
+yaşayışı, bəşəriyyətin təkamülü və həyatın özü – yalnız bu 
+nazik təbəqədə baş verir». Bəli, məhz bu nazik təbəqə 
+qorunub gələcək nəsillərə yararlı halda təhvil verilməlidir. 
+Müqəddəs kitabımız Qurani-Kərimin Əraf surəsinin 58-
+ci ayəsində deyilir: «Pak torpağın bitkisi öz Rəbbinin izni ilə 
+firavan və bol çıxar. Pis olan torpağın bitkisi isə yalnız az və 
+xeyirsiz çıxar. Pak insanın təbiətindən gözəl əqidələr və 
+işlər, pis insanın təbiətindən pis əqidə, sifət və əməllər baş 
+qaldırar». Mən sözümün əvvəlində dahi Azərbaycan şairi 
+N.Gəncəvinin beytini təsadüfən işlətməmişəm. Dinimizlə ya-
+naşı artıq elmi surətdə də sübut olunmuşdur ki, insan torpaq-
+dan yaranmışdır və kimyəvi tərkibcə eynilik təşkil edir. 
+Bir dəfə o zamanın populyar jurnalı sayılan «Zdorov-
+ye»də tibb üzrə məşhur alimin məqaləsindən götürdüyüm 
+parçanın nöqtəsinə, vergülünə toxunmadan, tərcümə etmədən 
+Sizin nəzərinizə çatdırıram.  «Ева не была первой женой 
+Адама. Сначала бог сотворил ему из огня красавицу Ли-
+лит. Но запах глины, из которой был создан Адам, 
+достиг тонкого обоняния огнедышащей Лилит. Супруг 
+стал ей неприятен, и она покинула его. И тогда-то, 
+4
+увидев глубоко удрученного Адама, бог решил сотво-
+рить ему более подходящую жену. Он усыпил Адама, 
+вынул у него ребро и из этого ребра создал прекрасную 
+Еву. Вот эта жена «плоть от плоти и кость от 
+кости», и стала его верной подругой». 
+Oddan yaradılmış Iblisin nəslindən olan Lilit torpağın 
+müqəddəsliyini qəbul edə bilmədi. 
+Folklorumuza müraciət etsək bizim xalqın da belə atalar 
+sözləri çoxdur. «Ərlə arvadın torpağı bir yerdən götürülüb», 
+yaxud «Əti-ətindən, sümüyü-sümüyündən» və s. 
+Məşhur vətənpərvər alim, akademik Ziya Bünyadovun 
+qələminin son məhsulu olan «Dinlər, təriqətlər, məzhəblər» 
+kitabında Adəm – qədim yəhudicə «torpaq» deməkdir fikrinə 
+rast gəlirik (səh.10). 
+Onu da qeyd edim ki, torpaq da ana qədər müqəddəs 
+varlıqdır və başqa bir varlıq tanımıram ki, ana və torpaq qədər 
+şeirlərdə bu dərəcədə vəsf edilsin. Ən məşhur nizamişünaslar 
+hələ də N.Gəncəvinin bu qıfılbəndini aça bilməyiblər: 
+ 
+«Dünyada Yer kimi ağır dolansan, 
+Üç gövhər arxanda qalacaq, inan! 
+Bütün gövhərlərin rəngi parlaqdır, 
+Hamısından xoş gələn yenə torpaqdır. 
+Torpaqda gizlidir o üç yoldaş da, 
+Yenə də torpaq var o üç yoldaşda». 
+ 
+(N.Gəncəvi “Leyli və Məcnun” səh.56) 
+ 
+Bəli, təbii tarixi cisim, bizim əcdadımız olan torpaq əsas 
+və əvəzsiz sərvətimizdir. Ondan nə dərəcədə səmərəli istifadə 
+olunmasından cəmiyyətin taleyi və xalq təsərrüfatının gələcək 
+inkişafı asılıdır. Torpaq bütün ictimai formasiyalarda insana 
+5
+qüdrət, ölkəyə bərəkət və cəmiyyətin inkişafına mütərəqqi 
+istiqamət vermişdir. 
+FAO-nun məlumatına görə hər il 8,76 milyard ton qida 
+istehlak edilir. Bu enerji ekvivalenti ilə 1,510
+20
+ ton coul kalo-
+ridir. Bunun 90%-i bitkiçilik, 10%-i isə heyvandarlıq məhsu-
+ludur. Nəzərə alsaq ki, hər iki məhsulu torpaq verir, bu təbii 
+tarixi cisimin əhəmiyyəti daha parlaq görünər. Ona görə də 
+torpağı qorumaq, onun kimyəvi tərkibini daimi olaraq nəza-
+rətdə saxlamaq, münbitliyinin azalmasının qarşısını almaq hər 
+bir vətəndaşın müqəddəs borcudur. Bu baxımdan respubli-
+kamizda ilk dəfə nəşr olunan «Torpaq kimyası» dərsliyi və 
+onun tədrisi də diqqət mərkəzində olmalıdır. Dünyanın bir 
+nömrəli müəllimi Aristotel deyirdi: «Adi müəllim danışır, 
+yaxşı müəllim göstərir, əla müəllim başa salır, dahi müəllim 
+ruhlandırır». Torpaq kimyasını tədris etmək üçün ən azı 
+yaxşı müəllim olmaq lazımdır. 
+Hazırda respublikamızda ekoloji tarazlığın pozulması, 
+kənd təsərrüfatına yararlı torpaqların azalması, bəzi yerlərdə 
+tamamilə sıradan çıxması, torpağın əsas xassəsi olan münbit-
+liyin potensial və effektiv göstəricilərinin pisləşməsi bizə çox 
+ciddi xəbərdarlıqdır, torpağın ekoloji böhranı və ya deqra-
+dasiyası kimi qarşılanmalıdır.  Bütün bunlar «Torpaq kimya-
+sı» dərsliyinə böyük ehtiyac olduğunu sübut edir. 
+Müəlliflərin belə vacib və məsuliyyətli bir problemin 
+həlli üçün çəkdikləri zəhmət təqdirə layiqdir. 
+ 
+Prof. N.M.Xudiyev 
+ADPU-nun Azərbaycan dilçiliyi kafedrasının müdiri,  
+ filologiya elmləri doktoru,  Əməkdar Elm Xadimi. 
+ 
+6
+ 
+GİRİŞ 
+ 
+Təbii-coğrafi xüsusiyyətlərinin müxtəlifliyi ilə seçilən 
+Respublikamızın ərazisi, tropik meşə və savanna tipli land-
+şaftlar istisna olmaqla, Yer kürəsində yayılmış bütün torpaq-
+iqlim zonalarının mövcudluğu ilə səciyələnir. Bununla yanaşı, 
+hər zona daxilində torpaqəmələgətirici ana süxurların, çökün-
+tülərin, bioloji amillərin və insanın təsərrüfat fəaliyyətinin 
+müxtəlifliyi burada çoxsaylı torpaq tipi və növlərinin forma-
+laşmasına səbəb olmuşdur. Ərazidə relyefin morfogenetik və 
+morfometrik xüsusiyyətlərin mürəkkəbliyi geosistemlərdə 
+hidrotermik rejimin, maddələr mübadiləsinin və başqa amil-
+lərin kəskin dəyişilməsinə, beləliklə də torpağın zonallıq qa-
+nunauyğunluqlarının yaranmasına və bir-birini əvəz edən 
+müxtəlif torpaq tiplərinin formalaşmasına, onların kimyəvi, 
+fiziki-kimyəvi və mineraloji xassələrinin müxtəlifliyinə səbəb 
+olmuşdur. 
+Bu gün Azərbaycan dövləti üçün strateji əhəmiyyət kəsb 
+edən məsələlərdən biri də kənd təsərrüfatı təyinatlı torpaqların 
+münbitliyinin qorunması və yüksəldilməsidir. Yeni iqtisadi 
+sistemə keçidlə əlaqədar xırda və pərakəndə torpaq istifadə-
+çiliyi şəraitində torpaqlarımızın münbitliyi son vaxtlar sürətlə 
+azalır, ölkə ərazisində səhralaşma prosesi intensivləşir. Belə 
+bir şəraitdə baş verən neqativ proseslərin qarşısını almaq və 
+pozulmuş ekoloji tarazlığı bərpa etmək üçün «Torpaq kim-
+yası» dərsliyinin yazılması və nəşri zamanın tələbindən doğur. 
+Müasir torpaq kimyası torpağın istifadəsi, xassələri və 
+mənşəyi ilə bağlı məsələləri həll etmək üçün meydana çıxmış-
+dır. Ona görə də onun ümumi tərifini aşağıdakı kimi vermək 
+olar: torpaq kimyası – torpaqşünaslığın bölməsi olub, tor-
+7
+paqəmələgəlməsinin kimyəvi əsaslarını və münbitliyi öyrə-
+nir. Bu məsələlərin həllinin əsasını torpağın tərkibini, xassələ-
+rini tədqiq etmək və torpaqda baş verən prosesləri ion-mole-
+kulyar və kolloidal səviyyədə öyrənmək təşkil edir. Etiraf 
+edək ki, torpaq kimyasının predmeti xüsusi təbii-tarixi cisim 
+olan torpaqdır. Torpaq kimyası da torpaqşünaslıq kimi müqa-
+yisəli-coğrafi və profil-genetiki metodlardan istifadə edir, bu 
+da bir sübutdur ki, torpaq kimyası torpaqşünaslığın digər böl-
+mələrindən ayrı hesab edilmir. Burada torpağın spesifik xas-
+sələrini xarakterizə edən metodlar və göstəricilər işlənib hazır-
+lanmışdır. Məsələn, torpağın udma qabiliyyətinin göstərici-
+ləri, humusun qruplar üzrə tərkibi, profil üzrə elementlərin ya-
+yılması, elementlərin mütəhərrikliyinə və bitkilər tərəfindən 
+mənimsənilməsinə görə qruplara bölünməsi, torpağın nitrifi-
+kasiya qabiliyyəti və s. bu qəbildən hesab edilir. 
+Torpaq kimyasına kimya elminin bir bölməsi kimi bax-
+maq düzgün olmazdı, çünki bunun başlıca məqsədi torpaq 
+məsələlərinin həllinə həsr edilmişdir. 
+Müasir torpaq kimyasının dörd başlıca istiqaməti müəy-
+yən edilmişdir:  
+1) torpaq kütləsinin kimyası,  
+2) torpaq proseslərinin kimyası,  
+3) torpaq münbitliyinin kimyası,  
+4) analitik torpaq kimyası. 
+Yuxarıda adı gedən istiqamətlərin hər biri ayrılıqda ya-
+rımbölmələrə bölünür. Məsələn, torpaq kütləsinin kimyası 
+üç yarımbölmədə aşağıdakı problemləri öyrənir: 
+a) torpağın tərkibi haqqında təlimdə: torpağın element 
+tərkibi, faza tərkibi, bərk fazanın tərkibi, maye fazanın tərkibi, 
+qaz fazanın tərkibi, fazalar sistemində tarazlıq, 
+8
+b) torpaq komponentlərinin quruluşu və xassələri: sadə 
+duzlar, oksidlər və hidroksidlər, gilli minerallar, humus, üzvi-
+mineral maddələr, 
+c) torpağın xassələri: udma qabiliyyəti, mühitin reaksi-
+yası, kimyəvi-kolloidal xassələri, oksidləşmə-reduksiya reji-
+mi. 
+Torpaq proseslərinin kimyası dörd yarımbölmədə aşa-
+ğıdakı problemləri öyrənir: 
+a) torpaqəmələgəlmədə maddələr tərkibinin transforma-
+siyası: mineralların sintezi və parçalanması, üzvi qalıqların 
+parçalanması, humus maddələrinin sintezi, yeni əmələgələn 
+maddələrin kimyası,  
+b) differensasiya olunmuş torpaq profilində kimyəvi 
+proseslər, 
+c) torpaq profillərində və landşaftlarda kimyəvi birləş-
+mələrin miqrasiyası və akkumulyasiyası, 
+d) torpağın tərkibi və xassələrinin hidrotermiki və bio-
+loji şəraitlərdən asılılığı. 
+Torpaq münbitliyi kimyası dörd yarımbölmədə aşağı-
+dakı problemləri öyrənir: 
+a) qida elementlərinin ehtiyatı: ümumi ehtiyatları, qida 
+maddələrinin ehtiyatı, 
+b) qida maddələrinin balansı: xam landşaftlarda ele-
+mentlərin balansı, aqrofitosenozda elementlərin balansı, 
+c) elementlərin mütəhərrikliyi və bitkilərə daxil olması-
+nın kimyəvi əsasları: birləşmələr və onların mütəhərrikliyi, 
+elementlərin mənimsənilməsi və termodinamiki əsasları, 
+d) torpaq münbitliyinin nizamlanmasında kimyəvi təd-
+birlər. 
+Analitik torpaq kimyası üç yarımbölmədə aşağıdakı-
+ları problemləri öyrənir: 
+9
+a) elementlərin və maddələrin kəmiyyətcə təyini və 
+identifikasiya metodları, 
+b) torpaq xassələrinin təyini metodları: aktual turşu-
+luğun təyini, oksidləşmə-reduksiya potensialının təyini, kol-
+loidal-kimyəvi xassələrin təyini, 
+c) spesifik torpaq göstəricilərinin təyini metodları: hu-
+musun fraksiyalar və qruplar üzrə tərkibi, mübadilə kationları, 
+mineral komponentlərin qruplar üzrə tərkibi, torpaq turşuluğu 
+və qələviliyinin növləri. 
+Yuxarıda şərh edilənlər müasir torpaq kimyasının öy-
+rəndiyi problemlərin yalnız bir hissəsdir. Qarşıda hələ bunlar-
+dan heç də əhəmiyyəti az olmayan daha mühüm məsələlərin 
+həlli durur. Məsələn, torpaq profilinin əsaslandırılmış analizi, 
+hansı ki, bircinsli ana süxurlar üzərində formalaşan torpaqlar 
+haqqında müxtəlif hipotezalar mövcuddur. Bu haqda əsaslı 
+surətdə nəzəri və analitik tədqiqatların aparılması vacib prob-
+lemlərdən sayılır. 
+Dərslikdə verilmiş düstur və tənliklərin asan anlaşılması 
+üçün kitabın sonunda latın və yunan əlifbasını, həmçinin 
+Y.L.Meyer və D.İ.Mendeleyevin elementlərin dövri sistemi 
+cədvəlini oxuculara təqdim edirik. 
+ 
+ 
+10
+I FƏSİL 
+QISA TARİXİ OÇERK VƏ TORPAQ KİMYASININ 
+PROBLEMLƏRİ 
+ 
+Hər hansı bir elmin tarixi ilə tanış olmaq istərkən, əv-
+vəlcə onun inkişaf dialektikasını başa düşməli, uğurlarının və 
+uğursuzluqlarının səbəbini qiymətləndirməli, hərəkətverici 
+qüvvəsini aydınlaşdırmalı və nəhayət onun cəmiyyətlə inkişaf 
+əlaqələrini öyrənmək lazımdır. 
+Keçmişi öyrənmək müasir və gələcək zamanı başa düş-
+mək üçün vacibdir. V.İ.Vernadskinin təbirincə desək «yenilik-
+lər keçmişdə gizlənmiş və gözlənilmədən zühur edənlərdir». 
+Elmin inkişafının yaxın və uzaq perspektivlərini gö-
+rəndə onun elmi-tədqiqat işlərinin planlaşdırılması asanlaşır, 
+qanunauyğunluqları aydınlaşır, səhvlərdən və lazımsız təkrar-
+lardan uzaqlaşaraq, keçmiş alimlər nəslinin təcrübələrinə 
+əsaslanaraq düzgün nəticələr çıxarmaq olur. 
+Torpaq kimyasının inkişafı çox uzaq keçmişdən baş-
+layır. Belə ki, birinci mərhələdə toplanmış kollektiv təcrü-
+bələrin nəticələri əsasında qazanılan bilgilər kənd təsərrüfa-
+tının inkişafına tətbiq edilmişdir. Qədim əkinçilərin torpaq 
+xassələri haqqında olan fikirlərini biz indi torpağın kimyəvi 
+xassələri adlandırırıq. Əkinçilik təcrübəsində kimyəvi mad-
+dələr torpağın yaxşılaşdırılması üçün tətbiq olunurdu. Məşhur 
+tarixçi-torpaqşünas İ.A.Krupenikov yazırdı ki, hələ bizim era-
+dan əvvəl II minilliyin başlanğıcında o zamanın inkişaf etmiş 
+ölkələri sayılan Assuriya, Vavilon və Şumerdə torpağın təkrar 
+şorlanmasına qarşı kimyəvi mübarizə tədbirləri aparılırdı. Elə 
+həmin zamanlarda Mərkəzi Amerika xalqları torpaq turşulu-
+ğunu azaltmaq üçün əhəngdən istifadə edirdilər. 
+11
+Qədim Roma əkinçiləri və filosofları şorlaşmış torpaqlar 
+haqqında məlumata malik idilər. Vergiliy (eramızdan əvvəl 
+70-19-cu illər) əkinçilik, bağçılıq, heyvandarlıq və arıçılıq 
+haqqında olan məşhur «Georgiki» poemasında yazırdı: «Tor-
+paq duzludur, ona görə də acı adlandırıblar». Daha sonra 
+qeyd edir ki, torpağın şorluğunu təyin etmək üçün onun su 
+çəkintisini hazırlayıb dadına baxmaq kifayətdir. Qədim yunan 
+alimi, «botanikanın atası» Teofrast (bizim eradan əvvəl 372-
+287-ci illər) gillicəli, gilli, qumsal torpaqlarla yanaşı duzlu 
+torpaqların da olması haqqında məlumat verirdi. 
+Bundan başqa o dövrün alimlərinə torpağın udma qabi-
+liyyəti və müxtəlif kimyəvi maddələrin tutulub saxlanması 
+haqqında bilgilər yaxşı məlum idi. Məşhur qədim yunan 
+filosofu Aristotel (b.e.ə.384-322-ci illər) torpaq vasitəsilə də-
+niz sularının duzlardan təmizlənməsi haqqında məlumatlar 
+verirdi. 
+Daha sonra Romanın filosof-materialisti Tit Lukretski 
+Kar (b.e.ə.99-55-ci illər) «Maddələrin təbiəti haqqında» poe-
+masında dəniz suyunun torpaq vasitəsilə duzlardan təmizlən-
+mə mexanizmini təsvir etmişdir.  
+ 
+«Harda ki, yerin yarıqlarından süzülüb sututarlara yığılır, 
+Harda ki, öz acı hissələrini torpağın altında qoyur, 
+Belə ki, çox asanlıqla torpağa yapışır, 
+Onda dəniz suyu şirin və içməli olur». 
+ 
+Əlbəttə, belə izahat müasir zaman üçün çox sadəlöv gö-
+rünə bilər. Lakin Tit Lukretski Karın fikrini yeni elmi termin-
+lə ifadə etsək ion mübadiləsinin mexanizmini asanlıqla təsəv-
+vür etmək olar. 
+12
+Afrikanın şimali-qərb bölgəsində yaşayan əhali torpağın 
+ion mübadiləsi qabiliyyətindən istifadə edərək, dəniz suyunun 
+təmizlənməsi məqsədilə istifadə etmələri haqqında çoxlu 
+məlumatlar mövcuddur. Təbaşir, əhəng və karbonatlı gildən 
+İngiltərə əhalisi 2000 il bundan əvvəl gübrə kimi istifadə edir-
+dilər. Romanın məşhur yazarı və naturalisti Böyük Pliniy (24-
+79-cu illər) «Təbiət tarixi» əsərində Böyük Britaniya adaların-
+da torpağa əhəngin tətbiqi qaydaları haqqında xüsusi qeydlər 
+etmişdir. O, torpağın xassələrindən asılı olaraq əhəngin altı 
+tipini müəyyənləşdirmişdir. Müəllif rütubətli torpaqlar üçün 
+qumsal əhəng, quru torpaqlar üçün «yağlı» əhəngin tətbiqini 
+məsləhət görür və bunlarla birlikdə peyinin verilməsini vacib 
+hesab edirdi. O, zaman torpağın qipsləşdirilməsi haqqında ve-
+rilmiş qanun indi də İngiltərədə öz qüvvəsini saxlamaqdadır. 
+XV-XVI əsrlərdən başlayaraq torpağın kimyəvi xassələ-
+ri haqqında daha dolğun məlumatlar formalaşdı və bu haqda 
+xüsusi ədəbiyyat nəşr olundu. 1850-ci ildə Fransada B.Palissi-
+nin «Əhəngli torpağı necə tanımalı» kitabı işıq üzü gördü. 
+Burada əhəngli torpaqların yayıldığı ərazilər və onların isti-
+fadə qaydası haqqında təlimatlar öz əksini tapmışdı. İngilis 
+filosof-materialisti və dövlət xadimi F.Bekon (1561-1626) 
+xalq təcrübələrinə istinad edərək, torpaqla doldurulmuş 20 
+ədəd qabdan dəniz suyunu süzərək, istifadə üçün yararlı ol-
+duğunu sübut etdi. Bunu torpağın udma qabiliyyəti haqqında 
+elmi-tədqiqat işi hesab etmək olar. Onun o zaman irəli sür-
+düyü fikir – «üç şey milləti böyük və firavan edər: münbit tor-
+paq, fəaliyyətli sənaye, əmlakın maneəsiz hərəkəti» indi afo-
+rizm kimi «Ağılın ensiklopediyası» kitablarında məşhurdur. 
+ 
+ 
+13
+XVIII-XIX əsrlərdə torpaq kimyasının inkişafı 
+ 
+Torpaq kimyası haqqında sistemli tədqiqat işləri XVIII 
+əsrə təsadüf edir. XVII əsrin sonraları XIX əsrin əvvəllərində 
+bu elmə aid tədqiqat işləri böyük vüsət aldı. Bu zaman üç 
+vacib problemin tədqiqatına alimlər daha çox fikir verirdilər: 
+1) torpaq humusu; 
+2) torpağın udma qabiliyyəti; 
+3) bitkilərin mineral qidalanma nəzəriyyəsi. 
+Bu haqda aparılan tədqiqat işlərindən ən əhəmiyyətlisi 
+F.Axarda (1786) məxsusdur. Hansı ki, qələvi məhlulu torpaq 
+və torfun üzərinə əlavə etməklə tünd-qonur rəngli cövhər al-
+mışdı. Sonra bu cövhərin üzərinə sulfat turşusu əlavə etdikdə 
+tünd-qara çöküntü alınmışdı. Sonralar alimlər bunu humin 
+turşusu adlandırdılar. F.Axardın həmin üsulu bəzi modifika-
+siyalar olunmaqla indi də öz əhəmiyyətini saxlamaqdadır. Bir 
+neçə on illərdən sonra L.Vokelenin qarağacın gövdəsindən 
+ayırdığı qələvi tərkibli cövhəri 1807-ci ildə T.Tomson ulmin 
+maddəsi adlandırdı («ulmus» – latınca qarağac deməkdir). 
+O zamanlar torpaqdan ayrılan tünd rəngli üzvi maddə-
+ləri əsasən bitkilərin qidalanmasında böyük rol oynayan hu-
+mus nəzəriyyəsi ilə əlaqələndirirdilər. Bu problem məşhur is-
+veç alimi İ.Valleriusun «Kənd təsərrüfatı kimyasının əsas-
+ları»(1761) kitabında daha ətraflı izah olunmuşdur. Alim belə 
+hesab edirdi ki, bitki üçün başlıca qida elementi humusdur və 
+torpağın digər tərkib hissələri bu maddənin bitkilər tərəfindən 
+udulmasında iştirak edirlər. Bu nəzəriyyəni Berlin Universi-
+tetinin professoru A.Teyer (1752-1828) daha geniş şəkildə 
+təbliğ etdi. Lakin Fransada J.B.Bussenqonun Almaniyada isə 
+Y.Libixin tədqiqatları göstərdi ki, belə müəkkəb üzvi maddə-
+14
+lərin bitkilər tərəfindən birbaşa mənimsənilməsi qəbul edil-
+məzdir. Lakin XX əsrin ortalarında bu problem ətrafında yeni-
+yeni diskussiyalar meydana gəldi. Belə ki, L.A.Xristevanın 
+həmin əsrin 30-40-cı illərində, həmçinin 60-70-ci illərdə 
+nişanlanmış C
+14
+ atomu ilə aparılan başqa tədqiqatlarda, yük-
+sək molekullu humin turşularının bitkiyə kök sistemi ilə daxil 
+olmasını mümkün hesab etdilər. 
+F.Axard və onun müasirlərinin tədqiqatları təkcə aqro-
+nomiya istiqamətli olmayıb, həm də müstəqil torpaq kim-
+yasına aid olan işlər içərisində xüsusi əhəmiyyət daşıyırdı. 
+Artıq XIX əsrin əvvəllərində o zamanlar çox da məlum olma-
+yan üzvi birləşmələr (humus turşuları) haqqında tam eksperi-
+ment xarakteri daşıyan tədqiqatlar seriyası meydana gəlmişdi. 
+Humus turşularının tərkibi, həll olması və başqa duz-
+larla qarşılıqlı təsiri haqqında müfəssəl tədqiqatlar İ.Dyober-
+ner (1822), K.Şprenqel (1826), Y.Bertselius (1855), Q.Mulder 
+(1860) tərəfindən aparılırdı. Bu zaman Bulle, Malahuti və 
+başqaları süni humin turşuları almaq üçün çox saylı təcrübələr 
+aparırdılar. 
+Xüsusi olaraq qed etmək lazımdır ki, XVIII əsrin sonu 
+XIX əsrin əvvəllərində torpağın kimyası dünyanın məşhur 
+kimyaçı alimlrinin diqqət mərkəzində idi. Bunların  sırasında 
+Y.Bertseliusun humus turşularının xassələri haqqında olan 
+tədqiqatları böyük əhəmiyyətə malik idi. 
+Yens Yakob Bertselius (1779-1848), bu isveç alimi 
+dövrünün ən böyük kimyaçılarından hesab edilirdi. O, dün-
+yanın bir çox akademiyalarının üzvü olmaqla, həm də Pe-
+terburq Elmlər Akademiasının da həqiqi üzvi idi. Bertselius 
+kimyəvi birləşmələrin elektrokimyəvi nəzəriyyəsini yaratmaq-
+la, çox böyük dəqiqliklə 50 elementin atom kütləsini təyin et-
+15
+mişdi. Alim həmçinin daimi və bölünən nisbətlər qanununu 
+təsdiqləmiş, elementlərin atom kütləsi cədvəlini tərtib etmiş 
+və bir sıra elementlər kəşf edərək, kimyəvi analizlərin yeni 
+metodlarını və lazım olan avadanlıqları yaratmışdır. O, kim-
+yəvi elementlərin simvolunu təklif etməklə yanaşı, onların no-
+menklaturasını vermişdir. Torpaq kimyasında böyük marağa 
+səbəb olan problemlərdən biri mineralların tədqiq olunma-
+sıdır. Belə ki, ilk dəfə Bertselius «silikat» terminini işlədərək, 
+silisiumlu mineralların tərkibində metal oksidləri ilə silisiu-
+mun 1:1, 1:2 və 1:3 olan nisbətlərini tərtib etmişdir. 
+Məhz bu imkan verdi ki, silikatları üç böyük qrupa ayır-
+maq mümkün olsun. Bu bölgü indi də öz əhəmiyyətini itirmə-
+mişdir. Bertseliusun işlərinin ikinci istiqaməti torpaqda humus 
+turşularının öyrənilməsinə həsr olunmuşdur. O, təbii sulardan 
+iki növ maddə ayıraraq birini «kren», digərini isə «apokren» 
+turşusu adlandırdı və oduncaqdan ayırdığı maddəyə isə humin 
+turşusu adını verdi. Bertselius yazdığı «Kimya» dərsliyində 
+humus maddələrinin kimyası bölməsində bitki qalıqlarının 
+çevrilməsi, humus turşularının ayrılması və bu turşuların kali-
+um, natrium, ammonium, barium, kalsium, maqnezium, man-
+qan, dəmir, qurğuşun, mis, civə və gümüşlə birləşmələri haq-
+qında dəyərli məlumatlar vermişdir. Lakin onu da təəssüflə 
+qeyd edək ki, müasir kimya dərsliklərində təbii üzvi bir-
+ləşmələr, yəni humus turşuları, haqqında şagirdlərə və 
+tələbələrə heç bir məlumat verilmir. 
+Torpaq kimyasının inkişafının ikinci ən mühüm mərhə-
+ləsi torpağın kation mübadiləsi qabiliyyətinin öyrənilməsi ol-
+du. İngilis fermeri Q.S.Tompson müəyyən etdi ki (NH4)2SO4 
+əlavə edilmiş torpağı su ilə yuyanda süzülən məhlulda CaSO4 
+duzu olacaqdır. Bu təcrübənin nəticələri 1850-ci ildə nəşr 
+16
+olundu. Tompson bu məlumatı Krallığın kənd təsərrüfatı cə-
+miyyətinin kimyaçısı C.T.Ueya verdi. Alim yubanmadan 
+1850-1852-ci illərdə tədqiqatlara başladı və nəticələri nəşr 
+etdirdi. C.T.Uey aşağıda göstərilən nəticələrə gəldi. 
+1. Torpağa əlavə edilmiş qüvvətli turşuların Na+, K+, 
+NH4
++
+ düzları torpaq tərəfindən udularaq məhlulda ekvivalent 
+miqdarda kalsium duzları yaranır və reaksiya bu cür gedir: 
+                                              K+ 
+(Torpaq)
+Ca2+
+         + 2KCl (Torpaq)K+   + CaCl2 
+ 
+2. Hidroksidlər və karbonatların tərkibində olan kation-
+lar torpaq tərəfindən tam udulur, torpaqdan kalsium və başqa 
+anionlar sıxışdırılıb çıxarılmır. 
+3. Qüvvətli turşuların kalsium duzları (nitratlar, xlo-
+ridlər və sulfatlar) torpaq tərəfindən udulmurlar. 
+4. Kationlar torpağın gil hissəcikləri tərəfindən udulur, 
+bu zaman qum və üzvi maddələrin heç bir rolu olmur. 
+5. Torpağın qızdırılması, yaxud hər hansı turşunun əla-
+və olunması kationların torpaq tərəfindən udulmasına mane 
+olur. 
+6. Udulma bir anda və çox tez baş verir. 
+7. Əlavə olunan duz məhsullarının qatılığı artdıqca tor-
+paq tərəfindən udulmuş kationların miqdarı da yüksəlir. 
+8. Udulmuş kationların dönməsi baş vermir. 
+9. Torpaq fosfatları udmaq qabiliyyətinə malikdir. 
+Əlbəttə, T.Ueyin gəldiyi nəticələrin hamısı təsdiq olun-
+madı. Belə ki, üzvi maddələrin torpaqdan kalsium kationunun 
+udulmasının inkarı tamamilə səhv idi. Belə mübadilə reaksi-
+yalarında hidrogen ionları iştirak edir ki, bu da karbonatların 
+tamamilə udulması haqqında təsəvvür yaradır. Buna baxma-
+yaraq Tompson və Ueyin apardıqları tədqiqat işləri indi də öz 
+17
+əhəmiyyətini itirməmişdir və onların torpağın kimyasına aid 
+olan tədqiqatları elmin müxtəlif sahələrində geniş tətbiq olu-
+nur. T.Ueyin işlərinin əhəmiyyəti o qədər böyükdür ki, 
+Kentukki ştatındakı (ABŞ) universitetin professoru Q.Tomas 
+onu «Torpaq kimyasının atası» adlandırmışdır. 
+Torpaqda ion mübadiləsi haqqında olan kəşf Ueyin mü-
+asirləri tərəfindən tam qiymətləndirilmədi. Hətta təcrübəli və 
+yüksək erudisiyaya malik Y.Libix də bu təcrübələrin düzgün 
+olduğuna inanmadı. İon mübadiləsinin yenidən öyrənilməsinə 
+30 il tələb olundu. Belə ki, 1877-1888-ci illərdə van Bemme-
+len sübut etdi ki, Ca
+2+
+ kationundan başqa, digər kationlar 
+torpaqdan duz məhlulları vasitəsilə sıxışdırılıb çıxarıla bilər. 
+Yakob-Marten van Bemmelen (1830-1911) məşhur 
+holland kimyaçısı olub, adsorbsiya təliminin əsasını qoyanlar-
+dandır. O, təbii cisimlərin kimyası haqqında geniş tədqiqatlar 
+apararaq, əsas obyekt kimi torpağı və suyu seçmişdir. Kolloid 
+sistemin əsas xassələrinə istinad edərək, Bemmelen torpağın 
+fiziki vəziyyətindən asılı olan udma qabiliyyətinin formalaş-
+masına xüsusi əhəmiyyət vermişdir. Onun fikrincə torpaqda 
+olan amorf kolloid maddələri dəyişən tərkibli olduğuna görə 
+stexiometrik qanunlara tabe olmurlar. Bu cür birləşmələri 
+Bemmelen adsorbsiyalı birləşmələr adlandırmışdır. 
+XIX əsrin əvvələrində torpağın əsası-turşu xassələri 
+haqqında təsəvvürlər inkişaf etməyə başladı. 1813-cü ildə 
+böyük ingilis alimi, London Kral cəmiyyətinin prezidenti 
+Hemfri Devinin (1778-1829) «Kənd Təsərrüfatı kimyasının 
+əsasları» adlı kitabı işıq üzü gördü. Bu kitabda Devi əhəngin 
+bərk bitki materiallarını həll etməklə, bitkilərin qidalanma 
+şəraitinin yaxşılaşdırılmasında və torpaq strukturunun yaran-
+masında xüsusi rolu olduğunu qeyd edirdi. O, turşu ilə torpağa 
+18
+təsir etməklə kalsium karbonatın təyin edilməsini təklif edirdi. 
+Amerika tədqiqatçısı E.Ruffin Amerika torpaqlarında bu üsul-
+dan istifadə edərək belə nəticəyə gəlmişdir ki, əhəngləmə tor-
+paq turşuluğunu neytrallaşdıra bilər. E.Ruffinin «Əhəngli 
+gübrələr haqqında etyüdlər» kitabında (1932) torpaq turşuluğu 
+haqqında maraqlı məlumatlar vardır. 
+Torpaq kimyasının inkişafının üçüncü istiqaməti bitki-
+lərin mineral qidalanma nəzəriyyəsidir ki, bu da Y.Libixin adı 
+ilə bağlıdır. Yustas fon Libix (1803-1873) torpaq kimyasının  
+nəzəri və təcrübi inkişafında çox böyük rolu olmuşdur. Libi-
+xin maraq dairəsi hərtərəfli idi. Belə ki, onu gah üzvi kimya, 
+gah  da qeyri-üzvi kimya mütəxəssisi kimi qələmə verirdilər. 
+Əslində isə onun fiziologiya, biokimya və aqrokimya sahə-
+sində olan fikirləri indi də öz əhəmiyyətini itirməmişdir. Belə 
+ki, Libix kalium və fosfor tərkibli duzların qumsal torpaqlarda 
+bitkilərə təsiri haqqında saysız-hesabsız təcrübələr aparmışdır. 
+Onun 1940-cı ildə nəşr etdirdiyi «Üzvi kimyanın əkinçilik və 
+fiziologiyaya tətbiqi» kitabında göstərir ki, bitkilərin inkişafı 
+üçün nəinki karbon, oksigen, hidrogen, azot lazımdır, həmçi-
+nin fosfor, kalium, kalsium, kükürd, maqnezium, dəmir, hətta 
+silisium da vacibdir. Libix aqrokimyanın nəzəri problemlərini 
+öyrənməklə kifayətlənmədi, natrium və kalium karbonatın əri-
+dilməsi əsasında süni gübrələr hazırladı. Libixin çəkdiyi zəh-
+məti təkcə bitkilərin mineral qidalanmasına və gübrələrin tət-
+biqinə aid etsək insafsızlıq olardı. Belə ki, onun işlərinin tor-
+paq kimyasının inkişafına böyük təsiri oldu. Xüsusilə ele-
+mentlərin bitki orqanlarına daxil olması bu elementlərin tor-
+paqda hərəkət mexanizmi, «torpaq-torpaq məhlulu» sistemin-
+də kimyəvi tarazlığın öyrənilməsində böyük rol oynadı. 
+19
+Rusiyada torpaq kimyasının öyrənilməsi barədə tədqi-
+qatlar əsasən XVII əsrə aiddir. Burada M.V.Lomonosovun 
+(1711-1765) xidmətlərini xüsusi olaraq qeyd etmək lazımdır. 
+Onun elmi ədəbiyyata gətirdiyi «qara torpaq» termini nəinki 
+torpaqların təyini edilməsində, həm də «çürüntü»nün sinonimi 
+kimi də istifadə edilir. M.V.Lomonosov çürüntünün əmələ 
+gəlməsini izah etmiş və onun torpaqda toplanma sxemini təs-
+vir etmişdir. Torpaqda üzvi maddələrlə yanaşı, düzların top-
+lanması və münbitliyin yaranmasında rolunu müəyyənləşdir-
+mişdir. Onun ideya və planları əsasında 1755-ci ildə Moskva 
+Dövlət Universiteti yaradıldı. Heç də təsadüfi deyildir ki, bu 
+ali məktəb ocağında aqronomik-torpaq tədqiqatlarının başlan-
+masını 1770-ci ildən hesablayırlar. Hansı ki, bu haqda müha-
+zirəni professor M.İ.Afonin (1739-1810) deyirdi. Bu alim tor-
+pağın kimyəvi xassələrinə xüsusi diqqət verirdi. O, humusun 
+əmələ gəlmə mexanizmini «ot və bitki» qalıqlarına suyun, at-
+mosfer havasının və torpaqda yaşayan canlı orqanizmlərin tə-
+siri ilə baş verdiyini izah edirdi. «Qaratorpaq»ları təsnif edər-
+kən onların yüksək turşuluğunu göstərir və yandırılmış torfun 
+çox yaxşı gübrə kimi istifadə olunmasını məsləhət bilirdi. 
+XIX əsrin əvvəllərində Qərbi Avropa tədqiqatçıları ilə 
+demək olar ki eyni zamanda, bitkilərin humus və mineral 
+maddələrlə qidalanması haqda aparılan təcrübələr torpaq kim-
+yasını daha da inkişaf etdirdi. Belə ki, 1825-ci ildə Moskva 
+Universitetinin professoru M.Q.Pavlovun (1793-1840) «Əkin-
+çilik kimyası», 1837-ci ildə isə «Kənd təsərrüfatı kursu» adlı 
+kitabları buna gözəl sübut idi. 
+Torpaq humusunun kimyəvi tərkibi haqqında ilk dərin 
+tədqiqatlar həmin universitetin kimyaçısı R.Germana məx-
+susdur. Hansı ki, öz sələfləri və müasirləri Bertselius və Mul-
+20
+derlə müqayisədə çox irəli getmişdir. O, torpağın kimyəvi 
+tədqiqatlarını daha da təkmilləşdirdi. Daha doğrusu əvvəlcə 
+təklif olunan humus maddələrinin 195
+0
+C-də qurudulmasını 
+(belə temperaturda humusun strukturu pozulurdu) 100
+0
+C-də 
+aparmağı məsləhət gördü. Alim qaratorpaqların humusunu 
+xarakterizə etmək üçün su çöküntüsündən və natrium karbo-
+nat məhlulundan istifadə etdi. Bundan başqa o, həll olmayan 
+torpaq qalıqlarında karbonun miqdarını təyin etməyi lazım 
+bilirdi. Məhz bu təyin etmə humusun keyfiyyət tərkibinin 
+müasir üsulla öyrənilmə metoduna çox yaxın idi. R.Germanın 
+tədqiqatlarının nəzəri nəticələrinə humus maddələrinin müxtə-
+lif növlü olması və humuslaşmış üzvi maddələrin təsnifatında 
+üç yeni sinifli birləşmələrin müəyyən edilməsi idi: 
+a) çürüntü məhsulları; 
+b) kömür əmələgəlmə prosesi məhsulları; 
+c) bitki qalıqlarında vulkanik kül məhsulları. 
+Humusun tərkibində azotun oynadığı konstitusion rol 
+ideyası da məhz A.Germana məxsusdur. Hansı ki, Mulder 
+azotun humus maddələri tərkibində yalnız ammonium forma-
+sında olduğunu təkid edirdisə, German azotun oksigenlə birlə-
+şib kovalent rabitə yaratdığını sanballı dəlillərlə sübut edirdi. 
+O, təcrübələrdə izah edirdi ki, uzun müddət əkilib-becərilən 
+qaratorpaqlarda çürüntünün miqdarı xam torpaqla müqayisədə 
+17-25% azalır. R.Cerman  humusdan əlavə bu torpaqlarda si-
+lisiumun, dəmir oksidlərin, əhəngin, maqneziumun, rütubətin 
+və fosfor turşularının miqdarını da təyin etmişdi. 
+Torpağın mənşəyi məsələsinin həllində, qanunauy-
+ğunluqların müqayisəsində, coğrafi yayılmalarında, düzgün 
+istifadə olunmasında genetik torpaqşünaslığın əsasını qoyan 
+V.V.Dokuçayev (1846-1903) onun kimyəvi xassələrindən ge-
+21
+niş istifadə etmişdir. Onun əsərlərində qaratorpaqlar, eləcə də 
+digər torpaqların kimyəvi tərkibi haqqında ətraflı məlumatlara 
+rast gəlmək olar. O, torpaqda üzvi maddələrin miqdarından 
+başqa K2O, Na2O, CaO, MgO, Mn2O3, Fe2O3, Al2O3, CO2, N, 
+P2O5, SO3 oksidləri və NaCl, CaCO3 duzları haqqında qiy-
+mətli məlumatlar vermişdir. Bu torpaq analizləri əsasən 
+Petrov əkinçilik və meşəçilik akademiyasında, həmçinin 
+D.İ.Mendeleyevin rəhbərliyi altında Peterburq Universitetinin 
+laboratoriyalarında aparılırdı. 
+D.İ.Mendeleyevin (1834-1907) kənd təsərrüfatı prob-
+lemlərinə böyük marağı olduğunu xüsusi qeyd etmək lazım-
+dır. Bu öz əksini onun kənd təsərrüfatı obyektlərində apardığı 
+çox saylı və müxtəlif kimyəvi analizlərində, qoyduğu tarla 
+təcrübələrində və V.V.Dokuçayevin Universitetdə Torpaqşü-
+naslıq kafedrasının yaradılması təşəbbüsünün qatı tərəfdarı ol-
+masında göstərmişdi. Heç də təsadüfi deyildir ki, Dokuçayev 
+öz əsərlərində həmişə Mendeleyevin işlərində olan nəticələrə 
+istinad etmişdir. Torpaqda çoxlu sayda kimyəvi analizlər apa-
+ran Mendeleyev belə nəticəyə gəlir ki, dəqiq təhlillərdən müx-
+təlif təsadüflər gözləmək olur. 
+ 
+ 
+XX əsrdə və XXI əsrin ilk onilliyində 
+aparılan tədqiqatlar 
+ 
+XX əsrin əvvəllərində torpaq kimyası istiqamətində çox 
+iri həcmli işlər aparıldı. Bunlara torpaq turşuluğu problemini, 
+torpağın udma qabiliyyəti məsələlərini, torpaq məhlulu haq-
+qında olan tədqiqatları, humifikasiya prosesinin kimyəvi və 
+biokimyəvi əsaslarını aid etmək olar. 
+22
+Torpaq tərşuluğunun təbiəti haqqında Amerika alimi 
+T.P.Veyts (1904) və Yapon alimi Q.Daykuxara (1914) mü-
+kəmməl tədqiqat işləri aparıb və nəşr etdirmişdilər. Bu alim-
+lərin tədqiqatlarının nəticələri indi də müzakirə obyekti hesab 
+edilir. Məşhur rus alimi V.A.Çernov da (1901-1960) torpaq 
+turşuluğu haqqında fundamental tədqiqatlar aparmışdır. Onun 
+«Torpaq turşuluğunun təbiəti» barədə yazdığı kitabında çox 
+məharətlə apardığı kimyəvi analizlərlə sübut etmişdir ki, turş 
+torpaqların əksəriyyətində mübadiləvi Al
+3+
+ üstünlük təşkil 
+edir, mübadiləvi H
++
+ isə yüksəkhumuslu və torflu torpaqlar 
+üçün xarakterikdir. 
+V.A.Çernovun tədqiqatlarının ikinci mühüm istiqaməti 
+torpaqda olan duzların diffuziya prosesi ilə əlaqəli hərəkəti 
+hesab edilir. Onun işləri ilə sübut olunmuşdur ki, FİK qanunu-
+nu birbaşa torpaqda ionların diffuziya prosesinə tətbiq etmək 
+mümkündür. Bunu torpaqda Cl
+-
+ və NO3
+-
+ anionlarının timsa-
+lında daha yaxşı başa düşmək olur. 
+Torpağın udma qabiliyyətinə Aleksey Nikolayeviç Sa-
+banin də (1847-1920) çox maraqlı tədqiqatlar həsr etmişdir. 
+Onun maraq dairəsi çox geniş idi. Belə ki, torpağın istilik xas-
+sələrinin kimyəvi tərkibinə təsiri haqda və humin turşularının 
+öyrənilməsində alimin xidmətləri misilsizdir. Onun torpağın 
+qranulometrik tərkibinin və humusun təyini haqda olan modi-
+fikasiyaları indi də istifadə olunur. 
+Böyük torpaqşünas, aqrokimyaçı, fiziko-kimyaçı alim 
+olan Konstantin Kaetanoviç Hedroyts (1872-1932) torpağın 
+kimyəvi analiz üsullarını və ümumiyyətlə torpaq kimyasının 
+fundamental əsaslarını yaratdı. O, 1897-ci ildə Peterburq Me-
+şəçilik İnstitutunu, 1903-cü ildə isə Peterburq Universitetini 
+vaxtından əvvəl bitirmiş və hərtərəfli təhsil almışdır. Onun ilk 
+23
+tədqiqatı torpaq məhlulunun qatılığı və temperaturuna həsr 
+olunmuşdu. Hedroyts torpağın kimyəvi xassələrini idarə et-
+məklə, onun münbitliyini yüksəltmək və kənd təsərrüfatı 
+bitkilərinin keyfiyyətini, məhsuldarlığını artırmağa cəhd edir-
+di. K.K.Hedroyts 1908-ci ildən başlayaraq torpaqşünaslıqda 
+kolloidlər kimyasının məsələlərinə dair silsilə əsərləri nəşr 
+etdirdi. 1922-ci ildə isə «Torpağın udma qabiliyyəti haqqında 
+təlim» kitabını nəşr etdirməklə bütün dünya elminə öz töh-
+vəsini verdi. O, bu əsərində torpağın udma qabiliyyətinin mü-
+kəmməl təsnifatını verdi və təcrübələri ilə udulmanın mühüm 
+qanunauyğunluqların çoxu torpaq kimyasında əsas qanunlara 
+çevrildi. Məsələn, 1911-ci ildə onun nəşr olunmuş bir məqa-
+ləsində belə maraqlı problem müzakirəyə verilmişdi: «Fos-
+foritlər hansı torpaqda yaxşı təsir göstərir? Əsaslarla doymuş, 
+yaxud doymamış torpaqlarda?» Məhz bu problemin həllini 
+torpağın verdiyi iqtisadi səmərəliliklə əlaqələndirirdi. Hansı 
+ki, biz indi anlayırıq, əsaslarla doymamış torpaqlar potensial 
+turşuluğa malikdirlər. Hedroytsin işlərinin analizi göstərir ki, 
+təcrübə ilə sıx əlaqə nəzəri problemlərin həllini sürətləndirir 
+və təbiətdə yeni qanunauyğunluqların kəşfinə səbəb olur. 
+Torpağın gübrələrə tələbatı problemlərinin həllində, 
+müxtəlif qida elementlərinin bitkilərə daxil olması və kimyəvi 
+meliorasiya haqqında Hedroytsin misilsiz xidmətləri olmuş-
+dur. O, 1925-ci ildə torpaq təsnifatının prinsiplərini udulmuş 
+kationların tərkibinə və torpağın uducu kompleksinin xüsusiy-
+yətlərinə görə əsaslandıra bildi. Şoranların genezisinin fiziki-
+kimyəvi hipotezini işlədi. Mübadiləvi kationların bitkilərə 
+təsirini öyrənərək, nəinki ənənəvi makroelementləri – Ca, Mg, 
+Na, K, H, Al, həm də mikroelementlərə və ağır metallara aid 
+olan – Pb, Cu, Cd, Ba, Sr, Co, Ni, Mn, Fe təsir mexanizmini 
+24
+araşdırdı. Bu işləri ilə Hedroyts torpaqda mikroelementlərin 
+və ağır metalların normalaşdırma metodologiyasının əsasını 
+qoydu, hansı ki, bu XX əsrin 50-70-ci illərində torpaq kim-
+yasında böyük problem hesab edilirdi. 1923-cü ildə işıq üzü 
+görən «Torpaqların kimyəvi analizi» kitabı torpaq və aqro-
+kimyəvi laboratoriyaların stolüstü kitabına çevrildi. Baxmaya-
+raq ki, indi müasir, təkmilləşmiş analiz avadanlıqları və üsul-
+ları mövcuddur, yenə də Hedroytsın bu kitabı torpaqşünas-
+ların daima istifadəsindədir. 
+XX əsrin ilkin onilliklərində isveçrə alimi Q.Viqner 
+(1883-1935) və isveç alimi S.E.Matson (1886-1945) torpağın 
+kolloid kimyasına və ion mübadiləsinə aid nəzəriyyələrin 
+inkişaf etdirilməsində böyük xidmətləri olmuşdur. 1912-ci il-
+də Viqner torpaqda ion mübadiləsinə aid ilk məqaləsini nəşr 
+etdirir və bundan sonra özünün bütün ömrünü torpaqda kollo-
+id sistemin xassələrini və kationların mübadiləsi qanunauy-
+ğunluqlarnın öyrənilməsinə həsr etmişdir. O, ionmübadiləsin-
+də ekstramitsel və intramitsel ideyalarını inkişaf etdirərək, 
+suspenziya effektini (Viqner effekti) tədqiq etmiş, torpaq 
+kolloidlərinin pıxtalaşma prosesinin riyazi analizini vermişdir. 
+S.E.Matsonun işlərinin əsasını torpaqların kolloid siste-
+mində asidoidlər, bazoidlər və amfolitoidlərin rolu təşkil edir. 
+Matson hesab edirdi ki, bu çür yanaşma «iki tip aşınmanın 
+podzol və laterit tipli torpaqların yaranması ilə nəticələnir». 
+Viqner və Matsonun bu cür baxışları torpaq kimyasının xüsusi 
+bölməsi sayılan kolloidlər və kationların mübadiləsi problemi-
+nin həllində böyük rol oynadı. 
+Yevgeni Nikitiç Qapon (1904-1950) – torpaqların fizi-
+ki-kimyəvi problemlərinin öyrənilməsində böyük mütəxəssis 
+hesab edilir. Onun atmosfer azotunun fiksasiya olunması və 
+25
+torpaq kolloidlərinin quruluşu haqqında çox original işləri 
+olubdur. Ən məşhur tədqiqatı torpaqda ion mübadiləsinin qa-
+nunauyğunluqları hesab edilir. O, torpaqda kationların müba-
+diləsinin izoterm xarakterini izah etmiş və dünya alimləri tərə-
+findən qəbul edilmiş tənlik (Qapon tənliyi) təklif etmişdir. 
+İvan Nikolayeviç Antipov-Karatayev (1888-1965) tor-
+paq kimyası və fiziki-kimyası sahəsində ən görkəmli tədqi-
+qatçı kimi qəbul edilmişdir.  
+Şorlaşmış torpaqların kimyəvi meliorasiyasının əsasını 
+qoyanlardan hesab edilir. Kationların torpağın uducu komp-
+leksi ilə qarşılıqlı reaksiyalarında adsorbsiya və xemosorbsiya 
+hadisələrinə Antipov-Karatayev çox böyük əhəmiyyət verirdi. 
+Qələvi və qələvi-torpaq metallarından başqa bu prosesdə Hg, 
+Cu, Pb və başqa ağır metalların da rolunu öyrənmişdir. Anti-
+pov-Karatayev torpaqda elektrodializ və elektroliz metodlarını 
+yenidən işlədi və dinamik şəraitdə adsorbsiya prosesinin öyrə-
+nilməsinin original metodikasını təklif etdi. Torpaq məhlulu-
+nun ayrılma üsulları, rentgenquruluşu və termiki təhlilləri 
+birbaşa onun adı ilə bağlıdır. 
+Antipov-Karatayev ion mübadiləsində torpaq kolloidlə-
+rinin peptizasiyası və koaqulyasiyasını tədqiq edərək, aqrono-
+miki qiymətli strukturanın yaranmasının nəzəri həllini gös-
+tərdi. Şoranların mənşəyinin və coğrafi yayılmalarının nəzəri 
+əsaslarını işləyərək, təsnifatını və diaqnostikasını müəyyənləş-
+dirdi və buna müvafiq dəmyə və suvarılan torpaqlarda melio-
+rativ üsullar təklif etdi. 
+Bu işlərin yekunu olaraq 1953-cü ildə onun elmi redak-
+təsi ilə «Şoranların meliorasiyası» monoqrafiyası nəşr olundu. 
+Nil Petroviç Remezov (1899-1961) çox hərtərəfli və 
+qabiliyyətli alim idi. Torpaqda oksidləşmə-reduksiya proses-
+26
+lərinin öyrənilməsini yetərincə inkişaf etdirmişdir. Torpaqla-
+rın genezisinə və elementlərin bioloji dövranına aid 100-dən 
+artıq elmi əsərlər onun qələminin məhsuludur. Onun element-
+lərin bioloji dövranı haqqında tədqiqatları dünya alimləri tərə-
+findən qəbul edilmiş və torpaqşünaslıq elmində yeni istiqamət 
+sayılmışdır. Bundan başqa N.P.Remezov torpağın turşulu-
+ğunu, buferlik qabiliyyətini, oksidləşmə-reduksiya xassələrini, 
+əhənglənməsini, üzvi maddələrinin tərkibini, mübadilə kation-
+larını və s. tədqiq etmişdir. Torpaq kimyasına qarşı marağını o 
+ömrünün sonunadək saxlamışdır. Remezovun 1957-ci ildə işıq 
+üzü görən «Torpaq kolloidləri və torpağın udma qabiliyyəti» 
+monoqrafiyası indi də öz əhəmiyyətini saxlamaqdadır. 
+Evdokiya Vasilyevna Arinuşkina (1899-1994) elm 
+aləmində məşhur kimyaçı-torpaqşünas kimi qəbul edilmişdir. 
+Onun tədqiqatları əsasən torpaq mikroelementlərinin öyrənil-
+məsinə və torpağın kimyəvi analizlərinin sistemləşdirilməsinə 
+həsr edilmişdir. Torpaq-bitki sistemində mikroelementlərin 
+vəziyyəti, birləşmə formaları və dinamikası onun işlərinin 
+əsasını təşkil edirdi. 1949-cu ildə nəşr olunmuş «Torpaq və 
+qruntların kimyəvi analiz üsulları» tədqiqatçıların və tələ-
+bələrin stolüstü kitabına çevrildi. 
+İvan Serqeyeviç Kauriçyev torpaqda N.P.Remezov 
+tərəfindən başlanılmış oksidləşmə-reduksiya proseslərinin 
+tədqiqi suvarma və meliorasiya işlərinin geniş inkişafı ilə əla-
+qədar olaraq professor Kauriçyev iki aspektdə daha da təkmil-
+ləşdirdi. Birincisi oksidləşmə-reduksiya rejimini tiplərə ayır-
+maqla onun torpağın xassələrinə və elyuvial-qleyli proseslərin 
+inkişafına təsirini müəyyənləşdirmək oldu. Məhz onun bu 
+istiqamətdə apardığı tarla və laboratoriya tədqiqatları əsaslı 
+nəzəri nəticələrlə yekunlaşdı. İlk dəfə İ.S.Kauriçyev oksidləş-
+27
+mə-reduksiya rejiminə görə torpaqları qruplaşdırdı və elyuvi-
+al-qleyli prosesin konsepsiyası əsasında bir sıra torpaq forma-
+larını təklif etdi. 
+Onun işlədiyi ikinci aspekt isə oksidləşmə-reduksiya 
+şəraitinin dəyişkən valentli kimyəvi elementlərin transforma-
+siyasına təsiri oldu. Kauriçyev və onun yetirmələri torpağın 
+oksidləşmə-reduksiya potensialı ilə oksidləşmə vəziyyətində 
+olan elementlərin əmələ gətirdikləri birləşmələrin mövcud 
+olma sərhədinin son həddini və reaksiya tiplərinin oksidləşmə 
+potensialının dəyişməsi ilə əlaqəli olduğunu sübut etdilər. Bu 
+tədqiqatlar bir çox kimyəvi elementləri, o cümlədən Mn, Fe, 
+S, N, Cu, Cr, Se və fosfor birləşmələri, üzvi birləşmələri əhatə 
+edirdi. Tədqiqatların nəticələri imkan verdi ki, kimyəvi mad-
+dələrin tətbiqi və aqrotexniki tədbirlərin həyata keçirilməsi 
+oksidləşmə şəraitinə uyğun nizamlansın. İ.S.Kauriçyev bir 
+çox xarici ölkə alimlərinin və özünün bu sahədə olan tədqiqat-
+larını ümumiləşdirərək «Oksidləşmə-reduksiya proseslərinin 
+torpağın genezisində və münbitliyində rolu» monoqrafiyasını 
+nəşr etdirdi. 
+Bu kitabın müəllifi iki dəfə professor İ.S.Kauriçyev işlə-
+diyi TKTA-da müəllimlərin təkmilləşdirilməsi kursunda ol-
+muş və onun maraqlı mühazirələrini dinləmişdir. Onun ok-
+sidləşmə-reduksiya prosesləri haqqında olan mühazirələrində 
+başqa qruplardan da çoxlu dinləyici iştirak etdiyinə görə otur-
+mağa yer tapılmırdı. Professor Kauriçyevin redaktəsi ilə dəfə-
+lərlə təkrar nəşr olunmuş «Torpaqşünaslıq» dərsliyini bütün 
+dünya torpaqşünasları qəbul etmiş və uyğun ali məktəblərdə 
+indi də tədris edilir. Hər dəfə kursu bitirərkən mənim buraxılış 
+işimin elmi rəhbəri professor İ.S.Kauriçyev olmuşdur. O, 
+28
+gözəl insan, qayğıkeş müəllim və təkraredilməz alim idi. Hər 
+bir dinləyiciyə fərdi yanaşmağı bacarırdı. 
+Serqey Vladimiroviç Zonn (1902-2002) çox dərin bi-
+likli, hərtərəfli tədqiqatçı, aktiv alim və elmin yorulmaz təş-
+kilatçısı idi. Meşə və tropik torpaqşünaslığın nailiyyətləri 
+onun adı ilə bağlıdır. Bütün materiklərin torpaqları haqqında 
+olan dərin biliyi əsasında təsnifat, coğrafiya, genezis və tor-
+paqəmələgəlmənin mexanizmi haqqında original hipotezlər 
+irəli sürdü. O, tarla təcrübələri vasitəsilə bir sıra duzların tor-
+pağın uducu kompleksindən mübadiləvi natriumun çıxarılma-
+sı mexanizmini işlədi: 
+CaC2<CaSO4<Al(SO4)3K2SO424H2O<FeSO4 
+Bu tədqiqatlar şoranlar haqqında aparılan sonrakı çox-
+saylı elmi işlərin başlanğıcı oldu. S.V.Zonn torpaq kimya-
+sında ayrı-ayrı elementlərin roluna aid monoqrafiyalar yazdı. 
+Məsələn, 1982-ci ildə «Dəmirin torpaqda rolu» və 1992-ci 
+ildə isə «Alüminiumun torpaqəmələgəlməsində rolu və bitki-
+lərə təsiri» kitabları işıq üzü gördü. 
+İvan Vladimiroviç Tyurin (1892-1962) görkəmli tor-
+paqşunas-genetik və torpaqşünas-kimyaçı idi. O, torpağın üz-
+vi maddələri haqqında olan baxışlar sistemini yaratdı və hu-
+musu təbiətin yüksək molekullu maddələr qrupuna aid edərək, 
+onun əmələgəlməsini bioloji proseslərlə əlaqələndirdi. 
+V.İ.Tyurin torpaqda karbonun və azotun üzvi birləş-
+mələrinin təyinedilmə metodunu işlədi. İndi də bütün dünya 
+laboratoriyalarında torpaqda humusu onun metodikası ilə tə-
+yin edirlər. O, torpaqda azot fondunun istifadəsinin mühüm 
+prinsiplərini formalaşdırdı. 1927-ci ildə Vaşinqton şəhərində 
+keçirilən ümumdünya torpaqşünaslar cəmiyyətinin I Beynəl-
+xalq konqresində torpaq kimyasına aid çox sanballı məruzə ilə 
+29
+çıxış etdi. Onun «Torpağın üzvi hissəsi və onun torpaqəmə-
+ləgəlməsində, münbitliyin yaranmasında rolu» monoqrafiyası 
+torpaqda üzvi maddələrin mənbəyinə və humuslaşma prose-
+sinə həsr olunmuşdur. Tyurin öz yetirmələrilə ilk dəfə olaraq 
+humusun fraksion tərkibini və torpaq humusunun keyfiyyət 
+xüsusiyyətlərini müəyyənləşdirdi. Onlar torpaq humusunun 
+başlıca komponentlərinin humin turşuları, fulvoturşuları və 
+huminlər olduğunu sübut etdilər. Məhz bu konsepsiya əsasın-
+da aydınlaşdı ki, torpaq humusunun tərkibinin dəyişilmə qa-
+nunauyğunluğu torpaq tiplərindən asılıdır. Tyurin müəyyən-
+ləşdirdi ki, humin turşularının fulvo turşularına nisbəti 
+(Cht:Cft) torpaqəmələgəlmə amili kimi çıxış edir. Bu turşuların 
+nisbəti torpaq diaqnostikasının və təsnifatının əlaməti kimi 
+qəbul edildi. 
+Mariya Mixaylovna Kononova (1898-1979). Torpağın 
+üzvi maddələri haqqında ən görkəmli tədqiqatçı hesab edilir. 
+Onun apardığı elmi işlərin yekunu «Torpağın humus problemi 
+və onun öyrənilməsinin müasir məsələləri» monoqrafiyasında 
+öz əksini tapmışdır. Eləcə də, başqa bir monoqrafiyası «Tor-
+pağın üzvi hissəsi, onun təbiəti, xassələri və öyrənilmə üsul-
+ları» humuslaşma prosesinin yaranma sxeminə həsr edilmiş-
+dir. Sxemdə əsasən ilkin bitki qalıqlarının heyvanların və mik-
+roorqanizmlərin təsiri ilə çevrilmə mərhələləri təsvir edilmiş-
+dir. Kononovanın bu baxışları bütün dünya ölkələrinin alim-
+ləri tərəfindən qəbul edilmişdir. Onun tədqiqatlarının xarakte-
+rik xüsusiyyətlərinin əsasını coğrafi qanunauyğunluqlar prob-
+leminin həlli və humus əmələgəlməsinin biokimyası təşkil 
+edirdi. M.M.Kononovanın kitabları dövlət mükafatına layiq gö-
+rülmüş və İngiltərə, Almaniya, Polşa, Yaponiya, Çin və başqa 
+ölkələrdə nəşr olunmuş və bir çox dillərə tərcümə edilmişdir. 
+30
+Vera Vladimirovna Ponomaryeva (1908-1978) – 
+müxtəlif tip torpaqların tərkibinin, xassələrinin, humusun 
+miqdarının genezis və münbitliklə hansı rabitədə olma təlimi-
+nin əsasını yaratdı. O, qara, şabalıdı, boz-meşə, qonur-meşə, 
+podzol və başqa torpaq tiplərində profildə humusun formalaş-
+ma prosesini öyrənmişdir. Torpaqəmələgəlmənin mahiyyətin-
+də biokimyəvi təsvirlərin inkişafına əsaslanaraq, podzol əmə-
+ləgəlmə prosesinin original konsepsiyasını irəli sürdü. Pono-
+maryevanın metodiki işləri dünya mütəxəssisləri tərəfindən 
+rəğbətlə qarşılanmışdır. Humusun qrup və fraksiyalar üzrə tər-
+kibinin təyin olunma metodları indi də tədqiqatçılar tərəfindən 
+çox geniş istifadə olunur. 
+Lyudmila Nikolaevna Aleksandrova (1908-1983). 
+Torpaqda üzvi-mineral maddələrin qarşılıqlı təsir mexanizmi 
+haqqında fundamental tədqiqatlar aparmışdır. O, humus mad-
+dələrinin metal kationlara, hidroksidlərlə, alümosilikatlarla 
+qarşılıqlı təsir nəzəriyyəsini işləyərək, humus turşularnın üzvi-
+mineral təsnifatını yaratdı. Daha sonra humin maddələrinin 
+torpaqda bərkimə mexanizmini aydınlaşdırdı. 1966-cı ildə 
+Aleksandrova humuslaşma prosesində yeni hipotez irəli sür-
+dü. Bunun mahiyyətində turşuların yaranması azotlu molekul-
+ların formalaşması və yeni humus turşularının transformasiya-
+sı dururdu. Çoxillik nəzəri və eksperimental təcrübələrin ye-
+kunu olaraq 1980-ci ildə «Torpağın üzvi maddələri və trans-
+formasiya prosesləri» monoqrafiyası mütəxəssislərin töhvəsi 
+oldu. 
+Yan Voldemaroviç Peyve (1906-1976) – torpaqşünas-
+lıqda yeni mikroelementlərin biokimyası istiqamətinin əsasını 
+qoymuşdur. 
+31
+Hələ 30-cu illərdə bor, mis və başqa mikroelement-
+lərinin kətan bitkisinin məhsuldarlığına təsirini öyrənmişdi. 
+Bu problemin ən aktiv işlənmə dövrü 1946-1958-ci illərdə 
+onun yaratdığı torpağın biokimyası və mikroelementləri labo-
+ratoriyasında oldu. Y.V.Peyve mikroelementlərin profildə ya-
+yılmasını və miqdarını, torpaq əmələgəlmə prosesi və kimyəvi 
+elementlərin xüsusiyyətləri ilə əlaqələndirirdi. Bunun əsasında 
+isə torpaqda mikroelementlərin idarəolunma qanunauyğunluş-
+darını aydınlaşdırdı. Bütün bu işlərin yekunu «Torpağın 
+biokimyası» monoqrafiyasında öz əksini tapdı. Bundan başqa 
+Y.V.Peyve torpaqda mütəhərrik kalium birləşmələrinin, alü-
+miniumun, humuslu maddələrin və bir çox mikroelementlərin 
+təyin edilməsinin yeni metodları torpaq kimyası elminə töhvə 
+verdi. 
+Bu dövrlərdə alimlər torpaqda mikroelementlərin bitki-
+lər üçün vacib olan forma və miqdarının təyini üsullarını öy-
+rəndilər. Xüsusilə torpaq profilində mikroelementlərin müx-
+təlif birləşmələrini, miqrasiya və akkumulyasiya qanunauy-
+ğunluqlarının öyrənilməsi torpaq kimyasının inkişafına böyük 
+təkan verdi. 
+Ümumiyyətlə, XX əsr və XXI əsrin birinci onilliyində 
+Moskva Dövlət Universitetində kimyaçı-torpaqşünasların bu 
+elmin inkişafında böyük xidmətləri olmuşdur. Bunlardan 
+N.Q.Zırin, M.A.Qlazovskaya, V.Q.Mineyev, F.A.Tixomirov, 
+D.S.Orlov, L.A.Qrişina, Q.V.Dobrovolski, Q.V.Motuzova, 
+L.K.Sadovnikova və başqalarını göstərmək olar. 
+ 
+ 
+ 
+32
+Azərbaycanda torpaq kimyasının inkişafı 
+ 
+Azərbaycanın elmi tarixində xüsusi yer tutan Həsən bəy 
+Zərdabi (1837-1907) öz elmi dünyagörüşünün çoxşahəli ol-
+ması ilə fərqlənir. O, XIX əsrin ikinci yarısı və XX əsrin 
+əvvəllərində Azərbaycanda torpaqşünaslıq haqqında bir sıra 
+elmi məsələləri əsil alim kimi inkişaf etdirmişdir. Onun torpaq 
+haqqındakı fikirləri öz dövründəki torpaqşünaslıq elminin 
+yüksək səviyyəsində yazılmış, elmin müasir nailiyyətləri sıra-
+sında mühüm əhəmiyyət kəsb edir. H.M.Zərdabinin torpaq-
+şünaslıq haqqındakı fikirləri əsasən torpaq kimyası bölməsini 
+əhatə etməklə, dağ süxurlarının aşınma prosesindən, torpaq-
+əmələgətirən amillərin rolundan, elementlərin torpaq əmələ-
+gəlmə prosesində iştirakından, torpağın fiziki-kimyəvi xüsu-
+siyyətlərindən, münbitliyindən, torpaq analizlərindən, əlveriş-
+siz torpaqları yaxşılaşdırmaq üçün müvafiq tədbirlərdən 
+(qranulometrik tərkibi dəyişmək, şoran torpaqların meliora-
+siyası, bataqlıq torpaqları yaxşılaşdırmaq, torpaq eroziyasının 
+qarşısını almaq, meşə meliorasiyası və s.), daha sonra torpağın 
+aqroistehsalat keyfiyyətindən, növbəli əkin sistemini tətbiq et-
+məklə torpağı qida elementləri ilə zənginləşdirmək üçün düz-
+gün şumlamadan, peyin, quş zılı, çay lili və s. ilə gübrələmək-
+lə onu daha da gücləndirməkdən ibarətdir. H.M.Zərdabinin bu 
+fikirləri «Əkinçi» (1875-1877) və «Kaspi» (1899-1903) qəzet-
+lərində dərc etdirdiyi məqalələrində və «Torpaq, su və hava» 
+adlı kitabında verilmişdir. Onun torpaq kimyasına aid ən mü-
+tərəqqi fikirlərindən biri seçilmiş əsərləri səh.164-də yazırdı: 
+«Hər əkinçiyə vacibdir ki, öz torpağının xüsusiyyətlərini bil-
+sin. Bunu isə yalnız imtahan, yəni analiz etməklə bilmək 
+olar». O, hər şeydən əvvəl torpağın qranulometrik tərkibini, 
+33
+torpaqdakı rütubətin, üzvi hissənin, karbonatların miqdarını 
+təyin etməyi zəruri hesab edirdi. 
+Bütün inkişaf etmiş dünya ölkələrində olduğu kimi, 
+Azərbaycanda da torpaqların mənşəyi, diaqnostikası, sistema-
+tikası və yayılması qanunauyğunluqlarının dəqiqləşdirilməsi, 
+torpaqşünaslıq elminin bir sıra yeni nəzəri və tətbiqi sahələri-
+nin inkişaf etdirilməsi problemini ortaya qoyurdu. 
+Torpaqlarda gedən kimyəvi proseslərin mahiyyətinin 
+açıqlanması və öyrənilməsi Azərbaycan Milli Elmlər Akade-
+miyasının Torpaqşünaslıq və Aqrokimya İnstitutunda torpaq-
+ların kimyası laboratoriyasının yaradılması zərurətini doğur-
+du. Belə ki, 1959-ci ildə torpaqların kimyası laboratoriyası 
+təşkil edildi. 
+Torpaqların kimyası laboratoriyası öz tədqiqatlarında 
+torpaqlarda gedən kimyəvi, fiziki-kimyəvi məsələləri öyrən-
+məklə, Azərbaycanın ayrı-ayrı regionlar üzrə torpaqların lil 
+fraksiyalarının mineraloji tərkibi və mikromorfoloji xüsusiy-
+yətləri ilə yanaşı, yüksək dispers mineralların xüsusiyyətlə-
+rini, onların kimyəvi tərkiblə bilavasitə asılılığı qanunauyğun-
+luqlarını da müəyyən etməyə çalışmışdır. 
+Torpaq mineralogiyası sahəsində aparılan bu tədqiqatlar 
+1975-ci ildə torpaqların kimyası və mineralogiyası laboratori-
+yasının təşkil edilməsinə səbəb oldu. 1976-1993-cü illərdə 
+laboratoriyanın rəhbəri k.t.e.d., prof. İsgəndər Şahbala oğlu 
+İsgəndərov olmuşdur. 
+Torpaqların mineraloji tərkibinin öyrənilməsinə dair o 
+dövrə qədər aparılan ayrı-ayrı tədqiqatlar epizodik xarakter 
+daşımaqla fundamental və tətbiqi mineralogiyanın nəzəri və 
+praktiki problemlərini özündə əks etdirmişdir. 
+34
+1975-ci ildən başlayaraq laboratoriyada Azərbaycan tor-
+paqlarının lil fraksiyalarının mineraloji, mikromorfoloji xü-
+susiyyətləri və onların ana süxurlar ilə əlaqəsinə dair sanballı 
+tədqiqat işlərinin aparılmasına başlanmışdır. 
+Tədqiqatların nəticəsində hər bir torpaq tipinə dair 
+mineraloji tərkib müəyyənləşdirilmiş, mikromorfoloji xüsu-
+siyyətlərdən asılı olaraq torpaqlarda gedən proseslərin istiqa-
+məti və torpaqəmələgəlmənin mahiyyəti öyrənilmişdir. 
+İlk dəfə olaraq Kür-Araz ovalığı torpaqlarının mine-
+raloji, mikromorfoloji tərkibinə dair tədqiqatlar aparılmış, təd-
+qiqatdarda gedən kipləşmə, qaysaq əmələgəlmə proseslərinin 
+mahiyyətinin açılmasına, sintez-prosintez prosesləri ilə bağlı 
+dispers xassələrin formalaşmasına, torpaqdaxili mineral əmə-
+ləgəlmənin və yeni üzvi-mineral birləşmələrin mahiyyətinin 
+açılmasına dair tədqiqat işləri aparılmışdır. 
+Respublikamızın rütubətli subtropik zonasında və Kiçik 
+Qafqazın mərkəzi hissəsində əsas torpaq tiplərində hidro-
+termik rejimdən asılı olaraq mineralların aşınma qabıqlarının 
+xüsusiyyətləri ilə bağlı torpaqların mineraloji və ümumi kim-
+yəvi tərkibləri öyrənilmiş, ilk dəfə hündürlük qurşaqlarından 
+asılı olaraq aşınmanın faza, stadiyaları və tipləri müəyyənləş-
+dirilmişdir. Torpaqlarda minerallaşmanın nəzəri məsələləri ilə 
+yanaşı, tətbiqi sahələrinə də geniş yer verməklə makro və 
+mikroelementlərin mineralların tərkibindən asılı olaraq 
+torpaqda miqdarı müəyyənləşdirilmiş, bir sıra digər qeyri-
+ənənəvi torpaqyaxşılaşdırıcılardan istifadə etməklə torpaqların 
+münbitliyinə, ekoloji təmiz və sabit kənd təsərrüfatı məhsul-
+larının əldə edilməsinə təsiri öyrənilmişdir. 
+Hal-hazırda laboratoriyada Azərbaycanın əsas torpaq 
+tiplərində lil minerallarının yayılma qanunauyğunluqlarını bir 
+35
+sıra müasir diaqnostik və instrumental metodlarla öyrənilməsi 
+davam etdirilir. Laboratoriyada həmçinin qeyri-ənənəvi mine-
+ral ehtiytlardan istifadə etməklə torpaqların münbitliyinin bər-
+pası, torpaqların xassələrinin yaxşılaşdırılması, onların torpaq-
+ların fosfor rejiminə və mütəhərrik fosforun mənimsənilmə-
+sinə təsiri məsələləri tədqiq edilir. İlk dəfə olaraq torpaqların 
+geoloji tarixindən və torpaqda gedən aşınma, deqradasiya, 
+təkamül proseslərindən asılı olaraq Azərbaycan torpaqlarında 
+narın dispers mineralların yayılma qanunauyğunluqlarını əks 
+etdirən xəritələr işlənib hazırlanır. 
+Azərbaycanda torpaq kimyasının inkişafında bu institu-
+tun torpaqların bioloji tədqiqatları laboratoriyasının da böyük 
+xidmətləri olmuşdur. Bu laboratoriyada elmi-tədqiqatlar əsa-
+sən müxtəlif tip torpaqlarda humusun toplanması; üzvi mad-
+dələrin kəmiyyət və keyfiyyət göstəriciləri; bioloji proseslərin 
+intensivliyi və dövrü fazaları, zonal ekosistemlərdə dəyişilmə-
+si; onurğasız heyvanların növ, tərkib və miqdarı; torpağa daxil 
+olan bitki qalıqlarının çevrilməsində, biokimyəvi və humus 
+balansının saxlanması, bərpası və kənd təsərrüfatı bitkilərinin 
+məhsuldarlığının artırılması istiqamətində aparılır. Torpaqla-
+rın münbitliyinə, bioloji fəallığına və becərilən bitkilərin məh-
+suldarlığına müsbət təsir göstərən tədbirlər sistemi öyrənilir. 
+Ümumiyyətlə, Azərbaycan Milli Elmlər Akademiyası-
+nın Torpaqşünaslıq və Aqrokimya İnstitutu və onun əməkdaş-
+larının Torpaqşünaslıq elminin və onun böyük bir şöbəsi olan 
+torpaq kimyasının inkişafında misilsiz xidmətləri olmuşdur. 
+Belə alimlərdən biri də Həsən Əlirza oğlu Əliyevdir (1907-
+1993). O, torpaqşünas, ümumi əkinçilik və təbiəti mühafizə 
+sahəsində alim və ictimai-siyasi xadim kimi xalqın yaddaşın-
+da qalmaqdadır. O, bu institutda elmi işlər üzrə direktor müa-
+36
+vini və laboratoriya müdiri vəzifələrində işləmiş və torpaq-
+şünaslığın inkişafında əvəzsiz xidmətlər göstərmişdir. Onun 
+«Pirsaat düzünün torpaqları və perspektivası», «Azərbaycan 
+Respublikasının torpaqları», «Qəhvəyi-meşə torpaqları», «Bö-
+yük Qafqazın torpaqları», «Naxçıvan Muxtar Respublikasının 
+torpaqları» və s. monoqrafiyalarında torpaqşünaslığın mühüm 
+problemlərini şərh etmiş, torpaqdan düzgün istifadəni elmi cə-
+hətdən əsaslandırmış və torpaqlarda kimyəvi elementlərin bir-
+ləşmələrinin formaları, miqdarı və çevrilmələrini izah etmişdir. 
+Akademik Cəbrayıl Məmməd oğlu Hüseynov (1913-
+1964). Onun rəhbərlik etdiyi laboratoriya üzvi gübrələr və 
+örtülü qruntun aqrokimyası adlansa da tədqiqat işlərinin əsas 
+obyekti torpaq olmuşdur. Onun işlərinin əsas istiqaməti kimya 
+sənaye tullantılarından yeni gübrə və stimulyatorların alın-
+ması (superfosfat, qumbrin, ÜMMK, MU, NBM və s.) və on-
+ları torpağa tətbiq etməklə münbitliyini artırmağa yönəldil-
+mişdir. Bundan başqa torpaqda fosfor rejimi və onun istifadə-
+sinin artırılması üsulları mərhum akademikin adı ilə bağlıdır. 
+Həmin laboratoriyaya 1975-ci ildən hal-hazırki dövrə qədər 
+k.t.e.d. prof. Paşa Bayram oğlu Zamanov rəhbərlik edir. 
+Torpaq kimyasının inkişafında bu institutun mineral 
+gübrələr və mikroelementlər laboratoriyasının böyük xidmət-
+ləri olmuşdur. Təşkil olunduğu gündən 1978-ci ilə kimi bu la-
+boratoriyaya k.t.e.d., prof. Rizvan Qafar oğlu Hüseynov 
+(1911-1979) qəhbərlik etmişdir. Sonrakı illərdə k.t.e.d., prof. 
+F.H.Axundov və hazırda isə laboratoriyanın rəhbəri k.t.e.d., 
+prof. Z.R.Mövsümovdur. Laboratoriyada Respublikamızın 
+müxtəlif tip torpaqlarında becərilən bitkilərin gübrələmə siste-
+minə, torpaqların qida maddələri ilə təmin olunmasını göstə-
+rən kartoqramların tərtibinə, bitkilərin azot, fosfor, kalium və 
+37
+mikroelementlərlə qidalanma rejiminin öyrənilməsinə dair 
+tədqiqatlar aparılır. Bu məsələlərin tədqiqində prof. R.Q.Hü-
+seynovun əməyi olmuş və bu işlərə həsr olunmuş bir çox mo-
+noqrafiyalar, kitablar, tövsiyələr və elmi məqalələr nəşr olun-
+muşdur. O cümlədən, «Azərbaycanda gübrələmə sisteminin aq-
+rokimyəvi əsasları» (R.Q.Hüseynov), «Torpaqda və bitkilərdə 
+mikroelementlər və onların bitkiçilikdə tətbiqi» (Ə.N.Güləh-
+mədov), «Azot Azərbaycan əkinçiliyində» (Z.R.Mövsümov) 
+kimi əsərləri misal göstərə bilərik. 
+Mikroelementlərin kənd təsərrüfatında və biologiyada 
+rolu və əhəmiyyyəti haqda bir sıra mühüm məsələlər, o cüm-
+lədən, yeni səmərəli mikrogübrələrin alınması, onların tətbi-
+qinin elmi əsasları, torpaqda təbii radioaktiv maddələrin miq-
+darı, mikroelementlərin yayılmasının biogeokimyəvi rayon-
+laşdırılması, texnogen tullantılar nəticəsində torpaqların ağır 
+metallarla çirklənməsi tədqiq edilmişdir. Bu işlərə böyük əhə-
+miyyət verilmiş və prof.Ə.N.Güləhmədov Respublika Dövlət 
+mükafatına layiq görülmüşdür. 
+AMEA-nın müxbir üzvü Məmməd-Emin Məmməd-
+Əli oğlu Salayev (1909-2002). Tədqiqat sahəsi əsasən torpaq-
+ların genezisi, coğrafiyası və xəritəçiliyinə aid olsa da torpaq 
+kimyasının inkişafında xidmətləri olmuşdur. Belə ki, yüksək 
+dağ zonasında ilkin torpaq əmələgəlmə prosesi və bu prosesin 
+torpaqəmələgəlmə məhsullarının miqrasiyası, humus əmələ-
+gəlmə şəraiti, meşə və çay subasarlarında torpaqların genezisi, 
+sistematikası və nomenklaturası coğrafi və stasionar tədqiqat-
+lar nəticəsində öyrənilərkən həmişə bu proseslərin torpaq 
+kimyası ilə bağlılığı diqqət mərkəzində olmuşdur. 
+Volobuyev Vladimir Rodionoviç (1909-1987). Tor-
+paqların meliorasiyası laboratoriyasına uzun müddət rəhbərlik 
+38
+etmişdir. O, SSRİ EA-nın müxbir üzvü, AMEA-nın həqiqi 
+üzvü olmuşdur. 
+V.R.Volobuyevin elmi-tədqiqat işlərində əsas diqqət 
+respublikanın ərazisində yayılmış torpaqların şorlaşma dərə-
+cəsinin, şorlaşmanın genezisi və formalarının öyrənilməsinə, 
+meliorativ rayonlaşdırmanın əsas prinsiplərinin müəyyən edil-
+məsinə, şorlaşmış torpaqların meliorasiya üsullarının işlənib 
+hazırlanmasına yönəlmişdir.  
+Kür-Araz düzənliyi torpaqlarında duzların miqrasiyası 
+və onların genezisini təhlil edərək V.R. Volabuyev şorlaşmış 
+torpaqların genetik təsnifatını vermişdir. Bu da şorlaşmış tor-
+paqların genesizinə uyğun rayonlaşdırılmanı və meliorativ tət-
+birlərin işlənib hazırlanmasını mümkün etmşdir. Bu məsələ-
+lərin geniş izahını o, 1965-ci ildə nəşr etdirdiyi “Kür-Araz dü-
+zənliyi torpaqlarının şorlaşmasının genetik formaları” kitabın-
+da vermişdir. Onun rəhbərlik etdiyi laborotoriyanın əməkdaş-
+ları 35 il ərzində Kür-Araz düzənliyinin müxtəlif bölgələ-
+rində, su-fiziki xüsusiyətləri biri digərindən fərqlənən təcrübə 
+sahələrinin torpaqlarında su-duz balansını öyrənmişlər (Əzi-
+zov, İsmayılov, Mustafayev və s.)  
+Abduyev Muxtar Rzaqulu oğlu (1926-1979). Azər-
+baycanın dağətəyi bölgəsinin delyuvial torpaqlarında tarla 
+tədqiqatları və laboratoriya eksperimentləri ilə şorlaşma pro-
+sesini on illərlə öyrənən novator Muxtar müəllim olmuşdur. O 
+zaman bu tip torpaqlarda kənd təsərrüfatı bitkilərinin be-
+cərilməsi haqda heç bir əkinçinin məlumatı yox idi və me-
+liorasiya işlərinin aparılması üçün metodika mövcud deyildi. 
+M.R. Abduyev bu tip torpaqların genezisini, fiziki-kimyəvi 
+xassəllərini, duzların daxil olma mənbələrini, duzların miq-
+rasiya amillərini, su və duz rerejimlərini və s. uzun müddət 
+39
+öyrənərək çox möhtəşəm bir meliorasiya metodikası hazırladı. 
+Bütün bunlar onun respublikada üç dəfə təkrar nəşr olunmuş 
+“Torpaqların delyuvial formalı şorlaşması və meliorasiya 
+məsələləri” monqrafiyasında öz əksini tapmıştır. 
+Əliyev Spartak Əli oğlu (1930-2008). Tədqiqat işləri-
+nin əsasını torpaqda humuslaşma və humus turşularının əmələ 
+gəlmə mexanizminə həsr etmiştir. Onun humus turşularının 
+element tərkibi, bu turşularda H:C və O:C nisbətləri haqqında 
+original fikirlərini bu sahə ilə məşğul olan bütün dünya alim-
+ləri qəbul etmişlər. Humus maddələrinin oksidləşmə dərəcə-
+sini və müxtəlif qrup humus turşularının yanma istiliyini so-
+vetlər imperiyasında heç bir alim C.Ə.Əliyev kimi dəqiq he-
+sablaya bilməmişdir. Indi də dünya torpaqşünaslıq elmində 
+Əliyev düsturu kimi işlənən formula haqqında qarşıdakı fəsil-
+lərdə bəhs edəcəyik. 
+O, bundan başqa humus turşularının struktur fraqment-
+ləri, humus turşularının hidrolizi, humus turşularının oksidləş-
+məsindən sonra alınan məhsullar, humus turşularının struktur 
+fraqmentlərinin balansı və s. haqqında apardığı tədqiqatlarla 
+Torpaq kimyası elminə tövhəsini vermişdir. 
+Azərbaycan Mlli Elmlər Akademiyasının Torpaqşünas-
+lıq və Aqrokimya institutu Respublikanın torpaq ehtiyatlarını 
+öyrənən Elmi Mərkəzdir. Direktor, akademik M.R. Babayevin 
+rəhbərliyi altında bu institutda torpaqşünaslıq və aqrokim-
+yanın problemləri üzrə bir çox elmi-tədqiqat işləri aparılır. 
+Həmin problemlərdən biri – “Torpaqların mineraloji tərkibi-
+nin, bioloji fəallığının, humusluluq vəziyyətinin tədqiqi və 
+münbitliyin bərpasının ekoloji və aqrokimyəvi əsasları” məhz 
+Torpaq kimyasının inkişafına həsr edilmişdi.  
+40
+Bu müqəddəs amalın başa çatdırılmasında yuxarıda adı 
+gedən alimlərimizdən sonra indi M.R.Babayev, Q.Ş.Məm-
+mədov, A.P.Gərayzadə, H.C.Mehdiyev, P.Ə.Səmədov, A.İ.İs-
+mayılov, V.A.Əhmədov, Z.R.Mövsümov, P.B.Zamanov, 
+Ə.B.Axundova və başqaları əllərindən gələni əsirgəmirlər.  
+1920-ci ildə Azərbaycan Politexnik İnstitutunda yaradıl-
+mış kənd təsərrüfatı fakültəsinin tərkibində ilk olaraq «Tor-
+paqşünaslıq» kafedrası təşkil olundu. AKTİ yaradıldıqdan 
+sonra (indiki ADAU) kafedra müxtəlif dövrlərdə «Torpaqşü-
+naslıq və geologiya», «Torpaqşünaslıq və meliorasiya», «Tor-
+paqşünaslıq və yerquruluşu», «Torpaqşünaslıq və aqrokimya» 
+adlanmışdır. Hal-hazırda isə «Torpaqşünaslıq, aqrokimya və 
+ekoloji kənd təsərrüfatı» kafedrası kimi fəaliyyət göstərir. Bu 
+kafedra və onun əməkdaşlarının Torpaq kimyasının bir elm 
+kimi formalaşmasında, təbliğində, tədrisində və inkişafında 
+böyük xidmətləri olmuşdur. 
+Kafedranın ilk rəhbəri torpaqşünaslıq elminin banilərin-
+dən olan V.V.Dokuçayevin şagirdi və silahdaşı prof. V.Smir-
+nov-Loqinov olmuşdur. O, 1920-ci ildən 1933-cü ilə qədər 
+kafedrada və Azərbaycanda aparılan torpaq tədqiqatlarına 
+rəhbərlik etmişdir. 1933-1937-ci illərdə kafedraya prof. 
+V.V.Akimtsev,1937-1939-cu illərdə isə prof. Q.İ.Kolotov 
+rəhbərlik etmişdir. 
+Sonrakı dövrlərdə kafedraya M.T.Əsgərbəyli, Ə.B.Şəfi-
+bəyov, B.M.Ağayev, M.A.Ağamirov rəhbərlik etmişlər. 1973-
+2007-ci illərdə kafedranın müdiri akademik M.İ.Cəfərov və 
+prof. A.H.Babayev olmuşlar. Hal-hazırda kafedraya prof. 
+A.H.Babayev rəhbərlik edir. 
+Azərbaycanda ilk torpaq tədqiqatlarına faktiki olaraq bu 
+kafedranın müdiri prof. V.Smirnov-Loqinovun rəhbərliyi ilə 
+41
+başlanmışdır. 1920-1924-ci illərdə Abşeron yarımadası və 
+Kiçik Qafqazın cənub-şərq ətəkləri, 1925-1935-ci illərdə Qo-
+bustan və Xızı rayonlarının torpaqları, Muğan düzünün və 
+Lənkəranın torpaqları tədqiq olunaraq, bu görkəmli alimin 
+rəhbərliyi ilə Azərbaycanın ilk torpaq xəritəsi (1930) tərtib 
+olunmuşdur. 
+1940-cı ildə prof. D.V.İvanovun uzun illər rəhbərlik et-
+diyi Aqrokimya kafedrası Torpaqşünaslıq kafedrası ilə bir-
+ləşdirilmiş və həmin ildən 1960-cı ilə qədər kafedranın rəh-
+bəri dosent Şəfibəyov Əsəd Balabəy oğlu (1909-1960) ol-
+muşdur. O, torpaq kimyası sahəsində SSRİ miqyasında çox 
+güclü tədqiqatçı kimi tanınmışdır və onun torpağın kimyəvi 
+analiz üsullarına dair işlədiyi yeni metodlar bu gün də müasir 
+torpaqşünaslıqda qəbul olunur. 
+Məlum olduğu kimi gübrələrdən səmərəli surətdə isti-
+fadə etmək üçün müxtəlif torpaqların aqrokimyəvi, kimyəvi 
+və aqrofiziki xassələri, eləcə də kənd təsərrüfatı bitkilərinin 
+kimyəvi tərkibi, bitkilərin bu və ya digər qida maddələrinə 
+olan tələbatı təhlil edilərək öyrənilməlidir. Məhz bu problem-
+lər Əsəd müəllimin tədqiqat obyekti olmuşdur. Onun 1964-cü 
+ildə nəşr etdirdiyi «Torpaq və bitkilərin aqrokimyəvi analiz 
+üsulları» kitabında bu məsələlərin şərhi çox səlis formada ve-
+rilmişdir. Kitab üç hissədən ibarətdir: birinci hissəsi torpağın 
+analizə hazırlanması və onun kimyəvi analizi məsələlərinə, 
+ikinci hissəsi torpağın fiziki xassələrinin təyin edilməsinə, 
+üçüncü hissəsi isə bitki materiallarının kimyəvi analizi 
+üsullarına həsr olunmuşdur. Kitabın sonunda əlavələr şəklində 
+laboratoriya şəraitində işlədilən müxtəlif məhlulların hazırlan-
+ması, analizlərin hesablanması üçün köçürmə əmsallarına aid 
+cədvəllər verilmişdir. Kitab indi də mütəxəssislər, tələbələr və 
+42
+tədqiqatçılar üçün faydalı vəsaitdir. Əsəd müəllimin tələbələri 
+həmişə onu çox ehtiramla xatırlayır və «Torpaq kimyası» fən-
+nini gözəl tədris edən, tələbələrə sevdirməyi bacaran müəllim 
+olduğunu deyirlər. 
+Sonrakı dövrlərdə torpaq kimyasının inkişafında kafed-
+ranın əməkdaşlarından prof. H.R.Xəlilov, akad. M.İ.Cəfərov, 
+prof. T.Ə.Əliyev, prof. B.İ.Bayramov, prof. A.H.Babayev, 
+prof. F.H.Axundov, dos. İ.T.Rzayev, dos. R.Y.Məmmədov, 
+dos. C.H.Cəlilov, dos. Z.İ.Məhərrəmov, dos. Ə.S.Pənahi, dos. 
+Z.İ.Süleymanov, prof. Y.Ə.Cəfərov, dos. O.A.Seyidzadə, dos. 
+E.X.Mehdiyeva, dos. M.S.Hüseynov, dos. Z.H.Abdullayeva, 
+dos. A.N.Zeynalova və başqalarının böyük xidmətləri olmuş-
+dur. 
+ 
+43
+ 
+II FƏSĠL 
+ 
+TORPAĞIN ELEMENT VƏ FAZA TƏRKĠBĠ 
+ 
+Torpaqda baş verən bütün proseslər mürəkkəb olmaqla 
+kompleks xarakter daşıyır və bu onun təbii-tarixi cisim ol-
+masını bir daha sübut edir. Kimyəvi xüsusiyyətlərinə görə 
+torpaqda baş verən prosesləri bu cür adlandırmaq olar: 
+1. PolikimyalaĢma. Torpaqda çox böyük miqdarda 
+kimyəvi elementlər və maddələr mövcuddur. Qanunauyğun 
+olaraq hər bir elementin bir neçə birləşmələri olur ki, bunlar 
+da torpaqda həm kristal, həm də amorf formasında olurlar. 
+2. Heterogenlik və polidisperslilik. Torpaq çox fazalı 
+sistem olmaqla üzvi və mineral komponentlərin inkişaf etmiş, 
+müxtəlif cinsli üst qatında sorbsiya və desorbsiya (xemo-
+sorbsiya daxil olmaqla) prosesləri baş verir. 
+3. Üzvi-minerallı qarĢılıqlı təsir – spesifik torpaq xü-
+susiyyətləri olmaqla torpaqəmələgəlmə prosesinin əlamətidir. 
+Belə ki, torpaqda ancaq sadə və kompleks duzlar formalaşmır, 
+həm də mineral və üzvi maddələrdən ibarət olan mürəkkəb 
+adsorbsiyalı komplekslər (simplekslər) yaranır. 
+4. Torpaq proseslərinin dinamikliyi. Təbii torpaq 
+üçün bir günlük (sutkalıq), mövsümü, illik və əsrlik dinamika 
+xarakterikdir. 
+Torpaqda bu dəyişiklik daima baş verir. Klassik kim-
+yəvi birləşmələr transformasiyaya məruz qalır və torpaq bu-
+ferlik qabiliyyəti qazanır. 
+44
+  
+5. Əhatəli müxtəlifcinslilik – torpağın ayrılmaz xassəsi 
+olub, torpaqəmələgətirən amillərin əhatəli müxtəlifcinslilik-
+dən asılılığı şərtləndirilir (ilkin müxtəlifcinslilik). Torpaqə-
+mələgəlmə prosesinin inkişafı ilə əlaqədar olaraq daha da 
+genişlənə bilər (təkrar müxtəlifcinslilik). 
+6. Qeyri-bərabər vəziyyət və termodinamik bərpa 
+olunmayan proseslər. Torpaq açıq termodinamik sistemdir, 
+hansı ki, buradan fasiləsiz olaraq maddələr və enerji axır. Bu 
+isə torpaqda bərabər vəziyyətin yaranmasına imkan vermir. 
+Nəticədə torpaq-kimyəvi proseslərin özünəməxsus kinetikası 
+güclənir və sürətli reaksiyalar baş verir. Torpaqda baş verən 
+prosesləri anlamaq üçün onun kimyəvi tərkibini, torpaqəmələ-
+gətirən amillərin dəyişilməsini və bunların torpaq örtüyünün 
+əmələgəlməsində istifadəsini bilmək lazımdır. 
+Torpağın kimyəvi tərkibi iki göstərici ilə xarakterizə 
+olunur: 1) element tərkibi, 2 ) faza (maddələr) tərkibi. 
+ 
+TORPAĞIN ELEMENT TƏRKĠBĠ 
+ 
+Torpağın əsas kimyəvi xassələrindən biri onun element 
+tərkibi hesab edilir. Məhz bu xassə üzərində onun genezisi və 
+münbitliyi formalaşır. Torpağın element tərkibini bilmədən 
+dərin kimyəvi tədqiqatların aparılması qeyri-mümkündür. 
+Torpaq kütləsində kimyəvi elementlərin toplanmasına və kə-
+miyyət nisbətinə torpağın element tərkibi deyilir. «Element 
+tərkibi»nin sinonimi kimi bəzən «torpağın xam tərkibi» termi-
+ni işlədilir. Lakin bu cür adlanma söhbətin hansı tərkib (kim-
+yəvi, mexaniki) haqqında getməsini aydınlaşdırmır. «Xam» 
+sözü əslində «ümumi» anlayışı bildirir və torpaqda olan bütün 
+komponentlərin miqdarını göstərir. Ona görə də «xam tərkib» 
+45
+  
+deyəndə torpaqda olan elementlərin birləşmə formalarından 
+asılı olmayaraq ümumi elementlərin miqdarı başa düşülür. 
+Torpaq kimyasında və ümumiyyətlə torpaqşünaslıqda 
+element tərkib deyəndə – torpağın genezisi, münbitliyi və 
+kimyəvi tərkibinin vəziyyəti anlaşılmalıdır. 
+Bunu əsasən torpağın potensial münbitliyini qiymətlən-
+dirəndə istifadə edir və buna əsaslanaraq torpağın kimyəvi 
+tərkibini analiz etmək üçün üsullar seçilir.  
+Bu istiqamətləri aydınlaşdıraq. 
+1. Element tərkibi torpaqəmələgəlmə proseslərinin çox 
+mühüm nəticələrini əks etdirir. Element tərkibinə görə torpa-
+ğın genetik horizontları bir-biri ilə fərqlənir. Məsələn, çürün-
+tülü akkumulyativ horizont yüksək miqdarda C, P və N olma-
+sı ilə; ilyuvial horizontlar Fe, Al və bir sıra elementlərin top-
+lanması ilə; elyuvial horizontlar isə silisiumun miqdarının art-
+ması, digər elementlərin azalması ilə müşayiət olunur. Başqa 
+sözlə genetik horizontları təyin etmək üçün torpağın element 
+tərkibi diaqnostik əlamət kimi qəbul edilir. 
+Genetik horizontların element tərkibinin məcmusu bir 
+torpaq profilində torpaqəmələgəlmə proseslərinin hansı isti-
+qamətdə inkişafına xidmət edir. Şəkil 1-də Lənkaran rayonu 
+ərazisində yayılmış sarı-podzol torpaqlarda və Gədəbəy rayo-
+nunda olan dağ qaratorpaqlarında profil boyu karbonun üzvi 
+birləşmələrinin (Cüzvü) və dəmirin (Fe) faizlə miqdarı göstəril-
+mişdir. 
+ 
+ 
+ 
+46
+  
+Cüzvi, %     Fe, % 
+ġəkil 1. Torpaq profilində humusun və dəmirin yayılması: 
+1 – sarı-podzol torpaqlar, 2 – dağ qaratorpaqları 
+ 
+Şəkildən göründüyü kimi dağ qaratorpaqlarında profil 
+boyu dərinə getdikcə humusun miqdarı azalmış, dəmirin miq-
+darı isə bərabər paylanmışdır. Buradan aydın olur ki, dağ qa-
+ratorpaqlarında profil boyu dəmir elementinin yayılmasında 
+ciddi dəyişiklik baş vermir. Başlıca proseslərdən biri odur ki, 
+profildə humusun toplanmasında proqressiv əlamətlər özünü 
+göstərir. 
+Lakin sarı-podzol torpaqlarda tamamilə başqa prosesin 
+getdiyinin şahidi oluruq. Belə ki, humusun profil boyu top-
+lanması yalnız üst qatda gedir və hissə-hissə ilyuvial hori-
+zonta üzvi maddə formsında aparılır. Dəmirin yayılmsı elyu-
+vial horizontda toplanır. Dəmirin maksimal miqdarda top-
+D
+ər
+in
+li
+k
+, 
+sm
+ 
+47
+  
+lanması çürüntülü-akkumulyativ horizontda gedir. Çox 
+ehtimal ki, bu elementlərin maksimum bioloji toplanması ilə 
+bağlıdır. Hətta torpağın element tərkibi haqqında olan bu kiçik 
+məlumatlar imkan verir ki, profilin formalaşmasında bəzi 
+mühüm proseslər haqqında ideyalar irəli surək. Element tərki-
+binin tam analizindən sonra burada gedən proseslərin başlıca 
+istiqamətini, yəni torpaqəmələgəlmənin nəticələrini təyin 
+etmək olar. 
+Lakin, təkcə element tərkibinə görə torpaqda gedən 
+reaksiyaların mexanizmi haqqında mühakimə yürütmək ol-
+maz. Belə ki, transformasiya ilə bağlı prosesləri, yeni mad-
+dələrin əmələ gəlməsini geniş şəkildə fərqləndirilən torpaq 
+kütləsi ilə izah etmək lazımdır. 
+2. Torpağın element tərkibi onun potensial münbitliyi 
+haqqında təsəvvürlər yaradır. Karbonun və azotun üzvi birləş-
+mələrinin yüksək miqdarda olması torpağın münbitlik əlamət-
+ləridir. Xlor ionlarının hədsiz toplanması isə bitkilər üçün 
+əlverişli xasə sayılmır. Əlbəttə, torpaqda olan elementlərin ha-
+mısı bitkilər üçün mənimsənilə bilən şəkildə olmur. Alümo-
+silikatların kristallik qəfəsinə daxil olan elementlər ya çətin 
+həll olan birləşmələrin, yaxud hidroliz olunmayan humus 
+maddələri komponentinin tərkibində olur. Bunların bitki 
+tərəfindən mənimsənilməsi hissə-hissə ilkin strukturun dağıdı-
+laraq, asan həll olan formalara keçməsi ilə baş verir. Bu 
+elementlərin ümumi miqdarı yaxud ehtiyat formaları göstərir 
+ki, belə torpaqlar öz potensialı hesabına bitkiləri uzun müddət 
+qida maddələri ilə təmin edə bilər. 
+Dağ qaratorpaqlarının azot, fosfor və kaliumla potensial 
+təminatının vəziyyəti 1 saylı cədvəldə təsvir edilmişdir. Cəd-
+vəldən göründüyü kimi bu torpaqların 0-20 sm qatında azotun 
+48
+  
+miqdarı 5-10 t/ha çatır ki, bu da 25-30 s/ha payızlıq buğda 
+məhsulu almaq üçün 60-100 il kifayət edər. Fosforun və 
+kaliumun miqdarı isə azotla müqayisədə daha çox illərə bəs 
+edər. Apardığımız hesablamalar əsas verir ki, ehtiyat qida 
+maddələrindən istifadəsinə görə torpaqların bəzi potensial 
+imkanlarını qiymətləndirə bilək. Torpaqda olan ehtiyat qida 
+maddələrini tamamilə səfərbər etmək qeyri-mümkündür. Elə 
+apardığımız bu hesablama da göstərir ki, on illər ərzində 
+torpaqda qida elementləri tükənə bilər. Belə ki, elementlərin 
+tam səfərbər olunması torpağın deqradasiyası, dağılması və 
+qeyri-münbit oksidlər qarışığına çevrilməsi ilə nəticələnə 
+bilər. Beləliklə, torpağın element tərkibi haqqındakı məlumat-
+lar göstərir ki, əkin qatında bütün qida elementlərinin defisit-
+siz balansını təmin etmək vacibdir. 
+Cədvəl 1 
+Dağ qaratorpaqlarının N, P və K-la potensial təminatı  
+(30 s/ha buğda məhsulu timsalında) 
+ 
+Elementlər 
+Ehtiyat, 
+t/ha 
+Hər il 
+aparılma, kq 
+Potensial 
+təminat, il 
+0-20 sm qatında 
+N 5-10 105 60-105 
+P 1,5-4,5 18 85-250 
+K 40-65 75 530-870 
+0-50 sm qatında 
+N 12-18 105 115-170 
+P 3,5-10,5 18 195-580 
+K 90-150 75 1200-2000 
+ 
+49
+  
+3. Element tərkibi – torpağın kimyəvi və fiziki-kimyəvi 
+analiz üsullarının seçilməsində ən mühüm amillərdən biridir. 
+İstənilən torpaqda böyük miqdarda elementlər mövcuddur və 
+10%-dən başlayaraq 10
+-9
+ – 10
+-10
+%-dək tərəddüd edir. Ele-
+mentlərin çoxu kimyəvi analiz zamanı qarşılıqlı təsirə malik 
+olurlar. Belə ki, təyin olunan elementlərin nisbəti bəzən uğur-
+suz sonluqla nəticələnir. Ona görə də torpaqların kimyəvi 
+analizində ən mükəmməl üsullardan geniş istifadə edilir və 
+təyin olunan elementlərə mane olanları ayırmaq üçün mütə-
+rəqqi metodlar tətbiq edilir. 
+Torpağın element tərkibi və onun qranulometrik fraksi-
+yaları torpaq minerallarının, xüsusilə zərifdispersli fraksiyala-
+rın müəyyən edilməsində diaqnostik əlamət kimi istifadə 
+edilir. 
+ 
+TORPAĞIN ELEMENT TƏRKĠBĠNĠN 
+XÜSUSĠYYƏTLƏRĠ 
+ 
+Yulius Lotar Meyer və D.İ.Mendeleyevin dövrü sis-
+temlərinin (1864-1869) demək olar ki, bütün təbii elementləri 
+torpaqda vardır. Torpaqda həmin elementlərin 95 %-ni məlum 
+26 element təşkil edir. Torpaq, elementlərin kəmiyyətcə 
+toplanmasına görə bütün canlı orqanizmlərdən, minerallardan 
+və dağ süxurlarından fərqlənir. Bildiyimiz kimi canlı orqa-
+nizmlər əsasən orqanogen elementlərdən – C, H, N, O, P, S 
+təşkil olunmuşdur. Müqayisəcə az miqdarda isə mineral kom-
+ponentlər adlanan maddələr də bu tərkibə aiddir. Lakin elə 
+minerallar var ki, 2,5-7, 9-11 elementdən (sadə silikatlar) iba-
+rətdir. Duz mineralları 2-5 elementdən ibarətdir. Torpağın 
+tərkibinə daxil olan bütün kimyəvi elementlər mütləq və mü-
+50
+  
+hüm rola malikdirlər. Torpağın birinci fərqləndirici xüsusiy-
+yəti onun böyük elementlər toplumundan ibarət olmasıdır. 
+İkinci xüsusiyyəti isə yüksək miqdarda karbon və silisium ele-
+mentinin olmasıdır. Hansı ki, bu iki mühüm torpaqəmələgəl-
+mə amilinə eyni zamanda təsir edir: bunlar bitki və heyvanat 
+aləmidir. Üçüncü xüsusiyyəti elementlərin qatılığının böyük 
+diapazonda mövcudluğudur. 
+Bəzi torpaqların orta element tərkibi haqqında məlumat 
+2 saylı cədvəldə verilmişdir. Metrlik qatda torpağın element 
+tərkibinin orta hesabla miqdarı, ayrı-ayrı elementlərin rolu 
+haqqında ümumiləşdirilmiş təsəvvürlər yaradır. 
+ 
+51
+C
+əd
+və
+l 
+2
+ 
+T
+o
+rp
+a
+ğ
+ın
+ b
+ir
+ m
+et
+rl
+ik
+ q
+a
+tı
+n
+ın
+ o
+rt
+a
+ e
+le
+m
+en
+t 
+tə
+rk
+ib
+i 
+ 
+(m
+ü
+tl
+əq
+ q
+u
+ru
+ ç
+ək
+iy
+ə 
+g
+ö
+rə
+ %
+-l
+ə)
+ 
+ 
+T
+o
+rp
+a
+q
+la
+r
+ 
+O
+ 
+H
+ 
+C
+ 
+N
+ 
+P
+ 
+S
+ 
+S
+i 
+A
+l 
+F
+e 
+T
+i 
+M
+n
+ 
+C
+a
+ 
+M
+g
+ 
+K
+ 
+N
+a
+ 
+Humus 
+Karbonatlar 
+T
+o
+rf
+lu
+ 
+3
+6
+,8
+6
+ 
+5
+,3
+3
+ 
+5
+3
+,3
+3
+ 
+- 
+1
+,9
+0
+0
+ 
+0
+,2
+0
+0
+ 
+0
+,2
+4
+0
+ 
+1
+,0
+0
+ 
+0
+,1
+2
+ 
+0
+,5
+0
+ 
+- 
+0
+,0
+5
+ 
+1
+,2
+0
+ 
+0
+,1
+3
+ 
+0
+,3
+0
+ 
+0
+,0
+7
+ 
+P
+o
+d
+zo
+ll
+u
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G
+il
+li
+cə
+li
+ 
+4
+9
+,6
+0
+ 
+0
+,0
+6
+ 
+0
+,6
+6
+ 
+- 
+0
+,8
+0
+ 
+0
+,0
+5
+4
+ 
+0
+,0
+3
+1
+ 
+3
+4
+,8
+6
+ 
+6
+,3
+3
+ 
+3
+,0
+2
+ 
+0
+,2
+8
+ 
+0
+,2
+0
+ 
+0
+,7
+8
+ 
+0
+,7
+2
+ 
+2
+,0
+4
+ 
+1
+,2
+8
+ 
+Q
+u
+m
+sa
+l 
+5
+0
+,6
+6
+ 
+0
+,0
+5
+ 
+0
+,6
+7
+ 
+- 
+0
+,0
+6
+6
+ 
+0
+,0
+2
+2
+ 
+0
+,2
+0
+ 
+3
+9
+,5
+7
+ 
+4
+,3
+1
+ 
+1
+,1
+6
+ 
+- 
+- 
+0
+,5
+8
+ 
+0
+,7
+0
+ 
+1
+,8
+1
+ 
+0
+,9
+0
+ 
+Q
+u
+m
+lu
+ 
+5
+2
+,2
+0
+ 
+0
+,0
+4
+ 
+0
+,6
+4
+ 
+- 
+0
+,0
+6
+0
+ 
+0
+,0
+2
+2
+ 
+0
+,0
+2
+6
+ 
+4
+3
+,7
+7
+ 
+1
+,7
+2
+ 
+0
+,5
+5
+ 
+- 
+0
+,0
+6
+ 
+0
+,2
+8
+ 
+0
+,0
+9
+ 
+0
+,3
+3
+ 
+0
+,1
+6
+ 
+S
+ar
+ı-
+p
+o
+d
+zo
+l 
+4
+9
+,1
+0
+ 
+0
+,0
+8
+ 
+1
+,1
+2
+ 
+- 
+- 
+0
+,1
+0
+5
+ 
+0
+,0
+5
+6
+ 
+3
+3
+,8
+5
+ 
+6
+,9
+8
+ 
+3
+,1
+1
+ 
+- 
+0
+,2
+0
+ 
+0
+,8
+0
+ 
+0
+,6
+0
+ 
+2
+,5
+0
+ 
+1
+,4
+3
+ 
+Q
+le
+y
+li
+-ç
+ü
+rü
+n
+tü
+lü
+ 
+4
+9
+,1
+0
+ 
+0
+,0
+8
+ 
+1
+,1
+7
+ 
+- 
+- 
+- 
+- 
+3
+3
+,0
+2
+ 
+7
+,3
+9
+ 
+3
+,1
+2
+ 
+- 
+0
+,0
+9
+ 
+1
+,1
+5
+ 
+0
+,8
+1
+ 
+2
+,6
+4
+ 
+1
+,4
+1
+ 
+B
+o
+z-
+m
+eş
+ə
+ 
+4
+9
+,2
+7
+ 
+0
+,0
+9
+ 
+1
+,2
+5
+ 
+0
+,0
+4
+ 
+0
+,1
+1
+5
+ 
+0
+,0
+4
+4
+ 
+0
+,0
+7
+6
+ 
+3
+3
+,4
+5
+ 
+6
+,6
+7
+ 
+3
+,8
+0
+ 
+0
+,4
+5
+ 
+0
+,0
+6
+ 
+1
+,2
+4
+ 
+1
+,0
+2
+ 
+1
+,6
+0
+ 
+0
+,7
+6
+ 
+Ç
+ü
+rü
+n
+tü
+lü
+-
+k
+ar
+b
+o
+n
+at
+lı
+ 
+5
+0
+,1
+2
+ 
+0
+,0
+8
+ 
+1
+,2
+1
+ 
+0
+,9
+3
+ 
+- 
+0
+,1
+0
+0
+ 
+0
+,0
+5
+6
+ 
+3
+0
+,1
+4
+ 
+6
+,8
+0
+ 
+3
+,1
+5
+ 
+- 
+0
+,1
+1
+ 
+3
+,6
+0
+ 
+1
+,8
+3
+ 
+1
+,1
+8
+ 
+0
+,7
+5
+ 
+52
+ 
+ 
+  
+C
+əd
+və
+l 
+2
+-n
+in
+ d
+a
+va
+m
+ı 
+Y
+u
+y
+u
+lm
+u
+ş 
+q
+ar
+at
+o
+rp
+aq
+la
+r 
+4
+9
+,9
+ 
+0
+,1
+7
+ 
+2
+,3
+6
+ 
+0
+,1
+0
+ 
+- 
+0
+,0
+6
+1
+ 
+0
+,0
+1
+8
+ 
+3
+1
+,9
+4
+ 
+6
+,8
+4
+ 
+3
+,7
+9
+ 
+0
+,5
+2
+ 
+0
+,0
+8
+ 
+1
+,2
+2
+ 
+0
+,8
+2
+ 
+1
+,3
+8
+ 
+0
+,6
+8
+ 
+T
+ip
+ik
+ q
+ar
+at
+o
+rp
+aq
+la
+r 
+4
+8
+,0
+ 
+0
+,2
+2
+ 
+3
+,0
+9
+ 
+0
+,3
+0
+ 
+- 
+0
+,1
+0
+0
+ 
+0
+,1
+3
+6
+ 
+3
+1
+,2
+8
+ 
+7
+,0
+9
+ 
+3
+,7
+1
+ 
+0
+,3
+6
+ 
+0
+,1
+6
+ 
+2
+,0
+0
+ 
+0
+,9
+7
+ 
+1
+,7
+1
+ 
+0
+,8
+3
+ 
+A
+d
+i 
+q
+ar
+at
+o
+rp
+aq
+la
+r 
+4
+9
+,3
+ 
+0
+,1
+5
+ 
+2
+,0
+5
+ 
+0
+,4
+8
+ 
+- 
+0
+,7
+0
+ 
+0
+,1
+6
+8
+ 
+3
+1
+,3
+2
+ 
+6
+,8
+8
+ 
+3
+,6
+9
+ 
+0
+,4
+7
+ 
+0
+,0
+5
+ 
+2
+,4
+7
+ 
+1
+,0
+0
+ 
+1
+,3
+2
+ 
+0
+,5
+7
+ 
+C
+ən
+u
+b
+ 
+q
+ar
+at
+o
+rp
+aq
+la
+r 
+4
+9
+,4
+ 
+0
+,1
+1
+ 
+1
+,5
+0
+ 
+0
+,6
+7
+ 
+- 
+0
+,0
+6
+4
+ 
+0
+,2
+2
+0
+ 
+3
+1
+,2
+3
+ 
+6
+,4
+0
+ 
+3
+,0
+4
+ 
+0
+,5
+0
+ 
+0
+,0
+2
+ 
+4
+,2
+0
+ 
+1
+,1
+9
+ 
+0
+,9
+7
+ 
+0
+,4
+4
+ 
+Q
+af
+q
+az
+y
+a
+n
+ı 
+q
+ar
+at
+o
+rp
+aq
+la
+r 
+4
+8
+,8
+ 
+0
+,1
+2
+ 
+1
+,6
+2
+ 
+0
+,2
+5
+ 
+- 
+0
+,0
+4
+8
+ 
+0
+,1
+7
+2
+ 
+3
+1
+,2
+9
+ 
+8
+,1
+4
+ 
+3
+,5
+0
+ 
+- 
+0
+,0
+5
+ 
+2
+,1
+0
+ 
+0
+,9
+5
+ 
+1
+,7
+5
+ 
+1
+,1
+9
+ 
+A
+zo
+v
+y
+a
+n
+ı 
+q
+ar
+at
+o
+rp
+aq
+la
+r 
+4
+9
+,6
+ 
+0
+,3
+7
+ 
+1
+,5
+9
+ 
+0
+,5
+9
+ 
+- 
+0
+,0
+5
+2
+ 
+0
+,0
+4
+8
+ 
+3
+1
+,8
+0
+ 
+6
+,6
+5
+ 
+2
+,9
+4
+ 
+- 
+0
+,3
+1
+ 
+3
+,1
+0
+ 
+0
+,8
+8
+ 
+1
+,5
+3
+ 
+0
+,9
+4
+ 
+Ş
+ab
+al
+ıd
+ı 
+4
+8
+,8
+5
+ 
+0
+,0
+8
+ 
+1
+,1
+5
+ 
+0
+,8
+6
+ 
+0
+,1
+1
+5
+ 
+0
+,0
+6
+7
+ 
+0
+,1
+9
+4
+ 
+2
+9
+,9
+0
+ 
+6
+,5
+3
+ 
+3
+,6
+4
+ 
+0
+,5
+1
+ 
+0
+,1
+8
+ 
+3
+,7
+0
+ 
+1
+,0
+9
+ 
+1
+,5
+8
+ 
+1
+,0
+6
+ 
+Q
+o
+n
+u
+r 
+sə
+h
+ra
+  
+5
+,1
+4
+ 
+0
+,0
+4
+ 
+0
+,5
+2
+ 
+- 
+0
+,0
+5
+0
+ 
+0
+,0
+2
+2
+ 
+0
+,0
+7
+6
+ 
+4
+3
+,7
+7
+ 
+1
+,0
+8
+ 
+0
+,7
+0
+ 
+- 
+0
+,0
+1
+ 
+0
+,2
+8
+ 
+0
+,1
+8
+ 
+0
+,2
+7
+ 
+0
+,3
+0
+ 
+B
+o
+z-
+q
+əh
+v
+ə
+y
+i 
+4
+9
+,0
+4
+ 
+0
+,1
+6
+ 
+2
+,1
+7
+ 
+0
+,8
+6
+ 
+- 
+- 
+0
+,1
+0
+0
+ 
+3
+0
+,0
+0
+ 
+6
+,4
+9
+ 
+3
+,7
+8
+ 
+0
+,3
+2
+ 
+0
+,0
+9
+ 
+3
+,2
+6
+ 
+0
+,8
+0
+ 
+1
+,6
+7
+ 
+1
+,0
+5
+ 
+B
+o
+z-
+m
+eş
+ə
+ 
+4
+7
+,9
+3
+ 
+0
+,1
+1
+ 
+1
+,5
+9
+ 
+0
+,2
+5
+ 
+0
+,1
+5
+0
+ 
+0
+,0
+6
+2
+ 
+0
+,1
+5
+0
+ 
+2
+8
+,8
+9
+ 
+8
+,2
+3
+ 
+5
+,7
+7
+ 
+0
+,3
+8
+ 
+0
+,1
+7
+ 
+1
+,9
+8
+ 
+1
+,0
+8
+ 
+1
+,4
+1
+ 
+1
+,0
+9
+ 
+B
+o
+z 
+to
+rp
+aq
+la
+r 
+5
+0
+,0
+0
+ 
+0
+,0
+4
+ 
+0
+,5
+0
+ 
+1
+,2
+4
+ 
+0
+,0
+7
+0
+ 
+0
+,0
+7
+4
+ 
+0
+,0
+8
+0
+ 
+2
+5
+,8
+6
+ 
+7
+,2
+1
+ 
+3
+,8
+9
+ 
+- 
+0
+,2
+0
+ 
+5
+,0
+4
+ 
+1
+,4
+4
+ 
+1
+,8
+0
+ 
+1
+,1
+6
+ 
+53
+Element tərkibinə görə profildə ən çox fərqli cəhətlər 
+torflu, elyuvial, karbonatlı və şorlaşmış horizontlarda müşa-
+hidə olunur. Ayrı-ayrı elementlərin miqdarı geniş intervalda 
+dəyişir. Məsələn, torflu torpaqlar istisna olmaqla qalan torpaq-
+larda silisiumun miqdarı 22-dən 44%-ə qədər tərəddüd edir. 
+Alüminiumun miqdarının diapazonu – 1-8%, dəmirinki isə – 
+0,5-6% təşkil edir. Kiçik tərəddüdlərə baxmayaraq, hər bir 
+elementin miqdarının intervalı mövcuddur. Aşığıda bəzi 
+elementlərin tipik interval miqdarını faizlə göstəririk. 
+ 
+Si ................... 26-44 
+Al ................... 1-8 
+Fe ................... 0,5-6 
+Ca .................. 0,3-5 
+K .................... 0,2-3 
+Na .................. 0,2-2 
+Mg ................. 0,1-2 
+Ti ................... 0,2-0,5 
+Mn ................. 0,01-0,3 
+Cüzvi ............... 0,5-4 
+N .................... 0,05-0,2 
+P .................... 0,02-0,1 
+S .................... 0,02-0,2 
+H .................... 0,04-0,2 
+ 
+Torpağın element tərkibi onun qranulometrik tərki-
+bindən, tipindən, horizontundan və kimyəvi elementlərin 
+xüsusiyyətlərindən çox asılıdır. 
+Məsələn, yüngül torpaqlarda silisiumun miqdarı SiO2 
+formasında olmaqla çox, digər elementlərinki isə az olur. Kar-
+bon isə karbonatlar şəklində əsasən yuyulmamış torpaqlarda 
+və karbonatlı süxurlar olan yerlərdə mövcuddur. Kükürdün 
+miqdarı isə qeyri-üzvi karbonun miqdarı ilə eynilik təşkil edir. 
+Torpaqəmələgətirən süxurlarla müqayisədə torpaqda üzvi 
+karbonun və digər biogen elementlərin nisbi miqdarı humusla 
+toplanır. Si, Al, Fe, Mg, K, Na kimi elementlər isə torpaq-
+əmələgətirən süxurlardan torpağın müxtəlif qatlarına paylanır. 
+54
+  
+Ona görə də, bu elementlərin bir metrlik qatdakı miqdarı tor-
+paqəmələgətirən süxurların tərkibi ilə oxşardır. Sadə duzları 
+(CaCO3, CaSO4, MgSO4, NaCl, NaHCO3) əmələ gətirən bu 
+elementlər xüsusi yer tuturlar. Asan və çətin mənimsənilən 
+duzlarla birlikdə onlar torpaq profilindən kənara çıxaraq 
+elyuvial landşafta yaxud axmaz qatlara düşürlər. Onların 
+torpaq profilində yayılması əhəmiyyətli dərəcədə su rejiminin 
+xarakteri ilə bağlıdır. Torpaqəmələgəlmənin gedişində 
+element tərkibinin differensasiyası həm şaquli həm də üfuqi 
+istiqamətdə gedir. 
+Üfiqi istiqamətdə torpaq kütləsinin əsas hissəsini kar-
+bonatlar (60-80%) təşkil edir. SiO2-nin də miqdarı əhəmiy-
+yətli dərəcədədir (15-30%), Al2O3 – 2-5%, Fe2O3 isə 1% , fai-
+zin onda bir hissəsi qədər Na, K, S ancaq faizin yüzdə bir 
+hissəsi qədər isə P olur. 
+Torpaqda mütləq miqdarına görə elementlər bir neçə 
+qrupa bölünür. Birinci qrupa O və Si aiddir ki, bunların miq-
+darı torpaq kütləsinin 80-90%-ni təşkil edir. İkinci qrupa 
+faizin 10 payından çox hissəsini tütan elementlərdir: Al, Fe, 
+Ca, Mg, K, Na, C. Bu iki qrupa daxil olanlar tipik makroele-
+mentlərdir. Üçüncü qrupa daxil olan elementlər Ti, Mn, N, P, 
+S makro və mikroelementlər arasında keçid təşkil edir. Mikro 
+və ultramikroelementlərin miqdarı torpaqda n10
+-3
+ - n10
+-10
+ 
+%-lə ölçülür və bunlar aşağıdakılardır: Ba, Sr, B, Rb, Cu, V, 
+Cr, Ni, Co, Li, Mo, Cs, Se və s. 
+Makroelementlərin və mikroelementlərin bir-birindən 
+fərqləndirilməsi torpaqda və canlı orqanizmlərdə onların miq-
+darı ilə aparılır. Adətən, o elementləri mikroelementlər adlan-
+dırırlar ki, onların canlı orqanizmlərdə miqdarı çox az olur, 
+lakin çox mühüm fizioloji funksiyalar həyata keçirirlər. 
+55
+  
+Bu cür təyinetmələr şərti xarakter daşıyır, çünki bəzən 
+elə kimyəvi element olur ki, şəraitdən asılı olaraq özünü mik-
+roelement kimi, bəzən isə makroelement kimi aparır. Buna 
+misal olaraq kalsiumu göstərə bilərik. Məlumdur ki, kalsium 
+tipik makroelementdir, çünki torpağın tərkibində onun miq-
+darı böyük faizlərlə ölçülür. Canlı orqanizmlərdə də o makro-
+element kimi çıxış edir. Belə ki, konstitusion funksiyaları 
+yerinə yetirir, tikinti materialı olaraq sümüyün tərkibində 
+fəaliyyət göstərir. Amilaza fermentinin tərkibində bu element 
+mikroelement funksiyasını yerinə yetirir. Kalsiumdan başqa 
+dəmir, maqnezium da özlərini bu cür aparırlar. Yəni torpaqda 
+makroelement sayılan bu elementlər canlı orqanizmlərin tərki-
+bində tipik mikroelementlərdir. Hemoqlobin və xlorofillin 
+tərkibinə mikroelement kimi daxildirlər. 
+Bütün bunlara əsaslanaraq belə nəticəyə gəlmək olar ki, 
+mikroelementlər canlı orqanizmlərdə bioloji proseslərin həya-
+ta keçməsi üçün aktivləşdirici və təşəbbüskar rolunu oyna-
+yırlar. 
+Elementlərin yüksək biokimyəvi aktivliyi elektronların 
+energetik səviyyələri, yarımsəviyyələri və orbitalları üzrə pay-
+lanmasından asılıdır. Atomlarda elektronların paylanması üç 
+əsas qaydaya tabe olur: 1. Minimum enerji prinsipi (Kleç-
+kovski qaydaçı); 2. Pauli prinsipi; 3. Hund qaydası. 
+Minimum enerji prinsipi: a) atomda əvvəlcə (n+1) 
+cəmi kiçik olan orbital elektronla dolur; b) bu zaman iki müx-
+təlif orbitalın (n+1) cəmi bərabər olarsa, əvvəlcə baş kvant 
+ədədinin (n) qiyməti az olan orbital dolur. 
+Məsələn, kiçik dövr elementi olan 7N atomunda a bən-
+dinə əsasən əvəlcə 1s (n+1=1+0=1), sonra 2s (n+1=2+0=2), 
+daha sonra 2p (n+1=2+1=3) orbitalı dolur. 
+56
+  
+Böyük dövr elementi olan 19K atomunda orbitalların 
+elektronlarla dolması zamanı 3p orbitalından sonra 3d 
+(n+1=5) deyil, 4s (n+1=4) orbitalı dolur. 
+Ümumiyyətlə, birinci  dövrdə atomların 1-ci energetik 
+səviyyəsi dolur. 1-ci səviyyə bir s-orbitalından ibarət olduğun-
+dan elektronlar bu orbitalda yerləşir. Dövrün birinci elementi 
+H-dir, sıra nömrəsi də 1-dir. Ona görə də hidrogen atomunun 
+s-orbitalında bir elektron yerləşir. Onun elektron formulu 1s
+1
+ 
+olur (böyük rəqəm səviyyənin nömrəsini, hərf – yarımsəviy-
+yənin (orbitalın tipi), sağdan yuxarıdakı rəqəm isə yarım-
+səviyyədəki elektronların sayını göstərir.  
+Helium atomunda 2 elektron vardır. Həmin elektronlar 
+Pauli prinsipinə görə 1s
+2
+ elektron formulu ilə ifadə olunur. 
+Beləliklə, birinci dövr elementlərində elektronların paylan-
+ması aşağıdakı kimi ifadə olunur: 
+1H – 1s
+1
+;       2He – 1s
+2
+ 
+Birinci səviyyədə iki elektrondan çox elektron yerləşə 
+bilmədiyindən (Nmax=21
+2
+=2) bu səviyyə He atomunda ta-
+mamlanır. Növbəti elementdə üçüncü elektron 2-ci səviyyədə 
+yerləşəcəkdir. 
+İkinci dövrdə 2-ci səviyyə dolur. İkinci səviyyəyə 4 (bir 
+s-, üç p-) orbital daxildir və onun maksimum tutumu 8 elek-
+trondur. (Nmax=22
+2
+=8). Minimum enerji prinsipinə görə 
+əvvəlcə 2-ci səviyyənin s- orbitalı, sonra isə p- orbitalı dolur. 
+Beləliklə, 3Li atomunda üçüncü elektron 2s orbitalını 
+tutur: 
+3Li 1s
+2
+2s
+/
+ 
+Berillium 4Be atomunda dördüncü elektron məhz həmin 
+səbəblər üzündən 2 s- orbitalında yerləşir: 
+4Be  1s
+2
+2s
+2
+ 
+57
+  
+Bor 5B atomunda beşinci elektron 2 p- orbitalında yer-
+ləşir: 
+5B  1s
+2
+2s
+2
+2p
+/
+ 
+Hər orbitalda maksimum 2 elektron yerləşə bildiyindən 
+p-yarımsəviyyənin tutumu 6 elektron olur. Ona görə də C, N, 
+O, F atomlarında ardıcıl olaraq 2 p- orbitalları elektronlarla 
+dolur və neon Ne atomunda 2p- yarımsəviyyəsi tamamlanır. 
+Yarımsəviyyədə orbitalların elektronlarla dolması Hund 
+qaydası üzrə baş verir. Bir yarımsəviyyənin orbitallarında 
+elektronlar elə yerləşir ki, onların spin ədədləri cəminin müt-
+ləq qiyməti maksimum olsun. 
+Daha doğrusu, Hund qaydasına görə əvvəlcə bütün orbi-
+tallar parallel spinli elektronlarla tək-tək dolur və yalnız bun-
+dan sonra həmin elektronlar əks spinli elektronlarla cütləşir. 
+(Spin ədədlərinin cəmi atomun bütün elektronlarının spin 
+kvant ədədlərinin cəminə (Σms) bərabərdir). 
+Üçüncü dövrdən başlayaraq atomların üçüncü səviyyəsi 
+(n=3) dolmağa başlayır. 3-cü səviyyə 9 (bir s-, üç p- və beş d-
+) orbitaldan ibarətdir. Bu səviyyənin ümumi elektron tutumu 
+Nmax=23
+2
+=18 elektrona bərabərdir. Yuxarıda göstərilən qay-
+dalardan istifadə etməklə üçüncü dövr elementlərində elek-
+tronların paylanmasını belə yazmaq olar: 
+11Na  1s
+2
+2s
+2
+2p
+6
+3s
+1
+3p
+0
+3d
+0 
+12Mg 1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+0
+3d
+0 
+13Al   1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+1
+3d
+0
+ 
+14Si    1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+2
+3d
+0
+  və s. 
+Yekunlaşdırsaq belə nəticəyə gəlmək olar ki, elektronla-
+rın atom orbitallarına dolma ardıcıllığı aşağıdakı formula ilə 
+təyin olunur: 
+1s
+2
+2s
+2
+2p
+6
+3s
+2
+3p
+6
+3d
+10
+4s
+2
+4p
+6
+…, 
+58
+  
+Elektronların bu cür paylanması elemenlərin sabit və 
+dəyişkən valentliyinə səbəb olur ki, bu da onların xüsusi bio-
+kimyəvi və fizioloji roluna öz təsirini göstərir. 
+Qarşıya qoyulan tədqiqat problemindən asılı olaraq, 
+elektronların atom orbitallarında paylanmasından başqa digər 
+qruplaşmalarından da istifadə edilir. Yer qabığının müxtəlif 
+qatlarında elementlərin mövcudluğunu geokimyəvi təsnifatlar 
+daha yaxşı xarakterizə edir. Belə təsnifatlardan birini 
+V.M.Qoldşmidt (1924) tərtib etmişdir. Onun təsnifatına görə 
+bütün elementlər dörd qrupa bölünür: litofillər, xalkofillər, 
+siderofillər, atmofillər. 
+Litofil elementlər oksigenlə qohumluğu ilə fərqlənir və 
+biosferdə tərkibində oksidlər, hidroksidlər, oksigenli turşu-
+ların duzları olan minerallar əmələ gətirirlər. Bura 54 element 
+aiddir: Si, Ti, S, P, F, Cl, Al, Se, Na, K, Ca, Mg və s. Xal-
+kofillər kükürdlə birləşmələr əmələ gətirməyə meyillidirlər: 
+Cu, Zn, Pb, Cd, Ag, Mn, Fe və s. Siderofil elementlər dəmir 
+xəlitələrində həll olaraq dəmirli birləşmələr əmələ gətirirlər: 
+Fe, Ni, Co, P, C, Pt, Au, Sn, Mo və s. Nəhayət, atmofil ele-
+mentlərə aid olanlar: H, N, C, O, He, Ne, Ar, Kr, Xe, Cl, Br, Y. 
+V.M.Qoldşmidt bunlardan xüsusi bir qrup ayıraraq 
+biofil elementlər adlandırmışdır. Hansı ki, bunlar canlı orqa-
+nizmlərdə toplanırlar. Qoldşmidtə görə əsas biofil elementlər 
+bunlardır: C, H, O, N, P, S, Cl, Y. Az da olsa B, Ca, Mg, K, 
+Na, V, Mn, Fe, Cu kimi elementləri də o biofil elementlər qru-
+puna daxil edirdi.V.M.Qoldşmitdin təsnifatına görə bu ele-
+mentlər torpağın maye fazasında olaraq, bərk fazaya da keçə 
+bilir və torpaq proseslərində o qədər də böyük rol oynamırlar. 
+Torpaqşünaslıqda böyük maraq yaradan elementlər təs-
+nifatı landşaftda onların miqrasiya xüsusiyytləridir. Belə bir 
+59
+  
+təsnifat A.İ.Perelman tərəfindən işlənmişdir. O, bütün ele-
+mentləri iki böyük qrupa ayırır: 1) hava miqrantları, 2) su 
+miqrantları. Hava miqrantları qrupuna əsasən passiv ele-
+mentlər xüsusilə təsirsiz qazlar He, Ne, Ar, Kr, Xe, Rn və at-
+mosfer şəraitində kimyəvi birləşmələr əmələ gətirən aktiv 
+elementlər (O, H, C, N, Y) daxildir. 
+A.İ.Perelmana görə su miqrantları qrupu bir neçə yarım-
+qruplara bölünür. Burada əsasən elementlərin mütəhərrikliyi 
+və oksidləşmə-reduksiya proseslərinə təsir etmələri nəzərə 
+alınır. Mütəhərrik və çox mütəhərrik elementlərə aiddir: Cl, 
+Br, S, Ca, Na, Mg, Sr, Ra, F, B. Zəif  mütəhərrik kation və 
+anionları K, Ba, Rb, Li, Be, Cs, Ti, Si, P, Ge, Sn, Sb, As kimi 
+elementlər əmələ gətirilər. Reduksiyaedici qleyli mühiti mütə-
+hərrik Fe, Mn, Co yaradır. Mütəhərrik və zəif mütəhərrik ok-
+sidləşmə qleyli şəraiti isə Zn, Cu, Ni, Pb, Cd elementləri əmə-
+lə gətirir. Lakin geoloji və geokimyəvi problemlərin həlli isti-
+qamətində aparılan konkret kimyəvi proseslərin analizi üçün 
+bu təsnifat kifayət etmir. 
+Biofil dərəcələrinə görə A.İ.Perelman kimyəvi ele-
+mentləri belə sıralandırır:  
+1) maksimum biofillər – C,  
+2) yüksək biofillər – N, H,  
+3) orta biofillər – O, Cl, S, P, B, Br,  
+4) aşağı biofillər – Fe, Al.  
+Elementlərin biofillik dərəcəsinə görə qruplaşdırılması 
+onların canlı orqanizmlərdə rolu və kimyəvi elementlərin miq-
+rasiya prosesini aydınlaşdırmaqdır. 
+Bitkilərin kimyəvi elementləri seçib udma qabiliyyətini 
+bioloji udma koeffisenti adlandırırlar. Bunu isə məlum ele-
+60
+  
+mentin bitki külündə miqdarının həmin elementin litosferdə 
+yaxud torpaqda miqdarına olan nisbətinə görə hesablayırlar. 
+Hər bir elementin torpaqəmələgəlmə prosesində rolunu 
+qiymətləndirmək üçün onların qruplara bölünməsi münasib-
+dir. Bu zaman elementlərin mineralların struktur qəfəslərinin 
+yaranmasında və torpaq kütləsinin əmələ gəlməsində konstitu-
+sion rolu aydınlaşa bilər. Belə olan halda birinci növbədə tor-
+paq silikatlarını və alümosilikatlarını yaradan Si, Al və O-nin 
+rolu məlum olar. Daha sonra üzvi maddələrin əsas kompo-
+nentləri sayılan C, H, N, O-nin nəyə qadir olduqları üzə çıxar. 
+Ümumiyyətlə, torpaq quruluşuna əhəmiyyətli dərəcədə təsir 
+göstərən pedomorf elementlər qrupunun öyrənilməsi xüsusi 
+diqqət tələb edir. 
+ 
+TORPAĞIN ELEMENT TƏRKĠBĠNĠN  
+ĠFADƏ EDĠLMƏ ÜSULLARI 
+ 
+Ən çox yayılan, sadə və ənənəvi  üsullardan biri torpa-
+ğın tərkibinə daxil olan oksidlərin ümumi element tərkibini 
+analiz etməklə hesablamaqdır. Bu üsul əsasən makroelement-
+ləri təyin etmək üçün işlədilir. Torpağın tam ümumi analizin-
+də aşağıda göstərilən oksidləri hesablayırlar: SiO2, Al2O3, 
+Fe2O3 ,TiO2, Na2O, MnO, CaO, MgO, SO3, P2O5, K2O. Bu 
+üsulun yeganə üstün cəhəti odur ki, aparılan analizin dəqiqli-
+yini yoxlamaq tez mümkün olur. İlkin yaxınlaşmada hesabla-
+manı torpağın közərdilmiş çəkisində ali oksidlərin cəmi 
+100%-ə yaxın olmalıdır, buraxılan kənara çıxmalar 1-1,5%-
+dən çox olmamalıdır. Belə yoxlamalar şərti xarakter daşıyır. 
+Çünki elementlərin valentliyi həmişə onların ali oksidlərdəki 
+tutduqları vəziyyətə cavab verə bilmir. Həmçinin elementlərin 
+61
+  
+hamısı torpaqda oksigenli birləşmələrlə təmsil olunmurlar. 
+Yuxarıda saydığımız makroelementlərdən torpaqda Fe, Mn və 
+S müxtəlif dərəcədə oksidləşməyə qadirdilər. Reduksiya olun-
+muş torpaqlarda bəzi elementlər sulfidlər kimi təsvir edilirlər. 
+Məsələn, əgər piritin (FeS2) analizinin nəticələrini oksid for-
+masında ifadə etsək, onda oksidlərin cəmi 200%-dən çox ola-
+caqdır. 
+Lakin torpaqda bütün elementlərin çəkisini oksid for-
+masında ifadə etmək düz olmazdı. Yalnız Ti, Si, Fe, Al və s. 
+torpaqda oksid formasında müxtəlif kristallaşma dərəcəsində 
+mövcuddurlar. Qalan oksidlər torpaqda sərbəst vəziyyətdə 
+mövcud ola bilmirlər. 
+Oksid formada ifadə torpağın tərkibində müxtəlif ele-
+mentlərin kəmiyyətcə nisbətləri haqqında təsəvvür yarada bi-
+lir. Çünki istər çəki, istərsə də mol.-la ifadə də oksigenin payı 
+oksidlərin tərkibində müxtəlif olur. Məsələn, SO3-in tərki-
+bində S 40% təşkil edirsə, K2O-in tərkibində K 83% təşkil 
+edir. Əgər, analiz etdiyimiz torpağın tərkibində 1,5% K2O və 
+0,3% SO3 vardırsa, onda K2O miqdarı həmin torpaqda SO3-
+dən 5 dəfə artıq olduğu məlum olar. Elementin miqdarını he-
+sablasaq, onda görərik ki, kaliumun miqdarı 1,25%, kükür-
+dünkü isə 0,12%-ə bərabərdir. Daha doğrusu həmin torpağın 
+tərkibində K S-dən 10 dəfə çoxdur. Beləliklə, bir daha aydın 
+olur ki, oksidlərin miqdarını bilməklə torpaqda mövcud olan 
+kimyəvi elementlərin kəmiyyətini və onların nisbətlərini də-
+qiq tapmaq mümkün deyil. 
+Torpaqların element tərkibini tam bilmək üçün onların 
+analiz nəticələrinin faizlə ifadə edilməsi bəs eləmir (element 
+yaxud oksid forması). Məlumdur ki, kimyəvi reaksiyalarda ya-
+xud proseslərdə atomlar, ionlar, molekullar iştirak edərək, bir 
+62
+  
+torpaq horizontundan digərinə keçir. Son nəticə isə reaksiyaya 
+girən atomların və molekulların sayından asılı olur. Başqa sözlə 
+desək, prosesin yekunu və intensivliyi reaksiyaya girən maddə-
+nin kütləsi ilə yox, maddə hissəciklərinin sayı ilə ifadə olunur. 
+Misal olaraq dağ qaratorpaqlarında alüminium və dəmiri 
+müqayisə edək. Bu torpağın əkin qatında 9,2% Al2O3 və 3,7% 
+Fe2O3 vardır. Hər iki elementi faizlə ifadə etsək, görərik ki, 
+4,9% Al, 2,6% Fe bu torpağın tərkibində mövcuddur. Bilirik 
+ki, bu elementlərin atom çəkiləri arasında böyük fərq vardır: 
+26,98 və 55,85. Beləliklə, aydın olur ki, 100 q torpaqda bun-
+ların miqdarı 0,18 mol Al və 0,047 mol Fe təşkil edir. Əgər 
+kütlədə Al miqdarı Fe-dən 1,9 dəfə çoxdursa, atomların sa-
+yına görə isə 3,8 dəfə olacaqdır. 
+Başqa bir misal göstərək: çimli-podzol torpaqların E 
+horizontunda 95% CaO və 0,75% MgO olarsa, Ca və Mg 
+miqdarı 0,68 və 0,45% olar. Bu iki elementin faizlə göstərilən 
+miqdarının müqayisəsindən məlum olur ki, Ca miqdarı Mg-
+dan üstündür. Lakin mol-la ifadə edəndə 100 q torpaqda Ca 
+0,17, Mg isə 0,19 mol olur. 
+Ona görə də torpaq komponentlərinin kimyəvi qurulu-
+şunu tədqiq edəndə (xüsusilə transformasiya, miqrasiyanın qa-
+nunauyğunluğu, elementlərin akkumulyasiyası və s.) məlum 
+kütləyə (kq) görə mol-la ifadə etmək daha məqsədə uyğundur. 
+Beynəlxalq vahidlər sisteminə görə mol – sadə və mürəkkəb 
+maddələrdə struktur elementlərinin miqdarı (atomlar, mole-
+kular, ionlar və elektronlar) 12 q 
+12
+C atomuna bərabərdir, daha 
+doğrusu 6,02210
+23
+ (Avoqadro ədədi). 1 kq torpaqda element-
+lərin mol-la miqdarını tapmaq üçün onun torpaqda faizlə miq-
+darının 10 rəqəminə vurub atom kütləsinə bölmək lazımdır: 
+mol/kq = (%10):AK 
+63
+  
+3 saylı cədvəldə müxtəlif üsullarla təyin edilmiş çimli-
+podzollu torpaqların element tərkibi təsvir edilmişdir. Cədvəl-
+dən göründüyü kimi oksidlərin cəmi 89-dan 97%-dək tərəd-
+düd edir. Oksidlərin cəminin ən az müşahidə olunduğu üst ho-
+rizontda (A1E) 89,35% olmuşdur. Çünki burada üzvi maddə-
+lər daha çox toplanır. Oksidlərin miqdarına görə ardıcıllıq 
+sırası belədir: 
+SiO2>>Al2O3>Fe2O3>K2O>MgO, CaO, Na2O 
+Elementlərin hesablanması zamanı bu sıra öz qüvvə-
+sində qalır, lakin elementlərin nisbətində isə dəyişilir. Məsə-
+lən, A1E horizontunda SiO2/ Fe2O3 nisbəti 28,4-ə bərabər 
+olurdursa, Si/Fe=19,0 olur. 
+Nisbətlər əmsalının hesablanması oksidlərin formula-
+sından və elementlərin atom kütləsindən asılıdır. Aşağıda bəzi 
+elementlərin hesablama əmsalını təsvir edək. 
+64
+C
+əd
+və
+l 
+3
+ 
+Ç
+im
+li
+-p
+o
+d
+zo
+ll
+u
+ t
+o
+rp
+a
+q
+la
+rı
+n
+ e
+le
+m
+en
+t 
+tə
+rk
+ib
+i,
+  
+(m
+ü
+tl
+əq
+ q
+u
+ru
+ ç
+ək
+iy
+ə 
+g
+ö
+rə
+) 
+ 
+I.
+ O
+k
+si
+d
+lə
+ri
+n
+ f
+a
+iz
+lə
+ m
+iq
+d
+a
+rı
+ 
+H
+o
+ri
+zo
+n
+t 
+D
+ər
+in
+li
+k
+, 
+sm
+ 
+S
+iO
+2
+ 
+A
+l 2
+O
+3
+ 
+F
+e 2
+O
+3
+ 
+C
+a
+O
+ 
+M
+g
+O
+ 
+K
+2
+O
+ 
+N
+a
+2
+O
+ 
+C
+əm
+i 
+A
+1
+E
+ 
+2
+-1
+1
+ 
+7
+3
+,0
+4
+ 
+8
+,7
+4
+ 
+2
+,5
+7
+ 
+1
+,0
+2
+ 
+0
+,6
+6
+ 
+2
+,2
+2
+ 
+1
+,1
+0
+ 
+8
+9
+,3
+5
+ 
+E
+ 
+1
+1
+-2
+7
+ 
+7
+8
+,4
+3
+ 
+1
+0
+,0
+2
+ 
+2
+,6
+9
+ 
+0
+,9
+2
+ 
+0
+,7
+3
+ 
+2
+,3
+7
+ 
+1
+,2
+0
+ 
+9
+6
+,3
+6
+ 
+E
+ 
+3
+3
+-4
+2
+ 
+8
+1
+,3
+4
+ 
+7
+,8
+3
+ 
+2
+,6
+5
+ 
+1
+,1
+9
+ 
+0
+,7
+2
+ 
+2
+,2
+3
+ 
+1
+,1
+7
+ 
+9
+7
+,1
+3
+ 
+B
+1
+ 
+6
+0
+-8
+7
+ 
+7
+3
+,8
+5
+ 
+1
+1
+,5
+2
+ 
+4
+,3
+9
+ 
+1
+,1
+2
+ 
+1
+,2
+8
+ 
+2
+,7
+1
+ 
+1
+,0
+4
+ 
+9
+5
+,9
+1
+ 
+B
+2
+ 
+9
+0
+-1
+0
+0
+ 
+7
+2
+,4
+9
+ 
+1
+2
+,3
+4
+ 
+4
+,8
+8
+ 
+1
+,1
+7
+ 
+1
+,3
+0
+ 
+2
+,7
+0
+ 
+1
+,1
+0
+ 
+9
+5
+,9
+8
+ 
+B
+3
+ 
+1
+7
+0
+-1
+9
+0
+ 
+7
+0
+,0
+0
+ 
+1
+3
+,5
+9
+ 
+5
+,2
+6
+ 
+1
+,0
+3
+ 
+1
+,7
+6
+ 
+2
+,6
+2
+ 
+1
+,0
+7
+ 
+9
+5
+,3
+3
+ 
+II
+. 
+E
+le
+m
+en
+tl
+ər
+in
+ f
+a
+iz
+lə
+ m
+iq
+d
+a
+rı
+ 
+H
+o
+ri
+zo
+n
+t 
+D
+ər
+in
+li
+k
+, 
+sm
+ 
+S
+i 
+A
+l 
+F
+e 
+C
+ 
+M
+g
+ 
+K
+ 
+N
+a
+ 
+O
+ 
+A
+1
+E
+ 
+2
+-1
+1
+ 
+3
+4
+,1
+8
+ 
+4
+,6
+2
+ 
+1
+,8
+0
+ 
+0
+,7
+3
+ 
+0
+,4
+0
+ 
+1
+,8
+4
+ 
+0
+,8
+2
+ 
+4
+4
+,9
+6
+ 
+E
+ 
+1
+1
+-2
+7
+ 
+3
+6
+,7
+1
+ 
+5
+,3
+0
+ 
+1
+,8
+8
+ 
+0
+,6
+6
+ 
+0
+,4
+4
+ 
+1
+,9
+7
+ 
+0
+,8
+9
+ 
+4
+8
+,5
+1
+ 
+E
+ 
+3
+3
+-4
+2
+ 
+3
+8
+,0
+7
+ 
+4
+,1
+4
+ 
+1
+,8
+5
+ 
+0
+,8
+5
+ 
+0
+,4
+3
+ 
+1
+,8
+5
+ 
+0
+,8
+7
+ 
+4
+9
+,0
+7
+ 
+B
+1
+ 
+6
+0
+-8
+7
+ 
+3
+4
+,5
+6
+ 
+6
+,0
+9
+ 
+3
+,0
+7
+ 
+0
+,8
+0
+ 
+0
+,7
+6
+ 
+2
+,2
+5
+ 
+0
+,7
+7
+ 
+4
+7
+,6
+1
+ 
+B
+2
+ 
+9
+0
+-1
+0
+0
+ 
+3
+3
+,9
+3
+ 
+6
+,5
+3
+ 
+3
+,4
+1
+ 
+0
+,8
+4
+ 
+0
+,7
+8
+ 
+2
+,2
+4
+ 
+0
+,8
+2
+ 
+4
+7
+,4
+3
+ 
+B
+3
+ 
+1
+7
+0
+-1
+9
+0
+ 
+3
+2
+,7
+6
+ 
+7
+,1
+9
+ 
+3
+,6
+8
+ 
+0
+,7
+4
+ 
+1
+,0
+6
+ 
+2
+,1
+7
+ 
+0
+,7
+9
+ 
+4
+7
+,9
+4
+ 
+65
+ 
+ 
+II
+I.
+E
+le
+m
+en
+tl
+ər
+in
+ m
+iq
+d
+a
+rı
+, 
+m
+o
+l/
+k
+q
+ 
+H
+o
+ri
+zo
+n
+t 
+D
+ər
+in
+li
+k
+, 
+sm
+ 
+S
+i 
+A
+l 
+F
+e 
+C
+ 
+M
+g
+ 
+K
+ 
+N
+a
+ 
+O
+ 
+A
+1
+E
+ 
+2
+-1
+1
+ 
+1
+2
+,1
+7
+ 
+1
+,7
+1
+ 
+0
+,3
+2
+ 
+0
+,1
+8
+ 
+0
+,1
+6
+ 
+0
+,4
+7
+ 
+0
+,3
+6
+ 
+2
+8
+,1
+0
+ 
+E
+ 
+1
+1
+-2
+7
+ 
+1
+3
+,0
+7
+ 
+1
+,9
+6
+ 
+0
+,3
+4
+ 
+0
+,1
+6
+ 
+0
+,1
+8
+ 
+0
+,5
+0
+ 
+0
+,3
+9
+ 
+3
+0
+,3
+2
+ 
+E
+ 
+3
+3
+-4
+2
+ 
+1
+3
+,5
+5
+ 
+1
+,5
+3
+ 
+0
+,3
+3
+ 
+0
+,2
+1
+ 
+0
+,1
+8
+ 
+0
+,4
+7
+ 
+0
+,3
+8
+ 
+3
+0
+,6
+7
+ 
+B
+1
+ 
+6
+0
+-8
+7
+ 
+1
+2
+,3
+0
+ 
+2
+,2
+6
+ 
+0
+,5
+5
+ 
+0
+,2
+0
+ 
+0
+,3
+1
+ 
+0
+,5
+8
+ 
+0
+,3
+3
+ 
+2
+9
+,7
+6
+ 
+B
+2
+ 
+9
+0
+-1
+0
+0
+ 
+1
+2
+,0
+8
+ 
+2
+,4
+2
+ 
+0
+,6
+1
+ 
+0
+,2
+1
+ 
+0
+,3
+2
+ 
+0
+,5
+7
+ 
+0
+,3
+6
+ 
+2
+9
+,6
+4
+ 
+B
+3
+ 
+1
+7
+0
+-1
+9
+0
+ 
+1
+1
+,6
+6
+ 
+2
+,6
+6
+ 
+0
+,6
+6
+ 
+0
+,1
+9
+ 
+0
+,4
+4
+ 
+0
+,5
+6
+ 
+0
+,3
+5
+ 
+2
+9
+,3
+4
+ 
+IV
+.E
+le
+m
+en
+tl
+ər
+in
+ m
+o
+l 
+h
+is
+sə
+ci
+k
+lə
+ri
+ (
+m
+o
+l-
+u
+n
+ c
+əm
+in
+d
+ən
+ f
+a
+iz
+lə
+) 
+H
+o
+ri
+zo
+n
+t 
+D
+ər
+in
+li
+k
+, 
+sm
+ 
+C
+əm
+i,
+ m
+o
+l/
+k
+q
+ 
+S
+i 
+A
+l 
+F
+e 
+C
+ 
+M
+g
+ 
+K
+ 
+N
+a
+ 
+O
+ 
+A
+1
+E
+ 
+2
+-1
+1
+ 
+4
+3
+,4
+7
+ 
+2
+8
+,0
+ 
+3
+,9
+ 
+0
+,7
+ 
+0
+,4
+ 
+0
+,4
+ 
+1
+,1
+ 
+0
+,8
+ 
+6
+4
+,6
+ 
+E
+ 
+1
+1
+-2
+7
+ 
+4
+6
+,9
+2
+ 
+2
+7
+,9
+ 
+4
+,2
+ 
+0
+,7
+ 
+0
+,4
+ 
+0
+,4
+ 
+1
+,1
+ 
+0
+,8
+ 
+6
+4
+,6
+ 
+E
+ 
+3
+3
+-4
+2
+ 
+4
+7
+,3
+2
+ 
+2
+8
+,6
+ 
+3
+,2
+ 
+0
+,7
+ 
+0
+,4
+ 
+0
+,4
+ 
+1
+,0
+ 
+0
+,8
+ 
+6
+4
+,8
+ 
+B
+1
+ 
+6
+0
+-8
+7
+ 
+4
+6
+,2
+9
+ 
+2
+6
+,6
+ 
+4
+,9
+ 
+1
+,2
+ 
+0
+,4
+ 
+0
+,7
+ 
+1
+,3
+ 
+0
+,7
+ 
+6
+4
+,3
+ 
+B
+2
+ 
+9
+0
+-1
+0
+0
+ 
+4
+6
+,2
+1
+ 
+2
+6
+,1
+ 
+5
+,2
+ 
+1
+,3
+ 
+0
+,5
+ 
+0
+,7
+ 
+1
+,2
+ 
+0
+,8
+ 
+6
+4
+,1
+ 
+B
+3
+ 
+1
+7
+0
+-1
+9
+0
+ 
+4
+5
+,8
+6
+ 
+2
+5
+,4
+ 
+5
+,8
+ 
+1
+,4
+ 
+0
+,4
+ 
+1
+,0
+ 
+1
+,2
+ 
+0
+,8
+ 
+6
+4
+,0
+ 
+66
+Ġlkin 
+nisbət 
+ Axtarılan 
+nisbət 
+ Hesablama 
+əmsalı 
+SiO2 
+Al2O3 
+→ 
+Si 
+Al 
+→ 0,88 
+SiO2 
+Fe2O3 
+→ 
+Si 
+Fe 
+→ 0,67 
+SiO2 
+CaO 
+→ 
+Si 
+Ca 
+→ 0,65 
+SiO2 
+MgO 
+→ 
+Si 
+Mg 
+→ 0,77 
+SiO2 
+K2O 
+→ 
+Si 
+K 
+→ 0,56 
+SiO2 
+Na2O 
+→ 
+Si 
+Na 
+→ 0,63 
+ 
+Göründüyü kimi hesablama əmsalları eyni olmur. Bu o 
+deməkdir ki, elementlərin toplanması, miqrasiyası, torpaq pro-
+filində paylanması istifadə olunan analiz formalarından asılı 
+olaraq müxtəlifliklə nəticələnir. Kütlə deyil, mol vahidindən 
+istifadə etdikdə daha ziddiyətli nəticələr alınır. 
+Kütlə ilə ifadə etdikdə Al 2-3 dəfə Fe miqdarından çox 
+olur, atomların sayına gəldikdə isə 4-5 dəfə üstün olur (cədvəl 
+3). Ca kütləsi üst horizontlarda Mg-dan 1,5-2 dəfə atomların 
+sayı isə təqribən bərabər olur. Bu oxşarlığı K və Na arasında 
+da müşahidə etmək olur. 
+Ümumiyyətlə, torpaq kimyasında qarşıya qoyulan məsə-
+lədən asılı olaraq analizlərin nəticələrini hesablamaq üçün 
+müxtəlif üsullardan istifadə edilir. Ən çox işlənən üsullar 
+aşağıda göstərilənlərdir: 
+67
+  
+- havada quru torpağa görə hesablama; 
+- mütləq quru torpağa görə hesablama (105
+0
+C); 
+- közərdilmiş torpağa görə hesablama; 
+- humuzsuz torpaq kütləsinə görə hesablama; 
+- karbonatsız torpağa görə hesablama; 
+- humuzsuz və karbonatsız torpağa görə hesablama; 
+- karbonatlı torpağa görə hesablama; 
+- müəyyən torpaq həcminə görə hesablama. 
+Bunlardan başqa elə hesablamalar var ki, tam torpaq 
+kütləsinə görə və bəzən də onun bir hissəsinə görə aparılır. 
+Məsələn, karbonun və azotun miqdarını tam torpaq kütləsinə 
+görə hesablamaq lazımdır, çünki burada olan üzvi maddələrin 
+miqdarını yalnız bu üsulla tapmaq olar. Belə üsul humusun 
+keyfiyyət xüsusiyyətlərini təyin etməyə imkan yaradır. Lakin 
+torpaq nəmliyi dəyişkən vahid olduğundan, yəni nümunənin 
+götürülmə vaxtı, tarlanın vəziyyəti, saxlanma şəraiti, labora-
+toriya havasının nəmliyi və s. amillərdən asılı olduğuna görə 
+hesablamanı 105
+0
+C-də qurudulmuş torpağa görə aparırlar. 
+Hansı ki, nümunələrdən hiqroskopik su çıxarılır, lakin kons-
+titusion suya toxunulmur. Bu zaman təyin olunan elementin 
+miqdarını  əmsalına vururlar. A burada 105
+0
+C-də quru-
+dulmuş torpağın nəmliyidir. Humuzsuz və karbonatsız torpaq-
+larda  əmsalından istifadə olunur. X – torpaqda humusun 
+%-lə miqdarıdır. 
+Element tərkibinə görə torpağın profilində real fərqi 
+müəyyən etmək üçün hesablamanı humuzsuz yaxud karbo-
+natsız nümunələrdə aparırlar. 
+Buna misal olaraq Gədəbəy rayonunun dağ qaratorpaq-
+larının element tərkibinə nəzər yetirək (cədvəl 4). 
+68
+  
+ 
+Cədvəl 4 
+Dağ qaratorpaqlarının profilində Si, Al və  
+Fe paylanması (%) 
+ 
+   Hori-            
+    zont 
+ 
+ 
+ 
+Dərin-   
+lik, sm 
+Mütləq 
+quru çəkiyə 
+görə 
+Humussuz 
+çəki 
+Karbonatsız 
+çəki 
+KözərlilmiĢ 
+karbonatsız 
+çəki 
+Si Al Fe Si Al Fe Si Al Fe Si Al Fe 
+A  0-10 31,9 4,9 2,6 35,8 5,5 2,9 31,9 4,9 2,6 37,0 5,6 3,0 
+A1 40-
+50 
+33,9 5,7 2,7 35,7 6,0 2,8 33,9 5,7 2,7 36,6 6,2 2,9 
+B 100-
+110 
+28,7 4,6 2,4 29,0 4,7 2,4 35,3 5,7 3,0 36,7 5,9 3,1 
+ 
+Bütün torpaq kütləsinə görə (mütləq quru çəkiyə) ele-
+ment tərkibini hesabladıqda profildə fərqlər aydın hiss olunur. 
+Si, Al, Fe maksimal qatılığı 40-50 sm qatlarda təsadüf edilir. 
+Yuxarı və aşağı horizontlar nisbətən kasıbdırlar. Lakin silikat-
+ların yayılması məsələsində nəticə çıxarmağa tələsimək lazım 
+deyil. Bu məsələ haqqında düzgün qərar vermək üçün üst 
+horizontda (0-10 sm) və digər qatlarda humusun miqdarına 
+diqqət ayıraq. 0-10 sm qatda humus 8,0%, 40-50 sm-də 5,1% 
+və ən alt qatda isə (100-110 sm) 1,4% təşkil edir. Bu zaman 
+elə həmin alt horizontda 19% karbonatlar müşahidə edilmiş-
+dir. Artıq profildə Si, Al, Fe miqdarının bu cür fərqlənməsini 
+başa düşmək çətin deyildir. Çünki buna birbaşa profildə üzvi 
+maddələrin və CaCO3 toplanması ilə bağlıdır. Hesablanmanı 
+humuzsuz çəkintiyə görə apardıqda iki üst horizontlarda 
+69
+  
+elementlərin miqdarı təqribən bərabərləşir. Karbonatların tə-
+siri xaric edildikdən sonra iki alt horizontların tərkibi bir-
+birinə yaxınlaşır. 
+Torpaqəmələgəlmə prosesi təkcə kimyəvi dəyişikliklər-
+dən ibarət deyildir bu zaman torpağın həcm kütləsində də 
+böyük dəyişikliklər baş verir. 
+Bu əsasən torpağın mexaniki yumşalması və torpaq-
+əmələgətirən süxurların sıxlaşması zamanı baş verir. Torpağın 
+nisbi sıxlığını iki yolla müəyyən etmək olar: 1) torpağın ele-
+ment tərkibini kütlə vahidi ilə yox, həcm vahidi ilə ifadə et-
+məklə; 2) ehtiyat elementləri hesablamaqla. Adətən ehtiyat 
+elementləri hər horizont üçün ayrıca və bir hektara görə 
+hesablanır. 
+Ehtiyat elementləri ən tez hesablamaq üçün bu formula-
+dan istifadə etmək məqsədə uyğundur. 
+ 
+=1000HVX 
+ 
+Burada  – ehtiyat elementlər, kq/ha; H – dərinlik, sm; 
+V – həcmi kütlə, q/sm
+3
+; X – elementin miqdarı, %-lə.  
+Ehtiyat elementləri torpağın hər bir qatında hesablayır-
+lar. Ümumi ehtiyat elementləri kq/ha, t/ha, q/sm
+2
+ vahidlərin-
+dən istifadə edib və genetik horizontlara görə toplayırlar, mə-
+sələn: 
+ 
+Təcrübədə bunu çox zaman torpağın əkin qatına görə 
+(0-20 sm) və lazım gələrsə 0-50 sm yaxud 0-100 sm qatlarda 
+da hesablamaq olar. 
+Ehtiyat elementlərin analizi imkan verir ki, şumlama, 
+mədəniləşdirmə, meliorasiya işlərindən sonra torpağın kim-
+70
+  
+yəvi tərkibində baş verən bəzi dəyişiklərin səbəbini aydınlaş-
+dıraq. 
+Onu da qeyd etmək lazımdır ki, bir qata görə element-
+lərin miqdarını təyin etmək səhv nəticələnə bilər. Buna tipik 
+misal olaraq şumlanan xam torpaqlarda üzvi karbonun miq-
+darının dəyişilməsini göstərək. 
+Tutaq ki, 0-10 sm qatda üzvi karbonun (Cüzvi) miqdarı 
+C1, 10-20 sm qatda C2-dir. Heç bir təhlil aparmadan bilirik ki, 
+C2<C1-dir. Onda Cüzvi ehtiyatı 0-10 sm qatda belə olacaqdır. 
+ 
+10-20 sm qatda isə 
+ 
+0-20 sm qatında ümumi ehtiyat belə ifadə olacaqdır: 
+ 
+bu şərtlə ki, V1=V2=V olsun. 
+Şumdan sonra orta hesabla 20 sm qatda (Aşum) üzvi 
+karbonun miqdarı aşağıdakı formula ilə ifadə oluna bilər: 
+ 
+Əgər ehtiyat üzvi maddələr dəyişilməzsə, şərti olaraq 
+həcmi kütləni bərabər götürsək onda 
+ 
+    olar, 
+ 
+yaxud  
+ şəklində ifadə olunar. 
+ 
+Məsələnin şərtində qəbul etmişdik ki, C2<C1-dir. 
+Deməli, C3<C1 olması şübhəsizdir. Bu hesablama sadə mənti-
+qi nəticəni bir daha təsdiqləyir ki, Aşum horizontu ilə müqayi-
+sədə A1 horizontunda üzvi maddənin miqdarı tədricən azal-
+malıdır. 
+71
+  
+ELEMENTLƏRĠN MOL NĠSBƏTLƏRĠ 
+ 
+Torpaqəmələgəlmə prosesinin gedişində elementlərin 
+nisbətləri ya sabit qalır, yaxud qanunauyğun şəkildə dəyişilir. 
+Hər hansı cüt elementlərin qatılılıq nisbətlərinin analizi torpa-
+ğın xassələri haqqında mühüm və yeni informasiyalar almağa 
+imkan yaradır. 
+Torpaqşünaslıqda bu cütlüklərin C:H, C:N, C:O, 
+SiO2:Al2O3, SiO2:Fe2O3 nisbətlərinin hesablanması  çox geniş 
+istifadə olunur. Məsələn, C:H nisbəti torpaqda üzvi maddə-
+lərin quruluş tipləri haqqında nəticə çıxarmağa imkan verir. 
+C:N nisbəti humusun azotla zənginləşməsi və bəzi humus 
+əmələgəlmə xüsusiyyətlərini aydınlaşdırır. SiO2:Al2O3 nisbəti 
+gilli mineral tiplərinin müxtəlifliyi üçün xarakterikdir. Həm-
+çinin mineraloji tərkibi təyin edən zaman əlavə diaqnostik 
+əlamət hesab edilir. SiO2:Al2O3 və SiO2:Fe2O3 nisbətlərindən 
+torpağın aşınma qabığının tiplərini və kimyəvi tərkibinin 
+müəyyən edilməsində istifadə edilir. 
+Yuxarıda göstərilən nisbətlərin hesablanması mol vahid-
+ləri ilə ifadə edilir (əvvəllər bu termin atom və ya molekulyar 
+kəmiyyətlər adlanırdı). Elementlərin mol münasibətlərini tap-
+maq üçün analiz nəticəsində alınan rəqəmin faizlə miqdarını 
+onun atom kütləsinə bölmək lazımdır. 
+Onda mol nisbətlərini hesablamaq üçün aşağıdakı 
+formulalardan istifadə edilməlidir: 
+ 
+Burada C(%), H(%) – analiz olunan nümunədə elemen-
+tin faizlə miqdarıdır. 
+72
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SiO2 : R2O3 nisbətini hesabladıqda bilmək lazımdır ki, 
+R2O3 əslində Al2O3+ Fe2O3 cəmi kimi qəbul edilmişdir.  
+ 
+sonra SiO2-in mol sayını bu cəmə bölmək lazımdır. 
+Ona görə də allit fraksiyalarında SiO2 : R2O3<2,5; siallit 
+fraksiyalarında isə SiO2 : R2O3>2,5 olur. 
+Aşınma məhsullarında qələvi və qələvi-torpaq element-
+lərinin itkisini və toplanmasını qiymətləndirmək üçün onların 
+mol nisbətlərini hesablayırlar. 
+ 
+ 
+ 
+ 
+ 
+73
+  
+Hesablama üsulu analoji olaraq yuxarıdakı formada 
+aparılır. Gil minerallarında mol nisbətlərini həm elementlərə 
+həm də oksidlərə görə hesablamaq olar. Məsələn, kaolinitin 
+mol nisbəti Si:Al=1:1 yaxud SiO2 : Al2O3=2 olur. Bu cür 
+nisbət muskovit mineralında da müşahidə edilir. Montmoril-
+lonit qrupu minerallarında bu nisbət (SiO2 : R2O3) 4-ə qədər 
+yüksəlir. 
+ 
+TORPAQ FAZASININ TƏRKĠBĠ 
+ 
+Torpaq proseslərinin mexanizmini araşdırdıqda təkcə 
+element tərkibi az informasiyalı hesab edilir. Torpaqəmələ-
+gəlmə eyni vaxtda, ardıcıl proseslər və kimyəvi reaksiyalar 
+nəticəsində baş verir. Hələlik bu proseslərin tam və təkmil-
+ləşmiş təsnifatı yoxdur. 
+İlkin torpaq-kimyəvi prosesləri aşağıdakı qruplara böl-
+mək olar: 
+1. Torpağın üzvi və mineral komponentlərinin transfor-
+masiya prosesləri. 
+2. Maddələrin köçürülmə prosesləri. 
+3. Torpaq horizontları və profilində spesifik mürəkkəb 
+proseslərin formalaşması. 
+Transformasiya prosesinə daxildir: müxtəlif maddələ-
+rin kimyəvi reaksiyalar zamanı parçalanması, sintezi, yenidən 
+yaranması torpaqəmələgətirən süxurlardan və xaricdən torpaq 
+tərkibinə daxil olmalar. 
+Bura həmçinin minerallar və dağ süxurlarını aşındıran 
+bütün kimyəvi reaksiyalar, həllolmalar, oksidləşmələr, reduk-
+siyalar, hidrolizlər və s. daxildir. Bu qrupa üzvi maddələrin 
+74
+  
+minerallaşması reaksiyaları, humifikasiya prosesləri, qalıq-
+ların birləşmə və həllolma reaksiyaları da aid edilir. 
+Maddələrin köçürülmə prosesləri – torpaqdaxili miq-
+rasiyanı əhatə etməklə, həmçinin torpaq sərhəddindən kənara 
+(atmosferə, suya, süxurlara) maddələrin miqrasiyası kimi 
+anlaşılır. Bu proseslər qrupuna elyuvial, illyuvial, akkumul-
+yasiya, yuyulma, lessivaj və s. daxildir. 
+Torpaq proseslərinin və onun horizontlarının dəyi-
+Ģilməsi – tam, spesifik təzahür forması olub, çoxlu proseslər 
+və reaksiyalardan ibarətdir. Məsələn, qleyləşməni, podzollaş-
+manı və s. bura aid etmək olar. 
+Bu prosesləri başa düşmək üçün daha torpağın element 
+tərkibinə yox, onun molekulyar tərkibinə istinad etmək lazım-
+dır. Artıq konkret reaksiyalarda atomlar deyil, ionlar və mole-
+kulalar iştirak edir. Ona görə də torpaq kimyası real olaraq 
+molekulların xassələrinə əsaslanır. 
+Kütlədən asılı olmayaraq eyni tərkib və eyni termo-
+dinamiki xassələrə malik olan heterogen sistemin homogen 
+hissələrinin məcmusuna faza deyilir. Belə bir tərifdən sonra, 
+aydın olur ki, torpaq çox fazalı sistemdir. Bəzən torpağın 
+ücfazalı sistem (bərk, maye, qaz) kimi ifadə olunması «faza» 
+anlayışı ilə qətiyyən düz gəlmir. Yaxşı olar ki, bərk, maye, 
+qaz hissələri deyilsin. Çünki «faza» termini kimyada və 
+termodinamikada ciddi təyin edilmiş fikri ifadə edir. Lakin 
+torpaqşünaslar faza deyəndə torpağın bərk, maye, qaz və 
+canlı orqanizmləri anlayırlar və biz də bu cür qəbul edirik. 
+Lakin xaricdən olan təsirlər torpaq fazalarının dəyiş-
+məsində böyük rol oynayır. Məsələn, yerin cazibə və maqnit 
+sahələrini buna misal göstərə bilərik. Belə şəraitdə qravitasiya 
+qüvvələrinin təsiri altında torpaq məhlulunun bircinsliliyi hə-
+75
+  
+mişə pozulur. Suyun hərəkəti, temperaturun tərəddüdü atmo-
+sfer və torpaq-hava mübadiləsini həyata keçirir. Bu cür qüv-
+vələrin təsiri altında müxtəlif həcm torpaqlarda torpaq məhlu-
+lu və torpaq havasının dəyişilməsi şübhəsizdir. Praktiki olaraq 
+hər bir kimyəvi element torpaqda olan müxtəlif maddələrin 
+tərkibinə daxildir və eyni vaxtda müxtəlif fazalarda da ola 
+bilər. 
+76
+ 
+III FƏSĠL 
+ 
+TORPAĞIN RƏNGĠ VƏ KĠMYƏVĠ TƏRKĠBĠ 
+ 
+Pedomorf elementlər sırasında torpağın rənginə təsir 
+edən xüsusi yarımqrup elementləri ayırmaq vacibdir. C, Fe, 
+Mn, Ca, Si belə elementlərdən sayılır. Silisium birləşmələri 
+torpaq kütləsinin başlıca hissəsini təşkil edərək ona ağımtıl 
+rəng verir. 
+Torpağın rəngi onun çox mühüm makromorfoloji əla-
+mətlərindən olub, təsnifat və diaqnostika məsələlərində geniş 
+istifadə edilir. Bütün çöl torpaq tədqiqatları onun rənginə 
+istinad edilərək, horizontlara və profillərə ayrılır. 
+1927-ci ildə prof. S.İ.Tyuremnov torpağın rənginə görə 
+formalaşması hipotezini (qara, sarı, qırmızı və ağ) irəli sürdü. 
+Sonra isə üç rəngli spektrə əsaslanan nəzəriyyə qəbul edildi. 
+Rənglər haqqında olan ümumi nəzəriyyə isə torpağa rəng ve-
+rən komponentlərin hamısı nəzərə alınmaqla, spektral əkset-
+dirmə qabiliyyətinə görə spektrofotometrik ölçülərə əsaslandı. 
+Torpağa və onun horizontlarına rəng verən maddələrə 
+torpaq piqmentləri deyilir. 
+Karbon birləşmələri, dəmir, manqan və kükürdün bəzi 
+formaları başlıca torpaq piqmentləri sayılır. 
+Karbonun birləşmələri torpağın rənginə ikitərəfli təsir 
+göstərir. Mineral birləşmələri (torpaq karbonatları) ağ rəng 
+verir. Burada əsasən CaCO3 və MgCO3 başlıca rol oynayır. 
+Üzvi karbon birləşmələri isə torpağa sarımtıl, qonur və yaxud 
+qaramtıl rənglər verir. 
+77
+  
+Manqan adətən torpağa tünd rəng verir ki, bu da piro-
+lyuzitin (MnO2) təsirindən olur. Bəzi metalların sulfidləri də 
+torpağa tünd və ya qara rəng verə bilir. Buna əsasən reduksi-
+yaedici şəraitlərdə rast gəlinir. 
+Torpaq profilinə həm müxtəlif və həm də parlaq rəngi 
+dəmir birləşmələri verir. Qamma rənglər və onun çalarları çox 
+geniş yayılmış dəmir birləşmələri ilə əlaqələndirilir. Bura sarı, 
+samanı sarı, qırmızımtıl, qonur, sarı-yaşıl, yaşıl, qaramtıl 
+rənglər aiddir. Adətən bütün yumşaq torpaəmələgətirən süxur-
+lar müəyyən dərəcədə dəmir birləşmələri ilə rənglənmiş olur. 
+Bu ümumi sarımtıl və qonurvari rənglər torpaq profilində sax-
+lanılır. Lakin dəmirin genetik horizontlar arasında paylanması 
+bu rənglərin zəifləməsi və güclənməsi ilə müşayiət olunur. 
+Torpaq rənglərini qiymətləndirmək çox çətin bir prob-
+lem sayılır, hətta praktiki olaraq torpaq horizontlarını öy-
+rənərkən kimyəvi tərkibdən yaxud digər xassələrdən asılılığını 
+müəyyən etmək mümkün olmur. 
+Ayrı-ayrı elementlərin və onların birləşmələrinin torpaq 
+rənginin formalaşmasında rolunu rənglər ölçüsünün beynəl-
+xalq sisteminə əsaslanaraq qiymətləndirmək lazımdır. Hansı 
+ki, burada şərti rənglərə (göy, yaşıl, qırmızı) təyinetmələr apa-
+rılır. Çox zaman spektral əksetdirmə qabiliyyəti əyrisindən 
+istifadə edilir. 
+ 
+ 
+ 
+ 
+ 
+78
+  
+TORPAĞIN SPEKTRAL ƏKSETDĠRMƏ 
+QABĠLĠYYƏTĠ 
+ 
+Torpaq da başqa cisimlər kimi ona düşən günəş şüala-
+rının müəyyən hissəsini əksetdirmək qabiliyyətinə malikdir. 
+Torpaq rənglərini xarakterizə etmək üçün elektromaqnit tərəd-
+düdlərinin gözlə görünən intervalı (dalğa uzunluğu diapazonu 
+400-750Nm) qəbul edilmişdir. 
+Bütün torpaqların üst qatı kələ-kötürlü olur ki, bu da 
+düşən şüaların müxtəlif istiqamətlərə yayılması ilə nəticələnir. 
+Belə əksetdirməni güzgü əksetdirməsindən fərqli olaraq 
+diffuz əksetdirmə adlandırırlar. 
+Diffuz əksetdirməni kəmiyyətcə xarakterizə etmək üçün 
+iki vahiddən istifadə edilir: 1) əksetdirmə əmsalı; 2) parlaqlıq 
+əmsalı. 
+Bütün istiqamətlərə əksetdirilən şüaların intensivliyinin, 
+torpağın səthinə düşən şüalar selinin intensivlik nisbətinə 
+əksetdirmə əmsalı deyilir. Onun simvolunu « » ilə işarə 
+etsək: 
+ 
+Burada: J – torpağın səthi tərəfindən bütün istiqamətlərə 
+səpələnən şüalar seli; 
+J0 – torpağa düşən şüalar seli. 
+Əksetdirmə əmsalını tapmaq üçün hər tərəfə səpələnən 
+şüaları ölçmək vacibdir. Bunu isə yalnız inteqrir (birləşdirici) 
+sfera yaxud Teylor Ģarının köməyi ilə etmək mümkündür. 
+İnteqrir sfera içi boş, ağzı örtülməmiş şar olub, əksetdiriciliiyi 
+100% olan maddə ilə (MgO, BaSO4) daxili döşənir. Kyuvetə 
+hazırlanmış torpaq nümunəsi qoyulur (şəkil 2). 
+ 
+79
+  
+ġəkil 2. Ġnteqrir (birləĢdirici) Ģarın qurulması  
+(Teylor Ģarı) 
+1 – şarın daxili səthi, 2 – kyuvet, 3 – torpaq qatı, 4 – prizma,  
+5 – fotoelementə düşən şüalar seli,  6 – fotoelement, J0 – 
+düşən şüalar seli, J1 – əksolunan şüalar seli 
+ 
+Beləliklə, torpaq səthindən əks olunan şüalar seli tama-
+milə şarın daxilində qalır və toplanaraq fotoelementə ötürülür. 
+Nəticədə torpaq tərəfindən səpələnən şüaları ölçmək mümkün 
+olur. Əksetdirmə əmsalını yalnız laboratoriya şəraitində təyin 
+etmək olar, xarici amillərdən asılı deyil (yəni günəşin hansı 
+istiqamətdən düşməsinin əhəmiyyəti yoxdur) ancaq torpaq 
+səthi burada əsas rol oynayır. 
+Parlaqlıq əmsalını əksetdirmə əmsalından fərqli olaraq 
+həm çöl həm də laboratoriya şəraitində təyin etmək olar, xari-
+ci amillərdən asılı deyil (yəni günəşin hansı istiqamətdən düş-
+məsinin əhəmiyyəti yoxdur) ancaq torpaq səthi burada əsas 
+rol oynayır. 
+80
+  
+Bunun üçün adi fotometrdən istifadə etmək mümkün-
+dür. Belə ki, konkret baxış bucağından istənilən istiqamətdə 
+əksolunan şüalar seli intensivliyini ölçmək kifayətdir. Bu 
+kəmiyyəti R-lə işarə etsək yuxarıdakı formula ilə parlaqlıq 
+əmsalını tapa bilərik: 
+ 
+ 
+ 
+Burada: J0 – ideal ağ səthdən əksolunma, hansı ki, tor-
+paq nümunəsi üstünə qoyulur; J – torpaq nümunəsi tərəfindən 
+əks olunma (mütləq təyin olunmuş baxış bucağı nəzərə alın-
+maqla). 
+Təbii şəraitdə parlaqlıq əmsalını təyin edərkən ona bir 
+çox amillər öz təsirini göstərir. Məsələn, müşahidə aparılan 
+yerin, bucağın, havanın buludluluq dərəcəsinin, atmosferin 
+tozluluq dərəcəsinin və s. 
+Əksetdirmənin spektral əmsalını monoxromatik şüalan-
+manı təyin etmək üçün edirlər və « » ilə işarələyirlər,  - şüa 
+dalğalarının uzunluğunu göstərir.  Məsələn, əgər əksetdirmə 
+əmsalını ölçdük,  620 nm alındı o zaman bunu  şəklində 
+ifadə edirik. 
+Təbii ki, torpaqlar müxtəlif şüa uzunluqlarını da eyni 
+cür əks etdirməyəcək və « » kəmiyyəti dalğa uzunluqluq-
+larından asılı olaraq 400-750 nm intervalda daima dəyişə-
+cəkdir. Coğrafi təsvirdən asılı olaraq « » dalğa uzunluğunu 
+əksetdirmə spektri adlandırırlar. Hansı ki, bu da torpağın tam 
+spektral əksetdirmə qabiliyyətini xarakterizə edir. 
+Torpaqların əksəriyyəti və genetik horizontlar üçün üç 
+tip spektral əksetdirmə xarakterikdir. Birinci tip spektrlər az 
+meyilli əyrilərlə təsvir olunmuşdur. Müqayisədə görürük ki, 
+spektrin göy rəngindən (400 nm) tədricən qırmızı (750 nm) 
+81
+  
+rənginə qədər yüksəlir (şəkil 3, a). Belə əyrilər humuslu-akku-
+mulyativ horizontlar üçün xarakterikdir. 400 nm-də « » qiy-
+məti 8-15% arasında dəyişəcəkdir. 750 nm-də isə əksetdirmə 
+əmsalı birbaşa humusun miqdarından asılı olacaqdır. Qarator-
+paqlarda -də 15-20%, azhumuslu podzollu torpaqlarda isə 
+35-45% arasında dəyişəcəkdir. Spektral əyrilərin ikinci tipi də 
+birinci tip əyrilərinə oxşardır (şəkil 3, b). Lakin 400-750 nm-
+də çox sürətlə spektral əksetdirmə əmsallarının 20-25%-dən 
+50-60%-ə yüksəlməsi ilə birinci tipdən fərqlənir. Üçüncü tip 
+spektral əyrilərində (şəkil 3, c) 500-600 nm-də çox kəskin bü-
+külmələrə rast gəlirik. Belə tip spektrlər əsasən illyuvial və 
+dəmirli horizontlar üçün xarakterikdir. Bu da sarı-qonur, 
+qonur və qırmızı-qonur rənglərin üstünlük təşkil etməsi ilə 
+əlaqədardır. Tədqiqatın istiqamətindən asılı olan bəzi göstə-
+riciləri nəzərdən keçirək. 
+1. 750 nm dalğa uzunluğunda işığın əksetdirmə əmsalı 
+(  ilə qiymətləndirdikdə). Bu çox informasiyalı göstərici-
+dir. Çünki torpaqla onun əksetdirmə qabiliyyəti arasında olan 
+fərq çox aydın ifadə edilir. Bu əmsal birbaşa torpağın hu-
+musluluq dərəcəsindən asılıdır. Bu kəmiyyətə həmçinin tor-
+pağın çirkliliyi, karbonatlılığı, eroziyaya uğrama dərəcəsi, şor-
+laşması və s. təsir edir. Bütün hallarda bu əmsalın kəmiyyəti 
+humusun miqdarı və tərkibi ilə yaxşı korrelyasiya (kəmiy-
+yətlərin bir-birindən asılılığı) olunur. 
+2. İnteqral (bütöv) əksetdirmə əmsalı ( ). Əsasən -
+nin informasiyaları ilə oxşardır, lakin  kəmiyyətcə -dən 
+nisbətən az olur.  
+82
+а
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ б
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ ъ
+ 
+ 
+ġ
+ək
+il
+ 3
+. 
+T
+o
+rp
+a
+ğ
+ın
+ s
+p
+ek
+tr
+a
+l 
+ək
+se
+td
+ir
+m
+ə 
+q
+a
+b
+il
+iy
+y
+ət
+in
+i 
+g
+ö
+st
+ər
+ən
+ t
+ip
+ik
+ ə
+y
+ri
+lə
+r.
+ 
+ 
+A
+ –
+ h
+u
+m
+u
+sl
+u
+ h
+o
+ri
+zo
+n
+tl
+a
+r:
+ 
+B
+ –
+ b
+əz
+i 
+Ģə
+ff
+a
+fl
+a
+Ģd
+ır
+ıl
+m
+ıĢ
+ 
+h
+o
+ri
+zo
+n
+tl
+a
+r:
+ 
+C
+ –
+ d
+əm
+ir
+li
+ h
+o
+ri
+zo
+n
+tl
+a
+r:
+ 
+1
+ –
+ a
+d
+i 
+q
+a
+ra
+to
+rp
+a
+q
+la
+r,
+ 
+1
+ –
+ p
+o
+d
+zo
+ll
+u
+ h
+o
+ri
+zo
+n
+t,
+ 
+1
+ –
+ q
+əh
+və
+yi
+ t
+o
+rp
+a
+q
+la
+rd
+a
+ B
+ h
+o
+ri
+zo
+n
+tu
+, 
+2
+ –
+ c
+ən
+u
+b
+ q
+a
+ra
+to
+rp
+a
+q
+la
+rı
+, 
+2
+ –
+ k
+va
+rs
+ q
+u
+m
+u
+, 
+2
+ –
+ c
+ən
+u
+b
+ q
+a
+ra
+to
+rp
+a
+q
+la
+rı
+n
+d
+a
+ B
+ h
+o
+ri
+zo
+n
+tu
+, 
+3
+ –
+ q
+ır
+m
+ız
+ıt
+o
+rp
+a
+q
+la
+r,
+ 
+3
+ –
+ k
+a
+o
+li
+n
+it
+. 
+3
+ –
+ q
+ır
+m
+ız
+ıt
+o
+rp
+a
+q
+la
+rd
+a
+ B
+ h
+o
+ri
+zo
+n
+tu
+, 
+4
+ –
+ q
+o
+n
+u
+r-
+m
+eş
+ə 
+to
+rp
+a
+q
+la
+rı
+. 
+ 
+4
+ –
+ k
+a
+o
+li
+n
+it
+ v
+ə 
+d
+əm
+ir
+ o
+ks
+id
+ q
+a
+rı
+şı
+ğ
+ı.
+ 
+ 
+н
+м
+ 
+н
+м
+ 
+н
+м
+ 
+83
+Bunu qrafikdə verilmiş uyğun gələn əyrilərdə daha 
+yaxşı görmək mümkündür (şəkil 4). 
+3. İki dalğa uzunluğunda əksetdirmə əmsallarının fərqi 
+( ). Burada dalğa uzunluqlarının obyektə və ya həll olunası 
+məsələnin məzmununa görə seçmək lazımdır. 650-480 nm 
+intervalında dalğa uzunluğu dəmir oksidin tərkibi və miq-
+darının ölçüsü kimi istifadə edilir. Onda  bu 
+kəmiyyət bir çox torpaqlarda ümumi dəmirin miqdarını yaxud 
+torpaq səthində olan hissəciklərin (dəmir oksidi) miqdarını 
+göstərəcəkdir. İndi daha vacib göstəriciləri nəzərdən keçirək. 
+İnteqral əksetdirmə əmsalı  400-750 nm intervalında 
+torpaq tərəfindən əks olunan işıq selinə bərabər olur. Aydındır 
+ki, burada görünən spektrlər seçilir. Belə ki, ultrabənövşəyi 
+şüaların əks olunması böyük olmadığından diqqəti cəlb etmir. 
+İnfraqırmızı şüalar da bu prosesdə hələ kifayət qədər öyrənil-
+məmişdir. Ona görə də ən yaxşısı gözlə görünən spektrin nəti-
+cələrini nəzərə almaqdır. Hansı ki, bu torpağın kimyəvi vəziy-
+yəti haqqında daha aydın təsəvvür yaradır. -nu tapmaq üçün 
+absis oxu sərhəddinin sahəsini ölçüb (400-750 ni diapazon 
+dalğa uzunluğunda) onu 100% əksetdirmə absis oxunun sər-
+həddinin ümumi sahəsinə aid edirlər. Tapılan bu kəmiyyəti ya 
+vahidin bir hissəsi, yaxud faizlə ifadə edirlər. Yuxarıda qeyd 
+etdiyimiz kimi inteqral əksetdirmə əmsalı adətən  kəmiy-
+yətindən az olacaqdır.  və  göstəricilərinin müqayisəsi 
+daha dolğun informasiyalar almağa imkan yaradır (şəkil 4). 
+Onu da qeyd etmək lazımdır ki, istilik balansını hesabladıqda 
+ kəmiyyətini mütləq nəzərə almaq lazımdır. 
+Fövqaladə dərəcədə vacibdir ki, əksetdirmə qabiliyyəti 
+əyrisinin hansı hündürlükdə və vəziyyətdə sınmasını təyin edə 
+biləsən. Çünki bu məsələ birbaşa dəmir birləşmələri ilə əlaqə-
+84
+  
+lidir. Spektral əksetdirmə əyrisində sınma hündürlüyünü təyin 
+etmək üçün üç düz xətti A və B nöqtələrindən keçirməklə 
+absis oxuna paralel çəkirik (şəkil 5). İndi obyektiv real sınma 
+hündürlüyünü (h) millimetr və ya faizlə ifadə etməklə müəy-
+yən edə bilərik. Sınma hündürlüyünü yarıya bölüb və buradan 
+absis oxuna paralel daha bir xətt keçiririk və nəticədə yarım-
+sınmanın dalğa uzunluğunu tapırıq (λ1/2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ġəkil 4. Torpağın spektral əksetdirmə qabiliyyəti  
+(eyni  və müxtəlif  ilə) 
+1 – şorakət, 86-105 sm;  
+2 – hidromlrf şorakət, 0-2 sm 
+ 
+Bu üsulla «λ» şkalasında sınmanın vəziyyətini obyektiv 
+qiymətləndirməklə, intensivliyini də ordinat oxunda təyin et-
+mək olar. Sınmaların ifadə olunma dərəcələrinə görə bir sıra 
+нм 
+85
+  
+torpaqların xassələrini və parametrlərini qyiəmtləndirmək çox 
+münasibdir. 
+Spektral əksetdirmə qabiliyyəti əyrisinin müxtəlif sahə-
+lərində maillik bucaqları kəmiyyətinin təyin etmədə xeyli kö-
+məyi olur. Belə ki, spektral əyrinin ümumi mailliyini tam 
+şəkildə bucağın tangensi kimi ifadə etsək, onda 
+ 
+ 
+          
+         Burada ( )=350 nm olur. 
+Riyaziyyatda bucağın tangensi ölçüyə sığmayan kəmiy-
+yətdir. Belə ki, surətin  məxrəcə nisbəti uzunluq vahidi ilə 
+ölçülür və bölmə zamanı da ixtisar olunur. 
+Beləliklə, torpaqların və ya süxurların spektral əksetdir-
+mə əyrisini tam xarakterizə etmək üçün aşağıdakı parametrləri 
+bilmək vacibdir. 
+1. İşığın əksolunmasının inteqral əmsalı - ; 
+2. «λ» dalğa uzunluğunda işığın əksolmasının spektral 
+əmsalı - ; 
+3. Spektral əyrinin yarımsınmanın dalğa uzunluğu – λ1/2; 
+4. Sınma hündürlüyü – h; 
+5. Spektral əyrinin maillik bucağının tangensi – ; 
+6. Spektral əyrinin ayrı-ayrı sahələrinin maillik bucaq-
+larının tangensi - ; 
+7. Spektrin ayrı-ayrı sahələrində əksetdirmə əmsalları-
+nın fərqi - . 
+ 
+ 
+ 
+86
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ġəkil 5. Spektral əksetdirmə əyrisinin müxtəlif 
+sahələrində sınma hündürlüyünün (h), yarımsınmanın 
+dalğa uzunluğunun (λ1/2) və maillik bucaqlarının ölçülməsi 
+ 
+Əlbəttə, müxtəlif torpaq tipləri və horizontlarında bu kə-
+miyyətlərin hamısını tapmaq o qədər də vacib deyil. Qarşıya 
+qoyulan problemin həllindən, eləcə də tədqiqatçının qabiliy-
+yətindən, nəzəri bilik səviyyəsindən asılı olaraq seçim edə 
+bilər. 
+Çürüntülü-akkumulyativ horizontun rəngi humusun 
+miqdarından asılıdır. Qaratorpaqlarda bunu axromatik – boz 
+yaxud tünd-boz adlandırırlar. Azhumuslu torpaqlarda əkset-
+dirmədə uzundalğalı şüaların miqdarı nisbətən çox olduğuna 
+görə qırmızıya çalır, daha doğrusu belə torpaqların rəngini 
+qonur-boz və ya boz-qonur kimi qəbul edirlər. 
+Üzvi maddələrin əksetdirmə qabiliyyətinin ən güclü 
+təsiri 700-750 nm hüdudlarında olur. Spektral əksetdirmə 
+əmsalı ilə ( üzvi maddələrin miqdarı arasındakı asılılığı 
+eksponensial tənliklə ifadə edilir: 
+нм 
+87
+  
+ 
+ 
+Burada  olanda əksetdirmə əmsalı; 
+H – torpaqda olan üzvi maddənin miqdarı; 
+e – natural loqarifmanın əsası; 
+K və A=  – tənlikdə sabitdirlər və müxtəlif 
+torpaqlarda fərqli ola bilərlər; 
+ - humuzsuz süxurlarda əksetdirmə əmsalı. 
+ və H arasındakı əlaqənin qrafiki 6-cı şəkildə təsvir 
+olunmuşdur (şəkil 6). Üzvi maddələrin nail olunmuş səviyyəsi 
+(Hi) ilə işarə olunur. 
+ kəmiyyətində humusun sonrakı toplanması orta 
+hesabla sabit qalır. Deməli, H-ın  təsirinin bir hüdudu 
+vardır və aşağıdakı kimi təyin olunur: 
+ 
+ amma O<H<Hi olduqda 
+və 
+ bu şərtlə ki, Hi< H<100%  olsun. 
+ 
+Nəzəri cəhətdən ifadə etsək (şəkil 6) görərik ki,  – 
+daha çox humuslu nümunələrin əksetdirmə əmsalıdır. Çünki 
+burada humus tamamilə mineral hissəcikləri bürüyür, yaxud 
+əhatə edir; Hi – torpaq səthində olan hissəcikləri örtən üzvi 
+maddənin miqdarıdır. 
+88
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ġəkil 6. Spektral əksetdirmə əmsalının  
+üzvi maddələrin miqdarından asılılığı 
+ 
+Torpaqda humusun miqdarı Hi -dən böyük yaxud bəra-
+bər olduqda, əksetdirmə əmsalı olan  çox zaman sabit qalır, 
+və ya nümunənin götürüldüyü zonalardan asılı olaraq dəyişə 
+bilər.  kəmiyyəti humin maddələrinin tərkibi və xassələrin-
+dən, humin və fulvo turşularının nisbətlərindən və eləcə də 
+optiki sıxlığından asılıdır. Əgər humus torpağın bərk fazasın-
+dakı mineral hissəcikləri tam örtməyibsə onların da bu kəmiy-
+yətə təsiri qaçılmazdır. Bu zaman əyrinin ekstrapolyasiyası 
+(kənar qiymətləmə) ordinat oxunu kəsən zamanı  kəmiyyəti 
+(H=0 olduqda) торпаьын щумузсуз mineral hissələrindən və 
+oksidləşmə-reduksiya proseslərindən asılı olacaqdır. Onda 
+A= -  tənliyi -H rabitəsini reallaşdıracaqdır. Əgər dia-
+pazon böyük olarsa istər yerüstü, istərsə də distansion aero-
+89
+  
+kosmik üsullarla torpaqda humusun miqdarını təyin etmək 
+mümkündür. Tənlikdə A və K əmsallarını yalnız ümumi tip 
+(kimyəvi və morfoloji) humusa malik olan torpaqlarda sabit 
+hesab etmək olar: 
+ tənliyini səhra torpaqlarına 
+şamil etmək olar. 
+Çəmən, çimli, torflu, podzollu torpaqlar üçün isə tənlik 
+bu cür ifadə olunacaqdır: 
+ (şəkil 7). 
+Bu onunla izah edilir ki, səhra torpaqlarının humusunda 
+humin turşularının miqdarı çox olduğuna görə daha yaxşı rəng 
+vermə qabiliyyətinə malikdir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ġəkil 7. Torpağın əksetdirmə qabiliyyətinin üzvi 
+maddələrdən asılılığı: 
+1 – orta kəmiyyət, 2 – tərəddüd hüdudları 
+ 
+90
+  
+İnteqral əksetdirmə kəmiyyətləri torpaqların zonal-gene-
+tik sıralarında ciddi ardıcıllıq və gözəçarpacaq dərəcədə fərq-
+lərlə müşayiət olunur (cədvəl 5). Cədvəldən göründüyü kimi 
+ən az əksetdirmə qaratorpaqlarda və tünd-boz meşə torpaqla-
+rında müşahidə edilir. Ən çox əksetdirmə boz torpaqlara məx-
+susdur. Karbonun mineral birləşmələri yəni torpaq karbonat-
+ları üzvi maddələrdən fərqli olaraq spektral əksetdirmə qabi-
+liyyətini artırır. Praktiki olaraq bu funksiyanı CaCO3 və 
+MgCO3 yerinə yetirir. Digər karbonatların iştirakı az müşa-
+hidə edilmişdir. Lyösslü süxurlarda əksetdirmə qabiliyyətinin 
+artmasını onun tərkibində olan CaCO3-la bağlı olduğu artıq 
+sübut olunmuşdur. 
+Üçüncü tip spektrləri torpaqda dəmir oksidləri və hidr-
+oksidlərinin toplanması ilə əlaqələndirirlər. Təmiz kaolinitin 
+spektral əksetdirmə qabiliyyəti 400-550 nm olur, hətta  
+qiyməti 750 nm-də belə dəyişilmir (şəkil 8). Kaolinitdə dəmir 
+oksidin miqdarı artan kimi əksetdirmə qabiliyyəti kəskin su-
+rətdə azalaraq 400 nm-dən aşağı düşür. Şəkildən göründüyü 
+kimi kaolinitə Fe(OH)3 və ya Fe2O3 əlavə edildikdə əyrilərdə 
+bükülmələr hiss edilir. Bu həmin torpaqlarda rənglərin sarı-
+qonurdan qırmızı-qonura kimi dəyişilməsi ilə nəticələnir. 
+Torpağın spektral əksetdirmə qabiliyyətini, onun kəmiy-
+yət tərkibini xarakterizə etmək üçün tədqiq etdikdə, nəzərə 
+almaq lazımdır ki,  və  kəmiyyətləri çox güclü surətdə 
+torpağın nəmliyindən və qranulometrik tərkibindən asılıdır. 
+ 
+ 
+ 
+91
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ġəkil 8. Dəmir birləĢmələrinin torpağın əksetdirmə 
+qabiliyyətinə təsiri 
+1 – kaolinit,  
+2 – kaolinit + Fe(OH)3;  
+3 – kaolinit + Fe2O3 
+ 
+  
+нм 
+92
+  
+Cədvəl 5 
+Torpağın humuslu horizontunda iĢığın inteqral 
+əksetdirmə tərəddüdlərinin hüdudu və orta qiymətləri 
+ 
+Torpaqlar 
+Ġnteqral 
+əksetdirmənin 
+orta arifmetik 
+kəmiyyəti % 
+Orta 
+arifmetik 
+səhvlər 
+Tərəddüdlərin 
+ehtimal 
+hüdudları 
+P=0,95 
+Dağ-çəmən 9,3 0,31 6,9-11,7 
+Torflu 7,9 0,49 4,7-11,1 
+Çəmən və 
+çəmən-bataqlıq 
+13,1 0,52 9,5-16,7 
+Çimli-podzol 16,9 0,78 10,5-23,3 
+Açıq-boz meşə 21,1 0,57 17,2-25,0 
+Boz meşə 18,1 0,54 13,9-22,3 
+Tünd-boz meşə 7,4 0,41 4,1-10,7 
+Tipik 
+qaratorpaqlar 
+8,2 0,25 6,4-10,0 
+Adi 
+qaratorpaqlar 
+7,9 0,18 6,4-9,4 
+Qafqazyanı 
+qaratorpaqlar 
+11,6 0,32 8,9-14,3 
+Şabalıdı 13,2 0,21 11,6-14,8 
+Açıq-şabalıdı 21,8 0,32 19,3-24,3 
+Boz torpaqlar 27,7 0,28 25,7-29,7 
+Qırmızı 
+torpaqlar 
+18,6 0,17 17,4-19,8 
+Sarı torpaqlar 16,6 0,45 13,4-19,8 
+ 
+Qeyd: P – ehtimal səviyyəsi 
+93
+ 
+IV FƏSİL 
+ 
+TORPAQDA QƏLƏVİ VƏ QƏLƏVİ-TORPAQ  
+ELEMENTLƏRİNİN BİRLƏŞMƏLƏRİ 
+ 
+Torpaqda D.İ.Mendeleyevin elementlərin dövri siste-
+minin I və II qrup elementləri çox geniş hüdudlarda variasiya 
+edərək, müxtəlif forma və birləşmələr əmələ gətirirlər. Torpaq 
+və süxurlarda bu makroelementlərdən ən çox Na, K, Mg və 
+Ca olur, onların miqdarı kütlədə tam faizlərlə ifadə olunur, 
+yaxud 0,3-0,9 M/kq-a çata bilir (cədvəl 6).  Bu qrupun qalan 
+elementləri kəmiyyətcə miqdarına görə mikro və ultramikro-
+elementlərə aid edilir. 
+Qələvi metallara ancaq Li-Cs yarımqrupu elementləri 
+aid edilir. Bunların oksidləri su ilə qarşılıqlı təsirə girəndə qə-
+ləvilər əmələ gəlir. Bu elementlər xarici elektron təbəqəsində 
+olan yeganə elektronu çox asanlıqla verə bilirlər və bir valent-
+li kation əmələ gətirirlər. Xarici elektron təbəqəsində bir elek-
+tronla təsvir olunurlar s
+1
+, ancaq K, Rb və Cs-un tamamlanma-
+mış orbitalları mövcuddur. Torpaq kütləsinin formalaşmasın-
+da real konstitusion rolu ancaq kalium və natrium oynayır və 
+bir çox birləşmələrin qurulmasında fəal iştirak edirlər. 
+ 
+ 
+ 
+ 
+ 
+ 
+94
+Cədvəl 6 
+I və II qrup elementlərinin torpaqda və litosferdə  
+orta hesabla miqdarı , % 
+ 
+Element Litosfera Torpaq Element Litosfera Torpaq 
+Li 210
+-2 
+310
+-3 
+Be n10
+-4 
+n10
+-4 
+Na 2,0 0,63 Mg 2,1 0,63 
+K 1,1 1,36 Ca 2,6 1,37 
+Rb 410
+-3 
+n10
+-3 
+Sr 510
+-2 
+510
+-2 
+Cs 110
+-4 
+610
+-4 
+Ba 0,10 610
+-2 
+   Ra - 810
+-7 
+ 
+Torpaqların və süxurların tərkibində kalium və natrium 
+müxtəlif qrup birləşmələr əmələ gətirirlər. Bunların çox his-
+sələri turş və əsası minerallar sayılan çöl şpatı və slyudalarda 
+mühüm birləşmələr əmələ gətirərək, torpaq uducu komplek-
+sində və həll olan duzlarda mübadiləvi kationları (K
++
+ və Na
++
+) 
+kimi iştirak edirlər. 
+Müxtəlif formalı kalium və natrium birləşmələrinin nis-
+bətlərini torpaqda element kimi yayılmalarını və müxtəlif 
+ehtiyat növlərini N.İ.Qorbunov aşağıdakı kimi təklif etmişdir. 
+Bu elementlərin torpaqda ümumi miqdarını o, ümumi ehtiyat 
+adlandırır. Hansı ki, bura sonrakı ehtiyat növlərini də aid edir. 
+Torpaqdan aqrokimyəvi üsulla ayrılan çəkintidə olan miqdarı 
+– bilavasitə ehtiyat adlandırılır. Bura əsasən duzlarda həll 
+olan kationlar və mübadiləvi kationlar aid edilir. Torpağın il 
+fraksiyasında olan elementlərin miqdarı yaxın ehtiyat adlanır. 
+Bura qatlar arası zonalarda yerləşən mineralların şişmiş qəfəs-
+lərində olan kationlar aiddir. Potensial ehtiyat elementləri 
+plagioklaz və çöl şpatlarında olmaqla, qranulometrik element-
+lərinin ölçüləri 0,001 mm olan fraksiyaların tərkibinə daxildir-
+lər (cədvəl 7). 
+95
+Cədvəl 7 
+K və Na-un bəzi torpaqların ehtiyat qatlarında 
+yayılması  (mq/100 q torpaqda) 
+ 
+Torpaqlar 
+Dərinlik, 
+sm 
+Ehtiyatlar 
+Potensial Yaxın Bilavasitə Ümumi 
+Kalium 
+Çimli-podzollu 
+0-10 1408 236 7 1651 
+29-37 1324 295 7 1626 
+48-56 1273 378 9 1660 
+100-110 939 520 10 1469 
+Dağ 
+qaratorpaqları 
+0-10 1082 622 14 1718 
+70-80 950 671 15 1636 
+270 934 739 12 1685 
+Natrium 
+Şoranlar 
+1-3 361 129 6 496 
+3-15 376 179 224 779 
+15-30 343 199 316 858 
+40-50 434 163 217 814 
+60-75 465 119 74 658 
+200 422 161 75 658 
+ 
+Ümumi ehtiyatın miqdarı torpağın qranulometrik və 
+mineraloji tərkibindən asılıdır. Yüngül torpaqlarda bütün 
+ehtiyat növləri aşağı olur. Kaolinit gilləri üzərində inkişaf 
+etmiş torpaqlarda ehtiyat növləri daha az olur. Yaxın ehtiyat 
+növü əhəmiyyətli dərəcədə mübadiləvi kationların həcmindən 
+asılıdır. Şorlaşmış torpaqların bilavasitə ehtiyat növündə 
+kalium və natriumun miqdarı maksimum həddə çatır. 
+Kalium əsasən çöl şpatının və alümosilikatlar qrupun-
+dan olan slyudanın tərkibinə daxildir. Kalium tərkibli çöl 
+96
+şpatlarına torpaqda mikroklin, ortoklaz, sanidin, adulyaz for-
+masında rast gəlinir və ümumi formulası K[AlSi3O8] şəklində 
+təsvir olnur. Kaliumun çöl şpatları və slyudanın tərkibindəki 
+miqdarı 8-14%-ə qədər olur (cədvəl 8). 
+Natrium isə plagioklazın izomorf sırasından olan albitin 
+Na [AlSi3O8]  tərkibində olaraq, miqdarı 7,8%-ə qədər çatır. 
+Plagioklazın başqa bir izomorf qarışığı olan albit və anortitin 
+(Ca[AlSi3O8]Na) tərkibində də natriuma rast gəlmək olar. 
+Natrium və kalium bir tipli birləşmələr əmələ gətirir, la-
+kin geokimyəvi cəhətcə fərqli olurlar. Buna misal olaraq Na-
+un çöl şpatlarında, kaliumun isə slyudalardakı miqdarını gös-
+tərə bilərik. 
+Cədvəl 8 
+K və Na tərkibli bəzi minerallar 
+ 
+Minerallar Formulası 
+Miqdarı, % 
+Na K 
+Çöl şpatları 
+Ortoklaz K[AlSi3O8] - 14 
+Albit  Na[AlSi3O8] 9 - 
+Feldşpatlar 
+Nefelin mNaAlSiO4 + nKAlSiO4 + 
+pCaAlSiO4 + NaAlSi3O8 
+- - 
+Na-nefelin  16 - 
+K-nefelin  - 25 
+Leysit KalSi2O6 - 18 
+Analsim NaAlSi2O6H2O 10 - 
+Slyudalar 
+Biotit K(Mg, Fe)3[AlSi3O10](OH,F)2 - 6 
+ 
+97
+Cədvəl 8-in davamı 
+Minerallar Formulası 
+Miqdarı, 
+% 
+Na K 
+Muskovit KAl2[AlSi3O10](OH)2 - 9,8 
+Floqopit KMg3[AlSi3O10](OH, F)2 - 8,6 
+Hidroslyudalar    
+Hidromuskovit KAl2[(Si,Al)4O10](OH)2  nH2O - - 
+İllit  - 5,4 
+Sulfatlar 
+Tenardit Na2SO4 32 - 
+Mirabilit Na2SO4  10H2O 14 - 
+Qlauberit Na2Ca(SO4)2 16 - 
+Poliqalit K2MgCa2(SO4)4 2H2O - 13,9 
+Boratlar 
+Bura Na2B4O7 10H2O 12 - 
+Nitratlar 
+Natrium şorası NaNO3 27 - 
+Kalium şorası KNO3 - 38,6 
+Xloridlər 
+Qalit NaCl 39 - 
+Karnalit MgCl2  KCl  6H2O - 14 
+ 
+Bu fərqlər həmin elementlərin kimyəvi xüsusiyyətləri 
+ilə bağlıdır. Belə ki, eyni gücə malik olan bu ionlar K
++
+ və Na
++
+ 
+hidratasiya dərəcələrinə və ion radiuslarına görə fərqlənirlər: 
+ 
+ 
+98
+Göstəricilər:    Na
++
+  K
++
+ 
+İon radiusu,     0,98  1,33 
+Hidratasiya sayı  
+(su molekulları ionlara görə)  9-11  5-6 
+Hidratlaşmış ionların radiusu,  7,9  5,3 
+ 
+Kaliumun slyudalara uyğunlaşması kristal-kimyəvi xü-
+susiyyətləri ilə əlaqələndirilir. Slyudalar üçqatlı silikatlara 
+aiddirlər, hansı ki, hidrargillit tipli oktaedr qatları tetraedr sili-
+sium oksidlərinin iki qatları arasında yerləşir. Tetraedr qatla-
+rında dörd ionlu Si
+4+ 
+və Al
+3+
+ yerləşmişdir ki, bunlar da çoxlu 
+əks qüvvələr yaradır. Lakin kalium ionları bunları kompensa-
+siya edə bilir. Yuxarıda göstərildiyi kimi kalium ionunun radi-
+usu 1,33  bərabərdir, oksigen ionunun radiusu da təqribən 
+buna yaxındır – 1,36 . Belə olan halda kalium slyuda paket-
+lərini bir-birinə sıx bağlaya bilir ki, bu da termodinamiki əla-
+qələr üçün sərfəli hesab edilir. Na
++
+ ionunun ölçüsü bildiyimiz 
+kimi K
++
+-dan kiçikdir (0,98 ), Li
++
+ ionunun radiusu lap kiçikdir 
+(0,68 ), yəni bunların heç biri slyudalarda kaliumu əvəz edə 
+bilməz. 
+Na və K elementlərinin bu xüsusiyyətlərini qranulomet-
+rik fraksiyalarda yayılmaları və miqdarı daha aydın göstərir 
+(cədvəl 9). 
+ 
+ 
+ 
+ 
+ 
+ 
+99
+Cədvəl 9 
+Şoran torpaqların müxtəlif fraksiyalarında  
+Na və K miqdarı, % 
+ 
+Fraksiyalar, mm 
+Horizont A1 Horizont C 
+Na K Na K 
+< 0,001 0,29 2,02 0,31 2,20 
+0,001-0,005 1,20 1,98 1,44 1,96 
+0,005-0,01 1,34 1,40 1,28 1,37 
+0,01-0,05 1,16 1,33 0,88 1,05 
+0,05-0,25 0,24 0,60 0,44 0,50 
+0,25-0,5 0,09 0,14 0,04 0,07 
+Bütöv torpaqda 0,74 1,46 0,84 1,24 
+ 
+Cədvəldən göründüyü kimi hər iki elementin miqdarı 
+fraksiyalarda kəskin surətdə fərqlənir. Şoranların qum frak-
+siyasında Na və K miqdarı kəsikn surətdə aşağı düşür. Hətta 
+torpaqla müqayisədə 10 və 20 dəfə azalma müşahidə edilir ki, 
+bu da kvars və kvars tərkibli mineralların olması ilə əlaqə-
+ləndirilir. Toz fraksiyasında hər iki elementin miqdarı artır və 
+0,001 mm-dən kiçik fraksiyalarda yenə Na azaldığını görürük. 
+Ancaq K miqdarı fasiləsiz olaraq qum fraksiyasından il fraksi-
+yasına qədər yüksəlir. Bu həmin fraksiyalarda lay-lay silikat-
+ların olması ilə bağlıdır. 
+100

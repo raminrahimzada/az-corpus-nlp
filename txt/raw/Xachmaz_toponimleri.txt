@@ -1,0 +1,3073 @@
+Qələmşah İdrisov
+XAÇMAZ 
+TOPONİMLƏRİ
+Kitab AMEA Nəsimi adına Dilçilik
+İnstitutu Elmi Şurasının 14 may 2010-cu il
+tarixli iclasının qərarına əsasən çap olun -
+muşdur (protokol № 3)
+“Şərq-Qərb”
+Bakı – 2011
+Müəllif kitabın nəşrində maddi və mənəvi köməyə görə
+millət vəkili İlham Əliyevə, Xaçmaz rayon İcra Hakimiyyətinə
+və Adıgözəl Tağıyevə dərin minnətdarlığını bildirir.
+Elmi redaktorlar: M.İ.Əliyev
+filologiya elmləri doktoru, professor 
+AMİ Quba filialının direktoru
+Q.İ.Məşədiyev
+filologiya elmləri doktoru, professor
+AMEA Nəsimi adına Dilçilik İnstitutu 
+Onomastika şöbəsinin müdiri
+Rəyçilər: İ.B.Kazımov
+filologiya elmləri doktoru, professor 
+İ.M.Tahirov
+filologiya elmləri doktoru,
+AMEA Nəsimi adına 
+Dilçilik İnstitutunun elmi katibi
+Qələmşah Seyidəhməd oğlu İdrisov. Xaçmaz toponimləri.
+Bakı, “Şərq-Qərb” Nəşriyyat evi, 2011, 104 səh.+ 16 səh.illüst.
+Kitabda ilk dəfə olaraq Xaçmaz rayonunun kənd və qəsəbə adları tarixi-
+linqvistik istiqamətdə təhlil olunur. Burada oykonimlərin yaranma yolları,
+quruluşunun linqvistik əsasları müəyyənləşdirilmiş, yaşayış məntəqə adlarının
+məna və mənşəyindəki bir sıra mübahisəli məsələlərə aydınlıq gətirilmişdir.
+Oykonimlərin etimoloji təhlilinə də kitabda diqqət yetirilmişdir.
+Kitabdan filoloji təhsil alanlar, müəllim və tədqiqatçılar, eləcə də mövzu ilə
+maraqlanan oxucu kütləsi istifadə edə bilər.
+ISBN 978-9952-34-626-8
+© Qələmşah İdrisov, 2011
+© “Şərq-Qərb” Nəşriyyat evi, 2011
+
+4
+XAÇMAZ RAYONU AZƏRBAYCANIN ƏN GÖZƏL
+ GU ŞƏLƏRİNDƏN BİRİDİR. BURADA TƏBİƏT DƏ
+GÖ ZƏL DİR, TORPAQ DA MÜNBİTDİR VƏ BUN-
+LARIN HAMISINDAN ƏHƏMİYYƏTLİ ODUR Kİ,
+BURANIN ADAMLARI DA QƏHRƏMANDIR,
+FƏDAKARDIRLAR.
+Heydər  Əliyev
+Azərbaycan xalqının ümummilli lideri
+5
+BİZ XAÇMAZ RAYONUNUN TİMSALINDA BU
+GÜN AZƏRBAYCANDA APARDIĞIMIZ SİYASƏTİN
+NƏTİCƏ LƏ RİNİ GÖRÜRÜK.
+İlham Əliyev 
+Azərbaycan Respublikasının Prezidenti
+6
+XAÇMAZ ÇOX DƏYİŞİB, ABADLAŞIBDIR.
+KÜ ÇƏ LƏR SALINIB, BİNALAR BƏRPA OLUNUB,
+ABAD LIQ, İNKİŞAF HİSS OLUNUR. DEMƏLİ,
+BUNU ETMƏK MÜMKÜNDÜR. SADƏCƏ İSTƏK
+OLMALI, ADAMIN ÜRƏYİ YANMALIDIR.
+Azərbaycan Respublikasının Prezidenti 
+cənab İlham Əliyevin 
+xaçmazlılarla görüşündəki nitqindən
+7
+XAÇMAZ RAYONUNDA HƏQİQƏTƏN BÖYÜK
+QURUCULUQ İŞLƏRİ GEDİR, XAÇMAZLILAR
+ZƏHMƏT, ƏMƏKSEVƏR İNSANLARDIR.
+İlham Əliyev
+56 saylı Xaçmaz kənd seçki dairəsindən
+seçilmiş millət vəkili
+8
+MƏN NAXÇIVANDA İŞLƏDİYİM VAXT HEYDƏR
+ƏLİYEV BÖYÜKLÜYÜNÜN, BU DAHİ İNSANIN
+XALQINA, VƏTƏ NİNƏ SƏDAQƏTİNİN HƏMİŞƏ
+ŞAHİDİ OLMUŞAM.
+Şəmsəddin Xanbabayev
+Xaçmaz rayon İcra Hakimiyyəti Başçısı
+9
+MƏN FƏRƏHLƏNİRƏM Kİ, MÖHTƏRƏM PREZİ-
+DENTİMİZ İLHAM ƏLİYEV MƏNƏ ETİMAD GÖS -
+TƏRƏRƏK XAÇMAZA GÖNDƏRDİ. VAR QÜVVƏMLƏ
+ÇALIŞIRAM Kİ, DÖVLƏT BAŞÇISININ MƏNƏ GÖS -
+TƏR DİYİ BU ETİMADI DOĞRULDAM. 
+Şəmsəddin Xanbabayev
+Xaçmaz rayon İcra Hakimiyyəti Başçısı
+10
+ÖN SÖZ
+Bu gün müstəqil Azərbayсan dövləti Ümummilli liderimiz
+Heydər Əliyev tərəfindən əsası qoyulmuş möhtəşəm təməl üzərində
+möhtərəm prezidentimiz cənab İlham Əliyevin rəhbərliyi ilə sürətlə
+və dinamik surətdə inkişaf edir. Dövlət başçımız cənab İlham
+Əliyevin böyük uzaqgörənliklə qəbul etdiyi “Regionların sosial-iqti-
+sadi inkişafı Dövlət Proqramı”nın uğurla həyata keçirilməsi
+nəticəsində son illər respublikamızın bütün bölgələrində olduğu
+kimi, Xaçmaz rayonunda da irimiqyaslı işlər həyata keçirilir. Xaç-
+maz günü-gündən inkişaf edir, abadlaşır, müasir bir şəhərə çevrilir.
+Görülən işlərə əhalinin, sadə xaç maz lı ların çox böyük qiymət
+verməsi, yaradılan gözəlliklərin qorunub saxlanması bizim üçün
+böyük əhəmiyyət kəsb edir. Möhtərəm prezidentimizin son illərdə
+3 dəfə rayonumuzda olması və səfərləri zamanı gördüyümüz kiçik
+işlərə böyük qiymət verməsi isə bizim üçün çox əhəmiyyətli ol-
+maqla bərabər, daha çox və səmərəli işləmək üçün bir stimul yaradır.
+Tez-tez respublika mətbuatında, televiziya kanallarında işıq lan -
+dırılan Xaçmazın bugünkü nailiyyətləri, xaçmazlıların döv lətimizə,
+onun rəhbərlərinə olan böyük rəğbətin və məhəbbətin ifadəsidir.
+Elinə, obasına, bütövlükdə Vətəninə böyük məhəbbətin nə ti cə -
+si olaraq filologiya elmləri namizədi Qələmşah İdrisоvun rayonun
+80 illiyinə ithaf etdiyi “Xaçmaz toponimləri” kitabı da Xaç mazın
+bugünkü tarixini dəyərləndirən əhəmiyyətli bir nümunədir. 
+Doğma Vətənini, torpağını sevən, ölkəsinin tarixinə hörmət
+bəsləyən, keçmişinə ehtiramı olan şəxslər ən böyük hörmətə
+layiqdirlər. Yaşadığı torpağın tarixini araşdırmaq, bunu gələcək
+nəsillərə çatdırmaq çox çətin, lakin olduqca şərəfli işdir. Öz xal -
+qının, yaşadığı torpağının tarixini bilmək isə ən sadə vətəndaşa belə
+ucalıq gətirən bir dəyərdir.
+Azərbaycan Milli Elmlər Akademiyası Nəsimi adına Dilçilik
+İnstitutu Elmi Şurasında müzakirə edilib nəşr olunması məsləhət
+görülən “Xaçmaz toponimləri” kitabının rayonumuzun tarixini,
+eləcə də dilimizin tarixini öyrənmək sahəsində xüsusi rolu vardır.
+11
+Toponimlər vasitəsilə biz xalqın, ona məxsus qəbilə, tayfa, yer-yurd,
+şəxs və s. kimi adların ətraflı öyrənilməsinə nail ola bilir və bu
+adların nəsildən-nəslə ötürülməsinə yardımçı oluruq.
+Müəllif haqlı olaraq qeyd edir ki, Xaçmaz rayonu əraziləri
+qədim türkdilli xalqların yaşayış məskənlərindən biri olmuşdur.
+Müxtəlif dövrlərdəki könüllü və məcburi miqrasiyalar onun etnik
+tərkibinin də müxtəlifliyinə təkan vermiş, bu miqrasiyalar nəti -
+cəsində rayon ərazilərində bir çox etnonim və antroponim mənşəli
+toponimlər yaranmışdır.
+Məlumdur ki, tarixi torpaqlarımızın böyük bir hissəsi başqa
+dövlətlərin ərazisinə qatılmış, minilliklər ərzində azərbaycanlıların
+yaşadıqları bu torpaqlara 1828-ci ildə Rusiya ilə İran arasında
+bağlanmış Türkmənçay müqaviləsindən sonra İran və Türkiyədən
+ermənilər, daha sonra isə Rusiya ərazilərindən ruslar kütləvi surətdə
+köçürülmüşdülər. Belə köçürmələr Xaçmaz rayonu ərazi lə rindən də
+yan keçməmiş, məskunlaşdıqları ərazi topo nim lərində öz izini
+buraxmışdır. Bir çox yaşayış məntəqələrinin adları dəyişdirilmiş,
+yaxud da yeni yaşayış məskənləri salınaraq onlara yad dil tərkibli
+toponimik adlar verilmişdir.
+Dilimizin leksik sistemi uzun müddət zorla dəyişdirilən bu
+adların təsiri altında qalsa da, respublikamız müstəqillik əldə
+etdikdən sonra həmin yaşayış məntəqələrinin, demək olar ki,
+hamısının tarixi adları rayon rəhbərliyinin təşəbbüskarlığı və təkidi
+nəticəsində özünə qaytarılmışdır. Bu toponimlərin sistemli şəkildə
+tədqiqi sahəsində həmyerlimiz, dilçi alim Q.İdrisovun əməyi
+danılmazdır.
+Görkəmli alimlərin müsbət rəy verdikləri “Xaçmaz toponim -
+ləri” kitabını biz də yüksək qiymətləndirir, müəllif əməyini bu
+sahədə atılmış uğurlu addım kimi dəyərləndirir və Qələmşah
+müəllimə yeni-yeni yaradıcılıq uğurları diləyirik.
+Şəmsəddin Xanbabayev
+Xaçmaz rayon İcra Hakimiyyəti Başçısı
+SƏNƏTDƏN ELMƏ GEDƏN YOL
+Müəllim, rəssam və şair kimi tanıdığım filologiya elmləri
+namizədi Qələmşah Seyidəhməd oğlu İdrisovun bir vaxtlar mənə
+hədiyyə etdiyi şeirlər kitabından oxumuşdum:
+Mənə könül verən qız
+Bilmədin sevgi nədi!
+Sən yerdə axtarırsan,
+Mənim sevgim göydədi.
+Bu nümunəni elə-belə çəkmədim. Çünki sevgisi göydə olan
+kəslərin mənəviyyatı bütövlükdə ilahi sevgi ahənginə bürünür.
+İstər poetik, istər təsviri, istərsə də elmi yaradıcılığında olsun,
+Qələmşah müəllimin əsas sevgi obyekti Vətən, el-oba və insan
+mənəviyyatıdır. Haqqında söz açacağım kitab da onun doğulub
+boya-başa çatdığı el-obasına böyük məhəbbətin təzahürüdür. 
+Mən Qələmşah müəllimlə 10 ildən çoxdur ki, tanışam. Onun
+bütün yaradıcılıq şaxələrinə yaxından bələdəm. Onda olan çox -
+şaxəli istedad bu tanışlığı daha da möhkəmləndirdi və dostluğa çe-
+virdi. Rəsmdə, sözün bədii ifadəsində, elmi araşdırmalarda
+Qə ləm şah müəllimin özünəməxsus dəsti-xətti və üslubu var.
+Əyalətdə yaşasa da tez-tez mətbuatda bir-birindən maraqlı
+elmi-publisistik yazıları ilə çıxış edir. Təbiət gözəlliklərinin,
+insanların daxili aləminin, mənəvi dünyasının tərənnümü nəsrlə
+nəzmin vəhdəti şəklində Q.İdrisovun yaradıcılığında daha güclü
+əks olunur. 
+Q.İdrisov 50-dən çox elmi, metodiki, publisistik yazıların müəl -
+lifidir. Hazırda nəşrə hazırlanan “Xaçmaz toponimləri” adlı kitabı
+müəllifin sayca dördüncü kitabı olsa da, mən deyərdim ki,
+tədqiqatçılıq baxımından bu, daha yüksək dəyərə malikdir. Xalqın
+12
+tarixi qədər onun dilinin təşəkkül tarixinin də qədimliyini əsas
+meyar göstərən müəllif əsərdə “xaçmaz” sözünü türk mənşəli
+qədim xeçmatak//xaçmatak tayfaları ilə bağlayır. Çünki dilimizin
+özəyini Azərbaycan torpaqlarındakı türk əsilli soyların dili təşkil
+etmiş və onlar zaman-zaman öz etnik tərkibləri ilə bu ərazilərdə
+toponimik izlər buraxmışlar.
+Ümumi leksikanın tərkibinə daxil olan Xaçmaz toponim lə rin -
+dəki bir qisim oykonimlər (Qarğalıq, Qaradağlı, Qırağlı, Qara -
+qurdlu və s.) uzun müddət ümumişlək söz kimi anlaşılmışdır.
+Doğrudur, müəyyən mənbələrdə etnotoponimlər haqqında ensik-
+lopedik məlumatlara rast gəlirik. Ancaq onların yaranma yolları,
+quruluşunun linqvistik əsasları, mənşə mənzərəsi məhz bu əsərdə
+öz əksini tapır.
+Xaçmaz toponimlərini təşkil edən toponimik laylar və onların
+inkişaf xüsusiyyətlərinin açılması, aydınlaşdırılması dilçiliyin
+vacib məsələlərindən biri kimi əsərdə tədqiqatın əsas məzmununu
+təşkil edir. Bu layların qruplaşdırılaraq dil baxımında təhlili alimin
+böyük uğuru kimi qiymətləndirilməlidir.
+İnanırıq ki, Q.İdrisovun “Xaçmaz toponimləri” kitabı təkcə mü -
+tə xəs sislərin deyil, eləcə də geniş oxucu kütləsinin böyük mara -
+ğına səbəb olacaqdır.
+Sənətdən elmə doğru gedən bu yolda həmkarıma yeni yara dı -
+cılıq uğurları arzulayıram.
+İsmayıl Kazımov
+filologiya elmləri doktoru, professor
+13
+XAÇMAZIN
+A məndən Xaçmazı soruşan bəndə,
+Qoy deyim, ucadır başı Xaçmazın.
+Neçə tarixləri qoyub arxada
+İllər, əsrlərdi yaşı Xaçmazın.
+Öpür sahilini aynalı Xəzər,
+Kəndi, qəsəbəsi xalıya bənzər
+Bəzəksiz-düzəksiz incə bir gözəl,
+Ləldi, cəvahirdi daşı Xaçmazın.
+Dərbəndə bağlıdır dostluq telləri, 
+Birdir uluları, birdir elləri 
+Neçə qəhrəmanı, igid ərləri…
+Qələbədir hər yarışı Xaçmazın.
+Dirilik suyudur Şollar bulağı,
+Nabran heyran qoyar gələn qonağı.
+Bülbüllər yurdudur bağçası, bağı,
+Sanki, yay kimidir qışı Xaçmazın.
+Hər küçə laləzar, hər park gül-çiçək,
+Baxdıqca baxmaqdan doymayır ürək
+Gəzməyə nə London, nə Paris gərək,
+Bir cənnətdir hər qarışı Xaçmazın.
+Qələmşah İdrisov
+14
+XAÇMAZIN  XƏRİTƏSİ
+15
+16
+RAYONUN İNZİBATİ – ƏRAZİ VAHİDLİKLƏRİ*
+Sıra №-si Nümayəndəlik Nümayəndəliyə daxil olan 
+yaşayış məntəqələri
+1. Xaçmaz şəhəri Xaçmaz şəhəri
+2. Xudat şəhəri Xudat şəhəri
+3. Müqtədir qəsəbəsi Müqtədir (qəsəbə) 
+Vələmir (kənd)
+4. Yeni həyat qəsəbəsi Həbibkənd
+Yeni həyat (qəsəbə) 
+5. Nabran Dalğalı 
+Günəşli 
+Meşəli 
+Nabran 
+Samurçay 
+Şimali 
+Tel 
+Turist 
+6. Qalağan Ərəb
+Hacılar 
+İlxıçı 
+Keymərəz 
+Qalağan 
+Sayad 
+7. Çarxı Çarxı
+Xanlıqoba 
+8. Hülövlü Bəyqışlaq 
+Canaxır 
+Hülövlü
+Qaradağ buduq 
+Qaradağlı 
+Qobuqıraq 
+Mehrəliqışlaq 
+Mürsəlliqışlaq 
+Rəhimoba
+Ustacəlilli (Ustacallı)
+*Qeyd: Xaçmaz rayonu üzrə İƏV (İnzibati-Ərazi Vahidlikləri)
+01.01.2011-ci il məlumatına əsaslanmışdır.
+17
+9. Aşağı Zeyd Aşağı Zeyd
+Çılğır 
+Qaracıq Zeyd
+Qaraçaycek 
+Qədiməliqışlaq
+Şıxhapıt 
+Qaracıq 
+Alıcqışlaq
+10. Yergüc Armudpadar 
+Padar 
+Sərkərli 
+Üçgün 
+Yergüc 
+11. Hacıəlibəy Ağyazı Buduq 
+Arzu 
+Bayoba
+Hacıəlibəy
+Suxtaqalaqışlaq 
+12. Qaraçı Cığatay 
+Çaxmaqlı 
+Gülalan 
+Hacıqurbanoba
+Qaraçı 
+Qaraqaşlı 
+Qaraqurdlu 
+Laman 
+13. Niyazabad Əbilyataq
+İlxıçı (H.Əfəndi)
+Qarabağlı 
+Niyazabad 
+İlxıçı 
+Qarğalıq 
+Ağçay 
+14. Qımılqışlaq Çuxuroba 
+Qadaşoba 
+Qımılqışlaq 
+Maşıoba 
+Mirzəməmmədkənd
+Mollabürhanlı 
+Şıxlar 
+Ağarəhimoba
+Hacıisaoba
+18
+15. Müşkür Bəbəli
+Xaspoladoba 
+Köhnə Xaçmaz
+Müşfiq 
+Müşkür 
+Müzəffəroba
+Gəncəli
+Əzizli
+16. Əhmədoba Əhmədoba
+Hacıəhmədoba
+Hacıqazma 
+Qaracallı
+17. Nərəcan Çiləgir
+Mənçəroba
+Mürşüdoba 
+Nərəcan
+Sabiroba 
+Ağtala 
+18. Alekseyevka Alekseyevka 
+Gödəkli
+19. Uzunoba Baraxum 
+Xəzərli 
+Krasnı Xutor 
+Məcidoba
+Şərifoba 
+Tikanoba 
+Uzunoba 
+Yataqoba 
+20. Qusarçay Ağaverdioba 
+Balaqusarqışlaq 
+Həsənqala
+Qusarçay 
+21. Çinartala Ağaşirinoba 
+Çinartala 
+Qıraqlı 
+Manafoba
+Palçıqoba
+22. Dədəli Bostançı 
+Dədəli
+Hacıəbdürrəhimoba 
+Kiçik Baraxum 
+Nağıoba 
+Sabiroba 
+19
+23. Pirquluoba Hacıməmmədoba
+Qoçaqlı
+Pirquluoba 
+Yeni Sudur 
+24. Susayqışlaq Çaxçaxlı
+Maqsudkənd
+Pərdiqıran 
+Susayqışlaq 
+Şollar
+25. Ləcət Ləcət
+Moruqoba 
+Tağaroba 
+26. Seyidlikəndyeri Aslanoba 
+Aşağıoba 
+Xuray 
+Sahillər
+Seyidlikəndyeri
+27. Yalama Düztahiroba 
+Xanoba 
+Ortaoba 
+Səlimoba 
+Ukuroba 
+Yaquboba 
+Yalama 
+Zuxuloba 
+28. Köhnə Xudat Aşağı Ləgər
+Digahoba 
+Fərzəlioba 
+İdrisoba 
+Köhnə Xudat 
+Seyidlər 
+XAÇMAZ
+ENSİKLOPEDİK MƏLUMAT
+Azərbaycanda inzibati rayon. Şimal-qərbdən Dağıstan, qərbdən
+Qusar və Quba rayonları, cənubdan Dəvəçi rayonu və şərqdən
+Xəzər dənizi ilə sərhədlənir. Rayon əsasən Samur-Dəvəçi
+düzənliyində, qismən Qusar maili düzənliyinin bir hissəsində
+yerləşir. Rayonun mərkəzi Xaçmaz şəhəridir. Rayon 1930-cu il
+avqust ayının 8-də yaradılmış, 1963-cü ildə ləğv edilərək ərazisi
+Quba və Qusar rayonlarına verilmişdir. 1965-ci ildə yenidən
+müstəqil rayon olmuşdur. Ərazisi 1063 km2, əhalisinin sayı 
+2010-cu ilin məlumatına görə 162,4 min nəfərdir. Bunun 40 minə
+qədəri Xaçmaz şəhərində, qalanı isə ətraf yaşayış məskənlərinin
+payına düşür. Xaçmaz rayonunda mövcud 150 yaşayış məntəqəsi
+146 kənd, 2 qəsəbə və 2 şəhərdən ibarətdir.
+Şəhər Bakıdan 163 km aralı, Qudyalçayın sahilindədir.
+Yaşayış məntəqəsi kimi özü XVIII əsrin əvvəllərindən salınsa
+da, tarixi mənbələrdə “Xaçmaz” toponimik adına VII–IX əsr
+müəlliflərinin əsərlərində rast gəlinir. Rayon ərazisindən (Tel,
+Sərkərtəpə) Daş dövrünə aid tarixi maddi-mədəniyyət nümunələri
+tapılmışdır. Qədim memarlıq abidələrindən Şıxlar kəndində Şeyx
+Yusif türbəsi (XV əsr), altıüzlü türbə (XIX əsr) var.
+Ümumiyyətlə, Xaçmaz rayonu ərazisində 62 memarlıq abidəsi
+qeydə alınmışdır. Bunlardan ikisi – Sərkərtəpə və Canaxır
+kurqanları dünya əhəmiyyətli, digərləri isə dövlət əhəmiyyətli
+abidələrdir.
+İri yaşayış məntəqələri Xaçmaz, Xudat şəhərləri və Nərəcan,
+Çarxı, Qusarçay kəndləridir.
+Şəhər XIX əsrin 90-cı illərində tikilmiş dəmiryol stansiyası
+əsasında salınmışdır.
+Nəqliyyat vasitəsinin kodu 27, telefon kodu 172, poçt kodu isə
+AZ 2700-dür.
+20
+XAÇMAZIN ETİMOLOGİYASI HAQQINDA 
+MÜLAHİZƏLƏR
+Azərbaycan ərazisində “xaç” komponentli aşağıdakı topo -
+ nimlər qeydə alınmışdır: Xaçal Kəkər oronimi (Balakən ra -
+yonunda dağ. Oronimlərə dağ, təpə, dərə, düz, aşırım, bir sözlə,
+coğrafi relyef quruluşlu adları bildirən onomastik vahidlər da -
+xildir), Xaçbulaq hidronimi (Daşkəsən rayonunda çay. Hidronim
+su obyektlərinin adlarını bildirən toponimik vahiddir), Xaçbulaq
+oykonimi (Daşkəsən rayonunda kənd. Oykonim kənd, qəsəbə,
+şəhər, bir sözlə, yaşayış məskənlərinin adlarını bildirən toponimik
+vahiddir), Xaçın hidronimi (Kür çayının bir qolu), Xaçınabad
+oykonimi (Beyləqan rayonu ərazisində kənd), Xaçınçay hidronimi
+(Ağdam rayonu ərazisində su anbarı), Xaçındərbətli oykonimi
+(Ağdam rayonunda kənd), Xaçıntak hidronimi (Xocalı rayonunda
+çay), Xaçısər oronimi (Şəmkir rayonunda dağ), Xaçmazqışlaq
+oykonimi (Oğuz rayonunda kənd), Xaçmaz oronimi (Xocavənd
+ərazisində dağ) və bir neçə Xaçmaz oykonimi. Bunlardan üçü
+Oğuz və Cəlilabad rayonları eyniadlı inzibati ərazi vahidində və
+Şuşa yaxınlığında kənd, digəri isə Xaçmaz rayonunun mərkəzi
+şəhəridir.
+Göründüyü kimi, Azərbaycanda Xaçmaz həm makro, həm də
+mikro onomastik vahidlər kimi mövcuddur. Bu, təkcə oykonim
+kimi yox, həm də oronim və hidronimlərdə öz yaşarlığı ilə diqqəti
+cəlb edir.
+Xaçmaz haqqında tədqiqatçıların müxtəlif fikirləri var. Bizi də
+məhz “xaçmaz” sözünün mənşəyi, onun etimologiyası maraqlan -
+dırır. Bu məqsədlə sözün mənşəyi və onun necə meydana gəlməsi
+haqqında xeyli araşdırmalar apardıq. Bir çox müəlliflərin Xaçmaz
+haqqındakı yazılarını izlədik.
+Əvvəlcə “xaçmaz” sözünün komponentlərinə diqqət yetirək:
+İlk baxışdan sadə görünən bu söz xaç və maz tərkiblərindən ibarət
+21
+olmaqla bir çox tədqiqatçıların əsərlərində öz linqvistik həllini
+tapmışdır. Zənnimcə, bunların bir neçəsinə nəzər yetirsək,
+məsələnin mahiyyətinə aydınlıq gətirmiş olarıq.
+Qorqudşünas alim Əcdər Fərzəli “xaç” sözünün xristianlıqla
+heç bir əlaqəsi olmadığı qənaətindədir. Müəllif “Xaç – od ni şa -
+nıdır” adlı məqaləsində qeyd edir ki, “xaç” sözü və “xaç” özü
+Azərbaycanda xristianlığın yayılmağa başladığı vaxtdan da qabaq
+mövcud olmuşdur (18). 
+Əməkdar elm xadimi, professor Mirəli Seyidov “xaç” sözü
+haqqında maraqlı məlumat verir: “Biz təbii bir hadisəni yada
+salmaq istəyirik. Günəş şüası – yaruqu gözdə, suda, şüşədə, ay-
+nada xaç-artar (artar V.V.Radlovun lüğətində Günəş şüası kimi
+göstərilir – Q.İ.) kimi əks olunur. Əski oğuzlar və bir çox  türkdilli
+qəbilə birləşmələri bu təbii hadisəni müşahidə etmiş, onu özlərinin
+Günəş, sonralar təktanrılıq, sonsuzluq inamları ilə bağlamışlar.
+Deməli, artar-xaç xristianlıqdan qabaq mifik təfəkkürdə olmuşdur
+və Günəşin, odun bəlgəsidir.”
+Müəllif daha sonra yazır: “Artarın – xaçın mü qəd dəs -
+ləşməsində başqa bir səbəb də var. Əski insan iki ağacı bir-birinə
+artar şəklində sürtərək od alırmış. Beləliklə də, artar-xaç odun
+bəlgəsinə çevrilmişdir. Əski insan odu müqəddəs saydığından onu
+yaradan artarı, ağacı, xaçı da müqəddəsləşdirmişdir. Xaç fələyin
+çərxi anlayışı, yaşarılıq, əbədilik anlayışları ilə birləşdikdən sonra
+artarın hər ucuna çərxi-dövranın hərəkətinin istiqamətini
+birləşdirmək üçün xətt artırmaqla ona yaşarılıq sifəti də
+verilmişdir” (40, 424–425).
+“Azərbaycanın Şimal qapısı – Xaçmaz” kitabının müəllifi pro-
+fessor Fəxrəddin Nərimanoğlu Xaçmazın 1200 illik tarixə malik
+olduğunu yazır. O, “xaçmaz” sözünün etimologiyasına başqa
+mövqedən yanaşır: “Məlumdur ki, Şimali Azərbaycanda tarixən
+mövcud olmuş Albaniya feodal dövlətində xristianlıq dövlət dini
+olmuşdur. Xəzərsahili torpaqlarda isə indiki Xaçmaz rayonu
+ərazisində yaşayan tayfalar, demək olar ki, bu dini qəbul etməmiş,
+kökü ta qədimlərə gedib çıxan Atəşpərəstlik dininə meyilli
+22
+olmuşlar. Bunu nəzərə almayan bəzi yazarlar səhv olaraq “Xaç-
+matak” toponimini “xaçpərəst xalq” kimi mənalandırırlar. Hal-
+buki qədim türk dilində “maz” inkar şəkilçisi kimi işlənmişdir.
+Məsələn: qorxmaz, tükənməz, etməz, eşitməz və s. Bu tutarlı dəlili
+nəzərə alsaq, “Xaçmaz” terminini “xaç sındıran”, “xaçı qəbul
+etməyən” kimi mənalandırmaq daha düzgün olardı” (38, 18). 
+Zənnimcə, müəllifin “xaçmaz” sözünün “xaç sındıran”, “xaçı
+qəbul etməyən” kimi mənalandırması düzgün olmazdı. Çünki
+Azərbaycan ərazisində 10-dan çox “xaç” komponentli oykonim,
+oronim və hidronim mövcuddur. Həm də buradakı “xaç” tərkibinin
+xristianlıqla heç bir əlaqəsi yoxdur.       
+Göründüyü kimi, tədqiqatçıların “xaç” sözü haqqında apar dıq -
+ları təhlillərdən aydın olur ki, bu sözün xristianlıqdan çox əvvəllər
+təfəkkürdə olması və odla bağlılığı fikri daha inandırıcıdır.
+Bir çox mənbələrdə də “xaç” (dörd guşəli, dörd gözlü, dörd
+yanlı və s. mənalarda) sözünün türk mənşəli söz kimi Azərbaycan
+toponimiyasında geniş şəkildə işləndiyi qeyd olunur. 
+Bu məsələnin birinci tərəfidir. İndi isə “xaçmaz” sözündəki
+“maz” tərkibinin araşdırılmasındakı bəzi məqamlara diqqət
+yetirmək istərdik.
+“Maz” topoformantının müxtəlif variantları (maz//mas//moz)
+Azərbaycan və İran toponimiyasında geniş yayılmışdır: Mazan-
+daran, Masallı, Mazımçay, Mazam, Xaçmaz və s.
+“Avesta”nın sözlüyünü işləmiş Mobid Firuz Azərkəşsbin
+fikrincə, zərdüştlülərin tanrılarından olan Məzdanın adı “məz”dən
+yaranmışdır. Kökcə türk dillərindən alınan məz, məs – böyük
+deməkdir (47, 70).
+“Ümumi türk tarixinə giriş” kitabında da “massaget ” sözü
+“böyük ket” kimi izah olunur.
+Buna əsaslanan toponimçi alim R.Əliyeva Abşeron yarı ma da -
+sı nın şor göllərindən biri olan Masazırı da “Böyükşor” kimi
+mənalandırmağı məqbul sayır (13, 86).
+Tarixçi-alim İmammirzə Şahbazov “xaçmaz” sözünü qədim
+türkdilli xeçmatak//xaçmatak tayfaları ilə bağlayaraq tərkibindəki
+23
+“maz” (maso) komponentinin “balıqyeyən” (Qədim Avestaya
+görə) mənasında olduğu qənaətindədir. Daha sonra o, “Dostluq”
+qəzetində Xaçmaz haqqında dərc etdirdiyi məqalədə qeyd edir ki,
+massagetlər su hövzələrində, su sahillərində yaşayıb balıq ovu ilə
+məşğul olmuşlar. Deməli, massaget anlayışını mas və ket kimi
+başa düşsək, onda Xaçmaz toponimindəki mas//maz hissəsi üçün
+Qədim Avestadakı “maso” sözünü əsas götürmək olar. O, belə
+qənaətə gəlmişdir ki, “xaçmaz” sözü qədim Masqut dövlətindəki
+xeçmatak//xaçmataq adlı tayfanın (əyalətin) etimologiyası ilə
+əlaqədar yaranmış və həmin tayfalar su hövzələrində (Samurun
+yuxarı hissəsində) yaşamışlar.
+VII əsr coğrafiyasında da qədim xeçmatak//xaçmataq tayfala -
+rının Samur çayı boyunca yerləşməsi göstərilir. 
+Tədqiqatçı müəllimlər Fazil Seyidov və İbrahim Əsgərov da
+“Dostluq” qəzetinin (№ 5) yanvar 1990-cı il buraxılışında müxtəlif
+mənbələrə istinad edərək “Xaçmaz haqqında nə bilirik?” adlı
+məqalədə yazırlar ki, “xaçmaz” sözü “heçmatik” etnonimi əsasın -
+da yaranmışdır. V əsr tarixçisi Favstos Buzanskinin qeydlərinə
+əsaslanan müəlliflər heçmatakların Samur və Vəlvələ çayları
+arasındakı ərazilərdə yaşadıqlarını yazırlar. Müəlliflərə görə Xaç-
+maz yaşayış yeri kimi Qudyalçayın sahilində XV əsrdən də əvvəl
+mövcud olmuşdur. Məqalədə göstərilir: “Ehtimal etmək olar ki,
+yaxınlıqda yerləşən orta əsr Niyazabad şəhəri XIII əsrdə monqol-
+lar, bir az sonra isə şimaldan basqın edən köçərilər tərəfindən
+darmadağın edildikdən və elmi ədəbiyyatda Dəyirmantəpə kimi
+qeyd olunan yaşayış yerində XIV əsrdən həyat söndükdən sonra
+əhali əsasən Xaçmaz yaşayış yerində məskən salmağa başlayır. Bu
+da öz növbəsində bu yaşayış yerinin inkişafına, ərazisinin bö yümə -
+sinə və nəticədə XV əsrdə yaşayış yerinin şəhərə çevrilməsinə
+səbəb olmuşdur» (42). 
+“Azərbaycan toponimlərinin ensiklopedik lüğəti”ndə Xaçmaz
+şəhəri adının hazırkı Köhnə Xaçmaz kəndinin adı ilə bağlı olduğu
+göstərilir. Şəhərin dəmiryol stansiyası ətrafında genişlənməsi ilə
+əlaqədar yaşayış məskəni böyümüş və Xaçmaz adlandırılmışdır.
+24
+Hazırda şəhərə birləşdirilmiş Xaçmaz kəndinin əhalisi vaxtilə tat
+dilində danışan xristianlar olmuşdur. Bu əhalinin qədim xaçmatak
+(xaçpərəst xalq) tayfasından olması ehtimal edilir (8, 234).
+Bəzi müəlliflər xaçmatak (xaçpərəst xalq) tayfasının adını
+çəkməyə ehtiyat edirlər. Amma bu ehtiyatlı yanaşmadan istifadə
+edərək bəzi müasir xaçpərəst müəlliflər “xaçmaz” sözünü öz milli
+mənafelərinə uyğun istiqamətə yönəldirlər. 
+Məlumdur ki, islamiyyətə qədər türklər dini etiqadlarına görə
+xaçpərəst, atəşpərəst, bütpərəst olmuş, bir-birindən fərqli inanc -
+larla müxtəlif ayinlər icra etmişlər. Bu, təxminən eramızın VII
+əsrinə qədərki dövrü əhatə etmişdir. Buna görə də, “Azər baycan
+toponimlərinin ensiklopedik lüğəti”ndə Xaçmaz kəndinin (Köhnə
+Xaçmaz – Q.İ.) əhalisinin vaxtilə tat dilində danışan xristianlar
+olması kimi göstərilməsi heç bir şübhə doğura bilməz.
+F.Xalıqov müxtəlif mənbələrə əsaslanaraq yazır ki, tat türk
+sözüdür. Türk dilində göstərilən leksik vahid “zəli”, “zəlil”,
+“yabançı” mənalarındadır. Bu leksik vahid əvvəllər İran dillərində
+işlənsə də, sonralar türkdilli xalqlar onu iranlıların özlərinə
+qaytarıb, onları, yəni irandilli xalqları tat (tacik) adı altında
+birləşdirmişdir (20, 110).
+N.Nəbiyev tatların IV əsrdə Sasanilər dövründə Azərbaycan
+ərazilərinə köçmələrini yazır (37, 193).
+Q.Qeybullayevə görə tatlar xristianlığın hökm sürdüyü
+dövrlərdə Albaniyaya köçmüşlər. Bu dövr bizim eramızın I
+əsrindən VI əsrə qədərki dövrü əhatə edir. Ona görə də onların bir
+hissəsi xristianlığı qəbul etmiş, böyük bir hissəsi isə atəşpərəst
+olduqlarından ərəb işğalından sonra islam dinini qəbul edib
+müsəlman olmuşlar (54, 183).
+Azərbaycanda tatların üç qrupu məlumdur: müsəlman tatlar,
+xristian tatlar və cuhud tatları. B.Savina müsəlman tatlarının
+farslarla qaynayıb-qarışmalarını qeyd edir (56, 143).
+Beləliklə, belə bir nəticəyə gəlmək olar ki, Xaçmaz ərazisinin
+qədim sakinləri türk mənşəli xeçmatak/xaçmatak tayfaları olmuşlar.
+25
+Bu tayfaların böyük bir hissəsi atəşpərəst olduğundan ərəb
+istilasından sonra islamiyyəti qəbul etmişlər. Xristianlığı qoruyub
+saxlamağa çalışan bir qisim tayfalar isə Albaniyanın şimalına, Baş
+Qafqaz silsiləsinin yamaclarına və indiki Dağlıq Qarabağ əra -
+zilərinə çəkilmişlər. “Xaç” komponentli toponimlərin bu əra zi lər -
+də çoxluq təşkil etməsi, fikrimizcə, bu ehtimalı inandırıcı göstərir.
+Xaçmazın bir yaşayış məskəni kimi tarixi çox qədimdir.
+Mənbələrdə “Xaçmaz” toponimik adına XVIII əsr müəlliflərinin
+əsərlərində daha çox rast gəlinir. 
+Müşkür mahalı (Xaçmaz) Quba xanlığının tərkibində olduğu
+üçün professor Şahin Fərzəlibəylinin “Quba tarixi” kitabında bu
+barədə mümkün qədər fakt və materiallar verilmişdir. Kitabda
+qeyd olunur ki, Rusiyanın İrandakı səfiri A.P.Volinski dvoryan
+Adrian Lopuxinə Niyazabaddan Rusiya sərhədinə qədər mövcud
+olan Azərbaycan torpaqları barədə icmal xarakterli məlumat
+toplamağı və həmin məlumatı şəxsən onun özünə çatdırmağı
+barədə sərəncam verdi. A.Lopuxin əlahəzrət çarın (I Pyotrun –
+Q.İ.) tapşırığına təcili əməl etmək üçün yubanmadan səfərə
+başlayır: “Biz iki kəndi keçdik. Onlardan biri Hacı Davud bəyin
+yeri idi ki, biz Xaçmaz (indiki Köhnə Xaçmaz kəndi nəzərdə tutu-
+lur – Q.İ.) adlanan o yerdə gecələdik. Quba şəhərinə isə günortaya
+yarım saat qalmış çatdıq (43, 43).
+“Материалы для новой истории Кавказа с 1722 до 1803 год
+П.Г. Буткова” adlı əsərdə Azərbaycan toponimləri içərisində
+“Xaçmaz” toponiminin “Kaçmaş” kimi qeyd olunduğu göstərilir
+(13, 19-20).
+Başqa bir mənbədə oxuyuruq: “Quba qəzasına ermənilər XVIII
+əsrin sonlarında Qubalı Fətəli xanın zamanında gəlmişdilər və
+Gilvar ilə Xaçmaz (indiki köhnə Xaçmaz kəndi nəzərdə tutulur –
+Q.İ.) kəndlərində sakin olmuşdular. Bu kəndlərin erməniləri keçən
+əsrin ortalarına kimi (XIX əsrin – Q.İ.) tat dilində danışırdılar və
+bir kəlmə də olsa erməni sözü bilmirdilər. Fəqət eyni zamanda
+xristianlığı mühafizə edə bilmişdilər. İndi isə bu ermənilər öz ana
+dillərində danışırlar (Xaçmazı tərk etmişlər)” (51, 30).
+26
+Mənbələrdə ermənilərin bu ərazilərə 1768-ci ildə Cavad xanlığı
+Şimal-şərqi Azərbaycan birliyinə – Quba xanlığına tabe olduqdan
+sonra köçürülməsi göstərilir. Qaradağ və Ərdəbildən olan bu
+erməni köçəriləri mal-qarasını Muğan qışlağına gətirirdilər. M.
+Vəlilinin (Baharlı) göstərdiyi kimi, onlar xristianlığı qoruyub
+saxlasalar da tat (fars) dilində danışırdılar. 
+İran dövləti XVIII əsrin 70-ci illərində Quba xanlığının Rusiya
+ilə yaranmaqda olan isti münasibətlərə mane olmağa çalışırdı.
+Bunun üçün İran şahı Kərim xan Zənd müxtəlif üsullardan –
+rüşvət, təxribat, “kəbin diplomatiyası”, etnik köçürmə siyasəti,
+hətta hərbi yürüşlərdən də istifadə edirdi (43, 79).
+Tarixən başqa dini-etnik mənşəyə mənsub xalqların bir
+ərazidən başqa bir əraziyə köçürməsi siyasəti öz dövründə siyasi
+qələbə kimi qiymətləndirilsə də, köçürülənlər getdikcə məs -
+kunlaşdığı dövlətin ərazisində başqa dövlətlər üçün bir “daxili
+nüvə silahı” rolunu oynamışdır.
+“Quba tarixi” kitabında erməni ailələrinin Şamaxı, Müşkür,
+Dərbənd ərazilərinə köçürmələri haqqında məlumat verilir. Fətəli
+xan Dərbəndin yuxarı hissəsində – Narınqalada əvvəlcə yüzdən
+çox erməni ailəsini yerləşdirmiş, sonra isə, 1776-cı ilin əvvəl -
+lərində məlum olmayan səbəblərə görə həmin ermənilər şəhərin
+aşağı hissəsinə köçürülmüşdür (43, 84).
+Dini mənsubiyyət məsələsi də Rusiyanın apardığı ən başlıca
+siyasət idi. Buna görə də çar Rusiyası himayəsində olan torpaqlara
+xristian mənşəlilərin köçürülməsinə təkliflər və təzyiqlər nəticə -
+sində nail olurdu. 1813-cü il “Gülüstan” və 1828-ci il “Türk mən -
+çay” müqavilələrindən sonra Rusiya imperiyasının tabeçiliyində
+olan Azərbaycan torpaqlarına quberniyalardan və İrandan açıq-
+aşkar şəkildə kütləvi surətdə xristian mənşəlilər, o cümlədən
+ermənilər köçürüldülər (Bu barədə kifayət qədər rəsmi sənədlər
+və elmi əsərlər var). Bunlar da rus həmdinlərinə arxalanaraq yaşa -
+dıq ları ərazilərdə daim azərbaycanlıları sıxışdıraraq məskun -
+laşdıqları ərazi toponimlərini dillərinə uyğun dəyişdirirdilər.
+Mərhələlərlə həyata keçirilən mürtəce etnik siyasətin nəticələri
+27
+Azərbaycan Respublikasının coğrafi-siyasi xəritəsində dərin izlər
+buraxmaqla, ərazisi zaman-zaman kiçildilmişdir.
+Mənbələrdə göstərilir ki, 1914–1918-ci illər Birinci dünya
+müharibəsi dövründə “Daşnaksütyun” partiyasının rəhbərlərindən
+olan Muradyan adlı bir erməni tabeçiliyində olan 2000 erməni və
+rus əsgərləri ilə özünü rus çarizminin ən yaxın müttəfiqi kimi
+qələmə verməklə Müşkür mahalında əmin-amanlıq yaratmaq adı
+ilə bir növ ön cəbhədən yayınmışlar. Onlar cəbhəyə getmək
+əvəzinə Xaçmazda müsəlmanlara divan tutmuş və burada etnik
+təmizləmə siyasətinə əl atmışlar (35, 14). 
+Köhnə Xaçmaz kəndində sakin olan ermənilər də, M.Vəlilinin
+(Baharlı) qeyd etdiyi kimi, xristian olsalar da, tat dilində
+danışırdılar. Tat dilinin bəzi ləhcələrində “xaçamaz”, “xaçemaz”,
+“xaçmaz” sözü “qoz” mənasında başa düşülür. Bu ərazilər
+əvvəllər həqiqətən də, qoz ağacı sahələri ilə zəngin idi.
+Xaçmaz oykonimini fitonim mənşəli hesab edənlər, görünür,
+bu fikri əsas tuturlar. 
+Xristian mənşəlilərin türkdilli xeçmatak/xaçmatak tayfaları
+haqqında məlumatları olmadan bu sözü özlərinin leksik sisteminə
+uyğunlaşdıraraq “Xaçmaz” toponimik adını saxlamışlar. Xaçmaz
+sözünün tərkibindəki “xaç” komponenti xristian mənşəlilərə çox-
+dan tanış olmaqla, həm də sərfəli idi. Əks halda, Azərbaycanın bir
+çox toponimləri kimi Xaçmazın da adını dəyişə bilərdilər. 
+Deməli, Müşkür mahalına köçüb gələn ermənilər “Xaçmaz”
+toponimik adını tat dilinə uyğun olaraq “qoz” sözü ilə bağlamışlar.
+Əslində bu, zahirən belə idi. Gizli olaraq apardıqları siyasət isə bu
+ərazilərdə erməni-xristian mənşəli əhalinin sayını artırmaq, ərazi
+toponimlərinin adlarını rus və erməni dillərinə uyğunlaşdırmaq,
+qırğınlar törətməklə yerli əhalinin sayını azaltmaq və rus dövləti
+ilə qonşuluq şəraitində yaşamaq üçün muxtariyyət əldə etməkdən
+ibarət idi.
+Mənbələrdə göstərilir ki, 1918-ci ildə erməni daşnaklarının
+Quba qəzasında törətdikləri vəhşiliklər vaxtı Xaçmaz onların əsas
+dayaq məntəqəsi olmuşdur. Bolşevik rəhbərləri tərəfindən Bakı-
+Qudermes stansiyasına qədər dəmiryol hərəkətinin milisi təyin
+28
+edilmiş David Gelovani qəza komissarı kimi fəaliyyətə baş la dıq -
+dan sonra ermənilər məkrli siyasətlərini həyata keçirməyə
+başladılar. Daşnak qulduru Amazasp qəzada – Xaçmazda qırğınlar
+törətdiyi halda, balıq sənayeçisi Vartan Avapov və iri dəyirman
+sahibi Harutunyan bir qrup erməni millətçiləri ilə siyasi işlərlə
+məşğul idilər. Onlar bolşevik rəhbərlərini inandırmağa çalışırdılar
+ki, Xaçmazda müsəlmanlar xristian əhalini sıxışdırır və bolşevik -
+lərin hakimiyyətinə tabe olmaq istəmirlər. Bu məsələyə müəyyən
+qədər nail olan ermənilər xristian dəstəyinə arxalanaraq Xaçmazda
+müsəlmanları qırmaqla əhalinin sayını azaldır, ətraf yerlərə
+ermənilərin köçüb gəlmələrinə şərait yaradırdılar. Burada erməni
+kilsələri tikilir, İrandan və Ermənistandan keşişlər dəvət olunurdu.
+Bütün bunlara baxmayaraq, xaçmazlıların fədakarlığı və vətən -
+pərvərliyi nəticəsində onların bu niyyəti baş tutmadı. Ancaq
+kütləvi surətdə xristianlaşdırılan bəzi yaşayış məntəqələrinin adları
+dəyişdirildisə də məqsədli şəkildə bu “Xaçmaz” toponiminə şamil
+edilmədi. Belə ki, “Xaçmaz” onomastik vahidindəki “xaç” kom-
+ponenti “Xaçmaz” toponiminin qoruyucusuna çevrilmişdir. 
+Beləliklə, aydın olur ki, “xaçmaz” sözü türk mənşəli qədim
+“xeç matak”// “xaçmatak” tayfalarının adı ilə bağlıdır. Sonralar
+bu tayfaların bir qismi yerli əhali ilə qaynayıb-qarışmış və is -
+lamiyyəti qəbul etmişlər. “Xeçmatak”// “xaçmatak” tayfalarının
+bir qismi isə islamiyyətlə mübarizədə tab gətirə bilmədikləri üçün
+Baş Qafqaz silsiləsinin yamaclarına və Dağlıq Qarabağa yaxın
+ərazilərə çəkilmişlər.
+Tarixdən məlumdur ki, müəyyən bir etnik tərkib yaşadığı
+ərazilərin toponimlərində öz etnik mənşəyinin izlərini yaşadır və
+bunun yayılma areallarını genişləndirir. Bunu nəzərə alsaq görərik
+ki, bu genişlik respublikamızın dağlıq əraziləri üçün (Balakən,
+Daşkəsən, Xocavənd, Oğuz) daha xarakterikdir. Elə isə, bu fikir
+Xaçmaz şəhərinin adındakı “xaçmaz” sözünün miqrasiya xarak-
+terli olmasını deməyə əsas verir. Miqrasiyanın əsas hərəkət
+istiqaməti isə düzənlik ərazilərdən dağlıq ərazilərə yönəlmişdir.
+Azərbaycan əraziləri türkün vətəni olmaqla, onun parçalanma
+sahəsi kimi mərkəzi mövqe tuturdu (25, 12).
+29
+XAÇMAZ OYKONİMLƏRİNİN 
+ÖYRƏNİLMƏSİNƏ DAİR 
+Xalqımızın soykökünü, onun tarixi keçmişini, həyat və
+fəaliyyətini, yayılma areallarını tədqiq edib öyrənmək və onu
+obyektiv şəkildə qiymətləndirmək üçün tarix bizə geniş imkanlar
+açmışdır. Azərbaycanın münbit torpaqları, yaşayış üçün zəngin
+təbii şəraiti daim insanları özünə çəkmiş, nəsil-nəsil qəbilələr, tay-
+falar, xalqlar müxtəlif dövrlərdə istəyi və ya zorakılıqla miqrasiya
+etmişlər. Belə miqrasiyalar nəticəsində yaşayış ərazilərində et-
+noslar ya tamamilə, ya da qismən dəyişib. Yaşayış məskənlərinin
+kiçik və böyüklüyündən asılı olmayaraq insanlar öz etnik tər kib -
+ləri, məşğuliyyəti, adları, bəzən də yaşadıqları yerin təbii-coğrafi
+relyefinə, onun flora və faunasına uyğun olaraq bu əraziləri biri-
+birin dən fərqləndirmək üçün ad vermişlər. Həmin adlar Azərbay -
+ca nın ayrı-ayrı bölgələrinin toponimlərində öz əksini tapmışdır.
+Toponimlər xalqımızın ictimai-mədəni həyatı ilə bağlı olduğu
+üçün onların öyrənilməsi və tədqiqi məsələləri nadir maddi-
+mədəniyyət qalıqları qədər qiymətlidir.
+Azərbaycan lap qədimdən bir çox qəbilə birləşmələrinin, xalq -
+larının yaşadığı, qaynayıb-qarışdığı, formalaşdığı ölkə olmuşdur.
+Onun ayrılmaz bir hissəsi olan Alban-Albaniya-Ağvan-Ağvanq-
+Alvan-Aran və onun ayrı-ayrı yer adlarının (toponimlərin) anlamı
+bu yerlərdə yaşayan 26 qəbilənin (Strabona görə) dili və əsasən
+də Azərbaycan dili ilə bağlıdır. Əlbəttə, burada başqa dillərlə də
+səsləşən bəzi yer adları da tapmaq olar. Yer adları məhz belə bir
+mürəkkəb, dürlü mənzərəyə malikdir. Araşdırmalar göstərir ki,
+Azərbaycanın və onun ayrılmaz hissəsi olan Albaniyanın yer ad -
+larının ən əski qatı Azərbaycan dili ilə bağlıdır (40, 60–61).
+Azərbaycan ərazisindəki toponimik adlar tarixin müxtəlif
+dövrlərində meydana gəlmişdir. Həm tarixi, həm də müasir toponi -
+30
+miya məzmun etibarilə müxtəlif dillərdədir. Məlumdur ki, topon-
+imik adlar coğrafiyanın fənnidir, lakin onların mənası dilçilik
+tərəfindən açılır və məhz həmin adlar tarixi tədqiqatlar üçün əlavə
+bəzən də yeganə mənbəyə çevrilir. Etnogenetik öyrənmələrin
+aparıl masında toponimikanın rolu xüsusilə əhəmiyyətlidir (49, 8).
+Göründüyü kimi, toponimiya elmi dilçiliklə sıx bağlıdır. Buna
+görə də, toponimlərin linqvistik təhlili ayrı-ayrı dövrlərdə dilin
+lüğət tərkibi haqqında müəyyən təsəvvürlər yaratmaqla bərabər,
+onun etimologiyasını da açmağa bizə imkan verir.
+Bu mənada Azərbaycanın ayrı-ayrı ərazi toponimlərinin tarixi-
+linqvistik istiqamətlərdə öyrənilməsi ən vacib məsələlərdəndir.
+Toponimlərin etimologiyası ilə əlaqədar A.A.Bakıxanovun
+“Gülüstani-İrəm” əsərində daha dolğun məlumat verilmişdir.
+Ötən əsrin 60-cı illərindən etibarən Azərbaycan toponimləri
+etnik tarixi-linqvistik istiqamətlərdə alimlərimizdən Q.Qeybul-
+layev, A.Axundov, Ə.Dəmirçizadə, S.Aşurbəyli, A.Qurbanov,
+T.Əh mədov, L.Quliyeva Q.Məşədiyev, R.Əliyeva və başqalarının
+əsər lərində öyrənilmişdir. Son dövrlərdə ayrı-ayrı bölgə topo nim -
+ləri də tədqiq edilərək həmin ərazilərdə yaşayanların etnik və dil
+mənsubiyyətini üzə çıxarmağa imkan vermişdir. Bu da bütövlükdə
+Azərbaycan xalqının tarixini, dil məsələlərini öyrənmək işini
+asanlaşdırır. Bu baxımdan Azərbaycan toponimiyasında Xaçmaz
+rayonunun yaşayış məskənlərinin adları da xüsusi lay təşkil edir.
+Etiraf edək ki, Xaçmaz toponimləri, ayrı-ayrı məqalə və yazı -
+ları nəzərə almasaq, əsaslı şəkildə öyrənilməmişdir. Bölgə tarixi-
+mizin bu gözəl nümunələrini hərtərəfli geniş oxucu kütləsinə
+çat dırmaq həm elmi-nəzəri, həm də ictimai baxımdan çox əhə miy -
+yətlidir. 
+Toponimlərin bir vahidi olan oykonimlərin – Xaçmaz oy konim -
+lərinin az bir qismini həmyerlimiz t.e.n. İ.Şahbazov etnik-coğrafi
+baxımdan tədqiq edərək ayrı-ayrı məqalələr şəklində rayon
+qəzetində (Dostluq) 1990–1991-ci illərdə çap etdirmişdir. Bir qis-
+minin tədqiqi məsələləri isə başlanğıc olaraq qalmışdır. Buna görə
+31
+də, toponimik vahid kimi, hər bir bölgə oykonimlərinin öy rənil -
+məsi həm tarixilik, həm də dilçilik baxımından bütövlükdə ono-
+malogiya elminin inkişafına böyük kömək edə bilər. Çünki hər bir
+kiçik ərazi böyük ərazinin bir hissəsidir.
+Məlumdur ki, tarix boyu bütün toponimlər öz ilkin adını qoru -
+yub saxlaya bilməmiş, ictimai-siyasi hadisələrin təsiri nəticəsində
+onların müəyyən bir qismi ya başqa adla əvəz olunmuş, ya da
+trans formasiyaya uğrayaraq şəklini dəyişmişdir. Bunun nəticə -
+sində də oykonim ifadə etdiyi ilkin mənadan uzaqlaşaraq tədqiqat
+işinin istiqamətini dəyişmiş və nəticədə ayrı-ayrı tədqiqatçılar
+tərəfindən müxtəlif cür yozulmuşdur. Belə ki, mövcud “Azər -
+baycan toponimlərinin ensiklopedik lüğəti”ndə (iki cilddə. Bakı,
+2007) Xaçmazın bəzi oykonimləri əsaslı şəkildə tədqiq edil mə -
+diyindən düzgün olmayaraq verilmişdir. Bəziləri isə kitaba daxil
+edilməmişdir. Məsələn: Çılqır, Müşkür, Əzizli, Müşfiq və s. (Bu
+barədə oykonimlərin etimoloji xülasəsində bəhs edəcəyik.) Nəzərə
+almaq lazımdır ki, adıçəkilən kitab əsasən toponimik tədqiqatlara
+yardım məqsədi daşıyır.
+Xaçmaz oykonimləri maraqlı xüsusiyyətlərə malikdir. Bu
+oykonimlərin yarısından çoxu “oba” komponentlidir. Oykonim -
+lərin müəyyən bir qismi morfoloji yolla yaranmış, az bir hissəsi
+isə kənd, qışlaq, yataq və çay komponentlərindən ibarətdir. 
+Xalqımızın etnik mənşəyi ilə bağlı olan oykonimlər isə daha
+bö yük maraq doğurur. Məsələn: Ustacallı (Ustacəlilli), Padar, Cığa -
+tay, Qı rağ lı, Seyidlər, Ərəb, Şıxlar, Qaracallı və s. Bu etnoto po nim -
+lərin, demək olar ki, əksəriyyəti paralellik təşkil edir. Bu, onunla
+izah edilir ki, tayfalar böyüdükcə ata yurdundan köçmələr baş
+vermiş, yeni yurdda da onlar əvvəlki adlarla tanınmışlar. Yəni köç -
+dükləri yurda da əvvəlki yurd adlarını daşımışlar. Köçmələr, əsasən,
+həm siyasi, həm də iqtisadi faktorlarla bağlı olurdu. Məsələn,
+padarların Səfəvilər tərəfindən Azərbaycana kö çü rül məsi siyasi
+faktor idisə, onların buradan ucqarlara yayılması (Padar, Armud-
+padar) həm qismən siyasi, həm də iqtisadi faktorla bağlı idi. Bu
+faktoru rayondakı bir çox etnotoponimlərə aid etmək olar. 
+32
+Toponimik ədəbiyyatlarda hətta bəzi paralel toponimlərin
+Azərbaycandan kənarda da mövcudluğu göstərilir. Bəziləri isə
+müəyyən dövrlərdə sinonimlik təşkil etmiş, getdikcə mövcud döv -
+lətin dilinə və mənafeyinə uyğun dəyişdirildiyindən itib-batmışdır.
+Xalqımızın etnik mənsubiyyət məsələsinə gəlincə, Azər -
+baycanın ən qədim kökləri türkdilli aborigenlərlə və gəlmə türk
+mənşəli tayfalarla sıx şəkildə bağlı olmuşdur. Azərbaycanın digər
+ərazilərində olduğu kimi, Xaçmaz rayonu ərazisində məskunlaşan
+qədim türk mənşəli tayfaların izi etnotoponimlərin, eləcə də
+etnoantroponimlərin nüvəsində qorunaraq dövrümüzə qədər gəlib
+çatmışdır.
+Etnotoponimlər haqqında ən maraqlı məlumatı Azərbaycan
+alimi Məhəmmədhəsən Vəlili (Baharlı) vermişdir. 1921-ci ildə
+ərəb-fars əlifbası ilə yazılmış “Azərbaycan. Coğrafi-təbii etno-
+qrafik və iqtisadi mülahizat” əsəri təxminən yetmiş ildən sonra
+tərcümə edilərək tarixin qaranlıq səhifələrini işıqlandırmışdır.
+Xaçmaz oykonimlərinin tədqiqi məsələlərində göstərilən tarixi
+əsərlə yanaşı toponimçi-dilçi alimlərimizin tədqiqatlarından, ayrı-
+ayrı müəlliflərin məqalələrindən də mümkün qədər bəhrələnmişik.
+Oykonimlərin etimoloji təhlilində əsasən onların leksik xü -
+susiyyətləri araşdırılmış, mümkün qədər tarixilik məsələlərinə də
+diqqət yetirilmişdir.
+Beləliklə, Xaçmaz oykonimləri bu tədqiqat işində ilk dəfə
+olaraq monoqrafik şəkildə öyrənilmiş, bu əraziyə məxsus yaşayış
+məskənlərinin etimoloji təhlili verilməklə yanaşı, yaşayış mən -
+təqəsini ifadə edən coğrafi terminlərin oykonim yaradıcılığında
+yeri açıqlanmışdır. Kitabda morfoloji və sintaktik yolla yaranan
+oykonimlərə də nəzər salınmışdır.
+33
+OYKONİMLƏRİN YARANMASININ LİNQVİSTİK
+ƏSASLARI 
+Xaçmaz oykonimlərinin tədqiqi göstərir ki, onların tərkibi
+çoxşaxəlidir. Buna görə də onların linqvistik təhlilini verməzdən
+əvvəl oykonimlərin onomastik sistemdəki yerini müəy yənləş -
+dirmək lazımdır.
+Dildəki xüsusi adları elmi cəhətdən öyrənən dilçiliyin onoma -
+logiya (yunan mənşəli söz olub, “onoma” – ad “loqos” elm,
+təlim, nəzəriyyə deməkdir) şöbəsi də dilçilik elminin tədqiqat
+obyektinə daxildir. Deməli, bu şöbədə xüsusi adların, o cümlədən
+oykonimlərin əmələgəlmə yolları, inkişaf prosesləri, işlənmə yeri
+şərh edilməli, onların elmi təsviri verilməlidir.
+Bunu əsas tutaraq, Xaçmaz oykonimlərinin tədqiqi mə sə -
+lələrində mümkün qədər bu məsələyə genişlik verməyə çalışmışıq.
+Onomastik leksikada eyni xarakterli və səciyyəli mənanı
+bildirən sözlər xüsusi qrupda birləşdirilir. Bu cəhət nəzərə alınaraq
+onomastikada (dilin lüğət tərkibindəki xüsusi sözlər) xüsusi adlar
+aşağıdakı kimi qruplaşdırılmışdır:
+1. Antroponimlər
+2. Etnonimlər
+3. Toponimlər
+4. Hidronimlər
+5. Zoonimlər 
+6. Fitonimlər
+7. Kosmonimlər
+8. Ktematonimlər
+Antroponimlər (yunan sözü olub, anthropos – insan və onu -
+ma – ad deməkdir) onomastik leksikanın bir hissəsi olmaqla şəxs
+adları, soyad, təxəllüs və ləqəbləri əhatə edir.
+34
+Etnonimlər onomastik leksikanın bir layını təşkil etməklə
+tayfa, xalq və millət adlarını özündə birləşdirir.
+Toponimlər coğrafiyaya aid olsa da, dilçilikdə yer adlarını
+öyrənir. Toponimik vahidlər iki yerə – oronimlər (relyef quruluşlu
+formalar: dağ, dərə, təpə, aşırım və s.) və oykonimlərə (yaşayış
+məntəqələrinin adları) bölünür.
+Hidronimlər su obyektlərinin adlarını bildirən onomastik sis-
+temdir.
+Zoonimlər dilin zooloji leksikasını əhatə etməklə heyvan, quş
+adlarından ibarət anlayışları özündə birləşdirir.
+Kosmonimlər səma cisimlərinin adları ilə bağlı onomastik
+leksikanın bir layını təşkil edir.
+Fitonimlər bitkilərlə (kol, çiçək, ağac və s.) bağlı olan ono-
+mastik vahidləri bildirir. 
+Ktematonimlərə maddi-mədəniyyət, elm və texnika, inzibati
+idarələrin, özəl şirkətlərin və s. adları daxildir.
+Toponimlərin bir vahidi olan oykonimlər əraziyə məxsus
+yaşayış məntəqələrinin (kənd, qəsəbə, şəhər) adlarını bildirir.
+Oykonimlərin təhlili xalqın tarixi, dili, mədəniyyəti, ictimai həyat
+tərzi, məşğuliyyəti haqqında bizə maraqlı məlumatlar verir. Bu
+baxımdan Xaçmaz oykonimlərinin öyrənilməsi və tarixi-linqvistik
+təhlili çox önəmlidir. Oykonimlər insanların tarixən məskunlaşdığı
+coğrafi obyektlər, xalqın etnogenezini açıqlamaqla onların yayıl -
+ma areallarını, dil faktorlarını da öyrənməyə imkan verir. Buna
+görə də kitabda toponimik vahidlər olan oykonimlər haqqında
+məlumat əsas yer tutur.
+A.Qurbanov toponimlərin aşağıdakı üsullarla yarandığını
+göstərir.
+1. Leksik üsul.
+2. Semantik üsul.
+3. Morfoloji üsul.
+4. Sintaktik üsul (30, 446).
+Bu üsullar toponimlərin hər bir vahidi üçün xarakterikdir.
+35
+Azərbaycan toponimlər sistemində bu dilə məxsus, eləcə də
+başqa dillərdən keçən ayrı-ayrı leksik vahidlərdən törənən və
+morfemlərin köməyi ilə düzələn sadə və düzəltmə oykonimlərə
+təsadüf olunur. İlk baxışda sadə və düzəltmə oykonim kimi
+görünən bir sıra coğrafi obyekt adları əslində coğrafi obyekt tipini
+göstərən terminlərin (rayon, şəhər, qəsəbə, kənd və s.) köməyi ilə
+yaranmış mürəkkəb quruluşlu adlardır (15,150). Məsələn: Xaçmaz
+rayonu, Xudat şəhəri, Müqtədir qəsəbəsi, Qırağlı kəndi, Bayoba
+kəndi və s.
+Deməli, toponimlər və onların ən geniş yayılmış qollarından
+biri olan oykonimlər yalnız coğrafi nomenlərin köməyi ilə
+yaradılır. Lakin funksional toposistemin yığcamlığa, qənaətçiliyə
+meyli çox olduğu üçün oykonimlərin də tərkibində müəyyən ixti-
+sarlar baş verir, yəni məntəqə adının spesifik cəhətini semantik
+cəhətdən özündə əks etdirən, aparıcı rola malik olan müxtəlif
+quruluşlu birinci komponentlər müstəqil şəkildə oykonimləşir.
+Məsələn: Qarğalıq kəndi − Qarğalıq, Dədəli kəndi − Dədəli,
+Uzunoba kəndi − Uzunoba, Manafoba kəndi − Manafoba, Şıxlar
+kəndi − Şıxlar və s. Belə komponentlərin ilkin funksiyaları mənşə
+etibarilə etnonim, antroponim, hidronim, fitonim və s. kimi adları
+bildirmiş, sonradan həmin modellərdən məqsədli şəkildə istifadə
+edilmişdir.
+Oykonimləri xalq yaradıcılığı nümunələri də hesab etmək olar.
+Çünki xalq özünün bir çox əlamətlərini oykonimlərdə yaşada
+bilmişdir. Oykonimlərin yaradılması dilin lüğət tərkibinə əsaslanır.
+Dilin bir sözü hesabına ümumən onlarla, yüzlərlə toponim yarat-
+maq mümkündür. Məsələn: oba, yurd, qışlaq, qala, kənd, tala,
+yataq və s. kimi topoformantlar müəyyən sözlərlə birləşərək kiçik
+yaşayış məntəqələrini – oykonimləri bildirir. Bu komponentlərin
+bəziləri ümumən toponim yaradıcılığında topoformant kimi
+işlənərək böyük coğrafi əraziləri əhatə etsə də, Xaçmaz oyko nim -
+ləri üçün kiçiklik xarakterikdir. Bu cür komponentləri olan
+oykonimlərə aşağıdakıları misal göstərə bilərik: İdrisoba,
+Aşağıoba, Tikanoba, Ağaşirinoba, Manafoba, Üçgünqışlaq,
+36
+Hacıqazma, Həbibkənd, Həsənqala, Əbilyataq, Çinartala,
+Qusarçay və s.
+Leksik üsul
+Rayonumuzun ərazisində bir sıra yer adları vardır ki, bunlar
+müəyyən leksik vahidlər olub, oykonimləri ifadə edir. Bu tip
+oykonimlər antroponimlərdən, nəsil-tayfa bildirən anlayışlardan
+(etnonimlərdən), bir qismi isə ümumişlək sözlərdən ibarətdir.
+Məsələn: leksik yolla antroponimlərdən Müqtədir, Müşfiq (memo-
+rial toponimdir) – etnonimlərdən Padar, Ərəb Cığatay, ümumişlək
+sözlərdən – Şimal, Arzu, Turist və s. əmələ gəlmişdir. Bununla
+yanaşı rayon ərazisində elə sadə toponimlərə rast gəlirik ki, onların
+mənası hələ də dilçilik baxımından əsaslı şəkildə tədqiq
+olunmayıb.
+Sadə quruluşlu toponimləri linqvistik baxımdan tədqiq edən
+dilçilər leksik vahidi coğrafi ad kimi qəbul edirlər.
+Etnonimlərin müəyyən bir hissəsini yalnız Azərbaycan dili və
+onun dialekt və şivələri baxımından sadə etnonim adlandırmaq
+olar. Çünki etimoloji təhlil zamanı aydın olur ki, onların bir çoxu
+morfoloji (düzəltmə) və sintaktik (mürəkkəb) üsulla yaranmışdır.
+Qeyd etmək lazımdır ki, “sadə oykonim” ifadəsi burada şərti
+səciyyə daşıyır. Nəzərdə tutulmalıdır ki, toponimiyada sadəlik an -
+layışı ola bilməz. Çünki sadə sözlər, sadə leksik vahidlər hələ heç
+də sadə toponimlər deyillər. Müxtəlif məfhumları ifadə edən sadə
+leksik vahidlər toponim yaradıcılığında yalnız iştirak edir, lakin
+bu zaman həmin sözlər müəyyən bir obyektin ünvanına çevrilmək
+üçün ən azı digər bir leksik vahidlə (coğrafi nomenlə) ya naşı
+durmalıdır (16, 92–93). (Məsələn; Xaçmaz – Xaçmaz şə hə ri,
+Nabran – Nabran kəndi, Gödəkli – Gödəkli kəndi və s. – Q.İ.).
+N.Əsgərov isə müəllifin fikri ilə razılaşmadığını bildirir. 
+O, qeyd edir ki, bir halda ki, söhbət adlardan gedir, onda əsas
+diqqəti coğrafi terminə yox, ada yönəltməliyik (19, 47).
+37
+Özünün qrammatik görünüşünə görə bu gün sadə söz kimi
+formalaşan və səslənən coğrafi adlar, əslində məlum toponim ik-
+inci (təyin edən) komponentini itirdikləri üçün toponimə məxsus
+bütün semantik yükü daşıyır.
+Semantik üsul
+Xüsusi adların bir qismi semantik üsulla konvensiya yolu ilə
+yaranır. Belə ki, müxtəlif nitq hissələrinə mənsub olan bir sıra
+ümumi sözlər substantivləşir və sırf xüsusi ad əmələ gətirilir. (30,
+448). Məsələn: Şimal, Arzu, Turist, Palçıqoba, Tikanlıoba, Pər -
+diqıran, Qaraçı, Qaraqurdlu, Vələmir və s.
+“Şimal” sözünə diqqət yetirək: ərəb mənşəli olan “şimal”
+sözü, yer kürəsinin cənuba əks olan cəhəti, soyuq iqlim zonasında
+yerləşən sahəsi kimi başa düşülür. Bu söz mənanın xüsusiləşməsi
+nəticəsində oykonimə çevrilmişdir. Şimal yaşayış məntəqəsi Xəzər
+dənizinin sahilində, rayonun şimala tərəf soyuq, külək tutan
+ərazisində yerləşdiyi üçün belə adlandırılıb. 
+Fars mənşəli “arzu” sözü də dilimizdə “bir şeyin olmasını
+ürəkdən istəmək, dilək, əməl, həsrət” mənalarındadır. Arzu həm
+də, şəxs adıdır.
+“Turist” sözü də məna çalarının xüsusiləşməsi nəticəsində
+oykonimə çevrilmiş və bu ərazidə turist bazasının yaranması ilə
+əlaqədar yaşayış məskəni belə adlandırılmışdır.
+Eleziya nəticəsində (ilk sözün son səsinin düşməsi) yaranan
+“Vələmir” oykonimi semantik mənasına görə taxıl fəsiləsindən
+olan dənli yem bitkisinin adını bildirir. Toponimik ədəbiyyatlarda
+isə oykonimin Vəli Əmir şəxs adından yarandığı qeyd olunur.
+Semantik üsulla yaranan toponimik vahidlərdə bəzi nitq
+hissələri substantivləşir. Rəng, əlamət, istiqamət, yer bildirən
+sözlər birinci tərəf kimi çıxış edərək coğrafi məkan bildirən tərəflə
+birləşir. Məsələn: Ağtala, Ağçay, Ortaoba, Çuxuroba və s.
+Oykonimlərin semantikası bəzi hallarda Xaçmaz rayonunda
+38
+yaşayan etnik qrupların dil xüsusiyyətlərində də özünü göstərir.
+Burada bəzi xalqlar və etnik qruplara məxsus bir neçə oykonim
+vardır ki, həmin dillərin öz semantikası əsasında yaranmışdır.
+Onların araşdırılması üçün həmin dilləri bilmək, onların məişət və
+mədəniyyətinə dərindən bələd olmaq lazımdır. 
+Morfoloji üsul
+Xaçmaz oykonimlərinin təhlili göstərir ki, onların müəyyən bir
+qismi morfoloji yolla əmələ gəlmişdir. Morfoloji üsulla yaranmış
+oykonimlər məhsuldarlığı ilə seçilir. Bu zaman söz kökünə mü-
+vafiq şəkilçi qoşulmaqla yeni söz – oykonim düzəlir. Məsələn:
+Dalğalı, Əzizli, Günəşli, Xəzərli və s. Oykonimlərin çoxu dilimizin
+daxili imkanlarına əsaslanıb türk mənşəli olduğuna görə bu yolla
+yaranan oykonimlərdə dilimizin qanunauyğunluqları özünü
+göstərir. Dilimiz leksik şəkilçilərlə zəngin olsa da oykonimlərin
+yaranmasında onların müəyyən bir qismi iştirak edir.
+Toponim yaradıcılığında morfoloji yoldan bəhs edən tədqi -
+qatçı-alim R.Əliyeva yazır: “Dildə sadə sözlərdən mürəkkəb
+sözlər düzəlir, sonra mürəkkəb sözün komponentlərindən biri öz
+mənasını itirərək şəkilçiləşir, daha sonra şəkilçi də öz mənasını
+itirir və həmin söz sadə sözə çevrilir (13, 86). Bu baxımdan Xudat,
+Xuray, Ləcət, Nabran və s. oykonimlər dilimizdə sadə sözlər hesab
+olunur”.
+-lı, -li, -lu, -lü şəkilçisi vasitəsilə yarananlar. Rayon əra zi -
+sindəki oykonimlərin yaranmasında ən məhsuldar şəkilçi -lı, -li, -
+lu, -lü şəkilçiləridir. Türk xalqlarının toponimiyasında bu müxtəlif
+variantlarda işlənsə də eyni səciyyə daşıyır. Bu şəkilçi isimlərə
+qoşularaq müxtəlif oykonimlər yaradır. Həmin oykonim lərin tərkibi
+də müxtəlifdir. -lı
+4
+şəkilçiləri etnonimlərə (nəsil tayfa ad la rına),
+antroponimlərə (şəxs adlarına), coğrafi anlayışlara və s. qo şularaq
+oykonim əmələ gətirməsi bölgəmiz üçün daha xarakterikdir.
+Müşkür ərazisi ayrı-ayrı qışlaq və obalardan ibarət olduğu üçün
+bəzən həmin yaşayış məskənləri konkret olaraq müəyyən bir nəslə,
+39
+tayfaya və tirəyə mənsubluq bildirir: Ustacallı (Ustacəlilli),
+Qırağlı, Ərəb, Gödəkli, Hülövlü, Qaraqurdlu, Çaxmaqlı və s. belə
+oykonim lərdəndir. 
+Bu tip məntəqə adı kimi, sabitləşən komponentlər oykonimiya
+baxı mından sadə, qrammatik cəhətdən isə düzəltmə quruluş -
+ludurlar. Çünki, göstərilən adların tərkibindəki -lı4 elementləri ilkin
+olaraq oykonimləri deyil, etnonimləri yaratmışdır. Bu qayda digər
+qrammatik elementlərdən (-lar2, -çı4, -lıq4) ibarət olan yaşayış
+məntəqələrinin yaranmasına da aid edilir. Deməli, bu qəbildən
+olan yaşayış məntəqələri ilkin etnonimlərdən düzəlməklə
+oykonimləşmişdir.
+Günəş, dalğa, meşə kimi sadə isimlərə -lı, -li, -lu, -lü şəkilçiləri
+artırmaqla Günəşli (kosmonim mənşəli), Dalğalı (hidronim
+mənşəli), Meşəli (coğrafi məkan anlamlı) oykonimləri morfoloji
+yolla yaradılmışdır.
+-lar, -lər şəkilçisi vasitəsilə yarananlar. Bölgə oykonimlərinin
+yaranmasında iştirak edən şəkilçilərdən biri də cəmlik bildirən -
+lar, -lər şəkilçiləridir. Tədqiqatlar göstərir ki, bu topoformant
+coğrafi relyeflə bağlı müxtəlif obyektləri ifadə edən terminlərə,
+hər hansı bir tayfa, xalq, nəsil və şəxs adlarına qoşularaq onların
+çoxluğunu bildirir. Rayon ərazisində qeydə alınmış Şıxlar,
+Seyidlər, Hacılar, Sahillər kimi oykonimlər belə yaranmışdır. 
+Nümunədən göründüyü kimi, -lar2 şəkilçisi ilə düzəlmiş Şıxlar,
+Seyidlər, Hacılar etnonimləri həmin etnosun adını bildirən
+oykonimlərə çevrilmişdir. Bu şəkilçi Azərbaycan dilində topon-
+imik vahidlərin yaranmasında topoformant kimi iştirak edən ən
+məhsuldar şəkilçilərdən biridir.
+-çı, -çi, -çu, -çü şəkilçisi vasitəsilə yarananlar. Bu şəkilçi
+dilimizdə sənət, peşə, məşğuliyyət və mənsubiyyət kimi
+məzmunları ifadə edir və dilimizin söz yaradıcılığı prosesində
+məhsuldarlığı ilə seçilir. -çı4 şəkilçisi dilimizdə leksik şəkilçi ol-
+maqla, toponim yaradıcılığında topoformant kimi çıxış edir. Xaç-
+maz rayonu ərazisində qeydə alınmış Bostançı, İlxıçı (paralel
+toponimdir) oykonimləri bu qəbildəndir.
+40
+-lıq, -lik, -luq, -lük şəkilçisi vasitəsilə yarananlar. Dilimizin
+söz yaradıcılığında iştirak edən -lıq, -lik, -luq, -lük şəkilçiləri çox
+vaxt -lı, -li, -lu, -lü şəkilçilərinin ekvivalenti kimi çıxış edir.
+N.A.Baskakova görə -lı4 şəkilçisi mənşəcə -lıq, -lik, -luq, -lük
+şəkilçilərindən yaranmışdır (52, 577). Rayon ərazisində bu şəkilçi
+ilə yaranan Qarğalıq oykonimi mövcuddur.
+-ka şəkilçisi vasitəsilə yarananlar. Bu şəkilçi vasitəsilə
+yaranan oykonimlərin əksəriyyəti rus dilinə məxsusdur.
+Azərbaycanın rus mənşəli toponimlərinin tədqiqatçısı L.H.Qu -
+liyeva onları iki qrupa ayırır:
+1. Mənşəcə rus dilinə məxsus olub, rus dili vahidləri və
+topoformantları əsasında formalaşanlar (Alekseyevka, Pavlovka,
+Krasnı(y) Xutor və s.).
+2. Qeyri-rus mənşəli vahidlərdən rus sözdüzəldici formantları
+vasitəsilə düzələnlər (56, 5). Aranovka (Əzizli). 
+Azərbaycan toponimlərinin az bir qismi -ka şəkilçisi vasitəsilə
+yaranmışdır. Bu da təsadüfi deyil. 
+XIX əsrin əvvəllərindən Azərbaycanın Rusiya tərəfindən işğal
+olunması nəticəsində ana dili quruluşuna məxsus bir çox
+toponimlər dəyişdirildi və iki əsrə yaxın rus antroponimlərinə,
+coğrafi anlayışlarına, -ka şəkilçisi qoşularaq müxtəlif oykonimlər
+yaradıldı. Bu şəkilçi ilə əmələ gələn oykonimlərə, demək olar ki,
+Azərbaycanın bütün bölgələrində rast gəlmək olur. Azərbaycan
+müstəqillik qazanana qədər bu şəkilçi ilə formalaşan oykonimlər
+Xaçmaz bölgəsində də çoxluq təşkil edirdi. Məsələn: Pavlovka,
+Rodnikovka, Zaliyevka, Alekseyevka, Aranovka, Vasilyevka və s.
+1992-ci ildən sonra demək olar ki, bu tipli oykonimlərin əvvəlki
+adları qaytarıldı. Təəssüf ki, Alekseyevka kəndinin adı (Xuc
+palasa) hələ də qaytarılmayıb yaxud da başqa cür adlandırılmayıb.
+41
+Sintaktik üsul
+Dilimizdə mürəkkəb-analitik yolla sözyaratma sintaktik üsul
+adlanır. Yəni burada iki və daha artıq söz müxtəlif münasibətlər
+əsasında birləşərək bir mürəkkəb leksik vahid əmələ gətirir. Ono-
+mastik vahidlərin bu yolla əmələ gəlməsinə dair Azərbaycan
+dilində çox müxtəlif dil fiqurlarına rast gəlinir. Özü də bu ono-
+mastik dil hadisəsi bütün xüsusi adlar qrupunda özünü göstərir
+(30, 467).
+Məlumdur ki, mürəkkəb tərkibli toponimlər söz birləşmələri
+əsasında yaranır. Bu zaman ən azı iki müxtəlif məzmunlu söz -
+lərdən istifadə olunur ki, bunlardan biri konkretləşdirici əlaməti,
+digəri isə ümumi coğrafi obyekti ifadə edir (13, 97).
+Mürəkkəb tərkibli sözlərdən yaranan oykonimlər bölgə
+oykonimlərində ən çox I növ təyini söz birləşmələri şəklində
+özünü göstərir.
+Mürəkkəb leksik vahid kimi formalaşan oykonimlərin müəy -
+yən hissəsi zahirən I növ tipinə oxşasa da, mənaca II və III növ
+təyini söz birləşmələri funksiyalarını yerinə yetirir. Məsələn:
+Fərzəlioba, Ağaşirinoba, Əhmədoba, Aslanoba, Əbilyataq,
+Qədiməliqışlaq və s. kimi oykonimlərin birinci tərəfləri yiyəlik
+hal, ikinci tərəfləri isə mənsubiyyət şəkilçiləri qəbul etməsə də,
+onlar semantik yükü və çalarlarına görə II və III növ birləşmələrlə
+eynilik təşkil edir: Fərzəlioba – Fərzəlinin obası, Ağaşirinoba –
+Ağaşirinin obası, Əhmədoba – Əhmədin obası, Aslanoba –
+Aslanın obası, Əbilyataq – Əbilin yatağı və s.
+Professor Q.Kazımov söz birləşmələrindən bəhs edərək yazır
+ki, söz birləşmələrinin ən çox istifadə olunan modellərindən biri
+ası lı tərəfi atributiv xarakterdə olan substantiv birləşmələr modeli -
+dir. Bu modelə isim, sifət ... heç bir morfoloji əlamətə ehtiyac
+olma dan atributiv şəkildə bu və ya digər ismə yanaşır və birləşmə
+əmə lə gətirir (24, 35).Bu cür birləşmələr mürəkkəb coğrafi adlarda
+– oykonimlərdə də özünü göstərir.
+42
+Tədqiqat apardığımız bölgə oykonimlərində özünü göstərən
+asılı tərəf əsas tərəflə əlaqə yaradaraq fərqləndirici əlamət daşıyır.
+Belə ki, birinci tərəf konkretləşdirici əlamət bildirən müxtəlif
+sözlərdən (kiçik, köhnə, yeni, aşağı və s.), ikinci – əsas tərəf isə
+ümu mi coğrafi obyekti ifadə edən sözdən ibarət olur. Məsələn: Ki -
+çik Baraxum, Köhnə Xudat, Yeni Həyat, Köhnə Xaçmaz, Yeni Su -
+dur, Armud Padar, Qaradağ Buduq, Aşağı Ləgər, Aşağı Zeyd və s.
+Mürəkkəb söz şəklində olan oykonimlər ən çox nəsil, tayfa, tirə
+və şəxs adlarından, eləcə də coğrafi anlayışlardan əmələ gəlmişdir:
+Hacıəlibəy, Ağyazıbuduq, Şıxhapıt, Qaraçaycek, Qobuqıraq və s.
+Sintaktik yolla yaranan oykonimlər ən çox isim+isim modeli
+əsasındadır. Bunlar quruluşuna görə xüsusi isim + ümumi isim
+(Manafoba, Məcidoba, Ağarəhimoba, Əhmədoba, Əbilyataq və
+s.), ümumi isim+ümumi isim (Xanoba, Çinartala, Palçıqoba,
+Yataqoba və s.) şəklində yaranmışdır. Oykonimlərin bir qismi isə
+müxtəlif nitq hissələrindən (zərf+isim, say+isim və s.) ibarətdir.
+Üçkomponentli oykonimlər də vardır ki, bunlar çox az bir qisim
+təşkil edir.
+“Oba” topoformantı. Araşdırmalar göstərir ki, Xaçmaz
+oykonimlərində 50-yə qədər “oba” komponentli oykonim vardır.
+Ümumiyyətlə, “oba” sözü Müşkür adlanan ərazi üçün oykonim
+yaradıcılığında ən məhsuldar komponentdir.
+Yeri gəlmişkən qeyd edək ki, Müşkür adına müxtəlif variant-
+larda (Masqut, Miskar, Müşkar) XVI əsr ingilis səyyahı Antoni
+Cenkinsonun yol qeydlərində, rus hərbi qulluqçusu P.Q.Butkovun
+Qafqaz tarixi haqqında topladığı materiallarda, A.Bakıxanovun
+“Gülüstani-İrəm” əsərində də rast gəlirik (23,13). Bəzi tədqi qat -
+çılar isə Müşkürün bir şəhər kimi Xaçmaz yaxınlığında yerləşdi -
+yin dən xəbər verir. 
+Professor F.Nərimanoğlu tədqiqatçıların qənaətinə əsaslanaraq
+Müşkürün tarixən mövcud olmuş Masqut-Hun dövləti ilə əlaqədar
+olduğunu yazır (38, 33).
+Toponimçi alim R.Əliyeva da Müşkür haqqında maraqlı mə -
+lumat verir: “Tarixi mahal olan Müşkür Samur çayı, Xəzər dənizi
+43
+və Şabran arasındakı ərazini əhatə etmiş, VIII əsrin əvvəllərindən
+Dərbənd əmirliyinin, X əsrdən Şirvanşahlar dövlətinin tərkibində
+olmuşdur. XVIII əsrin ikinci yarısından Quba xanlığının mahal -
+larından biri olan Müşkür müasir Azərbaycan toponimiyasında
+mikrotoponimə çevrilmişdir (13, 52). Yerli sakinlər isə hazırda
+Xaçmazla Yalama arasındakı ərazilərə Müşkür deyirlər.
+Müşkür tarixən dağlıq ərazilərdə yaşayan xırda xalqların (qrız,
+cek, hapıt, buduq və s.) qışlaq yerləri olmuşdur. Bu qışlaqlar da
+ayrı-ayrı obalardan ibarət idi. Bəzən eyni etnik mənşəyə malik
+olan nəsil Müşkürdə bir neçə qışlağa sahib idi ki, bunlar da yaşayış
+məntəqəsi kimi “oba” adlanırdı. Obaları bir-birindən fərqlən -
+dirmək üçün onlara nəsil başçılarının, nüfuzlu adamların adlarını
+verirdilər. Məsələn, Rəhimin obası (Rəhimoba), Müzəffərin obası,
+(Müzəffəroba), Ağaşirinin obası (Ağaşirinoba), Hacı İsanın obası
+(Hacıisaoba) və s.
+Professor M.Seyidov mənbələrə istinad edərək “oba” sözü
+haqqında yazır ki, bir çox türkdilli xalqlar dağ belindəki dar keçidə
+dağın və eləcə də dağ ruhunun, yiyəsinin şərəfinə, adına daşlar
+yığıb ona tapınarmışlar. Bu cür daş təpəciklərə “oba”// “ova”
+deyərmişlər (40, 266). Biz sözarası demək istəyirik ki, “oba” həm
+də yurd qoruyucusu ruhu, kultu, onqonu imiş (40, 267).
+V.V.Radlov da “oba” sözünü yurd, ailə, köç kimi izah edir. (53,
+1157).
+P.İvanovun fikrincə, “oba” sözü türkmən dilindəki “obak” –
+alaçıq sözü ilə əlaqəlidir (60, 47–50).
+Azərbaycan dilinin izahlı lüğətində “oba” sözü “bir neçə
+evdən ibarət kiçik yaşayış məntəqəsi, kiçik kənd və köçərilərin,
+heyvandarların müvəqqəti sakin olduqları bir neçə alaçıq və ya
+çadırdan ibarət köç yeri, düşərgə” kimi göstərilir (3, 509).
+Dilimizdə kiçik yaşayış məntəqəsi kimi başa düşülən “oba”
+sözü şəxs adlarına, coğrafi məkan və relyef quruluşlu sözlərə, bitki
+adlarına, nəsil, tayfa adlarına, arxaik dil elementlərinə və s.
+birləşərək müxtəlif oykonimlər əmələ gətirmişdir.
+44
+“Oba” komponentli bölgə oykonimlərini aşağıdakı kimi
+qruplaşdırmaq olar:
+a) şəxs adları ilə ifadə olunanlar:
+Ağarəhimoba, Ağaşirinoba, Ağaverdioba, Bayoba, Əhmədoba,
+Fərzəlioba, Hacıəhmədoba, İdrisoba, Hacıisaoba, Hacımə mə -
+doba, Manafoba, Məcidoba, Mənçəroba, Xaçpoladoba və s. Bu
+mürəkkəb oykonimlərdə birinci komponent antroponimik adlarla
+ifadə olunaraq yaşayış məntəqəsinin konkret şəxsə mənsubluğunu
+və ya həmin şəxs tərəfindən salındığını bildirir;
+b) etnik tərkiblə ifadə olunanlar: 
+Ərəb, Padar, Cığatay, Qaraçı və s. 
+c) coğrafi relyef və istiqamətlə ifadə olunanlar:
+Çuxuroba, Ortaoba, Uzunoba, Palçıqoba və s.
+ç) nəsil adı ilə ifadə olunanlar: 
+Xanoba, Xanlıqoba;
+d) bitki adı ilə ifadə olunanlar: 
+Tikanoba.
+Kiçik yaşayış məntəqəsini bildirən “oba” topoformantından
+əmələ gəlmiş oykonimlərə Azərbaycanın digər bölgələrində də
+rast gəlinsə də, bu Xaçmaz oykonimlərinə nisbətən azlıq təşkil
+edir. Masallıda Türkoba, Nəzəroba, Dəlləkoba, Zərdabda
+Dəkkəoba və s. belə oykonimlərdəndir.
+“Qışlaq” topoformantı. Bu topoformant da oykonimlərdə
+xalqın köçəri həyatı ilə bağlı yaranmışdır. “Qışlaq” və “yaylaq”
+bir-birinin müqabili kimi yayda və qışda maldarlıq və qoyunçuluq
+üçün əlverişli olan yer, yurd, oba mənasını ifadə edir.
+Məlumdur ki, türk xalqlarının, həmçinin Azərbaycan türk -
+lərinin əsas məşğuliyyətini lap qədimlərdən maldarlıq təşkil
+etmişdir. Köçəri həyat tərzi türk xalqlarında əsas yaşayış prinsipi
+olduğundan, ulu babalarımız həyatlarını iqtisadi cəhətdən təmin
+etmək üçün özlərinə münasib ərazilərə köç etmişlər. Bunun
+nəticəsində onlar məskən saldıqları ərazilərdəki coğrafi obyektlərə
+ad vermişlər. 
+45
+Yayda insanlar təbii şəraitinə görə əlverişli olan dağlıq ərazilərə
+– yaylağa, qışda isə nisbətən mülayim şəraitdə keçirmək üçün
+dağətəyi və düzən ərazilərə – qışlağa köç edərdilər. Belə köçəri
+həyat tərzi “qışlaq” topoformantlı oykonimlərin yaranmasına
+səbəb olmuşdur. 
+Xaçmaz oykonimlərində bu həm şəxs adlarına, həm də dağlıq
+ərazilərdəki yaşayış məskənlərinin adlarına birləşərək oykonim
+əmələ gətirmişdir.
+Ç.Kazımov “Cəbrayıl toponimləri” monoqrafik tədqiqatında
+“qışlaq” sözünün “qış” və “laq” komponentlərindən ibarət olub,
+“qış yurdu” mənasında olduğunu qeyd edir (27, 14).
+R.Əliyeva da “laq” topoformantının yer, məkanla bağlı ol -
+duğunu yazır (13, 92).
+Xaçmaz rayonunda “qışlaq” topoformantı ilə ifadə olunan aşa -
+ğı dakı oykonimlər var: Qımılqışlaq, Susayqışlaq, Bala Qusar qış -
+laq, Mirzəməmmədqışlaq, Üçgünqışlaq, Bəyqışlaq, Mehrəliqışlaq,
+Mürsəlliqışlaq, Qədiməliqışlaq, Alıcqışlaq, Suxtaqalaqışlaq.
+“Kənd” topoformantı. Bu komponent toponim yaradıcılığında
+fəal iştirak etsə də, Xaçmaz oykonimlərində azlıq təşkil edir. 
+M.Kaşqarinin “Divani-luğat it-türk” əsərində “kənd” sözü
+şəhər, inzibati ərazi kimi izah olunur. Bir çox türkdilli xalqların
+toponimiyasında da “kənd” sözü topoformant kimi oykonimlərdə
+iş tirak edərək şəhər mənası ifadə edir (Daşkənd, Çimkənd).
+“Kənd” sözü də digər determinativ sözlər kimi toponimlərin tər -
+ki bində iştirak etmişdir. Bu söz bir sıra şəxs adlarına qoşularaq aşa -
+ ğıdakı oykonimləri əmələ gətirmişdir: Maqsudkənd, Həbib kənd.
+“Qazma” topoformantı. “Qazma” keçmişdə mal-qoyun
+qışlayan və saxlayan yerlərdə düşərgə rolu oynamışdır. Bu cür
+qazmaların yerində sonralar böyük kəndlər yaranır (32, 24.)
+“Qazma” sözünün ilkin mənası “yeraltı daxma, yerin altında
+qazılmış müvəqqəti ibtidai yaşayış yeri” kimi də başa düşülür.
+XI–XIII əsr ərəb səyyahlarının qeydlərində Azərbaycanın
+şimalında yeraltı daxmalardan ibarət kənd və orada yaşayan
+46
+əhalinin hava haqqında əvvəlcədən məlumat vermək bacarığından
+söz açılır (13, 75).
+Qazma tipli müvəqqəti yaşayış məskənləri adətən qışlaq yerləri
+üçün xarakterikdir. Qazmalarda həm qoyun-quzu saxlanılırdı, həm
+də onlar qışlıq yem bazası rolunu oynayırdı.
+Dialektoloji lüğətlərdə “qazma” sözünün “tövlə” mənasında
+işlədilməsi də göstərilir. Bu sözün digər mənası neft və s. çıxarmaq
+üçün qazılan quyu, şaxtadır.
+Xaçmaz bölgəsində “qazma” topoformantlı iki oykonim qeydə
+alınmışdır: Hacıqazma və Qoçaqqazma.
+“Çay” topoformantı. “Çay” sözü dilimizin lüğət tərkibində
+yaşamaqla bərabər türk dillərinin əksəriyyətində müxtəlif variant-
+larda işlənir. Bu anlayış türk xalqları üçün xarakterikdir. “Çay”
+Kuban türklərinin dilində “dağ çayı”, Orta Asiyada “quru çay
+qolu”, “susuz çay” mənasında işlənirsə, Azərbaycan dilində axar
+su anlayışını verir (19, 17).
+“Çay” Azərbaycan dilinin izahlı lüğətində öz hövzələrinə
+düşən atmosfer yağıntılarından və ya bulaqlardan qidalanan və özü
+əmələ gətirdiyi yataqla axan çoxlu və fasiləsiz təbii su axını kimi
+qeyd olunub. “Çay” həm də dilin leksik tərkibində omonimlik
+xarakteri daşıyır.
+“Çay” sözü məişətdə çox işlənən leksik vahidlərdəndir. Bu ter-
+min “çafan” şəklində çin dilində işlənir. “Çafan” sözünün “ça”
+hissəsi çay, “fan” isə ev mənasındadır. “Ça-çay” paralelliyi dünya
+dillərinin bir kökdən olduğunu sübut edən faktlardandır (26, 137).
+Xaçmaz rayonu ərazisindəki Qusarçay, Samurçay, Ağçay
+coğrafi anlayışları hidronim mənşəlidir. 
+“Yataq” topoformantı. Bu söz azərbaycanlıların qədim
+məşğuliyyəti olan heyvandarlıqla bağlıdır. Dilimizdə bir neçə
+omonimlik bildirən bu söz bölgədə qeydə alınmış Əbilyataq
+oykonimində kənddən kənarda mal-qaranı saxlamaq üçün salınmış
+məskən, yer mənasını ifadə etməklə Əbilin yatağı, Əbilə məxsus
+yataq olduğunu bildirir.
+47
+“Tala” topoformantı. “Tala” sözü dilimizin izahlı lüğətində
+meşədə ağacsız, çılpaq yer, sahə mənalarında olduğu göstərilir.
+“Tala” sözünə bir sıra türk dilli xalqların toponimiyasında da rast
+gəlinir. Bu söz Qazax dilində “düzənlikdə açıq yer, çöl”
+mənasında “dala” formasında, qırğız dilində “tarla, çöl, açıq
+sahə” mənasında “talaa” formasında işlədilir. Bəzi tədqiqatçılar
+isə “tala” sözünü ərəb dilindəki tall//tell sözü ilə “təpə” mə -
+nasında əlaqələndirirlər.
+Azərbaycan ərazisində “tala” komponentli coğrafi adlara çox
+rast gəlinsə də, Xaçmaz rayonunda yalnız biri – fitonim mənşəli
+Çinartala oykonimi qeydə alınmışdır.
+“Qala” topoformantı. Ərəb mənşəli “qala” sözü toponim
+yaradıcılığında bir komponent kimi çox işlənir. Bu sözün
+Azərbaycan dilinin izahlı lüğətində bir neçə mənası qeyd
+olunmuşdur:
+1.Uzun müddət içində qapanıb düşmənə müqavimət göstərmək
+üçün möhkəm müdafiə tikililəri və vasitələri olan istehkam;
+2.Qədimdə qala rolunu oynamış yüksək və əksərən dairəvi
+şəkildə olan tikili.
+Toponimiyamızda “qala” komponenti ilə əlaqədar xeyli
+oronim, hidronim və oykonimlər vardır. Bunlardan biri –
+Həsənqala oykonimi Xaçmaz rayonu ərazisindədir.
+Beləliklə, demək olar ki, Xaçmaz rayonunun oykonimləri
+maraqlı qrammatik xüsusiyyətlərə malikdir. Bu ərazilərdə həm də
+şəxs adları əsasında əmələ gələn antroponimlər geniş yayılmışdır.
+Bu oykonimlər sadə, düzəltmə və mürəkkəb quruluşlu bir və ya
+ayrı-ayrı dil vahidlərindən ibarət olub, hibrid oykonimlər də əmələ
+gətirmişdir. Xaçmaz oykonimlərinin yaranmasında morfoloji və
+sintaktik üsul ən məhsuldar üsuldur. Oykonimlərin əksəriyyəti
+Azərbaycan (türk) dili xüsusiyyətlərini özündə birləşdirir. 
+48
+OYKONİMLƏRİN ETİMOLOJİ XÜLASƏSİ
+AĞARƏHİMOBA. Rayonun Qımılqışlaq İƏV-də (İnzibati
+Ərazi Vahidi) kənd. XIX əsrin ortalarında Quba rayonunun Cek
+kəndindən köçmüş ailələrin həmin kəndə məxsus (Ağarəhim adlı
+şəxsin) qışlaq yerində məskunlaşması nəticəsində yaranmışdır.
+Oykonim “Ağarəhimin obası, Ağarəhimə məxsus oba”
+mənasındadır. 
+AĞAŞİRİNOBA. Kənd rayonun Çinartala İƏD-ə (İnzibati
+Ərazi Dairəsi) daxildir. XIX əsrin ortalarında Quba rayonunun
+Qrız kəndinə məxsus qışlaq yerində salınmışdır. Oykonim
+Ağaşirin (antroponim – şəxs adı) və oba komponentindən ibarət
+olub, “Ağaşirinə məxsus el, nəsil, yurd” dəməkdir. 
+AĞAVERDİOBA. XIX əsrin II yarısında Qrız kəndinin sakini
+Ağaverdi adlı şəxsin oba yerində salınmış bu kənd Qusarçay İƏV-
+nə daxildir. Oykonim “Ağaverdiyə məxsus oba, el” mənasındadır. 
+AĞÇAY. Rayonun Niyazoba İƏV-də kənd. XIX əsrdə gəlmə
+rusların məskunlaşması ilə əlaqədar Vasilyevka adlandırılırdı.
+Hidronim mənşəli bu oykonim Ağçayın sahilində yerləşdiyi üçün
+belə adlandırılmışdır. 1992-ci ildən Ağçay kimi qeydə alınmışdır. 
+AĞTALA. Nərəcan İƏV-də kənd. XIX əsrin ortalarında burada
+rusların məskunlaşması ilə əlaqədar adı dəyişdirilərək Rodnikovka
+(bulaqlı yer) adlandırılmışdır. 
+“Ağ” sözünün ifadə etdiyi semantik çalarlar çox müxtəlifdir.
+Bir sıra coğrafi adların tərkibində bu söz rəng mənasını (Ağdərə,
+Ağçay), bir qismində isə keyfiyyət mənasını (Ağsu) ifadə edir.
+Ağtala oykoniminin tərkibindəki “ağ” sözü “kiçik, xırda, çox
+geniş ərazi olmayan, balaca” mənasını ifadə edir. Oykonim ağ
+(kiçik) və tala (sahə) sözlərindən düzəldilib “kiçik sahə” demək
+dir .  
+49
+AĞYAZI BUDUQ. Etnonim mənşəli oykonimdir. Rayonun
+Hacıəlibəy İƏV-də yerləşən bu kənd 1917–1933-cü illərdə Ağyazı
+şəklində qeydə alınmışdır.
+Ağ tərkibi bütün türkdilli xalqlarda yüzlərlə yer-yurd adının
+tərkibində işlənir. 
+Azərbaycan toponimiyasında, ümumilikdə 44 toponimin
+tərkibində “ağ” komponentinin işlənməsi qeyd olunur.
+Mənbələrə əsaslanaraq filologiya elmləri doktoru F.Xalıqov
+yazır ki, türk dillərində “yazı” leksik vahidi hələ IX əsrdən
+işlədilmişdir. Qədim türk dillərində də “yazı” sözü “çöl”, “düz”
+mənalarındadır. (20, 119).
+Oykonim Ağyazı və buduq sözlərindən ibarət olub “buduqlular
+yaşayan Ağyazı kəndi” dəməkdir. 
+ALEKSEYEVKA. Rayonun eyniadlı İƏV-də kənd. Qusar
+çayının sağ sahilindən bir qədər aralıda yerləşir. XIX əsrdə rusların
+burada məskunlaşması ilə əlaqədar Aleksey (antroponim) və evka
+(rus dilindəki məxsusluq bildirən komponent) tərkiblərindən
+düzəldilmişdir. Daha sonra bura Quba rayonunun Zıxır kəndindən
+kütləvi surətdə tatlar axışıb gəldilər. 
+Əvvəllər Quba rayonunun Xuc kəndinə məxsus otlaq və
+təsərrüfat yerləri olan bu ərazi Xuc palasa (Xuc qışlaq) adlanırdı.
+Xuc tacik dilində “uçurum” dəməkdir. Tacikistanda Daranxuc,
+Xucguh toponimləri mövcuddur. Xuclular Səlcuq-Türkmən
+mənşəli əhali hesab olunurlar. 
+ALICQIŞLAQ. Mürəkkəb oykonimdir. Yaşayış məntəqəsini
+XIX əsrin ortalarında Qubanın Alıc kəndindən köçüb gələn ailələr
+özlərinə məxsus qışlaq yerində salmışlar. Alıc/alıs/alış/alic sözü
+çoxmənalı olub, qədim türk dillərində çayın ağzı, mənsəbi, axar
+suyun hövzəyə tökülən yeri, soyuq, uzaq, uzaqda olan, duz ol-
+mayan, vəhşi qus, kələ-kötür və s. mənaları ifadə edir. Kənd Aşağı
+Zeyd İƏV-də yerləşir. 
+50
+ARANOVKA. Rayonun Müskür İƏV-də kənd. Oykonimin bir-
+inci komponentindəki aran sözü yaylaq yerlərə nisbətən alçaq və
+iqlimcə isti olan yerlər mənasındadır. Rusların ərazidə məskun -
+laşması ilə əlaqədar Aranovka adlandırılmışdır. 1992-ci ildən
+kəndin adı dəyişdirilərək Əzizli adlandırılmışsa da, hələ də bəzi
+mənbələrdə Aranovka kimi göstərilir. 
+ARMUDPADAR. Rayonun Yergüc İƏV-də kənd. 1933-cü ildə
+Xaçmaz rayonu ərazisində eyniadlı üç kənd qeydə alınmışdır.
+Mənbələrdə padarların Səfəvilər tərəfindən İrandan (Cənubi
+Azərbaycandan) köçüb gəlmələri qeyd olunur. Padarlarla bağlı
+olan və Padar adlanan başqa bir yaşayış məntəqəsindən fərqlən -
+dirmək məqsədi ilə belə adlandırılıb. Padar etnooykonimi Ağsu,
+Dəvəçi, Sabirabad, Oğuz rayonları ərazilərində tək, Xaçmaz ray-
+onunda isə kəmiyyətcə iki olduğuna görə, birinə armud fərqlən -
+dirici ünsürü əlavə edilmiş və beləliklə, onovahidin
+di fe ren sial laş ması baş vermişdir (20, 153).
+Yerli sakinlər oykonimin tərkibindəki armud sözünü bu
+yerlərdə vaxtilə çoxlu armud bağlarının olması ilə əlaqələndirir.
+Əslində isə, Armudpadar oykoniminin padar tərkibi oğuz-səlcuq
+tayfalarından biri olan padarlarla bağlıdır. 
+Əksər mənbələrdə ən məşhur oğuz tayfalarından biri kimi
+təqdim edilən padarların Elxanilər dövründə Orta Asiyadan
+Azərbaycana köçürülmüş 200 min türkdilli ailə içərisində mühüm
+yer tutmaları qeyd edilmişdir. Onlar əvvəl Cənubi Azərbaycanda
+yaşamış, XI–XVII əsrlərdə – Səfəvilər dövründə isə müəyyən
+hissəsi dağıstanlıların (ləzgilərin) qarşısını almaq məqsədilə Şimali
+Azərbaycana köçürülmüşdü (15, 86).
+Mənbələrdə onların daha sonrakı dövrlərdə ictimai-iqtisadi
+hadisələrlə əlaqədar yerlərinin dəyişməsi və səpələnərək müxtəlif
+zonalarda məskunlaşmaları haqqında məlumatlar var. Yeni
+saldıqları yaşayış məntəqələri də onların etnik adı ilə adlandırıldığı
+üçün təkrarlanan adların yaranmasına səbəb olmuşdur. Bir-birinə
+51
+nisbətən yaxın yaşayış məntəqələri isə özündə fərqləndirici
+əlaməti əks etdirmişdir.
+ARZU. Yaşayış məntəqəsi Samur-Abşeron kanalının ya xın -
+lığında Hacıəlibəy İƏV-də yerləşir. Kənd (qəsəbə) XX əsrin 50-ci
+illərində 12 №-li sovxozun nəzdində salınmış və 1965-ci ildən
+rəsmi olaraq Arzu adlandırılmışdır. Oykonimin belə adlandırılması
+burada məskunlaşmış əhalinin xoş gələcəyə ümidi ilə bağlıdır. 
+ASLANOBA. Kənd Seyidlikənd yeri İƏV-də, Xəzər dənizinin
+sahilindədir. Oykonim Aslan (şəxs adı) və oba sözlərindən düzəlib,
+“Aslana məxsus oba, kənd” dəməkdir. Aslan sözü antroponim və
+etnonim kimi türk dilli xalqların toponimiyasında geniş
+yayılmışdır: Aslanbud, Aslanbəyli, (Qazax rayonunda), Aslanlar,
+Aslanlı (Ermənistan ərazisində), Aslan, Aslanşah, Qamışaslan,
+Aslandüz (İran) və s. 
+AŞAĞI LƏGƏR. Rayonun Köhnə Xudat İƏV-də qəsəbə.
+Sovet dövründə Çkalov adına sovxozun 5-ci şöbəsi yanında
+yaranmış və 1965-ci ildən Aşağı Ləgər adlandırılmışdır. Eyniadlı
+oykonim Qusar rayonunda, Qusar maili düzənliyində də var.
+Oykonimin tərkibindəki aşağı sözü fərqləndirici komponent ol-
+maqla “Aşağıda yerləşən Ləgər kəndi” dəməkdir. Ləgər sözü bəzi
+mənbələrdə ləgər//ləkər (dağ ətəyində çökəklik) və ya lüəkər
+(yarğanlı yer) kimi hallanır. Bəziləri isə “ləkər” sözünü yaraşıq,
+görkəm sözü ilə bağlayırlar. Əslində isə ləkər//ləgər sözü
+laklar//ləklər etnoniminin tələffüz formasıdır. 
+AŞAĞIOBA. Bu yaşayış məntəqəsi rayonun Seyidlikənd yeri
+İƏV-də, Xəzər dənizinin sahilindədir. Kənd obalar əsasında
+yaranmışdır. Yaşayış məntəqəsi XIX əsrin ortalarında Susay
+kəndinə məxsus qışlaqda yaranmış iki obadan (Aşağıoba və
+Susayqışlaq) biridir. 
+52
+AŞAĞI ZEYD. Kənd Qara çayın sağ sahilində, rayonun
+eyniadlı İƏV-də yerləşir. Yaşayış məntəqəsi XIX əsrin ortalarında
+Quba rayonunun Zeyd kəndindən bir qrup ailənin həmin kəndə
+məxsus qışlaq yerində məskunlaşması nəticəsində yaranmışdır.
+Oykonimin birinci komponenti yaşayış məntəqəsinin coğrafi
+mövqeyini bildirir. Zeyd ərəb mənşəli etnotoponimdir. Mənbələrdə
+oykonimin “seyid” sözündən yaranması haqqında fikirlər var. 
+Kəndin əsasını Zeyd kəndindən olan Qasım adlı bir şəxs
+qoyduğu üçün “Qasım qışlağı” da adlanır. 
+BABALI. Oykonim rayonun Müşkür İƏV-də yerləşir. 1917-ci
+ildə Bəbəli variantında qeydə alınmış bu kənd o zaman Quba
+qəzasının Dədəli bölgəsinə daxil idi. Keçmişdə Qoz Babalı (qo-
+zluq ərazidə yerləşdiyi üçün) və ya Ərəb Babalı da adlanırdı.
+Hazırda rayonun Qaraqaşlı kəndi yaxınlığında Ərəb Babalı adlı
+xarabalıq var. Eyniadlı yaşayış məntəqəsi Cəlilabad rayonu
+ərazisində də mövcuddur. Mənbələrdə göstərilir ki, kəndin əsasını
+Xaçmaz rayonundan köçmüş babalılar qoymuşlar. Tədqiqatçılar
+oykonimi VII əsrdə Azərbaycana köçürülmüş ərəb tayfalarından
+birinin adı ilə bağlayırlar. Etnotoponimdir. 
+BALAQUSARQIŞLAQ. Mürəkkəb üçkomponentli oykon-
+imdir. Yaşayış məntəqəsi rayonun Qusarçay İƏV-də yerləşir.
+Oykonim Qusar rayonunun Bala Qusar kəndindən həmin kəndə
+məxsus qışlaq yerinə köçmüş ailələrin məskunlaşması nəticəsində
+yaranmışdır. Oykonimin mənası “Kiçik Qusar, Bala Qusar
+kəndinin qışlağı” deməkdir. 
+BARAXUM. Qusar çayı sahilində Uzunoba İƏV-də kənd.
+1933-cü ildə rayonun ərazisində Baraxlı kəndi də qeydə alın -
+mışdır. 1917-ci ildə kiçik və böyük Baraxum, Köhnə və yeni
+Baraxum adlı dörd kəndin Quba qəzasının Dədəli və Müşkür
+bölgələrində yerləşməsi haqqında mənbələrdə məlumat verilir.
+53
+Oykonim baraxlı//barağlı etnonimindən yaranmışdır. Tədqi qat -
+çılar Baraxum oykonimini Səlcuq türkləri ilə xristianlar (xristian
+mənşəli baraxum tayfası) arasında gedən mübarizə nəticəsində
+yaranmasını qeyd edirlər. Baraxumlar bu tayfanın başçısı Sultan
+İbrahim Eynalın (Baraxum) adı ilə onun irsindən qalmışlar (44).
+BAYOBA. Rayonun Hacıəlibəy İƏD-də kənd. Yaşayış mən -
+təqəsini XIX əsrin ortalarında Quba rayonunun Cek kəndindən
+köçüb gəlmiş ailələr salmışlar. Yerli sakinlərin verdiyi məlumata
+görə oykonim kəndin əsasını qoymuş Bay adlı bir şəxsin adı ilə
+adlandırılmışdır. Oykonim bəy və oba komponentlərindən ibarət
+olub mənası “bəy kəndi, bəy obası” deməkdir. Bəy sözünün qədim
+variantları bay formasında müasir özbək, qazax, qırğız və s.
+dillərdə işlənməkdədir. 
+BƏYQIŞLAQ. Oykonim bəy və qışlaq komponentlərindən
+ibarət olub, “bəyə məxsus qışlaq, bəyin qışlağı” mənasındadır. Bu
+yaşayış məntəqəsi rayonun Hülövlu İƏV-nə daxildir. 
+BOSTANÇI. Rayonun Dədəli İƏV-də kənd. Oykonimi etno-
+toponim hesab edən tədqiqatçıların fikrincə, toponim bostan
+(qırğızlarda və özbəklərdə boston) tayfa adından və -çı
+mənsubiyyət şəkilçisindən düzəlib. Kəndin ərazisində orta əsrlərə
+aid ərəb yazılı daş sənduqələrin və sinə daşlarının tapılması onun
+qədim yaşayış məskəni olmasından xəbər verir. Bostançı oykoni-
+mini bu kənddə yaşayan əhalinin qədim məşğuliyyəti ilə
+bağlayanlar da var. Ermənistanda Bostançı Xaraba, Gürcüstanda
+Bostançı, Özbəkistanda, Bostanlıq, Bustan, Tacikistanda Bus-
+tankala toponimləri qeydə alınmışdır. 
+CANAXIR. Rayonun Hülövlu İƏV-də kənd yaşayış məntə -
+qəsini Quba rayonunun Əlik kəndindən çıxmış ailələr Canaxır ad-
+lanan yerdə salmışlar. Kənd əvvəllər Aşağı Əlik də adlanmışdır.
+54
+Azərbaycan dilinin əksər dialektlərində cana sözü “yararsız yer”
+mənasındadır, xır isə “əkin sahəsi, taxıl təmizləyən yer”
+ mənasında işlənir. Bunu nəzərə alıb, oykonimin “əkin sahəsi üçün
+yararsız yer” mənasında olmasını söyləmək olar. Əslində isə bu-
+rada yaşayışın olması tunc və dəmir dövrlərinə aid edilir. Bunu
+Canaxır kurqanlarından tapılmış maddi-mədəniyyət nümunələri
+də sübut edir. 
+CIĞATAY. Etnotoponimdir. Kənd rayonun Qaraçı İƏV-də
+yerləşir. Oykonim türkdilli cığatay tayfasının adındandır. Bu
+oykonim haqqında mənbələrdə Çingiz xanın oğlu Cığatayın adın -
+dan olduğu göstərilir. Cığatayın türklərlə moğolların qarışığından
+əmələ gəlməsi haqqında məlumat verilir (51, 48).
+Oykonim XVIII əsrin sonlarında Fətəli xanın Qarabağdan bəzi
+elləri, o cümlədən cığatayları Quba xanlığı ərazisində yerləşdiril -
+məsi nəticəsində yaranmışdır. Cığataylar etnik adlarını Cığatay
+oykonimində yaşada bilmişlər. 
+Qəbələ rayonundakı Cığatelli oykonimi də “cığatayların məs -
+kun laşdığı kənd” deməkdir. Oykonim 1917-ci ildə Cığataylı,
+1933-cü ildə isə Cığatallı şəklində qeydə alınmış, tədricən Cı -
+ğatelli variantına düşmüşdür.
+XV əsr türk ədəbiyyatının ən böyük şairi Əlişir Nəvai cığatay
+türkcəsində yazıb-yaratmışdır (12, 144).
+ÇAXÇAXLI. Rayonun Susayqışlaq İƏV-də kənd. Mənbələrdə
+oykonimin çaxçax (ağac çəpər) sözündən və -lı şəkilçisindən
+düzəlib, “ağac çəpərlə bağlanan yer” mənasında olduğu göstərilir
+(8, I c., 128). Çaxçax sözünün su dəyirman daşlarının çıxardığı
+səslə əlaqəli olması haqqında fikirlər də var.
+ÇAXMAQLI. Kənd Ağçayın sahilində dağətəyi düzənlikdədir.
+Etnotoponimdir. Rayonun Qaraçı İƏV-də yerləşir. Mənbələrin
+verdiyi məlumata görə, çaxmaqlılar Qubalı Fətəli xanın dövründə
+55
+tayfa başçısı Şahsevən Məhəmməd xanın tabeliyində Ərdəbil
+ətrafından Quba xanlığına köçüb Müşkür və Şabran mahallarında
+məskunlaşmış səkkiz Şahsevən tayfasından biri olmuşdur. Bu tay-
+falar Şabran və Müşkür mahallarında Çaxmaqlı, Cığatay, Hacılı,
+Ustacallı, Laman və Qaradağlı ərazilərində yerləşdirilmişdir. 
+ÇARXI. Rayonun eyniadlı İƏV-də kənd. Oykonim çayarxı
+sözünün təhrif olunmuş formasıdır. Cağacıq çayından çəkilmiş
+böyük suvarma arxının sahilində olduğu üçün oykonim belə
+adlandırılmışdır. Bu sözün su üzərində qurulmuş ağac dəzgahla
+(çarx) bağlılığı da ola bilər.
+Abbasqulu Ağa Bakıxanov “Gülüstani-İrəm” əsərində Səbrənli
+Yəqub Çərxi adlı alimin adını çəkir. Tədqiqatçılara görə çarxılılar
+Əfqanıstanın Qəznə vilayətinin Çərxi kəndindəndirlər. Tatar-mon-
+qol istilaları dövründə Xəzər sahili ovalıq boyunca yaşayan əhalini
+başqa yerlərə, Səfəvilərin hakimiyyəti dövründə isə imperiyanın
+müxtəlif yerlərindən Quba əyalətinə xeyli əhali köçürülmüşdü.
+Çarxılılar da bu köçürmə nəticəsində burada məskunlaşmış,
+əvvəlki yaşayış məskəninin adını Çarxı oykonimində yaşatmışlar.
+Çarxı sözü qədim türk və fars dillərində “sənətkar” anlamın -
+dadır. Qədimdə müxtəlif peşə sahiblərinə “çərxi” deyilirdi.
+İ.Şahbazova görə yaşayış məntəqəsinin adı onların qədim
+məşğuliyyəti ilə bağlıdır (45).
+ÇILĞIR. Rayonun Aşağı Zeyd İƏV-də kənd. Oykonim
+Vəlvələ çayın sahilində yerləşir. Çılqır/Çilğır sözü haqqında
+müxtəlif fikirlər mövcuddur. Ancaq bu sözü türk dilləri ilə
+bağlamaq daha düzgün olardı. Türk dillərində çıldır/sildir/çılqır
+sözü “çay, suyun ətrafa yayılması daşqın, məcrasından çıxan çay,
+qəzəblənmə” mənalarında işlənir. V.V.Radlov da “çılğın” sözünü
+“qızğın, qəzəbli” anlamları ilə bağlayır (40, 111).
+Əvvəllər kəndin əhalisi Vəlvələ çayının sağ sahilində yaşa mış -
+lar. Arası kəsilməyən daşqınlar nəticəsində əhali çayın sol sahilinə
+56
+köçmək məcburiyyətində qalmışdır. Çılqırlılar özlərini Şama -
+xıdakı Şıxlar kəndindən gəlmə hesab edirlər. Şıxlar Çılqır kən -
+dində toponimik yerdir. Şıxlar (Şeyxlər) isə başda Şıx Bəbələddin
+baba olmaqla Şamdan gəlmədirlər. 
+Yerli sakinlər kənd ərazisində vaxtilə daş qutu qəbirlərin ol du -
+ğunu da bildirirlər. Oykonimin mənasını “məcrasından çıxan
+çay”, “qəzəblənmiş çay və ya çayın ətrafa yayılan yeri” kimi izah
+et mək olar. 
+Oykonim “Azərbaycan toponimlərinin ensiklopedik lüğəti”nə
+düşməmişdir.
+ÇİLƏGİR. Bu adla Azərbaycan ərazisində üç oykonim qeydə
+alınmışdır; bunlardan biri Qusar maili düzənliyində Urva İƏV-də,
+ikisi isə rayonun Aşağı Zeyd və Nərəcan İƏV-dəki kəndlərdir.
+Tədqiqatçıların ehtimalına görə Çiləgir sözü etnotoponimdir. 
+Oykonim XVI əsrdə Anadoluda yaşamış Boz Ulus tayfa
+ittifaqına daxil olan çılaxır tayfasının adı ilə bağlı yaranmışdır.
+Quba rayonu ərazisindəki Cağacıq çayı ilə Qaraçayın suayırıcında
+yerləşən dağ və həmin çayın bir qolu da Çiləgir adlanır.
+ÇİNARTALA. Fitonim mənşəli bu oykonim rayonun eyniadlı
+İƏD-də, Qusar çayının sol sahilindən bir qədər aralıda yerləşir.
+Yaşayış məntəqəsi XIX əsrin ortalarında Quba rayonunun Qrız
+kəndindən gəlmiş ailələr tərəfindən Çinarlı tala adlanan ərazidə
+salındığından belə adlandırılmışdır. Bu ərazilər əvvəllər Qrız
+kəndinin qışlaq və təsərrüfat yerləri olmuş, sonra daimi yaşayış
+məntəqəsinə çevrilmişdir. Oykonim “çinar ağacları olan tala”
+mənasındadır. 
+ÇUXUROBA. Rayonun Qımılqışlaq İƏV-də kənd. Oykonim
+çuxur (çökək) və oba (kəndin bir hissəsi) komponentlərindən
+ibarət olub, “çuxurda olan oba, yurd” mənasındadır. Kol lek -
+tivləşmədən sonra oba daimi yaşayış məntəqəsinə çevrilmişdir. 
+57
+DALĞALI. Rayonun Nabran İƏV-də qəsəbə. Hidronim mən -
+şəli düzəltmə oykonimdir. Xəzər dənizinin ləpədöyən sahilində
+yerləşdiyi üçün belə adlandırılmışdır. 
+DƏDƏLİ. Rayonun eyniadlı İƏV-də kənd. Mənbələrdə oykon-
+imin əsl adının Ərəbdədəli olduğu bildirilir. Sonralar oykonimin
+tərkibindəki ərəb sözü düşmüşdür. Mənbələrdə dədəlilərin
+ərəbdədəli tayfasına mənsub olması haqqında məlumat var. 
+XVIII əsr rus hərbi qulluqçusu P.Q.Butkovun Qafqaz tarixi
+haqqında topladığı materiallarda Dədəli kəndinin adı çəkilir.
+Rusların və İran hakimlərinin Azərbaycandakı zülmünə qarşı
+mübarizə aparan və dövlət müstəqilliyinə cəhd göstərən Müşkür
+mahalının Dədəli kənd sakini Hacı Davud haqqında bu dövrün
+tanınmış səyyahı Lopuxin də məlumat verir. Hacı Davud 1728-ci
+ildə Krit adasında əsirlikdə ölmüşdür.
+Ağsu və Füzuli rayonlarının ərazisindəki eyniadlı oykonimlərin
+də ərəbdədəli tayfası ilə əlaqəli olduğu qeyd olunur. 
+DİGAHOBA. Kənd Köhnə Xudat İƏV-nə daxildir. Oykonim
+Digah (kənd adı) və oba sözlərindən ibarət olub “Digah kəndinin
+obası, digahlılara məxsus oba” mənasındadır. Yaşayış məntəqəsi
+kimi XIX əsrin ortalarından mövcuddur. Digah sözü tat dilindəki
+di (kənd) və gah (yer) sözlərindən ibarət olub “kənd yeri, yurd”
+mənasındadır. Digahoba kollektivləşmə illərindən sonra daimi
+yaşayış məntəqəsinə çevrilmişdir. 
+DOSTLUQ. Nabran yaxınlığında kiçik qəsəbə. 1965-ci ildə 6
+№-li balıq vətəgəsi yanında salınmış və rəmzi olaraq belə
+adlandırılmışdır. Burada əvvəl balıqçılıqla məşğul olan ailələr
+məskunlaşmış, sonra yaşayış evləri artmışdır. Dostluq Turizm
+üçün ən əlverişli ərazilərdəndir. 
+58
+DÜZTAHİROBA. Üçkomponentli antroponim mənşəli
+oykonimdir. Rayonun Yalama İƏV-də yerləşir. Oykonim düz
+(düzənlik), Tahir (şəxs adı) və oba komponentlərindən ibarət olub
+“düzdə yerləşən Tahirin obası” mənasındadır. Dağlıq ərazilərdən
+gəlmiş ailələrin məskunlaşması nəticəsində daimi yaşayış
+məntəqəsinə çevrilmişdir.
+ƏBİLYATAQ. Rayonun Niyazoba İƏV-də kənd. Oykonim Əbil
+(şəxs adı) və yataq komponentlərindən ibarət olub “Əbilin yataq
+yeri, Əbilə məxsus yataq (mal-qara saxlanılan yer)” mənasındadır.
+Əvvəllər Quba rayonunun Giləzi kəndinə məxsus yataq olmuş və
+sonralar daimi yaşayış məskəninə çevrilmişdir.
+ƏHMƏDOBA. Rayonun eyniadlı İƏV-də kənd. Oykonim
+Əhməd (şəxs adı) və oba komponentlərindən ibarət olub, “Əhmədə
+ məx sus oba” mənasındadır. Oba sonralar daimi yaşayış mən tə -
+qəsinə çevrilmişdir. 
+ƏRƏB. Rayonun Qalağan İƏV-də kənd. Yaşayış məntəqəsi
+özündə ərəb etnonimini əks etdirir. VII əsrdən ərəb işğallarının
+başlanması ilə əlaqədar Xilafətin tərkibinə daxil olan ərazilərə, o
+cümlədən, Azərbaycana xeyli ərəb tayfaları köçürülmüşdür.
+Mənbələrin məlumatına görə təkcə xəzər-ərəb müharibələri
+dövründə Hişam ibn Mərvan 731-ci ildə Şimal sərhədlərini qoru-
+maq üçün Azərbaycanda Şamdan (Suriyadan) gəlmiş 40 min ərəb
+ailəsi yerləşdirmişdi. Ərəblərin Azərbaycana köçürülməsi sonralar
+kütləvi hal almışdı. Gələn ərəblərin əksəriyyəti Şam, Mosul,
+Yəmən, Kufə, Bəsrə və başqa ərazilərdən idi. XIX əsrin əv -
+vəllərinə aid mənbələrə görə Zaqafqaziyadakı ərəb komponentli
+toponimlərin 29-dan 19-u Bakı quberniyasında idi. M.Vəliliyə
+görə, vaxtilə Azərbaycanı fəth edib, burada sakin olmağa başlamış
+ərəblər tamamilə türkləşmişlər (51, 54). Oykonim ərəblərin iz
+buraxdığı kəndlərdəndir. 
+59
+Ağdaş, Laçın, Masallı rayonlarında eyniadlı oykonimlər qeydə
+alınmışdır. Ümumiyyətlə, Azərbaycanda 15-dən çox “ərəb” kom-
+ponentli oykonim mövcuddur.
+ƏZİZLİ. Oykonim 1992-ci ilə qədər Aranovka adlanırdı. Kənd
+Müskür İƏV-də yerləşir. 
+FƏRZƏLİOBA. Köhnə Xudat İƏV-də kənd. 1917-ci ildə Hacı
+Fərzəlioba variantında qeydə alınmışdır. Oykonim Fərzəli (şəxs
+adı) və oba komponentlərindən ibarət olub “Fərzəlinin obası,
+Fərzəliyə məxsus oba” mənasındadır. Sonralar bu oba daimi
+yaşayış məntəqəsinə çevrilmişdir.
+GƏNCƏLİ. Müşkür İƏV-də kənd. Quruluşca düzəltmə oykon-
+imdir. Bu oykonim Gəncə (şəhər adı) və mənsubluq bildirən -li
+şəkilçisindən düzəlib, “Gəncədən olanlar” mənasındadır. Gəncəli
+yaşayış məntəqəsinin Səfəvilər dövründə (1514-cü ildən –
+Çaldıran döyüşündən sonra) yaranması güman edilir. Mənbələrdə
+bu yaşayış məntəqəsini Gəncə şəhərindən köçüb gəlmiş ailələrin
+saldığı göstərilir. Eyniadlı kənd Salyan rayonunun Çuxanlı İƏV-
+də də mövcuddur. M.Kaşqarinin əsərlərindəki bilgilərə əsasən
+Gəncək türk qəbilələrindən birinin adıdır. Professor R.Tağıyeva
+məlumat verir ki, qıpçaq qrupu dillərindən fərqli olaraq, oğuz
+qrupu türk dillərində bir çox hallarda söz sonundakı -k, -q səsləri
+düşür və söz əvvəlində kar samitlərin cingiltiləşməsi meyli
+güclənir (28, 157). Deməli, Gəncə sözü Gəncək tayfasının adı ilə
+əlaqədardır. Bəzi tədqiqatçılar isə Gəncə sözünü “xəzinə” kimi
+mənalandırır. 
+GÖDƏKLİ. Rayonun Alekseyevka İƏV-də kənd. Gödəkli
+oykoniminin mənbələrdə qədim türk tayfası olan Xələclərin
+gödəkli tirəsinin adı ilə bağlı olduğu göstərilir. XX əsrin
+əvvəllərində Rusiyanın mərkəzi quberniyalarından köçürülmüş
+60
+ruslar burada məskunlaşdıqdan sonra yaşayış məntəqəsi Aleksan-
+drovka adlandırılmış və 1992-ci ildə kəndin əvvəlki adı qay ta rıl -
+mış dır. Yerli sakinlərin yaşlı nəslin nümayəndələri özlərini
+Şəki dən gəlmə hesab edirlər. 
+Beyləqan və Qubadlı rayonlarında Gödəklər adlı kəndlər
+mövcuddur. İmişli rayonunun Xələc İƏV-də də Gödəklər adlı
+yaşayış məntəqəsi də qeydə alınmışdır. Gödəklər Şəkidə və Za-
+qatalada məhəllə adlarıdır. 
+GÜLALAN. Qaraçı İƏV-də yerləşən bu kəndin adı əslində
+Gölolanqışlaq olmuşdur. Qışlağın ərazisində kiçik göl olduğu
+üçün belə adlandırılmışdır. “Göl” sözünün “gül” variantı, yəni 
+“ö-ü” əvəzlənməsi Quba-Xaçmaz keçid şivəsi üçün xarakterikdir. 
+Mənbələrdən məlum olur ki, Quba xanlığının fərmanlarında bu
+kəndin adı Gölolanqışlaq kimi qeyd olunurdu . Sonralar burada
+yaranmış daimi yaşayış məntəqəsi nəticəsində oykonimdəki qışlaq
+tərkibi tədricən itmişdir. 
+GÜNƏŞLİ. Qəsəbə tipli bu yaşayış məntəqəsi Nabran İƏV-də,
+Xəzər dənizinin sahilində yerləşir. 4 nömrəli Yalama balıq vətəgəsi
+yanında salınmışdır. 1965-ci ildən oykonim rəmzi olaraq Günəşli
+(kosmonim mənşəli oykonimdir) adlandırılmışdır. 
+HACIƏBDÜRRƏHİMOBA. Mürəkkəb oykonimdir. Rayonun
+Dədəli İƏV-də yerləşir. Yaşayış məntəqəsini Quba rayonunun Qrız
+kəndindən olan Hacı Əbdürrəhim adlı şəxs keçmiş qışlaq yerində
+salmışdır. Qışlaq kollektivləşmədən sonra daimi yaşayış məntə -
+qəsinə çevrilmişdir. Oykonim Hacı Əbdürrəhim (şəxs adı) və oba
+komponentlərindən ibarət olub, “Hacı Əbdürrəhimə məxsus oba”
+mənasındadır.
+HACIƏHMƏDOBA. Yaşayış məntəqəsi Məzarçayın sahilində,
+Samur-Dəvəçi ovalığında yerləşir. Rayonun Əhmədoba İƏV-nə
+61
+daxildir. Mənbələrdə XIX əsrin ortalarında Quba rayonunun Qrız
+kəndindən olan Hacı Əhməd adlı şəxs yaşayış məntəqəsini keçmiş
+qışlaq yerində salması haqqında məlumat verilir. Kollektiv -
+ləşmədən sonra daimi yaşayış məntəqəsinə çevrilmişdir. Oykonim
+“Hacı Əhmədə məxsus oba” mənasındadır. 
+HACIƏLİBƏY. Bu yaşayış məntəqəsinin keçmiş adı Hacıəli -
+bəy qışlaq olmuşdur. Yaşayış məntəqəsini XIX əsrin ortalarında
+Yergüc kəndindən (Quba rayonu) çıxmış ailələr özlərinə məxsus
+qışlaq yerində salmışlar. Sonradan oykonimin tərkibindəki qışlaq
+komponenti düşmüşdür. Yaşayış məntəqəsi eyniadlı İƏD-nə dax-
+ildir. 
+HACIİŞAOBA. Rayonun Qımılqışlaq İƏV-də kənd. Yaşayış
+məntəqəsi XIX əsrin ortalarında Quba rayonu Qrız kəndindən
+köçmüş ailələrin keçmişdə Hacı İsa adlı bir şəxsə məxsus qışlaq
+yerində məskunlaşması nəticəsində yaranmışdır. Oykonim “Hacı
+İsaya məxsus oba” mənasındadır. 
+HACIQAZMA. Rayonun Əhmədoba İƏV-də kənd. Yaşayış
+məntəqəsi XIX əsrin ortalarında salınmışdır. Oykonim Hacı (şəxs
+adı) və qazma (qədim yeraltı tikinti) komponentlərindən ibarət
+olub, “Hacıya məxsus qazma” mənasındadır. 
+HACIQURBANOBA. Yaşayış məntəqəsi Qaraçı İƏV-nə dax-
+ildir. Oykonim Hacı Qurban (şəxs adı) və oba komponentlərindən
+ibarət olub, “Hacı Qurbana məxsus oba” mənasındadır. Yaşayış
+məntəqəsi XIX əsrin ortalarında keçmiş qışlaq yerində salınmışdır. 
+HACILAR. Rayonun Qalağan İƏV-də kənd. Etnotoponimdir.
+Ərəb sözü hesab edilən “Hacı – Məkkəni ziyarət etmiş adam”
+mənasını ifadə edir. (17, 96-97). 
+Bu oykonim haqqında mənbələrdə qeyd olunur ki, hacılar
+türkdilli tayfalardan olub, əvvəllər Şərqi Anadoluda yaşamışlar.
+62
+Qaraqoyunlu dövlətinin (1410–1468) siyasi həyatında yaxından
+iştirak etmiş hacılar böyük bir tayfa olmuşdur. Qubalı Fətəli xanın
+dövründə (1758–1789) şahsevən Məhəmməd xanın başçılığı ilə
+Ərdəbil əyalətindən Quba xanlığına köçüb Müşkür və Şabran
+mahallarında məskunlaşmış səkkiz tayfa arasında hacılar da var
+idi. Oykonim qızılbaşların Zülqədər tayfasının hacılar tirəsinə
+mənsub ailələrin məskunlaşması nəticəsində yaranmışdır.
+Eyniadlı yaşayış məntəqəsi Ağdaş, Ağcabədi, Bərdə, Gədəbəy,
+Laçın və Tovuz rayonlarında da mövcuddur.
+HACIMƏMMƏDOBA. Üçkomponentli mürəkkəb oykon-
+imdir. Rayonun Pirquluoba İƏV-də yerləşir. Kənd XIX əsrdə Quba
+rayonunun Hapıt kəndindən olan Hacı Məmməd adlı bir şəxsə
+məxsus keçmiş qışlaq yerində salınmış və sonralar daimi yaşayış
+məntəqəsinə çevrilmişdir. Oykonim “Hacı Məmmədə məxsus
+oba” mənasındadır. 
+HƏBİBKƏND. Rayonun Yeni həyat İƏV-də kənd. Yaşayış
+məntəqəsi kimi XIX əsrin ortalarından məlumdur. Oykonim Həbib
+(şəxs adı) və kənd komponentlərindən ibarət olub, “Həbibə
+məxsus kənd” mənasındadır. Yerli sakinlər Həbibkəndi “sevimli
+kənd” kimi mənalandırırlar.
+HƏSƏNQALA. Bu yaşayış məntəqəsi Qusar rayonu Həsənqala
+kəndinin qışlaq yeri olmuşdur. Həmin kənddən köçmüş ailələrin
+burada daimi məskunlaşması nəticəsində paralel olaraq belə
+adlandırılmışdır. Həsənqala oykonimi ərazisindəki (Qusar rayonu)
+eyniadlı qədim qalanın adından yaranmışdır. Kənd Qusarçay İƏV-
+nə daxildir.
+HÜLÖVLÜ. Rayonun eyniadlı İƏV-də kənd. Bəzi tədqi qat çı -
+lara görə toponim təhrifə uğramışdır. Oykonim özündə qədim
+türkdilli karluqların gelo (gelu) tayfasının (üç oğuz da adlan -
+dırırlar) adını əks etdirir. Hülövlü sözünün tərkibindəki -lü tərkibi
+isə mənsubiyyət şəkilçisidir. 
+63
+XIII əsrdə monqol yürüşlərində iştirak etmiş bu tayfa sonralar
+Azərbaycanın şimal-şərq hissəsində məskunlaşmışdır. Bu isə daha
+ağlabatandır. Oykonimin qədimliyini sübut edən nümunələr – bu
+dövrə aid edilən minalı və şirsiz qablar Xaçmaz Tarix Diyar -
+şünaslıq muzeyinin maraqlı eksponatlarındandır. 
+Gelu tayfasının adını Şəki şəhərindəki Güleyli məhəlləsinin,
+Abşeron yarımadasındakı Küleyli dağının adı ilə də bağlayırlar.
+XAÇMAZ. Eyniadlı inzibati rayonun mərkəzi (bu barədə kitab -
+da verilmiş “Ensiklopedik məlumat”a baxmalı).
+XANLIQOBA. Rayonun Çarxı İƏV-də kənd. Oykonim xanlıq
+və oba komponentlərindən yaranıb, “xanlara məxsus oba yeri”
+mənasını ifadə edir. Bu yaşayış məntəqəsi XIX əsrin ortalarında
+Quba rayonunun dağlıq ərazilərindən köçmüş ailələrin xanlıq adlı
+ərazidə məskunlaşması nəticəsində yaranmışdır. Həmin ərazi isə
+vaxtilə Quba xanlarına məxsus mülk yerləri olmuşdur. 
+Bəzi tədqiqatçılara görə xanlıqobalılar xançoban tayfasından
+olub, Cənubi Azərbaycanın Qaradağ vilayətindəndirlər. Onlar
+əvvəlcə Muğandakı Xanlıq qışlağında yaşamış, sonra isə bura
+köçmüşlər.
+XANOBA. Kənd Quba xanlarına məxsus ərazidə salındığı
+üçün belə adlandırılıb. Oykonim xan və oba komponentlərindən
+ibarət olub, “xanın obası” mənasındadır. Yalama İƏV-də yerləşir.
+XARAXOBA. Oykonimdə olan “xarax” sözü avar dilində
+“köh nə, əski, qədim” sözündəndir. XIX əsrin əvvəllərindən Dağıs -
+ta nın Xarax kəndindən köçüb gəlmiş ailələrin məskunlaşması
+nəticəsində yaranmışdır. 
+XASPOLADOBA. Oykonim Xaspolad (şəxs adı) və oba kom -
+ponent lərindən düzəlib, “Xaspolada məxsus oba” mənasındadır.
+64
+Əvvəllər paralel olaraq Qasabovka da adlanırdı. Yaşayış məntəqəsi
+Müşkür İƏV-nə daxildir.
+XƏZƏRLİ. Rayonun Uzunoba İƏV-də, Xəzər dənizi sahilində
+yerləşir. Yaşayış məntəqəsi Böyük vətən müharibəsindən sonrakı
+illərdə Xəzər dənizi sahilində salındığı üçün belə adlandırılmışdır.
+Xəzər sözü türkdilli xəzərlər etnik birliyinin adından əmələ
+gəlmişdir. Bu türklər Şimali Qafqazda “Kaspi” sahillərinin qədim
+yerli sakinlərindəndir. Xalqımızın etnogenezində xəzərlər mühüm
+rol oynamışdır.
+XIRDAOYMAQ. Bəzi tədqiqatçılar oykonimin xırda (kiçik)
+və oymaq (kənd, el, oba) komponentlərindən ibarət olub, “kiçik
+kənd, oba” kimi mənalandırırlar. Daha ilkin mənbələrdə isə
+oykonimin etnotoponim olması göstərilir və oykonimin Səlcuq
+qəbilələrindən olan şahsevən tayfa nəsillərinin buraxdığı iz
+nəticəsində yaranması ehtimal olunur (49, 45).
+XUDAT. Xaçmaz rayonunda şəhər. Çox güman ki, “xudat”
+sözü fars dilindəki “hakim, hökmdar”, daha qədim mənası isə
+Allah (xuda) sözündəndir. Mənbələrdə isə oykonimin türk
+dillərindəki xod/xud (tərəvəz) və -at (yer) komponentlərindən
+ibarət olub, “bostan yeri” mənasını ifadə etdiyi qeyd olunur (8, 
+I c., 251). Bu fikirlə razılaşmaq olmaz.
+XVIII əsrin ortalarında Azərbaycanda yaranmış feodal döv -
+lətlərindən biri olan Quba xanlığının mərkəzi Xudat olmuşdur.
+Xanlığın banisi Hüseynəli xan Xudatda müdafiə qalası da
+tikdirmişdi.
+Feodal-ara mübarizələri və xarici basqınlar iqamətgahı Xudat
+kimi açıq, çətin müdafiə olunan yerdən təbii müdafiə imkanı olan
+yerə köçürməyi zəruri etdi. Mənbələrdə xanlığın mərkəzinin
+1747–1748-ci illərdə Qubaya köçürülməsi göstərilir (35, 9).
+65
+Bəzi mənbələrdə qeyd olunur ki, ərəb istilaları zamanı Orta
+Asiyada bir çox əyalətlərin rəhbərləri “Xudat” adlanırdı. Xudat
+sözünün kökü “xud” (kut) türkdilli xalqlarda “səadət” məna sın -
+dadır. Bu ifadə isə hakimlərin böyüklüyü, ədalətli idarəçiliyi ilə
+bağlıdır. Tarixçi alim, həmyerlimiz İ.Şahbazov bu fikri təsdiqləyir.
+Xudat 1943-cü ilin oktyabrında eyniadlı rayonun mərkəzinə
+çevrilir. Mənbələrin verdiyi məlumata görə 1955-ci ildə rayon
+mərkəzinin əhalisi 5 min nəfərdən yuxarı deyildi.
+Şəhərdə cəmi 578 yaşayış evi və bir o qədər də təsərrüfat
+tikililəri var idi. 1959-cu il dekabrın 4-də Xudat rayonu ləğv
+edilərək ərazisi Xaçmaz rayonuna verilir (38, 119).
+XURAY. Rayonun Seyidlikənd yeri İƏV-də kənd. Keçmiş adı
+Xurayqışlaq olmuşdur. Yaşayış məntəqəsi Qusar rayonundakı
+Xuray kəndinə məxsus qışlaq yerində salınmışdır. XIX əsrin
+ortalarından həmin kənddən köçmüş ailələr burada məskun -
+laşmışlar. Oykonim ləzgi dilindəki xur/xür (kənd) sözü və -ay
+(ismin çıxışlıq hal şəkilçisi) topoformantından ibarət olub,
+“kənddən olan” mənasındadır.
+İDRİSOBA. Rayonun köhnə Xudat İƏV-də, Qusar maili
+düzənliyindədir. Yaşayış məntəqəsi keçmişdə Quba rayonu Qrız
+kəndindən olan İdris adlı şəxsin obası olmuş, sonralar daimi
+yaşayış məntəqəsinə çevrilmişdir. Oykonim İdris (şəxs adı) və oba
+komponentlərindən ibarət olub, “İdrisin obası” mənasındadır. 
+İLXIÇI. Eyniadlı oykonimlə rayon ərazisində iki yaşayış
+məntəqəsi mövcuddur.
+1. Qalağan İƏV-də kənd. Kəndin keçmiş adı İlxıçı Həsən
+Əfəndi olmuşdur. Quba xanları tərəfindən xanlığın qazisi Həsən
+Əfəndiyə bağışlanmış və onlar vergilərdən azad edilmişdir. Bu,
+İlxıçı tayfasının məskunlaşdığı kənddir. Sonradan oykonimin
+tərkibindəki Həsən Əfəndi komponenti atılmışdır.
+66
+2. Niyazabad İƏV-də kənd. Kəndin əvvəlki adı Məmmədxan
+İlxıçı olmuşdur. Məmmədxan həmin kənddə məskunlaşmış İlxıçı
+tayfasına mənsub ailələrin başçısının adıdır.
+İlxıçı Səlcuq türklərinin tayfa adıdır. Bu türk tayfaları Osmanlı
+imperatorluğu dövründə doğma vətənləri Anadolunu tərk edərək
+Azərbaycana gəldilər və daimi olaraq burada qaldılar. Bu tayfalar
+(İlxıçı və Qaradağlı – Q.İ.) Azərbaycana köçdükləri vaxtdan öz
+qəbiləçilik təşkilatlarını unudaraq, başqa türk əhalisiylə
+qarışmışlar. Öz qəbilələri adıyla iz buraxdıqları oykonimlərdən
+başqa, onlardan bir iz qalmamışdır. M.Vəlili (Baharlı) şahsevən
+ilxıçı qəbilələrinin 1921-ci il məlumatına görə Quba qəzasında
+aşağıdakı kəndlərdə iz buraxdıqlarını qeyd edir. “Quba qəzasında
+– Qasımqışlaqlı (2), Xəlifələr, Ulduğ, Zərgərli, İlxıçı Həsən
+Əfəndi, İlxıçı Məmmədxan, İlxıçı Qaradağlı (2), Əhmədli (2),
+Xırdaoymaq” (51, 45).
+Şübhə yoxdur ki, bu kəndlərin əhalisi içərisində onların nəsil -
+ləri qalmaqdadır. Şamaxı rayonu ərazisində, Pirsaat çayının sol
+sahilində hündürlüyü 673 m olan eyniadlı dağ qeydə alınmışdır.
+Burada keçmişdə ilxıçı tayfasına məxsus yaylaq yurdu olduğu
+bildirilir.
+KEYMƏRƏZ. Oykonimin əvvəlki adı Ərəb Keymuraz olmuş -
+dur. Vaxtilə Azərbaycanı fəth edib, burada sakin olan türkləşmiş
+ərəblər bu adı yadigar qoymuşlar. Kənd Qalağan İƏV-də yerləşir.
+Oykonim Keymuraz adlı şəxsin nəsillərinin burada məskunlaş -
+ması nəticəsində yaranmışdır.
+KİÇİK BARAXUM. Rayonun Dədəli İƏV-də kənd. Vaxtilə
+Baraxum kəndindən ayrılmış ailələr tərəfindən salındığı üçün belə
+adlandırılmışdır. Oykonimin tərkibindəki “kiçik” komponenti
+fərqləndirici əlamət daşıyır. 
+67
+KÖHNƏ XAÇMAZ. Rayonun Müşkür (Pavlovka) İƏV-də
+kənd. 1900-cü ildə Biləcəri-Dərbənd dəmir yolu xəttinin çəkilişi
+ilə əlaqədar burada tikilən stansiyaya Xaçmaz stansiyası adı
+verilmişdi. Xaçmaz kəndi tikilmiş stansiyadan əvvəl mövcud
+olduğu üçün belə adlandırılmışdır. XIX əsrin əvvəllərində çariz -
+min xristianlaşdırma siyasəti nəticəsində bura ruslar və ermənilər
+köçürülmüşdür. Çox güman ki, oykonimin belə adlandırılması
+xristianlığın möhkəmləndirilməsi ilə bağlı olmuşdur.
+KÖHNƏ XUDAT. Rayonun eyniadlı İƏV-də kənd. Xudat
+şəhərinin yaxınlığındadır. Kənd Xudat dəmir yolu stansiyasından
+əvvəl mövcud olduğu üçün fərqləndirmək məqsədi ilə Köhnə
+Xudat adlandırılmışdır.
+KRASNI XUTOR. Rayonun Uzunoba İƏV-də kənd. Oykonim
+rus dilindəki krasnı(y) (qırmızı) və xutor (yaşayış yeri) kom po -
+nentlərindən düzəlib, “qırmızı qəsəbə, kənd” mənasındadır.
+Yaşayış məntəqəsi XIX əsrin axırlarında çar hökuməti tərəfindən
+“sürgün” edilmiş subbotniklərin burada məskunlaşması nəti -
+cəsində yaranmış və belə adlandırılmışdır.
+QADAŞOBA. Oykonim Qadaş (şəxs adı) və oba kompo -
+nentlərindən ibarət olub, “Qadasin obası” mənasındadır. Yaşayış
+məntəqəsi Quba rayonu Küsnət kənd sakini Qadaş adlı şəxsin oba
+yeri olmuş və sonralar nəsillərin artımı nəticəsində kəndə çevril -
+mişdir. Kənd Qımılqışlaq İƏV-də yerləşir.
+QALAĞAN. Rayonun eyniadlı İƏV-də kənd. Oykonimi
+bəziləri yabanı tikanlı səhra bitkisinin adı ilə əlaqələndirirlər. Bu
+səhv fikirdir. Əslində isə Qalağan etnotoponimdir. Qalağan sözü
+“quliqan” etnoniminin təhrif olunmuş formasıdır. Quliqan qədim
+türkdilli tayfanın adını əks etdirir. Quliqanlar mənşəcə erkən orta
+əsrlərdə Monqolustanın qərbində Sələng çayının hövzəsində
+68
+yaşamış tolos (tulus) tayfasının bir qolunu təşkil etmişlər. Toloslar
+XII əsrdə monqollara qarışmış və Ön Asiyanın işğalında iştirak
+etmişlər. XIII əsrdə onların müəyyən hissəsi Azərbaycanda məs -
+kunlaşmışdır. Qalağan kəndinin qədim yaşayış məskənlərindən
+biri olması faktını ərazisindən tapılmış maddi-mədəniyyət
+nümunələri olan əmək alətləri də təsdiqləyir.
+QARABAĞLI. Rayonun Niyazabad İƏV-də kənd. Yaşayış
+məntəqəsi 1780–1781-ci illərdə Quba xanı Fətəli xanın Qarabağ
+xanlığından köçürdüyü ailələrin məskunlaşması nəticəsində
+yaranmışdır. Oykonim “Qarabağdan olanlar, Qarabağdan gələn -
+lər” mənasındadır. Oykonimin Qara (böyük) və bak (qədim türk
+dillərində el, tayfa, soy) sözlərindən ibarət olduğu ehtimal olunur.
+Orta əsrlərdə Qafqaz Albaniyasında yaşayan peçeneqlərin qarabağ
+qolunun adındandır. Oykonimin tərkibindəki -lı şəkilçisi “mənsub -
+luq, məxsusluq” bildirir. 
+Salyan və Samux rayonları ərazisində eyniadlı yaşayış məs -
+kənləri mövcuddur.
+QARACALLI. Rayonun Əhmədoba İƏV-də kənd. Məzarcayın
+sahilindəki düzənlikdə yerləşir. Etnotoponimdir. Qaracallılar
+türkləşmiş kürdlərdir. Bu kürdlər, demək olar ki, öz dillərini
+tamamilə unutmuşlar. Kəngərlilərin Qaracallı tayfasına məxsus bir
+qoldur. Qaracallılar müxtəlif dövrlərdə Azərbaycana yayılmışlar.
+Qaracallı tayfasının bir qismini 1781-ci ildə Qubalı Fətəli xan
+Qarabağdan öz xanlığının ərazisinə köçürmüşdü. Onlar öz etnik
+tərkiblərini müxtəlif oykonimlərdə saxlaya bilmişdir. Məsələn:
+Kürd, Kürdsaban, Kürdmaşı, Kürdqarabağlar (Göyçay); Kürd -
+qaradağlı, Kürdlər (Şuşa); Kürdmahmudlu, Kürdmahrızlı
+(Cəbrayıl); Səfikürd (Gəncə); Bərgüşad, Kürdlər (Lənkəran) və o
+cümlədən, Qaracallı adı ilə dörd yaşayış məntəqəsi (Ucar,
+Qubadlı, Cəbrayıl və Xaçmaz rayonlarında).
+Çapar Kazımov Cəbrayıl rayonundakı Qaracallı oykoniminin
+69
+ilkin formasının Qarahacılı olduğunu qeyd edərək, tərkibindəki
+“qara” sözünü “qorxmaz, cəsarətli” kimi mənalandırır (27, 12). 
+“Azərbaycanın coğrafi adları” kitabında isə Qaracallı oykon-
+imi kürd qəbiləsinə mənsub nəsil adı kimi qeyd olunur (50, 39). 
+Qeyd edək ki, Xanlar rayonu ərazisində Qaracallı təpəsi (Əli
+Bayramlı kəndi) və Qaracallı dərəsi (Bolçalı kəndi) adlı iki to-
+ponim də qeydə alınmışdır.
+QARACIQ. Etnotoponimdir. Mənbələrdə XVIII əsrdə Qarabağ
+xanı Pənahəli xanın Naxçıvanın Qaracuq (Qaracıq) kəndindən
+Qarabağa köçürdüyü kəngərlilərin bir hissəsini sonralar Qubalı
+Fətəli xan öz xanlığının ərazisinə köçürməsi haqqında məlumat
+verilir. Oykonim həmin ailələrin burada məskunlaşması nəticə -
+sində yaranmışdır.
+Yaşayış məntəqəsi Aşağı Zeyd İƏV-nə daxildir.
+QARACIQ ZEYD. Rayonun Aşağı Zeyd İƏV-də kənd. Yaşayış
+məntəqəsi XIX əsrin ortalarında Quba rayonunun Zeyd kəndindən
+bir qrup ailənin həmin kəndə məxsus qışlaq yerində məskun -
+laşması nəticəsində yaranmışdır. Yeni yaşayış məskəni Qaracıq
+kəndinə çox yaxın olduğu üçün belə adlandırılmışdır. Oykonim
+“Qaracıq kəndi yaxınlığındakı zeydlilər” mənasını bildirir.
+QARAÇAYCEK. Oykonim XIX əsrin ortalarında Quba ray-
+onunun Cek kəndindən bir qrup ailənin Şabran düzünə köçərək
+məskunlaşması nəticəsində yaranmışdır. Kənd Qaraçayın sahilində
+yerləşdiyindən belə adlandırılmışdır. Oykonim “Qaraçay sahilin -
+dəki ceklilər” mənasındadır. Kənd Aşağı Zeyd İƏV-nə daxildir.
+Cig (cek) qədim türk tayfalarından birinin adıdır. Herodot
+ciglərin Qara dəniz sahillərində yaşamasından xəbər verir. Tar-
+ixçi-alim, həmyerlimiz İ.Şahbazov isə mənbələrə əsaslanaraq
+ciglərin/cigllərin VI–VII əsrlərdə Yenisey çayının mənbəyində
+yaşadıqlarını, IX əsrin əvvəllərindən X əsrin axırlarınadək onların
+70
+yaratdığı Qaraxanilər dövlətinin geniş bir əraziyə malik olmasını
+yazır (46).
+XI yüzilliyin müəllifi Mahmud Kaşqariyə görə ciglər Taraz
+(Cambul) vilayətinin yaxınlığındakı Cigil şəhərində və onun
+ətrafında yaşamışlar. Mənbələrdə Orta əsrlərdə İssıkkulun hər
+tərəfini cigil tayfalarının tutduğu bildirilir.
+Quba rayonunun Cek kəndinin içərisində böyük bir qaya daşı
+və bunun üstündə bir neçə ev var. Kəndin əhalisi bu daşa kum, Cek
+kəndindən çıxmış obaların əhalisinə isə kumayti deyirlər. Kumayti
+ceklərə görə “Cek kəndindən çıxanlar” deməkdir. Cek həm də,
+türk dillərində “yarğan” mənasındadır.
+QARAÇI. Rayonun eyniadlı İƏV-də kənd. Ağçayın sahilində,
+Samur-Dəvəçi ovalığındadır. Oykonim türkdilli xalqlar içərisində
+siqan adlanan qaraçı xalqının adı ilə bağlıdır. XIX əsrin əvvəl -
+lərində kəndin ərazisində bir neçə qaraçı ailəsinin yaşaması
+mənbələrdən məlumdur. Mənşəcə Hindistanın Kəraçi vilayətindən
+çıxmaları haqqında fikirlər geniş yayılmışdır. M.Vəlili yazır ki,
+Azərbaycan qaraçıları öz dilləri və türk sözləri ilə qarışıq tat
+dilində danışırlar. Bununla bərabər onların dili hind-Avropa dillə -
+rinin Şimal-Qərb qrupu əlamətlərinə malikdir (51, 64). Qaraçılar
+əvvəl Azərbaycan ərazisində köçəri həyat sürürdülər. Hazırda isə
+demək olar ki, oturaq həyata uyğunlaşmışlar.
+Xaçmaz rayonunda Qaraçı kəndi, Hacıqabul yaxınlığında
+Qaraçı karvansarası, Ağdaş rayonu Mollalar kəndində Qaraçı
+təpəsi, Xanlar rayonu ərazisində Qaraçı dərə, İsmayıllı rayonu
+Güyüm kəndi yaxınlığında Qaraçıbulaq, Zəngilan rayonu Keşikli
+kəndi ərazisində Qaraçı çuxuru toponimlərdə qaraçı etnoniminin
+izlərini qoruyub saxlaya bilmişdir. 
+QARADAĞ BUDUQ. Oykonim Qaradağ və Buduq adlarının
+birləşməsindən yaranmışdır. Qaradağlı kəndinin yaxınlığında
+yerləşdiyinə görə digər Buduq kəndindən (indiki Ağyazı Buduq)
+71
+fərqləndirmək üçün belə adlandırılmışdır. Qaradağlı oykonimin -
+dən sonralar -lı şəkilçisi düşmüşdür. Oykonim “Qaradağlı kəndi
+yaxınlığındakı Buduq kəndi” mənasındadır. Hülövlü İƏV-də
+yerləşir. 
+Professor V.Piriyev yazır ki, “Buduq” oykonimi buduqlulara
+qonşu xalqlar, etnik qruplar tərəfindən verilmiş addır. Buduqlular
+isə özlərini “buduq” və ya “buduqlu” deyil, “budad” adlandı -
+rırlar. O, XIII–XIV əsrlərin görkəmli tarixçisi, həkimi və dövlət
+xadimi Fəzlullah Rəşidəddinin “Came ət-təbarix” (Tarixlərin
+toplusu) əsərinə istinad edərək oykonimin budat/budad qəbiləsi
+ilə əlaqədar olduğunu yazır. Budat/budad qəbiləsi isə qədim vaxt-
+lardan monqol ləqəbi daşıyan türk qəbilələrindən olan “Nurun
+türkləri” sırasına daxil edilir. Budat/budad sözü bud etnoniminin
+-at/-ad mənsubiyyət şəkilçisi ilə birləşməsindən ibarət olub,
+“budlu, buda mənsub olan” mənasını verir. “t” samitinin “d”-yə
+keçməsi adi fonetik haldır. Müasir buduqlular XIII əsrin birinci
+yarısında Azərbaycana gəlmiş türk-monqol qəbilələrindəndir (11,
+21–23). 
+Buduq sözünə müxtəlif yanaşmalar da var. M.Vəlili (Baharlı)
+buduqluları yerli – “xüsusi Qafqaz xalqları” (qrız, cek, xınalıq,
+hapıt və s.) qrupuna daxil edir (50, 29).
+Q.Qeybullayev buduqluların Şəki-Zaqatala zonasından
+(Albaniyanın Bed/Bex/Bis vilayətindən) gəlmələr olduğunu yazır
+(55, 93).
+Həmyerlimiz tarixçi alim İmammirzə Şahbazov isə Buduğun
+tayfa adı olduğunu və Herodotun adını çəkdiyi budilərlə əlaqəsi
+olduğu qənaətindədir (47). 
+Buduqlular Bas Buduq, Agyazı, Qarabulaq, Qaradağ, Qaraçay,
+Dəliqaya, Yergüc, Suxtakələ (Suxtaqala) buduqlusu və s. kimi
+tanınırlar.
+QARADAĞLI. Rayonun Hülövlü İƏV-də kənd. Qaradağlı ən
+böyük Azərbaycan ellərindən birinin adıdır. Yaşayış məntəqəsi
+72
+mənşəcə Səfəvilərin hakimiyyət uğrunda mübarizəsində böyük rol
+oynamış qızılbaşların müəyyən ərazilərdə qaradağlı tayfasının
+məskunlaşması nəticəsində yaranmışdır. Tayfa isə öz adını Cənubi
+Azərbaycanın Qaradağ mahalının adından almışdır. Onlar burada,
+Qaradağın ətəklərində qoyunçuluqla məşğul olmuşlar. Səfəvilər
+hakimiyyətə gəldikdən sonra qaradağlılar müxtəlif ərazilərə
+yayılmışlar. Azərbaycanın ayrı-ayrı ərazilərində iyirmiyə yaxın
+Qaradağlı toponimi mövcuddur.
+QARAQAŞLI. Rayonun Qaraçı İƏV-də kənd. Oykonim
+qaraqaşlı tayfasının adı ilə bağlıdır. XIX əsrin ortalarında 376
+ailədən ibarət qaraqaşlılar Azərbaycanın müxtəlif zonalarında bir
+sıra yaşayış məntəqələri salmışlar. Mənbələrdə onların Asiya və
+Altayda yaşamış qarakeş tayfasının oğuz və monqolların tərki bin -
+də Azərbaycana gəlmiş hissələri olduğu bildirilir. Eyniadlı oyko -
+nim Ağsu, İmişli, Neftçala, Sabirabad rayonlarında da mövcuddur.
+QARAQURDLU. Rayonun Qaraçı İƏV-də kənd. Tədqi qat -
+çılara görə, yaşayış məntəqəsini XVIII əsrin axırlarında Quba xanı
+Fətəli xanın Qarabağdan köçürdüyü kəngərlilərin qurdlu tayfasına
+mənsub olan ailələri Qarasu adlı gölməçə yaxınlığında salmışlar.
+Həmin vaxtlar yaşayış məntəqəsi Qarasu Qurdlu adlandırılmış,
+sonradan oykonimin tərkibindəki su komponenti düşmüşdür.
+Oykonim “Qarasu yaxınlığındakı Qurdlu kəndi” mənasındadır.
+Türkdilli xalqlarda qurd totem seçilmiş və müqəddəs
+sayılmışdır.
+Mənbələrdə Azərbaycan ərazisində (Qarabağda) XIX əsrin
+əvvəllərində Dördlər Qurdu, Qurt-Qaradağlı, Qurt-Bərdə adlı yaşayış
+məntəqələri olması haqqında məlumat verilir. Hazırda Ağ dam ray-
+onunun Qasımlı İƏV-də və Bərdə rayonunun Kətəlparaq İƏV-də
+qurdlu tirəsi ilə bağlı Qurdlar yaşayış məskənləri mövcuddur.
+Keçən əsrdə Ukraynanın Odessa vilayətində bir, Krım vila -
+yətinin Sak rayonunda isə iki Kara Kurt adlı yaşayış məntəqəsi
+73
+qeydə alınmışdır. Qurdluların yayılma arealları oykonimin etno-
+toponim olmasını söyləməyə əsas verir.
+QARĞALIQ. Kənd Qaraçayın sahilində, Niyazabad İƏV-də
+yerləşir. Qarğalıq oykonimi qədim türk tayfalarından birinin adı
+olan qarğa/karqa və qədim türk dili abidələrində bir sıra mənalarla
+yanaşı, həm də -lı şəkilçisinin sinonimi kimi mənsubluq, aidlik
+mənasında işlənmiş -lıq şəkilçisindən ibarət olub “qarğa tayfasına
+məxsus kənd” mənasını daşıyır. Türkdilli xalqların toponimi ya -
+sında Karqa coğrafi termin kimi “daşlı, çınqıllı zolaq” mənasında
+da işlənir. 
+Qarğalıq oykonimini, bəzilərinin qəbul etdiyi kimi zoonim
+(quş adı) hesab edilməsi doğru deyil.
+Yerli sakinlər oykonimi “darğalıq” sözünün təhrif olunmuş
+forması hesab edirlər. Onların fikrincə, kəndi vaxtilə Quba xanın
+darğası idarə etdiyindən oykonim belə adlandırılmışdır.
+Eyniadlı oykonim Babək rayonunda və Masallıda da mövcud-
+dur. Keçən əsrdə Tatarıstanda Karqalı, Şimali Qazaxıstanda
+Karqalı, Krımda Karqalıq toponimləri qeydə alınmışdır.
+QƏDİMƏLİQIŞLAQ. Rayonun Aşağı Zeyd İƏV-də kənd.
+Oykonim Qədiməli (şəxs adı) və qışlaq sözlərindən ibarət olub,
+“Qədiməliyə məxsus qışlaq, Qədiməlinin qışlağı” mənasındadır.
+XIX əsrin axırlarında Quba rayonunun dağlıq ərazilərindən
+köçmüş ailələrin qışlaq yerində daimi məskunlaşması nəticəsində
+yaranmışdır.
+QIMILQIŞLAQ. Rayonun eyniadlı İƏV-də kənd. Yaşayış
+məntəqəsinin əsasını Qubanın Qımıl kəndindən olanlar XIX əsrin
+ortalarında qoymuşlar. Hidronim mənşəli oykonim olması ehtimal
+olunur. Qımıl sözü Sibir toponimiyasında Qılmimil “isti su, min-
+eral su” mənasında qeydə alınmışdır. Qudyal çayının bir qolu
+Qımıl adlanır. Qımılqışlaq əvvəllər Qubanın Qımıl kəndinə məx -
+74
+sus qışlaq yeri olmuş, sonralar daimi yaşayış məntəqəsinə çevril -
+mişdir. Oykonim Qımıl (kənd adı) və qışlaq (coğrafi məkan) kom -
+po nentlərindən ibarət olub, “Qımıl kəndinin qışlağı”
+mənasındadır.
+QIRAQLI. Yaşayış məntəqəsi Çinartala İƏD-nə daxildir. Et-
+nonim mənşəli bu oykonimin adı, əslində Qırağlı kimi qeyd
+olunmalıdır. Kənd Qusar çayı ilə Samur-Abşeron kanalının
+kəsişdiyi ərazidə yerləşir. “Azərbaycan toponimlərinin ensiklope-
+dik lüğəti”ndə keçmiş adının Qırağlı-Cekli olması göstərilir.
+Mənbədə düzgün olmayaraq yaşayış məntəqəsinin XIX əsrin
+ortalarında Quba rayonunun Cek kəndindən köçüb gəlmiş bir qrup
+ailənin məskunlaşması nəticəsində yaranması qeyd olunur (8, 54).
+Halbuki, ceklilər köçüb gəldikləri zaman Qırağlı kəndi artıq
+mövcud idi. Ceklilərin bir qismi bu yaşayış məntəqəsində, bir
+qismi isə Qusar çayının sağ sahilində məskunlaşmışdılar. Bunun
+nəticəsində həmin yeni salınmış yaşayış məntəqəsi Qırağlı-Cekli
+(yəni Qırağlı kəndi yaxınlığındakı ceklilər) adlandırılmışdır. Hər
+iki yaşayış məntəqəsi vaxtilə Quba qəzasına daxil olduğu üçün
+eyniləşdirilərək Qırağlı-Cekli adlandırılmışdır. Qırağlı oykonimi
+heç də “çay qırağı”, “çay sahili” ilə bağlı deyil. 
+Mənbələrdə Qırağlı yaşayış məskəninin bu ərazidə XVIII əsrin
+ortalarında salınması faktı göstərilir (23, 22). 
+Qırağlılar qayı adlanan türk tayfalarının əfşar qoludur. Nadir
+şahın zamanında Azərbaycana gələrək Quba və Cavad qəzalarında
+məskunlaşmışlar (49, 49).1758-ci ildə Hüseynəli xanın vəfatından
+sonra hakimiyyətə gələn Fətəli xan Quba xanlığının yüksəlişi ilə
+bağlı və dövlətin sərhədlərini möhkəmləndirmək üçün Muğandan
+Şahsevən qırağlılıların bir qismini xanlığın ərazisinə köçürmüşdü.
+Bu köçürmənin 1768-ci ildən sonra, yəni 1774-cü ilə qədər
+aparılması qeyd olunur (23, 16-17). “Qırağlı” sözü türk mənşəli
+olub, qırağ (qədim türk dillərində “dağ silsiləsində məskən salan,
+ucalan, ucalıq” mənalarında) və mənsubluq bildirən -lı şəkilçi -
+sin dən ibarətdir. “ğ” samitinin “q”-yə keçməsi adi fonetik əvəzlən -
+75
+mə olub, görünür, “qıraq” (kənar) sözünün leksik xüsusiyyətini
+aydınlaşdırır (23, 22–23). 
+Çapar Kazımov “Qıraxdın” toponiminin izahında qırax (qıraq)
+sözünün tayfa adı, -dın tərkibini isə qədim dövrlərdə dilimizdə
+ismin çıxışlıq hal şəkilçisi kimi işləndiyini yazır (27, 15).
+Goranboy və Xanlar rayonlarında da qeydə alınmış Qırıqlı
+oykoniminin mənbələrdə bu tayfanın adı ilə bağlı olduğu qeyd ol-
+unur. 
+QOBUQIRAQ. Rayonun Hülövlü İƏV-də kənd. Yaşayış
+məntəqəsi XIX əsrdə Quba rayonunun dağlıq ərazilərindəki
+kəndlərdən köçüb gəlmiş ailələrin qobu adlı coğrafi ərazidə
+məskunlaşması nəticəsində yaranmışdır. Oykonim Qobu (suyun
+yardığı çökək, çay dərəsi) və qıraq tərkibindən ibarət olub,
+“Qobunun qırağı, kənarı” mənasındadır.
+Qobu sözü ilə əlaqədar Azərbaycanda bir sıra yer adları
+mövcuddur. Bunlardan; Abşerondakı Qobu qəsəbəsi, Ağdaş
+rayonundakı Qobuüstü kəndi, Girdimançayın bir qolu və s.
+QOÇAQLI. Kənd Pirquluoba İƏV-də yerləşir. XIX əsrin
+ortalarında Quba rayonunun dağlıq ərazilərindən köçüb gəlmiş
+ailələrin məskunlaşması nəticəsində yaranmışdır. Oykonim Qoçaq
+(şəxs, yaxud əlamət bildirən ad) və qazma (yaz fəslində təsərrüfat
+işləri görmək üçün müvəqqəti yaşayış tikilisi, yaxud mal-qara
+saxlamaq üçün sığınacaq) sözlərindən ibarət olub, “Qoçağın
+qazması, Qoçağa məxsus qazma” mənasındadır.
+QUSARÇAY. Rayonun eyniadlı İƏV-də yerləşən bu kənd
+rayon mərkəzindən 15 km aralıdadır. Yaşayış məntəqəsi 1898-ci
+ildə ingilislər tərəfindən tikilmiş dəmir yolu stansiyası əsasında
+salınmışdır. Həmin stansiya yaxınlığında axan eyniadlı çayın adı
+ilə əlaqədar olaraq belə adlandırılmışdır. Qusarçay yaşayış məntə -
+qəsi əhalisinin əksəriyyətini Quba rayonunun dağlıq ərazilərindən
+gəl miş ailələr təşkil edir. Kənddə 11 etnik qrupun tərkibinə daxil
+76
+olan ailələr yaşayır. Oykonim eyniadlı stansiyanın adı ilə
+əlaqədardır.
+LAMAN. Rayonun Qaraçı İƏV-də kənd. Etnotoponimdir.
+Oykonim şahsevənlərin laman tirəsinin adı ilə bağlıdır.
+Mənbələrin məlumatına görə Laman yaşayış məskəni kimi
+XVIII əsrin axırlarından mövcuddur.
+Ərdəbilli Təlabi Məhəmmədxan özünəməxsus şahsevən ailələri
+ilə birlikdə Qubalı Fətəli xanın (hakimiyyət illəri 1762–1789)
+icazəsi ilə Quba xanlığına gələrək Şabran və Müşkür mahallarında
+bir çox əraziləri özünə bina etmişdir.
+Lerik rayonunun Şingədulan İƏV-də eyniadlı yaşayış
+məntəqəsi vardır.
+LƏCƏT. Kəndin keçmiş adı Ləcətoba olmuşdur. Oykonim Qusar
+rayonundakı Ləcət kəndinə məxsus qışlaq yerində salındığı üçün
+belə adlandırılmışdır. Sonralar daimi yaşayış məntəqəsinə çevrilən
+kəndin adındakı ikinci komponent olan “oba” sözü düş müş dür.
+Ləcət sözünün Azərbaycan dilinin dialektlərindəki ləc (ba taqlıq) və
+ət (burada, yer, yurd, məkan mənalarında) kom po nent lərindən
+düzəlib, “bataqlıq yer” mənasında olduğu ehtimal edilir.
+Ləcət ərazisi qədim yaşayış məskənlərindən biridir. Keçən əsrin
+70-ci illərində Ləcət dəmir yolu stansiyası yaxınlığından tapılmış
+içərisində “Həyat ağacı” təsviri verilmiş küp bunu deməyə əsas
+verir. Yaşayış məntəqəsi rayonun eyniadlı İƏV-dədir.
+MAQSUDKƏND. Rayonun Susayqışlaq İƏV-də kənd.
+Oykonim Maqsud (şəxs adı) və kənd coğrafi terminindən ibarətdir.
+Yerli məlumata görə kəndi Maqsud adlı şəxs saldığı üçün belə
+adlandırılmışdır. “Maqsuda məxsus kənd” mənasındadır.
+MANAFOBA. Kənd rayonun Çinartala İƏD-də yerləşir. Ərazi
+sakinləri tərəfindən paralel olaraq Mollaoba kimi də tanınır.
+77
+Oykonim Manaf (şəxs adı) və oba komponentlərindən ibarət olub,
+“Manafa məxsus oba, Manafın obası” mənasındadır. Yaşayış
+məntəqəsi Quba rayonu Qrız kəndinin sakini Manaf adlı şəxsin
+keçmiş oba yerində salındığı üçün belə adlandırılmışdır. Manaf
+(şəxs adı) dini təhsilli (molla) şəxs olduğundan əvvəllər yaşayış
+məntəqəsinin adı Molla Manaf oba adlanırdı. Yaşayış məntəqəsi
+kimi XIX əsrin axırlarından məlumdur. Əvvəllər mövcud olmuş
+Hacırüstəmoba oykonimi Manafobanın tərkibində itib-batmışdır.
+MAŞIOBA. Rayonun Qımılqışlaq İƏV-də kənd. Oykonimin
+Maşı antroponimindən (şəxs adı) və oba coğrafi terminindən ibarət
+olması ehtimal olunur. Bir mülahizəyə görə, yaşayış məntəqəsinin
+adı təhrif olunmuşdur. Bu oykonim meşəoba, yəni “meşədə oba,
+meşədəki oba” mənasındadır.
+MEHRƏLİQIŞLAQ. Rayonun Hülövlü İƏV-də kənd. Yaşayış
+məntəqəsi XIX əsrin axırlarında Quba rayonunun Əlig kənd sakini
+Mehrəli adlı şəxsə məxsus keçmiş qışlaq yerində salındığı üçün
+belə adlandırılmışdır. Oykonim “Mehrəliyə məxsus qışlaq”
+mənasındadır.
+MEŞƏLİ. Rayonun Nabran İƏV-də qəsəbə. Yaşayış məntəqəsi
+Yalama 6 №-li balıq vətəgəsi yanında salınmış, 1965-ci ildən
+rəsmi olaraq Meşəli adlandırılmışdır. Qəsəbəyə bu ad meşəlik
+ərazidə, meşənin içində yerləşdiyinə görə verilmişdir.
+MƏCİDOBA. Yaşayış məntəqəsi Quba rayonu Qrız kəndinin
+sakini Məcid adlı şəxsə məxsus keçmiş oba yerində salınmışdır.
+Oykonim “Məcidin obası, Məcidə məxsus oba” mənasındadır.
+Kənd rayonun Uzunoba İƏV-də yerləşir.
+MƏNÇƏROBA. Rayonun Nərəcan İƏV-də kənd. Oykonim
+Mənçər (şəxs adı) və oba komponentlərindən ibarət olub,
+78
+“Mənçərə məxsus oba, Mənçərin obası” mənasındadır. Yaşayış
+məntəqəsi XIX əsrin axırlarında Quba rayonu Qrız kənd sakini
+Mənçər adlı şəxsə məxsus olan oba yerində salınmışdır.
+MİRZƏMƏMMƏDKƏND. Yaşayış məntəqəsini Mir zəməm -
+mədkənd camaatı (Quba rayonu) keçmiş qışlaq yerində saldığı
+üçün belə adlandırılmışdır. Əvvəllər Mirzəməmmədkəndqışlaq
+adlanmış, sonradan oykonimin tərkibindəki kənd komponenti
+düşdükdən sonra müasir şəklini almışdır. Oykonim “Mirzəməm -
+məd kəndə məxsus qışlaq, Mirzəməmməd kəndindən olanların
+qışlağı” mənasındadır. Kənd rayonun Qımılqışlaq İƏV-də yerləşir.
+MOLLABÜRHANLI. Kənd rayonun Qımılqışlaq İƏV-də,
+Qudyalçayın sol sahilində yerləşir. Oykonim molla (dini rütbə) və
+Bürhan (antroponim – şəxs adı) sözlərindən ibarət olub, “Molla
+Bürhana məxsus kənd” mənasındadır.
+MURUQOBA. Yaşayış məntəqəsi XIX əsrin ortalarında
+Dağıstanın Çaroda rayonundakı Muruq kəndindən köçüb gəlmiş
+ailələrin məskunlaşması nəticəsində yaranmışdır. Oykonim
+“muruqluların obası, muruqlulara məxsus oba” mənasındadır.
+Kənd Ləcət İƏV-nə daxildir.
+MÜQTƏDİR. Rayonun eyniadlı İƏV-də qəsəbə. Antropon-
+imdir. Əvvəllər adı Xudatbaza (Xudatın anbarları yerləşən yer)
+olmuşdur. Qəsəbəyə sonralar inqilabçı Müqtədir Aydınbəyovun
+(1884–1918) adı verilmiş və memorial toponimə çevrilmişdir.
+MÜRSƏLLİQIŞLAQ. Yaşayış məntəqəsi XIX əsrin orta ların -
+da Canaxır kəndindən çıxmış Mürsəlli nəslinə mənsub ailələrin
+məskunlaşması nəticəsində yaranmışdır. Oykonim “mürsəllilərə
+məxsus qışlaq” mənasındadır. Kənd Hülövlü İƏV-də yerləşir.
+79
+MÜRŞÜDOBA. Rayonun Nərəcan İƏV-də kənd. Əvvəllər
+paralel olaraq dildə Ləcət də adlandırılırdı. Oykonim Mürşüd (şəxs
+adı) və oba komponentlərindən ibarət olub, “Mürşüdə məxsus
+oba” mənasındadır. Kənd Alpançayın sol sahilində, Xaçmaz-
+Xudat yolunun kənarında yerləşir.
+MÜŞFİQ. Rayonun Müşkür İƏV-də kənd. Memorial topon-
+imdir. 1992-ci ilə qədər kənd Zaliyevka adlanırdı. Yaşayış
+məntəqəsini XIX əsrin sonlarında Rusiyadan köçürülmüş ailələr
+salmışlar.
+MÜŞKÜR. Rayonun eyniadlı İƏV-də kənd. XIX əsrdə
+ruslaşmaya məruz qalan bir sıra yaşayış məntəqələri kimi bu
+kəndin də adı əvvəllər Yekaterinovka, daha sonra isə Pavlovka
+adlandırılmışdı. Bu onunla bağlı idi ki, çar Rusiyasının ucqarlara,
+o cümlədən Azərbaycana köçürmə siyasəti nəticəsində mərkəzi
+quberniyalardan köçüb gəlmiş ailələrin məskunlaşması bu yaşayış
+məntəqəsini əmələ gətirmişdir.
+Müşkür “qışlaq” mənasındadır. Vəlvələçayla Samur çayı
+arasındakı ovalıq Müşkür adlanırdı. Qədimdə Müşkür düzündə
+yaşayan əhaliyə müşkür əhalisi deyilirdi.
+Göyçay rayonunun Yeniarx İƏV-də Müşkürlü oykonimi qeydə
+alınmışdır. Oykonim qədimdə Müşkür düzündə yaşamış ellərin
+ümumi adı olmuşdur.
+MÜZƏFFƏROBA. Rayonun Müşkür İƏV-də kənd. Yaşayış
+məntəqəsi Quba rayonundakı Cek kəndinin sakini Müzəffər adlı
+şəxsin keçmiş oba yerində salınması nəticəsində yaranmışdır.
+Oykonim “Müzəffərə məxsus oba, Müzəffərin obası”
+mənasındadır.
+NABRAN. Rayonun eyniadlı İƏV-də kənd. Xəzər dənizinin
+sahilindədir. Keçmiş adı Nabranqışlaq olmuşdur. Mənbələrdə
+80
+Köhnə Xudat kəndinə məxsus qışlaq kimi qeyd olunur. XIX əsrin
+əvvəllərində həmin kənddən çıxan ailələr burada kiçik oba
+yaratmış və sonralar böyüyüb yaşayış evləri artdıqca kəndə
+çevrilmişdir. Mənbələrdə qeyd olunur ki, 1821-ci ildə üç, 1859-
+cu ildə isə yeddi ailədən ibarət olan bu obada XIX əsrin axırlarında
+Dağıstanın müxtəlif kəndlərindən köçmüş ailələr məskunlaşmağa
+başlamışlar.
+Bəzi tədqiqatçılar oykonimi “çaysahili meşəlik” kimi izah
+edirlər. Əslində isə, oykonim qızılbaş tayfa ittifaqına daxil olan
+zülqədərlərin nabur tirəsinin adı ilə bağlıdır.Etnotoponimdir. Bunu
+keçmişdə Quba qəzasında mövcud olmuş Naburlu kənd adı da
+təsdiq edir. 
+Qobustan rayonu ərazisində Nabur oykonimi, Nabur hidronimi
+(bulaq) və Nabur oronimi (palçıq vulkanı) mövcuddur ki, bunlar
+da Qayı türklərinin məşhur qəbilələrindən olan zülqədər tayfasının
+nabur tirəsini özündə yaşadır.
+Nabran sözünün ilkin forması naburan olmuşdur. Sonralar
+sözün tərkibindəki -u saiti düşmüş və oykonim müasir yazılış
+formasını almışdır. Oykonimin tərkibindəki -an topoformantı
+Azərbaycan toponimiyası üçün xarakterikdir: Alpan, Avaran,
+Gilan, Qafan, Şirvan, Salyan və s. Deməli, bu topofotmant həm
+də qədimdir. Tədqiqatçılar -an topoformantını cəmlik bildirən
+şəkilçi hesab edirlər (50, 81–82). Deməli, Nabran oykonimi
+“naburların məskəni” mənasını ifadə edir.
+NAĞIOBA. Rayonun Dədəli İƏV-də kənd. Oykonim XIX
+əsrin ortalarında Qrız kənd sakini Nağı adlı şəxsə məxsus keçmiş
+oba yerində salındığı üçün belə adlandırılmışdır. “Nağıya məxsus
+oba, Nağının obası” mənasındadır.
+NƏRƏCAN. Rayonun eyniadlı İƏV-də kənd. Mənbələrdə
+oykonimin türk dillərindəki nəri (o tərəfdə, o sahildə) və can (iki
+çayarası ərazi) sözlərindən ibarət olub, “çayın o biri sahilində, iki
+81
+çay arasındakı ərazi” mənasında olması bildirilir. Tədqiqatçılar
+“Nərəcan” oykonimini nərican sözü ilə bağlayaraq, Quba rayonu
+ərazisindəki Nərican oronimi (dağ adı) ilə eyni mənşəyə malik
+olmasını qeyd edirlər (8, II c., 133).
+NİYAZABAD. Rayonun eyniadlı İƏV-də yerləşir. XIV–XIX
+əsr lərə aid tarixi mənbələrdə tez-tez adı çəkilən orta əsr Azər bay -
+can şəhəri olub. XVIII–XIX əsrlərdə Quba xanlığının əsas limanı
+olan Niyazabad Xəzər dənizi sahilindədir. Əvvəllər Azərbaycanın
+iqtisadi, ticarət əlaqələrinin genişlənməsində bu şəhər böyük rol
+oynayırdı. Həştərxandan gəmilərlə gətirilən mallar Niyazabadda
+boşaldılır, sonra isə karvan vasitəsilə Şabran, Quba, Şamaxı və
+digər ərazilərə aparılırdı. Sonralar Xəzərin səviyyəsinin aşağı
+düşməsi və feodal çəkişmələri Niyazabadın tənəzzülə uğramasına
+gətirib çıxardı. 
+XIX əsrin 30-40-cı illərində Rusiyadan buraya köçürülmüş rus
+ailələrinin məskunlaşması nəticəsində yaşayış məntəqəsinin adı
+təhrif olunaraq Nizovaya şəklinə düşmüşdü. Rus və Avropa
+səyyahlarının əsərlərində Niyazabad toponiminin Nizobat, Nizovye
+kimi variantlarına rast gəlinir. Əvvəllər Nizovaya şəklində işlədilən
+bu oykonimi slavyan dillərinə məxsus “aşağı” mənasını verən
+“nizovaya” leksemi ilə əlaqələndirirdilər. Əslində isə “Nizovaya”
+sözü “Niyazabad”ın rus dilində tələffüz variantıdır. 
+1992-ci ildə Nizovaya adı Niyazoba variantı ilə əvəz olun -
+muşdur. Oykonim Niyaz (şəxs adı) və oba komponentlərindən
+ibarət olub, “Niyaza məxsus oba” mənasını ifadə edir.
+ORTAOBA. Rayonun Yalama İƏV-də kənd. Yaşayış məntəqəsi
+XIX əsrin ortalarında Quba rayonunun dağlıq ərazilərindən
+köçmüş ailələrin qışlaq yerində məskunlaşması nəticəsində
+yaranmışdır. Oykonim qonşu obalara nisbətən mərkəzdə, ortada
+yerləşdiyinə görə belə adlandırılmışdır.
+82
+PADAR. Rayonun Yergüc İƏV-də kənd. Etnotoponimdir.
+Yaşayış məntəqəsi Qayı türklərinin Oğuz-Səlcuq tayfalarından biri
+olan padarların adı ilə bağlıdır. Tədqiqatçılara görə padarlar
+Elxanilər dövründə (XIII əsr) Orta Asiyadan Azərbaycana
+gəlmişlər. Onlar əvvəlcə Azərbaycanın cənubunda yaşamış və
+Səfəvilər tərəfindən (XVI–XVIII əsrlərdə) Azərbaycanın şimal
+zonalarına köçürülmüşlər. Şahsevən tayfa ittifaqında mühüm rol
+oynayan padarlar sonralar müəyyən ictimai-iqtisadi hadisələrlə
+əlaqədar Azərbaycanın müxtəlif ərazilərinə yayılmışlar. Azərbay -
+can ərazisində padarlar bir çox toponimlərdə iz buraxmışlar: Ağsu,
+Dəvəçi, Hacıqabul, Oğuz rayonları ərazisində Padar, Zəngilanda
+Padarçay, Cəbrayılda Padardərə çayı toponimləri.
+Rayon ərazisindəki Padar və Armudpadar oykonimləri bu
+tirədən hesab edilir. XX əsrin birinci yarısında (1896–1943)
+yaşayıb-yaratmış Azərbaycan alimi M.Vəlili (Baharlı) Quba
+qəzasında padarların iki qolunun – Şabranpadar və Armudpadar
+olması haqqında məlumat verir. Daha sonra müəllif yazır ki,
+ləzgilərin yaşadığı hüdud boyunda sakin olan padarları onlar
+“kürə” deyə adlandırırlar (50, 50). 
+PALÇIQOBA. Coğrafi relyeflə əlaqədar yaranan oykonimdir.
+Kənd Çinartala İƏD-də, Qusar çayının yaxınlığında yerləşir. XIX
+əsrin ortalarında Quba rayonunun Qrız kəndindən köçmüş ailələrin
+məskunlaşması nəticəsində yaranan yaşayış məntəqəsidir. Oyko -
+nim keçmişdə Qusar çayının vaxtaşırı daşqınları nəticəsində obanın
+ərazisində yaranmış bataqlıqlarla əlaqədar belə adlan dırıl mışdır.
+Yaşayış məntəqəsi “palçıqlı oba yeri, palçıq olan yerdəki oba”
+mənalarını ifadə etməklə digər qonşu obalardan fərqlən dirilmişdir.
+PƏRDİQIRAN. Rayonun Susayqışlaq İƏV-də kənd. Keçmiş -
+də bu yaşayış məntəqəsinin ərazisi palıd meşəsi olmuş və buradan
+pərdi (balta ilə yonulub evin üstünə atılan tir) kəsildiyi üçün belə
+adlandırılmışdır. Əvvəllər ərazi “pərdi qırılan yer” coğrafi anla -
+yışını ifadə etmiş və bu, sonradan toponimik vahidə çevrilmişdir.
+Ağacdan pərdi hazırlamaq üçün gələnlər bir neçə gün burada
+83
+qalardılar. Əvvəlcə bu ərazidə müvəqqəti sığınacaq yerləri
+tikilmiş, getdikcə genişlənərək obaya çevrilmiş və “Pərdiqırılan
+yer, oba” adlandırılmışdır. Pərdiqıran sözü oykonimin tələffüz
+formasından alınmışdır.
+PİRQULUOBA. Rayonun eyniadlı İƏV-də kənd. Yaşayış
+məntəqəsi Quba rayonu Qrız kəndi sakini Pirqulu adlı şəxsin
+keçmiş oba yerində salınmışdır. Oykonim “Pirqulunun obası,
+Pirquluya məxsus oba” mənasındadır. 
+RƏHİMOBA. Rayonun Hülövlü İƏV-də kənd. Yaşayış məntə -
+qəsi Quba rayonunun Qrız kəndindən çıxmış ailələrin məskun -
+laşması nəticəsində yaranmışdır. 1920-ci ildə Fatma yurdları,
+1930-cu ildə Çobanoba və Qıfoba, 1935-ci ildə isə Şıxoba adlı
+Cek kəndindən olanların obaları da Rəhimobaya birləşdirildi. 
+Rəhimobaya Şabran cekliləri də deyirlər. 1916–1917-ci illərdə
+Şabrana taun xəstəliyi düşəndə Şabran ceklilərinin əksər hissələri
+qırıldı. Qalanları isə inqilabdan sonra qonşu kəndlərə dağıldı. 
+O biri obaların ərazisi də Rəhimobaya beləcə qatıldı.
+Oykonim Rəhim (şəxs adı) və oba komponentlərindən düzəlib,
+“Rəhimin obası” mənasındadır. 
+SABİROBA. Rayonun Nərəcan İƏV-də kənd. Yaşayış məntə -
+qəsi XIX əsrdə Quba rayonunun Qrız kəndindən çıxmış ailələrin
+yaratdığı obalardan biridir. Bəzi tədqiqatçılar oykonimi hun
+tayfalarının bir qolu olan cabirlərlə bağlayırlar. M.Vəliliyə görə
+sabiran sözü “Şabran”la eynidir.
+SAHİLLƏR. Rayonun Seyidlikənd yeri İƏV-də qəsəbə. Yaşa -
+yış məntəqəsi Xəzər dənizinin sahilində yerləşdiyinə görə belə
+adlandırılmışdır.
+SAMURÇAY. Rayonun Nabran İƏV-də qəsəbə. Oykonim
+Böyük Vətən Müharibəsi illərində yaranmış və Samur çayının
+sahilində olduğu üçün belə adlandırılmışdır.
+84
+Hidronim mənşəli bu oykonim bir çox türk dillərində işlənən
+sam (böyük) və mur (çay) komponentlərindən ibarət olub, “böyük
+çay” mənasındadır. Samur türkdilli xalqların toponimiyasında
+geniş areala malikdir: Kubanda Samurlu, Tambov vilayətində
+Samursk kəndləri, Cənubi Azərbaycanda Samurçay və s. 
+SAYAD. Rayonun Qalağan İƏV-də kənd. Yaşayış məntəqəsini
+antroponim mənşəli olduğu ehtimal olunur. 1933-cü ildə Xızı ray-
+onunda Sayadlar adlı kənd qeydə alınmışdır.
+SEYİDLƏR. Oykonimin keçmiş adı Digah Şıxlar Seyidlər
+olmuşdur. Kənd rayonun Köhnə Xudat İƏV-də yerləşir. Yaşayış
+məntəqəsi XIX əsrdə Quba rayonu Cek kəndinin obalarından biri
+idi. Sonralar burada seyid ailələri məskunlaşdığı üçün oba belə
+adlandırılmışdır. Mənbələrdə seyidlərin Azərbaycana gəlişi
+Səfəvilərin hakimiyyəti dövrlərinə aid edilir. Seyidlər ərəblərin
+Qüreyş qəbiləsindəndirlər. Azərbaycan ərazisində 10-a yaxın
+yaşayış məntəqəsi bu addadır.
+SEYİDLİKƏNDYERİ. Oykonim əvvəllər Seyidlikəndyeri
+adlandırılmışdır. Rayonun eyniadlı İƏV-də yerləşir. Bu yaşayış
+məntəqəsi Seyidli nəslinin kənd yeri adlı ərazidə məskunlaşması
+nəticəsində yaranmışdır. Sonralar oykonimin tərkibindən “kənd -
+yeri” tərkibi düşmüşdür.
+Kəlbəcər rayonunda Kənd yeri adlı yaşayış məntəqəsi mövcuddur.
+SƏLİMOBA. Oykonim XIX əsrin ortalarında Quba rayonunun
+Əlik kəndindən çıxmış bir qrup ailənin qışlaq yerində məskun -
+laşması nəticəsində yaranmışdır. Kənd obanın əsasını qoyan Səlim
+adlı bir şəxsin adı ilə bağlı olub, “Səlimin obası” mənasındadır.
+Yaşayış məntəqəsi Yalama İƏV-də yerləşir.
+SƏRKƏRLİ. Rayonun Yergüc İƏV-də kənd. XIX əsrin
+ortalarında Ukraynanın Borispol əyalətindən köçüb gələnlər bu-
+85
+rada məskunlaşandan sonra kəndin adı Borispol adlandırılmışdı.
+1992-ci ildən yenidən əvvəlki adı qaytarılmışdır.
+Oykonim maldarlıqla məşğul olmuş qədim sərkar elatının adı
+ilə bağlıdır. Sərkarlar keçmişdə, əsasən Şirvanda yaşayan xanço -
+banlıların bir qoludur. Şirvan xanları da bu tayfadandır. Müəyyən
+tarixi hadisələrlə əlaqədar bir sıra ərazilərə köçmüş sərkarlar bu
+tayfanın tirələrindən olmuşdur.
+Kənddə Sərkartəpə adlı qədim yaşayış yeri aşkar edilmişdir.
+Buradan tapılmış daş alətlər, məişət əşyaları, dərin qatlardan üzə
+çıxarılmış yaşayış tikililəri bu yerlərdə bəşər övladının hələ orta
+daş dövründə yaşamalarından xəbər verir. Bir vaxtlar Bakıda
+olmuş ABŞ professoru Flip Kol açıq səma altında olan Sərkartəpə
+muzeyinin eksponatları ilə yerindəcə tanış olmaq üçün Xaçmazda
+olmuş dur. Sərkartəpə abidələrinin üst qatı ərəb basqınları
+dövrlərinə (VIII əsr) aid edilir (38, 20-21) 
+Şamaxı rayonunun eyniadlı İƏV-də və Borçalı İƏV-də iki kənd
+Sərkar adı ilə, Bərdə rayonunda isə Sərkarlar adı ilə mövcuddur.
+SİBİROBA. Yaşayış məntəqəsini XIX əsrdə Quba rayonunun
+Cek kəndindən çıxmış ailələr Sibir adlı qışlaq yerində salmışlar.
+Oykonim Sibir və oba komponentlərindən ibarət olub, yaşayış
+məntəqəsinin yerləşdiyi coğrafi relyefi bildirir. Sibir monqol
+dilində bataqlıq, cəngəllik mənalarını ifadə edir. Görünür bu
+ərazilər əvvəllər keçilməz cəngəlliklər olmuşdur. Kənd Dədəli
+İƏV-nə daxildir.
+SUXTAQALAQIŞLAQ. Rayonun Hacıəlibəy İƏV-də kənd.
+Yaşayış məntəqəsi XIX əsrdə Quba qəzasındakı Suxtaqala
+kəndinin keçmiş qışlaq yerində salınmışdır. Suxtaqala oykonimi
+fars dilindəki suxta (yanmış, yandırılmış) və qala sözlərindən
+düzəlib, “yanmış, yandırılmış qala” deməkdir. Suxtakələ oykon-
+imin tələffüz variantıdır.
+SUSAYQIŞLAQ. Rayonun eyniadlı İƏV-də kənd. Yaşayış
+məntəqəsini Quba rayonu Susay kəndindən köçüb gəlmiş ailələr
+86
+kəndin qışlaq yerində salmışlar. Oykonim su və say (çayın dayaz
+yeri) coğrafi terminindən ibarət olub, “dayaz, quru çay, çınqıl və ya
+xırda çay daşları ilə örtülmüş quru çay yatağı” mənasındadır. Susay
+hidronim mənşəli oykonimdir. Susayın Quruçay adlı çayın bir qol-
+unun olması və həm də mənbəyini yağış və qar sularından aldığına
+görə yay aylarında quruması kimi əlamətlər də bu faktı təsdiqləyir. 
+ŞƏRİFOBA. Oykonim Şərif (şəxs adı) və oba komponent lərin -
+dən düzəlib, “Şərifin obası, Şərifə məxsus oba” mənasındadır.
+Kənd XIX əsrin axırlarında Quba rayonu Qrız kəndindən olan
+Şərif adlı şəxsin keçmiş oba yerində salınmışdır. Rayonun
+Uzunoba İƏV-də yerləşir.
+ŞIXHAPIT. Rayonun Aşağı Zeyd İƏV-də kənd. XIX əsrin
+ortalarında Quba rayonunun Hapıt kəndindən gəlmiş ailələr bu
+ərazidə iki obanın əsasını qoymuşdular. Onlardan biri Cağacıq
+çayının sahilində yerləşdiyinə görə Cağacıq Hapıt adlandırılmışdı.
+Hapıt kəndindəki Baba dilim adlı şeyxin övladlarından ibarət olan
+ikinci oba isə Şıx Hapıt adlanırdı. Kənd həmin obanın adını daşıyır. 
+Hapıtlılar Quba qəzasının əhalisi arasında böyük bir əksəriyyət
+təşkil etmişdilər. Oradan da bütün məmləkətə yayılaraq türklər
+arasında yaşamışlar. Onların söylədiyi dil avar dilinə yaxın bir
+şivədir, danışıq dillərində isə türk sözlərinə çox təsadüf edilir.
+Başqa qonşu millətlərə münasibət əsnasında (ünsiyyət zamanı) isə
+ümumi olaraq türk dili işlədirlər (51, 29).
+Tədqiqatçıların fikrinə görə, hapıtlılar da Strabonun qeyd etdiyi
+26 alban dilində danışan etnoslardan biri olmuşdur. Y.Yusifov bu
+cəhəti diqqətlə araşdıraraq yazır ki, “26 dil” anlayışı dedikdə Alba -
+niyanın şimalında (Cənubi Dağıstanda) yaşayan əhalinin dil şəraiti
+nəzərdə tutulur (7, 146).
+Albaniyanın əsas əhalisi qafqazdillilərdən ibarət olmuş, son-
+ralar bir neçə irandilli tayfalar da gəlmişlər (25, 51).
+M.Vəlili (Baharlı) hapıtlıları “əsl Qafqaziya millətləri”
+qrupuna (26 dil anlayışına – Q.İ.) aid edərək, onların XIX əsrin
+axırlarında bir min miqdarında olduğunu qeyd edir.
+87
+“Azərbaycan toponimlərinin ensiklopedik lüğəti”ndə Hapıt
+oykoniminin Ptolemeyin (II əsr) Albaniya şəhərləri sırasında qeyd
+etdiyi Xabota ilə əlaqədar olduğu yazılmışdır (8, I c., 223).
+Ağdaş rayonunda Hapıtlı oykonimi, Oğuz rayonu ərazisində
+Haputuçuran oronimi (dağ) mövcuddur. Mənbələrdə XIX əsrin
+ortalarında Göyçay qəzasında 736 hapıtlı ailəsinin məskunlaşdığı
+Haputlu Məlikli, Haputlu Gideyli, Haputlu Nəfəş Qacar, Haputlu
+Hacıhətəmli, Haputlu Mollaisaqlı kəndlərinin olması haqqında
+məlumat var. İsmayıllı rayonunun Hacıhətəmli və Mollaisaqlı
+kənd sakinləri özlərini Quba rayonu Hapıt kəndindən çıxma hesab
+edirlər və bu bölgədə yalnız onlar bu dildə danışırlar.
+ŞIXLAR. Rayonun Qımılqışlaq İƏV-də kənd. Şıxlar ərəb
+mənşəli söz olub, şeyx mənasındadır. Mənbələrdə şıxlar sözünün
+Qazax tayfalarından birinin adı olduğu da qeyd olunur. Kəndin
+əzəl adı Şeyxlər olmuşdur.
+XI–XII əsrlərdə Şamdan Qafqaza gəlib islam dinini yayan Sufi
+təriqət başçıları Şeyxlər adlanırdı. Şeyx sözü “yaşlı adam, qoca”
+mənasında da işlədilir. Azərbaycan ədəbiyyatı nümunələrində şeyx
+hörmətli adama müraciət məqsədilə də işlədilmişdir. Bu tipli
+coğrafi adlar, “şeyxlərə məxsus, şeyxlər yaşayan yer şeyxlərin
+nəsli, şeyxlərin dəfn olunduğu yer” və s. mənasındadır. Şıxlar
+oykonimi ərazisindəki Azərbaycanın sufi filosofu və alimi Şeyx
+Yusifin məzarı ilə əlaqədar adlandırılmışdır.
+Abbasqulu ağa Bakıxanov Mövlanə Şeyx Yusif haqqında belə
+yazırdı: “...Şeyx cənabları hicri VIII əsrin ortalarında dünyaya
+gəlmişdi... Şeyxin məzarı və onların yurdu olan kənd (rayonun
+Şıxlar kəndi – Q.İ.) Şeyxlər adı ilə adlandırılmışdır (38, 29).
+Azərbaycan ərazisində “şıx” etnik tərkibli 10-dan çox oykonim
+mövcuddur. Türkmənistan Respublikasının ərazisində Şıx etnoni -
+mi qeyd olunmuşdur. Şıxlar oykoniminin geniş areal təşkil etməsi
+onun etnotoponim olmasına sübutdur.
+ŞİMALİ. Oykonim rayonun şimalında yerləşdiyi üçün 1965-ci
+ildən rəmzi olaraq belə adlandırılmışdır. Yaşayış məntəqəsi Yala-
+88
+mada 3 №-li balıq vətəgəsi yanında salınmışdır. Qəsəbə Nabran
+İƏV-də, Xəzər dənizi sahilində yerləşir.
+ŞOLLAR. Rayonun Susayqışlaq İƏV-də şəhərtipli qəsəbə.
+ Mənbələrdə qeyd olunur ki, H.Z.Tağıyevin dəvəti ilə Bakıya gə -
+lə rək Azərbaycanın Şimal bölgəsində axtarışlar aparan ingilis
+mühəndisi Uilyam Lindley Şollar – Fərzəlioba ərazisində su axta -
+rışı ilə quyular qazdırdı. Bu quyuları Şollar quyuları adlandırdılar.
+1911-ci ildə başlanan Bakı-Şollar su kəmərinin çəkilişi 1917-ci
+ilin yanvar ayında başa çatdı. 
+Yaşayış məntəqəsi artezian quyularından suyun Bakı su
+kəmərinə vurulduğu Şollar adlı yerdə yarandığına görə belə
+adlandırılmışdır. Çox güman ki, yerin adı “güclü su mənbəyi, su
+şırnağı” mənasındadır.
+TAĞAROBA. Rayonun Ləcət İƏV-də kənd. Yerli məlumata
+görə kəndin əhalisi qədim Beyləqan şəhərindən gəlmədirlər. Ant ro -
+ponim mənşəli oykonim olması ehtimal edilir. Oykonimi fars dilin -
+dəki tağ (dairə, qübbə, günbəz) sözü ilə də əlaqələndirmək olar.
+TEL. Rayonun Nabran İƏV-də kənd. Tel qədim türk tayfa -
+larından birinin adıdır.
+Mənbələrdə bu tayfaların Monqolustanın şimalında yaşaması
+haqqında məlumat verilir. Etnonim mənşəli bu oykonimlə
+Azərbaycan ərazisində Telavar (Yardımlı), Telişli (İmişli) adlı
+yaşayış məskənləri vardır. Bəzi tədqiqatçılar isə oykonimi ərəb
+dilindəki tel (təpə, kurqan) sözü ilə əlaqələndirirlər. Kənd salındığı
+ərazinin adını daşıyır.
+Tarixçi-alim İ.Şahbazov da Tel kəndinin əhalisinin mənşə
+etibarilə türk tayfalarından olduğu qənaətindədir. 
+TİKANLIOBA (TİKANOBA). Rayonun Uzunoba İƏV-də
+kənd. Yaşayış məntəqəsini XIX əsrin ortalarında Quba rayonunun
+dağlıq ərazilərindən köçüb gəlmiş ailələr qışlaq yerində salmışlar.
+89
+Fitonim mənşəli oykonimdir. Qışlaq Xəzər dənizinə yaxın tikanlıq
+ərazidə, iynəyarpaqlı tikana oxşar çöl bitkisi çox olan ərazidə
+olduğu üçün yaşayış məntəqəsi də “tikanlı ərazidəki oba”,
+“tikanlıqda olan oba” mənasında Tikanlıoba adlandırılmışdır.
+Oykonimdəki -lı şəkilçisi ixtisar edilərək bölgədə Tikanoba kimi
+də tələffüz edilir. 
+TURİST. Rayonun Nabran İƏV-də qəsəbə. Yaşayış məntəqəsi
+1965-ci ildə burada turist bazasının yaradılması ilə əlaqədar belə
+adlandırılmışdır.
+UKUROBA. Hidronim mənşəli oykonimdir. Ləzgi dilində
+ukur sözü əyri deməkdir. Oykonim Samur çayının sağ qolu olan
+Ukurçayın adı ilə belə adlandırılmışdır. Qusar rayonu Mucuq İƏV-
+dəki kənd Ukur adlanır. Tam adı Ukurvas (ukur – əyri, vas – çay)
+olduğu bildirilir. Rayonun Ukuroba kəndinin ərazisi əvvəllər Ukur
+kəndinə məxsus oba yeri olmuşdur. Oykonim “Ukur kəndinə
+məxsus oba” mənasındadır. Kənd Yalama İƏV-də yerləşir.
+USTACƏLİLLİ (USTACALLI). Rayonun Hülövlü İƏV-də
+kənd. Mənbələrdə oykonimin əsli Ustaclı olması göstərilir.
+Oykonim qızılbaşların ustaclı tayfasının adını əks etdirir.
+XI əsrdə Səlcuqların tərkibində Kiçik Asiyaya, XV əsrin
+sonlarında isə Azərbaycana gələn ustaclılar qızılbaş tayfa birliyinə
+daxil olmuş Səfəvilər dövlətinin siyasi həyatında mühüm rol
+oynamışlar. Səfəvi sərkərdələrinin və bəylərinin bir çoxu ustaclı
+tayfasından təyin olunurdu. Yazılı mənbələrdə ilk dəfə 1488-ci il
+hadisələri ilə əlaqədar adları çəkilən ustaclıların sonralar çavuşlu,
+toxmaq, kəngərli və başqa qollara bölünmələri haqqında məlu -
+matlar var.
+Ustaclı (Ustacallı) tayfası İran Azərbaycanından buraya köçüb
+Quba qəzasında Ustacallı (Ustacəlilli–Q.İ.) kəndinin əsasını qoy -
+muş dur (51, 50). 
+90
+UZUNOBA. Kəndin keçmiş adı Uzunoba yataq olmuşdur.
+Yaşayış məntəqəsini XIX əsrin ortalarında Quba rayonunun dağlıq
+ərazilərindən gəlmiş ailələr qışlaq yerində salmışlar. Buradakı
+qışlaq yataqları uzununa, cərgə ilə salındığından oykonim belə
+adlandırılmışdır. Kollektivləşmədən sonra qışlaq daimi yaşayış
+məntəqəsinə çevrilmişdir.
+ÜÇGÜN. Rayonun Yergüc İƏV-də, Qudyal çayının sahilində
+yerləşir. Kəndin əsasını Quba rayonunun Üçgün kəndindən gəlmiş
+ailələr özlərinə məxsus qışlaq yerində salmışlar. Üçgün oronim
+mənşəli oykonimdir. Qubanın Küpçal kəndi yaxınlığındakı dağın
+(Uçqundağ) adı ilə bağlıdır. Oykonim “Üçgün kəndinə məxsus qış -
+laq” mənasındadır. Üçgün adı uçqun sözünün fonetik variantıdır.
+VƏLƏMİR. Rayonun Müqtədir İƏV-də kənd. Bu oykonim
+inqilabaqədərki ədəbiyyatlarda Vəliəmir, bəzən də Vəli Əmir
+variantında işlənmişdir. XX əsrin əvvəllərində Quba qəzasında bu
+adda iki kənd qeydə alınmışdır. Yaşayış məntəqəsi Vəli Əmir (şəxs
+adı) adı ilə bağlıdır. Sonralar bu oykonim qismən təhrifə uğrayaraq
+eleziya nəticəsində (“i” səsinin səs ortasında düşməsi) Vələmir
+şəklini almışdır. 
+Bəziləri səhvən oykonimi taxıl fəsiləsindən olan dənli bitkinin
+(vələmir) adı ilə bağlayırlar.
+YAQUBOBA. Rayonun Yalama İƏV-də kənd. Yaşayış
+məntəqəsini dağlıq ərazilərdən gələn ailələr salmışlar. Oykonim
+Yaqub (şəxs adı) və oba komponentlərindən düzəlib, “Yaqubun
+obası” mənasındadır.
+YALAMA. Oykonim XIX əsrin sonlarında dəmir yolu xətti
+çəkilişindən sonra stansiya yaxınlığındakı Yalama çayının adı ilə
+adlandırılmışdır. Sonralar ətraf yerlərdən gəlmiş ailələrin məskun -
+laşması nəticəsində stansiya yaşayış məntəqəsinə çevrilmişdir.
+Yalama coğrafi termin kimi “dəniz sahilində dalğanın qovduğu
+91
+zolaq, ləpədöyən” deməkdir. Tədqiqatçılar yalama sözünü mən şəcə
+qıpçaq tayfasına mənsub yalama tirəsinin adı ilə də bağla yırlar.
+Türkdilli xalqlarda yalama ağac budaqlarına, kiçik uzunsov
+daşlara bağlanan cürbəcür rəngli əski paralarına deyirlər.
+İ.Şahbazov Yalama toponiminin bu inanclarla əlaqədar yarandığını
+göstərməklə, yalamalıların Azərbaycana gəlişini eramızdan
+əvvəllərə aid edir. 
+Yalama Altay Dağlıq Muxtar Vilayətində bir dialekt olmaqla
+eyni zamanda həmin rayonda Kiçik Yalama adlı yaşayış
+məntəqəsinin, qayalığın və Böyük Yalama adlı çayın adını bildirir.
+Yalama sözü həm də omonim dialektizm olub, Zaqatala, Cəb -
+rayıl, Kürdəmir bölgələrində “mala yaladılan duz parçası”,
+Daşkəsən şivələrində isə “kiçik yumru daş” (bu daşdan məişət
+əşyası kimi istifadə edirlər) mənasında işlənir (4, 240). 
+Açma, yalama sinonim variantları rus dilindəki “отмывка”
+təsviri sənət termininin qarşılığı kimi də işlənir (22).
+Yalama rayonun eyniadlı İƏV-də kənd və dəmir yolu
+stansiyasıdır. Toponim kimi çox qədim dövrlərə aid edilir.
+YATAQOBA. Rayonun Uzunoba İƏV-də kənd. Yaşayış mən -
+təqəsi XIX əsrin ortalarında Quba rayonunun Qrız kəndindən
+çıxmış ailələrin özlərinə məxsus yataq yerlərində salındığı üçün
+belə adlandırılmışdır.
+Yataq davar və mal-qaranın saxlanması üçün müxtəlif tikililəri
+olan xüsusi yerlərdir. Yataqda maldarlar üçün müvəqqəti yaşayış
+mənzilləri olurdu. Bir çox yataqlar tədricən böyüyərək yaşayış
+məntəqələrinə çevrilmişdir. Bu oykonim də belə çevrilmənin
+nəticəsində yaranmaqla, “yataq olan oba” mənasını ifadə edir. 
+YENİ HƏYAT. Oykonim əvvəllər Tağıyev və paralel olaraq İn-
+qilab da adlandırılırdı. 1965-ci ildən qəsəbəyə rəmzi olaraq Yeni
+Həyat adı verilmişdir. Sonralar burada Axısxa türkləri
+ məs kun laşmışlar.
+XIX əsrin əvvəllərində Rusiya Quba xanlığının ərazisini tut-
+duqdan sonra bu ərazilərə İrandan gəlmiş ermənilər köçürül müş -
+92
+dülər. Ötən əsrin ortalarından Azərbaycanda milli burjuaziyanın
+yaranması ilə əlaqədar ermənilər bu torpaqları baha qiymətə mi-
+lyonçu Hacı Zeynalabdin Tağıyevə satıb ticarət qurmaq məqsədi
+ilə ölkənin mərkəzi yerlərinə köçdülər. Sonralar Tağıyev bu tor-
+paqlarda böyük üzümçülük təsərrüfatları yaratdı.
+Qəsəbə eyniadlı İƏV-də yerləşir.
+YENİ SUDUR. Rayonun Pirquluoba İƏV-də kənd. Yaşayış
+məntəqəsi Qusar rayonundakı Sudur kəndindən fərqləndirilmək
+üçün belə adlandırılmışdır. 
+Azərbaycan dilinin dialektlərində sudur coğrafi termini suluq
+sözünün ekvivalenti kimi işlənir və “sulu yer, göl, qalın meşə” mə -
+na larını bildirir. Şəki rayonu ərazisində, Baş Qafqaz silsiləsindəki
+aşırım da Sudur adlanır.
+YERGÜC. Rayonun eyniadlı İƏV-də kənd. Bu kənd keçmişdə
+Quba rayonunun dağlıq zonasında yerləşirdi. XIX əsrin sonlarında
+əhali indiki yerə köçmüş və qədim adı da özləri ilə gətirmişlər. 
+Yerli əhalinin məlumatına görə oykonim “güclü yer”, “münbit
+torpaq” mənasındadır. Tədqiqatçılar isə oykonimin birinci kom-
+ponentini qrızlıların ümumi adı her etnonimi ilə əlaqələndirir və
+yer sözünü həmin etnonimin fonetik şəkli hesab edirlər. Oykon-
+imin ikinci komponenti isə qədim türk dillərindəki kuç/quc
+sözündən olub, “zolaq, qurşaq, dairə, əhatə” mənasını ifadə edir.
+Ümumilikdə, bu sözün ilkin mənası “herkuç” olub, “hərlərin
+dairəsi, hərlərin yaşadığı yer” mənasını ifadə edir.
+ZUXULOBA. Kənd rayonun Yalama İƏV-də yerləşir. Yaşayış
+məntəqəsini Qusar rayonunun Zuxul kəndindən köçüb gəlmiş
+ailələr kəndin keçmiş qışlaq yerində salmışlar. Oykonim zuxul və
+oba komponentlərindən ibarət olub, “Zuxul kəndin obası, zuxul-
+lulara məxsus oba” mənasındadır.
+Mənbələrdə zuxul\suxul sözünün qədim türk dillərindəki “sul-
+kal” sözündən olub, “bələdçi” mənasını bildirməsi qeyd olunur.
+93
+NƏTİCƏ
+Xaçmaz oykonimlərinin etnolinqvistik və struktur baxımdan
+araşdırılması bir sıra elmi nəticələri qeyd etməyə imkan verir:
+1. Xaçmaz oykonimlərinin yarısından çoxunda toponimik
+vahidlərin bir çox topoformantları, demək olar ki, ümumtürk
+səciyyəlidir. Belə ki, Azərbaycanın bütün zonalarında türk mənşəli
+paralel toponimlərin mövcudluğu onu göstərir ki, türkdilli etnoslar
+bu ərazilərin ən qədim yerli sakinləridirlər. 
+2. Oykonimlərin bir qismi, xüsusən etnotoponimlər areal
+xarakterə malikdir. Belə ki, areallıq eyni türkdilli qəbilə və tayfaya
+mənsub əhalinin yaşadığı ərazidə mövcudluğu ilə bərabər hər bir
+türkdilli xalqların yaşadığı ərazilərdə də mövcuddur (Padar, İlxıçı,
+Qaradağlı və s.).
+3. Xaçmaz oykonimlərində leksik, semantik, morfoloji və sin-
+taktik sözyaratma üsulları əsas yer tutur.
+4. Ərazidə sintaktik yolla yaranan oykonimlər geniş yayıl -
+mışdır. Komponentin birinci tərəfi xüsusi, ikinci tərəfi isə ümumi
+isimlərdən ibarət olan oykonimlər çoxluq təşkil edir. Bu, ən çox
+ikinci tərəf coğrafi nomenklatur olan “oba” komponenti ilə
+bağlıdır. 
+5. “Oba”, “qışlaq”, “yurd” komponentli yaşayış məskənləri
+Xaç maz rayonu ərazisində XIX əsrin ortalarından yaranmağa
+başlamışdır. Bu qisim oykonimlər Quba rayonunun dağlıq
+ ərazilərində yaşayan əhalinin (etnik qrupların – cek, əlik, buduq,
+hapıt və s.) oba, qışlaq, yurd yerləri olmuş və getdikcə yaşayış
+məntəqəsinə çevrilmişdir (Manafoba, Şərifoba, Hacıisaoba,
+Ağaşirinoba və s.).
+6. Bəzi oykonimlər semantik inkişaf nəticəsində ümumişlək
+sözlər anlayışını ifadə edir (Qarğalıq, Qalağan, İlxıçı və s.).
+94
+7. Az bir qisim oykonimlər addəyişmə nəticəsində rus dilinə
+məx sus leksik vahidlərdən morfoloji yolla yaranmışdır. Müs tə -
+qillik illərində belə oykonimlərin əvvəlki adları qaytarılmış, yaxud
+da Azərbaycan dili normalarına uyğun yeni adla adlandırılmışdır
+(Alekseyevka oykonimi istisna olmaqla, bunlara Borispol, Rod-
+nikovka, Pavlovka, Aleksandrovka və s. aiddir).
+8. Oykonim tərkibində sabitləşən bir sıra coğrafi nomenlər
+(oba, binə, qazma və s.) ilkin mərhələdə, yəni toponimik status qa -
+za nana qədər lüğəvi mənalarda məntəqə tipini müəyyənləşdirməyə
+xidmət etmişdir. Sonrakı inkişaf mərhələsində isə mürəkkəb
+oykonimlərin topoformantına çevrilmişdir və s. 
+Beləliklə, deyə bilərik ki, xalqımızın qədim salnaməsinin
+səhifələrindən biri olan oykonimlərin elmi səviyyədə araşdırıl -
+masının ən başlıca əhəmiyyəti onlarda təşəkkül tapmış tariximiz,
+dilimizin formalaşmasında və inkişafında iştirak etmiş kompo -
+nentlər, ulu babalarımızın keçdiyi yol, bir sıra başqa tayfa və etnik
+qrupla, eləcə də, onların məşğuliyyəti, ərazinin coğrafi landşaftı,
+miqrasiyalar və s. haqqında dolğun və aydın məlumatlar əldə
+edilməsindən ibarətdir. 
+A.A. Bakıxanov “Gülüstani-İrəm” əsərində yazırdı: “Əgər
+ölkənin qəbilələri, kəndlərin binaları və qədim hasarı geniş bir
+surətdə tədqiq edilərsə, əhalinin mənşəyini təyin etmək mümkün
+olacaqdır” (9, 29).
+95
+XRONOLOJİ QEYDLƏR
+I. Qəzet məqalələri
+1. Vicdanlı əməyimizlə. “Azərbaycan müəllimi”, №47. 
+12 iyun 1992.
+2. Təsviri sənət ustaları. “Dostluq”, №58. 7 noyabr 1992.
+3. Dizayn sənəti və müasirlik. “Dostuq”, 18 aprel 1992.
+4. Estetik tərbiyə. “Dostluq”, №33. 16 may 1992.
+5. İki şəhid məzarı. “Dostluq”, №48. 29 avqust 1992.
+6. Təbiət aşiqi. “Dostluq”, 16 dekabr 1994.
+7. Təbiət aşiqi (S.Bəhlulzadə-85, yeni variant). “Quba”, 
+23 dekabr 1994.
+8. Qoşa döyünən ürəklər. “Quba”, №19. 20 may 1995.
+9. Kadrlar öz yerlərini tuturlar. “Azərbaycan müəllimi”,
+№31. 23 aprel 1998.
+10. Doğma yerlərin şirin xatirələri. “Samur”, iyun 1998.
+11. Mənəvi tərbiyə və din. “Azərbaycan müəllimi”,  №15. 
+24 fevral 1998. 
+12. Təsviri sənət dərslərinə diqqət artırılmalıdır.
+“Azərbaycan müəllimi”, №65. 29 fevral 1998.
+13. Səttarlı günlərin simfoniyası. “Samur”, №6. 25 mart 1999.
+14. “Rezonans”ın qalibi əməllicə rəssammış. “Rezonans”,
+№18. 10-12 mart 1999.
+15. Quba hamamında “Rüstəmin divlə mübarizəsi”, “Re-
+zonans”, №36. 12-14 mart 1999.
+16. “Rezonans” məni özümə tanıtdı. “Rezonans”, № 40. 
+26 may – 1 iyul 1999.
+17. Bazarda imtahan. “Azərbaycan müəllimi”, iyun 1999.
+18. Birgecəlik qonağım (professor Q.Kazımov haqqında).
+“Azərbaycan müəllimi”, №8. 20-26 fevral 2004.
+19. “Qırağlı” toponimi haqqında. “Xaçmaz”, №7–8. 27 aprel
+2004.
+96
+97
+20. Əsrlərin şahidi (Gülüstan Hacıqayıblı ilə birlikdə). “Xaç-
+maz”, №9–10. 14 may 2004.
+21. Şeirləşən görüşlər (professor Q.Kazımov haqqında).
+“Xudafərin”, №8-9. 30 sentyabr 2004.
+22. Kövrək qəlbin göynərtiləri. “Kredo”, №15–16 (291–292).
+19 fevral 2005. 
+23. Şeirlər. “Kredo”, №7–8 (283–284). 29 yanvar 2005.
+24. Bir yaz günü yazılan ömrün səhifələri (prof. Q.Kazımov
+haqqında). ”Kredo”, №17–18 (293–294). 26 fevral 2005.
+25. “Özümlə söhbət” haqqında bir neçə söz. “Kredo”,  №
+64, 13 avqust 2005.
+26. Şeirlər. “Kredo”, №65 (341). 20 avqust 2005.
+27. Əsrə bərabər gün. “Kredo”, №9 (370). 4 mart 2006.
+28. Qırağlılar və Qırağlı toponimi. “Kredo”, №32 (393). 
+29 iyul 2006.
+29. Azərbaycan dilində təsviri sənət terminləri; mənşəyi və
+dövrləşməsi. “Azərbaycan müəllimi”, №24. 15 iyun 2006.
+30. İstiqlal tarixində hər birimizin payı var. “Xaçmaz”,  №16
+(6086). 14 noyabr 2009.
+31. Dağlar salam deyir sizə. “Kredo”, №9. (579). 27 fevral 2010. 
+32. 75 yaşlı “cavan”. “Kredo”, №9 (579). 27 fevral 2010. 
+33. Xaçmaz-mənəvi tərbiyə məktəbi. “Xaçmaz”, №8 (6096).
+12 may 2011. 
+34. Qanlı qovaq. “Kredo”, №21 (591). 15 may 2010. 
+35. “Vətən mənə oğul desə...”. “Kredo”, №21 (591). 15 may 2010. 
+36. Rəsul Rza dühası təsviri sənətdə. “Kredo”, №37 (607).
+18 sentyabr 2010.
+37. Gözüm dağlarda qaldı. “Kredo”, №37 (607). 18 sentyabr
+2010.
+38. Xınalıqda bir gün. “Kredo”, №15 (635). 23 aprel 2011. 
+39. Söz müəllif ünvanıdır. “Kredo”, №16 (636). 30 aprel 2011.
+40. Həqiqi müəllim ömrü. “Kredo”, №18 (638). 14 may 2011. 
+II. Elmi əsərlər
+41. Azərbaycan dilində təsviri sənət terminlərinin təşəkkül
+tarixinə dair. “Elmi axtarışlar”, VIII toplu (filologiya
+məsələlərinin xüsusi buraxılışı). “Nurlan”, 2002, səh.122–125.
+42. Qobustan toplusunda təsviri sənət terminləri.
+“Tədqiqlər–2”, “Elm”, 2003, səh.79–81.
+43. Azərbaycan dilində incəsənət terminləri (“Tədqiqlər–3”),
+“Elm”, 2003, səh. 178–182.
+44. Azərbaycan dilində təsviri sənət terminlərinin quruluşu.
+“Elmi axtarışlar”, IX toplu (filologiya məsələlərinin xüsusi
+buraxılışı). “Nurlan”, 2003, səh. 127–130. 
+45. Qədim memarlıq terminləri. “Terminologiya məsələləri”,
+“Elm”, 2003, səh. 102–105.
+46. Azərbaycan dilində ərəb-fars mənşəli təsviri sənət
+terminləri. “Elmi axtarışlar”, XIII toplu, “Səda”, 2005, səh. 119–123.
+47. Təsviri sənət terminlərinin yaranma mənbələri
+haqqında. “Tədqiqlər–1”, “Elm”, 2005, səh. 119–127.
+48. Azərbaycan dilində semantik inkişaf nəticəsində
+yaranan təsviri sənət terminləri. “Filologiya məsələləri”,
+“Nurlan”, 2007, səh. 29–35.
+49. Azərbaycan dilində türk mənşəli təsviri sənət terminləri.
+“Onomastika” (Elmi-onomastik jurnal). ADPU-nun nəşri, №1–2,
+2008, səh. 207–211. 
+III. Kitablar
+1. Ürəyimi açıram. “Nurlan”, 2006, 156 səh.
+2. Qırağlı toponimi və qırağlılar. “Nurlan”, 2008, 112 səh.
+3. Azərbaycan dilində təsviri sənət terminləri. “Müəllim”,
+2010, 220 səh.
+4. Xaçmaz toponimləri. “Şərq-Qərb” Nəşriyyat evi, 2011,
+138 səh.
+98
+Müəllifin həyatı, elmi-pedaqoji fəaliyyəti və əsərləri
+haqqında yazılanlar
+1. İ.Abdullayev. Uğur olsun Sevinc! (pedaqoji ustalığı
+xatırlanıb), “Dünyanın səsi” qəzeti, avqust, 1999, №15,16.
+2. Y.Əliyev. Gələcəyin böyük rəssamı olacağına ümid
+bəslənilən məktəbli qız (şəkil və pedaqoji ustalığı haqqında),
+“Azərbaycan müəllimi” qəzeti, 17–24 noyabr 1999, №46.
+3. N.Məmmədbəyov. Estetik tərbiyə üzrə respublika simpoz-
+iumu, “Azərbaycan müəllimi” qəzeti, 7–13 iyun 2002, №23.
+4. İ.Kazımov. Cəbrayıllı dilçi alimlər. “Xudafərin” qəzeti, 
+22 iyul 2004, № 6–7.
+5. Əli Rza Xələfli. İşığın mənbəyi. “Kredo” qəzeti, 8 iyul 2006.
+6. Ayişə Məmmədxanova. “Ürəyimi açıram”. Yeni kitablar.
+“Xaçmaz” qəzeti, 13 may 2006, №4.
+7. Gülxar Rəhimli. “Qırağlı toponimi və qırağlılılar”. Yeni
+kitablar. “Xaçmaz” qəzeti, 28 avqust 2008, №11.
+8. Şakir Albalıyev. Yurddaşlıq harayları. “Kredo” qəzeti, 3–
+10 oktyabr 2009, №37-38.
+9. Zakir Eloğlu. “Ürəyimi açıram”. “Tərəqqi” qəzeti, fevral
+2009, №2.
+10. Şıxəmməd Seyidməmmədov. Layiqli monoqrafiya.
+(“Azərbaycan dilində təsviri sənət terminləri” kitabı haqqında).
+“Tərəqqi” qəzeti, may 2010, № 5.
+11. Təbrik edirik! (“Qızıl Qələm” Mükafatı almaq
+münasibətilə). “İnkişaf və tərəqqi” qəzeti, 14–21 fevral 2011, №1.
+12. Güləddin Həmzəyev. “Qırağlı toponimi və qırağlılar”.
+Yeni kitablar. “Tərəqqi” qəzeti, aprel 2011, №5–6.
+13. Şıxəmməd Seyidməmmədov. Təbrik edirik! (“Qızıl
+Qələm” Mükafatı almaq münasibətilə). “Tərəqqi” qəzeti, aprel
+2011, №5–6.
+99
+İSTİFADƏ OLUNMUŞ ƏDƏBİYYAT
+1. Abdullayev B. Azərbaycan şəxs adlarının izahlı lüğəti. Bakı, 1985.
+2. Adilov M.İ. Mürəkkəb adlar haqqında. Azərbaycan ano mastikası
+problemləri; II c., Bakı, 1988.
+3. ADİL (Azərbaycan dilinin izahlı lüğəti) 4 cilddə. III cild, Bakı,
+2006.
+4. ADDL (Azərbaycan dilinin dialektoloji lüğəti). Bakı, 1964.
+5. Aslanov V.İ. Onomastik vahidlərin dilin qədim leksik laylarını
+öyrənməkdə yeri. Azərbaycan onomastikası problemləri; III c., Bakı,
+1990.
+6. Azərbaycan tarixi. 7 cilddə; I cild. Bakı, 2006.
+7. Azərbaycan tarixi (Z.Bünyadov və Y.Yusifovun redaktəsi ilə). Ali
+məktəblər üçün dərslik. Bakı, 1994.
+8. Azərbaycan toponimləri (Ensiklopedik lüğət); II cilddə. Bakı,
+2007.
+9. Bakıxanov A.A. Gülüstani-İrəm. Bakı, 1951.
+10. Budaqov B.Ə. Türk uluslarının yer yaddaşı. Bakı, 1994.
+11. Buduqlu V. (Piriyev) Buduq və buduqlular. Bakı, 1994.
+12. Cavad Heyət. Türklərin tarix və mədəniyyətinə bir baxış. Bakı,
+1993.
+13. Əliyeva R. Azərbaycan toponimləri (XVIII–XIX) əsrlər rus və
+Avropa səyyahlarının əsərlərində qeydə alınmış Azərbaycan toponim -
+lərinin tarixi-linqvistik təhlili). Bakı, 2002.
+14. Əliyev V. Azərbaycan toponimiyası. Bakı, 1999.
+15. Əhmədov T. Azərbaycan toponimikasının əsasları. Bakı, 1991.
+16. Əhmədov T. El-obamızın adları. Bakı, 1984. 
+17. Əjdər Fərzəli. Xaç – od nişanıdır. “Elm və həyat” jurnalı. 1987,
+№6.
+18. Əjdər Fərzəli. Dədə-Qorqud yurdu. Bakı, 1989.
+19. Əsgərov N. Azərbaycan hidronimləri. Bakı, 2002.
+20. Xalıqov F. Azərbaycan onomalogiyası. Bakı, 2009.
+21. Xalıqov F. Regional toponimika. Azərbaycan onomastikası
+problemləri; VII c., Bakı, 1999.
+100
+22. İdrisov Q.S. Azərbaycan dilində təsviri sənət terminləri. Bakı,
+2010.
+23. İdrisov Q.S. Qırağlı toponimi və qırağlılılar. Bakı, 2008.
+24. Kazımov Q.Ş. Müasir Azərbaycan dili. Sintaksis. Bakı, 2000.
+25. Kazımov Q.Ş. Dil, tarix, poeziya. Bakı, 2005.
+26. Kazımov İ.B. Müasir türk dillərinin müqayisəli leksikası. II cild,
+Bakı, 2010.
+27. Kazımov Ç.B. Cəbrayıl toponimləri. Bakı, 1994.
+28. Kazımov Cahid. Mahmud Kaşqarinin “Divanı”ndakı
+toponimlərin Azərbaycan ərazisindəki izləri. Onomastika, 1–2. Bakı,
+2008.
+29. Qurbanov A. Azərbaycan onomastikası. Bakı, 1986.
+30. Qurbanov A. Azərbaycan dilinin onomalogiyası. Bakı, 1988.
+31. Qeybullayev Q. Bəzi coğrafi adların mənşəyi. “Elm və həyat”
+jurnalı; №2, 1980.
+32. Mehrəliyev E. Xalq coğrafi terminlərinin izahlı lüğəti. Bakı,
+1987.
+33. Məmmədov N. Azərbaycan yer adları (oronimiya). Bakı, 1993.
+34. Məşədiyev Q.İ. Zaqafqaziyanın Azərbaycan toponimləri. Bakı,
+1990.
+35. Məlikməmmədov M. Qanlı dərə (1918-ci il Quba faciəsi). Bakı,
+2009.
+36. Mustafazadə Tofiq. Quba xanlığı. Bakı, 2005.
+37. Nəbiyev N. Coğrafi adlar. Bakı, 1982.
+38. Nərimanoğlu F. Azərbaycanın Şimal qapısı – Xaçmaz. Bakı,
+2006.
+39. Nuriyev E.B. Azərbaycan toponimiyasında bitki və heyvan adları.
+Azərbaycan onomastikası problemlərinə dair konfransın materialları.
+Bakı, 1987.
+40. Seyidov M. Azərbaycan xalqının soykökünü düşünərkən. Bakı,
+1989.
+41. Seyidov M. Azərbaycan mifik təfəkkürünün qaynaqları. Bakı,
+1983.
+42. Seyidov F., Əsgərov İ. Xaçmaz haqqında nə bilirik? “Dostluq”
+qəzeti; №5. 11.01.1990.
+43. Şahin Fazil (Fərzəlibəyli). Quba tarixi. Bakı, 2001.
+44. Şahbazov İ. Baraxum. “Dostluq” qəzeti; №69. 19.06.1990.
+101
+45. Şahbazov İ. Çarxı. “Dostluq” qəzeti; №73. 28.06.1990.
+46. Şahbazov İ. Qaraçaycek. “Dostluq” qəzeti; №11. 06.02.1991.
+47. Şahbazov İ. Hacıəlibəy. “Dostluq” qəzeti; №143. 25.12.1990.
+48. Tahirzadə Ə. Kəsrəviçilik. Kökü, özəyi, ardıcılları, dirilməsi.
+Azərbaycan filologiya məsələləri; III buraxılış. Bakı, 1991.
+49. Yusifov Y. Toponimiya tarixi mənbə kimi. Azərbaycan
+toponimiyasının öyrənilməsinə dair elmi-praktik konfransın materialları.
+Bakı, 1973.
+50. Yüzbaşov R., Əliyeva K., Sədiyev Ş. Azərbaycanın coğrafi adları.
+Bakı, 1972.
+51. Vəlili (Baharlı) M. Azərbaycan. Coğrafi-təbii etnoqrafik və iqti-
+sadi mülahizat. (1921-ci il nəşri üzrə əski əlifbadan çevirmə). Bakı,
+1993. 
+Rus dilində
+52. Васкаков Н.А. Каракалпакский язык. Част 2. Москва, 1952.
+53. Радлов В.В. Опыт словаря тюркских наречий. Том 1, част 2.
+Санкт-Петербург, 1893.
+54. Гейбуллаев Г.А. Этногeнeз азербайджанцев. Баку, 1991.
+55. Гейбуллаев Г.А. Топонимия Азербайджана. Баку,1986.
+56. Гулиева Л.Г. Русская топонимия Азербайджана. Баку, 1984.
+57. Никонов В.А. Краткий топонимический словарь. Москва,
+1966.
+58. Савина И.В. Этнонимы в топонимии Ирана. Ономас тика
+Востока. Москва, 1980.
+59. Плетнева С.А. Хазары. Москва, 1976.
+60. Иванов П. Этнографическое описание туркменской кибитки.
+Туркменоведение. 1930, № 8–9. 
+102
+MÜNDƏRİCAT
+Ön söz ...................................................................................... 10 
+Sənətdən elmə gedən yol ......................................................... 12
+Xaçmazım ..................................................................................14
+Xaçmaz. Ensiklopedik məlumat .............................................. 20 
+Xaçmazın etimologiyası haqqında mülahizələr ....................... 21 
+Xaçmaz oykonimlərinin öyrənilməsinə dair .............................30 
+Oykonimlərin yaranmasının linqvistik əsasları ....................... 34 
+Oykonimlərin etimoloji xülasəsi .............................................. 49 
+Nəticə ....................................................................................... 94 
+Xronoloji qeydlər ..................................................................... 96
+İstifadə olunmuş ədəbiyyat .................................................... 100
+103
+“Şərq-Qərb” Nəşriyyat evində çapa hazırlanmışdır
+Buraxılışa məsul: Rasim Müzəffərli
+Texniki redaktor: Rövşən Ağayev
+Kompyuter səhifələnməsi: Alyona Duxanina
+Üz qabığının dizaynı: Elşən Qurbanov
+Korrektor: Fəridə Səmədova
+Operator: Məharət İdrisov
+Çapa imzalanmışdır 25.07.2011.
+Formatı 60×90 1/16. Fiziki çap vərəqi 6,5 + 16 səh. illüst. 
+Sifariş N168. Tirajı 500. 
+“Şərq-Qərb” Nəşriyyat evinin mətbəəsində çap olunmuşdur
+AZ 1123, Bakı, Aşıq Ələsgər küçəsi, 17
+Tel.:   (+99412) 370 68 03; 374 83 43
+Faks: (+99412) 370 68 03; 370 18 49
+www.eastwest.az

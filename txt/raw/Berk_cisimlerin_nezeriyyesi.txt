@@ -1,0 +1,522 @@
+B.M.ƏSGƏROV  
+ 
+ 
+ 
+BƏRK CİSİMLƏRİN 
+NƏZƏRİYYƏSİ 
+ 
+ 
+ 
+Universitetlər  üçün dərs vəsaiti 
+ 
+ 
+Yenidən işlənilmiş ikinci nəşr 
+ 
+ 
+ 
+Azərbaycan Respublikası Təhsil  
+       Íàçèðènèn   25 yanvar 2013-cü il tarixli 
+       127 saylı əmri ilə òəñäèã åäèëìèøäèð 
+ 
+ 
+ 
+ 
+ 
+ 
+"Bakı Universiteti" nəşriyyatı 
+ 
+ 
+ÁÀÊÛ – 2013 
+ 
+Kitaba rəy verən 
+akademik F.M.Həşimzadə 
+professor A.H.Kazımzadə 
+ 
+Elmi redaktor 
+professor S.R.Fiqarova 
+ 
+ 
+B.M.Əsgərov. Bərk cisimlərin nəzəriyyəsi. 
+Universitetlər üçün dərs vəsaiti.  
+Bakı: “Bakı Universiteti” nəşriyyatı, 2013, 396 s., şəkilli. 
+ 
+Təqdim olunan bu kitab müəllifin 2001-ci ildə nəşr olunmuş eyni 
+adlı kitabının yenidən işlənilmiş və genişləndirilmiş ikinci nəşridir. Bu 
+nəşrdə elektron və elektron-fonon qarşılıqlı təsirini əhatə edən yeni 
+bölmələr əlavə olunmuş və zona nəzəriyyəsinin əsasları şərh edilmişdir. 
+Elektron-fonon qarşılıqlı təsiri hissəsində keçirici elektronların 
+fononlardan və kristalın başqa defektlərindən səpilməsinə baxılmış, 
+uyğun səpilmə mexanizmləri üçün relaksasiya müddətlərinin açıq şəkli 
+tapılmışdır. Sonda alınmış nəticələr əsasında elektron köçürmə 
+hadisələrinin (kinetik effektlərin) nəzəriyyəsi şərh edilmişdir. 
+Dərs vəsaiti müəllifin uzun illər Bakı Dövlət Universitetinin fizika 
+fakültəsində və Türkiyənin Hacəttəpə Universitetinin fizika bölümündə 
+oxuduğu mühazirələr əsasında yazılmışdır. 
+Kitab magistrantlar, doktorantlar və bərk cismin termodinamik və 
+kinetik xassələrini tədqiq edən elmi işçilər üçün nəzərdə tutulmuşdur. 
+ 
+ 
+2013
+)07(658
+2302030300
+−
+−M
+Я  
+ 
+ 
+ 
+ Əsgərov Bəhram Mehrəli oğlu, 2013 
+                                                     “Bakı Universiteti” nəşriyyatı, 2013  
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ÖN SÖZ 
+      
+Bərk cisimlərin nəzəriyyəsi ümumi nəzəri fizikanın mühüm bir 
+tərkib hissəsini təşkil edir. İstənilən makroskopik sistem, o cümlədən 
+bərk cisimlər yalnız iki növ stabil zərrəcikdən-nüvələrdən və elekt-
+ronlardan ibarətdir. Kristallik bərk cisimlər makroskopik sistemlərin 
+xüsusi halıdır. Belə ki, bu halda ağır zərrəciklər olan nüvələr elekt-
+ronların əhatəsində müəyyən bir qayda ilə fəzada düzülərək kristal 
+qəfəs əmələ gətirirlər. Müsbət yüklü nüvələr və mənfi yüklü elekt-
+ronlar, bir-biri ilə kulon qarşılıqlı təsirdə olaraq, birlikdə dayanıqlı 
+neytral sistemi-kristallik bərk cisimləri yaradırlar. Müxtəlif növ kris-
+tallik bərk cisimlər, onları təşkil edən nüvələrin müxtəlifliyi və onla-
+rın əmələ gətirdiyi kristallik qəfəsin müxtəlif simmetriyaya malik 
+olması ilə təyin olunur. 
+Kristallik bərk cisimlərin bütün fiziki xassələri (termodinamik, 
+kinetik, elektrik, optik, maqnit və s.) qəfəsin düyünlərindəki nüvələ-
+rin və qəfəs daxilində paylanmış elektronların hərəkətlərinin təbiəti 
+ilə də müəyyən olunur. Hərəkətin təbiəti dedikdə onların hansı hərə-
+kət növündə (rəqsi və ya irəliləmə) iştirak etməsi, eyni zamanda bun-
+ların klassik və ya kvant hərəkəti olması nəzərdə tutulur. 
+Nəzəriyyənin əsas məqsədi bərk cisimlərin təcrübədə müşahidə 
+olunan və ölçülən makroskopik fiziki xassələrini izah etmək və ya 
+məlum olmayan yeni xassələrini əvvəlcədən söyləməkdən ibarətdir. 
+Bunun üçün bərk cismin hər bir makroskopik xassəsinin mikroskopik 
+nəzəriyyəsini qurmaq tələb olunur. Mikroskopik nəzəriyyə qurmaq 
+makroskopik xassələri kristal qəfəs daxilində baş verən mikroskopik 
+hərəkətlərlə əlaqələndirmək deməkdir. Bu məqsədlə bərk cismin da-
+xili quruluşu haqqında konkret model qəbul etmək və onun əsasında 
+ÖN SÖZ 
+ 
+ 4 
+mikroskopik nəzəriyyə qurmaq lazımdır. Hər şeydən əvvəl bərk cis-
+mi əmələ gətirən zərrəciklərin (nüvələrin və elektronların) hərəkət-
+lərinin hansı tənliklərlə təsvir olunduğunu müəyyənləşdirmək lazım-
+dır. Yalnız bundan sonra nəzəriyyənin klassik və ya kvant nəzəriyyə-
+si olması barəsində danışmaq olar. 
+Bu məsələ araşdırılmış və kitabın əvvəlində (§1)-də şərh olun-
+muşdur. Göstərilmişdir ki, kristalı təşkil edən elektronların hərəkəti 
+həmişə kvant təbiətlidir. Nüvələrin hərəkətinə isə yalnız yüksək tem-
+peraturlarda klassik hərəkət kimi baxıla bilər. Odur ki, kristallik bərk 
+cisimlərin nəzəriyyəsi ümumi halda kvant nəzəriyyəsidir. Beləliklə, 
+bərk cisimlərin nəzəriyyənin yeri ümumi nəzəri fizikada yeri qeyri- 
+relyativistik kvant mexanikası oblastındadır, yəni əsas hərəkət tənliyi 
+kimi Şredinger tənliyi götürülməlidir. 
+Yuxarıda qeyd etdiyimiz kimi, istənilən kristallik bərk cisim 
+iki altsistemdən: nüvələrdən və elektronlardan ibarətdir. Bu altsis-
+temlərin hər birində zərrəciklərin sayı həddindən artıq çox olduğun-
+dan Şredinger tənliyinin analitik həllini tapmaq praktiki olaraq 
+mümkün deyil. Ona görə də altsistemlərin daxili hərəkətinə növbə ilə 
+baxılır. Əvvəlcə fərz edilir ki, elektron altsistemi hərəkətsizdir və 
+onlar nüvə altsistemində paylanaraq onun dayanıqlığını təmin edir. 
+Onda belə çıxır ki, nüvələr bir-biri ilə kvazielastiki qüvvələrlə 
+əlaqədar olub, öz tarazlıq vəziyyətləri ətrafında rəqsi hərəkət edirlər, 
+rəqslər isə qəfəs boyu yayılaraq elastiki dalğa əmələ gətirir. Bu 
+dalğaların nəzəri tədqiqi fonon qazı anlayışını yaradır. 
+Daha sonra fərz edilir ki, nüvələr tərpənməzdir və kristalın is-
+tənilən nöqtəsində onlar periodik elektrostatik potensial sahəsi yara-
+dır. Elektronlar da tərpənməz nüvələr ətarfında simmetrik paylandı-
+ğından onlar da periodik effektiv sahə yaradırlar. Beləliklə hər bir 
+elektron nüvələrin və elektronların (baxılan elektronlardan başqa) 
+yaratdığı periodik qəfəs potensialında hərəkət edir. Elektronların bu 
+hərəkətinin öyrənilməsi zona nəzəriyyəsinin meydana çıxmasına gə-
+tirir. Nəticədə keçirici elektron və deşik kimi kvazizərrəclərin yükda-
+şıyıcılar olduğu məlum olur. Bundan sonra keçirici elektronlarla fo-
+nonlar arasında qarşılıqlı təsir öyrənilir. 
+ÖN SÖZ 
+ 
+ 5 
+Bərk cisimlərin nəzəriyyəsi çox geniş məsələləri əhatə edir və 
+onun hamısını bir kitabda şərh etmək mümkün deyil. Onun hər bir  
+xassəsinə ayrıca kitab həsr etmək lazımdır. Məsələn, bərk cisimlərin  
+optik, maqnit və s. xassələrinin nəzəriyyəsi. Burada bərk cisimlərin 
+yalnız termodinamik və kinetik xassələrin nəzəriyyəsi haqqında danı-
+şılacaq. 
+Kitab əsasən fononlar, keçirici elektronlar və elektron-fonon 
+qarşılıqlı təsiri adlı üç hissədən ibarətdir. 
+Fononlar hissəsi (I və II Fəsillər) kristal qəfəsin düyünlərində 
+yerləşən nüvələrin rəqsi hərəkətinə həsr olunmuşdur. Bu zaman 
+elektron alt sisteminin mövcudluğu fərz olunur, lakin hesab edilir ki, 
+onlar hərəkətsizdir və nüvələr altsisteminin dayanıqlığını təmin edir. 
+Əvvəlcə nüvələr sisteminin rəqsi hərəkətinə klassik mexanikanın 
+tənlikləri əsasında baxılır (yüksək temperatur oblastında) və göstərilir 
+ki, nüvələr alt sisteminin (kristal qəfəsin) tam enerjisi sərbəstlik dərə-
+cələrinin sayı qədər qarşılıqlı təsirdə olmayan harmonik ossilyator-
+ların enerjilərinə bərabərdir. Bütün ossilyatorların kvant ədədləri sıfır 
+olarsa, kristal həyəcanlaşmamış əsas halda olur. Ossilyatorların həyə-
+canlaşmış halında fonon qazı meydana çıxır, yəni həyəcanlaşmış 
+halda kristala onun enerjisi fonon qazının enerjisinə bərabər olur. Bu 
+yolla kristal qəfəsin rəqsi hərəkət enerjisi ideal fonon qazının enerjisi 
+ilə təyin olunur. Fonon qazı konsepsiyası əsasında keçirici olmayan 
+kristalın termodinamik, əsasən istilik xassələri tədqiq olunmuşdur.      
+Keçirici elektronlar hissəsində (III-VI Fəsillər) hərəkətsiz 
+nüvələr ətrafında paylanmış elektronların hərəkətinə Şredinger tənli-
+yini tətbiq edərək cox elektronlu məsələni bir elektronun qəfəsin 
+periodik potensial sahəsində hərəkəti məsələsinə gətirilir. Bu tənlik 
+əsasında elektronun ideal qəfəs daxilində hərəkətinin ümumi xassə-
+ləri aydınlaşdırılır. Burada alınan nəticələr (§12) kristalların elektrik 
+keçiriciliyinə görə təsnifatını izah edə bilmədiyinə görə müxtəlif 
+(zəif və güclü əlaqəli elektron) yaxınlaşmalardan istifadə edərək 
+kristal daxilində elektronun spektri üçün enerji zonaları alınır, bunun-
+lada zona nəzəriyyəsinin əsası qoyulur. Bu nəzəriyyə əsasında bərk 
+cisimlərin metallara və izolyatorlara (yarımkeçiricilərə) bölünməsi 
+ÖN SÖZ 
+ 
+ 6 
+izah edilir və mütəhərrik deşiklərin yükdaşıyıcı olması müəyyən-
+ləşdirir. Eyni zamanda keçirici elektron qazı və deşik qazının statis-
+tikası qurulur. 
+Elektron-fonon qarşılıqlı təsiri hissəsində (VII Fəsil) keçirici 
+elektronların fononlardan və kristalın başqa defektlərindən səpilmə-
+sinə baxılır və hər bir səpilmə mexanizmləri üçün relaksasiya müd-
+dətlərinin açıq şəkli tapılır. 
+Sonda (VIII Fəsil) alınmış nəticələr əsasında elektron köçürmə 
+hadisələrinin (kinetik effektlərin) nəzəriyyəsi şərh edilir. 
+Kitabın quruluşu çox sadədir: paraqraflar ardıcıl sıralanmış, 
+şəkillər, cədvəllər və düsturlar isə hər paraqraf daxilində nömrələn-
+mişdir.  
+Oxucular tərəfindən ediləcək arzu və təklifləri böyük məm-
+nuniyyət və minnətdarlıq hissi ilə qəbul etməyə hazıram. 
+Kitabın əlyazması üzərində işləyərkən, köməyini hiss etdiyim 
+hər kəsə müəllif kimi öz dərin təşəkkürümü bildirirəm. 
+Kitab magistrantlar, doktorantlar və bərk cismin termodinamik 
+və kinetik xassələrini tədqiq edən elmi işçilər üçün nəzərdə tutulmuş-
+dur. 
+ 
+                                                                    Б.М.Ясэяров  
+Bakı, dekabr 2012 
+ 
+ 
+ 
+ 
+ 
+ 389 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+MÜN DƏR İC A T  
+ 
+ 
+ 
+ Ön söz............................................................................... 3 
+I  fəsil .  Kristal qəfəsin rəqsləri. Fonon qazı ..................  7 
+ §1. Áÿðê úèñèìëÿð íÿçÿðèééÿñèíèí öìóìè íÿçÿðè ôè-
+çèêàya aid diaqramda (elmlяrin xяritяsindя) éåðè ......
+  
+8 
+ §2. Áÿðê úèñèìëÿð íÿçÿðèééÿñèíäÿ мясяляниí öìóìè го-
+йулушу .........................................................................
+  
+11 
+ §3. Êâàçèçÿððÿúèêëÿð................................................................ 13 
+ §4. Äöç âÿ òÿðñ ãÿôÿñëÿð ........................................................... 17 
+ Äöç ãÿôÿñ. Brave qəfəsləri (17). Òÿðñ ãÿôÿñ (24). Ìиëëåð 
+иíäåêñëÿðè (28). Ðåíòýåí øöàëàðûнын äèôðàêñèéàñû ö÷öí 
+Ëàóå âÿ Áðåãã-Вулф øÿðòè (31) 
+  
+ §5. Êðèñòàë ãÿôÿñëÿðäÿ ðÿãñëÿð âÿ äàëüàëàð .........................  34 
+ Кристаллик бярк ъисимлярдя рабитя нювляри (34). Áèðþë÷öëö 
+ñàäÿ ãÿôÿñdя rяqslяr vя dalэalar (39). Áèðþë÷öëö ìöðÿê-
+êÿá ãÿôÿñdя rяqslяr вя dalэalar (45). Ö÷þë÷öëö ãÿôÿñ-
+ëÿðdя rяqslяr vя dalэalar (54) 
+  
+ §6. Íîðìàë êîîðäèíàòëàð. Êðèñòàë ãÿôÿñèí Ùàìèëòîí 
+ôóíêñèéàñû ....................................................................
+  
+61 
+ §7. Ãÿôÿñèí ðÿãñëÿðèíèí êâàíòëàíìàñû. Ôîíîí ãàçû .............  66 
+ Fonon qazının orta enerjisi (69). Akustik fononların orta 
+sayı (71). Debay temperaturu və Debay funksiyası (72) 
+ 
+   
+ 
+Mündəricat 
+ 
+ 
+ 390 
+II  fəsil . Keçirici olmayan bərk cisimlərin istilik 
+xassələri və hal tənliyi ......................................... 
+  
+77 
+ §8. Áÿðê úèñèìëÿðèí èñòèëèê òóòóìó íÿçÿðèééÿñè Åéíøòåéí 
+âÿ Äåáàé ìîäåëëÿðè ....................................................
+  
+78 
+ Истилик тутумунun кëàññèê íÿçÿðèééÿси (78). Êâàíò íÿçÿ-
+ðèééÿñè (80). Åéíøòåéí ìîäåëè (1907-ъи ил) (81). 
+Åéíøòåéí-Äåáàé ìîäåëè (1912-ъи ил) (85) 
+  
+ 
+ § 9. Ôîíîí ãàçû âÿ áÿðê úèñèìëÿðèí ùàë òÿíëèéè.          
+Ãðóíåéçåí ñàáèòè ........................................................
+  
+95 
+ §10. Áÿðê úèñèìëÿðèí èñòèäÿí ýåíèøëÿíìÿñè âÿ èçîáàðèê 
+èñòèëèê òóòóìó ...........................................................
+  
+103 
+ §11. Ôîíîí èñòèëèê êå÷èðèúèëèéè ............................................  114 
+    
+III  fəsil . Enerji zonaları nəzəriyyəsinin əsasları. 
+Keçirici elektronlar və deşiklər...........................
+  
+123 
+ §12. Elektronun ideal kristal qəfəsdə hərəkəti ......................... 124 
+ İdeal kristalda hərəkət edən elektronun dalğa funksi-
+yası. Blox funksiyası (127). Elektronun dalğa vektoru 
+(129). Elektronun enerjisi (131). Elektronun kvaziim-
+pulsu (133). Elektronun effektiv kütləsi (134) 
+  
+ 
+ §13. Zəif əlaqəli elektronlar yaxınlaşması. Qadağan 
+olunmuş enerji zonaları ............................................
+  
+138 
+ §14. Enerji zonaları və birinci Brillüen zonası ...................  146 
+ §15. Güclü əlaqəli elektronlar yaxınlaşması. Diskret 
+enerji səviyyələrinin enerji zonlarına çevrilməsi .....
+  
+154 
+ §16. Keçirici elektronlar və müsbət yüklü deşiklər..............  161 
+ §17. Zona nəzəriyyəsi və bərk cisimlərin elektrik keçi-
+riciliyinə görə təsnifatı: keçiricilər və izolyatorlar .....
+  
+166 
+ §18. Enerji zonalarının əsas modelləri ...............................  173 
+ Metalların keçirici zonası üçün parabolik model (174).   
+Mündəricat 
+ 
+ 
+ 391 
+Məxsusi yarımkeçiricilər üçün parabolik zona modeli 
+(175). Dördüncü, AIV qrup elementi olan yarımkeçi-
+ricilərin zona quruluşu; çoxminimumlu parabolik mo-
+del (176). AIIIBV-tipli yarımkeçiricilərin zona quruluşu; 
+qeyri-parabolik Keyn modeli (180)....................................
+    
+IV fəsil .  Metallarda və yarımkeçiricilərdə yükdaşıyı-
+cıların statistikası ................................................. 
+  
+ §19. Metallarda keçirici elektron qazının statistikası ............. 190 
+ Paylanma funksiyası (191). Elektron qazı mütləq sıfır 
+)( 0=T  temperaturunda-tam cırlaşmış hal (193). 
+Elektron qazı aşağı )( 0 FTk ζ<<  temperaturda – güclü 
+cırlaşmış hal (198) 
+  
+ §20. Yarımkeçiricilərdə keçirici elektronların kon-
+sentrasiyası...............................................................
+  
+202 
+ Parabolik və qeyri-parabolik keçirici zonlar (202). 
+Keçirici elektronların effektiv kütləsinin konsentra-
+siyadan asılılığı (209). Çoxminimumlu ellipsoid pa-
+rabolik keçirici zonada elektronların konsentrasiyası 
+(211) 
+  
+ §21. Məxsusi yarımkeçiricilərin və yarımmetalların 
+statistikası ................................................................
+  
+214 
+ Deşiklərin konsentrasiyası (214). Qadağan olunmuş 
+zonası sıfırdan fərqli )0( ≠gε  olan məxsusi yarım-
+keçiricilər (216). Qadağan olunmuş zonası sıfır 
+)0( =gε  olan məxsusi yarımkeçiricilər (218). Ya-
+rımmetallar (220) 
+  
+ §22. Aşqarlı yarımkeçiricilərin statistikası ........................ 222 
+    
+V fəsil .  Metalların istilik tutumu.....................................  233 
+ §23. Metalların istilik tutumunun klassik nəzəriyyəsi .......... 234 
+ Qəfəs istilik tutumu (235). Elektron qazının enerjisi   
+Mündəricat 
+ 
+ 
+ 392 
+(236). Elektron qazının istilik tutumunun klassik nəzə-
+riyyəsi (237) 
+ §24. Metalların istilik tutumu. Kvant nəzəriyyəsi.............. 240 
+ Mütləq sıfır (T=0) temperaturu (240). Aşağı tem-
+peraturlarda elektron qazının istilik tutumu (243). 
+Güclü qeyri-parabolik zonalı-′′ultrarelyativistik′′ elekt-
+ron qazının istilik tutumu (251) 
+  
+   
+VI fəsil .  Sərbəst elektron və elektron qazı  xarici 
+maqnit sahəsində ................................................
+  
+254 
+ §25. Elektron qazınıın Pauli paramaqnetizmi.....................  255 
+ Cırlaşmamış-klassik elektron qazı (259). Cırlaşmış-
+kvant elektron qazı (260) 
+  
+ §26. Elektronun xarici sabit maqnit sahəsində hərəkəti. 
+Diskret Landau spektri ................................................
+  
+263 
+ Maqnit sahəsində elektronun klassik hərəkəti (263). 
+Elektronun xarici maqnit sahəsində kvant hərəkəti 
+(265). Güclü maqnit sahəsində kvant hallarının sıxlığı 
+(269). Kvantlayıcı maqnit sahəsində elekton qazının 
+kimyəvi potensialı (272) .....................................................
+  
+ §27. Elektron qazının Landau diamaqnetizmi....................  279 
+ Elektron qazının diamaqnetizminə klassik baxış (279). 
+Elektron qazının diamaqnetizminin Landau nəzəriyyəsi 
+(281) 
+  
+ §28. Tsiklotron rezonansı. Effektiv kütlənin təyini............  287 
+ Tsiklotron rezonansının mahiyyəti (287). Tsiklotron 
+rezonasının elementar klassik nəzəriyyəsi (289). Ellip-
+soidal izoenergetik səthlər üçün tsiklotron tezlikləri 
+(292). Germanium və silisium yarımkeçiriciləri üçün 
+tsiklotron tezlikləri (295) 
+  
+VII fəsil .  Kinetik tənlik və onun həlli. Səpilmə 
+mexanizmləri ........................................................
+  
+297 
+ §29. Kinetik tənlik və onun tətbiq olunma şərtləri  298 
+Mündəricat 
+ 
+ 
+ 393 
+ Qeyri-taraz paylanma funksiyası (298). Kinetik tənlik 
+(299). Kinetik tənliyin tətbiq olunma şərtləri (302) 
+  
+ 
+ §30. İxtiyarı sferik-simmetrik zona üçün relaksasiya 
+müddəti yaxınlaşmasında kinetik tənliyin həlli ........
+  
+305 
+ Relaksasiya müddəti (306). Maqnit sahəsi olmadıqda 
+τ yaxınlaşmasında kinetik tənliyin həlli (307). Kvant-
+layıcı olmayan ixtiyari maqnit sahəsində kinetik tən-
+liyin həlli (309) 
+  
+ §31. İxitiyari izotop zonalı yarımkeçiricilərdə yükda-
+şıyıcıların ionlaşmış aşqar atomlarından səpilmə  
+ 
+312 
+ Keçid ehtimalının ümumi ifadəsi (313). Yükdaşıyı-
+cıların ionlaşmış aşqar atomlarından səpilməsi (317). 
+Nöqtəvi defektlərdən, yəni yaxına təsir potensialından 
+səpilmə (322) 
+  
+ §32. Keçirici elektronların ixtiyari izotop zonalı yarım-
+keçircilərdə müxtəlif fononlardan səpilməsi  
+ 
+323 
+ Keçirici elektron və fonon qazı (323). Keçirici elek-         
+tronların akustik fononlardan səpilmə. Deformasiya 
+potensialı metodu (329). Qeyri-polyar fononlardan sə-
+pilmə; deformasiya potensialı metodu (334). Polyar 
+optik fononlardan səpilmə (338). Pyezoakustik fonon-
+lardan səpilmə (342) 
+  
+ §33. Relaksasiya müddətinin ümumiləşmiş ifadələri .........  344 
+ Parabolik zonalı (344). İxtiyari izotrop (qeyri-para-
+bolik) zonalı keçiricilərdə (347) 
+  
+    
+VIII fəsil .  Elektron köçürmə hadisələri – kinetik 
+effektlər .................................................................. 
+  
+350 
+ §34. Cərəyan və enerji selinin sıxlığı. Keçiricilik 
+tenzorlarının ümumi şəkli ..........................................
+  
+351 
+ §35.  Xarici maqnit sahəsi olmadıqda )0( =H  elektron 
+köçürmə hadisələri .....................................................
+  
+355 
+Mündəricat 
+ 
+ 
+ 394 
+ Elektrikkeçiriciliyi,elektronların dreyf yürüklüyü (356).  
+Termoelektrik hərəkət qüvvəsi - Zeebek effekti (359). 
+Elektron istilikkeçiriciliyi, Videman-Frans qanunu. 
+Lorens ədədi (362).  Nernst effekti (365) 
+  
+ §36. Kinetik effektlərin tərifi və kinetik əmsalların 
+təyini.........................................................................
+  
+366 
+ Qalvanomaqnit effektlər (366). Termomaqnit effektlər 
+(369) 
+  
+ §37. Elektron köçürmə hadisələri (kinetik effektlər) 
+xarici maqnit sahəsində ............................................
+  
+372 
+ Holl effekti (372). Maqnit-müqaviməti (376). Eninə 
+Nernst-Ettinqshauzen effekti (380). Uzununa Nernst-
+Ettinqshauzen effekti (384) 
+  
+    
+ Ədəbiyyat ...........................................................................  388 
+    
+ 
+ 395 
+Əsgərov Bəhram Mehrəli oğlu – Azərbay-
+can Milli Elmlər Akademiyasının akademiki, 
+Dövlət mükafatı laureatı, Əməkdar elm xadimi, 
+"Şöhrət" ordenli, fizika-riyaziyyat elmləri doktoru, 
+professor, Bakı Dövlət Universitetinin "Bərk 
+cisimlər fizikası" kafedrasının müdiri. 
+Akademik B.M.Əsgərov bərk cisimlərin nə-
+zəriyyəsi sahəsində 150-dən artıq elmi məqalənin, 
+5 monoqrafiyanın "Теория явлений переноса в 
+полупроводниках" (Bakı, Elm, 1963), "Кинети-
+ческие эффекты в полупроводниках" (Ленинград, Наука, 1970),  
+"Электронные явления переноса в полупроводниках" (Москва, Наука, 
+1985), "Electron Transport Phenomena in Semiconductors" (Singapore, 
+New Jersey, London, World Scientific, 1994), "Thermodynamics, Gibbs 
+Method and Statistical Physics of Electron Gases" (Berlin,  Springer-
+Verlag, 2010) və iki dərsliyin "Bərk cisimlər nəzəriyyəsi" (Bakı, 2001), 
+"Termodinamika və statistik fizika" (Bakı, 2005) müəllifidir. O, 12 elmlər 
+namizədənin elmi rəhbəri və 4 elmlər doktorunun elmi məsləhətçisi 
+olmuşdur. 
+B.M.Əsgərov 5 oktyabr 1933-cü ildə Tovuz rayonunun Əhmədabad 
+kəndində anadan olmuşdur. O, 1957-ci ildə Azərbaycan Dövlət Uni-
+versitetinin fizika-riyaziyyat fakültəsinin fizika şöbəsini fərqlənmə diplo-
+mu ilə bitirmiş və həmin ildə Azərbaycan Elmlər Akademiyasının Fizika 
+İnstitutunun "Yarımkeçiricilər" fizikası ixtisası üzrə əyani aspiranturasına 
+qəbul olunmuşdur. Aspirantura təhsilini SSRİ Elmlər Akademiyasının 
+Leninqrad şəhərində yerləşən "Yarımkeçiricilər" İnstitutunda almış və 
+orada 1962-ci ildə namizədlik dissertasiya işini müdafiə etmişdir. 1971-ci 
+ildə  doktorluq dissertasiyasını müdafiə etmiş və 1972-ci ildə professor 
+elmi adını almışdır.  
+1971-ci ildə Azərbaycan Elmlər Akademiyasının tövsiyyəsi əsasında 
+B.M.Əsgərov Universitetdə "Bərk cisimlər fizikası" kafedrasını təşkil 
+etmiş və indiyə kimi həmin kafedraya rəhbərlik edir.  
+2001-ci ildə Azərbaycan Milli Elmlər Akademiyasının "Fizika" 
+ixtisası üzrə müxbir üzvü, 2007-ci ildə isə həqiqi üzvü seçilmişdir.  
+Akademik B.M.Əsgərov 1994-2004-cü illərdə Bakı Dövlət Universi-
+tetinin elmi işlər üzrə prorektoru vəzifəsində çalışmışdır.  
+ 

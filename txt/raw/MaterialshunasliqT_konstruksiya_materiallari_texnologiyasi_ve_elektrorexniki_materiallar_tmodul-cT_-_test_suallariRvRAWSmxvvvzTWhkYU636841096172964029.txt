@@ -1,0 +1,3909 @@
+AZƏRBAYCAN  RESPUBLİKASI  KƏND  
+TƏSƏRRÜFATI  NAZİRLİYİ 
+ 
+AZƏRBAYCAN DÖVLƏT AQRAR UNİVERSİTETİ 
+ 
+ 
+ 
+O.H.Məmmədov 
+İ.C.Kərimov 
+L.Ə.Hüseynov 
+Z.O.Məmmədov 
+ 
+ 
+ 
+“MATERİALŞÜNASLIQ, KONSTRUKSİYA 
+MATERİALLARI TEXNOLOGİYASI VƏ 
+ELEKTROREXNİKİ MATERİALLAR”  
+(Modul-2) fənninin sərbəst öyrənilməsi üçün 
+ 
+ V Ə S A İ T 
+ 
+ 
+(Azərbaycan və rus dillərində) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BAKI - 2013 
+1 
+ 
+Dərs vəsaiti Azərbaycan Dövlət Aqrar Universitetinin 
+Elmi Şurasının qərarı (25.12.2012-ci il tarixli 05/3.5  saylı 
+protokolu) ilə nəşr olunması tövsiyə edilmiş, Azərbaycan 
+Respublikası Təhsil Nazirliyinin 27.02.2013-cü il tarixli 324 
+saylı əmri ilə qrif verilmişdir. 
+ 
+ 
+ 
+Müəlliflər:  ADAU-nun Elektrik mühəndisliyi kafedrasının 
+professoru O.H.Məmmədov, Energetika kafedrasının müdiri 
+dosent İ.C.Kərimov,  dosent L.Ə.Hüseynov və Gəncə  Elektrik 
+şəbəkəsinin aparıcı mühəndis-elektriki Z.O.Məmmədov. 
+ 
+Rəy verənlər: AzTU-nun “Həyat fəaliyyətinin təhlükəsizli-
+yi” kafedrasının müdiri, dosent N.K.Davudov; ADAU-nun 
+“Energetika” kafedrasının dosenti Y.B.Orucov. 
+ 
+ 
+UOT 621.315.5/6 (75.8) 
+ 
+Məmmədov O.H., Kərimov İ.C., Hüseynov L.Ə., Məmmədov Z.O. 
+“Materialşünaslıq, konstruksiya materialları texnologiyası və 
+elektrotexniki materiallar” (Modul -2) fənninin sərbəst öyrənilməsi 
+üçün vəsait. Dərs vəsaiti,  
+                                                2013, 93 səh. 
+ 
+Dərs vəsaiti “Materialşünaslıq, konstruksiya materialları texno-
+logiyası və elektrotexniki materiallar” fənnini sərbəst öyrənmək üçün 
+suallar toplusundan ibarətdir. Bütün suallar müvafiq məntiqi cavab-
+larla təmin olunmuşdur. Suallar toplusu göstərilən fənni öyrənən Aq-
+rar mühəndislik ixtisası üzrə I kurs tələbələri üçün nəzərdə tutulub. 
+Dərs vəsaiti digər müvafiq mühəndislik ixtisasları üzrə hazırlanan 
+bakalavr və magistirlər üçün də yararlı ola bilər. Suallar toplusu 
+kompüter üçün müvafiq ixtisaslar üzrə imtahan suallarının hazırlan-
+masında  da müəllimlər tərəfindən istifadə oluna bilər. 
+2 
+ 
+Ö N    S Ö Z 
+ 
+ Ali məktəblərdə təlimin proqramlaşdırılmış metodları 
+hələ keçən əsrin 60-cı illərində yaradılıb tətbiq olunmağa başla-
+mışdır. Təlimin belə proqramlaşdırılmış metodlarının istifadəsi 
+bir neçə istiqamətlərdə tətbiq olunurdu. Bu metodlardan biri tə-
+ləbələrin bu və ya digər kursu cari mənimsəməsinə nəzarət 
+üçün tətbiq olunan “imtahan götürən”  maşının tətbiqidir. Bu 
+metod  müəyyən müddət  Moskva Energetika İnstitutunda  
+müxtəlif ixtisaslardan bir sıra  kursların öyrənilməsində istifadə 
+olunmuşdur. Bu metoddan  respublikamızın bir neçə ali mək-
+təblərində,  o cümlədən Azərbaycan Kənd Təsərrüfatı İnstitutu-
+nun mexanikləşdirmə fakültəsinin avtotraktorların istismarı ka-
+fedrasında da tətbiq olunmağa təşəbbüs göstərilmişdir. 
+Sonralar isə tədris prosesini intensivləşdirmək məqsədilə 
+OП-1 proqramlaşdırma qurğusunun tətbiqinə əsaslanan meto-
+dun istifadə olunmasına başlanılmışdır. 
+Sadə konstruksiyaya malik olan OП-1 qurğusu hər birində 
+3 cavab müəyyən olunmuş 5 sual daxil olmaqla 24 ədəd proq-
+ramdan ibarətdir. Beləliklə, OП-1 qurğusu vasitəsilə eyni za-
+manda 24 nəfərdən ibarət tələbə qrupunda laboratoriya məşğə-
+ləsi və ya praktiki məşğələ üzrə qısa müddətdə sorğu aparmaq 
+mümkündür. 
+ADAU-nun Elektroenergetika və informasiya texnologiya-
+ları fakültəsinin kafedralarında uzun müddətdən bəri OП-1 qur-
+ğusundan istifadə olunur. 
+Son illərdə insanların bilik və bacarığının test üsulu ilə qiy-
+mətləndirilməsinə olduqca geniş yer verilir. 
+20 ildən artıq müddətdir ki, Avropada olduğu testləşdirmə 
+metodu Azərbaycanda da müvəffəqiyyətlə tətbiq olunmaqda-
+dır. Biliyin yoxlanması və qiymətləndirilməsinin əsasını test 
+tapşırıqları təşkil edir. Buna görə də testlərin hazırlanması və 
+tərtibi metodikasının təkmilləşdirilməsi bu sahədə fəaliyyət 
+göstərən təşkilatların, ali və orta məktəb mütəxəssislərinin diq-
+3 
+ 
+qət mərkəzində olur. 
+Orta və ali məktəblərdə mütəxəssis müəllimlər fənn proq-
+ramları, dərslik və dərs vəsaitləri əsasında hər bölmə və ya fə-
+silləri keçdikdən sonra tələbə və şagirdlərin biliyini həmin his-
+sələrin məzmununa uyğun hazırlanan testlərlə yoxlayırlar. 
+Təqdim edilən vəsaitdən istifadənin aşağıdakı qayda üzrə 
+olması məqsədəuyğundur. Hər hansı fəsilə daxil olan suala ca-
+vab verməzdən əvvəl dərsliyin müvafiq bölməsi öyrənilməlidir. 
+Qeyd olunan bölmənin müvafiq hissəsini tam mənimsədikdən 
+sonra suala cavab verilməlidir. 
+Vəsaitin sonunda təqdim olunan sualların cavablarının ve-
+rilməməsinin səbəbi müəlliflərin fikrincə tələbələrin sualla əla-
+qədar müvafiq bölməni daha dərindən öyrənmələrinin təmin 
+olunması və suallara heç bir hesabat aparmadan cavab verilmə 
+mümkünlüyü ilə əlaqədardır. 
+Vəsaitdə təqdim olunan suallar, əlbəttə onların bütün müm-
+kün ola bilən müxtəlifliyini tam əhatə edə bilməz. Bununla ya-
+naşı suallar elə seçilmişdir ki, onlarda olan materialların mə-
+nimsənilməsi “Elektrotexniki materiallar” kursunun öyrənilmə-
+si üçün kifayət ola bilər. Vəsaitdə tədqim olunan materiallar tə-
+ləbələrin verilən fənnin müstəqil öyrənmələri üçün faydalı ol-
+ması ilə yanaşı həm də  müəllimlərin testlərin hazırlanmasında 
+və onların kompüterdə proqramlaşdırılması işlərində də əhə-
+miyyətli ola bilər. 
+ 
+ 
+4 
+ 
+Fəsil 1 
+ 
+CİSİMLƏRİN QURULUŞU VƏ ELEKTROTEXNİKİ  
+MATERİALLARIN TƏSNİFATI 
+ 
+Bu fəslin məzmununa daxil olan məsələlərə elektrotexnika-
+nın inkişafında materialların rolu, elektrotexniki materialların 
+təsnifatı, cisimlərin quruluşu və hissəciklər arasındakı əlaqə 
+növləri haqqında məlumatlar aiddir. Burada elektrotexniki ma-
+terialların istifadə tarixi və onların istismar prosesində elektrik 
+qurğularının etibarlı işində rolu anlayışları yoxlanılır. Elektro-
+texniki materialların təsnifatı, onların quruluşu və hissəcikləri 
+arasındakı əlaqə növlərinə daha çox diqqət yetirilir. 
+Bu fəsildə baxılan məsələlər fənnə aid olan dərs vəsaitinin 
+birinci fəslində və habelə ədəbiyyat siyahısı üzrə [1, 11, 13, 15, 
+19, 20, 21] ədəbiyyatların müvafiq bölmələrində şərh olunan 
+materiallara uyğundur. 
+1.1. Enerji mənbəyinin yaradılması üçün elektrotexniki ma-
+teriallar ilk dəfə hansı alim tərəfindən istifadə olunub? 
+           A) Lodıgin A.N.               
+           B) Yabloçkov P.N.              
+           C) Petrov V.V. 
+           Ç) Şillinq P.A. 
+          D) Dolivo-Dobrovolski 
+1.2. İstismar prosesində həyata keçrilən təşkilatı-texniki 
+tədbirlər ən çox hansı materialların saz saxlanmasına yönəldi-
+lir? 
+A) konstruktiv        
+B) inşaat 
+C) konservasiyaedici         
+Ç) elektrik izolyasiya 
+D) yarımkeçirici 
+1.3. Elektrik avadanlığının etibarlılığı ən çox hansı mate-
+rialların keyfiyyətindən asılıdır? 
+5 
+ 
+A) elektrotexniki               
+B) konservasiyaedici              
+C) korroziyadan mühafizə edən  
+Ç) zərərli kimyəvi mühitdən qoruyan 
+D) metal konstruksiyaların 
+1.4. Aqreqat vəziyyətinə görə elektrotexniki materiallar ne-
+çə qrupa bölünür? 
+A) 2          
+B) 6                
+C) 5                  
+Ç) 3                  
+D) 4 
+1.5. Keçriciliyə görə elektrotexniki materiallar neçə qrupa 
+bölünür? 
+A) 7          
+B) 2                 
+C) 4                 
+Ç) 9                  
+D) 3 
+1. 6. Keçriciliyə görə ən çox hansı materiallar tətbiq olu-
+nur? 
+A) polad və alüminium                                         
+B) mis və alüminium                              
+C) qızıl və gümüş 
+D) sink və qurğuşun 
+Ç) bürünc və tunc 
+1.7. Göstərilən qiymətlərdən hansı misin xüsusi keçriciliyi-
+dir? 
+A) 58       
+B) 36              
+C) 62                
+Ç) 10                         
+D) 17 
+1.8. Təyinatlarına görə elektrotexniki materiallar neçə qru-
+6 
+ 
+pa bölünür? 
+A) 3           
+B) 7              
+C) 2                   
+Ç) 4                         
+D) 5 
+1.9. Bərk cismin zona nəzəriyyəsinə görə energetik dioq-
+ram neçə zonaya bölünür? 
+A) 2           
+B)9                 
+C) 3               
+Ç) 5                         
+D) 4 
+1.10. Maqnit xüsusiyyətlərinə görə ən zəif material necə 
+adlanır? 
+A) ferromaqnit                        
+B) diamaqnit                  
+C) paramaqnit                            
+Ç) yumşaq maqnit               
+D) bərk maqnit 
+1.11. Cismin hissəcikləri arasında neçə əlaqə növü vardır? 
+A) 1            
+B) 3                 
+C) 2       
+Ç) 4              
+D) 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+Fəsil 2 
+ELEKTRİK İZOLYASİYA MATERİALLARI 
+2.1. Dielektriklərdə baş verən elektrofiziki proseslər 
+ 
+Bu fəslin məzmununa dielektriklərdə baş verən elektrofizi-
+ki proseslər, elektrik izolyasiya materiallarının dielektrik, usti-
+lik, fiziki- kimyəvi və mexaniki xarakteristikaları daxildir. 
+Bundan başqa buraya maye, qazşəkilli və bərk dielektriklər də 
+aiddir. 
+Bu fəsildə bütün elektrik  qurğularının etibarlı işində əsas 
+rol oynamaqla elektrotexnikada ən geniş tətbiq olunan bərk 
+dielektriklərin öyrənilməsinə daha çox diqqət yetirilib. 
+Bu fəslin məzmununa praktikada ən geniş tətbiq olunan 
+polimerlər, plastik kütlələr, kauçuk, elektrokeramik və slüda ki-
+mi dielektriklərin öyrənilməsi də daxil olunub. 
+Bu fəslə aid olan məsələlər fənn üzrə azərbaycan dilində 
+kafedrada hazırlanmış dərs vəsaitinin ikinci fəslində və digər 
+müvafiq ədəbiyyatlarda da [2, 4,6, 7, 9, 10, 12, 14, 18,22] veri-
+lir. 
+2.1. Bütün dielektriklər işçi rejimdə nəyin mühiti olurlar? 
+A) istilik mühitinin         
+B) elektrik sahəsinin           
+C) nəm hava mühitinin 
+Ç) maqnit sahəsinin           
+D) elektrik yüklərinin 
+2.2. İdeal elektrik sahə mühitində hansı cərəyan müşahidə 
+olunur? 
+A) aktiv cərəyan                                   
+B) əlavə cərəyan                   
+C) tam cərəyan 
+Ç) qısa qapanma cərəyanı                  
+D) tutum cərəyanı 
+2.3. Real elektrik sahəsində hansı cərəyan müşahidə olu-
+nur? 
+8 
+ 
+A)  yüksüz işləmə cərəyanı                   
+B) q.q.cərəyanı                       
+C) aktiv cərəyan 
+Ç) tam cərəyan                                    
+D) abcorbsiya cərəyanı 
+2.4. Tutum cərəyanı hansı ifadə ilə təyin olunur? 
+A) UG           
+B) sv II             
+C) ca II           
+Ç) CU         
+ D) 
+22
+ca II   
+2.5. Dielektrikdə polyarizasiya nəticəsində  nə baş verir? 
+A) təkcə müsbət hissəciklər sahə istiqamətində yerini 
+dəyişir 
+B) təkcə mənfi hissəciklər sahə istiqamətinin əksinə yerlə-
+rini  dəyişir 
+C) müsbət hissəciklər sahə istiqamətində, mənfilər isə sa-
+hənin əksinə yerlərini  dəyişirlər  
+Ç) heç bir hissəcik yerini dəyişmir 
+D) hissəciklər müəyyən müddətdən bir yerini dəyişir 
+2.6. Elektron polyarizasiyası nə ilə xarakterizə olunur? 
+A) təkcə elektronlar yerini dəyişir 
+B) atom nüvəsi və elektron yerini dəyişir 
+C) təkcə atom nüvəsi sahə istiqamətində yerini dəyişir 
+Ç) nüvə və elektronun yerdəyişməsi baş vermir 
+D) nüvə və elektronun yerdəyişməsi xarici sahənin təsiri ilə 
+düz mütənasib olur 
+2.7. Polyarizasiyanın neçə növü ən geniş istifadə olunur? 
+A) 2               
+B) 4             
+C) 3           
+Ç) 1         
+D) 5 
+9 
+ 
+2.8. Seqnetoelektriklərin hansı parametri temperaturdan 
+asılı olaraq  kəskin dəyişir ? 
+A) elektrik möhkəmliyi 
+B) izolyasiya müqaviməti 
+C) dielektrik itgisi 
+Ç) dielektrik nüfuzluluğu 
+D) istilik keçiriciliyi 
+2.9. Seqnetoelektriklərdə hissəciklərin yerdəyişməsi elek-
+trik sahəsinin gərginliyindən asılılığı hansı xarakterdədir? 
+A) tərs mütənasibdir             
+B) düz mütənasibdir              
+C) asılı deyil                          
+Ç) qeyri-xətti asılıdır              
+D) dəyişən xarakterlidir 
+2.10. İon polyarizasiyası temperaturdan necə asılıdır? 
+A) temperatur artdıqca güclənir         
+B) əks mütənasibdir          
+C) qeyri-xətti asılıdır 
+Ç) asılı deyil                                      
+D) kəskin dəyişən xarakterlidir 
+ 
+2.2. Elektrik izolyasiya materiallarının dielektrik 
+xarakteristikaları 
+ 
+2.11. Dielektriklərin xarakteristikaları neçə qrupa bölü-
+nür? 
+A) 2            
+B) 9             
+C) 4                
+Ç) 3               
+D) 5 
+2.12. Elektrik izolyasiya materiallarının dielektrik xarakte-
+ristikaları neçə qrupa bölünür? 
+A) 4        
+10 
+ 
+B) 2                
+C) 7               
+Ç) 5               
+D) 3 
+ 
+2.13. Dielektriklərdə izolyasiya müqaviməti hansı metodla 
+təyin olunur? 
+A) sabit cərəyan körpüsü ilə             
+B) üç elektrod metodu ilə  
+C) dəyişən cərəyan körpüsü             
+Ç) testerlə                     
+D) meqometrlə 
+2.14. Xüsusi həcmi müqavimətin ölçü vahidi hansıdır? 
+A) Om             
+B) MOm            
+C) KOm            
+Ç) smOm                  
+D) 
+M
+mmOm 2
+      
+2.15. Elektrik qurğularında izolyasiya müqavimətinin bu-
+raxıla bilən qiyməti hansı ifadə ilə yoxlanılır? 
+A) 
+vI
+U
+         
+ B) 
+sI
+Uu
+             
+C) 
+n
+n
+P
+U
+01,01000
+       
+Ç) 
+S
+
+         
+D) 
+21
+21
+RR
+RR
+
+
+           
+2.16. Müstəvi formalı elektrodlarda elektrik möhkəmliyi 
+11 
+ 
+hansı ifadə ilə təyin olunur? 
+A) 
+h
+Ud
+          
+B) 
+h
+Ud
+          
+C) 
+d
+D
+d
+Ug
+ln
+2
+         
+Ç) APh        
+D) IR      
+   2.17. Elektrik möhkəmliyinin ölçü vahidi hansıdır? 
+A) 
+M
+KV
+         
+B) MOm               
+C) KV            
+Ç) 
+Om
+1
+              
+D) Om    
+   2.18. İzolyasiya materiallarının elektrik möhkəmliyi han-
+sı cihazla ölçülə bilər? 
+A) meqometrlə              
+B) voltmetrlə                  
+C) AИИ-70 aparatı ilə                         
+Ç) sabit cərəyan körpüsü ilə               
+D) voltmetrlə 
+2.19. İzolyasiya materiallarında dielektrik itgisi hansı ifadə 
+ilə təyin olunur? 
+A) 
+c
+a
+I
+I
+          
+B) tgI c            
+C) 
+R
+U 2
+          
+12 
+ 
+Ç) CtgU 2
+     
+  
+D)     
+2.20. Dielektrik nüfuzluluğunun ümumi ifadəsi hansıdır? 
+A) UC          
+B) 
+o
+k
+Q
+Q
+        
+C)  
+o
+x
+C
+C
+              
+Ç) EEo            
+D) EJE         
+2.21. Müstəvi lövhəli kondensatorlar üçün dielektrik nüfuz-
+luluğu hansı ifadə ilə təyin olunur? 
+A) 
+o
+x
+C
+C
+           
+B) 
+o
+k
+Q
+Q
+        
+C) EEo            
+Ç) 
+SE
+hC
+o
+x
+
+
+          
+D) 
+3
+4
+0
+R
+R
+C        
+2.22. Nisbi dielektrik nüfuzluluğu hansı qurğu ilə təyin olu-
+nur? 
+A) АИИ-70            
+B) P 333         
+C) MD-16          
+Ç) Vattmetrlə            
+D) Meqometrlə  
+ 
+13 
+ 
+2.3.Elektrik izolyasiya materiallarının istilik 
+xarakteristikaları 
+2.23. Dövlətlərarası Şuranın yeni standartına görə bütün 
+izolyasiya materialları qızmaya davamlılığa görə neçə sinfə 
+bölünür? 
+A) 2              
+B) 9                  
+C) 4                
+Ç) 3                
+D) 5 
+2.24. Dielektriklərdə istiliyə davamlılıq hansı qurğu ilə 
+yoxlanılır?  
+A) kalorimetrlə                 
+B) termometrlə                         
+C) termostat                    
+Ç) termokamera                               
+D) Martens aparatı 
+2.25 Martens aparatı ilə materialın istililiyə davamlılığı ki-
+mi göstəricinin neçə mm aşağı düşməsinə uyğun gələn tempe-
+ratur qəbul olunur? 
+A) 10-12mm           
+B) 1-2 mm        
+C) 5-6 mm       
+Ç) 15-20 mm           
+D) 0,5-0,6 mm 
+2.26. Arrenius qanunu hansı ifadədə göstərilib?  
+A) CtgU 2      
+B) tgI c         
+C) 
+SE
+hC
+o
+x
+
+
+        
+Ç) hPA      
+D) 
+T
+B
+A   
+14 
+ 
+2.27. Montzinger qaydasına görə izolyasiyasının tempera-
+turu 10
+0
+C yuxarı olduqda onun xidmət müddəti neçə dəfə aza-
+lır? 
+A) 3                  
+B) 2                      
+C) 5                     
+Ç) 4                     
+D) 7 
+2.28. Aşağıdakı ifadələrdən hansı dielektriklərin istilik ke-
+çiriciliyinin ölçü vahididir?  
+A) 
+M
+kV
+             
+B) MOm                  
+C) mOm              
+Ç) mKVt /         
+D) 
+q
+KOHmq 
+ 
+2.29. Materialın yumşalma temperaturu hansı üsulla təyin 
+olunur? 
+A) üç elektrod üsulu               
+B) kürə və üzük                    
+C) termometrlə             
+Ç) Martens aparatı                  
+ D) vizkozimetrlə 
+2.30. Transformator yağının alışma temperaturu nə qədər 
+olmalıdır? 
+A) 135 
+o
+C                 
+B) 40 
+o
+C            
+C) -45 
+o
+C            
+Ç) 95 
+o
+C                
+D) 20 
+o
+C 
+ 
+15 
+ 
+2.4. Elektrik izolyasiya materiallarının fiziki-kimyəvi və 
+mexaniki xarakteristikaları 
+2.31.Maye dielektriklərdə turşuluq ədədi hansı ifadə ilə tə-
+yin olunur? 
+A)   %100
+dm
+m
+                          
+B)  1001 
+
+G
+GG
+            
+C)  1001 
+
+
+
+                     
+Ç)  
+G
+TV 
+                           
+D)  
+o
+d
+S
+P
+ 
+2.32.Maye dielektriklərdə turşuluq ədədinin ölçü vahidi 
+hansı ifadə ilə göstərilib?  
+A)  
+Km
+Vt
+
+            
+B)  st            
+C)  uaz         
+Ç)  
+q
+KOHmq 
+               
+D)  
+m
+kV
+ 
+2.33. Maye dielektriklərdə dinamiki özlülük hansı ifadə ilə 
+göstərilib? 
+A)  
+d
+
+                               
+B)  
+Vr
+f
+6
+                      
+16 
+ 
+C)  
+su
+maye
+t
+t
+                             
+Ç)  
+G
+TV 
+                         
+D)  
+o
+s
+S
+P
+ 
+2.34. Maye dielektriklərdə özlülüyü ölçən cihaz necə adla-
+nır? 
+A) termostat       
+B) kalorimetr        
+C) Martens aparatı     
+Ç) viskozimetr    
+D) qiqrometr 
+2.35. Transformator yağında normal temperaturda özlülük 
+neçə 
+о
+Э olmalıdır? 
+ A) 1,6...1,8 
+о
+Э        
+ B) 4...5 
+о
+Э         
+ C) 7...8 
+о
+Э           
+ Ç) 15... 17 
+о
+Э        
+ D) 0,5...0,6 
+о
+Э 
+2.36. Xüsusi zərbə özlülüyü hansı ifadə ilə təyin olunur? 
+A)  ;
+)(
+15
+2hb
+hPm
+
+
+          
+B)  ;
+o
+d
+S
+P
+        
+C)  ;
+o
+s
+S
+P
+      
+Ç)  
+
+
+        
+D)  
+ 
+F
+hHG 
+ 
+17 
+ 
+2.37. Aşağıdakı ifadələrdən hansı ilə kinematik özlülük tə-
+yin olunur? 
+A)  1001 
+
+
+
+        
+B)  
+G
+TV 
+       
+C)  
+d
+
+         
+Ç)  
+ r
+f
+6
+         
+D)  
+dm
+m 100
+ 
+2.38. Dinamiki özlülüyün ölçü vahidi hansıdır? 
+A)  yaz                 
+B)  
+о
+Э               
+C)  St                
+Ç)  
+3/ mq
+                
+D)  
+2sm
+kq
+ 
+2.39. Statik əyilmədə möhkəmlik həddi hansı ifadə ilə təyin 
+olunur? 
+A)  
+su
+maye
+t
+t
+         
+B)  
+ 2
+5,1
+bh
+LP 
+        
+C)  
+o
+s
+S
+P
+        
+Ç)  
+Vr
+f
+6
+         
+18 
+ 
+D)  
+ 
+F
+hHG 
+ 
+ 
+2.5. Maye və qaz şəkilli dielektriklər 
+ 
+2.40. Kimyəvi tərkibinə görə maye dielektriklər neçə yerə 
+bölünür? 
+A) 2            
+B) 9               
+C) 3                 
+Ç) 4                  
+D) 7 
+2.41. Tətbiq olunma xüsusiyyətlərinə görə maye dielektrik-
+lər neçə qrupa bölünür? 
+A) 9                 
+B) 4              
+C) 9               
+Ç) 2                  
+D) 5 
+2.42. Yanma xüsusiyyətinə görə maye dielektriklər neçə 
+qrupa bölünür? 
+A) 9                 
+B) 4              
+C) 9               
+Ç) 2                  
+D) 5 
+2.43. Maye dielektriklər yuxarı temperaturun sərhəd qiy-
+mətinə görə neçə yerə bölünür? 
+A) 7                 
+B) 3            
+C) 4                
+Ç) 2              
+D) 9 
+2.44. Bitki yağları qurumalarına görə neçə yerə bölünür? 
+19 
+ 
+A) 9                 
+B) 7              
+C) 3              
+Ç) 4                     
+D) 2 
+2.45. Quruyan bitki yağlarına hansı yağlar daxildir? 
+A) kabel və kondensator          
+B) transformator və kabel    
+C) kondensator və kətan                  
+Ç) kətan və tunqo               
+D) kətan və kondensator 
+2.46. Qurumayan bitki yağı hansıdır? 
+A) kətan                        
+B) tunqo            
+C) gərcək            
+Ç) kabel          
+D) kondensator 
+2.47. Güc tarnsformatorlarında transformator yağının əsas 
+vəzifəsi nədən ibarətdir? 
+A)  izolyasiyanı gücləndirmək 
+B) soyuma və izolyasiyanı yaxşılaşdırmaq 
+C) soyumanı yaxşılaşdırmaq 
+Ç) dielektrik itgisini azaltmaq 
+D) istilik ötürməsini yaxşılaşdırmaq 
+2.48. Transformator yağının  donma temperaturu respubli-
+kada nə qədər qəbul olunub? 
+A) -50
+0
+C             
+B) -55
+0
+C              
+C) -70
+0
+C           
+Ç) -45
+0
+C               
+D) -20
+0
+C 
+2.49. Transformator yağını transformatorun istismarı za-
+manı fasiləsiz təmizləmək üçün hansı qurğudan istifadə olu-
+nur? 
+20 
+ 
+A) genişləndiricidən 
+B) termosifon süzgəcdən 
+C) yağ göstərici şüşədən 
+Ç) termosiqnallaşma qurğusundan 
+D) qaz relesindən 
+2.50.Neft transformator yağını əvəz edə bilən sintetik yağ 
+hansıdır? 
+A) sovol  
+B) kremniy üzvü          
+C) sovtol                  
+Ç) frorüzvü        
+D) nitrobenzol       
+2.51. Qaz dielektriklərdə voltamper xarakteristikası neçə 
+xarakterik zonadan ibarətdir? 
+A) 1         
+B) 3             
+C) 2             
+Ç) 4          
+D) 7 
+2.52. Göstərilən ifadələrdən hansı Paşen formulasıdır? 
+A)   
+ 
+ 
+        
+B)   
+  
+  
+     
+C)               
+Ç)           
+D )   
+ 
+ 
+ 
+2.53. Göstərilənlərdən hansı süni qazşəkilli dielektrikdir? 
+ A) azot           
+ B) oksigen           
+ C) eleqaz          
+ Ç) helium             
+ D) arqon 
+21 
+ 
+2.6.Bərkiyən dielektriklər 
+ 
+2.54. Mis məftillərin lehimlənməsi işində tətbiq olunan 
+elektrik izolyasiya qətranı hansıdır? 
+A) bitium               
+B) şellak          
+C) epoksid                  
+Ç) konifol        
+D) poliefir                 
+2.55. Kompaund lakdan nə ilə fərqlənir? 
+A) tərkibində qətranın olmaması ilə      
+B) tərkibində piqmentin olmaması ilə    
+C) tərkibində uçucu məhlulların olmaması ilə   
+Ç) tərkibində piqmentin olması ilə 
+D) istifadədən qabaq isidilməsi ilə 
+2.56. Lakın tərkibindəki plastifikatorun vəzifəsi nədən iba-
+rətdir? 
+A) lakın əsasını təşkil edir          
+B) qurumanı sürətləndirir      
+C) quruma müddətini artırır 
+Ç) izolyasiya müqavimətini gücləndirir     
+D) lakın səthində yaranan nazik təbəqəyə plastiklik verir 
+2.57. Elektrik izolyasiya emalının tərkibindəki piqmentin 
+vəzifəsi nədən ibarətdir? 
+A) elektrik möhkəmliyini artırmaq 
+B) emalın əsasını təşkil edir 
+C) quruma prosesində izolyasiyada yüksək bərklik yaradır 
+Ç) qurumanı sürətləndirir 
+D) istilik keçiriciliyini artırır 
+2.58. Elektrik avadanlığının dolağı lakla hopdurulduqdan 
+sonra quruma zamanı əsas hansı parametrlərə nəzarət olunur? 
+A) quruma müddətinə 
+B) quruma zamanı temperaturaya, dolağın izolyasiya 
+müqavimətinə və quruma müddətinə 
+22 
+ 
+C) təkcə quruma temperaturuna 
+Ç) təkcə dolağın izolyasiya müqavimətinə 
+D)  qurutma qurğusunun rejiminə 
+2.59. Dolaqların lakla hopdurulmasının ən səmərəli üsulu 
+hansıdır? 
+A) vakuum və təzyiqdən istifadə etməklə    
+B) təkcə vakkumdan istifadə etməklə 
+C) sintetik qətran əsaslı lakdan istifadə etməklə 
+Ç) bitium qətran əsaslı lakdan istifadə etməklə 
+D) qliftal qətran əsaslı lakdan istifadə etməklə  
+ 
+2.7.Lifli izolyasiya materialları və qatlı plastiklər 
+ 
+2.60. Lifli izolyasiya materialları tərkibinə görə neçə qru-
+pa bölünür? 
+A) 3           
+B) 7            
+C) 4          
+Ç) 2           
+D) 9 
+2.61. Elektrotexniki kağız və kardonlar hansı materialdan 
+hazırlanılır? 
+A) adi ağacdan             
+B) pambıqdan           
+C) kətandan                               
+Ç) sulfat sellulozundan       
+D) ipəkdən 
+2.62. Kabel kağızları harada tətbiq olunur? 
+A) alçaq gərginlikli kabel və məftillərin izolyasiya 
+olunmasında 
+B) telefon kabellərində 
+C) elektrik maşınlarının dolaqlarında 
+Ç) yüksək gərginlikli kabellərdə  
+D) transformatorun dolaqlarında 
+23 
+ 
+2.63. Kardonlar kağızlardan əsas nə ilə fərqlənir? 
+A) elektrik möhkəmliyinin yüksək olmaları ilə 
+B) dielektrik itgisinin çox olması ilə 
+C) qalınlıqlarının çox olması ilə 
+Ç) dielektrik nüfuzluluğunun çox olması ilə 
+D) xüsusi həcmi müqavimətinin böyük olması ilə 
+2.64. Laklı izolyasiya parçalar adi parçalardan əsasən nə 
+ilə fərqlənirlər? 
+A) qalınlıqları ilə  
+B) elektrik və mexaniki möhkəmliklərinin yüksək olmaları 
+ilə 
+C) dielektrik itgilərinin çox olmaları ilə 
+Ç) dielektrik nüfuzluluğunun yüksək olması ilə 
+D) xüsusi səthi müqavimətinin aşağı olması ilə  
+2.65. Qatlı plastiklərdən olan qetinaks hansı materiallar-
+dan hazırlanır? 
+A) bitium lakı və hopdurulmuş parçadan     
+B) epoksid qətranı və kağızdan                    
+C) qliftal lakı və kağızdan  
+Ç) bakelit lakı və kağızdan  
+D) epoksid qətranı və şüşə parçadan 
+ 
+2.8.Polimerlər, plastik kütlələr və kauçuk materialları 
+ 
+2.66. Yüksək molekulyar materiallar neçə sinfə bölünür? 
+A) 5                  
+B) 2                  
+C) 7                
+Ç) 4                    
+D) 9 
+2.67. Polimerizasiya nəticəsində son mərhələdə cisim nə 
+vəziyyətdə olur? 
+A) qaz              
+B) maye           
+24 
+ 
+C) qatı             
+Ç) bərk              
+D) buxar 
+2.68. Termoplastik materiallar qızdırılarkən son mərhələdə 
+hansı vəziyyət alır? 
+A) bərk            
+B) yumşaq       
+C) maye          
+Ç) buxar            
+D) qaz 
+2.69. Termoreaktiv materiallar qızdırılarkən son mərhələ-
+də hansı vəziyyətdə olur? 
+A) ərimiş                  
+B) ərimə xüsusiyyətini itirməklə bərk                 
+C) bərk                
+Ç) qaz                          
+D) buxar 
+2.70. Hazırda termoplastik materiallar dünya elektrotexni-
+ka sənayesinin tələb etdiyi polimer materiallarının neçə faizini 
+təşkil edir? 
+A) 25               
+B) 50                
+C) 75                  
+Ç) 100                  
+D) 15 
+2.71. Plastik kütlələrin plastikliyini artırmaq və kövrəkliyi-
+ni azaltmaq üçün onun tərkibinə hansı material əlavə olunur? 
+A) qətran          
+B) benzol         
+C) spirt           
+Ç) tolnol              
+D) plastifikator. 
+2.72. Polivinilxlorid termoplastik polimeri əsasən hansı 
+elektrotexniki məmulatların hazırlanmasında tətbiq olunur? 
+25 
+ 
+A) dolaq məftillərinin                  
+B) işıqlanma armaturlarının        
+C) məftil və kabellərin           
+Ç) konstruktiv elementlərin                              
+D) maqnit materialların 
+2.73. Polivinilxlorid polimerinin işçi temperaturu nə qə-
+dərdir? 
+A) 75...80 
+o
+C        
+B) 120...130 
+o
+C     
+C) 55...60
+ o
+C    
+Ç) 150...160
+ o
+C      
+D) 200...2100
+ o
+C 
+2.74. Aqrar istehsalatında polivinilxrlorid materialı hansı 
+qurğunun dolaqlarının hazırlanmasında istifadə olunur? 
+A) kənd təsərrüfatı seriyalı asinxron mühərriklərinin  
+B) güc transformatorlarının  
+C) subartezian elektrik mühərriklərinin 
+Ç) gərginlik transformatorlarının  
+D) elektrik aparatlarının 
+2.75. Polivinilxlorid izolyasiyalı dolaq məftili hansı mühit-
+də etibarlı işləyə bilir? 
+A) duzlu          
+B) turşulu            
+C) qələvi             
+Ç) sulu             
+D) isti havada 
+2.76. Kauçuk materialı əmələ gəlmələrinə görə neçə qrupa 
+bölünür? 
+A) 3              
+B) 7                
+C) 5              
+Ç) 2            
+D) 9 
+2.77. Emal olunmamış kauçukun yumşalma temperturu nə 
+26 
+ 
+qədərdir? 
+A) 140 
+0
+C             
+B) 70 
+0
+C              
+C) 50 
+0
+C              
+Ç) 90 
+0
+C           
+ D) 180 
+0
+C 
+2.78. Kauçukun vulkanizasiyası zamanı onun tərkibinə 
+hansı maddəni əlavə edirlər? 
+A) plastifikator          
+ B) kükürd                 
+C) sellüloz            
+Ç) spirt           
+D) karbon         
+2.79. Yumşaq rezin adlandırılan kauçukun tərkibindəki kü-
+kürdün miqdarı nə qədər olur? 
+A) 35%         
+B) 20%          
+C) 3%          
+Ç) 10%             
+D) 25% 
+2.80. Bərk rezin (ebonit) adlanan kauçukun tərkibində kü-
+kürdün miqdarı nə qədər olur ? 
+A) 5%                
+B) 50%                
+C) 15%                   
+Ç) 25%                 
+D) 35% 
+ 
+2.9. Elektrokeramik və slüda materialları 
+ 
+2.81. Elektrokeramik materialların istehsal texnologiyası 
+neçə mərhələdən ibarətdir? 
+A) 2                
+B) 3                  
+27 
+ 
+C) 5           
+Ç) 7               
+D) 9 
+2.82. Keramik məmulatın hazırlanmasında onun bişirilmə 
+temperaturu nə qədər olur? 
+A) 710 
+o
+C        
+B) 1400 
+o
+C         
+C) 1700 
+o
+C         
+Ç) 2000 
+o
+C         
+D) 560 
+o
+C 
+2.83. Elektrofarforun elektrik möhkəmliyi nə qədər olur? 
+A) 25-30 kV/mm             
+B) 15-20 kV/mm              
+C) 10-15
+mm
+kV
+      
+Ç) 40-50
+mm
+kV
+             
+D) 30-35 kV/mm    
+2.84. Kondensator keramikası izolyator keramikasından 
+əsasən hansı xüsusiyyətinə görə fərqlənir? 
+A) xüsusi müqavimətinin çox böyük olmasına 
+B) elektrik möhkəmliyinin yüksək qiymətinə 
+C) dielektrik nüfuzluluğunun olduqca yüksək olmasına 
+Ç) dielektrik itkisinin az olmasına  
+D) işçi temperaturun az olmasına 
+2.85. Kondensator keramikasının dielektrik nüfuzluluğu nə 
+qədərdir? 
+A) 6-8         
+B) 10-12           
+C)500-600              
+Ç)14-250            
+D)2-4 
+2.86. Seqnetokeramika digər dielektriklərdən fərqli olaraq 
+yüksək temperaturda hansı qeyri-adi xüsusiyyətə malikdir? 
+28 
+ 
+A) elektrik möhkəmliyinin yüksək qiymətli olmasına  
+B) xüsusi həcmi müqavimətin böyük qiymətinə 
+C)  dielektrik nüfuzluluğunun böyük qiymətinə  
+Ç) dielektrik itkisinin aşağı qiymətinə 
+D) ərimə temperaturunun yüksək olmasına 
+2.87.Yüksək dielektrik nüfuzluluğuna malik olduğuna görə 
+seqnetokeramikadan hansı qurğunun istehsalında istifadə olu-
+nur? 
+A) yüksək gərginlikli izolyatorların  
+B) aşağı tezlikli izolyatorların 
+C)  yüksək qızmaya davamlı izolyatorların 
+Ç) izolyator keramikasının 
+D)  yüksək tutumlu kondensatorların 
+2.88. Elektrik izolyasiya texnikasında slüdanın neçə növü 
+tətbiq olunur? 
+A) 4                
+B) 7          
+C) 2             
+Ç) 9              
+D) 3 
+2.89. Muskovit hansı temperaturaya qədər öz xarakteris-
+tikalarını saxlayır? 
+A) 500 
+o
+C        
+ B) 100
+ o
+C         
+ C) 150
+ o
+C     
+ Ç) 200
+ o
+C      
+ D) 250
+ o
+C 
+2.90.Flaqopit hansı temperaturaya qədər öz xarakteristika-
+larını saxlayır? 
+A) 200 
+o
+C            
+B) 250
+ o
+C              
+C) 300
+ o
+C             
+Ç) 900 
+o
+C          
+D) 350
+ o
+C 
+29 
+ 
+2.91. Tətbiq olunan slüda materiallarının ərimə temperatu-
+ru nə qədərdir? 
+A) 500-600 
+o
+C       
+B) 800-900
+ o
+C      
+C) 400-500
+ o
+C      
+Ç) 1200-1300
+ o
+C     
+D) 650-700
+ o
+C 
+ 
+ 
+ 
+30 
+ 
+Fəsil 3 
+ELEKTRİK KEÇİRİCİ VƏ YARIMKEÇİRİCİ 
+MATERİALLAR 
+Üçüncü fəslin məzmununa elektrotexnikada tətbiqi geniş 
+şərh olunmaqla elektrik keçirici materialların təsnifatı və əsas 
+xassələri, yüksək və ifrat keçiricilikli materiallar və keçirici 
+məmulatlar haqqında məlumatlar daxildir. Bu fəsilə həmçinin 
+yüksək müqavimətli keçirici materiallar, onların təsnifatı və 
+elektrotexnikada tətbiqi məsələləri də daxil edilmişdir. Burada 
+keçirici materialların tətbiqində istifadə olunan lehimlər, flüs-
+lər, yapışqanlar, elektrotexniki kömür materialları və elektrolit-
+lər haqqında məlumatlar da öz əksini tapmışdır. 
+Bu fəsildə həm də müasir şəraitdə informasiya texnologi-
+yaları və sistemlərində və habelə elektrotexnikanın bir sıra sa-
+hələrində geniş tətbiq olunan yarımkeçirici materialların öyrə-
+nilməsi də nəzərdə tutulur. 
+Baxılan üçüncü fəsilin məsələləri fənnə aid olan dərs və-
+saitinin üçüncü fəsilində və fənn üzrə nəzərdə tutulan digər 
+ədəbiyyatların müvafiq bölmələrindəki materiallara uyğundur 
+[1, 3, 5, 16, 17]. 
+ 
+3.1.Keçiricilərdə xüsusi müqavimət hansı  ifadə ilə təyin 
+olunur? 
+A)  
+l
+Rv
+S
+                     
+B)  
+l
+d
+Rs                     
+C)  
+l
+S
+R            
+                        
+Ç)  
+21
+21
+RR
+RR
+
+
+               
+31 
+ 
+D)  
+I
+U
+ 
+3.2.Misin xüsusi müqavimətinin temperaturdan asılılıq 
+qrafikində sıçrayış hissəsi nəyi göstərir? 
+A) uzun müddət işləmə temperaturunu       
+B) ərimə temperaturunu  
+C) ətraf mühit temperaturunun kəskin azalması 
+Ç) dövrədə qısa qapanmanı 
+D) məftilin xüsusi müqavimətinin artmasını 
+3.3. Göstərilən ifadələrdən hansı keçiricinin xüsusi müqa-
+vimətinin temperaturdan asılılıq ifadəsidir? 
+A)  
+l
+S
+R       
+B)  
+
+1
+        
+C)  
+l
+q
+R         
+Ç)   )(1 121 TT         
+D)  
+dt
+d
+
+1
+ 
+3.4. Termocütlərdə termoelektrik hərəkət qüvvəsi hansı ifa-
+də ilə təyin olunur? 
+A)  IR       
+B)   )( pzi iiR         
+C)   
+ctg
+Pa
+     
+Ç)   
+c
+I c
+
+      
+D)  )( 21 TTC       
+3.5.Aşağıdakı qiymətlərdən hansı misin xüsusi müqaviməti-
+dir? 
+32 
+ 
+A) 0,028          
+B)  0,059       
+C)  0,0170           
+Ç)  0,016             
+D) 0,073 
+3.6. Misin  göstərilən markalarından hansının tərkibində 
+ən az qarışıq vardır? 
+A) M1        
+B) MO         
+C) MM      
+Ç) MT      
+D) AB00 
+3.7. Misin sinklə olan ərintisi hansıdır? 
+A) bürünc     
+B)  aldrey     
+C)  tunc     
+Ç)  kadmiy tuncu    
+D)  forfor tuncu 
+3.8. Göstərilən qiymətlərdən alüminiumun xüsusi müqavi-
+məti hansıdır? 
+A) 0,073       
+B) 0,059      
+C) 0,028      
+Ç) 0,017           
+D) 0,016 
+3.9. Civə hansı temperaturda ifrat keçiriciliyə  malik olur? 
+A)1,2 K        
+B) 9,4 K          
+C) 4,5 K         
+Ç)  4,2 K           
+D) 7,2 K 
+3.10. Metallarda ilk dəfə ifrat keçiriciliyi hansı alim müşa-
+hidə etmişdir? 
+A) Petrov V.V.        
+33 
+ 
+B) Lodigin A.N.       
+C) Yabloçkov P.N.                                
+Ç)  Şillinq P.A.                 
+D)  Kamerlinq-Onnes 
+3.11. Göstərilən dolaq məftili markalarından hansı ikiqat 
+ipək izolyasiyalıdır? 
+A) ПБО            
+B) ПБД               
+C) ПЩД              
+Ç) ПКД             
+D)  ПЛД 
+3.12.Göstərilən dolaq məftili markalarından hansı ikiqat 
+şüşə izolyasiyalıdır? 
+A) ПСДТ          
+B) ПСДК        
+C) ПСДЕ         
+Ç) ПСД            
+D) ПСДНТ 
+3.13. Aşağıdakı dolaq məftillərindən hansı subartezian qu-
+yularının elektrik mühərrklərində tətbiq olunur? 
+A) ПЭВ-1     
+B) ПЭЛР-2     
+C) ПЭВТЛ-2         
+Ç)  ПЭВВП           
+D)  ПЭМ-2 
+3.14. Yüksək müqavimətli manqanın materialının tərkibin-
+də ən çox hansı keçrici material istifadə olunur? 
+A) alüminium        
+B) gümüş      
+C) mis        
+Ç) sink           
+D) civə 
+3.15. Konstantan ərintisinin işçi temperaturu nə qədərdir? 
+A) 120
+ o
+C        
+34 
+ 
+B) 500
+ o
+C         
+C) 200
+ o
+C        
+Ç)  220
+ o
+C       
+D) 310
+ o
+C 
+3.16. Manqanın ərintisinin işçi temperaturu nə qədərdir? 
+A) 55
+ o
+C        
+B) 95
+ o
+C         
+C) 135
+ o
+C            
+Ç) 200
+ o
+C        
+D) 100
+ o
+C 
+3.17. Manqanın üçün xüsusi müqavimətin qiyməti nə qə-
+dərdir?  
+A) 0,22 MkOm ∙ m              
+B) 0,12 MkOm ∙ m   
+C) 0,48 MkOm ∙ m                
+Ç) 0,30 MkOm ∙ m                
+D) 0,35 MkOm ∙ m 
+3.18. Nixrom ərintisinin işçi temperaturu nə qədərdir? 
+A) 450 
+o
+C         
+B) 1000 
+o
+C       
+C) 375
+ o
+C        
+Ç)  750
+ o
+C       
+D) 610
+ o
+C 
+3.19. Yumşaq lehimin ərimə temperaturu nə qədərdir? 
+A) 175
+ o
+C           
+B) 150
+ o
+C          
+C) 400
+ o
+C         
+Ç)  210
+ o
+C       
+D) 285
+ o
+C 
+3.20. Bərk lehimin ərimə temperaturu nə qədərdir? 
+A) 500
+ o
+C           
+B) 225
+ o
+C          
+C) 300
+ o
+C         
+Ç) 380
+ o
+C        
+35 
+ 
+D) 430
+ o
+C 
+3.21. Yumşaq lehimin markası hansıdır? 
+A) ПМЦ-36          
+B) ПОС-90         
+C) ПМЦ-54         
+Ç)  СРМ-970          
+D) СРМ-500 
+3.22 Göstərilən qiymətlərdən hansı yarımkeçirici material-
+ların xüsusi müqavimətidir? 
+A)10
+18
+ ...10
+20
+ Om sm         
+B) 10
+-6
+ ...10
+10
+ Om sm        
+C)10
+8
+ ...10
+10
+ Om sm    
+Ç)10
+-2
+ ...10
+-5
+ Om sm           
+D) 10
+-3
+ ...10
+-7
+ Om sm 
+3.23. Böyük temperatur intervalında yarımkeçiricinin  xü-
+susi müqaviməti necə dəyişir? 
+A) artır      
+B) dəyişmir  
+C) azalır    
+Ç) sıfra yaxınlaşır     
+D) sonsuzluğa yaxınlaşır   
+3.24. Yarımkeçiricilərdə qalonomaqnit effektləri hansı pa-
+rametrlərin təsiri ilə baş verir? 
+A) mexaniki təsirlərin              
+B) ətraf mühitin nəmliyinin və temperaturunun    
+C)   elektrik və maqnit sahələrinin       
+Ç) günəş şüalanmalarının       
+D) güclü küləyin 
+3.25. Yarımkeçiricilərdə elektrik keçiriciliyinin tipini təyin 
+etmək üçün hansı üsuldan  istifadə olunur? 
+A) hər iki ucu qızdırılır               
+B) elektrik sahəısi ilə təsir olunur;    
+C) maqnit sahəsi ilə təsir olunur           
+Ç) bir ucu deformasiya olunur   
+36 
+ 
+D) uclarından biri qızdırılır 
+3.26. Yarımkeçirici termorezistorlarda müqavimətin tem-
+peraturdan asılılığı necə dəyişir? 
+A) kəskin artır                
+B) az artır                   
+C) dəyişmir     
+Ç) düz xətlə dəyişir               
+D) qeyri-xətti dəyişir. 
+3.27.Termorezistorda müqavimətin temperatur əmsalı 
+(TKC) hansı ifadə ilə təyin olunur? 
+A)   
+ 
+ 
+ 
+  
+  
+          
+B)   
+ 
+ 
+ 
+  
+  
+         
+C)  
+ 
+ 
+ 
+  
+  
+             
+Ç)  
+ 
+ 
+ 
+  
+  
+            
+D)  
+  
+ 
+ 
+     
+     
+ 
+3.28.Pozistor hansı yarımkeçiricidən hazırlanılır? 
+A) Germanium        
+B) keramik    
+C) selen      
+Ç) sulfid kadmiy      
+D) sulfid vismut 
+ 
+3.29. Yarımkeçiricinin termohəssaslığı hansı ifadə ilə təyin 
+olunur? 
+A)  
+    
+    
+         
+B)    
+  
+ 
+        
+C)     
+ 
+   
+       
+37 
+ 
+Ç)  
+    
+    
+         
+D)           
+3.30. Yarımkeçirici ФСК-1A tipli fotorezistorun işıqlıq  cə-
+rəyanı neçə mKA olmalıdır? 
+A) 2000         
+B) 1000         
+C) 3000         
+Ç) 600        
+D) 1500 
+ 
+3.31. CT5-1 tipli yarımkeçirici pozistorun nominal  müqa-
+vimət sərhəddi nə qədər olmalıdır? 
+A) 40-400 kOm                
+B) 20-150 kOm          
+C) 1000-10000 kOm 
+Ç) 50-200 kOm           
+D) 500-2000 kOm 
+ 
+ 
+38 
+ 
+Fəsil 4 
+ 
+MAQNİT MATERİALLARI 
+ 
+Bu fəsilin məzmununa daxil olan məsələlərə maqnit mate-
+riallarının təsnifatı, onların ən vacib xarakteristikaları, metalla-
+rın maqnit xüsusiyyətləri, maqnitostriksiya prosesi, histerezis 
+itkisinin öyrənilməsi aid olmaqla yumşaq  və bərk maqnit ma-
+teriallarının əsas xassələri və elektrotexnikada tətbiqi məsələlə-
+rinə geniş yer verilib. Bu fəsildə metal-keramik, metal-plastik 
+və informasiyaların maqnit daşıyıcıları kimi bərk maqnit mate-
+rialları haqqında da geniş məlumatlar vardır. 
+Bu fəsilə aid olan məsələlər baxılan fənn üzrə mövcud dərs 
+vəsaitinin dördüncü fəsilində və bu sahədəki ədəbiyyatların 
+müvafiq bölmələrində də ətraflı verilir[2, 10, 15, 17, 21]. 
+4.1.Göstərilən ifadələrdən hansı maqnit nüfuzluluğunun 
+temperatur əmsalıdır? 
+A)  
+H
+B
+             
+B)   0           
+C)  
+H
+B
+
+0
+1
+
+              
+Ç)  
+dt
+d
+
+
+1
+           
+D)  22 MBfE       
+4.2. Tərkibinə və alınma üsuluna görə bərk maqnit mate-
+riallarının neçə növü vardır? 
+A) 4              
+B) 7             
+C) 5          
+Ç) 3          
+D) 2 
+4.3. Yumşaq maqnit materiallarında burulğan cərəyanlar-
+39 
+ 
+dan olan itkiləri azaltmaq üçün əsasən hansı tədbir görülür? 
+A) vərəqələrin qalınlığı azaldılır 
+B) vərəqələrin qalınlığı artırılır 
+C) vərəqələr bir-birindən izolyasiya olunur 
+Ç) poladın tərkibindəki silisium artırılır 
+D) poladın tərkibindəki silisium azaldılır 
+4.4. Yumşaq maqnit materialı kimi hansı material ən geniş 
+tətbiq olunur? 
+A) diamaqnitlər           
+B) paramaqnitlər     
+C) xüsusi təmiz dəmir                 
+Ç) vərəqə şəkilli elektrotexniki polad          
+D) dəmir-nikel ərintisi 
+4.5. Poladın tərkibində silisiumun miqdarı normadan  çox 
+olduqda onun hansı xüsusiyyəti dəyişir? 
+A) maqnit nüfuzluluğu artır       
+B) sahə gərginliyi artır              
+C) histerezis itkiləri artır      
+Ç)  mexaniki xüsusiyyəti kifayət qədər yaxşı olur           
+D) kövrəkliyi azalır 
+4.6. Elektrotexniki poladın markalanmasında birinci rəqəm 
+nəyi göstərir? 
+A) silisiumun miqdarını             
+ B) maqnit nüfuzluluğunu         
+ C) sahə gərginliyini          
+ Ç) histerezis itkisini              
+ D) kövrəkliyi 
+ 4.7. Elektrotexniki poladın markalanmasında ikinci rəqəm 
+nəyi göstərir? 
+A) maqnit nüfuzluluğunu     
+B) sahə gərginliyini        
+C) elektrik və maqnit xüsusiyyətini                            
+Ç) silisiumun miqdarını                 
+D) histerezis itgisini 
+40 
+ 
+4.8. Ferromaqnitlərin maqnitlənməsi zamanı maqnitostrik-
+siya hadisəsi nədir?  
+A) maqnit nüfuzluluğunun artması 
+B) sahə gərginliyinin dəyişməsi 
+C) maqnit enerjisinin dəyişməsini  
+Ç) ferromaqnit materiallarının xətti ölçülərinin dəyişməsi 
+D) elektrik xüsusiyyətinin dəyişməsi 
+4.9. Histerezis itkisi hansı ifadə ilə təyin olunur?  
+A)  VBfE maks
+22                 
+B)  VBf nmaks                  
+C)  )( ВТГ РРР         
+Ç)   М0                      
+D)  0  
+4.10. Alsifer poladı hansı xüsusiyyəti ilə  fərqlənir? 
+ A) yüksək bərkliyi         
+ B) böyük kövrəkliyi           
+ C) aşağı xüsusi müqaviməti      
+ Ç)  yüksək maqnit nüfuzluluğu               
+ D) aşağı maqnit xüsusiyyəti 
+4.11. Transformator,  polad vərəqəsinin izolyasiyasının 
+elektrik möhkəmliyi nə qədər olmalıdır? 
+ A) 500V           
+ B) 150V            
+ C) 15V       
+ Ç) 220V        
+ D) 400V 
+4.12. Transformatorun maqnit nüvəsinin müqaviməti nə 
+qədər olmalıdır? 
+A) 0,5MOm       
+B) 0,0170
+m
+mmOm 2
+     
+C) 50Om       
+41 
+ 
+Ç)  0,025
+m
+mmOm 2
+   
+ D) 150Om 
+4.13. Transformatorun poladının uzun müddətli qızma tem-
+peraturu nə qədər olmalıdır? 
+A) 90
+0
+C             
+B) 40
+0
+C             
+C) 45
+0
+C              
+Ç) 105
+0
+C          
+D) 60
+0
+C 
+4.14. Hava aralığındakı maqnit enerjisi hansı ifadə ilə tə-
+yin olunur? 
+ A)  VBfE m 
+22                 
+ B)  H0                  
+ C)  )( ВТГ РPP        
+ Ç)  
+2
+ee HB                    
+D) 22 BmEf 
+ 
+4.15. Sabit maqnitlərdə maqnitin köhnəlməsi hansı proses-
+lə əlaqədardır? 
+A) maqnit selinin azalması          
+B) vibrasiya         
+C) zərbə  
+Ç)  temperaturun kəskin dəyişməsi       
+D) bərk maqnitdə struktur dəyişikliyi 
+ 4.16. Sabit maqnitin  hazırlanması üçün ən sadə və əlve-
+rişli material hansıdır? 
+A) tökmə bərk maqnit ərintiləri                         
+B) aşqarlanmış və bərkidilmiş maqnit     
+C) bərk maqnit ərintiləri     
+Ç)  metal keramik materiallar      
+D) metal plastik materiallar 
+42 
+ 
+4.17. Metal keramik və metal plastik maqnitlər hazırlanma-
+sında ilkin xammal kimi hansı material istifadə olunur? 
+A) maqnit tozu         
+B) kobalt          
+C) silisium             
+Ç) titan             
+D) volfram 
+4.18. Nikel-sink ferritinin maqnit nüfuzluluğu əmsalı nə qə-
+dərdir? 
+A) 100-200          
+B) 800-3000           
+C) 80-300          
+Ç)  500-700         
+D) 400-650 
+4.19. İnformasiyaların maqnit daşıyıcıları üçün hansı ma-
+terialdan istifadə olunur? 
+A) bərk maqnit poladı      
+B) oksid maqnitləri          
+C) metal keramik maqnitlər    
+Ç)  metal plastik maqnitlər                    
+D) tökmə bərk maqnit ərintiləri 
+ 
+ 
+43 
+ 
+Fəsil 5 
+ 
+KONSERVASİYAEDİCİ VƏ KONSTRUKTİV 
+MATERİALLAR 
+ 
+Bu fəsilin tərkibinə  konservasiyaedici və mühafizə mate-
+rialları, metalların korroziyası və antikorroziya materialları, in-
+qibitorlar və onların avadanlıqların korroziyadan mühafizəsin-
+də tətbiqi, metalların təsnifatı və konstruktiv materiallar haq-
+qında məlumatların öyrənilməsi daxildir. Burada metalların 
+korroziyadan mühafizə üsullarının mənimsənilməsinə ən çox 
+diqqət yetirilmişdir. 
+Bu fəsildə baxılan məsələlər fənnə aid olan əsas dərs və-
+saitinin beşinci və altıncı fəsillərində və habelə bu dərs vəsaiti-
+nə əlavə olunan ədəbiyyatların müvafiq bölmələrində də verilir 
+[23, 24, 25]. 
+5.1. Korroziyadan təmizlənən metal borunun (texniki qur-
+ğunun) üzərinə hansı materialdan örtük çəkilir? 
+A) emal        
+B) bitum lakı       
+C) yapışqan lakı       
+Ç)  yağlı lak          
+D) termoreaktiv lak 
+5.2. Texniki qurğu konservasiya üçün bitum lakında nə qə-
+dər saxlanılır? 
+A 1-2 saniyə          
+B) 10 saniyə          
+C) 3-4 saniyə       
+Ç) 2-8 saniyə       
+D) 15 saniyə 
+5.3. Materialların korroziyadan qorunması üçün ən mütə-
+rəqqi və qənaətli üsul hansıdır? 
+A) emaldan istifadə etmək    
+B) lakdan istifadə etmək    
+44 
+ 
+C) inqibitorlardan istifadə etmək        
+Ç) örtük lakından istifadə etmək        
+D) yapışqan lakından istifadə etmək 
+5.4. Metal konstruksiyaların korroziyadan mühafizəsində 
+hər kvadrat metrə neçə qram uçucu inqibitor sərf olunur? 
+A) 1-2           
+B) 3-7        
+C) 5-20       
+Ç) 4-15        
+D) 5-16 
+5.5. İnşaat qurğuları və maşınların atmosfer korroziyasın-
+dan qorunması üçün hansı örtüklərdən istifadə olunur? 
+A) lak-boya          
+B) inqibitor             
+C) emal        
+Ç) epoksid           
+D) plastik 
+5.6. Metal səthinin termiki üsulla təmizlənməsinin ən səmə-
+rəli üsulu hansıdır? 
+A) qaz qaynağı alovundan istifadə etmək 
+B) ГAO-55 tipli qaz alovu lampasından istifadə etmək  
+C) mexaniki üsuldan istifadə etmək 
+Ç)  yüksək tezlikli induksion qızdırıcıdan istifadə etmək 
+D) yanacaqdan istifadə etməklə adi qayda ilə yandırmaqla 
+5.7. Metal səthinin təmizlənməsində tətbiq olunan yüksək 
+tezlikli qurğunun tezliyi nə qədər olur? 
+A) 50 Hs            
+B) 60 Hs             
+C)  250 Hs          
+Ç)  1000 Hs         
+D) 500 Hs 
+5.8. Yüksək tezlikli induksion üsulla metal səth təmizləndik-
+də qızma temperaturu nə qədər olur? 
+A) 40
+0
+C          
+45 
+ 
+B) 177
+0
+C             
+C) 95
+0
+C             
+Ç) 105
+0
+C            
+D) 130
+0
+C 
+ 
+ 
+46 
+ 
+Глава 1 
+СТРОЕНИЕ ВЕЩЕСТВ И КЛАССИФИКАЦИЯ  
+ЭЛЕКТРОТЕХНИЧЕСКИХ МАТЕРИАЛОВ 
+К вопросам, содержащимся в настоящей главе  от-
+носятся: роль электротехнических материалов в развитии 
+электротехники и их классификация, структура веществ и 
+виды связи  между частицами. Здесь проверяется исполь-
+зование электротехнических материалов и понимание  
+роли надежной работы электрооборудования в процессе их 
+эксплуатации. 
+Значительное внимание уделяется классификации 
+электротехнических материалов, их структуре и видам свя-
+зи между частицами. 
+Вопросы настоящей главы соответствуют материалу, 
+изложенному в первой главе учебного пособия, разрабо-
+танного кафедрой (автор проф. О.Г.Мамедов) по данной 
+дисциплине, а так же в соответствующих главах других ли-
+тератур [1, 11, 13, 15, 19, 20, 21]. 
+1.1. Каким ученым впервые были использованы элек-
+тротехнические материалы для создания источника элек-
+трической энергии? 
+А) Лодыгин А.Н.;  
+Б)Яблочков П.Н.;  
+В) Петров В.В.; 
+Г) Шиллинг П.А.; 
+Д) Д.Добровольский М.О. 
+1.2. На сохранение в исправном состоянии в основном 
+какой конструкционной части электрооборудования нап-
+равлены все организационно-технические  мероприятия в 
+процессе эксплуатации? 
+А) консервирующей;  
+Б) строительной;  
+В) электроизоляционной; 
+Г) полупроводниковой;  
+47 
+ 
+         Д) металлической конструкции. 
+1.3. От качества каких материалов в основном зави-
+сит надежность электрооборудования? 
+А) электротехнических;  
+Б) консервационных;  
+В) защищающих от коррозии;  
+Г) защищающих от химической среды;  
+Д) металлических конструкций. 
+1.4. На сколько групп подразделяются электротехни-
+ческие материалы по агрегатному состоянию? 
+А) 2 ;     
+Б) 6 ;    
+В) 5;      
+Г) 3;       
+Д) 4 
+1.5. На сколько групп подразделяются электротехни-
+ческие материалы по проводимости? 
+А) 7 ;    
+Б) 2 ;    
+В) 4;      
+Г) 9;     
+Д) 3 
+1.6. Какие из указанных материалов наиболее исполь-
+зуются по  проводимости? 
+А) сталь и алюминий;     
+Б) медь и алюминий;  
+В) золото и серебро; 
+Г) бронза и латунь;         
+Д) цинк и железо 
+1.7. Какое из этих чисел является удельной проводи-
+мостью меди? 
+А) 58;      
+Б) 36 ;     
+В) 62 ;      
+48 
+ 
+Г) 10;       
+Д) 17 
+1.8. На сколько групп подразделяются электротехни-
+ческие материалы по назначению? 
+А) 3;        
+Б) 7;        
+В) 2;        
+Г) 4;        
+Д) 5 
+1.9. Согласно зонной теории твердых тел на сколько 
+зон делится энергетическая диаграмма? 
+А) 2;       
+Б) 9;         
+В) 3;         
+Г) 5;        
+Д) 4 
+1.10. Как называется самый слабый материал по маг-
+нитному свойству? 
+А) ферромагнит;     
+Б) диамагнит;        
+В) парамагнит; 
+Г) магнито-мягкий;       
+Д) магнито-твердый 
+1.11. Сколько видов связи имеются между частицами 
+вещества? 
+А) 1;       
+Б) 3 ;          
+В) 2;           
+Г) 4;           
+Д) 7 
+ 
+ 
+ 
+49 
+ 
+Глава 2 
+ЭЛЕКТРОИЗОЛЯЦИОННЫЕ МАТЕРИАЛЫ 
+2.1. Электрофизические процессы, происходящие  
+в диэлектриках 
+Настоящая глава содержит вопросы, связанные с элек-
+трофизическими  процессами, происходящими в диэлек-
+триках, а также диэлектрическими, тепловыми, физико-
+химическими и механическими характеристиками электро-
+изоляционных материалов. Сюда относится и изучение 
+жидких, газообразных и твердых диэлектриков. 
+В этой главе особое внимание уделяется изучению 
+твердых диэлектриков, которые играют основную роль в 
+повышении надежности работы электрооборудования. 
+В содержание данной главы также входит изучение та-
+ких материалов, как полимеры, пластические массы, кау-
+чук, слюда и электрокерамические твердые материалы. 
+Вопросы настоящей главы соответствуют материалу 
+изложенному в главе 2 учебного пособия, а также соответ-
+ствующих  разделах других литератур [2, 4, 6, 7, 9, 12, 14, 
+18, 22]. 
+2.1. Средой чего являются все диэлектрики в рабочем 
+режиме? 
+А) тепловой средой;       
+Б) электрического поля;   
+В) влажнoй воздушной средой;   
+Г) магнитного поля;       
+Д) электрических зарядов 
+2.2. Какой ток наблюдается в идеальном электричес-
+ком поле? 
+А) активный ток;    
+Б) дополнительный ток;      
+В) полный ток; 
+Г) ток к.з.;                 
+Д)емкостной ток. 
+50 
+ 
+2.3. Какой ток наблюдается в реальном электричес-
+ком поле? 
+А) ток холостого хода;     
+Б) ток короткого замыкания;   
+В) активный  ток;  
+Г) полный ток;         
+Д) ток абсорбции 
+2.4. Каким выражением определяется емкостной ток? 
+А)UG ;  
+Б) sv II  ;     
+В) .... сэоэ II  ;    
+Г) CU ;   
+Д) 
+22
+ca II   
+ 
+ 
+2.5. Что происходит в результате поляризации ди-
+электриков? 
+А) только положительные частицы смещаются по нап-
+равлению поля; 
+Б) только отрицательные частицы смещаются против 
+направления поля; 
+В) положительные частицы смещаются по направле-
+нию, а отрицательные против направления поля.;  
+Г) частицы не смещаются; 
+Д) частицы смещаются периодически 
+2.6. Чем характеризуется электронная поляризация? 
+А) смещаются только электроны;  
+Б) смещаются электроны и протоны; 
+В) смещаются только протоны;   
+Г) не происходит смещение электронов и протонов;  
+Д) смешение электронов и протонов не зависит от  
+внешнего поля 
+2.7. Сколько видов поляризации широко используются? 
+51 
+ 
+А) 2;     
+Б) 4;       
+В) 3;       
+Г) 1;           
+Д) 5 
+2.8. Какой особенностью обладают сегнетоэлектри-
+ки? 
+А) высокой электрической прочностью;  
+Б) большим значением сопротивления изоляции;  
+В) низкой  диэлектрической потерей; 
+Г) высокой диэлектрической проницаемостью;  
+Д) низкой теплопроводностью 
+2.9. Характер зависимости смешения частиц в сегне-
+тоэлектриках от напряженности электрического поля? 
+А) обратно пропорционально;   
+Б) прямо пропорционально;  
+В) не  зависит;  
+Г) нелинейная зависимость;      
+Д) переменный 
+2.10. Как зависит ионная поляризация от температу-
+ры? 
+А) усиливается с повышением температуры;  
+Б) обратно пропорционально;   
+В) нелинейная зависимость;  
+Г) не зависит;  
+Д) резко переменный 
+ 
+2.2.Диэлектрические характеристики 
+электроизоляционных  
+материалов 
+2.11. На сколько групп подразделяются  характерис-
+тики диэлектриков? 
+А) 2;      
+Б) 9;      
+52 
+ 
+В) 4;      
+Г) 3;      
+Д) 5 
+2.12. На сколько групп подразделяются диэлектричес-
+кие характеристики электроизоляционных материалов? 
+А) 4;     
+Б) 2;      
+В) 7;       
+Г) 5;       
+Д) 3 
+2.13. Каким методом определяется удельное сопро-
+тивление изоляции диэлектриков? 
+А) мостом постоянного тока;    
+Б) методом 3-х электродов; 
+В) мостом переменного тока;    
+Г) при помощи тестера;   
+Д) мегомметром 
+2.14. Какое из этих обозначений является единицей из-
+мерения удельного  объемного сопротивления? 
+А) Ом ;       
+Б) М Ом ;       
+В) КОм ;       
+Г) Ом см ;     
+Д) 
+м
+ммOм 2
+ 
+2.15.Каким выражением проверяется допустимое зна-
+чение сопротивления  изоляции электроустановок? 
+А)
+vI
+U
+;       
+Б) 
+sI
+U
+;     
+53 
+ 
+В) 
+H
+n
+P
+U
+01,01000 
+;         
+Г) 
+S
+
+ ;           
+Д) 
+21
+21
+RR
+RR
+
+
+ 
+2.16. Каким выражением определяется электрическая 
+прочность плоских электродов? 
+А)
+h
+Uпр
+;     
+Б) 
+h
+U пр
+  ;   
+В) 
+d
+D
+nd
+U пр
+
+2
+;  
+Г) hPA  ;       
+Д) RI   
+2.17. Какое из этих обозначений является единицей  
+измерения электрической прочности? 
+А) 
+м
+kV
+;    
+Б) МОм;    
+В) кV ;    
+Г) 
+Oм
+1
+;     
+Д) Ом 
+2.18. Каким прибором можно измерить электричес-
+кую прочность изоляционных материалов? 
+А) мегомметром;     
+Б) вольтметром ;     
+В) аппаратом АИИ- 70; 
+54 
+ 
+Г) мостом постоянного тока;               
+Д) ваттметром 
+2.19. Каким выражением определяется диэлектричес-
+кие потери в изоляционных материалах? 
+А)
+c
+a
+I
+I
+;          
+Б) tgIc  ;          
+В) 
+R
+U 2
+;  
+Г)  tgCU 2 ;            
+Д) IU   
+2.20. Каким выражением определяется диэлектричес-
+кая проницаемость? 
+А) CU ;   
+Б) 
+o
+x
+Q
+Q
+;    
+В) 
+o
+x
+C
+C
+;    
+Г)  o ;   
+Д)   j  
+2.21. Каким выражением определяется диэлектричес-
+кая проницаемость конденсатора с плоскими пластинка-
+ми? 
+А) 
+o
+x
+C
+C
+ ;              
+Б) 
+o
+x
+Q
+Q
+;               
+В)  o ;  
+55 
+ 
+Г) 
+S
+hC
+o
+x
+
+
+
+;            
+Д) 
+3
+4
+R
+R
+Co
+ 
+2.22. Каким устройством определяется относитель-
+ная диэлектрическая проницаемость? 
+А) АИИ-70;      
+Б) Р333 ;  
+В) МД – 16;   
+Г) ваттметр;    
+Д) мегомметр 
+ 
+2.3.Тепловые характеристики 
+электроизоляционных материалов 
+ 
+2.23. Согласно новым стандартам межгосударствен-
+ного Совета на сколько классов подразделяются все изол-
+яционные материалы по нагревостойкости?  
+А) 2;      
+Б) 9;           
+В) 4         
+Г) 3 ;              
+Д) 5 
+2.24. Каким устройством проверяется теплостой-
+кость диэлектриков? 
+А) калориметром;   
+Б) термометром;   
+В) термостатом;    
+Г) термокамерой; 
+Д) аппаратом Мартенса 
+2.25. Какое положение указателя  температуры по 
+термометру принимают за теплостойкость по  аппара-
+ту Мартенса? 
+56 
+ 
+А) когда указатель опускается по шкале  на 12 мм; 
+Б) когда указатель опускается по шкале  на 10 мм; 
+В) когда указатель опускается по шкале  на 7 мм; 
+Г) когда указатель опускается по шкале на  6 мм; 
+Д) когда указатель опускается по шкале  на 2 мм 
+2.26. Какой формулой выражается закон Аррениуса?  
+А)  tgcu 2  ;    
+Б) tgI c   ;    
+В)
+S
+hC
+o
+x
+
+
+
+;   
+Г) hPA  ;         
+Д) 
+T
+B
+A   
+2.27. Согласно правиле Монтзингера во сколько раз 
+уменьшается срок службы изоляции при повышении ее 
+температуры на 10°С? 
+А) 3;     
+Б) 2;    
+В) 5;     
+Г) 4;     
+Д) 7 
+2.28. Какое из этих обозначений является единицей из-
+мерения удельной теплопроводности диэлектриков? 
+А)
+м
+kV
+;      
+Б) МОм;      
+В) Ом.м ;    
+Г) 
+kм
+tk
+
+;     
+Д) 
+q
+kOHмq 
+ 
+57 
+ 
+2.29. Каким способом определяется температура раз-
+мягчения  материала? 
+А) трех электродов;     
+Б) «Кольцо и шар»;    
+В) термометром; 
+Г) аппаратом Мартенса;       
+Д) вискозиметром 
+2.30. Чему равняется температура вспышки транс-
+форматорного масла? 
+А) 135°С;    
+Б) 40°С;       
+В) -45°С ;    
+Г) 95°С ;      
+Д) 20°С 
+ 
+2.4.Физико-химические и механические 
+характеристики электроизоляционных материалов 
+ 
+2.31. Каким выражением определяется кислотность 
+жидких диэлектриков? 
+А) %100
+m
+m
+ ;     
+Б) 1001 
+
+G
+GG
+;     
+В) 
+
+ 1  
+Г) 
+G
+TV 
+ ;          
+Д) 
+oS
+P  
+2.32. Какое из этих обозначений является единицей 
+кислотности жидких  диэлектриков? 
+58 
+ 
+А) 
+q
+KOHmq 
+ ;       
+Б) Ст;       
+В) пуаз ;       
+Г) 
+в
+ж
+t
+t
+ ;        
+Д) °Э 
+2.33. Каким выражением определяется динамическая 
+вязкость жидких диэлектриков? 
+А)
+d
+
+ ;      
+Б) 
+Vr
+f
+6
+ ;      
+В) 
+в
+ж
+t
+t
+;   
+Г) 
+G
+TV 
+;  
+Д) 
+o
+c
+S
+P
+ 
+2.34. Как называется прибор, измеряющий вязкость 
+жидких диэлектриков? 
+А) термостат;     
+Б) калориметр;   
+В) Аппарт Мартенса;   
+Г) вискозиметр;    
+Д) гигрометр 
+2.35. Чему равняется величина вязкости в °Э транс-
+форматорного масла при нормальной  температуре? 
+А) 1,6 – 1,8°Э;    
+Б) 4 – 5°Э;   
+В) 7 – 8°Э;   
+Г) 15 – 17°Э ;   
+59 
+ 
+Д) 0,5 – 0,6°Э             
+2.36. Каким выражением определяется удельная удар-
+ная вязкость? 
+А) 
+2)(
+5,1
+bh
+LP 
+ ;   
+Б) 
+o
+c
+S
+P
+ ;     
+В) 
+o
+y
+S
+P
+;   
+Г) 
+
+
+ ;           
+Д) 
+F
+hHG )( 
+ 
+2.37. Каким выражением определяется кинематичес-
+кая вязкость жидких диэлектриков? 
+А) %1001 
+
+
+
+ ;    
+Б) 
+G
+TV 
+;         
+В) 
+a
+
+;   
+Г) 
+ r
+f
+6
+;               
+Д) 
+m
+m 100
+ 
+2.38. Какое из этих обозначений является единицей 
+измерения динамической вязкости? 
+А) Пуаз;    
+Б) °Э;      
+В) См ;      
+Г) г/м
+3
+ ;    
+60 
+ 
+Д) 
+2cм
+kг
+ 
+2.39. Каким выражением определяется предел 
+прочности при статическом изгибе? 
+А) 
+So
+Pd ;     
+Б) 
+2)(
+5,1
+bh
+LP 
+;     
+В) 
+o
+c
+S
+P
+;  
+Г) 
+Vr
+f
+6
+;   
+Д) 
+F
+hHG )( 
+ 
+ 
+2.5. Жидкие и газообразные диэлектрики 
+ 
+2.40. На сколько групп подразделяются жидкие ди-
+электрики по химическому  
+      составу? 
+А) 2;     
+Б) 9;     
+В) 3;      
+Г) 4;      
+Д) 7 
+2.41. На сколько групп подразделяются жидкие ди-
+электрики по назначению? 
+А) 9;     
+Б) 4;     
+В) 3;      
+Г) 2;     
+Д) 5 
+61 
+ 
+2.42. На сколько групп подразделяются жидкие ди-
+электрики по степени  горючести?  
+А) 4;       
+Б) 7;         
+В) 2;       
+Г) 3;      
+Д) 7 
+2.43. На сколько групп подразделяются жидкие ди-
+электрики  по значению верхней предельной температу-
+ры? 
+ А) 7 ;     
+Б) 3 ;       
+В) 4 ;        
+Г) 2;      
+Д) 9 
+2.44. На сколько групп подразделяются растительные 
+масла по степени высыхания? 
+А) 9;     
+Б) 7 ;      
+В) 3;       
+Г) 4;       
+Д) 2 
+2.45. Какие масла относятся к высыхающим? 
+А) кабельное и конденсаторное; 
+Б) трансформаторное и кабельное; 
+В) конденсаторное и льняное;  
+Г) льняное и тунговое; 
+Д) льняное и конденсаторное 
+2.46. Какое масло относится к невысыхающим? 
+А) льняное;   
+Б) тунговое;   
+В) касторовое;   
+Г) кабельное;  
+Д) конденсаторное 
+62 
+ 
+2.47. В чем заключается основное назначение транс-
+форматорного масла в  силовых трансформаторах? 
+А) только для усиления изоляции;  
+Б) улучшения охлаждения и изоляции; 
+В) только для охлаждения; 
+Г) уменьшение диэлектрических потерь; 
+Д) улучшение теплопроводности 
+2.48. Какое из этих чисел является величиной темпе-
+ратуры застывания трансформаторного масла? 
+А) - 50°С;    
+Б) - 55°С;     
+В) - 70°С;     
+Г) - 45°С ;   
+Д) - 20°С                    
+2.49. Каким устройством обеспечивается непрерыв-
+ная очистка трансформаторного масла? 
+A) расширителем;  
+Б) термосифонным фильтром;  
+В) маслоуказателем; 
+Г) устройством термосигнализации;      
+Д) газовым реле. 
+2.50. Какое из этих синтетических масел может за-
+менить трансформаторное масло?  
+А) совол;    
+Б) кремнийорганический ;  
+В) фторорганический ;  
+Г) совтол;    
+Д) нитробензол 
+2.51. Из скольких характерных зон состоит вольтам-
+перная характеристика газообразных диэлектриков? 
+А) 1;     
+Б) 3;     
+В) 2;       
+Г) 4;     
+63 
+ 
+Д) 7 
+2.52. Какое из этих выражений является формулой 
+Пашена? 
+А) 
+h
+U
+;    
+Б) 
+o
+x
+C
+C
+;  
+В)  tgcU 2 ;  
+Г) hPA  ;      
+Д) 
+T
+B
+A   
+2.53. Какое из этих элементов  является искусствен-
+ным газообразным диэлектриком? 
+А) азот;     
+Б) кислород; 
+В) элегаз;    
+Г) гелий;      
+Д) аргон 
+2.6.Твердеющие диэлектрики 
+ 
+2.54. Какое из этих материалов является электроизол-
+яционной смолой, применяемой при  пайке медных прово-
+дов? 
+А) битиум;     
+Б) шеллак;     
+В) эпоксид;    
+Г) конифол;    
+Д) полиефир 
+2.55. Чем отличается компаунд от лака? 
+А) отсутствием в составе смолы;  
+Б) отсутствием в составе пигментов; 
+В) отсутствием в составе растворителей;  
+Г) наличием в составе пигментов;  
+64 
+ 
+Д) наличием в составе растворителей 
+2.56. В чем заключается назначение пластификатора 
+в составе лака? 
+А) составляет основу лака;   
+Б) ускоряет сушку;  
+В) увеличивает время сушки ;  
+Г) усиливает сопротивление изоляции;  
+Д) для обеспечения пластичности лаковых пленок 
+2.57.  В чем заключается назначение пигмента в сос-
+таве электроизоляционных эмалей? 
+А) повышает электрическую прочность;  
+Б) составляет основу лака; 
+В) обеспечивает высокую твердость изоляции;  
+Г) увеличивает теплопроводность;  
+Д) ускоряет сушку 
+2.58. Какие параметры контролируются во время суш-
+ки обмоток электрооборудования после их пропитки ла-
+ком? 
+А) время сушки;  
+Б) температура и сопротивление изоляции; 
+В) только температура сушки;  
+Г) только сопротивление изоляции; 
+Д) режим сушильной установки 
+2.59 Какое из этих способов является самым эффек-
+тивным при пропитке обмотки лаком? 
+А) использованием вакуума и давления;  
+Б) использованием только давления;  
+В) использованием только вакуума;  
+Г) использованием лака на основе синтетических смол;  
+Д) использованием лака на основе  битумных смол. 
+ 
+2.7. Валокнистые электроизоляционные материалы 
+ слоистые пластики 
+2.60. На сколько групп подразделяются волокнистые  
+65 
+ 
+изоляционные материалы по составу? 
+А) 3;     
+Б) 7;     
+В) 4;      
+Г) 2 ;       
+Д) 9 
+2.61. Из какого материала изготавливаются электро-
+технические бумаги и картоны? 
+А) из обычного дерева;   
+Б) из хлопка;     
+В) из льна; 
+Г) сульфатной целлюлозы; 
+Д) из шелка 
+2.62. Где применяются кабельные бумаги? 
+А) для изоляции низковольтных кабелей и проводов;  
+Б) в телефонных  кабелях; 
+В) в обмотках электрических машин;   
+Г) в высоковольтных кабелях; 
+Д) в обмотках трансформаторов 
+2.63. Чем отличается картон от бумаги? 
+А) высокой электрической прочностью;  
+Б) высокими диэлектрическими потерями;   
+В) большей тольшиной;  
+Г) высокой диэлектрической  проницаемостью;  
+Д) большим удельным сопротивлением 
+2.64. Основное отличие изоляционных лакотканей от 
+обычных тканей? 
+А) тольшиной;  
+Б) высокой механической и электрической проч-
+ностью; 
+В) низкими диэлектрическими потерями;  
+Г) высокой диэлектрической  проницаемостью;  
+Д) высоким удельным сопротивлением  
+2.65. Из какого материала изготавливается слоистый  
+66 
+ 
+пластик типа гетинакс?  
+А) битумного лака и тканей;  
+Б) из эпоксидной смолы и бумаги; 
+В) из глифталового лака и бумаги;  
+Г) из бакелитового лака и бумаги; 
+Д) из эпоксидной смолы и стеклолакоткани 
+ 
+2.8. Полимеры, пластические массы и каучук 
+ 
+2.66. На сколько  классов подразделяются высокомо-
+лекулярные  материалы? 
+А) 5;          
+Б) 2 ;        
+В) 7 ;          
+Г) 4 ;          
+Д) 9 
+2.67. В  каком состоянии находится материал в конеч-
+ной стадии полимеризации?  
+А) в газообразным;    
+Б) в жидком;      
+В) в густой;    
+Г) в твердом 
+Д) в парообразном 
+2.68. Какое состояние приобретают термопластич-
+ные материалы при нагреве в конечной стадии? 
+А) твердое;   
+Б) мягкое;   
+В) жидкое;  
+Г) парообразное;  
+Д) газообразное 
+2.69. Какое состояние приобретают термореактив-
+ные материалы при нагреве в конечной стадии? 
+А) плавленное;   
+Б) твердое с потерей способности плавления; 
+67 
+ 
+В) газообразное;     
+Г) парообразное;    
+Д) жидкое 
+2.70.В настоящее время сколько процентов полимер-
+ных материалов, потребляемых мировой электрической 
+промышленностью, приходится на долю термопластичес-
+ких материалов? 
+А)25;    
+Б)50;   
+В)75;   
+Г)100;     
+Д)15 
+2.71. Какой материал добавляется в состав пласти-
+ческих масс для увеличения их пластичности и уменьшения 
+хрупкости? 
+А)  смола;    
+Б) бензол;   
+В) спирт;    
+Г) толуол;  
+Д) пластификатор 
+2.72.Поливинилхлоридные термопластичные полимеры 
+применяются при изготовлении в основном каких электро-
+технических изделий? 
+А)обмоточных проводов; 
+Б)проводов и кабелей; 
+В)осветительных арматур; 
+Г)магнитных материалов; 
+Д)конструктивных элементов. 
+2.73.Сколько градусов составляет рабочая темпера-
+тура поливинилхлоридного  полимера? 
+А) 75…80°С;    
+Б) 120-130°С;     
+В) 55 - 60°С;   
+Г) 150 - 160°С;  
+68 
+ 
+Д) 200 - 210°С 
+2.74.В аграрном производстве при изготовлении обмо-
+ток каких устройств используются поливинилхлоридные 
+материалы? 
+А)асинхронных двигателей сельскохозяйственного 
+назначения; 
+Б)силовых трансформаторов; 
+В)субартезианских электрических двигателей; 
+Г) трансформаторов напряжения; 
+Д) электрических аппаратов. 
+2.75.Обмоточные провода с поливинилхлоридной изол-
+яцией в какой среде могут надежно работать? 
+А)соленной;   
+Б)кислой;   
+В)щелочной;   
+Г)в воде;    
+Д)под солнцем. 
+2.76.На сколько групп делятся материалы из каучука 
+по образованию? 
+А)3;    
+Б)7;    
+В)5;    
+Г)2;     
+Д)9 
+2.77.Сколько градусов составляет температура раз-
+мягчения натурального каучука? 
+А)140°С;   
+Б)70°С;     
+В) 50°С;   
+Г) 90°С;    
+Д)180°С 
+2.78.Какое вещество добавляется в состав каучука во 
+время его вулканизации? 
+А)пластификатор;   
+69 
+ 
+Б)сера;    
+В)целлюлоза; 
+Г)спирт;    
+Д)карбон 
+2.79. Сколько  процентов составляет сера в составе 
+каучука, называемого мягкой резиной ? 
+А) 35 %;      
+Б) 20 %;    
+В) 3 %;      
+Г) 10 %;       
+Д) 25 % 
+2.80.Какое количество серы находится в составе 
+каучука, называемого  твердой резиной (эбонит)? 
+А)5%;    
+Б)50%;   
+В)15%;    
+Г)25%;    
+Д) 35%. 
+ 
+2.9.Электрокерамика и слюда 
+ 
+2.81.Из скольких этапов состоит технология произ-
+водства электрокерамических материалов? 
+А) 2;    
+Б) 3;     
+В) 5;    
+Г)7;     
+Д)9. 
+2.82.Сколько градусов составляет температура от-
+жига при изготовлении керамических изделий? 
+А)710ºС;    
+Б) 1400ºС;   
+В) 1700ºС;  
+Г) 2000ºС;   
+70 
+ 
+Д) 560ºС. 
+2.83.Величина электрической прочности электрофар-
+фора? 
+А) 25 – 30 
+мм
+kV
+;     
+Б) 15 – 20 
+мм
+kV
+;      
+В) 10 -15 
+мм
+kV
+;    
+Г) 30 – 35 
+мм
+kV
+;    
+Д) 40 – 50 
+мм
+kV
+. 
+2.84.В основном по какой особенности отличается 
+конденсаторная керамика от  изоляторной? 
+А) большой величиной удельного сопротивления; 
+Б) высоким значением электрической прочности; 
+В) очень высоким значением диэлектрической прони-
+цаемости; 
+Г)малым значением диэлектрических потерь; 
+Д)малым значением рабочей температуры. 
+2.85.Чему равняется диэлектрическая проницаемость 
+конденсаторной керамики?  
+А) 6 – 8;      
+Б) 10 – 12;     
+В) 500 – 600;   
+Г) 14 – 250;    
+Д) 2 – 4 
+2.86.Какой особенностью обладает сегнето-керамика 
+в отличии от других диэлектриков при высокой темпера-
+туре? 
+71 
+ 
+А) высоким значением электрической прочности; 
+Б) высоким значением удельного объемного сопротив-
+ления; 
+В) высоким значением диэлектрической проницаемос-
+ти; 
+Г) низким значением диэлектрических потерь; 
+Д) высоким значением температуры плавления. 
+2.87.При производстве какого устройства использует-
+ся сегнетокерамика,  имеющая высокую диэлектрическую 
+проницаемость? 
+А) высоковольтных изоляторов; 
+Б) низкочастотных изоляторов; 
+В) термостойких изоляторов; 
+Г) изоляторной керамики; 
+Д) конденсаторов высокой емкости. 
+2.88.Сколько видов слюды применяются в электро-
+изоляционной технике? 
+А)4;     
+Б)7;  
+В)2;    
+Г) 9;     
+Д)3 
+2.89. До какой температуры сохраняет свои характе-
+ристики мусковит?  
+А) 500°С;    
+Б) 100°С;    
+В) 150°С;      
+Г) 200°С;      
+Д) 25°С 
+2.90. До какой температуры сохраняет свои характе-
+ристики флогопит? 
+А) 200°С;    
+Б) 250°С;      
+В) 300°С;       
+72 
+ 
+Г) 900°С;     
+Д) 350°С. 
+2.91. Чему равна температура плавления материалов 
+из слюды? 
+А) 500-600°С;  
+Б) 800-900°С;    
+В) 400-500°С;   
+Г) 1200-1300°С;    
+Д) 650-700°С;    
+ 
+ 
+ 
+ 
+73 
+ 
+Глава 3 
+ЭЛЕКТРОПРОВОДНИКОВЫЕ И 
+ПОЛУПРОВОДНИКОВЫЕ  
+МАТЕРИАЛЫ 
+ В состав третьей глава входят сведения о классифи-
+кации, широко применяемых  в электротехнике, проводни-
+ковых материалов, их основных свойствах, материалах вы-
+сокой и сверхвысокой проводимости и проводниковых  из-
+делиях. В эту главу также входят проводниковые материа-
+лы высокого сопротивления, их классификация и вопросы  
+применения в электротехнике. Здесь нашли свое отраже-
+ние и сведения о материалах, используемых при примене-
+нии проводниковых материалов: припой и флюсы, клейи, 
+материалы из электротехнического  угля и электроплиты. 
+Кроме этого в этой главе предусмотрено изучение по-
+лупроводниковых материалов, широко применяемых в ря-
+де областей электротехники и информационной техноло-
+гии. 
+Вопросы настоящей главы соответствуют материалу, 
+изложенному в главе 3 учебного  пособия, подготовленно-
+го кафедрой, а также в соответствующих разделах других 
+литератур [1, 3, 5, 16, 17]. 
+3.1.Каким выражением определяется удельное сопро-
+тивление проводников? 
+А) 
+l
+S
+vR ;    
+Б)  
+ 
+ 
+       
+В) 
+l
+S
+R ;      
+Г) 
+     
+     
+;  
+Д) 
+ 
+ 
+ 
+3.2.Что показывает часть скачка на графике зависи-
+74 
+ 
+мости удельного сопротивления меди от температуры? 
+А)длительную рабочую температуру; 
+Б)температуру плавления; 
+В)резкое снижение температуры окружающей среды; 
+Г)короткое замыкание в цепи; 
+Д)увеличение удельного сопротивления провода. 
+3.3. Какое из указанных выражений является зависи-
+мостью удельного сопротивления проводника от темпе-
+ратуры? 
+А) 
+l
+S
+R ;     
+Б) 
+
+1
+;      
+В) 
+l
+q
+R ;   
+Г)   121 1 TT  ;   
+Д) 
+dt
+d
+
+1
+ 
+3.4.Каким выражением определяется термо э.д.с. в 
+термопарах? 
+А)       
+Б)  piz EiiR  ;
+ 
+  
+В)
+ 
+ 
+  
+     
+    
+Г)  21 TTC  ;     
+Д)
+  
+  
+ 
+3.5.Какое из указанных чисел является удельным соп-
+ротивлением меди? 
+А) 0,028;    
+Б) 0,059;    
+В) 0,0170;  
+75 
+ 
+Г) 0,016;  
+Д) 0,073 
+3.6. В составе какого из указанных марок меди име-
+ются наименьшие примеси? 
+А)М1;   
+Б)МО;   
+В)ММ;    
+Г)МТ;       
+Д)АВОО 
+3.7.Который из этих материалов является сплавом 
+меди и цинка? 
+А)бронза;   
+Б)алдрей;   
+В)латун;     
+Г)кадмиевый латун;    
+Д) фарфоровый латун. 
+3.8.Который из указанных чисел является удельным 
+сопротивлением алюминия? 
+А)0,073;     
+Б)0,059;     
+В)0,028;     
+Г)0,017;    
+Д)0,016. 
+3.9. При какой температуре ртуть обладает сверх-
+проводимостью? 
+А) 12 К;   
+Б) 9,4 К;     
+В) 4,5 К;   
+Г) 4,2 К;   
+Д) 7,2 К 
+3.10. Какой ученый впервые наблюдал сверхпроводи-
+мость металлов? 
+А) Петров В.В.;   
+Б) Лодыгин А.Н.;   
+76 
+ 
+В) Яблочков П.Н.; 
+Г) Шиллинг П.А.;     
+Д) К. Оннес 
+3.11.Который из указанных обмоточных проводов 
+имеет двухслойную шелковую изоляцию? 
+А)ПБО;   
+Б)ПБД;    
+В)ПШД;    
+Г)ПКД;    
+Д)ПЛД 
+3.12. Какой из указанных марок обмоточных проводов 
+является двухслойной стеклянной изоляцией? 
+А) ПБО;  
+Б) ПСД;   
+В) ПШД;   
+Г) ПКД;    
+Д) ПЛД 
+3.13.Который из этих проводов применяется в элек-
+тродвигателях субартезианских скважин? 
+А)ПЭВ-1;    
+Б)ПЭЛР-2;      
+В)ПЭВТЛ-2;   
+Г)ПЭВВП;    
+Д)ПЭМ-2 
+3.14.Который из этих проводниковых материалов наи-
+более используется в составе материала высокого сопро-
+тивления манганина? 
+А)алюминий;   
+Б)серебро;     
+В)медь;        
+Г) цинк;   
+Д)ртуть. 
+3.15.Чему равняется рабочая температура сплава 
+константана? 
+77 
+ 
+А)120ºС;    
+Б) 500ºС;    
+В) 200ºС;     
+Г) 220ºС;     
+Д)310ºС. 
+3.16.Чему равняется рабочая температура мангани-
+на? 
+А) 55ºС;     
+Б) 95ºС;   
+В) 135ºС;     
+Г) 200ºС;     
+Д) 100ºС. 
+3.17.Чему равняется удельное сопротивление мангани-
+на? 
+А)0,22 Мк Ом.м;     
+Б)0,12 Мк Ом.м;    
+В) 0,48 Мк Ом.м;     
+Г) 0,30 Мк Ом.м;      
+Д) 0,35 Мк Ом.м. 
+3.18.Чему равняется температура сплава нихрома? 
+А) 450ºС;      
+Б) 1000ºС;     
+В) 375ºС;     
+Г) 750ºС;   
+Д) 610ºС. 
+3.19.Чему равняется температура плавления мягкого 
+припоя?  
+А) 175ºС;      
+Б) 150ºС;     
+       В) 400ºС;     
+Г) 210ºС;     
+Д) 285ºС. 
+3.20. Сколько  градусов составляет температура 
+плавления твердого припоя?  
+78 
+ 
+А) 500°С;    
+Б) 225°С;      
+В) 300°С;     
+Г) 430°С;   
+Д) 470°С. 
+3.21.Который из этих марок является мягким припо-
+ем? 
+А)ПМЦ-36;   
+Б)ПОС-90;    
+В)ПМЦ-54;    
+Г)СРМ-970;    
+Д)СРМ-500. 
+3.22.Который из указанных значений является удель-
+ным сопротивлением полупроводника? 
+А) 10
+18…10
+20
+ 
+Ом.см;      
+Б) 10
+-6…9
+20
+ 
+Ом.см;            
+В) 10
+18…10
+20
+ 
+Ом.см;   
+Г) 10
+-2…
+10
+10 
+Ом.см;       
+Д) 10
+-3…
+10
+7
+ 
+ 
+Ом.см;  
+3.23.Как изменяется удельное сопротивление полупро-
+водника в большом интервале температур? 
+А)увеличивается;    
+Б)не изменяется;     
+В)уменьшается;   
+Г)приближается к нулю;       
+Д)приближается к бесконечности. 
+3.24.В результате воздействия каких параметров в 
+полупроводниках возникает гальванометрический эф-
+фект?  
+А)механических воздействий;   
+Б)влажности и температуры окружающей среды; 
+В)солнечных лучей; 
+Г)электрических и магнитных полей; 
+Д)сильных ветров. 
+79 
+ 
+3.25.Какой способ используется для определения типа 
+электрической проводимости полупроводника? 
+А)нагревается оба конца; 
+Б)воздействием электрического поля; 
+В)воздействием магнитного поля;  
+Г)деформируется один конец; 
+Д)нагревается один из концов. 
+3.26. Как изменяется сопротивление полупроводнико-
+вого терморезистора  в  зависимости от температуры? 
+А) резко уменьшается; 
+Б) незначителью увеличивается; 
+В) не изменяется; 
+Г) изменяется прямолинейно; 
+Д) изменяется нелинейно. 
+3.27.Каким выражением определяется температур-
+ный коэффициент (ТКС)полупроводника? 
+А)
+ 
+ 
+ 
+  
+  
+       
+Б) 
+ 
+ 
+ 
+  
+  
+       
+В) 
+ 
+ 
+ 
+  
+  
+;     
+Г) 
+ 
+ 
+ 
+  
+  
+;     
+Д) 
+ 
+ 
+ 
+     
+     
+. 
+3.28.Из какого полупроводника изготовляется позис-
+тор? 
+А)германия;   
+Б)керамики;     
+В)селена;      
+Г)сульфид кадмия;    
+Д)сульфид- вистита. 
+3.29.Каким выражением определяется тензочувстви-
+тельность полупроводника? 
+80 
+ 
+А)
+    
+    
+     
+Б)  
+  
+ 
+;     
+B)    
+ 
+   
+;    
+Г) 
+    
+    
+;     
+Д)  12 T-T   
+3.30.Чему равняется световой ток (мкА) полупровод-
+никового фоторезистора типа ФСК-1А? 
+А)2000;    
+Б)1000;    
+В)3000;   
+Г)600;     
+Д)1500. 
+3.31.Чему равняется предел номинального сопротивле-
+ния полупроводникового позистора  типа СТБ-1? 
+А)40-400 кОм;   
+Б)1000 кОм;    
+В)1020-1000 кОм;   
+Г)50-200 кОм;      
+Д)500-1000 кОм. 
+ 
+ 
+81 
+ 
+Глава 4 
+МАГНИТНЫЕ  МАТЕРИАЛЫ 
+В эту главу входит изучение классификации магнит-
+ных материалов, их самых важных характеристик, магнит-
+ных свойств материалов, процесса магнитострикции и  по-
+тери гистерезиса. Здесь особое внимание обращено на ос-
+новные свойства мягких  и твердых магнитных  материа-
+лов и на  вопросы применения их в электротехнике. 
+В этой главе также приведены сведения по металлоке-
+рамическим, металлопластическим и твердым  магнитным 
+материалам как магнитных носителей информации. 
+Вопросы настоящей главы  соответствуют материалу, 
+изложенному в главе 4 учебного  пособия подготовленного 
+кафедрой, а также в соответствующих разделах других ли-
+тератур [2, 10, 15, 17, 21]. 
+4.1.Который из этих выражений является темпера-
+турным коэффициентом относительной магнитной про-
+ницаемости? 
+А)
+ 
+ 
+     
+Б)           
+В)
+ 
+   
+;     
+Г)
+ 
+ 
+ 
+  
+  
+;        
+Д)       
+ . 
+4.2.На сколько видов делятся твердые магнитные ма-
+териалы по составу и способу получения? 
+А)4;      
+Б) 7;       
+В) 5;     
+Г)3;      
+Д) 2. 
+4.3. Какая в основном действенная мера принимается 
+82 
+ 
+для уменьшения потерь от вихревых токов в магнитомяг-
+ких материалах? 
+А)уменшают толшину листов; 
+Б)увеличивают толшину листов; 
+В)изолируют отдельные листы; 
+Г)увеличивают количество кремния в составе стали; 
+Д)уменьшают количества кремня в стали. 
+4.4. Какой материал наиболее широко применяется в 
+качестве магнитомягких материалов? 
+А)диамагниты;   
+Б)парамагниты;   
+В)особо чистое железо;    
+Г)листовая электротехническая сталь;   
+Д) железа с никелем сплав. 
+4.5. Какое свойство стали улучшается при превыше-
+нии в его составе нормы кремния? 
+А)увеличивается магнитная проницаемость; 
+Б)повышается напряженность поля; 
+В)увеличиваются потери гистерезиса; 
+Г)улучшаются механические свойства; 
+Д)уменьшается хрупкость. 
+4.6. Что означает первая цифра в маркировке элек-
+тротехнической стали? 
+А)количество кремния;  
+Б)магнитную проницаемость; 
+В)напряженность поля; 
+Г)потери на гистерезис; 
+Д)хрупкость. 
+4.7. Что означает вторая цифра в маркировке элек-
+тротехнической стали? 
+А)магнитную проницаемость; 
+Б)напряженность поля; 
+В)электрическое и магнитное свойства; 
+Г)количество кремния; 
+83 
+ 
+Д)потери на гистерезис. 
+4.8. Что такое явление магнитострикции при намаг-
+ничивании ферромагнитов?  
+А)увеличение магнитной проницаемости; 
+Б)изменение напряженности поля; 
+В)изменение магнитной энергии; 
+Г)изменения линейных размеров ферромагнитных 
+материалов; 
+Д)изменение электрического свойства. 
+4.9. Каким выражением определяется потери гисте-
+резиса? 
+А) VBfE maks
+22
+;    
+Б) VBf maks
+n  ; 
+В) )( Bтr PРР  ;            
+Г) Íî   ;            
+Д)  о  
+4.10. Какой особенностью отличается альсферная 
+сталь? 
+А)высокой твердостью и большой хрупкостью; 
+Б)высоким удельным сопротивлением; 
+В)низким удельным сопротивлением; 
+Г)высокой магнитной проницаемостью; 
+Д)низким магнитным свойством. 
+4.11. Чему равна электрическая прочность изоляции 
+листов стали трансформатора? 
+А)500 В;     
+Б)150 В;     
+В)15 В;    
+Г) 220 В;      
+Д)400В. 
+4.12. Чему равняется величина сопротивления магни-
+топровода трансформатора? 
+84 
+ 
+А) 0,5 МОм;       
+Б) 0,0170
+м
+ммOм 2
+;     
+В) 50 Ом;     
+Г) 0,025
+м
+ммOм 2
+ 
+Д) 150 Ом. 
+4.13. Чему равна длительная температура нагрева 
+стали трансформатора? 
+А)90ºС;   
+Б) 40ºС;    
+В) 45ºС;    
+Г) 105ºС;     
+Д) 60ºС. 
+4.14. Каким выражением определяется магнитная 
+энергия воздушного зазора? 
+А) 
+22fE mB  ;    
+Б)  H 0 ;    
+В)  ВТP ГPP ; 
+Г) 
+2
+B ee H ;       
+Д) 22fE Bm . 
+4.15. Каким процессом связано  старение постоянных 
+магнитов? 
+А) уменьшением магнитного потока;    
+Б) вибрацией; 
+В)деформацией;       
+Г) резким изменением  температуры; 
+Д) структурным изменением твердых магнитов. 
+4.16. Который из этих материалов самый простой и 
+удобный для изготовления постоянного магнита? 
+85 
+ 
+А)литой твердый магнитный сплав; 
+Б) легированный магнит; 
+В)магнитотвердые материалы; 
+Г)металлокерамические материалы; 
+Д)металлопластические материалы. 
+4.17. Какой материал используется в качестве сырья 
+для изготовления металлокерамических и металлопласти-
+ческих магнитов? 
+А)магнитный порошок; 
+Б)кобальт;          
+В)кремний;       
+Г)титан;       
+Д)вольфрам. 
+4.18. Чему равняется коэффициент магнитной прони-
+цаемости никельцинкового феррита? 
+А)100-200;  
+Б)800-3000;      
+В)80-300;      
+Г)500-700;     
+Д)400-650. 
+4.19. Который из этих материалов используется для 
+магнитоносителей информации? 
+А)твердая магнитная сталь, покрытая железными 
+оксидами; 
+Б)оксидные магниты; 
+В)металлокерамические магниты; 
+Г)металлопластические магниты; 
+Д)литые твердые магнитные сплавы. 
+ 
+ 
+ 
+86 
+ 
+Глава 5 
+КОНСЕРВИРУЮЩИЕ И КОНСТРУКТИВНЫЕ  
+МАТЕРИАЛЫ 
+ В состав данной главы входят сведения о консерви-
+рующих и защитных материалах, коррозии металлов, инги-
+биторах и применения их для защиты оборудования от 
+коррозии, классификации металлов и конструктивных ма-
+териалах. Здесь наибольшее внимание  уделено освоению 
+способов защиты металлов от коррозии. 
+Вопросы настоящей главы соответствуют материалу, 
+изложенному в главе 5 и 6 учебного пособия, разработан-
+ного кафедрой, а также в соответствующих разделах 
+других литератур [23, 24, 25]. 
+5.1. Из какого материала наносится покрытие на ме-
+таллическую трубу (техническое устройство), очищенное 
+от коррозии? 
+А)Эмаль;    
+Б)битумный лак;     
+В)клеящий лак;    
+Г)масляной лак;      
+Д)термореактивный лак. 
+5.2. Сколько времени нужно держать в битумном лаке 
+техническое устройство для  консервации? 
+А)1-2 секунды;     
+Б)10 секунд;   
+В)3-4 секунды; 
+Г) 2-8 секунд;       
+Д) 15 секунд. 
+5.3. Какое из указанных способов является самым 
+прогрессивным и экономичным для защиты металлов от 
+коррозии?  
+А) использованием эмалей;   
+Б) использованием лаков; 
+В) использованием ингибиторов ; 
+87 
+ 
+Г) использованием покровных лаков; 
+Д) использованием клеящих лаков. 
+5.4. Сколько граммов летучего ингибитора расходует-
+ся на каждый квадратный метр при защите от коррозии 
+металлических конструкций? 
+А)1-2;     
+Б)3-7;     
+В)5-20;     
+Г)4-15;     
+Д)5-16. 
+5.5. Какие покрытия используются для защиты от 
+атмосферной коррозии строительных устройств и ма-
+шин? 
+А)лакокраска;    
+Б)ингибитор;      
+В)эмаль;     
+Г)эпоксид;         
+Д)пластиковые. 
+5.6. Который из этих способов самый эффективный 
+при термической очистке металлических поверхностей? 
+А)использование пламени газовой сварки; 
+Б)использование газопламенной лампы типа ГАО-55; 
+В)использование механических способов; 
+Г)использование высокочастотного индукционного 
+нагревателя; 
+Д)обжиг с использованием горючего. 
+5.7. Чему равняется частота высокочастотной уста-
+новки, используемой для очищения поверхности металлов? 
+А) 50 Гц;      
+Б) 60 Гц;     
+В) 250 Гц;     
+Г) 1000 Гц;     
+Д) 500 Гц. 
+5.8. Чему равняется температура нагрева при очист-
+88 
+ 
+ке металлических поверхностей методом высокочастот-
+ного индукционного нагрева? 
+А)40ºС;    
+Б) 177ºС;     
+В) 95ºС;     
+Г) 105ºС;     
+Д) 130ºС. 
+ 
+ 
+ 
+ 
+89 
+ 
+ƏDƏBİYYAT 
+ 
+1. Бернштейн Л.М. Изоляция электрических машин об-
+щего назначения. М.: Энергоиздат, 1987, 376 с. 
+2. Богоридицкий Н.П. Электротехнические материалы. 
+Л.:Электроатомиздат, 1985, 304 с. 
+3. Бородулин В.Н. и др. Электротехнические и 
+конструкционные материалы, М.: Издательский центр 
+«Академия», 2010, 280 с. 
+4. Джуварлы Ч.М.Электроизоляционные масла. 
+М.:Гостехиздат, 1983, 92 с. 
+5. Ерошенко Г.П. и др. Эксплуатация  электрооборудо-
+вания. М.: Колос. 2005,  344 с. 
+6. Казарновский Д.М., Тареев Б.М. Испытание электро-
+изоляционных материалов и изделий. Л.: Энергия, 1980, 
+226 с. 
+7. Казарновский Д.М., Яманов С.А. Радиотехнические 
+материалы. М. «Высшая школа», 1992, 312 с. 
+8.Карягин А.Г. Материалы для электромонтажных 
+работ. М.:Энергоиздат, 1981, 63 с. 
+9. Корицкий Ю.В. Основы физики диэлектриков,М.: 
+Энергия, 248 с. 
+10. Колесов С.Н. Материаловедение и технология 
+конструктивных материалов. М.: Высшая школа, 2007, 535 
+с. 
+11. Колесов С.Н., Колесов И.С. Электротехнические и 
+конструкционные материалы- Киев. Транспорт – 2003, 384 
+с. 
+12. Майофис И.М. Химия диэлектриков. М.: Высшая 
+школа, 1980, 320 с. 
+13. Мамедов О.Г. Научные основы повышения 
+эксплуатационной надежности погружных электродвигате-
+лей. (Монография) Баку, Издательство. «Элм». 2011, 184 с. 
+14. Мамедов О.Г., Нуриев Р.М. Методика ускоренного 
+90 
+ 
+испытания конструкции изоляции проводов типа ПЭВВП, 
+применяемых в погружных электродвигателях. Научные 
+труды АзСХИ. Вопросы электрификации с/х-го производ-
+ства в Азерб.ССР, 1982, 17-23 с. 
+15. Məmmədov O.H. Elektrotexniki materiallar. Dərs 
+vəsaiti. Gəncə, ADAU-nun nəşriyyatı, 2011, 140 səh. 
+16. Никулин Н.В. Электроматериаловедение. М.: 
+Высшая школа, 1989, 192 с. 
+17. Пястолов А.А. и др. Монтаж, эксплуатация и 
+ремонт электрооборудования.  М. “Колос”. 1981 г, 335 с. 
+18. Пястолов А.А. и др. Практикум по технологии 
+монтажа и ремонтa электрооборудования. М.: «Колос», 
+1990, 140 с. 
+19. Райkлин И.В. Научно-технический прогресс и 
+эффективность новых материалов. «Наука», 1983, 349 с. 
+20. Səidov R.Ə., Məmmədov O.H., Kərimov İ.C. və b. 
+Elektrik avadanlığının etibarlılığı və təmiri fənnindən 
+praktikum. Bakı, “Elm” nəşriyyatı, 2011, 252 c. 
+21. Справочник по электротехническим материалам. 
+Под.ред. Ю.В.Корицкого, В.В.Пасынкова, Б.М.Тареева. 
+Энергоатомиздат (в 3-х томах), 1988, 716 с. 
+22. Электрические свойства полимеров. Под.ред. 
+Б.Н.Сажина. Л.: Химия, 1996, 224 с. 
+23. Жук Н.П. Курс теории коррозии и защиты метал-
+лов. М.: «Металлургия», 1986, 472 с.  
+24. Qasımzadə N.H. Metallar və konstruksiya materialları 
+texnologiyası. Bakı, “Maarif”, 1985, 44 c. 
+25. Голяницкий О.И., Пястолов А.А. Зaщита сельско-
+хозяйственной техники от коррозии. Челябинск, Юж.-
+Урал. КН.изд-во, 1998, 80 с. 
+ 
+ 
+ 
+ 
+91 
+ 
+ Авторы учебного пособия для самостоятельного 
+изучения дисциплины «Электрические материалы» - 
+сотрудники Азербайджанского Государственного 
+Аграрного Университета: профессор кафедры 
+«Электроинженерия» Мамедов Октай Гусейн оглы, 
+заведующий кафедрой «Энергетика» Керимов Ильгам 
+Джамиль оглы, доцент Гусейнов Лятиф Акбер оглы и 
+ведущий инженер-электрик Мамедов Заур Октай оглы.  
+92 
+ 
+MÜNDƏRİCAT 
+Ö N    S Ö Z……………………………………………….. 3 
+Fəsil 1.  CİSİMLƏRİN QURULUŞU VƏ 
+ELEKTROTEXNİKİ MATERİALLARIN 
+TƏSNİFATI……………………………………. 
+ 
+ 
+5 
+Fəsil 2. 
+ 
+ ELEKTRİK İZOLYASİYA 
+MATERİALLARI………………………………. 
+ 
+8 
+2.1.  Dielektriklərdə baş verən elektrofiziki 
+proseslər………………………………………… 
+ 
+8 
+2.2.  Elektrik izolyasiya materiallarının dielektrik 
+xarakteristikaları……………………………….. 
+ 
+10 
+2.3.  Elektrik izolyasiya materiallarının istilik 
+xarakteristikaları……………………………….. 
+ 
+14 
+2.4.   Elektrik izolyasiya materiallarının fiziki-kimyəvi 
+və mexaniki xarakteristikaları…………………. 
+ 
+16 
+2.5
+ 
+ Maye və qaz şəkilli dielektriklər……………….
+ 
+19 
+2.6. Bərkiyən dielektriklər………………………….. 22 
+2.7  Lifli izolyasiya materialları və qatlı plastiklər…. 23 
+2.8.  Polimerlər, plastik kütlələr və kauçuk 
+materialları…………………………………….. 
+ 
+24 
+2.9.           Elektrokeramik və slüda materialları………… 27 
+Fəsil 3. ELEKTRİK KEÇİRİCİ VƏ 
+YARIMKEÇİRİCİ MATERİALLAR………….. 
+ 
+31 
+Fəsil 4.  MAQNİT MATERİALLARI………………… 39 
+Fəsil 5.  KONSERVASİYAEDİCİ VƏ KONSTRUKTİV 
+MATERİALLAR……………………………….. 
+ 
+44 
+Глава 1.  СТРОЕНИЕ ВЕЩЕСТВ И 
+КЛАССИФИКАЦИЯ…………………………..    
+ЭЛЕКТРОТЕХНИЧЕСКИХ МАТЕРИАЛОВ... 
+ 
+ 
+47 
+Глава 2.  ЭЛЕКТРОИЗОЛЯЦИОННЫЕ 
+МАТЕРИАЛЫ…………………………………. 
+ 
+50 
+2.1.  Электрофизические процессы, происходящие 
+в диэлектриках………………………………… 
+ 
+50 
+  
+93 
+ 
+2.2.  Диэлектрические характеристики 
+электроизоляционных материалов…………… 
+52 
+2.3.  Тепловые характеристики 
+электроизоляционных материалов…………… 
+ 
+56 
+2.4.  Физико-химические и механические 
+характеристики электроизоляционных 
+материалов…………………………………….. 
+ 
+ 
+58 
+2.5.  Жидкие и газообразные диэлектрики……….. 61 
+2.6.  Твердеющие диэлектрики……………………. 64 
+2.7.  Валокнистые электроизоляционные 
+материалы, слоистые пластики………………. 
+ 
+65 
+2.8.  Полимеры, пластические массы и каучук…… 67 
+2.9.  Электрокерамика и слюда……………………. 70 
+Глава 3  ЭЛЕКТРОПРОВОДНИКОВЫЕ И 
+ПОЛУПРОВОДНИКОВЫЕ  
+МАТЕРИАЛЫ…………………………….. 
+ 
+ 
+74 
+Глава 4.  МАГНИТНЫЕ  МАТЕРИАЛЫ………………. 82 
+Глава 5  КОНСЕРВИРУЮЩИЕ И  
+КОНСТРУКТИВНЫЕМАТЕРИАЛЫ………... 
+ 
+87 
+  ƏDƏBİYYAT………………………………….. 90 
+ 
+ 

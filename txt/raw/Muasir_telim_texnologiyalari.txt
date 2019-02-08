@@ -1,0 +1,3368 @@
+AZƏRBAYCAN RESPUBLİKASI TƏHSİL NAZİRLİYİ
+AZƏRBAYCAN MÜƏLLİMLƏR İNSTİTUTU
+Akif Nəzərov
+MÜASİR TƏLİM
+TEXNOLOGİYALARI
+(Mühazirə xülasələri)
+DƏRS VƏSAİTİ
+(Vəsait Boloniya prosesi, kredit sistemi üzrə ali pedaqoji
+məktəblərin bakalavr pilləsi üçün, habelə magistrlər üçün
+nəzərdə tutulmuşdur)
+(Vəsait “Müasir təlim texnologiyaları” mövzusunda hazırlanmış
+Proqrama uyğun olaraq Azərbaycan Respublikası Təhsil
+Nazirliyinin 29.06.2010-cu il tarixli 870 №-li əmrinə müvafiq
+olaraq yazılmışdır)
+Bakı – 2012
+Dərs vəsaiti AMİ-nin Pedaqogika kafedrasında hazırlanmışdır
+Müəllif: Akif Məmmədağa oğlu Nəzərov
+Filologiya üzrə fəlsəfə doktoru, dosent
+Əməkdar Müəllim
+Redaktor: Rüfət Lətif oğlu Hüseynzadə
+Pedaqogika üzrə elmlər doktoru, professor
+Əməkdar Müəllim
+Rəyçilər: Akif Nurağa oğlu Abbasov
+Pedaqogika üzrə elmlər doktoru, professor
+Qabaqcıl Təhsil İşçisi
+Ağahüseyn Məmmədhüseyn oğlu Həsənov
+Pedaqogika üzrə elmlər doktoru, professor
+Əməkdar Müəllim
+Mircəfər Mirməsi oğlu Həsənov
+Pedaqogika üzrə fəlsəfə doktoru, professor
+Əməkdar Müəllim
+A.M.Nəzərov. Müasir təlim texnologiyaları. Dərs vəsaiti.
+ADPU-nəşriyyatı. Bakı-2012. 103 səh
+Pedaqoji texnologiya dedikdə, əvvəlcədən verilmiş xarak-
+teristikalar üzrə kompüter təlimi üçün işlənib hazırlanmış optimal
+didaktik proseslər başa düşülür. Dərs vəsaitində məsələlərin
+açıqlanmasına da məhz bu nöqteyi-nəzərdən yanaşılmışdır.
+3
+ÖN SÖZ
+Hazırkı dövrdə Azərbaycanın təhsil sistemində zəruri
+islahatın aparıldığı bir şəraitdə tədris proqramlarının təkmilləş-
+dirilməsinə, yeni dərsliklərin yazılmasına böyük ehtiyac duyulur.
+Dünyada gedən qloballaşma və Azərbaycan təhsil sisteminin
+Avropa təhsil sisteminə inteqrasiyası təhsil sistemində yeni təlim
+texnologiyalarından, fəal və interaktiv təlim metodlarından, yeni
+texnologiyalardan istifadə edilməsini tələb edir. Bu baxımdan,
+“Müasir təlim texnologiyaları” fənni üzrə hazırladığımız dəsr
+vəsaiti (mühazirə xülasələri) aktuallığı ilə seçilir.
+Bu vəsait “Məktəbəqədər və ibtidai təhsilin pedaqogika və
+metodikası”, “Pedaqogika və psixologiya” ixtisasları üzrə təhsilin
+bakalavr pilləsi üçün hazırlanmışdır.
+Vəsaitdə müasir təhsil metod və texnologiyalardan isti-
+fadənin nəzəri və təcrübi məsələlərindən geniş bəhs olunmuşdur.
+Burada pedaqoji texnologiyalara tarixi-nəzəri baxış, təlim texno-
+logiyaları haqqında anlayış, təlim texnologiyalarının struktur və
+funksional komponentləri, təlim texnologiyalarının yaradılması və
+tətbiqi prinsipləri, fəal və interaktiv təlim metodları, habelə tər-
+biyə texnologiyaları kimi aktual problemlərin təhlilinə xüsusi
+diqqət yetirilmişdir.
+Pedaqoji texnologiya dedikdə, əvvəlcədən verilmiş xarak-
+teristikalar üzrə kompüter təlimi üçün işlənib hazırlanmış optimal
+didaktik proseslər başa düşülür. Dərs vəsaitində məsələlərin
+açıqlanmasına da məhz bu nöqteyi-nəzərdən yanaşılmışdır.
+Həmçinin, vəsaitdə pedaqoji texnologiyalarla təlim pro-
+sesinin idarə olunmasına, təlim texnologiyalarnın spesifik əlamət-
+lərinə diqqət yetirilmişdir. Ən nəhayət, vəsaitdə nəzərdə tutulmuş
+hər bir ayrı-ayrı mövzunun sonunda istifadəsi zəruri sayılan ən
+vacib pedaqoji-psixoloji ədəbiyyatın siyahısı verilmişdir.
+Dərs vəsaitindən bakalavr təhsili alan tələbələrlə yanaşı
+magistrlər, habelə pedaqoji ictimaiyyət də faydalana bilər.
+Rüfət Lətif oğlu Hüseynzadə,
+Pedaqogika üzrə elmlər doktoru, professor,
+Əməkdar Müəllim
+4
+I MÖVZU
+PEDAQOJİ TEXNOLOGİYALARA
+TARİXİ-NƏZƏRİ BAXIŞ
+PLAN:
+1. Təlim və tərbiyənin bəşəriyyətin mədəni fəaliyyətinin
+ən qədim növü hesab edilməsi
+2. Sivilizasiyanın inkişafı tarixində ilk mədəni inqilab
+3. Eramızın bütün əsrlərində təhsil, təlim, tərbiyənin
+təkamül və inkişafının əsas vasitəsi hesab edilməsi
+4. XX əsr təhsilin insanları peşəkar fəaliyyətə və həyata
+hazırlanmasının önə çəkildiyi dövr kimi
+5. Hər bir ölkənin özünəməxsus təhsil sistemi, təhsil
+siyasəti, təhsil və inkişaf konsepsiyasına malik olması.
+Tərbiyə işi insan cəmiyyəti mövcud olan gündən daim
+insanların diqqət mərkəzində olmuşdur. Məlumdur ki, ibtidai
+icma quruluşu dövründə heç bir məktəb, heç bir təhsil sistemi yox
+idi. İnsanlar hamısı bir yerdə müəyyən mağaralara toplaşır, ov-
+çuluqla məşğul olur və ehtiyaclarını ödəməyə çalışırdılar. Qul-
+darlıq quruluşunda oğlanların tərbiyəsi ilə kişilər, qızların tərbi-
+yəsi ilə isə qadınlar məşğul olurdular. Kişilər oğlanlara ov ovla-
+mağı öyrədir, qızlar isə mağarada onlara məxsus olan işlərdə
+fəaliyyət göstərməklə məşğul olmuşdular. Lakin təlim isə savadla,
+yazı ilə əlaqədar olduğu üçün sonralar meydana çıxmışdır.
+Sivilizasiyanın inkişafı tarixində ilk mədəni inqilab ya-
+zının meydana çıxması ilə yarandı. Çünki yazı meydana çıxandan
+sonra savad təlimi yarandı. Müəllimlər şagirdlərə dərs deməyə
+başladılar. Həyat inkişaf etdikcə elm, təhsil, savad da inkişaf
+etməyə başlayır. Məktəblərin şəbəkəsi genişlənir. Bu məktəblərdə
+dünyəvi elmlər və dini elmlər öyrədilməyə başlandı. Qədim
+Hindistanda, Çində, Yunanıstanda, Romada təlim və təhsil sahə-
+sində olduqca böyük uğurlar və nailiyyətlər əldə edildi. Qədim
+Romada və Yunanıstanda Sokrat, Aristotel və Platon kimi dahi
+filosoflar öz dövrünün eradan qabaq yaşamış çox görkəmli
+5
+filosofları olmuşdur. Qədim Çində Konfutsi adlı dahi filosof
+meydana gəlmişdir. Azərbaycanda isə zərdüştlük fəaliyyət
+göstərməyə başlamışdır. Eradan qabaq VI əsrdə yaşayıb-yaradan
+Zərdüşt bir azərbaycanlı olaraq dünya mədəniyyəti xəzinəsinə
+“Avesta” adlı məşhur əsərini bəxş etmişdir. Neçə min öküz dərisi
+üzərində yazılmış bu əsərin olduqca çox cüzi bir hissəsi gəlib bizə
+çatmışdır. “Avesta”da təlim-tərbiyə məsələlərinə çox geniş yer
+verilmişdir. Burada torpağa bağlılıq, torpağı sevmək, zəhmətə
+aludə olmaq, böyüklərə, uşaqlara, qocalara, ata və analara hörmət
+və qayğı, vətən torpağını qorumağa daim hazır olmaq və s. bu
+kimi yüksək əxlaqi, etik normalar öz əksini tapmışdır. Elmə,
+təhsilə, müəllimə böyük ehtiram və və hörmət bəsləyən Zərdüşt
+“Avesta” əsərində bu məsələlərin də şərhinə və izahına xüsusi
+diqqət yetirmişdir.
+Eramızın bütün əsrlərində təhsil, təlim, tərbiyəçinin təka-
+mül və inkişafı əsas vasitə hesab edilmişdir. Tərbiyəçi-müəllim
+öyrədən, şagird isə öyrənəndir. Bu mənada yaxşı müəllim
+şagirdlər üçün ideallıq rəmzinə çevrilməlidir. Onlar üçün əsl
+nümunə, örnək olmalıdır. Rusiya ilə birləşəndən sonra rus mədə-
+niyyətinə, rus ədəbiyyatına, rus elminə sonsuz maraq yarandı.
+Rusiyada təhsillərini davam etdirən çoxlu azərbaycanlı balaları
+rus dili vasitəsilə dünya mədəniyyətinə yiyələnməyə və onun
+nailiyyətlərinin öyrənilməsinə imkan tapdılar. XIX əsr Azər-
+baycanın bir sıra bölgələrində Şəki, Şamaxı, Gəncə, Naxçıvan,
+Bakı, Lənkəranda rus dilində qəza məktəbləri açıldı və həmin
+məktəblərdə mütəxəssis müəllimlər dərs deməyə başladılar.
+XIX əsrdə artıq təhsil modellərində aktuallaşma prosesi
+gedirdi. Təhsilin insanları peşəkar fəaliyyətə, həyata hazırlan-
+masının ön plana çəkildiyi hiss olunmağa başladı.
+Çar Rusiyasına Azərbaycan dilini bilən məmurlar lazım
+idi. Ona görə də Bakı, Şamaxı, Şəki, Lənkəran, Gəncə və bu kimi
+Azərbaycanın iri yaşayış, sənaye mərkəzlərində Azərbaycan dili
+ilə yanaşı Rus dili məktəbləri də açıldı. Məsələn, məşhur yazıçı və
+dramaturq M.F.Axundov 1830-cu illərdə Şəkidə açılan rus-tatar
+məktəbində oxumuşdur. Məşhur yazıçı, şair, filosof Bakıxanov
+6
+Bakıda açılmış eyni tipli məktəbdə təhsil almışdır. Sonralar hər
+iki dahi şəxsiyyət çar ordusunda xidmət edərək palkovnik rütbə-
+sinə qədər yüksəlmişlər. Məktəblərin açılması xalqın maariflən-
+məsində çox böyük rol oynadı.
+Hər bir ölkənin özünəməxsus təhsil sistemi, təhsil siyasəti,
+təhsil və inkişaf konsepsiyası vardır. 70 il SSRİ dövründə inzibati
+amirlik metodu hökm sürmüşdür. Yəni yuxarıdan əmr və sərən-
+camlarla məktəblər idarə olunurdu. Demokratizm və prularizmin
+hökm sürdüyü müstəqil Azərbaycan hökumətinin isə özünə-
+məxsus təhsili və təhsil konsepsiyası vardır. Məktəblərin yenidən
+qurulması ilə əlaqədar Azərbaycan Respublikası Təhsil Qanunu
+və Təhsil Haqqında İslahat proqramları qəbul edildi. İstər Təhsil
+Qanunu, istərsə də təhsil haqqında İslahat proqramlarının tələb-
+lərinə uyğun olaraq Respublika Pedaqoji ictimaiyyətinin qarşısına
+aşağıdakı vəzifələr qoyulmuşdur:
+1. Yeni insan şəxsiyyətinin hərtərəfli və ahəngdar inki-
+şafını təmin etmək
+2. Şəxsiyyətin formalaşması qanunauyğunluqlarını
+aşkara çıxarmaq
+3. Qabaqcıl pedaqoji təcrübəni ümumiləşdirmək və yay-
+maq
+4. Müəllimin təlim-tərbiyə fəaliyyətini nəzəri metodika
+əsasında işləyib hazırlamaq
+5. Gənc nəslin təlim-tərbiyə işini təşkil etmək.
+Hər bir xalq dünya mədəniyyətinin inkişafına öz töhfəsini
+vermişdir. Bu mənada böyüyən nəslin təhsil və tərbiyəsi ilə bağlı
+yaranmış baxışların, nəzəriyyə və təcrübənin inkişafına təsir
+göstərən pedaqoji ideyaları bu və ya digər xalqın müstəsna
+xidmətlərinin nəticəsi hesab etmək olmaz. Elm və sənət hansı
+ölkədən gəlirsə gəlsin bütün insanlara aiddir. Ona görə də xüsusi
+qeyd olunmalıdır ki, dünya pedaqoji fikrinin dəyər statusu
+qazanmış nümunələri ayrı-ayrı seçilmiş xalqa və millətə deyil,
+bəşər mədəniyyətinə məxsusdur. Ona görə də, bu tarixi-pedaqoji
+irs dünya xalqları tərəfindən eyni dərəcədə öyrənilməli, tədqiq və
+təbliğ olunmalıdır. İndiki dövrdə bu böyük aktuallıq kəsb edir.
+7
+Müasir pedaqoji nəzəriyyələr tarixi inkişafın nəticəsidir. Tərbiyə
+və təhsilin müasir nəzəriyyəsi bükülüb-örtülmüş tarix, zəngin
+xəzinə və qiymətli mənbədir. Tarixsiz nəzəriyyə, nəzəriyyəsiz sə-
+mərəli təcrübə yoxdur. Keçmişlə hazırkı dövr və gələcək arasında
+qarşılıqlı əlaqənin dinamikası belədir. Buna görə də bizim bilik və
+təcrübəmiz zaman keçdikcə elə bir əsasa çevriləcəkdir ki, gələcək
+nəsil ona istinad edərək öz övladlarına təhsil, tərbiyə verə biləcək
+və eynilə bizim kimi öz dövrünün tələblərinə uyğun olaraq əldə
+etdiyi nəticələrlə bu təcrübəni zənginləşdirəcəkdir. Təkcə bu gün
+deyil, gələcəyi dərindən dərk etmək və qiymətləndirmək nöqteyi
+nəzərindən keçmişi yaxşı bilmək lazımdır. Keçmiş bu günlə sıx
+bağlı olduğu kimi, bu gün də gələcəklə sıx bağlıdır. Bir çox
+məsələlərdə gələcək üçün zəmin təşkil edəcək bu günün ağıllı,
+qabaqcıl fikirli ideyaları keçmişin mütərəqqi irsi ilə bağlıdır.
+Həmin irs bu gün də insanın ağlına, zəkasına qida və qüvvət verir.
+Eyni zamanda gələcək üçün daha yaxşı perspektivin yaradıl-
+masına, təhsil və tərbiyənin daha optimal üsulunun tapılmasına
+yardım edir. Məktəb və pedaqogika ideyalar və konsepsiyalar
+məcmusundan tədricən artıq elmə çevrilmişdir. Pozitiv pedaqoji
+ideyalar tarixin ayrı-ayrı məqamlarında tez-tez öz əhəmiyyətini
+itirərək aradan çıxmış, lakin sonralar başqa şəkildə özünü büruzə
+vermişdir. Təhsil, tərbiyə təchizatlarının inkişafı müxtəlif və
+ziddiyyətli olmuşdur. Zaman keçdikcə səviyyəsi, miqdarı və
+nəticələri daha da yüksəlmişdir. XX əsr təhsil modelləri cərə-
+yanlarının meydana çıxdığı, təhsilin insanları peşəkar fəaliyyətə
+və həyata hazırlanmasının ön plana çəkildiyi bir dövr kimi səciy-
+yələnir. Ənənəvi təhsildən fərqli olaraq müasir təhsil model-
+lərinin, konsepsiyalarının əsas ideyaları sadəcə olaraq təhsil
+alanların yaddaşını nəzəri faktlarla doldurmağa yönəlmişdir.
+Ənənəvi təhsildə fakt və hadisələri əzbərləməyə diqqət yetirilir-
+disə, müasir məktəbin əsas məqsədi isə rəqabətə qabil, tənqidi
+təfəkkürə malik, çevik idarəetmə təfəkkürünə malik, onu əhatə
+edən təsirlərə tənqidi yanaşmaq bacarığına malik, sərbəst qərar
+qəbul etmək qabiliyyətinə malik, dəyişən şəraitə çevik uyğun-
+laşmaq qabiliyyətinə malik, əməkdaşlıq etmə, “ünsiyyətqurma”,
+8
+müstəqil öz fikrini ifadə edə bilən şəxsiyyət formalaşdırmaqdır.
+Müasir təhsil sisteminin əsas tərəfi təhsilalana subyekt kimi ya-
+naşmaqla yeni insanın formalaşmasını cəmiyyətin əsas məqsədinə
+çevirməkdir. Bu isə insanların öz bacarıq və qabiliyyətlərinin
+reallaşması üçün maksimum şərait yaratmağı tələb edir. Müasir
+şəraitdə ölkələrdə tərbiyə işinin əsas məqsədi böyüyən nəsildə əsil
+vətəndaşlıq keyfiyyətlərini formalaşdırmaqdan ibarət olmalıdır.
+Çünki, təhsil insanın özünü və dünyanı dərk etməsinin təminatçısı
+rolunda çıxış edir. Təhsilin hərtərəfli və ahəngdar inkişafına təkan
+verir. Buna görə də, təlim təhsil vasitəsilə şəxsiyyətin yetkin-
+ləşməsi prosesində daha üzvi amilə çevrilir. İlk növbədə, təhsil
+vasitəsilə şəxsiyyətin inkişafı və tərbiyəsinin daha optimal,
+səmərəli, daha düzgün elmi əsaslarla qurmaq barəsində düşünmək
+lazım gəlir. İnsan 3 cəhətdən tərbiyə olunursa, o, şəxsiyyət
+bütövlüyünə yiyələnə bilər. Bunlar aşağıdakılardır:
+1) mənəvi-ruhi tərbiyə;
+2) əxlaqi və etik tərbiyə;
+3) ağlın, iradə və xarakterin tərbiyəsi.
+Bütün zamanlarda əxlaq və mənəviyyat şəxsiyyət
+bütövlüyünün meyarı kimi götürülmüşdür. Azərbaycan pedaqoji-
+ictimai fikrində şəxsiyyətin mənəviyyatı dedikdə, bütün insanlığın
+xeyrinə xidmət edən ümumbəşəri mənəviyyat nəzərdə tutulur.
+Müasir təhsil sistemində insanlara subyekt kimi yanaşmaq onun
+unikal, fəal, daxilən azad və mənəviyyatlı bir şəxsiyyət kimi ta-
+nınması əsas faktor kimi qəbul olunur. Fərdin imkanlılığı dedikdə,
+hər bir şəxsin təkrarolunmazlığı, bənzərsizliyi başa düşülmüşdür.
+Unikallıq fərdi xüsusiyyətlər və qabiliyyətləri müxtəlif
+olan şagird kontingentləri üçün variativ təhsil proqramlarının
+hazırlanması və tətbiqi yolu ilə təlim-tərbiyə proseslərini fərdi-
+ləşdirməyi və differensiallığı təmin edir.
+Təhsilin keyfiyyətini yaxşılaşdırmaq və bununla da XXI
+əsrdə ölkənin sosial, siyasi və iqtisadi tələbatlarını təmin etmək
+təhsil sahəsində islahatın əsas məqsədi kimi qarşıya qoyulmuşdur.
+“Bu məqsədlə Azərbaycan hökuməti maliyyə üçün ABŞ,
+İngiltərə, Yaponiya, Çin, Almaniya, Rusiya, Hollandiya kimi
+9
+inkişaf etmiş ölkələrlə və Dünya Bankı, UNİSEF, SOROS Fondu
+kimi təşkilatlarla iş birliyi qurmuşdur. Odur ki, 1999-cu ildən
+Təhsil Sahəsində İslahat Proqramı həyata keçirilməyə başlanmış
+və bu layihə təlim-tərbiyə prosesinin keyfiyyətinin yüksəldilməsi
+və səmərəliliyinin artırılması üzrə tədbirlərin həyata keçirilməsi
+istiqamətinə yönəldilmişdir. Bunun da mərkəzində ilkin müəllim
+hazırlığı, təhsilin məzmununun təkmilləşdirilməsi, idarəetmənin
+yeniləşdirilməsi, maliyələşmənin, qiymətləndirmənin yeni mode-
+linin işlənməsi və sairə durmuşdur”. (Bax: A.Mehrabov, Ə.Abba-
+sov, Z.Zeynalov, R.Həsənov. Pedaqoji texnologiyalar. Bakı-2006,
+səh. 17)
+Texnologiya yunan mənşəli söz olub, sənətə sistemli
+yanaşma deməkdir. Başqa sözlə texnologiya xüsusi sahələrdə
+biliklər sisteminin tətbiqi nəticəsində xüsusi metodlardan istifadə
+edərək tapşırığı yerinə yetirmək tərzi kimi dərk olunur.
+ƏDƏBİYYAT
+1. Ağamalıyev R. Azərbaycan təhsili XXI əsrə doğru:
+idarəetmə, prioritet, islahatlar. Bakı, 1998.
+2. Ağayev Ə., Talıbov Y., Eminov A., İsayev İ. Pedaqogika.
+Bakı, 2006.
+3. Təhsil haqqında Azərbaycan Respublikasının Qanunu.
+Bakı, 2009.
+4. Əlizadə Ə. Müasir Azərbaycan təhsilinin psixoloji
+problemləri.
+5. Əsgərov Ş. Təhsilimiz dünən, bu gün, sabah. Bakı, 2003.
+6. Mehrabov A. Azərbaycan təhsilinin müasir problemləri.
+Bakı, 2007.
+10
+II MÖVZU
+TƏLİM TEXNOLOGİYALARININ MAHİYYƏTİ
+VƏ MƏZMUNU
+PLAN:
+1. Pedaqoji texnologiyanın təlim prosesinə yeni baxış
+kimi daxil olması
+2. Ənənəvi yanaşma və texnologiyanın köməyi ilə
+təlim prosesinin idarə olunmasındakı başlıca fərqlər
+3. Əməkdaşlıq (kollektiv) təlim texnologiyası
+4. Layihələr metodu ilə təlim texnologiyası
+5. Modullu təlim texnologiyası
+Pedaqogika texnoloji təlim prosesinə yeni baxışdır. Bu
+baxışa görə təlim prosesi ənənəvi təlimdən fərqli olaraq mak-
+simum idarə olunan proses olmalıdır. Təlim texnologiyasının
+tarixi XX əsrin II yarısında bilikləri yoxlamaq üçün texniki
+qurğuların meydana gəlməsindən başlamışdır. Bir müddət təlim
+texnoloji təlimdə texniki vasitələrdən istifadə kimi başa
+düşülürdü. Alimlər belə hesab edirlər ki, texnikadan istifadə daha
+çox informasiya vermək üçün köməkçi xarakter daşıyır. Amma
+tədris prosesinin ayrı-ayrı mərhələlərində texnikanın tədris pro-
+sesinə daxil edilməsi aktiv inkişaf edir. Alimlər gələcəkdə müəl-
+lim və məktəbin köməyi olmadan öyrədici (təlimedici) sistem-
+lərdən müstəqil istifadə olacağını praqnozlaşdırırlar.
+XX əsrin 50-ci illərindən başlayaraq alimlərin axtarışları
+başqa istiqamət götürdü. Nəticədə təlim texnikası və texnizasiyası
+deyil, təlim texnikasə və texnologizasiyası anlayışları elmi döv-
+riyyəyə daxil olur. Proqramlaşdırılmış təlim, daha sonra infor-
+matika, kibernetika və sistemli yanaşma təlim prosesini texno-
+logiya kimi başa düşmək üçün bir əsas oldu. Təlim prosesinə
+geniş sistem kimi baxmağa başladılar. Buraya məqsədlərdən
+tutmuş, nəticələrə nəzarətə qədər hər şey daxil oldu. Başlıca ideya
+öyrədici (təlimedici) texnologiyanı ekranda canlandırmaq ideyası
+idi.
+11
+Mütəxəssislər və müəllimlərin özləri, təlimin texnikası
+ideyasına birmənalı münasibət bəsləmirlər. Müəllim əməyi hələ
+də mexanikləşdirilməmiş əl əməyi olaraq qalır. Bir çox peda-
+qoqlar belə hesab edirlər ki, bu belə də olmalıdır, çünki yalnız
+canlı insan oxuda, öyrədə bilər. Lakin təlim texnologiyasının
+inkişafı göstərir ki, hər bir fənni öyrətmək üçün texnoloji prosesi
+yaratmaq mümkündür. Texnologiya üzrə mütəxəssislər “Texno-
+loji proqramlar” təlim layihələri işləyib hazırlayırlar.
+Müəllimlər həmin paketlər və layihələrlə işləyən zaman
+məsləhətçi – təşkilatçı funksiyasını yerinə yetirirlər. Çoxlarına elə
+gəlir ki, bu hamının müqəddəs saydığı müəllimlik peşəsinə
+hörmətsizlikdir. Amma yadda saxlamaq lazımdır ki, bir çox müəl-
+limlər metodistlərin onlar üçün hazırladığı metodiki işləmələrdə,
+dərs planlarından məmnuniyyətlə istifadə edirlər. Köhnə əmək
+əməliyyatlarından azad olan müəllim sözün həqiqi mənasında
+pedaqoji işlə, şagirdlərin inkişafı ilə məşğul olur. Təlimdə şəxsiy-
+yətin, yaradıcılığın və mexanikləşdirmənin nisbəti məsələsi
+həqiqətən adi məsələ deyil, həll olunmalıdır. Beləliklə, pedaqoji
+texnologiya dedikdə, qabaqcadan verilmiş xarakteristikalar üzrə
+kompüter təlimi üçün işlənib hazırlanmış, optimal, didaktik
+proseslər başa düşülür.
+Bundan başqa, praktik planda pedaqoji texnologiya
+müəllimin hər hansı bir texnoloji cəhətdən işlənib hazırlanmış
+metodlar və priyomlar sistemini, nəhayət tərbiyə işinin meto-
+dikasını və metodlarını da ifadə edə bilər.
+Texnologiyanın köməyi ilə həll olunan başlıca problem
+təlim prosesinin idarə olunmasıdır. Ənənəvi “qeyri-təlim texno-
+logiyası” metodlarının nöqsanları vardır. Qeyri müəyyənlik öy-
+rənmə əməliyyatlarının az idarə olunması mənimsənilmənin yox-
+lanılmasının obyektiv və epizodik xarakter daşıması buna misal
+ola bilər.
+Ənənəvi yanaşmada müəllim teoremi öyrətmək, şeri təhlil
+etmək, kvadrat tənlikləri həll etmək və s. məqsədləri qoyur. Bu
+məqsədlər şagirdlərin fəaliyyətini təsvir etmir. Texnologiyaya
+görə təlimin məqsədi şagirdin vəziyyətini, onun biliklərini,
+12
+fikirlərini, hisslərini, davranışını dəyişməkdir. Texnologiyanın
+vəzifəsi təlimedici sistemin bütün elementlərini öyrənmək və
+təlim prosesini layihələşdirməkdir.
+Təhsil məktəblərində geniş yayılmış, lakin şəxsiyyətin
+hərtərəfli inkişaf etməsində imkanları məhdud olan ənənəvi təlim
+texnologiyaları XX əsrin sonunda bir çox yaradıcı, yenilikçi
+pedaqoqlar tərəfindən təhsildə effektiv olmayan, hətta zərərli
+nəticələr verən texnologiyalar kimi qiymətləndirilməyə başlandı.
+Bu cür qiymətləndirmə inkişaf etmiş ölkələrdə cəmiyyətin məlu-
+matlılıq səciyyəsinin kifayət qədər yüksək olması ilə qiymət-
+ləndirilirdi. Tədris prosesində təhsil alanın hərtərəfli şəxsiyyət
+kimi formalaşması üçün yeni pedaqoji texnologiyalardan məq-
+sədəuyğun və kompleks şəkildə istifadə edilməsi daha yüksək
+nailliyyətlər əldə etməyə imkan verir. Burada məqsədə və təlimin
+məzmununa uyğun texnologiyalar seçilməsi və onların ardıcıl,
+qabaqcadan müəyyənləşdirilmiş vaxtda yerinə yetirmək məqsədə-
+müvafiqdir. Hazırda müasir pedaqoji praktikada daha geniş tətbiq
+olunan şəxsiyyətyönümlü-inkişafetdirici pedaqoji texnologiyalar
+aşağıdakılardır:
+1) Əməkdaşlıqla təlim texnologiyası;
+2) Layihələr metodu ilə təlim texnologiyası;
+3) Modulla təlim texnologiyası.
+Son illər tədris prosesində istifadə olunmağa başlayan
+daha artıq maraq göstərilən təlim texnologiyasının mahiyyəti və
+məzmunu ilə bir qədər ətraflı tanış olaq:
+Əməkdaşlıqla (kollektiv) təlim texnologiyası – bu təlim
+texnologiyasında əsas ideya nəyisə birlikdə yerinə yetirmək yox,
+birlikdə öyrənməkdir. Kollektiv təlim texnologiyası XX sərin 80-
+cı illərindən ABŞ və İsrail pedaqoqları Ravin və onun şagirdləri
+tərəfindən işlənmişdir. Bu kollektiv qarşılıqlı təlim texnologi-
+yasının aşağıdakı üstünlükləri vardır:
+1) Müntəzəm şəkildə təkrar olunan çalışmalar nəticəsində
+şagirdlərdə məntiqi təfəkkür və anlama vərdişləri təkmilləşir
+13
+2) Şifahi nitq prosesində və görülmüş işlərin müzakirəsi
+zamanı şagirdlərin fikri fəaliyyət vərdişləri inkişaf edir, əvvəllər
+qazandığı təcrübə və bilikləri aktuallaşır
+3) Qruplarda işləyən hər bir uşaq özünü sərbəst hiss edir,
+təlim tapşırıqlarını özünəməxsus tempdə yerinə yetirir
+4) Uşaq həm öz işinin, həm də kollektivin işinin nəticəsi
+üçün məsuliyyət daşıyır
+5) Uşaqda öz şəxsi keyfiyyətlərini, imkan və qabiliy-
+yətlərini qiymətləndirmək bacarığı formalaşır
+6) Bu informasiyanın bir neçə müxtəlif tərəfdaşla müza-
+kirəsi assosiativ əlaqənin miqdarını çoxaldır. Bununla da mənim-
+səmə daha da möhkəmlənir.
+Bu metodda qrupun əsas üzvləri mövzu üzərində
+yoldaşları ilə əlaqəli şəkildə işləyirlər. Birlikdə qarşıya qoyulmuş
+məqsədə nail olmağa çalışırlar. Tapşırıqlar, onların yerinə
+yetirilməsi üçün ayrılan vaxt müxtəlif olur. Komandalar bir-birilə
+yarışmırlar, onlar müxtəlif müddətdə müxtəlif tapşırıqlara cavab
+hazırlayırlar. Hər bir qrupun müvəffəqiyyəti onun üzvlərinin fərdi
+məsuliyyəti və çalışqanlığı ilə bağlıdır. Buna görə də qrupun bü-
+tün üzvləri çalışırlar ki, verilən tapşırığı, materialları yaxşı mə-
+nimsəyə bilsinlər. Kollektivlə iş zamanı müəllimin əsas vəzifəsi
+uşaqları bilməməkdə, bacarmamaqda günahlandırmaq və bunları
+sinifdə elan etmək deyil, onları bilmədiklərini və bacarmadıqlarını
+öyrənməyə, istiqamətləndirməyə yol göstərməkdir. Onların fəa-
+liyyəti müddətində müəllim uşaqların gördükləri işləri izləməli,
+lazım gəldikdə ehtiyacı olan qrupa kömək etməlidir. Müəllim öz
+köməkliyini xeyirxahlıqla, sakit tərzdə etməli və bunu qrupda
+müzakirə aparan uşaqlara təlqin etməlidir. Əgər qrup verilən
+tapşırığın öhdəsindən gələ bilmirsə bunun 2 səbəbi var:
+I. tapşırıq həddən artıq çətin və mürəkkəbdir;
+II.tapşırığı əldə etmək üçün uşaqlarda möhkəm praktik
+vərdişlər yaranmayıb.
+Bütün bu hallarda müəllimin pedaqoji ustalığınıın artırıl-
+ması istiqamətində iş aparılmalıdır.
+14
+Layihələr metodu ilə təlim texnologiyası – Layihələr
+metodu XX əsrin 20-ci illərindən ABŞ-da Con Djui və onun
+şagirdi Kill Patrin tərəfindən işlənmişdir. Bu metodla fəal təlim
+əsas şagirdin məqsədəuyğun fəaliyyəti ilə onun şəxsi maraqlarına
+uyğun qurulmuşdur. Metodun əsas mahiyyəti uşaqların əldə
+etdikləri biliklərin həyatda onlara lazım olmağını göstərməkdir.
+Tədris prosesində şagirdə tanış olmayan, onun üçün əhəmiyyət
+daşıyan, real həyatdan götürülmüş ən vacib problemin həllinə,
+onun malik olduğu və əldə edəcəyi biliklərdən istifadə etmək
+öyrədilir. Müəllim yeni informasiyaların alınma mənbəyini gös-
+tərə bilir və bu informasiyadan necə axtarmağın mümkün oldu-
+ğunu deyə bilir, uşağı istiqamətləndirə bilir. Layihələr meto-
+dundan uşaqlar fərdi, cütlər və qrup şəklində müəyyən vaxt
+ərzində müstəqil fəaliyyət göstərməyə, həmişə hansısa bir prob-
+lemi həll etməyə yönəlir. Problemin həllində müxtəlif təlim
+metodları və vasitələri tətbiq edilməklə yanaşı, həm də müxtəlif
+elm, texnika sahəsində sınaqdan çıxmış biliklərdən interaktiv
+şəkildə istifadə etməsi nəzərdə tutulur.
+Müasir pedaqoji texnologiyaların bünövrəsi kimi layihələr
+metodu-müxtəlif təlim vasitələri və informasiya texnologiyaların-
+dan istifadə etməklə reallaşır. Burada həm müasir (kompüter
+telekommunikasiyaları, elektron baza göstəriciləri, video və
+multimedia vasitələri, faks, video rabitə), həm də ənənəvi (elm və
+məlumat kitabları, video yazıları və b.) tədris vasitələrindən
+istifadə edilə bilər. Həmçinin layihələr metodu bir kompleks
+problem üzrə yerinə yetirilir.
+Modulla təlim texnologiyası – Təlimdə şəxsiyyətyö-
+nümlü konsepsiyanın reallaşdırılması, inkişafetdirici pedaqoji
+texnologiyaların layihələşməsi və praktikada tətbiqi onların
+müxtəlif şəraitdə, müxtəlif mövzular üzrə sınaqdan çıxarılmasını,
+bu sahədə pedaqoji təcrübənin öyrənilməsini tələb edir.
+Məktəblərdə tətbiqinə geniş maraq göstərilən yeni peda-
+qoji texnologiyalardan biri də modulla təlim texnologiyasıdır.
+Təlimin modul texnologiyası dedikdə, uşaqların müstəqil olaraq
+15
+dərsdə və dərsdənkənar vaxtlarda modullu iş prosesində konkret
+təlim məqsədlərinə nail olması başa düşülür.
+Görkəmli tədqiqatçı alimlərdən A.Mehrabov, Ə.Ağayev,
+Ə.Abbasov, Z.Zeynalov, R.Həsənov və b. texnoloji yanaşmanın
+strukturunu şaquli və üfuqi olmaqla iki yerə bölürlər. Belə
+texnoloji yanaşmanın şaquli strukturunda bir-birilə əlaqəli – meta,
+makro, mezo və mikrotexnologiyaları ayırmaq lazımdır.
+Matetexnologiya – sosial pedaqoji səviyyədə təhsil sahə-
+sində sosial siyasəti həyata keçirməyə imkan verən ümum-
+pedaqoji (ümumdidaktik, ümumtərbiyə) texnologiyadır.
+Makrotexnologiya və ya təhsil sahələri üzrə texnologiya
+hər hansı təhsil sahəsini təlim-tərbiyə prosesinin müəyyən
+istiqamətini, ümumpedaqoji və ümummetodiki səviyyədə fənnin
+tədrisi ilə bağlı fəaliyyət sahələrini əhatə edir.
+Mezotexnologiya və ya lokal modul texnologiya təlim-
+tərbiyə prosesinin ayrı-ayrı hissələri (modulları), xüsusi, didaktik,
+metodik və ya tərbiyənin müəyyən bir problem sahəsi ilə bağlı
+məsələləri həll etmək üçün tətbiq olunan texnologiyadır.
+Mikrotexnologiya – pedaqoji prosesin subyektləri arasın-
+dakı operativ məsələlərin, qarşılıqlı əlaqələrin, yazı vərdişlərinin
+həlli ilə bağlı texnologiyadır. Belə texnologiyalara misal olaraq
+yazı vərdişlərinin formalaşdırılması, subyektin (şəxsiyyətin, tədris
+prosesinin iştirakçılarının) şəxsi keyfiyyətlərinin korreksiyası
+üçün treninqlərin təşkili ilə bağlı texnologiyaları göstərmək olar.
+(Bax: A.Mehrabov, Ə.Abbasov, Z.Zeynalov, R.Həsənov. Peda-
+qoji texnologiyalar. Bakı-2006, səh. 11)
+ƏDƏBİYYAT
+1. Ağayev Ə. Təlim prosesi: Ənənə və müasirlik. Bakı, 2006.
+2. Qaralov Z. Tərbiyə (prinsiplər, məzmun, metodika), I, II,
+III cild. Bakı, 2003.
+3. Mərdanov M. Azərbaycan təhsil sistemi: real vəziyyət,
+problemlər və islahat istiqamətləri. Bakı, 2005.
+16
+4. Mehrabov A., Abbasov Ə., Zeynalov Z., Həsənov R.
+Pedaqoji texnologiyalar. Bakı, 2006.
+5. Nəzərov A., Məmmədov R. Pedaqoji ustalıq. Dərs vəsaiti.
+Bakı, 2008.
+6. Nəzərov A., Mollayeva E. Müasir dövrün təhsil
+problemləri. Dərs vəsaiti. Bakı, 2011.
+7. Təhsil sahəsində Azərbaycan Respublikasının İslahat
+proqramı (1998 – 2004). I kitab, Bakı, 2005, I cild.
+8. Təhsil haqqında Azərbaycan Respublikasının Qanunu.
+Bakı, 2009.
+17
+III MÖVZU
+TƏLİM TEXNOLOGİYASININ STRUKTUR VƏ
+FUNKSİONAL KOMPONENTLƏRİ
+PLAN:
+1 Praktik mənada texnologiya dedikdə nə başa
+düşülür
+2 Təlim texnologiyalarını təşkil edən başlıca
+əlamətlər
+3 Pedaqoji texnologiyaların təsnifatı
+4 Pedaqoji sistemin təkmilləşdirilməsinin yolları
+5 İdarəetmədə böyük dəyişikliyin baş verməsinin
+səbəbi
+6 Pedaqoji texnologiyaların təkmilləşdirici funksiyası
+7 Tədris prosesində pedaqoji texnologiyalardan
+istifadənin yolları
+Praktik mənada pedaqoji texnologiya dedikdə, həm də
+qarşıya qoyulmuş məqsədə uyğun olaraq bilik, bacarıq, vərdiş və
+münasibətləri formalaşdırmaq və onlara nəzarəti həyata keçirmək
+üçün əməliyyatlar kompleksi başa düşülür.
+Pedaqoji texnologiyada müəllimin fəaliyyətini aşağıdakı
+funksional komponentlərə ayırmaq olar:
+1) Qnostik (idraki) komponent
+2) Layihələşdirici komponent
+3) Konstruktiv komponent
+4) Təşkilatçılıq komponenti
+5) Kommunikativ (ünsiyyət) komponent
+Beləliklə, müəllimin təlim texnologiyalarını aşağıdakı
+əməliyyatlar təşkil edir:
+I. Bilikləri toplamaq üçün (əldə etmək) əməliyyatlar
+II. Təlimin və təhsil-tərbiyənin məqsədlərini layihələş-
+dirmək üçün əməliyyatlar
+III. Təlim və təhsil-tərbiyə prosesini təşkil etmək üçün
+əməliyyatlar
+18
+IV. Bilikləri şagirdlərə öyrətmək üçün əməliyyatlar
+Qnostik komponentə daxildir: təlim, təhsil-tərbiyənin
+məqsədləri, tədris etdiyi fənnin məzmunu barədə biliklər, şagird-
+ləri öyrənmək, təlim prinsiplərini və texnologiyalarını öyrənmək,
+öyrədici və tərbiyəedici məşğələlər keçirmək və s.
+Layihələşdirici komponent. Uzaq məqsədləri (pespek-
+tivləri), əməliyyatları, vasitələri özündə birləşdirir; layihələşdirmə
+cinsi fərqlər nəzərə almaqla həyata keçirilməlidir
+Konstruktiv komponent. Qarşıdakı məşğələni hazırla-
+maq üçün əməliyyatlar komplektini nəzərdə tutur
+Təşkilatçılıq komponenti. Məşğələləri hazırlamaq və
+keçirmək üçün əməliyyatlar komplektini nəzərdə tutur
+Kommunikativ komponent. Şagirdlərlə qarşılıqlı ünsiy-
+yət prosesi zamanı fəaliyyət üçün əməliyyatlar komplektini
+özündə birləşdirir.
+Son iki komponent (kommunikativ və təşkilatçılıq
+komponentləri) bir-biri ilə sıx əlaqədədirlər.
+Texnologiyaların müxtəlif təsnifatları var. Onlardan ikisi –
+pedaqoji və psixoloji texnologiyalar xüsusilə qeyd edilməlidir.
+Pedaqoji texnologiyalarda əməliyyatlar və hərəkətlər fiziki cəhət-
+dən hiss olunur. Psixoloji texnologiyalar gizli xarakter daşıyır.
+Bu, konkret insanın psixikasında baş verən əməliyyatlar və
+hərəkətlərdir. Amma pedaqoji və psixoloji texnologiyalar arasın-
+da dəqiq sərhəddi müəyyənləşdirmək olduqca çətindir.
+Pedaqoji texnologiyalar aşağıdakı kimi təsnif oluna bilər:
+1) Təlim texnologiyası
+2) Tərbiyə texnologiyası
+3) İnkişaf texnologiyası
+4) Diaqnostika texnologiyası
+Təlim texnologiyası dedikdə, bilik, bacarıq və vərdişləri
+formalaşdırmaq üçün əməliyyatlar komplekti başa düşülür.
+Tərbiyə texnologiyası dedikdə, nisbi, sabit və müntəzəm
+olaraq ümumiləşən münasibətlərin, məqsədyönlü formalaşdırıl-
+ması üçün əməliyyatlar komplekti başa düşülür.
+19
+İnkişaf texnologiyası təlim və təhsil-tərbiyə texnologiyası
+ilə əlaqədardır. Psixi inkişaf dedikdə, əqli bacarıqların forma-
+laşdırılması, insan psixikasında hər hansı əməliyyatların (çıxarıl-
+ması) çoxalması nəzərdə tutulur.
+Beləliklə, bacarıqların formalaşması harada baş verirsə
+orada da psixi inkişaf müşahidə olunur.
+Fiziki inkişaf zamanı fiziki bacarıqlar nəticə kimi özünü
+göstərir.
+Diaqnostika texnologiyası pedaqoqların və ya psixoloq-
+ların uşağın məktəbə hazırlığını diaqnostlaşdırmasıdır
+Pedaqoji texnologiyaların psixi materialı vardır. Məsələn,
+təlim prosesində predmetlərin və hadisələrin psixi obrazları
+biliklərin psixi materialı hesab olunur. 12 növ analizatorun beyinə
+gətirdiyi informasiya orada 12 növ obraz yaradır. Deməli, biliklər
+şagirdlərin psixikasında formalaşmış obrazlardır.
+Əgər biliklərin psixi materialı obyektlərin və ya hadisə-
+lərin obrazlarıdırsa, inkişafın psixi materialı psixi əməliyyatlardır.
+Bu əməliyyatlar psixi proseslərdə həyata keçirilir. Şagirdlərin
+psixi inkişafı psixi proseslərdə yeni psixi əməliyyatların for-
+malaşdırılmasını nəzərdə tutur.
+Münasibətlər təhsil-tərbiyənin psixi materialını təşkil edir.
+Münasibətlərin tərbiyə prosesinin materialı olması üçün onlar
+aşağıdakı göstəricilər üzrə ölçülməlidir: həcminə görə; anlaşılan
+olmasına görə; sabit və müntəzəm olmasına görə; ümumiləşdirici
+olmasına görə; oyadıcı qüvvə olmasına görə.
+Münasibətlər insanın davranışında təzahür edəndə, o idarə
+olunanda tərbiyə prosesinin nəticəsi hesab olunur.
+Cəmiyyət inkişaf etdikcə hər sahədə olduğu kimi pedaqoji
+sahədə də yeni-yeni tələblər irəli sürülür. Bu isə pedaqoji prosesin
+təkmilləşməsi, yeni məzmun, forma və metodlar tətbiq etməyi
+zəruri edir.
+Pedaqoji sistemin təkmilləşməsi iki yolla həyata keçirilir:
+1.  İntensiv yol
+2. Ekstensiv yol
+20
+İntensiv yol pedaqoji sistemin daxili ehtiyatlarını işə sal-
+maqla bağlıdır. Məsələn, yeni metodlar tətbiq etməklə şagirdlərə
+müstəqil iş bacarıqları aşılanmaqla onları özünütəhsilə cəlb etmək
+intensiv yoldur.
+Ekstensiv yol pedaqoji prosesə əlavə vaxt və vəsait cəlb
+olunmasını nəzərdə tutur. Məsələn, gənc nəslə möhkəm bilik
+vermək üçün təlim müddətini uzatmaq, proqramları genişlən-
+dirmək olar. Bu ekstensiv yoldur. Halbuki bunsuz da məqsədə
+nail olmaq mümkündür.
+Pedaqoji prosesdə yeniliklərin miqyası müxtəlif ola bilər.
+Müəyyən bir metodu, formanı təkmilləşdirmək, yeni iş texno-
+logiyalarını tətbiq etmək, yaxud təhsil-tərbiyə sistemini yeniləş-
+dirmək.
+Respublikada hazırda islahatlar aparılır. Təhsilin maddi
+bazası, təhsil və tərbiyə işinin məzmununda, metodikasında,
+müəllim-şagird münasibətlərində, idarə etmədə böyük dəyişiklik
+baş verir. Azərbaycanda milli dövlət quruculuğunun başlanması
+ilə pedaqoji nəzəriyyə və praktikada əvvəllər bərqərar olmuş
+stereotiplərin köhnəldiyi dərk edildi. Yeni pedaqoji konsepsiyalar,
+nəzəriyyələr irəli sürüldü. Yeni pedaqoji təfəkkür, milli qaynaqlar
+və ümumbəşəri dəyərlər zəmində yaranan məktəbin inkişafında
+təsir edə biləcək konsepsiyalar, nəzəriyyələr meydana çıxdı.
+Şagirdin bir şəxsiyyət kimi formalaşması təhsil sisteminin
+əsas vəzifəsi hesab olunur. Bu köklü vəzifənin həyata keçirilməsi
+üçün təhsilin, təlimin inkişafetdirici, tərbiyəedici, diaqnostik
+funksiyaların genişlənməsi ön plana çəkildi.
+Pedaqogikanın metodoloji problemlərinə, strukturlarına
+dair yeni ideyalar, fikirlər, yanaşmalar formalaşdı. Bu dövrdə
+təlim və tərbiyə nəzəriyyəsində ciddi dəyişiklik baş verdi. İde-
+yalar dəyişdi. Elmi pedaqogikanın qarşısında duran ən aktual
+problemlərdən biri ahəngdar şəxsiyyətin formalaşması məsə-
+ləsidir.
+Məlum olduğu kimi zaman-zaman bu barədə müxtəlif
+fikirlər və fərqli nəzəriyyələr yaranmışdır. Təlimin əsas məqsədi
+şagirdlərin şüurunda dünyanın düzgün mənzərəsini yaratmaq,
+21
+onların intellektual inkişafını və tərbiyəsini təmin etməkdən
+ibarətdir.
+Təlim metodu bütövlükdə pedaqoji proseslərin ünsür-
+lərindən olub, digər ünsürlərlə vəhdətdə çıxış edir. O təlimin məq-
+səd və məzmununa xidmət edir. Məqsəd və məzmun dəyişdikcə
+metod və texnologiyalar da dəyişir.
+Qeyri səmərəli metodlarla yüksək təlim-tərbiyə nəticə-
+lərinə nail olmaq olmaz.
+Müasir dərs yalnız tədris vəzifələrinin deyil, təlim, tərbiyə
+və inkişafın bir-biri ilə qarşılıqlı əlaqədə olduğu konpleks
+vəzifələrinin planlaşdırılmasını tələb edir.
+Təlimləndirici funksiya: Pedaqoji texnologiyaların bu
+funksiyası aparıcı vəzifədir. Bu funksiyanın nailiyyətləri dərsdə
+qarşıya qoyulmuş didaktik vəzifəyə tam uyğun olaraq demokratik
+və adekvat metodu seçməkdə məzmun son dərəcə aydın və ifadəli
+təmin edilməsində özünü göstərir.
+Tərbiyəedici funksiya: Ənənəvi təlim prosesində
+tərbiyəedici dərs dərsin müəyyən hissəsində onun üçün bilavasitə
+əlverişli şəraitin olması anda yerinə yetirilir. Adətən bir çox
+hallarda material izah olunub başa çatandan sonra tərbiyəvi nəticə
+çıxarılır. Təlim prosesində tərbiyəvi işin təşkili fəaliyyətdə olan
+materialın məzmununda və dövlət ideologiyasından asılı olur.
+Təlim metodlarının köməyi ilə əsas tətbiyəvi ideyalar kollek-
+tivçilik, əməkdaşlıq, qarşılıqlı, yaradıcı və s. həyata keçirilir.
+Kollektiv fəaliyyətdə şəxsiyyətlərarası əlaqələr möhkəmləndirilir.
+Təlim prosesində tərbiyə təlimin metodik sistminin təşkilində öz
+həllini tapır. Təlim prosesində müəllim şagirdin idrak fəaliyyətini
+idarə edir, onu inkişaf etdirir. İnkişafetdirici təlim idealı ensiklo-
+pedik, inkişaf etmiş şəxsiyyət deyil, çevik, ağıllı, hər yeniliyə cəld
+reaksiya verən, gələcəkdə dərk etməyə və müstəqil fəaliyyətə
+tələbatları olan, yaxşı bələdləşmə vərdişlərinə, yaradıcı qabiliy-
+yətə yiyələnən şəxslərdir.
+İlk dəfə inkişaf etmiş ölkələrdə yaranmış yeni pedaqoji
+texnologiyalarla əlaqədar təlim metodları keçən əsrin yetmişinci
+illərində məktəblərdə “Proqramlaşdırılmış təlim” adı ilə geniş
+22
+tətbiq olunmağa başlanmışdır. Bu ölkələrdə yeni pedaqoji
+texnologiyalar təlim metodları kimi proqramlaşdırıldığı halda,
+bizim məktəblərimizdə bu metod düzgün qiymətləndirilmədi-
+yindən müsbət nəticə verməmişdir. Lakin bütün bunlara bax-
+mayaraq, o illərdən başlayaraq tədricən yeni pedaqoji tenolo-
+giyalarla əlaqədar proqram tələblərinin şərtləri elmi-nəzəri cəhət-
+dən əsaslandırılmış və tətbiqinə dair tövsiyələr hazırlanmışdır.
+Belə ki, nəzərdə tutulmuş didaktik problemlər yüksək nailiyyətlər
+səviyyəsində elmi-nəzəri təhlil və həll edilərək tətbiqi imkanları
+dəqiqləşdirilir, müəllimə normal işləmək üçün məntiqi iş ahəng-
+darlığının yaradılması yolları müəyyənləşdirilir, habelə tədris
+prosesində müəllim-şagird münasibətlərinin, birgə fəaliyyət,
+qarşılıqlı əməkdaşlıq strukturları formalaşdırılır.
+Təlim texnologiyalarından istifadə onun müxtəlif növləri –
+problemli təlim, işgüzar oyunlar, modul təlim, Valdorar peda-
+qogikası, Şatalov pedaqoji sistemi, kompüter təlimi və s. bunların
+hamısı təlim texnologiyalarının formaları kimi təhlil edilməlidir.
+Hazırda respublikamızın bir sıra şəhər və kənd məktəb-
+lərində təlimin yeni texnologiyaları əsasında qurulan, yeni
+texnologiya metod və vasitələrə əsaslanan dərs nümunələrini
+nümayiş etdirə bilən bir sıra qabaqcıl müəllimlərimiz vardır. Bu
+sahədə müəllimlər neçə illərdir ki, öz ustalıqlarını artırırlar.
+ƏDƏBİYYAT
+1. Abbasov A., Əlizadə H. Pedaqogika. Bakı, 2000.
+2. Cabbarov R. Təlim-tərbiyə müəssisələrinin idarə olunması
+məsələləri. Bakı, 2002.
+3. Mehrabov A. və b. Pedaqoji texnologiyalar. Bakı, 2006.
+4. Nəzərov A., Məmmədov R. Pedaqoji ustalıq. Bakı, 2008.
+5. Nəzərov A. “Müasir təlim texnologiyaları” fənni üzrə
+proqram. Bakı, 2010.
+6. Sadıqov F. Pedaqogika. Bakı, 2006.
+7. “Qloballaşma və Azərbaycanda təhsilin aktual problem
+ləri”.Beynəlxalq Elmi-praktik konfransın materialları.Bakı,
+2004.
+23
+IV MÖVZU
+TƏLİM TEXNOLOGİYALARININ TƏSNİFATI VƏ
+XARAKTERİK XÜSUSİYYƏTLƏRİ
+PLAN:
+1. Pedaqoji texnologiyaların təhlilinin məktəb
+müəllimlərinə və psixoloqlarına kömək etməsi
+2. Bəzi pedaqoji texnologiyaların təhlili; “fikirlərin
+hücumu” (məqsədlər)
+3. Binar dərs (məqsədlər)
+4. Qarşılıqlı nəzarət (məqsədlər)
+5. Pedaqoji texnologiya təlim prosesinə yeni baxış
+kimi
+Pedaqoji texnologiyaların təhlili məktəb müəllimlərinə və
+psixoloqlarına kömək etməlidir. Təlim prosesində ən səmərəli yol
+bu və ya digər situasiya üçün əlverişli olan pedaqoji texnologiyanı
+tətbiq etməkdir.
+Aşağıda bəzi pedaqoji texnologiyaların təhlili verilir:
+“Fikirlərin hücumu” (məqsədlər).
+1. Şagirdlərin yaradıcı fikirlərini birləşdirməklə elmi və ya
+təlim problemini həll etmək, “kollektiv beyin” yaratmaq
+2. Əməkdaşlıq etmək bacarıqlarını, qanuna tabelik
+vərdişlərini tərbiyə etmək
+3. Şagirdlərin yaradıcılığını inkişaf etdirmək.
+Bu  texnologiya məktəbdə sorğu zamanı yeni materialı
+öyrənəndə, keçilmiş materialı təkrar edəndə və ümumiləşdirəndə,
+problemləri həll edəndə, sinfin planlarını tərtib edəndə və b.
+hallarda tətbiq edilir. Bundan bütün fənlərin tədrisində istifadə
+etmək olar. Onun ardıcıllığı, gedişi belədir:
+I. Şagirdlərə mövzu, məqsəd bildirilir və onlarda maraq
+yaradılır
+II. Əməkdaşlığın ümumi qaydaları bildirilir
+III. Qiymətləndirmə meyarları bildirilir
+IV. Elmi aspektlər və katib təyin olunur
+24
+V. Müəllim və ya başqa aparıcı ilkin situasiyanı şərh edir.
+O, deyir: “Uşaqlar, qarşıda tədris ili durur. Biz onu maraqlı keçirə
+bilərik. Amma onu necə keçirmək bizim özümüzdən asılıdır. İndi
+bizim hər birimiz tədris ilində nə ilə məşğul olmaq istədiyimizi
+açıq-aşkar deyə bilərik. İstədiyiniz məşğələni təklif edin. Əmin
+olun ki, bütün təkliflər yazılacaqdır. Onların real və qeyri-real
+olması barədə düşünməyin, istədiyiniz fikri söyləyin. Bilin,
+başqalarının təkliflərini tənqid etmək olmaz”.
+Katiblər hər şeyi yazı taxtasında yazırlar. Müəllimin və ya
+aparıcının davranışı xeyirxah olmalı, tənqidə yol verməməlidir.
+VI.   Başlanğıc informasiya ilə tanış olunur. Şagidlər onu
+dinləyir, agər nə isə aydın deyilsə, sual verib dəqiqləşdirirlər
+VII. Əlavə informasiya verilir. Müəllim əgər lazım gələrsə
+son nəticəni bir daha qeyd edir.
+VIII. Fikirlərin hücumu başlanır. Hər bir şagird qısa
+işgüzar təkliflərlə sərbəst formada çıxış edir. Hər bir təklif qısa
+formada lövhədə yazılır. Ekspertlər fikirləri qısa ifadə etməyə
+kömək göstərir, katiblər isə yazırlar. Ekspertlər, katiblər fikirlərin
+hücumunu müntəzəm olaraq müdafiə edirlər. Dinləyicilərin
+təkliflərinə heç kəs cavab vermir, heç kəs qiymətləndirmir, təhlil
+etmir, necə deyilirsə yazı taxtasına elə də yazılır. Hücumun
+müddəti 45 dəqiqədən çox olmur.
+IX. Şagirdlərin fəallığı sönür, təkliflər gəlmir, fikirlərin
+hücumu başa çatır.
+X. Ekspertlər fikirlərin hücumunu təhlil edirlər, növbəti
+mərhələdə nəticələr bildirilir. Nəticələri inssenrizovka
+(texnologiya) qurtaran kimi də bildirmək olar.
+XI. Müəllim və ya aparıcı yekunlaşdırır və ümumi-
+ləşdirmələr aparır.
+Tədris prosesində “Fikirlərin hücumu” texnologiyası az
+tətbiq olunur, çünki bu çətin texnologiyadır. Bu texnologiya
+danışmaq bacarığının, pozitiv emosiyaların, şagirdlərin müsbət
+“mən” konsepsiyasının, əməkdaşlıq etmək bacarığının – qanuna
+tabe olmaq bacarıqlarının inkişafına müsbət təsir edir. “Fikirlərin
+hücumu”nda müəllimin davranışından çox şey asılıdır. Əgər o,
+25
+şagirdin fəaliyyətinə neqativ qiymət verərsə onda bu texno-
+logiyanın effektini heçə endirər.
+Binar dərs (məqsədlər).
+a. Fənlər üzrə bilikləri transformasiya səviyyəsində
+öyrənmək
+b. Müəllimlərin əməkdaşlığını inkişaf etdirmək
+c. Şagirdlərdə fənlərin bir-biri ilə bağlılığı əlaqəsi,
+dünyanın tamlığı barədə əqidələri formalaşdırmaqdır
+Binar dərsin keçirilməsində bir neçə müəllim iştirak edir.
+Bu texnologiya daha çox mühazirələri oxuyan zaman istifadə
+olunur. Mühazirəni 2 ayrı-ayrı fənn müəllimi oxuya bilər. Bu
+texnologiyadan seminar məşğələlərində və müsahibəni keçirəndə
+də istifadə olunur.
+Qarşılıqlı nəzarət. (məqsədlər)
+1. Şagirdlərin biliyini yoxlamaq
+2. Hər bir şagirdə öz müvəffəqiyyətləri barədə yoldaş-
+larına məlumat vermək imkanı yaratmaq
+3. Zəif şagirdlərin güclü şagirdlər qarşısında olan
+inamsızlığını aradan qaldırmaq
+4. Şagirdlərin nitqini inkişaf etdirmək
+5. Sorğunu intensivləşdirmək
+6. “Mən” konsepsiyasını tərbiyə etmək
+Qarşılıqlı nəzarət müxtəlif yaşlı şagirdlərlə keçirilə bilər.
+Sorğunun bu növünü tətbiq etməzdən qabaq cavablara qiymət
+vermək bacarığını inkişaf etdirmək üçün şagirdlərlə hazırlıq işi
+aparılır. Bu zaman yaxşı olar ki, I mərhələdə şagirdlər yalnız
+müvəffəqiyyətə diqqət versinlər. Cavabın düzgünlüyü, tamlığı,
+fikrin dəqiqliyi əsas meyarlar kimi götürülür.
+Qarşılıqlı nəzarət aşağıdakı kimi aparılır:
+1. Müəllimin müəyyən mövzu və məsələlər üzrə qarşılıqlı
+yoxlama aparılacağını xəbər verir. Sinif müəllimlərə və şagirdlərə
+bölünür. Bir parta arxasında oturanlar müxtəlif rollarda (biri
+müəllim, o biri şagird) çıxış edirlər.
+2. “Şagirdlər” öz “Müəllimlər”-inə cavab verirlər. Baş-
+qalarına mane olmamaq üçün cavab verənlər astadan danışma-
+26
+lıdır. “Şagirdlər” cavab verəndən sonra qiymət verilir. Qiymətlər
+yazılı da ola bilər. Bu məqsədlə fərdi uçot vərəqi aşmaq lazımdır.
+Qiymət verərkən sinifdə münaqişəli vəziyyətin yaranmasına yol
+verilməməlidir.
+3. Şagirlər rollarını dəyişə bilərlər. Şagird rolunda çıxış
+edənlər müəllim rolunda çıxış edirlər. Şagirdlərin yerlərini də
+dəyişmək olar. Bu cütlər arasında gərginlik yaranan zaman edilir.
+Hər dərsdə cütlərin yerini dəyişmək yaxşı olar. Bu ünsiyyət
+dairəsini genişləndirməyə kömək edir.
+Qarşılıqlı nəzarət korreksiya funksiyasını yerinə yetirir. Bu
+güclü şagirddən zəif şagird soruşan zaman baş verir. Müəllimlər
+rolunda ən zəif şagirdlər də çıxış etməlidirlər. Bu onlara güclü
+təsir edir.
+Bu texnologiya müəllim tərəfindən yaxşı hazırlanan
+zaman az vaxt tələb edir. Bunu yenilikçi pedaqoqlar tətbiq edirlər.
+Amma o kütləvi praktikada da geniş tətbiq olunur. Bu sorğu növü
+praktiki olaraq hər dərsdə tətbiq oluna bilər.
+Qarşılıqlı nəzarətdən həm nəzəri materialı yoxlayan
+zaman, həm də misalları həll edən zaman istifadə etmək olar.
+Dərsdə qarşılıqlı nəzarətlə bərabər sorğunun aşağıdakı başqa
+növlərini də tətbiq etmək lazımdır. Yazı taxtası yanında şifahi ca-
+vab vermək, mətndəki əsas fikirləri danışmaq, özünüqiymətlən-
+dirmə və s. buna misal ola bilər.
+Əgər müəllim sinfi idarə edə, intizamı yarada bilmirsə,
+qarşılıqlı nəzarətidən istifadə etmək olmaz. İntizamsızlıq şərai-
+tində şagirdlər başqa işlərlə məşğul ola bilərlər. Əgər texnologiya
+düzgün təşkil edilərsə, onda qayda-qanunu təmin etmək olar.
+Qarşıqılı imla. Məqsədlər.
+1) Şagirdlərə müxtəlif fənlər üzrə (ana dili, ədəbiyyat,
+riyaziyyat və b.) savadlı yamaq bacarıqlarını öyrətmək
+2)Çalışmaları yerinə yetirən zaman əməkdaşlıq baca-
+rıqlarını formalaşdırmaq
+3) Fənnə marağı inkişaf etdirmək
+4) Müəllimi dəftər yoxlamaq işindən azad etmək.
+27
+Qarşılıqlı imla ibtidai siniflərdə savad təlimindən sonra və
+bəzi dəyişikliklərlə yuxarı siniflərdə istifadə oluna bilər. O
+aşağıdakı kimi keçirilir:
+1. Hazırlıq dövrü:
+İmlalar üçün müxtəlif mətnlər hazırlanır. Köhnə qəzet və
+jurnallardan 4-12 sətir həcmində mətnləri kəsib götürürlər.
+Mətnlərin məzmunu şagirdlər üçün maraqlı olmalıdır. Onların
+çətinliyi sinfin hazırlıq səviyyəsindən asılıdır. İbtidai siniflərdə
+imla qısa (20-35 söz), yuxarı siniflərdə isə böyük həcmdə olur.
+Hazırlanmış mətnlər kartona yapışdırılsa yaxşı olar. Bu işi həm
+müəllim, həm də şagirdlər görə bilər.
+2. Şagirdlərin dərsdə işi:
+Hər bir şagird imla mətni olan bir kartoçkanı götürür və
+onu səssiz oxuyur.
+– Müəllim bütün şagirdləri cütlərə ayırır
+– Hər bir cütdə şagirdlərdən biri öz mətninin birinci
+cümləsini hündürdən
+oxuyur, II şagird onu axıradək dinləyir
+– Dinləyən şagirdə cümlə diqtə olunur və o, cümləni
+dəftərinə yazır. Yazan şagirdə mətnə baxmaq olmaz.
+Beləliklə, II, III və IV cümlələr mətnin axırına qədər
+oxunur
+– Sonrakı mərhələdə rollar dəyişilir. Əvvəl yazan şagird
+öz mətnini o biri şagirdə diqtə edir, o isə yazır
+– İmlalar qurtarandan sonra şagirdlər öz dəftərlərini bir-
+birlərinə verirlər və kartoçkalarsız yazıları yoxlayırlar.
+Səhvlər yaşıl pasta ilə düzəldilir;
+– Sonrakı mərhələdə şagirdlər müstəqil surətdə kar-
+toçkalar üzrə öz yoldaşlarının imlalarını yoxlayırlar.
+İndi isə səhvlər qırmızı pasta ilə düzəldilir
+– Sonra şagirdlər imlaları birgə yoxlayırlar. Səhv
+buraxan şagird o biri şagirdin nəzarəti altında şifahi
+təhlil aparır, II şagird isə ona kömək edir.
+– Hər bir şagird dəftərində səhvlərin təhlilini yazır
+28
+– Şagirdlər bir-birinin dəftərini götürür, imlalara bir daha
+baxır və öz qolunu çəkirlər.
+Bəzi situasiyalarda şagirdlərə qiymət yazmağı da təklif
+etmək olar. Lakin bu
+prosesin “+” və “–” cəhətləri vardır. Bir tərəfdən şagird qiymət
+yazanda onda məsuliyyət hissi yaranır, digər tərəfdən aşağı qiy-
+mətlər yazılanda şagirddə həm yoldaşına, həm də texnologiyaya
+neqativ münasibət yarada bilər.
+Bununla da cüt-cüt işləmək üzrə iş başa çatır. Onun
+iştirakçıları mətnləri bir-birinə qaytarırlar. Hər bir şagird özünə
+işdə yeni yoldaşlar tapır. Bəzən müəllimin özü yeni cütlər təşkil
+edir. Bunu ancaq zəruri hallarda etmək lazımdır. Sonrakı
+mərhələlərdə qoşa işlər davam edir.
+Müəllim sıralar arasında gəzərək qoşa-qoşa işləyən
+şagirdləri müşahidə edir, səhvləri necə təshih etmək barədə məs-
+ləhətlər verir, geridə qalan şagirdlərə diqqət yetirir.
+Tərəfdaşı seçmək maraqlı pedaqoji andır. Bu vaxt
+qarşılıqlı anlaşma yaranır, statuslar və s. müəyyənləşdirilir.
+İmlalar mübadiləsi və qarşılıqlı öyrədən zaman şagirdlər
+bir-birinin iş üsulunu, biliklərini əxz edirlər. Bu texnologiyanı
+düzgün tətbiq edəndə onu riyaziyyat, fizika və digər fənlər üzrə
+də aparmaq olar. Bu imlanın bir növü də onun şifahi formasıdır.
+Suallar şifahi formada müəyyənləşdirilir, yazılması barədə
+soruşulur. Müsahib sözü dəqiq tələffüz edir və onu nə üçün belə
+yazılmasını izah edir. Bu forma qısa vaxtda böyük həcmdə
+materialı yoxlamağa imkan verir. Bu formanın “əsas“ cəhəti
+ondan ibarətdir ki, burada öyrənilən materialın görmə və hərəki
+yadda saxlaması baş vermir. Bu mənada şifahi qarşılıqlı imla,
+yazılı qarşılıqlı imlanı əvəz edə bilməz.
+Burada öyrənilən materialın görmə və hərəki yadda-
+saxlaması baş vermir. Ən yeni elmi pedaqoji ədəbiyyatda çoxlu
+sayda pedaqoji texnologiyanın təhlili verilmişdir. Adları: “Sinifdə
+materialın əzbər öyrənilməsi”, “Səhvləri axtarıram”, “konspekt-
+mühazirə”, “mühazirə-diskussiya”, “mühazirə-məsləhət”, “əks
+əlaqəli mühazirə”, “tap, kimin haqqında danışırıq”, “İmtahana
+29
+hazırlıq”, “beyin hücumu”, “generatorlar – tənqidçilər”, “buraxılış
+vərəqəsi”, “insanı təhlil edirik”, “özünüqiymətləndirmə”, “mətn-
+lər mübadiləsi”, “fikirlərin sintezi”, “yaradıcı test”, “öz yerində
+oturmaqla sakit cavab vermək” və s.
+Biz ancaq 4 texnologiyanın təhlilini verməklə kifa-
+yətlənirik. Bu texnologiyaları bəzən yanlış olaraq “fəal təlim
+metodları”, “interaktiv metodlar” kimi təqdim edirlər. Əslində
+həmin texnologiyalardan elmə məlum olan metodlardan istifadə
+edilir. Təlim prosesinə yeni, qeyri-ənənəvi elementləri daxil
+etməklə metodların fəallaşdırma imkanları və öyrənmə prosesinin
+effektliyi yüksəldilir.
+Pedaqoji texnologiya təlim prosesinə yeni baxışdır. Bu ba-
+xışa görə təlim prosesi ənənəvi təlimdən fərqli olaraq maksimum
+idarə olunan proses olmalıdır. Müasir pedaqoji texnologiyaların
+tarixi XX əsrin II yarısında bilikləri yoxlamaq üçün qurğuların
+meydana gəlməsindən başlanır. Bu müddət təlim texnologiyası
+təlimdə texniki vasitələrdən istifadə kimi başa düşülürdü. Alimlər
+hesab edirdilər ki, texnikadan istifadə daha çox informasiyanı
+vermək üçün köməkçi xarakter daşıyır. Amma tədris prosesinin
+ayrı-ayrı mərhələlərində texnikanın tədris prosesinə daxil edilməsi
+aktiv inkişaf edir. Alimlər gələcəkdə müəllim və məktəblərin
+köməyi olmadan öyrədici, təlimedici sistemlərdən müstəqil
+istifadə olunacağını proqnozlaşdırırlar. Pedaqoji texnologiyanın
+yaradılması və tətbiqi üzrə spesifik prinsipləri müəyyənləşdirmək
+və onların pedaqoji-psixoloji təlimini vermək olduqca vacibdir.
+Pedaqoji ədəbiyyatda müxtəlif spesifik prinsiplər verilmişdir.
+Bunlar aşağıdakılardır:
+1. Tərbiyəedici təlim prinsipi
+Hər hansı pedaqoji texnologiyaların strateji məqsədləri
+şəxsiyyət xarakterlərini formalaşdırmaq olmalıdır. Deməli, burada
+münasibətlər tərbiyəedici təlimin psixi materialı hesab olunur.
+Burada 3 qrup münasibətləri fərqləndirmək olar:
+1) Qanunatabelik münasibətləri
+2) Əməkdaşlıq münasibətləri
+3) “Mən” konsepsiyası
+30
+Təlim prosesi uşaqların psixikasına təsir edən xarici kons-
+truksiyadır. Bu proses müəllimin, uşaqların, didaktik materialların
+tarixindən ibarətdir.
+2. İnkişafetdirici təlim prinsipi
+Pedaqoji texnologiyaları tətbiq edən zaman tərbiyəedici
+səmərəni nəzərə almaqla yanaşı, onun inkişafetdirici tərəfini də
+lahiyələşdirmək və həyata keçirmək də yaxşı olar. Uşağın psixi
+əməliyyatlarında artım hiss olunmalıdır. Emosional və intellektual
+sahənin ahəngdar inkişafını təmin etmək lazımdır. İntellektual
+sahənin emosional sahəni sıxışdırması insanda soyuq müna-
+sibətlərin yaranmasına, insanlara sevinc bəxş etmək, sevincə şərik
+olmaq bacarıqlarının olmamasına gətirib çıxarır.
+3. Təlimdə müvəffəqiyyət qazanmaq prinsipi
+Müvəffəqiyyət qazanmaqdan ötrü situasiya yaratmaq uşağı
+daha böyük nəticələrə nail olmağı stimullaşdırır. Uşağın keç-
+mişini öyrənmək üçün böyük əmək sərf etmək lazım gəlir.
+Makarenko uşağı koloniyaya qəbul edəndə keçmişini öyrənməyə
+tələsmirdi. O hər bir uşaq üçün əməli təlim texnologiyası işləyib
+hazırlamışdı. Bu müvəffəqiyyət qazanmaq üçün situasiya
+yaranmaqdan ibarət idi. O hamı üçün, o cümlədən şagird üçün
+psixi enerji mənbəyini – yemək, istirahət, yuxu, nəfəs alma, fiziki
+hərəkətlər təşkil etdiyi qənaətində idi.
+4. Bütün uşaqlarla əks əlaqə prinsipi
+Mühüm vəzifədən biri hər bir dərsdə bütün uşaqlara öz
+müvəffəqiyyətləri barədə məlumat verilir. Bütün şagirdlərlə əks
+əlaqə prinsipi şagirdi hər dərsə hazır gəlməyə stimullaşdırır.
+Seçmə yolu ilə sorğu aparanda şagirdlər oyun qaydalarını tez
+mənimsəyir, dərsə hərdənbir hazırlaşırlar. Beləliklə, sinifdə
+tələblər formalaşır. Şagird belə fikirləşir: Əgər, məndən işin
+nəticələrini soruşmayacaqsa hər dəfə nəyə hazırlaşmağımın nə
+əhəmiyyəti var. Şagirdlər dərsə gələndən bir neçə həftə sonra
+şüurlu və şüursuz surətdə bu nəticəyə gəlirlər. Bu prinsipi lazımi
+şərait yaratdığı halda həyata keçirmək olar. Hər şeydən əvvəl ev
+tapşırıqları uşaqların gücünə müvafiq olmalıdır. Tapşırıqlar verən
+zaman başqa fənlər də nəzərə alınmalıdır. Çox təəssüf ki,
+31
+məktəbdə ev tapşırıqlarının dəqiq həcmi yoxdur. Bu işdə
+müəllimlər müxtəlif cür hərəkət edirlər.
+5.Müntəzəm olaraq təkrar etmək prinsipi.
+Tədris materialı ilə ilk dəfə tanış olandan sonra onu bir
+neçə dəfə təkrar etmək lazımdır. 1-2 dərsdən sonra keçirilən
+materiala qayıtmaq lazımdır. Burada sual yarana bilər: bəs vaxtı
+haradan tapaq? Axı, çox zaman bu proqramda nəzərə alınmır.
+Problemi proqramda həll etmək olar. İl ərzində keçirilən materiala
+qayıtmaq və əsas fikirləri təkrar etmək lazımdır. Dərs ilinə ötən
+tədris ilində keçirilən materialın təkrarı ilə başlamaq lazımdır.
+Yay ərzində çox şey şagirdin yadından çıxır. Normal və sağlam
+psixika belə qurulmuşdur. Təkrar etmədiyimiz hər hansı məlumat
+şüurdan çıxıb şüuraltıya keçir və yaddan çıxır. Ona görə də
+bilikləri aktuallaşdırmaq üçün tədris ilinin əvvəlində onları təkrar
+etmək lazımdır.
+6. Optimal psixi gərginlik prinsipi.
+Həm şagirdlər, həm də müəllimlər üçün zəruridir. Şagirdi
+həm həddən artıq yükləmək, həm də az yükləmək pisdir. Şagird
+az psixi gərginlik şəraitində inkişaf etmir. Bu tələbi müəllimə də
+aid etmək olar. Əgər müəllimlər dərsdə hər şeyi özləri etmək
+istəyirlərsə, bu müəllimlərin psixi cəhətdən yüklənməsinə gətirib
+çıxarır. Odur ki, şagirdlərə daha çox səlahiyyətlər vermək
+lazımdır. Onları tədris prosesinin idarə olunmasına cəlb etməyə
+imkan verən bir çox texnologiyalar vardır.
+7. Tədris prosesində şagirdlərin maksimum iştirakı
+prinsipi.
+Bu prinsip dərsdə şagirdləri müxtəlif növ fəaliyyətə cəlb
+etməyi nəzərdə tutur. Bu məqsədlə qarşılıqlı sorğu keçirilir.
+Yaranan problemlər, cavablardakı kəm-kəsirlər aradan qaldırılır.
+Burada prinsip belədir: şagirdlərin görə biləcəyi işi müəllim
+görməməlidir. Bu prinsip müəllimi artıq yükdən azad etməyə
+imkan verir. Şagirdi vacib fəaliyyətə cəlb etmək onu nəinki
+inkişaf etdirir, həm də tərbiyə edir. Tədris prosesində real fəaliy-
+yətdə uğur qazanmaq situasiyasını yaratmaqla təlimin tərbiyə-
+edici, inkişafetdirici məqsədlərinə müvəffəqiyyətlə nail olunur.
+32
+8. Təlimdə yaxın inkişaf zonasına oriyentasiya prinsipi.
+Əgər uşaq çalışmanı yerinə yetirə bilmirsə onda təlimi
+həmin uşağın inkişafına, səviyyəsinə endirmək lazımdır. Əgər
+şagird fəaliyyətindəki qüsuru düzəldə bilmirsə, onda ona irad
+tutmağa ehtiyac yoxdur. Çünki bu irad onun inkişafına heç bir
+təsir göstərməyəcək. Əgər göstərmiş olarsa bu neqativ tərəfdən
+(uşaqda onu əhatə edən adamlardan intiqam almaq hissi formalaşa
+bilər) özünü təzahür edəcəkdir.
+9. Müəllim və şagirdlərin vahid məqsədlər üçün
+birləşməsi prinsipi.
+Bu iş prinsipi məqsədləri, texnologiyaları şagirdlərə zorla
+qəbul etdirməməlidir. Tədris prosesini təkmilləşdirmək üçün
+müzakirələr keçirmək olur. Təlim prosesinin texnologiyası
+müəllim və şagirdlərin fəaliyyətinin birgə məhsulu olmalıdır.
+Amerika məktəblərində komisiyalar yaradılır. Həmin komissiya
+müəllim və şagirdin bu cəmiyyətdə birləşməsidir. Bir qrup
+müəllim bir sinfin şagirdləri ilə birləşir, onlar arasında müqavilə
+bağlanır. Müqavilədə şagirdin və müəllimin ayrılıqda nəyə cavab
+verəcəyi göstərilir. Amerika məktəblərində aparılan sorğunun
+nəticələri göstərir ki, bu forma şagirdlərin xoşuna gəlir. Onlar
+qayğı hiss edir. Müəllimin öz nailiyyətləri üçün böyük məsuliyyət
+daşıdığı göstərilir.
+Pedaqoji texnologiyaların təhlili məktəb rəhbəri və məktəb
+psixoloquna kömək etməlidir. Təlim prosesində ən səmərəli yol
+bu və ya digər situasiyada ən əlverişli olan pedaqoji texnologiyanı
+tətbiq etməkdir. İndi biz bəzi pedaqoji texnologiyanın təhlilinə
+baxaq:
+1. “Fikirlərin hücumu” (Məqsədlər) – şagirdlərin yaradıcı
+fikirlərini birləşdirməklə elmi və ya təlim problemini həll etmək.
+“Kollektiv beyin” yaratmaq
+2. Əməkdaşlıq etmək bacarığını, qanunatabelik vərdiş-
+lərini təhlil etmək
+3. Şagirdlərin yaradıcılığını inkişaf etdirmək
+Bu texnologiya məktəbdə sorğu zamanı yeni materialları
+öyrənməkdə, keçmiş materialları təhlil etməkdə və ümumiləş-
+33
+dirəndə, problemi həll edəndə və başqa hallarda tətbiq edilir.
+Bundan bütün fənlərin tədrisində istifadə etmək olar. Onun
+ardıcıllığı gedişatı belədir.
+1. Şagirdlərə mövzu, məqsəd bildirilir, onlarda motivasiya
+yaradılır.
+2. Əməkdaşlığın ümumi qaydaları bildirilir.
+3. Qiymətləndirmə meyarı bildirilir.
+4. Elmi aspektlər və məqsədlər təyin olunur.
+5. Müəllim və ya başqa məsul şəxs ilkin situasiyanı şərh
+edir. O, deyir: Uşaqlar, qarşıda tədris ili durur. Biz onu maraqlı
+keçirə bilərik. Amma onu necə keçirmək bizim özümüzdən
+asılıdır. İndi bizim hər birimiz tədris ilində nə ilə məşğul olmaq
+istədiyimizi açıq-aşkar deyə bilərik. İstədiyiniz təsnifləri təklif
+edin. Bilin ki, başqalarının təklifini tənqid etmək olmaz.
+6. Başlanğıc informasiya ilə tanış olunur, onu dinləyir,
+əgər hansı məsələ aydın deyilsə sual verib dəqiqləşdirirlər.
+7. Əlavə informasiya verilir, əgər lazım gələrsə müəllim
+son nəticəni bir daha qeyd edir, “fikirlərin hücumu” başlayır. Hər
+bir təklif qısa formada yazılır, ekspertlər fikirləri qısa ifadə
+etməyə kömək edirlər. Katiblər isə yazırlar. Ekspertlər, katiblər
+“fikirlərin hücumu”na müntəzəm olaraq müdaxilə edirlər,
+dinləyicilərin təklifinə heç kim cavab vermir, heç kim təhlil etmir,
+necə deyilirsə, yazı taxtasına elə də yazılır, hücumun müddəti 45
+dəqiqədən çox olmur.
+8. Şagirdlərin fəallığı sönür, təkliflər gəlmir, fikirlərin
+hücumu başa çatır.
+9. Ekspertlər “fikirlərin hücumu”nu təhlil edir, növbəti
+məşğələdə nəticələr bildirilir.
+10. Müəllim və ya məsul şəxslər yekunlaşdırırlar və
+ümumiləşdirmələr aparırlar.
+Tədris prosesində “fikirlərin hücumu” texnologiyası az
+tətbiq olunur, çünki bu çətin texnologiyadır.
+34
+ƏDƏBİYYAT
+1. Bədəlova A. Pedaqogikanın müasir problemləri.
+(Magistrlər üçün proqram). Bakı, 2009.
+2. Həsənov A., Ağayev Ə. Pedaqogika. Bakı, 2007.
+3. Mehrabov A. və b. Pedaqoji texnologiyalar. Bakı, 2006.
+4. Mərdanov M. Azərbaycan təhsili yeni inkişaf
+mərhələsində. Bakı, 2009.
+5. Nəzərov A. “Müasir təlim texnologiyaları” fənni üzrə
+proqram. Bakı, 2010.
+6. Sadıqov F. Pedaqogika. Bakı, 2006.
+7. Təlim-tərbiyə işinin təkmilləşdirilməsində və huma-
+nistləşdirilməsində yeni forma, metod, üsul və sitemlərin tətbiqi
+təcrübəsindən (Prof. Ə.Ə.Ağayevin redaktorluğu ilə), Bakı, 1997.
+35
+V MÖVZU
+TƏLİMDƏ İNTERAKTİV METODLAR VƏ FƏAL TƏLİM
+METODLARI PROBLEMİ
+PLAN:
+1. Hazırda interaktiv metodlar, fəal təlim metodları,
+təlim texnologiyaları anlayışlarına tez-tez rast
+gəlməyin səbəbləri
+2. Yeni anlayış kimi meydana çıxan “interaktiv
+pedaqogika” ifadəsinin konkret mənası
+3. Təlim prosesində şagirdlər arasında əlaqə, qarşılıqlı
+təsir və əməkdaşlığın əsas səbəbi
+Hazırda interaktiv metodlar, fəal təlim metodları, təlim
+texnologiyaları anlayışlarına tez-tez rast gəlirik. Xarici beynəlxalq
+təşkilatlar, milli qurumlar, müasir təlim metod və texnolo-
+giyalarının təbliği müəllimlər arasında yayılması ilə əlaqədar 10
+ildən artıqdır ki, seminarlar, mühazirələr, layihələr keçirirlər.
+Öyrənilən yeni tərz, metod, vasitə və yanaşmalar yara-
+dıcılığı, müstəqilliyi inkişaf etdirməklə yanaşı, insan şəxsiyyətini,
+onun insanlara, təbiətə, cəmiyyətə münasibətini, mənəvi
+dünyasını və s. inkişaf etdirməli, zənginləşdirməlidir.
+Əvvəlcə, interaktiv sözü haqqında: “interakriv” anlayışı
+ingilis dilindən dilimizə, o cümlədən digər dillərə keçmədir.
+Hazırda “interakriv pedaqogika”, “interaktiv təlim”, “interaktiv”
+təlim metodları” və yaxud, yığcam olaraq “interaktiv metodları”
+ifadələrinə tez-tez rast gəlirik.
+Yeni anlayış kimi meydana çıxan “interakriv pedaqogika”
+ifadəsini ilk dəfə 1975-ci ildə alman tədqiqatçısı Hans Frits
+işlətmişdir. Alimin tədqiqatlarında interaktiv prosesin məqsədi bu
+proses iştirakçılarının davranış modelini dəyişdirmək və yax-
+şılaşdırmaqdır. O, interaktiv metodlar haqqında interaktiv tərbiyə
+prosesi kimi danışır. Belə ki, alimə görə təlimdə interaktivliyi
+müəllim və şagirdin qarşılıqlı təsir – əməkdaşlıq qabiliyyəti kimi
+izah etmək olar. İnter – (ingilis dilində Enter) – ara (insanlar
+36
+arası), qarşılıq (insanların qarşılıqlı anlaşması, əməkdaşlığı, işi) və
+s. kimi başa düşülür. Metod olaraq interaktivlik təlim prosesində
+müəllim və şagird arasında işin gedişindən – mövzudan, şərhdən,
+dialoqdan, rollu oyundan həmin anda meydana çıxan yanaşma,
+izah və s.-dir. Yəni, bu tərz irəlicədən planlaşdırılmır, işin – təlim
+prosesinin gedişi bu məqamı ortaya çıxarır və daha çox şagirdin
+müstəqilliyi müdaxiləsi ilə baş verir.
+Digər tərəfdən, interaktivlik şagirdlərin özləri arasında da
+ola bilər. Əsas cəhət odur ki, bu prosesdə əməkdaşlıq edən,
+öyrənənlər və öyrədən eynihüquqlu mövqedə dayanırlar. Təbii ki,
+müəllim öyrədən olaraq təşkilatçılıq, koordinator, məsləhətçi,
+fasilifator funksiyasını yerinə yetirir. Şagirdlərin işlərinə mü-
+daxilə etmədən problemləri qoyur, istiqamər verir, nəzarət edir,
+axtarış strategiyasını hazırlamağa kömək edir, amma təlim
+tapşırıqları üzərində uşaqlar özləri birlikdə öz aralarında mü-
+bahisə edərək, diskussiya apararaq işləyirlər.
+Bununla yanaşı, hər bir şagirdin öz fikri, ideyası olur.
+Mübadilə nəticəsində fikirlər dəyişir, ideyalar təzələnir. Beləliklə,
+psixoloji abu-hava dəyişir. Qrupdakı zəif şagirdlər də müzakirədə
+fəal iştiraka qoşulurlar: məsələlərin müzakirəsi və kollektiv
+müzakirənin gedişində biri-birini dinləməyə alışırlar.
+Hər bir təlim tapşırığının bu cür həlli vasitəsilə onlar
+idraki axtarıcılıq taktikalarını təkmilləşdirir, təlimdə öz müvəf-
+fəqiyyət formulunu hər kəsin özü qurur.
+Beləliklə, təlim prosesində şagirdlərarası əlaqə, qarşılıqlı
+təsir və əməkdaşlıq əsas olur. Təlim nəticəsi təlim prosesi
+iştirakçılarının qarşılıqlı qüvvəsi ilə əldə edilir, şagirdlər təlim
+nəticələrinə görə öz üzərilərinə qarşılıqlı məsuliyyət götürürlər.
+Bunlar imkan verir ki, şagirdlər:
+– Biliyi qavrama prosesini daha anlaşıqlı etsinlər;
+– Öz fikrini formalaşdırmağı, onu düzgün ifadə etməyi,
+öz nöqteyi-nəzəri əsaslandırmağı, müzakirələşdirməyi və
+sübut etməyi öyrənirlər;
+– Digərini eşitməyi, dinləməyi, alternativ fikrə hörmət
+etməyi öyrənirlər;
+37
+– Müxtəlif sosial vəziyyətləri modelləşdirməyi, müxtəlif
+həyatı vəziyyətlərə qoşulmaqla və bu həyatı duymaqla
+öz sosial təcrübələrini zənginləşdirirlər;
+– Qrupda konstruktiv münasibətlər qurmağı, burada öz
+yerini müəyyənləşdirməyi, konfliktlərdən qaçmağı,
+onları həll etməyi, kompromis axtarmağı, dialoqa səy
+etməyi öyrənirlər;
+– Təlim materiallarını təhlil edir, onlara yaradıcı
+yanaşırlar;
+– Problemin ümumi həllini tapırlar;
+– Layihələrlə iş fəaliyyətinə, müstəqil işləməyə, yaradıcı
+işlər görməyə alışırlar və s.
+İnteraktiv metodlar müəllim və şagird əməkdaşlığını
+reallaşdırır, onları konstruktiv qarşılıqlı hərəkətə alışdırır, dərsdə
+psixoloji iqlimi sağlamlaşdırır, xoş abu-hava yaradır.
+Azərbaycanda interaktiv metodlarla işləyən az sayda olan
+müəllimlərin iş təcrübəsi xarici təcrübənin səmərəliliyini təsdiq
+edir. Lakin təlim prosesində məsələyə yanaşmada tam təqlid
+köçürmə olmamalıdır. Hər bir fəal, işgüzar Azərbaycan müəllimi
+şagirdlərin sosial şəraitini, ictimai mühitini, milli mentalitetini,
+adət-ənənələrimizi, fənnin, mövzunun fundamentallığını və ya
+praktikliyini, fənlərarası əlaqəni, hətta bilgilərin inteqrasiyasını,
+yaş və anlaq həyat təcrübəsi səviyyəsini və pedaqoji-metodik,
+psixoloji-iradi xüsusiyyətləri nəzərə almalı, prosesin təşkilinə
+yaradıcı yanaşmalıdır.
+Qeyd edək ki, interaktiv təlim metodlarından həmişə
+istifadə etmək onun təsirini azalda bilər. Həqiqi təlim üçün metod
+və texnologiyalar qarşıya qoyulmuş məqsəd və şəraitdən asılı
+olaraq seçilməlidir. Ona görə də müəllimlər məqsəd və şəraitdən
+asılı olaraq seçilməlidir. Müəllimlər fənnə, mövzuya, şagirdlərin
+təcrübə və bilik səviyyəsinə görə bütün təlim modellərində
+müxtəlif metodika və texnologiyalardan istifadə etməlidirlər.
+Əsas odur ki, təlim uşaqları inkişaf etdirsin. Onlara düşünmək,
+müstəqil fikir söyləmək, biliklərini tətbiq edə bilmək bacarıqları
+38
+aşılasın. Onlarda ünsiyyət, anlaşma mədəniyyəti, öz problemlərini
+həll edə bilmək qabiliyyəti formalaşdırsın.
+Deməli, interaktiv təlim dedikdə, dərsdə yaranan, təlim
+prosesində meydana çıxan, şagirdlərarası öyrənmə ünsiyyəti və
+əməkdaşlığı, müəllim – şagird birliyi nəzərdə tutulur.
+Çevik düşündürücü iştirak fəallığını doğurmayan metodlar
+uşaqların marağını təmin etmir, onları canlandırmır, fəaliyyətə
+qoşmur. Digər tərəfdən, hər bir uşağın (şagirdin) öz idealı,
+marağı, həyata hazırlıq istəyi var. Belə ki, təlimin həm məzmunu,
+həm də metodları bu istəyi təmin etməlidir. Daha bir amil isə,
+vətəndaş təhsili və tərbiyəsinin aktuallığıdır.
+Bütün bu şərtlər müasir təlimin məzmunca metod və
+texnologiyalara görə yeniləşməsini zəruri edir.
+Pedaqoji prosesdə baş verən yeniliklərdən biri də təlimdə
+tərbiyəediciliyin daha da artmasıdır. İnteraktiv təlim şagirdlərə
+bilik vermə prosesində həm də onları iradi, əxlaqi, əqli, estetik,
+mədəni, hüquqi, ekoloji, iqtisadi və digər akseoloji dəyərlər
+yönümündə inkişaf etdirir, formalaşdırır.
+Yeni tələblərə cavab verən pedaqoji kadr olmadan təhsili
+yenilik səviyyəsinə qaldırmaq mümkün deyildir. Hər şey
+müəllimdən, təhsili idarə edən insanlardan, onların vətəndaşlıq
+amalından, ləyaqət, mənəviyyat, mədəniyyət və müasir tələblərə
+cavab verən peşə – ixtisas hazırlığından asılıdır.
+Fəal və interaktiv metodlar bir-birilə sıx bağlıdır, amma
+tam eyni deyillər. İnteraktiv metodların hansı prosesdə zərurətə
+çevrildiyini irəlidə qeyd etmişik. Bəs, fəal təlim metodları nədir?
+Bu anlayış XX əsrin 80-cı illərindən Azərbaycanda
+işlənməyə başlamışdır. “Fəal” sözü bəlli olduğu kimi daha işlək,
+hərəkətdə, təsirdə olan mənasını verir. Fəal təlim metodlarının
+interaktiv təlim metodları ilə yaxınlığı mahiyyətindən doğur, lakin
+doğuluş və seçim təsirinə görə bir-birindən fərqlənir. Belə ki, əgər
+interaktiv metodlar dərsdə təlim prosesinin gedişindən doğursa,
+yəni biri digərini əvəz edərək meydana çıxırsa və öyrənənlərin
+hamısının birlikdə tam, müstəqil fəaliyyətini təmin edirsə, fəal
+metodlar irəlicədən planlaşdırılmış təlimin fəallaşdırılmasına
+39
+şərait yaradır. Ənənəvi olaraq işlənən söz metodları, əyani,
+praktik metodlar bu gün də fəal metodlar sırasına daxildir. Rollu
+oyunlar, müxtəlif xarakterli didaktik çalışmalar, esse, test tap-
+şırıqlarının icrası, diskussiya, müzakirə və s. fəal təlim metod-
+larıdır. Təlimin fəal metodları dedikdə, öyrənənlərin məlumat-
+lanmasını, idrak müstəqilliyini, fikri fəallığını, yaradıcılığını
+artıran metodlar nəzərdə tutulur.
+İnteraktiv təlim qarşılıqlı fəaliyyət prosesində yaradıcı
+fəaliyyətə əsaslanmaq deməkdir. Bu gün məktəb nə üçün
+interaktiv təlim sorağındadır? Ənənəvi təlimin mahiyyəti ondan
+ibarətdir ki, təlimdə müəllimin fəaliyyətinin izahlı illüstrativ
+xarakteri üstünlük təşkil edir. Birinci yerə yalnız tədris vəzifələri
+ilə məhdudlaşan fənn xarakterli bilik, bacarıq və vərdişlərə
+yiyələnmək dururdu. Müəllimin fəaliyyəti ona yönəlirdi ki, necə
+etsə, hər şeyin aydın olmasını, başa düşülməsini təmin edə bilər.
+Bu da təlim fəaliyyətini yerinə yetirərkən müəllimin başlıca
+meyarı olurdu. Ənənəvi təlim tipində müəllim-şagirdl münasi-
+bətləri birtərəfli idi. Şagirdlər müəllimin dediklərini icra edir, onu
+təqlid edir, müəllim kimi olmağa çalışır. Dərsdə müəllimlə
+şagirdlər ancaq işgüzar əlaqə saxlayırlar.
+İnteraktiv təlim şagirdlərə bilik vermə məsələlərində, həm
+də onları iradi, əxlaqi, əqli, estetik, mədəni, hüquqi dəyərlər
+yönümündə inkişaf etdirib formalaşdırır. İnteraktiv metodları
+aktuallaşdıran bir sıra tələblər var:
+1. İnsanların bazar iqtisadiyyatı cəmiyyətində yaşaması və
+hər kəsin özünün bu cəmiyyətdə yaşaya bilməsi üçün hazır-
+lanması zərurəti;
+2. Uşaqların 20-30 il əvvəlki zamana görə dünyagörü-
+şünün, sosial, texniki məlumatlıq səviyyəsinin yüksək olması;
+3. Deməli, çevik, düşündürücü idrak fəallığını doğur-
+mayan metodlar uşaqların marağını təmin etmir, onları
+canlandırmır, fəaliyyətə qoşmur.
+Təlim strategiyası nədir? Təlim strategiyaları müəllimin
+təlim prosesində istifadə etdiyi metod, forma və üsulları əhatə
+edir. Pedaqoji ədəbiyyata təlim metodlarının müxtəlif növlərinin
+40
+olduğu göstərilir. Məsələn, beyin həmləsi (əqli hücum), BİBÖ,
+klaster (şaxə) anlayışının çıxarılması, söz assosiasiyaları, akva-
+rium, rollar üzrə oyun, venn dioqramı, layihələrin hazırlanması,
+ESSE və s.
+Beləliklə, “Tədris prosesinə fəal təlim metodlarının daxil
+edilməsi şagirdlərin passivliyinin aradan qaldırılmasına, təfək-
+kürün inkişafına, təlimin keyfiyyətinin yüksəldilməsinə şərait
+yaradır. Fəal təlim metodlarının tətbiqi nəticəsində “Təhsil sahə-
+sində İslahat proqramı”nın təlim-tərbiyə prosesinin demok-
+ratikləşdirilməsi, humanistləşdirilməsi, humanitarlaşdırılması,
+diferensiallaşdırılması, fərdiləşdirmə, inteqrasiya prinsiplərini
+geniş tətbiq etməklə həyata keçirmək olar”. (A.Mehrabov və b.
+Pedaqoji texnologiyalar. Bakı-2006, səh. 282)
+ƏDƏBİYYAT
+1. Təhsil haqqında Azərbaycan Respublikasının Qanunu.
+Bakı, 2009.
+2. Ağayev Ə., Talıbov Y., Eminov A., İsayev İ. Pedaqogika.
+Bakı, 2006.
+3. Ağayev Ş. və b. İbtidai siniflərdə fəal təlimin nəzəri və
+praktik məsələləri. (Metodik vəsait). Bakı, 2007.
+4. Bunyadova F., Abdulla B. Təlim və tərbiyədə interaktiv
+texnologiya. Bakı, 2000.
+5. Həsənov M., Bəhmənova C. İbtidai siniflərdə fəal və
+interaktiv metodlardan istifadənin nəzəri-praktik məsə-
+lələri. (Metodik vəsait). Bakı, 2009.
+6. Kərimov Y. Pedaqoji tədqiqat metodları. Bakı, 2009.
+7. Nəzərov A. “Təhsilin müasir problemləri” fənni üzrə
+proqram. Bakı, 2010.
+8. Nəzərov A., Mollayeva E. Müasir dövrün təhsil
+problemləri. (Mühazirə xülasələri). Dərs vəsaiti, Bakı,
+2011.
+9. Veysova Z. Fəal (interaktiv) təlim: Müəllim üçün vəsait.
+Bakı, 2007.
+41
+VI MÖVZU
+TƏLİM PROSESİNDƏ PEDAQOJİ DİAQNOSTİKA
+MƏSƏLƏLƏRİ
+PLAN:
+1. Bütün zamanlarda mütərəqqi pedaqoqların pe-
+daqoji prosesdə şagirdləri hərtərəfli öyrənməyin
+zəruriliyini ön plana çəkmələri
+2. Diaqnostika nəticəsində informasiyanı almaq üçün
+istifadə olunan prinsiplər
+3. “Pedaqoji diaqnostika” termininin pedaqogikaya
+daxil olduğu konkret dövr
+4. Yeni təlim və pedaqoji texnologiyaların tətbiqə
+hazırlanmasının kriteriyayönümlü diaqnostikası
+Respublikamızda müasir dövrdə sosial-iqtisadi proseslərin
+inkişaf istiqamətlərini xarakterizə edən başlıca xüsusiyyətlərdən
+biri də informasiyanın rolunun əhəmiyyətli surətdə artmasıdır.
+Təhsil sisteminin təlim-tərbiyə, idarəetmə, qiymətləndirmə və s.
+fəaliyyət növlərinin təkmilləşdirilməsində informasiyanın rolu
+böyükdür. Həmçinin təhsil sistemi inkişafın başlıca istiqa-
+mətlərini xarakterizə edir. Təhsil sistemində informasiyalardan
+istifadəyə kortəbii surətdə yanaşma yüksək səviyyədə subyek-
+tivliyə gətirir və informasiya cəmiyyətinin inkişaf tendensiyaları
+ilə ziddiyyət təşkil edir. Baxılan problemin həlli təhsil prosesinə
+müasir pedaqoji texnologiyaların tətbiqi nəticəsində mümkündür.
+Pedaqoji diaqnostikanı belə müasir texnologiyalara aid etmək
+olar. Şagirdlərin biliyinin inkişaf mərhələsinə müxtəlif faktor-
+lardan bu və ya digər formada alimlər, tədqiqatçılar münasibət
+bildirmişlər.
+Rus tədqiqatçısı Uşinski yazmışdır ki, “Əgər pedaqogika
+insanı hərtərəfli tərbiyə etmək istəyirsə, onda hər şeydən əvvəl
+onu hərtərəfli öyrənməlidir”. O, müəllimlərə məsləhət görmüşdür
+ki, şagirdlərinizi, onların ətraf mühitini, fiziki və daxili təbiətini
+nə qədər mümkündürsə çox öyrənsinlər.
+42
+Suxomlinski bu problemin həllinə daha hərtərəfli və dərin
+yanaşmış və qeyd etmişdir ki, uşağı hərtərəfli öyrənmək peda-
+qogikanın nəzəri və praktik sahələrinin başlıca kəsişmə nöq-
+təsidir. Sonrakı müəllimlər və tədqiqatçılar da pedaqoji prosesdə
+uşağın hərtərəfli və dərindən öyrənilməsinə diqqət yönəltmişlər.
+Göründüyü kimi, bütün zamanlarda mütərəqqi pedaqoqlar
+pedaqoji prosesdə şagirdlərin hərtərəfli öyrənilməsinə geniş yer
+vermişdir. Onların bu fikirləri müasir pedaqogika elmində peda-
+qoji diaqnostikanın mahiyyətinin əsasını təşkil etmişdir. Pedaqoji
+diaqnostika termini isə pedaqogika elminə keçən əsrin sonuncu
+onilliyində daxil olmuşdur. Təhsil sahəsində tətbiq olunan
+ənənəvi nəzarət metodlarından fərqli olaraq pedaqoji diaqnostika
+təhsil sisteminin fəaliyyətin nəticələrinin müntəzəm olaraq izlənil-
+məsini nəzərdə tuturdu ki, bu da onun yekun olaraq müqayisəli
+təhlilinə imkan verir.
+Praktik olaraq təhsil müəssisəsi üçün hazırlanan hər bir
+diaqnostik metodika pedaqoji diaqnostika üçün də müvəf-
+fəqiyyətlə istifadə oluna bilər.
+Pedaqoji diaqnostikanın məqsədi, onun fəaliyyətinin ma-
+hiyyətini əks etdirən pedaqoji informasiya yolu ilə həyata ke-
+çirilir.
+Diaqnostika nəticəsində informasiyanı almaq üçün
+aşağıdakı prinsiplərə istinad olunur:
+1. Diaqnostik praqnozvermə istiqamətliliyi prinsipi
+2. Pedaqoji kommunikativlik prinsipi
+3. Sosial normativ xarakterlilik prinsipi
+4. Elmilik prinsipi
+5. Peşəkarlığın məqsədəmüvafiqlik prinsipi
+6. Fasiləsizlik prinsipi
+7. Tamlıq prinsipi
+8. Ardıcıllıq prinsipi
+Pedaqoji diaqnostikanın texnologiyasının işlənilməsi
+prosesində təcrübi və nəzəri metodlardan istifadə edilir. Onlara
+sorğu, müşahidə, müsahibə, anketləşdirmə, söhbət, təbii və diaq-
+nostik eksperiment, modelləşdirmə aid edilir.
+43
+Pedaqoji diaqnostika termini, pedaqogikaya keçən əsrin
+axırıncı on illiyində daxil olmuşdur. Təhsil sahəsində tətbiq
+olunan ənənəvi nəzarət metodlarından fərqli olaraq öyrənilməsini
+nəzərdə tutur ki, bu da onun nəticələrinə, müqayisəli təhlilinə
+imkan verir. Praktik olaraq təhsil müəssisəsi üçün hazırlanan hər
+bir diaqnostik metodika pedaqoji diaqnostika üçün əhəmiyyətli
+olar. Pedaqoji diaqnostikanın məqsədi, onun fəaliyyətinin
+mahiyyətini əks etdirən pedaqoji informasiya təyin olunur. Peda-
+qoji informasiya dedikdə, biz diaqnostika, proqnoz vermə, məq-
+sədəmüvafiq, pedaqoji, kommunikativ, interaktiv, sosial normativ
+xarakterlə şərtlənən və ümumtəhsil məktəblərində təhsil fəaliyyəti
+nəticəsində onun subyektlərə tərbiyəvi təsir edən inkişafını
+nəzərdə tutur.
+Diaqnostika nəticəsində informasiyanı almaq üçün diaq-
+nostikanın nə kimi prinsiplərə əsaslanması barədə yuxarıda
+məlumat verilmişdir.
+İnnovasiyalı metod və texnologiyalardan istifadəni
+arzulamaq azdır, bunu reallaşdırmaq üçün yüksək peşəkarlığa nail
+olmaq lazımdır. Ona görə də müəllimin, yaxud kollektivin hər
+şeydən əvvəl yeni texnoloji təcrübənin tətbiqinə peşəkarlıqla
+yanaşması məsləhət görülür. Bu baxımdan, şəxsiyyətyönümlü
+təlim sistemi əsasında qurulan metodika daha səciyyəvidir. Əgər
+müəllim metodikada əks olunan bütün parametrləri icra etmişsə,
+o, yeni təhsil texnologiyasından, indiki halda şəxsiyyətyönümlü
+təlimdən istifadə etməyə hazır ola bilər.
+Müəllim üçün təzə olan metodikanın tətbiqində təhsil
+müəssisəsi rəhbərinin mövcud innovasiyaya münasibəti də çox
+vacib faktordur. Təəssüflə qeyd etmək lazımdır ki, bir çox
+müəllim yeniliklərin tətbiq edilməsi ilə işlədiyi halda, onun
+fəaliyyətini yenə də köhnə ölçülərlə qiymətləndirirlər.
+Məktəb rəhbərləri yeni təlim metodları ilə işləyən
+müəllimlərin dərsini dinləmək üçün yeni yanaşmaları yüksək
+səviyyədə mənimsəməlidir.
+44
+Əgər məktəb rəhbərləri bir çox parametrlərə görə dərsin
+təhlilinə hazır deyilsə, onda o yeni metodlarla tanış olmalı, bu növ
+fəaliyyət üçün şəxsi hazırlığını artırmalıdır.
+Pedaqoji diaqnostikanın texnologiyasının işlənilməsi pro-
+sesində təcrübi nəzəri metodlardan istifadə edilir. Onlara sorğu,
+müşahidə, müsahibə, anketləşdirmə, təbii və diaqnostik ekspe-
+riment, modelləşdirmə və s. daxil edilir. Bu halda diaqnostikanın
+subyektlərindən alınan informasiyanın etibarlılıq səviyyəsi
+mühüm əhəmiyyət kəsb edir.
+Deməli, təlimdə pedaqoji diaqnostikanın metodlarından
+düzgün və yaradıcı şəkildə istifadənin əhəmiyyəti təkzibolun-
+mazdır (müşahidə, müsahibə, anket sorğusu, testləşdirmə,
+pedaqoji-psixoloji eksperiment və s.).
+Məktəbli müvəffəqiyyətinin diaqnostikası baxımından
+biliyin yoxlanılmasının şifahi, yazılı və test formalarından səmə-
+rəli istifadə olunmalıdır. Bu da onu göstərir ki, təhsil sitemində
+təlimə yararlılığın və intellektual inkişafın diaqnostikası düzgün
+müəyyənləşdirilməlidir.
+ƏDƏBİYYAT
+1. Ağamalıyev R., Əhmədov İ. Tədris prosesində modul
+təlim texnologiyasından istifadənin imkan və yolları.
+Pedaqoji texnologiyalar. Bakı, 2006.
+2. Ağayev Ə. Təlim prosesi: Ənənə və müasirlik. Bakı, 2006.
+3. Kazımov N., Həşimov Ə. Pedaqogika. Bakı, 1996.
+4. Kərimov Y. Təlim metodları. Bakı, 2007.
+5. Mehrabov A. Azərbaycan təhsilinin müasir problemləri.
+Bakı, 2007.
+6. Məktəb pedaqogikası.(Q.İ.Şukinanın redaktəsi ilə) Bakı,
+1982.
+7. Nəzərov A., Mollayeva E. Müasir dövrün təhsil
+problemləri. (Mühazirə xülasələri) Dərs vəsaiti, Bakı,
+2011.
+45
+VII MÖVZU
+PEDAQOJİ İNNOVASİYALAR
+PLAN:
+1. İnnovasiyanın mahiyyəti
+2. Pedaqoji sistemin optimallaşdırılması
+3. İnnovasiyaların obyektini müəyyənləşdirən
+problemlər
+4. Hazırda pedaqoji sistemdə gedən innovasiya
+prosesinin növləri
+İnnovasiya sözü ingiliscə, “innovation” sözündən
+götürülmüşdür. Mənası “yenilik” deməkdir. Pedaqoji innovasiya
+dedikdə, təlim, tərbiyə, təhsil prosesinin gedişini və nəticələrini
+yaxşılaşdırmaq məqsədilə pedaqoji sistemdə həyata keçirilən
+yenilik başa düşülür. İnnovasiya pedaqoji sistemin daxili
+ehtiyatları hesabına baş verir. İnnovasiya sözünün əvvəlindəki
+“in” hissəsinin mənası da daxili deməkdir.
+Pedaqoji sistemin yeniləşməsi çox vacib və aktual
+ideyadır. Çünki təhsil cəmiyyətin simasıdır. Cəmiyyətin inkişafı
+təhsildə də öz əksini tapmışdır. Ölkədə siyasi sistemin dəyiş-
+məsindən sonra cəmiyyətdə olduğu kimi təhsildə də yeniliklər baş
+vermişdir. İndi yeni tip məktəblər yaranmışdır. Alternativ təhsil
+planları, dərslikləri, dərs vəsaitləri yaranmışdır. Təhsilə inves-
+tisiyalar qoyulur.
+Pedaqoji sistem zəncirvari şəkildə bir-birinə bağlıdır.
+Sistemdəki komponentlərdən biri pozulduqda sistem dağılır və
+onun əvəzinə yeni xassələri olan başqa bir sistem yaranır.
+Pedaqoji sistemin elementləri aşağıdakılardır:
+1. Şagirdlər;
+2. müəllimlər;
+3. təlim və tərbiyənin ümumi və xüsusi məqsədləri;
+4. təlim və tərbiyənin məzmunu;
+5. təlimin texniki vasitələri;
+6. təlim-tərbiyə və təhsil işinin təşkili formaları;
+46
+7. təlim-tərbiyə və təhsil prosesinin idarə olunması;
+8. təlim-tərbiyə və təhsil prosesinin texnologiyası;
+9. təlim-tərbiyə və təhsil prosesinin nəticələri.
+Pedaqoji sistemin səmərəsi 100%-dən artıq ola bilməz. Bu
+göstəricinin 50%-i müəllimin, 50%-i isə şagirdin payına düşür.
+Buradan belə çıxır ki, ən pis pedaqoji prosesin nəticəsi 50%-dən
+aşağı ola bilməz. Həmin 50%-i bünövrə götürməklə hər zaman
+daha 50%, yəni 100%-ə çatmaq uğrunda mübarizə gedir. Lakin
+indiyədək tam 100%-lik qələbə əldə edilməmişdir. Ənənəvi
+pedaqoji sistemli iş əmsalı 60%-dir. Bu o deməkdir ki, məktəb
+yetirmələrinin yarıdan bir az çoxu proqram materiallarını
+mənimsəyə bilir. Odur ki, daha yüksək mənimsəmənin yolları
+axtarılır.
+Pedaqoji sistemin təkmilləşdirilməsinin iki yolu var: 1)
+İntensiv (fransızca – gücləndirmək, məhsuldarlığı artırma); 2)
+Ekstensiv (latınca – genişləndirmək, uzatmaq).
+İntensiv yol – pedaqoji sistemin inkişafını daxili ehtiyatlar
+hesabına həyata keçirməyi nəzərdə tutur. Ekstensiv yol isə peda-
+qoji sistemin inkişafı üçün əlavə qüvvələrin (investisiyaların),
+yeni vasitələrin, avadanlıqların, texnologiyaların, kapital qoyu-
+luşunun cəlb edilməsidir.
+Hazırda qərb məktəbi ekstensiv yolla inkişaf edir. Hazırda
+müstəqil yolla pedaqoji məhsulun keyfiyyətinin artmasına şübhə
+edirlər və nəzəriyyəçilər belə fikir söyləyirlər ki, yaxın vaxtlarda
+pedaqogikada innovasiyalar keçmişə qayıtmağı aparıb çıxa-
+racaqdır. Odur ki, indi intensiv və ekstensiv yolların inteqrasiyası
+yolu ilə pedaqoji sistemin səmərəliliyini yaxşılaşdırmağın
+mümkünlüyünü iddia edirlər.
+İnnovasiyaların obyekti aşağıdakı problemlərdir:
+a. təlim-tərbiyə fəaliyyətinin motivasiyasını (öyrənməyə,
+oxumağa olan marağı) necə yüksəltmək;
+b. dərsdə öyrənilən materialın həcmini necə artırmaq;
+c. təlimin sürətini artırmaq;
+d. vaxt itkisini necə aradan qaldırmaq və s.
+47
+Hazırda bu problemləri həll etməyin yolları müəyyən-
+ləşməlidir. Bu səbəbdən bəzi mütəxəssislər ənənəvi pedaqogikanı
+tənqid edir, yeni bir elmin yaranması fikrini irəli sürürlər ki,
+həmin elm təhsili kökündən yeniləşdirsin. Bu, olduqca çətindir.
+Yeni pedaqoji ədəbiyyatda belə bir elm şərti olaraq “inno-
+vasiya pedaqogikası” adlanır. Təlim və tərbiyənin paradiqmalarını
+(nəzəri və praktiki problemlərin həllinin əsasını təşkil edən hakim
+nəzəriyyə) dəyişməyi tələb edir. İnnovatorlar belə hesa edirlər ki,
+klassik pedaqoji nəzəriyyə köhnəlmişdir, indiki şəraitdə yeni
+nəsillərə həmin nəzəriyyə əsasında təlim-tərbiyə vermək çətindir.
+Ölkəmizdə innovasiyalı təhsil müəssisələri hazırda
+fəaliyyət göstərməkdədir. Müasir Təhsil Kompleksini, XXI əsrin
+bir sıra başqa təhsil sahəsindəki yeniliklərini buna misal
+göstərmək olar.
+1. Humanist pedaqogikanın təşəkkülünə pedaqoji sistemdə
+sözün əsl mənasında gedən innovasion prosesi nümunə kimi
+göstərmək olar.
+2. Təlim-tərbiyə prosesin optimallaşdırılması ümumilikdə
+pedaqoji sistemə aid edilən ümumi innovasiyadır. Optimal-
+laşdırma (optium – ən yaxşı) mümkün olan variantlardan ən
+yaxşısını seçib götürmək prosesidir. Pedaqoji proses çox planlı,
+mürəkkəb və dinamik olduğu üçün optimal variantlar da çoxdur.
+Onların ən yaxşısını seçib işlətmək vacibdir. Bu zaman alternativ
+variantları müqayisə etməyə, daha məqsədəmüvafiq varianta
+önəm verməyə lüzum var. Çünki bu şərait (məsələn, sinif) üçün
+yararlı olan optimallıq digər şəraitdə özünü doğrultmaya bilər.
+Optimallaşdırma nəzəri və praktik baxımdan iki istiqa-
+mətdə olur:
+1) nəzəri aspektdə – optimallaşdırmanın sinonim
+variantlarını hesaba (uçota) alma, müqayisə, tutuşdurmadır;
+2) praktiki aspektdə – bu pedaqoji sistemin innovasiyası,
+yekun təşkili və qurulması, qarşıya qoyulmuş vəzifələri həll
+etmək üçün onun ən yaxşı vəziyyətə gətirilməsidir. Təlim-tərbiyə
+prosesi o zaman optimal hesab olunur ki, orada şagirdlər və
+müəllimlər yüklənmir və maksimum nəticə əldə edirlər.
+48
+Təcürbə göstərir ki, şagirdlərin həddindən artıq yüklən-
+məsi onların iş qabiliyyətini azaldır, sağlamlığına mənfi təsir
+göstərir.
+Optimallaşdırma pedaqoji prosesi mövcud vəziyyətə,
+şəraitə uyğunlaşdırmağı nəzərdə tutur. Bununla belə o özü yeni
+şərait yaradır və pedaqoji prosesin ona tabe olmasını tələb edir.
+Təlim-tərbiyə prosesinin optimallaşdırılması o zaman
+mümkündür ki, müəllim pedaqoji sistemin bütün parametrlərini
+(göstəricilərini) yaxşı bilsin. Bu baxımdan müəllim aşağıdakı
+keyfiyyətlərə malik olmalıdır.
+1) yaradıcı təfəkkür üslubuna;
+2) təfəkkür çevikliyinə;
+3) təfəkkür konkretliyinə;
+4) təfəkkür sistemliliyinə;
+5) qərarlar qəbul edən və fəaliyyət göstərən zaman həddi
+gözləmək qabiliyyətinə;
+6) daha çox ünsiyyətə girmək və pedaqoji taktı gözləmək
+bacarığına.
+Ümumiyyətlə, hər bir müəllim təlimi optimallaşdırmağı
+bacarmalıdır.
+Müasir yeniləşmə prosesinin təhlili əsasında pedaqoji
+sistemində gedən innovasiya prosesini üç növə ayırmaq olar:
+1. Aşağı səviyyə: Burada yeni qeyri-adi adlar və ümumi
+ifadələrdə dəyişikliklər aparılması güman edilir;
+2. Orta səviyyə: Burada mahiyyətə toxunulmadan
+formalar dəyişir;
+3. Yüksək səviyyə: Burada bütün sistemin və onun
+başlıca komponentlərinin əsaslı dəyişilməsi baş verir.
+Əslində üçüncü yüksək elmi və praktiki dəyərə malikdir.
+Qalanlar keçici xarakter daşıyır və “innovasiya” xatirinə edilir.
+Təhlil göstərir ki, üçüncü səviyyə innovasiyanın çox cüzi
+hissəsini, ancaq 3 fəslini təşkil edir.
+Humanist məktəblərin təcrübəsi artıq innovasion fəaliy-
+yətin konkret forma və üsullarını müəyyən etmişdir. Onlardan
+aşağıdakıları göstərmək olar.
+49
+1. Təlim-tərbiyə fəaliyyətinin diferensiasiyası
+2. Tərbiyə və təlim prosesinin fərdiləşdirilməsi
+3. Hər bir tərbiyə olunanın meyl və qabiliyyətinin inkişafı
+üçün əlverişli şəraitin yaradılması
+4. Homogen (eyni mənşəli) siniflərin və paralellərin
+formalaşdırılması
+5. Təlim-tərbiyə üçün rahat şəraitin olması
+6. Şagirdə və onun inkişafına inam
+7. Şagirdi necə varsa elə qəbul etmək
+8. məktəbin məqsəd istiqamətinin dəyişməsi
+9. Qiyabi, ekstern təlimin aradan qaldırılması
+10. Müəllimin şəxsi daxili yönümünün dəyişdirilməsi
+11. Humanitar təhsilin gücləndirilməsi
+ƏDƏBİYYAT
+1. Təhsil haqqında Azərbaycan Respublikasının Qanunu.
+Bakı, 2009.
+2. Əliyev A. Yeni (müasir) pedaqoji texnologiyalar və
+onlardan təlim praktikasında sistemli istifadənin
+əhəmiyyəti. “Təhsil problemləri” qəzeti, 21-30 iyun, 2007.
+3. Həsənov A., Ağayev Ə. Pedaqogika. Bakı, 2007.
+4. Qasımova L., Mahmudova R. Pedaqogika. Bakı, 2003.
+5. Mehrabov A. Azərbaycan təhsilinin müasir problemləri.
+Bakı, 2007.
+6. Mərdanov M. Azərbaycan təhsili yeni inkişaf mər-
+hələsində. Bakı, 2009.
+7. Nəzərov A., Mollayeva E. Müasir dövrün təhsil prob-
+lemləri. (Mühazirə xülasələri) Dərs vəsaiti. Bakı, 2011.
+50
+VIII MÖVZU
+YENİLİKÇİ MÜƏLLİMLƏRİN PEDAQOJİ
+TEXNOLOGİYALARDAN İSTİFADƏ BACARIĞI
+PLAN:
+1. Müəllimlik peşəsinin insan fəaliyyətinin çox
+mürəkkəb növünə aid olması
+2. Müəllimin pedaqoji qabiliyyətinin yeddi qrupa
+ayrılması
+3. İdeal pedaqoji keyfiyyətlərin üç qrupa ayrılması
+4. Həqiqi təlim üçün metod və texnologiyaların qar-
+şıya qoyulmuş məqsəd və şəraitdən asılı olaraq seçil-
+məsi
+5. Xarici təcrübədə əxz edilmiş bəzi yenilikçi müəl-
+limlər tərəfindən tətbiq edilməyə başlayan interaktiv
+metodlar (rollu oyun, debatlar və s.)
+Müəllimlik peşəsi insan fəaliyyətinin çox mürəkkəb
+növünə aiddir. Pedaqoji funksiya müəllimə peşə bilikləri və
+bacarıqlarını tətbiq etmək istiqamətini göstərməkdir. Pedaqoji
+fəaliyyətin başlıca istiqamətlərini şagirdlərin təlimi, təhsili,
+tərbiyəsi, inkişafı və formalaşması təşkil edir. Bu işlərin hər
+birində müəllim çox konkret işlər görür. O, özü bu başlıca
+funksiyanı nə qədər dərindən başa düşsə öz şagirdlərinə də bir o
+qədər müstəqillik, təşəbbüskarlıq, sərbəstlik verər. Müəllimin
+pedaqoji qabiliyyətləri yeddi qrupa ayrılır:
+1. Təşkilatçılıq qabiliyyəti – müəllimin uşaqları
+birləşdirmək, onları məşğul etmək, vəzifələri bölüşdürmək, işi
+planlaşdırmaq, görülən işə yekun vurmaq və s. bacarığında özünü
+göstərir.
+2. Təlim (öyrətmək, didaktik) qabiliyyəti – tədris
+materialının əyani vasitələri, avadanlığı seçmək və hazırlamaq,
+tədris materialını başa düşülən şəkildə, aydın, ifadəli, inandırıcı
+nəql etmək, tədris – idrak fəallığını yüksəltmək, idrak maraqlarını
+və onların mənəvi tələbatlarını stimullaşdırmaq bacarığı daxildir.
+51
+3. Perseptiv qabiliyyət – şagirdlərin daxili aləmini
+görmək bacarığında onların emosional vəziyyətini obyektiv
+qiymətləndirməkdə psixikasının xüsusiyyətlərini üzə çıxarmaqda
+özünü göstərir.
+4. Kommunikativ (ünsiyyət) qabiliyyəti – müəllimin
+şagirdlər, onların valideynləri, həmkarları, tədris müəssisəsinin
+rəhbərləri ilə pedaqoji cəhətdən məqsədyönlü münasibət qura
+bilməsində özünü göstərir.
+5. Suqqestiv (təlqinedici) qabiliyyət – şagirdlərə
+emosional – iradi təsir göstərməkdən ibarətdir.
+6. Tədqiqatçılıq qabiliyyəti – pedaqoji situasiyaları və
+prosesləri dərk etmək və obyektiv qiymətləndirmək bacarığıdır.
+7. Elmi-idraki qabiliyyət – seçdiyi sahə üzrə elmi
+bilikləri mənimsəmə qabiliyyətidir.
+Bu qabiliyyətlər içərisində aparıcı və köməkçi qabi-
+liyyətlər vardır. Didaktik və təşkilatçılıq qabiliyyəti aparıcı
+qabiliyyətlərə aiddir. Qalanları isə köməkçi qabiliyyətlər hesab
+olunur.
+Müəllim üçün ən vacib keyfiyyət humanizmdir. “Huma-
+nizm” sözünün mənası, insanpərvər (“insani”, “bəşəri”) deməkdir.
+Humanist münasibətlər şagirdlərin şəxsiyyətinə maraqdan, onun
+vəziyyətinə şərik olmaqdan, fikrinə hörmət etməkdən, tədris
+fəaliyyətinə yüksək tələbkarlıqdan, şəxsiyyətinin inkişafına qayğı
+göstərməkdən və s. – dən ibarətdir.
+İnteraktiv metodlarla əlaqədar xarici təcrübədən əxz
+olunan, istifadə edilən və əməli işdə tətbiq olunan bir sıra müx-
+təlif adlar və terminlərin işlədilməsinə diqqət yetirməyin zəruriliyi
+ortaya çıxır. Bu adların verilməsi nəzəri ideyadan deyil, prak-
+tikadan – təlim təcrübəsindən irəli gəlmişdir. Əgər hər hansı işini
+mükəmməl bilən, yaradıcı işləyən müəllim öz təcrübəsində
+şagirdlərarası fəallaşdırmanı təmin edən hər hansı metodika
+işləyib tətbiq edərsə özü də onun adını verə bilər.
+Nümunə üçün xarici təcrübədən əxz edilmiş və bəzi
+yenilikçi müəllimlər tərəfindən tətbiq edilməyə başlanılan
+interaktiv metodlara diqqət yetirək:
+52
+Rollu oyun. Bu metod didaktikada ilkin formalaşmış
+metodlardan biridir. XX əsrin 20-30-cu illərində Azərbaycanda
+hətta ədəbi müzakirələri də bu metodla keçirirmişlər. Hələ Sovet
+dönəmində müəllimliyə başlayan bəzi müəllimlər dərslərində
+rollu oyundan şagirdləri fəallaşdırma və qabiliyyətlərinin artırma
+metodu kimi orta məktəbdə istifadə etmişlər. Rollu oyunu hazırda
+interaktiv metodlar sırasına daxil edən digər qabaqcıl müəllimlər
+vaxtı düzgün hesablamalıdırlar. Göstərilən şərtləri Azərbaycanın
+qabaqcıl müəllimləri və uşaq bağçası tərbiyəçiləri 50 ildir ki,
+tətbiq edirlər. Rollu oyun mövzuya, fənnə, sinfə görə müxtəlif cür
+imitasiya edilə bilər.
+Debatlar. Debatlar (fransız dilində, “Debats” – hansısa
+iclasda, yığıncaqda fikir mübadiləsi) müəyyən bir problemə aid
+mübahisədir, bir – birinə əks nöqteyi – nəzərdən toqquşması,
+tərəflərin öz mövqeyini mədəni surətdə dəlillər əsasında müdafiə
+etməsidir. Debatlar hadisələrə müxtəlif nöqteyi – nəzərlərdən
+baxmağa, faktları və ideyaları şübhə altına almağa və inan-
+dırmağa başlayırlar.
+Debatların əsasını arqumentlər – dəlillər təşkil edir.
+Debatlarda gərək nəinki nitqlə çıxış edəsən, eyni zamanda
+digər tərəfin arqumentlərini dəf edəsən, öz mövqeyini qarşı
+tərəfin mövqeyi ilə qarşılaşdırasan və bununla hakimləri öz üstün-
+lüyünə inandırasan. Bu mənada debatlar şahmat oyununa bən-
+zəyir, çünki suala nəinki öz mövqeyindən, eyni zamanda rəqibin
+mövqeyindən baxaraq onun növbəti arqumentinə hazır olursan.
+Debatlar mövzunun qısaca və dürüst ifadəsindən başlanır.
+Hər qrup öz mövqeyini müdafiə edir və qarşı tərəfin arqu-
+mentlərini təkzib edir.
+Demokratik dövlətin gələcək vətəndaşları kimi şagirdlər
+debatlar vasitəsilə siyasi hadisələri başa düşə bilir və öz nöqteyi-
+nəzərini müdafiə etməyi öyrənirlər.
+Debatlar insanların deyil, ideyaların qarşıdurmasıdır,
+demokratik cəmiyyətdə isə bu qarşıdurmanın yeganə həlli vasitəsi
+əsaslandırılmış arqumentlər ola bilər. Başqa sözlə desək, şagirdlər
+53
+qarşı tərəfin özünə deyil, onun arqumentlərinə – dəlillərinə həmlə
+etməlidirlər.
+Debatların ən vacib elementi – tənqidi düşüncədir. Rollu
+oyun şagirdlərin yaradıcı təxəyyülünü inkişaf etdirir, onların
+iştirak hissini gücləndirir. Bu üsulla işlədikdə şagirdlər elə bil ki,
+hadisələrin canlı iştirakçılarına çevrilirlər. Rollu oyunun keçiril-
+məsi zamanı sinfin əksər hissəsi dərs prosesinə qoşulur. Rollu
+oyunun sayəsində şagirdlər digərlərinin düşüncə tərzini yaxşı
+anlamağa başlayırlar. Bu metodika şagirdlərdə qrupda işləmək
+bacarığını inkişaf etdirir. Bu oyunlar dərsin yeknəsəkliyini aradan
+qaldırır və mövzuya maraq oyadır.
+Rollu oyunların keçirilməsi üsulları müxtəlifdir. Adətən,
+müəllim sinfi qruplara bölür və bu qrupların arasında rolları
+bölüşdürür. Şagirdlərin fəaliyyəti onların oyuna nə dərəcədə cəlb
+olunmasından asılıdır. Şagirdlərin hansının cəlb olunması üçün
+müəllimin istiqamətləndirici fəaliyyəti böyük rol oynayır.
+Rollu oyunlar hökmən şagirdlərə ünvanlanmış müvafiq
+suallarla nəticələnməlidir. Bu suallar rollu oyunların məqsədlərinə
+xidmət etməlidir.
+Mümkün çətinliklər:
+– Rollu oyunlar şagirdlər üçün əyləncəyə çevril-
+məməlidir. Bəzən müəllimlər rollu oyunları keçirərkən
+oyunun məqsədləri barədə unudurlar və oyunun tək
+zahiri tərəfinə diqqət verirlər.
+– Oyuna cəlb olunmayan şagirdlər oyun prosesindən
+kənarda qala və ümumiyyətlə dərsin gedişinə mane-
+çilik törədə bilərlər.
+– Rollu oyunların digər mümkün çətinliyi müəllimin
+vaxtı düzgün hesablamamsı ilə əlaqədar ola bilər, bu
+da şagirdlər tərəfindən oyunun mahiyyətinin qavranıl-
+maması ilə nəticələnə bilər.
+Çıxış yolu:
+Bu cür çətinlikləri aradan qaldırmaq üçün müəllim oyunun
+bilavasitə rəhbəri olmalı, uşaqları oyuna cəlb etməli, müzakirə
+54
+edilən ideyaların dürüst ifadə edilməsi müəyyənləşdirilməli,
+əsaslandırılmalı və təhlil edilməlidir.
+Tədqiq etmə bacarıqlar. Dərs prosesində debatlara 5-10
+dəqiqəlik hazırlıq zamanı mövzuya dair məlumatın toplanması –
+yəni “məlumat bankı” yaranır. Qrupdan bir nəfər bu məlumatı
+qeyd etməlidir. Məlumata:
+– Misallar;
+– Faktlar;
+– Statistika;
+– Sitatlar və s. daxil edilməlidir.
+Arqumentin yaradılması:
+1. Dəlilin irəli sürülməsi;
+2. Dəlilin izahı;
+3. Dəlilin sübut edilməsi;
+4. Nəticələr.
+Struktur:
+Mövzu:
+Vərəq:
+Təsdiq, yaxud inkar (şagirdlər mövzu ilə razıdır, yoxsa
+yox).
+İzah: (şagirdlər səbəbi ətraflı izah edirlər).
+Əsaslandırma: (adətən vərəqlərdə yazılmış sübutlardan
+ibarətdir).
+Nəticə: (şagirdlər yenidən əvvəlki dəlili təsdiq edirlər).
+Pedaqoqun professional potensialının ümumi strukturu
+aşağıdakılardır: İntellektual, motivasion, kommunikativ, ope-
+rasion (və ya sırf professional), yaradıcı komponentlər.
+“İdeal pedaqoq” anlayışının da öz mənası vardır. İdeal
+pedaqoq professional pedaqoqa nümunədir. İdeal pedaqoq ən
+yüksək səviyyədə formalaşmış vətəndaşlıq, istehsalat və şəxsiyyət
+funksiyalarının daşıyıcısıdır. İdeal pedaqoqun keyfiyyətləri 3
+qrupa ayrılır:
+1. İdeal pedaqoq bir mütəxəssis kimi;
+2. İdeal pedaqoq bir işçi kimi;
+3. İdeal pedaqoq bir insan kimi.
+55
+Pedaqoji ünsiyyətin üslubundan asılı olaraq müəllimlər 3
+tipə bölünür: fəal, az fəal, çox fəal.
+Fəal müəllim: ünsiyyətin təşkilində təşəbbüskardır,
+şagirdlərlə əlaqələrini fərdiləşdirir, onun mövqeyi, xətti, topladığı
+təcrübəyə uyğun dəyişir, o nə istədiyini bilir və öz hərəkətlərində
+nəyin məqsədə nail olmağa kömək göstərdiyini başa düşür.
+Az fəal müəllim: öz xəttində, mövqeyində çevikdir, amma
+daxilən zəifdir. Onun siniflə ünsiyyətinin xarakterini özü yox,
+şagirdlər diktə edir. Onun məqsədləri dağınıqdır və davranışını
+açıq – aşkar şəraitə uyğunlaşdırır.
+Çox fəal müəllim: öz şagirdlərini yüksək qiymətlən-
+dirməyə və qeyri – real ünsiyyət modelləri qurmağa meyillidir.
+Ona görə əgər şagird başqalarına nisbətən fəaldırsa, o qiyamçı və
+dələduz, əgər passivdirsə tənbəldir. Belə müəllimin uydurduğu
+qiymətlər ona müvafiq olaraq hərəkət etməyə məcbur edir.
+Azərbaycanda interaktiv metodlarla, yeni texnologiyalarla
+işləyən müəllimlərin iş təcrübəsi demək olar ki, uğurlu alınır.
+Ancaq onu da qeyd edək ki, interaktiv təlim metodlarından
+həmişə istifadə etmək onun təsirini azalda bilər.
+Həqiqi təlim üçün metod və texnologiyaları qarşıya
+qoyulmuş məqsəd və şəraitindən asılı olaraq müəllimlər fənnə,
+mövzuya, şagirdlərin təcrübə və bilik səviyyəsinə görə yeni təlim
+metodlarından, müxtəlif metodika və texnologiyalardan istifadə
+etməyi bacarmalıdırlar.
+Yeni təlim texnologiyalarını aktuallaşdıran aşağıdakı
+şərtlərə əməl olunmalıdır:
+1. İnsanların bazar iqtisadiyyatı (kapitalizm) cəmiyyətində
+yaşaması və hər kəsin özünü bu cəmiyyətdə yaşaya bilmək üçün
+hazırlaya bilməsinin önəmliyi.
+2. Uşaqların 20-30 il əvvəlki zamana görə dünya-
+görüşünün, sosial, texniki məlumatlılıq səviyyəsinin xeyli yüksək
+olması. Təlimin məzmun və metodlarının uşağın istəyini təmin
+etməyin vacibliyi.
+56
+ƏDƏBİYYAT
+1. Ağayev Ə. Təlim prosesi: ənənə və müasirlik. Bakı,
+2006.
+2. Ağayev M. Kiçik yaşlı məktəblilərin tərbiyəsi. Bakı,
+2006.
+3. Mehrabov A. Azərbaycan təhsilinin müasir problem-
+ləri. Bakı, 2007.
+4. Mehrabov A., Bəylərov E. Şagird intellektinin inkişafı.
+Bakı, 2006.
+5. Mərdanov M. Azərbaycan təhsili yeni inkişaf
+mərhələsində. Bakı, 2009.
+6. Mərdanov M., Şahbazlı F. Azərbaycan təhsil sistemi
+(1998-2005). II kitab, Bakı, 2005.
+7. Nəzərov A., Məmmədov R. Pedaqoji ustalıq. (Müha-
+zirə xülasələri) Dərs vəsaiti. Bakı, 2008.
+8. Nəzərov A., Mollayeva E. Müasir dövrün təhsil
+problemləri (dərs vəsaiti). Bakı, 2011.
+57
+IX MÖVZU
+PEDAQOJİ TEXNOLOGİYA SİSTEMİNDƏ YENİ TƏLİM
+TEXNOLOGİYALARININ SƏCİYYƏSİ
+PLAN:
+1. Pedaqoji texnologiyanın zaman-zaman yeniləşməsi
+2. Voldorf məktəbinin ənənəvi məktəblərdən təşkilatı
+baxımdan fərqlənməsi
+Pedaqoji texnologiya ifadəsi də son illərdə daha çox
+işlədilən anlayışlardandır. Texnika inkişaf etdikcə təkcə elmin və
+texnikanın müəyyən sahəsinə deyil, təlim prosesinə də daxil olur.
+Əgər ötən əsrin 50-ci illərində pedaqoji texnologiya dedikdə
+əsasən təlimin texniki vasitələri başa düşülürdüsə, hazırda bütün
+pedaqoji prosesdə mövcud paradiqmalar, vasitələr, müxtəlif
+təlim-tərbiyə prosesləri, məzmunun formalaşdırılması, öyrətmə
+modelləri və metodları, idarəetmə, qiymətləndirmə bütün bu
+prosesdə korreksiya və təkamül nəzərdə tutulur.
+“Pedaqoji texnologiya” sözü yunanca, “techne” incəsənət,
+“remesto” elm, “logos” isə anlayış, təlim deməkdir. Pedaqoji
+fəaliyyət pedaqoji ustalıq tələb edir. Lakin müəllim işləyən bütün
+insanlarda pedaqoji ustalıq eyni dərəcədə ola bilməz və hətta
+bəzilərində heç olmaya bilər. Amma hər bir müəllim pedaqoji
+texnologiyaya yiyələnə bilər və yiyələnməlidir. Çünki bu konkret
+bilgilərdən və əməliyyat bacarıqlarından ibarətdir.
+V.V.Basovaya görə, ənənəvi pedaqogikada fəal təlim
+metodları adlandırılan proqramlaşdırılmış, problemli, adapta
+edilən modul suqqestiv təlim, işgüzar oyunlar əslində təlim
+metodları deyil, təlim texnologiyasıdır. Bizə görə bunları işlənmə
+yerinə tətbiq məqsədinə görə həm metod, həm də texnologiya
+adlandırmaq olar.
+Pedaqoji texnologiyalar müxtəlif formada təzahür edir.
+“Voldorf pedaqogikası” deyilən təlim formasını ayrıca
+nəzərdən keçirək. 1919-cu ildə Almaniyanın Ştutqard şəhərindəki
+tütün fabrikinin fəhlələri voldorf Ustoriya fabrikinin direktoru ilə
+58
+birlikdə alman alimi Rudolf Şteyner (1861-1925) onların uşaqları
+üçün məktəb yaratmağı təklif etmişlər.
+R.Şteyner ensiklopedik biliyə malik görkəmli alim idi. O,
+elmin və incəsənətin müxtəlif sahələrinə aid 300 cildlik əsər
+yazmış və nəşr etmişdir. Tibb, kosmologiya, din tarixi, heykəl-
+taraşlıq, memarlıq sırasında əsərlərinin 25 cildlik pedaqogika və
+təhsilə həsr edilmişdir. “İnsan haqqında ümumi təlim peda-
+qogikasının əsası kimi”.
+R.Şteyner “azad məktəb” tipinə uyğun ilk məktəbini
+yaratmışdır. Onun əsasında insan varlıq kimi prinsipi dayanırdı.
+N.V.Basov yazır ki, təhsilin Voldorf texnologiyasının mahiyyəti
+insanın hiss etdirmək qabiliyyətini inkişaf etdirmək başqa sözlə,
+hisslərin tərbiyəsi, bədii zövqün formalaşdırılması təbiət bilikləri
+əsasında yaradıcı, quruculuq bacarığı aşılamaqdır. Əsas o idi ki,
+təhsilin məqsədi və məzmunu istehsalın tələbi və ya sosial-siyasi
+konyuktura təyin etmirdi. İnsan onun imkanları və tələbatı təhsilin
+məzmununun aparıcı prinsipi hesab edilirdi.
+Voldorf məktəbi ənənəvi məktəblərdən təşkilatı baxı-
+mından fərqlənirdi. Özünüidarə əsasında fəaliyyət göstərirdi,
+direktor yox idi, məktəbi pedaqoji kollektiv idarə edirdi, məktəbin
+həyatında valideynlər iştirak edirdi. Məktəb mərkəzləşmiş dövlət
+reqlamentləşdirilməsindən azad idi. Hazırda Almaniyada şagird-
+lərin 1% voldorf məktəbində təhsil alırlar. Burada təhsil
+ödənişlidir, differensialdır. Müəllimin əmək haqqı da differensial
+qaydada ödənilir. Məktəblər müstəqildir, ancaq dövlət onları
+dəstəkləyir və təlim prosesinə müdaxilə etmədən xərclərin 70-
+80%-ni öz üzərinə götürür.
+Klassik Voldorf məktəblərində təlim 12 ildir. Universitetə
+daxil olmaq istəyənlər “abituriyent sinfi” adlanan 13-cü ili də
+oxuyurlar. Amma universitetlərə qəbul faizi aşağıdır. Məktəb
+tədris siteminə görə ənənəvi məktəblərdən tamamilə fərqlənir. I
+sinifdən VIII sinfə qədər bütün məşğələləri bir müəllim aparır.
+Möhkəm tədris planı yoxdur, qiymətləndirmə yoxdur, qiymət-
+ləndirmə xasiyyətnaməsindən istifadə olunur.
+59
+VIII sinifdən sonra məşğələləri fənn müəllimləri aparır.
+Səhər ilk 2 saatda bir fənn öyrədilir (riyaziyyat, zoologiya və s.),
+həmin gün başqa fənn tədris olunmur. Öyrədilən fənn hər gün
+həmin qaydada 3-6 həftə davam etdirilir və “dövr” adlanır.
+I dövr kimya üzrə, II dövr ədəbiyyat üzrəvə s. ola bilər.
+Dövrün hər günü 2 saatlıq fənn məşğələsindən, sonra məşğələlər
+sinifdə oturmaqla aparılmır. Bu fənlərin tədrisi ənənəvi qaydada
+deyil, obrazlı-estetik qaydada aparılır. Voldorf məktəbində əmək
+tərbiyəsinə və təliminə böyük yer verilirdi. Cildləmə, ağacda
+öymə, dülgərlik, tikiş yapma və s. oğlanlar dəmirxanada işləməyi,
+torpaq hazırlamağı, dən üyütməyi, çörək bişirməyi öyrənirdilər.
+Alimlər belə fikirdədirlər ki, Voldorf məktəbindəki bənzərsiz
+şəxsiyyətyönümlü pedaqogika təlimin humanistləşdirilməsi və
+humanitarlaşması qabiliyyətlərinin inkişaf etdrilməsi əğz
+edilməyə layiqdir. Göründüyü kimi, Voldorf məktəbindəki təlim
+texniologiyası ayrıca bir istiqamət təşkil edir.
+İnformasiya texnologiyası (İT) – metod və vasitələr
+yığımını istifadə edilən məcmusu prosesidir.
+İnformasiya texnologiyalarını bütün dünya birliyi çərçi-
+vəsində vahid məkan birliyinin, vahid təhsil məkanının
+formalaşmasına, şəraitin formalaşmasına səbəb olur.
+Hazırda pedaqoji texnologiyaların adı altında pedaqoji
+prosesdə müsbət nəticələrə gətirib çıxaran pedaqoji ideallar kom-
+pleksi başa düşülür. Habelə, tam və sistemli pedaqoji texno-
+logiyada mövcud olması və onlardan bir sıra ölkələrdə istifadə
+olunması diqqəti cəlb edir:
+1. Təbii təlim texnologiyaları
+2. Modul-retinq texnologiyası
+3. İnteqrativ təlim texnologiyası
+4. Parasentrik təlim texnologiyası
+5. Biliklərin tam mənimsənilməsi texnologiyası
+6. Fərdi təlim texnologiyası
+7. Kooperativ təlim texnologiyası
+8. Təlimin nəzarət-korrektdə texnologiyası
+60
+XX əsrin 70-80-cı illərində kompüterlərin təlim texno-
+logiyasına daxil olması nəticəsində yeni təlim texnologiyasının
+əsasının qoyulması, kompüter təliminin əsasında kompüterlərdən
+istifadə etməklə proqramlaşdırılmış təlimin dayanması “təlimin
+kompüter texnologiyası”nın artıq “informasiya texnologiyaları”
+ilə əvəz olunması diqqəti cəlb edirdi. Hətta yaş anlayışlarının
+yaranması – TYİT – təlimin yeni informasiya texnologiyaları
+yarandı. Kommunikativ texnologiyalar (KT) hətta cəmiyyətin
+“infortmalaşdırılması”, “informasiya cəmiyyəti” anlayışlarının
+geniş yayılmağa başlanması ilə səciyyələnirdi.
+Keçmiş SSRİ-də təlim texnologiyasını təkmilləşdirən, ona
+yenilik gətirən novator müəllimlər, məktəb direktorları var idi. Bu
+sıradan Gürcüstanda Ş.Amanaşvilinin, Azərbaycanda Z.Şoyu-
+bovun, Rusiyada F.V.Şataların və daha bir neçə müəllimi qeyd
+etmək olar. Bunların arasında Şatalov daha çox diqqəti cəlb edir.
+Onun işlədiyi təlim texnologiyalarını “Şatalov metodu” adlan-
+dırırlar. Onun təlim texnologiyasının əsasına qrup (sinif) təlimi
+şəraitindən şagirdlərin mürəkkəb idrak fəaliyyətinin qurulması
+təşkil edirdi.
+F.V.Şataların əsas məqsədi belə idi:
+1. Materialı olduqca yığcam izah etməklə uşaqların
+diqqətindən artıq yükləri atmaq
+2. Bir dərsdən bir teoremi yox, qarşılıqlı, əlaqəli mövzuları
+blok-blok (hissə-hissə) öyrətmək
+3. Şagirdlərə əsas olan mahiyyəti çatdırmaq və onların
+yadda saxlanacaqlarının həcmini azaltmaq
+4. Şagirdlərin eyni zamanda dinləmələrinə və yazmalarına
+imkan verməmək, əvvəlcə dinləməli, sonra yazmalı
+5. Hər bir şagirdə yığdığı balı yaxşılaşdırmaq imkanı
+vermək. Bu prinsip “açıq perspektivlər” adlanırdı.
+6. Şagirdlərə və valideynlərə humanist münasibət
+7. Sinifdə elə ab-hava yaratmaq lazımdır ki, hər bir şagird
+özünü sakit və inamlı hiss etsin.
+61
+Göründüyü kimi, Şatalovun pedaqoji texnologiyasının
+mahiyyəti onda ifadə edilir ki, şagird öz biliyini qeyri-ənənəvi
+şəraitdə təqdim edir, anlayır, yada salır və tətbiq edir.
+Ötən əsrin 80-cı illərində Bolqarıstanda inteqral təlim
+texnologiyası tətbiq olunmağa başladı. Onun işlənməsi üzrə
+Çexoslavakiyada geniş eksperimentlər aparıldı. Digər ölkələrdə
+də belə cəhdlər oldu. Nəticədə inteqral təlim sistemi əsasında
+qlobal təhsil konsepsiyası yarandı.
+Rusiyada ictimai əsaslarla qlobal təhsil mərkəzi yaradıldı.
+Mərkəz ABŞ-ın eyni adlı mərkəzi ilə əməkdaşlıq edirdi. Mərkəz
+məktəblər üçün 3 əsas blok üzrə işləmələr hazırlayır.
+1. Necə gözəldir bu dünya;
+2. Necə kövrəkdir bu dünya;
+3. İnsan adamlar arasında.
+Bu təhsil və tərbiyənin əsasında insan, onun cəmiyyəti,
+həyatın dəyişməsinə uyğun olan təlimi dayanır. Ona (insana)
+mütləq həyatın yeni dəyişmələrinə uyğunlaşmasına öyrətmək
+lazımdır.
+XX əsrin 70-80-cı illərindən kompüterlər təlim prosesinə
+daxil oldu və yeni təlim texnologiyasının əsası qoyuldu.
+Kompüter təliminin əsasında kompüterlərdən istifadə etməklə
+proqramlaşdırılmış təlim dayanırdı.
+Təbii təlim texnologiyası dedikdə, işin qrup vasitəsilə
+görülməsi və bu zaman subyektlər arasından təbii, ünsiyyətin
+bərqərar olması və bu şəraitdə müxtəlif didaktik materiallardan,
+hərəkət alqoritmlərindən istifadə edilməsi nəzərdə tutulur.
+Modul-reytinq texnologiya şagirdlər üçün 2 tip modul
+proqramlarına (idrak və fəaliyyət, yaxud əməliyyat və fəaliyyət) –
+modul – qovluqlarına həmçinin şagirdlərin biliklərinin qiymət-
+ləndirilməsinin reytinq şkalasının işlənməsinə əsaslanır.
+“Modul” sözü latın dilindəki “modulus” sözündən
+götürülmüşdür. Ölçü deməkdir. Dəqiq elmlər, xüsusilə riyaziy-
+yatda, eləcə də memarlıqda modul anlayışı çoxdan məlumdur.
+Pedaqogikada modul vəziyyət və keyfiyyətin səviyyəsini dəqiq
+qurmağa xidmət edir.
+62
+Məzmun verilən biliyin həcmi, istifadə ediləcək metod və
+vasitələr, keyfiyyət səviyyəsi şagirdə veriləcək qiymətlər hansı
+səviyyəyə görə qruplaşdırılacaq və s. Bütün bunlar irəlicədən
+dəqiq müəyyənləşdirilir və tətbiq olunur. Öyrənənlər bilik,
+bacarıq və vərdişlərinin dairəsini qabaqcadan bilir və bu dairəni
+mütləq əhatə etməyə çalışırlar.
+Buna əsasən modul üzrə bütün iş növlərini əhatə edən sual
+və tapşırıqlar hazırlanır və modulun öyrənilməsindən sonra
+nəzarətə (yoxlamaya) çıxarılır (adətən testlə).
+Biliyin tam mənimsənilməsi, texnologiyanın reallaş-
+dırılması zamanı şagirdlərin fəaliyyətinin nəticələrinin hesaba
+alınması və qiymətləndirilməsi üçün müxtəlif formalardan istifadə
+edilir. Bu zaman korrektə, diaqnostik və yekun məqsədi həyata
+keçirilir. Kooperativ təlim texnologiyasının əsasında şagirdlərin
+fəaliyyətini fərdi işdən briqada formasına və əksinə keçiril-
+məsində müxtəlif vasitələrdən istifadənin bir-birini əvəz etməsi
+durur.
+ƏDƏBİYYAT
+1.Abbasov A. Pedaqogika. Bakı, 2007.
+2.Ağayev Ə.,Talıbov Y.,Eminov A.,İsayev İ.Pedaqogika. Bakı,
+2006.
+3.Əhmədov B., Rzayev A. Pedaqogikadan mühazirə konspektləri.
+Bakı, 1983.
+4.Əhmədov Ş. Təhsilimiz dünən, bu gün, sabah. Bakı, 2003.
+5.Anamalıyev R. “Azərbaycan təhsili XX əsrə doğru: idarəetmə,
+prioritetlər, islahatlar”. Bakı, 1998.
+6.Əlizadə Ə. Müasir Azərbaycan təhsilinin psixoloji problemləri.
+Bakı, 2004.
+7.Həmzəyev M. Pedaqoji psixologiya. Bakı, 1991.
+8.Mehrabov A. Azərbaycan təhsilinin müasir problemləri. Bakı,
+2007.
+9.Mərdanov M., İsgəndərov İ., Ağamalıyev R., Əhmədov İ.
+Azərbaycan təhsili islahat illərində. Bakı, 2001.
+10. “Təhsil sahəsində” Azərbaycan Respublikasının Qanunu. Bakı,
+2009.
+63
+X MÖVZU
+TƏLİM NƏZƏRİYYƏSİ YENİLƏŞƏN,
+İNKİŞAF EDƏN ELMDİR
+PLAN:
+1. Pedaqoji islahatların (terminin) yaranması və işlək
+hala düşməsi, təhsilin elmin məzmununun zənginləş-
+məsi ilə sıx bağlı olması
+2. Pedaqoji prosesin həyata keçirilməsində bir-birini
+tamamlayan iki vacib şərtin nəzərə alınması
+3. Pedaqogika həmişə yeniləşən, inkişaf edən bir elm
+kimi
+4. XX əsrin 60-cı illərindən başlayaraq təlim
+prosesinə müxtəlif yanaşmalar
+Pedaqoji islahatların (terminlərin) yaranması və işlək hala
+düşməsi təhsilin elmi məzmunu ilə sıx bağlıdır. XIX əsrin
+sonlarında rusiyada pedaqogika elmində “pedaqoji proses”
+anlayışı sıx işlənməyə başlamışdır. P.F.Karteryev tərəfindən
+əsaslandırılan pedaqoji proses ifadəsi sonralar işləməkdən qaldı.
+Təlim və tərbiyə proseslərinə ayrı-ayrı yanaşılaraq təlim-tərbiyə
+prosesini aktuallaşdı. XX əsrin 70-80-cı illərində təlim və tərbiyə
+proseslərinin vəhdəti problemi işləndi və pedaqoj proses problemi
+doğurdu. Eləcə də “pedaqoji sistem” anlayışı. Məlumdur ki,
+“pedaqoji sistem” pedaqoji prosesdə baş verən və şəxsiyyətin
+təhsilləndiriciliyi, tərbiyələndiriciliyi, inkişafı məqsədilə çoxlu
+qarşılıqlı əlaqələr, struktur komponentlərin birləşməsidir. Deməli,
+“təhsil sistemi”, “tam” “pedaqoji proses” anlayışları bütövlük,
+problemə tam sistemli yanaşma mənasını ehtiva edir və bu günkü
+kurikulum anlayışlarının mayasını təşkil edir. Deyilənlərdən belə
+bir nəticə hasil olur ki, təhsil işindəki müasirliyi, yeniliyi daha
+düzgün, elmi əsasda qavraya bilmək üçün, pedaqogika elminin
+(onun anlayışlarını) inkişafını öyrənmək lazımdır. Beləliklə də,
+ondakı müasirlik və yenilik daha konkret və mahiyyətcə düzgün
+64
+qavranılır. Əgər belə olmasa, bu sahədə yazılanlar mücərrədlik
+nümunəsinə çevrilə bilər.
+Pedaqoji prosesin həyata keçirilməsi və pedaqoji elmin
+məqalələri və digər əsərlərində bir-birini tamamlayan 2 vacib şərt
+nəzərə alınmalıdır. Onun birincisi, tədris, təlim, tərbiyə işinə –
+pedaqoji prosesə bələdlilik, daha doğrusu bu təcrübənin yüksək
+səviyyədə daşıyıcısı, ustası olmaq. İkincisi, bu məsələlər üzrə
+elmi-nəzəri fikrə, ideyalara, pedaqoji elminə dərindən yiyə-
+lənirlər. Bunlar təkcə görünən tərəflərdir. Pedaqoji işdə, intuisiya
+ilə duyulan ləyaqət və mənəviyyat saflığı tələb edən, müəllim-
+şagird, yaxud rəddar-icraçı əməkdaşlıq şəraitində meydana çıxa
+bilən münasibətlər ola bilər ki, bunları hər iki tərəfin pedaqoji
+duyum, etika, taktika yanaşma ilə şəxsi qabiliyyətləri, mədəniy-
+yəti səviyyəsində həll edir. Ona görə də təhsildə, pedaqoji işdə bu
+sahənin bütün incəliklərinə bələd olan şəxslərə mütəxəssis sözü
+deyilə bilər.
+Pedaqogika – zəngin, çoxsahəli, çoxfunksiyalı, prosesləei
+təsvirə gəlməyən mürəkkəb bir işi – pedaqoji fəaliyyət sahələrini
+əhatə edir. Kim ki bu işin mahiyyyətinə, məzmununa bələd deyil,
+yəni onu bəsit şəkildə qavrayır, elə düşünür ki, adi bir işdir, çox
+sadə bir prosesdir. Pedaqoji elm və pedaqoji fəaliyyət o qədər
+mürəkkəbdir ki, o sahədə mütəxəssislər belə həmişə çevik,
+informasiyalı olmasalar, yenilikləri nəzərə almasalar köhnə bilik
+və təcrübələr ilə gərəksiz ola bilərlər.
+Pedaqogika həmişə yeniləşən, inkişaf edən bir elmdir. O,
+həm nəzəri cəhətdən, həm də praktik yönümdən yeniləşir. Bu
+yeniləşmələr də səmərəli və səmərəsiz ola bilər. Ona görə də istər
+tədqiqatçı pedaqoq, istərsə də praktik müəllim, təhsil işçisi gərək
+milli təhsil siyasətinə, təhsilin dövlət standartlarına, təhsilin
+inkişaf proqramına, vətəndaşların milli konsepsiyasına bələd
+olsun, yeniliklərin milli təhsil qaydalarını görə bilsin. Deməli,
+istər tədqiqatçı-pedaqoq, istərsə də praktik müəllim, təhsil işçisi
+çox yüksək intellektə, peşəkarlığa, müstəqil düşüncəyə, yaradıcı,
+məntiqi fikrə sahib olsun ki, nəyin gərəkli, nəyin gərəksiz, yaxud
+nəyin xeyirli, nəyin ziyanlı olduğunu kəsdirə bilsin.
+65
+XX əsrin 60-cı illərindən başlayaraq təlim prosesinə
+müxtəlif yanaşmalar formalaşmağa başlamışdır. Bunlar aşağı-
+dakılardır:
+1. Problemli təlim və ya təlim prosesində problemli
+vəziyyətin yaradılması
+2. Proqramlaşdırılmış təlim
+3. Alqoritmləşdirilmiş təlim
+4. Differensial təlim
+Problemli təlim, yəni təlim prosesində problemin vəziyyət
+yaradıb şagirdlərin təfəkkürünü, düşüncə tərzini inkişaf etdirmək
+ideyasının kökləri çox qədimdir. Problemli təlim prosesində
+şagirdlər müstəqil olaraq fikri fəallıq priyomlarından istifadə edir,
+eksperiment qoyur, müşahidələr aparır, onların nəticələrini təhlil
+edir, düşünür, fikir mübadiləsi edir, qaydaları, qanunları,
+teoremləri özləri üçün kəşf edirlər. Problemli təlim şagirdlərdə
+dərsə maraq oyadır, şagirdlərin təşəbbüskarlığını inkişaf etdirir,
+hadisələrin daxili mahiyyətini, onların arasındakı qarşılıqlı
+əlaqələri başa düşməyə kömək edir, hadisə və proseslərin qiymət-
+ləndirilməsinə dialektik yanaşmağı öyrədir, prosesi həll etmək
+yollarını tapmaq bacarığını formalaşdırır, elmi idrak metodlarına
+alışdırır.
+Proqramlaşdırılmış təlim kibernetika elminin təsiri
+nəticəsində yaranmışdır. Bu təlimin əsasını tədris materiallarının
+məzmununun seçilməsi təşkil edir. Proqramlaşdırılmış təlimin
+xüsusiyyətləri bunlardır:
+1. Tədris materialları konkret paylara bölünür.
+2. Tədris prosesi ardıcıl olaraq addımlara bölünür və
+şagird həmin addımlar üzrə fikri fəaliyyət priyomlarından
+istifadə edir.
+3. Hər bir şagird nəzarətlə tapşırığı tamamlayır.
+Alqoritmləşdirilmiş təlim məktəb həyatında yeni bir
+məsələ deyildir. Onun indi aktuallaşmasına səbəb həyatımızın hər
+sahəsinə daxil olan elektron-hesablayıcı maşınların tətbiqidir.
+Alqoritm düzgün nəticələrə aparan ardıcıl hərəkətlərin sistemidir,
+şagirdlərə tədris fəaliyyətində ardıcıllığı yerinə yetirməyə kömək
+66
+edir. Öyrədici proqram tətbiq etməzdən əvvəl fikri fəallıq
+hərəkətləri və tədris əməliyyatlarının alqoritmini müəyyənləş-
+dirmək lazımdır ki, EHM-in tədris prosesini əhatə edə bilsin.
+Differensial təlim şagirdlərin inkişafını və fərdi xüsu-
+siyyətlərini nəzərə almağa əsaslanır. Dərsdə şagirdlərin qarşısına
+müəyyən idrak vəzifələri qoyulur və müəllim həmin vəzifələrin
+icra edilməsinə, dərk olunmasına nəzarət edir. Differensial təlim
+şagirdlərin biliyini dərinləşdirib genişləndirir, onların fərdi
+qabiliyyətlərini, fərdi öyrənmə üslubunu formalaşdırır, müxtəlif
+tələbatlarının öyrənilməsinə şərait yaradır.
+ƏDƏBİYYAT
+1. Ağayev Ə. və b. Pedaqogika. Bakı, 2006.
+2. Həsənov A., Ağayev Ə. Pedaqogika. Bakı, 2007.
+3. Hüseynzadə R. Təlimin humanistləşdirilməsi və
+demokratikləşdirilməsi. Bakı, 1997.
+4. Nəzərov A. “Müasir təlim texnologiyaları” fənni üzrə
+proqram. Bakı, 2010.
+5. Sadıqov F. Pedaqogika. Bakı, 2006.
+6. Paşayev Ə., Rüstəmov F. Pedaqogika. Bakı, 2002.
+7. “Təhsil haqqında” Azəraycan Respublikasının qanunu.
+Bakı, 2009.
+67
+XI MÖVZU
+BİLİK MƏNBƏLƏRİNİN MEYARINI TƏŞKİL EDƏN
+TƏLİM METODLARININ PEDAQOJİ
+TEXNOLOGİYALARIN ƏSASINI TƏŞKİL ETMƏSİ
+PLAN:
+1. Müəllimin şərhinin bütün təlim metodlarına daxil
+olması
+2. İnformasiya texnologiyaları bütün dünya birliyi
+çərçivəsində vahid təhsil məkanının formalaşmasına
+şərait yaratması
+3. Şagirdlərə biliklərin verilməsi, bacarıq və
+vərdişlərin aşılanması prosesi
+Yeni təlim metodlarının (proqamlaşdırılmış təlim
+metodları), təlimdə verbal (söz) metodlarının təbiiliyinə, ekoloji
+cəhətdən təmizliyinə görə bundan sonra da öz əhəmiyyətini sax-
+laya bilməsidir. Müəllimin şərhinin nəqletmə, izahetmə, müsa-
+hibə, mühazirə, təlimatlandırılma formasında həyata keçiril-
+məsidir. Bunun təlim prosesinin bütün həlqələri ilə bağlı olma-
+sıdır. Müəllimin şərhinin idraki tapşırığı verəndə, hər hansı bir
+qaydada yeni tədris materialını təqdim edəndə, məktəblilərin
+fəaliyyətinə nəzarəti həyata keçirəndə və başqa hallarda tətbiq
+olunmasıdır. Müəllimin şərhinin bütün təlim metodlarına daxil
+olması:
+1. Nəql;
+2. izah;
+3. məktəb mühazirəsi;
+4. müsahibə;
+5. təlim diskussiyası;
+6. illüstrasiya metodu;
+7. demonstrasiya metodu;
+8. videometod;
+9. çalışmalar;
+10. laboratoriya metodu;
+68
+11. problemli-laborator metod;
+12. praktik metod;
+13. idraki (didaktik) oyunlar;
+14. proqramlaşdırılmış təlim metodları;
+15. öyrədici-nəzarət metodu;
+16. situasiya metodu;
+17. kitab üzərində iş metodu.
+İnformasiya texnologiyaları bütün dünya birliyi çərçi-
+vəsində vahid təhsil məkanının formalaşmasına şərait yaradır.
+Təlim informasiya texnologiyaları uzaqdan, yaxından,
+müxtəlif mənbələrdən, yerlərdən nəhayətsiz formada məlumat-
+lanmadan bilik alma şəraiti yaradır. Təsadüfi deyildir ki, ilkin
+pedaqoji texnologiya anlayışı təlimdə texniki vasitələrin tətbiqi ilə
+əlaqədar olmuşdur. Sonralar yapon alim pedaqoqu T.Sakomo-
+tonun verdiyi səciyyəyə görə pedaqoji texnologiya sistemli
+təfəkkür vasitələrinin pedaqogikaya tətbiqi formasında təsəvvür
+olunmağa başlamışdır.
+Hazırda pedaqoji texnologiya adı altında pedaqoji
+prosesdə müsbət nəticələrə gətirib çıxaran pedaqoji ideyalar
+kompleksi başa düşülür.
+Dünyadakı müxtəlif pedaqoji texnologiyalar ideyası və
+praktikasını nəzərdən keçirən alimlərin əksəriyyəti belə bir
+qənaətdədirlər ki, PT-nın əsas elementləri onun mikrotexno-
+logiyasındadır. PT-nın mikrotexnologiyasına bunlar daxildir:
+a) məqsədlər
+b) diaqnostikalar (ilkin, cari, yekun) təlim prosesinə
+subyektlərin birgə fəaliyyəti (əməkdaşlığı, müəllim-şagird,
+şagird-müəllim, şagird-şagird), təlimin təşkili və forma,
+metod və vasitələrinin seçilməsi;
+c) refleksiyalar;
+d) tədris olunan fənnin (fənlərin) məzmunu.
+Bunlardan əlavə tam və sistemli pedaqoji texnologiya alt
+sistem texnologiyalarını əhatə edir. Bir sıra ölkələrdə bunlardan
+istifadə edilir. Məsələn, təbii təlim texnologiyaları; modul-reytinq
+texnologiyaları; interaktiv təlim texnologiyası; parasentrik təlim
+69
+texnologiyası; biliklərin tam mənimsənilməsi texnologiyası; fərdi
+təlim texnologiyası; kopeerativ təlim texnologiyası; təlimin
+nəzarət-korrektə texnologiyası.
+Bilik mənbəyinin meyarını təşkil edən təlim metodları
+aşağıdakı prinsiplərə söykənir:
+1. İnteraktiv təlim texnologiyası
+2. Pedaqoji texnologiyaların ciddi elmi əsasa, didaktik
+prinsiplərə söykənməsi
+İnteraktiv təlim texnologiyası differensial-inkişafetdirici
+təlimi sinifdə şagirdlərin müxtəlif tərkibini nəzərə almaqla həyata
+keçirir. Fərdi təlim texnologiyası isə fərdi təhsilləndiricilik
+dairəsini yaradır.
+Parasentrik təlim texnologiyası təlimin müxtəlif vasitələri
+ilə iş zamanı müstəqil təşkilini nəzərdə tutur.
+Göründüyü kimi, təlim texnologiyası çoxdur. Hər biri
+konkret təlim-tərbiyə məqsədini həyata keçirməyə xidmət
+göstərir. Müxtəli təlim metod və vasitələrindən istifadə olunur.
+Bütün bunlar son dövrlərdə qeyri-ənənəvi yanaşmalarla həyata
+keçirilir. Təbii ki, bunun üçün müəllimdə ciddi ixtisas-peşəkarlıq
+hazırlığı və təcrübəsi, təşəbbüskarlıq və yaradıcılıq, demokratiklik
+və humanizm keyfiyyətləri olmalıdır.
+XX əsrin 70-80-cı illərində Azərbaycanda yeni pedaqoji
+texnologiyalarla işləyən müəllimlər və məktəb rəhbərləri var idi.
+Onlar öz yenilikçi və səmərəli nəticə verən belə təcrübələrinə
+xüsusi ad verməmişdilər. Lakin tətbiq etdikləri sistemin üsul və
+vasitələrin nəticələrinin verdiyi təlim-tərbiyə keyfiyyətini
+səciyyələndirdilər. Bu yeni işlərdən özləri də, jurnalistlər də,
+metodistlər də yazırdılar. Bu təcrübələr məqalələrə səpələnir və
+bir də Maarif Naziri akademik M.Mehdizadənin məruzə və
+kitablarında ümumiləşdirilirdi.
+Beləliklə qeyd edə bilərik ki, pedaqoji texnologiyalar
+əsasən mütəxəssislər tərəfindən yaradılsa da onlar digərləri
+tərəfindən öyrənilir, yayılmasına, elmin onun tədqiqat obyektinə
+çevirməsinə böyük ehtiyac vardır. Əks təqdirdə, yeniliklər
+yarandığı ocaqdan kənara çıxmır, hamının yararlanmasına çatmır.
+70
+Bilik – təbiətin, cəmiyyətin, idrakın ümuminkişaf qanunauy-
+ğunluqları, qanunlarına dair faktların, rəqəmlərin, məlumatların
+və informasiyaların məcmuudur. Vəsait – biliklərin tətbiq olun-
+ması, vərdiş ilə bacarıqların avtomatlaşdırılması kimi başa
+düşülür. Hər bir tədris fənnində biliklər real predmetləri, pro-
+sesləri, maddi aləmin təzahürlərini özündə əks etdirən və
+müəyyən sistemdə verilən faktlarda, anlayışlarda, qanunlarda və
+elmi nəzəriyyələrdə ifadə olunur.
+Biliklər həm də praktikada tətbiq olunma prosesində
+bacarıqla bağlıdır. Bacarıq – bu mənimsənilmiş biliklər əsasında
+şüurlu surətdə yerinə yetirilən praktik fəaliyyətə insanın bir növ
+hazır olmasıdır. Bacarıq biliklərin məzmunu ilə birbaşa
+əlaqədardır. Bacarıqların hər biri müəyyən nəzəriyyəyə əsaslanır.
+Məsələn, riyazi qanunların dərk olunmaq bacarığı, yaxud oxun-
+muş mətnin planını tutmaq bacarığı, məsələləri həll etmək
+bacarığı, müəyyən dərəcədə mürəkkəb inşalar yazmaq bacarığı,
+kimya üzrə müşahidə və ya təcrübə aparmağı, musiqi alətində
+çalmaq bacarığı, rəqs etmək bacarığı və s. bu cür bacarıqlardır.
+Vərdiş bacarıqların dəfələrlə təkrarı nəticəsində avto-
+matlaşmış formasıdır. Vərdiş o qədər avtomatlaşmalıdır ki, o
+sürətli və nöqsansız fəaliyyətə çevrilməlidir. Məsələn, qiraət,
+məktub yazmaq, şifahi hesablama vərdişi, alətlərdə sərbəst
+çalmaq, rəsmi təxəyyüldən kağıza köçürmə, topu dəfələrlə çiləmə,
+turnikdə sərbəst yellənmə, aşma, fırlanma və s.
+Şagirdlərin hadisələri mənimsəməsi zamanı şüurlarında
+maddi aləmin düzgün, təhrif olunmamış şəkildə əksini necə təmin
+etmək qaydalarını da onlara necə dərk və tətbiq olunmasını məhz
+müəllim öyrədir. Şagirdlərin idrak prosesinin fəaliyyət dina-
+mikasını elə tənzimləmək lazımdır ki, onlar duyduqları predmet
+və hadisələri, yəni elmi-nəzəri faktları dərindən mənimsəyib
+qavrasın, hafizəsində saxlasın, hifz etsin, sonra təfəkkür süz-
+gəcindən keçirərək nitq vasitəsilə onu ifadə edə bilsin.
+71
+ƏDƏBİYYAT
+1. Bayramov Ə., Əlizadə Ə. Psixologiya. Bakı, 1983.
+2. Kərimov Y. Təlim metodları. Bakı, 2007.
+3. Mərdanov M. Azərbaycan təhsili islahat yollarında:
+uğurlar, problemlər, vəzifələr. Bakı, 2001.
+4. Mehdizadə M. Ümumtəhsil məktəblərində təlim-
+tərbiyə işinin təkmilləşdirilməsi yolları. Bakı, 1983.
+5. Nəzərov A. Müəllimin pedaqoji mərifəti. Bakı, 1992.
+6. Sadıqov F. Pedaqogika. Bakı, 2006.
+7. “Təhsil haqqında” Azərbaycan Respublikasının
+Qanunu. Bakı, 2009.
+72
+XII MÖVZU
+TƏDRİS, TƏLİM VƏ TƏRBİYƏ PROSESİNİN VƏHDƏTİ,
+FUNTAMENTALLIQ VƏ MƏDƏNİYYƏTƏMÜVAFİQLİK
+PLAN:
+1. Pedaqoji texnologiyaların mahiyyəti və didaktik
+əsasları
+2. Tədris və təlim fəaliyyətinin vəhdəti qanunu
+3. Funtamentallıq qanunu
+4. Mədəniyyətəmüvafiqlik qanunu
+Təhsil sahəsində dövlət siyasətinin əsas prinsipləri Təhsil
+haqqında Azərbaycan Respublikasının Qanununda aşağıdakı
+kimim müəyyənləşdirilmişdir: humanistlik, demikratiklik, bəra-
+bərlik, millilik və dünyəvilik, keyfiyyətlilik, səmərəlilik, fasilə-
+sizlik, vəhdətlik, daimilik, varislik, liberallaşma (təhsil sahəsində
+və təhsil fəliyyətinin açıqlılığının genişləndirilməsi), inteqrasiya
+(milli təhsil sisteminin dünya təhsil sisteminə səmərəli formada
+qoşulması, uyğunlaşması və qovuşması əsasında inkişafı).
+Təhsil haqqında Qanunun dördüncü maddəsində göstərilir
+ki, Azərbaycan dövləti qarşısında öz məsuliyyətini dərk edən,
+xalqının milli ənənələrinə və demokratikliyi prinsiplərinə, insan
+hüquqları və azadlıqlarına hörmət edən vətənpərvərlik və
+Azərbaycançılıq ideyalarına sadiq olan, müstəqil və yaradıcı
+düşünən vətəndaş və şəxsiyyət yetişdirmək.
+Tədris, təlim və tərbiyə prosesi daim vəhdətdədir. Təlimin
+məqsədi tərbiyənin funksiyasını yerinə yetirməkdir. Təlim yeni
+biliyin öyrədilməsi prosesidir. Təlim vasitədir. Təhsilləndirmə,
+tərbiyəetmə məqsəddir. Təhsil və tərbiyə nəticədir. Tərbiyə ancaq
+təhsillə vəhdətdədir. Yeni biliyin ancaq tərbiyəyə təsiri vardır.
+Texno – “sənət”, logiya – “elm” deməkdir. Texnologiya –
+sənət haqqında elm anlamı verir. Bu mənada pedaqoji tex-
+nologiyanın mahiyyəti və didaktik əsaslarını daha dərindən qav-
+raya bilmək üçün təhsil haqqında dövlət siyasərinin əsas
+prinsipləri ilə ətraflı tanış olmaq lazımdır.
+73
+Pedaqoji texnologiyaların mahiyyəti və didaktik əsaslarını
+daha aydın qavramaq üçün təhsil prosesini – məktəbi səciyyə-
+ləndirən faktorların (vasitələrin, proseslərin) münasibətinin ayrı-
+ayrı ölkələrdə və pedaqoq alimlərin baxışlarında necə qoyul-
+duğuna diqqət yetirək. İngilis məktəbi hələ də vahid təhsil siste-
+minə (proqramlar, dərsliklər) malik deyil. Polşa məktəbi üçbucaq
+şəklində təsəvvür edilir. Bir tərəfdən öyrənən, digər tərəfdən
+öyrədən, üçüncüdə məzmun.
+Sovet məktəbi bir sıra aparıcı alimlərin təqdimatında ifadə
+edilirdi. Məsələn, S.İ.Arxangelski didaktik üçbucaq haqqında
+danışaraq məktəbi – təhsili, pedaqoji prosesi belə təqdim edirdi:
+1. Tədris və təlim fəaliyyətinin vəhdəti qanunu
+A – biliklərin verilməsi;
+B – biliklərin mənimsənilməsi;
+C – təlimin məqsədi və vəzifələrinə uyğun olaraq biliklər
+sisteminin formalaşması.
+2. Təlim və tərbiyənin vəhdəti qanunu
+a – təlim;
+b – tərbiyə;
+c – təhsil alanların şəxsiyyət kimi hərtərəfli inkişafı.
+E.Z.Belkin pedaqoji prosesi pedaqoji sistem kimim
+təsəvvür edərək buraya 6 qarşılıqlı əlaqəli elimenti daxil edir.
+I. təlim və tərbiyənin məqsədi;
+II. təlim və tərbiyənin məzmunu;
+III. təlim və tərbiyə texnologiyası (metodlar, vasitələr,
+formalar və s.);
+IV. təlimin təşkili formaları;
+V. öyrədən;
+VI. öyrənən;
+M – məqsəd;
+TT – təlim texnologiyası;
+PKV – pedaqoji kommunikativ vasitələr;
+M – müəllim;
+Ş – şagird.
+74
+Göründüyü kimi, pedaqoji texnologiyalar hər hansı
+təsəvvürdə olursa-olsun tamlıq xüsusiyyəti nəzərə alınır. Təqdim
+edilən pedaqoji sistem texnologiyaların tamlığı ilə prosesi bitkin
+və bütöv edir.
+Fundamentallıq dedikdə, adətən, fundamental elmlərə aid
+fənlərin tədrisi nəzərdə tutulur. Eləcə də öyrətmənin fundamental
+olaraq aparılması ehtiva edilir. Pedaqoji texnologiyalarda funda-
+mentallıq fənnin əsas məzmununun böyük bloklar əsasında təlimi
+kimi başa düşülür. Bəllidir ki, hər bir fənn özündə baza təşkil
+edən əsas məlumatları (informasiyanı) birləşdirir. Bu əsas biliklər
+özül təşkil edərək məlumatları genişləndirməyə, yenilərini
+müstəqil əldə etməyə və ömrü boyu ondan istifadə etməyə və
+artırmağa kömək edir. Başqa sözlə desək, hər bir fənndə elə
+biliklər var ki, onun fundamentini təşkil edir. Bu baza olmadan
+heç nəyi qurmaq, yaratmaq mümkün deyil. Bu biliklər oyunlarla,
+müzakirə və qruplarla işlər möhkəm aydın qavranıla bilməz.
+Onun üçün əvvəlcə ciddi şərh, kitab üzərində iş, çalışma və ya
+laborator işi, fundament biliyi mənimsədən təlim metodlarından
+istifadə edilməlidir. Bu prinsipdən bolqar, həkim psixiatrı
+Q.Zozanov və yenilikçi müəllim V.Şatalov uğurla bəhrələnmişdir.
+Fundamentallıq prinsipi təbiət, humanitar və texniki
+fənlərin sintezində sineqretik yanaşmanı nəzərdə tutur.
+Sineqret yanaşma öyrənənlərin həm marağını artırır, həm
+də müxtəlif elmlərin bir fakta, hadisəyə, təzahürə münasibətini
+tələb edir. Beləliklə, təbiət, cəmiyyət və insanın öyrənilməsinə
+kompleks yanaşılaraq hissləri özündə birləşdirən tamlıq alınır.
+Mədəniyyətəmüvafiqlik prinsipi tələb edir ki, təlim müasir
+mədəniyyətin inkişaf səviyyəsinə uyğun olsun. Həm təlimdə
+istifadə edilən vasitələrlə rəftarda, həm də əməkdaşlıqda –
+insanlararası münasibətlərdə mədəniyyətin nümayişi təzahür
+etsin. Müasir təlim azad, sərbəst, yaradıcı düşüncəni təzahür etsin,
+müstəqilliyi inkişaf etdirdiyi kimi insanın mədəniyyət səviyyəsini
+də yüksəltməlidir.
+75
+ƏDƏBİYYAT
+1. Ağayev Ə. və b. Pedaqogika. Bakı, 2006.
+2. Həsənov A., Ağayev Ə. Pedaqogika. Bakı, 2007.
+3. Hüseynzadə R. Qədim və erkən əsrlər dövründə
+Azərbaycanda tərbiyə, təhsil və pedaqoji fikir. Bakı,
+2007.
+4. Kərimov Y. Təlim metodları. Bakı, 2009.
+5. Mehrabov A. və b. Pedaqoji texnologiyalar. Bakı,
+2007.
+6. Mərdanov M. Azərbaycan təhsili müstəqillik illərində.
+Bakı, 2007.
+7. Mərdanov M. Azərbaycan təhsili yeni inkişaf
+mərhələsində. Bakı, 2009.
+8. Mustafayeva R., Mustafayeva S. Pedaqogika. Ümumi
+pedaqogika üzrə mühazirə xülasələri. Bakı, 2002.
+9. Nəzərov A. “Müasir təlim texnologiyaları” fənni üzrə
+proqram. Bakı, 2010.
+10. “Təhsil haqqında” Azərbaycan Respublikasının
+Qanunu. Bakı, 2009.
+76
+XIII MÖVZU
+TƏLİMİN HUMANİTARLAŞDIRILMASI VƏ
+HUMANİSTLƏŞDİRİLMƏSİ
+PLAN:
+1. Humanizmin genişlənməsi üçün humanitar fənlərin
+tədrisinin genişləndirilməsi
+2. Təlimin humanitarlaşdırılması
+3. Təlimin humanistləşdirilməsı
+Bu prinsipləri ayrı-ayrılıqda qeyd etmək olardı. Lakin
+məzmunca bir-birinə yaxın olduqlarına görə eyni sırada da
+vermək olar. Əslində bu gün prinsiplərə çevrilmiş bu yanaşmalar
+sovet pedaqogikasında və təhsil tərbiyəsində həmişə olmuşdur.
+Çünki sosializm prinsiplərinə görə insanlara vəzifəsindən, cinsin-
+dən, irqindən, milliyətindən, sosial mənşəyindən asılı olmayaraq
+eyni diqqətlə, hörmət və qayğı ilə yanaşılması əsas idi. Bu prinsip
+Azərbaycanda ötən əsrin 70-80-cı illərindən pozulmağa başladı.
+Kapitalizm dünyasında isə əvvəllər diqqətdə olmayan bu prinsip
+demokratik vətəndaş cəmiyyəti yarandıqca aktuallaşdı. İnsanları
+“daş qəlbli” olmaqdan humanist olmağa meylləndirdilər. Huma-
+nizmin genişlənməsi üçün humanitar fənlərin tədrisini genişlən-
+dirdilər. Təlim prosesinin humanitarlaşdırılması tarix, sosiologiya,
+psixologiya, hüquq və digər insan haqqında fənlərin tədrisinə yer
+verilməsini diqqətdə tutmağı tələb edir.
+Humanistləşdirmə isə hər şeyin insan üçün, insan naminə
+edilməsini qabardır. Bu prinsiplərin nəzərə alınması pedaqoji
+texnologiyaların tətbiqində müəllim tərəfindən sərbəst olaraq
+həyata keçirilməlidir. Hətta fundamental fənlərin öyrədilməsi
+zamanı tarixi faktlara müraciət edilməsi, elmi kəşflər, ixtiralar
+edən şəxslər haqqında danışılması, onların əxlaqı, mənəvi keyfiy-
+yət və fənni tədris edən müəllimin humanizm nümunəsi bu
+baxımdan böyük təsirə malikdir.
+Bu prinsiplər maddi marağın artırılmasına meyilli olan
+kapitalizm cəmiyyətində “insanın insana qayğısı” mövqeyini arxa
+77
+plana atmışdır və bu elə kapitalizmin mahiyyətindən doğur. Ona
+görə də bu cəmiyyətdə terror, qəza, cinayət, korrupsiya halları
+həmişə baş vermişdir. Sosializmdə isə (aparıcı) ictimai maraqlar
+aparıcı olduğu üçün bu hallar xarakterik olmamışdır. Bazar
+iqtisadiyyatının bərqərar olduğu indiki halda Azərbaycanda da
+fərdi, şəxsi mənafelər önə keçmiş, pul hərisliyi yaranmışdır. Mala,
+pula, varidata hərislik bir çox halda bəzi təhsil və tərbiyə
+səviyyəsi aşağı olan insanları humanizm hisslərindən uzaqlaş-
+dırmaqdır. Onlar tutduqları vəzifə imkanlarından istifadə edərək
+onlara müraciət edən insanları incidir, bezikdirir, onları rüşvət
+verməyə təhrik edir, yaxud istehsalçıdırsa, saxta əmtəə
+hazırlamaq yolunu seçir, zay məhsulu ilə pul qazanmağa çalışaraq
+xalqın sağlam məişətinə ziyan vurur, yaxud elmdə, təhsildə
+saxtakarlıq yolu ilə millətin gələcəyinə zərbə vuraraq əyri
+yollarla, çirkli pullarla şəxsi həyatının firavanlığına çalışır.
+Hazırda Azərbaycanda da belə hallar çoxdur. Bu hallara qarşı
+mübarizə aparmağa gəncləri hazırlamaq məqsədi də onlara
+humanizmi aşılamaq, humanist və yüksək vətəndaş, ləyaqətli
+olmalarını məhz bu prinsiplə təmin etmək lazımdır.
+Beləliklə, bu nəticəyə gəlmək olar ki, humanistləşdirmə
+dedikdə, “insani”, “bəşəri” hisslər nəzərdə tutulur. “Qurani-
+Kərim”də deyilir: “İnsanlar, yaxşılıq edin! Allah yaxşılıq edənləri
+sevir”. Bir mahnıda deyilir: “Ey insanlar, sülhə gəlin, yoxsa
+dünya məhv olar”. Böyük şairimiz M.Ə.Sabirin nəzərincə,
+humanizm budur:
+“Kim ki insan sevir, sahibi-huriyyət olur,
+Bəli, huriyyət olan yerdə insanlıq olur”.
+Beləliklə, hər bir müəllim istər dərsdə, istərsə də sinif-
+dənxaric və məktəbdənkənar məşğələlərdə şagirdlərə humanist
+ideyaları aşılamalıdır. Bu ideyalar aşağıdakılardır: xeyirxahlıq,
+yaxşılıq, dostluq, sədaqət, nəzakət və s.
+Təcrübə göstərir ki, məktəblərdə humanist əhval-ruhiyyəni
+həyata keçirən demokrat müəllimlər olur. Çünki bu müəllimlər
+avtokrat və avtoritar, liberal müəllimlərdən fərqlənir. Məktəbdə
+humanist ideyaları həyata keçirmək üçün demokratik şərait
+78
+olmadan heç bir humanist ideyaların həyata keçiriləcəyindən
+söhbət gedə bilməz.
+Əslində bu gün prinsiplərə çevrilmiş bu yanaşmalar
+pedaqogikanın tədris təcrübəsində mövcud olmuşdur.
+Təlim prosesinin humanistləşdirilməsinin tarix, ədəbiyyat,
+sosiologiya, psixologiya, hüquq və digər insan haqqında fənlərin
+tədrisində geniş yer verilir. Neqativ hallara qarşı mübarizə
+aparmaq üçün bu prinsipin imkanlarından istifadənin zəruriliyinə
+daim diqqətin artırılması zəruridir. Humanistləşdirmə hər şeyin
+insan üçün, insan naminə edilməsini tələb edir. Bu prinsiplərin
+nəzərə alınmasının pedaqoji texnologiyaların tətbiqi zamanı müəl-
+lim tərəfindən sərbəst olaraq həyata keçirilir. Hətta funtamental
+fənlərin öyrədilməsi zamanı tarixi faktlara müraciət edilməsi, elmi
+kəşflər, ixtiralar edən şəxsiyyətlər haqqında danışılması, onların
+əxlaqi-mənəvi keyfiyyətlərinin və fənni tədris edən müəllimin
+humanizm nümunəsi bu baxımdan böyük təsir gücünə malikdir.
+İnsanın tərbiyəsi məsələsi zaman-zaman bu və ya digər şəkildə
+vacib bir problem kimi bu işlə məşğul olanları düşündürmüşdür.
+Böyük yunan filosofları Sokrat, Platon və Aristotelin bu vacib
+məsələni əhəmiyyətli bir iş hesab etmələri diqqəti cəlb edir.
+XI-XII əsrlərdə Qətran Təbrizi, Xətib Təbrizi, Bəhmənyar,
+Əfzələddin Xaqani, Nizami Gəncəvi kimi mütəfəkkirlərin təlim
+və tərbiyənin insanın xoşbəxtliyi üçün gözəl vasitə olduğunu
+dönə-dönə qeyd etmişlər. Nizaminin ictimai-faydalı əmək və
+insanlara təmənnasız, yardımla bağlı fikirləri humanist tərbiyənin
+əsas prinsiplərindən biri hesab edilir.
+Ancaq humanist tərbiyə ilə pedaqoji prosesin humanist-
+ləşdirilməsini bir-birindən fərqləndirmək lazımdır. Humanist
+tərbiyənin, humanist hisslərin, keyfiyyətlərin aşılanması humanist
+qabiliyyətlərin şagirdlərə aşılanması kimi başa düşülür.
+Pedaqoji prosesinin humanistləşdirilməsi və humanitar-
+laşdırılması məktəbdə humanist psixoloji mühitin yaradılması
+kimi başa düşülməlidir. Humanistləşdirmə eyni zamanda məktəb-
+daxili idarəetmənin tərkib hissəsidir.
+79
+Humanistləşdirmə müəllim-şagird münasibətini birtərəfli
+yox, “öyrədim-öyrən”, “öyrəndiklərinə əməl et” prinsipinə uyğun
+öz həllini tapmalıdır.
+Məktəbin idarə olunmasının, quruluşunun büsbütün
+yeniləşdirilməsi, humanist demokratik prinsip əsasında idarə
+olunması təhsil sahəsində islahatların tələblərindən irəli gəlir.
+Pedaqoji əməkdaşlıq ideyası məktəbin ruhudur və məktəbdə hər
+şey bu ideyaya istiqamətlənməlidir. Məktəblərdə aparılan təcrübə
+və müşahidələrdən məlum olmuşdur ki, müəllim şagirdlərlə müx-
+təlif formalarda ünsiyyət və münasibətdə olur. Həmin yanaşma
+növlərindən ən səmərəlisi demokratik əməkdaşlıq növüdür. Belə
+əməkdaşlıqda müəllim şagirdlərlə gündəlik təmasda və ünsiy-
+yətdə olur. Burada müəllim uşaqların fərdi-psixoloji xüsusiy-
+yətlərini nəzərə alır. Belə müəllim öz fəaliyyətində kollektivə
+arxalanır, onlarla məsləhətləşir, uşaqların tənqidi qeydlərinə diq-
+qətlə qulaq asır, onların fəallıq və təşəbbüskarlığını inkişaf etdirir.
+ƏDƏBİYYAT
+1. Ağayev Ə. və b. Pedaqogika. Bakı, 2006.
+2. Bədəlova Ə. Azərbaycan xalq pedaqogikası. Bakı,
+2010.
+3. Hüseynzadə R. və b. Təhsilin humanistləşdirilməsi və
+demokratikləşdirilməsi. Bakı, 1997.
+4. Nəzərov A. və b. Pedaqoji ustalıq. Bakı, 2008.
+5. Təhsilin humanistləşdirilməsi yolu ilə yeni pedaqoji
+təfəkkürün inkişafı. Bakı, 1999.
+6. Təhsil haqqında Azərbaycan Respublikasının Qanunu.
+Bakı, 2011.
+80
+XIV MÖVZU
+TƏHSİLİN FASİLƏSİZLİYİ VƏ
+İNFORMATLAŞDIRILMASI
+PLAN:
+1. Təhsilin fasiləsizliyi dedikdə, bilik, bacarıq,
+informasiya olmanın nəzərdə tutulması
+2. Təhsilin informatlaşmasının indiki şəraitdə daha
+çox aktuallıq kəsb etməsi
+3. Kompüterin Azərbaycan məktəblərinə daxil olduğu
+indiki zamanda bu prinsipin çox böyük əhəmiyyət
+daşıması
+4. Təhsilin informatlaşdırılması ilə əlaqədar alimlərin
+müxtəlif fikirləri
+Bu prinsipin əsas məqsədi, təlimin metodu və texno-
+logiyalardan istifadə edərək təhsil alanlara müstəqilliyi “öyrən-
+məyi” öyrətməyi, təhsilə çevik münasibət göstərməyi aşılamaqdır.
+Məlum olduğu kimi, hazırda həm informasiyalar, həm də
+informasiyaların tez-tez dəyişməsi, yeniləşməsi baş verir. Digər
+tərəfdən, peşə qazanmış insanlar yeni tələbatlara uyğun olaraq
+yeni peşə qazanmaq məcburiyyətində qalırlar. Bütün bunları
+nəzərə alaraq şagirdlər orta təhsil alarkən elə hazırlanmalıdırlar ki,
+onlar təhsilin fasiləsizliyindən istifadəyə hazır olsunlar, eyni
+zamanda öz təsirlərini fasiləsiz, məqsədəuyğun olaraq artıra bil-
+sinlər. Burada “təhsil” dedikdə, bilik, bacarıq, informasiya alma
+nəzərdə tutulur.
+Bu prinsip cəmiyyətin informatlaşdırılmasının sürətləndiyi
+indiki şəraitdə daha aktualdır. Bu prinsipin nəzərə alınmasında
+əsas məqsəd təhsil alanların müasir informasiya texnologi-
+yalarında istifadəyə hazırlamaq, onlarda informasiya mədəniyyəti
+formalaşdırmaqdır.
+Kompüterin Azərbaycan məktəblərinə daxil olduğu indiki
+zamanda bu prinsipin çox böyük əhəmiyyəti vardır. Təlim –
+yalnız təfəkkürlə iş deyil, təlimin nəticələri digər psixi proseslərin
+81
+razılaşdırılmış təsirindən və insanın digər psixi xüsusiyyətlərinin
+meydana çıxmasından asılıdır. Təlim fəaliyyətinin fəallaşdırılması
+bu prosesdə motivləşdirmənin və psixi proseslərin idarə edilmə-
+sindən çox asılıdır, əks təqdirdə tətbiq olunan pedaqoji texno-
+logiya və ya interaktiv metodlar istənilən səmərəli nəticəni verə
+bilməz.
+1. Təlimin motivləşdirilməsi üçün dəqiq, məqsəd-
+yönlülük olmalıdır.
+2. Təlimin məzmunu şagirdlərin dərketmə səviyyələrinə
+uyğun olaraq seçilməlidir.
+3. Hər bir fənnin dövlətin təhsil standartlarına uyğun
+olması üçün optimal səviyyə həyata keçirilməlidir.
+4. Şagirdlərin şəxsiyyətyönümlülüyü, maraq və meylləri
+nəzərə alınmalıdır.
+5. Verilən biliklərin həyati gərəkliliyi meydana çıxarıl-
+malıdır və s.
+Öyrənmə proseslərini (diqqəti, marağı, təfəkkürü)
+fəallaşdırmaq üçün isə bir neçə vacib şərtə əməl edilməlidir:
+- Məşğələlər, sosial-gigiyenik tələblərə cavab verən
+şəraitdə aparılmalıdır. Buraya binanın (avadanlığı) abadlığı,
+istiliyi, akkustikası, işıqlılığı, şagirdlərin gün rejimi, yeməyi,
+gəliş-gedişi daxildir. Əgər təlim tədris üçün normal şərait
+yoxdursa, orada diqqət və qavrama yüksək ola bilməz. Alimlər
+müəyyənləşdirmişlər ki, normal yatmamaq və aclıq əqli əməyin
+məhsuldarlığını kəskin şəkildə endirir. Bu şərt təkcə təhsil
+alanlara deyil, təhsil verənlərə də aiddir;
+- Təlim informasiyası kəmkəsrlər deyil, kifayət qədər
+məlumatlandırıcılıq səviyyəsində verilməlidir. Bu həm diqqətin
+davamlılığını qoruyur, həm də mükəmməl anlama şagird
+fəaliyyətinin düzgün və fəal qurulmasına kömək edir;
+- Əyani vasitələrdən, didaktik materiallardan istifadə
+zamanı həmin materialların təmiz, səliqəli, yararlı olması təmin
+edilməlidir. Eləcə də müəllimin şərhi kitab dili ilə deyil, canlı
+danışıq səviyyəsində, həm də professional olmalıdır. Həmçinin
+müəllimin səsinin ucalığı, tembri, nitqin tempi, intonasiyası,
+82
+pauza təlim prosesinin təşkilində mühüm rol oynayır. Təəssüf ki,
+bu cür əhəmiyyətli keyfiyyətlər müəllim hazırlığında lazımınca
+nəzərə alınmır;
+- Təlim prosesində xoş əhval-ruhiyənin yaradılması
+intellektual məhsuldarlığı xeyli artırır. Təəssüf ki müəllimlərin
+xeyli qismi bu cəhəti yerinə yetirmirlər. Müşahidələrimiz göstərir
+ki, dayaz biliyi olan sinfi idarə edə bilməyən hazırlıqsız
+müəllimlər sinifdə tələbkarlıq adı altında amirlik edir. Kobud söz
+gücünə, özlərinin qəbul edilməsinə çalışırlar. Belə üslub
+şagirdlərin müəllimi dinləməyə də, təlim fəaliyyətinə də marağını
+heçə endirir;
+- İnformasiyanın vizual və sözlə verilməsinin əlaqələn-
+dirilməsi şagirdlərin qavramasını və dərkini həm asanlaşdırır, həm
+də məhsuldar edir.
+Alimlər yazırlar ki, ötən əsrin 50-ci illərinin sonlarında
+Qərbdə “ağıllı göz” nəzəriyyəsi baş qaldırmışdır. Həmin nəzə-
+riyyənin nümayəndələri deyirlər ki, göz beyni inkişaf etmişdir.
+İ.M.Yaqlom qeyd edirdi ki, yaşlı insanın eşitmə orqanı bir
+neçə məlumat üzrə eyni vaxtda 1000 vahid informasiya buraxır.
+Toxunma orqanı 10.000, görmə orqanı isə 100.000. Psixoloq
+B.Q.Anonyev bildirir ki, görmə sistemi vasitəsilə qavrama 3
+səviyyədə gedir.
+Hissetmə, qavrama, təsəvvüretmə, eşitmə vasitəsilə yalnız
+təsəvvür etmə səviyyəsində.
+Tədqiqatlar göstərir ki, insan şifahi nitqlə aldığı
+informasiyanı 15%, görməklə 25% yadda saxlayır. Əgər eyni
+vaxtda bu hər iki vasitədən informasiya verilərkən istifadə
+edilirsə, məzmunun yadda saxlanılması 65%-ə çata bilər.
+83
+ƏDƏBİYYAT
+1. Ağayev Ə. Təlim prosesi: Ənənə və müasirlik. Bakı,
+2006.
+2. Ağayev Ə. və b. Sosial pedaqogika. Bakı, 2008.
+3. Abbasov A. Pedaqogika. Bakı, 2010.
+4. Kərimov Y. Pedaqoji tədqiqat metodları. Bakı, 2009.
+5. Mərdanov M., Şahbazov F. Azərbaycan təhsil sistemi
+(1998-2005) II kitab. Bakı, 2005.
+6. Mehrabov A. Azərbaycan təhsilinin müasir
+problemləri. Bakı, 2007.
+7. Nəzərov A. “Müasir təlim texnologiyaları” fənni üzrə
+proqram. Bakı, 2010.
+84
+XV MÖVZU
+TƏHSİLİN MƏHSULDARLIĞINA GÜCLÜ TƏSİR
+GÖSTƏRƏN TİBBİ-BİOLOJİ ŞƏRTLƏR. FİZİKİ
+TƏRBİYƏ
+PLAN:
+1. Şagird sağlamlığının qorunması
+2. Uşaqların təmiz havada olmasına diqqət yetirilməsi
+3. Həddindən artıq yorğunluğa yol vermənin
+qarşısının alınması
+4. Fiziki tərbiyənin mahiyyəti və əhəmiyyəti
+5. Fiziki tərbiyənin vasitələri və formaları
+Təlimin məhsuldarlığına güclü təsir göstərən tibbi-bioloji
+şərtlər vardır ki, bunları həm müəllimlər, həm də şagirdlər və
+valideynlər bilməli, nəzərə almalıdırlar. Həmin şərtlər bunlardır:
+1. Şagird sağlamlığının qorunması. Şagirdə sağlamlığını
+saxlaya bilmək, qorumaq qaydaları öyrədilməlidir. Bəzi tədqiqi
+məlumatlara görə şəhər məktəblərindəki yuxarı sinif şagirdlərinin
+orqanizmi son həddə qədər yüklənir. Onların gənc bədənlərinin
+dözümü buna çatmır. Əksəriyyəti sutkada 30 dəqiqədən 2,5 saata
+qədər az yatır. Yalnız azyatma onların iş qabiliyyətini 30%
+azaldır.
+2. Uşaqların təmiz havada olmasına diqqət yetirilməsi.
+Şəhər uşaqlarının demək olar ki, 2/3-si təmiz havada kifayət qədər
+olmur. Bədən tərbiyəsi dərsləri ya heç keçirilmir, ya da açıq
+meydançalarda aparılan səyahətlər, turizm gəzintiləri təşkil
+edilmir, ailədə də bir çox halda bu cəhətə diqqət yetirilmir.
+Nəticədə şagirdin səhhəti zəifləyir, təlimdə zora düşür.
+3. Həddindən artıq yorğunluğa yol vermənin qarşısının
+alınması. Şagird yorğunluğu başlıca olaraq iki halda təzahür edir:
+I. gün rejiminə əməl edilməməsi, təlim yükünün çoxluğu
+və ağırlığı;
+II. kifayət qədər müsbət emosiyaların olmadığı şəraitdə.
+85
+Şagirdin müəllimin ona münasibətindən, öyrətmə səyin-
+dən, yaxud təlim şəraitindən daxili razılığı yoxdursa, o tez yorulur
+və təlim əməyi ona zövq vermir. Bütün bunları nəzərə alaraq
+təlimi elə qurmaq lazımdır ki, şagird bütün şəraitdən tam razı
+qalsın.
+Əməkdaşlıq şəraiti və yeni təlim metod və texno-
+logiyalarının doğurduğu yaradıcı interaktiv ab-hava təbii ki
+şagirdlərin həvəsini və marağını artırır, onların özlərinə aid
+problemlərin həllinə müstəqil yanaşa bilmələrini təmin edir.
+Bədən tərbiyəsi, idman orqanizmin möhkəmləndirilməsi,
+səmərəli əqli fəaliyyət üçün geniş imkanlar açır, əqli fəaliyyətlə
+fiziki fəaliyyətin növbələşməsi nəticəsində iş qabiliyyətinin
+bərpası prosesi daha səmərəli olur. Fiziki tərbiyə uşaqların bədə-
+ninin ahənfdar inkişafına, qamətin yaraşıqlı, hərəkətlərin gözəl,
+zərif və çevik olmasına kömək edir, estetik zövqün forma-
+laşmasına imkan yaradır.
+Bütün yuxarıda deyilənləri yekunlaşdıraraq fiziki
+tərbiyəyə belə bir konkret tərif vermək olar: Fiziki tərbiyə –
+müəllimin rəhbərliyi altında şagirdlərin öz sağlamlığını möh-
+kəmləndirməsi, çevikliyini və gumrahlığını təmin etməsi prose-
+sidir. Bu proses fiziki mədəniyyətin müasir inkişaf səviyyəsinə
+tam uyğun olaraq təşkil edilməli və şagirdlərin fiziki kamilliyinə
+gətirib çıxarmalıdır.
+Fiziki tərbiyə məqsədyönlü, planlı və mütəşəkkil proses
+olub, gənc nəslin can sağlığını təmin etməyə, onun fiziki qabiliy-
+yətini inkişaf etdirməyə, mütəhərrik vərdişlərin və bacarıqların
+formalaşmasına xidmət edir. Fiziki tərbiyə şagirdlərin bədən
+quruluşunun mütənasibliyində, qamətin gözəlliyində, hərəki
+keyfiyyətlərin (gücün, hərəkət sürətinin, cəldlik və dözümlüyün,
+elastikliyin) inkişaf və formasında təzahür edir. Fiziki tərbiyə
+şagirdlərdə əməkdə iştirak etmək vərdişləri, iradə, kollektivçilik,
+əzmkarlıq və s. keyfiyyətləri inkişaf etdirir, onları Vətənin
+müdafiəsinə hazırlayır.
+Bu zəruri işdə fiziki tərbiyənin mühüm tərkib hissəsi olan
+bədən tərbiyəsi dərsləri böyük rol oynayır. Bədən tərbiyəsi
+86
+dərslərində şagirdlər düzgün yeriməyi, qaçmağı, tullanmağı,
+maneələri dəf etməyi, idman alətlərində müxtəlif çalışmaları,
+təmrinləri yerinə yetirməyi öyrənir, öz bədənlərinin sağlamlığına
+kömək edən hifzüsəhha qaydalarına yiyələnirlər.
+Cəmiyyətin ən qiymətli sərvəti insan və onun sağlam-
+lığıdır. Heç bir yüksək texniki nailiyyət insanların səhhətinin
+qorunması və möhkəmləndirilməsi ilə müqayisə oluna bilməz.
+Buna görə də insanların sağlamlığı Pluton, Hippokrat dövründən
+müdrik şəxsiyyətlərin diqqətini cəlb etmişdir. Təsadüfi deyil ki,
+“sağlam bədəndə sağlam ruh olar” yunan atalar sözü də həmin
+dövrün məhsuludur. Qədim Elladanın nəhəng qayaların birində bu
+sözlər yazılmışdır: “Güclü olmaq istəyirsənsə qaç, sağlam olmaq
+istəyirsənsə qaç, gözəl olmaq istəyirsənsə qaç”. Antik dövrün
+böyük filosofu Platon sağlamlığı insan üçün birinci xoşbəxtlik
+hesab edirdi. Hippokrata görə hərəkətsiz müalicə yoxdur. Plutarx
+deyirdi ki, gimnastika təbabətin şəfaverici hissəsidir.
+“Qanunlar” əsərinin müəllifi, xalq arasında Loğman adı ilə
+tanınan Əbu Əli ibn Sina deyirdi:
+Vərdişlə (idmanla – A.N.) yaxşıca olsan aşina,
+Çatırsan fərəhlə sən yüz yaşına.
+Bəlkə də daha çox yaşayırsan bil,
+Həb və toz dərdinə heç dərman deyil.
+Bütün dərdlərinə bax budur dava:
+Təbiət – su, günəş və təmiz hava.
+Hər bir adam yüksək mənəviyyatla, əməksevər vətəndaş
+olmaqla yanaşı möhkəm sağlamlığa, fiziki keyfiyyətə yiyələn-
+məlidir. Sağlamlığı mühafizə edən və möhkəmləndirən mühüm
+amillərdən biri fəal hərəkətdir, zəruri fiziki qüvvədir.
+Qüvvə xarici müqaviməti və ona qarşı təsiri əzələnin gücü
+ilə aradan qaldırmaq qabiliyyətidir.
+Cəldlik insanın yeni hərəkətləri tez mənimsəmək və
+dəyişilən şəraitdə hərəki vəzifələri müvəffəqiyyətlə icra etməyə
+imkan verir. Bu hərəki qarşılıqlı əlaqədə inkişaf və təzahür edir.
+Y.A.Komenski “Ana qucağı məktəbi” adlı əsərində yazırdı ki,
+həyatımız oda bənzəyir, hava axını və daimi hərəkət olmadıqda
+87
+od dərhal söndüyü üçün uşaqların da hər gün təmrinlər etməsi və
+hərəkətdə olmaları zəruridir.
+Fiziki tərbiyə məktəblilərin sağlam və möhkəm
+böyüməsini təmin edir, şagirdlərə həyatda zəruri olan hərəkət,
+bacarıq və vərdişləri (düzgün yerimək, qaçmaq, tullanmaq,
+üzmək, təbii amillərdən düzgün istifadə etmək və s.) aşılayır,
+məktəblilərdə əqli qabiliyyətləri, mənəvi keyfiyyətləri, əmək
+vərdişlərini, estetik zövq və duyğuları, idman və bədən tərbiyəsi
+məşğələləri ilə üzvi şəkildə birləşdirir, onların ahəngdar inkişafını
+təmin edir.
+Bütün şagirdlərin hər gün dərslərdə, dərsdənkənar vaxt-
+larda, idman bölmələrində bədən tərbiyəsi ilə məşğul olmasını
+təşkil etmək, bunun üçün lazımi şərait yaratmaq lazımdır. Hər bir
+məktəbdə, bütün təlim-tərbiyə ocaqlarında avadanlıqla və
+inventarla yaxşı təchiz edilmiş idman salonları və meydançaları
+yaradılmalı, şagirdlərin fiziki tərbiyəsinə, gigiyenik məsələlərinə
+daha çox fikir verilməlidir.
+Fiziki təmrinlər, çalışmalar, sağlamlığı təmin edən təbii,
+habelə gigiyenik amillər tərbiyənin qüdrətli vasitələridir.
+İnsanın sağlamlığının təmin edilməsində, əmək və hərbi
+fəaliyyətə hazırlanmasında təmrin və çalışmalar mühüm rol
+oynayır. Məktəbdə fiziki təmrinlərdən gimnastika, oyun, turizm
+və idman zalında istifadə olunur. Gimnastika təmrinləri üçün
+səciyyəvi cəhət odur ki, bunlar şagirdlərin ayrı-ayrı əzələ qrup-
+larını, orqanizmlərini inkişaf etdirir. Oyunlar bütövlükdə orqa-
+nizmə təsir göstərir, hərəki keyfiyyətlərin kompleks inkişafına
+kömək edir. Oyun, hərəkət bir növ işdir, fəaliyyətdir.
+Turizm zamanı şagirdlərdə ünsiyyət, kollektivçilik,
+qarşılıqlı hörmət və s. keyfiyyətlər formalaşır.
+Fiziki tərbiyənin təşkili formalarına bədən tərbiyəsi fənni,
+idman sağlamlıq işləri, müstəqil məşğələlər, fiziki tərbiyə üzrə
+sinifdənxaric və məktəbdənkənar işlər daxildir. Fiziki tərbiyə və
+idman üzrə sinifdənxaric işlər bədən tərbiyəsi dərslərində
+mənimsənilmiş biliklər və bacarıqlarla sıx əlaqələndirilir.
+88
+Şagirdlərin fiziki, hərbi vətənpərvərlik yerişi “Üfüqdə
+parıltı”, “Qartal balası” kimi hərbi idman oyunları xüsusi
+əhəmiyyətlidir. “Üfüqdə parıltı” hərbi idman oyunu aşağı siniflər,
+“Qartal balası” isə yuxarı sinif şagirdləri üçün nəzərdə
+tutulmuşdur. Bu oyunlarda güclü romantika olduğu üçün onlar
+yeniyetmələri və gəncləri özünə cəlb edir. Bu oyunlar axtarışlar
+və kəşfiyyatlar, “hərbi” sirlər aləmidir. Hərbi idman oyunları
+məktəblilərin şəxsiyyətinin formalaşmasına ciddi təsir göstərir.
+Onlar belə hərbi idman oyunları prosesində çətinlikləri aradan
+qaldırmağı öyrənir, vəziyyətdən çıxış yolu axtarır, ətraf aləmin
+mürəkkəb, müəmmalı sirlərini dərk edirlər. Belə hərbi idman
+oyunlarında iştirak etməklə məktəblilər xalqımızın döyüş
+ənənələrinin mahiyyətini mənimsəyir, tədricən hərbi intizamın
+məsuliyyətini, çətinlikləri aradan qaldırmağın nə demək olduğunu
+öyrənirlər.
+I sinifdə şagirdlərə sağlamlıqda rejimin rolu haqqında
+məlumat vermək, bədəni təmiz saxlamağın, səhərlər gimnastika
+ilə məşğul olmağın əhəmiyyətini öyrətmək lazımdır və s.
+II sinif şagirdləri I sinifdə əldə edilmiş məlumatı inkişaf
+etdirməli və aşağıdakıları bilməlidir: düzgün nəfəs almaq, düzgün
+yerimək və düzgün oturmaq, sanitariya-gigiyena qaydalarına əməl
+etmək və rejimi gözləmək; dərs məşğələlərində öyrəndikləri
+hərəkətlərin icrası ilə məşğul olmaq, dərsdənkənar idman
+tədbirlərində iştirak etmək və s.
+III sinif şagirdləri sağlamlıq haqqında söhbətlərə qulaq
+asmalı, rejimə əməl etməli, vaxtlı-vaxtında istirahət etməyin,
+vaxtında yatıb-durmağın əhəmiyyətini dərk etməli və bunları
+əməli olaraq yerinə yetirməlidirlər.
+IV sinif şagirdləri gimnastika, yüngül atletika, üzgüçülük,
+xizək sürmək işləri ilə məşğul olur, kiçiklərə mütəhərrik oyunları
+öyrədir, gigiyenik qaydalara əməl edir, proqram səviyyəsində
+praktik bacarıq və vərdişlərə yiyələnirlər.
+89
+ƏDƏBİYYAT
+1. Azərbaycan Respublikasında ümumi təhsilin konsep-
+siyası. Bakı, “Kurikulum” jurnalı, 2008. № 1.
+2. Ağayev Ə. Pedaqogika. Bakı, 2006.
+3. Əhmədov B., Rzayev A. Pedaqogikadan mühaziyə
+konspektləri. Bakı, 1983.
+4. Həsənov A., Ağayev Ə. Pedaqogika. Bakı, 2007.
+5. Mehrabov A. Azərbaycan təhsilinin müasir prob-
+lemləri. Bakı, 2007.
+6. Mərdanov M. Azərbaycan təhsili müstəqillik illərində.
+Bakı, 2003.
+7. Mustafayeva R., Mustafayeva S. Pedaqogika. (Müha-
+zirə xülasələri) Bakı, 2002.
+8. Nəzərov A. Təhsilin müasir problemləri (Proqram)
+Bakı, 2010.
+9. Sadıqov F. Pedaqogika. Bakı, 2006.
+90
+XVI MÖVZU
+TƏRBİYƏ TEXNOLOGİYALARI. ŞƏXSİYYƏTİN
+TƏRBİYƏSİ İŞİNDƏ FƏRDİ XÜSUSİYYƏTLƏRİN
+NƏZƏRƏ ALINMASI
+PLAN:
+1.Tərbiyə texnologiyaları anlayışının şərhi
+2.Tərbiyə olunanla tərbiyə edən arasında qarşılıqlı
+münasibətlər
+3.Fərdi yanaşma ilə fərdi tərbiyə arasındakı fərqlər
+4.Uşaqların fərdi xüsusiyyətlərini öyrənmək üçün
+müxtəlit tədqiqat üsullarından istifadə olunması
+Tərbiyə texnologiyalarının yaradılmasında aşağıdakı
+pedaqoji prinsiplər nəzərə alınmalıdır:
+1. Məqsədyönlülük
+2. Perspektivlik
+3. Komplekslik
+4. Fəallıq
+5. Mütəşəkkillik
+6. Yaşauyğunluq və s.
+Məktəbdə müxtəlif işlərin hazırlanması texnologiyalarının
+həyata keçirilməsində yuxarıdakı pedaqoji prinsiplər diqqət
+mərkəzində saxlanmalıdır. Tərbiyəvi tədbirlərin təşkilində kollek-
+tivçiliyin böyük rolu vardır. Dahi rus pedaqoqu A.S.Makarenko
+(1888-1939) öz pedaqoji fəaliyyətində kollektiv tərbiyəyə böyük
+önəm vermiş və bu barədə demişdir: “Kollektivdə kollektiv üçün
+kollektiv vasitəsilə tərbiyə – budur tərbiyənin ən ali prinsipi”.
+Həm də şagirdlərlə iş apararkən hər bir müəllim, yaxud tərbiyəçi
+fərdi işlə kollektiv işi uzlaşdırmalıdır. Çünki burada tərbiyə
+texnologiyaları və tərbiyə metodlarının tələblərinə müvafiq olaraq
+məktəblilərin ümumi və fərdi cəhətləri nəzərə alınmalıdır.
+Məlumdur ki, tərbiyə prosesi dedikdə, ilk növbədə bir
+neçə sualla qarşılaşırıq. Tərbiyə olunan kimdir? Tərbiyə edən
+kimdir? Tərbiyənin məqsədi nədir? Tərbiyə prosesində hansı
+91
+üsullardan istifadə olunur? Tərbiyə olunanla tərbiyəedən arasında
+qarşılıqlı münasibətlər necədir? və s. Təbii ki, pedaqoji və
+psixoloji biliklərə istinad etmədən həmin suallara düzgün cavab
+vermək mümkün deyildir. Çünki tərbiyə işinin bir sıra dərin
+pedaqoji-psixoloji problemləri mövcuddur. Tərbiyə prosesində
+uşaq şəxsiyyətinin təlabatları, arzıı və istəkləri, temperament
+xüsusiyyətləri, sərvət meylləri, maraqları, idealları, dünyagörüşü
+və əqidəsi təşəkkül edir. Tərbiyə prosesində hansı pedaqoji-
+psixoloji biliklərə istinad etmək, hansı psixoloji qanunauy-
+ğunluqlardan çıxış etmək lazımdır ki, tərbiyə işi uğurlu getsin,
+qarşıya qoyulmuş nıəqsədə müvəffəqiyyətlə nail olmaq mümkün
+olsun?
+Bunun üçün ilk növbədə tərbiyə obyektinə (tərbiyə
+olunana) yaxından bələd olmaq, onun bütün fərdi psixoloji
+xüsusiyyətlərini dərindən öyrənmək lazımdır. Çünki dünyada ən
+incə, lakin ən mürəkkəb olan insan qəlbini, onun psixoloji
+xüsusiyyətlərini mükəmməl öyrənmədən tərbiyə işində uğur
+qazanmaq mümkün deyildir.
+Təbii ki, tərbiyə obyekti olan insan, fərdi psixoloji
+xüsusiyyətlərinə görə biri digərindən kəskin surətdə forqlənir.
+İctimai praktikanın müxtəlif sahələrində (sənaye, kənd təsərrüfatı,
+təhsil, səhiyyə və s.) fərdi xüsusiyyətlərin təhlili və nəzərə
+alınması pedaqogikanın və psixologiyanın tətbiqi problemləri
+içərisində xüsusi yer tutur. Gənc nəslin təlim-tərbiyəsi işində isə
+onun əhəmiyyəti xüsusilə böyükdür. Pedaqogika və psixologiya
+tarixi ilə tanış olsaq, bir cəhəti aydın görə bilərik. Zamanın
+görkəmli alimləri uşaq tərbiyəsindən danışarkən diqqəti həmişə
+fərdi yanaşma məsələlərinə cəlb etmişlər.
+Fərdi yanaşma mühüm pedaqoji-psixoloji prinsipdir.
+Həmin prinsipə görə, təlim-tərbiyə işində hər bir uşağın fərdi
+xüsusiyyətləri zəruri surətdə nəzərə alınmalıdır. Təlim-tərbiyə
+işində fərdi yanaşma iki cəhətdən xüsusilə vacibdir. Birincisi, biz
+uşağa fərdi yanaşmaqla onun özünəməxsus xüsusiyyətlərə malik
+olan şəxsiyyət kimi inkişaf etməsi üçün psixoloji cəhətdən
+əlverişli şərait varatmaq. İkincisi, ıışağın fərdi xüsusiyyətlərini
+92
+nəzərə almadan, ona göstərilən pedaqoji təsir adətən istənilən
+nəticəni vermir. Müəyyən edilmişdir ki, pedaqoji təsir həmişə
+uşağın fərdi-psixoloji xüsusiyyətləri ilə şərtlənir. Bu, о deməkdir
+ki, pedaqoji təsirin xarakteri və səmərəsi təkcə onun obyektiv
+xüsusiyyətləri ilə deyil, həm də uşağın həmin təsiri necə qəbul
+etməsi ilə müəyyən olunur. Xahiş, tərif, cəzalandırma və s.-nin
+bütün uşaqlara eyni səviyyədə təsir etməməsini də birinci
+növbədə, məhz bununla izah etmək lazımdır.
+Tərbiyə işində fərdi yanaşmanın mahiyyəti ondan ibarətdir
+ki, tərbiyənin ümumi məqsədləri nəinki uşaqların yaş və cinsi
+xüsusiyyətlərinə, həm də fərdi xüsusiyyətlərinə müvafiq olaraq
+konkretləşdirilir. Təcrübə göstərir ki, tərbiyə işində uşaqların fərdi
+xüsusiyyətləri nəzərə alınmadıqda hətta ən səmərəli təsir vasitələri
+öz əhəmiyyətini itirir.
+Fərdi yanaşmanın bir-birilə qarşılıqlı əlaqədə olan iki
+tərəfi vardır. Onlar: a) şəxsiyyətin fərdi xüsusiyyətlərinin təhlili;
+b) təlim-tərbiyə işində psixoloji cəhətdən düzgün nəzərə alınması
+məsələləri ilə bağlıdır.
+Tərbiyə vasitələri seçərkən uşağın fərdi xüsusiyyətlərini
+də nəzərə almaq lazım gəlir. Bəzi şəxslər fərdi yanaşma və fərdi
+tərbiyəni bir-biri ilə eyniləşdirirlər, halbuki onlar arasında fərq
+vardır. Həmin fərqləri valideynin, tərbiyəçinin bilməsi vacibdir.
+Professor M.Ə.Muradxanov onların aşağıdakılardan ibarət
+olduğunu göstərirdi: 1) fərdi tərbiyə uşağı təklikdə, kollektivdən
+tamamilə ayrılıqda tərbiyə etməyi nəzərdə tutur; fərdi yanaşma isə
+uşağı kollektiv içərisində saxlamaqla ona düzgün təsir etmək üçün
+fərdi xiisusiyyətləri nəzərə almağı tələb edir; 2) fərdi tərbiyə,
+tərbiyənin məqsədini uşağın şəxsi xüsusiyyətlərinə tabe edərək,
+hər uşağın tərbiyə məqsədini bu xüsusiyyətlərdən asılı etməyi
+nəzərdə tutur; Fərdi yanaşma isə, uşağın fərdi xüsusiyyətlərinə
+uyğun olaraq, onu ümumi məqsədə gətirib çıxarmağı tələb edir.
+Burada məqsəd uşağa tabe edilmir, üsul və vasitələr uşağın
+xüsusiyyətlərinə uyğun olaraq seçilir.
+Uşaqların fərdi xüsusiyyətlərinin öyrənilməsi üçün müx-
+təlif tədqiqat üsullarından – müşahidə, eksperiment və s. istifadə
+93
+olunur. Müəllim və tərbiyəçilər üçün uşaqları təbii şəraitdə –
+dərsdə, sinif yoldaşları ilə ünsiyyət prosesində, ictimai-faydalı
+əməkdə öyrənmək xüsusilə zəruridir. Uşaq şəxsiyyətinin bütün
+mühüm cəhətlərini əhatə edən pedaqoji-psixoloji xarakteris-
+tikaların onlar üçün böyük əhəmiyyəti vardır. Pedaqoji-psixoloji
+xarakteristikanı adətən sinif rəhbəri tərtib edir və həmin sinifdə
+dərs deyən müəllimlərin hamısı ilə birlikdə onun müzakirəsini
+təşkil edir. Pedaqogikada buna pedaqoji konsilium deyilir.
+Uşaqların fərdi xüsusiyyətlərini təhlil edərkən hansı
+məsələlərə diqqət yetirmək lazımdır? Müəllim şagirdlərin yaş-
+cins xüsusiyyətlərini nəzərə almaqla, onların həm də fərdi
+psixoloji xüsusiyyətlərini – qabiliyyətlərini, temperamentini,
+xarakterini və s. diqqətlə öyrənməlidir. Fərdi xüsusiyyətlərin
+formalaşmasını şərtləndirən amillər xüsusilə ətraflı tədqiq
+olunmalıdır.
+Beləliklə, deyilənlərdən çıxan konkret nəticələr bunlardan
+ibarətdir ki, tərbiyəolunma şəxsiyyətin sosiallaşmasını təmin edir,
+onu həyatda, cəmiyyətdə, ictimai fayda verəcəyi fəaliyyətə
+hazırlaşdırma prosesidir. Çünki insanın zənginliyi onun həqiqi,
+obyektiv münasibətlərin zənginliyindən asılıdır. Məhz tərbiyə-
+olunma sayəsində insanlara, əməyə, biliklərə, fəaliyyətə çoxcə-
+hətli münasibətlər yaranır. Şəxsi təcrübənin qazanılmasında
+başlıca cəhət ictimai münasibətlərin şüurlu dərk olunmasından
+ibarətdir. Bu zaman uşaq özünəməxsus şəxsi tələbatının ödənil-
+məsinə çalışır, ictimai münasibətlərlə şəxsi münasibətlərin qar-
+şılıqlı əlaqədə baş verməsinə nail olur. Tərbiyəetmə çox dinamik
+və didaktik prosesdir. Tərbiyəetmə prosesində müxtəlif əlaqə və
+asılılıqlar sosial, psixoloji, pedaqoji bir-birinə qovuşmuş və
+qarşılıqlı şəkildə şərtlənmişdir. Tərbiyəetmə prosesinin didak-
+tikası onun ziddiyyətliyində, inkişafında, mütəhərrikliyində,
+dəyişiklirində ifadə olunur. Belə bir fəaliyyətin təşkili şəxsiyyətin
+formalaşması prosesinin elmi əsaslarını təşkil edir. Şəxsiyyət
+sosial əlaqələrə və qarşılıqlı sosial münasibətlərə malik insandır.
+94
+ƏDƏBİYYAT
+1. Abbasov A. Pedaqogika. Bakı, 2010.
+2. Ağayev Ə. Azərbaycan ictimai-pedaqoji fikrində
+şəxsiyyətinin formalaşması problemi. Bakı, 2005.
+3. Həsənov A., Ağayev Ə. Pedaqogika. Bakı, 2007.
+4. Həşimov Ə. Azərbaycan xalq pedaqogikasının bəzi
+məsələləri. Bakı, 1970.
+5. Mehrabov A., Abbasov Ə., Zeynalov Z., Həsənov R.
+Pedaqoji texnologiyalar. Bakı, 2006.
+6. Mərdanov M. Azərbaycan təhsili yeni inkişaf
+mərhələsində. Bakı, 2009.
+95
+XVII MÖVZU
+TƏRBİYƏ İŞİNİN TƏŞKİLİNDƏ MƏKTƏB, AİLƏ VƏ
+İCTİMAİYYƏTİN BİRGƏ FƏALİYYƏTİ
+PLAN:
+1. Yetişməkdə olan nəslin tərbiyəsində məktəbin
+həlledici rolu
+2. Uşağın həyatının ilk dövrü ilə əlaqədar
+valideynlərin vəzifələri
+3. Cəmiyyətin inkişafının hazırkı mərhələsində gənc
+nəslin tərbiyəsi işini hərtərəfli təşkil etməklə əlaqədar
+dövlət və ictimai təşkilatların sıx birliyi
+4. Məktəbin ailə və ictimaiyyətlə fərdi əlaqə formaları
+5. Məktəbin ailə və ictimaiyyətlə kollektiv əlaqə
+formaları
+Ailə cəmiyyətin ilkin özəyi, onun sosial quruluşunun
+əsasını təşkil edir.
+Ailə tərbiyəsinin məqsədi, şəxsiyyətin elə keyfiyyət və
+xassələrini formalaşdırmaqdan ibarətdir ki, şəxsiyyət həyat
+yolunda qarşılaşdığı çətinlik və maneələri asanlıqla aradan qaldıra
+bilir.
+Ailənin iki mühüm vəzifəsi vardır: 1. Nəslin davam
+etdirilməsi4 2. Yeni nəslin, yeni insanın tərbiyəsi
+Bu iki vəzifə bir-birilə sıx bağlıdır. İnsan öz nəslini
+artırmasa, öz nəslinə tərbiyə verməsə cəmiyyət məhv olar. Birinci
+vəzifə nə qədər əhəmiyyətlidirsə, ikinci vəzifə daha məsu-
+liyyətlidir. Çünki bu vəzifədə təbiətin bəxş etdiyi xüsusiyyətlər
+deyil, həm də insanlığın min illər ərzində topladığı mədəniyyət,
+cəmiyyətin əlavə etdiyi xüsusiyyətlər də təzahür edir. Bir damla
+suda günəş əks olunduğu kimi, ailə münasibətlərində də
+cəmiyyətin bütün əlaqmətləri öz inkişafını tapır. Ailə özlüyündə
+kiçik bir dövlətdir. Ailə insani münasibətlərin ilk tərbiyə
+məktəbidir. Ailədə ilk əxlaqi təcrübə, fəzilət və qəbahət təşəkkül
+tapır. Ailədə böyüyən uşaqlar tərbiyəsində övladlıq borclarını
+96
+dərk edir, qocalmış valideynlərinə qayğı göstərməyin zəruriliyini
+dərk edirlər. Ailənin birinci və ən əsas vəzifəsi övladlarını sağlam
+və gümrah böyütməkdən, onların sağlam həyat tərzini təşkil
+etməkdən ibarətdir.
+Beləliklə, ailə qarşılıqlı məhəbbət, etibar, hörmət və inama
+əsaslana yeni həyata başlamış, yeni nəslin yaradılması və
+inkişafının qayğısına qalan qrupdur.
+Məktəb gənc nəslin təlim-tərbiyəsi işinin mərkəzidir.
+Hazırkı dövrdə təhsil sistemi qarşısında duran başlıca vəzifə –
+dərin bilikli, fiziki və zehni cəhətdən inkişaf etmiş, elmi
+dünyagörüşünə, yüksək mədəniyyətə, zəngin əxlaqa malik olan
+ahəngdar şəxsiyyət tərbiyəsidir. Məktəbdə təlim-tərbiyə işi
+məqsədyönlü, planlı və mütəşəkkil şəkildə, xüsusi hazırlıqlı
+pedaqoji kadrların rəhbərliyi ilə həyata keçirilir. Müəllim təlim-
+tərbiyə işində mərkəzi simadır, necə deyərlər, məktəbin ürəyidir.
+Müəllimin gənc şəxsiyyətə təsiri çox böyükdür; onu heç bir şeylə
+əvəz etmək olmaz.
+Uşağın həyatının ilk dövrü valideynlər qarşısında böyük
+vəzifələr qoyur. Valideynlər ata-ana olduqları gündən həm də
+tərbiyəçidirlər. Bəzi pedaqoqlar ananı təbii tərbiyəçi adlan-
+dırmaqda haqlıdırlar. Uşağa qarşı ağıllı tələblə birləşmiş ana
+məhəbbəti, valideyn məhəbbəti tərbiyə işində böyük qüvvədir.
+Ailə tərbiyəsinin müvəffəqiyyəti üçün bir çox pedaqoji
+şərtlərə əməl etmək lazımdır. Həmin şərtlərdən başlıcaları
+bunlardır:
+- ailədə sağlam tərbiyə şəraiti yaradılmalıdır; uşaqların
+tərbiyəsi sağlam, normal, sakit, səmərəli və şən həyat şəraitində
+daha normal və asan olur. Əksinə, qeyri-normal tərbiyə şəraitində,
+valideynlərin dolğun insani həyatı olmadan tam dəyərli insan
+tərbiyə etmək mümkün deyildir;
+- tərbiyə işində mütəşəkkil ailə kollektivi mühüm
+vasitədir. Uşaq dolğun şəxsiyyət kimi о zaman yetişə bilər ki,
+onun tələbat və arzuları kollektivçi tələbat və arzuları olsun. Əks
+halda о fərdiyyətçi kimi yetişə bilər. Ailə kollektivçilik
+əlamətlərini itirdikdə onun tərbiyəvi təsiri də xeyli azalır;
+97
+- böyük ailə – çoxuşaqlı ailə tərbiyə üçün daha əlverişlidir:
+belə ailəni ümumi mənafe, ümumi həvat, ümumi sevinc və kədər
+birləşdirir. Burada uşaqlar bir-birindən öyrənir, tərbiyə üçün
+əlverişli ünsiyyət mühiti yaranır. Təkuşaqlı ailədə isə tərbiyə işi
+çətindir: burada uşaq hamının diqqət mərkəzində olur, hamı onu
+əzizləyir, heç kəs onun xətrinə dəymək istəmir. Belə uşaqlar
+adətən, ərköyün və eqoist böyüyürlər;
+- tərbiyənin, xüsusən xarakterin bünövrəsi kiçik yaşlardan
+qoyulur: bu yaşda tərbiyə düzgün aparılmadıqda sonradan uşağı
+yenidən tərbiyə etmək lazım gələcəkdir. Yenidəntərbiyə isə
+əvvəldən aparılan düzgün tərbiyəyə nisbətən qat-qat çətindir: o,
+tərbiyəçidən çoxlu vaxt, qüvvə və əsəb gərginliyi tələb edir;
+- tərbiyənin, о cümlədən ailə tərbiyəsinin müvəffəqiyyəti
+tərbiyə qanunlarına və onlardan irəli gələn prinsiplərə düzgün
+əməl etməkdən asılıdır. Uşağa qarşı hörmət və tələbkarlığı
+birləşdirmək, ona nikbin nəzərlə yanaşmaq, hər bir uşağın yaş və
+fərdi xüsusiyyətlərinə əsaslanmaqla onun qəlbinə yol tapmaq,
+tərbiyə işində kollektivə istinad etmək, uşağın müstəqilliyi ilə
+pedaqoji rəhbərliyi düzgün əlaqələndirmək, fəallıqla “tormoz tər-
+biyəsi” arasındakı orta həddi tapmaq və s. belə prinsiplərdəndir;
+- tərbiyə işində uşağın birtərəfli inkişafına yol verməmək,
+onun ahəngdar şəxsiyyət kimi formalaşmasına şərait yaratmaq,
+yəni zehni, ideya-mənəvi, əmək, estetik, fıziki və s. cəhətdən
+inkişafına qayğı göstərmək vacibdir;
+- həddini aşmayan valideyn məhəbbəti ilə çulğalaşan borc
+hissi, valideynlərin düzgün həyat tərzi, bir-birilə və uşaqla səmimi
+münasibətləri, şəxsi ləyaqəti, vətəndaşlıq siması, müsbət
+nümunəsi və nüfuzu – bütün bunlar ailə tərbiyəsinin müvəf-
+fəqiyyətini təmin edən şərtlərdəndir.
+Ailə tərbiyəsi sahəsində nəzərdən keçirilən məsələlərin
+uğurla yerinə yetirilməsi üçün valideynlər məktəblə sıx əlaqə
+saxlamalı, müəllimlərlə əməkdaşlıq şəraitində işləməlidirlər.
+İctimaiyyət tərbiyə işində böyük qüvvədir. Cəmiyyətin
+inkişafının hazırkı mərhələsi gənc nəslin tərbiyəsində dövlət və
+ictimai təşkilatların sıx birliyi, ictimaiyyətin tərbiyəvi rolunun
+98
+yüksəlməsi ilə səciyyələnir. Uşaqların tərbiyəsinə qayğı göstərən
+ictimaiyyət, ictimai təşkilatlar müəyyən bir sistem təşkil edir. Bu
+sistemə aşağıdakı ictimai təşkilatlar – komitələr, şuralar,
+komissiyalar, birliklər, cəmiyyətlər, fondlar və daxildir.
+Tərbiyə ictimai proses olduğundan, uşağı tək bir adam –
+müəllim (və ya müəssisə) tərbiyə edib yetişdirə bilməz. Uşaq həm
+məktəbin, müəllimlərin, həm də valideynlərin, ictimaiyyətin, yaşlı
+adamların, yoldaşlarının təsiri ilə böyüyüb inkişaf edir. Buna görə
+də tərbiyə işini məktəbin, müəllimin işi çərçivəsi ilə məh-
+dudlaşdırmaq olmaz. Ayrılıqda nə məktəb, nə ailə, nə də ictimaiy-
+yət gənc nəslin tərbiyəsini təmin edə bilməz. Uşaq gündəlik
+vaxtının ancaq 4-5 saatını məktəbdə, qalan vaxtını isə ailədə,
+ictimai yerlərdə keçirir. Məktəbin uşağa göstərdiyi tərbiyəvi
+təsirlər ailə və ictimaiyyətin təsiri ilə uyğun gəlməli və bir- birini
+tamamlamalıdır. Bu isə, pedaqoji üçlüyün əlbir fəaliyyəti ilə
+mümkün ola bilər. Məktəb, ailə və ictimaiyyət müxtəlif formada
+bir-birilə sıx əlaqə saxlamalıdır. Bu əlaqə formalarını iki qrupa
+böləmk olar:
+a)fərdi əlaqə formaları;
+b)kollektiv əlaqə formaları.
+Fərdi əlaqə formalan müəllimlərin (o cümlədən sinif
+rəhbərlərinin) valideyn və ictimaiyyət nümayəndələri ilə
+bilavasitə və ya bilvasitə əlaqə yaratmaqla aparılan fərdi iş
+formalarını əhatə edir. Nisbətən geniş yayılmış fərdi əlaqə
+formalarına aşağıdakılar daxildir:
+- müəllimin. sinif rəhbərlərinin ailəyə getməsi: bu halda,
+bir tərəfdən, şagirdin ailə şəraiti, ailədaxili münasibətlər, ailədə
+tərbiyə işinin qoyuluşu haqda məlumat toplanır, digər tərəfdən isə
+uşağın təlim-tərbiyəsi ilə bağlı valideynlərlə söhbət və
+məsləhətləşmələr aparılır, birgə hərəkət xətti müyyən edilir, zəruri
+hallarda valideynlərə pedaqoji məsləhətlər verilir;
+- Valideynlərin, ictimai təşkilat nümayəndələrinin mək-
+təbə dəvət edilməsi: bu zaman valideynləri danlamaq, uşaqdan
+şikayət etmək yox, hər hansı konkret pedaqoji hadisənin (təlimə
+məsuliyyətsiz münasibət, intizamsızlıq və s. hallarının) səbəb-
+99
+lərini valideynlə birlikdə təhlil etmək, konkret çıxış yolu
+tapmaqda kömək etmək lazımdır. Valideynləri məktəbə təkcə
+xoşagəlməz hallar üçün deyil, şagirdin təlim və tərbiyəsindəki
+müsbət dəyişikliklərlə, müəyyən tədbirlərlə əlaqədar da dəvət
+etmək məsləhətdir;
+- məktəbdə və ya sinifdə “açıq qapı” günlərinin
+keçirilməsi: bu halda əvvəlcədən müəyyən edilmiş vaxtda (ayda
+və va rübdə bir gün) müəllimlər məktəbdə olur. Valideynlər
+məktəbə gələrək istənilən miiəllimlə görüşüb övladı barədə
+söhbət aparır, məsləhət alırlar;
+- şagird gündəliyi, yaxud məktub vasitəsilə əlaqə: müəllim
+şagirdin təlim-tərbiyəsi ilə bağlı onun gündəliyində, yaxud ayrıca
+vərəqdə qeydlər edir, valideynlərə lazımi göstəriş və məsləhətlər
+verir;
+- telefon vasitəsilə əlaqə: şagird haqqında müəyyən
+informasiya mübadiləsi məqsədi ilə müəllim (sinif rəhbəri) və
+valideynlər bir-birilə telefon əlaqəsi saxlayırlar.
+Ailə və ictimaiyyət nümayəndəsi ilə fərdi əlaqəsi zamanı
+müəllim özünü müfəttiş və ya ittihamçı kimi yox, uşağın
+gələcəyinə qayğı göstərən müəllim-ziyalı, yaxın məsləhətçi kirni
+çıxış etməli, valideynlərlə pedaqoji əməkdaşlıq yaratmağa
+çalışmalıdır.
+Məktəbin ailə və ictimaiyyətlə əlaqəsi kollektiv
+formalarda da aparılır. Kollektiv əlaqə formaları aşağıdakılardan
+ibarətdir:
+- valideyn yığıncaqları – pedaqoji biliklərin təbliği, ailə
+tərbiyəsi məsələlərinin təhlili, təcrübə mübadiləsi məqsədi ilə
+təşkil edilən kollektiv iş formasıdır. Valideyn yığıncaqları sinif və
+məktəb miqyasında keçirilir. Sinif valideyn yığıncaqları rübdə 1-2
+dəfə, məktəb valideyn yığıncaqları isə ildə 3-4 dəfə keçirilir. Bu
+yığıncaqlarda görülmüş işlərə yekun vurulur, ailə tərbiyəsinin ən
+mühüm məsələləri müzakirə olunur. Ehtiyac olduqda ayrı-ayrı
+pedaqoji mövzulara həsr olunmuş tematik yığıncaqlar (nıəsələn,
+“Uşaqların təliminə necə kömək etməli?”, “Valideyn nüfuzu”,
+100
+“Ailədə əmək tərbiyəsi” və s.), habelə ata və analar üçün ayrıca
+yığıncaqlar keçirmək olar;
+- valideyn universitetləri və pedaqoji lektoriyalar pedaqoji
+biliklərin təbliği məqsədi ilə təşkil olunan iş formalarıdır.
+Valideyn universitetləri 1-2 il müddətinə məktəblərdə, idarə və
+müəssisələrdə yaradılır, valideyn və ictimaiyyət nümayəndələrinə
+sistemli pedaqoji biliklər verilir. Valideyn lektoriyaları isə
+epizodik xarakter daşıyır. Ayda 1-2 dəfə keçilən bu məşğələlərdə
+pedaqoji mühazirələrlə yanaşı, tərbiyə mövzusunda müzakirələr,
+diskussiyalar, təcrübə mübadiləsi, şagird bədii özfəaliyyət
+kollektivinin çıxışları, uşaqların işlərini əks etdirən sərgilər də
+təşkil edilir;
+- ailə tərbiyəsi təcrübəsinə həsr olunmuş konfranslar və
+sual-cavab gecələri – ailədə uşaqların tərbiyəsi ilə bağlı aktual
+pedaqoji mövzuların və valideynləri maraqlandıran sualların
+müzakirəsi təqsədi güdür. Konfrans məktəb (sinif) rəhbərinin giriş
+sözü ilə açılır, sonra isə fəal valideynlər və ictimaiyyət nüma-
+yəndələri öz təcrübələri əsasında müəyyən pedaqoji mövzularda
+çıxış edirlər. Konfrans pedaqoji tövsiyələrlə başa çatır. Belə
+konfransları sinif və məktəb miqyasında keçirmək olar;
+- valideyn komitələri – valideyn və ictimaiyyəti gənc
+nəslin təlim-tərbiyəsi işinə səfərbər edən, uşaqlara tərbiyəvi
+təsirlərin vahidliyini təmin edən kollektiv formadır. Valideyn
+komitələri məktəblərdə, idarə və müəssisələrdə, yaşayış yerlə-
+rində yaradılır. Məktəblərdə sinif və məktəb valideyn komitələri
+təşkil olunur. Sinif valideyn komitələri sinfin valideyn yığın-
+cağında 3-5 nəfərdən ibarət, məktəb valideyn komitəsi isə
+ümumməktəb valideyn iclasında 7-9 nəfərdən ibarət seçilir.
+Valideyn komitəsində müxtəlif iş sahələri (icbari təhsil. təlim
+işləri, mədəni-kütləvi işlər, idman-sağlamlıq işləri, ictimai-faydalı
+əmək, təsərrüfat işləri və s.) üzrə komissiyalar yaradılır və xüsusi
+planla iş aparılır. Valideyn komitələri rübdə bir dəfədən az
+olmayaraq öz iclaslarını keçirir, görülmüş işləri müzakirə edir,
+həlli vacib vəzifələri müəyyənləşdirir;
+101
+- məktəbə və ailəyə kömək şuraları – ictimaiyyəti, əmək
+kollektivlərini uşaqların tərbiyəsi işinə cəlb etməyə xidmət
+göstərən ictimai orqandır. Belə şuralar idarə və müəssisələrdə –
+valideynlərin iş yerlərində fəaliyyət göstərir. Onlar məktəbin
+tədris-maddi bazasının möhkəmlənməsində, şagirdlərin əmək
+tərbiyəsi və asudə vaxtlarının təşkilində, uşaq nəzarətsizliyi ilə
+mübarizədə, habelə valideynlərin tərbiyə sahəsində məsuliyyət
+hissinin artırılmasında məktəbə və ailəyə yaxından kömək
+göstərirlər.
+Göründüyü kimi, gənc nəslin tərbiyəsi işinə qayğı göstərən
+qüvvələr çoxdur. Onların işini əlaqələndirmək və bir istiqamətə
+yönəltmək mühüm şərtdir. Məktəb əlaqələndirici mərkəz kimi bu
+sahədə mühüm rol oynamalıdır.
+102
+ƏDƏBİYYAT
+1. Abbasov A., Əlizadə H. Pedaqogika. Bakı, 2000.
+2. Ağayev Ə. və b. Pedaqogika. Bakı, 2006.
+3. Ağayev M., Nəzərov A. Qabaqcıl təcrübənin ünvanı.
+Bakı, 2004.
+4. Əhmədov B., Rzayev A. Pedaqogikadan mühazirə
+konspektləri. Bakı, 1983.
+5. Həsənov A., Ağayev Ə. Pedaqogika. Bakı, 2007.
+6. Quliyev S. Ailə pedaqogikasının mühüm problemləri.
+Bakı, 2005.
+7. Mərdanov M. Azərbaycan təhsili yeni inkişaf
+mərhələsində. Bakı, 2009.
+8. Mehrabov A., Abbasov Ə., Zeynalov Z., həsənov R.
+Pedaqoji texnologiyalar. Bakı, 2006.
+9. Mehrabov A., Cavadov İ. Ümumtəhsil məktəblərində
+monitorinq və qiymətləndirmə. Bakı, 2007.
+10. Nəzərov A., Məmmədov R. Pedaqoji ustalıq. Bakı,
+2008.
+11.Talıbov Y. və b. Pedaqogika. Bakı, 1993.
+12.“Təhsil haqqında” Azərbaycan Respublikasının
+Qanunu. Bakı, 2009.
+103
+MÜNDƏRİCAT
+ÖN SÖZ.....................................................................................3
+I MÖVZU: Pedaqoji texnologiyalara tarixi-nəzəri baxış .........4
+II MÖVZU:Təlim texnologiyalarının mahiyyəti və
+məzmunu....................................................................................10
+III MÖVZU: Təlim texnologiyasının struktur və funksional
+komponentləri. ...........................................................................17
+IV MÖVZU: Təlim texnologiyalarının təsnifati və xarakterik
+xüsusiyyətləri .............................................................................23
+V MÖVZU: Təlimdə interaktiv metodlar və fəal təlim
+metodları problemi.....................................................................35
+VI MÖVZU: Təlim prosesində pedaqoji diaqnostika
+məsələləri ...................................................................................41
+VII MÖVZU: Pedaqoji innovasiyalar ......................................45
+VIII MÖVZU: Yenilikçi müəllimlərin pedaqoji
+texnologiyalardan istifadə bacarığı ............................................50
+IX MÖVZU: Pedaqoji texnologiya sistemində yeni təlim
+texnologiyalarının səciyyəsi.......................................................57
+X MÖVZU: Təlim nəzəriyyəsi yeniləşən, inkişaf edən
+elmdir .........................................................................................63
+XI MÖVZU: Bilik mənbələrinin meyarını təşkil edən təlim
+metodlarının pedaqoji texnologiyaların əsasını təşkil etməsi ....67
+XII MÖVZU: Tədris, təlim və tərbiyə prosesinin vəhdəti,
+funtamentallıq və mədəniyyətəmüvafiqlik ................................72
+XIII MÖVZU: Təlimin humanitarlaşdırılması və
+humanistləşdirilməsi ..................................................................76
+XIV MÖVZU: Təhsilin fasiləsizliyi və
+informatlaşdırılması ...................................................................80
+XV MÖVZU: Təhsilin məhsuldarlığına güclü təsir göstərən
+tibbi-bioloji şərtlər. Fiziki tərbiyə ..............................................84
+XVI MÖVZU: Tərbiyə texnologiyaları. Şəxsiyyətin tərbiyəsi
+işində fərdi xüsusiyyətlərin nəzərə alınması... ...........................90
+XVII MÖVZU: Tərbiyə işinin təşkilində məktəb, ailə və
+ictimaiyyətin birgə fəaliyyəti .....................................................95
+Nəzərov Akif Məmmədağa oğlu
+10 sentyabr 1936-cı ildə Astara rayonunun Səncərədi
+kəndində anadan olmuşdur.
+1955-ci ildə Astara şəhər 1 №-li orta məktəbi, 1960-cı ildə
+isə Azərbaycan Dövlət Universitetinin filologiya fakültəsini
+bitirmişdir.
+1960-1978-ci illərdə Astara rayonunun ayrı-ayrı kənd,
+qəsəbə orta məktəblərində tədris işləri üzrə direktor müavini,
+direktor və ixtisası üzrə müəllim işləmişdir.
+1978-1984-cü illərdə Bakı şəhəri Sabunçu rayonundakı 66
+№-li orta məktəbdə müəllim, 1984-cü ilin dekabrından hal-hazıra
+qədər AMİ-də əvvəlcə baş müəllim, 1994-cü ildən isə dosent
+vəzifəsində işləməkdə davam edir.
+May 1976-cı ildə Respublikanın EA Nizami adına
+Ədəbiyyat İnstitutunda dissertasiya müdafiə edərək filologiya
+üzrə fəlsəfə doktoru alimlik dərəcəsini almışdır.
+Akif Nəzərovun bir filoloq kimi ədəbiyyatımızın aktual
+problemləri ilə əlaqədar bir sıra kitabçası, jurnal və qəzet
+məqalələri çap olunmuşdur.
+Lakın o, ömrü boyu əsasən pedaqoji işlə məşğul olmuş, bir
+müəllim kimi ictimaiyyətin dərin rəğbətini qazanmışdır.
+1970-1978- ci illərdə Respublika Pedaqoji
+Mühazirələrinin qalibi olmuşdur. “Sosializm Yarışının Qalibi”,
+“Qabaqcıl Təhsil İşçisi” döş nişanları, çoxlu Fəxri Fərmanlar və
+“Əmək Veteranı” medalı ilə təltif olunmuşdur. 07 dekabr 2009-cu
+il tarixdə Azərbaycan Respublikası Prezidentinin Sərəncamı ilə
+“Əməkdar Müəllim” Fəxri adına layiq görülmüşdür.
+Pedaqoji sahədə dörd metodik tövsiyənin, iki kitabçanın,
+üç proqramın, dörd dərs vəsaitinin, on beş jurnal, altmışa qədər
+qəzet məqalələrinin müəllifidir.
+Ailəlidir, dörd övladı, on nəvəsi vardır.

@@ -1,0 +1,2705 @@
+ 
+                     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RƏQƏMLƏŞDİRMƏ: 
+AVROPA  MUZEYLƏRİ, 
+ARXİVLƏRİ  VƏ 
+KİTABXANALARI  ÜÇÜN 
+STANDARTLAR 
+LANDŞAFTI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bakı – 2013 
+ 
+ 
+ 2
+http://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B 
+Rəqəmləşdirmə: 
+Avropa muzeyləri, arxivləri və kitabxanaları üçün  standartlar landşaftı 
+ 
+ATHENA layihəsinin 3-cü “Standartların tədqiqi və tövsiyələr hazırlanması” 
+İşçi qrupunun nəşri 
+Mətni hazırlayanlar: Gordon McKenna, Collections Trust (UK); Chris De 
+Loof, Royal Museums of Art and History (Belgium). 
+ATHENA layihəsinin hesabatının tərkib hissəsi olan bu kitabçanın mətni 
+ATHENA layihəsinin tərəfdaşlarının ATHENA layihəsində hazırlanmış servis 
+xidmətləri vasitəsilə Europeana Avropa rəqəmsal kitabxanasına təqdim etdikləri 
+informasiya resurslarının təhlilinə əsaslanır. 
+ 
+ATHENA layihəsinin baş əlaqələndiricisi  
+Rossella Caffo  
+ 
+Mətn Creative Commons Attribution Non-commercial Share Alike License1 
+lisenziyasının şərtləri daxilində qeyri-kommersiya məqsədləri ilə istifadə üçün, 
+müəlliflik göstərilmək şərti ilə əlyetərlidir. Mətnin yayılmasına, surətinin 
+çıxarılmasına və modifikasiya edilməsinə bu şərtlə icazə verilir ki, modifikasiya 
+edilmiş əsərlər də həmin lisenziyanın bütün müddəalarına riayət edilməklə yayılsın. 
+ 
+CC-BY-NC-SA  (?)  @  (3) 
+ 
+Azərbaycan dilində nəşr Azərbaycan Respublikası Mədəniyyət və Turizm 
+Nazirliyinin maliyyə dəstəyi ilə hazırlanmışdır. 
+ 
+  Tərcümə: O.Qəbələli 
+Rəyçi: M.Əhmədov 
+Məsləhətçi: L.Məmmədova 
+ 
+©2009 ATHENA EC Project 
+©2013 Azərbaycan Respublikası Mədəniyyət və Turizm Nazirliyi 
+ 
+ 
+                                           
+1 
+ 7%D0%B8%D0%B8_Creative_Commons (ingilis dilində, redaktorun qeydi) 
+ 
+ 
+ 3
+Mündəricat 
+ 
+L.Məmmədova, M.Əhmədov. Azərbaycan dilində nəşrə ön söz .... 4  
+Ön söz .............................................................................................. 8  
+1. Əsas müddəalar ........................................................................... 9 
+1.1. Standart .................................................................................... 9 
+1.1.1. Standartların tipləri ..................................................... 9 
+1.1.2. Açıq standartlar ......................................................... 11 
+1.2. Rəqəmləşdirmə ....................................................................... 12 
+1.3. Uyğunluq ................................................................................ 12 
+1.4. Metaməlumatlar ..................................................................... 14 
+1.4.1. Definisiyanın çətinlikləri ........................................... 14 
+1.4.2. Metaməlumatların xarakteristikaları ........................ 15 
+1.4.3. “Daha adekvat” definisiya? ...................................... 18 
+2. Standartların landşaftı .............................................................. 19 
+2.1. Standartların təsviri ............................................................... 19 
+2.2. İnformasiyanın (metaməlumatların) sxemləri ........................ 20 
+2.2.1. Muzey standartları ..................................................... 21 
+2.2.2. Arxiv standartları ...................................................... 24 
+2.2.3. Kitabxana standartları .............................................. 26 
+2.2.4. Daşınmaz irsin təsviri standartları ............................ 30 
+2.2.5. Mədəni irs .................................................................. 31 
+2.2.6. Resursların axtarışı ................................................... 33 
+2.2.7. Sənədlərin kodlaşdırılması ........................................ 33 
+2.3. Multimedia formatları ............................................................ 34 
+2.3.1. Mətn ........................................................................... 34 
+2.3.2. Təsvir ......................................................................... 39 
+2.3.3. Audio .......................................................................... 42 
+2.3.4. Video .......................................................................... 46 
+2.3.5. Virtual reallıq ............................................................ 51 
+2.3.6. Vektor qrafikası ......................................................... 53 
+2.4. Başqa texniki standartlar ....................................................... 54 
+2.4.1. İnformasiyanın axtarışı və çıxarılması ...................... 54 
+2.4.2. İnformasiyanın ötürülməsi ......................................... 56 
+2.4.3. Simvolların kodlaşdırılması ....................................... 58 
+3. Nəticələr .................................................................................... 60  
+3.1. Mədəniyyət sahəsində metaməlumatların standartları .......... 60 
+3.2. Texniki standartlar ................................................................. 61 
+4. Standartların göstəricisi ............................................................ 62 
+L.Məmmədova.  Mədəni irsin rəqəmləşdirilməsi landşaftlarının  
+müxtəlifliyi və mədəniyyətin mobilliyi ........................................... 64 
+ 
+ 
+ 
+ 4
+ 
+ 
+ 
+ 
+ 
+ 
+AZƏRBAYCAN DILINDƏ NƏŞRƏ  
+ÖN SÖZ 
+ 
+MINERVA2 seriyasından olan layihələrin iştirakçılarının təşəbbüsü 
+ilə başlanmış ATHENA3 Avropa layihəsi 2008-2011-ci illərdə 
+eContentplus proqramı çərçivəsində reallaşdırılmışdır. 
+Layihənin əsas məqsədi Avropada mədəniyyətə aid informasiya 
+resurslarının ən böyük kataloqu olan EUROPEANA4 Avropa rəqəmsal 
+kitabxanasının kontentini genişləndirməkdən ibarətdir. ATHENA Avropa 
+muzeylərinin, kitabxanalarının və arxivlərinin informasiya resurslarını 
+toplayıb birləşdirir (aqreqasiya edir) və onları nəşr olunmaq üçün 
+EUROPEANA-ya təqdim edir. 2011-ci ilin əvvəlinə qədər 
+EUROPEANA mədəniyyət sahəsinə aid 14 milyon informasiya 
+resursunu açıq istifadə üçün əlyetərli etmişdir. EUROPEANA üçün 
+informasiya resurslarının ən böyük aqreqatoruna çevrilmiş ATHENA 
+layihəsi vasitəsilə 1.757.029 informasiya resursu EUROPEANA-ya daxil 
+olmuşdur. 
+Mədəni irsin mərkəzləşdirilmiş kataloqu olan EUROPEANA-da 
+informasiya obyektlərinin “surroqatları” saxlanılır və istifadəçiyə təqdim 
+edilir. Surroqatlar axtarış üçün zəruri olan əsas rəqəmsal informasiya 
+resurslarının metaməlumatlarından ibarətdir. Bu informasiya resursları 
+informasiyanın təchizatçısı tərəfindən hansı təbii dildə təqdim 
+edilmişdirsə, metaməlumatlar da həmin təbii dildə saxlanılır. 
+Metaməlumatlar incəsənət əsərinin kitabın və ya sənədin cildinin kiçik 
+təsvir (ikonası) və ya kiçik audio-videofraqmentlə, həmçinin informasiya 
+mənbəyinin saytındakı əsas resursa - rəsm əsərinin və ya fotoşəklin 
+böyük ölçülü və tam təsvirinə, kitabın tam mətninə, audio-fayla və ya 
+                                           
+2 www.minervaplus.ru 
+3 www.athenaeurope.org 
+4 www.europeana.eu 
+ 
+ 
+ 5
+rəqəmsal filmə istinadla müşayiət olunur. Əsas “tammətnli” resurslar informasiya 
+mənbələrinin – muzeylərin, kitabxanaların, arxivlərin saytlarında qalır; istifadəçi 
+surroqata baxacaq və müvafiq istinad üzrə əsas resursun saxlandığı sayta müraciət 
+edərək, kitabın tam mətnini, filmi, müvafiq sənədi, audioyazını, rəsm əsərinin və 
+ya fotoşəklin böyük ölçülü və tam təsvirini əldə etməyin lazım olub-olmaması 
+barədə qərar qəbul edəcəkdir. 
+Beləliklə, ATHENA layihəsi çərçivəsində kontentin təchizatçıları 
+olan çoxsaylı və müxtəlif mədəniyyət müəssisələrindən metaməlumat-
+ların (eləcə də təsvir-ikonaların və ya audio-videofraqmentlərin) toplan-
+ması mexanizmini işləyib hazırlamaq; toplanmış informasiyanı vahid 
+tələblərə uyğun şəklə gətirib salmaq; metaməlumatları EUROPEANA-
+nın mərkəzləşdirilmiş kataloqunun formatına transformasiya etmək və 
+alınmış materialın nəşr edilməsi və axtarış üçün EUROPEANA portalına 
+çatdırmaq tələb olunurdu. 
+Buna görə ATHENA layihəsinin birinci mərhələsində rəqəmsal 
+kontentin potensial təchizatçıları olan mədəniyyət müəssisələrinin hansı 
+standartlardan, formatlardan və protokollardan istifadə etdiyini anlamaq 
+lazım idi. ATHENA layihəsinin müəlliflərini kontentin təchizatçıları olan 
+mədəniyyət müəssisələri tərəfindən istifadə edilən metaməlumatların 
+standartları, multimedia məlumatlarının təqdim edilməsi formatları, 
+informasiyanın ötürülməsi protokolları maraqlandırırdı. Simvolların 
+kodlaşdırması standartları da böyük əhəmiyyət kəsb edirdi, çünki 
+ATHENA 20 dildə, o cümlədən, latın əlifbasından istifadə edilməyən 
+dillərdə metaməlumatları aqreqasiya etməli idi. 
+ATHENA layihəsində 21 ölkəni (Avropa Birliyinin üzvü olan 
+ölkələri, Rusiya və İsraili) təmsil edən 120-dən çox mədəniyyət 
+müəssisəsi (əsasən, muzeylər, həmçinin arxivlər və kitabxanalar) iştirak 
+edir. “Rəqəmləşdirmə: Avropa muzeyləri, arxivlər, kitabxanalar üçün 
+standartlar landşaftı” kitabçası məhz həmin mədəniyyət müəssisələrinin 
+iştirak etdiyi tədqiqat əsasında yaranmışdır. 
+Azərbaycan kitabxanaları ATHENA layihəsində iştirak etmədikləri 
+üçün5, UNIMARC6 formatının milli adaptasiyası olan RUSMARC7 
+                                           
+5 Rusiya Dövlət Kitabxanası və Rusiya Milli Kitabxanası öz informasiya resurslarını 
+EUROPEANA-ya “Avropa kitabxanası” layihəsi vasitəsilə çatdırırlar. Bax: 
+http://www.rsl.ru//ru/s6/s373/s3734405/s37344054406/ 
+6 http://archive.ifla.org/VI/3/p1996-1/sec-uni.htm (ingilis dilində) 
+7 http://www.rba.ru/rusmarc/ 
+ 
+ 
+ 6
+formatı (biblioqrafik məlumatların təqdim edilməsi üçün Rusiyada tətbiq 
+olunan kommunikativ format) “Standartlar Landşaftı”na daxil edilmə-
+mişdir. Bu kitabçada UNIMARC formatı da xatırlanmır, çünki tədqiqatda 
+iştirak etmiş Avropa ölkələrinin kitabxanalarında həmin formatdan 
+istifadə olunmur. 
+ATHENA layihəsinin həyata keçirilməsinin ikinci mərhələsində 
+informasiya resurslarının toplanması və metaməlumatların sxemlərinin 
+uyğunlaşdırılması üçün LIDO8 metaməlumatlar standartı işlənib 
+hazırlanmışdır. LİDO standartının “Standartlar Landşaftında” təsvir 
+edilməməsi sadəcə onunla izah edilməlidir ki, bu kitabça nəşr edilən vaxt 
+həmin standart hələ qəbul edilməmişdi. LIDO standartı 2010-cu ilin 
+noyabr ayında Beynəlxalq Muzeylər Komitəsinin (ICOM) Şanxayda 
+keçirilmiş konfransı çərçivəsində Muzey Sənədləşdirməsi üzrə 
+Beynəlxalq Komitənin (CIDOC) illik iclasında elan edilmiş və 
+bəyənilmişdir. 
+LIDO (Lightweight Information Describing Objects) – “CDWA 
+Lite” və “Museumdat” formatlarını yaradanların birgə təşəbbüsüdür. 
+LIDO həmin formatları birləşdirmək və CIDOC-CRM və SPECTRUM 
+ilə uyğunluğu təmin etmək cəhdidir. 
+LIDO ATHENA layihəsində özünü yaxşı göstərməklə həm muzey, 
+həm də kitabxana və arxiv informasiya resurslarını birləşdirməyə imkan 
+vermişdir. 
+RUSMARC və LIDO standartlarının təsvir edildiyi bölmələr 
+orijinal mətnin tərcüməsinə rusdilli nəşrin redaktoru tərəfindən əlavə 
+edilmişdir. 
+ “Rəqəmləşdirmə: Avropa muzeyləri, arxivlər və kitabxanalar üçün 
+standartlar landşaftı” kitabçası 2009-cu ildə ATHENA layihəsinin işçi 
+qrupu tərəfindən dərc edilmişdir. Azərbaycan dilində nəşr 2013-cü ildə 
+Azərbaycan Respublikasının Mədəniyyət və Turizm Nazirliyinin maliyyə 
+dəstəyi ilə hazırlanmış və Azərbaycan arxivlərinin, muzeylərinin və 
+kitabxanalarının mütəxəssislərinə ünvanlanmışdır. Biz harada bunu 
+etmək mümkün idisə hər yerdə tərcüməni müvafiq (kitabçada adları 
+çəkilən anlayışlara və terminlərə aydınlıq gətirilən, müvafiq standartların, 
+formatların və protokolların təsvir edildiyi) azərbaycandilli resurslara 
+istinadlarla tamamlamışıq. 
+                                           
+8 http://www.lido-schema.org (ingilis dilində) 
+ 
+ 
+ 7
+Biz ümid edirik ki, bu kitabça mədəniyyət müəssisələrində çalışan 
+və öz gündəlik işində informasiya və rabitə texnologiyalarından istifadə 
+edən mütəxəssislər üçün faydalı olacaq, müasir həyatda artıq zərurətə 
+çevrilmiş müxtəlif anlayışlar, standartlar, formatlar və protokollar 
+arasında düzgün istiqamətlənməkdə onlara kömək edəcəkdir. 
+ 
+                   
+  Lətifə Məmmədova, 
+Azərbaycan Respublikası mədəniyyət və turizm  
+nazirliyinin kitabxana sektorunun müdiri, 
+YUNESKO-nun “İnformasiya hamı üçün” proqramının  
+Azərbaycan komitəsinin sədri 
+                                              
+Mayıl Əhmədov, 
+“Prezident Kitabxanası”nın direktoru 
+ 
+ 
+ 8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ÖN SÖZ 
+ 
+ATHENA layihəsinin məqsədi – məlumatların hazırlanmasında və 
+onların nəşr olunmaq üçün Europeana resursuna ötürülməsiində 
+muzeylərə və başqa mədəniyyət müəssisələrinə kömək etməkdir. Ancaq, 
+məlumdur ki, muzeylər ən müxtəlif standartlardan istifadə edirlər. Buna 
+görə ATHENA layihəsinin tərəfdaşlarının istifadə etdikləri standartlar 
+haqqında məlumatları toplamaq çox vacib idi. ATHENA layihəsinin 3-cü 
+İşçi qrupu layihənin iştirakçıları tərəfindən istifadə olunan standartları 
+araşdırmış və həmin araşdırmanın nəticələri hesabat şəklində təqdim 
+edilmişdir.9 Standartların müzakirəsi gedişində biz bu qənaətə gəldik ki, 
+peşəkar cəmiyyət bu problemə böyük maraq göstərir. Ona görə də 
+standartların icmalını kitabça şəklində dərc etməyi qərara aldıq. Ümid 
+edirik ki, təqdim olunan informasiya mədəni irs müəssisələri arasında bir 
+növ körpü salmağa kömək edəcək və informasiya resursları arasında 
+qarşılıqlı uyğunluğu təmin edəcəkdir. 
+                                           
+9 http://www.nytimes.com/2011/03/15/business/media/15libraries.html?r=1 (ingilis 
+dilində, redaktorun qeydi) 
+ 
+ 
+ 9
+  
+ 
+ 
+ 
+ 
+ 
+1. Əsas müddəalar 
+ 
+1.1. Standart 
+ 
+Standartlaşdırma üzrə ən qədim təşkilat olan (1901-ci ildə 
+yaradılmış) Britaniya Standartlar İnstitutu (The British Standards 
+Institution - BSI) standart anlayışına aşağıdakı kimi tərif verir: “Ən sadə 
+izahat belədir: standart – nə isə etməyin razılaşdırılmış, təkrarlanan 
+üsuludur. Bu, texniki spesifikasiyanı və ya başqa dəqiq meyarları özündə 
+əks etdirən, qayda, rəhbər vəsait və ya tərif kimi sistematik olaraq 
+istifadə edilməsi məcburi olan dərc edilmiş sənəddir. Standartlar həyatı 
+asanlaşdırmağa, bizim istifadə etdiyimiz məmulatların etibarlılığını və 
+xidmətlərin effektivliyini artırmağa kömək edir. Standartlar işlənib 
+hazırlanarkən bütün əlaqədar tərəflərin, yəni istehsalçıların, satıcıların, 
+alıcıların, istifadəçilərin və nəzarət orqanlarının konkret material, məhsul, 
+proses və ya xidmətlə bağlı təcrübə və bilikləri birləşir”. Standartların 
+yuxarıda sadalanmış üstünlüklərinə uyğunluğun təmin olunmasını da 
+əlavə etmək olar. 
+ 
+1.1.1. Standartların tipləri 
+ 
+Standartların təsnifatının bir neçə üsulu mövcuddur. 
+Hüquq nöqteyi-nəzərindən standartların aşağıdakı tipləri fərqlə-
+nirlər: 
+•  Faktiki (De facto) standartlar 
+Bu standartlar standartlaşdırma orqanı tərəfindən formal prosedurun 
+köməyi ilə təsdiq edilməmişdir, amma onların aid olduğu fəaliyyət 
+sahəsində geniş istifadə olunur. İnformasiya texnologiyaları sənayesində 
+bu adi haldır, burada Microsoft firmasının hökmranlığı (bunun yaxşı və 
+ya pis olması başqa məsələdir) ona gətirib çıxarmışdır ki, onun bəzi 
+məhsulları (məsələn, Windows sistemi üçün Word proqramı) faktiki 
+ 
+ 
+ 10
+olaraq standarta çevrilmişdir. Belə standartlar, konkret məsələnin həlli 
+üçün, bəlkə də, ən yaxşı variant deyil, amma iqtisadi nöqteyi-nəzərdən 
+çox vaxt ən uğurlu variantdır. 
+ 
+•  Hüquqi (De jure) standartlar 
+Standartlaşdırma orqanı (məsələn, ISO) tərəfindən rəsmi qəbul 
+edilmiş standartlar. Onlar əlaqədar tərəflər qrupunun razılaşması əsasında 
+işlənib hazırlanmışdır, bu halda heç bir tərəf başqa tərəflərdən üstün 
+deyil. Lakin bu standartların işlənib hazırlanması və təsdiq edilməsi üçün 
+xeyli vaxt tələb olunur, buna görə bəzən onlar texnoloji yeniliklərdən geri 
+qalır. 
+Standartların istifadə ediləcəyi sahədən asılı olaraq, onları aşağıdakı 
+kimi təsnif etmək olar: 
+•  Xidməti (In-house) standartlar 
+Ayrıca bir təşkilatda müəyyən məqsədlər üçün işlənib hazırlanmış 
+və istifadə edilən standartlar. Məsələn, müəyyən ərazidəki coğrafi adlar. 
+Belə adlar daha böyük ərazi qurumlarının coğrafi adlarının tərkib hissəsi 
+olan milli coğrafi adlar nomenklaturunu genişləndirir. 
+•  Sektoral (Community) standartlar 
+İqtisadiyyatın eyni sektorunda işləyən bir neçə təşkilat tərəfindən 
+bu sektorda istifadə edilmək üçün işlənib hazırlanmış standartlar. 
+Məsələn, Birləşmiş Krallığının muzey sənədləşdirməsi standartı 
+SPECTRUM muzey sektorunun təcrübəli mütəxəssisləri tərəfindən 
+işlənib hazırlanmışdı. 
+•  Milli (National) standartlar 
+Bir ölkədə istifadə edilmək üçün işlənib hazırlanmış və milli 
+səviyyədə tanınmış standartlar. Bir ölkənin daxilində tanınmış 
+terminologiya belə standartların nümunəsidir. 
+•  Beynəlxalq (International) standartlar 
+Bütün dünyada tanınmış və istifadə edilən, demək olar ki, həmişə 
+beynəlxalq standartlaşdırma orqanı tərəfindən təsdiq edilmiş standartlar, 
+məsələn, ISO 8601 – tarix və vaxt üçün beynəlxalq standart. 
+Əvvəlcə hər hansı bir tipə aid olan bəzi standartlar sonrakı iş və 
+təsdiqlənmə prosesi nəticəsində başqa kateqoriyaya keçir. Məsələn, 
+CIDOC-un nümunəvi konseptual modeli (Conceptual Reference Model - 
+CRM) əvvəlcə beynəlxalq CIDOC komitəsinin sənədləşdirmə 
+standartları üzrə işçi qrupu tərəfindən sektor standartı kimi işlənib 
+ 
+ 
+ 11
+hazırlanmışdı, indi isə beynəlxalq standartlaşdırma komitə tərəfindən 
+təsdiq edilmişdir (ISO standartı 21127:2006). 
+Standartların açıq standartlar kimi məşhur olan digər tipini növbəti 
+bölmədə təfərrüatı ilə gözdən keçirəcəyik. 
+ 
+1.1.2. Açıq standartlar10 
+ 
+Kennet Kreçmer açıq standartların on əlamətini göstərir11: 
+1.  Açıq müzakirə – standartların işlənib hazırlanması prosesində 
+bütün əlaqədar tərəflər iştirak edə bilərlər. 
+2.  Konsensus – bütün təkliflər bərabər variantlar kimi müzakirə 
+edilir, heç bir fikrə üstünlük verilmədən, konsensus əldə edilir. 
+3. Uyğunlaşdırma prosesi – uyğunlaşdırma zamanı səsvermə və 
+apellyasiya proseslərindən istifadə olunur. 
+4. İntellektual mülkiyyət üzərində açıq hüquqlar – Hüquqlar 
+haqqında informasiyanı standarta aid olan intellektual mülkiyyət 
+hüquqlarının sahibləri təqdim edir. 
+5. Bütün dünya üçün vahid standart – eyni funksiya (məhsul) üçün 
+bütün dünyada eyni standart. 
+6. Açıq dəyişikliklər – bütün dəyişikliklər yuxarıda göstərilən beş 
+prinsipə uyğun olaraq təsvir edilir və razılaşdırılır. 
+7. Açıq sənədləşdirmə – tamamlanmış standarta aid sənədlərin 
+layihələri və sənədləşmə tətbiq və istifadə edilmək üçün əlyetərli 
+olmalıdır. 
+8. Açıq interfeys – standartın tətbiqinin dəstəklənməsi; interfeys 
+əlyetərlidir, standartın tətbiqi kənardan idarə olunmur; tətbiq zamanı 
+başqa proqram-aparat platformalarına keçid (onların istifadəsi) 
+dəstəklənir. 
+9. Açıq giriş – standartın tətbiqinin istifadəçilər tərəfindən test 
+yoxlanması və qiymətləndirilməsi üçün eyni mexanizmlərin mövcud 
+olması. 
+                                           
+10 Açıq standartlar haqqında rus dilində məlumat almaq üçün bax: 
+http://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82
+%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1
+%80%D1%82 (redaktorun qeydi) 
+11 Kenneth Krechmer, Open Standards Requirements, “The International Journal of IT 
+Standards and Standardization Research”, 4 (2006), No. 1. Bax: 
+http://www.csrstds.com/openstds.pdf  
+ 
+ 
+ 12
+10. Daimi dəstək – standart istehsalçı üçün maraqlı olduğu müddətdə 
+deyil, istifadəçilərin ona maraq göstərdiyi müddətdə dəstəklənir. 
+Bu tələblərin əksəriyyəti standartın işlənib hazırlamasına aiddir. Bu 
+proses şəffaf və demokratik olmalıdır. Açıq hesab edilir standartın 
+yuxarıda göstərilən bütün tələblərə uyğun olub-olmaması tam aydın 
+deyil, lakin çox güman ki, rəsmiləşdirilmiş milli və beynəlxalq 
+standartlar, heç olmasa qismən, bu tələblərin əksəriyyətinə cavab verirlər. 
+Standartın potensial istifadəçisi üçün intellektual mülkiyyət 
+üzərində açıq hüquqlar, açıq giriş və daimi dəstək - ən əhəmiyyətli 
+xarakteristikalardır. Buna görə standartların təsviri vaxtı biz hər dəfə 
+standartın bu üç meyara nəzərən “açıq” olub-olmadığını göstəririk. 
+ 
+1.2. Rəqəmləşdirmə 
+ 
+Rəqəmləşdirmə – orijinal (analoq) materialın rəqəmsal formaya 
+transformasiyası prosesidir. Qarşıya qoyulmuş hədəfdən asılı olaraq, 
+rəqəmləşdirmənin üç tipini fərqləndirirlər: 
+•  Reproduksiya – rəqəmsal formada ilkin materialın ən böyük 
+dəqiqliklə təkrar istehsalı məqsədi ilə rəqəmləşdirmə. Bu kateqoriya 
+təsvirlərin, səsin və videonun rəqəmləşdirilməsini əhatə edir; 
+• Axtarış – orijinal materialın axtarışı və çıxarılması məqsədi ilə 
+rəqəmləşdirmə. Bu kateqoriya müqavilələrin, məktubların və sair sənəd-
+lərin skanlanmasını və indeksləşdirməsini əhatə edir. Rəqəmləşdirmənin 
+hədəfi materialın dəqiq təkrar istehsalı deyil, onun axtarışı və istifadə 
+edilməsi imkanlarının artırılmasıdır. 
+• Miqrasiya – analoq (kağız üzərində) kataloqlaşdırma sistemində 
+olan informasiyadan kolleksiyaları avtomatlaşdırılmış idarəetmə 
+sistemində istifadə məqsədilə rəqəmləşdirmə. 
+Bu işdə biz, əsasən, reproduksiya məqsədi ilə rəqəmləşdirməyə aid 
+olan standartları nəzərdən keçirəcəyik. Lakin rəqəmləşdirmənin iki başqa 
+tipi ilə bağlı bəzi standartları da müzakirə edəcəyik. 
+ 
+1.3. Uyğunluq 
+ 
+Uyğunluq (Interoperability12) anlayışına “mədəniyyət 
+                                           
+12 Azərbaycan dilində çox vaxt ingiliscədən kalka kimi işlədilən “interoperabellik” 
+termini “informasiya sistemlərinin qarşılıqlı təsir qabiliyyəti” kimi təyin edilir. Bax: 
+http://wiki.services.openoffice.org/wiki/RU/kb/90000033 (rus dilində, redaktorun 
+qeydi) 
+ 
+ 
+ 13
+müəssisələrinin həm müəssisə daxilində, həm də ondan kənarda 
+informasiya mübadiləsi və informasiyadan təkrar istifadə etmək imkanını 
+maksimum dərəcədə təmin edən fəaliyyət prosedurları sistemləri”13 kimi 
+tərif verilə bilər. 
+Uyğunluq anlayışının bu tərifindən göründüyü kimi, uyğunluq 
+müəssisənin (təşkilatın) kollektiv biliklərindən istifadə etmək imkanını 
+maksimum dərəcədə artırmaq deməkdir. Bu işdə biz Avropa mədəniyyət 
+müəssisələrində informasiya texnologiyalarının köməyi ilə informasiya 
+resurslarını mübadilə etmək (və bu prosesdən mənfəət əldə etmək) 
+imkanlarını maksimum dərəcədə artırmağa çalışacağıq. 
+Pol Miller uyğunluğun 6 tipini fərqləndirir14: 
+• Texniki uyğunluq – ümumi texniki standartlardan (məsələn, 
+faylların formatları, metaməlumatların sxemləri və s.) istifadə yolu ilə 
+təmin olunur. 
+• Semantik uyğunluq – ümumi terminoloji lüğətlərdən (məsələn, 
+tezauruslardan) istifadə yolu ilə təmin olunur. 
+• Siyasi/humanitar uyğunluq – istifadəçilərin və informasiya 
+provayderlərinin mədəniyyət sahəsində fəaliyyət təcrübəsinin və 
+fəaliyyət metodlarının müxtəlif olması ilə bağlı maneələrin aradan 
+qaldırılması yolu ilə təmin olunur. 
+•  Sektorlararası uyğunluq – müxtəlif peşəkar cəmiyyətlərin 
+(məsələn, muzeylərin, arxivlərin və kitabxanaların) birgə fəaliyyəti 
+nəticəsində təmin olunur. 
+•  Hüquqi uyğunluq – informasiya provayderlərinə münasibətdə 
+tətbiq olunan hüquqi məhdudiyyətlərə (məsələn, informasiya azadlığı və 
+məlumatların müdafiəsi üzrə qanunvericilik) riayət edilməsi yolu ilə 
+təmin olunur. 
+•  Beynəlxalq uyğunluq – mədəniyyət və dil fərqlərindən irəli 
+gələn maneələrin tanınması və aradan qaldırılması yolu ilə təmin olunur. 
+Bu işdə biz, əsasən, texniki və semantik uyğunluq məsələlərinə 
+toxunuruq. Uyğunluğun başqa tipləri başqa layihələrin mövzusu ola bilər. 
+ 
+                                           
+13 Helen Ashby – Gordon McKenna – Matthew Stiff. SPECTRUM. Knowledge. 
+London: MDA, 2001, p. 63. 
+14 Paul Miller, Interoperability: What is it and Why should I want it?, “Ariadne”, 2000, 
+No. 4. 
+Bax: http://www.ariadne.ac.uk/issue24/interoperability/  
+ 
+ 
+ 14
+1.4. Metaməlumatlar 
+ 
+“Metaməlumatlar” terminindən o qədər tez-tez istifadə olunmağa 
+başlanmışdır ki, onun üzərində daha ətraflı dayanmağa dəyər15. 
+ 
+1.4.1.  Definisiyanın çətinlikləri 
+ 
+“Metaməlumatlar” termini “metafizika” və “meta-dil” terminləri ilə 
+eyni model üzrə qurulmuşdur, bu halda “meta” ön şəkilçisi aşağıdakıları 
+bildirir: 
+“fənnin (akademik fənlərdən söhbət gedir) konsepsiyalarına və 
+ideyalarına aidlik”16. 
+“məlumatlar” elementi bu termindən istifadəni rəqəmsal 
+“obyektlərlə” məhdudlaşdırmaq tendensiyasını göstərir. Məsələn, 
+“Məlumatlar haqqında məlumatlar”17 tərifi tez-tez sitat gətirilir. 
+Bu tərifdə nəzərdə tutulur ki, metaməlumatlar yalnız İnternetdə və 
+ya kompüterdə olan mətnlərə və multimedialara aiddir. 
+Son illərdə informasiya üzrə mütəxəssislər arasında yeni söz kimi 
+dəbdə olan “metaməlumatlar” termini müəyyən hallarda anlaşılmazlığa 
+və (və ya) dolaşıqlığa səbəb olur. Məsələn, Toni Qill yazır: “… 
+“metaməlumatlar” termini tez-tez elə kontekstlərdə (məsələn, insanların, 
+obyektlərin və ya hadisələrin təsviri) istifadə olunur ki, cəmi bir neçə il 
+əvvəl bu məqsədlə “məlumatlar” terminindən istifadə edilməsi tamamilə 
+kifayət idi”18. 
+Daha ümumi kontekstdə metaməlumatlar mədəni irs sektorunda 
+geniş istifadə edilən “verilənlər” - kolleksiyaların idarə edilməsinə aid 
+məlumatlara, kataloq yazılarına və sərgilərdə nümayiş etdirilən etiketlərə 
+aid ola bilər. Faktiki olaraq, istənilən “verilənlər” “metaməlumatlar” 
+                                           
+15 Metaməlumatlar haqqında rus dilində məlumat almaq üçün bax: 
+http://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B4%D0%B
+0%D0%BD%D0%BD%D1%8B%D0%B5; 
+http://www.elbib.ru/index.phtml?page=elbib/rus/methodology/md_rev; 
+http://www.metadata.ru/content/view/46/63/ (redaktorun qeydi) 
+16 Collins Concise Dictionary, Third Edition, 1995, p. 835. 
+17 Bax: http://www.webopedia.com/TERM/m/metadata.html 
+18 Gill, Tony. ‘Metadata and the Web’, in Baca, M. (ed.) Introduction to Metadata: 
+Pathways to Digital Information. 3rd rev. Getty Information Institute. 2008. 
+Bax: http://www.getty.edu/research/conducting_research/standards/intrometadata/metadata.html  
+ 
+ 
+ 15
+hesab edilə bilər. 
+Belə bir sual yaranır: ümumiyyətlə, “metaməlumatlar” terminindən 
+istifadə etmək lazımdırmı? Metaməlumatların bəzi əsas aspektlərinin 
+icmalı bu suala cavab tapmağa kömək edə bilər. 
+ 
+1.4.2.  Metaməlumatların xarakteristikaları 
+ 
+Metaməlumatlarla bağlı əsas məsələ - resurs məsələsidir. Resurs - 
+metaməlumatlar vasitəsilə təsvir edilən mahiyyətdir. Resursu kompüterdə 
+və ya İnternetdə əlyetərli mətnlərlə və multimedia “obyektləri” ilə 
+məhdudlaşdırmaq düzgün deyildir. Resurs dedikdə, müəyyən üsulla təsvir 
+etmək istədiyimiz və əlyetərli olmasına çalışdığımız istənilən mahiyyət 
+nəzərdə tutulur. 
+Resursların aşağıdakı növləri ola bilər19: 
+• Mətnlər (elektron formatda və ya kağız üzərində) 
+• Fiziki obyektlər 
+• Multimedia (təsvir, səs, video və s.) 
+• Proqram təminatı 
+• İnsanlar 
+• Təşkilatlar 
+• Ərazilər 
+• Hadisələr 
+• İdeyalar 
+• Yuxarıda göstərilənlərin hamısının məcmusu 
+ 
+Bəzi resurslar başqa resursların surroqatlarıdır. Surroqat dedikdə, 
+bir resursun hər hansı başqa bir formada təsvir edilməsi başa 
+düşülməlidir. Məsələn, incəsənət əsərinin rəqəmsal təsviri və ya 
+fotoşəkli, yaxud müəyyən ərazinin virtual reallıq şəklində təqdim 
+edilməsi və ya müəyyən obyektin faksimilesi surroqatdır. 
+Metaməlumatların yaradılması mərhələsində resursla onun 
+surroqatını bir-birindən ayırmaq vacibdir. Surroqatın 
+metaməlumatlarında ilkin resurs təsvir edilməməlidir. Məsələn, bədii 
+                                           
+19 Metaməlumatlar həm də yuxarıda göstərilən mənada “resurs” ola bilərlər, yəni 
+metaməlumatlar həm də başqa metaməlumatlar vasitəsi ilə təsvir edilə bilərlər. Bax: 
+http://traditio.ru/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0
+%BD%D0%BD%D1%8B%D0%B5 (redaktorun qeydi) 
+ 
+ 
+ 16
+əsərin fotoşəklinə münasibətdə müəllif hüquqları qorunduğu halda həmin 
+əsərin orijinalı müəllif hüququnun təsir dairəsindən kənarda qala bilər. 
+Resurslar arasında müxtəlif münasibətlər, məsələn, onların 
+yaradılması, elan olunması (o cümlədən, nəşr edilmə yolu ilə) və 
+istifadəsi ilə bağlı ola bilər. Bu bağlılıq yalnız orijinal və surroqat 
+arasında münasibətlərlə məhdudlaşmır. 
+Metaməlumatların müxtəlif təsnifatları məlumdur. Məsələn20: 
+• İnzibati metaməlumatlar – resursların idarə edilməsi və 
+inzibatçılıq (məsələn, metaməlumatların əldə edilməsi, onlara aid 
+hüquqlar, onların saxlanma yeri). 
+• Təsviri metaməlumatlar – resursların təsviri və ya 
+eyniləşdirməsi (məsələn, kataloq yazıları). 
+• Saxlanılmaq üçün metaməlumatlar21 – məlumatların 
+saxlanması (vəziyyəti, miqrasiyası) proseslərinin idarə edilməsi. 
+• Texniki metaməlumatlar – sistemin və ya metaməlumatların 
+necə işləməsi haqda məlumatlar (məsələn, formatlar, parollar, su 
+nişanları). 
+•  İstifadəyə aid olan metaməlumatlar – resurslardan istifadə 
+edilməsinin səviyyəsi və tipi (istifadəçi və ona aid olan informasiya). 
+Müxtəlif resurslar və onlarla assosiasiya edilən metaməlumatlar 
+arasında münasibətləri diaqram şəklində təsvir etmək olar: 
+                                           
+20 Anne J. Gilliland-Swetland, Setting the stage, in: Baca, M. (ed.), Introduction to 
+Metadata: Pathways to Digital Information, 3rd rev. Getty Information Institute. 2008. 
+Bax: 
+http://www.getty.edu/research/conducting_research/standards/intrometadata/setting.html  
+21 http://www.minervaplus.ru/publish/Gureev.doc (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 17
+ 
+Rəqəmsal hüquqların 
+idarə edilməsi üçün 
+metaməlumatlar 
+hüquqların idarə edilməsi 
+üçün metaməlumatlar 
+məlumatların 
+saxlanması üçün 
+metaməlumatlar 
+Hüquqların idarə 
+edilməsi 
+Hüquqların idarə edilməsi 
+Məlumatların 
+saxlanmasının 
+idarə edilməsi 
+Rəqəmsal surroqat  
+(məsələn, JPEG 
+faylı) 
+R
+əq
+əm
+lə
+şd
+irm
+ə 
+Resurs 
+(məsələn, 
+incəsənət 
+əsəri) Ə
+la
+qə
+lə
+r  
+ya
+ra
+dı
+lm
+as
+ı 
+Əlaqəli resurs 
+(məsələn, 
+müəllif) 
+Kataloqlaşdırma Kataloqlaşdırma Kataloqlaşdırma 
+Texniki 
+metaməlumatlar 
+Təsviri 
+metaməlumatlar 
+Təsviri metaməlumatlar 
+ 
+Metaməlumatların digər tipi resursların axtarışına aiddir. Belə 
+metaməlumatlar resursun potensial istifadəçisinə informasiyanı tapmaqda 
+kömək edir, onun müəyyən resursdan istifadə etmək imkanı qazanmaq 
+istəyib-istəmədiyi barədə qərar qəbul etmək imkanı verir. Bu proses 
+axtarış maşınına hansısa bir sözün və ya frazanın daxil edilməsinə, 
+İnternetdə tapılmış nəticələrə baxılmasına və istinad üzrə keçidə 
+analojidir. Metaməlumatların hədəfi – axtarışın nəticələrinin daha dəqiq 
+və istifadəçinin sorğusuna müvafiq olmasını təmin etməkdir. 
+Resursların axtarışı üçün ən məşhur metaməlumatlar Dublin 
+nüvəsidir22. Dublin nüvəsinin metaməlumatlarına resurs haqqında 
+informasiya və resursun, ona müraciət üçün istifadə olunan identifikatoru 
+daxildir. Resursa müraciət birbaşa və dolayı ola bilər. İdentifikator 
+İnternetdə ünvan (URL) olduqda resursa birbaşa müraciətdən, əks halda, 
+yəni, məsələn, ISBN kimi identifikatordan istifadə edildikdə isə resursa 
+dolayı müraciətdən söhbər gedir23. 
+                                           
+22 Dublin nüvəsi haqqında rus dilində məlumat almaq üçün bax: 
+http://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%BB%D0%B8%D0%B
+D%D1%81%D0%BA%D0%BE%D0%B5_%D1%8F%D0%B4%D1%80%D0%BE  
+23 ISBN – kitabın unikal beynəlxalq sıra nömrəsi (International Serial Book Number). 
+ISBN 13 rəqəmdən ibarətdir və nəşri birmənalı şəkildə təyin edir (redaktorun qeydi) 
+ 
+ 
+ 18
+Nəhayət, metaməlumatları onların sxemlərini yaradaraq 
+qruplaşdırmaq tendensiyası mövcuddur. Sxem – ayrı-ayrı 
+metaməlumatlar (elementlər) dəstinin və bu elementlərin necə 
+strukturlaşdırılmasının təsviridir. Metaməlumatların sxemləri açıq 
+hazırlandıqda onlar təşkilatlar tərəfindən tətbiq edilmək üçün yoxlanılır 
+və hökumətlər tərəfindən qəbul edilir. Metaməlumatların belə sxemlərinə 
+etinasız yanaşmaq olmaz. 
+ 
+ 
+1.4.3. “Daha adekvat” definisiya? 
+ 
+“Metaməlumatlar” - yuxarıda göstərilən sadə tərifdə nəzərdə 
+tutulanla müqayisədə qat-qat əhəmiyyətli anlayışdır. Bizim fikrimizcə, 
+aşağıda təklif edilən tərif həmin anlayışı daha tam əhatə edir: 
+“Metaməlumatlar - istənilən tipli resurs haqqında həmin resursun 
+eyniləşdirilməsi, onun təsvir olunması, resursun idarə edilməsi və ondan 
+istifadə olunması üçün nəzərdə tutulan strukturlaşdırılmış informa-
+siyadır”. 
+ 
+ 
+ 
+ 19
+ 
+ 
+ 
+ 
+ 
+ 
+2. Standartların landşaftı 
+ 
+2.1. Standartların təsviri 
+ 
+Biz standartlardan istifadə ideyasını tamamilə dəstəkləyirik və hər 
+bir standartı bunun üçün uyğunlaşdırılmış Dublin nüvəsinin 
+metaməlumatlarının standartının köməyi ilə təsvir edirik. Bizim 
+təsvirlərimizdə Dublin nüvəsinin 15 elementindən 9-u istifadə olunur. 
+ 
+Həmin elementlər aşağıdakılardır: 
+ 
+Ad 
+Standartın hansı adla məşhur olduğunu göstərir. Standartın adı 
+əksər hallarda həm tam, həm də qısaldılmış şəkildə göstərilir. 
+ 
+Müəllif 
+Standartı yaratmış təşkilatın və ya şəxsin soyadı və adı. 
+ 
+Naşir 
+Standartı əlyetərli etmiş təşkilatın adı. 
+ 
+Nəşr tarixi 
+Standartın ilk dəfə dərc edildiyi tarix. 
+ 
+İdentifikator 
+Standart dərc edilərkən ona verilmiş nömrə və ya başqa 
+identifikator, yaxud standartın təsvirini tapmağa imkan verən İnternet-
+ünvan (URL). 
+ 
+ 
+ 
+ 20
+Hüquqlar 
+Bu standarta aid olan hüquqi məhdudiyyətlər, məsələn, patentlər. 
+ 
+Təsvir 
+Standartın mahiyyətini və onun istifadəsini aydınlaşdıran mətn 
+təsviri. 
+ 
+Məzmun24 
+Standartın mahiyyətini təsvir edən açar sözlər. 
+Əlaqələr 
+Bu standartla bağlı olan başqa standartlar və onunla əlaqəli veb-
+saytlar. 
+ 
+Standartların təsviri adi oxucu üçün nəzərdə tutulmuşdur. Texniki 
+detalları İnternetdə tapmaq olar. Bu kitabçanın hədəfi – oxucuların 
+müxtəlif standartlar haqqında bütün informasiyanı bir yerdə almaq 
+imkanını verməkdir. 
+ 
+ 
+2.2. İnformasiyanın (metaməlumatların) sxemləri 
+ 
+Aşağıda sadalanan standartların əksəriyyəti metaməlumatlar 
+vasitəsi ilə təsvir edilir. Onlar kitablar, arxiv sənədləri, muzey 
+predmetləri, insanlar, ərazilər və təşkilatlar kimi resurslar haqqında 
+informasiyanın təsvirinə yönəldilmişdir. 
+SPECTRUM həm təsviri standart, həm də prosedur standartıdır. 
+Standartların bu tipi mədəniyyət sferasının müəyyən sektoru idarə etmək 
+üçün lazım olan fəaliyyət növlərini və müvafiq informasiyaya tələbləri 
+müəyyən edir (inzibati metaməlumatlar). 
+Standartlarda onların texniki baxımdan necə tətbiq edilməsi 
+haqqında izahların olması zəruri deyil. Onları çox vaxt müəyyən sahədə 
+müsbət təcrübə nümunələri hesab etmək olar. 
+Standartların təsviri onların mədəni irs sahəsində fəaliyyətin hansı 
+fəaliyyət sahəsinə aid olmasına uyğun surətdə strukturlaşdırılmışdır: 
+• muzey standartları; 
+                                           
+24 ingiliscə Subject 
+ 
+ 
+ 21
+• arxiv standartları; 
+• kitabxana standartları; 
+• daşınmaz irsin təsvirinin standartları; 
+• mədəni irsin təsvirinin standartları, 
+ 
+həmçinin məqsədli istiqamətə uyğun olaraq: 
+• resursların axtarışı; 
+• sənədlərin kodlaşdırılması. 
+ 
+EAD və TEI sənədlərin kodlaşdırılması üçün onlara nişan 
+vurulması standartıdır. Əvvəlcə onlar SGML mətnin kodlaşdırılması 
+standartına əsaslanırdı, son zamanlar XML-dən istifadə üçün 
+yenilənmişlər (bu standartların hər ikisi aşağıda təsvir edilmişdir). 
+ 
+ 2.2.1. Muzey standartları 
+ 
+CDWA 
+ 
+Adı: CDWA • Categories for the of Works of Art (İncəsənət 
+əsərləri üçün kateqoriyalar)25  
+Müəllif: Art Information Task Force 
+Naşir: Getty Research Institute 
+Nəşr tarixi: 1990-cı il 
+İdentifikator: 
+http://www.getty.edu/research/institute/standards/cdwa/index.html  
+Hüquqlar: Getty Research Institute. 
+Təsvir: Bu standart təsviri incəsənət üzrə məlumat bazalarının 
+informasiya resurslarını təsvir edir, təsviri incəsənət əsərlərindən istifadə 
+məsələlərinə konseptual yanaşma, müxtəlif sistemlərdə olan 
+informasiyanı birləşdirməyə və onun daha əlyetərli olmasına kömək edən 
+terminologiya təklif edir. Mövcud informasiya sistemlərinin qarşılıqlı 
+təsiri və yeni sistemlərin yaradılması üçün əsas ola bilər. 
+Məzmunu: Muzey sənədləşdirməsi 
+                                           
+25 http://www.metadata.ru/content/view/46/63/ (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 22
+Əlaqələr: 
+http://www.getty.edu/research/conducting_research/standards/cdwa/cdwa
+lite.html (CDWA Lite) 
+ 
+MUSEUMDAT 
+ 
+Adı: Museumdat26 
+Müəllif: Fachgruppe Dokumentation im Deutschen Museumsbund 
+Institut fur Museumsforschung SMB-PK 
+Zuse-Institut Berlin 
+Naşir: Fachgruppe Dokumentation im Deutschen Museumsbund / 
+Institut fur Museumsforschung SMB-PK / Zuse-Institut Berlin 
+Nəşr tarixi: 2006-2007-ci illər 
+İdentifikator:  
+http://museum.zib.de/museumdat/museumdat-v1.0.xsd 
+Hüquqlar: Kopirayt  FG Dokumentation im Deutschen 
+Museumsbund / Institut fur Museumsforschung SMB-PK /Zuse-Institut 
+Berlin 
+Təsvir: Muzey portallarında məlumatların axtarışı və nəşrı üçün 
+optimallaşdırılmış aqreqasiya formatı (XML sxem). Əsas məlumatların 
+avtomatik toplanması üçün nəzərdə tutulmuşdur. 
+Məzmunu: Mədəniyyət obyektlərinin təsviri 
+Əlaqələr:  
+http://museum.zib.de/museumdat/museumdat-v1.0-en.pdf 
+(sənədləşdirmə); 
+http://www.museumdat.org/index.php?ln=en  
+  
+OBJECT ID 
+ 
+Adı: Object ID27 
+                                           
+26 CDWA, CDWA lite və Museumdat standartları haqqında rus dilində məlumat almaq 
+üçün bax: http://www.ifla.org/files/hq/papers/ifla75/107-coburnru.pdf (redaktorun 
+qeydi) 
+27 http://www.metadata.ru/content/view/48/60/ (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 23
+Müəllif: Thornes, Robin (və başqaları) 
+Naşir: J. Paul Getty Trust 
+Nəşr tarixi: 1999-cu il 
+İdentifikator: http://archives.icom.museum/object-id/  
+Hüquqlar: Kopirayt The J. Paul Getty Trust. Bütün hüquqlar 
+qorunur. 
+Təsvir: Mədəniyyət obyektlərinin təsviri üçün standart. Muzey 
+cəmiyyətinin, hüquq-mühafizə və gömrük orqanlarının, kommersiya 
+strukturlarının, sığorta agentliklərinin, habelə incəsənət əsərlərinə və 
+qədim əşyalara qiymət qoyan qurumların əməkdaşlığı nəticəsində işlənib 
+hazırlanmışdır. 
+Məzmunu: Mədəniyyət obyektlərinin təsviri 
+Əlaqələr:  
+http://archives.icom.museum/object-id/checklist.html (təlimat) 
+ 
+SPECTRUM 
+ 
+Adı: SPECTRUM: The UK Museum Documentation Standard, 
+3rd Edition (Version 3.1) (Birləşmiş Krallığın muzey sənədləşdir-
+məsinin Standartı, 3.1 versiyası)28 
+Müəllif: McKenna, Gordon (redaksiya.), Patsatzi, Efthymia (red.) 
+Naşir: Collections Trust [MDA] 
+Nəşr tarixi: 2007-ci il 
+İdentifikator: 1 900642 14 X (ISBN) 
+Hüquqlar: Kopirayt Collections Trust. Bütün hüquqlar qorunur. 
+[Açıq standart] 
+Təsvir: Muzey sənədlərinin və kolleksiyaların idarə edilməsi üçün 
+standart. Muzeylər üçün səciyyəvi olan 21 prosedura və bu prosedu-
+raların hər birinin reallaşdırılması üçün zəruri olan “informasiya vahidi” 
+anlayışına əsaslanır. Bu standartın Flandriya və Niderland üçün holland 
+dilində versiyası mövcuddur. 
+                                           
+28 SPECTRUM layihəsinin əvvəlki redaksiyaları, proseduralar və informasiya vahidləri 
+haqqında rus dilində məlumat almaq üçün bax: http://www.cpic.ru/Publicat/26-00.htm 
+(redaktorun qeydi) 
+ 
+ 
+ 24
+Məzmunu: Muzey sənədləri. 
+Əlaqələr: http://www.collectionstrust.org.uk/spectrum (Birləşmiş 
+Krallıq üçün versiya) 
+http://www.collectionstrust.org.uk/spectrum-nl (Niderland üçün 
+versiya) 
+http://www.collectionstrust.org.uk/spectrum-nl-be (Flandriya üçün 
+versiya) 
+ 
+2.2.2. Arxiv standartları  
+ 
+EAD 
+ 
+Adı: EAD • Encoded Archival Description29 
+(Kodlaşdırılmış arxiv təsviri) 
+Müəllif: Encoded Archival Description Working Group of the 
+Society of American Archivists Network Development and MARC 
+Standards Office of the Library of Congress 
+(Amerika arxiv işçiləri cəmiyyətinin işçi qrupu və ABŞ Konqresi 
+Kitabxanasının MARC standartlar qrupu) 
+Naşir: Society of American Archivists 
+Nəşr tarixi: 2002-ci il 
+İdentifikator: http://www.loc.gov/ead/ead.xsd (W3C sxem) 
+Hüquqlar: Kopirayt Society of American Archivists. [Açıq 
+standart] 
+Təsvir: Arxiv siyahılarının kodlaşdırılması üçün sxem. 
+Kolleksiyaların təsvir edilməsi üçün də istifadə olunur 
+Məzmunu: arxiv kolleksiyalarının təsviri və sənədlərin 
+kodlaşdırılması 
+Əlaqələr: http://www.loc.gov/ead (EAD vebsaytı) 
+ 
+ISAD (G) 
+ 
+Adı: ISAD (G): General International Standard Archival 
+Description, Second Edition30 
+                                           
+29 http://www.metadata.ru/content/view/41/60/ (rus dilində, redaktorun qeydi) 
+30 http://www.metadata.ru/content/view/42/60/ (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 25
+(arxiv təsvirinin ümumi beynəlxalq standartı, ikinci nəşr) 
+Müəllif: Committee on Descriptive Standards (ICA/CDS) 
+(standartı qəbul etmiş təşkilat) 
+Naşir: International Congress on Archives (ICA) (Beynəlxalq 
+Arxivlər Konqresi) 
+Nəşr tarixi: 2000-ci il 
+İdentifikator: 0-9696035-5-x (ISBN) 
+http://www.icacds.org.uk/eng/ISAD(G).pdf  
+Hüquqlar: Kopirayt International Congress on Archives 
+Təsvir: Arxivlərin təsvirinin ümumi qaydaları. Arxiv materialının 
+formasından və ya daşıyıcısından asılı olmayaraq tətbiq edilə biləcək bu 
+qaydalar arxivlərdəki saxlama vahidlərinin təsvir olunması üçün 
+kombinasiya edilə biləcək 26 elementdən ibarətdir. 
+Məzmunu: arxiv təsviri 
+Əlaqələr: http://www.ica.org (vebsayt) 
+ 
+ISAAR (CPF) 
+ 
+Adı: ISAAR (CPF) • ISAAR (CPF): International standard 
+archival authority record for corporate bodies, persons and families, 
+Second Edition31 (Təşkilatlar, şəxslər və ailələr haqqında mötəbər 
+mənbə hesab edilən yazıların beynəlxalq standartı, ikinci nəşr) 
+Müəllif: ICA Committee on Descriptive Standard (istehsalçı) 
+Naşir: International Congress on Archives (ICA) 
+Nəşr tarixi: 2004-cü il 
+İdentifikator: 2-9521932-2-3 (ISBN) 
+http://www.icacds.org.uk/eng/ISAAR(CPF)2ed.pdf  
+Hüquqlar: International Congress on Archives 
+Təsvir: arxiv sənədlərinin təsvirində “Müəllif” sahəsində göstərilə 
+biləcək təşkilatların, şəxslərin və ailələrin təsviri üçün mötəbər mənbə 
+hesab edilən arxiv yazıları yaradılmasının ümumi qaydaları. 
+Məzmunu: arxiv təsviri 
+Əlaqələr: http://www.ica.org (ica vebsaytı) 
+ 
+                                           
+31 http://www.archives.gov.ua/Problems/eurasica-2006-1_2.php (rus dilində, redakto-
+run qeydi) 
+ 
+ 
+ 26
+2.2.3. Kitabxana standartları 
+ 
+FRBR 
+ 
+Adı: FRBR • Functional Requirements for Bibliographic 
+Records32 (biblioqrafik yazılara funksional tələblər) 
+Müəllif: IFLA Study Group on the Functional Requirements for 
+Bibliographic 
+Records International 
+(IFLA-nın biblioqrafik qeydlərin funksional xarakteristikaları üzrə 
+tədqiqat qrupu) 
+Naşir: International Federation of Library Associations and 
+Institutions (IFLA) 
+(Beynəlxalq Kitabxana Assosiasiyaları və Müəssisələri 
+Federasiyası) 
+Nəşr tarixi: 1998-ci il 
+İdentifikator: ISBN 3-598-11382-x 
+Hüquqlar: Kopirayt International Federation of Library 
+Associations and Institutions 
+Təsvir: istifadəçiyə yönəldilmiş konseptual model. Onlayn 
+kitabxana kataloqlarına və biblioqrafik məlumat bazalarına müraciət və 
+axtarış üçün istifadə olunur.  
+Məzmunu: biblioqrafik təsvir 
+Əlaqələr: http://www.ifla.org/VII/s13/frbr/frbr.pdf (son hesabat) 
+ 
+MAB2 
+ 
+Adı: MAB2 • Maschinelles Austauschformat fur Bibliotheken 
+(kitabxanalararası mübadilə üçün avtomatlaşdırılmış format) 
+Müəllif: DeutscheNationalbibliothek (Almaniya Milli Kitabxanası) 
+Naşir: Deutsche Nationalbibliothek 
+Nəşr tarixi: 2001-ci il 
+İdentifikator:  
+http://www.d-nb.de/standardisierung/txt/titelmab.txt  
+[biblioqrafik məlumatlar (MAB-TITEL)] 
+ 
+                                           
+32 http://www.gpntb.ru/win/ntb/ntb99/11/f11_02.html (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 27
+Hüquqlar: Deutsche Nationalbibliothek 
+Təsvir: kitabxanalarda yaradılan hər hansı məlumatların 
+(biblioqrafiya, mötəbər mənbə hesab edilən fayllar və yerli məlumatlar) 
+maşınla oxunan mübadiləsi üçün alman formatı. 
+Məzmunu: biblioqrafik təsvir 
+Əlaqələr: 
+ http://www.d-nb.de/eng/standardisierung/formate/mab.htm 
+(Almaniya Milli kitabxanasının MAB veb səhifəsi, ingilis dilində) 
+ 
+MARC 
+ 
+Adı: MARC •MAchine-Readable Cataloguing MARC21 
+Concise Format for Bibliographic Data33 (biblioqrafik məlumatlar 
+üçün maşınla oxunan MARC 21 kataloqlaşdırma formatı) 
+Müəllif: Network Development and MARC Standards Office of the 
+Library of Congress 
+(ABŞ Konqresi Kitabxanasının Şəbəkə inkişafı və standartlar ofisi 
+MARC) 
+Naşir: Library of Congress 
+Nəşr tarixi: 2002-ci il (yenilənmə) 
+İdentifikator: 
+http://www.loc.gov/marc/bibliographic/ecbdhome.html  
+Hüquqlar: [Açıq standart] 
+Təsvir: biblioqrafik informasiyanın maşınla oxunan formada təsvir 
+edilməsi və ötürülməsi üçün standart 
+Məzmunu: biblioqrafik təsvirlər 
+Əlaqələr:  
+http://www.loc.gov/marc/authority/ecadhome.html (mötəbər mənbə 
+hesab edilən fayllar) 
+http://www.loc.gov/marc/holdings/echdhome.html  
+(fond məlumatları) 
+http://www.loc.gov/marc/classification/eccdhome.html  
+(təsnifat məlumatları) 
+http://www.loc.gov/marc/community/eccihome.html  
+(cəmiyyət haqqında məlumatlar) 
+ 
+                                           
+33 http://marc21.rsl.ru/index.php?f=227 и http://www.metadata.ru/content/view/45/61/ 
+(rus dilində, redaktorun qeydi) 
+ 
+ 
+ 28
+ISO 2709 
+ 
+Adı: ISO • Information and documentation • Format for 
+Information Exchange34 
+(İnformasiya və sənədləşmə. Məlumat mübadiləsi formatı) 
+Müəllif: International Organization for Standardization (ISO) 
+(Beynəlxalq Standartlaşdırma Təşkilatı) 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1996-cı il 
+İdentifikator: ISO 2709:1996 
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=7675  
+Hüquqlar: [Açıq standart] 
+Təsvir: biblioqrafik təsvirlərin mübadilə formatına tələbləri 
+müəyyən edir. Məlumatların işlənməsi sistemlərinin arasında 
+kommunikasiyaların strukturunu təsvir edir. 
+Məzmunu: biblioqrafik təsvir 
+Əlaqələr: MARC 
+ 
+METS 
+ 
+Adı: METS • Metadata Encoding and Transmission Standard35 
+(metaməlumatların kodlaşdırılması və ötürülməsi standartı) 
+Müəllif: McDonough, Jerome (et al) 
+Naşir: Digital Library Federation (Rəqəmsal Kitabxanalar 
+Federasiyası) 
+Nəşr tarixi: 2007-ci il (Version 1.7) 
+İdentifikator: http://www.loc.gov/standards/mets/mets.xsd  
+Hüquqlar: Kopirayt Digital Library Federation 
+Təsvir: XML sxem – rəqəmsal kitabxanada saxlanılan obyektlər 
+haqqında təsviri, inzibati və struktur metaməlumatların kodlaşdırılması 
+üçün standart. 
+Məzmunu: rəqəmsal kitabxana 
+Əlaqələr:  
+http://www.loc.gov/standards/mets/mets-schemadocs.html (METS 
+vebsaytı) 
+                                           
+34 http://www.gpntb.ru/win/inter-events/crimea2005/disk/186.pdf (rus dilində, redakto-
+run qeydi) 
+35 http://www.metadata.ru/content/view/21/33/ (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 29
+MODS 
+ 
+Adı: MODS • Metadata Object Description Schema36 
+(obyektin təsvir edilməsi üçün metaməlumatların sxemi) 
+Müəllif: Library of Congress Network Development MARC 
+Standards Office 
+(ABŞ Konqresi Kitabxanasının Şəbəkə inkişafı və standartlar ofisi 
+MARC) 
+Naşir: Library of Congress 
+Nəşr tarixi: 2008-ci il (3.3 versiyası) 
+İdentifikator: http://www.loc.gov/standards/mods/v3/mods-3-
+3.xsd  
+Hüquqlar: [?] 
+Təsvir: müxtəlif hədəflər üçün, xüsusən kitabxana sistemləri üçün 
+istifadə edilə bilən biblioqrafik qeydiyyat elementləri toplusu üçün XML 
+sxem 
+Məzmunu: biblioqrafik təsvir 
+Əlaqələr: http://www.loc.gov/standards/mods/ (vebsayt) 
+ 
+RUSMARC37 
+ 
+Adı: RUSMARC • Rusiya kommunikativ formatı 
+UNIMARC-ın Rusiya versiyası 
+Müəllif: Rusiya Kitabxanalar Assosiasiyası 
+Naşir: Rusiya Kitabxanalar Assosiasiyası 
+Nəşr tarixi: 1998-ci il 
+İdentifikator: http://www.rba.ru/rusmarc/  
+Hüquqlar: [Açıq standart] 
+Təsvir: Rusiya Federasiyası mədəniyyət nazirinin 27.01.98-ci il 
+tarixli 45 №-li əmri ilə Mədəniyyət Nazirliyi şəbəkəsinə daxil olan 
+kitabxanalar arasında biblioqrafik yazılar mübadiləsi zamanı təsdiq 
+edilməsi məcburi olan format kimi təsdiq edilmişdir. Biblioqrafik 
+məlumatların maşınla oxunan formada təqdim edilməsi formatıdır. 
+Biblioqrafik məlumatların mübadiləsi üçün nəzərdə tutulmuşdur. 
+                                           
+36 http://www.gpntb.ru/libcom5/disk/doc/34.pdf (rus dilində, redaktorun qeydi) 
+37 Bu bölmə orijinal mətnin tərcüməsinə rusdilli nəşrin redaktoru tərəfindən əlavə 
+edilmişdir 
+ 
+ 
+ 30
+Məzmunu: biblioqrafik təsvir, nüfuzlu/normativ məlumatlar, 
+təsnifat məlumatları 
+Əlaqələr: UNIMARC38. Rusiya kommunikativ formatı UNIMARC 
+formatı üzrə Daimi komitə tərəfindən rəsmən UNIMARC formatının 
+milli adaptasiyalarının siyahısına daxil edilmişdir. 
+ 
+ 
+2.2.4. Daşınmaz irsin təsviri standartları 
+ 
+MIDAS 
+ 
+Adı: MIDAS •MIDAS Heritage (Monument Inventory Data 
+Standard) (Abidələrin inventarlaşdırılması üçün standart39) 
+Müəllif: English Heritage Forum on Information Standards in 
+Heritage (FISH) 
+(irs sahəsində informasiya standartları üzrə forum) 
+Naşir: English Heritage 
+Nəşr tarixi: 2008-ci il 
+İdentifikator:  
+http://www.english-heritage.org.uk/publications/midas-heritage/  
+Hüquqlar: Kopirayt Forum on Information Standards in Heritage 
+(FISH) 
+Təsvir: Tarixi kontekst haqqında məlumat üçün Birləşmiş Krallığın 
+standartı. Bu standart tarixi məlumatlardan birgə istifadə etmək və 
+yazıların uzunmüddətli saxlanması üçün hansı informasiyanın qeyd 
+edilməli olduğunu müəyyənləşdirir. Standart tarixi konteksti 
+formalaşdıran ayrı-ayrı elementlərin (binalar, arxeoloji qazıntı yerləri, 
+batmış gəmilər, tarixi ərazilər və artefaktlar); bu dəyərləri anlamağa, 
+qoruyub saxlamağa və onların məruz qaldığı dəyişiklikləri idarə etməyə 
+yönəlmiş tədbirlərin təsviri üçün nəzərdə tutulmuşdur. 
+Məzmunu: sənədləşmə (tarixi irs) 
+Əlaqələr: http://www.fish-forum.info (FISH vebsaytı40), 
+ 
+                                           
+38 http://archive.ifla.org/VI/3/p1996-1/sec-uni.htm (ingilis dilində, redaktorun qeydi) 
+39 http://www.metadata.ru/content/view/47/60/ (rus dilində, redaktorun qeydi) 
+40 Daşınmaz İrs üçün informasiya standartlarına həsr olunmuş Forum (Forum on 
+Information Standards in Heritage) (redaktorun qeydi) 
+ 
+ 
+ 31
+http://www.heritage-standards.org.uk (FISH uyğunluğunun təmin 
+edilməsi üçün alətlər dəsti) 
+ 
+2.2.5. Mədəni irs 
+ 
+Bu standartlar mədəniyyət sahəsinin heç bir konkret sektoru ilə 
+bağlı deyildir, amma onlardan mədəniyyətlə bağlı istənilən fəaliyyət 
+sahəsində istifadə oluna bilər. 
+ 
+CIDOC-CRM 
+ 
+Adı: CIDOC-CRM • CIDOC Conceptual Reference Model41 
+(CIDOC-un nümunəvi konseptual modeli) 
+Müəllif: CIDOC Documentation Standards Working Group 
+(Sənədləşmə standartları üzrə CIDOC işçi qrupu) 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 2006-cı il 
+İdentifikator: ISO 21127:2006. 
+Hüquqlar: [Açıq standart] 
+Təsvir: mədəni irs və muzey sənədləşməsi üzrə konsepsiyalar və 
+informasiya üçün genişləndirilən ontologiyanı təmin edən konseptual 
+obyekt yönümlü model. 
+Məzmunu: sənədləşmə (muzeylər) 
+Əlaqələr: http://www.iso.org (ISO vebsaytı) 
+http://cidoc.ics.forth.gr (CRM vebsaytı) 
+ 
+VRA 
+ 
+Adı: VRA42 • VRA Core (Version 4.0) 
+(VRA nüvəsi, 4.0 versiyası) 
+Müəllif: Visual Resources Association's Data Standards Committee 
+(Vizual resurslar Assosiasiyasının məlumatları üzrə Standartlar 
+komitəsi) 
+                                           
+41 http://www.worldlingo.com/ma/enwiki/ru/CIDOC_Conceptual_Reference_Model və 
+http://conf.cpic.ru/upload/eva2006/reports/%C8%E2%E0%ED%EE%E2%C2.pdf (rus 
+dilində, redaktorun qeydi) 
+42 http://www.metadata.ru/content/view/49/60/ (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 32
+Naşir: Visual Resources Association 
+Nəşr tarixi: 2007-ci il 
+İdentifikator: http://www.loc.gov/standards/vracore/  
+Hüquqlar: Visual Resources Association [?] 
+Təsvir: metaməlumatların elementləri toplusu (informasiyanın adı, 
+olduğu yer, tarix və sair informasiya vahidləri), həmçinin bu elementlərin 
+iyerarxik strukturunun ilkin planı. Elementlər toplusu vizual mədəniyyət 
+və təsviri sənət əsərlərinin təsviri kateqoriyalarını təşkil etməyə imkan 
+verir. 
+Məzmunu: vizual mədəniyyət 
+Əlaqələr:  
+http://www.vraweb.org/projects/vracore4/index.html (vebsayt) 
+http://www.vraweb.org/projects/vracore4/vra-4.0.xsd (XML sxem) 
+ 
+LIDO43 
+ 
+Adı: LIDO • Lightweight Information Describing Objects 
+(obyektlərin təsviri üçün informasiyanın sadələşdirilmiş standartı) 
+Müəllif: Avropa Komissiyasının ATHENA layihəsi44 
+Naşir: Beynəlxalq Muzey Sənədləşdirmə Komitəsi CIDOC45 
+Nəşr tarixi: 2010-cu il 
+İdentifikator: http://www.lido-schema.org  
+Hüquqlar: [Açıq standart] 
+Təsvir: muzeylərin, kitabxanaların və arxivlərin resurslarının 
+təsviri və aqreqasiyası; mədəniyyət sahəsində metaməlumatların 
+sxemlərinin uyğunlaşdırılması 
+Məzmunu: muzeylər, kitabxanalar, arxivlər 
+Əlaqələr: CDWA Lite, museumdat, CIDOC-CRM, SPECTRUM 
+ 
+                                           
+43 Bölmə orijinal mətnin tərcüməsinə rusdilli nəşrin redaktoru tərəfindən əlavə 
+edilmişdir 
+44 http://www.minervaplus.ru/athena/athena.htm (rus dilində, redaktorun qeydi) 
+45 http://cidoc.icom.museum/ (ingilis dilində). LIDO Beynəlxalq Muzeylər Komitəsinin 
+(ICOM) 2010-cu ilin noyabr ayında Şanxayda keçirilmiş konfransında CIDOC-un illik 
+iclasında elan edilmiş və bəyənilmişdir (redaktorun qeydi) 
+ 
+ 
+ 33
+2.2.6.  Resursların axtarışı 
+ 
+DUBLIN CORE 
+ 
+Adı: Dublin Core • The Dublin Core Element Set Version 1.146 
+(Dublin nüvəsinin elementləri toplusu, 1.1 versiyası) 
+Müəllif: Dublin Core Metadata Initiative 
+(Dublin nüvəsinin metaməlumatlar təşəbbüsü) 
+Naşir: Dublin Core Metadata Initiative 
+Nəşr tarixi: 1999-cu il 
+İdentifikator: http://dublincore.org/documents/1999/07/02/dces/  
+Hüquqlar: [Açıq standart] 
+Təsvir: Dublin nüvəsi elektron resursların axtarışına yönəldilmiş 
+sadə metaməlumatlar toplusudur. Metaməlumatların elementləri 
+aşağıdakı kimi qruplaşdırıla bilər: kontent – materialın əhatə dairəsi; 
+təsvir, tip, əlaqələr; mənbə, məzmun, ad; intellektual hüquqlar – 
+informasiyanın təchizatçısı, onu yaradan (müəllif), naşir, hüquqlar; 
+detallaşdırma – tarix, format, identifikator, dil. Bir neçə Avropa ölkəsinin 
+(məsələn, Birləşmiş Krallığın) və dünya ölkələrinin (məsələn, 
+Avstraliyanın) hökumətləri bu standartdan istifadə edilməsinə mandat 
+vermişlər. 
+Məzmunu: resurslar axtarışı 
+ 
+2.2.7.  Sənədlərin kodlaşdırılması 
+ 
+TEI 
+ 
+Adı: TEI • TEI P5: Guidelines for Electronic Text Encoding 
+and Interchange 
+(elektron mətnlərin kodlaşdırılmasına və mübadiləsinə dair rəhbər 
+vəsait) 
+Müəllif: Burnard, Lou (red.), Bauman, Syd (red.) 
+Naşir: Text Encoding Initiative Consortium 
+(Mətnin kodlaşdırılması üzrə konsorsium) 
+Nəşr tarixi: 2007-ci il 
+                                           
+46 http://www.rba.ru/rusmarc/soft/dc.html (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 34
+İdentifikator: http://www.tei-c.org/Guidelines/  
+Hüquqlar: Kopirayt TEI Consortium 2007. Əlyetərlı universal 
+lisenziya47. Surətinin çıxarılmasına və yayılmasına icazə verilir və bu 
+təşviq edilir. [Açıq standart] 
+Təsvir: sənədin strukturunu və başqa xarakteristikalarını müəyyən 
+etmək üçün sənədin elektron formasına (mətninə) daxil olunan teqlər 
+(markerlər) toplusunu müəyyən edir. Mətnin kompüterlə emalı zamanı bu 
+teqlərdən istifadə olunur. Onlar istənilən təbii dildə, istənilən vaxtda 
+yaradılmış və istənilən janra aid mətnlər üçün istifadə olunur. Bu versiya 
+XML ilə uyğundur. 
+Məzmunu: sənədlərin kodlaşdırılması 
+Əlaqələr: XML, SGML, http://www.tei-c.org (Text Encoding 
+Initiative Consortium vebsaytı) 
+ 
+2.3. Multimedia formatları 
+ 
+2.3.1. Mətn 
+ 
+Mətnin kodlaşdırılması standartları mətnlərin kompüter 
+sistemlərində saxlanması qaydalarını müəyyən edir. Buraya Microsoft 
+Word kimi sənaye standartları (de facto), həmçinin World Wide Web 
+Consortium (W3C)48 tərəfindən təklif edilmiş XML kimi standartlar 
+aiddir. 
+ 
+DJVU 
+ 
+Adı: DjVu49 
+Müəllif: AT&T Labs 
+Naşir: LizardTech Incorporated 
+Nəşr tarixi: 1996-cı və sonrakı illər 
+İdentifikator: http://djvu.org/docs/DjVu3Spec.djvu [3-ü versiyası] 
+Hüquqlar: [Açıq standart] 
+                                           
+47 http://ru.wikipedia.org/wiki/GNU_General_Public_License (rus dilində, redaktorun 
+qeydi) 
+48 http://ru.wikipedia.org/wiki/World_Wide_Web_Consortium (rus dilində, redaktorun 
+qeydi) 
+49 http://djvu-reader.ru/ (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 35
+http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B 
+Təsvir: əsasən skanlanmış, ilk növbədə, mətn və şəkillərin daxil 
+olduğu təsvirlərin saxlanılması üçün hazırlanmışdır. 
+Məzmunu: sənədlərin vizuallaşdırılması; sənədlərin strukturu 
+Əlaqələr: http://djvu.org [DjVu vebsaytı] 
+ 
+HTML 
+ 
+Adı: HTML • HyperText Markup Language50 
+(hipermətni nişanlama dili) 
+Müəllif: Berners-Lee, T 
+Naşir: World Wide Web Consortium (W3C) 
+Nəşr tarixi: 1989-cu və sonrakı illər 
+İdentifikator: http://www.w3.org/TR/html4/ [4.01 versiyası] 
+Hüquqlar: [Açıq standart] 
+Təsvir: Tim Berners Li tərəfindən işlənib hazırlanmış hipermətni 
+nişanlama dili sənədlərin şəbəkədə qarşılıqlı təsirini təmin etmək üçün 
+nəzərdə tutulmuşdur. Bu dil SGML-ə (SGML proqramdır) əsaslanır. Çox 
+ehtimal ki, HTML-in əsas təyinatı – sənədin strukturunu təsvir etmək 
+deyil, sənədləri vizuallaşdırmaqdır (əks etdirməkdir). HTML standartı 
+World Wide Web konsorsiumu tərəfindən dəstəklənir. HTML-in əlavəsi 
+olan Stillərin kaskad cədvəlləri standartı51 veb səhifələrin yerləşdirilməsi 
+və dizaynı üçün əlverişli vasitədir. HTML-in 4-cü versiyasında 
+simvolların standart kodlaşdırması üçün Unicode-dan istifadə edilir. 
+Məzmunu: sənədlərin vizuallaşdırılması 
+Əlaqələr: SGML, XML, XHTML, Unicode 
+  
+PDF 
+ 
+Adı: PDF • Portable Document Format52 
+(platformadan asılı olmayan sənədlər formatı) 
+Müəllif: Adobe Systems Incorporated 
+ 
+                                           
+50 http://ru.wikipedia.org/wiki/HTML (rus dilində., redaktorun qeydi) 
+51 
+4%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D
+1%86%D1%8B_%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9 (rus 
+dilində) 
+52 http://ru.wikipedia.org/wiki/PDF (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 36
+Naşir: Adobe Systems Incorporated 
+Nəşr tarixi: 1999-cu il 
+İdentifikator: [məlum deyil] 
+Hüquqlar: Kopirayt Adobe Systems Incorporated. Bütün hüquqlar 
+qorunur53. 
+Təsvir: De facto sənədlər üçün standart. Adobe şirkəti tərəfindən 
+sənədin strukturunun təsvir edilməsi və nişanlama üçün proqram 
+platformasından asılı olmayan üsul kimi işlənib hazırlanmışdır. 
+Sənədlərin vizuallaşdırılması üçün Postscript standartı54 əsasında 
+yaradılmışdır. PDF formatı sənədlərin şəbəkədə və CD-ROM-da 
+yerləşdirilməsi üçün geniş istifadə olunur. 
+Məzmunu: sənədin vizuallaşdırilması, sənədin strukturu 
+Əlaqələr: Postscript 
+http://www.adobe.com/devnet/pdf.html (PDF saytı) 
+ 
+RTF 
+ 
+Adı: RTF • Rich Text Format55 (zənginləşdirilmiş mətn formatı) 
+Müəllif: Microsoft Corporation 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: 1999-cu il 
+İdentifikator:  
+http://msdn.microsoft.com/en-us/library/aa140277.aspx 6.1 
+versiyası] 
+Hüquqlar: Kopirayt Microsoft Corporation 
+Təsvir: RTF formatı mətn və qrafika üçün nəzərdə tutulmuş, 
+müxtəlif xaricetmə qurğuları və əməliyyat sistemləri vasitəsi ilə istifadə 
+oluna bilər. RTF formatı tətbiq edilərkən sənədlərin ekranda 
+formatlaşdırılması üçün və onların çap zamanı American National 
+Standards Institute (ANSI), PC-8, Macintosh və ya IBM PC 
+simvollarından istifadə edilir. RTF formatı müxtəlif əməliyyat 
+sistemlərində və müxtəlif proqram təminatının köməyi ilə yaradılmış 
+sənədlərdən başqa əməliyyat sistemlərində və proqramlarda istifadə 
+etməyə imkan verir. 
+                                           
+53 1 iyul 2008-ci ildən PDF açıq ISO 32000 standartıdır (redaktorun qeydi) 
+54 http://ru.wikipedia.org/wiki/PostScript (rus dilində, redaktorun qeydi) 
+55 http://ru.wikipedia.org/wiki/Rtf (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 37
+Məzmunu: sənədin vizuallaşdırılması, sənədin strukturu 
+Əlaqələr: PDF 
+   
+SGML 
+ 
+Adı: SGML • Standard Generalized Markup Language 
+(ümumiləşdirilmiş standart nişanlama dili56) 
+Müəllif: Goldfarb, Charles F 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1986-cı il 
+İdentifikator: ISO 8879:1986 
+Hüquqlar: [Açıq standart] 
+Təsvir: HTML və XML standartlarının əsasını təşkil edən SGML – 
+məlumatların strukturlaşdıırılması və sənədlərin vizuallaşdırılması üçün 
+beynəlxalq dil standartıdır (ISO 8879). SGML mədəniyyət sahəsində o 
+qədər də geniş yayılmamışdır. SGML standartının tətbiqinin başlanğıc 
+dövründə CIMI CHIO nümayiş sistemi57 reallaşdırılmışdı. Sonrakı 
+layihələrdə əsasən, SGML-in sadələşdirilmiş variantı olan XML-dən 
+istifadə edilirdi. 
+Məzmunu: sənədin strukturu, sənədin kodlaşdırılması 
+Əlaqələr: XML, HTML, http://www.iso.org (ISO veb saytı) 
+ 
+WORD 
+ 
+Adı: MicrosoftWord Document Format58 (sənədlər üçün format) 
+Müəllif: Microsoft Corporation 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: 1983-cü və sonrakı illər 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Microsoft şirkətinin mülkiyyəti 
+Təsvir: de facto sənədləri üçün format. .doc formatı Microsoft 
+                                           
+56 http://ru.wikipedia.org/wiki/SGML (rus dilində; redaktorun qeydi) 
+57 Muzeylərə aid informasiya mübadiləsi üzrə Konsorsium (CIMI, bax: 
+http://xml.coverpages.org/cimi.html) SGML-dan və Z39.50-dən istifadəni nümayiş 
+etdirmək üçün 1994-cü ildə “Mədəni irs üzrə onlayn informasiya” (CHIO, bax: 
+http://www.cni.org/tfms/1994b.fall/perkins.html) layihəsini reallaşdırmışdır 
+(redaktorun qeydi) 
+58 http://office.microsoft.com/ru-ru/word/ (rus dilində; redaktorun qeydi) 
+ 
+ 
+ 38
+firması tərəfindən Word proqram təminatı üçün işlənib hazırlanmış və bir 
+neçə dəfə dəyişdirilmişdir. Bu format sənədlər mübadiləsi üçün geniş 
+istifadə olunur. Formatın spesifikasiyası elan edilməmişdir. 
+Məzmunu: sənədin vizuallaşdırılması, sənədin strukturu 
+  
+XML 
+ 
+Adı: XML • eXtensible Markup Language (genişləndirilə bilən 
+nişanlama dili59) 
+Müəllif: World Wide Web Consortium (W3C) 
+Naşir: World Wide Web Consortium (W3C) 
+Nəşr tarixi: 1996-cı və sonrakı illər 
+İdentifikator: http://www.w3.org/TR/xhtml1/ [revised 1 August 
+2002] 
+Hüquqlar: [Açıq standart] 
+Təsvir: XML dili əvvəlcə sənədin ilkin formatındakı bəzi 
+mürəkkəblikləri aradan qaldırmaq üçün 'sadələşdirilimiş SGML' kimi 
+yaradılmışdır. Tezliklə o, öz sələfindən daha çox məşhurlaşdı və indi 
+elektron sənədlərin strukturlaşdırılması üçün ən geniş yayılmış dildir. 
+XML 'teqlərin' (nişanların) köməyi ilə sənədi strukturlaşdırır. Teqlərin 
+tiplərinə məhdudiyyət yoxdur, onlar Sənədin Tipinin Təyini (Document 
+Type Definition – DTD60) sxeminin köməyi ilə və ya XML-sxemin 
+köməyi ilə təyin edilə bilər. XML simvollarının kodlaşdırılması üçün 
+Unicode simvollarından istifadə edilir, buna görə o, çoxdilli və 
+beynəlxalq layihələrdə istifadə üçün münasibdir. XML əsasında 
+yaradılmış bəzi törəmə dillərdən, məsələn, XSLT61 (eXtensible Style 
+Language and Transformation) və sorğuları üçün xPath62 sintaksisindən 
+də standartlar kimi istifadə olunur. 
+Məzmunu: sənədin strukturu, sənədin kodlaşdırılması 
+Əlaqələr: SGML, HTML, Unicode 
+   
+ 
+                                           
+59 http://ru.wikipedia.org/wiki/XML (rus dilində, redaktorun qeydi) 
+60 Document Type Definition (sənədin tipinin təyini) – XML dilində və başqa nişanlama 
+dillərində yazılmış mətnin bir bölməsidir, bu haqda daha ətraflı məlumat almaq üçün 
+bax: http://ru.wikipedia.org/wiki/DTD (rus dilində, redaktorun qeydi) 
+61 http://ru.wikipedia.org/wiki/XSLT (rus dilində, redaktorun qeydi) 
+62 http://ru.wikipedia.org/wiki/XPath (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 39
+http://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%BE 
+http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%B8%D1%80%D0%B 
+2.3.2. Təsvir 
+ 
+Statik təsviri rəqəmsal formada təqdim etmək üçün onu 
+kodlaşdırırlar. Bu bölmədə biz 'vektor təsvirlərini' deyil, 'raster 
+təsvirlərini' nəzərdən keçirəcəyik). Raster təsvirləri adətən 'fotoqrafik' 
+tipli olur, yəni təsvirlər müəyyən miqdarda üfüqi və şaquli (horizontal və 
+vertikal) elementlərin (piksellərin) toplusu kimi təqdim edilir. Hər bir 
+elementin öz rəngi olur. Raster qrafikası63 skanerlər və rəqəmsal 
+kameralar vasitəsilə yaradılır). Raster təsvirinin ölçüləri artırılsa, ayrı-
+ayrı pikselləri görmək olar. 
+ 
+BMP 
+ 
+Adı: BMP • BitMap64 
+Müəllif: Microsoft Corporation 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: 1987-ci il 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Microsoft Corporation 
+Təsvir: bmp təsvirlər formatı – Microsoft Windows standartıdır. 
+Bu format ağ-qara, 16 rəngli, 256 rəngli təsvirləri, həmçinin Truecolor 
+(24 bitlik) təsvirləri kodlaşdırmaq üçün nəzərdə tutulmuşdur. 16 rəngli və 
+256 rəngli palitrada seriyaların uzunluqlarının kodlaşdırılması yolu ilə 
+təsvirləri sıxmaq olar65. 
+Məzmunu: təsvirin formatı, raster qrafiki 
+ 
+DJVU 
+ 
+Adı: DjVu66 
+ 
+ 
+                                           
+63 
+%D0%B2%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%
+BA%D0%B0 (rus dilində, redaktorun qeydi) 
+64 http://ru.wikipedia.org/wiki/BMP (rus dilində, redaktorun qeydi) 
+65 
+E%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D0%B8%
+D0%BD_%D1%81%D0%B5%D1%80%D0%B8%D0%B9 (rus dilində, redaktorun 
+qeydi) 
+66 http://djvu-reader.ru/ (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 40
+Müəllif: AT&T Labs 
+Naşir: Lizardtech 
+Nəşr tarixi: 1996-cı və sonrakı illər 
+İdentifikator: http://djvu.org/docs/DjVu3Spec.djvu  
+Hüquqlar: [Açıq standart] 
+Təsvir: Bu format əsasən skanlanmış təsvirlərin, xüsusilə mətn və 
+şəkillərdən ibarət təsvirlərin saxlanılması üçün işlənib hazırlanmışdır. 
+Təsvirlərin sıxılması üçün müasir, mütərəqqi texnologiyalardan istifadə 
+edilir. 
+Məzmunu: sənədin vizuallaşdırılması, sənədin strukturu 
+Əlaqələr: PDF, http://djvu.org [DjVu vebsaytı] 
+  
+GIF 
+ 
+Adı: GIF67 • Graphical Interchange Format (qrafik məlumatların 
+mübadiləsi formatı) 
+Müəllif: CompuServe Interactive Services Incorporated 
+Naşir: CompuServe Interactive Services Incorporated 
+Nəşr tarixi: 1987-ci il 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Unisys şirkətinin kompressiya üçün LZW patenti. 
+Təsvir: GIF formatı Compuserve şirkəti tərəfindən bu şirkətin 
+onlayn xidmətləri üçün yaradılmışdır, lakin onun spesifikasiyası açıq 
+dərc edilmişdir. 256-ya qədər rəngi dəstəkləyən GIF formatı faylın 
+ölçüsünün azaldılması üçün Unisys şirkəti tərəfindən patentləşdirilmiş 
+raster bu Lempel Ziv Welch (LZW) sıxma alqoritminə əsaslanır. 
+Məzmunu: təsvirin formatı, raster qrafiki 
+ 
+JPG 
+ 
+Adı: JPG • JPEG68 
+Müəllif: Joint Photographic Expert Group 
+Müstəqil JPEG Group 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1990-cı il 
+                                           
+67 http://ru.wikipedia.org/wiki/GIF (rus dilində, redaktorun qeydi) 
+68 http://ru.wikipedia.org/wiki/JPEG (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 41
+İdentifikator: ISO/IEC 10918-1:1994 
+Hüquqlar: [Açıq standart] 
+Təsvir: JPEG – statik təsviri sıxma alqoritmidir. Bu alqoritmin 
+əsasını təşkil edən fakt ondan ibarətdir ki, insan gözü rənglərin incə 
+fərqlərini və kontrastları ayırd edə bilmir. JPEG –informasiyanı itirməklə 
+sıxma alqoritmidir: sıxma dərəcəsi nə qədər çox olsa, informasiya itkisi 
+də bir o qədər çox olur. JPEG-in köməyi ilə sıxılmış təsviri sonradan tam 
+bərpa etmək mümkün deyil. JPEG-in köməyi ilə sıxılmış təsvir faylının 
+formatı JFIF adlanır. “JPEG” haqqında söhbət gedəndə məhz bu format 
+nəzərdə tutulur. 
+Məzmunu: təsvirin formatı, raster qrafiki 
+Əlaqələr: http://www.iso.org (ISO veb saytı) 
+ 
+PNG 
+ 
+Adı: PNG • Portable Network Graphics (platformadan asılı 
+olmayan şəbəkə qrafiki)69 
+Müəllif: World Wide Web Consortium (W3C) 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 2003-cü il 
+İdentifikator: ISO/IEC 15948:2003 (E) 
+Hüquqlar: [Açıq standart] 
+Təsvir: PNG – raster təsvirlərin itkisiz, yaxşı sıxılmış şəkildə 
+saxlanılması üçün platformadan asılı olmayan, genişləndirilə bilən 
+formatdır. PNG GIF formatının sərbəst (patentləşdirilməmiş) 
+əvəzlənməsini təmin edir və bir sıra hallarda TIFF formatını əvəz edə 
+bilər. İndeksləşdirilmiş rəngli təsvirlər, Truecolor və ağ-qara təsvirlər, 
+həmçinin şəffaflıq üçün alfa-kanal70 dəstəklənir. Rəngin dərinliyi 1 bit-
+dən 32 bitə qədərdir. 
+Məzmunu: təsvirin formatı, raster qrafiki 
+Əlaqələr: http://www.w3.org/TR/PNG/ , http://www.iso.org (ISO 
+veb saytı) 
+ 
+                                           
+69 http://ru.wikipedia.org/wiki/PNG (rus dilində, redaktorun qeydi) 
+70 Hər pikselin informasiyasının şəffaflığın təminatı üçün nəzərdə tutulmuş hissəsi 
+(redaktorun qeydi) 
+ 
+ 
+ 42
+TIFF 
+ 
+Adı: TIFF • Tagged Image File Format (nişan vurulmuş təsvir 
+üçün fayl formatı)71 
+Müəllif: Aldus Corp 
+Naşir: Adobe Systems Inc. 
+Nəşr tarixi: 1992-ci il 
+İdentifikator: 
+http://partners.adobe.com/public/developer/en/tiff/TIFF6.pdf [6.0 
+versiyası] 
+Hüquqlar: [Açıq standart] 
+Təsvir: TIFF – təsvirlərin işlənməsi üçün skanerlərin və proqram 
+təminatının əksəriyyətinə uyğun gələn ümumi istifadəli statik raster 
+təsvirləri faylının formatıdır. O, avadanlıqdan asılı deyil və proqram 
+mühitlərinin əksəriyyətində istifadə olunur. Skaner və proqram təminatı 
+istehsalçılarının əksəriyyəti verilənlərin bu sənaye standartından istifadə 
+edirlər. 
+Məzmunu: təsvirin formatı, raster qrafiki 
+ 
+ 
+2.3.3. Audio 
+ 
+Səsin rəqəmləşdirilməsi vaxta görə diskretləşdirmə yolu ilə təmin 
+edilir. Analoq siqnal rəqəmsal siqnala çevrildikdə səs siqnalının qiymət-
+ləri bərabər zaman intervalları ilə hesablanır. Səviyyə kvantlananda 
+hesablanmış qiymətlərin hər biri diskretləşdirmə anında analoq siqnalının 
+qiymətini göstərən ədədlə əvəz olunur. Bundan sonra siqnal səviyyəsinin 
+qiymətləri sıxılmış və ya sıxılmamış şəkildə saxlanır. 
+Sıxılmış səs MP3 açıq standartına uyğun olmalıdır. Kommersiya 
+şirkətlərinə məxsus olan standartlar səsin ən yaxşı keyfiyyətini və ya 
+faylın daha kiçik ölçüsünü (yəni audio informasiyanın ötürülmə sürətini) 
+təmin edir. 
+ 
+                                           
+71 http://ru.wikipedia.org/wiki/TIFF (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 43
+AIFF 
+ 
+Adı: AIFF • Audio Interchange File Format72 (audionun 
+mübadiləsinin faylının formatı informasiyayla) 
+Müəllif: Apple Computer Incorporated, Electronic Arts 
+Naşir: Apple Computer Incorporated 
+Nəşr tarixi: 1988-1989-cu illər 
+İdentifikator: 
+http://www-
+mmsp.ece.mcgill.ca/Documents/AudioFormats/AIFF/Docs/AIFF-1.3.pdf 
+[Version 1.3] 
+Hüquqlar: Apple Computer Incorporated [?] 
+Təsvir: Apple Macintosh kompüterlərində geniş istifadə edilən 
+sıxılmasız audio format. Keyfiyyətin itməməsini təmin edən bu format 
+peşəkar audio və video sistemlər üçün proqram təminatında geniş istifadə 
+olunur. 
+Məzmunu: səsli format 
+ 
+MP3 
+ 
+Adı: MP373 • MPEG səviyyə 3 
+Coding of Moving Pictures and Associated Audio for Digital 
+Storage Media (hərəkət edən təsvirlərin və onlarla bağlı səsin rəqəmsal 
+formatda saxlanmaq üçün kodlaşdırılması) 
+Müəllif: ITU-T (International Telecommunication Union 
+Telecommunication Standardization Sector) 
+Moving Pictures-in (ISO/IEC JTC1/SC29 WG11) ekspert qrupu 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1993-cü və sonrakı illər 
+İdentifikator: ISO/IEC 11172:1993, hissə 3: Audio 
+ISO/IEC 13818, hissə 3: Audio 
+ISO/IEC 14496, hissə 3: Audio 
+(Əlavə 1: audionun genişlənilməsi) 
+Hüquqlar: [açıq standart] 
+ 
+                                           
+72 http://ru.wikipedia.org/wiki/AIFF (rus dilində, redaktorun qeydi) 
+73 http://ru.wikipedia.org/wiki/MP3 (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 44
+Təsvir: İnternetdə geniş yayılmış sıxılmış audio formatı. Bu 
+standart MPEG standartının hissəsi olaraq, böyük həcmli audioyazılarıyla 
+işləməyə imkan verir və səsin keyfiyyətini cüzi itirməklə faylın ölçüsünü 
+azaldır. 
+Məzmunu: səsli format 
+Əlaqələr: MPEG-1; MPEG-2; MPEG-3, http://www.iso.org (ISO 
+veb saytı) 
+ 
+WAV 
+ 
+Adı: WAV74 • RIFF75 
+Resource Interchange Format (resursların mübadiləsi formatı) 
+Müəllif: IBM 
+Microsoft Corporation 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: 1991-ci il 
+İdentifikator: http://www.sonicspot.com/guide/wavefiles.html  
+Hüquqlar: [?] 
+Təsvir: fraqmentləşdirilmiş audio informasiya. Səsli informasiya 
+RIFF formatının köməyi ilə konteynerdə saxlanılır. RIFF faylı həmin 
+fraqmentlərdən və metaməlumatlardan ibarət olur. WAV faylı 
+fraqmentləşdirmə addımları və kanalların sayı müxtəlif olan səsli 
+kliplərdən ibarət ola bilər. 
+Məzmunu: səsli format 
+Əlaqələr: AVI 
+ 
+WMA 
+ 
+Adı: WMA •Windows Media Audio76 
+Müəllif: Microsoft Corporation 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: [?] 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Microsoft Corporation 
+                                           
+74 http://ru.wikipedia.org/wiki/WAV (rus dilində, redaktorun qeydi) 
+75 http://ru.wikipedia.org/wiki/RIFF (rus dilində, redaktorun qeydi) 
+76 http://ru.wikipedia.org/wiki/Windows_Media_Audio (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 45
+Təsvir: Microsoft firmasına məxsus olan bu format MP3 
+formatının “rəqibidir”. Audio informasiyanın, xüsusilə axın şəklində 
+audio məlumatların İnternet vasitəsilə yayılması üçün nəzərdə 
+tutulmuşdur, Microsoft şirkətinin proqram təminatında istifadə olunur. 
+Hüquqların idarə olunmasını təmin edir, kiçik ölçülü fayllar yaradır bu 
+səbəbdən, məlumatların ötürülməsi sürətinə görə başqa formatlardan, o 
+cümlədən MP3 formatından üstündür. Bundan başqa, hesab edilir ki, 
+WMA səsin ən yaxşı keyfiyyətini təmin edir. 
+Məzmunu: səsli format 
+Əlaqələr: WMV 
+ 
+REALAUDIO 
+ 
+Adı: RealAudio 
+Müəllif: RealNetworks Incorporated 
+Naşir: RealNetworks Incorporated 
+Nəşr tarixi: [?] 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Real Networks  
+Təsvir: audio-informasiyanın İnternet vasitəsilə çatdırılmasını 
+optimallaşdırmaq üçün format. 
+Məzmunu: səsli format 
+Əlaqələr: RealVideo, RealMedia 
+ 
+AU 
+ 
+Adı: AU 
+Müəllif: Sun Microsystems Incorporated 
+Naşir: Sun Microsystems Incorporated 
+Nəşr tarixi: [?] 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Sun Microsystems Incorporated 
+Təsvir: Unix sistemləri üçün səsli format. Standart Java audio 
+formatı. 
+Məzmunu: səsli format 
+ 
+ 
+ 
+ 46
+2.3.4. Video 
+ 
+Statik təsvirlərin rəqəmləşdirilməsindən fərqli olaraq, videonun 
+rəqəmləşdirilməsində vaxt şkalası tətbiq edilir. Prinsip etibarilə, bu 
+proses raster təsvirlərinin alınmasına analojidir, lakin bu halda təsvirlərin 
+ardıcıllığı çox tez dəyişir. Bir saniyədə qeydə alınan təsvirlərin miqdarı 
+kadrların tezliyi adlanır. Rəqəmləşdirilmiş videonun keyfiyyəti üç amillə 
+təyin edilir: təsvirlərin ayırd edilmə dərəcəsi, rəngin dərinliyi və kadrların 
+tezliyi. Video təsvirlər rəqəmləşdiriləndə böyük həcmli məlumat faylları 
+alınır, buna görə həmin faylların sıxılması çox əhəmiyyətlidir. Sıxma ona 
+əsaslanır ki, kadrların bütün ardıcıllığında onların yalnız az bir qismi 
+dəyişir. MPEG standartlarının açıq olmasını nəzərə alsaq, kodlaşdırma 
+standartları baxımından bu halda vəziyyət, audionun kodlaşdırılmasına 
+analojidir. Bundan başqa, özəl şirkətlərə məxsus olan standartların 
+müəyyən qismi də bazarda təklif edilir. 
+ 
+AVI 
+ 
+Adı: AVI77 • Audio Video Interleave (audio və videonun 
+növbələşməsi78) 
+Müəllif: Microsoft Corporation (Intel üçün) 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: [?] 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Microsoft Corporation 
+Təsvir: PC üçün ən köhnə video format. Ekrana çıxarılan təsvirin 
+ölçüsü kompüterdən asılıdır. Sıxma və genişlənmə funksional baxımdan 
+Microsoft Video for Windows proqram təminatının tərkib hissəsidir, 
+proqram və texniki təminat konfiqurasiyalarının əksəriyyətində bu format 
+dəstəklənir. Bu formatlı faylların ölçüləri çox böyük olduğuna görə, 
+İnternet vasitəsilə çatdırılmaq üçün münasib deyil. 
+Məzmunu: video format 
+ 
+                                           
+77 http://ru.wikipedia.org/wiki/AVI (rus dilində, redaktorun qeydi) 
+78 http://ru.wikipedia.org/wiki/Audio_Video_Interleave (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 47
+FLV (Flash Video Format) 
+ 
+Adı: FLV • Flash Video Format79 
+Müəllif: Macromedia (hazırda Adobe) 
+Naşir: Adobe Systems Incorporated 
+Nəşr tarixi: 2002-ci və sonrakı illər 
+İdentifikator: 
+http://www.adobe.com/devnet/devices/articles/flashlite_video_formats.html  
+Hüquqlar: Kopirayt Adobe Systems Incorporated 
+Təsvir: Video faylların İnternet vasitəsilə çatdırılması üçün istifadə 
+olunur. Fayllara baxış xüsusi pleyer vasitəsi ilə və ya veb-brauzerin daxili 
+proqram təminatının köməyi ilə həyata keçirilir. Veb səhifələrə “tikilmiş” 
+video üçün de facto standarta çevrilməkdədir. 
+Məzmunu: video format 
+ 
+MOV (Quicktime) 
+ 
+Adı: QuickTime80 
+Müəllif: Apple Computer Incorporated 
+Naşir: Apple Computer Incorporated 
+Nəşr tarixi: 1991-ci və sonrakı illər 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Apple Computer Incorporated 
+Təsvir: Video və virtual reallıq üçün Apple şirkətinə məxsus 
+format və sistem. Mac əməliyyat sisteminə daxil edilmişdir, PC-də xüsusi 
+pleyer vasitəsilə baxıla bilər, pulsuz yükləmək olar. MPEG-4 formatının 
+işlənib hazırlanması vaxtı bu formatın texnologiyalarından qismən 
+istifadə edilmişdir. 
+Məzmunu: video format 
+Əlaqələr: Quicktime VR, MPEG-4, http://www.apple.com (Apple 
+veb saytı) 
+ 
+                                           
+79 http://ru.wikipedia.org/wiki/Flash_Video (rus dilində, redaktorun qeydi) 
+80 http://ru.wikipedia.org/wiki/QuickTime (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 48
+MP4 
+ 
+Adı: MPEG-481 • Very-low bitrate audio-visual coding (çox 
+aşağı bitreytli audiovizual informasiyanın kodlaşdırılması82) 
+Müəllif: Moving Pictures Expert Group 
+(ISO/IEC JTC1/SC29 WG11) 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1999-cu il (1 versiyası), 2001-ci il (2 versiyası) 
+İdentifikator: ISO/IEC 14496, 1-10-cu hissələr) 
+Hüquqlar: [açıq standart] 
+Təsvir: MPEG-2 formatının yüksək dərəcədə sıxılmış versiyası. Bu 
+formatın 2-ci versiyasında məlumatın qorunması və intellektual 
+mülkiyyət hüquqları təmin edilir. 
+Məzmunu: video format 
+Əlaqələr: MPEG-2, MP3, QuickTime (işlənib hazırlanma 
+mərhələsindədir),  
+http://www.iso.org (ISO veb saytı) 
+ 
+MPG 
+ 
+Adı: MPEG-183 • Coding of Moving Pictures and Associated 
+Audio for Digital Storage Media (hərəkət edən təsvirin və onunla bağlı 
+səsin rəqəmsal formatda saxlanmaq üçün kodlaşdırılması) 
+Müəllif: Moving Pictures Expert Group (ISO/IEC JTC1/SC29 
+WG11) 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1993-cü il 
+İdentifikator: ISO/IEC 11172:1993 (Parts 1 to 5) 
+Hüquqlar: [açıq standart] 
+Təsvir: rəqəmsal formada videoyazı formatının CD-ROM-a 
+yazmaq üçün analoqu kimi yaradılmışdır. Sıxma səviyyəsi 50-dən 1-ə 
+qədər olan keyfiyyətli televiziya təsviri standartı. 
+Məzmunu: video format 
+Əlaqələr: MP3, http://www.iso.org (ISO veb saytı) 
+                                           
+81 http://ru.wikipedia.org/wiki/MPEG-4 (rus dilində, redaktorun qeydi) 
+82 rəqəmsal audionun və videonun xarakteristikası: informasiya bitlərinin keçmə sürəti 
+(redaktorun qeydi) 
+83 http://ru.wikipedia.org/wiki/MPEG-1 (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 49
+MPEG-2 
+ 
+Adı: MPEG-284 • Coding of Moving Pictures and Associated 
+Audio for Digital Storage Media (hərəkət edən təsvirin və onunla bağlı 
+səsin rəqəmsal formatda saxlanmaq üçün kodlaşdırılması) 
+Müəllif: ITU-T (International Telecommunication Union 
+Telecommunication Standardization Sector) 
+Moving Pictures Expert Group (ISO/IEC JTC1/SC29 WG11) 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 2000-ci il 
+İdentifikator: ISO/IEC 13818:2000 (I-II hissələr) 
+Hüquqlar: [açıq standart] 
+Təsvir: Təkmilləşdirilmiş MPEG-1. Kodlaşdırma metodu video və 
+audio informasiyanın DVD-yə yüksək keyfiyyətli yazısı üçün nəzərdə 
+tutulmuşdur. Sıxma səviyyəsi 150-dən 1-ə qədər olan yüksək keyfiyyətli 
+televiziya təsviri. 
+Məzmunu: video format 
+Əlaqələr: MPEG-1, MP3, http://www.iso.org (ISO veb saytı) 
+ 
+RM (Real Media) 
+ 
+Adı: RM • Real Media85 
+Müəllif: RealNetworks Incorporated 
+Naşir: RealNetworks Incorporated 
+Nəşr tarixi: [?] 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Real Networks 
+Təsvir: Bu format audio informasiyanın İnternet vasitəsilə 
+çatdırılması üçün nəzərdə tutulmuşdur. 
+Məzmunu: multimedia 
+Əlaqələr: RealAudio, RealVideo 
+ 
+                                           
+84 http://ru.wikipedia.org/wiki/MPEG-2 (rus dilində, redaktorun qeydi) 
+85 http://ru.wikipedia.org/wiki/RealMedia (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 50
+SWF (Flash Movie) 
+ 
+Adı: SWF • Small Web Format Flash Movie86 
+Müəllif: Macromedia (hazırda Adobe) 
+Naşir: Adobe Systems Incorporated 
+Nəşr tarixi: 1996-cı və sonrakı illər 
+İdentifikator:  
+http://www.adobe.com/devnet/swf/pdf/swf_file_format_spec_v10.p
+df87 [10 versiyası] 
+Hüquqlar: Kopirayt Adobe Systems Incorporated 
+Təsvir: əvvəlcə animasiya vektor qrafiklərinin çatdırılması üçün 
+nəzərdə tutulurdu, hazırda interaktiv audio və video üçün istifadə olunur. 
+Xüsusi pleyer vasitəsilə və ya veb-brauzerə “tikilmiş” pleyer vasitəsilə 
+baxıla bilər. 
+Məzmunu: animasiya vektor qrafiki, interaktivlik 
+ 
+WMV (Windows Media Video) 
+ 
+Adı: WMV •Windows Media Video88 
+Müəllif: Microsoft Corporation 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: [?] 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Microsoft Corporation. 
+Təsvir: MPEG-4 formatının Microsoft şirkətinə məxsus olan 
+format - rəqibidir. Video informasiyanın, xüsusilə axın şəklində video 
+məlumatların İnternet vasitəsilə yayılması üçün nəzərdə tutulmuşdur, 
+Microsoft şirkətinin məhsullarında istifadə olunur. 
+Məzmunu: video format 
+Əlaqələr: WMA 
+ 
+                                           
+86 http://ru.wikipedia.org/wiki/Adobe_Flash (rus dilində, redaktorun qeydi) 
+87 əlyetərli deyildir (redaktorun qeydi) 
+88 http://ru.wikipedia.org/wiki/Windows_Media_Video (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 51
+ASF 
+ 
+Adı: ASF • Advanced Streaming Format89 (təkmilləşdirilmiş 
+striminq formatı) 
+Müəllif: Microsoft Corporation, RealNetworks Incorporated 
+Naşir: Microsoft Corporation 
+Nəşr tarixi: 2004-cü il 
+İdentifikator: 
+http://www.microsoft.com/windows/windowsmedia/forpros/format/
+asfspec.aspx  
+[01.20.03 versiyası] 
+Hüquqlar: Kopirayt Microsoft Corporation 
+Təsvir: Bu format axın şəklində video/audio informasiyanın 
+sıxılması və İnternet vasitəsilə çatdırılması üçün nəzərdə tutulmuşdur. 
+Məzmunu: video format 
+  
+2.3.5. Virtual reallıq  
+ 
+VRML97 
+ 
+Adı: VRML97 • Virtual Reality Modelling Language90 (virtual 
+reallığı modelləşdirmə dili) 
+Müəllif: VRML Consortium Incorporated 
+İnformasiya texnologiyaları, 24-cü altkomitə, kompüter qrafikası və 
+təsvirlərin işlənməsi üzrə ISO/IEC JTC 1 birləşdirilmiş texniki komitə 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1997-ci il 
+İdentifikator: ISO/IEC 14772-1:1997 
+Hüquqlar: [açıq standart] 
+Təsvir: 3D obyektlərin və 3D dünyaların təsvir edilməsi üçün 
+format. İnternet vasitəsilə, həmçinin interaktiv və başqa ssenarilər üzrə 
+(məsələn, avtonom kompüterlər vasitəsilə) istifadə edilmək üçün işlənib 
+hazırlanmışdır. Statik və dinamik 3D layihələri təqdim etməyə, mətn, 
+statik təsvirlər, audio və video kimi multimedia obyektlərinə istinadlar 
+                                           
+89 http://ru.wikipedia.org/wiki/Advanced_Systems_Format (rus dilində, redaktorun 
+qeydi) 
+90 http://ru.wikipedia.org/wiki/VRML (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 52
+etməyə imkan verir. 
+Məzmunu: virtual reallıq 
+Əlaqələr: X3D, http://www.web3d.org (Web3D konsorsiumunun 
+veb saytı), http://www.iso.org (ISO veb saytı) 
+ 
+ 
+X3D / EXTENSIBLE 3D 
+ 
+Adı: X3D91 • Extensible 3D (genişləndirilən 3D) 
+Müəllif: Web3D Consortium 
+Naşir: International Organization for Standardization (ISO) 
+[hazırlanma prosesindədir] 
+Nəşr tarixi: 2007-ci il 
+İdentifikator: ISO/IEC FDIS 19775-1.2:2008 
+Hüquqlar: [açıq standart] 
+Təsvir: XML formatına əsaslanır və VRM97 ilə eyni funksiyaları 
+yerinə yetirir. ISO standartı kimi hazırlanır. 
+Məzmunu: virtual reallıq 
+Əlaqələr: VRML97, XML, http://www.web3d.org (Web3D 
+konsorsiumunun veb saytı), http://www.iso.org (ISO vebsaytı) 
+ 
+QUICKTIME VR 
+ 
+Adı: QuickTime VR92 
+Müəllif: Apple Computer Incorporated 
+Naşir: Apple Computer Incorporated 
+Nəşr tarixi: 1995-ci və sonrakı illər 
+İdentifikator: [əlyetərli deyildir] 
+Hüquqlar: Kopirayt Apple Computer Incorporated 
+Təsvir: Virtual reallıq üçün Apple şirkətinə məxsus format və 
+kontent yaradılması üçün sistem. Mac əməliyyat sisteminə tikilmişdir, 
+pleyer vasitəsilə PC-də baxmaq olar, pulsuz yükləmə üçün verilir. 
+QuickTime sisteminin tərkib hissəsidir, ayrı-ayrı fotoşəkilləri bir-birinə 
+“yapışdırmaqla” panoram yaratmağa, obyektlərin 3D təsvirlərini almağa 
+və onları bir-birinə bağlayaraq 'dekorasiya' yaratmağa imkan verir. 
+                                           
+91 http://ru.wikipedia.org/wiki/X3D (rus dilində, redaktorun qeydi) 
+92 http://ru.wikipedia.org/wiki/QuickTime (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 53
+http://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%8 
+Məzmunu: virtual reallıq, panoramlar 
+Əlaqələr: QuickTime, http://www.apple.com (Apple veb saytı) 
+ 
+2.3.6. Vektor qrafikası93 
+ 
+EPS 
+ 
+Adı: EPS • Encapsulated Postscript94 (inkapsulyasiya edilmiş 
+Postscript) 
+Müəllif: Adobe Systems Inc. 
+Naşir: Adobe Systems Inc. 
+Nəşr tarixi: 1992-ci il 
+İdentifikator: 
+http://partners.adobe.com/public/developer/en/ps/5002.EPSF_Spec.pdf 
+[3.0 Versiyası] 
+Hüquqlar: [açıq standart] 
+Təsvir: ciddi desək, EPS təsvirlər üçün format deyil. Lakin 
+rəsmlərin təsvir edilməsi üçün tez-tez istifadə olunur. EPS formatı çap 
+səhifələrinin tərtibatı üçün printerlərdə tez-tez istifadə edilən PostScript 
+dili əsasında yaradılmışdır. EPS formatı PostScript dilinin köməyi ilə 
+kodlaşdırılmış səhifələri başqa sənədlərə 'inkapsulyasya etməyə' imkan 
+verir. 
+Məzmunu: səhifələmə dili, vektor qrafikası 
+ 
+SVG 
+ 
+Adı: SVG • Scalable Vector Graphics95 (miqyaslana bilən vektor 
+qrafikası) 
+Müəllif: World Wide Web Consortium (W3C) 
+Naşir: World Wide Web Consortium (W3C) 
+Nəşr tarixi: 2003-cü il 
+ 
+                                           
+93 
+0%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0
+%BA%D0%B0 (rus dilində, redaktorun qeydi) 
+94 http://ru.wikipedia.org/wiki/Encapsulated_PostScript (rus dilində, redaktorun qeydi) 
+95 http://ru.wikipedia.org/wiki/Scalable_Vector_Graphics (rus dilində, redaktorun 
+qeydi) 
+ 
+ 
+ 54
+İdentifikator:  
+http://www.w3.org/TR/SVG/index.html [1.1 versiyası] 
+Hüquqlar: [açıq standart] 
+Təsvir: SVG standartı ikiölçülü qrafikanı XML vasitəsi ilə təsvir 
+edən dildir. SVG qrafik obyektlərin üç tipi üçün nəzərdə tutulmuşdur: 
+vektor qrafikası formaları (məsələn, düz və əyri xətlərdən ibarət olan 
+sxemlər), təsvirlər və mətn. Qrafik obyektləri qruplaşdırmaq, 
+transformasiya etmək və daha əvvəl hazırlanmış obyektlərə yerləşdirmək 
+olar. SVG standartı əvvəlcə vektor qrafikası şəklində sənədlər üçün 
+nəzərdə tutulurdu, lakin ondan raster təsvirləri üçün də istifadə oluna 
+bilər. 
+Məzmunu: vektor qrafikası 
+Əlaqələr: XML 
+ 
+2.4. Başqa texniki standartlar 
+ 
+Texniki standartlar müxtəlif funksiyaların reallaşdırmasına aiddir: 
+• İnformasiyanın axtarışı və çıxarılması – informasiya sisteminə 
+sorğu tərtib edilməsi, axtarışın nəticələrinin alınması və emal edilməsi 
+vasitələri. 
+• İnformasiyanın ötürülməsi – rəqəmsal məlumatların 
+çatdırılması. İnformasiyanın ötürülməsi qeyri-spesifik (məsələn, TCP/IP 
+kimi aşağı səviyyəli) və ya konkret proqram mühiti (məsələn, http) ilə 
+daha çox bağlı ola bilər. Hazırda aşağı səviyyəli əsas protokol TCP/IP-
+dir. Daha yüksək səviyyəli ixtisaslaşdırılmış protokollar TCP/IP əsasında 
+qurulur. 
+• Simvolların kodlaşdırması – simvolların kodlaşdırması 
+mətnlərin kompüter sistemində saxlanması qaydalarını müəyyən edir. 
+ 
+2.4.1. İnformasiyanın axtarışı və çıxarılması 
+ 
+OAI-PMH 
+ 
+Adı: OAI-PMH96 • Open Archives Initiative Protocol for Metadata 
+Harvesting (2.0 versiyası) (metaməlumatlar yığımı üçün protokol) 
+                                           
+96 http://socionet.ru/docs/infohubs.htm (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 55
+Müəllif: Sompel, Herbert van de, Lagoze, Carl 
+Naşir: Open Archives Initiative 
+Nəşr tarixi: 2002-ci il 
+İdentifikator: 
+http://www.openarchives.org/OAI/openarchivesprotocol.html  
+Hüquqlar: [açıq standart] 
+Təsvir: “Açıq arxivlər” təşəbbüsünün protokolu məlumat 
+bazalarında və ya anbarlarda saxlanılan, lakin 'standart' http/html/ 
+protokollarının köməyi ilə toplamaq mümkün olmayan məlumatın 
+toplanması üçün nəzərdə tutulmuşdur. Protokol http sorğularına 
+əsaslandırılmışdır, nəticələr XML formasında verilir. Yazıların müxtəlif 
+sintaksisi dəstəklənir, amma bu halda mütləq Dublin nüvəsinin 
+metaməlumatlarından istifadə edilməlidir. 
+Məzmunu: məlumatın toplanması protokolu 
+Əlaqələr: XML, Dublin Core 
+ 
+SQL 
+ 
+Adı: SQL • Structured Query Language97 (strukturlaşdırılmış 
+sorğular dili) 
+Müəllif: International Organization for Standardization (ISO) 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1987-ci il 
+İdentifikator: ISO 9075 
+Hüquqlar: [açıq standart] 
+Təsvir: SQL – relyasiya tipli məlumat bazaları üçün sorğular 
+dilidir. 1970-ci illərdə IBM şirkəti tərəfindən hazırlanmış, 1980-ci illərdə 
+standartlaşdırma prosesindən keçmişdir. SQL-ni ikinci nəşri (SQL2) 
+1992-ci ildə qəbul edilmişdir. SQL dilinin sintaksisi relyasiya tipli 
+məlumat bazalarının əsasını təşkil edən ikiölçülü cədvəllərlə 
+əməliyyatlara əsaslanır. 
+Məzmunu: sorğular dili, relyasiya tipli məlumat bazaları98 
+Əlaqələr: ODBC, http://www.iso.org (ISO veb saytı) 
+ 
+                                           
+97 http://ru.wikipedia.org/wiki/Structured_Query_Language (rus dilində, redaktorun 
+qeydi) 
+98  http://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D1%8F%D1%86%D0%B 
+ 
+ 
+ 56
+Z39.50 
+ 
+Adı: Z39.5099 • Information and documentation — Information 
+retrieval (Z39.50) — Application service definition and protocol 
+specification 
+(informasiya və sənədləşmə – informasiya axtarışı – əlavə və 
+protokolun spesifikasiyası) 
+Müəllif: ANSI/NISO 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1988-ci il 
+İdentifikator: ISO 23950:1998 
+Hüquqlar: [açıq standart] 
+Təsvir: Z39.50 – “Müştəri – server” arxitekturalı qeyri-bircins 
+paylanmış mühitdə informasiya axtarışı və toplanması protokolu. 
+Sorğular Reversed  Polish  Notation (RPN)100 köməyi ilə ifadə edilir, 
+axtarışın nəticələri müxtəlif formatlarda, o cümlədən MARC (Machine 
+Readable Catalogue) formatında101 alına bilər. İnformasiyanın axtarışı 
+komponenti sorğunun emalı və icrası ilə, informasiyanın toplanması 
+komponenti isə axtarışın nəticələrinin emalı ilə məşğul olur. 
+Məzmunu: informasiyanın axtarışı və toplanması protokolu 
+Əlaqələr: MARC, http://www.iso.org (ISO veb saytı) 
+ 
+2.4.2. İnformasiyanın ötürülməsi  
+ 
+TCP/IP  
+ 
+Adı: TCP/IP102 • Transmission Control Protocol/Internet 
+Protocol (məlumatların ötürülməsini idarəetmə protokolu /İnternet 
+protokol) 
+                                           
+8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B0%D0%B7%
+D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85 (rus dilində, 
+redaktorun qeydi) 
+99 http://z3950.ruslan.ru/ (rus dilində, redaktorun qeydi) 
+100 Əks Polşa yazısı riyazi ifadənin adi (“yumru”) və kvadrat mötərizələrdən istifadə 
+edilmədən yazılması üsulu kimi 1920-ci ildə Yan Lukaseviç tərəfindən təklif edilmişdir. 
+(rus dilində, redaktorun qeydi) 
+101 http://ru.wikipedia.org/wiki/MARC (rus dilində, redaktorun qeydi) 
+102 http://ru.wikipedia.org/wiki/TCP/IP (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 57
+Müəllif: Internet Engineering Task Force 
+Naşir: World Wide Web Consortium (W3C) 
+Nəşr tarixi: 1981-ci il 
+İdentifikator: RFC793, RFC1122 
+Hüquqlar: [açıq standart] 
+Təsvir: məlumatların ötürülməsini idarəetmə protokolu (TCP) və 
+İnternet protokolu (IP) birlikdə işləyir və İnternet şəbəkəsində 
+informasiyanın hərəkətinin əsasını təmin edirlər. IP protokolu şəbəkə 
+səviyyəsində işləyir. Bu səviyyədə məlumatların düzgün çatdırılmasına 
+heç bir zəmanət verilmir. TCP protokolu IP protokolunun 'üstündən' 
+işləyir və düzgün məlumatların zəmanətli çatdırılmasını təmin edir. IP-
+dən fərqli olaraq, TCP - konnektivliyə yönəldilmiş protokoldur. 
+Məzmunu: İnternet, məlumatların ötürülməsi 
+Əlaqələr: HTTP, FTP 
+ 
+HTTP 
+ 
+Adı: HTTP • HyperText Transfer Protocol103 (hipermətnin 
+ötürülməsi protokolu) 
+Müəllif: Berners-Lee, Tim 
+Naşir: World Wide Web Consortium (W3C) 
+Nəşr tarixi: 1991-ci il 
+İdentifikator: http://www.w3.org/Protocols/  
+Hüquqlar: [açıq standart] 
+Təsvir: Hipermətnin ötürülməsi protokolu TCP/IP-nin 'üstündən' 
+işləyir və tələb edilən hipermətn sənədlərinin İnternet kanallar üzrə 
+ötürülməsi üçün nəzərdə tutulmuşdur. Http sorğusu çərçivəsində ötürülən 
+parametrlər toplusundan, məsələn, OAI kimi yüksək səviyyəli protokollar 
+üçün istifadə etmək olar. 
+Məzmunu: hipermətnin ötürülməsi 
+Əlaqələr: TCP/IP, OAI 
+ 
+FTP 
+ 
+Adı: FTP • File Transfer Protocol104 (faylların ötürülməsi 
+protokolu) 
+                                           
+103 http://ru.wikipedia.org/wiki/HyperText_Transfer_Protocol (rus dilində, redaktorun 
+qeydi) 
+104 http://ru.wikipedia.org/wiki/File_Transfer_Protocol (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 58
+Müəllif: Neigus, Nancy J. 
+Naşir: Internet Engineering Task Force 
+Nəşr tarixi: 1973-ci il 
+İdentifikator: http://www.ietf.org/rfc/rfc542.txt  
+Hüquqlar: [açıq standart] 
+Təsvir: FTP protokolu kompüterdən (əməliyyat sistemlərindən) 
+asılı olmayan faylların ötürülməsi üçün nəzərdə tutulmuş protokoldur. O 
+İnternetin yaranması ilə bağlıdır və şəbəkənin əsasını təşkil edən 
+elementlərdən biri hesab oluna bilər. 
+Məzmunu: faylların ötürülməsi 
+Əlaqələr: TCP/IP 
+ 
+2.4.3. Simvolların kodlaşdırılması 
+ 
+ASCII • American Standard Code for Information Interchange 
+ 
+Adı: ASCII105 • American Standard Code for Information 
+Interchange (informasiya mübadiləsi üçün Amerika standart kodu) 
+Müəllif: ANSI (American National Standards Institute) 
+Naşir: ANSI 
+Nəşr tarixi: 1967-ci il 
+İdentifikator: [?] 
+Hüquqlar: [açıq standart] 
+Təsvir: Kompüter sistemlərində simvollar (hərflər, rəqəmlər, 
+xüsusi işarələr) üçün 7-bitlik kod. ASCII 1963-cü ildə yaradılmış, onun 
+son versiyası isə 1967-ci ildə buraxılmışdı. ASCII simvollar toplusuna 
+128 müxtəlif işarə daxildir, onlardan 95-ini çap etmək olar, qalan 33-ü isə 
+idarəetmə simvollarıdır. 
+Məzmunu: simvolların kodlaşdırılması 
+Əlaqələr: ISO 8859-1, Unicode 
+ 
+ISO 8859-1 / ISO LATIN 1 
+ 
+Adı: ISO 8859-1 • ISO Latin1106 
+Müəllif: International Organization for Standardization (ISO) 
+                                           
+105 http://ru.wikipedia.org/wiki/ASCII (rus dilində, redaktorun qeydi) 
+106 http://ru.wikipedia.org/wiki/ISO-8859-1 (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 59
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1998-ci il 
+İdentifikator: ISO - 8859-1, ECMA-94 
+Hüquqlar: [açıq standart] 
+Təsvir: ASCII standartına daxil olan 95 işarə bütün Avropa 
+dillərini təmsil etməyə imkan vermir. Bu məsələni həll etmək məqsədi ilə 
+European Computer Manufacturers Association (ECMA-8) və IBM 
+firması 8-bitlik versiya yaratdılar. IBM müxtəlif dillər üçün müxtəlif kod 
+səhifələrini təklif etdi. ECMA-nın 8-bitlik standartı sonradan 
+standartlaşdırma üzrə beynəlxalq təşkilat (ISO) tərəfindən qəbul edilmiş 
+və ona ISO- 8859-1 qeydiyyat nömrəsi verilmişdir. 
+Məzmunu: simvolların kodlaşdırılması 
+Əlaqələr: ASCII, Unicode, http://www.iso.org (ISO veb saytı) 
+ 
+UNICODE 
+ 
+Adı: Unicode107 
+Müəllif: Unicode Incorporated 
+Naşir: International Organization for Standardization (ISO) 
+Nəşr tarixi: 1992-ci il 
+İdentifikator: ISO/IEC 10646 ECMA-94 
+Hüquqlar: [açıq standart] 
+Təsvir: Kompüter sistemlərində hərflər və rəqəmlər kimi 
+simvolların 16-bitlik təsviri. Unicode standartı 8-bitlik işarələr 
+toplusunun genişləndirilməsi və həm qərb dilləri, həm də latın 
+əlifbasından istifadə edilməyən Çin, ərəb, Kiril və ivrit əlifbaları üçün 
+işarələrin universal kodlaşdırılmasına keçid üçün yaradılmışdır. Unicode 
+standartının 3.0 versiyasına 49.194 işarə daxildir. Unicode standartında 
+müxtəlif kodlaşdırma sxemlərindən, o cümlədən geniş tətbiq olunan 
+dəyişən uzunluqlu UTF-8 kodundan istifadə edilir. Unicode – XML üçün 
+susmaya görə simvollar toplusudur. 
+Məzmunu: simvolların kodlaşdırılması, qeyri-latın yazıları 
+Əlaqələr: ASCII, XML, http://www.iso.org (ISO veb saytı) 
+ 
+                                           
+107 http://ru.wikipedia.org/wiki/Unicode (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 60
+ 
+ 
+ 
+ 
+ 
+ 
+3. Nəticələr 
+ 
+3.1. Mədəniyyət sahəsində metaməlumatların standartları 
+ 
+Avropada və dünyada geniş istifadə edilən əsas standartların sayı 
+məhduddur. Onlardan ən müvəffəqiyyətli layihələrdə istifadə olunur, 
+lakin tədqiqatlar göstərmişdir ki, uyğunluğa nail olmaq üçün hələ çox 
+uzun yol keçmək lazımdır. Gələcək layihələrdə bəzi ölkələrin milli 
+standartlarını da nəzərə almaq lazımdır. 
+Dublin nüvəsi (DC) resursların axtarışı üçün metaməlumatların 
+'minimal standartı' kimi, o cümlədən Europeana Avropa rəqəmsal 
+kitabxanasında da intensiv istifadə olunur. Lakin DC ilə 
+metaməlumatların sektor standartları arasında uyğunluq yaratmaq və 
+informasiya mübadiləsini bu uyğunluq əsasında təşkil etmək lazımdır. Bu 
+məsələnin həlli üçün XML-dən və xüsusən, XML ilə bağlı XSLT108 
+(Extensible Stylesheet Language Transformations – genişləndirilən stillər 
+dilinin transformasiyaları) dilindən istifadə edilə bilər. 
+XSLT dilindən XML sənədinin bir tipini XML sənədinin başqa 
+tipinə (və ya insanın oxuya biləcəyi formaya) transformasiya etmək üçün 
+istifadə olunur. Yəni mədəniyyətin müəyyən sektoru üçün spesifik 
+standartlara uyğun metaməlumatların Dublin nüvəsinin standartının 
+uyğun metaməlumatlara transformasiya mexanizmini işləyib hazırlamaq 
+lazımdır. Lakin nəzərə almaq lazımdır ki, metaməlumatların məhdud 
+sayda elementlərindən başqa əks transformasiya, yəni Dublin nüvəsinin 
+standartından sektoral standarta transformasiya, çətin ki, mümkündür.  
+ 
+                                           
+108 http://ru.wikipedia.org/wiki/XSLT (rus dilində, redaktorun qeydi) 
+ 
+ 
+ 61
+3.2. Texniki standartlar 
+ 
+Müxtəlif multimedia resursları üçün çoxlu texniki standartlar, o 
+cümlədən çoxlu açıq standartlar mövcuddur. 
+Standartlarla əlaqədar, Minerva layihəsi çərçivəsində “Mədəniyyətə 
+aid rəqəmsal informasiya resurslarının yaradılması proqramları üçün 
+texniki rəhbər vəsait”109 adlı yaxşı müasir məlumat kitabçası 
+hazırlanmışdır və dərc edilmişdir. Mədəniyyət müəssisələri həmin 
+məlumat kitabçasından istifadə etməlidirlər.  
+Bu məlumat kitabçası bir sıra üstünlüklərə malikdir: 
+Çoxdillilik – ana dilində məlumat kitabçasından istifadə etmək 
+mədəniyyət müəssisəsi üçün böyük üstünlükdür. Bu məlumat 
+kitabçasının başqa dillərə tərcümə edilməsi alqışlanır. 
+Məlumat kitabçası mədəniyyət üzrə mütəxəssislər üçün nəzərdə 
+tutulmuşdur – sırf texniki xarakterli rəhbər vəsaiti anlama 
+mədəniyyət müəssisələrinin əməkdaşlarının əksəriyyətini təşkil edən 
+humanitar sahə mütəxəssisləri üçün çətindir. 
+Yenilənmə – texnologiyaların sürətlə dəyişməsini nəzərə alaraq 
+texniki rəhbər vəsaitin daim yenilənməsi çox vacibdir. 
+                                           
+109 Technical Guidelines for Digital Cultural Content Creation Programmes 
+http://www.minervaeurope.org/interoperability/technicalguidelines.htm  
+[müxtəlif (ingilis, alman, holland, fransız, italyan, yunan dillərində) versiyalara 
+istinadlarla] 
+ 
+ 
+ 62
+4. Standartların göstəricisi 
+ 
+AIFF səh. 43 
+ASCII səh. 58 
+ASF səh. 51 
+AU səh. 45 
+AVI səh. 46 
+BMP səh. 39 
+CDWA səh. 21 
+CIDOC-CRM səh. 31 
+DJVU (mətn) səh. 34 
+DJVU (təsvir) səh. 39 
+DUBLIN CORE səh. 33 
+EAD səh. 24 
+EPS səh. 53 
+FLV (Flash Video Format) səh. 47 
+FRBR səh. 26 
+FTP səh. 57 
+GIF səh. 40 
+HTML səh. 35 
+HTTP səh. 57 
+ISAAR (CPF) səh. 25 
+ISAD (G) səh. 24 
+ISO 2709 səh. 28 
+ISO 8859-1 / ISO LATIN1 səh. 58 
+JPG səh. 40 
+LIDO səh. 32 
+MAB2 səh. 26 
+MARC səh. 27 
+METS səh. 28 
+MIDAS səh. 30 
+MODS səh. 29 
+MOV (Quicktime) səh. 47 
+MP3 səh. 43 
+MP4 səh. 48 
+MPEG1 səh. 48 
+MPEG2 səh. 49 
+MUSEUMDAT səh. 22 
+OAI-PMH səh. 54 
+OBJECT ID səh. 22 
+PDF səh. 35 
+ 
+ 
+ 63
+PNG səh. 41 
+QUICKTIME VR səh. 52 
+REALAUDIO səh. 45 
+RM (Real Media)  səh. 49 
+RTF  səh. 36 
+RUSMARC  səh. 29 
+SGML səh. 37 
+SPECTRUM səh. 23 
+SQL səh. 55 
+SVG səh. 53 
+SWF (Flash Movie) səh. 50 
+TCP/IP səh. 56 
+TEI səh. 33 
+TIFF səh. 42 
+UNICODE səh. 59 
+VRA səh. 31 
+VRML97 səh. 51 
+WAV səh. 44 
+WMA səh. 44 
+WMV (Windows Media Video) səh. 50 
+WORD səh. 37 
+X3D / EXTENSIBLE 3D səh. 52 
+XML  səh. 38 
+Z39.50 səh. 56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 64
+ 
+ 
+ 
+MƏDƏNİ İRSİN RƏQƏMLƏŞDİRİLMƏSİ 
+LANDŞAFTLARININ MÜXTƏLİFLİYİ VƏ 
+MƏDƏNİYYƏTİN MOBİLLİYİ  
+ 
+ 
+İncəsənət və mədəniyyət sahələrində müasir texnologiyaların 
+tətbiqi maraqlı məsələdir. Elektron kitablar, planşetlərdə rəsm çəkmə, 
+istənilən səsi sintezləşdirən musiqi proqramları – bütün bunlar əbədi ilə 
+ani arasında saysız-hesabsız incə əlaqə nümunələridir. 
+Məsələn, “Bi-Bi-Si”nin “Your Paintings” adlı İnternet-layihəsinin 
+bazasında yerləşdirilmiş fotoşəkil əsasında mütəxəssislər Antonis van 
+Deykin əvvəllər məlum olmayan bir rəsm əsərini tanımışlar. Kral I Karlın 
+arvadı Henriyetta-Mariyanın freylinası Oliviya Boteler Porterin (Olivia 
+Boteler Porter) portreti pis vəziyyətdə idi. Bu əsər surət hesab edilir, ona 
+görə də sərgilərdə nümayiş etdirilmirdi. Bununla belə, Böyük 
+Britaniyanın ictimai muzeylərində saxlanılan bütün təsviri incəsənət 
+əsərlərindən ibarət baza təşkil etmək məqsədilə həyata keçirilən layihə 
+üçün həmin rəsm əsərinin fotoşəklini çəkdilər. İngiltərənin şimalında 
+yerləşən Darem qraflığındakı Bouz (Bowes) muzeyinin ehtiyat fondunda 
+saxlanılan portretin fotoşəklini görən ekspertin rəyinə əsasən, həmin 
+əsərin atributları düzgün müəyyən edilmiş və onu bərpa edilmək üçün 
+göndərmişlər. 
+Başqa bir misal. Son vaxtlar dünyanın bir sıra ölkələrində QR-
+kodlar texnologiyası istifadə olunur. Bu kodlar “ağıllı” qurğular 
+(smartfon, planşet) vasitəsilə oxuna bilən xüsusi yapışdırma şəkillərdir. 
+Müvafiq qadjet (gadget – müəyyən funksional imkanlara malik, ölçüləri 
+və çəkisi kiçik olan rəqəmsal qurğuların ümumi adıdır) ağ-qara rəngli 
+koda tərəf tuşlananda lazımi informasiya ekranda görünür. 
+Jurnalist Georq Holtser (Georg Holzer) və proqramçı Bruno 
+Hausenberger (Bruno Hautzenberger) Klagenfurtda müxtəlif yerlərdə 70 
+ədəd sarı rəngli, hər birinə smartfon, planşet və ya başqa qurğular 
+vasitəsilə oxuna bilən xüsusi ştrixkod vurulmuş yapışdırma şəkil 
+yapışdırmışlar. 
+Yapışdırma şəkillərə həm də NFC simsiz rabitə modulları 
+ 
+ 
+ 65
+aparatlarının reaksiyası üçün həssas olan radiotezlik nişanları 
+vurulmuşdur. 
+Kodda və nişanlarda bu və ya digər klassik ədəbi əsərə istinad 
+şifrlənmişdir. Bu əsərlərin hər biri ictimai sərvət statusuna malikdir və 
+məhdudiyyətsiz yayıla bilər. Mətnlər “Qutenberq layihəsi” və “Amazon” 
+internet mağazası tərəfindən təqdim edilmişdir. 
+Yapışdırma yerləri, bir qayda olaraq, müvafiq yapışdırma 
+şəkillərdə şifrlənmiş əsərin konteksti ilə bağlıdır. Holtser və 
+Hausenbergerin sözlərinə görə, bu layihənin müəllifləri, ədəbi əsərlərin 
+yayılmasından əlavə, bir sıra başqa məqsədlər də nəzərdə tuturlar. Həmin 
+məqsədlərdən biri - müəllif hüquqları probleminin müzakirəsinə çağırış, 
+ikincisi - Klagenfurtda şəhər kitabxanası olmamasına diqqəti cəlb 
+etməkdir. 
+Web 2.0 sisteminin, mobil şəbəkələrin, habelə smartfon və 
+planşet tipli “ağıllı” qurğuların yaranması ilə əlaqədar, mədəni irsin 
+rəqəmləşdirilməsi xeyli demokratikləşmişdir. İstehsalın ağırlıq mərkəzi 
+“sübut et ki, sənin buna haqqın var” formulundan “səni dayandıran 
+nədir?” formuluna doğru yerini dəyişmişdir. 
+İndi həm Şəbəkə, həm də bütün dünya mobil əlavələr 
+istiqamətində hərəkət edir. Veb-proqramçılar stasionar kompüterlər və 
+noutbuklar üçün məhsul və kontent yaratmaq üçün illər boyu çalışırdılar. 
+Bu yanaşma praktiki olaraq hər yerdə üstünlük təşkil edirdi. Yaponiya 
+sakinlərindən başqa, çox cüzi sayda adam mobil telefonlar vasitəsilə 
+Şəbəkəyə qoşulur, buna cəsarət edənlər də böyük çətinliklərlə 
+rastlaşırdılar. Proqram əlavələrinin “əvvəlcə mobil variant!” prinsipi 
+əsasında yaradılması  həm istehsalçıların özləri üçün yeni perspektivlər 
+açır, həm də istifadəçilərin saytla və ya proqram əlavələri ilə işinə 
+əhəmiyyətli dərəcədə kömək edir. Saytlar və əlavələr (proqramlar) hər 
+şeydən əvvəl mobil qurğularda istifadə edilmək üçün 
+layihələşdirilməlidir. Beləliklə: 
+     ● sürətlə inkişaf etməkdə olan mobil rabitənin yeni 
+imkanlarına hazırlaşmaq; 
+     ● mobil qurğuların dizaynına xas olan məhdudiyyətlər nəzərə 
+alınmaqla, əsas diqqəti öz məhsulları üçün düzgün prioritetlər üzərində 
+cəmləşdirmək; 
+     ● mobil qurğularla və onların istifadəsi metodları ilə bağlı 
+innovasiya təcrübəsi və yeni bacarıqlar əldə etmək imkanı yaranır. 
+ 
+ 
+ 66
+Mobil qurğular üçün layihələndirmə sayəsində veb-dizaynerlər 
+həm mobil İnternetin və onunla bağlı imkanların geniş miqyas almasına 
+hazırlaşır, həm də əsas diqqəti mədəniyyət sahəsində innovasiyalar 
+üzərində cəmləşdirməyə məcbur olurlar. 
+Sosioloq Con Urri təklif edir ki, cəmiyyət anlayışına yeni tərif 
+vermək və onu qeyri-adekvat metaforlardan təmizləməyə çalışmaq 
+əvəzinə, mobilliyi, yəni insanların, əşyaların, obrazların müxtəlif 
+yerdəyişmələrini sosiologiyanın mərkəzi anlayışına çevirmək lazımdır. 
+Bunun üçün yeni metaforlar toplusu tələb olunur, çünki metaforlar 
+insanın dünyanı dərk etməsi və ona müraciət üsullarından biridir. 
+Səyahət, axın, sərhəd, şəbəkə, köçərilər, turistlər kimi metaforlara, 
+texnologiyaların aktor-şəbəkə analizinə müraciət edən Urriyə görə, 
+"cəmiyyət" anlayışının əsasını başqa regionlardan fərqli, hüdudları dəqiq 
+məlum olan region metaforu təşkil edir. Halbuki qloballaşma dünyası - 
+şəbəkələr və axınlar dünyasıdır, orada mədəni əlaqələr dövlətlərin milli 
+əraziləri ilə məhdudlaşmır və ümumiyyətlə, bu əlaqələr fiziki məsafələrlə 
+müəyyən olunmur. 
+Beləliklə, rəqəmsal məkanda mədəniyyətin məxsusi mobilliyi 
+yaranır. Buraya iki proses daxildir - mədəniyyətin böyük məsafələrə 
+ötürülməsi və onun hiperlokalizasiyası, xəritə üzərində dəqiq göstərilən 
+konkret məkanla, konkret nöqtə ilə bağlılıq. 
+Birinci prosesdə mədəni kodlar translyasiya edilir. Mədəni kod - 
+bu və ya digər şeyin, yaxud hadisənin (maşın, yemək, münasibətlər, 
+bizim tərbiyə olunduğumuz ölkənin mədəni konteksti) şüuraltı mənasıdır. 
+Müxtəlif ölkələrin mədəniyyətlərinin bir-birindən fərqlənməsi hamıya 
+məlumdur. Amma insanların yalnız az bir qismi anlayır ki, müxtəlif 
+mədəniyyətlərə mənsub olan insanlar eyni informasiyanı məhz bu 
+səbəbdən müxtəlif şəkildə qəbul edirlər. Deməli, mədəniyyətin İnternetdə 
+translyasiyası onun qorunub saxlanmasına imkan yaratmaqla bərabər, 
+həm də insanlar arasında qarşılıqlı anlaşmanın əsasıdır. 
+Bu halda ölkənin böyüklüyü və əhəmiyyəti həmin ölkənin öz 
+mədəniyyətini İnternetdə nə dərəcədə müvəffəqiyyətlə təqdim edə 
+bilməsi ilə müəyyən olunacaqdır. Gələcək dövrün mədəni stili də 
+bununla müəyyən olunacaqdır. 
+Onu da yadda saxlamaq lazımdır ki, mədəni irsi təkcə surroqratlar 
+şəklində deyil, həm də həqiqi, əsl nüsxələrdə qoruyub saxlamaq lazımdır. 
+Burada ilk növbədə “həqiqi nüsxə - surət” dixotomiyası fikrimizə gəlir. 
+ 
+ 
+ 67
+A.Peres-Revertenin “Düma klubu və ya Rişelyenin kölgəsi” romanının 
+baş qəhrəmanı bukinist Lukas Korzo kitabın əslliyini onun səhifələrinin 
+xışıltısına əsasən müəyyən edir. Rəqəmsal formatda isə “kağız şəklində” 
+kitabları görmürük, lakin onların məna xəzinəsindən bəhrələnirik. 
+Beləliklə, qorunub saxlanmış mədəni irs mədəniyyətin 
+özünəməxsus empirik bünövrəsi, mədəni ənənənin həqiqiliyinin, yəni 
+doğruluğunun müəyyən olunduğu yerdir.  
+ 
+   
+Lətifə Məmmədova, 
+Azərbaycan Respublikası mədəniyyət və turizm  
+nazirliyinin kitabxana sektorunun müdiri, 
+YUNESKO-nun “İnformasiya hamı üçün” proqramının  
+Azərbaycan komitəsinin sədri 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 68
+ 
+ 
+ 
+RƏQƏMLƏŞDİRMƏ: 
+AVROPA  MUZEYLƏRİ, 
+ARXİVLƏRİ  VƏ 
+KİTABXANALARI  ÜÇÜN 
+STANDARTLAR 
+LANDŞAFTI 
+ 
+ 
+ 
+Nəşriyyat redaktoru: 
+Ələddin Əsədzadə 
+ 
+Kompüter operatoru: 
+Aybəniz Osmanova 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Çapa imzalanmışdır: 22.07.2013 
+Ofset kağızı. Format 70x100/16 
+Həcmi.4,25 ç.v. Tiraj 500 nüsxə. 
+ 
+“Nağıl Evi” mətbəəsində çap olunmuşdur. 
+Ünvan: Bakı şəhəri, 28 May küçəsi 78/5. 
+Tel: (994 12) 498-56-38 

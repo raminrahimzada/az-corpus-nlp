@@ -1,0 +1,4860 @@
+ 
+ 
+1
+Ə.R.Bayramov, N.T.Vəliyev, T.B.Abbasov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Ali məktəblər üçün dərslik) 
+ 
+ 
+ 
+Azərbaycan Respublikasının Təhsil Nazirliyi  
+tərəfindən təsdiq edilmişdir 
+ 
+ 
+ 
+ 
+ 
+ 
+Gəncə - 2011
+ 
+ 
+2
+ 
+Rəy verənlər:  
+əməkdar elm xadimi, t.e.d.,   
+professor  T.B.Qocayev, t.e.n.,dosent R.Đ.Maçanov,   
+t.e.n.,dosent R.Ə.Alıyev 
+            
+ 
+ 
+ 
+ 
+Elmi redaktoru:  
+t.e.n., prof. Ənvər Rza oğlu Bayramov 
+ 
+ 
+ 
+ 
+ 
+“Tətbiqi mexanika” fənni sadə dildə, dolğun və məzmunlu 
+yazılmış “Materiallar müqaviməti”, “Maşın və mexanizmlər 
+nəzəriyyəsi” və “Maşın hissələri”  fənlərini əhatə edir.  
+Birinci bölmə – “Materiallar müqaviməti” 
+prof.Ə.R.Bayra-mov, dos.T.B.Abbasov, ikinci və üçüncü 
+bölmələr – “Maşın və mexanizmlər nəzəriyyəsi”, “Maşın 
+hissələri” dos.N.T.Vəliyev tərəfindən yazılıbdır.  
+Dərslik texniki ali məktəb tələbələrinin bakalavr pilləsi 
+üçün nəzərdə tutulmuşdur. Ondan, həmçinin mühəndis-
+konstruktorlar da istifadə edə bilərlər.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Azərbaycan Texnologiya Universiteti 
+ 
+ 
+3
+Müqəddimə 
+Elm və texnikanın sürətlə inkişafı daha yüksək ixtisaslı kadr 
+hazırlığını tələb edir.Bu isə ali məktəblərdə tədris olunan fənlər 
+qarşısında əlavə tələblər qoyur. Bunlardan biri kimi ümumi 
+mühəndislik fənlərinin daha da təkmilləşdirilməsini, digəri kimi isə- 
+möhkəmlik silsiləsinə aid fənlərin daha dərindən öyrənilməsi tələbini 
+göstərmək olar. 
+Ali məktəblərdəki iş təcrübəsi göstərir ki, bakalavr təhsil 
+pilləsində kadr hazırlığının keyfiyyəti yalnız professor-müəllim 
+heyətinin işindən asılı deyil. Burada yeni,daha asan mənimsənən 
+dərsliklərin olmasının və tələbələrin mövcud ədəbiyyat üzərində 
+sərbəst işləyə bilməsinin də rolu çoxdur.Tələbələrin fənn üzərində 
+müstəqil çalışmaları onların biliyini dərinləşdirməklə yanaşı, həm də 
+bir mühəndis kimi yetişmələrinə imkan verir. Bu məqsədlə ali 
+məktəblərin son tədris planlarında da materialların müəyyən bir 
+hissəsinin sərbəst öyrənilməsi tələbələrin özlərinə həvalə olunur. Bu 
+baxımdan ayrı-ayrı fənlər üzrə dərsliklərin olması xüsusi əhəmiyyət 
+kəsb edir.  
+Təqdim olunan dərslikdə proqram üzrə nəzərdə tutulan nəzəri 
+hissələrlə yanaşı, hər bir mövzuya aid konkret məsələlər də həll 
+olunmuşdur ki, bu da materialın mənimsənilməsi və digər uyğun 
+məsələlərin həlli üçün tələbələrin işinə əhəmiyyətli dərəcədə 
+köməklik göstərəcəkdir. 
+Dərslik qarşısında ümumi mühəndislik fənlərindən materiallar 
+müqaviməti, maşın və mexanizmlər nəzəriyyəsi və maşın hissələri 
+kimi fənlərinin əsas prinsiplərini öyrətmək kimi bir məqsəd 
+qoyulmuşdur.  
+Dərslikdə həmçinin bəzi laboratoriya-sınaq nəticələri və 
+nümunələr haqqında da qısa məlumat vardır. 
+ 
+ 
+4
+Beləliklə, dərsliyə aşağıdakı sərbəst struktur elementləri daxil 
+edilmişdir: ətraflı, sadə, anlaşıqlı dildə yazılmış nəzəriyyə; tipik və 
+xarakterik olan məsələlərin həlli yolları.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bölmə I. 
+Materiallar müqaviməti 
+Bu bölmədə maşın və avadanlıqların ayrı-ayrı detallarının 
+möhkəmliyə, sərtliyə, dayanıqlılığa və dözümlülüyə 
+hesablanmasının nəzəri əsasları verilərək  
+xarakterik məsələlərin həlli yolları da göstərilmişdir 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+I – fəsil. Giriş 
+1.1. “Materiallar müqaviməti” bölməsinin  məqsədi  
+və onun inkişaf tarixi 
+Dərsliyin “Materiallar müqaviməti” bölməsi elmi texniki ali 
+məktəblərdə öyrənilən ən vacib ümumi mühəndis fənnidir. 
+Materiallar müqaviməti nəzəri mexanikanın əsas nəticələrinə 
+əsaslanaraq riyazi aparatlardan istifadə edərək, nəhayət, nəzəri və 
+təcrübi araşdırmalar apararaq mühəndislik konstruksiyaları, qurğular, 
+maşınlar, mexanizmlər, tərtibatlar və b., xüsusən, möhkəmlik, sərtlik, 
+dayanıqlıq, dözümlülük, etibarlıq, qənaətlilik, qəzasızlıq məsələləri 
+istisna olmadan, əsas fundamental məsələləri həll edir. Elə bu 
+məsələlər materiallar müqaviməti fənninin əsas məqsədidir.  
+Deformasiya olunan bərk cismin mexanikasının ayrılmaz bir 
+hissəsi olan materiallar müqaviməti elmi elastiqiyyət nəzəriyyəsinin 
+geniş nəzəri tədqiqatlarına əsaslanır. 
+Bu elmdə elastiki bircinsli mühitin xarici təsir altında ümumi 
+xassələri öyrənilir. 
+Əgər tarixə müraciət etsək, görərik ki, astronomiya həyata 
+riyaziyyatı, riyaziyyat isə mexanikanı bəxş edib. Elmlər ayrılıqda 
+özləri inkişaf edərək və eləcə də biri digərini inkişaf etdirərək 
+ictimaiyyətin inkişafı mərhələsində insanların dəniz səyahətlərində, 
+ticarətdə, ərzaq məhsulları istehsalında tələblərini ödəmişlər. 
+Tədqiqatının əsasını mütləq bərk cisim təşkil edən klassik 
+mexanikanın meydana gəlməsi, müəyyən mərhələdə, maşınların 
+yaradılmasında və inkişafında, inşaatda, iqtisadi effektlərin istifadə 
+olunmasında bir maneəyə çevrilmişdi. Lazım gəlmişdi ki, mütləq 
+bərk cismə onun real xassəsi – deformasiya olunması xassəsi verilsin. 
+Sonra deformasiya olunan cisimlərin mexanikası haqqında elm 
+meydana gəlmişdi. Lakin bu halda da bir neçə anlayışlar 
+mücərrədləşdirilmişdi, daha doğrusu, cisimlərin xassəsi 
+ideallaşdırılmışdı. Materiallar müqaviməti elminin meydana gəlməsi 
+mürəkkəbliyi və xüsusiyyətlərinə görə müxtəlif növ tikinti və 
+qurğuların yaradılması və maşınqayırmanın geniş inkişafı ilə əlaqədar 
+olmuşdur. Analitik üsulların, dərin laboratoriya və zavod tədqiqatları 
+ 
+ 
+7
+ilə materialların xassələri və xüsusiyyətlərinə uyğun gəlməsi tələb 
+edilirdi. Bu halda bir neçə abstraksiyalar (fikir ayrılıqları), hipotezlər 
+və fərziyyələr meydana gəlmişdir ki, nəticədə də hesabatın dəqiqliyi 
+azalmışdı. Digər tərəfdən məsuliyyətli və nəhəng qurğuların dəqiq 
+hesabatı tələb edilirdi. Belə məsələlər elastiqiyyət nəzəriyyəsinin 
+verdiyi üsullarla öyrənilirdi. Beləliklə, hər iki elmin – materiallar 
+müqaviməti ilə elastiqiyyət nəzəriyyəsinin paralel inkişafı başlandı, 
+bu elmlər bir-birini tamamladı və qarşılıqlı təkmilləşmələrinə kömək 
+etdilər. 
+Qurğuların yaradılması, konstruksiyaların hazırlanması 
+materialların mexaniki xüsusiyyətləri haqqında elm tələb edirdi. Hələ 
+böyük Arximed (287-212 il b.e. qədər) materialların xassəsini 
+öyrənmişdi, lakin onun öyrəndiyinin bir hissəsi saxlanmışdı, ona görə 
+də onun nailiyyətlərinin hamısını göstərmək mümkün olmamışdı. 
+Qədim Yunanıstanda, Misirdə, Đtaliyada nəhəng memarlıq 
+tikintilərinin yaradılması materialların mexaniki xassələrinə diqqəti 
+artırdı. Lakin möhkəmlik haqqında elm yox idi. Qurğular yalnız 
+təcrübələr əsasında yaradılmış və böyük memarların bilavasitə 
+müşahidələrdən dərk etdikləri nəsildən nəslə verilmişdi. 
+Möhkəmlik məsələlərinin öyrənilməsi özünün alimliyi və 
+hərtərəfliliyi ilə fərqlənən Leonardo da Vinçinin (1452 - 1519) adı ilə 
+əlaqələndirilir. Bu böyük alimin əsərləri itirilmiş, yalnız bir hissəsi 
+son vaxtlar əldə edilmişdir. Ona görə də materiallar müqaviməti 
+fənninin yaranması tarixi Qalileo Qalileyin (1638) adı ilə bağlanılır. 
+Onlar cismi mütləq bərk hesab edərək konsol tirdə yüklə 
+deformasiya arasındakı əsas asılılığı müəyyən edə bilməmişlər, amma 
+bu məsələ üzərində çox çalışmışlar. Ancaq bir çox lazımi say 
+nisbətlərini Qaliley düzgün anlamışdı. Ən vacib hesab olunan, 
+laboratoriyalarda materialların möhkəmliyinin sınanılması məsələləri 
+də onunla bağlıdır. 
+Möhkəmlik elmlərinin zənginləşdirilməsində istər xarici ölkə 
+alimlərinin, istərsə də Azərbaycan alimlərindən Milli EA-nın müxbir 
+üzvü Y.Ə.Əmənzadənin, professorlar Đ.A.Bəxtiyarovun, M.Y.Axund-
+zadənin, S.A.Rəcəbovun, V.M.Mirsəlimovun, Ə.Đ.Đsayevin və 
+başqalarının əməyi böyükdür. 
+ 
+ 
+8
+1.2. Ümumi anlayışlar. Öyrənmə obyektləri  
+və onların sxemləşdirilməsi 
+Materiallar müqaviməti cismin, ya da mexaniki sistemin 
+deformasiya vəziyyətini öyrənməklə məşğul olur. Mexaniki sistem 
+dedikdə bərk cisimlərin (elementlərin) bir-birindən qarşılıqlı 
+asılılığının və əlaqəliliyinin məcmusu düşünülür. 
+Bərk cisimlərin əsas xüsusiyyətlərindən biri ona tətbiq olunan 
+xarici qüvvələrə müqavimət göstərmək qabiliyyətinə malik olmasıdır. 
+Bərk cisim öz forma və həcmini dəyişmədən xeyli yükə davam gətirə 
+bilər. Lakin, inşaat materialı kimi tətbiq olunan bərk cisim zahirən 
+belə görünür. Əslində təbiətdə mütləq bərk cisim yoxdur. Đstənilən 
+cisim, mühəndislik konstruksiyasının və qurğularının elementləri, 
+tətbiq olunan xarici qüvvələrin təsirindən həndəsi ölçülərini və 
+formasını dəyişir. 
+Cismin xarici qüvvələr təsirindən həndəsi ölçülərini və 
+formasını dəyişməsi hadisəsinə deformasiya deyilir. 
+Deformasiya qüvvə, temperatur və qarışıq deformasiyalara 
+ayrılırlar. 
+Əgər sistemə yalnız xarici qüvvə tətbiq olunubsa, yaxud sistem 
+yalnız temperatur təsiri altındadırsa, onda yaranan deformasiya uyğun 
+olaraq qüvvə və temperatur deformasiyası adlanır. 
+Yuxarıda qeyd edildiyi kimi, materiallar müqavimətində 
+öyrənilən cisimlər nəzəri mexanikadan fərqli olaraq mütləq bərk 
+hesab edilmir. Onlar deformasiya olunma xassələrinə görə 
+bölünürlər. Cisimlər xarici qüvvələrlə yükləndikdə həndəsi ölçülərini 
+və formalarını dəyişirlər. Bu, materialların hissəciklərinin qarşılıqlı 
+halda yerdəyişmələrinin hesabına olur. Yükü götürdükdə materialın 
+hissəciklərinin birinci haldakı (ilkin) vəziyyəti bərpa olunur. 
+Yükü götürdükdən sonra materialın ilkin ölçülərə və formaya 
+qayıtması xassəsi elastiklik adlanır. 
+Elastiklik xassəsi məlum materialların hamısına məxsusdur. 
+Deformasiya elastik və plastik (qalıq) deformasiyalara bölünür. 
+Deformasiya о vaxt elastiki deformasiya adlanır ki, yük götürüldükdə 
+о tamamilə yox olur. Əgər yükü götürdükdə material ilkin həndəsi 
+ölçülərinə qayıtmırsa, onda deformasiya plastiki olur. 
+ 
+ 
+9
+Xarici qüvvənin qiymətini artırmaqla cismin elə bir halına 
+çatmaq olar ki, onun bütöv bir cisim kimi qalması mümkün olmasın. 
+Bu halda cisim dağılmağa başlayır. Ona görə də hər bir mexaniki 
+sistemin elementi həddindən artıq deformasiya olunmamalıdır. Cisim 
+inşaat materialı və maşın elementi kimi istifadə olunarkən material 
+təyinatı və iş şəraitinə görə açıq-aydın istismar tələblərini ödəməlidir. 
+Sistemin bütün elementləri istismar tələblərini saxlamaqla yanaşı 
+sərtliyə, möhkəmliyə və dayanıqlığa malik olmalıdırlar. 
+Sərtlik dedikdə sistemin əvvəlcədən verilmiş qiymətləri 
+keçməyən yerdəyişmə almaq qabiliyyəti düşünülür. 
+Möhkəmlik dedikdə qurğuların və onların elementlərinin xarici 
+yüklər təsir etdikdə dağılmamaq qabiliyyəti düşünülür. Elementlərin 
+möhkəmliyinin saxlanması - texnoloji prosesləri təmin edərək 
+hökmən onların vahid bütöv cisim kimi mövcud olmaları deməkdir. 
+Möhkəmlik olmadan heç bir maşın, qurğu və yaxud hər hansı 
+obyekt istifadə oluna bilməz. 
+Müəyyən hallarda xarici qüvvə elementin həndəsi oxuna paralel 
+təsir etdikdə elə qiymət (böhran qiyməti) ala bilər ki, kiçik 
+həyəcanlandırma səbəbləri elementi əvvəlki vəziyyətindən kənara 
+çıxarır. Belə olduqda deyirlər ki, element dayanıqlığını itirdi. 
+Möhkəmliyə, sərtliyə və dayanıqlığa hesabat ümumi bir adda 
+birləşərək möhkəmlik hesabatları adlanır. 
+Đstənilən mühəndislik konstruksiyalarına, qurğulara təkcə 
+möhkəmlik, sərtlik, dayanıqlıq tələbləri qoyulmur. Onlar istismarda 
+onlara qoyulan tələbləri bütünlüklə ödəməlidirlər. Konstruksiyaların 
+və onların iş şəraitlərinin müxtəlif olmasını nəzərə almadan tələbləri 
+şərh etmək mümkün deyil. Lakin mühəndislik konstruksiyalarına və 
+qurğularına ümumi bir tələb vardır. Bu, imkan dairəsində ən aşağı 
+keyfiyyətli materiallardan ən az miqdarda sərf etməyə çalışmaqdır. 
+Beləliklə, ziddiyyət göz qabağında görünür – bir tərəfdən möhkəmlik 
+tələbi, digər tərəfdən konstruksiyanın hazırlanmasına sərf olunan 
+materialın miqdarının az olması tələbi. Bu ziddiyyət materiallar 
+müqaviməti elminin meydana gəlməsinə təkan vermişdi. 
+Materiallar müqaviməti - mühəndislik konstruksiyaları 
+hazırlanmasına ən az material sərf etməklə onların elementlərini 
+ 
+ 
+10
+möhkəmliyə, sərtliyə və dayanıqlığa hesablamaq üsullarının 
+öyrədilməsi ilə məşğul olan elmdir. 
+Cisimlərin formasını nəzərə alaraq elementləri aşağıdakı 
+formada təsnif edirlər: 
+a) brus (mil), şəkil 1.1, a. 
+ 
+Şəkil 1.1. 
+ 
+Bu element mühəndislik konstruksiyasında və qurğularda ən 
+geniş yayılmış elementdir. Şəkildən göründüyü kimi brus elə  
+bir cisimdir ki, onun ölçülərindən biri (uzunluğu) qalan iki ölçüsünə 
+nisbətən çox böyükdür. Brus (mil) sabit və yaxud dəyişən kəsikli 
+olub, düzxətli və ya əyrixətli ola bilər. mn –  müstəvi fiqurunu С – 
+ağırlıq mərkəzi ilə KL – xətti boyunca hərəkət etdirsək, brusu 
+yaradarıq. Kəsiyin ağırlıq mərkəzinin hərəkət etdiyi xəttə brusun 
+(milin) həndəsi oxıı deyilir. Verilmiş nöqtədə brusun həndəsi oxuna 
+perpendikulyar olan kəsiyə en kəsik və yaxud kəsik deyilir. Ox ilə 
+bucaq əmələ gətirən kəsik çəp kəsik adlanır. 
+ 
+ 
+11
+Brusun oxundan keçən, yaxud ona paralel yerləşən kəsiklər 
+boyuna kəsiklər qəbul edilirlər. 
+Brusun oxuna paralel olan xətlər lif adlanır. 
+b) Təbəqə (örtük) (şəkil 1.1, b). Ölçülərindən biri (qalınlığı) 
+qalan iki ölçüsündən daha kiçik olan cisimlərə təbəqə deyilir. 
+c) Cisim (massiv), (şəkil 1.1, c). Əgər üç ölçünün hamısı eyni 
+tərtibli olarsa (elektrik ötürən dirəklərin dayaqları, dəmir yol 
+(avtomobil) körpülərinin dayaqları və s.), onda cismi massiv 
+adlandırmaq olar. 
+Bruslar (millər) və təbəqələr bütün konstruksiyalarda, 
+maşınlarda və qurğularda həddindən artıq geniş yayılmışdır. 
+Materiallar müqaviməti məhz belə konstruksiya elementlərinin 
+deformasiyasını öyrənir və onların hesabat üsullarını təklif edir. 
+Massivlərin hesabatı son dərəcə dəqiq hesablamalar tələb edir və 
+onların hesabatı elastiqiyyət nəzəriyyəsində aparılır. 
+Mühəndislik konstruksiyasının elementləri о qədər müəyyən 
+formaya, saya, ölçülərə, materiallara, təyinatlara malikdirlər ki, 
+praktiki olaraq bitməz-tükənməzdirlər. Ona görə də hesablama 
+obyektlərinin sxemləşdirilməsi aparılır. 
+Vacib xüsusiyyətləri əks etdirən və əhəmiyyətsizləri kənar 
+edilən real obyekt hesabat sxemi adını daşıyır. 
+ 
+ 
+1.3. Materiallar müqavimətində bərk cisim haqqında 
+       qəbul edilən əsas  təkliflər və fərziyyələr 
+Məlum olduğu kimi, cisimlərin materialları müxtəlif xassələrə 
+malikdir. Onların hamısı nəzərə alınarsa, ya mürəkkəb analitik 
+asılılıqlar alınar, ya da ki, riyazi aparatdan istifadə etmək mümkün 
+olmaz. Materialın möhkəmliyinə, sərtliyinə və dayanıqlığına təsir 
+edən ikinci dərəcəli xüsusiyyətləri ataraq onlardan başlıcalarının 
+üzərində dayanırıq. Buradaca xüsusi qeyd etmək lazımdır ki, müxtəlif 
+hallarda eyni xarakteristikalar başlıca və yaxud ikinci dərəcəli ola 
+bilərlər. 
+Materiallar müqavimətində qəbul edilən əsas fərziyyələr və 
+hipotezlər aşağıdakılardır: 
+ 
+ 
+12
+1.  Cisim mütləq elastiki hesab edilir. 
+Bu, əsas hipotezlərdən biridir. Buradan belə çıxır ki, cisim 
+yükləndikdə deformasiyanın axırıncı qiyməti qüvvələr təsirinin 
+ardıcıllığından asılı deyildir. 
+Real həqiqətdə həmişə müşahidə olunur ki, real cisimlər ideal 
+elastiklikdən kənara çıxır. Bu fərziyyə Huk qanunu daxilində 
+doğrudur. 
+2. Cisim bircinsli qəbul edilir, yəni cisim istənilən 
+makrohəcmdə eyni xassəyə malikdir. 
+3. Cisim izotrop hesab edilir, yəni cisim verilmiş həcm 
+daxilində müxtəlif istiqamətlərdə eyni xassəyə malikdir. Baxmayaraq 
+ki, metallar nizamsız yerləşən kristallardan ibarətdir, onların xaotik 
+düzülüşü metalları izotrop hesab etməyə imkan verir. Lakin bəzi 
+hallarda materialların izotrop olması fərziyyəsi qəbul olunmur. Ağac 
+materialını, armaturlaşdırılan hissələri izotrop material hesab etmək 
+olmaz. Həyati təcrübədən məlumdur ki, belə cisimlərin müxtəlif 
+istiqamətlərdə bir hissəsinin başqasından ayırmaq üçün eyni qüvvə və 
+enerji tələb olunmur.  
+4. Cismin tamamilə formanı doldurmaq xassəsinə malik olduğu 
+hesab edilir. Başqa sözlə desək, söhbət ondan gedir ki, cisimdə heç 
+bir boşluq, çat, qovuq, aralıq yoxdur. Bu hipotezin qəbul olunması 
+imkan verir ki, materialı, eləcə də mühiti fasiləsizliyə malik olan kimi 
+hesab edək. Bu da öz növbəsində imkan verir ki, riyazi analizin 
+kəsilməz funksiya aparatından istifadə edək. 
+5. Əvvəllər qeyd olunmuşdu ki, cisim kifayət qədər bərk hesab 
+edilir, yəni yaranan deformasiya onun həndəsi ölçülərindən çox kiçik 
+olur. Bu qabaqcadan imkan verir ki, onlardan inşaat materialları kimi 
+istifadə edək. Belə cisimlər və sistemlər verilmiş böyük sərtlikli cisim 
+və sistemlər adlanırlar. Şərh edilənlərə əsasən deformasiyanın 
+kiçikliyi haqqında hipotezə tərif verə bilərik. 
+Hesab edilir ki, cisim və sistem onların həndəsi ölçüləri ilə 
+müqayisədə çox kiçik deformasiyaya malik olurlar. 
+6. Yastı kəsiklər (Bernulli) fərziyyəsi. Bu fərziyyəyə əsasən 
+konstruksiya elementlərinin en kəsikləri deformasiyadan əvvəl 
+olduğu kimi, deformasiyadan sonra da yastı qalır. 
+ 
+ 
+13
+1.4. Xarici və daxili qüvvələr haqda anlayış 
+Məlumdur ki, qüvvə bir cismin digərinə təsiridir. Real obyektə 
+tətbiq olunması üsuluna görə xarici qüvvələr: topa, səthi və həcmi 
+qüvvələrə bölünürlər. 
+1. Тора qüvvələr. Тора qüvvələr elə qüvvəyə deyilir ki, 
+ötürülmə sahəsi real obyektin toxunma səthinə nisbətən ikinci və ya 
+üçüncü tərtibli kiçik kəmiyyət olsun, yəni sonsuz kiçik səth üzrə 
+verilən qüvvə topa qüvvədir. 
+Тора qüvvənin ölçü vahidi BS sistemində Nyutondıır (N). 
+Тора qüvvənin tətbiq olunmasına dair saysız-hesabsız 
+misallardan qatarın ağırlığının onun təkərinin vasitəsilə dəmir yolu 
+relsinə ötürülməsini misal göstərmək olar. 
+2. Səthi qüvvələr. Səthi qüvvə müəyyən sahəyə təsir edən 
+yayılmış qüvvəyə deyilir. Paraşütə olan təsir, təyyarəyə, avtomobilə, 
+teplovoza hava müqavimətinin təsiri, parçanın tikiş maşının stoluna 
+təsiri səthi qüvvələrə əyani misallardır. 
+BS sistemində ölçü vahidi [p]=Pa, MPa-dır. 
+3. Həcmi qüvvələr. Qüvvələr bütün həcmdə hər bir nöqtədə 
+paylanarsa, həcmi qüvvələr adlanırlar. Təcilli hərəkətdə olan 
+cisimlərin ətalət qüvvələri, cəzb etmə qravitasiya qüvvələri həcmi 
+qüvvələrdir. Həcmi qüvvələr cismin həcminin hər bir nöqtəsindəki 
+m  həcm intensivliyi ilə xarakterizə olunurlar: 
+,lim
+V
+F
+m
+0v ∆
+∆
+∆ →
+=                                  (1.1) 
+burada ∆F – həcm boyunca yayılan həcmi qüvvələrin  
+                    əvəzləyicisidir; 
+      ∆V— cismin ixtiyari nöqtəsi ətrafında həcmdir. 
+Ölçü vahidi [m] = N/m3. 
+Mühəndislik hesabatlarında konstruksiya elementlərinin nadir 
+hallarda çəkiləri nəzərə alınır. Məsələn: qəfəsləri böyük 
+dərinliklərdən qaldıran trosların, dərin quyuların qazılmasında 
+işlədilən ştanqların, metallurgiya zavodlarında buxarıların 
+hesabatında çəkini nəzərə almaq zəruridir. Lakin əksər hallarda 
+elementin  çəkisi  xarici  qüvvələrə  nisbətən kiçik olduğundan nəzərə  
+ 
+ 
+14
+alınmır, çünki o, 1,0÷2,0% təşkil edir. 
+Uzununa paylanan intensivlik adlanan səpələnmiş yükün 
+intensivliyi q  aşağıdakı düsturla təyin edilir: 
+ ,lim
+X
+F
+q
+0x ∆
+∆
+∆ →
+=                                    (1.2) 
+burada: ∆F – uzunluğu ∆x olan sahəyə təsir edən uzununa     
+     ölçülən qüvvələrin əvəzləyicisidir; 
+Cismə təsir edən xarici qüvvələr təsir xarakterinə görə statiki və 
+dinamiki qüvvələrə ayrılırlar. 
+1. Statiki qüvvələr. Nisbətən böyük vaxt müddətində qiyməti 
+sıfırdan işçi qiymətə qədər artan qüvvələrə statiki qüvvələr deyilir. 
+Məsələn, tikilən binalarda bir neçə ay, yaxud illər ərzində 
+bünövrə üzərində kərpiclər bir-birinin üzərində qoyularkən yük çox 
+kiçik sürətlə artır. 
+2. Dinamiki qüvvələr. Əgər xarici qüvvə qısa müddətdə 
+(saniyənin onda, yüzdə və mində biri) tətbiq olunarsa, yaxud 
+qüvvənin artma surəti böyük olarsa, belə qüvvələr dinamiki qüvvələr, 
+sistemin yüklənməsi isə dinamiki yüklənmə adlanır. Məsələn, çəkicin 
+zindana təsiri. 
+Statiki və dinamiki yüklənmələrdə hesabatın xarakteri, onlara 
+yanaşmaq üsulları tamamilə müxtəlifdir. 
+Molekulyar nəzəriyyəyə əsasən ideal-elastiki fiziki bərk cisim 
+hissəciklərdən (kristallardan, molekullardan, atomlardan və b.) 
+ibarətdir. 
+Hissəciklər arasındakı məsafə, özlərinin mərkəzlərinə nəzərən 
+hissəciklərin amplituda rəqslərinin hesabına vaxta görə qiyməti 
+fasiləsiz dəyişən qüvvələrin qarşılıqlı təsirindən təyin edilir. 
+Cisim Fi xarici qüvvələri ilə yükləndikdə kristal qəfəsdə 
+atomlar arasındakı məsafə dəyişir: dartılma deformasiyasında atomlar 
+bir-birindən uzaqlaşır, amma sıxılmada yaxınlaşırlar. Xarici qüvvələr 
+hesabına atomlar arasındakı məsafənin dəyişməsi əlavə qüvvələrin 
+yaranmasına səbəb olur. Xarici qüvvələrin tətbiq olunması 
+nəticəsində hissəciklər arasında yaranan əlavə qarşılıqlı təsir 
+qüvvəsinə elastiklik qüvvəsi, yaxud, daxili qüvvələr deyilir. 
+ 
+ 
+15
+Đstənilən mühəndislik konstruksiyasının möhkəmlik 
+məsələlərini о vaxt həll etmək olar ki, daxili qüvvələrin qiyməti və 
+onların paylanma qanunu məlum olsun. Ona görə də cisimlərdə daxili 
+elastiki qüvvələrin təyini, konstruksiyaların, tikintilərin və onların 
+ayrı-ayrı elementlərinin möhkəmlik məsələləri tədqiqatında çox vacib 
+məsələdir. 
+ 
+ 
+1.5. Cismin kəsiyindəki daxil qüvvə amillərinin təyini 
+Kəsmə üsulu adlanan mücərrəd yoldan istifadə edərək baş 
+vektorun və baş momentin qiymət və istiqamətlərini təyin etmək olar. 
+Bu üsulun mahiyyəti dörd ardıcıl 
+əməliyyatdan ibarətdir: 
+1. Bizi maraqlandıran 
+istiqamətdə cismi kəsmək 
+(fikrən), şəkil 1.2, a. 
+2. Hissələrdən birini, 
+məsələn, solu (şəkil 1.2, b) 
+tullamaq və sağı öyrənmək. 
+3. Atılmış sol hissənin 
+saxlanılan sağ hissəyə təsirini 
+daxili qüvvələr sistemi ilə əvəz 
+etmək. Qeyd olunduğu kimi, bu 
+qüvvələrin qiyməti və istiqaməti 
+kəsiyin istənilən nöqtəsində 
+ixtiyaridir. Ona görə də daxili 
+qüvvələr sistemini kəsikdə baş 
+vektor R və baş moment M  halına 
+gətiririk. 
+R və M vektorlarını uyğun 
+olaraq üç cüt qüvvə kompo- 
+nentinə və cüt qüvvəyə ayırırıq 
+(şəkil 1.2, c). 
+Şəkil 1.2. 
+ 
+ 
+16
+Daxili qüvvələrin R baş vektoru x, y və z oxlarına uyğun olaraq 
+N, QY  və Qz şəklində proyeksiyalanır. 
+Daxili qüvvələrin baş vektorunun x oxuna proyeksiyasına 
+(kəsiyə normal) normal qüvvə deyilir və N ilə işarə edilir. Normal 
+qüvvələr en kəsiklərinin x oxu istiqamətindəki yerdəyişməsinə 
+maneçilik edir. 
+R -in у və z oxlarındakı (kəsik səthində) proyeksiyaları QY və 
+QZ ilə işarə edilir. Onlara uyğun olaraq у və z oxları boyunca eninə 
+qüvvələr deyilir. Kəsici qüvvələr cismin səth müstəvisində hissələrin 
+bir-birinə nisbətən sürüşməsinə maneçilik törədir. 
+Daxili qüvvələrin M baş momenti x, y, z oxlarına uyğun olaraq 
+T, МY, MZ  şəklində proyeksiyalanır. Hər proyeksiyanın öz adı var: T 
+- burucu moment, onun cütü - y, z oxları səthinə təsir edir, vektoru isə 
+kəsik səthinə perpendikulyardır, yəni x oxu boyunca yönəlib. Burucu 
+moment, kəsiyin cismin kəsiyinə normal olan oxa nisbətən 
+dönməsinə maneçilik törədir. MY və MZ uyğun olaraq у və z oxlarına 
+nəzərən əyici momentlərdir. Əyici momentlər en kəsikdə yerləşən 
+oxların dönməsinə maneçilik törədir. R  və M  vektorlarının tərkib 
+hissəsi olan N, QY, QZ, T, MY, MZ – lərə daxili qüvvə amilləri  deyilir. 
+4. Cismin saxlanılmış hissəsini müvazinətləşdirmək üçün fəza 
+sistemi üçün müvazinət tənliklərini yazmaq. 
+ 
+                 1) ∑X = 0;                4) ∑MX = 0; 
+                 2) ∑Y = 0;                5) ∑MY = 0;                         (1.3) 
+                 3) ∑Z = 0;                 6) ∑MZ = 0. 
+ Birinci üç tənliyin birindən istifadə edərək R  - baş vektorunun 
+bir toplananını təyin edirik (şəkil 1.3). Məsələn, 
+ 
+                                                                      sağdan 
+∑X = 0; N = F3X + F4X =∑FiX 
+tənliyini götürək. 
+Cismin atılmış sol hissəsinin saxlanılan sağ hissəyə təsiri, sağ 
+hissənin sol hissəyə olan təsirinə bərabər olduğu üçün R - in x oxu 
+boyunca toplananı bərabərdir: 
+ 
+ 
+ 
+17
+ 
+                                                  soldan   sağdan 
+ N = ∑FiX  = ∑FiX                                              (1.4) 
+Daxili qüvvələrin baş vektorunun komponentləri kəsikdən bir 
+tərəfdə qalan xarici qüvvələrin ox üzərindəki proyeksiyalarının cəbri 
+cəminə bərabərdir. 
+Daxili qüvvələrin baş momentinin toplananları (1.3) ifadəsinin 
+axırıncı üç tənliyindən təyin oluna bilər. Məsələn: 
+ 
+                                                                                 sağdan 
+∑MX = 0; MX = momX F3 + momX F4 = ∑miX , 
+yaxud, təsir və əks təsirin bərabərliyi şərtindən bütövlüklə yazırıq: 
+                                                  soldan   sağdan 
+∑MX = ∑miX  = ∑miX                                              (1.5) 
+Daxili qüvvələrin baş momentinin komponentləri kəsikdən bir 
+tərəfdə qalan qüvvələrin oxa nisbətən momentlərinin cəbri cəminə 
+bərabərdir. 
+ 
+ 
+ 
+1.6. En kəsikdə yaranan gərginliklər 
+Konstruksiya elementlərini möhkəmliyə hesablamaq üçün 
+onların en kəsiklərində yaranan gərginlikləri təyin etmək lazımdır.  
+∆A - sahəciyinə təsir edən daxili qüvvənin qiymətini ∆ F  işarə 
+edək (şəkil 1.3,a).  orP
+A
+F
+=
+∆
+∆
+ nisbətinə ∆A hissəciyində уаrаnаn 
+gərginlik deyilir. Madam ki, hipotezə görə brusun mühiti bütövdür, 
+son həddə keçə bilər, yəni 
+ 
+.lim
+A
+F
+P
+0A ∆
+∆
+∆ →
+=                               (1.6 )  
+Bu gərginlik К nöqtəsindəki həqiqi və yaxud ümumi gərginlik 
+adlanır. Gərginliyin riyazi təhlilinin asan olması üçün ümumi 
+ 
+ 
+18
+gərginlik (şəkil 1.3, b) iki gərginliyə: en kəsiyə perpendikulyar olan 
+σv normal gərginliyinə və kəsik səthinə toxunan olan τv toxunan 
+gərginliyinə ayrılır. Ümumi gərginlik vektorunun kəsiyin К 
+nöqtəsində v normalı ilə üst-üstə düşən toplananına normal gərginlik, 
+t oxu ilə üst-üstə düşəndə isə toxunan gərginlik deyilir (şəkil 1.3, c). 
+ 
+ 
+Şəkil 1.3. 
+ 
+Ümumi gərginliklə onun toplananları arasındakı asılılığı 
+görmək çətin deyildir: 
+p2 = ,2v
+2
+v τσ +                                  (1.7) 
+yaxud 
+.2v
+2
+vp τσ +=                                (1.8) 
+Gərginliyin SĐ sistemində ölçü vahidi Paskal - Pa. 
+ 
+ 
+19
+II FƏSĐL. Sadə deformasiyalarda daxili qüvvələrin təyini 
+2.1. Dartılma və sıxılmada daxili qüvvələrin təyini 
+Əgər xarici qüvvələrin təsirindən konstruksiya elementlərinin 
+en kəsiyində yalnız normal qüvvə əmələ gələrsə, bu halda yaranan 
+deformasiyaya qüvvələrin təsir istiqamətindən asılı olaraq dartılma, 
+yaxud sıxılma deformasiyası deyilir. 
+Şəkil 2.1-də brusun dartılma və 
+sıxılma deformasiyası, həmçinin brusun 
+oxuna perpendikulyar olan 1-1 və 2-2 
+kəsikləri göstərilmişdir. 
+Başqa brusa baxaq (şəkil 2.2,a). 
+Brusun 1-1 kəsiyində normal qüvvənin 
+qiymətini təyin edək. (1.3) ifadəsinə 
+müraciət edərək ∑X=0 və brusun sol və 
+sağ hissələrinə baxaraq kəsmə üsuluna 
+əsasən alırıq:  
+                     N = 3F – F – F = F   
+                                         N = F. 
+Alınan qiymətləri ümumiləşdirərək təyin edirik. 
+                                               soldan  sağdan 
+N= ∑Fi = ∑Fi                                     (2.1) 
+Normal qüvvə kəsikdə təsir edən elementar normal qüvvələrin 
+əvəzləyicisi olub, kəsikdən bir tərəfdə qalan qüvvələrin cəbri cəminə 
+bərabərdir. 
+Şəkil 2.2-dən görünür ki, Fi qüvvələri brusun oxu boyunca 
+yönəliblər. Burada dartılma, sıxılma deformasiyalarına tərif vermək 
+olar: xalis dartılma (sıxılma) deformasiyası ox boyunca yönələn 
+qüvvələrdən, yaxud əvəzləyiciləri oxla üst-üstə düşən qüvvələrdən 
+brusda yaranan deformasiyaya deyilir. 
+Yenə də şəkil 2.2, с-уə müraciət edək. 
+1-1 kəsiyinə dartıcı normal qüvvələr tətbiq olunub. Onlar 
+kəsikdən xarici normal tərəfə yönəliblər. Dartıcı normal qüvvələr 
+şərti olaraq müsbət, sıxıcı normal qüvvələr isə mənfi hesab edilirlər. 
+Buna görə də kəsikdə normal qüvvələr təyin olunanda əvvəlcə oxu 
+Şəkil 2.1. 
+ 
+ 
+20
+müsbət tərəfə yönəldirlər (kəsikdən yönələn) və istər qiymətcə, 
+istərsə də işarəcə cavabı düzgün alırlar. 
+Nəhayət epür anlayışına tərif 
+verək: 
+Bu və ya digər kəmiyyətin 
+dəyişməsini göstərən qrafikə epür 
+deyilir. 
+Məsələn, dartılma, sıxılmaya 
+işləyən brusda normal qüvvə 
+epürü – kəsiklərin vəziyyətindən 
+asılı olan N normal qüvvənin x 
+absisindən asılı funksiya 
+qrafikidir.  
+ 
+ 
+ 
+ 
+Məsələ 2.1. Fi – topa qüvvələri ilə yüklənən brus üçün (şəkil 
+2.3) normal qüvvə epürünü qurmalı. 
+Həlli: 1. Brusu qüvvəli məntəqələrə ayırırıq. Əgər məntəqə 
+hüdudunda daxili qüvvə amili eyni analitik ifadələrlə təsvir olunursa, 
+onda belə məntəqələr qüvvəli məntəqələr adlanırlar. Şəkil 2.3, a-da 
+qüvvəli məntəqələr göstərilib və üç dənədir. 
+2. Kəsmə üsulundan istifadə edərək brusun aşağı hissəsini atırıq 
+və yuxarı hissəsinə baxırıq. Нər dəfə N normal qüvvəsini müsbət 
+veririk  kəsikdən istiqamətləndirilmiş (xarici normala tərəf) kimi. 
+I – məntəqə (şəkil 2.3, c): 
+∑X = 0; N + F = 0; N = – F (brus bu məntəqədə sıxılma 
+şəraitində işləyir). 
+II – məntəqə (şəkil 2.3, d): 
+∑X = 0; N= – F + 2F = F (II məntəqə dartılır). 
+III – məntəqə (şəkil 2.3, ç): 
+∑X = 0;  N = – F + 2F – 3F = –2F (brus bu məntəqədə sıxılır).  
+Şəkil 2.2. 
+ 
+ 
+ 
+21
+Brusun məntəqələrində N-in analitik ifadəsi qrafiki olaraq bazis 
+xətlərinə paralel olan düz xətlərlə təsvir edilir. Bu epür işarə nəzərə 
+alınmaqla şəkil 2.3, b-də göstərilir. 
+ 
+Şəkil 2.3. 
+ 
+ 
+ 
+2.2. Burulmada daxili qüvvələrin təyini 
+Şəkil 2.4-də təsvir olunan düz oxlu brus bəzi hallarda burucu 
+cütlər adlanan xarici mi momentləri ilə yüklənmişdir. Bu halda 
+yaranan deformasiyaya burulma deformasiyası deyilir. Kəsmə 
+üsulundan istifadə edərək sağ tərəfi tullayıb sol tərəfə baxırıq (şəkil 
+2.5). Tutaq ki, elementar dA sahəciyinə Q toxunan qüvvəsi təsir edir. 
+Onda τdA – elementar qüvvə, τdA·h isə x oxuna nisbətən elementar 
+toxunan qüvvələrin momenti olacaq. Bu momentləri kəsik üzrə 
+cəmləməklə burucu momenti təyin edirik: 
+ 
+ 
+ 
+22
+ 
+         
+                           Şəkil 2.4.                                  Şəkil 2.5. 
+∫ ⋅=
+A
+hAdT .τ  
+Baxılan hissə üçün ∑mx = 0 müvazinət şərtindən istifadə edərək 
+alırıq: 
+T = m1 – m2, yaxud 
+                                              soldan   sağdan  
+T = ∑ mi  – ∑mi                                     (2.2) 
+Burucu moment daxili elastik toxunan qüvvələrin x oxuna görə 
+momentidir və kəsikdən bir tərəfdə qalan burucu momentlərin cəbri 
+cəminə bərabər olur. 
+Burucu momenti şərti olaraq о vaxt müsbət hesab edirik ki, 
+xaric tərəfdən kəsiyə normal istiqamətdə baxanda burucu moment 
+saat əqrəbinin əksinə yönəlmiş olsun (şəkil 2.5). 
+ 
+Məsələ 2.2. Momentləri mi  olan xarici cütlərlə yüklənən brus 
+üçün (şəkil 2.6) burucu moment epürünü qurun. 
+Həlli: Brusu I, II, ..., V qüvvəli məntəqələrə ayıraq. Dartılma 
+və sıxılmaya işləyən bruslardakına uyğun, burulmada qüvvəli 
+məntəqə о hissə olacaqdır ki, həmin sərhədlərdə burucu moment eyni 
+analitik ifadə ilə təsvir olunsun.  
+Т burucu momentin hər dəfə qiymətini təyin etdikdə kəsmə 
+üsulundan istifadə edirik.  
+ 
+ 
+23
+I məntəqə. Brusu sol tərəfdən x məsafəsində kəsirik (şəkil 2.6, 
+b) və en kəsiyə T müsbət işarəli burucu momenti tətbiq edirik. Statika 
+tənliklərindən istifadə edirik. 
+ 
+                                    soldan 
+T= ∑mi;  T+ m = 0;  T= –m. 
+ 
+I-məntəqə sərhədlərində burucu moment sabitdir. Onun 
+qiymətini bazis xəttindən aşağıdakı ordinat üzrə qeyd edirik və 
+normal keçiririk (şəkil 2.6, b). Epürü bazis xəttinə perpendikulyar 
+xətlərlə cizgiləyirik. 
+Bəzən T epüründə belə ştrixləməni vintvarı xətlə də əvəz 
+edirlər. 
+II məntəqə. I məntəqədəkinə uyğun olaraq işi davam etdiririk. 
+Brusu sol tərəfdən II məntəqə daxilində x məsafəsində kəsirik (şəkil 
+2.6, c) və onun müvazinət halına baxırıq. 
+ 
+T = – m + 3 m = 2 m. 
+ 
+II-məntəqə sərhəddində epür bazis xəttindən yuxarı qurulur. 
+Qeyd etmək lazımdır ki, sonrakı hər bir məntəqə üçün məntəqələri 
+qrafiki təsvir etməyə ehtiyac qalmır. Qalan məntəqələr üçün hesabat 
+aşağıdakı qaydada davam etdirilir: 
+ 
+III-məntəqə:  T = –m + 3m – 5m = –3m. 
+IV-məntəqə: T= –m + 3m – 5m = – m. 
+V-məntəqə:  T= 2m. 
+ 
+Bu qiymətlər uyğun məntəqələrdə bazis xəttinə реrpеndikulyar 
+qeyd edilib, tam brus üçün T  burucu moment epürü qurulur (şəkil 
+2.6, b). 
+ 
+ 
+ 
+24
+ 
+ 
+ 
+ 
+Şəkil 2.6. 
+ 
+ 
+25
+2.3. Əyilmədə daxili qüvvə amillərinin təyini 
+I. Ümumi anlayışlar 
+Başlıca olaraq əyilməyə işləyən bruslara (millərə) tir deyilir. 
+Şəkil 2.7-də tirin x 
+oxu və kəsiyin Y simmet-
+riya oxu ilə üst-üstə düşən 
+H müstəvisində təsir edən 
+xarici qüvvələr və momen-
+tlər göstərilmişdir. Bu 
+müstəvi baş müstəvidir. 
+Belə yükləmədə tirin 
+deformasiyası bu müstəvi 
+ilə üst-üstə düşür. Hər bir 
+kəsiyin yerdəyişməsi tirin 
+oxuna perpendikulyar olur 
+(boyuna yerdəyişmələr nə-
+zərə alınmayacaq dərəcədə 
+kiçik olur). 
+Kəsmə üsulundan 
+istifadə edərək tirin sol 
+tərəfinə baxaq (şəkil 2.7, 
+b). En kəsikdə qüvvələr 
+müstəvisinin kəsişmə xətti-
+ni qüvvələr xətti (о у oxu 
+ilə üst-üstə düşür), ona 
+perpendikulyar olan xətti 
+isə (z oxu ilə üst-üstə 
+düşür) neytral xətt adlandıraq. Onları çertyojda şərti olaraq q.x. və 
+n.x. işarə edirik. 
+Kəsikdəki dA sahəciyində elementar dN normal qüvvəsi və dQy 
+eninə qüvvəsi yaranır. Tir müvazinətdədir, ona görə onun baxılan 
+hissəsi də müvazinətdə olacaqdır, yəni: 
+∑ ∫ =−−−=
+A
+y 0FF2dQ0Y ,  
+Şəkil 2.7. 
+ 
+ 
+26
+∑∑ ==
+sag
+i
+sol
+iy FFQ                                (2.3.) 
+                                  sol                sağ 
+∑ ∑== ixixe FmomFmomM                        (2.4) 
+ 
+(2.3) ifadəsinə əsasən demək olar ki, kəsici qüvvə kəsikdə 
+elastikliyin toxunan qüvvələrinin əvəzləyicisi,  kəsikdən solda və ya 
+sağda qalan xarici qüvvələrin qüvvələr oxuna proyeksiyalarının cəbri 
+cəminə bərabərdir. 
+(2.4) ifadəsinə əsasən kəsikdə əyici moment həmin kəsikdə 
+elastikliyin cüt qüvvələrinin əvəzləyicisinə bərabər olub, kəsikdən bir 
+tərəfdə qalan topa və yayılmış yüklərin neytral xəttə nəzərən 
+momentlərinin cəbri cəminə bərabərdir. 
+Əgər əyilmədə, məsələn, öyrəndiyimiz haldakı kimi, daxili 
+qüvvələr kəsici qüvvəyə və əyici momentə çevrilirsə, onda belə 
+əyilmə  xalis əyilmə  adlanır. 
+ 
+ 
+ 
+2.4. Əyici moment, kəsici qüvvə və yayılmış yük 
+       intensivliyi arasındakı diferensial asılılıqlar 
+Nəzərdə tutulur ki, (2.4) 
+ifadəsində Mz əyici momentin 
+qiymətinə həm təpə momentlərin, 
+həm də təpə qüvvədən və yayılmış 
+yükdən yaranan momentlərin 
+qiymətləri daxildir (əgər baxılan 
+məntəqədə onların hamısı iştirak 
+edirsə). 
+(2.3) ifadəsindəki Qy kəsici 
+qüvvənin qiymətində, həmin baxılan 
+məntəqədə varsa, yayılmış yükün 
+təsiri də nəzərə alınır. Şəkil 2.8-də Şəkil 2.8. 
+ 
+ 
+27
+sol tərəfi möhkəm bərkidilən konsol tirə qz=f(z) dəyişən intensivlikli 
+yayılmış yükün təsiri göstərilib. 
+Tutaq ki, sol kəsikdə daxili qüvvələr Qy kəsici qüvvəsinə Mz 
+əyici momentinə bərabərdir, sağ tərəfdə isə onlar artım alaraq 
+Qy + dQy , Mz + dMz 
+qiymətlərini alacaqlar. Belə elementar element üçün uyğun 
+müvazinət tənliklərini yazırıq: 
+ 
+∑Y=0;  Qy + qdx – (Qy + dQy) = 0 
+Buradan 
+ 
+q = dQy  / dx.                                (2.5) 
+Burada tirin sonsuz kiçik uzunluğunda yayılmış yük sabit 
+götürülüb və q ilə işarə edilib. 
+Elementə tətbiq olunan qüvvələrin A nöqtəsinə nəzərən 
+momentlərinin cəmi: 
+∑ =+−+⋅+=⋅ 0dMM
+2
+dx
+qdxQM0Fmom zz
+2
+yziz )(;  
+Buradan isə 
+dx
+dM
+Q zy =                                     (2.6) 
+2
+dx
+q
+2
+ toplananı yüksək tərtibli kiçik kəmiyyət olduğundan 
+nəzərə alınmır. (2.5) ifadəsindən q-nün qiymətini (2.6) ifadəsini 
+nəzərə almaqla təyin edək: 
+2
+z
+2
+dx
+Md
+q = .                             (2.7) 
+(2.5) və (2.7) ifadələrinə əsasən yayılmış yükün intensivliyi 
+kəsikdə yaranan xarici qüvvədən absisə görə alınan birinci tərtibli 
+törəməyə, əyici momentdən alınan ikinci tərtibli törəməyə bərabərdir. 
+(2.6) ifadəsinə görə kəsikdə yaranan kəsici qüvvə əyici 
+momentdən alınan birinci tərtibli törəməyə bərabərdir. (2.5) və (2.6) 
+ifadələrindən: 
+ 
+ 
+28
+∫ +⋅=
+x
+0
+y CdxxqQ ,)(                     (2.8) 
+∫ +⋅=
+x
+0
+yz CdxQM .                      (2.9) 
+ (2.5).. .(2.9) ifadələrindən kəsici qüvvə və əyici moment 
+epürlərini quranda istifadə edirlər. 
+ 
+ 
+ 
+2.5. Tirlərdə kəsici qüvvə və əyici  
+           moment epürlərinin qurulması 
+Epürləri qurmaq üçün əyilmədə işarə qaydasını bilmək 
+vacibdir. Kəsici qüvvənin vektoru məntəqəni kəsiyə nəzərən saat 
+əqrəbi istiqamətində apararsa, onun işarəsi müsbət, əks halda isə 
+mənfi qəbul edilir. Əyici moment kəsikdə о vaxt müsbət götürülür ki, 
+onun təsirindən neytral oxdan yuxarıdakı liflər sıxılsın, əks halda – 
+mənfidir. 
+ 
+Məsələ 2.3. Verilmiş tir üçün (şəkil 2.9,a) QY kəsici qüvvə və 
+MZ əyici moment epürlərini qurun. 
+Epürlərin qurulması qaydalarını öyrənməyi asanlaşdırmaq, 
+yorucu arifmetik hesablamaları sadələşdirmək məqsədilə F topa 
+qüvvə, m topa moment, q - intensivliyi olan səpələnmiş yük və a 
+uzunluğu arasında aşağıdakı əlaqələri qəbul edirik: 
+ 
+F = qa;  m =Fа = qa2 .                    (2.10) 
+Həlli: I-məntəqə. Sol tərəfdən x məsafəsində olan kəsikdəki  QY 
+və MZ-in qiymətlərini təyin edək (şəkil 2.9,d). 
+1 ) QY = F. 
+2)  ∑MZ = 0;  MZ = Fx  (0 ≤ x ≤ a)  
+QY  epürü bazis xəttinə paralel düz xətdir (Şəkil 2.9,b).  
+MZ epürü bazis xəttinə maili düz xətdir. Onları qurmaq üçün iki 
+nöqtədə ordinatları təyin etmək kifayətdir. Beləliklə, 
+ 
+ 
+29
+ 
+x = 0; MZ = 0; x = a; MZ = m.  (şəkil 2.9,c) 
+ 
+ 
+Şəkil 2.9 
+ 
+Hər iki halda  QY = F  (şəkil 2.9,b). 
+II-məntəqə. Birinci məntəqədə olduğu kimi, alırıq: 
+1) ∑Y = 0;  Qy=F-2q (x-a) düz xətt tənliyidir. a ≤ x ≤2a, x=a, 
+FF2Fqa2FQY −=−=− . 
+2) ∑Mz=0; 
+2
+2
+z axqFx
+2
+ax
+q2FxM )(
+)(
+−−=
+−
+−=   – paraboladır 
+(ikinci tərtibli tənlikdir).  
+Əyri xətti çəkmək üçün ən azı üç nöqtə tapmaq lazımdır: 
+ 
+ 
+30
+x =a,     Mz = m;      x = 2a,    Mz=F·2a-qa
+2=m 
+Axırıncı kəsiklərdəki ordinatların bərabər qiymətə malik olması 
+göstərir ki, ara kəsikdə əyici moment ekstremum qiymət almalıdır. 
+(2.6) diferensial asılılığa əsasən ekstremum qiymət aşağıdakı 
+ardıcıllıqla təyin olunur: 
+ 
+a) Qy üçün analitik ifadə yazılır. Qy=F-2q(x-a). 
+b) Qy sıfıra bərabər edilib x təyin edilir: 
+Qy = F – 2q ( x – a )= 0,    F – 2qx +2qa = 0 
+(2.10) ifadəsini nəzərə alsaq: 
+a
+2
+3
+x = . 
+c) x-in qiyməti Mz-in analitik ifadəsində yazılaraq momentin 
+maksimal qiyməti təyin edilir:  
+m
+4
+5
+aa
+2
+3
+qa
+2
+3
+FM
+2
+z =
+
+
+
+
+ −−= . 
+Đkinci məntəqədə intensivliyi 2q olan bərabər yayılmış yükdən 
+yaranan əyici momentin yazılması qaydasını aydınlaşdıraq. Yayılmış 
+yükdən yaranan moment 2q(x-a) (x-a) yüklü sahəciyin həmin yüklü 
+sahənin ağırlıq mərkəzindən baxılan kəsiyə qədər məsafənin hasilinə 
+bərabərdir. Bu məsafə xc=(x-a)
+2/2  olur. Buna oxşar məsələlərin 
+həllində izahat vermədən bu qaydaya əməl edəcəyik. Hər dəfə kəsmə 
+üsulundan istifadə edərək şəkil 2.9d və e-dəki kimi, ayrı-ayrı 
+məntəqələri göstərməyə ehtiyac yoxdur. Verilmiş sxemdə koordinat 
+başlanğıcından x məsafəsində kəsik verib hissəsinin müvazinət halına 
+baxmaq lazımdır. Bizim qəbul etdiyimiz hallarda kəsik həmişə sol 
+tərəfdən verilir və xarici qüvvə hesab edilən dayaq reaksiyaları da 
+nəzərə alınır.  
+III məntəqə. Tirin sol tərəfindən x  məsafəsində olan sol kəsiyə 
+baxaq (şəkil 2.9,a).  
+ 
+∑ −=−== ;, Fqa2FQ0Y Y  
+ 
+ 
+31
+., a3xa2a
+2
+3
+xqa2FxM z ≤≤
+
+
+
+
+ −−=  
+Tənlik düz xətt tənliyidir. Epürü qurmaq üçün kənar kəsiklərə 
+uyğun iki ordinatın qiymətini təyin etmək kifayətdir.  
+Beləliklə: 
+x = 2a,       Mz = m;       x = 3a,     Mz = 0 
+IV məntəqə. Tirin sol tərəfindən x məsafədə olan hissənin sol 
+kəsiyinin müvazinət halına baxaq (şəkil 2.9,a): 
+ 
+1) ∑ −== FQ0Y Y,  
+2) .,, a4xa3ma
+2
+3
+xqa2FxM0M zz ≤≤−
+
+
+
+
+ −−==∑  
+Mz – bazis xəttinə maili düz xətt tənliyidir. 
+x = 3a,     Mz = –m;    x = 4a,         Mz=-2m 
+V məntəqə. x məsafədə olan hissənin sol kəsiyində müvazinət 
+tənliyinə görə (şəkil 2.9,a): 
+1)  ∑ −+−=−+−== );()(, a4xq2Fa4xq2qa2FQ0Y 4Y  
+x = 4a,   Qy = –F; 
+x = 6a,    Qy = –F +2q · 2a = 3F. 
+2) 0M Z =∑ . 
+axa4
+2
+a4x
+q2ma
+2
+3
+xq2FxM
+2
+z ≤≤
+−
++−
+
+
+
+
+ −−= ,
+)(
+ 
+Mz  ikinci tərtibli tənlikdir (parabola), ən azı tirin üç kəsiyində 
+əyici momentin qiymətini təyin etmək lazımdır.  
+Beşinci qüvvəli məntəqənin kənar kəsiklərində Mz əyici 
+momentin qiymətləri: 
+x = 4a,    Mz = –2m; 
+x = 6a,    Mz = 0  
+ olacaqdır. 
+ 
+ 
+32
+Bu məntəqə üçün Qy epüründə qiymət mənfidən müsbətə keçir. 
+Ona görə də, Qy=0 olan kəsikdə Mz əyici momenti ekstremum 
+e
+zM  
+qiymət alır (görəcəyik ki, bu minimum qiymət də ola bilər).  
+Mz epürünün üçüncü ordinatını Qy=0 olan kəsikdə tapırıq. Đkinci 
+məntəqədəki uyğun əyici momentin ezM  ekstremum qiymətini təyin 
+etdiyimiz kimi, burada da alırıq: 
+1)  a
+2
+9
+x0a4xq2FQy ==−+−= ,)( ; 
+2)  ;)( 2z a4xqma
+2
+3
+xq2xFM −+−
+
+
+
+
+ −+⋅−=  
+3) 
+.; m
+4
+9
+Ma
+2
+9
+x
+M
+M
+e
+z
+e
+z
+z
+−==
+=
+ 
+VI məntəqə. Brusun bu məntəqəsinin sərhədləri daxilində 
+hissənin sol kəsiyində müvazinət tənliklərini alırıq: 
+1) ∑ =⋅+−== ;, F3a2q2qa2FQ0Y Y  
+   2) 
+.
+;)()(,
+a7xa6
+2
+m
+a5xqa2ma
+2
+3
+xqa2FxM0M zz
+≤≤
+−−+−−−==∑  
+M tənliyi birinci dərəcəlidir. Mz epürü məntəqədə bazis xəttinə 
+maili düz xətdir. Düz xəttin ordinatları 
+x = 6a,    ;
+2
+m
+M z −=   
+x = 7a,    .m
+2
+5
+M z =  
+Kəsici qüvvə və əyici moment epürləri şəkil 2.9,b və c-də təsvir 
+edilib. 
+Şəkil 2.9, b və c-də qurulmuş QY  və  MZ  epürlərinin bir sıra 
+xüsusiyyətlərinə diqqət yetirək. 
+Qy  epürünə aid aşağıdakıları qeyd etmək olar: 
+ 
+ 
+33
+1. Hansı kəsikdə topa qüvvə tətbiq olunubsa, epürdə onun təsir 
+istiqamətində həmin qüvvənin qiymətinə bərabər sıçrayış alınır. 
+(Epürün qurulması tirin sol tərəfindən başlanır, ancaq bu hökm deyil, 
+sağ tərəfdən də başlamaq olar). 
+2. Yayılmış yük tətbiq olunmayan məntəqələrdə epür bazis 
+xəttinə paralel düz xətlərlə əhatə olunur. 
+3. Hansı məntəqəyə müntəzəm yayılmış yük tətbiq olunubsa, 
+həmin məntəqədə epür bazis xəttinə maili düz xətt olur. Üçbucaq, 
+trapesiya və s. şəklində yük tətbiq olunarsa, onda epür iki və daha 
+çox tərtibli parabola kimi təsvir olunur. 
+4. Əgər epürün qurulması x oxunun müsbət istiqamətində 
+aparılırsa, yəni koordinat başlanğıcı sol tərəfdə götürülüb, y oxu 
+yuxarıya, x oxu isə sağ tərəfə yönəldilərsə, tirin kəsiyinə topa qüvvə 
+tətbiq olunanda epürdə onun istiqamətində qiymətcə bərabər sıçrayış 
+alınır. Əgər Qy epürünün qurulması mənfi istiqamətdə aparılarsa, 
+onda sıçrayışı əks tərəfdə göstərmək lazımdır; 
+5. (2.5) diferensial asılılığına əsasən q yayılmış yükün 
+intensivliyi kəsici qüvvə epürünə toxunan xəttin əmələ gətirdiyi 
+bucağın tangensinə bərabərdir. 
+6. Hansı məntəqədə əyici moment sabitdirsə, həmin məntəqədə 
+kəsici qüvvə sıfıra bərabərdir. 
+Mz epürünə dair aşağıdakı xüsusiyyətləri göstərmək olar: 
+1. Hansı məntəqədə yayılmış yük yoxdursa, o məntəqədə epür 
+düz xətt olur (bazis xəttinə ya paralel, ya da maili). 
+2. Məntəqəyə müntəzəm yayılmış yük tətbiq olunubsa, epür 
+ikinci tərtibli əyri (parabola) ilə əhatə olunur və əyrinin qabarıqlığı 
+yükün istiqamətinə qarşı olur. Əgər yük qeyri-müntəzəm yayılmış 
+olarsa, onda əyri daha böyük tərtibli olur. 
+3. Əgər tirə topa moment tətbiq olunarsa, epürdə onun qiyməti 
+qədər sıçrayış olur və istiqaməti də momentin işarəsinə uyğun gəlir. 
+4. Kəsiyə xarici topa qüvvə tətbiq edildikdə, Mz epürünün həmin 
+kəsiyə uyğun gələn yerində sınma olur. 
+5. (2.6) diferensial asılılığa əsasən, Mz əyici moment epürünə 
+çəkilən toxunanın absislə əmələ gətirdiyi bucağın tangensi qiymətcə 
+ 
+ 
+34
+kəsici qüvvəyə bərabərdir. Xüsusi halda  0
+dx
+dM
+Q zy ==   olanda, əyici 
+moment ekstremal qiymət alır. Bu halda epürdə işarə «müsbətdən» 
+«mənfiyə» keçəndə, kəsiklərdə əyici momentin qiymətləri artaraq 
+maksimum qiymət alır (əgər epürün qurulması müsbət istiqamətdə 
+aparılırsa), mənfi tərəfdə isə absis artdıqca əyici momentin qiyməti 
+azalır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III – FƏSĐL. Dartılma, sıxılma 
+3.1. Normal gərginliyin təyini. Huk qanunları 
+Brus (şəkil 3.1) oxu üzrə qiymətcə bərabər və istiqamətcə əks 
+olan F qüvvəsi ilə yüklənmişdir. a sxemində brus dartılır, b sxemində 
+sıxılır, bu halda deyilir ki, brus dartılmaya, sıxılmaya işləyir. 
+ 
+Şəkil 3.1. 
+ 
+ 
+ 
+35
+Tutaq ki, en kəsik ölçüsü a, əvvəlki uzunluğu l  olan brusa F 
+qüvvəsi tətbiq olunur (şəkil 3.2). Xarici qüvvə tətbiq olunana qədər 
+brusun üzərinə oxuna perpendikulyar olan 1-2 və 3-4 xətlərini çəkək. 
+Yüklənmə nəticəsində bu xətlər özlərinə paralel yerlərini dəyişərək 
+brusun oxuna perpendikulyar qalacaqlar (1-2 və 3-4). Bu, Bernulliyə 
+fikir söyləməyə imkan vermişdi ki, dartılmada (sıxılmada) 
+deformasiyadan əvvəl olduğu kimi, deformasiyadan sonra da kəsik 
+yastı qalır və brusun oxuna perpendikulyar olur. 
+Normal qüvvə kəsikdə təsir edən normal elastik qüvvələrin 
+əvəzləyicisidir. 
+Bernulli fərziyyəsinə əsasən eninə və boyuna kəsiklərdə üst-
+üstə düşən qarşılıqlı perpendikulyar tərəfli elementlər 
+deformasiyadan sonra da beləcə qalır. Bu onu göstərir ki, eninə və 
+boyuna kəsiklərdə toxunan gərginlik yaranmır.  
+Dartılan (sıxılan) bruslar üçün liflərin təzyiq göstərməməsi 
+fərziyyəsindən də istifadə edilir. Bu fərziyyəyə görə. boyuna liflər 
+(brusun oxuna paralel) bir-birinə təzyiq göstərmirlər. Ona görə də 
+gərginliklər  oxa  paralel  kəsiklərdə  yox,  perpendikulyar  kəsiklərdə  
+ 
+yaranırlar. 
+Deyildiyi kimi, dartılmada (sıxılmada) liflər eyni məsafəyə 
+uzanırlar (qısalırlar), ona görə də normal gərginlik en kəsikdə bərabər 
+paylanır. 
+Deyilənləri ümumiləşdirərək yazırıq: 
+ 
+ 
+36
+∫ ∫ ==⋅=
+A A
+AdAdAN .σσσ  
+Dartılma (sıxılma) şəraitində en kəsikdə yaranan normal 
+gərginlik normal qüvvənin en kəsiyi sahəsinə olan nisbətinə 
+bərabərdir, yəni 
+A
+N
+=σ .                                       (3.1)          
+Brus F qüvvəsi ilə yükləndikdə (şəkil 3.2) onun boyuna və 
+eninə ölçüləri dəyişir, əvvəlki l uzunluğu l1-ə qədər artır. Brus 
+uzanma alır. 
+∆l = l1 – l. 
+Brusun deformasiyadan sonrakı və əvvəlki uzunluqları fərqi  ∆l  
+ilə işarə edilir və boyuna mütləq uzanma (qısalma) adlanır. Brusun 
+eninə ölçüsünün artımı 
+∆a=a1-a. 
+Brusun deformasiyadan sonrakı və əvvəlki eninə ölçüləri 
+arasındakı fərqə eninə mütləq uzanma (qısalma) deyilir.  
+Çox vaxt təcrübədə boyuna və eninə uzanmaların (qısalmanın) 
+nisbi qiymətindən istifadə edirlər. 
+Mütləq deformasiyanın deformasiyadan əvvəlki uzunluğa olan 
+nisbətinə nisbi deformasiya deyilir.   
+l
+l∆
+ε =  - boyuna nisbi uzanmadır (qısalmadır); 
+a
+a∆
+ε =  - eninə nisbi uzanmadır (qısalmadır). 
+Eninə nisbi deformasiyanın boyuna nisbi deformasiyaya olan 
+nisbətinin mütləq qiymətinə Puasson əmsalı deyilir. 
+ε
+ε
+µ 0= . 
+ε  və ε 0 –in işarələri bir-birinə əksdir, ona görə də, 
+ε 0= –ε µ.                
+ 
+ 
+37
+Hər bir material üçün Puasson əmsalı sabitdir, təcrübi tədqiqatlar 
+göstərir ki, bütün materiallar üçün onun qiyməti 0 və 0,5 arasında 
+dəyişir. Məsələn, polad üçün µ =0,27...0,3; kauçuk üçün µ =0,47. 
+(3.1) ifadəsindən belə əvəzləmə aparsaq 
+A
+N
+=σ  və 
+l
+l∆
+ε = alarıq:  
+l
+l
+E
+A
+N ∆
+= , yaxud 
+C
+Nl
+EA
+Nl
+l ==∆ .               (3.2) 
+(3.2) adi Huk qanunu adlanır, mütləq deformasiya ilə normal 
+qüvvə arasındakı asılılığı xarakterizə edir. 
+Düsturda C = EA işarə edilib.                                     (3.3) 
+C – dartılmada brusun en kəsiyinin sərtliyidir. 
+(3.2) ifadəsini başqa formada da yazmaq olar: 
+;: llE
+A
+N
+∆⋅=  
+.E⋅= εσ                                 (3.4) 
+(3.4) ifadəsi dartılmada (sıxılmada) ümumi Нuk qanunu 
+adlanır, normal gərginliklə nisbi deformasiya arasındakı düz 
+mütənasib asılılığı göstərir. 
+3.2. Dartılma diaqramı 
+Materialları şərti olaraq plastiki və kövrək materiallara bölmək 
+olar. Plastiki o materiallar hesab edilir ki, onlar nisbətən böyük 
+deformasiya olunma qabiliyyətinə malik olsunlar. Buna daxildirlər – 
+azkarbonlu polad, mis, bürünc, qurğuşun və s. 
+Kövrək materiallar (çuqun, tavlanmış polad, daş, şüşə və s.) bir 
+qayda olaraq dartılmaya, sıxılmaya eyni müqavimət göstərmirlər və 
+ona görə də onların tətbiq sahəsini qabaqcadan müəyyən etmək olur. 
+Onlar çox az deformasiya olunurlar və çox vaxt birdən dağılırlar 
+(çuqun, polad, daş, şüşə və s.). Kövrək materiallar plastiki 
+materiallara nisbətən zərbəli yüklərə qarşı davamsızdırlar. 
+ Plastiklik dərəcəsini xarakterizə edən ikinci kəmiyyət dağılmada 
+nümunənin en kəsiyi ölçülərinin dəyişməsini müəyyən edən ψ  nisbi 
+daralmasıdır. Aşağıda  δ  və ψ  haqqında ayrıca deyiləcəkdir. 
+ 
+ 
+38
+Materialların maşınqayırmada, inşaatda istifadə edilməsi o vaxt 
+mümkündür ki, onların xassələri məlum olsun. Bu xassələr xüsusi 
+sınaq maşınlarında uyğun materiallardan hazırlanan nümunələri 
+mexaniki sınama yolu ilə təyin olunurlar. 
+Nümunələr dartılmaya, sıxılmaya, burulmaya, əyilməyə və 
+bərkliyə sınanırlar. Daha geniş yayılmış mexaniki sınaq növü olan 
+dartılma və sıxılma üzərində dayanaq. 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 3.3. 
+ 
+Dartılmaya sınaq zamanı şəkil 3.3-də silindrik nümunə 
+göstərilib. Onun l0 hesabat uzunluğu və d0 diametri arasındakı nisbət 
+l0=10d0 olmalıdır. Əsasən nümunələrin (uzun) diametri d0=10 mm, 
+hesabat uzunluğu l0=10d0 olur. Nümunələr dartılmaya xüsusi sınaq 
+maşınlarında (qırıcı maşınlarda) sınanılır. Belə maşınların quruluşu 
+və iş prinsipi laboratoriya praktikumunda verilir. Nümunəyə        
+(şəkil 3.3) oxuna paralel, qiymətcə bərabər, istiqamətcə əks olan və 
+vaxta görə dəyişməsi bir cür olan iki qüvvə tətbiq edilir. Bu halda 
+xüsusi diaqram aparatlarının köməkliyi ilə vizual, yaxud avtomatik 
+olaraq nümunəyə tətbiq olunan qüvvə və onun təsirindən yaranan 
+deformasiya qeyd olunur (yazılır). Bu alınan nəticələrə görə 
+qurulmuş diaqram təcrübi diaqram olur. Nümunəni uzadan F qüvvəsi 
+uyğun miqyasla ordinata, mütləq uzanma – ∆l  isə absis oxu üzərində 
+qeyd edilir. 
+Şəkil 3.4 və 3.5-də plastik materiallara xas olan azkarbonlu 
+polad üçün dartılma diaqramı təsvir edilmişdir. Diaqramın bir neçə 
+xarakterik nöqtələrində dayanaq: 
+ 
+ 
+39
+1) mьtFF ≤  – qüvvə və mütləq uzanma (qısalma) arasında xətti 
+asılılıq müşahidə olunur (A nöqtəsi). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 3.4. 
+ 
+2) elmьt FFF ≤< - xətti asılılıq müşahidə olunmur, qrafik 
+əyrixətli olur; deformasiya elastiki olur – deformasiya olunan 
+nümunə sınaq maşınından çıxarılanda mütləq uzanma (qısalma) yox 
+olur (B nöqtəsi). 
+3) axel FFF <<  – qrafik əyrixətliliyini saxlayır, nümunə qalıq 
+deformasiya alır (C nöqtəsi). 
+4) F=Fax – qrafik üfüqi vəziyyət alır, axma halı baş verir – 
+dartıcı (sıxıcı) qüvvəni artırmaq tələb olunmadan əvvəlkinə nisbətən 
+deformasiyanın qiyməti bir neçə dəfə çox artır. Üfüqi oxa paralel 
+olan CD ( DC ′′ ) məntəqəsi axma sahəsi adını daşıyır. Bu halda 
+nümunənin səthində onun həndəsi oxu ilə təxminən 45O bucaq təşkil 
+edən xətlər əmələ gəlir, bunlar Lyuders-Çernov xətləri  adlanırlar. Ən 
+böyük toxunan gərginliklər müstəvisində xətlər kristallik sürüşmə 
+nəticəsində mikroskopik hamarsızlıqları əks etdirirlər. 
+ 
+ 
+40
+5) maxFFFax <<  (DE məntəqəsi) – materialda yenidən xarici 
+qüvvəyə müqavimət göstərmə qabiliyyəti yaranır. Əyrinin bu 
+məntəqəsi möhkəmlənmə məntəqəsi adlanır və onun axırıncı E 
+nöqtəsi nümunəyə tətbiq olunan qüvvənin maksimum qiymətinə 
+(Fmax) uyğun gəlir. 
+6) F=Fmax – bu halda nümunədə kiçik bir uzunluqda yerli 
+daralma gedir – boyuncuq əmələ gəlir. Pardaqlanmış səthin 
+doğuranları əyilir, en kəsiyi sahəsi birdən kiçilir, nümunə dağılır 
+(diaqramın F nöqtəsi). Diaqramın F nöqtəsinə uyğun gələn qüvvəyə 
+dağıdıcı qüvvə deyilir və dağF  ilə işarə edilir. 
+Nümunə F=Fel qüvvəsi ilə yükləndikdə və sonra yükü 
+götürdükdə yükdən azad olunma prosesi praktiki olaraq yüklənmə 
+prosesindəki kimi (diaqramda OB xətti) gedir və nümunədəki 
+deformasiya yox olur. F> axF  olan halda (məsələn, diaqramın K 
+nöqtəsi) nümunənin yükdən azad olunması əyri xətlə yox, düz xətt 
+qanunu ilə gedəcəkdir (diaqramda KL xətti). 
+Nümunənin mütləq uzanması l∆ , elastiki ell∆  və qalıq (plastiki) 
+ql∆  uzanmaların cəmindən ibarət olur, yəni 
+l∆ = ell∆ + ql∆                                   (3.5) 
+Nümunənin təkrar yüklənməsində diaqramın LK xətti təkrar 
+olunacaqdır. Beləliklə, düz mütənasiblik artır (KL<OA), materialda 
+qalıq deformasiya azalır və daha kövrək olur. Sonra dartıcı qüvvəni 
+böyütdükdə diaqramın əyrisi KEF-lə üst-üstə düşür. Beləliklə, 
+axıcılıq sahəsindən sonra materialın bəzi mexaniki xassələri dəyişir. 
+Belə hadisə özünə təsir (naklyop) adlanır. Bəzi hallarda ondan işin 
+müsbət halı üçün istifadə edilir, bəzi hallarda isə zərərlidir. 
+ 
+ 
+41
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 3.5. 
+ 
+Qiymətləndirmək və materialların müqayisəli mexaniki 
+xarakteristikalarını almaq üçün gərginlik diaqramı qurulur. Onun 
+koordinatları aşağıdakılardır: 
+l
+l
+A
+F
+0
+∆
+εσ == ; . 
+Burada F və ∆l-in qiymətləri dartılma, sıxılma diaqramlarından 
+götürülür (şəkil 3.5). Bu yolla qurulan gərginlik diaqramı şərti 
+diaqram adlanır: σ -ın ifadəsində nümunənin en kəsiyi sahəsi 
+deformasiyadan əvvəlkidir, nümunə yükləndikdə nümunənin en 
+kəsiyi sahəsinin qiyməti dəyişir (dartılmada kiçilir, sıxılmada 
+böyüyür), ε-nun təyinində də uyğunsuzluq (xəta) var. Belə də olsa, 
+yenə gərginlik diaqramı qurulur. Şəkil 3.5-də plastik materiallara xas 
+olan gərginlik diaqramı göstərilir. Formaca o, dartılma diaqramını 
+xatırladır, lakin onun miqyası başqadır. 
+Diaqramda:  
+0mutmut AF /=σ  mütənasiblik həddi – gərginliyin elə qiymətidir 
+ki, gərginliklə deformasiya arasında düz mütənasib asılılıq saxlanılır; 
+ 
+ 
+42
+0elel AF /=σ  elastiklik həddi – gərginliyin elə qiymətidir ki, 
+elastiki deformasiya mövcuddur: nümunənin əvvəlki forması və 
+ölçüləri bərpa olunur; 
+0axax AF /=σ  axıcılıq həddi – elə gərginlikdir ki, axma baş verir; 
+0mohmoh AF /=σ  möhkəmlik həddi (müvəqqəti müqavimət) – 
+nümunəyə verilən ən böyük yükün nümunənin deformasiyadan 
+əvvəlki en kəsik sahəsinə olan nisbətinə deyilir. 
+Gərginlik diaqramından görünür ki, OA hissəsində 
+Etg == εσα / , yaxud dartılmada, sıxılmada boyuna elastiklik 
+modulu qiymətcə OA düz xəttinin absis oxu ilə əmələ gətirdiyi 
+bucağın tangensinə bərabərdir. 
+Alınan mohmut σσ , , ψδσσ ,,,, Eaxel  ən vacib mexaniki 
+xarakteristikalardır, bunlar hər bir material üçün məlumat kitabında 
+verilir.  
+Nümunə dağılanda (şəkil 3.4) dağılmanın nisbi uzanması δ 
+təyin edilir: 
+%.100
+l
+l
+⋅=
+∆
+δ                             (3.6) 
+Dağılmadan sonrakı nisbi daralma: 
+%,100
+A
+A
+0
+⋅=
+∆
+ψ                            (3.7) 
+δ  və ψ – materialın xarakteristikalarıdırlar; 
+∆l – yükdən azad edilmədə qalıq mütləq uzanmadır; 
+l – dağılmadan sonra nümunənin uzunluğudur, onu nümunənin 
+sınmış hissələrini birləşdirərək ölçürlər; 
+А0 – nümunənin deformasiyadan qabaqkı en kəsik sahəsidir; 
+∆A – nümunənin deformasiyadan qabaqkı en kəsik sahəsi ilə 
+boyuncuğun en kəsik sahəsinin fərqidir. 
+ 
+ 
+3.3. Sıxılma diaqramı 
+ 
+ 
+43
+Kövrək materiallar nəzərə çarpacaq dərəcədə sıxılmaya daha 
+yaxşı müqavimət göstərirlər, nəinki dartılmaya. Çuqun üçün gərginlik 
+diaqramı şəkil 3.6-da göstərilir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 3.6. 
+ 
+Kövrək materialların diaqramlarında düz xətlə ifadə olunan 
+məntəqə olmur, çox böyük olmayan əyrilik olur. Bu göstərir ki, σ  
+gərginliyi ilə ε nisbi deformasiyası arasında düz mütənasib asılılıq 
+yoxdur. Buna baxmayaraq, əyrilik kiçik olmasını nəzərə alaraq, 
+diaqramın əvvəlindəki əyri formalı yerini düz xətlə əvəz edirlər, 
+çünki təcrübi məqsədlərdə buna icazə verilir. Buna görə də E boyuna 
+elastiklik modulu sabit hesab edilir. Diaqramdan (şəkil 3.6) görünür 
+ki, əyridə axıcılıq həddi yoxdur, dartılmada möhkəmlik həddi dmohσ , 
+sıxılmada möhkəmlik həddi smohσ  var, özü də 
+s
+mohσ >
+d
+mohσ , ona 
+görə də kövrək materialları, əsasən, elə qurğularda istifadə edirlər ki, 
+material sıxılmaya işləsin (daş, beton, kərpic, çuqun və s.).  
+Kövrək materiallar sıxılmaya silindr və kub formada  nümunələr 
+hazırlanaraq sınanırlar. 
+ 
+ 
+ 
+ 
+44
+3.4. Dartılmada (sıxılmada) möhkəmliyə 
+və sərtliyə hesabat 
+Mühəndis konstruksiyalarının elementləri, qurğular, onların 
+möhkəmliyi və sərtliyi təmin olunmuş şəraitdə istismar oluna bilərlər. 
+Maşınqayırmada tətbiq olunan buraxılabilən gərginliyə görə 
+hesabat layihə və yoxlama hesabatları ola bilər.  
+ 
+Layihə hesabatı növü 
+  Bu hesabat növündən qurğuları, maşın konstruksiyalarını və 
+onların komponentlərini layihələndirdikdə daha çox istifadə edilir. 
+Belə halda hesabat sxeminin, sistemə təsir edən qüvvənin qiymət və 
+təsir xarakterinin, konstruksiyanın materialının və bir neçə həndəsi 
+ölçülərin məlum olduğu qəbul edilir. 
+Sistem o vaxt möhkəm hesab edilir ki, onun heç bir nöqtəsində 
+qorxulu hal yaranmasın, yəni o dağılmasın (kövrək materiallarda 
+çatlar əmələ gəlib brusun bir hissəsi o birindən aralanmasın, plastiki 
+materiallarda isə qalıq deformasiya yaranmasın). 
+Qorxulu halın yaranmasına uyğun gələn gərginliyə həddi 
+gərginlik deyilir. Onu  ùÿäσ  ilə işarə edirik.  
+Kövrək materiallarda axma sahəsi olmur, ona görə də, 
+materialların dağılmaya başlaması halı qorxulu hal hesab edilir. 
+Kövrək materiallar üçün möhkəmlik həddi (müvəqqəti müqavimət) 
+həddi gərginlik hesab edilir, yəni ìþùùÿä σσ ≅ . 
+Plastiki materiallar üçün plastiki deformasiya baş verə bilər, 
+lakin maşınqayırma mühəndislik konstruksiyalarının istismarın-da 
+buna yol verilmir. Plastiki materiallar üçün həddi gərginlik 
+dartılmada, sıxılmada axıcılıq həddi qəbul edilir, yəni  axhad σσ = . 
+Layihə hesabatında çatışmayan həndəsi ölçüləri layihə 
+hesabatının şərti adlanan tənlik əsasında təyin edirlər. 
+Buraxılabilən normal gərginlik belə təyin olunur: 
+[ ] [ ]n
+ùÿäσσ =                                    (3.8) 
+Burada [ ]n >1 – normativ möhkəmlik ehtiyatıdır, onun qiyməti 
+konstruksiya elementlərinin iş şəraitindən asılı olaraq təyin olunur. 
+ 
+ 
+45
+Ümumiyyətlə, maşınqayırmada onun qiyməti 1,5÷2,5 götürülür. [ ]n  
+möhkəmliyin normativ ehtiyat əmsalı da adlanır. 
+Layihə hesabatının möhkəmlik şərti belə olacaqdır. 
+plastik materiallar üçün 
+[ ] [ ] [ ] ;,max nA
+N axσσσσ =≤=               (3.9) 
+kövrək materiallar üçün 
+[ ] [ ] [ ] ;,max nA
+N mohσσσσ =≤=              (3.10) 
+(3.9) və (3.10) ifadələri əsasında konstruksiya elementlərinin 
+həqiqi həndəsi ölçülərini təyin edilirlər 
+ 
+ 
+Yoxlama hesabatı 
+Layihə hesabatı həmişə lazımdır, lakin çox vaxt mümkün olmur. 
+Qurğuların, maşınların konstruksiya edilməsində və yaxud tikintilərin 
+layihələndirilməsində layihə hesabatı daha cavabdeh detallar, 
+elementlər və qovşaqlar üçün aparılır. Onlarla bağlı başqa 
+elementlərin ölçüləri konstruktorların və yaxud layihəçilərin intuisiya 
+(duyğu) təsəvvürünə görə qoyulur ki, qovşaq, maşın texnoloji prosesi 
+yerinə yetirsin. Belə detallar üçün yoxlama hesabatı aparılır.  
+Deyilənlərə əsasən, belə bir hesabatın mahiyyətini izah edək: 
+verilən hesabat sxeminə, xarici qüvvələrin təsir xarakterinə və 
+qiymətinə, materiala və bütün həndəsi ölçülərə görə konstruksiyanın 
+qorxulu haldan nə dərəcədə uzaq olmasının müəyyən edilməsi tələb 
+edilir, hesabatda əsas məqsəd n möhkəmlik ehtiyatının təyini və [ ]n  
+buraxılabilən möhkəmlik ehtiyatı əmsalı ilə müqayisəsidir. 
+Yoxlama hesabatının şərti aşağıdakı kimi ifadə olunur: 
+nn had ≥=
+maxσ
+σ
+                           (3.11) 
+Layihə hesabatında olduğu kimi, gərginliklərin həddi qiymətləri 
+aşağıdakı kimi götürülür: 
+ 
+ 
+46
+axùÿä σσ =  - plastiki materiallar üçün; 
+möhùÿä σσ =  - kövrək materiallar üçün; 
+maxσ  - konstruksiya elementində mütləq qiymətcə ən böyük 
+gərginlikdir (əgər material dartılmaya, sıxılmaya eyni müqavimət 
+göstərirsə). 
+Əgər materialın dartılmaya, sıxılmaya müqavimət göstərmə 
+qabiliyyəti müxtəlifdirsə, onda dartılmaya ayrıca möhkəmlik 
+ehtiyatını nD və sıxılmaya möhkəmlik ehtiyatını ns təyin etmək 
+lazımdır.  
+Sistemin möhkəmlik ehtiyatı kimi onlardan böyük olanı qəbul 
+edilir. 
+Beləliklə, 
+minmax
+,
+σ
+σ
+σ
+σ ñùÿä
+s
+ä
+ùÿä
+ä nn ==                (3.12) 
+(3.12) ifadəsində σmax, σmin sistemdə uyğun olaraq qiymətcə ən 
+böyük dartıcı və ən böyük (mütləq qiymətcə) sıxıcı gərginliklərdir. 
+Lazım olan hallarda möhkəmlik hesabatları sərtliyə yoxlamaqla 
+tamamlanır. Məsələn, dartılmaya (sıxılmaya) uğrayan brusun 
+deformasiyasına uyğun gələn sərtlik şərti  δmax≥[δ] olacaqdır; burada  
+δmax brusun, milin kəsiyinin (qovşağının) ən böyük mütləq 
+yerdəyişməsidir, yaxud verilmiş kəsiyin (qovşağın) yerdəyişməsidir. 
+[δ] - istismar, yaxud başqa xarakterli tələblərə görə təsdiq olunan 
+buraxılabilən yerdəyişmədir. 
+ 
+ 
+ 
+3.5. Dartılmada (sıxılmada) statiki 
+həll olunmayan məsələlər 
+Brusların möhkəmliyini və sərtliyini artırmaq üçün çox vaxt 
+sistemə əlavə millər daxil edilir, onda məchul qüvvələrin də sayı artır 
+və onları təkcə müvazinət tənlikləri vasitəsilə təyin etmək mümkün 
+olmur. 
+ 
+ 
+47
+Bütün elementlərindəki qüvvələri statika tənlikləri ilə təyin 
+olunan sistemlərə statiki həll olunan sistemlər deyilir. 
+Əgər elastiki sistemin istənilən kəsiyində daxili qüvvələrin 
+əvəzləyicisini yalnız statika tənlikləri ilə təyin etmək mümkün 
+deyilsə, əlavə tənliklər tələb olunarsa, belə sistemlərə statiki həll 
+olunmayan sistemlər deyilir. 
+Məchul qüvvələrin sayı ilə sistem üçün yazılması mümkün olan 
+tənliklərin sayının fərqinə isə statiki həll olunmazlıq dərəcəsi deyilir. 
+Statiki həll olunmazlıq dərəcəsindən asılı olaraq bir dəfə, iki dəfə və 
+s. statiki həll olunmayan sistemlər olur. Çatışmayan tənliklərin sayı 
+sistemin statiki həll olunmazlıq dərəcəsinə bərabər olur. Sistemin 
+statiki həll olunmamasının açılması və həlli aşağıdakı ardıcıllıqla 
+yerinə yetirilir. 
+1. Verilmiş məsələnin sxemi çəkilir. 
+2. Mümkün olan müvazinət tənlikləri yazılır. 
+3. Statiki həll olunmazlıq dərəcəsi K təyin edilir. Bunun üçün 
+məchul qüvvələrin sayından müvazinət tənliklərinin sayı çıxılır. 
+4. Sistemə deformasiya olunmuş halda baxılır, sistemin 
+elementlərindəki mütləq boyuna uzanmalar (qısalmalar) arasındakı 
+analitik asılılıqlar tərtib edilir. Bu asılılıqlara deformasiyanın 
+(yerdəyişmənin) birgəlik tənlikləri deyilir. 
+Belə tənliklərin sayı məsələnin statiki həll olunmazlıq 
+dərəcəsinə K bərabər olmalıdır. Bu dördüncü bəndə görə şərh 
+olunanlara sistemin həndəsi xüsusiyyətləri deyilir. 
+5. Deformasiyanın birgəlik tənlikləri Huk qanuna əsasən 
+qüvvələrdən, uzunluqdan və en kəsiyin sərtliyindən asılı olaraq 
+yazılır. Belə tənliklərə fiziki formada olan tənliklər deyilir. 
+6. 2 və 5 bəndlərindəki tənlikləri birgə həll edərək sistemin 
+millərindəki qüvvələri, dayaq reaksiyalarını təyin edirlər, möhkəmlik, 
+yaxud yoxlama hesabatını aparırlar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+48
+3.6. Temperaturun və hazırlanmada 
+dəqiqsizliyin təsirinin nəzərə alınması 
+ 
+Tutaq ki, uzunluğu l, en kəsik sahəsi A olan polad mil (şəkil 3.7) 
+hərəkətsiz A və B dayaqları arasında hər iki ucundan bağlanmışdır. 
+Đstismar şəraitində milin temperaturu ∆t qədər artır. Kəsiyin sərtliyini 
+C=EA qəbul edərək, mildə yaranan normal qüvvəni və normal 
+gərginliyi təyin edək. Burada E boyuna elastiklik moduludur. Milin 
+materialı üçün xətti genişlənmə əmsalı α-dır.  
+            a)                         b)                     c) 
+ 
+Şəkil 3.7. 
+ 
+Həll etmək üçün fərz edirik ki, milin aşağı ucu B dayağına 
+söykənir. A ucu isə azaddır. Bu halda mil qızdırıldıqda A kəsiyi  δt 
+qiyməti qədər yerini dəyişəcəkdir (şəkil 3.7,b). Məsələnin şərtinə 
+əsasən yuxarı kəsikdə dayaq var, A kəsiyi yerdəyişmə almır, ona görə 
+də, milə elə N qüvvəsi tətbiq etmək lazımdır ki, mil ∆lN boyuna 
+qısalma alsın (şəkil 3.7,c), yəni  
+ 
+ANl δ∆ = .                                 (a) 
+Huk qanununa əsasən və  nəzərə alaraq ki, milin A kəsiyinin 
+yerdəyişməsi  δa= δt= α∆tl-dir, onda alarıq: 
+,lt
+C
+Nl
+⋅= ∆α  
+yaxud temperatur dəyişməsindən yaranan qüvvə N=Cα∆t. 
+C=EA  olduğunu nəzərə alaraq, temperatur təsirindən yaranan 
+maksimum gərginliyi təyin edək: 
+ 
+ 
+49
+tE
+A
+N
+∆ασ ⋅==                           (3.13) 
+Ayrı-ayrı elementlərin hazırlanmasında həqiqi ölçülərin hesabat 
+ölçülərindən fərqli olması halları mümkündür. 
+Statiki həll olunan və olunmayan millər sistemində elementlərin 
+dəqiq hazırlanmasının necə təsir etdiyini misalla izah edək. Şəkil 3.8-
+də statiki həll olunmayan sistemin vəziyyəti göstərilib. 1 və 3  
+elementlərinin uzunluqları hesabat uzunluğuna uyğun gəlir. Đkinci 
+milin uzunluğu δ qədər qısa hazırlanıb (şəkil 3.8). Đkinci mili O 
+qovşağına yaxınlaşdırmaq üçün sistemə F qüvvəsini tətbiq etmək 
+tələb edilir.  
+II-mili O qovşağı ilə birləşdirdikdən sonra II-mildə  dartıcı, I və 
+III-millərdə isə sıxıcı qüvvələr yaranır. Bu halda konstruksiya 
+elementlərində quraşdırma (yerli) gərginliyi yaranır deyilir. Bu 
+gərginlik yuxarıda göstərilən qaydada təyin olunur. 
+ 
+ 
+Şəkil 3.8. 
+Statiki həll olunmayan sistemlərə xas olan xüsusiyyətləri qeyd 
+edək, bu xüsusiyyət statiki həll olunan sistemlərdə olmur: 
+1. Əvvəlki hala nisbətən temperatur dəyişdikdə elementlərdə 
+dartıcı və yaxud sıxıcı qüvvə yaranır (temperatur gərginliyi 
+yaranır). 
+2. Elementlərin ölçüləri hesabat ölçülərindən kənara çıxdıqda 
+xarici qüvvələrin təsiri olmadan statiki həll olunmayan 
+ 
+ 
+50
+sistemin elementlərində dartıcı (sıxıcı) ox qüvvəsi yaranır. Bu 
+quraşdırma gərginliyini yaradır.  
+3. Statiki  həll olunmayan sistemin elementlərində yaranan 
+qüvvə en kəsiyin sərtliyinin qiymətindən və konstruksiyanın 
+ayrı-ayrı elementlərinin sərtliklərinin nisbətindən asılı olur. 
+4. Statiki həll olunmayan sistemlər təkcə statika tənliklərin 
+vasitəsilə həll olunmurlar, yerdəyişmənin (deformasiyanın) 
+birgəlik tənlikləri adlanan əlavə tənliklər də yazılmalıdır və 
+statika tənlikləri ilə yerdəyişmə tənlikləri birlikdə həll 
+olunmalıdır. 
+ 
+ 
+ 
+3.7. Gərgin halın növləri. 
+Müstəvi və xətti gərgin hal 
+Gərgin halın üç növü var: həcmi gərgin hal (üçoxlu) (şəkil 
+3.9,a), müstəvi gərgin hal (ikioxlu) (şəkil 3.9,b) və xətti gərgin hal 
+(biroxlu) (şəkil 3.9,c).  
+Üçoxlu gərgin halda baş verən gərginliklərin üçü də, iki- oxlu 
+gərgin halda iki baş gərginlik, biroxlu gərgin halda isə bir baş 
+gərginlik sıfırdan fərqlidir. Bu halda ilkin verilənlər – baş sahələr 
+qəbul olunurlar. 
+ 
+ 
+Şəkil 3.9. 
+ 
+Bu gərgin hallardan müstəvi gərgin hal daha geniş yayılmışdır. 
+Müstəvi gərgin hala uğrayan konstruksiya elementlərini möhkəmliyə 
+ 
+ 
+51
+hesablamaq üçün müxtəlif sahələrdə yaranan gərginlikləri təyin 
+etmək lazımdır. Bu məqsədlə əsası üçbucaq olan prizmatik cismi 
+tədqiq edək (şəkil 3.10). 
+ 
+Şəkil 3.10. 
+  
+Müvazinət tənliklərini yazıb sadələşdirmələr aparmaqla 
+aşağıdakı ifadələri almaq olar: 
+τy = –τx;                                (3.14)   
+ατασασσ 2x
+2
+y
+2
+xa sinsincos ++=               (3.15) 
+.cossin ατα
+σσ
+τ 22
+2
+x
+yx
+a −
+−
+=                  (3.16) 
+(3.14) ifadəsi toxunan gərginliyin qoşalığı qanunu adlanır və 
+göstərir ki, qarşılıqlı perpendikulyar sahələrdə yaranan toxunan 
+gərginliklər qiymətcə bərabər olub, istiqamətcə əksdir. 
+(3.15), (3.16) ifadəsindən istifadə etməklə müstəvi gərgin hala 
+uğrayan konstruksiya elementlərinin istənilən kəsiklərindəki 
+gərginlikləri təyin etmək olar. 
+Mürəkkəb gərgin halda aşağıdakı üç hal mövcuddur: 
+a) bir-birinə qarşılıqlı perpendikulyar olan elə sahələr var ki, 
+həmin sahələrdə iki növ gərginlik (σ, τ) yaranır, bu sahələr x, y 
+oxlarına paraleldir; 
+ 
+ 
+52
+b) sahələr arasında qarşılıqlı perpendikulyar olan elə sahələr var 
+ki, həmin sahələrdə yalnız normal gərginliklər yaranır. Belə sahələrə 
+baş sahələr, həmin sahələrdə yaranan normal gərginliklərə isə baş 
+normal gərginliklər (σmax , σmin) deyilir; 
+c) sahələr arasında qarşılıqlı perpendikulyar olan başqa elə 
+sahələr var ki, həmin sahələrdə yalnız toxunan gərginliklər yaranır. 
+Belə sahələrə baş sürüşmə sahələri, həmin sahələrdə yaranan toxunan 
+gərginliklərə baş toxunan gərginliklər (τmax , τmin) deyilir (şəkil 3.11).  
+Baş sahələrin istiqaməti və baş gərginliklərin qiymətləri iki 
+üsulla – analitik və qrafiki üsullarla təyin olunur. Onlardan ən çox 
+istifadə olunanı analitik üsuldur.  
+Baş sahələrin istiqaməti 
+yx
+x
+0
+2
+2tg
+σσ
+τ
+α
+−
+= ,                          (3.17) 
+baş sürüşmə sahələrinin istiqamətləri isə 
+4501 +=αα                                  (3.18) 
+düsturları ilə təyin olunurlar.  
+ 
+Şəkil 3.11. 
+ 
+ 
+53
+Baş normal gərginliklər 
+( ) ,max 2x2yxyx 4
+2
+1
+2
+τσσ
+σσ
+σ +−±
++
+=          (3.19) 
+baş toxunan gərginliklər isə 
+( ) ,
+min
+max
+2
+x
+2
+yx 4
+2
+1
+τσστ +−±=                  (3.20) 
+düsturları ilə təyin olunurlar. 
+ 
+ 
+ 
+3.8. Nöqtədə gərgin halın dairəvi diaqramı 
+Tutaq ki, cisimdən ayrılmış element (şəkil 3.13) həcmi gərgin 
+haldadır. 3(z)  oxundan keçən üç sahəciklərdə (onlardan biri 
+ştrixlənib) normal və toxunan gərginlikləri təyin edək. Sahəciklərin 
+izi şəkil 3.12,b-də göstərilmişdir. Baş gərginliklər, əvvəllər olduğu 
+kimi, yalnız görünən üzlərdə göstərilmişdir. Bu sahənin vəziyyəti 
+yönəldilmiş kosinuslarla təyin olunur: l=cosα  və  m=cosβ=sinα  və 
+n=0 (3.15) ifadəsinə əsasən: 
+ 
+ 
+Şəkil 3.12. 
+ 
+.sincoscoscos ασασβσασσ 22
+2
+1
+2
+2
+2
+1y +=+=      (a) 
+Elementar riyaziyyatdan məlumdur ki, 
+ 
+ 
+54
+2
+21
+2
+21 22 αα
+α
+α
+cos
+sin,
+cos
+cos
+−
+=
++
+=         (b) 
+(b) ifadəsini (a)-da yerinə yazıb tapırıq: 
+.cos α
+σσσσ
+σ 2
+22
+2121
+y
+−
++
++
+=                (3.21) 
+z  oxundan keçən ixtiyari sahədəki τy  toxunan gərginliyi (10.9) 
+ifadəsindən məlum qiymətləri kök altında qoyub, dəyişiklik 
+apardıqdan sonra tapmaq olar: 
+.sin α
+σσ
+τ 2
+2
+21
+y
+−
+=                       (3.22) 
+Parametrik formada çevrənin tənliyini tərtib edək. Çevrənin 
+mərkəzi absis oxu üzərində olan hal üçün tənlik aşağıdakı görünüşü 
+alır: 
+ϕϕ sin,cos RyRax =+= .                (3.23) 
+ 
+Şəkil 3.13. 
+ 
+ 
+55
+Bu, qrafiki olaraq şəkil 3.13 a-da təsvir olunmuşdur. Qəbul etsək 
+ki,  
+,, yy yx τσ ==   ,,, αϕ
+σσσσ
+2
+2
+R
+2
+a 2121 =
+−
+=
++
+=  
+ (3.23) ifadəsini (3.21) və (3.22) ifadələri ilə müqayisə edərək 
+onların eyni olduğunu tapırıq.  
+(3.21) və (3.22) düsturlarını qrafiki olaraq koordinat sistemində 
+də almaq olar; bu şərtlə ki, absis oxu üzərində normal gərginlik, 
+ordinat oxunda isə toxunan gərginlik göstərilsin.  
+Absis oxu üzərinə σ1 və  σ2  baş gərginliklərini qeyd edirik və 
+21 σσ −  parçasında )(
+2
+1
+21 σσ −  radiuslu çevrə qururuq. Çevrənin 
+hər bir nöqtəsinin absisi σv, normal gərginliyin ordinatı isə sahədə 
+yaranan toxunan gərginliyi təyin edir. Bunu göstərək. Bu məqsədlə 
+çevrənin mərkəzindən absislə 2α bucağı təşkil edən şüa keçirək.  
+OB parçası bərabərdir: 
+OB=OK+KC+CB= =
+−
+−
+−
++ α
+σσσσ
+σ 2
+22
+2121
+2 cos  
+= .sin α
+σσσσ
+2
+22
+2121 −+
++
+ 
+BA=CAsin2α = .sin α
+σσ
+2
+2
+21 −  
+OB və BA-nın həndəsi ifadələrinin (3.21) və (3.22) analitik 
+ifadələri ilə müqayisəsindən görünür ki, onlar eynidir. Uyğun olaraq 
+absis oxu üzərində 32 σσ −  və 31 σσ −  baş gərginliklər fərqinə 
+bərabər diametrləri olan daha iki çevrə qururuq       (şəkil 3.13,c).  
+Bu yolla alınan diaqrama nöqtədə gərgin halın dairəvi diaqramı  
+deyilir. Ən böyük radiusu olan çevrə təyinedici adını daşıyır.  
+Elastiklik nəzəriyyəsində isbat edilir ki, ixtiyari səmtləşdirilmiş 
+sahədə normal və toxunan gərginliklər diaqramın ştrixlənmiş 
+oblastındakı nöqtələrlə ifadə olunur. 
+ 
+ 
+ 
+ 
+56
+3.9. Mürəkkəb gərgin halda iş və potensial enerji 
+Konstruksiya elementi mürəkkəb gərgin hala uğradıqda 
+müəyyən iş görülür. Enerjinin saxlanması qanuna əsasən görülən iş 
+tamamilə potensial enerjiyə çevrilir. 
+Ümumi potensial enerji sadə gərgin haldakı üç potensial 
+enerjinin cəminə bərabər olur: 
+.
+222
+W 332211
+εσεσεσ
+++=                    (3.24)          
+Ümumiləşmiş Huk qanununu (3.24) ifadəsində  nəzərə 
+alırıq, onda 
+( )[ ]133221232221 2
+E2
+1
+W σσσσσσµσσσ ++−++=   (3.25) 
+Xüsusi potensial enerji w forma və həcm dəyişməsindən 
+yaranan xüsusi potensial enerjilərin cəminə bərabərdir: 
+ 
+w=wf+wy                                               (3.26) 
+[ ]321E6
+21
+W σσσ
+µ
+++
+−
+=                 (3.27)  
+( )[ ]133221232221y
+E3
+1
+w σσσσσσσσσ
+µ
+++−++
++
+=     (3.28) 
+ 
+ 
+3.10. Möhkəmlik nəzəriyyələri və onların tətbiqi 
+Sadə gərgin halda möhkəmliyə hesabat apararkən sadə hesabat 
+düsturlarından və laboratoriyada aparılan təcrübələrdən istifadə 
+olunur. Mürəkkəb gərgin halda isə belə hesabat tənliklərindən istifadə 
+etmək mümkün deyil. Ona görə də mürəkkəb gərgin halda 
+möhkəmliyə hesabat араrarkən möhkəmlik nəzəriyyələrindən istifadə 
+olunur. 
+Kövrək dağılma nəzəriyyəsinə ən böyük normal gərginlik və ən 
+böyük xətti gərginlik nəzəriyyələri aiddir, hal-hazırda onlardan 
+ 
+ 
+57
+istifadə olunmur. Ən çox istifadə olunanlar aşağıdakı plastiklik 
+nəzəriyyələridir. 
+ 
+1. Əп böyük toxunan gərginlik nəzəriyyəsi 
+Bu nəzəriyyəyə əsasən müxtəlif növ gərgin hallarda olan iki 
+elementdəki ən böyük toxunan gərginliklər bərabər olduqda həmin 
+elementlər bərabər möhkəmlikli hesab edilir. Ekvivalentlik şərti 
+aşağıdakı ifadə olacaqdır: 
+,max. ττ =ekv                            (3.19) 
+burada .ekvτ  – ekvivalent gərgin halda ən böyük toxunan 
+gərginlik; maxτ  – verilmiş gərgin halda ən böyük toxunan 
+gərginlikdir. 
+Bu nəzəriyyə kövrək dağılmaya nisbətən plastiki dağılmanın çox 
+qorxulu olmasını təqdim etməklə, əlaqədar olub belə bir fikri ifadə 
+edir ki, plastiki deformasiyanın yaranmasında qorxulu hal 
+sürüşmənin qiyməti ilə xarakterizə olunur. Plastiki deformasiya bir 
+neçə kristalloqrafıq müstəvidə atom qruplarının sürüşməsi təsirindən 
+yaranır. Ən böyük toxunan gərginlik nəzəriyyəsi belə hesab edir ki, 
+materialların kristal qəfəslərində dönməyən sürüşmələr yaranır. 
+Mürəkkəb gərgin hal nəzəriyyəsində ən böyük toxunan gərginlik 
+aşağıdakı ifadə ilə təyin edilir: 
+.max
+2
+31
+13
+σσ
+ττ
+−
+==                        (a) 
+Xətti olan ekvivalent gərgin halda toxunan gərginlik 
+.
+2
+ekv
+ekv
+σ
+τ =                             (b) 
+(a) və (b) ifadələrini bərabərləşdirərək normal gərginliklər-də 
+ekvivalentlik şərtini nəzərə alırıq: 
+ 
+31ekv σσσ −=. .                         (3.30) 
+Ən böyük toxunan gərginlik nəzəriyyəsinə əsasən layihə 
+hesabatının şərti belə olacaq: 
+ 
+ 
+ 
+58
+[ ]σσσσ ≤−= 31ekv. .                     (3.31) 
+Yoxlama hesabatı şərti 
+[ ]nn
+31
+haddi
+ekv
+haddi ≤
+−
+==
+σσ
+σ
+σ
+σ
+.
+                  (3.32) 
+ifadələri ilə təmin olunur. 
+Tirlərə aid olan müstəvi gərgin hal  üçün bu nəzəriyyə çox 
+vacibdir. Ekvivalent gərgin halda gərginlik bərabərdir: 
+ 
+22
+31ekv 4τσσσσ +=−=. . 
+Onda belə hal üçün möhkəmlik hesabatı şərti aşağıdakı kimi 
+olacaq: 
+[ ]a4 22ekv ≤+= τσσ . .                   (3.33) 
+Möhkəmlik ehtiyatı aşağıdakı bərabərliyə əsasən təyin olunur: 
+22
+haddi
+4
+n
+τσ
+σ
++
+= .                        (3.34) 
+Təcrübələr yolu ilə isbat olunmuşdur ki, plastiki materiallar üçün 
+ən böyük toxunan gərginlik nəzəriyyəsi kafi nəticələr verir. Elastiki 
+vəziyyətdən plastiki vəziyyətə keçmə lazımi dəqiqliklə ən böyük və 
+ən kiçik toxunan gərginliklərin fərqi ilə təyin olunur və aralıq baş 
+gərginlikdən az asılıdır.  
+Bu nəzəriyyə dartılmaya, sıxılmaya eyni işləyən plastiki 
+materiallar üçün kafi nəticələr verir. Belə materiallara birinci 
+növbədə azkarbonlu poladları daxil etmək lazımdır. Kövrək 
+materiallara ən böyük toxunan gərginlik nəzəriyyəsini tətbiq etmək 
+mümkün deyil.  
+ 
+2. Formadəyişməsindən xüsusi potensial enerji fərziyyəsi 
+Yuxarıda baxılan möhkəmlik fərziyyələrində möhkəmlik 
+kriteriləri bu amillər: gərginlik və uzanma olmuşdur. Cisimlərin 
+xarici qüvvələrlə yüklənməsi nəticəsində onlar deformasiyaya uğrayır 
+və potensial enerji yaranır, qüvvələr götürüldükdə isə o yox olur.  
+ 
+ 
+59
+Əvvəlki yüzilliyin sonunda Beltr energetik möhkəmlik 
+nəzəriyyəsini təklif etdi, bu isə təcrübə ilə çox kəskin 
+fərqləndiyindən, praktiki olaraq təsdiq edilmədi. 1964-cü ildə prof. 
+Quber bu nəzəriyyəni təkmilləşdirdi və nəzəriyyə 
+formadəyişməsindən enerji nəzəriyyəsi adını aldı.  
+Belə təsəvvür olunur ki, materialın plastiki hala keçməsinə səbəb 
+tam potensial enerji yox, ancaq bir hissənin forma dəyişməsinə sərf 
+olunanıdır. Ona görə də 
+ 
+( ) ( ) ( )[ ] [ ].. σσσσσσσσ ≤−+−+−= 213232221ekv 2
+1
+  (3.35) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60
+IV fəsil. Xalis sürüşmə 
+4.1. Ümumi anlayışlar. Nazikdivarlı silindrik 
+boruların burulmasında xalis sürüşmə 
+deformasiyasının öyrənilməsi 
+ 
+Xalis sürüşmə deformasiyası elementin qarşılıqlı perpendikulyar 
+üzlərində yalnız toxunan gərginlik yarandığı halda baş verən 
+deformasiyaya deyilir. 
+Hər iki ucuna momenti m olan cüt qüvvələr tətbiq olunan 
+nazikdivarlı silindrik borunun deformasiyasına baxaq (şəkil 4.1). 
+Borunun orta diametri Dor, divarının qalınlığı δ-dır. 10Dor ≥δ/  
+olarsa, boru nazikdivarlı hesab edilir. 
+Borunun en kəsiyində yalnız toxunan gərginliyin yarandığını 
+göstəririk. Kəsmə üsulundan istifadə edərək borunun yuxarı hissəsini 
+(şəkil 4.1) atırıq. Onun aşağı hissəsinə (şəkil 4.2) baxırıq. 
+ 
+ 
+                   Şəkil 4.1.    Şəki. 4.2. 
+ 
+Boru bir-birinə bərabər və əks yönələn burucu cütlərlə 
+yüklənmişdir, ona görə də müvazinətdə olur. Onun istənilən hissəsi, o 
+cümlədən yuxarı hissəsi müvazinətdədir. Lakin bu o vaxt 
+mümkündür ki, onun en kəsiyində yalnız toxunan qüvvələr yaransın 
+(şəkil 4.2). 
+ 
+ 
+61
+ Belə halda normal qüvvələr yarana bilməz, çünki onları 
+müvazinətləşdirəcək xarici qüvvələr yoxdur.  
+ 
+ 
+4.2. Toxunan gərginliyin qoşalığının xüsusiyyətləri 
+Şəkil 4.1-ə müraciət edək. ABCD elementini (şəkil 4.3) 
+nazikdivarlı silindrik borunun oxuna normal olan iki 1-1 və 2-2 
+kəsikləri ilə və oxa paralel olan iki 3-3 və 4-4 kəsikləri ilə kəsməklə 
+alırıq. Đşarələri belə qəbul edirik: oxa perpendikulyar olan sahəciyə 
+həmin oxun  adını veririk. Məsələn, ABCD sahəciyi z oxuna 
+perpendikulyardır və onu z sahəciyi adlandırırıq və s. Toxunan 
+gərginliyə iki indeks verilir: nk, burada n-sahəciyin adını, k-sahəyə 
+paralel olan oxun adını 
+göstərir; Bu ox toxunan 
+gərginliyin vektoruna 
+paralel olur. Məsələn, 
+xyτ  gərginliyi x sahəci-
+yində təsir edir, o y 
+oxuna paraleldir.  
+Beləliklə, y sahə-
+ciyi nazikdivarlı silin- 
+drik borunun en kəsik-                                 
+ləri ilə üst-üstə düşür və 
+onlarda şəkil 4.3-də 
+göstərilən kimi xyτ  
+toxunan gərginliyi yaranır.                              Şəkil 4.3.                                      
+x sahəciklərində olan gər- 
+ginlikləri xyτ  ilə işarə edirik.  
+Boru müvazinətdədir, təbiidir ki, onun hər bir elementi də 
+müvazinətdə olacaqdır. Müvazinət tənliyindən istifadə edək: 
+∑ = 0M z . z oxundan dx məsafədə olan x üzündə xyτ dydz toxunan 
+qüvvəsi,  y  üzündə isə xyτ dxdz qüvvəsi təsir edir. Hər bir toxunan 
+qüvvəni öz qoluna vuraraq, alırıq: 
+ 
+ 
+62
+xyτ dydzdx- yxτ dxdzdy=0. 
+Buradan  
+xyτ = yxτ .                            (4.1) 
+(4.1) ifadəsi toxunan gərginliyin qoşalığı qanunu adlanır: 
+qarşılıqlı perpendikulyar sahəciklərdə sahəciklərin kəsişmə xəttinə 
+doğru və ya əks tərəfə yönələn qiymətcə bərabər toxunan gərginliklər 
+təsir edir. 
+ 
+ 
+4.3. Xalis sürüşmə halında borunun oxuna maili 
+olan sahədə normal və toxunan gərginliklər 
+B nöqtəsindən  ϕ  bucağı altında 5-5 düz xəttini keçirək və 
+ayrıca ABE elementini (bax: şəkil 4.1) göstərək. Əvvəllər göstərildiyi 
+kimi, üfüqi və şaquli sahəciklərdə intensivliyi  xyτ  və yxτ  toxunan 
+gərginlikləri olan toxunan qüvvələr yaranır. Đntensivliyi  p  olan tam 
+qüvvə yaranan maili müstəvi v normalını çəkirik (şəkil 4.4). 
+Qiymətləri  vτ  və vσ -lərdən asılı təyin etmək daha əlverişlidir. Maili 
+müstəvinin sahəsini dA, sahəcikləri isə x=dA·cosϕ  və  y=dA·sinϕ   
+qəbul edərək, ABE elementinin müvazinət halına baxaq:  
+ 
+ 
+        Şəkil 4.4.            Şəkil. 4.5.              
+ 
+ 
+63
+a) ∑ ⋅⋅⋅+⋅⋅⋅=⋅= .cossinsincos, ϕϕτϕϕτσ dAdAdA0v yхxyv  
+Toxunan gərginliyin qoşalığı qanununa əsasən ( yxxy ττ = ). 
+ 
+.sin ϕτσ 2xyv ⋅=                      (4.2) 
+b) ∑ ⋅⋅⋅−⋅⋅⋅=⋅= ϕϕτϕϕττ sinsincoscos, dAdAdA0t yxxyv , 
+ϕττ 2xyv cos⋅= .                        (4.3) 
+ϕ1=450 və  ϕ2=1350 qiymətlərini (4.3) ifadəsində yazaraq τv=0 
+alırıq, yəni borucuğun həndəsi oxu ilə 450 təşkil edən maili 
+müstəvilərdə toxunan gərginliklər sıfıra bərabərdir. 
+Deməli, bu sahələrdə yaranan normal gərginliklər baş  normal 
+gərginliklər, sahələr isə baş sahələr olur.  
+(4.2) ifadəsindən istifadə edərək xalis sürüşmədə borucuğun 
+həndəsi  oxu ilə 450 bucaq təşkil edən sahəciklərdə baş normal 
+gərginlikləri təyin edək: 
+;,;, xyv
+0
+xyv
+0 13545 τσϕτσϕ −==+==  
+.,;, xyv
+0
+xyv
+0 315225 τσϕτσϕ −==+==  
+Gərginliklərin sahələrdəki istiqaməti şəkil 4.5-də göstərilir; cəbri 
+mənada baş normal gərginliklər σ1>σ2>σ3 bərabərsizliyi ilə 
+əlaqələndiyindən, σ1= xyτ , σ2=0, σ3=- xyτ . Şəkildən görünür ki, xalis 
+sürüşmə elə deformasiyadır ki, onda baş gərginliklər qiymətcə 
+bərabər, istiqamətcə (işarəcə) əks olur. 
+ 
+ 
+4.4. Deformasiyalar, G və E arasında əlaqə 
+və xalis sürüşmədə Huk qanunu 
+Xalis sürüşmə şəraitində olan elementin deformasiyasına baxaq. 
+Xalis sürüşmədə gərginlik və deformasiyalar arasındakı analitik 
+asılılıqları müəyyən edək. 
+Şəkil 4.7-dən görünür ki, sürüşmə bucağı 
+ 
+ 
+64
+).( xyxyxy tga
+s
+γγ
+∆
+γ ≈=                   (a) 
+AC diaqonalının mütləq uzanması isə (şəkil 4.6) 
+./ 2SllAB ∆∆∆ ==                         (b) 
+(b) ifadəsindən ∆S-in  qiymətini (a) ifadəsində yazaraq alırıq: 
+a
+l2
+xy
+∆
+γ
+⋅
+= .                               (c) 
+Əvvəlki kubikə nisbətən 450 çevrilmiş elementi (şəkildə 
+ştrixlənib) göstərək. Bu element üçün σ1= xyτ , σ2=0, σ3=- xyτ  və 
+müstəvi gərgin hal şəraitində işləyir. AC diaqonalının mütləq 
+uzanması bərabərdir: .2aLl ACACAC ⋅=⋅=∆ εε  
+Ümumiləşmiş Huk qanununa (3.15) əsasən AC diaqonalının 
+nisbi uzanması 
+xyxyxy321AC E
+1
+E
+1
+E
+1
+τ
+µ
+τµτσσµσε
++
+=⋅+=+−= )())(( .    (d) 
+ 
+   
+              Şəkil 4.6.                                     Şəkil 4.7. 
+ 
+ 
+ 
+ 
+65
+ACε -nin qiymətini l∆  ifadəsində  yerinə yazıb, sonra da (c) 
+ifadəsini nəzərə alaraq, yazırıq: 
+xyxy
+E
+12
+τ
+µ
+γ
+)( +⋅
+= , 
+yaxud 
+xyxy G γτ ⋅= ,                            (4.4) 
+hansı ki, 
+)( µ+
+=
+12
+E
+G .                            (4.5) 
+G sürüşmə modulu, yaxud ikinci növ elastiklik modulu adlanır. 
+(4.4) ifadəsi sürüşmədə Huk qanununu ifadə edir və belə oxunur: 
+mütənasiblik həddi daxilində toxunan gərginliklərlə bucaq 
+deformasiyaları arasında xətti asılılıq mövcuddur. 
+(4.5) ifadəsi boyuna elastiklik modulu E, sürüşmə modulu G və 
+Puasson əmsalı µ arasında əlaqə yaradır. Poladlar üçün µ=0,25÷0,33; 
+E=2·105  MPa. Bu halda poladın sürüşmə modulu  
+MPa108E4003750
+12
+E
+G 4⋅≅÷=
++
+= ),,(
+)( µ
+. 
+Çuqun üçün G = 4,5·104MPa. 
+Mütləq sürüşmə s∆  üçün Huk qanunu as ⋅=∆ γ  ifadəsində, 
+nisbi sürüşmənin G/τγ =  qiymətini, toxunan gərginliyi kəsici 
+qüvvədən G və en kəsiyi sahəsindən A )/( AQ=τ  asılı olaraq təyin 
+edərək, alırıq: 
+AG
+aQ
+a
+G
+as
+⋅
+⋅
+=⋅=⋅=
+τ
+γ∆                         (4.6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+66
+4.5 Sürüşmə diaqramı və möhkəmliyə hesabat 
+γ  və τ  koordinatları ilə ifadə olunan qrafik (şəkil 4.8) sürüşmə 
+diaqramı adlanır. Bu diaqram nazikdivarlı silindrik boru burulanda 
+alınan təcrübi nəticələr əsasında qurulur. Plastik materiallar üçün 
+sürüşmə diaqramı dartılma diaqramına uyğundur. Sürüşmə 
+diaqramında da dartılma diaqramındakı kimi xarakterik nöqtələri 
+aşkar edib materialın bir neçə xarakteristikasını təyin etmək olar. 
+Belə nöqtələr sürüşmədə mütənasiblik həddinə ìöòτ , axıcılıq həddinə 
+axτ  və möhkəmlik həddinə ìþùτ  uyğun gələn A,B,C  nöqtələridir.  
+Maşınqayırmada və inşaatda çox rast gələn xalis sürüşmə 
+deformasiyası, adətən, əvvəlcə plastik kəsmə deformasiyası ilə 
+başlanır. Belə ki, sürüşmə və kəsilmə deformasiyası metal təbəqələrin 
+kəsilməsində, mexaniki qayçıların işində, mühəndis konstruksiyalı 
+birləşdirmələrində və s. müşahi-
+də olunur. 
+Pərçimlər, boltlar, qaynaq 
+tikişləri və işgillər, adətən, 
+sürüşmə və kəsilməyə işləyir. 
+Kəsilmə, sürüşmə və əzilmə 
+şəraitində konkret birləşmələrdə 
+istifadə olunan elementlərin 
+möhkəmliyə hesablanması maşın 
+hissələri fənnində öyrədilir. Ona 
+görə də burada onların üzərində 
+dayanmayacağıq.   Qeyd   etmək  
+                                                    lazımdır ki, layihə hesabatının 
+möhkəmlik şərti aşağıdakı ifadə ilə göstərilir:  
+[ ]ττ ≤max ,                                           4.7) 
+burada: maxτ - konstruksiya elementində ən böyük gərginlik, 
+[ ]τ - buraxılabilən toxunan gərginlikdir (bu [ ]σ -nın müəyyən                       
+hissəsini təşkil edir). 
+Möhkəmlik nəzəriyyəsinə əsasən  [ ] [ ]στ 60,≅ . 
+ 
+ 
+ 
+67
+V fəsil. Yastı kəsiyin həndəsi xarakteristikasının  
+mahiyyəti və onun tədqiqi 
+Dartılma və sıxılma, eləcə də sürüşmə deformasiyalarında 
+konstruksiya hissələrinin möhkəmliyi və sərtliyi (materialın növü 
+eyni və ona təsir edən xarici qüvvə sabit olduqda) en kəsiyin 
+formasından və onun oxlara nəzərən vəziyyətindən yox, ölçülərindən 
+asılıdır. Ona görə də bu deformasiyalarda kəsiyin sahəsi həmin en 
+kəsiyin həndəsi xarakteristikasıdır. Kəsiyin sahəsi eyni qiymətə malik 
+olduqda hissələrin xarici qüvvəyə müqavimət göstərmə qabiliyyətləri 
+və sərtlikləri də eynidir. 
+Lakin burulma, əyilmə, eləcə də mürəkkəb deformasiyalara 
+uğrayan konstruksiya hissələrinin möhkəmliyi və sərtliyi kəsiyin 
+formasından və oxlara nəzərən vəziyyətindən də asılıdır. Ona görə də 
+belə deformasiyalarda kəsiyin həndəsi xarakteristikası ətalət 
+momentləridir. 
+ 
+ 
+5.1. Kəsiyin sahəsinin statik momenti.  
+Ağırlıq mərkəzinin təyini 
+Statik momenti kəsiyin 
+oxlara nəzərən vəziyyətini 
+xarakterizə edib (şəkil 5.1) 
+aşağıdakı inteqralla təyin edilir: 
+
+
+
+
+
+=
+=
+∫
+∫
+A
+y
+A
+z
+zdAS
+ydAS
+          (5.1) 
+Sahənin statik momenti 
+mm3, sm3 ilə ölçülür. Kəsiyin 
+hansı rübdə yerləşməsindən asılı 
+olaraq о, müsbət, mənfi və sıfır 
+da ola bilər. 
+Əvəzləyicinin     moment                                          
+teoreminə əsasən                                                   Şəkil 5.1. 
+ 
+ 
+68
+
+
+
+
+
+==
+==
+∫
+∫
+A
+cz
+A
+cy
+AYydAS
+AZzdAS
+                             (5.2.) 
+          burada А – kəsiyin sahəsi;  
+                 zс, yс – kəsiyin ağırlıq mərkəzinin koordinatlarıdır. 
+Mürəkkəb fiqura malik yastı kəsiyin statik momenti onun 
+üzərindən ayrılmış sadə həndəsi fiqurların statik momentləri cəminə 
+bərabərdir.                         
+
+
+
+
+
+
+
+=+++=
+=+++=
+∑
+∑
+=
+=
+n
+1i
+iinn2211z
+n
+1i
+iinn2211z
+zAzAzAzAS
+yAyAyAyAS
+...
+...
+                  (5.3)  
+(5.3) ifadəsinə əsasən ağırlıq mərkəzinin koordinatlarını təyin 
+etmək olar. 
+;
+1
+1
+∑
+∑
+=
+===
+n
+i
+i
+n
+i
+ii
+y
+c
+A
+zA
+A
+S
+z       ;
+1
+1
+∑
+∑
+=
+===
+n
+i
+i
+n
+i
+ii
+z
+c
+A
+yA
+A
+S
+y               (5.4) 
+ 
+ 
+ 
+ 
+5.2. Yastı kəsiyin ətalət momentlərinin təyini 
+Yastı fiqurun üç növ ətalət momenti var:  
+1. Ox (ekvatorial) ətalət momentləri (Jz, Jy). Yastı kəsiyin ox 
+ətalət momenti onu təşkil edən dA sahəciklərinin, həmin 
+sahəciklərdən oxa qədər olan məsafələrin kvadratına hasilinin cəminə 
+deyilir (şəkil 5.2). 
+∫ ∫==
+A A
+yz dAzJdAyJ
+22 ;                   (5.5) 
+ 
+ 
+69
+Ox ətalət moment-
+ləri müsbət olub əyilmə-
+də həndəsi xarakteristi-
+kadır. 
+2. Qütbi ətalət 
+momenti (Jp). Yastı 
+kəsiyin qütbi ətalət 
+momenti həmin kəsik 
+üzərindəki dA sahəciklə- 
+rinin, həmin sahəciklər-
+dən onunla bir müstəvidə 
+yerləşən   qütbədək    olan                            Şəkil 5.2.                
+məsafələrin kvadratı hasil- 
+lərinin cəbri cəminə deyilir. 
+∫=
+A
+p dAJ
+2ρ                              (5.6) 
+Qütbi ətalət momenti müsbət olub burulma deformasiyasında 
+həndəsi xarakteristikadır. 
+3. Mərkəzdənqaçma ətalət momenti (Jzy). Yastı kəsiyin 
+mərkəzdənqaçma ətalət momenti həmin kəsik üzərindəki dA 
+sahəciklərinin həmin sahəciklərdən onunla bir müstəvidə yerləşən və 
+bir-birinə perpendikulyar olan oxlaradək məsafələrdə hasillərinin 
+cəbri cəminə bərabərdir. 
+.∫ ⋅=
+A
+zy dAzyJ                               (5.7) 
+Mərkəzdənqaçma ətalət momenti kəsiyin oxlara nəzərən 
+vəziyyətindən asılı olaraq müsbət, mənfi və sıfır ola bilər. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+70
+5.3. Ətalət momentləri haqda teoremlər 
+Teorem 1. Kəsiyin qütbi ətalət 
+momenti həmin qütbdən keçən və bir-
+birinə perpendikulyar olan oxlara 
+nəzərən ətalət momentlərinin cəminə 
+bərabərdir. Đxtiyari bir kəsik seçək (şəkil 
+5.3). 
+Qütbi ətalət momenti 
+       ∫=
+A
+2
+p dAJ ρ .              (5.8) 
+ Pifaqor teoreminə görə yaza  
+              Şəkil 5.3.                    bilərik: ρ2 = z2 + y2, onda:                                     
+                                                                                                                                      
+ ∫ ∫∫ +=+=+=
+A A
+zy
+2
+A
+222
+p JJdAydAzdAyzJ )(  
+yzp JJJ +=                                      (5.9) 
+Bu ifadə teoremin isbat olunduğunu göstərir. 
+Teorem 2. Mərkəzi oxa paralel olan oxa nəzərən ətalət 
+momenti kəsiyin mərkəzi oxuna nəzərən ətalət momenti ilə bu oxlar 
+arasındakı məsafə kvadratının kəsiyin sahəsinə hasilinin cəminə 
+bərabərdir.  
+Fərz edək ki, kəsiyin mərkəzi oxlara (zc, yc) nəzərən ətalət 
+momentləri məlumdur (şəkil 5.4). zoy sistemində istənilən nöqtənin 
+koordinatları  zA=zc+b, у1=уc+a olacaqdır, onda: 
+
+
+
+
+
+
+++=+==
+++=+==
+∫ ∫∫ ∫∫
+∫ ∫∫ ∫∫
+A A
+c
+A A
+c
+A
+cy
+A A
+c
+A A
+c
+A
+z
+dAbdAzbdAzdAbzdAyJ
+dAadAyadAydAyzdAyJ
+2222
+11
+2222
+11
+2)(
+2)(
+   (5.10) 
+∫ ==
+A
+cyc dAzS 0 ; 
+∫ ==
+A
+czc dAyS 0 .
+ 
+ 
+ 
+ 
+71
+ 
+Şəkil 5.4. 
+ 
+olduğunu (5.10) ifadəsində nəzərə alsaq: 
+
+
+
+
++=
++=
+AbJJy
+AaJJ
+yc
+zcz
+2
+1
+2
+1                            (5.11) 
+ olar. 
+Teorem 3. Kəsiyin mərkəzi oxlara paralel olan oxlara nəzərən 
+mərkəzdənqaçma ətalət momenti mərkəzi oxlara nəzərən 
+mərkəzdənqaçma ətalət momenti ilə kəsiyin sahəsinin oxlar 
+arasındakı məsafələrə hasilinin cəminə bərabərdir. 
+Yeni oxlara nəzərən mərkəzdənqaçma ətalət momenti (şəkil 
+5.4) 
+abAJJ
+cyczyz
++=
+11
+               (5.12) 
+Mərkəzi oxlar baş oxlar olduqda (5.12) ifadəsi aşağıdakı kimi 
+olur: 
+abAJ yz =11 .                          (5.13) 
+ 
+ 
+72
+Teorem 4. Bir nöqtədən 
+keçən oxlara nəzərən ətalət 
+momentləri haqqında teorem. 
+Kəsiyin bır-birinə perpendi-
+kulyar olan iki oxunu həmin 
+müstəvi üzərində müəyyən 
+bucaq qədər döndərsək, 
+çevrilmiş oxlara nəzərən ətalət 
+momentlərinin də qiymətləri 
+dəyişər. Ətalət momentləri 
+arasındakı bu asılılıqdan təcrübi 
+məsələlərin  həllində  geniş    
+                         Şəkil 5.5.               istifadə edilir. Fərz edək ki, kəsiyin  
+                                                       (z, y) oxlarına nəzərən ətalət 
+momentləri məlumdur (şəkil 5.5). 
+(z, у) oxlarını saat əqrəbi hərəkətinin əksinə α0 bucağı qədər 
+çevirsək, oxların yeni vəziyyətinə nəzərən ətalət momentləri olacaq. 
+
+
+
+
+++=
+−+=
+ααα
+ααα
+2sincoscos
+2sinsincos
+2
+1
+22
+1
+zyyzy
+zyyzz
+JJJJy
+JJJJ
+;          (5.14) 
+αα 2sin)(
+2
+1
+cos
+11 zyzyyz
+JJJJ −−=               (5.15) 
+ 
+ 
+ 
+5.4. Sadə həndəsi fiqurların ətalət momentləri 
+1. Dördbucaqlı (paralelepiped) (şəkil 5.6). Kəsiyin oturacağı ilə 
+üst-üstə düşən z oxuna nəzərən dördbucaqlının ətalət momenti 
+∫ ⋅=
+A
+2
+z dAyJ . 
+z  oxundan y  məsafədə elementar dybdA ⋅=  sahəciyini ayıraq 
+və yerinə yazaq: 
+ 
+ 
+73
+∫ ==
+h
+0
+3
+2
+z
+3
+bh
+dyybJ .      (5.16) 
+Uyğun olaraq dördbucaqlının  
+h tərəfi ilə üst-üstə düşən y oxuna 
+nəzərən ətalət momenti 
+3
+hb
+J
+3
+y = .             (5.17) 
+zc  və   yc mərkəzi oxlarına 
+nəzərən ox ətalət momentlərini 
+təyin edirik: 
+                                                          Şəkil 5.6. 
+12
+bh
+2
+H
+bh
+3
+bh
+yAJJ
+3
+2
+3
+2
+zcz
+=−=⋅−= )( .          (5.18) 
+Buna uyğun olaraq 
+12
+hb
+J
+3
+cy
+= .                         (5.19) 
+Kvadrat kəsik üçün ölçüləri a ilə işarə edərək, alırıq: h=b=a   və   
+3
+a
+JJ
+4
+yz == ,  
+12
+a
+JJ
+4
+cycz
+== .               (5.20) 
+Kəsiyin ox müqavimət momentini təyin edirik: 
+6
+bh
+2h
+12bh
+y
+J
+W
+23
+z
+z ===
+/
+/
+max
+,                  (5.21) 
+buna uyğun olaraq 
+6
+hb
+W
+2
+y = .                            (5.22) 
+2. Dairə (halqa) (şəkil 5.7). Dairəvi kəsiklər üçün qütbi ətalət 
+momentini təyin etmək olar:  
+ 
+ 
+74
+∫ ⋅=
+A
+2
+p dAJ ρ . 
+Elementar sahəciyin   dA = ρ · dα · dρ   qiymətini inteqral 
+altında yazaraq, alırıq:  
+∫ ∫ =⋅=
+π π
+ρρα
+2
+0
+42D
+0
+2
+p
+32
+D
+ddJ
+/
+. 
+ 
+Şəkil 5.7. 
+ 
+., 4p D10J ⋅≅                                (5.23) 
+Kəsiyin qütb müqavimət momentini təyin edirik: 
+;,
+/
+,
+max
+3
+4
+p
+p D20
+2D
+D10J
+W ===
+ρ
+ 
+., 3p D20W =                             (5.24) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+75
+VI fəsil. Burulma 
+6.1. Ümumi anlayışlar. En kəsiyi dairə 
+olan brusların burulması 
+Brusların burulmasına dair məsələlər həll edildikdə toxunan 
+gərginliyi və bucaq yerdəyişmələrini brusun en kəsiyinin 
+formasından və görünüşündən asılı olaraq təyin etmək lazım gəlir. 
+Dairəvi kəsikli bruslarda gərginlik haqqında məsələləri həll 
+etməyə diqqət yetirək. Belə bruslar üçün analitik asılılıqlar 
+təcrübələrlə və elastiqiyyət nəzəriyyəsinin üsulları ilə təsdiq olunan 
+bir sıra hipotezlərə əsasən alınmışdır. Onlardan aşağıdakılar əsas 
+hesab olunur: 
+Bernulli hipotezi – deformasiyadan əvvəl brusun həndəsi oxuna 
+normal və yastı olan kəsik, deformasiyadan sonra da yastı qalır və 
+brusun oxuna normal olur; brusun hər bir en kəsik sahəsi xarici 
+momentlər tətbiq edildikdə öz müstəvisində bütöv sərt qalaraq 
+müəyyən bir bucaq qədər dönür, buna görə də en kəsiklər arasında 
+məsafələr dəyişmir, brusun oxu düzxətli qalır. 
+Formanı saxlamaq hipotezinə əsasən deformasiyaya qədər 
+düzxətli olan radiuslar deformasiyadan sonra da öz düzxətliliklərini 
+saxlayırlar. Kənar uclarından xarici m momentləri ilə yüklənən brus 
+(şəkil 6.1, a) götürək. 
+Kəsmə üsulundan istifadə edərək onun yuxarı hissəsinə (şəkil 
+5.1, b) baxaq. Brusun en kəsiyində yalnız toxunan gərginlik yaranır, 
+məsələn mərkəzdən ρ məsafədə dA sahəciyində τp toxunan gərginliyi, 
+onda τp · dA – elementar elastiklik qüvvəsinin qiyməti, ρτ ·dA·ρ  isə 
+bu qüvvənin 0 nöqtəsinə nisbətən momenti olacaq. Kəsiyə görə 
+elementar toxunan elastiklik qüvvələrinin momentlərini toplayaraq 
+burucu momentin qiymətini təyin edirik: 
+dAT
+А
+⋅⋅= ∫ ρτρ .                        (6.1) 
+Yaxud burucu moment, kəsikdə toxunan elastik qüvvələri 
+cütünün əvəzləyicidir.  
+ 
+ 
+76
+Uzunluğu dx olan elementar brusa və onun deformasiyasına 
+baxaq (şəkil 6.1,c). Bunun üçün oxdan keçən iki müstəvi ilə və 
+radiusları  ρ  və ρ +dρ  olan iki səthlərlə AB elementini ayıraq. 
+ 
+ 
+ 
+Şəkil 6.1. 
+ 
+Fikrən AB elementinin aşağı hissəsini bağlayaq və brusu 
+yükləyək. Yuxarı kəsik (şəkil 6.1,ç) aşağıya nisbətən müəyyən γ 
+bucağı qədər yerini dəyişəcəkdir. Brus elementinin üst və alt en 
+kəsikləri  ilə  üst-üstə  düşən  AB elementinin tillərində toxunan    
+gərginliklər yaranır. Toxunan gərginliyin qoşalığı qanununu nəzərə 
+alsaq, AB elementinin boyuna səthlərində də şəkil 6.1,d–də 
+ 
+ 
+77
+göstərildiyi kimi qiymətcə bərabər, istiqamətcə əks olan toxunan 
+gərginlik yaranır. Buradan görünür ki, en kəsiyi dairəvi olan brus 
+burulanda onun hər bir elementi xalis sürüşməyə uğrayır və (CA, 
+CA1)=γ bucağı nisbi sürüşmə bucağı kimi qalır. Şəkil 6.1,ç-dən 
+görünür ki, (AAI-i iki cür təyin edirik): 
+AAI = ρ · dϕ, AAI = γ · dx. 
+Buradan 
+dx
+dϕ
+ργ = .                                      (a) 
+Đşarə edirik 
+dx
+dϕ
+θ = . Bu, uzunluğu vahidə bərabər olan brusun 
+burulma   bucağıdır,  yaxud   nisbi   burulma   bucağıdır. Sürüşmədə 
+γτ ⋅= G  Huk qanunundan istifadə edərək, alırıq: 
+ρθτ ⋅⋅= G .                                   (6.2) 
+(6.1) ifadəsinə τ-nun qiymətini qoyuruq və G, θ sabitlərini 
+inteqral xaricinə çıxarırıq: 
+∫⋅=
+А
+2dAGT ρθ .                              (b) 
+Đnteqralı pJ  ilə işarə edək, yəni: 
+.∫ ⋅=
+А
+2
+p dAJ ρ                                (6.3) 
+Hansı ki, qütb ətalət momenti adlanır (burulmada kəsik 
+sərtliyinin həndəsi xarakteristikası) və (b) ifadəsi aşağıdakı kimi olur: 
+θ⋅⋅= pJGT . 
+Buradan, 
+pGJ
+T
+=θ .                                      (6.4) 
+(6.4) ifadəsində C=G pJ - en kəsiyi dairə olan brusun burulmada 
+kəsik sərtliyidir. 
+Nisbi burulma bucağı 
+dx
+dϕ
+θ =  olduğuna görə, burulma bucağı ϕ 
+üçün (5.4)-ü nəzərə almaqla alarıq: 
+ 
+ 
+78
+∫
+⋅
+==
+l
+0 C
+lT
+dxθϕ .                           (6.5) 
+(6.5) düsturu uzunluğu l olan brusun kəsiklərinin qarşılıqlı 
+burulma bucaqlarını təyin etməyə imkan verir. 
+(6.4) ifadəsindən θ -nın qiymətini (6.2) ifadəsinə yazmaqla en 
+kəsiyi dairə olan brusun burulmasından yaranan toxunan gərginliyi 
+təyin etməyə imkan verən düstur alırıq: 
+ρτ
+pJ
+T
+= .                                 (6.6) 
+(6.6) ifadəsi τ gərginliyi ilə gərginliyi təyin olunacaq nöqtəyə 
+qədər olan ρ məsafəsi arasındakı asılılığı müəyyən edir. Bu asılılıq 
+xəttidir (şəkil 6.2). 
+(6.6) ifadəsindən görünür ki, toxunan gərginlik o vaxt 
+maksimum olacaqdır ki, ρ=ρmax olsun, yəni 
+pp W
+T
+J
+T
+== maxmax ρτ ,                    (6.7) 
+burada:  Wp – brusun en kəsiyinin müqavimət momentidir, 0-a 
+bərabərdir: 
+Wp=
+maxρ
+pJ
+.                               (6.8) 
+Dairə üçün (şəkil 6.3)  Jp  və  Wp  ifadələrini təyin edək.  
+(6.3) ifadəsinə əsasən 
+∫ ⋅⋅==
+A
+2
+p dddAdAJ ρϕρρ ;  
+∫ ∫ ≈=⋅=
+π π
+ρρϕ
+2
+0
+2d
+0
+4
+4
+3
+p d10
+32
+d
+ddJ
+/
+, .         (6.9) 
+(6.8) ifadəsinə əsasən  
+Wp=
+3
+3
+p
+d20
+16
+d
+2d
+J
+,
+/
+≅=
+π
+.              (6.10) 
+ 
+ 
+79
+ 
+         Şəkil 6.2.                                              Şəkil 6.3. 
+ 
+ 
+Praktikada Jp və Wp -in əsasən təqribi qiymətlərindən istifadə 
+edilir, yəni: 
+Jp ≅  0,1d4,       Wp = 0,2d3.                 (6.11) 
+Ölçü vahidləri  Jp [m4] ,  Wp [m3]. 
+ 
+ 
+ 
+6.2 Burulmada brusların möhkəmliyə 
+və sərtliyə hesablanması 
+Adətən, təcrübədə iki hesabat növündən istifadə edilir: yoxlama 
+və layihə hesabatlarından.  
+Layihə hesabatında hesabat sxemi, yükün xarakteri, brusun 
+materialı, bir neçə həndəsi ölçülər (məsələn, brusun uzunluğu, 
+kəsiyin forması və b.) verilir və tələb edilir ki, brusun kəsiyinin 
+sahəsi təyin olunsun. Bu halda burulmada aşağıdakı layihə hesabatı 
+şərtindən istifadə edilir: 
+[ ]ττ ≤=
+pW
+T
+max                         (6.12) 
+Buradan [ ]τ
+T
+Wp ≥  
+ 
+ 
+80
+Buraxılabilən toxunan gərginliyi aşağıdakı kimi təyin etmək 
+olar: 
+[ ]
+n
+axττ = , 
+burada  axax 60 στ ,≅  – burulmada axıcılıq həddi, axσ  – 
+dartılmada, sıxılmada brusun hazırlandığı materialın axıcılıq 
+həddidir.  
+Adi möhkəmlik hesabatı sərtliyə hesabatla aşağıdakı düstur 
+əsasında tamamlanır: 
+[ ]θθ ≤=
+C
+T
+.                        (6.13) 
+Burada C – burulmada brusun kəsiyinin sərtliyidir.  
+Bir sıra hallarda konstruksiya elementinin sərtliyi birinci dərəcəli 
+hesab edilir. Onda, əvvəlcə milləri sərtliyə hesablayırlar, sonra isə 
+möhkəmliyə hesabatla tamamlayırlar. 
+Mühəndislik qurğularının layihələndirilməsində, maşınların, 
+mexanizmlərin və b. konstruksiya edilməsində layihə hesabatı 
+bütövlükdə konstruksiyanın işləmə qabiliyyətini müəyyən edən ən 
+cavabdeh məmulatlar üçün aparılır. Qalan elementlər, detallar, 
+qovşaqlar və b. üçün ölçülər konstruktor tərəfindən intuisiya əsasında 
+konstruksiya işinin xüsusiyyətləri, uzunömürlülüyü nəzərə alınmaqla 
+onun təcrübəsi və ixtisasından asılı olaraq təyin olunur. 
+ 
+ 
+ 
+6.3. Burucu moment, dövrlər sayı və 
+ötürülən güc arasında əlaqə 
+Əgər mil burulmaya işləyirsə, o, val adlanır, vallar elektrik 
+mühərrikindən, daxili yanma mühərrikindən və s. güc ötürür.  
+Val geniş tətbiq olunur və o istənilən maşının, dəzgahın, 
+tərtibatların ayrılmaz hissəsidir. 
+Burucu moment  T, valın dövrlər sayı  n  və valın ötürəcəyi güc  
+N  arasındakı əlaqəni təyin edək.  
+ 
+ 
+81
+Nəzəri mexanika kursundan məlumdur ki, fırlanan valın  W  
+gücü fırladıcı burucu momentin bucaq sürətinə hasilinə bərabərdir. 
+W=
+30
+nT
+T
+⋅⋅
+=
+π
+ω ,                               (a) 
+30
+n⋅
+=
+π
+ω . 
+Digər tərəfdən fırladıcı momentin gücü  ötürülən gücə 
+bərabərdir, yəni 
+W ≅ 974 N.                                    (b) 
+(a)  və  (b) ifadələrinin sol tərəfləri bərabər olduğundan, sağ 
+tərəflərini bərabərləşdirib alırıq: 
+n
+N
+9740T = .  
+ 
+Məsələ 6.1.  Valın en kəsiklərində burucu momentləri təyin 
+etməli və onların epürlərini qurmalı (şəkil 6.4). Valın diametrini 
+seçməli. Verilir: M1=3 kN·m; M2= –7 kN·m; M3=6 kN·m; M4=2 
+kN·m. 
+1. Kəsmə üsulundan istifadə etməklə xarakterik məntəqələr 
+üçün burucu moment ifadələri yazıb onların qiymətini təyin edək. 
+I–məntəqə: ∑Mx=0; –T1+M1=0; 
+                  T1=M1=3 kN·m; T1=3 kN·m 
+II–məntəqə: ∑Mx=0; –T2+M1+M2=0; 
+                  T2=M1+M2=3–7=–4 kN·m; 
+                  T2=–4 kN·m. 
+III–məntəqə: ∑Mx=0; –T3+M1+M2–M3=0; 
+                  T3=M1+M2–M3=3–7–6=–10 kN·m; 
+                  T3=–10 kN·m. 
+IV–məntəqə: ∑Mx=0; –T4+M1+M2–M3+M4=0; 
+                  T4=M1+M2–M3+M4=3–7–6+2=–8 kN·m; 
+                  T4=–8 kN·m. 
+ 
+ 
+82
+2. Burucu moment miqyası seçərək T epürünü əvvəlki məlum 
+qaydada qururuq (şəkil 6.4, b): 
+.max 
+
+
+ ⋅==
+sm
+mkN
+5
+2
+10
+mn
+T
+Tµ  
+3. Burucu moment epüründəki maksimum qiymətdən istifadə 
+edərək valın diametrini təyin edirik: 
+[ ] .,,
+max sm8
+8020
+1010
+20
+T
+d 3
+3
+3 ≈
+⋅
+⋅
+=≥
+τ
+ 
+ 
+ 
+ 
+83
+ 
+ 
+ 
+84
+VII fəsil. Əyilmə 
+7.1. Milin en kəsiyində daxili qüvvə amilləri 
+Şəkil 7.1,a-da 
+xarici qüvvələr sistemi, 
+momentlər və yayılmış 
+yüklərlə yüklənən düz-
+xətli oxu olan mil (tir) 
+göstərilmişdir. Burada 
+onlar bir müstəvidə 
+tətbiq olunmuş, qüvvələr 
+isə boyuna oxa perpen-
+dikulyardır. Xarici qüv-
+vələrin yerləşdiyi müstə- 
+viyə qüvvələr müstəvisi, 
+bu müstəvinin milin en 
+kəsiyi ilə kəsişdiyi xəttə 
+isə qüvvəli xətt (q.x.), 
+bəzən də qüvvəli ox (q.o.) 
+deyilir (şəkil 7.1, b). 
+A kəsiyi üzrə ümumi 
+gərginliyin təşkiledicilə- 
+rini toplayaraq, tapırıq: 
+∫=
+A
+y dAQ ,τ  
+∫ ⋅=
+A
+z ydAM σ ,      
+yəni, ümumi halda kəsik-
+də eyni zamanda kəsici 
+qüvvə və əyici moment 
+yaranır. 
+Əgər milin en 
+kəsiyində eyni vaxtda 
+kəsici qüvvə və əyici moment                                      Şəkil 7.1. 
+yaranarsa, milin əyilməsinə eninə əyilmə deyilir.  
+ 
+ 
+85
+Xüsusi hallar da ola bilər ki, milin en kəsiklərində elastiklik 
+qüvvələri yalnız əyici moment yaratmış olsun. Milin en kəsiyində 
+yalnız əyici moment yaranarsa, onda milin əyilməsinə xalis əyilmə 
+deyilir. 
+Əyilməyə işləyən millərə tir deyilir. Əyilmə düz və çəp ola bilər. 
+Bu, qüvvələr müstəvisinin en kəsiyə nisbətən vəziyyətindən asılıdır. 
+Əgər qüvvəli ox kəsiyin baş ətalət oxu ilə üst-üstə düşürsə (şəkil 
+7.1,a) əyilmə yastı əyilmə, düşmürsə çəp əyilmə adlanır. Çəp əyilmə 
+haqqında ayrıca danışacağıq.  
+Brusun en kəsiyində əsasən əyilmə nəzəriyyəsində istifadə 
+olunan vacib anlayışı əldə edək, - məhz neytral xətt  haqqında 
+anlayışı. Bəzən neytral xəttə (n.x.) neytral ox (n.o.) da deyilir. Neytral 
+qatın və en kəsiyin kəsişməsi xəttinə neytral xətt deyilir. n-n  və  m-m 
+(şəkil 7.1) düz xətləri deformasiyadan əvvəl olduğu kimi, 
+deformasiyadan sonra da brusun oxuna perpendikulyar olaraq qalır. 
+Nəzərə alsaq ki, bunu brusun bütün səthləri üçün demək olar, onda 
+Bernulli fərziyyəsinin (yastı kəsiklər fərziyyəsinin) xalis əyilməyə 
+uğrayan millərə tətbiqinin doğruluğu sübut olunur. Milin kəsiyi 
+yüklənməzdən əvvəl yastıdır və onun oxuna perpendikulyardır, 
+yüklənmədən sonra da yastı qalır və milin oxuna normal olur.  
+Đkiüzlü düzbucaqlı (ştrixlənmiş) elementi göstərək (şəkil 7.2,c). 
+Tədqiqatlar göstərir ki, düzbucaqlar deformasiyadan əvvəl olduğu 
+kimi deformasiyadan sonra da düz qalır. Buradan belə nəticəyə 
+gəlirik ki, boyuna və eninə kəsiklərdə toxunan gərginlik yaranmır. 
+Doğrudan da, bucaqların deformasiyadan əvvəl və sonra qiymətcə 
+dəyişməməsi göstərir ki, sürüşmə bucağı sıfıra bərabərdir və τ=Gγ=0.  
+Beləliklə, milin boyuna və eninə kəsiklərində toxunan gərginlik sıfıra 
+bərabərdir.   
+AB  və  KL  xətləri arasındakı məsafələri deformasiyadan əvvəl 
+və sonra ölçərək görürük ki, doğrudan da deformasiyadan sonra bu 
+ölçü dəyişmir. Bu göstərir ki, liflər bir-birinə təzyiq göstərmir. 
+Beləliklə, xalis əyilmədə liflər bir-birinə təzyiq göstərmir. Bu şəraitdə 
+hər bir lif üçün Huk qanununu bir oxlu dartılma, sıxılmadakı kimi 
+qəbul edirik. Buna görə də, belə mülahizələrə görə alınan nəticələr 
+praktiki olaraq o vaxt istifadə olunur ki, tirdə yaranan gərginliyin 
+ 
+ 
+86
+maksimum qiyməti onun materialının mütənasiblik həddindən böyük 
+olmasın. 
+ 
+ 
+ 
+7.2. Yastı əyilmədə normal gərginliklər 
+Uzunluğu ds olan elementin (şəkil 7.2,a) deformasiyasına baxaq. 
+Şəkil 7.2,b və d-yə nəzər salsaq görərik ki,  AB  lifi deformasiyadan 
+sonra  ∆dS  qədər uzanır. Bu lifin nisbi uzanmasını təyin edirik: 
+ds
+ds
+AB
+ABBA
+AB
+∆
+ε =
+−′
+= .                      (a) 
+AB  lifinin uzanmasını təyin edək: O bərabərdir: Θ∆ dyds ⋅=   
+AB = CD=ds  olduğundan, Θρ dds ⋅=  (ρ - tirin əyilmiş oxunun 
+əyriliyidir). 
+Θd  bucağı  nn  və  mm  kəsiklərinin qarşılıqlı dönməsidir. ds∆ -
+in qiymətlərini (a) ifadəsində yazsaq, alarıq: 
+ρ
+ε
+y
+AB =                              (7.1) 
+Boyuna nisbi deformasiyanın neytral oxdan lifə qədər olan 
+məsafəyə mütənasib olması kəsiyin yastı kəsiklər fərziyyəsinin 
+doğruluğunu sübut edir. (7.1) ifadəsini dartılma-sıxılmadakı (3.7) 
+Huk qanunda yerinə yazıb alırıq: 
+ρ
+σ
+y
+E= .                              (7.2) 
+(7.2) bərabərliyinin iki məchul kəmiyyəti var: birinci – neytral 
+oxun əyrilik radiusu ρ,  ikinci – neytral oxun vəziyyəti, çünki   σ-nın 
+qiyməti neytral oxdan lifə qədər olan  y  məsafəsindən asılıdır. 
+Məchulları təyin etmək üçün statika şərtlərindən istifadə edək və tirin 
+(şəkil 7.2,c) düz xalis əyilməyə uğrayan kəsiyinin müvazinət halına 
+baxaq. 
+Tir müvazinətdə olduğu üçün onun istənilən hissəsi də 
+müvazinətdədir. Ona görə də statikanın aşağıdakı tənliklərindən 
+istifadə etmək olar: 
+ 
+ 
+87
+ 
+ 
+ 
+∑ ∑∑
+∑ ∑ ∑
+===
+===
+.),),)
+,),),)
+0M60M40Y2
+0M50Z30X1
+zx
+y
+ 
+Koordinatları z,y  olan dA  sahəciyindəki normal gərginliyi  σ  
+ilə işarə edirik. Tirin baxılan hissəsinin müvazinət şərtindən: 
+., ∫∑ ==
+A
+0dA0X σ  
+(7.2) ifadəsindən normal gərginliyin qiymətini inteqral altına 
+yazıb, sabit kəmiyyətləri inteqral altından çıxarıb alırıq: 
+ 
+ 
+88
+∫ =⋅
+A
+0dAy
+E
+ρ
+.                           (a) 
+(a) ifadəsində  0/ ≠ρE ; çünki tirin əyriliyi  ρ   sıfırdan 
+fərqlidir. Ona görə də  ∫ =⋅
+A
+0dAy . ∫ =⋅
+A
+0dAy , yəni neytral oxla 
+üst-üstə düşən  z  oxuna nisbətən kiçik sahənin statik momenti sıfıra 
+bərabərdir. Sahənin statik momentinin əsas xassəsini xarakterizə edən 
+düsturuna əsasən qeyd etmək olar ki, neytral ox tirin kəsiklərinin 
+ağırlıq mərkəzindən keçir, yəni mərkəzi ox olur. 
+2.  ∑ ∑∑ === 0M0Z0Y x,,   tənliklərindən istifadə etmək 
+olmur; çünki en kəsikdə toxunan gərginlik yoxdur və kəsici qüvvələr 
+∫ ∫⋅=
+A A
+zy dAQdAQ ττ ,  və burucu moment  ∫=
+A
+dAT ρτ   sıfıra 
+bərabərdir. Bu tənliklər eyniliyə çevrilir. 
+3. ∫∑ ==
+A
+y 0Adz0M σ, .                                           (b) 
+∫ =≠==
+A
+zyzy 0J0
+E
+0J
+E
+zydA
+E
+,,
+ρρρ
+. 
+Tirin kəsiyinin mərkəzdənqaçma ətalət momentinin  z  oxuna (z 
+oxu neytral xətlə üst-üstə düşür) nəzərən sıfıra bərabər olması zyJ -in 
+xassəsinə əsasən tədqiq etməyə imkan verir: qüvvəli və neytral xətlər 
+düz xalis əyilmədə tirin en kəsiyinin baş mərkəzi ətalət oxlarıdır. 
+4. ,∑ = 0M y  yaxud ∫ =−
+A
+z 0dAyM σ . 
+Buradan  
+∫=
+A
+z dAyM σ . 
+Neytral xətdən y məsafədə olan dA  sahəciyinə təsir edən normal 
+gərginliyin qiymətini bu ifadədə yazarıq: 
+∫ ==
+A
+z
+2
+z J
+E
+dAy
+E
+M
+ρρ
+.                              (c) 
+ 
+ 
+89
+(c) ifadəsində  ∫ ⋅=
+A
+2
+z dAyJ , yəni bu inteqral kəsiyin neytral 
+xəttə nisbətən ox ətalət momentini xarakterizə edir. 
+(c) ifadəsini başqa şəkildə yazaraq alırıq: 
+z
+z
+EJ
+M1
+=
+ρ
+.                                           (7.3) 
+Bu, əyilmə nəzəriyyəsinin əsas tənliyi adlanır. (7.3) ifadəsində  
+EJz  əyilmədə tirin kəsiyinin z oxuna nisbətən sərtliyi adlanır. 
+Bu bərabərlikdən  ( ρ/E )-nun  qiymətini tapıb, (7.2) ifadəsində 
+yerinə yazıb alırıq: 
+y
+J
+M
+z
+z ⋅=σ .                                         (7.4) 
+(7.4) ifadəsi ilə yastı əyilmədə z neytral oxundan y  məsafədəki 
+lifdə yaranan σ normal gərginliyinin  Mz əyici momentindən və  Jz  
+ox ətalət momentindən asılılığı ifadə edilir. (7.4) tənliyi gərginliyin 
+qüvvə oxu istiqamətində (baxılan halda şəkil 7.2,c – y oxudur) 
+dəyişməsi qanununu göstərir. 
+(7.4) bərabərliyi göstərir ki, gərginlik kəsiyin bütün nöqtələrində 
+bir  y  səviyyəsində eynidir və  z  koordinatlarından asılı deyildir. 
+Əgər qüvvəli ox z oxu olarsa, onda normal gərginlik aşağıdakı 
+düsturla təyin edilir: 
+z
+J
+M
+y
+y ⋅=σ .                             (7.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+90
+7.3. Yastı eninə əyilmədə gərginliklər 
+Əvvəllər qeyd olunmuşdur ki, eninə əyilmədə tirin kəsiklərində əyici 
+moment ilə kəsici qüvvə yaranır.  
+Düz eninə əyilmədə toxunan 
+gərginlik düsturunu çıxaraq.  
+Element üçün statika tənliyi 
+aşağıdakı şəkildə yazılır:  
+∫∑ −+=
+ayrA
+yxbdxdA0x τσ,  
+– 0dA
+ayrA
+=+∫ )( σ∆σ ; 
+∫ ∫
+⋅+
+−
+ayrA ayrA z
+zz
+z
+z
+J
+ydMM
+dA
+J
+yM
+· 
+bdxdA yxτ+⋅ =0. 
+Sadələşmədən sonra 
+                                                         
+yxτ = ∫ ⋅⋅
+⋅=
+ayrAz
+z
+xy dAyJbdx
+dM 1
+τ .    (a) 
+Məlumdur ki,  
+ayr
+z
+ayrA
+y
+z SydAQ
+dx
+dM
+== ∫, ,                             (b) 
+yəni, absisə görə əyici momentdən alınan birinci tərtibli törəmə kəsici 
+qüvvəyə bərabərdir, inteqral isə  CD  xəttindən yuxarıda ayrılmış 
+kəsiyin  z  oxuna nəzərən statiki momentidir. (b) ifadəsini (a)-da 
+nəzərə alsaq, D.J.Juravski düsturunu alarıq: 
+bJ
+SQ
+z
+ayr
+zy
+xy =τ .                                  (7.6) 
+burada: Jz – neytral oxa (bizim halda  z  oxuna) nəzərən kəsiyin 
+ox    ətalət   momenti;  b – en  kəsiyin  toxunan  gərginlik  hesablanan  
+Şəkil 7.3. 
+ 
+ 
+91
+nöqtədəki enidir. 
+(7.6) düsturundan istənilən en kəsikli tirlərdə toxunan gərginliyin 
+təqribi təyin olunması üçün istifadə edilir.  
+ 
+ 
+ 
+ 
+7.4. Yastı əyilmədə möhkəmliyə hesabat 
+Yuxarıda göstərildiyi kimi, düz eninə əyilmədə eyni anda həm 
+normal, həm də toxunan gərginlik yaranır.  
+Əyilmədə möhkəmlik şərtləri aşağıdakı kimidir: 
+[ ]σσ ≤= ∂
+W
+M y max.
+max .                      (7.7) 
+[ ]ττ ≤=
+Jb
+SQmax
+max                         (7.8) 
+(7.7) ifadəsi əsasında üç növ hesabat aparmaq olar: 
+1. Yoxlama hesabatı: [ ]σσ ≤max ; 
+2. Layihə hesabatı: [ ]σ
+max.yM
+W
+∂≥ ; 
+3. Buraxılabilən yükə görə hesabat: [ ] [ ]σWM y =∂ . . 
+(7.8) ifadəsi əsasında da yuxarıdakına uyğun üç növ hesabat 
+aparmaq olar. 
+ 
+ 
+ 
+ 
+7.5. Tirlərin əyilmədə deformasiyaları 
+və yerdəyişmələr. Sərtliyə hesabat 
+ 
+Tirlər yükləndikdə deformasiyaya uğrayır, hər iki kəsik xətti və 
+bucaq yerdəyişməsi alır. Bununla əlaqədar sərtliyə hesabat aparmaq 
+üçün, yerdəyişmələrin təyin edilməsini öyrənmək çox vacibdir. 
+Mühəndis konstruksiyalarında və onların elementlərində 
+ 
+ 
+92
+yerdəyişmələrin maksimum qiymətlərini təyin etmək, onların 
+buraxılabilən qiymətləri ilə müqayisə etmək xüsusi məqsəd kəsb edir.  
+Əyilmə nəzəriyyəsində ifadə olunan kimi yastı əyilmədə yastı 
+kəsiklər xətti yerdəyişmələr alır, həm də ilkin vəziyyətə nisbətən 
+dönür (bucaq yerdəyişməsi). Tutaq ki, yerdəyişmələr kəsiyin ağırlıq 
+mərkəzinə aiddir. Brusun (tirin) oxu en kəsiklərinin ağırlıq 
+mərkəzlərinin həndəsi yeri olub, deformasiyadan sonra əyilmiş ox və 
+ya tirin elastik  oxu adlandırılır.  
+Tirlərin kəsiyinin xətti və bucaq yerdəyişmələrini geniş yayılmış 
+analitik üsulla təyin edirlər. 
+ a) Məntəqələrin sayı ikidən az olanda elastiki oxun diferensial 
+tənliyini inteqrallamaqla: 
+zz MyEJ ±=′′ .                                 (7.9) 
+Bu tənliyə böyük sərtlikli tirlərin elastiki xəttinin təqribi 
+diferensial tənliyi deyilir.  
+ (7.9) diferensial tənliyini bir dəfə inteqrallayaq bucaq 
+yerdəyişməsini təyin edirik: 
+CdxMyEJ zz +=′ ∫                                 (7.10) 
+y funksiyasından birinci tərtibli y′  törəməsi funksiyanın 
+qrafikinə çəkilən toxunan maili xəttin absislə əmələ gətirdiyi bucağın 
+tangensinə bərabərdir.  (7.10) diferensial tənliyi tirin dönmə 
+bucaqlarının tənliyidir. 
+(7.10) tənliyini bir dəfə inteqrallayaraq alırıq: 
+DCxdxMdxyEJ zz ++= ∫∫ .                (7.11)  
+(7.11) ifadəsindəki y tirin kəsiyinin şaquli istiqamətindəki 
+yerdəyişməsidir. Bu yerdəyişməyə əyinti deyilir. 
+C  və  D  - inteqral sabitləri məsələnin sərhəd şərtlərindən təyin 
+olunurlar.  
+b) Tirdə məntəqələrin sayı ikidən artıq olanda başlanğıc 
+parametrlər üsulundan istifadə olunur. Bu üsulun mahiyyətini 
+aşağıdakı universal tənliklər təşkil edir: 
++
+−
++= ∑
+!
+)(
+1
+axm
+EJEJ 0zz ϕϕ  
+ 
+ 
+93
+( )
+,
+!
+)(
+!
+)(
+!
+∑ ∑∑
+−
+−
+−
++
+−
++
+3
+dxq
+3
+cxq
+2
+bxF 332
+        (7.12) 
+( )
+.
+!
+)(
+!
+)(
+!
+!
+)(
+∑ ∑∑
+∑
+−
+−
+−
++
+−
++
++
+−
+++=
+4
+dxq
+4
+cxq
+3
+bxF
+2
+axm
+xEJyEJyEJ
+443
+2
+0z0zz ϕ
+        (7.13) 
+burada a, b, с, d-lər koordinat başlanğıcından m, F, q, q' qüvvələrinə 
+qədər uyğun məsafələrdir (şəkil 7.4). 
+ 
+Şəkil 7.4. 
+ 
+ 
+ 
+7.6.  Çəp  əyilmə 
+Əgər qüvvələrin təsir müstəvisi tirin həndəsi oxundan keçərsə və 
+baş ətalət müstəviləri ilə üst-üstə düşməzsə (qüvvəli xətt baş ətalət 
+oxu ilə üst-üstə düşmür), bu halda yaranan əyilməyə çəp əyilmə 
+deyilir.  
+ 
+ 
+94
+Çəp əyilməni ətalət müstəvisi olmayan bir müstəviyə xarici 
+qüvvələri tətbiq etmək yolu ilə, ya da tirin kəsiyi düz fiqur 
+olmayanda müxtəlif müstəvilərə tətbiq etmək yolu ilə almaq olur.  
+Şəkil 7.5-də xarici qüvvələrlə yüklənmiş brus təsvir edilir. Bu 
+halda qüvvələr elə tətbiq olunub ki, hər bir qüvvənin təsir xətti təsir 
+etdiyi brusun en kəsiyinin əyilmə mərkəzindən keçir.   
+ 
+ 
+ 
+Şəkil 7.5. 
+ 
+Brusun ayrılmış hissəsinin müvazinət şərtinə görə kəsiyin  z  və  
+y  oxlarına nəzərən əyici momentləri uyğun olaraq kəsiyin bir 
+tərəfindəki qüvvə momentlərinin cəbri cəminə bərabərdir. 
+Kəsiyin hər hansı nöqtəsindəki normal gərginliklər, qüvvələr 
+təsirinin asılı olmaması prinsipinə əsasən bu nöqtədə elastiki 
+ 
+ 
+95
+qüvvələr cütündən (Mz  və  My) yaranan gərginliklərin zMσ və  
+yM
+σ cəbri cəminə bərabərdir: 
+=σ
+zM
+σ +
+yM
+σ .                        (7.14) 
+Deyilənləri ümumiləşdirib, xüsusi qeyd etmək olar ki, hazırda 
+tirin iki deformasiyası var: Qz və Mz daxili qüvvə amilləri təsir edən 
+(xy müstəvisində) düz əyilmə və  Qz və Mz  təsir edən (xz – 
+müstəvisində) eninə əyilmə. 
+(7.14) bərabərliyində (7.4) ifadəsinə əsasən 
+zM
+σ  və 
+yM
+σ qiymətlərini yazaraq, alırıq: 
+z
+J
+M
+y
+J
+M
+y
+y
+z
+z ⋅+⋅=σ .                     (7.15) 
+(7.15) tənliyi çəp əyilmədə normal gərginliyin tənliyidir.  
+ 
+ 
+ 
+ 
+ 
+7.7. Əyilmədə statiki həll olunmayan sistemlər  
+və onların qüvvələr üsulu ilə açılması 
+Ən sadə, lakin ən geniş yayılan sistem müstəvi millər 
+sistemidir. Yadımıza salaq: yastı sistem о sistemə deyilir ki, onu 
+təşkil edən elementlərin oxu bir müstəvidə yerləşir, həmçinin qüvvə 
+amilləri də bu müstəvidə təsir edir. 
+Statiki həll olunmayan sistemlərə belə tam tərif vermək olar: 
+əlaqə reaksiyaları və daxili qüvvə amilləri müvazinət tənlikləri ilə 
+təyin oluna bilməyən və həll üçün əlavə deformasiya tənliklərinin 
+tərtib olunmasını tələb edən sistemlərə statiki həll olunmayan 
+sistemlər deyilir. 
+“Statiki həll olunmazlıq dərəcəsi” dedikdə statiki həll 
+olunmazlığı açmaq üçün (istənilən kəsikdəki daxili qüvvə amillərini 
+ 
+ 
+96
+təyin etmək üçün) lazım olan tənliklərlə istifadəsi mümkün olan 
+statika tənliklərinin fərqi başa düşülür. 
+Yuxarıda göstərdik ki, sistem о vaxt statiki həll olunmayan olur 
+ki, onun en kəsiyindəki daxili qüvvə amilləri müvazinət tənliklərinə 
+əsasən təyin edilə bilməsin və əlavə tənliklərin (deformasiya 
+tənliklərinin) tərtibli tələb olunsun. 
+Statiki həll olunmayan sistemləri həll etmək üçün mövcud olan 
+üsullardan ən geniş yayılmış «üç moment tənliyi» üsulundan istifadə 
+olunur və ən çox kəsilməz tirlərə tətbiq olunur.  
+  
+Şəkil 7.6. 
+ 
+Dayaqlarının sayı ikidən artıq olan bütöv (oynaqsız) tirlərə 
+kəsilməz tirlər deyilir. Kəsilməz tirlərə çoxaşırımlı körpüləri, əyirici 
+maşınların dartıcı vallarını və s. misal göstərmək olar. «Üç moment 
+tənliyi» üsulunun mahiyyətini aydınlaşdıraq. Şəkil 7.6, a-da bir dəfə 
+statiki həll olunmayan kəsilməz tir verilib. Onu statiki həll olunan tir 
+halına salmaq üçün «K» kəsiyinə oynaq əlavə edirik. Đlk baxışdan 
+belə hesab etmək olar ki, məsələ bununla qurtardı, lakin əvvəlki 
+həndəsi forma «К» kəsiyində qalsın deyə orada yaranan əyici 
+momenti oynağa əlavə etməliyik (şəkil 7.6, b) Məsələnin həllini 
+ 
+ 
+97
+sadələşdirmək məqsədilə M oynaq momenti uyğun dayaqlardan 
+birinə köçürülür (şəkil 7.6, с). Aldığımız bu əsas sistem üçün dörd 
+tənlik yazmaq mümkün olsa da, indi məchulların sayı beşdir (RA, HA, 
+RB, RC,M). 
+Demək, məsələ bir dəfə statiki həll olunmayandır. Ona görə də 
+məsələni statiki həll olunan məsələ halına gətirmək üçün bir ədəd üç 
+moment tənliyi yazmaq lazımdır. Üç moment tənliyi sol aşırımın sağ 
+kəsiyinin dayaqla əmələ gətirdiyi bucağın, sağ aşırımın sol kəsiyinin 
+dayaqla əmələ gətirdiyi bucağa bərabər olması şərtinə əsasən yazılır 
+(şəkil 7.7), yəni nn θθ ′= . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şəkil 7.7. 
+ 
+Üç moment tənliyini çıxarmaq üçün aşağıdakılara əməl edirik: 
+1. Əvvəlcə kəsilməz tirin hesabat sxemi çəkilir, dayaqlar və 
+aşırımlar nömrələnir. 
+2. Kəsilməz tirə ekvivalent olan tir seçirik, yəni dayaqlar 
+üzərində tiri xəyalən sındırıb oynaqlarla birləşdiririk və əvvəlki 
+həndəsi formanı saxlamaq məqsədilə dayaqlara uyğun olaraq M0, M1, 
+M2, Мn-1, Мn, Мn+1, ..., Мm-1 dayaq momentlərini tətbiq edirik. 
+3. nθ  və nθ ′  dönmə bucaqlarını qrafoanalitik üsulla təyin 
+edirik. 
+4. Sistem üçün üç moment tənliyini yazırıq. 
+( ) φn1n1n1nnnn1n R6lMllM2lM −=+++ ++++  (7.16) 
+ 
+ 
+98
+5. Əgər kəsilməz tirdə sərt bərkidilmiş dayaq varsa, о ləğv 
+edilir və fiktiv aşırımla əvəz edilir (şəkil 7.8).  
+  
+Şəkil 7.8. 
+ 
+Bu sistem iki dəfə statiki həll olunmayan olduğu üçün iki ədəd 
+üç moment tənliyi yazırıq: 
+( )
+( )
+
+
+
+−=+++
+−=+++
+φ
+φ
+φφ
+22321211
+112110
+R6lMllM2lM
+R6lMllM2lM
+           (7.17) 
+ 
+ 
+Şəkil 7.9. 
+ 
+ 
+ 
+99
+6. Əgər kəsilməz tirdə konsol uc iştirak edirsə, ona təsir edən 
+qüvvələr işarəni də nəzərə almaqla moment halında ayağa gətirilir 
+(şəkil 7.9). 
+( ) φ22321211 R6lMllM2lM −=+++  
+2
+a
+qPaM0M
+2
+31 −== ;                         (7.18) 
+7. Hər bir aşırım üçün M, Q epürlərini qurub möhkəmliyə 
+hesabat aparırıq. 
+ 
+ 
+ 
+ 
+7.8. Əyilmə ilə burulmanın birgə təsiri.  
+Adi valların diametrinin seçilməsi 
+Mühəndislik təcrübəsində bir çox konstruksiya elementləri eyni 
+anda əyilmə və burulma deformasiyalarına məruz qalırlar. Məsələn, 
+vallar öz ağırlığından, onların üzərindəki dişli çarxların, qasnaqların 
+ağırlığından, qayışların gərilmə qüvvələrinin təsirindən əyilmə, 
+ötürülən burucu momentin təsirindən isə burulma deformasiyalarına 
+uğrayırlar. Məlumdur ki, əyilmə deformasiyasında eyni anda yaranan 
+normal və toxunan gərginliklər aşağıdakı düsturlarda təyin olunurlar: 
+;
+W
+M y∂=σ                                (7.19) 
+.
+Jb
+QS
+=τ                                   (7.20) 
+Burulma deformasiyasında isə aşağıdakı düsturla təyin olunan 
+toxunan gərginlik yaranır: 
+.
+pW
+T
+=τ                                   (7.21) 
+Toxunan gərginliklər eyni müstəvi üzərində yarandığından və 
+əyilmədəki toxunan gərginlik burulmadakı toxunan gərginliyə 
+nisbətən kiçik olduğundan hesabatda nəzərə alınmır. 
+Hesabatı III möhkəmlik nəzəriyyəsinə görə aparaq: 
+ 
+ 
+100
+ 
+σ1 – σ2 ≤ [σ].                              (7.22) 
+Əyilmədə baş gərginliklər aşağıdakı düsturla təyin olunurlar: 
+22
+1
+3
+1 4
+2
+1
+2
+τσ
+σ
+σ +±= .                        (7.23) 
+ (7.23) ifadəsini (7.22)-də nəzərə alsaq, 
+[ ]στσ ≤+ 221 4  olar.                   (7.24) 
+(7.24) ifadəsi yoxlama möhkəmlik hesabatı adlanır. Layihə 
+hesabatı aparmaq məqsədilə (7.19), (7.20) ifadələrini (7.24)-də 
+nəzərə alsaq, onda 
+[ ]
+.
+σ
+22
+y TM
+W
++
+≥
+∂
+                           (7.25) 
+(7.25) ifadəsindən valın diametrini seçmək olar. IV möhkəmlik 
+nəzəriyyəsinə görə hesabat aparsaq, (7.24) və (7.25) düsturları 
+aşağıdakı kimi olacaqdır. 
+[ ]στσ ≤+ 22 3 ;                        (7.26) 
+[ ]
+.
+σ
+22
+y T975M
+W
++
+≤
+∂
+                      (7.27) 
+ 
+Məsələ 7.1.  Đki dayaq üzərində yerləşən tir  (şəkil 7.10) xarici 
+yüklərlə yüklənmişdir. Yüklər arasındakı nisbəti qəbul edirik: 
+m=Fa=qa2. Tutaq ki, F=20kN; a=1,4m və material dartılmaya və 
+sıxılmaya eyni qaydada işləyir. axσ =420MPa, möhkəmlik ehtiyatı 
+n=3.  Tələb olunur: 
+1. Tirin en kəsiyini aşağıdakı kimi təsəvvür edərək onun 
+ölçülərini təyin etməli: tərəfləri h və b  olan dördbucaqlı, h=2b  
+qüvvəli xətt h tərəfinə paraleldir (şəkil 7.10,e); diametri d olan dairə. 
+ 
+ 
+101
+Həlli:  
+1. Tiri qüvvəli məntəqələrə ayırırıq, onlar dörddür. 
+2. Dayaqlarda reaksiyaları təyin edirik: 
+a) [ ]∑ =⋅⋅++−== ;; F
+3
+7
+a3a2qm2Fa
+a3
+1
+R0M BA     
+b)  [ ]∑ =−⋅== .; F
+3
+2
+m2a4F
+a3
+1
+R0M AB  
+Hər iki reaksiya müsbət alındı. 
+Bunun üçün üçüncü müvazinət tənliyindən istifadə edirik: 
+∑ =+⋅−+−= 0F
+3
+7
+a2qF
+3
+2
+F0Y ; . 
+Bu tənliyin ödənməsi göstərdi ki, dayaqlarda reaksiyalar düzgün 
+təyin olunmuşdur.  
+3. Kəsici qüvvə Qy və əyici moment  Mz  epürlərini (şəkil 7.10,b) 
+qururuq. Epürlərin qurulma qaydası 2-ci fəsildə ətraflı göstərilmişdir.  
+Burada yalnız hər hansı bir məntəqə, məsələn üçüncü məntəqə 
+üçün Qy və Mz  ifadələrinin yazılmasını göstərəcəyik ki, oxucular 2-ci 
+fəslin materialını yada salsın və başqa məntəqələr üçün də analitik 
+ifadələri yaza bilsinlər. 
+III məntəqə. Tirin sol tərəfindən x  məsafədə olan kəsiyi götürək 
+və sağ tərəfi tullayaq (şəkil 7.10,ç), kəsikdə elastiklik qüvvələrini 
+onların əvəzediciləri Qy və Mz  ilə əvəz edək. Müvazinət 
+tənliklərindən istifadə edirik: 
+1) ∑ ≤≤−−+−== ,),(; a4xa3a3xqF
+3
+2
+FQ0Y y  
+    a) x =3a;   
+3
+F
+Qy −= ; 
+    b) x =4a;   F
+3
+4
+qa
+3
+F
+Qy =−−= . 
+       2) ∑
+−
+−+−+−==
+2
+a3xq
+m2axF
+3
+2
+FxM0M
+2
+zz ,
+)(
+)(;  
+a4xa3 ≤≤  
+ 
+ 
+102
+Mz-in ifadəsi qabarıqlığı yükə qarşı olan ikinci tərtibli 
+paraboladır. 
+     a)  x =3a;   
+3
+m
+M z = ; 
+            b)  x =4a;   
+2
+m
+2
+qa
+m2a3F
+3
+2
+aF4M
+2
+z −=−+⋅+−= . 
+Üçüncü məntəqə daxilində  işarəsini Qy dəyişmir, ona görə də Mz 
+epüründə ekstremum yoxdur və şəkil 7.10-daki kimi təsvir olunur. 
+ 
+ 
+ 
+103
+ 
+ 
+ 
+Şəkil 7.10. 
+ 
+ 
+ 
+ 
+ 
+104
+4. Tirin möhkəmliyini təmin edən müqavimət momentini təyin 
+edək. Bu məqsədlə layihə hesabatı şərtindən istifadə edirik. 
+[ ]σσ ≤=
+z
+z
+W
+M
+max , yaxud [ ] == σ
+z
+z
+M
+W  
+3
+6
+64
+axax
+z sm333
+104203
+103411025
+3
+SFannM
+=
+⋅⋅
+⋅⋅⋅⋅⋅
+===
+,
+.. σσ
+. 
+5. Müxtəlif görünüşdə kəsikləri olan brusun en kəsiyinin 
+ölçülərini təyin edirik: 
+1) en kəsik dördbucaqlıdır (şəkil 7.10,e). (7.9) ifadəsini nəzərə 
+almaqla: 
+,,
+,,
+,
+672
+a031a760
+a3702
+JJ
+J2
+2tg
+44
+4
+czcy
+cycz
+0 −=
+−
+⋅
+=
+−
+=α . 
+Buradan 
+.,,, sm615hsm87500b 3 =≈=  
+2) Kəsik içi dolu dairədir.  
+.,, sm15dsm333d10W 33z ===  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+105
+VIII fəsil. Millərin boyuna əyilməsi 
+8.1. Dayanıqlıq haqqında anlayış 
+Mühəndis konstruksiyaları, qurğular, onların elementləri  istismar 
+prosesinin möhkəmlik və sərtlikdən başqa, dayanıqlıq tələbatını da 
+ödəməlidir.  
+Tutaq ki, düz ucları oynaqlara söykənmiş uzun mil 
+(şəkil 8.1) boyuna F  qüvvəsi ilə yüklənmişdir. 
+Sıxılmadakı maxσ  maksimum gərginlik еσ  elastiklik 
+həddini keçməzsə, dəyişməz düz dirəkdə 
+deformasiyanı və yerdəyişməni təyin etmək olar. 
+Qüvvənin F  dəyişmə aralığında 0<F<Fb  kiçik 
+həyəcanlandırmanın əlavə olunması, məsələn, eninə 
+istiqamətdə kiçik Q  qüvvəsinin təsiri, bir o qədər də 
+kiçik eninə yerdəyişmə yaradır. Həyəcanlanma 
+götürüldükdə eninə yerdəyişmələr də yox olur. Burada 
+Fb – böhran qüvvəsi adlanır.                                                  Şəkil 8.1. 
+   Yüklənən elastiki cismin müvazinət halı o vaxt dayanıqlı hesab 
+edilir ki, əlavə kiçik həyəcanlandırıcı qüvvələr yerdəyişmədə kiçik 
+həyəcanlanma yaradır, həyəcanlanmanın təsiri itdikdə yerdəyişmə də 
+yox olur.  
+Əgər dirəyi (şəkil 8.2) sınaq maşınında təkcə 
+boyuna sıxıcı qüvvə ilə yükləsək və bu zaman 
+eninə istiqamətdə qüvvə tətbiq etsək, onda 
+müəyyən mərhələdə dirəyin əyilmə sərtliyinin 
+azalması özünü göstərir. F qüvvəsi onun 
+müəyyən Fb  qiymətindən nə qədər kiçik olarsa, 
+milin oxunun düz xətli halı o qədər dayanıqlı 
+olacaqdır. F>Fb  olduqda eninə əyilməyə görə 
+milin şəklinin dəyişməsini asanlıqla müşahidə 
+edirik; başqa sözlə, dirək əyilmə sərtliyini itirir. 
+Bunu iki yaxın müxtəlif mümkün olan müvazinət 
+forması ilə izah etmək olar: düzxətli dayanıqsız və        Şəkil 8.2. 
+ 
+ 
+106
+əyrixətli dayanıqlı. Göstərilənləri ümumiləşdirərək aşağıdakıları deyə 
+bilərik: dirəyə boyuna qüvvə tətbiq edildikdə əyilmənin baş verməsi 
+dayanıqlığın azalması hadisəsi, yaxud boyuna əyilmə adlanır.  
+Milin oxunun elastiki müvazinətinin düzxətli dayanıqsız və 
+əyrixətli dayanıqlığına səbəb olan qüvvənin minimal qiymətinə 
+böhran qüvvəsi  Fb  deyilir. 
+Düzxətli deformasiyanın dayanıqsızlığına səbəb  olacaq boyuna 
+qüvvənin qiymətinin böhran qüvvəsinə bərabər olmasına imkan 
+vermək olmaz; çünki bu halda dirəklərin deformasiyası tez artır, 
+axırıncı qiymətə çatır, ağır nəticələr baş verməsinə səbəb olur. 
+Dayanıqlığın itirilməsinin çoxlu fəlakət və qəzalarla nəticələnməsinə 
+istənilən qədər misal göstərmək olar.  
+Dayanıqlığa görə praktiki hesablamalarda həddi (həlledici) 
+qüvvəni böhran qüvvəsi qəbul edirlər. Buraxılabilən yük böhran 
+qiymətin müəyyən hissəsi olur: 
+d
+b
+bur
+n
+F
+F = , 
+dn  - burada dayanıqlığın möhkəmlik ehtiyatıdır.  
+Dayanıqlığın möhkəmlik ehtiyatı dirəklərin iş şəraitindən asılıdır 
+və çox hallarda n  möhkəmlik ehtiyatına bərabər götürülür, yəni 
+dn =n; əksər hallarda dn -nin qiyməti ikidən kiçik olmur. Qeyri 
+bircinsli materiallar üçün dayanıqlığın möhkəmlik ehtiyatı 10-a qədər 
+çatır.  
+ 
+ 
+ 
+ 
+8.2. Uzun nazik milin böhran qüvvəsinin təyini 
+Elastiki sistemlərin dayanıqlığına dair külli miqdarda 
+məsələlərdən ən çox yayılmışına baxaq. Sabit en kəsikli mil uzun və 
+nazik olsun; hər iki ucu oynaqla birləşsin, böhran qüvvəsinə bərabər 
+boyuna yüklə yüklənsin (F=Fb). 
+Milin dayanıqlıq problemi ilk dəfə akademik Leonard Eyler 
+(1744) tərəfindən irəli sürülmüş və həll edilmişdir.  
+ 
+ 
+107
+Mil sıxılır və boyuna qüvvə böhran qiymətinə çatır. Mil (şəkil 
+8.3,a) müvazinətin əyrixətli 
+formasını alır. Onun hər bir 
+kəsiyi üfüqi istiqamətdə 
+yerdəyişmə alır. Bu halda 
+nəzərə alırıq ki, deformasiya 
+elastikidir, milin əyintiləri 
+kiçikdir, ona görə də tirin 
+elastiki oxunun təqribi 
+diferensial tənliyindən 
+istifadə etmək olar:  
+.zz MyEJ ±=′′         (a) 
+ (a)  ifadəsində Jz ətalət     
+momentinin yerinə kəsiyin                           Şəkil 8.3.                     
+ox ətalət momentinin minimal  
+qiymətini qoymaq lazımdır.  Milin elastiki oxunun diferensial tənliyi 
+aşağıdakı kimi olacaqdır: 
+.min zMyEJ ±=′′⋅                        (8.1) 
+Milin aşağı hissəsinin müvazinət şərtinə əsasən tapırıq:  
+.yFM bz −=  (8.1) ifadəsi belə yazılır: 
+.min yFyEJ b−=′′                       (8.2) 
+(14.2) ifadəsində aşağıdakı əvəzləmələri edirik: 
+min
+2
+EJ
+Fb=α ,                             (8.3) 
+onda 
+.0yy 2 =+′′ α                              (8.4) 
+Sabit əmsallı ikinci tərtibli xətti bircinsli diferensial tənlik 
+aşağıdakı xarakteristik tənliyə malikdir: 
+.0r 22 =+α                                (8.5) 
+ 
+ 
+108
+Bu tənliyin kökləri:  ., i21r α±=  Ona görə də (8.4) ifadəsinin 
+həllini aşağıdakı şəkildə təqdim etmək olar:  
+ 
+,cossin xCxCy 21 αα ⋅+⋅=                     (8.6)  
+burada C1 və C2 milin bərkidilməsinin sərhəd (kənar) şərtlərindən 
+təyin olunan ixtiyari sabitlərdir. 
+Sərhəd şərtləri belə olacaqdır: 
+1. 00x
+y ==  (milin kəsiyinin əyintisi koordinat başlanğıcında 
+sıfıra bərabər olur);  
+2. 0lx
+y ==  (milin kəsiyinin əyintisi yuxarı dayaqda da sıfır 
+olur).  
+Birinci sərhəd şərtini (8.6) ifadəsində yazaraq, alırıq: 
+C1 · 0 + C2 · 1 = 0;   buradan  C2 = 0. 
+Görünür ki, dirəyin elastiki xətti sinusoid olacaq, onun tənliyi  
+y=C1·sinαx.                                (8.7) 
+Uyğun olaraq ikinci sərhəd şərtini yazırıq: 
+C1 ·sinα ·l=0,                                  (b) 
+(b)  ifadəsində  C1  inteqral  sabiti  sıfıra  bərabər  ola bilməz  
+(C1≠0); çünki C1=0 olan hal müvazinətin düzxətli formasına uyğun 
+gəlir. Buradan:                                        
+sinαl=0.                             (8.8) 
+Milin müvazinətliyinin əyrixətli forması αl=πn,                   
+(8.9) olduqda alınacaqdır. Burada n=0,1,2,3,… – sinusoidin 
+yarımdalğasının sayıdır. 
+(8.3) ifadəsini nəzərə almaqla tapırıq: 
+.
+2
+22
+min
+2
+l
+n
+EJ
+Fb πα ==  
+Axtarılan böhran qüvvəsinə görə: 
+ 
+ 
+109
+.min
+2
+22
+b
+l
+EJn
+F
+π
+=                           (8.10) 
+Müxtəlif hallara baxaq. 
+1) n=0, Fb=0 boyuna qüvvə sıfıra 
+bərabərdir. Mil dayanıqlığını itirmir. 
+n=1, .min
+2
+2
+b
+l
+EJ
+F
+π
+=               (8.11) 
+Böhran qüvvəsinin bu qiymətinə 
+yarımdalğadan müvazinətin əyrixətli forması 
+uyğun gələcək (şəkil 8,4,a). 
+n=2, .min
+2
+2
+b
+l
+EJ4
+F
+π
+=            (8.12) 
+Bu böhran qüvvəsinə 
+iki yarımdalğadan 
+elastiki müvazinət 
+forması uyğun gəlir 
+(şəkil (8.4,b).  
+Görünür ki, n neçə 
+ədəd olacaqsa, o qədər 
+də yarımdalğa olacaqdır. 
+Buradan demək olar ki, 
+n=1  olanda böhran 
+qüvvəsinin qiyməti 
+praktiki maraq doğurur; 
+çünki Fb-nin böyük 
+qiymətləri və bu 
+qiymətlərə uyğun elastiki 
+müvazinətin forması 
+praktiki mövcud ola 
+bilməz, n=1 olan hala 
+uyğun gələn böhran 
+qüvvəsindən mil dağılır. 
+                                             
+Şəkil 8.5. 
+ 
+ 
+110
+Bunu nəzərə almaqla, ucları oynaqla birləşən millərdə yaranan 
+böhran qüvvəsini təyin etmək üçün Eyler düsturu aşağıdakı şəkildə 
+olur: 
+,
+)(
+min
+2
+2
+b
+l
+EJ4
+F
+µ
+π
+=                                     (8.13) 
+burada: µ  - uzunluq  əmsalı  adını  daşıyır və millərin uclarının 
+bərkidilməsi şərtindən (dayaq qurğularından) asılıdır,  L= µ l– milin 
+gətirilmiş uzunluğu adlanır. L  ona  görə  belə adlanır ki, verilmiş  
+dayaq  qurğuları  olan  l   uzunluqlu  mil  ucları oynaqlı söykənən L 
+uzunluqlu milin böhran qüvvəsinə malik olur. 
+Milin gətirilmiş uzunluğu əmsallarının qiymətləri onun uclarının 
+müxtəlif növ dayaqlarla birləşdiyi hal üçün şəkil 8.5-də verilmişdir. 
+ 
+ 
+8.3. Eyler düsturunun tətbiqi sərhədləri 
+Qeyd olunduğu kimi, mürəkkəb mühəndis konstruksiyalarında 
+bir milin dayanıqlığını itirməsi onun dağılması ilə nəticələnir və 
+böyük insan tələfatına səbəb olur. 
+Amerikanın Kvebek şəhərində, Đsveçrədə, Rusiyanın Sızran 
+rayonunda körpülərin belə dağılması Eyler düsturunun praktiki 
+əhəmiyyətinə şübhə doğurmuşdur. Məşhur rus mühəndisi professor 
+Yasinski Eyler düsturunun ancaq müəyyən sərhədlərdə (hədlərdə) 
+doğru olduğunu göstərmişdir.  
+Qeyd etməliyik ki, Eyler düsturunu çıxaranda Huk qanunundan 
+istifadə etməklə alınan (8.1) ifadəsindən istifadə etmişik. Bu göstərir 
+ki, Eyler düsturu o vaxt tətbiq edilə bilər ki, materialda yaranan 
+gərginlik mütənasiblik həddindən böyük olmasın. Böhran 
+qüvvəsindən yaranan gərginlik (böhran gərginliyi) mütənasiblik 
+həddini keçdikdə Eyler düsturu mənasını itirir. Böhran qüvvəsinin 
+müəyyən hissəsi olan buraxılabilən qüvvə səhv alınan Fb qüvvəsinin 
+əsasında təyin oluna bilməz. Eyler düsturu böhran qüvvəsindən 
+yaranan gərginliyin dirəyin materialının mütənasiblik həddindən 
+böyük olmadıqda tətbiq oluna bilər. Ona görə də:   
+ 
+ 
+ 
+111
+,mut
+b
+b
+A
+F
+σσ ≤=                          (8.14) 
+σb ifadəsinə böhran qüvvəsinin  qiymətini qoyaraq tapırıq: 
+.
+)(
+min
+Al
+EJ
+2
+2
+b
+⋅
+=
+µ
+π
+σ  
+Alınan bərabərlikdən alırıq: 
+ 
+,
+min
+min
+2
+2
+2
+2
+2
+2
+b
+E
+i
+l
+E
+A
+J
+l
+E
+λ
+π
+µ
+π
+µ
+π
+σ =
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+=               (8.15) 
+burada: imin=
+A
+Jmin  - minimum ətalət radiusu; λ=µl/imin – milin 
+çevikliyidir (mücərrəd kəmiyyətdir). 
+λ-nın qiymətini nəzərə almaqla görürük ki, milin çevikliyi onun 
+gətirilmiş uzunluğunun kəsiyin minimum ətalət radiusuna nisbətinə 
+bərabərdir.  
+Eyler düsturu tətbiq olunan millərin çevikliyinin qiymətini 
+müəyyənləşdirək. (8.14) və (8.15) ifadələrinə əsasən yazmaq olar: 
+,mut2
+2
+b
+E
+σ
+λ
+π
+σ ≤=                          (8.16) 
+buradan: 
+mut
+2
+dh
+E
+σ
+π
+λ ≥∂ .                            (8.17) 
+(8.15) ifadəsindən görünür ki, milin çevikliyinin böyük qiyməti 
+böhran gərginliyinin kiçik qiymətinə uyğun gəlir. Burada Eyler 
+ 
+ 
+112
+düsturu milin çevikliyi həddi çevikliyə bərabər və böyük olan 
+qiymətlərdə tətbiq edilə bilər.  
+Polad üçün E=2,1·105MPa, mutσ =200MPa olanda 
+.
+,,
+100
+200
+1012143E 52
+müü
+2
+dh ≈
+⋅⋅
+=≥∂ σ
+π
+λ         (8.18) 
+Buna görə də polad millər üçün Eyler düsturu milin çevikliyi 
+λ≥100  olanda doğrudur. Çuqun üçün həddi çeviklik λhəd=80, ağac 
+üçün (şam)  λhəd=100-dür. 
+ 
+ 
+ 
+8.4. Mütənasiblik həddindən kənarda  
+millərin  dayanıqlığı 
+Mütənasiblik həddindən kənar bir neçə dayanıqlıq 
+nəzəriyyəsindən ən çox yayılan F.S.Yasinskinin nəzəriyyəsidir. O, 
+orta çeviklikli λ′ (məsələn, polad üçün 40≤λ′≤100) millərdə böhran 
+qüvvəsini təyin etmək üçün empirik düstur təklif etmişdir: 
+,λσ ⋅−= bab                           (8.19) 
+burada a və b  dirəyin materialının mexaniki xassələrini 
+xarakterizə  edən  əmsallardır.  Onların   ölçü  vahidi - [Pa]:  polad  
+üçün a=336MPa, b=1,47MPa.  
+Kiçik sərtlikli (0<λ<40) dirəklər üçün dayanıqlığa hesabat 
+aparılmır; çünki onun uzunluğunun eninə kəsik ölçülərinə nisbəti 
+elədir ki, dağılma yalnız sıxılmaya görə baş verir, yəni dirəkdə 
+axıcılıq həddinə axσ , yaxud möhkəmlik həddinə mohσ  bərabər 
+gərginlik yaranır. Buna görə də 0≤λ≤λ′ çevikliyə malik olan dirəklər 
+üçün böhran gərginliyi ,axb σσ =  yaxud  =bσ mohσ  olacaqdır.  
+Yuxarıda ifadə olunanları qrafiki təsvir edərək böhran gərginliyi 
+qrafikini alırıq (şəkil 8.6) 22b E λπσ /=  düsturuna əsasən  AB  
+əyrisini (hiperbolanı) qururuq. Dirəyin çevikliyi λ<100 olanda böhran 
+ 
+ 
+113
+gərginliyi onun materialının mütənasiblik həddindən mutσ  böyük 
+olur, yəni  bσ > mutσ ,  ona görə də qrafikdə  AC  əyrisində Eyler 
+düsturundan istifadə etmək olmaz, lakin  C  nöqtəsindən aşağıda olar. 
+DC  qrafikində 40≤λ≤100 olanda böhran gərginliyinin bσ  təyin 
+olunması üçün Yasinski düsturundan istifadə olunur  0≤λ≤40   
+olduqda isə  
+bσ = ,( axùÿä σσ  yaxud mohσ ). 
+ 
+  
+ 
+Şəkil 8.6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+114
+8.5. Dayanıqlığa hesabat  
+ 
+Yoxlama hesabatı halında aşağıdakı bərabərlikdən təyin olunan 
+dayanıqlıq ehtiyatını dn   tapmaq lazımdır: 
+σ
+σb
+dn =                               (8.20) 
+burada σ – dirəyin en kəsiyində normal gərginlikdir. Bu halda 
+dirəyin materialı və ölçüləri məlum hesab edilir.  
+Dirək üçün buraxılabilən yükü  Fbur  aşağıdakı ifadə ilə təyin 
+etmək olar: 
+d
+b
+bur
+n
+A
+F
+σ
+=                         (8.21) 
+(8.21) ifadəsində dayanıqlıq ehtiyatı verilmiş hesab edilir. 
+Adətən, dayanıqlığa yoxlama hesabatının aşağıdakı qaydada 
+aparılması tövsiyə edilir: 
+1. Dirəyin çevikliyinin qiyməti λ  təyin edilir: 
+mini
+lµ
+λ = .                          (8.22) 
+2. Aşağıdakı ifadədən milin həddi çevikliyinin qiyməti 
+hesablanır: 
+mut
+2
+had
+E
+σ
+π
+λ = . 
+3. Böhran gərginliyi λ=λhəd.  olanda ;2
+2
+λ
+π
+σ
+E
+b =  ùÿäùÿä λλλ ≤≤′  
+olanda λσ ⋅−= bab   və nəhayət, λ≤ ùÿäλ′  olanda axb σσ =  düsturları 
+ilə təyin olunur. 
+Hesabat sxemi (dirəyin uzunluğu, onun bərkidilmə şərti, qüvvə, 
+material) məlum olanda və en kəsiyin ölçülərinin təyin olunması 
+lazım gələndə layihə hesabat şərtindən istifadə olunur: 
+ 
+ 
+ 
+115
+[ ] ∂≤= σσ
+A
+F
+b ,                        (8.23) 
+burada: [ ] ∂σ  - dayanıqlığa görə buraxılabilən gərginlikdir, o 
+bərabərdir: 
+[ ] dσ =
+d
+b
+n
+σ
+,                          (8.24) 
+buradan dirəyin en kəsiyinin sahəsi 
+[ ] .d
+F
+A
+σ
+≥                           (8.25) 
+(8.25) ifadəsində nə sahə  A,  nə də dayanıqlığa görə 
+buraxılabilən gərginlik [ ] dσ  məlum deyildir. [ ] dσ  böhran 
+qüvvəsindən asılı funksiyadır, o isə məlum deyil. Ona görə də en 
+kəsiyin ölçülərinin təyini seçmə yolu ilə aparılır (yəni bir sıra ardıcıl 
+seçmə və hesablamalar yolu ilə). 
+Hesablamaları sadələşdirmək məqsədilə dayanıqlığa görə 
+buraxılabilən gərginliyin sıxılmadakı buraxılabilən gərginliyin [ ]σ  
+bir hissəsi olduğunu şərtləşirik, yəni: 
+ 
+[ ] dσ =ϕ [ ]σ ,                          (8.26) 
+burada ϕ≤1 sıxılmaya görə buraxılabilən gərginliyin azaltma 
+əmsalıdır. 
+Buradan görünür ki, boyuna əyilmədə böhran gərginliyi  bσ  
+plastiki materiallar üçün axıcılıq həddindən axσ , kövrək materiallar 
+üçün isə möhkəmlik həddindən mohσ  kiçik olur. 
+(8.26) ifadəsindən tapırıq: 
+[ ]
+[ ] axd
+dd
+n
+n
+σ
+σ
+σ
+σ
+ϕ
+⋅
+⋅
+==  
+σ=f1(λ)  və  dn =f2(λ) – çevikliyin funksiyalarıdır. 
+Əsas buraxılabilən gərginliyin azaltma əmsalı ilə çeviklik 
+arasındakı asılılıqlar inşaat layihələndirilməsində müvafiq normalarla 
+müəyyənləşdirilir və cədvəl şəklində ədəbiyyatlarda dərc olunur. 
+ 
+ 
+116
+Azkarbonlu polad, çuqun və ağac üçün ϕ=ϕ1(λ) qiyməti cədvəl 8.1-
+də göstərilir. 
+ 
+Cədvəl 8.1 
+Çevik- 
+lik, 
+λ 
+ϕ əmsalının qiyməti Çevik- 
+lik 
+λ 
+ϕ əmsalının qiyməti 
+polad 
+ 
+çuqun 
+ 
+ağac 
+ 
+polad çuqun 
+ 
+ağac 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+1,00 
+0,99 
+0,96 
+0,94 
+0,92 
+0,89 
+0,86 
+0,81 
+0,75 
+0,69 
+0,60 
+1,00 
+0,97 
+0,91 
+0,81 
+0,69 
+0,57 
+0,44 
+0,34 
+0,26 
+0,20 
+0,16 
+1,00 
+0,99 
+0,97 
+0,93 
+0,87 
+0,80 
+0,71 
+0,60 
+0,48 
+0,38 
+0,31 
+110 
+120 
+130 
+140 
+150 
+160 
+170 
+180 
+190 
+200 
+- 
+0,52 
+0,45 
+0,40 
+0,36 
+0,32 
+0,29 
+0,26 
+0,23 
+0,21 
+0,19 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+0,25 
+0,21 
+0,18 
+0,16 
+0,14 
+- 
+- 
+- 
+- 
+- 
+- 
+ 
+Məsələ 8.1. En kəsiyi dolu dördbucaqlı olan polad milin aşağı 
+ucu möhkəm bərkidilmiş (şəkil 8.7,a) və sərbəst ucundan boyuna 
+qüvvə ilə yüklənmişdir. Böhran qüvvəsini Fb və buraxılabilən 
+qüvvəni Fbur, eləcə də böhran gərginliyini və buraxılabilən gərginliyi 
+təyin etməli.  
+ 
+Şəkil 8.7. 

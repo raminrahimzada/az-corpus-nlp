@@ -1,0 +1,3366 @@
+Məhərrəmov A.M.,  
+Nəsibov Ş.S., Allahverdiyev M.Ə. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ÜZVI KIMYADA FIZIKI TƏDQIQAT 
+ÜSULLARI 
+ 
+Ali məktəblər üçün dərs vəsaiti 
+ 
+ 
+ 
+Azərbaycan Respublikası Təhsil Nazir-
+liyinin 09.01.2009-cu il tarixli 06 saylı 
+iclas protokolu ilə dərs vəsaiti kimi 
+təsdiq edilmişdir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BAKI - 2009 
+ 1 
+ 
+REDAKTOR 
+      AMEA-nın müxbir üzvü Ə.Ə.MƏCİDOV 
+ 
+RƏYÇİ 
+      kimya elmləri doktoru, professor M.N.MƏHƏRRƏMOV 
+ 
+ 
+ 
+Məhərrəmov A.M., Nəsibov Ş.S., Allahverdiyev M.Ə. Üzvi 
+kimyada fiziki tədqiqat üsulları. Ali məktəblər üçün dərs vəsaiti. 
+Bakı: «Bakı Universiteti» nəşriyyatı, 2009, 104 səh. 
+ 
+ 
+ 
+ 
+Təqdim olunan dərs vəsaitində üzvi kimyada çox istifadə olu-
+nan fiziki üsullar: UB-, İQ-, NMR və kütlə spektroskopiyaları və 
+bəzi sinif üzvi birləşmələrin spektrlərinin səciyyəvi xüsusiyyətləri 
+verilmişdir.  
+Vəsait universitetlərin kimya fakültələrinin bakalavr pilləsi 
+üçün nəzərdə tutulmuşdur. Kitabdan, həmçinin üzvi kimyanı ixti-
+sas seçən magistrlər və bu sahədə işləyən tədqiqatçılar da istifadə 
+edə bilərlər.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2009006
+006)07(658
+061705000000
+−−
+−−
+−
+M
+M  
+ 
+ 
+© «Bakı Universiteti» nəşriyyatı, 2009 
+ 
+ 2 
+MÜNDƏRİCAT 
+ 
+ Giriş .........................................................................................4 
+ 
+   I fəsil. Elektron spektrlərinin nəzəriyyəsinin əsasları ....................5 
+1.1. Stasionar hallar.........................................................................5 
+1.2. Elektromaqnit dalğaları şkalası və molekulyar  
+spektrlərin növləri ....................................................................6 
+  
+ II fəsil. Ultrabənövşəyi spektroskopiya .............................................9 
+2.1. İşıq udmanın əsas qanunu. Ber-Buger-Lambert qanunu ..........9 
+2.2. Çoxatomlu molekulların elektron spektrləri ..........................11 
+2.3. Molekullararası qarşılıqlı əlaqələrin elektron 
+spektrlərinə təsiri ....................................................................13 
+2.4. Xromoforlar............................................................................15 
+2.5. Bəzi üzvi birləşmələrin ultrabənövşəyi spektrlərinin  
+        xüsusiyyətləri .........................................................................18 
+ 
+III fəsil. İnfraqırmızı spektroskopiya ...............................................33 
+3.1. Molekulların rəqsləri və spektrləri .........................................33 
+3.2. Bəzi sinif üzvi birləşmələrin İQ-spektrlərinin 
+xüsusiyyətləri .........................................................................39 
+ 
+IV fəsil. İşığın kombinasiya səpilmə spektroskopiyası ....................59 
+ 
+ V fəsil. Nüvə maqnit rezonansı spektroskopiyası...........................63 
+5.1. Əsas prinsiplər........................................................................63 
+5.2. Kimyəvi sürüşmə ...................................................................68 
+5.3. Spin-spin qarşılıqlı təsiri ........................................................74 
+5.4. Siqnalların inteqrallanması.....................................................84 
+5.5. Müxtəlif sinif üzvi birləşmələrin PMR spektrlərinin 
+xüsusiyyətləri .........................................................................85 
+ 
+VI fəsil. Kütlə spektroskopiyası.........................................................88 
+6.1. Molekulyar kütlə və molekulyar formulun təyini ..................89 
+6.2. Kükürd, azot və halogen üzvi birləşmələr..............................93 
+6.3. Bəzi sinif üzvi birləşmələrin kütlə spektrlərinin 
+xüsusiyyətləri .........................................................................95 
+ 3 
+ 
+ Ədəbiyyat ...........................................................................102 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+GİRİŞ 
+ 
+Kimya elminin sürətlə inkişaf etdiyi müasir dövrdə üzvi 
+birləşmələrin quruluş və xassələrinin öyrənilməsi kimyəvi və 
+fiziki üsulların kompleks istifadəsini tələb edir. Fiziki üsulların 
+tətbiqi tədqiqata sərf olunan vaxtı azaltmaqla bərabər, quruluş və 
+xassələr barəsində əsaslı məlumat verir. Bu üsullar arasında spek-
+tral tədqiqat üsulları daha geniş istifadə olunur. 
+Vəsaitdə verilən materiallar kimyəvi quruluşun tədqiqində 
+spektral üsulların praktiki əhəmiyyətini önə çəkir. Buna görə də 
+üsulların nəzəri əsasları yığcam şəkildə verilmişdir. Əsas diqqət 
+spektrlərin təhlilinə yönəlmişdir. 
+Həmçinin bu və ya digər problemin məqsədəuyğun şəkildə 
+həll olunması üçün daha informativ spektral tədqiqat üsulunun 
+seçilməsi məsələlərinə də vəsaitdə toxunulur.       
+ 
+ 5 
+I FƏSİL 
+ 
+ELEKTRON SPEKTRLƏRİNİN  
+NƏZƏRİYYƏSİNİN ƏSASLARI 
+ 
+ 
+1.1. Stasionar hallar 
+ 
+Elektromaqnit şüalanmasının maddə ilə qarşılıqlı təsirini 
+öyrənən molekulyar spektroskopiyanın (elektron, rəqsi, fırlanma 
+və s.) nəzəriyyəsi N.Borun iki postulatına əsaslanır. 
+Bor postulatlarına əsasən atomlar (və ya molekullar), ancaq 
+müəyyən stasionar hallarda ola bilərlər. Stasionar hallarda atom 
+nə enerji udur, nə də enerji şüalandırır. Atom yalnız bir stasionar 
+haldan digərinə keçdikdə enerji şüalandıra, yaxud uda bilər. Bu 
+hallarda onların enerjisi diskret sıra E1, E2,..., Ex əmələ gətirir 
+(şəkil 1). 
+ 
+ 
+ 
+Şəkil 1. Borun postulatlarına əsasən enerji səviyyələri. 
+ 
+Atom bir stasionar haldan digərinə keçdikdə sistemin 
+enerjisinin dəyişməsi keçid kvantı enerjisinə bərabər olan dəyişmə 
+ilə müşaiyət edilir. Başqa sözlə, şüalanmanın udulması (və ya 
+buraxılması), ancaq o zaman mümkündür ki, şüalanma kvantı iki 
+enerji səviyyələri fərqinə müvafiq olsun: 
+λ
+=ν=−=∆
+hchEEE 12 ,                           (1) 
+hν hν 
+E2 
+E1 
+E2>E1 
+ 6 
+h
+EE 12 −=ν ,                                        (2) 
+ 
+burada c  - işıq sürəti, λ - dalğa uzunluğu, h – Plank sabiti, ν - 
+elektromaqnit şüalanmasının tezliyidir. 
+h və c-nin ədədi qiymətlərini (1)-də nəzərə alsaq, aşağıdakı 
+ifadəni alırıq: 
+ 
+λ
+⋅≈∆
+1120000E . 
+ 
+(1) ifadəsi elektromaqnit şüalanmasının tezliyini təyin edir. 
+Bunun köməyilə zolağın keçidlər enerjisi şkalasında vəziyyətini 
+müəyyən etmək olar. 
+ 
+1.2. Elektromaqnit dalğaları şkalası  
+və molekulyar spektrlərin növləri 
+ 
+Molekulyar spektrlər atom spektrlərinə nisbətən çox 
+mürəkkəbdirlər. Belə ki, molekulda elektronların orbital hərəkəti, 
+nüvələrin rəqsi və fırlanması baş verir. Molekulun tam enerjisi 
+qeyd olunan hərəkətlərinin cəmi kimi göstərilə bilər: 
+ 
+E = Eel+ Er + Ef                                 (3) 
+ 
+Hər üç enerji kvantlanır, yəni Plank sabitinə mütənasib olaraq 
+müəyyən qiymətlər alırlar və bu zaman aralıq qiymətlər qadağan 
+olurlar. Nəzəriyyə və təcrübə göstərir ki, onlar arasında aşağıda 
+göstərilən nisbət mövcuddur: 
+ 
+M
+m:
+M
+m:1E:E:E frel = ,                         (4) 
+ 7 
+ 
+burada m – elektronun kütləsi, M – nüvənin kütləsidir. 4-cü 
+tənlikdən istifadə edərək hidrogen molekulu (M≈900 m) üçün 
+aşağıdakı münasibəti alırıq: 
+ 
+900
+1:
+30
+1:1E:E:E frel =  
+ 
+Bu molekul üçün təcrübi müəyyən edilmiş qiymətlər 
+ 
+eV015,0E,eV5,0E,eV10E frel ≈≈≈  
+ 
+bərabərdir. Buradan 
+ 
+700
+1:
+20
+1:1E:E:E frel =  
+ 
+Bu nəticələrdən görünür ki, elektron, rəqsi və fırlanma enerjiləri 
+bir-birindən qiymətlərinə görə xeyli fərqlənirlər: 
+ 
+Eel >>Er >>Ef 
+ 
+və buna görə də onlar müxtəlif spektral sahələrdə yerləşirlər (şəkil 
+2). 
+ 
+ 8 
+ 
+Şəkil 2. Elektromaqnit spektri. 
+Aşağı enerjilərdə yüzlərlə molekul həyəcanlanmış fırlanma 
+hallarına keçir, amma rəqsi və elektron halları dəyişmir. Bu 
+enerjilərə şüalanan (udulan) dalğa 1-0,1mm dalğa uzunluqları və 
+ya 10-100 sm–1 tezlikləri uyğun gəlir. Beləliklə, fırlanma spektri 
+uzaq infraqırmızı, hətta radio tezlikli sahələri əhatə edir. 
+Elektromaqnit şüalanmasının enerjisinin sonrakı artımı rəqsi 
+keçidləri həyəcanlandırır, bunlara da dalğa uzunluqları 2,5-100 
+mkm və ya 100-4000 san-1 tezlikləri uyğun gəlir. Bu zaman 
+rəqslərlə bərabər fırlanma da həyəcanlanır və buna görə də təmiz 
+rəqs spektri müşahidə edilmir. Müşahidə edilən rəqsi-fırlanma 
+spektridir və o, da görünən sahəyə yaxın infraqırmızı sahədə 
+yerləşir. Elektronların həyəcanlanması üçün bir qayda olaraq daha 
+çox enerji (yüzlərlə kilocoul) lazım olduğundan müvafiq spektrlər 
+görünən və ultrabənövşəyi sahədə (100-800 mm) yerləşirlər. Belə 
+enerji udulduqda eyni zamanda rəqsi və fırlanma hallarında da 
+dəyişikliklər gedir. 
+ 9 
+II FƏSİL 
+ 
+ULTRABƏNÖVŞƏYİ SPEKTROSKOPİYA  
+ 
+Kimyəvi birləşmələrin şüalanması zamanı ultrabənövşəyi və 
+görünən işıq şüalarının udulması nəticəsində elektron spektrləri 
+müşahidə olunur. Valent elektronlarının yerləşdiyi səviyyədən 
+daha çox enerjili səviyyəyə keçidi baş verir və udulan 
+şüalanmanın təbiətindən asılı olaraq elektron udma 
+spektroskopiyası və yaxud UB spektroskopiyası adlanır. 
+Bütün elektromaqnit dalğalarının spektrlərinin 
+şüalanmasından insanın gözü onun dalğa uzunluğu 400 nm-dən 
+800 nm-ə qədər «görünən» hissəsini qavraya bilir. Yer 
+atmosferinin komponentləri dalğa uzunluğu 200 nm-dən aşağı 
+olan şüalanmanı udduğundan «ultrabənövşəyi şüalar» və yaxud 
+sadəcə «ultra bənövşəyi» dedikdə dalğa uzunluğu 200 nm-dən 
+400 nm-ə qədər olan şüalanma nəzərdə tutulur (spektrin bu hissəsi 
+yaxın ultrabənövşəyi sahə adlanır). 
+Bu fəsildə diqqəti elektromaqnit spektrinin yaxın 
+ultrabənövşəyi sahəsində cəmləşdirmişik. 
+ 
+2.1. İşıq udmanın əsas qanunu.  
+Ber-Buger-Lambert qanunu 
+ 
+UB spektrləri çəkdikdə bir qayda olaraq, divarları UB 
+şüalanma üçün şəffaf olan küvetdə yerləşdirilmiş məhluldan 
+istifadə edilir və elə həlledici seçilir ki, UB şüanı udmasın. 
+Udulan şüanın miqdarı şüa keçən yol boyunca həll olmuş 
+(paylanmış) maddə molekullarının sayı ilə düz mütənasibdir. 
+Buna görə də qatılıq və ya nümunənin qalınlığı (küvetdə optiki 
+yolun uzunluğu) artdıqca udulan şüaların miqdarı artır. 
+Müxtəlif dalğa uzunluğunda məhluldan çıxan işığın intensiv-
+ 10 
+liyi (I) ilə məhlula daxil olan intensivliyi (I0) arasında münasibət 
+Ber-Buger-Lambert qanunu ilə ifadə olunur: 
+ 
+abc
+I
+Ilg 0 = , 
+ 
+burada a – qatılıqdan asılı olmayıb dalğa uzunluğundan asılı olan 
+sönmə əmsalı, b – optiki yolun uzunluğu, c – qatılıqdır. 
+Əgər qatılıq mol/litrlə, optiki yolun uzunluğu sm-lə ifadə ol-
+unursa, onda a – sönmənin molyar əmsalına çevrilir, onu həm də 
+ekstinksiyanın molyar əmsalı (ε) da adlandırırlar. Ekstinksiyanın 
+molyar əmsalının müəyyən ölçü vahidi ilə ifadə olunduğuna bax-
+mayaraq onu bir qayda olaraq ölçüsüz kəmiyyət kimi göstərirlər. 
+Məhlul tərəfindən udulan radiasiyanın miqdarı sönmə A 
+(«optik sıxlıq» da adlandırırlar) və keçirmə T ilə xarakterizə ol-
+unur. Onların arasında aşağıdakı asılılıq vardır: 
+ 
+,
+I
+IlgA 0=  
+0I
+IT =  və TlgA −= . 
+ 
+Spektrlərin parametrlərini göstərərkən udma maksimumları 
+ilə yanaşı müvafiq ε-nun qiymətləri də göstərilməlidir. Məsələn, λ 
+= 235 nm (ε= 5400). Həlledici λ və ε-nun qiymətlərinə öz təsirini 
+göstərdiyi üçün onu da göstərmək lazımdır (cədvəl 1). 
+ 
+Cədvəl 1. Həlledicinin mezitil oksidin UB-spektrlərinə təsiri 
+ 
+Həlledici n→π*-keçidi, λmax, nm n→π*-keçidi, λmax, nm 
+N-Heksan 327 230 
+Efir 326 230 
+Etanol 315 237 
+Metanol 312 238 
+Su 305 244 
+ 11 
+ 
+2.2. Çoxatomlu molekulların 
+elektron spektrləri 
+ 
+Adi şəraitdə olan molekulun elektron energetik səviyyəsi əsas 
+hal (E0) və enerjiyə görə yüksək elektron səviyyələri (E1, E2 və s.) 
+müvafiq olaraq birinci, ikinci və s. həyəcanlanmış hallar 
+adlandırırlar. Molekulların elektron keçidlərini onların tərkibində 
+olan valent elektronlarının növündən asılı olaraq təsnif edirlər. 
+Sadə rabitə əmələ gətirən elektronlar σ-elektronlar, iki (və ya üç 
+qat) rabitə əmələ gətirən elektronlar π-elektronlar adlanırlar. 
+Bundan başqa oksigen, azot və s. elementlər saxlayan mole-
+kullarda cütləşmiş və ya n-elektronlar mövcuddur. Buna müvafiq 
+olaraq σ-, π- və n- orbitalları qeyd edilir və onlarda bir qayda 
+olaraq əsas halda elektronlarla dolmuş olurlar. İşıq kvantı ilə 
+həyəcanlandıqda elektronların rabitə əmələ gətirən (σ, π) və ya 
+rabitə əmələ gətirməyən (n) orbitaldan əsas halda boş olan daha 
+yüksək enerjili, dağıdıcı orbitala (σ* və ya π*) keçidi mümkündür. 
+Sxem 3-də n–, π– və σ-elekrtonların mümkün olan keçid növləri 
+və energetik halları verilmişdir. 
+Doğrudan da ən çox enerji σ→σ* (burada birinci hərf əsas, 
+ikinci hərf isə həyəcanlanmış halları bildirirlər) keçidlərinin hə-
+yəcanlanması üçün lazımdır, belə ki, σ– rabitə ən möhkəm 
+rabitədir. Onlar doymuş karbohidrogenlər üçün səciyyəvidir və 
+udma zolaqları «vakuum» UB sahəsində (λ<200 nm) müşahidə 
+edilir. Xeyli az enerjini doymamış karbohidrogenləri 
+səciyyələndirən və görünən yaxın UB sahədə yerləşən π→π* 
+keçidləri tələb edir. Yuxarıda verilən keçidləri (σ→σ*, π→π*) 
+N→V keçidləri də adlandırırlar. n→σ* və n→π* keçidləri 
+elektronun əsas halının rabitə əmələ gətirməyən orbitalından σ* və 
+π* molekulyar dağıdıcı orbitalına keçidi zamanı baş verir, onları 
+bəzən N→Q kimi göstərirlər. n-Səviyyələr π-orbitaldan yuxarıda 
+ 12 
+yerləşdiyinə görə n→π* zolağı udma spektrində daha uzun dalğalı 
+olur (az enerji tələb edir). 
+ 
+ 
+Şəkil 3. Müxtəlif təbiətli elektron halları və onların arasında keçidlər 
+ 
+Yuxarıda verilən keçidlərdən üzvi kimyaçı üçün ikisi daha 
+vacibdir. 
+a) n→π*, bu keçid zamanı sərbəst cüt mütəhərrik dağıdıcı 
+π*orbitala keçir. 
+b) π→π*, bu keçid zamanı elektron dayanıqlı rabitə əmələ 
+gətirən π-orbitaldan mütəhərrik π*-orbitala keçir. 
+Elektronların həyəcanlanması nəticəsində enerjisi artmış 
+molekul enerji artığını aşağıda verilən üsulların biri ilə itirə bilər: 
+rabitənin qırılması, boşalma, flüoressensiya, şüalanmasız keçidlər. 
+Bu yolların seçilməsi hər bir molekulun təbiəti və keçidinin növü 
+ilə müəyyən olunur. 
+n→π* keçidləri π→π* keçidlərindən ilkin intensivliklərinə 
+görə fərqlənirlər. Əgər molyar ekstinksiya əmsalı zolağın 
+maksimumunda (εmax) icazə verilmiş π→π* keçidləri üçün 10000 
+ 13 
+və ya yuxarıdırsa, qadağan olunmuş keçidlər üçün ~200-dən bir 
+neçə minə qədərdirsə, n→π* zolaqları üçün bir neçə vahiddən bir 
+neçə yüzə qədərdir. Belə aşağı intensivliyi n→π* keçidlərinin 
+simmetriya nöqteyi-nəzərindən qadağan olunması ilə izah edirlər. 
+Udma zolağının n→π* və ya π→π* keçidlərinə aid 
+edilməsinin vacib təcrübi meyarı qeyri-polyar həlledicilərdən 
+(heptan, karbon 4-xlorid) polyar həlledicilərə (spirt, su) keçdikdə 
+udma maksimunun sürüşməsinin istiqamətidir (Mak-Konell 
+qaydası). Bu halda n→π* keçidləri üçün «göy» və ya hipsoxrom 
+(qısa dalğalı tərəfə), π→π* keçidləri üçünsə, «qırmızı» və ya 
+batoxrom (uzun dalğalı) sürüşmə müşahidə edilir. 
+Rabitə əmələ gətirməyən elektronların iştirakı ilə gedən 
+keçidlərin (n→π*) udma zolağının təyin edilməsinin ən etibarlı 
+meyarı onların turş mühitlərdə itməsidir. Bu bölünməmiş cütün   
+n-elektronlarının protonlaşması ilə izah edilir. Nəticədə onlar 
+rabitə əmələ gətirməyən xassələrini itirirlər və buna görə də keçid 
+müşahidə edilmir. 
+ 
+ 
+2,3. Molekullararası qarşılıqlı əlaqələrin 
+elektron spektrlərinə təsiri 
+ 
+Molekulun qaz fazasından kondensləşmiş mühitə keçməsi 
+ümumi halda udma spektrlərinin bütün parametrlərinin (vəziyyəti, 
+intensivliyi, udma zolağının forması) dəyişməsi ilə gedir. Bu 
+dəyişmələri əmələ gətirən səbəblərin ardıcıl olaraq araşdırılması 
+mürəkkəb olduğu üçün biz burada udma zolağının 
+maksimumunun vəziyyətinə, ancaq Van-der-Vaals qüvvələrinin 
+təsirinə baxacağıq. 
+Bildiyimiz kimi elektron keçidlərinin tezliyi əsas və həyə-
+canlanmış halların enerji fərqi ilə təyin edilir. Şəkil 4-də ν0 tezliyi 
+qaz fazasında keçidə uyğundur. Əgər bu molekulu kondensləşmiş 
+ 14 
+fazaya keçirtsək, həlledicinin molekulları ilə qarşılıqlı təsir 
+nəticəsində o, stabilləşir, yəni hər iki halın energetik səviyyələri 
+aşağı düşür. Molekulun dipol momenti (µ) nə qədər çoxdursa, bir 
+o qədər solvat örtük möhkəmdir və onun stabilləşmə enerjisi 
+qüvvətlidir. Ümumi halda əsas (µg) və həyəcanlanmış (µe) halların 
+dipol momentləri bir-birindən fərqləndikləri üçün onların 
+stabilləşmə enerjisi də (∆s) fərqlidir. Buna görə də iki variant 
+mümkündür: 
+ 
+Şəkil 4. Həlledicinin elektron səviyyələrinin vəziyyətinə təsiri. 
+ 
+1) əsas halın dipol momenti həyəcanlanmış halın dipol 
+momentindən xeyli böyükdür (µg >>µe). Görünür ki, kvant 
+udmayan molekul kvant udmuş molekuldan daha güclü stabilləşir 
+(∆səsas >>∆shəyəc.). Bunun nəticəsində udma zolağının 
+maksimumunun yuxarı tezlikli (qısa dalğalı) sürüşməsi baş verir. 
+2) həyəcanlanmış halın dipol momenti əsas halın dipol 
+momentindən xeyli çoxdur (µe>>µg). Bu halda əsas halın 
+stabilləşmə enerjisi həyəcanlanmış halın stabilləşmə enerjisindən 
+aşağıdır və aşağı tezlikli (uzundalğalı) sürüşmə baş verir. 
+Şəkil 4-də n→π* və π→π* keçidlərinin sürüşmələrinin 
+mümkün olan səbəblərindən biri aydın olur. Əgər karbonilli 
+birləşmə hidrogen rabitəsi əmələ gətirə bilən həlledicidə (su, spirt 
+və s.) həll olunubsa, onda karbonil qrupunun oksigeninin rabitə 
+ 15 
+əmələ gətirməyən elektronları həlledici ilə hidrogen rabitəsi əmələ 
+gətirir. 
+Əmələ gəlmiş hidrogen rabitəsi karbonil qrupundakı oksigen 
+atomunun hidrogen rabitəsi əmələ gətirən elektronlarının 
+enerjisini aşağı salır. Karbonil qrupundakı oksigen atomunun 
+rabitə əmələ gətirməyən elektronları enerji udaraq π* orbitalına 
+keçdikdə hidrogen rabitəsi qırılır. Bu da o deməkdir ki, belə 
+elektronun həyəcanlanmasına hidrogen rabitəsi olmayan haldan 
+daha çox enerji lazım gəlir. Məsələn, bu tip üzvi birləşmələrin 
+nümayəndəsi olan asetonun n→π* keçidinin udma zolağının 
+maksimumunun həlledicinin təbitətindən asılılığını göstərmək 
+olar: 
+λmax = 279 (heptan); 277 (xloroform); 272 (etanol); 265 (su) nm 
+ 
+ 
+2.4. Xromoforlar 
+ 
+Udma maksimumu λ və ekstinksiyanın molyar əmsalı (ε) 
+xarakterik kəmiyyətlərlə udmaya məsul olan sadə qrupa xromofor 
+deyilir. Birləşməyə yaxın ultrabənövşəyi və ya görünən sahədə 
+seçici udma qabiliyyəti verən atom qruplaşması xromofor adlanır. 
+Üzvi birləşmələrdə ən çox rast gəlinən xromofor qruplar cədvəl 2-
+də göstərilmişdir. 
+Adətən belə fərz edirlər ki, əgər molekulların tərkibində eyni 
+xromofor varsa, belə maddələrin oxşar spektrləri olmalıdır. Əgər 
+molekulda iki xromofor arasında bir tək rabitə deyil, iki və ya üç 
+tək rabitə yerləşirsə, onda spektr fərdi xromoforların cəmi kimi 
+çıxmalıdır. Əgər iki xromofor, ancaq bir tək qat rabitə ilə ay-
+rılırsa, onda spektr iki fərdi xromoforların cəmi kimi çıxmır. Bu 
+vaxt iki sadə xromofor yeni spektral parametrli daha böyük xro-
+mofor əmələ gətirirlər. 
+Bəzi funksional qruplar özləri yaxın ultrabənövşəyi sahədə 
+ 16 
+udmamalarına baxmayaraq, onlarla qoşulmuş xromoforların 
+vəziyyətinə təsir göstərə bilir. Belə qruplar auksoxrom adlanaraq 
+xromoforlara xas olan udma maksimumunu daha uzun dalğalı 
+tərəfə sürüşdürərək, ekstinksiyanın molyar əmsalının qiymətini 
+artırır. Auksoxromların nümayəndələri SH, OH, NH2 və s., yəni 
+sərbəst elektron cütü olan heteroatom saxlayan qruplardır. 
+Cədvəl 2. Ultrabənövşəyi xromoforlar 
+ 
+Adı Quruluşu λmax, nm ε 
+Etilen C C  187 10000 
+Asetilen C C  175 5000 
+Allen C C C  185 10000 
+Sian NC  340 100 
+Nitro NO2  210; 280 15000; 20
+Fenil C6H5  208; 265 3000; 150
+Karbonil C O  280 20 
+Azometin C N  190 5000 
+Karboksil COOH  205 50 
+Disulfid SS  215 400 
+Yod I  260 400 
+Azo –N=N– ~160  
+Nitrozo C N  300 100 
+Sulfo OSO2 210 1500 
+Nitrit –N=O 219 1100 
+ 
+R.Vudvord qaydasına əsasən əvəzolunmuş dienlərin π→π* 
+keçidlərinin udma zolaqlarının vəziyyətini öncədən demək olar. 
+Dalğa uzunluğunu hesablamaq üçün əsas kimi udma zolağının 
+dalğa uzunluğu götürülür və bu qiymətə əvəzedicinin 
+inkrementlərinin qiyməti əlavə edilir (cədvəl 3). 
+Çoxlu qoşulmuş ikiqat rabitəli molekullarda udma maksimumu 
+ 17 
+hər bir ikiqat –C=C– rabitəsi hesabına ~30 nm uzun dalğalı sahəyə 
+sürüşür. Əgər etilen üçün udma maksimumu 187 nm-sə butadien-1,3 
+üçün 217 nm-dir. H–(C=C)n–H tipli qoşulmuş polietilenlərin udma 
+maksimumları 4-cü cədvəldə verilmişdir. 
+Molekulda ikiqat rabitələrin qoşulması udma zolağını uzun 
+dalğalı tərəfə sürüşdürməklə bərabər, onların intensivliyini də 
+artırır (şəkil 5). 
+ 18 
+Cədvəl 3. Qoşulmuş dienlərin udmasını hesablamaq üçün inkrementlər 
+ 
+Qrup İnkrement, nm 
+Əvəz olunmamış heteroankulyar dien 214 
+Əvəz olunmamış homoankulyar dien 253 
+ 
+Əvəzedicilər: 
+Əlavə qoşulmuş ikiqat rabitə 30 
+İkiqat rabitə yanında alkil qrup 5 
+Ekzotsiklik ikiqat rabitə 5 
+–N(Alk)2 60 
+–S–Alk 30 
+–O–Alk 6 
+–Cl 5 
+–Br 5 
+ 
+Cədvəl 4. H-(C=C)n-H tipli polienlərin udma maksimumları 
+ 
+n 1 2 3 4 5 6 7 8 9 
+nm,tanizookmaxλ  187 217 268 304 335 365 390 410 446
+ 
+ 
+Şəkil 5. CH3–(CH=CH)n–COOH tipli birləşmələrdə qoşulmuş 
+rabitələrin zəncirinin artması zamanı uzun dalğalı zolağın sürüşməsi 
+və intensivliyinin artması. 
+ 19 
+ 
+2.5. Bəzi üzvi birləşmələrin ultrabənövşəyi 
+spektrlərinin xüsusiyyətləri 
+ 
+Əgər ultrabənövşəyi spektrdə udma maksimumu ~200 nm-
+dən yuxarıda alınmırsa, bu birləşmənin tərkibində qoşulmuş 
+xromofor (–C=C–C=C–), aldehid qrupu C
+O
+H
+, keton qrupu 
+     
+C
+O
+, benzol halqası (C6H5–), brom (Br–) və yod (J–) 
+olmadığını göstərir. Belə birləşmənin tərkibində flüor (F–), xlor 
+(Cl–), izolə edilmiş ikiqat rabitə (–C=C–), karboksil qrupu 
+C
+O
+OH
+, sian qrupu NC , hidroksil qrupu (HO–), tiol 
+qrupu (HS–), amin qrupu (H2N–) və s. qruplar ola bilər. 
+Alkanlar və tsikloalkanlar. Tərkibində təkqat C–C rabitəsi 
+olan doymuş karbohidrogenlərdə σ→σ* keçidləri mümkündür. Bu 
+keçidlərə uyğun olan udma zolaqları vakuum ultrabənövşəyi 
+sahədə müşahidə olunurlar. Məsələn: metan – 125 nm, etan – 135 
+nm və oktan – 170 nm. 
+Tsiklobutan, tsiklopentan və tsikloheksan 175 nm qədər 
+«şəffaf»dırlar, tsiklopropan isə 190 nm-də udur, bu da üçüzvlü 
+tsiklin bir qədər doymamışlığı ilə izah edilir. 
+Vakuum ultrabənövşəyi sahədə işlədikdə təcrübi çətinliklərə 
+görə doymuş karbohidrogenlərin analizi üçün UB-spektrosko-
+piyasından istifadə edilmir. Doymuş karbohidrogenlərdən başqa 
+birləşmələrin UB-spektrlərini çəkdikdə «şəffaf», həlledicilər kimi 
+istifadə edirlər. 
+Alkenlər. Doymamış karbohidrogenlər tərkiblərində bir C=C 
+ikiqat rabitə saxlayırlar və onun da əmələ gəlməsində qonşu karbon 
+ 20 
+atomlarının +π-elektronları iştirak edir. Bu atomlar sp2-hibridləş-
+mədədirlər və həyəcanlanmamış halda C C
+R
+R
+R
+R
+ fraqmenti 
+müstəvi quruluşdadır. Alkenlərin ultrabənövşəyi spektrləri əsasən bu 
+π-elektronların xassələri ilə xarakterizə olunurlar və onların 
+həyəcanlanması üçün σ-elektronların həyəcanlanmasından daha az 
+enerji lazımdır (π→π* keçidi). Etilen sırası karbohidrogenlər 
+ultrabənövşəyi şüaları 180-200 nm sahəsində udurlar. 
+Alkil əvəz olunmuş etilenlər 172-195 nm sahəsində geniş 
+intensiv (10000) udma zolaqlarına malikdirlər və bu zolaqların 
+vəziyyəti ikiqat rabitə ətrafında alkil qruplarının miqdarından və 
+yerləşməsindən (sis, trans) asılıdır (cədvəl 5). 
+Doymamış tsiklik birləşmələrin spektrləri alkenlərin 
+spektrləri ilə oxşardır və udma zolağının vəziyyəti əvəzedicilərin 
+sayından asılıdır. 
+ 
+Cədvəl 5. Etilen sırası karbohidrogenlərin udma 
+maksimumlarının vəziyyəti 
+ 
+Birləşmə λmak, nm 
+Etilen 162 
+Propilen 173 
+1-buten 175 
+1-penten 177 
+1-heksen 179 
+1-okten 177 
+Tsiklopropen 185 
+Tsikloheksen 182 
+sis-2-buten 175 
+trans-2-buten 177 
+sis-2-penten 177 
+trans-2-penten 181 
+2-metil-1-propen 188 
+2-metil-1-buten 188 
+2-etil-1-buten 187 
+ 21 
+2-metil-1-penten 189 
+3-alkiltsiklopropen 195 
+Cədvəldən göründüyü kimi spektrlərin çəkilişi çətin olduğu 
+üçün qoşulmuş polienlərdən başqa alkenlərin quruluşunun təyini 
+üçün UB-spektroskopiyadan istifadə edilmir. 
+Butadien-1,3-ün az enerjili uzun dalğalı zolağı 217 nm-də 
+yerləşir. Bu elektronun π2-səviyyədən π*-səviyyəsinə aşağıdakı 
+sxemdə göstərildiyi kimi keçidi ilə izah edilir. 
+ 
+  ___________ π*4 
+ ___________ π* 
+  ___________ π*3 
+___________ 
+          P    ___________ π*2 
+  ___________ π 
+             Etilen ___________ π*1 
+     Butadien-1,3 
+     
+Digər tərəfdən isə etilen 185 nm-dən aşağıda udur. 
+Spektrlərdə olan bir fərqin səbəbi sxemdə aydın ifadə olunur. 
+Sxemdə izolə edilmiş p-orbitalın, etilen və butadien-1,3 
+molekulyar orbitallarının energetik səviyyələri verilmişdir. p-
+Orbitalın səviyyəsindən aşağı yerləşən molekulyar orbitallar 
+etilen, butadien-1,3 üçün isə rabitə əmələ gətirən orbitallardır. 
+Gördüyümüz kimi butadien-1,3-də olan qoşulma – yuxarı 
+dolmuş molekulyar orbital (YDMO) və – aşağı boş molekulyar 
+orbital (ABMO) arasındakı məsafəni azaldır və beləliklə, həyə-
+canlanma üçün lazım olan enerji azalır. Enerjinin bu azalması 
+qoşulma artdıqca davam edir. Çox qoşulmuş molekullarda 
+YDMO və ABMO arasındakı enerji fərqi o qədər azalır ki, bu 
+molekullar şüanı spektriin görünən sahəsində udurlar. Başqa 
+sözlə, çox qoşulmuş molekullar çox vaxt rəngli olurlar. Buna 
+ 22 
+nümunə olaraq karotini misal göstərmək olar. Tərkibində on bir –
+CH=CH– qrupu olan karotin şüanı 511 nm-də udur və sarı rəngə 
+boyanır. 
+Alkinlər. Doymuş və etilen sırası karbohidrogenlərdə olduğu 
+kimi alkinlərdə də ultrabənövşəyi şüaları çətin əldə olan 200 nm-
+dən aşağı diapazonda udurlar. İzoləedilmiş karbon-karbon üçqat 
+rabitəsi üçün bu udma π→π*keçidinin nəticəsidir. Buxar halında 
+olan asetilen 173 nm-də udma zolağına malikdir. 
+Asetilenə alkil əvəzləyicilərini daxil etidəkdə uzun dalğalı 
+sahəyə sürüşmə müşahidə edilir. Alkilasetilenlər λmak=187 nm, 
+dialkilasetilenlər 190 nm-də olan udma zolağı ilə xarakterizə 
+edilirlər. 
+Tərkibində üçqat rabitələr saxlayan birləşmələrin – 
+polienlərin spektrləri çox maraqlıdır. Bu birləşmələrin fərqli 
+cəhəti ondan ibarətdir ki, onlar əsas halda xətti quruluşa 
+malikdirlər və sp-hibridləşmədə olan karbon atomlarından 
+ibarətdirlər. Bu sıranın ən sadə nümayəndəsi diasetilendir və onun 
+udma zolağı 235 nm (ε=400) müşahidə edilir. Qoşulma artdıqca 
+udma zolaqlarının intensivliyi artır. Altı qoşulmuş üçqat rabitə 
+saxlayan molekulda   ε= 500000. Zolaqların intensivliyi həm də 
+əvəzləyicilərdən asılıdır, ancaq qoşulmuş sistemin uzunluğu 
+artdıqca əvəzləyicilərin təsiri azalır. 
+Arenlər. Aromatik birləşmələr ultrabənövşəyi sahədə bir 
+neçə udma zolağı olan mürəkkəb spektrlər verirlər. Benzol və 
+alkilbenzollar üçün uyğun olaraq 200 nm və 250 nm-də maraq 
+kəsb edən udma zolaqları mövcuddur. 
+200 nm-də yerləşən udma zolağı xeyli intensivdir. ε<7000 və 
+qoşulmuş π– elektronunun π* orbitalına həyəcanlanmasına π→π* 
+keçidi uyğundur. Benzol halqasında olan (I) quruluşa uyğun olan 
+bipolyar quruluşlar həyəcanlanmış hala öz təsirini göstərir. 
+ 
+ 23 
+(I)  
+Bu zolaq qoşulmuş dienlərin udma zolağına oxşardır. Fərqi 
+isə udulan şüaların dalğa uzunluğunun az olmasıdır. Bu zolaq 
+benzol halqasının hidrogenlərindən birini doymuş qrupla əvəz 
+etdikdə daha intensiv olur və spektrin uzundalğalı hissəsinə 
+sürüşür (cədvəl 6). Bu zaman şüanı udan xromoforun tərkibində 
+halqanın elektronları ilə bərabər doymamış əvəzləyicinin 
+elektronları da iştirak edir. 
+Stirol molekulunda həyəcanlanmış hal (hibrid quruluşlar – 
+IIa, IIb və onlara oxşar bipolyar quruluşlar) hibrid quruluşdan 
+ibarət olur: 
+ 
+C
+CH2H
+C
+CH2H
+(IIa)
+C
+CH2H
+(IIb)  
+ 
+ 
+Cədvəl 6. Benzol xromoforunun spektrinə qoşulmuş qrupların təsiri 
+ 
+Adı Quruluşu λmak, nm ε 
+Benzol C6 H6 198 8000 
+Stirol C6H5–CH=CH2 244 12000 
+Benzaldehid C6H5–CH=O 244 15000 
+Bifenil C6H5–C6H5 250 18000 
+ 24 
+Stilben C6H5–CH=CH–C6H5 295 27000 
+ 
+ 
+Benzol halqasında tərkibində sərbəst elektron cütü olan 
+əvəzləyicilər ( NH2,   OH,   Cl ) olduqda ultrabənövşəyi 
+spektrlərdə oxşar effektlər nəzərə çarpır (cədvəl 7). Sərbəst 
+elektron cütləri delokallaşaraq aromatik π-elektronlar sisteminin 
+bir hissəsinə çevrilir. Əsas və həyəcanlanmış hallar üçün bu daha 
+qabarıq şəkildə nəzərə çarpır. Anilin üçün bunu hibrid quruluşa 
+təsir göstərən aşağıda verilmiş rezonans quruluşlarla izah etmək 
+olar: 
+ 
+NH2 NH2 NH2 NH2
+ 
+ 
+Cədvəl 7. Sərbəst elektron cütü olan əvəzedicilərin 
+benzol xromoforuna təsiri 
+ 
+Adı Quruluşu λmak,, nm ε 
+Benzol C6H6 198 8000 
+Fenol C6H5OH 210 6200 
+Fenolyat ionu C6H5O– 235 9400 
+Yodbenzol C6H5I 226 13000 
+Anilin C6H5NH2 230 8000 
+ 
+Yuxarıda qeyd olunduğu kimi, ultrabənövşəyi spektrlərin 
+uzundalğalı hissəsində benzolun ikinci udma zolağı müşahidə 
+olunur. Bu zolağın intensivliyi azdır, ancaq yüksək seçmə 
+qabiliyyətli spektrometrlərdə bu zolağın özü bir sıra nazik piklərə 
+parçalanır. Çox vaxt bu zolağı «benzol zolağı» adlandırırlar (şəkil 
+ 25 
+6). Zolağın yeri və intensivliyi nüvədə olan əvəzedicilərin 
+təbiətindən asılıdır (cədvəl 7). 
+Bu udma zolağı benzol halqasındakı az enerjili π→π* 
+keçidinə aid edilir. Bu udmanın intensivliyi azdır. Ona görə ki, 
+keçid halı olan π*-halı benzol ilə eyni elektron 
+simmetriyasındadır. Məlum olduğu kimi simmetrik quruluşlar 
+arasında keçidlər qadağan edilir. Bu halda isə keçid ona görə 
+mümkündür ki, benzol halqasının rəqsləri az da olsa 
+simmetriyanın pozulmasına gətirib çıxarır. 
+ 
+Şəkil 6. Benzolun heptanda udma spektri. 
+ 
+Cədvəl 8. Əvəzedicilərin «benzol zolağına» təsiri 
+ 
+Adı Quruluşu λmak,, nm ε 
+Benzol C6H6 255 230 
+Toluol C6H5–CH3 261 300 
+Stirol C6H5–CH=CH2 282 450 
+Yodbenzol C6H5I 256 800 
+Anilin C6H5NH2 280 1430 
+Fenol C6H5OH 270 1450 
+ 26 
+Fenolyat ionu C6H5O– 287 2600 
+ 
+Naftalinə və antrasenə bənzər çoxnüvəli aromatik 
+birləşmələrin spektrləri benzolun spektri ilə oxşardır, ancaq 
+onlarda udma zolaqları daha uzundalğalı sahələrə tərəf sürüşür. 
+Halogenli törəmələr. Alkilhalogenidlərin (alkilflüoridlər 
+istisna olmaqla) ultrabənövşəyi spektrlərində çox zəif (ε<300) 
+udma zolaqları (n→σ* keçidi) müşahidə olunur. Alkilflüoridlərdə 
+flüorun bölünməmiş elektron cütlərinin orbitallarının energetik 
+səviyyələri C–F rabitə əmələ gətirən orbitallarından aşağıda 
+yerləşdiyindən flüoridlərin uzundalğalı zolaqları σ→σ* aid edilir. 
+Daha ağır halogenlərə keçdikdə udma daha uzundalğalı tərəfə 
+F<Cl<Br<J sırada sürüşür. Xlorlu birləşmələrinin udma zolaqları 
+172 nm-də, bromlu birləşmələrin zolaqları 204 nm-də, yodlu 
+birləşmələrin udma zolaqları isə 257 nm-də çıxırlar. Bromlu və 
+yodlu birləşmələrin udma zolaqları birli törəmələrdən ikili və üçlü 
+törəmələrə keçdikdə uzundalğalı səmtə sürüşürlər. 
+Alkenilhalogenidlərin spektrlərində halogen atomunun 
+olması özünü iki cür göstərir. Birincisi π→π* keçidinin udma 
+zolağı əvəzedicinin induktiv və rezonans effektlərinin hesabına 
+sürüşür. İkincisi 144-148 nm intervalında zolaq müşahidə edilir, 
+bu da xlorun bölunməmiş elektron cütünün dağıdıcı orbitallara 
+(n→σ*) keçidi ilə bağlıdır. 
+Spirtlər və fenollar. Doymuş alifatik spirtlər alkil 
+radikallarını və oksigen atomunu xarakterizə edən zolaqlara 
+malikdirlər. Belə ki, bu sıra birləşmələrin spektrlərində alkil 
+qruplarının σ→σ* keçidlərinə aid edilən 80 nm-də udma zolaqları 
+vardır. 
+Daha uzundalğalı sahədə (~200 nm) (n→σ* keçidi) geniş 
+udma zolağı müşahidə edilir. Bu zolağın vəziyyəti və intensivliyi 
+birləşmələrin məhlulda qatılıqlarından asılıdır. 
+Fenolların ultrabənövşəyi spektrlərində 250 nm-də incə 
+ 27 
+quruluşsuz adi benzol üçün udma zolağı müşahidə olunur. 
+Sadə efirlər. Sadə efirlərin ultrabənövşəyi sahədə udması 
+çətin əldə olunan qısadalğalı hissəsində olduğundan onları 
+spektroskopiyanın bu növü ilə müəyyənləşdirmək olmur. 
+Məsələn, dimetil efirinin və tetrahidrofuranın n→σ* keçidləri 
+müvafiq olaraq 184 nm və 190 nm müşahidə edilir. 
+Aldehid və ketonlar. Tərkibində karbonil qrupu saxlayan 
+birləşmələr də ultrabənövşəyi sahədə 150-170 və 170-200 nm iki 
+intensiv (ε~10000) və 270-300 nm intervalında udma zolaqları 
+müşahidə etdilir. Əksər hallarda axırıncı udma çox zəif (ε~15) olur. 
+Bu udma oksigen atomunun sərbəst elektronlarının karbonil 
+qrupunun π-orbitalına təsiri ilə bağlıdır (π→π* keçidi). 9-cu cədvəldə 
+bəzi aldehid və ketonların udma maksimumları verilmişdir (şəkil 7). 
+Cədvəl 9. Bəzi aldehid və ketonların udma maksimumları 
+ 
+Birləşmə λmak,, nm ε 
+Formaldehid 310 5 
+Asetaldehid 292 12 
+Aseton 279 14 
+Metiletilketon 277 15 
+Dietilketon 275 20 
+Siklobutanon 282 20 
+Sikloheptanon 292 17 
+Akrolein 328 20 
+Kroton aldehidi 320 19 
+Mezitil oksid 313 60 
+Benzaldehid 328 48 
+Asetofenon 319 85 
+Benzofenon 330 300 
+ 
+ 28 
+ 
+Şəkil 7. Karbonilli birləşmələrin udma spektrləri: 1 – HCHO spirtdə; 
+2 – CH3COCH3 heksanda; 3 – CH3COOH heksanda; 4 – CH3COCl 
+heksanda. 
+α,β-Doymamış aldehid və ketonların spektrləri π→π* 
+keçidinin 220-260 nm sahədə intensiv (ε~10000) və n→π* 
+keçidinin 320 nm (ε~100) udma zolaqları ilə xarakterizə 
+olunurlar. Tsiklopentenonlar daha qısa dalğa uzunluqlarında 
+udurlar. 
+α,β-Doymamış birləşmələrin spektrləri həllediciyə və 
+molekula əvəzedicinin daxil olmasına çox həssasdırlar. İki 
+karbonil qrupu qoşulduqda bölünməmiş elektron cütlərinin 
+qarşılıqlı təsirindən şəkil daha da qəlizləşir. Qlioksal molekulu 
+450 nm (ε~5) və 268 nm (ε~6) iki udma zolağı ilə xarakterizə 
+olunurlar. Diasetildə udma zolaqları isə müvafiq olaraq 
+qısadalğalı və uzundalğalı tərəfə sürüşərək 417 nm (ε~10) və 
+268 nm (ε~25) müşahidə edilirlər. 
+Karbon turşuları və onların törəmələri. Yağ turşuları 
+ 29 
+etanol məhlullarında 205-210 nm sahəsində zəif udma 
+maksimumları (ε~50) verirlər. Daha intensiv zolaqlar 173-185 nm 
+intervalında və 165 nm aşağıda müşahidə edilir. 
+Əgər mürəkkəb efirin spirt hissəsi ikiqat rabitə saxlamırsa, onda 
+onların spektrləri müvafiq turşuların spektrlərindən az fərqlənir. Belə 
+ki, etilasetatın 204 nm (ε~60) udma zolağı var. α,β-Doymamış efirlər 
+spektrin 200-220 nm sahəsində alkil əvəzedicilərin olmasından və 
+vəziyyətindən asılı olan intensiv udma zolağı verirlər. 
+Anhidridlər və xloranhidridlər müvafiq turşulardan daha 
+uzundalğalı sahədə udurlar. Belə ki, asetilxloridin udma zolağı 
+235 nm (ε~53) müşahidə edilir (bax: şəkil 7). 
+Turşu və onların törəmələrinin spektrlərini aldehid və ketonların 
+spektrlərindən fərqləndirən effektlər bölünməmiş elektron cütü 
+saxlayan əvəzedicilərin karbonil xromoforuna təsiri ilə izah edilir. 
+Azotüzvi birləşmələr. Azotüzvi birləşmələrin ən sadə nü-
+mayəndələri ammonyakın alkil törəmələri olan aminlərdir. 
+Aminlərdə azot atomu bir sərbəst elektron cütünə malikdir və 
+buna görə də onların spektrlərində σ→σ* və n→π* keçidlərini 
+gözləmək olar. 
+Ammonyakın otaq temperaturunda spektrində 140-169 nm və 
+170-217 nm sahəsində udma zolaqları müşahidə olunur. 
+Ammonyakın alkil törəmələrində n→π* keçidinə aid edilən iki 
+udma zolağı müşahidə edilməlidir. Alkil əvəzedicilərin miqdarı 
+artdıqca udma zolaqları daha uzun dalğalı sahəyə sürüşür (cədvəl 
+10). 
+ 
+Cədvəl 10. Azottərkibli birləşmələrin udma zolaqları 
+ 
+Birləşmə Həlledici λmak,, nm ε 
+Ammonyak Buxar 152 Güclü 
+  194 5600 
+Metilamin Buxar 173 2200 
+  215 600 
+ 30 
+Dimetilamin Buxar 190 3300 
+  220 100 
+Trimetilamin Buxar 199 39500
+  227 900 
+Trietilamin Buxar 212 6100 
+(CH)3CCH=N–C4H9 Heksan 244 85 
+ Etanol 235 107 
+(CH)3CH=N–C3H7  170 8000 
+[CH3CH=N–]2 Etanol 208 10000
+(CH3)2C=N–NH–C4H9 Heksan 230 1400 
+CH–N=N–C(CH3)2 Heksan 360 15 
+Diazometan Etanol 340 4,5 
+ 
+Doymamış azot üzvi birləşmələrin spektrlərində n- və σ- 
+elektronlarla bərabər π-elektronlarında zolaqları mövcuddur. 
+Amin qrupu auksoxromdur. Amin qrupunun batoxrom effekti 
+xromoforun təbiətindən asılı olaraq, polyarlaşma və elektron 
+hərəkətliliyi artdıqca çoxalır: 
+ 
+OCCCNRCCNRPhNR 22 =−=−=−−
+λ<λ<λ  
+ 
+Amin qrupunun izolə edilmiş və ya C=C, C=O, –COOH qrup-
+larla qoşulmuş etilen qrupu ilə birləşməsi batoxrom λ≈43-95 nm 
+və hiperxrom (intensivliyin artması) ε≈ 2000-20000 effektlərinə 
+gətirib çıxarır. 
+–C=C qrupu saxlayan enaminlərdə udma zolaqları 220-235 
+nm (ε= 3500÷9960) intervalında yerləşirlər. 
+Azot atomunun iştirakı ilə ikiqat rabitə saxlayan molekulların 
+spektrlərində n→π* və π→π* keçidlərinə uyğun olan zolaqlar 
+mövcuddur. Qoşulmamış azometinlərin udma zolaqları 230-250 
+nm (ε~100) sahədə yerləşir və heksan məhlulundan spirt 
+məhluluna keçdikdə qısa dalğalı sahəyə sürüşürlər. N=C–C=C və 
+N=C–C=N sistemlərində 220 nm sahəsində intensiv (ε≈20000) 
+zolaq C=N–N=C sistemlərində isə bu zolaq 210 nm yerləşir. Belə 
+ 31 
+sistemlərdə n→π* keçidinin udma zolağı müəyyən edilmir. Bunu 
+da π→π* intensiv zolağı vasitəsilə örtülməsi ilə izah etmək olar. 
+Tərkibində NO2-qrupu olan birləşmələrin: nitroparafinlərin 
+(R–NO2), alkilnitratların (R–O–NO2) və nitroaminlərin (R2N-
+NO2) spektrlərində n→π* keçidinin az intensiv (ε<100) udma 
+zolağı 270-280 nm sahədə müşahidə olunur. Nitrat turşusunun 
+efirləri üçün O–NO2 qrupunun udma zolağı nitrobirləşmələrdən 
+daha qısa dalğalı hissədə baş verir. Nitroaminlərin spektrində 
+n→π* keçidinin udma zolağı daha intensivdir. Məsələn, 
+nitrodimetilaminin dioksan məhlulunda λmak=240 nm (ε≈ 6300). 
+Tərkibində nitrozoqrupu olan birləşmələrin spektrlərində 
+n→π* keçidinin udma zolaqları müşahidə olunur. Ən uzun dalğalı 
+udma zolağı (~670 nm) C-nitrozobirləşmələr üçün müşahidə 
+edilir. N- və O-nitrozobirləşmələrin udma zolaqları ilə qısadalğalı 
+sahəyə (~300 nm) sürüşür. 
+Azobirləşmələr (–N=N–) görünən sahədə və ya 
+ultrabənövşəyi sahənin sərhədində (λmak ~ 350-360 nm, 210-20 
+nm) azoqrupun n→π* keçidlərini xarakterizə edən az intensiv 
+udma zolaqları verirlər. 
+Alifatik azidlərin azid qrupunun n→π* keçidləri 285 nm-də 
+(ε~20) müşahidə edilir. 
+Kükürdüzvi birləşmələr. Kükürd atomunun elektronları 
+oksigen atomunun elektronları ilə müqayisədə nüvə ilə daha zəif 
+bağlıdır. Buna görə də kükürd üzvlü birləşmələrdə n→σ* keçidlər 
+daha uzundalğalı sahədə yerləşirlər. Məsələn, tiollarda bu zolaq 
+228-232 nm (ε≈170) sahəsində yerləşir. 
+Dialkil sulfidlərin spektrlərində 210 nm (ε≈100) sahədə udma 
+zolağı və 230 nm-də (ε≈200) «çiyin» (pleço) müşahidə edilir. 
+Tsiklik sulfidlərin spektrlərində uzundalğalı zolağın vəziyyəti 
+polimetilen halqasının ölçüsündən asılıdır: trimetilensulfid – 275 
+nm, tetrametilensulfid – 240 nm və ancaq pentametilensulfiddə 
+alifatik sulfidlərdə olduğu kimi 229 nm-ə çatır. Qısadalğalı zolaq 
+ 32 
+isə öz vəziyyətini saxlayır. 
+Alifatik disulfidlər 250 nm dalğa uzunluqlarında (ε~500) UB 
+şüaları udurlar. Tsiklik disulfidlərdə halqanın ölçüləri azaldıqca bu 
+zolağın uzundalğalı tərəfə sürüşməsi müşahidə edilir. (CH2)nS2 
+formullu birləşmələrdə n, 3, 4 və 5 bərabər olduqda udma zolağının 
+maksimumunun dalğa uzunluğu müvafiq olaraq 334 nm, 300 nm 
+və 250 nm təşkil edir. Zolağın uzundalğalı tərəfə sürüşməsi onun 
+intensivliyinin azalması (ε160, 300 və 500) ilə gedir. 
+Altıüzvlü kükürd saxlayan tsikllərin spektrləri dialkil 
+sulfidlərin spektrləri ilə oxşardır. 1,3-Ditianlarda kükürd atomları 
+arasında yükün daşınması hesabına 250 nm-də əlavə zolaq ortaya 
+çıxır. 1,4-Ditianlarda bu zolaq yoxa çıxır. 
+Dimetiltrisulfid və trimetiltetrasulfid spektrlərində udma 
+zolağı müvafiq olaraq 290 və 300 nm-də çıxır. 
+Əgər sulfidlərdə əvəzedici kükürd atomuna görə β,γ-və-
+ziyyətdə ikiqat rabitə saxlayırsa, onda sulfidlərin 210 nm-də olan 
+udma zolağı 220 nm-ə qədər sürüşür. α,β-Doymamış sulfidlərdə 
+intensiv udma 255 nm-də (ε~5000) müşahidə edilir. 
+Alifatik sulfonlar orta və yaxın ultrabənövşəyi sahədə 
+udmurlar. Bu da kükürd atomunda müsbət yük daşıyan 
+bölünməmiş elektron cütlərinin olmaması ilə izah edilir. α,β-
+Doymamış sulfonlarda qoşulma effektinə xas olan effektlər 
+müşahidə edilir. Məsələn, etilvinilsulfonun 210 nm udma zolağı 
+var. Fenilmetilsulfonda benzol udmasının zolağı əvəz olunmamış 
+benzola görə zolağı bir qədər uzundalğalı tərəfə sürüşür, 
+uzundalğalı zolağın intensivliyi bir neçə dəfə artır. 
+Sulfoksidlər üçün 210 nm orta intensivlikli (ε~1500) geniş 
+udma zolağı müşahidə edilir. Bu zolağı n→π* keçidinə aid edirlər. 
+Belə ki, proton saxlayan həlledicilərdə o, qısadalğalı tərəfə 
+sürüşür. 
+Heterotsiklik birləşmələr. Bölünməmiş bir elektron cütlü 
+bir və bir neçə heteroatom daşıyan doymuş heterotsiklik 
+ 33 
+birləşmələr UB-spektrdə n→σ* keçidinə uyğun olan udma 
+zolaqları verirlər. Tərkibində oksigen və azot saxlayan 
+birləşmələrin udma zolaqları vakuum ultrabənövşəyi sahədə və ya 
+spektrin ultrabənövşəyi sərhədində yerləşirlər. Tərkibində kükürd 
+saxlayan birləşmələrin müvafiq udma zolaqları ultrabənövşəyi 
+sərhədindədir. 
+Beşüzvlü doymamış heterotsiklik birləşmələr. UB-spektrdə 
+bu birləşmələr iki udma zolağına malikdirlər: intensiv qısa dalğalı 
+zolaq (200-210 nm) və spektrin daha uzun dalğalı sahəsində az 
+intensiv zolaq (cədvəl 11). 
+ 
+Cədvəl 11. Doymamış beşüzvlü heterotsiklik birləşmələrin udması 
+ 
+Birləşmə λmak,, nm ε λmak,, nm ε Həlledici 
+Furan 200 10000 252 1 Heksan 
+Tiofen - - 235 4500 Heksan 
+Pirrol 210 15000 350 300 Heksan 
+İmidazol 210 5000 250 60 Spirt 
+Pirazol 210 5000 250 60 Spirt 
+1,2,3-Triazol 210 3980 - - Spirt 
+Tiazol - - 240 4000 Spirt 
+ 
+Furan və pirrol üçün polyar həlledicilərdə uzundalğalı zolağın 
+rəqsi quruluşu müşahidə edilir. Bölünməmiş elektronlu atomlar və 
+ya ikiqat rabitə saxlayan əvəzedicilərin olması intensiv udma 
+zolağını batoxrom sürüşdürür və o, az intensiv zolağı örtə bilər. 
+Altıüzvlü aromatik heterotsiklik birləşmələr. Bu 
+birləşmələrin spektrləri müvafiq karbohidrogenlərin 
+spektrlərindən onunla fərqlənirlər ki, heterotsiklik birləşmələrin 
+spektrlərində uzundalğalı zolağın intensivliyinin artması və rəqsi 
+quruluşunun yoxa çıxması müşahidə edilir (cədvəl 12). 
+ 
+Cədvəl 12. Aromatik monazatsiklik birləşmələrin udması 
+ 
+ 34 
+Birləşmə λmak,, nm ε λmak,, nm ε Həlledici 
+Piridin 195 7500 250 2000 heksan 
+Xinolin 275 4500 311 6300 heksan 
+Akridin 252 170000 347 8000 spirt 
+ 
+Aromatik halqada CH= qrupunun N= əvəzlənməsi n→π* 
+keçidinin əmələ gəlməsi ilə nəticələnir. Piridin məhlullarının 
+spektrlərində bu zolaq müşahidə olunmur, ancaq buxarlarının 
+spektrlərində «çiyin» şəklində özünü biruzə verir. Tsikldə azot 
+atomlarının sayı artıqca n→π* zolaq uzundalğalı tərəfə sürüşür və 
+diazatsiklik birləşmələr üçün o, aydın müşahidə edilir, simmetrik 
+tetrazində isə görünən sahədə müşahidə edilir. 
+ 
+ 35 
+III FƏSİL 
+ 
+İNFRAQIRMIZI SPEKTROSKOPİYA 
+ 
+ 
+İnfraqırmızı (İQ) spektroskopiya üsulu üzvi birləşmələrin 
+tədqiqinin ən vacib müasir fiziki üsullarından biridir. UB-spektr-
+lərdən fərqli olaraq əksər üzvi birləşmələrin İQ spektrlərində bütün 
+funksional qrupların rəqslərinə cavab verən udma zolaqları 
+müşahidə edilir. 
+Spektrin infraqırmızı sahəsi 4000-625 sm–1 (spektrin İQ 
+sahəsində tezlikləri böyükdən kiçiyə tərəf göstərmək lazımdır, 
+yəni dalğa uzunluğunun artmasını) qədər uzanır. İnfraqırmızı sahə 
+ilə sərhəd olan sahələr yaxın ultrabənövşəyi (12500-4000 sm–1) və 
+uzaq ultrabənövşəyi (625-50 sm–1) adlanırlar («yaxın» və «uzaq» 
+sözləri görünən işığa yaxınlığı da xarakterizə edir). 
+ 
+ 
+3.1. Molekulların rəqsləri və spektrləri 
+ 
+İkiatomlu molekulun kimyəvi rabitəsini sadə halda elastik 
+yay şəklində təsəvvür etmək olar. Onda onun dartılması və sıxıl-
+ması molekulda atomların rəqslərinə bənzəyir. Harmonik ossil-
+yator üçün qaytaran qüvvə nüvələrin tarazlıq halından 
+sürüşməsinə mütənasib olaraq sürüşməməsinin əksinə yönəlir: 
+ 
+rKf ∆−=  
+ 
+mütənasiblik əmsalı K rabitənin güc sabiti adlanır və rabitənin 
+sərtliyini xarakterizə edir. 
+Klassik mexanikadan bəllidir ki, valent rəqsinin tezliyi güc 
+sabiti və atomların kütləsi (m1və m2) ilə aşağıdakı nisbətlə 
+ 36 
+bağlıdır: 
+µπ
+=ν
+K
+2
+1                                        (1) 
+ 
+burada µ – gətirilmiş kütlədir 
+ 
+21
+21
+mm
+mm
++
+=µ  
+ 
+Tək, iki və üçqat rabiətələrin güc sabitləri təqribən 
+bərabərdilər: müvafiq olaraq (4-6)⋅102, (8-12)⋅102, (12-18)⋅102 
+n/m, yəni güc sabitlərinin nisbəti 1:2:3 kimidir. Göründüyü kimi 
+rabitənin möhkəmliyi artdıqca və atom kütlələri azaldıqca 
+rəqslərin tezliyi çoxalır. 
+İkiatomlu molekulun rəqslərini harmonik hesab etsək, onda 
+molekulun özü harmonik assilyatora bənzəyir və rəqsin tam 
+enerjisinin qiyməti əsas kvant şərtini ödəyir: 
+ 
+0h2
+1E ν⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +υ=ν .                                  (2) 
+ 
+burada υ – rəqsi kvant ədədidir və 0, 1, 2, 3, 4 və s. qiymətlərini 
+alır, ν0 – (1) tənliyilə təyin edilən əsas rəqsin (əsas ton) tezliyidir. 
+(2) tənliyi bir-birindən eyni məsafədə yerləşən enerji 
+səviyyələri sisteminə cavab verir. Qeyd etmək lazımdır ki, υ=0 
+olduqda rəqsin tam erejisi sıfırdan fərqlidir ⎟
+⎠
+⎞
+⎜
+⎝
+⎛ ν= 00 h2
+1E . Yəni 
+molekulda nüvələrin rəqsləri heç zaman qurtarmırlar və hətta aşağı 
+rəqsi halda molekulun müyyən enerji ehtiyatı olur. Molekul hν işıq 
+kvantı udduqda yuxarı energitik səviyyələrinə keçəcək. Məlumdur 
+ 37 
+ki, udulan kvantın enerjisi iki halın enerji fərqinə bərabərdir: 
+ 
+ν+ν −=ν EEh 1 .                                    (3) 
+ 
+Öz növbəsində (2) tənliyinə görə iki energetik səviyyələrin 
+fərqi aşağıdakı kimidir 
+ 
+01 hEE ν=− ν+ν .                                  (4) 
+ 
+(3) və (4) tənliklərinin müqayisəsindən görünür ki, udulan 
+şüanın tezliyi (1) tənliyilə müəyyən edilən əsas rəqs tezliyinə 
+(dalğa ədədi) bərabərdir. Beləlikə, harmonik ossilyatorun spektri 
+ν0 tezliyində (ossilaytorun öz tezliyi) bir xəttdən və zolaqdan 
+ibarətdir. 
+İkiatomlu molekullardan fərqli olaraq çoxatomlu 
+molekulların rəqsləri daha mürəkkəbdir və molekulda atomların 
+sayı artdıqca rəqs növlərinin miqdarı artır. Çoxatomlu molekulun 
+tam rəqsi spektr tezlikləri və intensivlikləri molekulun mürəkkəb 
+rəqsi – fırlanma hərəkətinin xüsusiyyətlərini əks etdirən çoxlu 
+sayda olan xətlərdən və zolaqlardan ibarətdir. 
+Ümumi halda N sayda atomdan ibarət olan molekul müəyyən 
+sayda əsas rəqslərdən ibarətdir, qeyri-xətti molekul üçün (3N-6) 
+və xətti molekul üçün (3N-5) rəqslərdən ibarətdir. 
+Molekulda ayrı-ayrı atomların rəqsləri bir-biri ilə bağlıdır və 
+buna görə də mürəkkəb molekullu ossilyatorların dəsti kimi 
+təsəvvür etmək olar. Bir ossilyatora düşən enerji tez başqa 
+rabitələrə yenidən paylanır, bütün atomlar və rabitələr rəqsə 
+qoşulurlar. Ancaq nə qədər mürəkkəb rəqs olursa, olsun onları 
+müəyyən miqdar sadə və ya normal rəqslərə parçalamaq olar. 
+Molekulun bütün nüvələrinin eyni faza və tezlikli rəqsləri 
+molekulun normal rəqsləri adlanır. Normal rəqslərin sayı 
+ 38 
+molekulda bütün tip rəqslərin sayı ilə üst-üstə düşür. Spektrlərdə, 
+ancaq əsas normal rəqslərin və onların obertonlarının tezlikləri 
+özlərini biruzə verir. 
+Bildiyimiz kimi təcrübi olaraq normal rəqslərin tezliyini təyin 
+edirlər. Əgər normal rəqs zamanı hər hansı bir rabitənin rəqsi 
+amplitudası qalanlarından çoxdursa, onda normal rəqsin tezliyini 
+müəyyən rabitənin rəqslərinə aid etmək olar. Belə halda normal 
+rəqsi rabitənin səciyyəvi rəqsi adlandırırlar (cədvəl 13). Təbiidir 
+ki, udma zolaqlarının sayı əsas rəqslərin sayı ilə üst-üstə düşmür. 
+Belə ki, əgər rəqs molekulun dipol momentini dəyişdirmirsə, onda 
+o infraqırmızı şualanmanı udmur və spektrdə udma zolaqlarının 
+sayı azalır. Qeyd etmək lazımdır ki, infraqırmızı sahədə o molekul 
+aktivdir ki, onlarda rəqs prosesində elektrik dipol momentinin 
+dəyişmələri gedir. 
+ 
+Cədvəl 13. Bəzi səciyyəvi İQ-qrup tezlikləri 
+ 
+Qrup Tezlik, sm–1 
+O–H 3650-3200 (dəyişkən) 
+N–H 3500-2900 (orta) 
+C–H 3300-2700 (güclü-orta) 
+C≡C ~2550 (orta-zəif) 
+C≡N ~2200 (orta-zəif) 
+C=O 1850-1650 (güclü) 
+C=C ~1650 (orta-zəif) 
+C–NO2 ~1550 (güclü) və ~1350 (güclü)
+ ~950-850 (orta) 
+C–O– 1300-1000 (güclü-orta) 
+C–F 1400-1000 (güclü) 
+C–Cl 800-600 (güclü) 
+C–Br 650 (güclü) 
+C–I 600-500 (güclü) 
+S O 1070-1030 (güclü) 
+ 39 
+SO2  
+1150 (güclü) və 1330 (güclü) 
+ 
+Molekulda bütün rəqsləri iki növə: valent və deformasiya 
+rəqslərinə ayırmaq olar. Əgər normal rəqs zamanı əsasən rabitə 
+uzunluqları dəyişir və bu zaman nüvələr arası oxdan sürüşmə 
+müşahidə edilmirsə, belə rəqslər valent rəqsləri (ν) adlanır. 
+Əgər əsasən rabitələr arası bucaqlar dəyişib və praktiki olaraq 
+rabitələrin uzunluqları dəyişmirsə, belə rəqsləri deformasiya 
+rəqslərinə (δ, γ) aid edirlər. 
+ 
+ 
+ 
+valent rəqsi deformasiya rəqsi 
+ 
+Bir rabitənin deformasiya rəqslərinin əmələ gəlməsi üçün 
+valent rəqslərinin əmələ gəlməsindən daha az enerji lazımdır və 
+buna görə də deformasiya rəqslərinin udma zolaqları daha aşağı 
+tezliklərdə çıxırlar. Valent rəqsləri simmetrik (νs) və antisimmetrik 
+(νas), deformasiya rəqsləri isə yelpikvari, qayçıvari və s. olurlar. 
+Aşağıda metilen qrupunun rəqsləri verilmişdir («+» və «–»  
+işarələri kağız səthinə perpendikulyar istiqamətdə rəqsləri 
+göstərirlər). 
+ 
+H H
+C
+ 
+νas 
+H H
+C
+ 
+νs 
+valent rəqsləri 
+ 
+ 40 
+H H
+C
+H H
+C
+ 
+H H
+C
+H
+C
+H
+qayçıvari yelpikvari rəqqasvari fırlanma 
+deformasiya rəqsləri 
+ 
+Rəqslərin tezliyi ilə bərabər İQ-spektrlərin əsas 
+parametrlərindən biri də udma zolaqlarının intensivliyidir. Bu 
+kəmiyyət molekulun quruluşu haqqında əlavə və lazımi məlumatı 
+daşıyır. Udma intensivliyinin praktiki ölçüsü aşağıdakı formulla 
+ifadə edilən udma intensivliyinin inteqralıdır: 
+ 
+∫
+ν
+ν
+νε=
+2
+1
+d3,2A .                                    (5) 
+ 
+burada A – inteqral intensivlik; ε  – udma əmsalı; ν1 və ν2 – inteq-
+rallama həddidir. 
+Bu kəmiyyətlə, yəni i normal rəqslə molekulun elektron 
+xassələri arasında asılılıq var: 
+ 
+2
+qq o
+dq
+d
+c3
+NA
+ii
+i
+i
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ µπ
+= ,                                  (6) 
+ 
+burada N – Avaqadro ədədi, µ – molekulun dipol momenti, qi - i – 
+normal rəqsin normal koordinatı, qi0 – tarazlıq halında normal 
+koordinatıdır. 
+Göründüyü kimi hesab infraqırmızı udmanın intensivliyi rəqs 
+prosesində rabitənin dipol momentinin dəyişməsi ilə bağlıdır. 
+Valent rəqsi zamanı mənfi və müsbət yüklərin ağırlıq 
+mərkəzlərinin sürüşməsi baş verir. Buna görə də C=C, C=N, N=O, 
+ 41 
+P=O və s. kimi rabitələrin elektron sıxlığını artıran faktorlar, 
+onların udma zolaqlarının intensivliyini artırmalı, elektron sıx-
+lığını azaldan faktorlar isə zolaqların intensivliyini azaltmalıdırlar. 
+Əldə olunan təcrübi nəticələrə əsasən, demək olar ki, valent 
+rəqslərinin tezliyi azaldıqca İQ – udma zolaqlarının intensivliyi 
+artır. Bu onunla əlaqədardır ki, rəqs tezliyinin özü rabitənin güc 
+sabitinin funksiyasıdır, amma rabitənin elektron sıxlığının artması 
+onun azalmasına gətirib çıxarır. 
+Beləliklə, İQ-spektrdə hər bir zolaq aşağıdakı parametrlərlə 
+xarakterizə olunur (şəkil 8): 
+1. Maksimumda rəqs tezliyi ν (sm-1); 
+2. Maksimumda intensivlik 
+l⋅
+=ε
+c
+D  (l/mol⋅sm); 
+3. Zolağın eni (sm–1); 
+4. İnteqral intensivlik (A). 
+ 
+ 
+Şəkil 8. İnfraqırmızı udma zolağının xarakteristikaları. 
+ 
+ 42 
+3.2. Bəzi sinif üzvi birləşmələrin 
+İQ-spektrlərinin xüsusiyyətləri 
+ 
+Doymuş karbohidrogenlər. Alkanların və tsikloalkanların C-H 
+rabitələrinin valent rəqslərinin tezlikləri 3000 sm-1-dən aşağıda 
+yerləşir, ancaq tsiklopropanın udma zolağı ≈3050 sm-1-dir (bax: 
+şəkil 9). Simmetrik və antisimmetrik rəqslərin təsirindən CH2 və 
+CH3 qruplarının valent rəqsləri dublet şəklində müşahidə edilir. 
+Lakin bir çox İQ spektrometrlər bu dubletlərin komponentlərini 
+ayırd edə bilmədiyindən onlar bir sinqlet şəklində çıxırlar. Metin 
+hidrogeninin valent rəqsləri təqribən 2890 sm-1 sahədə müşahidə 
+edilir. 
+H H
+C
+H  
+H H
+C
+H  
+2962 sm-1 
+(antisimmetrik) 
+2872 sm-1 
+(simmetrik) 
+metil qrupunda valent rəqsləri 
+H H
+C
+ 
+H H
+C
+ 
+2926 sm-1  
+(antisimmetrik) 
+2853 sm-1  
+(simmetrik) 
+metilen qrupunda valent rəqsləri 
+ 
+ 43 
+ 
+Şəkil 9. Heksanın (A) və tsikloheksanın (B) infraqırmızı spektrləri. 
+Metil və metilen qrupları həm də 1465-1460 sm-1 sahələrinin 
+ətrafında şüanı udurlar. Bu udma metilen qayçıvari və metil asim-
+metrik deformasiya rəqsləri ilə bağlıdır. Metil qrupu olmayan 
+tsikloalkanların İQ-spektrində 1460 sm-1 zolaqlar (alkil qruplu 
+alkanların və tsikloalkanların spektrlərindən) daha itidir. Belə ki, 
+birincilərdə bu sahədə, ancaq metilen qayçıvari rəqslər, 
+axırıncılarda isə həm də asimmetrik metil rəqsləri də müşahidə 
+olunur. 
+Maksimumu 1380 sm-1 olan udma metil qruplarının 
+simmetrik deformasiya rəqslərinin nəticəsidir. Bu isə 
+birləşmələrin quruluşunun təsdiqində vacib meyardır. Metil qrupu 
+olmayan birləşmələrdə bu udma zolağı yoxa çıxır. Əgər udan 
+qrup izopropil və ya üçlübutil qrupdursa, onda bu udma zolağı 
+parçalanır. Bu iki qrup arasında seçimi parçalanmanın intensivliyi 
+ 44 
+əsasında etmək olar. Belə ki, üçlübutil qrupu olduqda aşağı 
+tezlikli pik daha intensivdir. İzopropil qrupu olduqda dubletin 
+intensivliyi simmetrikdir. Üçlübutil qrupunun olmasını həm də 
+1255 və 1210 sm-1 olan udma zolağı da təsdiqləyir. Birləşmədə 
+dördlü karbon atomu olduqda 1215 və 1195 sm-1 sahəsində udma 
+müşahidə edilir. 
+Bir-biri ilə bağlı metilen qruplarının zəncirini –(CH2)n– 
+təqribən 750 sm-1-də müşahidə olunan və az intensiv zolağa görə 
+ayırd etmək olar. Məsələn, ν=750 sm-1 (n=4); ν=740 (n=3); ν=780 
+(n=2). 
+Bucaq gərginliyi olmayan tsiklik birləşmələrdə metilen 
+qruplarının tezliyi açıq zəncirli doymuş karbohidrogenlərin 
+metilen qruplarının tezliyindən fərqlənmir. Gərginlik artdıqca 
+tezliyin qiyməti artır və yuxarıda göstərdiyimiz kimi 
+tsiklopropanda 3050 sm-1-dir (bax: şəkil 9). 
+Gərginliyi olmayan tsikllərdə metilen qruplarının qayçıvari 
+rəqsləri bir balaca 1462-dən 1452 sm-1-ə sürüşür. 
+Alkenlər. Alkenlərin C=C rabitələri İQ şüaları 1650±20 sm-1 
+sahədə udurlar. Bu rəqslər tam valent rəqsləri deyildir. Belə ki, 
+C=C rabitəsinin dartılması ilə bərabər H-C=C valent bucağı da 
+dəyişir. C=C valent rəqsinin 1670-1630 sm-1 intervalında 
+vəziyyəti C=C rabitəsi yanında əvəzolunma dərəcəsindən və 
+molekulun həndəsi quruluşundan asılıdır. Əvəzedicilərin sayının 
+artması νc=c tezliyini artırır. Trans-izomer üçün bu tezlik bir qayda 
+olaraq yüksək, intensivlik isə aşağıdır. 
+Tsiklik alkenlər üçün C=C rabitəsinin udma zolağının 
+vəziyyəti onun endo- və ya ekzo-tsiklik olmasından asılıdır. 
+Alkenlərin vinil hidrogenlərinin udması 3000 sm-1-dən 
+yuxarıdır və əvəzolunma dərəcəsi ilə müəyyən edilir. Belə udma 
+ikiqat rabitənin və ən azı bir vinil hidrogeninin olmasını 
+təsdiqləyir. 
+Alkenlərin quruluşunun təsdiqi üçün 1000-800 sm-1 sahədə 
+ 45 
+olan udma vacibdir. Bu udmanın tezliyi ikiqat rabitə yanında əvəz 
+olunmanın təbiətindən və dərəcəsindən asılıdır. 
+Alkinlər. Sadə alkinlərin İQ-spektrlərində 2300-2100 sm-1 
+diapozonunda orta intensivlikli udma zolağı müşahidə edilir. 
+Zolağın intensivliyi C≡C rabitəsi molekulunun axırında olduqda 
+çoxdur, rabitə molekulun ortasına sürüşdükcə kəskin azalır və 
+simmetrik alkinlərdə bu zolaq olmaya da bilər. Monoalkil 
+törəmələrdə zolaq 2140-2100 sm-1, dialkil törəmələrdə 2260-2190 
+sm-1 sahələrdə yerləşir. 
+Asetilen qrupu molekulun sonunda yerləşdikdə C-H 
+rabitəsinin nazik udma zolağı ~3300 sm-1 -də müşahidə edilir. 
+Halogenli törəmələr. Üzvi birləşmələrin tərkibində halogenin 
+olmasını İQ-spektrlərin köməyilə təyin etmək çətindir. Belə ki, C-
+Br və C–I rabitələrinin udması spektrin elə sahəsində (600-500 
+sm-1) yerləşir ki, bu da bir çox cihazın imkanları xaricindədir. 
+Eyni zamanda C–F və C–Cl rabitələri geniş hədlərdə (1350-950 
+və 850-500 sm-1müvafiq olaraq) udurlar. 
+Tsikloheksan halqasında ekvatorial əvəzedici müvafiq aksial 
+əvəzedicidən daha yüksək tezliklərdə udur. Buna görə də 
+ekvatorial (800 sm-1) və aksial (700 sm-1) C–Cl rabitələrini 
+fərqləndirmək olar.  
+Spirtlər. Spirtlərin səciyyəvi udma zolaqları 3650-3000 sm-1 (O-
+H rabitəsinin valent rəqsləri) və 1400-1000 sm-1 (O–C rabitəsinin 
+valent rəqsləri) sahələrdə müşahidə edilir. Hidroksil qruplarının 
+valent rəqsləri sahəsində bir neçə udma tipi təyin etmək olar. 
+Spirtlərin təmiz və ya qatı məhlullarının infraqırmızı spektrlərinin 
+3550-3200 sm-1 sahəsində molekullararası hidrogen rabitəsinin 
+nəticəsi olan geniş udma zolağı müşahidə edilir. Qaz fazasında və ya 
+durulaşdırılmış məhlulların spektrində hidrogen rabitəsi əmələ 
+gətirməyən hidroksil qrupunun 3650-3550 sm-1 sahədə intensiv 
+udma zolağı çıxır. Adi şəraitdə (10% CCl4 məhlulu) çəkilmiş 
+spektrlərdə həm sərbəst, həm də hidrogen rabitəsinin əmələ 
+ 46 
+gəlməsində iştirak edən hidroksil qruplarının zolaqları müşahidə 
+edilir (şəkil 10). 
+ 
+Şəkil 10. Etil spirtinin karbon 4-xloridlə müxtəlif qatılıqlı 
+məhlullarının İQ-spektrləri. 
+ 
+Hidroksil qrupunun molekullararası hidrogen rabitəsinin 
+əmələ gəlməsində iştirakı udma zolağının aşağı tezliklərə tərəf 
+sürüşməsi ilə özünü göstərir. Dimerlər əmələ gəldikdə 3550-3450 
+sm-1sahəsində İQ udma zolaqları müşahidə edilir. Qeyd etmək 
+lazımdır ki, hidroksil qrupu saxlayan birləşmənin inert həlledicidə 
+qatılığı dəyişdikdə spektrin forması dəyişir. Belə ki, aşağı 
+qatılıqlarda spektrdə sərbəst hidroksil qrupuna aid edilən nazik 
+udma zolağı müşahidə edilir. Qatılığın artması dimerlərin və 
+poliassosiatların əmələ gəlməsinə gətirib çıxarır və spektrdə 
+sərbəst OH qrupu ilə barəbar daha uzun dalğalı sahədə udma 
+zolağı əmələ gəlir (bax: şəkil 10). Qatılığın sonrakı artması hidro-
+gen rabitəsində iştirak edən hidroksil qrupunun zolağının 
+intensivliyini artırır. 
+ 47 
+Efirlər, ketonlar, aminlər və s. kimi polyar birləşmələrlə 
+molekullar arası hidrogen rabitəsinin əmələ gəlməsi hidroksil 
+qrupunun udma zolağını 3550-3450 sm-1 sahəyə sürüşdürür. Eyni 
+zamanda elektron donor qrupunun udma zolağı da aşağı tezlikli 
+sahəyə sürüşür (10-20 sm-1). 
+Hidroksil qrupunun molekuldaxili hidrogen rabitəsində 
+iştirakı spektrdə 3500-3000 sm-1sahədə nazik udma zolağını 
+əmələ gətirir. Xelat tipli hidrogen rabitəsi 3200-2500 sm-1 sahədə 
+geniş udma zolağı şəklində özünü biruzə verir. Molekularası 
+hidrogen rabitəsindən fərqli olaraq molekuldaxili hidrogen 
+rabitəsinin udma zolaqları inert həlledicilərdə qatılıqdan asılı 
+deyildir. 
+ 
+R–OH R OH O
+R
+H  
+C
+C O
+H
+O
+H  
+νOH – 3650 sm-1 
+sərbəst OH qrupu 
+νOH ≈ 3550-3200 sm-1 
+molekularası 
+H – rabitəsi 
+νOH=3500-3000 sm-1 
+molekuldaxili 
+H – rabitəsi 
+ 
+Polyar C-O rabitəsinin olması 1200-1000 sm-1 intervalında 
+intensiv udma zolağını əmələ gətirir. Bundan əlavə 1400-1250 
+sm-1 sahəsində OH qrupunun deformasiya rəqslərinin udma zolağı 
+müşahidə edilir. 
+Bəzi hallarda 1400-1000 sm-1 sahədə olan udma zolaqlarının 
+vəziyyətinə görə birli, ikili və üçlu spirtləri ayırd etmək olar (bax 
+cədvəl 14). 
+ 
+Cədvəl 14. Spirtlərin C-O rabitəsinin səciyyəvi rəqsləri 
+ 
+ 48 
+Spirt ν, sm-1 
+R3C–OH 1200-1125 
+R2CH–OH 1125-1085 
+C=C–CR–OH 1125-1085 
+(CH2)nCOH
+ 
+1125-1085 
+C=C–CHR–OH 1085-1050 
+RCH2–OH 1085-1050 
+(CH2)nCH-OH
+ 
+1085-1050 
+başqaları 1050 aşağı 
+ 
+Sadə efirlər. Spirtlərdə olduğu kimi sadə efirlərdə də C–O 
+rabitəsinin valent rəqsləri 1100 sm-1 ətrafında müşahidə edilir. 
+Epoksidlər bir çox hallarda 1250 sm-1 ətrafında C–O rabitəsinin 
+valent rəqsləri ilə şərtləşdirilmiş udma zolaqları verirlər. Ancaq 
+bu udma zolağının olmaması epoksi qrupun olmaması deyil. Bəzi 
+epoksidlərin İQ-spektrlərində 850 sm-1 ətrafında müşahidə olunan 
+udmanı alkenlərdə C–H rabitəsinin deformasiya rəqsləri ilə səhv 
+salmaq olar. 
+Aromatik karbohidrogenlər. Aromatik birləşmələr üç 
+sahədə olan udmaya görə təyin edilir: 
+a) >3000 sm-1; 
+b) 2000-1400 sm-1; 
+c) 900-650 sm-1. 
+Benzol və onun törmələrinin C–H rabitəsinin valent rəqsləri 
+3080-3030 sm-1 sahədə müşahidə edilirlər. Alkenlərin də bu 
+interval udması olduğundan molekulda benzol halqasının 
+mövcudluğunu, ancaq benzol törəmələrinin 1650-1400 sm-
+1arasında dörd udma zolağına görə təyin edirlər. Bu udma 
+zolaqları C=C rabitəsinin rəqsləri ilə əmələ gələrək 1600, 1585, 
+1500 və 1450 sm-1 yaxınlığında yerləşərək 2000-1650 sm-1 
+arasında kombinasion tezliklərin və obertonların çox zəif udma 
+ 49 
+zolaqları müşahidə edilir. Əvəzlənmələri müşahidə edə bildikdə 
+(yəni qatı məhlullarda) benzol halqasında onların vəziyyətini 
+təyin etmək olar (şəkil 11). 
+   
+Şəkil 11. Əvəz olunmuş benzolların 2000-1600 sm–1 sahədə səciyyəvi 
+udma zolaqları. 
+ 
+Benzol halqaları 900-650 sm-1 sahədə C-H rabitələrinin 
+deformasiya rəqslərinin nəticəsi olan güclü udmaya malikdirlər. 
+Bu udma zolaqları vasitəsilə benzol halqasında gedən 
+əvəzlənmənin xüsusiyyətini təyin etmək olar (cədvəl 15). 
+ 
+Cədvəl 15. Əvəzlənmənin benzol udmasına təsiri 
+ 
+Əvəzlənmənin xüsusiyyətləri ν, sm–1 
+mono 770-735; 710-685 
+o-1,2-di 760-745 
+m-, 1-3-di 900-860; 790-770, 725-685 
+p-, 1,4-di 830-880 
+1,2,3-tri 800-770, 720-685 
+1,2,4-tri 900-860; 860-800 
+1,3,5-tri 900-860; 865-810; 730-765 
+ 
+ 50 
+Aldehid və ketonlar. Karbonilli birləşmələrin intensiv udma 
+zolaqları 1900-1550 sm-1 intervalında müşahidə edilir. Karbonil 
+qrupunun udma zolaqlarının vəziyyətinə və intensivliyinə ilk 
+növbədə molekulun quruluşu (həndəsi quruluşu, karbonil qrupu ilə 
+birləşən atomların kütləsi, induksion və mezomer effektlər, sferik 
+faktorlar) təsir edir (şəkil 12). 
+ 
+ 
+ 
+A
+B
+C
+ 51 
+Şəkil 12. Karbonilli birləşmələrin İQ-spektrləri: A – asetaldehid; B – 2-
+butanon; C – valerian turşusu. 
+Aldehidlərin karbonil qrupunun udma zolağı 1725 sm-1 
+ətrafında yerləşir. Bu qrup qoşulmada iştirak etdikdə udma daha 
+aşağı tezlikli sahədə müşahidə olunur. 
+ 
+Alk C H
+O
+ 
+1725 sm-1 
+C2H5 C H
+O
+ 
+1700 sm-1 
+C C C H
+O
+C C C H
+O
+ 
+1685 sm-1 
+ 
+Qeyd etmək lazımdır ki, aldehidlərin quruluşunu müəyyən 
+etmək üçün 2720 və 2820 sm-1 sahədə dubletin olması da 
+müşahidə edilməlidir. 
+Atsiklik dialkilketonlarda və tsikloheksanonlarda karbonil 
+qrupunun valent rəqsləri 1715 sm-1-də müşahidə edilir. 
+Aldehidlərdə olduğu kimi, qoşulma karbonil qrupunun udmasını 
+aşağı tezlikli sahəyə tərəf sürüşdürür. 
+ 
+Alk C Alk
+O
+ 
+C2H5 C Alk
+O
+C C Alk
+O
+C  
+1715 sm-1 1690 sm-1 1675 sm-1 
+C2H5 C C6H5
+O
+  
+1665 sm-1   
+ 
+ 52 
+Tsiklopropan halqası qoşulmada iştirak edə bildiyindən 
+tsiklopropilketonlarda karbonil qrupunun udması əksər halda 
+1695 sm-1  sahəsində müşahidə olunur. 
+Tsiklik ketonların karbonil qrupunun valent rəqsləri tsiklin 
+ölçüsündən asılıdır. Tsikloheksanonda keto-qrup gərilmələri hiss 
+edilmədiyindən o, 1715 sm-1 udma zolağı verir. Tsiklin ölçüsü 
+azaldıqca və gərilmə artdıqca tsikloalkanonun udma tezliyi artır. 
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+1715 sm-1 1745 sm-1 1785 sm-1 1838 sm-1 
+ 
+Güclü gərilməsi olan politsiklik ketonların infraqırmızı 
+udması 1800 sm-1 ətrafında baş verir. 
+Karbon turşuları və onların törəmələri. Karboksil qrupunun 
+iki xarakterik udma zolağı var. Onlardan biri 3300-2500 sm-1 in-
+tervalında mərkəzi 3000 sm-1 olan geniş udma zolağıdır. Zolağın 
+genişlənməsi onunla bağlıdır ki, müxtəlif şəraitlərdə karbon turşu-
+ları qüvvətli hidrogen rabitələri əmələ gətirirlər. Karbon turşu-
+larını səciyyələndirən ikinci udma zolağı 1720–1710 sm-1 
+ətrafında görünür və C=O qrupunun valent rəqslərinə uyğun gəlir. 
+Bir çox hallarda OH qruplarının sahəsi C–H rabitəsinin valet 
+rəqsləri sahəsi (~3000 sm-1) ilə üst-üstə düşür. 
+Karbon oksigen ikiqat rabitəsini aşağıda göstərilən iki quru-
+luşun rezonansı kimi təsəvvür etmək olar: 
+ 
+C O C O
+A B  
+ 
+Gözləmək olar ki, A rezonans quruluşunun payının artması 
+ 53 
+karbon-oksigen ikiqat rabitəsinin valent rəqslərinin tezliyini 
+artırır. Belə ki, ikiqat rabitə ilə bağlanan iki atom daha yuxarı 
+tezliklərdə udurlar. Elə bununla da karbon turşularının 
+törəmələrində karbonil qrupunun valent rəqslərinin tezliyinin 
+vəziyyətini izah etmək olar. 
+Karbon turşularında 1420-1200 sm-1 sahəsində də intensiv 
+udma zolağı müşahidə edilir. Bu zolaq O-H qrupunun 
+deformasiya rəqslərinə və C-O rabitəsinin valent rəqslərinə uyğun 
+gəlir. Bu zolaqların vəziyyəti dəyişir, ancaq udmanın yüksək 
+intensivliyinə görə təyin edilir. 
+Mürəkkəb efirlərdə RC(O)OR karbonil qrupunun udma 
+zolağı 1750-1735 sm-1 sahəsində müşahidə edilir. Bu zolaq 
+aldehidlərin və ketonların udma zolaqları ilə yaxın olduğundan bu 
+rəqslərlə efirləri təyin etmək çətindir. Efirin olması 1300-1050 
+sm-1 sahədə yerləşən bir və ya bir neçə intensiv udma zolağı ilə 
+təyin edilir. Bir qayda olaraq bu zolaq karbonil zolağından 
+güclüdür, o daha genişdir və bəzi hallarda parçalanır. 
+Turşu xloranhidridlərində (RC(O)Cl) karbonil qrupu 1810 sm-1 
+ətrafında udur. Bunu aşağıdakı kimi izah etmək olar. Xlor atomu 
+elektromənfiliyinə görə elektron sıxlığını karbonil qrupunun 
+karbonundan aralayaraq onun müsbət yükünü artırır. Karbon 
+atomunun müsbət yükünü azaltmaq üçün B rezonans quruluşun 
+payı artaraq A rezonans quruluşu payı azalır. 
+−δ+δ
+−ClC  rabitəsində 
+polyarlıq C Cl
+O
+δ+ δ−
+ payını azaldaraq C Cl
+O
+δ+ δ−
+ payının 
+artmasına gətirib çıxarır. Bunların hamısı C=O rəqslərinin tezliyini 
+artırır. 
+Turşu anhidridləri RC(O)OC(O)R C=O qurupunun valent 
+rəqslərinə uyğun gələn – 1820 sm–1 və 1760 sm–1 ətrafında iki 
+udma zolağı verirlər. Bu iki udma zolağı ona görə əmələ gəlir ki, 
+anhidridin karbonil qrupları «asimmetrik» və ya «simmetrik» 
+ 54 
+rəqslər əmələ gətirə bilərlər. Asimmetrik üsulda hər iki karbonil 
+qrupu müxtəlif vaxtlarda rəqslər edirlər. Simmetrik üsulda 
+karbonil qruplar eyni zamanda rəqs edirlər. 
+Karbonil qrupu qonşu alkil qruplarının rəqs tezliklərini dəyiş-
+dirir. Belə ki, ketonlarda metil qrupunun deformasiya rəqsləri 
+1360-1355 sm–1 qədər, karbon turşularının metil efirlərində 1440-
+1435 sm–1 və 1365-1356 sm–1 qədər sürüşür. 
+Əgər ikiqat rabitə karbonil qrupu ilə qoşulmayıbsa, onda 
+qarşılıqlı təsir olmur və yadda saxlamaq lazımdır ki, intensiv 
+karbonil zolağı daha zəif olan ikiqat rabitənin zolağını örtə bilər. 
+Karbonil qrupunun ikiqat rabitələrlə qoşulması karbonil 
+qrupunun rəqs tezliyini 20-30 sm–1 azaldır. Belə ki, α,β-doymamış 
+aldehidlərdə 1705-1680 sm–1, α,β-doymamış ketonlarda 1685-
+1665 sm–1 udma zolağı müşahidə edilir. Benzol halqası analoji 
+təsirə malikdir. 
+Qoşulmuş zəncirdə CH=CH qruplarının miqdarının artması 
+karbonil qrupunun udmasına az təsir göstərir. 
+Karbonil qrupunun təsirindən ikiqat rabitənin udma zolağı 
+vəziyyətini və intensivliyini dəyişir. Bu zolağın tezliyi azalır 
+(1640-1600 sm-1) intensivliyi isə artır və karbonil qrupunun 
+intensivliyi ilə uyğun olur. Yuxarı tezlik karbonil qrupuna, aşağı 
+tezlik isə ikiqat rabitəyə aid edilir. 
+Qeyd etmək lazımdır ki, karbon turşularının efirlərində ikiqat 
+rabitənin efir qruplaşmasına daxil edilməsi karbonil qrupunun 
+rəqs tezliyini artırır və fenil və etil efirləri üçün νc=0 1770-1745 
+sm–1sahəsində yerləşir. 
+Molekulda ikinci karbonil qrupunun yerləşdirilməsinin 
+vəziyyətindən asılı olaraq C=O qruplarının udması sahəsində bəzi 
+dəyişmələr baş verir. α–Dikarbonilli birləşmələrdə qonşu karbonil 
+qrupları arasında qarşılıqlı təsir zəif oluduğundan rəqs tezliyi 5-15 
+sm-1 dəyişir ya və β-dikarbonilli birləşmələrdə karbonil qrupunun 
+udma zolaqlarının vəziyyəti dəyişmir. Məlumdur ki,  β-diketonlar 
+ 55 
+və aldehidlər güclü molekullararası hidrogen rabitəli enol formada 
+mövcud ola bilirlər. 
+Xelat halqada rəqslərin qarşılıqlı təsiri o qədər güclü olur ki, 
+karbonil qrupunun və ikiqat rabitənin tezliklərini bir-birindən 
+ayırmaq olmur. 1650-1500 sm-1sahəsində bir neçə zolaq və ya bir 
+çox geniş və intensiv zolaq görsənir. 
+β-Dikarbon turşularında isə karbonil qrupunun udma zolağı 
+mövcuddur. Malon turşusunun iki udma zolağı 1740 və 1710 sm-1 
+sahələrində müşahidə edilir. 
+Karbonil qrupunun valent rəqslərinin zolağı birləşmənin 
+fiziki halının dəyişməsinə çox həssasdır. Əgər karbonil qrupu 
+molekularası hidrogen rabitələrinin əmələ gəlməsində iştirak 
+edirsə onda karbonil qrupunun udulma zolağı 15-45 sm-1 azalır. 
+Azotüzvi birləşmələr. Birli və ikili aminlərin spektrlərində ən 
+xarakterik rəqslər N–H rabitəsi ilə bağlıdır (şəkil 13). Alifatik və 
+aromatik aminlərin spektrlərində N–H rabitəsinin iki udma zolağı 
+müşahidə edilir. Birincisi 3430 sm–1 sahəsindəki zolağı 
+asimmetrik valent rəqsinin udma zolağı və ikincisi isə 3400 sm–1 
+ətrafında simmetrik valent rəqsinin zolağıdır. Bu sahədə olan 
+udma hidrogen rabitəsinin təsirinə məruz qalır. Molekullararası 
+rabitələr olduqda 3300-3000 sm–1 sahədə intensiv udma 
+zolaqlardan ibarət olan şəkil müşahidə edilir. 
+İkili aminlərin spektrləri N-H rabitəsinin 3450-3300 sm–1 
+sahədə bir udma zolağı ilə fərqlənirlər. Yüksək tezlikli udma ikili 
+aromatik aminin olmasını göstərir, 3350 sm–1 – 3000 sm–1 sahədə 
+olan udma ikili alifatik aminin olmasına dəlalət edir. Təbiidir ki, 
+üçlü aminlər bu sahədə udmaya məruz qalmır. 
+1650-1500 və 960-650 sm–1 sahələrdə müşahidə olunan udul-
+ma zolağı amin qrupunun deformasiya rəqsləri ilə xarakterizə 
+edilir. Birli aminlərdə 1650-1580 sm-1 intervalında antisimmetrik 
+deformasiya rəqslərinin intensiv zolağı müşahidə edilir. Birli 
+aromatik aminlərdə bu zolaq aromatik udma ilə üst-üstə düşür. 
+ 56 
+İkili aminlərin NH qrupu deformasiya rəqslərinin zolağı 
+(1600-1500 sm-1) zəif olduğundan çətin təyin edilir. 
+Birli aminlərdə NH2 qrupunun deformasiya rəqslərinin 960-
+650 sm-1 sahədə geniş zolağı ilə xarakterizə edilir. Hidrogen 
+rabitəsinin əmələ gəlməsi N–H rabitəsinin deformasiya 
+rəqslərinin tezliyini artırır. 
+C-N rabitəsinin rəqsləri C-C və C-O rabitələrinin udulma 
+sahələrində (təqribən 1350-1200 sm-1) baş verir və ona görə də 
+quruluşunun təyinində o elə bir rol oynamır. 
+ 
+ 57 
+Şəkil 13. Aminlərin İQ-spektrləri: A – izopropilamin; B – dipropilamin; 
+C – tripropilamin. 
+ 
+Bəzi növ aminlərin ayırd edilməsi üçün onların hidrogen 
+xloridlərini almaq lazım gəlir. RN+H3 tipli duzlar 3000 sm-1 
+ətrafında geniş intensiv udma zolağı verirlər. R2N+H2 və R3NH+ 
+tipli duzlar 2700-2200 sm-1sahədə güclü geniş udma zolağı ilə 
+xarakterizə edilirlər. Bəzi hallarda ammonium duzlarının udması 
+nazik zolaqlar şəklində aydınlaşır. Duzlarda amin qrupların de-
+formasiya rəqslərinin zolaqları aşağı tezlikli sahəyə sürüşür. 
+Azometin qrupu saxlayan R-CH=N-R1 (R1 – Alk, Arz, OH) 
+tipli birləşmələrdə udma zolağı 1690-1625 sm-1 intervalında aşkar 
+olunur və onun görünüşü birləşmiş qrupların təbiətindən asılıdır. 
+Qoşulmamış azometin birləşmələrində C=N qrupunun udma 
+zolaqlarının tezliyi 1690-1640 sm-1 sahəsində yerləşir. Oksimlər və 
+iminlər üçün bu zolaq 1680-1660 sm-1 sahəsində yerləşir. 
+C=N qrupunun udma zolağına maddənin aqreqat halı təsir 
+göstərir, belə ki, bərk nümunələrdə udma zolaqlarının vəziyyəti 
+20-30 sm-1 qədər aşağı tezliyə tərəf sürüşür. Aromatik radikal-
+larda qoşulma C=N rabitəsinin rəqs tezliyini aşağı salır. 
+Nitrillərin səciyyəvi udma zolağı 2260-2215 sm-1 intervalında 
+aydınlaşır. Doymuş mono- və dinitrillərdə C=N qrupunun rəqs 
+tezliyi 2260-2240 sm-1 intervalındadır. İkiqat rabitə və aromatik 
+halqa ilə qoşulması tezliyi 20-30 sm-1 qədər aşağı salır. 
+Nitril qrupunun vəziyyəti az tezlik intervalında dəyişir. 
+Əksinə olaraq onun inetnsivliyi geniş dəyişir. Alifatik nitrillərdə 
+udma zolağı az intensivdir və qoşulma onun intensivliyini artırır. 
+Molekulun tərkibinə oksigen saxlayan funksional qrupların daxil 
+edilməsi intensivliyi azalmasına səbəb olur. 
+Beləliklə, C=N rabitəsinin intensiv udma zolağının olmaması 
+nitril qrupunun olmamasına dəlalət etmir. 
+İzonitril qrupu 2185-2120 sm-1 intervalında geniş udma 
+zolağına malikdir. 
+ 58 
+Azo qrupun rəqsləri ilə əmələ gələn udma zolağını hər zaman 
+İQ-spektrlərdə müşahidə etmək olmur. Belə ki, bu zolaq az inten-
+sivdir. Sis-azobenzolda bu zolaq 1511 sm-1 və qeyri-simmetrik 
+əvəz olunmuş trans – azobenzolda 1418-1410 sm-1 sahəsində 
+müşahidə olunur. 
+Bütün diazobirləşmələrin spektrləri üç qat rabitələrinə xas 
+sahədə (2300-2000 sm-1) udulma zolağında aşkar olunur. Bu 
+udma zolağının vəziyyəti diazobirləşmənin quruluşundan asılıdır. 
+Belə ki, diazometan 2105 sm-1, diazoalkanlar 2049-2012 sm-1, 
+diazokarbonilli birləşmələrdə isə 2188-2110 sm-1 udma zolaqları 
+verirlər. Aromatik diazonium duzlarında 2330-2160 sm-1 sahədə 
+udma zolaqları müşahidə edilir. 
+Nitrobirləşmələrin, nitratların və nitrominlərin tərkibində ni-
+tro qrup olur. Bu üç sinif birləşmələrin İQ spektrdə 1650-1500 və 
+1390-1250 sm-1 intervalında antisimmetrik və simmetrik rəqslərə 
+uyğun iki güclü udma zolağı müşahidə edilir. 
+Birli və ikili alifatik nitrobirləşmələr 1567-1550 sm-1 (νas) və 
+1379-1368 sm-1 (νs) intervallarında udulmaya məruz qalırlar. 
+Üçlü nitrobirləşmələrdə hər iki tezliyin azalması müşahidə edilir 
+(1545-1530 və 1360-1340 sm-1). 
+Nitro qrupun ikiqat rabitə ilə qoşulması hər iki udma 
+zolağının tezliyinin azalmasına gətirib çıxarır. Molekulda nitro 
+qrupların miqdarının artması onların molekulda vəziyyətlərindən 
+asılı olaraq öz təsirini göstərir. 
+Nitro qrupunu α-vəziyyətə yerləşdirdikdə asimmetrik 
+rəqslərinin tezliyi artır və simmetrik rəqslərin tezliyi azalır. 
+Nitro qrup qonşu qrupların rəqslərinə öz təsirini göstərir. Belə 
+ki, CH2-qrupun 1349 sm-1 çıxan deformasiya rəqslərinə əsasən 
+birli nitrobirləşmələri ayırd etmək olar. 
+Aromatik nitrobirləşmələrdə nitro qrupun antisimmetrik və 
+simmetrik valent rəqsləri müvafiq olaraq 1550-1520 və 1360-
+1345 sm–1 müşahidə edilir. 
+ 59 
+Nitroaminlər üçün antisimmetrik və simmetrik valent 
+rəqslərinin udma zolaqları müvafiq olaraq 1587-1530 və 1292-
+1200 sm-1 sahəsində aşkar olunur. 
+Nitro qrupun valent rəqsləri 1680-1430 sm-1 sahəsində mü-
+şahidə edilir. 
+O-Nitrobirləşmələr 1680-1650 və 1625-1615 sm-1 interval-
+larında iki udma zolağı verir ki, onlar da nitritlərin trans- və sis-
+formalarına aid edilir. 
+C-Nitrobirləşmələr 1550-1500 sm-1 sahəsində aydınlaşır. 
+N-Nitrobirləşmələr 1500-1430 sm-1 intervalında udma zolağı 
+verirlər. 
+Kükürdüzvi birləşmələr. S-H rabitəsinin valent rəqsləri 2600-
+2550 sm-1 sahədə zəif udma zolağı ilə səciyyələnirlər. Tərkibində 
+S-H qrupu olan birləşmələr möhkəm molekullararası hidrogen 
+rabitəsi əmələ gətirirlər və buna görə də SH-rabitəsinin udma 
+sahəsi təmiz və durulaşdırılmış məhlulların spektrlərində eynidir. 
+C-S rabitəsinin valent rəqslərinin 720-550 sm-1 sahədə udma 
+zolaqları olur. S-S rabitəsinin udulması isə 500-400 sm-1 sahəsinə 
+təsadüf edir. Hər iki udulma zolağı zəif olduğundan İQ-spektrlərin 
+vasitəsilə sulfidləri və disulfidləri təyin etmək çətindir (bax şəkil 
+14). 
+Sulfotoksidlər – 1070-1030 sm-1 sahədə valent rəqslərinin 
+yüksək intensivlikli udma zolağı verirlər. Qoşulma bu tezliyə təsir 
+göstərmir. Sülfin turşuları RSOOH üçün SO qrupun udması – 
+1090 sm-1 təsadüf edir. 
+Sulfonların spektrlərində 1350-1300 və 1185-1140 sm-1 
+sahələrində SO2 qrupun simmetrik və antisimmetrik rəqslərlə 
+bağlı iki udma zolağı müşahidə edilir (bax şəkil 14). 
+Sadə S–O rabitəsi sulfoturşuların spektrlərində 900 sm-1, 
+sulfin turşularında – 850 sm-1, onların mürəkkəb efirlərində – 750 
+sm-1 udulma zolağında özünü biruzə verir. 
+Fosforüzvi birləşmələr. Fosfor üzvi birləşmələrin 
+ 60 
+spektrlərində P-H rabitəsinin valent rəqslərinin udulmasını 
+səciyyələndirən zolaq 2440-2350 sm-1 sahəsində müşahidə edilir. 
+Fosfor üzvi birləşmələrin özü 2327 və 2420 sm-1 udur. P-H qru-
+punun hidrogen rabitələrinin əmələ gəlməsində iştirakı o qədər də 
+müəyyən edilməmişdir. 
+P-Ar qrupu 1450-1435 və 1005-995 sm-1 intervallarında 
+udulma zolağı verir. 
+P=O qrupunun rəqsləri ilə bağlı olan udulma zolağı 1350-
+1175 sm-1 sahədə müşahidə olunur. Əgər P=O qrupu hidrogen ra-
+bitəsinin əmələ gəlməsində iştirak edirsə, onda bu tezlik 50-80 
+sm-1 azalır. 
+Tərkibində POOH qrupu olan birləşmələrdə O-H rabitəsinin 
+udma zolağı 2700-2560 sm-1 sahədə müşahidə olunur. 
+ 61 
+ 
+Şəkil 14. Bəzi kükürdüzvi birləşmələrin İQ-spektrləri: A – dimetilsulfid; B 
+– dimetildisulfid; C – dimetilsulfoksid; D - dimetilsulfon. 
+ 62 
+P-O-Ar qruplaşması ilə bağlı udma zolaqları 1240-1190 sm-1 
+və az intensivlikli – 1030 sm-1 sahələrdə aydınlaşır. P–O–Alk 
+qruplaşması isə 1050-995 sm-1 intervalında udma sahəsində 
+müşahidə olunur. 
+P-O-P qrupunun olmasını 970-930 sm-1 sahədə udma zolağı 
+aydınlaşdırır. 
+Fosfor üzvi birləşmələr üçün 980 sm-1 təbiəti məlum olmayan 
+intensiv xarakterik zolağı müşahidə edilir. 
+ 
+ 
+ 63 
+IV FƏSİL 
+ 
+İŞIĞIN KOMBİNASİYA SƏPİLMƏ 
+SPEKTROSKOPİYASI 
+ 
+İşığın kombinasion səpilmə spektroskopiyası da infraqırmızı 
+spektroskopiya kimi molekulların rəqsi tezliyini təyin edir. 
+Kombinasion səpilmə hadisəsinin mahiyyəti ondan ibarətdir ki, 
+monoxromatik mənbədən (civə lampası, lazer) çıxan işıq 
+molekullar tərəfindən səpildikdə, səpilmiş işıq spektrində düşən 
+işığın əsas tezliyi 0ν  (reley səpilməsi) ilə bərabər peyk adlanan 
+dəyişilmiş kombinasion tezliklər 20 ν−ν  və 20 ν+ν  müşahidə 
+olunur. Tezliyi )( 20 ν−ν  olan peyklər stoks )(),( 20s ν+νν  - 
+antistoks )( asν  adlanırlar. 
+İşığın molekulyar səpilməsi zamanı üç hal mümkündür: 
+1) υ=0 və əsas rəqs halında yerləşən molekul enerji kvantı 
+( 0hν ) ilə həyəcanlandıqdan sonra səpilmə tezliyi dəyişmədən 
+yenidən υ=0 olan hala qayıdır (bax şəkil 15 (2)); 
+2) Həyəcanlanmış molekul rəqsi hərəkətə uyğun daha yüksək 
+səviyyəyə keçir, onda səpilmiş işığın tezliyi həyəcanlandırıcı 
+tezlikdən aşağı olmalıdır (şəkil 15 (1)); 
+3) İlkin rəqsi hal həyəcanlanmış, sonuncu isə əsas hal olurlar 
+(şəkil 15 (3)). 
+Molekulların polyarlaşması (α) maddə tərəfindən səpilmiş 
+elektromaqnit şüalanmasının xassələrini təyin edən əsas fiziki 
+kəmiyyətdir. Polyarlaşma elektrik yüklərinin xarici elektrik 
+sahəsinin təsirilə dayanıqlı vəziyyətdən sürüşmə qabiliyyətini 
+xarakterizə edən kəmiyyətdir. Əgər işıq dalğası molekulda dipol 
+momentini (p) induksiya edirsə, onda 
+ 
+ 64 
+t2cosp 00 πν⋅ε⋅α=ε⋅α= ,                      (1) 
+burada α –molekulun elektron polyarlaşmasıdır, 0ε –sahənin am-
+plitududur, 0ν  – onun tezliyidir. 
+ 
+Şəkil 15. Reley (1), stoks (2) və antistoks (3) səpilmələrinin başlanğıc 
+(Ek) və son (En) enerji səviyyələrinin nisbi yerləşməsi. 
+ 
+)q(α=α  olduqda gətirilmiş dipol momenti (2) düsturu ilə 
+təyin olunur və səpilmə zamanı baş verən üç hadisəni nəzərə alır: 
+ 
++ν+νπ⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ α
++πν⋅=
+=
+tr0
+qq
+100 )(2cosdq
+dct2cosc)q(p
+0
+ 
+tr0
+qq
+2 )(2cosdq
+dc
+0
+ν−νπ⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ α
++
+=
+                    (2) 
+ 
+Beləliklə, işığın kombinasion səpilməsini (KS) tədqiq etdikdə 
+molekulların rəqs tezliyi təyin olunur və onlar da həyəcanlandıran 
+və səpilmiş işığın tezlikləri fərqi kimi özlərini büruzə verirlər. KS 
+spektrlərində udma zolaqlarının intensivliyi (Isəp) nüvələr arası 
+ 65 
+məsafənin dəyişməsinə görə molekulun polyarlaşma törəməsinin 
+kvadratına mütənasibdir: 
+2
+qq 0
+dq
+dI
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ α
+≈сяп . 
+ 
+Verilən nisbətdən görünür ki, molekul o zaman KS spektrinə 
+malikdir ki, həyəcanlandırıcı işıqla təmasa girdikdə 
+polyarlaşmanın dəyişməsi baş verir. 
+ 
+Şəkil 16. Tsikloheksenin infraqırmızı (A) və  
+kombinasiyalı səpilmə (B) spektrləri. 
+A
+B
+ 66 
+ 
+İQ və KS spektrlərini şərtləndirən proseslərin təbiəti müxtəlif 
+olduğundan eyni rəqslər müxtəlif intensivliklərə malik olur. Əgər 
+İQ spektrlərdə dipol momentinin dəyişməsi ilə gedən rəqslər 
+aktivdirlərsə, KS spektrlərində polyarlaşmanın dəyişməsi ilə 
+gedən rəqslər aktivdir. Bu ona gətirib çıxarır ki, maksimum 
+simmetrik molekullar üçün KS spektrlərində simmetrik rəqslər 
+baş verir və simmetriya mərkəzinə antisimmetrik rəqslər qadağan 
+edilir. İQ spektrlərdə antisimmetrik rəqslərin zolaqları müşahidə 
+edilir və simmetrik rəqslərin zolaqları yoxa çıxırlar. Bu halda KS 
+və İQ spektrlər bir-birini tamamlayırlar. Molekulun simmetriyası 
+azaldıqda KS və İQ spektrlərdə fərqlər azalır, lakin zolaqların 
+nisbi intensivliyi fərqi qalır (şəkil 16). Əgər İQ spektrlərdə polyar 
+rabitə ilə bağlı və antisimmetrik rəqslər yaxşı görünürlərsə, KS  
+spektrlərində intensiv zolaqlar bir qayda olaraq az polyar 
+rabitələrin simmetrik rəqslərinə aid edilir. Məsələn, C=C və C=C 
+rabitələrinin valent rəqsləri İQ spektrlərdə aşağı intensivliyə 
+malikdirlər, ancaq KS-spektrlərində müvafiq zolaqlar çox 
+intensivdirlər. Ona görə də ikiqat rabitələrin identifikasiyası KS 
+spektrlərinin köməyilə daha əsaslıdır. 
+KS spektrlərində aromatik molekulların tam simmetrik 
+rəqsləri ilə şərtlənmiş spektr xətləri çox intensivdirlər. 
+İQ spektrlərdən fərqli olaraq KS spektrlərində OH və NH 
+qruplarının rəqsləri cüzi və zəif zolaqlar şəklində çıxırlar. Bu da 
+spirtlərin və suyun həlledici kimi istifadəsinə imkan yaradır. 
+ 
+ 
+ 
+ 67 
+V FƏSİL 
+ 
+NÜVƏ MAQNİT REZONANSI  
+SPEKTROSKOPİYASI 
+ 
+ 
+5.1. Əsas prinsiplər 
+ 
+Nüvə spini. Atom spektrlərinin incə quruluşlarının 
+xüsusiyyətlərini izah edərkən 1924-cü ildə Pauli belə bir fərziyyə 
+irəli sürdü ki, bəzi atomların nüvələri fırlanma momentinə (p) və 
+ya spinə malikdir. Yüklənmiş atomun belə fırlanması maqnit mo-
+menti yaradır (µ) və bu moment mexaniki momentdən xətti asılı 
+olub, düz mütənasibdir: 
+ 
+p⋅γ=µ                                          (1) 
+ 
+Hiromaqnit nisbət adlanan γ  mütənasiblik sabiti verilmiş nüvə 
+üçün xarakterik kəmiyyət olub (hidrogen üçün 41067,2 ⋅=γ ) ölçü 
+dərəcəsi radian·qaus-1·san-1-dir. Kvant mexanikasının prinsiplərinə 
+ğörə anqulyar momentin ölçülən ən böyük qiymətini aşağıdakı 
+münasibətlə ifadə etmək olar: 
+ 
+π
+=
+2
+hIp .                                          (2) 
+ 
+Burada I – nüvənin spin kvant ədədi, h – Plank sabitdir. I-nin 
+qiyməti nüvədə olan proton və neytronların sayından və müəyyən 
+mənada hər biri 1/2-ə bərabər olub. Bu elementar zərrəciklərin 
+spinlərinin kombinasiyasından asılıdır. Əgər kütlə və atom ədədləri 
+cüt rəqəmlərdirsə, onda I sıfra bərabər olur və nüvənin spini sıfır 
+olur. Əgər kütlə ədədi cüt, atom ədədi təkdirsə, onda I tam ədədlə 
+ 68 
+ifadə olunur (1, 2, 3, …). Əgər kütlə ədədi təkdirsə, atom 
+ədədindən asılı olmayaraq I tək ədədlərin yarım misillərinə bərabər 
+olur (1/2, 3/2, 5/2, …) 
+Spini 1I ≥  olan nüvə maqnit momentindən əlavə kvadrupol 
+elektrik momentinə də malik olur və bu nüvədə yükyn qeyri-
+simmetrik paylanması hesabına olur. 
+Nüvənin maqnit sahəsində özünü aparması. Əgər spini sı-
+fırdan fərqli olan nüvəyə xarici bircins H0 maqnit sahəsi təsir 
+edirsə, onda bu nüvə xarici qüvvələrin təsiri altında özünü qi-
+roskop kimi aparır, daha doğrusu, öz oxu ətrafında presessiya 
+hərəkəti edir və bu hərəkət təsir edən sahə istiqamətində olur 
+(şəkil 17). Belə presessiya hərəkətinin tezliyi (ω0) Larmor tezliyi 
+adlanır, yalnız nüvənin özündən və tətbiq olunmuş sahənin 
+intensivliyindən asılı olur: 
+ 
+00 Hγ=ω . 
+ 
+Пресессийа
+Фырланм а
+H 0
+ 
+Şəkil 17. Öz oxu ətrafında fırlanan dipolun presessiyası. 
+ 
+ω0 maqnit sahəsi ilə presessiya oxu arasındakı bucaqdan asılı 
+deyil. Nüvənin presessiya oxuna nəzərən vəziyyəti istənilən kimi 
+ 69 
+ola bilməz. Artıq 1924-cü ildə Ştern və Qerlax təcrübi olaraq 
+müəyyən etmişlər ki, atomun maqnit momentinin xarici maqnit 
+sahəsi istiqamətində olan proyeksiyası kəsilməz çoxluq təşkil 
+etmir, lakin m maqnit kvant ədədindən asılı olur və ümümi halda 
+2I+1 qiymət ala bilər; konkret olaraq I, I-1, … –I. Hər bir hala 
+müəyyən enerji uyğun gəlir və belə yekun qiymətlər sırasını 
+aşağıdakı kimi ifadə etmək olar: 
+ 
+0m Hm2
+hE γ
+π
+= .                                    (3) 
+ 
+Enerjinin mümkün olan qiymətləri və ya xarici maqnit sahəsi 
+olmadıqda cırlaşmış enerji səviyyələri, maqnit sahəsinin 
+intensivliyinin artması ilə xətti dəyişir və onlar arasındakı fərqi 
+aşağıdakı düsturla ifadə etmək olar: 
+ 
+0m H2
+hE γ
+π
+=∆ .                                   (4) 
+ 
+Spini 1/2 olan nüvələr (məsələn, 1H, 19F, 13C, 15N, 31P və b.), 
+H0 maqnit sahəsinin istiqamətinə nəzərən yalnız iki vəziyyət tuta 
+bilərlər (şəkil 18). 
+Enerji nöqteyi-nəzərindən əlverişli hal odur ki, xarici maqnit 
+sahəsi istiqamətində olan maqnit momentinin presessiya vektoru 
+bu sahənin istiqaməti ilə üst-üstə düşsün. Nüvələrin aşağı enerjili 
+hallara ⎟
+⎠
+⎞
+⎜
+⎝
+⎛ −=
+2
+1I  keçmə meyli pozulur və bu pozulma 
+temperaturla şərtlənmişdir. Enerji səviyyələrinə görə nüvələrin 
+paylanmasını Bolsmanın paylanma qanununa görə hesablamaq 
+olar. Məsələn, təyin etmək olar ki, 30°C temperaturda hər milyon 
+protondan 1,4 T maqnit sahəsində sahə istiqamətində 
+ 70 
+istiqamətlənən nüvələrin sayı, əks istiqamətdə düzülən nüvələrin 
+sayından beş nüvə çoxdur. Fərqin nisbətən azalmasına 
+baxmayaraq, nüvələrin sayını bərabərləşdirmək üçün sistem 
+bütövlükdə yüksək temperatura malik olmalıdır. 
+ 
+21I −=
+21I =
+0H
+π
+γ−=− 2
+hH
+2
+1E 0
+π
+γ=+ 2
+hH
+2
+1E 0
+π
+γ=∆
+2
+hHE 0
+ 
+Şəkil 18. İstiqamətlənmiş dipolun enerji səviyyələri. 
+ 
+Nüvə maqnit rezonansı. Nüvələrin aşağı enerji 
+səviyyələrindən yuxarı enerji səviyyələrinə keçidinin digər bir 
+yolu temperaturu artırmadan həyata keçirilməsidir. Əgər güclü HO 
+maqnit sahəsində yerləşən nüvəyə H0 sahəsinə perpendikulyar 
+istiqamətdə zəif dəyişən H1 sahəsi ilə təsir etsək, onda aşağı enerji 
+səviyyələrində olan nüvələr müəyyən şəraitdə H1 sahəsindən 
+enerji uda bilər və daha böyük enerjili yuxarı səviyyələrə keçə 
+bilər. Belə məcburi keçid nüvə maqnit rezonansı adlanır. 
+Yüksəktezlikli dəyişən tcos'H2H 11 ω=  sabit maqnit sahəsi 
+bir-birinin əksi istiqamətində fırlanan tsin'iHtcos'H 11 ω⋅+ω⋅  və 
+tsin'iHtcos'H 11 ω⋅−ω⋅  sahələrə ekvivalentdir. Bu sahələrdən biri 
+nüvə maqnit dipolulun istiqamətində fırlanır. Əgər ω1 tezliyi 
+qonşu enerji səviyyələrinin arasındakı məsafəyə (m=±1) uyğun 
+gələn enerji kvantının tezliyinə bərabərdirsə, yəni 01 Hγ=ω , 
+kvantın udulması baş verir πγ=∆ 2hHE 0  və onda nüvənin 
+yuxarı enerji səviyyəsinə məcburi keçidi baş verir. 
+ 71 
+Həyəcanlaşdırıcı sahənin ω1 tezliyi nüvə maqnit momentinin ω0 
+presessiya tezliyinə bərabər olur. Bu tezlik rezonans tezliyi 
+adlanır. Fırladıcı H1 yüksək tezlikli sahənin komponentlərinin 
+təsirini də nəzərə almamaq olar. Artıq Horter 1936-cı ildə nüvənin 
+enerji səviyyələri arasında keçidlərinin mümkünlüyünü 
+söyləmişdir. Lakin texnikanın təkmilləşdirilməməsi və materialın 
+düzgün seçilməməsi onun təcrübələrini nəticəsiz qoymuşdur. 
+Bərk cisimlərdə nüvə maqnit rezonansı udulması müşahidə 
+oluna bilən müvəffəqiyyətli təcrübələr Amerikada bir-birindən 
+asılı olmayan Blox və Perselin rəhbərliyi ilə işləyən qruplar 
+tərəfindən aparılmışdır. Bu təcrübənin nəticəsinə görə fizika 
+sahəsində 1952-ci ildə onlar Nobel mükafatına layiq görülmüşlər. 
+Nüvə maqnit rezonansı spektroskopiyanın köməyilə bircins 
+maqnit sahəsinin H0 dəyişməsindən asılı olaraq müşahidə olunan 
+udulan enerjinin zaman asılılığı rezonans xətti adlanır. 
+Rezonans xətlərinin dəqiq formalarının öyrənilməsi 
+maddənin quruluşunun araşdırılmasında və relaksasiya adlanan 
+enerji keçidləri prosesində müəyyən kəşflərə gətirib çıxarmışdır. 
+Relaksasiya prosesləri. Məlum olmuşdur ki, bərk maddələrdə 
+zərrəciklərin mütəhərrikliyinin kiçik olması hesabına və digər 
+tərəfdən nüvələrin spinlərinin qarşılıqlı təsirinin nəticəsi olaraq spin 
+sistemləri arasında enerji mübadiləsi baş verir. Buna spin-spin 
+relaksasiyası deyilir. Bundan başqa spin sistemi və temperaturun 
+təsirindən xaotik hərəkətdə olan molekulyar sistem arasında da 
+enerji mübadiləsi baş verir. Bu prosesə spin-qəfəs relaksasiyası 
+deyilir. Burada qəfəs dedikdə maddədə olan və verilmiş spin 
+sistemi ilə qarşılıqlı təsirdə olan bütün mikro zərrəciklərin 
+sərbəstlik dərəcəsi başa düşülür. Spin sistemi daxilində energetik 
+tarazlıq spin sistemi ilə qəfəs arasında olan energetik tarazlığa 
+nisbətən tez əmələ gəlir. Bunun səbəbi ondadır ki, kristallik qəfəsdə 
+zərrəciyin hərəkəti məhdud olduğundan spin-qəfəs relaksasiyasının 
+müddəti bəzən bir neçə saata çatır. Ona görə də belə sistem xarici 
+ 72 
+qeyri-bircins maqnit sahəsində özünü asılı olmayan spinlər kimi 
+deyil, rezonans tezliklərin geniş spektrli ümumi sistem kimi aparır. 
+Relaksasiya prosesləri verilmiş halın mövcudluğunun orta vaxtını 
+xarakterizə etməklə, spektral xətlərin təbii eni ilə mütənasib olur. 
+Bərk maddələrdə rezonans xətləri müəyyən qədər enli olur və 
+onların formaları isə kristallik qəfəsin strukturu ilə müəyyən edilir. 
+Mayelərdə molekulların intensiv hərəkəti temperaturun təsiri ilə 
+əlaqədar olarsa, bilavasitə spin-spin qarşılıqlı təsiri çox kiçikdir. 
+Enerjinin yüksək tezlikli dəyişən H1 sahəsindən temperaturun təsiri 
+ilə hərəkət halında olan spin sisteminə və oradan maddənin 
+hissəciklərinə keçməsi əsas etibarilə spin-qəfəs relaksasiyası 
+prosesində baş verir. Bu prosesin təsiri altında molekulların istilik 
+enerjisi kifayət dərəcədə dəyişir. 7,5-22 T maqnit sahəsində adətən 
+nüvə maqnit rezonansından istifadə olunur və bu halda maqnit 
+nüvələrinin enerji səviyyələri arasında olan məsafə kiçik olur. Tipik 
+üzvi mayelər üçün otaq temperaturunda spin-qəfəs üçün xarakterik 
+zaman (T1) 1-20 san, spin-spin relaksasiyası üçün isə bu müddət 
+(T2) on dəfə kiçikdir. Mayelərin və məhlulların nüvə maqnit 
+rezonansı spektrləri bir-birinin üzərinə düşən bir sıra nazik 
+xətlərdən ibarət olur və onların qeydiyyatı üçün yüksək ayırdetmə 
+qabiliyyətinə malik olan spektrometlər lazım olur. Yüksəktezlikli 
+H1 maqnit sahəsinin intensivliyinin həddən çox artırılması müxtəlif 
+enerji səviyyələrində olan nüvələrin sayının bərabərləşməsini təmin 
+edə bilər və relaksasiya prosesinin pozulmasını çatdıra bilməz. Bu 
+effekt doyma effekti adlanır və bunun nəticəsində rezonans xətlərin 
+intensivliyi aşağı düşür və genişlənir. 
+ 
+ 
+5.2. Kimyəvi sürüşmə 
+ 
+Ekranlaşma sabiti. Yüksək dəqiqliyə malik və müxtəlif 
+nüvə momentlərini ölçmək üçün istifadə olunan nüvə maqnit 
+ 73 
+rezonansı spektroskopiyasına fiziklərin böyük marağı vacib kəşfə 
+gətirdi ki, bu da öz növbəsində kimyaçıların diqqətini çəkdi. 
+Məlum oldu ki, müxtəlif kimyəvi birləşmələrdə verilmiş nüvə 
+üçün rezonans şərtləri müxtəlifdir. Daha doğrusu rezonans şərtləri 
+rabitənin formasından və nüvənin molekulda vəziyyətindən 
+asılıdır. H0 maqnit sahəsinin təsiri altında elektronlar nüvə 
+ətrafında zəif maqnit sahəsi yaradırlar. Əmələ gələn maqnit sahəsi 
+nüvəyə öz təsirini göstərir və buna görə də nüvənin yaxınlığında 
+maqnit sahəsinin intensivliyi aşağıdakı kimi ifadə olunur: 
+ 
+H=H0(1–σ).                                    (5) 
+ 
+Adətən bu lokal maqnit sahəsi xarici maqnit sahəsindən bir 
+qədər kiçikdir. Elektron təbəqələrinin ekranlaşma təsirindən H0 
+maqnit sahəsinin intensivliyinin azalması dərəcəsi ekranlaşma 
+sabiti adlanır (σ) və onu dörd additiv tərkib hissəsinə ayırmaq 
+olar. 
+Əsas tərkib hissəsi – diamaqnit hissəsidir, onun da əmələ 
+gəlməsini belə izah etmək olar. H0 maqnit sahəsinin təsirilə 
+elektronların hərəkəti yönəlmiş maqnit sahəsinə perpendikulyar 
+istiqamətdə baş verir. Bu zaman elektronlar özlərini qapalı 
+elektrik cərəyanı kimi aparır. Bu isə yönəlmiş maqnit sahəsinə əks 
+istiqamətdə maqnit sahəsinin yaranmasını şərtləndirir. Diamaqnit 
+tərkib hissəsi nüvə ətrafında maqnit sahəsinin intensivliyinin 
+azalması ilə bağlıdır. Paramaqnit tərkib hissəsi əsas elektron halı 
+və daha aşağı həyəcanlanmış hal arasında sürüşmə ilə 
+şərtlənmişdir. Proton maqnit rezonansında bu tərkib hissəsi öz 
+əhəmiyyətini itirir. Belə ki, hidrogen atomunun aşağıda yerləşən 
+həyəcanlaşmış halı olmur. Əksər başqa nüvələr üçün ekranlaşma 
+sabitinin bu tərkib hissəsi çox vacibdir (məsələn, F19). 
+Ekranlaşma sabitinin üçüncü komponenti molekulun qonşu 
+atomlarının maqnit anizotropiyası ilə şərtlənmişdir. Molekulun 
+ 74 
+həndəsi quruluşundan asılı olaraq bu komponent nüvənin 
+ekranlaşmasını artırıb (+) və ya azalda (-) bilər (şəkil 19). 
+Nəhayət, ekranlaşma sabitinin axırıncı tərkib hissəsi aromatik 
+birləşmələrin maqnit sahəsinin təsirilə əmələ gələn atomlar arası 
+elektron dairəvi cərəyanla bağlıdır. Əgər maqnit sahəsi benzol 
+halqası müstəvisinə perpendikulyar istiqamətdə təsir göstərirsə, 
+onda benzol halqasının üstündə və altında sərbəst elektronların 
+cərəyanı əmələ gəlir. Bu da lokal maqnit sahəsini əmələ gətirir və 
+halqanın müstəvisində maqnit sahəsinin intensivliyini artırır (şəkil 
+20). 
+ 
+ 
+Şəkil 19. Maqnit anizotropiyasının ekranlaşma sabitinin qiymətinə təsiri. 
+ 
+ 
+Şəkil 20. Elektronların dairəvi cərəyanla şərtlənmiş  
+C C H++ 
+– 
+– 
++ 
++
+C O
+H
++
++
+C C– –
+ 75 
+aromatik protonların ekranlaşması. 
+ 
+Ekranlaşma sabitinin tərkib hissələri müxtəlif kimyəvi əhatəli 
+atomlarda müxtəlif cür özünü göstərdiyindən, eyni nüvə üçün 
+müxtəlif ekranlaşma sabiti tapılır. Bunun nəticəsində kimyəvi 
+qeyri-bərabər olmayan nüvələrin vəziyyəti üçün rezonans 
+tezlikləri spektrin müxtəlif hissələrinə düşürlər. NMR 
+spektroskopiyada işçi diapozon az olduğundan tezliklərin mütləq 
+qiymətini təyin etmək üçün 10-8-10-9 dəqiqliklə ölçü aparmaq 
+lazımdır. Bu isə olduqca çətindir. Buna görə də müxtəlif 
+ekranlaşmış nüvələrin rezonans tezliyi etalon kimi götürülən xəttə 
+nisbətən ölçülür. Tədqiq olunan maddənin siqnalının etalon 
+maddəsinin siqnalına nisbətən sürüşməsi kimyəvi sürüşmə adlanır 
+(şəkil 21). 
+ 
+ 
+ 
+Şəkil 21. Aseton/tetrametilsilan qarışığının müxtəlif 
+işçi tezliklərnə NMR-spektrləri. 
+ 
+Şəkildən göründüyü kimi kimyəvi sürüşmənin hers ilə 
+qiyməti çəkiliş şəraitindən asılıdır. Bunu aradan qaldırmaq üçün 
+ölçülmüş kimyəvi sürüşməni spektrometrin işçi tezliyinə bölürlər 
+və nəticədə milyonda bir hissə adlanan vahidsiz kəmiyyət alınır 
+ 76 
+(cədvəl 16): 
+ 
+6
+0
+met6
+0
+met 1010
+H
+HH −− ⋅
+ν
+ν−ν
+=⋅
+−
+=δ .               (6) 
+ 
+Məsələn, aseton üçün 
+ 
+.h.m1,2101,2
+10100
+210
+.h.m1,2101,2
+1060
+126
+6
+6
+6
+6
+=⋅=
+⋅
+=δ
+=⋅=
+⋅
+=δ
+−
+−
+ 
+ 
+Cədvəl 16. Bəzi qrupların kimyəvi sürüşməsi 
+ 
+Qrup δ, m.h. Qrup δ, m.h. 
+Metil qrupları Metilen qrupları 
+CH3R 0,8-1,2 R–CH2–R 1,1-1,5 
+CH3CR C  1,6-1,9 R–CH2–Ar 2,5-2,9 
+CH3–Ar 2,2-2,5 RCH2 C R
+O
+ 
+2,5-2,9 
+CH3 C R
+O
+ 
+2,1-2,4 R–CH2OH 3,2-3,5 
+CH3 C Ar
+O
+ 
+2,4-2,6 R–CH2–OAr 3,9-4,3 
+CH3 C OR
+O
+ 
+1,9-2,2 
+RCH2O C R
+O
+ 
+3,7-4,1 
+CH3 C OAr
+O
+ 
+2,0-2,5 R–CH2Cl 3,5-3,7 
+CH3 N  
+2,2-2,6 Metin qrupları 
+ 77 
+CH3–OR 3,2-3,5 R2CH 1,4-1,6 
+CH3–OAr 3,7-4,0 R2CHOH 3,5-3,8 
+CH3 C R
+O
+ 
+3,6-3,9 Ar2CHOH 5,7-5,8 
+Doymamış qruplar Başqa qruplar 
+RCH C
+ 
+5,0-5,7 ROH 3-6 
+Ar–R 6,0-7,5 ArOH 6-11 
+R C H
+O
+ 
+9,4-10,4 RCO2H 10-12 
+R–C=C–R 2,5 RNH– 2,4 
+ 
+Hər hansı bir maddəni etalon kimi seçmək üçün o, aşağıdakı 
+tələblərə uyğun olmalıdır: 
+1. Etalon maddəsi dar bir pik verməlidir; 
+2. Belə pik asanlıqla təyin edilməli və tədqiq olunan 
+maddələrin udma zolaqları arasında yerləşməməlidir. 
+3. Tədqiq olunan maddəyə və həllediciyə qarşı inert olmalıdır. 
+4. Etalon maddəsi maqnit-izotrop olmalıdır. 
+5. O, bir çox müxtəlif həlledicilərdə həll olmalıdır. 
+6. O, asanlıqla uçmalıdır. 
+Proton spektroskopiyasında bir sıra etalondan istifadə edilir: 
+TMS, HMDS, HMDS, DSS və s. əsasən istifadə olunan 
+tetrametilsilandır. 
+Hər bir üzvi məddənin NMR spektrini ölçmək üçün tədqiq 
+olunan maddənin lazımi həlledicidə məhlulunu hazırlamaq lazım-
+dır. Nəzəri olaraq NMR üçün tərkibində hidrogen olmayan 
+mayelər, məsələn, CCl4, CS2 və s. daha əlverişlidir. Ancaq bu 
+həlledicilərdə həll olmayan maddələr üçün elə birləşmələrdən 
+istifadə edirlər ki, onların tərkibində hidrogen atomları deyterium 
+və ya flüorla əvəz olunsun: aseton – d6, benzol – d6, metanol – d4, 
+D2O, xloroform – d və s. 
+ 78 
+C-H rabitəsinin protonlarının kimyəvi sürüşməsi temperatu-
+run dəyişməsindən az asılıdır. Lakin heteroatomla bağlı pro-
+tonların (OH–, SH–, NH–) kimyəvi sürüşməsi temperaturdan 
+olduqca asılıdır. Tərkibində göstərilən qruplar olan birləşmələr 
+hidrogen rabitəsinin nəticəsində assosiasiya edirlər. Beləliklə, bu 
+protonların assosiatlarda kimyəvi sürüşməsi izolə edilmiş mole-
+kullarından fərqlənir. Temperaturun dəyişməsi assosiasiatların 
+əmələ gəlməsinə təsir göstərir və bu da öz növbəsində kimyəvi 
+sürüşməyə təsir edir. 
+C–H rabitəsinin protonlarının kimyəvi sürüşməsi qatılıqdan 
+da az asılıdır. Hetero atomlarla bağlı protonların kimyəvi sürüş-
+məsi assosiasiya dərəcəsindən asılıdır, axırıncı da öz növbəsində 
+qatılıq, temperaturla və həlledicisinin təbiəti ilə təyin edilir. 
+Assosiasiya dərəcəsi artdıqca müvafiq siqnal zəif sahələrə tərəf 
+sürüşür. 
+Eyni həlledicidə ölçülmüş kimyəvi sürüşmələri bir-biri ilə 
+müqayisə etmək olar. Praktikada bu hər vaxt mümkün olmadı-
+ğından cədvəllərdə qeyri-polyar həlledicilərdə alınmış 
+məlumatları verirlər. 
+Aromatik həlledicilərdə kimyəvi sürüşmənin qiymətləri də-
+yişir. Bu isə onların güclü anizotropiyası ilə izah edilir. 
+ 
+ 
+5.3. Spin-spin qarşılıqlı təsiri 
+ 
+Yüksək ayırdetmə qabiliyyətli spektrlərdə protonların müx-
+təlif ekranlaşması ilə şərtləndirilən siqnalların vəziyyətinin də-
+yişməsindən başqa nüvələrin spin-spin qarşılıqlı təsirinin nəticəsi 
+olan əlavə parçalanma müşahidə edilir. 
+Etil spirtinin spektri üç qrup rezonans siqnallarından 
+ibarətdir: metil, metilen və hidroksil (şəkil 22). Etil qrupu qeyri-
+ekvivalent nüvələrin spinlərinin qarşılıqlı təsiri ilə şərtləndirilən 
+ 79 
+incə quruluş verir. Müşahidə edilən parçalanma spin-spin qar-
+şılıqlı təsir sabiti (spin sabiti və ya qarşılıqlı təsir sabiti) ilə 
+xarakterizə edilir. Bu sabit yönələn maqnit sahəsindən asılı olma-
+yaraq, valent elektronların vasitəsilə ötürülən maqnit qarşılıqlı 
+təsirinin nəticəsidir. 
+Nüvə spini nüvəni əhatə edən elektronların spinlərini əks 
+istiqamətdə səmtləşdirməyə çalışır. Onlar da öz növbəsində cüt 
+elektronlara təsir göstərərək onların vasitəsilə qonşu nüvələrə təsir 
+edir və ekranlaşma sabitinin diamaqnit tərkib hissəsini artırır və 
+ya azaldır. 
+Əgər metil qrupuna təsir edən lokal maqnit sahəsinə nəzər 
+yetirsək, onda aydın olur ki, bu sahənin intensivliyi iki metilen 
+protonunun nüvə spinlərinin səmtləşdirilməsindən asılıdır. Əgər 
+hər iki proton Ho sahəsinə paraleldirsə, onda metil qrupuna təsir 
+edən lokal sahənin qiyməti artır. Rezonans H0 sahəsinin nisbi 
+yuxarı sahələrinə tərəf sürüşdürülür. Əgər spinin biri paralel, ikin-
+cisi isə H0 sahəsinə antiparalel yerləşirsə, onda onların metil qru-
+puna təsiri sıfıra enir. Belə halın ehtimalı iki dəfə çoxdur. Buna 
+görə də tripletin ayrı-ayrı komponentlərinin intensilvliyi 1:2:1 
+nisbətindədir. Metil qrupunun təsiri ilə şərtləndirilmiş metilen 
+siqnalının parçalanması yuxarıdakı kimi izah edilir. 
+ 80 
+ 
+Şəkil 22. Etil spirtinin PMR spektri: 
+a – turşu iştirakı ilə; b – təmiz maddə.   
+ 
+Əgər qarşılıqlı təsir n ekvivalent nüvələrlə baş verirsə, onda 
+əmələ gələn multipletlərdə xətlərin sayı 2nJ-1 bərabərdir. Proton 
+üçün J=1/2 olduğundan multipletlik n+1 bərabərdir. Multipletdə 
+xətlərin intensivliklərinin paylanmasını Paskal üçbucağı adlanan 
+cədvəldən istifadə etməklə tapmaq olar (şəkil 23). 
+ 81 
+ 
+Şəkil 23. Paskal üçbucağı. 
+ 
+Böyük multipletlərin yan komponentlərinin intensivlikləri o 
+qədər kiçik olur ki, real spektrlərdə onları ayırd etmək olmur. 
+Spin-spin təsirinin qiyməti molekul daxili xarakteristika 
+olduğundan yönəlmiş maqnit sahəsinin intensivliyindən asılı 
+deyil. Spin-spin sabiti həmişə herslə (Hs) ölçülür. 
+Spin-spin sabitinin qiyməti qarşılıqlı təsirdə olan protonlar 
+arasında olan kovalent rabitələrin sayından asılıdır. Onların 
+arasında üçdən çox gərginliyi olmayan təkqat rabitə olduqda 
+spektrdə praktiki olaraq parçalanma müşahidə edilmir. 
+Spin-spin sabitləri qarşılıqlı təsirdə olan protonların arasında 
+olan rabitələrin təbiətindən asılıdır. Belə ki, təkqat rabitələrlə 
+müqayisədə ikiqat rabitələr vasitəsilə qarşılıqlı təsir daha yaxşı 
+ötürülür. Məsələn, H–C–C–C–H sistemi üçün təsir sabitləri 0,2 
+Hs-ə yaxındır, allil sistemində isə J=2-3 Hs-dir. Bəzi hallarda 
+qarşılıqlı təsir doqquz təkqat rabitə vasitəsilə ötürülür. 
+Molekulda hidroksil və amin qrupları olduqda, spin-spin 
+qarşılıqlı təsiri bir qayda olaraq müşahidə edilmir. Sürətli kimyəvi 
+mübadilənin nəticəsində amin və hidroksil qrupların protonları 
+parçalanmamış (və bir çox hallarda enli) siqnal şəklində müşahidə 
+edilirlər. Qonşu qrupların protonlarının siqnalları da OH və NH2 
+qrupların protonlarında da parçalanmırlar. Ancaq spirtlərin çox 
+təmiz nümunələrində, yəni tərkibində mübadiləni katalizə 
+etməyən turşu və qələvi qatışıqların olmadığı hallarda spin-spin 
+parçalanmanın adi şəklini müşahidə etmək olar (bax şəkil 22). 
+ 82 
+Təsir sabitinin işarəsi qarşılıqlı təsirdə olan atomlar 
+arasındakı rabitələrin sayından və növündən asılıdır. Alifatik 
+sistemlərdə (rabitələrin qoşa sayında) eyni səmtləşdirilmiş 
+spinlərin qarşılıqlı təsiri zamanı spin sabiti mənfi qiymət alır və 
+əgər qarşılıqlı təsirdə olan spinlər üst-üstə düşürlərsə (rabitələrin 
+tək sayında) onda sabitin qiyməti sıfırdan böyükdür. 
+Aromatik sistemlərdə bu qayda ödənilmir, belə ki, təsirdə 
+olan orto-, meta- və para- vəziyyətlərdə olan hidrogen atomları 
+arasında spin sabitinin qiymətləri müsbətdir. 
+Qarşılıqlı təsirdə olan nüvələrin arasındakı rabitələrin 
+sayından asılı olaraq heminal sabit 2JH-H (iki rabitə arası), visinal 
+sabit 3Jn-n (üç rabitə arasında) və uzaq qarşılıqlı təsir sabitləri 4JH-H, 
+5JH-H və s. ortalığa çıxır. 
+Heminal təsir. Heminal qarşılıqlı təsir iki rabitə ilə ayrılmış 
+protonlara aid edilir. Məsələn, bir karbon atomunda yerləşən pro-
+tonlar H–C–H. Heminal sabitlərin mütləq qiymətləri əsasən 0-20 
+Hs intervalındadır, ancaq istisna hal kimi formaldehidi (43 Hs) 
+göstərmək olar. 
+ 
+–CH2– (tsiklik)  0-20 Hs 
+–CH2– (atsiklik)  12-15 Hs 
+–CH2– CO - CH2  16-20 Hs 
+=CH2 0-3 Hs 
+ 
+Heminal sabitin qiyməti Jhem protonlarla bağlı karbon ato-
+munun hibridləşməsindən asılıdır. Hibridləşmənin dəyişməsi öz 
+növbəsində rabitələr arası bucağın dəyişməsinə gətirib çıxarır. 
+Rabitələr arası bucaqların dəyişməsi tsiklik birləşmələrdə daha 
+yaxşı müşahidə edilir (şəkil 24). 
+Heminal sabit əvəzedicilərin elektromənfiliyi artdıqca çox-
+alır, məsələn, H – metan üçün 2JH-H=–12,4 Hs, metil spirti üçün 
+2JH-H = –10,8 Hs, metilflüorid üçün 2JH-H= –9,6 Hs-dir. 
+ 83 
+ 
+Şəkil 24. Heminal qarşılıqlı spin-spin sabitinin 
+rabitələr arası bucaqdan asılılığı. 
+ 
+Visinal sabit. Visinal təsir dedikdə üç rabitəarası təsir başa 
+düşülür. Məsələn, iki qonşu karbon atomu yanında protonların 
+qarşılıqlı təsiri H-C-C-H. Visinal sabitlər müsbət işarəlidir və  0-
+20 Hs intervalındadırlar. 
+ 
+CH-CH (sərbəst fırlanma)  6-8 Hs 
+CH-CH (tsiklopentan)  4-5 Hs 
+CHa-CHa (tsikloheksan)  8-10 Hs 
+CHa-CHe (tsikloheksan)  2-3 Hs 
+CHe-CHe (tsikloheksan) 2-3 Hs 
+CH-CH=0  2-3 Hs 
+= CH-CH=0  6 Hs 
+CH-OH  3-7 Hs 
+CH-NHCO  5-9 Hs 
+CH-SH  8 Hs 
+CH=CH (sis)  6-12 Hs 
+CH=CH (trans)  12-18 Hs 
+= CH-CH  4-10 Hs 
+ 84 
+= CH-CH=  9-13 Hs 
+Visinal sabitlərin əvəzedicilərin elektromənfiliyindən asılılığı 
+çox azdır. Ancaq Karplus tərəfindən tapılan visinal sabitin iki 
+üzlü bucaqdan asılılığı çox işlənilir (şəkil 25). 
+ 
+900,28,0cos5,8J 23 ≤θ≤−θ=                      (6) 
+18090,28,0cos5,9J 23 ≤θ≤−θ=                     (7) 
+ 
+Şəkil 25. Visinal qarşılıqlı spin-spin sabitinin 
+rabitələr arası bucaqdan asılılığı. 
+ 
+İkiqat rabitə yanında protonlarda visinal sabitlərin qiyməti 
+trans-izomer üçün yüksəkdir. Tsiklik birləşmələrdə C=C–H valent 
+bucağı azaldıqca visinal sabitin qiyməti artır. 
+Uzaq təsir. Uzaq təsir dedikdə dörd və ya daha çox rabitə-
+arası qarşılıqlı təsir başa düşülür. Sabitlərin mütləq qiymətləri   0-
+4 Hs intervalındadır və dörd rabitə arası sabitlər mənfi, beş 
+rabitələr arası isə müsbət işarəlidir. 
+ 
+ 85 
+CH=C-CH  1-2 Hs 
+CH≡C-CH  2-3 Hs 
+CH-C=C-CH  1-2 Hs 
+CH-C≡C-CH  2-3 Hs 
+ 
+Göründüyü kimi belə qarşılıqlı təsir müəyyən qiymətə o vaxt 
+çatır ki, dörd və ya beş rabitədən biri qoşa rabitə və ya sadə dörd 
+rabitə W-şəklində müstəvidə yerləşir. 
+ 
+H
+C
+C
+C
+H
+ 
+ 
+Bəzi hallarda bu təsir xəttin parçalanmasında deyil, ancaq 
+onun enlənməsilə özünü büruzə verir. 
+İki və ya daha çox qarşılıqlı təsirdə olan protonlardan ibarət 
+olan sistem spin-sistemi adlanır. Molekulun tərkibində bir neçə 
+spin sistemi ola bilər. Sistemdəki nüvələr əlifbanın baş hərfləri ilə, 
+ekvivalent protonların miqdarı isə onların altında rəqəmlərlə işarə 
+edilirlər. Əgər qarşılıqlı təsirdə olan protonların kimyəvi 
+sürüşmələrinin fərqi herslə, onların spin-spin sabitindən altı və ya 
+daha çoxdursa, onda belə protonlar əlifbanın bir-birindən aralı 
+yerləşən hərfləri ilə işarə edilir, məsələn, AX, A2X, AMX, AX2 və 
+s. 
+ 
+10
+J
+JJ ba >− .                                   (9) 
+ 
+Yuxarıda göstərilən nisbət azaldıqca protonlar yanaşı 
+hərflərlə işarə edilirlər. Məsələn, AB, A2B, ABC və s. (şəkil 26). 
+Eyni kimyəvi sürüşməsi və fərqli qarşılıqlı spin-spin təsiri 
+sabiti olan spin sistemini AA1, BB1 və ya AA1XX1 kimi işarə 
+edirlər. 
+ 86 
+AX və A2 sistemlərini birinci tərtibli spektrlərin nümunəsi 
+kimi göstərmək olar. Ümumi halda birinci tərtibli spektrlər 
+haqqında iki şərt ödənildikdə demək olar. Birincisi, yuxarıdakı 
+nisbət ödənildikdə və ikincisi, hər bir proton qonşu qrup pro-
+tonları ilə eyni cür qarşılıqlı təsirdə olduqda, bu zaman NMR 
+spektri aşağıdakı keyfiyyətlərə malikdir: 
+ 
+Şəkil 26. PMR spektrlərində AX spin sistemindən  
+A2 sisteminə keçid zamanı dəyişikliklər. 
+ 
+− ekvivalent protonlar bir iti siqnal verirlər; 
+− xəttin multipletliyi qonşu protonların sayı üstəgəl birə 
+bərabərdir; 
+ 87 
+− multipletin siqnalları kimyəvi sürüşmə ətrafında simmetrik 
+yerləşir və bir-biri arasında məsafə spin qarşılıqlı sabitinə 
+bərabərdir; 
+− multiplet siqnallarının nisbi intensivliyi parçalanma 
+əmsalına (x+1)n (n – qonşu atomların miqdarı) mütənasibdir. 
+Əgər yuxarıda göstərilən hər iki şərt ödənilmirsə, onda yuxarı 
+tərtibli spin sistemi ortalığa çıxır. Yuxarı tərtibli spektrlərin inter-
+pretasiyası çətinləşir və buna görə də onları sadələşdirən üsullar-
+dan istifadə edirlər. 
+Çətin spektrin sadələşdirilməsi yuxarıda verilən nisbətin ar-
+tırılması ilə əldə edilə bilər. Cihazın işçi tezliyinin artırılması 
+siqnallar arasındakı məsafəni artıraraq spin sabitlərini dəyişilməz 
+saxlayır (şəkil 27). 
+ 
+Şəkil 27. γ-Xloryağ turşusunun müxtəlif tezlikli cihazlarda əldə olunan 
+ 88 
+PMR spektrləri. 
+ 
+NMR spektrlərini sadələşdirmək üçün deyterium 
+birləşmələrdən istifadə edilə bilər. Bu zaman spektrdə 
+deyteriumla əvəzlənmiş hidrogen siqnalları yoxa çıxır, və H-D 
+spin sabitləri 6,55 dəfə müvafiq H-H sabitlərindən azdır. 
+Həlledicilərin dəyişməsi də kimyəvi sürüşməni dəyişdirir, 
+amma spin sabitinə həlledici praktiki təsir etmir. 
+Yuxarıda verilən (9) nisbəti dəyişmək üçün lantanoid sürüş-
+mə reagentlərindən (LSR) istifadə edirlər. Bu reagentlər 
+bölünməmiş elektron cütlü heteroatomlu üzvi birləşmələrlə 
+komplekslər əmələ gətirirlər. Molekula paramaqnit atomların 
+daxil edilməsi əlavə lokal maqnit sahələrinin əmələ gəlməsinə 
+çıxararaq müxtəlif protonların ekranlaşmasına öz təsirini göstərir. 
+Bu zaman spin sabitləri toxunulmaz qalır (şəkil 28). 
+ 
+Şəkil 28. 2,2-Di(trifluormetil)-1-dimetilkarbomoilmetoksiaziridinin 
+PMR spektri (a) və LSR iştirakı ilə (b). 
+ 89 
+ 
+Bəzi hallarda spektri sadələşdirmək üçün spin-spin qarşılıqlı 
+təsiri aradan çıxartmaq lazım gəlir. Spin qarşılıqlı təsirin aradan 
+çıxarılmasının universal və eksperimental asan əldə olunan üsulu 
+ikiqat rezonans üsullarıdır. İkiqat rezonans zamanı nümunəyə, 
+qarşılıqlı təsirdə olan nüvələrin birindən rezonans tezliyinə 
+bərabər olan radiotezlikli bir sahə yönəldilir. Bu zaman sistemin 
+energetik səviyyələrinin dəyişməsi baş verir. Əgər təsirə məruz 
+qalan nüvələr bir izotopa aid edilirsə, belə rezonans homonüvəli 
+adlanır, müxtəlif nüvələrə aid edilirsə, heteronüvəli ikiqat 
+rezonans adlanır. İkiqat rezonansın eksperimental üsulları 
+həyəcanlandırıcı sahənin gərginliyinə görə fərqlənirlər: tam və 
+seçici şəkildə spin-spin qarşılıqlı təsirinin qırılması, spin-tiklinq, 
+nüvə Overxauzer effekti və İNDOR. 
+ 
+4.4. Siqnalların inteqrallanması 
+ 
+Rezonans siqnallarının altındakı sahə rezonansda olan 
+nüvələrin sayına mütənasibdir. Toluolun PMR spektrində 
+siqnalların sahəsi fenil və metil protonlarının sayının nisbəti (5:3) 
+ilə uyğundur. Rezonans əyrilərinin inteqrallanmasını həm 
+mexaniki (məsələn, planimetrlə), həm də elektron qurğunun 
+köməyilə aparmaq olar (şəkil 29). Axırıncı inteqrallama üsulu ilə 
+pilləli əyri alınır və pillələrin hündürlüyü siqnalların sahələrinə 
+uyğundur. 
+ 90 
+ 
+Şəkil 29. Toluol protonlarının siqnallarının inteqrallanması. 
+İnteqraldan aşağıdakı informasiyanı almaq olar: 
+a) maqnit nüvəli (1H,19F, 31P və s.) elementlərin miqdari analizi; 
+b) molekulda ekvivalent nüvələrin miqdarının təyini; 
+c) miqdari izotop analizi; 
+ç) sadə və dayanıqlı qatışıqların miqdari analizi; 
+d) enantiomerlik (optiki təmizlik). 
+ 
+4.5. Müxtəlif sinif üzvi birləşmələrin 
+PMR spektrlərinin xüsusiyyətləri 
+ 
+Doymuş karbohidrogenlər və onların törəmələri. Açıq 
+zəncirli doymuş karbohidrogenlərin PMR spektrlərində metil və 
+metilen qruplarının siqnallarının kimyəvi sürüşmələrinin 
+qiymətləri yaxındır (CH3-0,8-1,4 m.h., CH2-1-2 m.h.). Bundan 
+başqa bu qrupların siqnalları spin-spin qarşılıqlı təsiri hesabına 
+parçalanırlar və buna görə də doymuş karbohidrogenlərin 
+spektrlərinin interpretasiyası çətindir. Spektrdə aydın görsənən 
+ 91 
+üçlübutil qruplarıdır, onlar 0,8-0,9 m.h. sahəsində intensiv siqnal 
+verirlər. 
+Doymuş birləşmənin molekuluna heteroatomun salınması 
+siqnalların zəif sahələrə tərəf sürüşməsinə gətirib çıxarır və bu 
+zaman ən çox sürüşməyə məruz qalan heteroatom yanında olan 
+karbonun protonlarıdır. Bir çox hallarda belə birləşmələrin spektr-
+lərini birinci tərtib spekirləri kimi interpretasiya etmək olar. Əgər 
+birləşmənin tərkibində heteroatomla bağlı etil qrupu varsa, onda 
+4
+J
+32 CHCH >
+ν−ν
+ nisbətində PMR spektrdə güclü sahələrdə metil 
+qrupunun tripleti, zəif sahələrdə isə metilen qrupunun kvarteti 
+müşahidə ediləcəkdir. 
+İzopropil qrupu adətən yuxarı sahələrdə dublet şəklində, zəif 
+sahələrdə isə az intensivlikli multiplet şəklində çıxır. 
+Proton-maqnit rezonansı spektrləri doymuş birləşmələrin fır-
+lanma izomeriyasını tədqiq etməyə imkan yaradır. 
+PMR spektrləri vasitəsilə optiki aktiv birləşmələri də tədqiq et-
+mək olar. Məsələn, Ar-CH(OH)CH3-CH(CH3)2 birləşməsində izo-
+propil radikalının metil qrupları kimyəvi qeyri-ekvivalentdirlər və 
+buna görə molekulun bu hissəsinə iki ayrıca A3X və M3X sistemləri 
+kimi baxmaq olar. Belə sistemlərdə JAX=JMX=6,9 Hs, metil qru-
+plarının kimyəvi sürüşmələri fərqlidir ∆νA,M= 4,2 Hs və buna görə 
+də metil qruplarının udma sahəsində iki dublet müşahidə edilir. 
+4,2 Ùñ
+6,9 Ùñ 6,9 Ùñ
+ 
+Tsiklik doymuş birləşmələrin spektrlərin xarakteri tsiklin 
+ 92 
+həcmindən asılıdır. Üçüzvlü tsikllərin metilen protonların 
+siqnalları müvafiq açıq zəncirli protonlardan daha güclü sahələrdə 
+yerləşir. Məsələn, tsiklopropanda CH2 qrupun siqnalı 0,3 m.h., 
+propilen oksiddə isə 2,54 m.h. yerləşir. Üçüzvlü tsiklin sərt 
+quruluşu üç müxtəlif qarşılıqlı spin-spin sabitinin əmələ 
+gəlməsinə gətirib çıxarır: sis- və trans- vəziyyətlərdə olan 
+protonlar üçün visinal sabitlər və heminal protonlar üçün (3Jsis= 
+9,2 Hs; 3Jtrans =6,2 Hs; 2J= 5,6 Hs). 
+Tsiklin həcmi artdıqca metilen qruplarının potonlarının 
+siqnalları aşağı sahələrə və altıüzvlülər üçün açıq zəncirli metilen 
+qruplarının siqnallarının vəziyyəti ilə oxşardır. Altıüzvlü 
+tsikllərdə aksial və ekvatorial vəziyyətdə protonlar qeyri-
+ekvivalentdirlər. 
+Əksər tsiklik birləşmələrdə aksial protonların siqnalları 
+ekvatorial protonlardan daha güclü sahələrdə yerləşirlər. Qonşu 
+karbonil qrupunun olması əks vəziyyətə gətirib çıxara bilər. 
+Bundan başqa aksial və ekvatorial protonların qeyri-ekvivalentliyi 
+visinal protonlar üçün üç spin-spin sabitinin olmasına gətirib 
+çıxarır. 
+3Jaa=10-12,5 Hs; 3Jee=3,5-4,5 Hs; 3Jae=2,7 Hs 
+Bu sabitlərin təyini doymuş altıüzvlü tsikllərin konformasiyasının 
+tədqiqinə kömək göstərir. 
+Doymamış birləşmələr. Olefin protonlarının siqnalları 4,5-8,0 
+m.h. sahədə çıxırlar. Əgər ikiqat rabitənin yanında elektrodonor 
+əvəzedici varsa, onda α-protonun siqnalı β-protonun siqnalından 
+daha zəif sahədə yerləşir. Güclü elektroakseptor əvəzləyicilər oldu-
+qda, daha zəif sahədə β-protonun siqnalı yerləşə bilər. Kimyəvi 
+sürüşmənin və spin-spin sabitinin qiymətlərinə protonların fəza qu-
+ruluşu öz təsirini göstərir. Belə ki, əksər olefin birləşmələri üçün 
+Jsis=8,0-13,0 Hs, Jtrans=14,0-18,0 Hs, Jhem=0-2,0 Hs. 
+Qoşulmuş dien və polien karbohidrogenlərin spektrləri çox 
+mürəkkəbdirlər və buna görə onların interpretasiyası çox vaxt 
+ 93 
+mümkün deyildir. 
+Asetilen protonları üçqat rabitənin anizotropiyasından və 
+onun ekranlaşdırıcı effektinə görə daha güclü sahələrdə 2,3-2,3 
+m.h. çıxırlar. 
+Aromatik birləşmələr. Aromatik birləşmələrin siqnalları 
+6,0-8,0 m.h. sahəsində aydınlaşır. Benzol protonlarının siqnalları 
+7,27 m.h. sahəsində müşahidə edilir. Monoəvəzlənmiş benzolların 
+protonlarının vəziyyəti əvəzləyicinin xarakteri və protonların 
+nisbi yerləşməsi ilə təyin edilir. Əvəzləyicilərin daxil edilməsi 
+benzol halqasının protonlarının qeyri-ekvivalentliyinə gətirib çıx-
+arır və bu zaman Jorto >Jmeta >Jpara. 
+Bəzi monoəvəzlənmiş benzollar üçün spektrdə, ancaq bir 
+siqnal müşahidə edilə bilər. Orto- və para- əvəzlənmiş benzolların 
+protonları AA'BB' tipinə aid edilən spektrdə mürəkkəb simmetrik 
+siqnallar verə bilərlər və multipletliklərinə görə əvəzləyicilərin 
+yerləşməsini təyin etmək olar. Meta-əvəzlənmiş protonlar ABCX 
+sisteminə aid edilirlər. Belə ki, əvəzləyicilər arasında yerləşən 
+protonun kimyəvi sürüşməsi başqa protonların kimyəvi 
+sürüşməsindən xeyli fərqlənir. Əvəzləyicilərin sayı artdıqca ben-
+zol törəmələrinin PMR spektrləri sadələşir. 
+ 94 
+VI FƏSİL 
+ 
+KÜTLƏ SPEKTROSKOPİYASI 
+ 
+Kütlə spektroskopiyası maddənin destruksiyasına gətirən üsul-
+dur. Kütlə spektri elektron zərbəsinin təsiri altında maddə molekul-
+larının destruksiya dərəcəsini göstərir. Aşağı enerjili elektron dəsti 
+kütlə spektrometrində buxar halında olan maddə molekuluna təsir 
+edirsə, onda bu molekul bir elektron itirir və molekulyar ion əmələ 
+gətirir. Əgər molekul yüksək enerjili  elektron dəstinin zərbəsinə 
+məruz qalırsa, onda ilkin əmələ gələn molekulyar ion daha kiçik 
+fraqmentlərə parçalanır. Bu fraqmentlərin bir qismi yüklənmiş, 
+bəziləri isə yox olur. Kütlə spektrləri, ancaq yüklənmiş 
+fraqmentləri öyrənir. Kütlə spektrometrində aşağı təzyiq olduğun-
+dan yüksək enerjili elektron dəstinin zərbəsindən sonra, ancaq 
+molekuldaxili reaksiyalar gedə bilər (şəkil 30). 
+ 
+Şəkil 30. Benzoy turşusunun tioetil efirinin kütlə spektri: a – elektron 
+dəstinin enerjisi 12 eV; b – 70 eV. 
+ 95 
+Zərbədən sonra əmələ gələn proseslərin bəziləri aşağıdakı 
+sxemdə verilmişdir. 
+À-Á-Ú-Ä-Å
+åëåêòðî í  äÿñòè
+10åÂ À-Á-Ú-Ä-Å
++  å
+ì î ëåêóëéàð èî í
+À-Á-Ú-Ä-Å
+åëåêòðî í  äÿñòè À-Á-Ú-Ä-Å +  å
+ì î ëåêóëéàð èî í
+éåíèäÿí 
+ãðóïëàøì
+à
+À-Á   Ú-Ä-Å
+ôðàãì åí òëÿøì ÿ
++
+À-Á-Å-Ú-Ä ôðàãì åí òëÿøì ÿ À-Á   Å-Ú-Ä+
+ôðàãì
+åíòëÿøì
+ÿ
+À-Á-Å + Ú-Ä
+70åÂ
+ 
+Kütlə spektroskopiyasının əsas tətbiq sahələri aşağıdakılardır: 
+a) dəqiq molekulyar kütlənin və molekulyar formulun təyini,  
+b) quruluşun tədqiqi; 
+Birincisi üçün molekulyar ionun tədqiqi aparılmalıdır və bu 
+zaman aşağı enerjili elektron dəstindən istifadə edirlər.  
+İkincisində isə molekulyar ionun parçalanması, alınan 
+fraqmentlərin analizi lazımdır və bu halda yuxarı enerjili elektron 
+dəstinin zərbəsindən istifadə edirlər.  
+ 
+6.1. Molekulyar kütlə və molekulyar  
+formulun təyini 
+ 
+ 96 
+Kütlə spektri əmələ gələn ionların nisbi miqdarının m/e 
+kəmiyyətindən asılılığı kimi qeydə alınır. Bu ionların yükü – e 
+əsasən 1-ə bərabər olduğundan, m/e nisbəti ionun kütləsinə 
+bərabərdir. Kütlə spektrində piklərin intensivliyi ən intensiv pikə 
+görə %-lə qiymətləndirilir.  
+Aşağı enerjili elektron selindən istifadə etdikdə spektrdə ən 
+intensiv pik (maksimal və ya əsas pik) əksərən ilkin molekulun 
+molekulyar ionuna uyğundur. Belə ki, ilkin ionun yükü 1 və bu 
+pik üçün m/e nisbəti tədqiq olunan maddənin molekulyar kütləsini 
+verir. Şəkil 30-da m/e=166 müşahidə edilən pik molekulyar 
+ionudur, amma əsas pikin m/e nisbəti 77-yə bərabərdir.  
+Yuxarı enerjili elektron dəstinin zərbəsindən sonra moleku-
+lyar ionun pikinin M intensivliyi, sonrakı reaksiyalara məruz 
+qaldığından azalır. Bundan əlavə ən çox kütləli pik heç də mole-
+kulyar ionun piki deyil. Belə ki: 
+a) molekulyar ionun tam fraqmentləşməsi gedə bilər; 
+b) izotopların olması az intensivlikli m/e kəmiyyəti M+1, 
+M+2 və s. olan piklərin əmələ gəlməsinə gətirib çıxarır. Spektrdə 
+bu izotop pikləri ən yüksək kütləli piklər ola bilər. 30-cu şəkildə 
+m/e=166-dan çox olan pikləri təyin etmək olar.  
+Müxtəlif izotop piklərinin intensivliyinin molekulyar ion 
+pikinin intensivliyi ilə müqayisəsindən molekulyar formulu almaq 
+olar. İzotopların təbii səpilməsini və onların kütlələrini bildikdə 
+gözlənilən M+1 və M+2 piklərinin intensivliklərini hesablamaq 
+olar. Belə nəticələr müxtəlif cədvəllərdə verilmişlər. (məsələn: 
+R.M.Silverstein, G.C.Bassler «Spektrometric İdentification of Or-
+ganic Compounds», «John Wiley and Sous, İnc., N.Y-Z, 1963). 
+Cədvəl 17-də bu nəticələrə misallar verilmişdir.  
+Cədvəldən göründüyü kimi •⊕M , M+1 və M+2 piklərinin 
+intensivliklərinin müqayisəsi kütlə ədədlərinin eyni olduqlarına 
+baxmayaraq C3H2N2, C4H4N və C5H6 bir-birindən fərqləndirmək 
+olur.  
+ 97 
+Üzvi birləşmənin quruluşunu təyin etmək üçün qəlpə ionların 
+piklərini tədqiq etmək lazımdır. Molekulyar ionda müxtəlif 
+rabitələrin qırılması mümkündür, lakin rabitənin qırılması ehti-
+malı və müvafiq ionun pikinin intensivliyi rabitə enerjisindən 
+asılıdır. Məsələn, təkqat rabitənin qırılması ikiqat rabitənin qırıl-
+masından asandır, C–C rabitəsinin qırılması, C–H rabitəsinin 
+qırılmasından asandır və s. Qəlpə ionunun nisbi intensivliyi 
+özünün dayanıqlığından, onunla bir yerdə əmələ gələn radikalın 
+və ya neytral molekulun stabilliyindən asılıdır.  
+ 
+Cədvəl 17. •⊕M  üçün izotop pikləri 
+ 
+İntensivliklər 
+Formul •⊕M  M+1 M+2 
+C3H2N2 100 4, 04 0, 06 
+C4H4N 100 4, 77 0, 09 
+C5H6 100 5, 50 0, 12 
+ 
+Beləliklə, fraqmentləşmənin əsas yolları molekulda 
+rabitələrin təbiəti və əmələ gələn hissəciklərin stabilliyi ilə 
+müəyyənləşir. Fraqmentləşmənin bəzi ümumi qaydalarını 
+göstərmək olar:  
+1. Karbohidrogen zəncirində rabitənin qırılması ən çox 
+şaxələnmiş karbon atomunun yanında rahat gedir; 
+2. Tsiklik karbohidrogenlərdə α-rabitənin qırılması daha 
+xarakterikdir; 
+ 
+(CH2)n CH R
+ 
+ 
+3. Doymamış birləşmələrdə β-qırılmanın ehtimalı çoxdur; 
+ 
+ 98 
+C=C-C-C
+ 
+ 
+4. Alkillə əvəz olunmuş aromatik birləşmələrin spektrlərində 
+C-C rabitələrinin β-qırılmasına uyğun intensiv piklər çıxır; 
+C6H5-C C-R  
+ 
+5. Heteroatomlu birləşmələrdə heteroatomun yanındakı C-C 
+rabitəsinin qırılmasının ehtimalı çoxdur.  
+ 
+CH2 R
+1R Õ
+ 
+X
+R R1C=
+ 
+ 
+6. Yenidən qruplaşmış ionların əmələ gəlməsi əksərən balaca 
+dayanıqlı molekullar kimi CO, H2O, NH3, HCN və s. əmələ 
+gəlməsi ilə müşahidə edilir. Əksər hallarda yenidən qruplaşma 
+molekulda hidrogenin yerdəyişməsi ilə bağlıdır. Məsələn, dietil 
+efirinin spektrində ən intensiv pikin m/e nisbəti 31-dir. Bu da 
+aşağıdakı sxem ilə izah edilir: 
+ 
+CH3-CH2-O-CH2-CH3
+CH2
+CH2
+O
+CH2
+H
+CH2
+CH2
+-CH3 + HO = CH2
+ 
+ 
+Bir çox hallarda yenidən qruplaşma altıüzvlü aralıq halından 
+keçir.  
+ 
+ 99 
+C
+H
+C C
+H
+C
+Ç
+É
+Õ
+Ð
+Ç
+É
+Õ
+Ð
++
++ +
+ 
+ 
+ 
+6.2. Kükürd-azot- və halogen üzvi birləşmələr 
+ 
+Molekulda kükürdün olmasını və miqdarını çox halda M+2 
+pikinin intensivliyi ilə müəyyənləşdirmək olar. Kükürdün 2 
+izotopu 32S(95%) və 34S(4, 2) olduğundan bir kükürd atomu 
+saxlayan birləşmələrdə gözləmək olar ki, M+2 pikinin intensivliyi 
+molekulyar ionun pikinin intensivliyinin 4%-ni təşkil edəcək. 
+Şəkil 31-də benztiazolun spektri verilmişdir. Buradan göründüyü 
+kimi M+2 pikinin intensivliyi molekulyar ion pikinin 
+intensivliyinin 4%-ni təşkil edir və bu da molekulda, ancaq bir 
+kükürd atomunun olmasına dəlalət edir. (Yaddan çıxarmamaq 
+lazımdır ki, M+2 pikinə başqa izotopun təsiri olmamalıdır). 
+ 100 
+ 
+Şəkil 31. Benztiazolun kütlə spektri. 
+ 
+M+1 pikinin intensivliyi molekulyar ion pikinin intensivliyinin 
+8%-ni təşkil edir və bilərək ki, 13C təbii səpilməsi 1,11% benz-
+tiazolda 7 C atomunun olmasını hesablamaq olar (8,0/1,11~7,2). 
+Azot qaydasına görə əgər molekulyar ionun kütlə ədədi cüt-
+dürsə, onda birləşmənin tərkibində cüt sayda N atomu var. (N 
+atomu tək sayda olduqda molekulyar ionun kütlə ədədi təkdir) 
+(cədvəl 18). 
+Cədvəl 18 
+ 
+Adı Formulu M (m/e) 
+Hidrazin N2H2 32 
+Ammonyak NH3 17 
+Piridin C5H5N 79 
+4-Aminopiridin C5H6N2 94 
+Dimetilamin C2H7N 45 
+ 
+ 101 
+Bütün bunların müqayisəsi göstərir ki, molekulyar kütləsi 
+135 olan benztiazola C7H5NS formulu uyğun gəlir.  
+Bromun təbii yayılması təqribən bərabər olan 2 kütlə vahidilə 
+fərqlənən 2 stabil izotopu var (79Br və 81Br). Xlorda 2 stabil 
+izotop (35Cl və 37Cl) mövcuddur, lakin onların təbii səpilməsi 3:1 
+təşkil edir. Bromun və ya xlorun molekulda olması intensiv M+2 
+piklərinin olması ilə bəlli olur (şəkil 32).  
+ 
+Şəkil 32. Xlor və brom saxlayan birləşmələrin  
+molekulyar ion sahəsində kütlə spektrləri. 
+ 
+6.3. Bəzi sinif üzvi birləşmələrin  
+kütlə spektrlərinin xüsusiyyətləri 
+ 
+Alkanlar. Düz zəncirli alkanların – doymuş 
+karbohidrogenlərin spektrlərində molekulyar ionun piki aydın 
+müşahidə edilir (şəkil 33).  
+ 102 
+ 
+Şəkil 33. Heksanın kütlə spektri. 
+ 
+Homoloji sırada birləşmənin molekul kütləsi artdıqca 
+molekulyar ion pikinin nisbi hündürlüyü azalır. Şaxələnmiş 
+karbohidrogenlərdə molekulyar ionun pikinin intensivliyi xeyli 
+aşağıdır və C12-dən yuxarı olan şaxələnmiş karbohidrogenlərdə 
+molekulyar ion piki praktiki olaraq yoxa çıxır. 
+Alkanlar üçün yenidən qruplaşmış ionların əmələ gəlməsi 
+səciyyəvi olmadığından spektrdə əsasən qəlpə pikləri müşahidə 
+edilir. Parçalanma üçlü karbon atomu yanında asan gedir. 
+Spektrlərdə ən intensiv piklər tək olan kütlə ədədi və cüt sayda 
+elektronu olan (C2H5)+, (C3H7)+, (C4H7)+, (C4H9)+ ionlar üçün 
+müşahidə edilir. Əksər hallarda ən intensiv piklər 43(C3H7)+ və 
+57(C4H9)+ piklərdir.  
+Tsikloalkanlarda molekulyar ionların pikləri intensivdir, belə 
+ki, naften karbohidrogenlər metan sırası karbohidrogenlərə görə 
+elektron zərbəsinə daha dözümlüdür. Bir qayda olaraq, beşüzvlü 
+karbohidrogenlərin molekulyar ion pikləri altıüzvlü naftenlərdən 
+daha aşağı intensivliyə malikdirlər. Alkillə əvəzolunmuş 
+ 103 
+tsikloalkanlarda molekulyar ionun parçalanması halqa ilə qonşu 
+olan C-C rabitəsindən gedir və şaxələnmiş yan zəncirli və hem-
+əvəzolunmuş karbohidrogenlərdə asanlıqla baş verir. Belə 
+birləşmələrin molekulyar ion piklərinin intensivliyi aşağıdır. Yan 
+zəncirlərin fraqmentləşməsi spektrdə müxtəlif alkil ionları 
+şəklində özünü göstərir.  
+Olefinlər. Olefin karbohidrogenlərin spektrlərində 
+molekulyar ion pikləri intensivdir. Ən intensiv piklər beta 
+rabitədən gedən qəlpə ionlarının pikləridir. Hidrogen atomunun 
+yerdəyişməsi ilə gedən alfa-qırılma rəqabətlidir. Etilen 
+karbohidrogenlərinin spektrlərində yenidən qruplaşmış piklər çox 
+olduğundan kütlə spektrlərinin vasitəsilə olefinlərin quruluşu 
+haqqında söz demək çətindir.  
+Monoolefinlər üçün səciyyəvi olan molekulyar ionun allil 
+parçalanmasından əmələ gələn piklərdir (m/e=41(C3H5)+, 55, 69 
+və s.). Molekulda qoşa rabitələrin yığılması yenidən qruplaşmış 
+ionların miqdarını artırır.  
+Qeyd etmək lazımdır ki, elektron zərbəsinin təsirindən ikiqat 
+rabitənin yerdəyişməsi baş verə bilər. Ona görə də kütlə spektrinə 
+görə ikiqat rabitənin yerini təyin etmək olmur.  
+Aromatik karbohidrogenlər. Aromatik halqa molekulyar ionu 
+stabilləşdirdiyindən bu pikin intensivliyi yüksəkdir. 
+Alkilbenzolların fraqmentləşməsinin əsas istiqaməti β-qırılmadır. 
+Əgər C6H5CXYZ birləşməsində X və Y=H onda spektrdə m/e 91 
+(C6H5CH2)+ piki olmalıdır. Əgər Z metildən böyükdürsə, (etil, 
+propil və s.) onda β-qırılma protonun miqrasiyası ilə gedən 
+yenidən qruplaşma ilə müşahidə edilir və nəticədə olefin əmələ 
+gələrək spektrdə m/e 92 olan pik müşahidə olunur.  
+ 104 
+CH2
+H
+CH2
+CH2
+H
+CH2
+H
+H
+CH2
+CH2
++
+ 
+ m/e 92 
+ 
+Əgər X=H, Y və Z –alkil radikallarıdırsa, onda spektrdə m/e 
+91+n14 pikləri əmələ gəlir. Həmçinin α-qırılma baş verə bilər və 
+bu da hidrogenin yerdəyişməsi ilə baş verir. Alkilbenzollar üçün 
+yenidən qruplaşmış ionlar səciyyəvi olduğundan kütlə 
+spektrlərinə görə benzol halqasında alkil əvəzedicilərin yerini 
+təyin etmək olmur.  
+Tərkibində hetero atom saxlayan əvəzedicisi olan aromatik 
+birləşmələr də spektrdə molekulyar ionun intensiv pikini verirlər. 
+Sonrakı fraqmentləşmə Ar-X rabitəsinin qırılması ilə gedə bilər. 
+Ancaq əksər hallarda bu qırılma neytral hissəciklərin ayrılması ilə 
+müşahidə edilir.  
+Aşağıda bəzi mono əvəzlənmiş benzol törəmələrinin 
+fraqmentləşməsi verilmişdir.  
+C6H5 OH
+C5H5 HCO
+C6H5 CO+
++  
+C6H7
++
+C6H6 CH2O
+C6H5 OCH3
+HCO
++
++  
+C6H5 NH2 C5H6 HCN+
+ 
+ 105 
+C6H5 NO2
+NO2
+O N O C6H5O
++ C5H5
++
+C6H5
++ +
+-NO -CO
+ 
+C6H5 C OCH3
+O
+OCH3 C6H5CO C6H5
++ CO+ +
+ 
+ 
+Bir neçə əvəzedici daşıyan benzol törəmələrinin 
+qəlpələşməsinin xarakteri dəyişir və əvəzedicilərin molekulda 
+yerləşməsindən asılıdır. Məsələn, para- və meta-anizidinlər 
+fraqmentləşmə zamanı müxtəlif ionlar əmələ gətirir.  
+ 
+OCH3H2N CH3 OH2N+
+ 
+OCH3
+NH2
+CH2O, CHO + C6H7N, C6H8N
+ 
+ 
+Əvəzedicilərin orto-vəziyyətdə yerləşməsi zamanı orto-ef-
+fektlə şərtləşdirilmiş fraqmentləşmə gedə bilər.  
+ 
+À-Ù
+Á-Ú-Ä
+À
+Á
++  ÙÚÄ
+ 
+ 
+Spirtlər, aminlər, tiollar və halogen törəmələri. Bu 
+birləşmələrdə molekulyar ion pikinin intensivliyi əvəzedicidən 
+asılı olaraq verilmiş sıradakı kimi dəyişir: Hal<OH<NH2<SH. 
+Molekulyar ionların fraqmentləşməsi aşağıdakı qırılmalarla 
+ 106 
+gedə bilər: 
+a) C-X rabitəsinin 
+b) heteroatomla qonşu olan C-C rabitəsinin 
+c) C-X rabitəsinin və eyni zamanda hidrogenin keçidi ilə 
+ 
+CH 4 + CH 2Р Х
+Р CH2 +  Х
+HХ  + М
+(а)
+М (б)
+(ъ)
+Р Х+
+HХ  
+ 
+Əksərən spektrdə bütün fraqmentləşmə istiqamətlərinə uyğun 
+piklər görünür, amma birləşmə növündən asılı olaraq piklərin 
+nisbi intensivliyi dəyişir.  
+(a) tipində fraqmentləşmə bromidlər və yodidlər üçün daha 
+səciyyəvidir. Xlor və flüor törəmələrinin molekulyar ionları HCl 
+və HF ayrılması ilə parçalanırlar (istiqamət c). Birli spirtlərin 
+spektrlərində M-18 (suyun ayrılması, istiqamət c) piki ilə bərabər 
+ion – radikalın parçalanma pikləri də müşahidə edilir. İkili və üçlü 
+spirtlərdə fraqmentləşmə (b) istiqəməti ilə gedir və radikal 
+şəklində ən həcmli qrup ayrılır. (b) istiqaməti aminlər üçün daha 
+səciyyəvidir.  
+Karbonilli birləşmələr. Ketonların molekulyar ionlarının 
+pikləri ən intensiv olur. Aldehidlərin, turşuların, amidlərin 
+mürəkkəb efirlərin molekulyar ion pikləri adətən az intensiv olur.  
+Molekulyar ionların əsas fraqmentləşmə istiqamətləri bunlardır.  
+a) α-rabitənin parçalanması 
+ 
+CO
+Ð
+Õ
+ÐCO+
+ÕCO+
+Õ+ +
+Ð+ + Ð
+ÕÐCO
+ÕCO
++
++
+âÿ éà
+âÿ éà  
+ 
+ 107 
+b) yenidən qruplaşma ilə müşahidə edilən β-rabitənin 
+parçalanması.  
+ 
+C
+O
+H
+OH
+C
+Х
+Р
+Х
++
+ 
+ 
+Aldehidlər (a)-istiqaməti ilə gedən fraqmentləşmə R+, HCO+, 
+RCO+ ionlarının piklərini verir, (b) istiqaməti ilə gedən 
+fraqmentləşmə m/e 44 olan piklərə (R=H olduqda) və ya homoloji 
+piklərə gətirir.  
+Ketonlar üçün ən intensiv piklər α-rabitənin qırılmasından 
+əmələ gələn RCO+ və R+ ionlarının pikləridir və ən həcmli R daha 
+asanlıqla qopur. Bu fraqmentasiya istiqamətində m/e 43, 57, 71 və 
+s. (R+) və m/e 71, 85 və s. (RCO+) piklər əmələ gəlir. (b)-tipində 
+yenidən qruplaşma m/e=58, 72, 86 və s. piklərinə gətirib çıxarır.  
+Efirlərdə α-rabitənin qırılması RCO+, R+, CH3O+ (m/e 31) və 
+CH3OCO+(m/e 59) ionlarını əmələ gətirir. (b) –yenidən 
+qruplaşması m/e 74, 
+OH
+CCH2
+OCH3
+ionunun görünməsinə 
+səbəb olur.  
+Birli alifatik amidlər üçün CONH2+(m/e 44) piklərinin, 
+yenidən qruplaşmada isə CH2=C(OH)NH2 ionunun və onun 
+homoloqlarının əmələ gəlməsi səciyyəvidir.  
+Nitrillər və nitrobirləşmələr. Nitrillərin molekulyar ion pikləri 
+çox zəifdirlər. Daha intensiv piklər CH2=C=NH+ ionunun və onun 
+homoloqlarının yenidən qruplaşmış pikləridir (m/e 41, 55, 69 və 
+ 108 
+s.) 
+Alifatik nitrobirləşmələrin molekulyar ion piki adətən olmur. 
+Alkil zəncirinin fraqmentləşməsi nəticəsində qəlpə ionları əmələ 
+gəlir. Bunlardan əlavə spektrdə NO+ (m/e 30) və NO2+ (m/e 46) 
+ionlarının pikləri də müşahidə edilir.  
+Heterotsiklik birləşmələr. Heteroaromatik birləşmələr 
+intensiv molekulyar ion pikləri verirlər. Molekulyar ionun 
+fraqmentləşməsi halqanın qırılması və neytral hissəciklərin 
+(azotlu heterotsikillər üçün – HCN, kükürdlü – HCS və oksigenli 
+– HCO) əmələ gəlməsi ilə gedir.  
+ 
+N
+H
+S
+N
+HCN  + C3H4
+C3H3
+C4H4
+O
+C3H3
+HCS  +
+HCO  +
+HCN  +
+ 
+ 
+Əvəzolunmuş heterotsiklik birləşmələrdə eyni zamanda həm 
+heteroaromatik tsiklin, həm də yan zəncirin fraqmentləşməsi 
+gedir. Alkil əvəzolunmuş heterotsiklik birləşmələr üçün β-qırılma 
+daha səciyyəvidir. Yan zəncirin fraqmentləşməsi onun vəziy-
+ 109 
+yətindən asılı olduğundan heteroaromatik halqada əvəzolunma 
+tipini təyin etmək olar.  
+ 110 
+ƏDƏBİYYAT 
+ 
+1. Свердлова О.В. Электронные спектры в органической химии. 
+Л.: Химия, 1973, 247 с. 
+2. Штерн Э., Тиммонс К. Электронная абсорбционная спектро-
+скопия в органической химии. М.: Мир, 1974, 295 с. 
+3. Наканаси К. Инфракрасные спектры и строение органических 
+соединений. М.: Мир, 1965, 216 с. 
+4. Беллами Л. Инфракрасные спектры сложных молекул. М.: 
+Мир, 1963, 590 с. 
+5. Полякова А.А., Хмельницкий Р.А. Масс-спектрометрия в ор-
+ганической химии. М.: Химия, 1972, 367 с. 
+6. Джонстон Р. Руководство по масс-спектрометрии для хими-
+ков органиков. М.: Мир, 1975, 236 с. 
+7. Ионин Б.И., Ершов Б.А., Кольцов А.И. ЯМР спектроскопия в 
+органической химии. Л.: Химия, 1983, 269 с. 
+8. Qafarov Ş.Ə. Nüvə maqnit rezonansı. Bakı: Elm, 1999, 196 s. 
+9. Məsimov E.Ə., Mürsəlov T.M. Nüvə maqnit rezonansı spektros-
+kopiyası. Bakı: Bakı Universiteti nəşriyyatı, 2006, 347 s. 
+10. Məhərrəmov A.M., Bayramov M.R., Məmmədov İ.Q. Nüvə 
+maqnit rezonansı spektroskopiyasında müasir metodlar. Bakı: Bakı 
+Universiteti nəşriyyatı, 2006, 138 s.  
+11. Бранд Дж., Эгликтон Г. Применение спектроскопии в орга-
+нической химии. М.: Мир, 1967, 279 с. 
+12. Сильверстейн Р., Басслер Г., Моррил Т. Спектроскопическая 
+идентификация органических соединений. М.: Мир, 1977, 590 с. 
+13. Казицына Л.А., Куплетская Н.Б. Применение УФ-, ИК-, ЯМР- 
+и масс-спектроскопии в органической химии. М.: Изд. МГУ, 
+1979, 236 с. 
+14. Гордон А., Форд Р. Спутник химика. М.: Мир, 1976, 541 с. 
+15. Salmanov Ş.M. Spektral analiz. Bakı: Maarif, 1987, 198 s. 
+ 
+ 111 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Çapa imzalanmışdır: 30.09.2009.  
+Kağız formatı 60x84 1/16. Sifariş №91 
+Həcmi 6,5 ç.v.  Sayı 350. 
+«Bakı Universiteti» nəşriyyatı, Bakı ş.,  
+AZ 1148, Z.Xəlilov küçəsi, 23. 
+ 
+ 112 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABEL MƏMMƏDƏLİ oğlu MƏHƏRRƏMOV, 
+ŞAHİN SABİR oğlu NƏSİBOV, 
+MİRZƏ ƏLƏKBƏR oğlu ALLAHVERDİYEV 
+ 
+ 
+ 
+ 
+ÜZVİ KİMYADA FİZİKİ 
+TƏDQİQAT ÜSULLARI 
+ 
+Ali məktəblər üçün dərs vəsaiti 
+ 

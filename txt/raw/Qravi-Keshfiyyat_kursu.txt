@@ -1,0 +1,4215 @@
+BƏYLƏR ASLANOV 
+ 
+ 
+ 
+ 
+ 
+QRAVİ-KƏŞFİYYAT 
+KURSU 
+(I hissə) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BAKI – 2011 
+ 2
+ 
+VVK83.3 AZ 
+QRAVİ-KƏŞFİYYAT KURSU 
+B.S.Aslanov Bakı ADNA-nın Nəşriyyatı, 2011, 132 səhifə. 
+Bu kitab Azərbaycanda qravimetriya (qravi-kəşfiyyat) 
+fənni üzrə müstəqil dərs vəsaitinin olmamasına görə nəşr 
+olunmuşdur. Kitabda müəllif mərhum professor Əmiraslanov 
+Tanrıqulu Sadıx oğlunun müzahirələrindən bilavasitə istifadə 
+etmişdir. Burada qravimetriyanın yaranması tarixindən 
+başlayaraq ən müasir qravimetrik metodlar qısaca olaraq əhatə 
+olunmuşdur. Əsasən Bakı Dövlət Universitetində «geofizik-
+seysmoloq» və Azərbaycan Dövlət Neft Akademiyasında «dağ 
+mühəndisi-geofizik» ixtisasları üzrə təhsil alan tələbələr üçün 
+nəzərdə tutulmuşdur. Ancaq müəllif əmindir ki, burada qravi-
+kəşfiyyat fənninə aid olan və açıq şərh olunmuş bir çox 
+izahatlar alim və mütəxəsislər arasında geniş oxucu kütləsini 
+özünə cəlb edəcək. Hər hansı bir mülahizə üçün müəllif 
+əvvəlcədən öz minnətdarlığını bildirir. Hər bir məsləhət və 
+tövsüyyələri müzakirə etməyi və nəzərə almağı müəllif öz 
+üzərinə götürür.   
+  
+ 
+ 
+ 
+2201000000  
+B       ---------------     qrifli nəşr 
+          655 (7) 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+Kitab geologiya-mineralogiya elmləri doktoru,  
+mərhum professor Tanrıqulu Sadıx oğlu  
+Əmiraslanovun əziz xatirəsinə ithaf olunuub. 
+„Allah-dan gəlir Sən-ə hər yaxşılıq,  
+öz ucbatından gəlir Sən-ə hər pislik…“ 
+Qura’n-i Kərim, Nisə Surəsi, 79-cu a’yə.  
+(mərhum akademik Ziya Bünyadovun tərcüməsindən)
+ 4
+Bismi-llahi-r-rahmani-r-rahim, yəni Rəhman və Rəhim 
+ALLAH-ın adıyla… 
+ 
+„MÜƏLLİM“ adı yüksəkdir! Bu yüksəkliyin əlçatmaz zirvələri 
+fəth olunmazdır. Həyatda nə qədər çalışıb-çarpışsan da, nə qədər 
+uğurlar qazansan da müəllimin yeri daima görünür. Onu axtarırsan, 
+istəyirsən ki, bu fani dünyanın çeşməkeşlərindən aldığın həzzi və 
+iztirabı onunla bölüşəsən. 
+Hər bir insanın həyatında müəllimlər xüsusi yer tutur. Ancaq 
+müəllimlər arasında birinin yeri daha müqəddəsqir, yenilməzdir, 
+əvəzolunmazdır. Ən təsirli məqam isə, qüssəli və qəmgin olsa da, həmin 
+müəllimin həyatdan cavan getməsidir. Şübhəsiz bütün insanlar gec və 
+ya tez ALLAH dərgahına pənah aparır – ilk və sonuncu dəfə... Bu 
+gedişlə də əbədi xatirələrə həkk olunurlar – Tanrıqulu müəllim kimi... 
+O, çox cavan yaşında elmlər doktoru alimlik dərəcəsinə, professor elmi 
+adına layiq görülmüşdü, lakin amansız ölüm onu bizdən tez apardı. 
+Onun həyatdan cavan getməsinə bais olan olan iblisi mən çoxdan 
+tanısam də heç kəsin mənə inanmayacağına görə susurdum. Ancaq 
+əmin idim ki, Tanrıqulu müəllimin vaxtsız ölümünə bais olan, vəzifə, 
+şöhrət naminə hər cür riyakarlığa qadir bir adamın iç üzü bəlli olacaq. 
+Tanrıqulu müəllimi fiziki məhv etmək çətin idi, mənəvi isə çox 
+asan. Çünki o dərin mənəviyyata malik şəxsiyyətdi. Ali və aqil insan 
+mənəviyyatı nə qədər dərin və zəngindirsə, bir o qədər də incədir, 
+zərifdir. Bu incəlik və zəirflik isə yüksək dəqiqlikli „astazir olunmuş 
+qravimetr“ə oxşayır – onu çalxalamaq olmaz! Çünki qravimetrin həssas 
+ölçü sisteminin tarazlığı kimi, „insan mənəviyyətınin taraz sistemi“ 
+pozula bilər... Günahı təsdiq olunmaz məlun isə bu incəlikdən istifadə 
+etdi, Tanrıqulu müəllimin mənəviyyətini möhkəm çalxaladı.., yaşamaq 
+üçün yaranan insan əbədi susdu. Çox-çox əfsuslar olsun… 
+ 
+ALLAH  TANRIQULU  MÜƏLLİMƏ 
+  RƏHMƏT  ELƏSİN… 
+ 5 
+MÜNDƏRİCAT 
+Səh. 
+GİRİŞ.................................................................................         7 
+§1. QRAVİTASİYA SAHƏSİNİN POTENSİALI ..........         8 
+1.1. Ağırlıq qüvvəsi təcilinin təyin olunması  
+haqqında qısa xülasə..................................................       15 
+1.2. Qravi-kəşfiyyatın prinsipləri və meyarı......................       19 
+1.2.1. Potensial sahənin prinsipləri.  
+Nyuton cazibə qanunu...  24 
+1.2.2. Yerin cazibə qüvvəsinin təcili...................................      27 
+1.3. Qravitasiya potensialı və onun əsas xassələri...............     30 
+1.3.1. Kəsilməzlik və müntəzəmlik......................................     37 
+1.3.2. Tarazlanmış səthlər və ya qeoid səthi........................     39 
+1.3.3. Tarazlanmış səthlər arasındakı məsafə......................     41 
+1.3.4. Nyutonian və ya üçölçülü potensial...........................     42 
+1.3.5. Loqarifmik və ya ikiölçülü potensial..........................    44 
+1.4. Potensial nəzəriyyənin əsas tənlikləri............................    46 
+1.5. Cazibə qüvvəsi reduksiyası (düzəlişlər).  
+Normal düzəliş............................................................      49 
+1.5.1. Hündürlüyə görə və ya «hava» düzəlişi.....................     52 
+1.5.2. Buge düzəlişi..............................................................     54 
+1.5.3. Prey düzəlişi...............................................................     56 
+1.5.4. Etveş düzəlişi.............................................................     57 
+1.5.5. Topoqrafiya düzəlişi..................................................     59 
+1.5.6. İzostazisiya düzəlişi...................................................     60 
+1.5.7. Yer səthinin qabarma-çəkilməsinə görə düzəliş........     63 
+1.6. Yerin cazibə sahəsinin kainat cisimləri ilə əlaqəsi.  
+Ayın hərəkətinə təsir edən qüvvə................................     70 
+1.7. Anomaliyalar.................................................................     73  
+§2. QRAVİMETRİYADA İSTİFADƏ OLUNAN  
+CİHAZ VƏ AVADANLIQLAR....................................     75 
+2.1. Cazibə qüvvəsi təcilinin mütləq ölçülməsi...................     76 
+2.2. Cazibə qüvvəsi təcilinin nisbi ölçülməsi. Qravimetrlər..   77 
+ 6
+2.3. Qravimetrin sabitinin təyini..........................................     89 
+§3. QRAVİMETRİK MÜŞAHİDƏ METODLARI.............     92 
+3.1. Dayaq şəbəkəsi............................................................       95 
+3.2. Sıravi şəbəkə................................................................      98 
+3.3. Qravimetrlə dənizdə müşahidə....................................    102 
+3.4. Müşahidələrin kəmiyyətcə qiymətləndirilməsi...........     106 
+3.5. Anomaliyanın dəqiqliyinin hesablanması...................     108 
+3.5.1. Çöl müşahidələrinə görə sıxlığın hesablanması.......     111 
+3.5.2. Qravimetrik metodla sıxlığın təyin olunmasına  
+şaquli qradiyentin təsiri...........................................     114 
+§4. Qravitasiya sahəsinin transformasiyası........................     115 
+4.1. Regional fon, lokal və qalıq anomaliyalar...................    117 
+4.2. Ortalaşdırma və qrafiki metod.....................................    119 
+4.3. Qalıq və üçüncü tərtib törəmə anomaliyaları..............     124 
+NƏTİCƏ…………………………………………….........     130 
+ƏDƏBIYYAT....................................................................     131 
+ 
+ 7 
+GİRİŞ 
+Geofizika – Yerin fiziki xüsusiyyətlərini öyrənən elmdir. 
+İlk dəfə olaraq, geofizikkanın təkamül tapmasını Nyutonun 
+qravitasiya nəzəriyyəsinin və Gilbertin Yer kürəsinin 
+bütövlükdə qeyri-sabit maqnit olması ixtirası ilə bağlamaq olar. 
+Dağ-mədən və metal axtarışı çox qədim zamana təsadüf edir, 
+lakin bu sahədə tədqiqat işlərinin başlanması 1556-cı ildə 
+Georgids Aqrikolun «De remetallica» traktatasının dərc 
+olunmasından başlanmışdır. Bu traktata uzun illər sivil xalqların 
+dağ-mədən işlərində əsas sənəd rolunu oynamışdır. 
+Geofizikanın metal axtarışında tətbiqinin ilk addımları 1843-cü 
+ildə Fon Frede tərəfindən atılmışdır. Fon Frede ilk dəfə olaraq 
+qeyd etmişdir ki, Yerin maqnit sahəsinin variasiyasını ölçmək 
+üçün Lamontun istifadə etdiyi maqnit teodolitindən filiz 
+yataqlarının axtarışında istifadə etmək olar. Ancaq bu ideya 
+professor Robert Talenin 1979-cu ildə nəşr etdirdiyi «Maqnit 
+üsulu ilə dəmir-filiz yataqlarının öyrənilməsi haqqında» kitaba 
+qədər həyata keçirilməmişdir. 
+İllər keçdikcə dünya xalqlarının sivilizasiyasının geniş 
+vüsət tapması və Yerin təkində olan təbii sərvətlərə insan 
+tələbinin artması bir tərəfdən, Yerin başqa kainat elementləri ilə 
+təmasını öyrənmək isə digər tərəfdən, geofizika elminin 
+ 8
+hərtərəfli inkişafına olan ehtiyac yeni geofiziki cihaz və 
+avadanlıqların çox sürətlə istehsalına səbəb oldu. XX-ci əsrin 
+ikinci yarısında cihaz və avadanlıqlar daha da təkmilləşmiş və 
+istehsal artmışdır. 
+Geofizikanın inkişafında elektron texnikasından, 
+kompyuter avadanlıqlarından, yüksək səviyyəli proqramlardan 
+istifadə olunması bu elmin daha da hərtərəfli inkişafına səbəb 
+oldu. Yerin fizikasını öyrənən elm riyaziyyat, kimya, fizika, 
+astronomiya və s. kimi fundamental elmlərlə sıx əlaqəli bir 
+fənnə – elmə çevrilmişdir. Artıq bu gün tam inamla demək olar 
+ki, geofizikanın bü günə qədər olan səviyyəsinə görə geofizika 
+geologiyanın bir hissəsi yox, tam müstəqil elmdir. Şübhə 
+yoxdur ki, geofizika elminin əsas öyrənmə obyektlərindən biri 
+bütövlükdə Yer kürəsidir. 
+§1. QRAVİTASİYA SAHƏSİNİN POTENSİALI  
+ Hər hansı fiziki sahənin təsir qüvvələrini 
+müəyyənləşdirən və vektorluğunu (qradiyentliyini) xarakterizə 
+edən gərginliyindən başqa, verilmiş nöqtədə sahənin potensialı 
+– sahəni skalyar xarakterizə edən kəmiyyət mövsuddur. 
+ Vektorial sahələri skalyar xarakterizə edən, sahə 
+qüvvələrinin gördüyü işlə əlaqədar olan potensial (potensial 
+ 9 
+Şəkil 1. Cazibə qüvvəsinin əsas 
+elementləri. 
+funksiyaya) sahənin həlledisi güc əlamətidir. Vektorial cazibə 
+qüvvələrinin təsiri altında olan fəza qravitasiya sahəsi adlanır. 
+Ağırlıq qüvvəsinin təsiri altında 
+olan fəza isə ağırlıq qüvvəsi 
+sahəsi adlanır. Hər iki sahənin 
+hər bir nöqtəsinə, bu sahənin 
+malik olduğu maddi nöqtə 
+vasitəsilə həyata keçirilən 
+potensial enerjinin müəyyən 
+qiyməti uyğundur. Başqa cür 
+desək, hər hansı vektor sahə, 
+sahənin istənilən maddi nöqtəsində vahid yükə xas olan 
+potensial enerji kəmiyəti ilə xarakterizə oluna bilər. İstənilən iki 
+nöqtə arasında sahə qüvvələrinin gördüyü iş, bu iki nöqtə 
+arasındakı sərf olunan məsafənin formasından yox, bu 
+nöqtələrin vəziyyətindən (koordinatlarından) asılıdırsa, bu cür 
+sahə potensial sahə, sahə qüvvələri isə konservativ adlanır. 
+ Yerin qravitasiya sahəsi – gün ərzində fırlanma 
+nəticəsində yaranan, ağırlıq qüvvəsi və mərkəzdən qaçma 
+qüvvələrindən asılı olan qüvvə sahəsidir; az miqdarda Ayın və 
+Günəşin, eləcə də başqa kainat elementlərinin və Yerin atmosfer 
+kütləsindən asılıdır (şək.1). Burada F -Yerin mərkəzinə doğru 
+ 10
+istiqamətlənmiş ağırlıq qüvvəsi, Q – mərkəzdən qaçma qüvvəsi, 
+P – bu iki qüvvənin cəmi olan cazibə qüvvəsidir. Q – 
+mərkəzdən qaçma qüvvəsi Yerin öz oxu və Günəş  ətrafında 
+fırlanma nəticəsində yaranır və sabit qalması (deməli təcilsizdir) 
+ilə yanaşı ədədi qiymətcə F  qüvvəsi ilə müqayisədə çox 
+cüzidir. Eyni zamanda ϕλ ≅  olur. Ona görədə Yer səthində 
+götürülmüş hər hansı bir nöqtədə ağırlıq qüvvəsinin qiyməti 
+cazibə qüvvəsinə bərabərdir, yəni ≅F Q. 
+ Yerin qravitasiya sahəsi ağırlıq qüvvəsi, ağırlıq 
+qüvvəsinin potensialı və ağırlıq qüvvəsinin müxtəlif törəmələri 
+ilə xarakterizə olunur. Potensialın vahidi 22 −⋅ sanm -dir, 
+qravimetriyada potensialın (o cümlədən ağırlıq qüvvəsinin) 
+birinci tərtib törəməsinin vahidi 2510 −− ⋅ sanm -yə bərabər olan 
+milliqal (mQal), ikinci tərtib törəməsi üçün isə – 2910 −− ⋅ san -yə 
+bərabər olan etveş (E) qəbul olunmuşdur. Yerin qravitasiya 
+sahəsinin əsas xarakterik qiymətləri: dəniz səviyyəsində ağırlıq 
+qüvvəsi potensialının qiyməti 2262636830 −⋅ sanm ; Yer səthində 
+ağırlıq qüvvəsinin orta qiyməti 225105,979801 −− ⋅⋅ sanm ; ağırlıq 
+qüvvəsinin orta qiymətinin qütblərdən ekvatora doğru azalması 
+225105200 −− ⋅⋅ sanm (o cümlədən 225103400 −− ⋅⋅ sanm Yerin gün 
+ərzində fırlanması hesabına); Yer səthində ağırlıq qüvvəsinin 
+maksimal anomaliya qiyməti 22510660 −− ⋅⋅ sanm ; ağırlıq 
+ 11
+qüvvəsinin normal şaquli qradiyenti 
+m
+mqal3086,0 ; və s. Ağırlıq 
+qüvvəsinin ikinci tərtib törəməsi qravitasiya qradiontometri və 
+ya variometrlə ölçülür. 
+Ağırlıq qüvvəsi sahəsinin potensiallığı o deməkdir ki, 
+qarşılıqlı cazibədə olan bir cüt maddi yükə potensial enerji 
+vermək olar və yüklərin qapalı kontur boyunca hərəkəti zamanı 
+bu enerji sərf olunmayacaqdır. Ağırlıq qüvvəsinin potensiallığı 
+kinetik və potensial enerjinin cəminin qorunub saxlanması 
+qanunundan irəli gəlir və bu cür sahədə cisimlərin hərəkətinin 
+öyrənilməsi zamanı məsələni xeyli asanlaşdırır. Nyuton 
+mexanikası çərçivəsində qarşılıqlı cazibə uzağa təsir (cismin 
+hərəkətinin məsafəyə vasitəsiz və ani müddətdə ötürülməsi) 
+deməkdir. Bu o deməkdir ki, yüklü cismin hərəkətindən asılı 
+olmayaraq, fəzanın istənilən nöqtəsində cazibə potensialı 
+verilmiş anda cismin vəziyyətindən (koordinatlarından) asılıdır.     
+Qravimetrik kəşfiyyatı Yerin qravitasiya sahəsinin 
+variasiyasını – zaman və məkana görə dəyişməsini öyrənməyə 
+əsaslanır. Qravimetrik müşahidə Yerin səthində (fiziki səth) 
+aparılır. Kəşfiyyat işləri aparılan sahənin şəraitindən asılı olaraq 
+cihaz gəmidə, təyyarədə, yerin təkində və ya bilavasitə səthində 
+quraşdırıla bilər. Hər bir halda cihazın quraşdırıldığı hündürlük 
+ 12
+Şəkil 2. Maqnit sahəsinin 
+qüvvə xətləri. 
+və Yer səthinin dəniz səviyyəsinə nisbətən olan hündürlüyü 
+nəzərə alınır. Bu barədə aşağıdakı paraqraflarda ətraflı şərh 
+olunur. 
+Qravimetriya, eləcə də maqnitometriya, Yer kürəsinin təbii 
+geofiziki sahəsini – potensial sahəsini öyrənir. Potensial sahə 
+öz-özlüyündə əsas iki təbii təşkiedici ilə – qravitasiya və maqnit 
+sahəsi ilə xarakterdir. Maqnit sahəsi rotor (burulğanlı), 
+qravitasiya sahəsi isə divergent (qradiyent) sahədir. Maqnit 
+sahəsinin qiyməi məlumdur, ancaq istiqaməti qeyri-məlumdur, 
+yəni skalyar sahədir (rotor). Bütömlükdə Yer kürəsi üçün, şərti 
+olaraq maqnit sahəsinin qüvvə 
+xətləri cənubdan şimala doğru 
+qəbul olunmuşdur (şək.2).  
+Qravitasiya sahəsinin isə həm 
+qiyməti, həm də istiqaməti 
+məlumdur (aşağıda bu barədə 
+ətraflı yazılıb). Ağırlıq qüvvəsinin 
+istiqaməti verilmiş nöqtədə Yer 
+səthinə şaquli perpendikulyar istiqamətdədir, həmin nöqtədə 
+şaqula perpendikulyar müstəvi isə horizontal müstəvidir. 
+Qravimaqnit kəşfiyyat işlərində əsas məqsəd, təbii sahənin 
+ədədi qiymətcə dəyişməsini öyrənmək olduğu üçün, maqnit və 
+ 13
+Şəkil 3. Cazibə 
+qüvvəsinin normal 
+qiymətini xarakterizə 
+edən parametrlər. 
+qravitasiya sahələrini öyrənən üsullar bir çox əlamətə görə 
+oxşardırlar. Qarşıda qoyulmuş məqsəddən asılı olaraq, 
+müşahidə olunan parametr qiymətinin normal qiymətdən 
+müəyyən qədər kənara çıxması bu üsullarda əsas arqument kimi 
+qəbul olunur və mühitin petrofiziki əlamətləri geoloji 
+interpretasiya olunur.  
+Ümumiyyətcə, istər qravitasiya, istərsə də maqnit 
+potensialı, müəyyən bir normal qiymətlə xarakterizə olunurlar. 
+Şək.3-də Yerin normal qravi-maqnit shələrinin asılı olduğu 
+parametrlərin – ϕ  coğrafi en  və şərq λ  uzunluq  dairəsi  
+bucaqlarının dəyişməsi təsvir olunmuşdur. Şəkildən göründüyü 
+kimi λ  şərq uzunluq dairəsi 
+bucağının dəyişməsi Yerin öz oxu 
+ətrafında fırlanması istiqamətindədir 
+və bu bucağın dəyişməsi çox cüzidir. 
+Onda Yerin normal qravitasiya 
+sahələrinin qiyməti əsasən ϕ  coğrafi 
+en dairəsindən asılıdır. Eyni zamanda 
+bu qiymət, müşahidə nöqtəsinin 
+yerləşdiyi ərazinin geoloji quruluşunda iştirak edən süxur 
+laylarının petrofiziki xassələrindən asılı olaraq dəyişir və ya 
+variasiya edir. Bu dəyişmə və ya variasiya, müşahidə olunan 
+ 14
+parametrin normal qiymətinin kiçik bir faizini təşkil edir. Hər 
+iki üsulda müşahidə olunan kəskin dəyişmə məkanın, cüzi 
+dəyişmə isə zamanın funksiyasıdır. Elə bu əlamətə görə də hər 
+iki üsulda nisbi müşahidə üslubundan istifadə olunur, yəni hər 
+hansı bir nöqtədəki qiymət, digər nöqtəyə nisbətən ölçülür. Hər 
+iki üsulda sahənin mütləq qiymətini ölçmək mümkündür. 
+Bununla yanaşı, qravimetrik və maqnit kəşfiyatı arasında 
+prinsipial fərq mövcuddur. 
+Qravimetrik kəşfiyatı süxurların sıxlıqları arasındakı 
+fərqini və bu süxurların yatma dərinliyini, maqnit kəşfiyyatı isə 
+bilavsitə süxurların maqnit nüfuzluğunun dəyişməsini və bu 
+süxurların yatma dərinliyini öyrənir. Ancaq süxurların yatma 
+dərinliyindən asılı olaraq maqnit sahəsinin dəyişməsi, 
+qravitasiya sahəsinə nisbətən cüzidir. Süxurların sıxlıqları 
+arasındakı fərq maqnit nüfuzluğuna nisbətən çox az dəyişdiyi 
+üçün eyni bir mənbədən alınan qravitasiya effekti maqnit 
+effektinə nisbətən az olur. Ona görə də qravimetrik kəşfiyyatda 
+istifadə olunan cihazların dəqiqliyi maqnit kəşfiyyatında istifadə 
+olunan cihazların dəqiqliyinə nisbətən daha üstün olur (10-8 – 
+qravitasiya, 10-4 – maqnit).  
+Maqnit sahəsinin variasiyası zamana görə kəskin 
+dəyişkəndir və mürəkkəb xarakterlidir, qravitasiya sahəsinin 
+ 15
+variasiyası isə zamana görə qeyri-kəskin və aramla dəyişərək 
+sadə formalıdır. 
+Qravimetrik kəşfiyyatda geoloji məsələlərin həllində 
+istifadə olunan düzəlişlər və anomal sahələrin müşahidəsinin 
+dəqiqliyi maqnit kəşfiyyatından çox mürəkkəb və yüksəkdir. 
+Maqnit kəşfiyyatında eyni bir cihazla sahənin normal qiymətini, 
+əsas anomal dəyişməni və sahənin variasiyasını ölçmək olar. 
+Qravitasiya kəşfiyyatında bu məsələ tamamilə başqadır, yəni 
+eyni bir cihazla sahənin həm normal qiymətini, əsas anomal 
+dəyişməni və ёsahənin variasiyasını ölçmək mümkün olmur. 
+İstər qravimetrik, istərsə də maqnitometrik kəşfiyyatından 
+Yerin təbii sərvətlərinin axtarışında, Yerin başqa planetlərlə 
+əlaqəsinin tədqiqində geniş istifadə olunur. 
+1.1. Ağırlıq qüvvəsi təcilinin təyin olunması haqqında qısa 
+xülasə 
+Sərbəst düşmə təcili haqqında qanun ilk dəfə olaraq 
+Q.Qaliley (1564-1642) tərəfindən 1590-cı ildə verilmiş və elə 
+həmin ildə cazibə qüvvəsi təcilinin hesablanmasını təcrübəsini 
+aparmış və ilk dəfə jkfrfq g -nin kəmiyyət qiymətini 
+hesalamışdır. Ancaq onun apardığı təcrübə çox sadə idi. 
+1784-cü ildə ingilis fiziki D.Atvud sünii olaraq sərbəst 
+düşmə təcilini azaldan və bununla da zaman intervalını artıraraq 
+ 16
+təcilin qiymətinin ölçülməsi dəqiqliyini artıran qurğu icad etmiş 
+və bu qurğunun köməyi ilə g -nin kəmiyyətcə ədədi qiymətini 
+hesablamışdır. 
+Səbəst düşmə təcilinin mütləq qiymətini təyin etmək üçün 
+D.Atvudun bu qurğusundan ilk dəfə olaraq 1892-ci ildə Kiyev 
+Universitetinin professoru Q.Q.Mets (1861-1930) istifadə 
+edərək g -nin kəmiyyət qiymətini hesablamış və 
+Qalg 24,981= almışdır. Bu hadisədən sonra g -nin kəmiyyət 
+qiymətinin təyin olunması üçün makaradan istifadə etməyə 
+üstünlük verilmişdir. Ancaq buna baxmayaraq D.Atvudun bu 
+qurğusu rus alimi D.İ.Mendeleyevin təklifi ilə A.A.İvanov 
+tərəfindən yenidən təkmilləşərək g -nin kəmiyyət qiymətini 
+hesablamış və Qalg 48,981=  alımışdır. Bu təcrübə bir daha 
+təsdiq etmişdir ki, g -nin kəmiyyət qiymətini hesablamaq üçün 
+makaradan istifadə etmək D.Atvudun qurğusundan çox dəqiq və 
+sərfəlidir. 
+g -nin kəmiyyət qiymətinin makaradan istifadə etməklə 
+hesablanması ilk dəfə olaraq Ş.Lakondamin (1701-1774) 
+tərəfindən 1735-ci ildə Haiti adasında həyata keçirilmişdir. 
+Ş.Lakondamin adi Lg ⋅≈ 24π münasibətindən istifadə etmişdir. 
+Burada L - makaranın uzunluğudur. Ş.Lakondamin 
+ 17
+mmL 85,990=  götürərk, Qalg 9,977=  almışdır. Bu qiymətin 
+çox inhirafla alınmasını Ş.Lakondamin ilk dəfə olara coğrafi 
+koordinatla əladəqar olduğunu izah edərək təklif etmişdir ki, 
+təcrübəni ekvatora yaxın həyata keçirmək lazımdır. Bu 
+məqsədlə həmin təcrübədən istifadə edərək, D.Borda (1739-
+1799) və Y.Kassini (1748-1845) 1792-ci ildə Parisdə g -nin 
+kəmiyyət qiymətini hesablayaraq Qalg 867,980=  qiymətini 
+aldılar. Fransa fiziki J.Bio (1774-1862) bu təcrübəni bir neçə 
+dəfə təkrar etmiş və qurğunu təkmilləşdirmişdir. 
+1825-1826-cı illərdə Keniqsberq şəhərində məşhur fizik 
+F.Bessel (1784-1846) makaradan istifadə edərək özünə məxsus 
+differensial təcrübə aparmışdır. Onun qurğusu 1T  və 2T  periodlu 
+və qollarının 21 ll −  uzunluqlar fərqi məlum olan iki eyni 
+makaradan ibarət idi. Bu zaman g -nin qiyməti 
+2
+2
+2
+1
+2124
+TT
+llg
+−
+−
+= π  
+bərabərliyi ilə hesablanırdı. 
+1818-ci ildə ingilis fiziki X.Keter (1777-1835) periodlu 
+Makara icad etmiş və qurğunun köməyi ilə ingilis geodezisti 
+E.Sabin (1788-1883) 1822-1824-cü llər ərzində Yer kürəsinin 
+bir çox yerlərində – Sakit okeanın bir çox adalarında, 
+Qrenlandiyada, Şpisbergendə və şimali Amerikada g -nin 
+ 18
+kəmiyyət qiymətini hesablamışdır. Eyni təcrübələri ingilis 
+geodezistiləri Freysin, Dyuper, Holl aparmışlar və həmişə 
+müxtəlif qiymətlər alınmışdr. 1826-1829-cu illər ərzində rus 
+dəniz səyyahı F.P.Litke (1797-1882) Yer kürəsinin doqquz 
+müxtəlif yerlərində g -nin kəmiyyət qiymətini hesablamışdır. 
+Bu təcrübələrdə g -nin müxtəlif qiymətlərinin alınması dünya 
+alimlərində şübhə və maraq yaratdı və bununla da g -nin 
+kəmiyyət qiymətinin hesablanması başladı. 
+Hal-hazırda g -nin qiymətinin hesablanmasında ən müasir 
+təcrübələrdən istifadə olunur və bu qiymətin nə üçün müxtəlif 
+məntəqələrdə eyni alınmamasının fiziki mənası cazibə təcili 
+potensialının müxtəlifliyi ilə izah olunur. Bu təcrübələrdən 
+sonra 1967-ci ildə Potsdam şəhərində Beynəlxalq Konqress 
+çağrılaraq,  g -nin mütləq qiyməti qəbul olundu və ona 
+müşahidə məntəqəsinin koordinatlarından asılı olmayaraq 
+düzəliş verildi. Aşağıdakı cədvəl 1-də keçən əsrimizin 60-cı 
+illərində dünyanın müxtəlif yerlərində g -nin hesablanmış 
+qiymətləri və Potsdam düzəlişi verilir. 
+Beləliklə, g -nin kəmiyyət qiymətinin ayrı-ayrı illərdə və 
+müxtəlif müəlliflər tərəfindən hesablanmasına baxmayaraq 
+əsasən eyni qiymətlər alınmışdır. Qiymətlər arasında olan 
+ 19
+fərqləri Potsdam düzəlişinə görə tamamilə aradan götürmək 
+mümkündür. 
+XX əsrin 60-cı illərində hesablanmış cazibə qüvvəsi təcilinin 
+mütləq qiyməti və Potsdam sistemi düzəlişi 
+Cədvəl 1. 
+№№ 
+mənt. 
+Məntəqə, icra 
+edən və nəşr ili 
+g, mQal 
+(ölçülmüş
+) 
+∆g, mQal 
+(Potsdama 
+görə təyin) 
+g, mQal 
+(Potsdama 
+reduksiya 
+olunmuş) 
+∆g, mQal 
+(Potsdam 
+düzəlişi) 
+1 Teddinqton,  
+A.Huq, 1967 
+981181,81
+±0,13 
++78,23±0,05 981 260,04 
+±0,14 
+-
+13,96±0,14 
+2 Teddinqton,  
+Dj.Feller, 1969 
+981181,86
+5±0,06 
++78,23±0,05 9812 
+60,095 
+±0,08 
+-
+13,90±0,08 
+3 Sevr,  
+Dj.Feller, 1969 
+980925,96
+5±0,05 
++334,13±0,0
+5 
+981260,095 
+±0,10 
+-
+13,90±0,10 
+4 Potsdam,  
+Şuller, 1969 
+981260,1±
+0,3 
+0 981260,1 
+±0,3 
+-13,9±0,3 
+5 Berlin,  
+M.Ditrix, 1970 
+981266,31
+±0,3 
+-
+5,9613±0,01 
+981260,35 
+±0,5 
+-13,65±0,5 
+6 Sevr,  
+A.Sakuma, 
+1970 
+980925,93
+1±0,03 
++334,13±0,0
+9 
+981260,061 
+±0,09 
+-
+13,94±0,09 
+1.2. Qravi-kəşfiyyatın prinsipləri və meyarı 
+ Qravimetriya (lat. gravis – ağır) – Yerin qravitasiya 
+sahəsini xarakterizə edən ağırlıq qüvvəsinin kəmiyyətcə ölçmə 
+metodları haqqında elmdir. Qravimetrik metodlardan Yerin 
+daxili qurluşunun öyrənilməsində və fiqurasının təyin 
+olunmasında, müxtəlif geodezik koordinat sistemləri arasında 
+ 20
+əlaqənin yaradılmasında, Yerin süni peyklərinin 
+trayektoriyasının hesablanmasında, faydalı qazıntıların 
+kəşfiyyatında və yer qabığının üst qatların tədqiqatında istifadə 
+olunur. Yerin qravitasiya sahəsinin dəqiq ölçülməsi Yer 
+qabığının üst qatlarında kütlə paylanmasını müəyyən etməyə və 
+tətbiqi məsələlərin həllinə imkan yaradır. 
+ Qravimtrik kəşfiyyatı – kəşfiyyat geofizikasının bir 
+metodu olub, Yer səthində və onun əhatəsində qravitasiya 
+sahəsini öyrəməyə əsaslanır və qısa olaraq «qravi-ləşfiyyat» 
+işlədilir. Qravi-ləşfiyyat Yer qabığını, xüsusən, üst qatlarını 
+təşkil edən süxurların sıxlığının qeyri-bircinsliyi ilə və yatma 
+dərinlikləri ilə bağlı olan ağırlıq qüvvəsi anomaliyaların geoloji 
+interpretasiyası (yozumu) ilə məşğul olur. Qravi-kəşfiyyat üçün 
+əsas şərt – horizontal və ya şaquli istiqamətdə süxurların 
+sıxlıqlar fərqi, Yer səthində ağırlıq qüvvəsi anomaliyasının 
+yaranması üçün kifayət ölçüyə və yatma dərinliyinə xas olan 
+obyektin mövcudluğudur. Neftli-qazlı strukturların axtarışı və 
+kəşfiyyatında, filiz faydalı qazıntı yataqları axtarışında, gəlmə 
+süxurlarla örtülmüş sahələrin geoloji xəritəsıinin tərtibində, 
+tektonik qırılmaların izlənilməsində qravi-ləşfiyyatdan geniş 
+tətbiq olunur. Ağırlıq qüvvəsi sahəsinin (Yerin cazibə sahəsi) 
+öyrənilməsi, onun analizi və interpretasiyası yer qabığı təkində 
+ 21
+sıxlıqlarına və yatma dərinliklərnə görə qeyri-bircins kütlənin 
+yerləşməsi, uyğun olaraq yer qabığının quruluşu haqqında 
+nəticə çıxarmağa imkan verir. Eıəcə də qravi-kəşfiyyatdan yer 
+qabığının dərinlik quruluşunun öyrənilməsində, nəhəng 
+regionların tektonik və petroqrafik rayonlaşdırılmasında, neft və 
+qaz yataqlarının axtarışında və proqnozlaşdırılmasında, digər 
+faydalı qazıntılarının: kömür, filiz və qeyri filiz xammalının 
+axtarışında və kəşfiyyatında istifadə olunur.  
+Qravi-ləşfiyyatda istifadə olunan əsas cihaz  
+qravimetrdir. Qravimetr – elastiki sapın deformasiyasının və 
+ya burulma bucağının dəyişməsinə görə ağırlıq qüvvəsi təcilini 
+ölçmək üçün cihazdır. Yerüstü (quru), quyu, dəniz və 
+aeroqravimetrlər (o cümlədən kosmik aparatlarda quraşdırılmış) 
+qravimetrlər növü məlumdur. Ağırlıq qüvvəsi təcili qiymətinin 
+ölçülməsinin əsasən iki üsulu var: mütləq və nisbi. Mütləq 
+qiymətin ölçülməsi üsulunda gmüt təcil makaralı qravimetrlə, 
+nisbi qiymətin ölçülməsi üsulunda isə ∆gnisbi qiyməti iki 
+məntəqə arasında nisbətən ölçülür, bu məntəqələrin birində gmüt 
+qiymətinin məlum olması vacibdir. Ölçmə üsulundan asılı 
+olaraq qravimetrlər statik və dinamik növlərə ayrılırlar. Statik 
+qravimetrlər həssas elementin elastiklik qüvvəsi (və ya 
+elastiklik momenti) ilə ağırlıq qüvvəsinin (və ya ağırlıq qüvvəsi 
+ 22
+Şəkil 4. Yerlə Ay arasında cazibə sahəsinin 
+sxematik təsviri 
+momentinin) tarazlanması prinsipinə əsaslanan qravimetrlərdir. 
+Bu qravimetrlərdən ancaq ∆gnisbi nisbi qiymətlərin ölçülməsində 
+istifadə olunur. Təsir prinsipinə görə bu qravimetrlər 
+dinamometrlə və ya yaylı tərəzi ilə analojidirlər, yəni bir ucuna 
+yük bağlanmış yay kimi təsvir oluna bilərlər. Bu yükün çəkisini 
+dəyişməklə, ağırlıq qüvvəsinin variasiyasından asılı olaraq, 
+yayın uzunluğu dəyişir və bu dəyişmə ağırlıq qüvvəsinin ölçü 
+meyarı olur.  
+Çox vaxt fırlanan sistemlərdən istifadə olunur. Belə 
+sistemlərdə horizontal elastiki sapdan və ya yaydan asılmış 
+makara elastiklik 
+qüvvəsinin təsiri 
+altında horizontal 
+vəziyyətdə 
+qalmağa çalışır. 
+Bu cür sistemlər 
+prinsipcə qeyri-
+xəttidirlər, yəni makaranın tarazlıq vəziyyətinə yaxınlaşması 
+zamanı sistemin həssaslığı kəskin dəyişir. Fizikada bu cür 
+sistemlər astazir olunmuş sistemlər adlanır. Statik 
+qravimetrlərdən qravi-kəşfiyyatda geniş istifadə olunur. 
+ 23
+ Qravimetrlərin çatışmaz cəhəti – dreyf dəyişmədir, yəni 
+zaman keçdikcə qravimetrin dəqiqliyinin pozulmasıdır. Dreyfə 
+səbəb – yayların elastikliyinin ideal olmaması, zaman keçdikcə 
+yayaların plastiki deformasiyaya uğraması və temperaturdur. 
+ Dinamik qravimetrlərə simli (∆g-nin qiyməti ucuna yük 
+bağlanmış sapın rəqs tezliyinin dəyişməsinə görə təyin olunur), 
+ballistik (∆g-nin qiyməti, ucuna yük bağlanmış həqqasın bir 
+neçə nöqtədən keçərək sərbəstdüşmə təcilinin dəyişməsinə görə 
+təyin olunur) və makaralı (makaranın sərbəst rəqsinin g-dən 
+asılılığından istifadə olunur) qravimetrləri göstərmək olar. 
+ Yerlə Ay arasında cazibə sahəsi şək. 4-də sxematik təsvir 
+olunur. ( )rgg =  funksiyasının (cazibə təcilinin məsafədən 
+asılılğı) qrafikindən r  məsafəsi sonsuzluğa yaxınlaşdıqca 
+qravitasiya sahəsinin təcili (gərginliyi) sıfra yaxınlaşır, yəni 
+( ) 0=
+∞→r
+rg . Ona görə də “Yerin cazibə sahəsini peyk tərk edib” 
+ibarəsi heç vaxt düzgün deyil. Bu ( )rgg =  funksiyasının 
+aşağıdakı fiziki mahiyyəti ilə izah olunur: kainat cisimlərinin 
+qravitasiya sahələri bir-birini tamamlayır, yəni kainat 
+planetlərinin mərkəzlərini birəşdirən xətt boyunca hərəkət etsək, 
+onda müəyyən bir nöqtədə bu planetlərin cazibə təsiri sıfır olur 
+ 24
+(Laqranj nöqtəsi), bu nöqtədən keçdikdən sonra bu və ya digər 
+planetin cazibə qüvvəsi üstünlük təşkil edəcəkdir.  
+ Qravimetrik planalmanın nəticəsi olaraq Buge 
+reduksiyasında ağırlıq qüvvəsinin (sərbəst düşmə təcilinin), 
+aralıq qatın yatma dərinliyi və sıxlığının qeyri bircinsliyi ilə 
+bağlı olan anomaliyası hesablanılır və onların geoloji 
+interpretasiyası aparılır. Bu zaman Yerin ümumi təsiri, 
+müşahidə məntəqəsinin koordinatına görə normal düzəliş 
+verməklə istisna olunur.  
+1.2.1. Potensial sahənin prinsipləri. Nyuton cazibə qanunu 
+Cazibə sahəsinin təbiəti haqqında İsaak Nyuton fikrinin 
+yaranması təsadüfdən yaranmış zərurət olmuşdur. 
+Alma bağında Ayı seyr etdiyi zaman onun gözləri önündə 
+bir alma budaqdan qoparaq yerə düşmüşdü. Bu dövrdə Nyuton 
+hərəkət qanunu qanunları üstündə işlədiyi üçün, bütün 
+cisimlərin, eləsə də almanın Yerin cazibə qüvvəsinin təsiri 
+altında düşdüyünü bilirdi. Eyni zamanda Nyuton bilirdi ki, Ay 
+sadəcə olaraq «göydən asılmayıb», özünə məxsus orbitlə Yer 
+ətrafında fırlanır. Eyni zamanda ona məlum idi ki, Aya qeyri-
+adi qüvvə təsir edir və bu qüvvə onu həmişə müəyyən bir 
+orbitdə saxlayaraq, onun Yer ətrafında fırlanmasına səbəb olur. 
+ 25
+Şəkil 5. Ümumdünya cazibə 
+qanununun sxematik təsviri 
+Burada Nyutonun ağlına ilk dəfə olaraq belə bir fikir gəlir ki, 
+almanın qanaddan qoparaq Yerə düşməsinə və Ayın öz 
+orbitində Yer ətrafında fırlanmasına eyni bir qüvvə təsir edir. 
+Belələliklə, ümumdünya cazibə qanunu öz təməl daşını 
+tapmışdır.   
+Qravitasiya potensialının 
+əsas mahiyyəti olan cazibə 
+qüvvəsinin təbiəti Nyuton 
+qanunun ilə izah olunur. Bu qanun 
+təsdiq edir ki, bir-birindən vahid 
+məsafədə vahid kütləli iki m1 və 
+m2 yüklər arasındakı cazibə 
+qüvvəsi (m1 kütləsinin m2-yə təsiri) onların kütlələri hasili ilə 
+düz, aralarındakı məsafənin kvadratı ilə tərs mütənasibdir, yəni 
+              12
+21 r
+r
+mmGF r
+r
+×
+×
+−=                         (1.1) 
+Burada F
+r
+ – 2m  kütləsinə təsir olunan cazibə qüvvəsi, 1r
+r  
+– 1m  kütləsindən 2m  – yə istiqamətlənmiş vahid vektor, r  – 1m  
+və 2m  arasındakı məsafə, G  – universal qravitasiya sabitidir. 
+Burada minus işarəsi onu göstərir ki, qüvvə vektoru və 
+cazibə qüvvəsinin istiqaməti bir-birinin əksinədir. SQS 
+sistemində F
+r
+- dina (dn) ilə, 1m  və 2m  yükləri kütlələri qramla 
+ 26
+(qr), r - məsafəsi santimetrlə (sm) ölçülür; bu halda G -nın 
+qiyməti 6,67 ∗ 10-8dn × sm2 × qr-2 olur. Bu o deməkdir ki, 
+aralarındakı məsafə 1 sm, kütlələri 1 qr olan eyni tərkibli iki 
+yük arasında bircins fəzada qarşılqlı təsir 1dina-ya bərabərdir. 
+Analoji olaraq, BS sistemində bu qüvvə 1 nyuton-a bərabər olur. 
+Cazibə sabitinin qiymətindən aydın görünür ki, cazibə qüvvəsi 
+təbiətdə mövcud olan potensial qüvvələrin ən zəifidir. Cisim 
+müəyyən bir hesablama istinad sisteminə nisbətən sükunət 
+halında olduqda, istər kainat (planetlər), istərsə də maddi 
+sistemlər bu qüvvə sıfra bərabərdir. Bir çox alim və 
+tədqiqatçılar belə bir mülahizə irəli sürürlər ki, G -nin qiyməti 
+sabit qalmır, zaman keçdikcə azalır. Ancaq belə bir mülahizə 
+tamamilə təkzib olunandır, çünki G - nın qiyməti zaman 
+keçdikcə azalsaydı, planetlərindən biri də Yer kürəsi olan Günəş 
+sistemi dağıla bilərdi. Bundan başqa, aşağıdakı ifadədən aydın 
+görünür ki,  
+[ ] 1
+1
+2
+1
+21
+2
+r
+m
+rgr
+mm
+FrG rr
+r
+⋅⋅=⋅
+⋅
+⋅
+=              (1.2) 
+burada  
+2m
+Fg
+r
+=  Yer tərəfindən cəzb olunan hər hansı bir cismin 
+təcili, 
+1
+2
+m
+r  isə Yerin radiusu kvadratının cəzb olunan cismin 
+ 27
+kütləsinə olan nisbətdir. Bu iki kəmiyyətin hasili bir-birini 
+həmişə kompensə edir (tamamlayır) və Yerin radiusu 
+kvadratının cəzb olunan cismin kütləsinə olan nisbət həmişə 
+sabit qalır. Bundan başqa, G -nin qiymətinin azalması Yerin, o 
+cümlədən bütün planetlərin, radiusunun artması ilə müşayət 
+olunardı. Bu kainatda mövcud olan uzun müddətli mürəkkəb 
+prosesdir və ən başlıcası böyük “QURAN”-da əhyə olunmuş 
+kainatın genişlənməsi haqqında əbədi bəşər nəzəriyyəsinə 
+ziddir... 
+1.2.2. Yerin cazibə qüvvəsinin təcili 
+Nyuton qanununa görə czibə qüvvəsinin təcilinə baxaq. 
+(1.1) ifadəsindən görünür ki, 2m  kütəlsinə 1m kütləsinin 
+təsirindən yaranmış təcil, F
+r
+qüvvəsini 2m -yə bölməklə alınır. 
+Xüsusi olaraq, əgər 1m  - Yerin kütləsi (My) olsa, onda Yerin 
+kütləsinin 2m -yə təsiri nəticəsində 2m  kütləsinin təsili Yer 
+səthində aşağıdakı kimi ifadə olunur:  
+1
+2
+r
+R
+M
+G
+m
+Fg
+y
+y r
+r
+r
+×−==          (1.3) 
+Burada yR - Yerin radiusu, r
+r - Yerin mərkəzindən onun 
+radiusu boyunca istiqamətlənmiş vahid vektor, g - cazibə 
+ 28
+qüvvəsinin təcilidir. Vahidi zaman və təsir məsafəsindən asılı 
+olaraq aşağıdakı kimi alınır: 
+ 
+2
+2gtS =  buradan 2
+2
+t
+Sg = alınır.  
+Beynəlxalq sistemdə S  – məsafə [ ]M  (metr), zaman [ ]T  
+(saniyə) göstərildiyindən təcilin vahidi [ ] [ ][ ]2T
+Lg = və ya 2c
+m  -dir. 
+SQS sistemində anoloji olaraq 2c
+sm -dir, 2c
+m =102 2c
+sm . Bu nöqteyi-
+nəzərdən ümudünya cazibə sabiti G -nin Beynəlxalq sistemdə 
+vahidi [ ] [ ][ ] [ ]MT
+Lg
+×
+= 2
+3
+, qiyməti isə 2
+3
+1110674,6
+skq
+m
+∗
+⋅ −  olur. 
+ Başqa sözlə, Beynəlxalq sistemdə cazibə qüvvəsi 
+təcilinin vahidi olaraq 1kq kütləyə 1 nyuton qüvvə təsiri altında 
+yaranan təcildir. (1.1) ifadəsinə görə    
+[ ]
+[ ] [ ][ ]
+[ ]
+[ ]
+[ ]2
+2
+T
+L
+M
+T
+LM
+g =
+×
+=  
+Cazibə təcilinin bu qiyməti çox böyük qiymətdir. Ona görə 
+də bu qiymətdən 100 dəfə az qiymət götürülür və Qalileyin 
+şərəfinə olaraq Qal  adlandırılır. Təcrübədə bundan da kiçik 
+vahidlərdən – mQal  və mkQal -dan istifadə olunur: 
+ 29
+2
+53 10101
+s
+mQalmQal −− ==  
+2
+83 10101
+s
+mmQalmkQal −− ==  
+Cazibə qüvvəsi təcilini ölçən cihazlar təcilin dəyişməsini 
+10-8 dəqiqliyinə qədər ölçməlidilər, lakin insan təfəkkürü hələlik 
+belə dəqiq qurğu icad etməmişdir.  
+Yer səthində ağırlıq qüvvəsi təsiri altında olan bütün 
+cisimlərin cazibə təcilinin orta qiyməti 980 Qal-dır. Bu qiymət 
+Yerin ekvator xəttindən qütblərə doğru ge=978 Qal-dan gq=983 
+Qal-a qədər dəyişir (fərq 5 Qal). Qütblərdə olan cazibə təcili 
+qiyməti ( )qq bg ⋅= 2ω  ilə ekvatorda olan cazibə təcili 
+( )eq ag ⋅= 2ω  qiyməti fərqinirn qütblərdə olan cazibə təcilinə 
+olan nisbət   
+189
+1
+978
+5
+1 ≈=
+−
+=
+Qal
+Qal
+g
+gg
+k
+q
+eq -dir. 
+Yerin qütblərində mərkəzdənqaçma təcilinin qiyməti 
+minimal, ekvatorda isə maksimal qiymətə çatır. 
+Mərkəzdənqaçma təcilinin maksimal qiymətinin minimal 
+qiymətinə olan nisbət 
+289
+12
+2 ≈
+×
+=
+q
+e
+g
+ak ω -dir. 
+ 30
+Qeyd olunan 1k  və 2k  sabitləri nisbi sabitlərdir. Bu 
+sabitlərin qiymətləri əsasən üç növ dəyişməyə məruz qalırlar: 
+əsri, periodik və qəfləti dəyişmə. Əsri dəyişməyə səbəb Yerin 
+təkamülü, yəni geoloji quruluşunun zaman (geoloji mənada) 
+keçdikcə dəyişməsi, periodik dəyişməyə səbəb Ayın Yer 
+ətrafında və Yerin Günəş ətrafında fırlanmasından yaranmış 
+orbital ekliptika müstəvilərinin dəyişmələri və qəfləti 
+dəyişməyə səbəb isə çox güclü zəlzəzlələrin baş verməsidir. 
+1.3. Qravitasiya potensialı və onun əsas xassələri 
+Qravitasiya sahəsi Yerin potensial sahəsinin əsas 
+təşkiedicisi olaraq dualizm (ikilik) – divergent və konservativ 
+xassələrinə malikdir. Fizikadan məlum olduğu kimi divergentlik 
+qiyməti və istiqaməti ilə xarakterizə olunan fiziki və ya kimyəvi 
+prosesdir. Konservativlik isə o deməkdir ki, qapalı sahədə, 
+müəyyən ölçülü fəzada və ya kainatda hər hansı bir kütlənin 
+mexaniki hərəkəti zamanı görülən iş, hərəkət trayektoriyasının 
+formasından (məsafədən) və bu trayektoriyaya sərf olunan 
+zamandan yox, hərəkət trayektoriyasının başlanğıc və son 
+vəziyyətlərindən (koordinatlarından) asılıdır. Xüsusi halda, əgər 
+hər hansı bir kütlə istənilən məkanda müəyən hərəkətdən sonra 
+yenə də ilkin vəziyyətinə qayıdarsa, bu halda görülən iş sıfra 
+ 31
+bərabər olur. Müassir fizikada bu belə ifadə olunur: – qapalı 
+məkanda kinetik və potensial enerjinin cəmi sıfra bərabərdir. 
+Ancaq bu o demək deyil ki, qravitasiya potensial sahəsi də 
+qapalı sahədir. Əksinə, qapalı sahə potensial sahənin xüsusi 
+halıdır. Potensial konservativ sahəni yaradan ağırlıq vektorudur 
+və bu vektorun istiqaməti iki kütlənin mərkəzini birləşdirən 
+xətlə üst-üstə düşür. Konservativ sahəni yaradan qüvvəni 
+hesablamaq üçün bu qüvvənin vahid 2m  kütləsinə nisbəti 
+tapmaq kifayətdir, yəni   
+( ) ( ) ( ) ( )rg
+m
+rgm
+m
+rFrU rr
+rrrr
+rr
+=
+×
+==∇
+2
+2
+2
+       (1.4) 
+Burada
+zyx ∂
+∂
++
+∂
+∂
++
+∂
+∂
+=∇  qradiyent operatoru (təyinedicisi) 
+adlanır və göründüyü kimi vektor cazibə qüvvəsinin koordinat 
+oxlarına görə birinci tərtib törəməsindən, yəni koordinat 
+müstəvilərinə proyeksiyasından asılıdır, ( )rU r
+r
+ – isə potensial 
+sahənin istənilən nöqtəsiqdə kəsilməz törəməsi olan skalyar 
+funksiyadır. 
+(1.3) ifadəsini sərf olunan məsafənin başlanğıc (sıfır) və 
+son ( )R  vəziyyətnə görə differensiallasaq  
+( ) ( ) ( )
+R
+M
+r
+drMrdgrdgrU
+RRR γγ =∫=∫=∫=
+∞∞∞ 2
+rrrrrrr            (1.5) 
+ 32
+alarıq. Yerin cazibə qüvvəsinə məhz bu əlamət xasdır, ona görə 
+də cazibə və ya qravtasiya poensialı adlanır. Fiziki mənası Yer 
+səthinin hər hansı bir nöqtəsində Yerin təsiri altında görülən işi 
+ifadə edir: Yerə nisbətən sükunət halında görülən iş sıfra 
+bərabərdir. Lakin (1.5) ifadəsinə görə Yerin potensial sahəsində 
+Yerin təsiri altında görülən iş Yerin kütləsi ilə düz, radiusu ilə 
+tərs mütənasibdir.  
+Qravitasiya potensialını başqa cür də hesablamaq olar.  
+Hər hansı bir nöqtəsində potensial funksiyası təyin 
+olunmuş qüvvə sahəsi k o n s e r v a t i v  s a h ə  adlanır. 
+Bunu aşağıdakı kimi riyazi ifadə etmək olar: 
+ρ
+γ dMU
+M
+∫=                                 (1.6) 
+(1.4) ifadəsi ilə (1.5) ifadəsi eynidir. Fərq orasındadır ki, 
+(1.4) ifadəsi Yerin cazibə sahəsi təsiri altında vahid m  kütləli 
+cismə, (1.5) ifadəsi isə Yerin bilavasitə cazibə potensialıdır. 
+Qravitasiya potensialı cazibə qüvvəsinin potensialı olduğundan 
+qısa olaraq cazibə işlədilir.  
+ Cazibəni daha aydın başa düşmək üçün cazibə 
+qüvvəsinin ( )zyx ,,  dekart koordinat oxlarına 
+proyeksiyalarından istifadə edək. Yerin polyar oxu olaraq z , 
+ona perpendikulyar iki radius – x  və y götürək. Dekart 
+ 33
+koordinat sisteminin mərkəzini Yerin nüvəsi, Yerin cazibə 
+sahəsində cazibə təsiri altında olan olan nöqtəni (maddi nöqtə) 
+( )zyxA ,, , Yerin səthində cazibə təsiri edən nöqtəni ( )ζηξ ,,M∂ , 
+bu nöqtələr arasındakı məsafəni ρ qəbul edək. Fəzada ixtiyari 
+iki nöqtə arasındakı məsafə düsturu 
+( ) ( ) ( )222 ζηξρ −+−+−= zyx  
+və fəzada hər hansı istiqamətdə təsir edən qüvvənin, bu halda 
+cazibə qüvvəsinin istqamətləndirici kosinusları, yəni qüvvə ilə 
+koordinat oxları arasındakı bucaq  
+( )
+ρ
+ξρ −
+=
+∂
+∂
+=
+x
+x
+xF ,cos ;  ( )
+ρ
+ηρ −
+=
+∂
+∂
+=
+y
+y
+yF ,cos ;  ( )
+ρ
+ζρ −
+=
+∂
+∂
+=
+y
+z
+zF ,cos ; 
+ifadələri riyaziyyatdan məlumdur. (1.5) ifadəsindən potensialın 
+koordinat oxlarına görə birinci tərtib törəmələrini hesablasaq 
+( )
+m
+FxF
+m
+FxdM
+x
+dM
+x
+U x
+MM
+==
+−
+⋅∫=
+∂
+∂
+⋅∫−=
+∂
+∂ ,cos22 ρ
+ξ
+ρ
+γρ
+ρ
+γ ; 
+( )
+m
+F
+yF
+m
+FydM
+y
+dM
+y
+U y
+MM
+==
+−
+⋅∫=
+∂
+∂
+⋅∫−=
+∂
+∂ ,cos22 ρ
+η
+ρ
+γρ
+ρ
+γ ;   (1.7) 
+( )
+m
+FzF
+m
+FzdM
+z
+dM
+z
+U z
+MM
+==
+−
+⋅∫=
+∂
+∂
+⋅∫−=
+∂
+∂ ,cos22 ρ
+ζ
+ρ
+γρ
+ρ
+γ ; 
+alarıq. Potensialın bu xassəsindən belə nəticə çıxır ki, Yerin 
+cazibə qüvvəsinin potensialının koordinat oxlarna görə birinci 
+tərtib törəməsi və qüvvənin koordinat oxlarına görə 
+proyeksiyasının vahid kütləyə nisbətinə bərabərdir və ya cazibə 
+ 34
+qüvvəsi ilə bu qüvvənin koordinat oxları arasındakı bucağın 
+sosinusu hasilinə bərabərdir (burada 
+m
+1  əmsalı vahid qəbul 
+edilir). Belə olan halda istənilən istiqamətdə və məsafədə cazibə 
+potensialının birinci tərtib törəməsi aşağıdakı kimi olar: 
+( ) SFsF
+m
+F
+s
+U
+S
+rr
+⋅==
+∂
+∂ ,cos  
+olar. Burada S
+r
+ - vahid vektordur. 
+m
+1  əmsalını vahid götürsək,  
+( )sFdSFU ,cos⋅⋅=∂                                    (1.8) 
+alınar. (1.8) ifadəsi onu göstərir ki, ( )zyxA ,,  nöqtəsinin 
+( )ζηξ ,,M∂  nöqtəsi tərəfindən cazibəsi zamanı potensialın 
+dəyişməsi ( )zyxA ,,  nöqtəsinin sərf etdiyi məsafənin 
+formasından, yəni ölçüsündən yox, bu məsafənin başlanğıc və 
+son koordinatlarından asılıdır. 
+(1.8) ifadəsini başqa yolla da almaq olar. 
+Yer kürəsi iki fırlanma hərəkəti ilə xarakterikdir: öz oxu və 
+Günəş ətrafında fırlanma. Fəzada Yer öz oxu ətrafında qərbdən 
+şərqə doğru, Günəş ətrafında isə şərqdən qərbə doğru fırlanır. 
+Hər iki halda, fizika qanuna görə mərkəzəqaçma təcili yaranır. 
+Yerin öz oxu ətrafında fırlanması zamanı mərkəzəqaçma təcilin 
+istiqaməti Yerin nüvəsinə doğru, Günəş ətrafında fırlanması 
+zamanı isə mərkəzəqaçma təcilinin istiqaməti Günəşə doğru 
+ 35
+olur. Bu təcillərin istiqamətindən asılı olmayaraq, Yer səthində 
+götürülmüş hər hansı bir nöqtədə gr  cazibə potensialı Yerin 
+mərkəzinə doğru istiqamətlənmiş F
+r
+cazibə qüvvəsi ilə bu 
+qüvvəyə perpendikulyar və Yerin öz oxu ətrafında frlanma 
+oxuna toxunan istiqamətdə olan P
+r
+ mərkəzdənqaçma təcilinin 
+cəminə bərabərdir, yəni    
+PFg
+rrr
++=                 (1.9) 
+Eyni zamanda, Yerin Günəş ətrafında fırlanması zamanı 
+Yer səthində götürülmüş hər hansı bir nöqtədə 1g
+r  cazibə 
+potensialı Günəşə doğru istiqamətlənmiş 1F
+r
+ cazibə qüvvəsi ilə 
+bu qüvvəyə perpendikulyar və Yerin Günəş ətrafında fırlanma 
+oxuna toxunan istiqamətdə olan 1P
+r
+ mərkəzdənqaçma təcilinin 
+cəminə bərabərdir, yəni    
+111 PFg
+rrr
++=              (1.10) 
+Ymumi cazibə qüvvəsi G
+r
+bu iki gr  və 1g
+r cazibə 
+qüvvələrinin cəmidir, yəni  
+ggG rr
+r
++= 1               (1.11) 
+Nəzərə alsaq ki, Günəş sistemində Yerlə Günəşin 
+ölçülərinə və aralarındakı məsafəsinə görə Yer kürəsi maddi 
+nöqtədir, (1.11) ifadəsində birinci gr  həddini sıfır qəbul etmək 
+ 36
+olar. Bu halda, Yer səthinin hər hansı bir nöqtəsində gazibə 
+qüvvəsinin potensialı (1.9) formulu ilə ifadə oluna bilər. Bu 
+formulanın differensial forması aşağıdakı kimidir.     
+( ) ( ) ( )yxPzyxVzyxU ,,,,, +=            (1.12) 
+( )yxP ,  təşkiledicisi ancaq x  və y oxlarına görə təyin 
+edildiyindən və qiyməti çox cüzi olduğundan, eyni zamanda 
+istiqaməti Yerin mərkəzinə doğru yox, onun öz oxu ətrafında 
+fırlanma oxuna toxunan istiqamətdə olduğundan nəzərə alınmır. 
+Məhz buna görə də Yer səthində götürülmüş hər hansı bir 
+nöqtədə G
+r
+ cazibə potensialı Yerin mərkəzinə doğru 
+istiqamətlənmiş ( )zyxV ,, cazibə qüvvəsi ilə mütənasibdir. 
+Beləliklə, Yerin təsiri altında olan hər hansı bir nöqtəyə və 
+ya Yer səthində götürülmüş hər hansı bir nöqtəyə, yuxarıda 
+qeyd etdiyimiz kimi, Yerin ( )zyxV ,,  cazibə qüvvəsinin 
+yerdəyişmə proyeksiyasının koordinatlarının dəyişməsi təsir 
+edir. Cazibə potensialının tam differensialı aşağıdakı kimi ifadə 
+olunur: 
+dz
+z
+Vdy
+y
+Vdx
+x
+VdV
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=               (1.14) 
+burada  
+( )xFF
+x
+V ,cos⋅=
+∂
+∂ ; ( )xsdsdx ,cos⋅= ;  
+ 37
+( )yFF
+y
+V ,cos⋅=
+∂
+∂ ; ( )ysdsdy ,cos⋅= ;  
+( )zFF
+z
+V ,cos⋅=
+∂
+∂  və ( )zsdsdz ,cos⋅=  nəzərə alsaq, 
+( ) ( ) ( ) ( ) ( ) ( )[ ]
+( )sFdsF
+zszFysyFxsxFFdsdV
+,cos
+,cos,cos,cos,cos,cos,cos
+⋅⋅=
+=⋅+⋅+⋅=
+( )sFdsFdV ,cos⋅⋅=           (1.13) 
+ifadəsini alarıq. Bu isə (1.8) ifadəsidir. 
+Potensialın bir neçə mühüm xassələrinə nəzər salaq. 
+1.3.1. Kəsilməzlik və müntəzəmlik 
+Yada salaq ki, cazibə potensialı cazibə qüvvəsinin cazibə 
+qüvvəsinin koordinat oxlarına və ya istənilən istiqamətə görə 
+birinci tərtib törəmədir. Deməli cazibə potensialı sonsuz fəzada 
+kəsilməzdir və kəsilməz olan ikinci və üçüncü tərtib törəməsi 
+mövcuddur. Sonsuzluqda potensial müntəzəm funksiyadır, yəni 
+onun limiti sonsuzluqda sıfra bərabərdir:  
+0lim =
+∞→
+V
+ρ
+ 
+Lakin ρ  məsafəsinin sonsuzluğa yaxınlaşması ilə V  potensialı 
+sfra yaxınlaşsa da, bu iki kəmiyyətin hasili aşağıdakı son limit 
+qiymətini alır: 
+MV ⋅=⋅
+∞→
+γρ
+ρ
+lim                   (1.15) 
+ 38
+Bu o deməkdir ki, cazibə potensialının kəmiyyəti 
+qravitasiya sabiti ilə Yerin kütləsinin hasilinə bərabərdir. 
+Beləliklə, yuxarıda qeyd olunmuş ifadə və formulalardan 
+alınır ki, potensial aşağıdakı əsas xassələrə malikdir: 
+1) V potensialı və onun birinci tərtib törəmələri – 
+birqiymətlidirlər, kəsilməzdirlər və cəzb edən çəkidən kənar 
+bütün fəzada cəzb olunan nöqtənin koordinatlarının son 
+funksiyasıdır; 
+2) V potensialı müntəzəm funksiyadır, yəni qarşılıqlı 
+cazibədə olan cisimlər arasındakı məsafə sonsuzluğu 
+yaxınlaşdıqda potnsialın limiti sıfra bərabərdir:  
+0lim =
+∞→
+V
+ρ
+ 
+3) M cəzbedən kütlədən uzaqlaşdıqca V⋅ρ  hasili 
+aşağıdakı limit qiymətini alır: 
+MV ⋅=⋅
+∞→
+γρ
+ρ
+lim  
+4) Cəzb edən kütlədən xaricdə hər hansı bir nöqtənin 
+cazibə potensialı aşağıdakı Laplas tənliyini ödəyir: 
+02
+2
+2
+2
+2
+2
+=
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+z
+V
+y
+V
+x
+V
+ 
+Bu ifadənin fiziki mənası: cazibə təcili koordinat mərkəzinə 
+nisbətən cazibə qüvvəsinn koodinat oxları boyunca ikinci tərtib 
+ 39
+Şəkil 6. Tarazlanmış səthin 
+normal təşkiledicisi 
+törəmələrinin cəmidir. Bu, istənilən koordinat sistemində 
+doğrudur.  
+Cəzb edən kütlənin daxili hər hansı bir nöqtəsində Puasson 
+tənliyini doğrudur: 
+σγπ ⋅⋅−=∆ 4V          (1.16) 
+Bu ifadənin fiziki mənası isə Yer səthində və ya təkində cazibə 
+təcili sabitdir, ədədi qiymətcə cazibə sabitindən, mühitin 
+sıxlığından bilavasitə asılıdır. Məhz bu asılılığa görə 
+qravimetriyada istənilən geoloji məsələ həll oluna bilir. 
+1.3.2. Tarazlanmiş və ya qeoid səthi 
+Əgər (1.8) ifadəsində  ( ) 0,cos =sF  olarsa, 0=V  və ya hər 
+hansı constV = sabiti alınar. 
+Belə səthlər, yəni potensialın 
+cazibə differensialının sabit 
+olduğu səthlər,  qravimetriyada 
+tarazlanmış səthlər adlanır 
+(şək.6.). Fizikadan məlum 
+olduğu kimi, hər hansı bir 
+qüvvənin təsir fəzası qüvvə xətləri ilə səciyyələnir və qüvvə 
+xətlərinin qüvvə istiqaməti ilə hansı bucaq təşkil etməsindən 
+asılı olaraq, fəzada iş görülür. Qüvvə xətləri qüvvə istiqamətinə 
+ 40
+Şəkil 7. Ekvipotensial səthlərin 
+sxematik təsviri 
+perpendikulyar olan müstəviyə tarazlanmış müstəvi deyilir. 
+Tarazlanmış müstəvinin fiziki mənası aşağıdakı kimidir. 
+Tarazlanmış səthlərə təsir edən hər hansı bir qüvvənin 
+tangensial təşkiledicisi sonsuz-luqdadır, yəni belə səthlər 
+dayanıqlı taraz vəziyyətindədəir, yəni tarazlanmış səthlərin 
+qravitasiya potensialı elə bir funksiyadır ki, bu funksiyanın 
+istənilən nöqtəsinə ancaq 
+normal istiqamətdə təsir 
+mövcuddur. Məsələn, adi 
+qabda su və ya okeanın səthi. 
+Belə səthlər tarazlanmış 
+səthlərdir və ya 
+ekvipotensial səthlər adlanır 
+(şək.7). Ancaq yuxarıda 
+qeyd etdik ki, qravitasiya potensialı ( )zyx ,,  koordinatlarından 
+asılı olan funksiyadır və bu funksiya real təsir sferasından asılı 
+olaraq kəsilməz və müntəzəmdir.  
+Yerin qravitasiya potensialının tarazlanmış səthi 
+qravimetriyada geoid adlanır. Geoid tarazlanmış səthi Yerin 
+başqa planetlərlə, əsasən Günəşlə, qarşılıqlı cazibə sahəsinə 
+görə sabit, yəni dəyişməz qəbul olunur. Əslində isə, geoid 
+səthinin tarazlıq vəziyyəti dəyişə bilər (şək.8). Yerin tarazlıq 
+ 41
+Şəkil 8. Yer kürəsinin geoid xəritəsi 
+vəziyyətinin dəyişməsinə səbəb kainatda planetlərin hərəkət 
+trayektoriyalarının dəyişməsi ola bilər. Bundan başqa Yerin 
+təkində baş verən çox güclü zəlzələ və ya vulkan püskürmələri 
+də Yerin tarazlıq vəziyyətinin dəyişə bilər. 
+Geoid səthinin ən sadə tənliyi constV = -dır. Fiziki mənası 
+o deməkdir ki, bu 
+səthin potensial 
+sahəsinə cazibə 
+qüvvəsinin təsiri 
+həmişə səthə 
+perpendikulyar 
+sitiqamətdədir. Geoid nəzəri səthdir və Yerin fiqurasına bu 
+anlayışı ilk dəfə alman fiziki İ.Listinq daxil etmişdir. Fiziki 
+olaraq geoid səthi olaraq elə bir səth götürülür ki, bu səth 
+okeanların potensial səthinə bərabər olmaqla okean 
+səviyyəsində quru sahələrin altına daxil olsun və bu zaman 
+izostazisiya prinsipi pozulmasın. İzostasiya prinsipi o 
+deməkdir ki, dağlıq sahələrdə potensialın qiyməti mənfi, 
+okeanlarda isə müsbətdir.   
+ 
+ 
+ 42
+1.3.3. Tarazlanmiş səthlər arasindaki məsafə 
+Əgər (1.8) ifadəsində ( ) 1,cos =sF  olsa, dSFV ⋅=  olar, 
+yəni 
+F
+dVdS =                                 (1.17) 
+alarıq. Bu o deməkdir ki, iki tarazlanmış səth arasında normal 
+boyunca elementar məsafənin dəyişməsi cazibə təsir qüvvəsi ilə 
+tərs mütənasibdir. Başqa cür də ifadə etmək olar: qravitasiya 
+potensialının elementar artımı, cazibə qüvvəsinin təsiri altında 
+vahid yükün elementar dS  dəyişməsində görülən tam işdir. Bu 
+teorem qravimetriyada Bruns teoremi adlanır və nəzəri 
+teoremdir, təcrübi olaraq həyata keçirmək mümkün olmayıb. Bu 
+teoremin fiziki mənası aşağıdakı kimidir. 
+Hər hansı bir 0V  potensial səthdən digər KV səthinə keçmək 
+üçün müəyyən dV qədər potensial əlavə olunmalıdır, yəni 
+dVkVVK ⋅+= 0  
+burada k - Bruns teoreminə görə görülən işdir.  
+Tarazlanmış səthlərin özünəməxsus əlamətlərindən biri və 
+ən vacibi aşağıdakından ibarətdir: tarazlanmış səthlər heç vaxt 
+bir-birinə paralel və ya perpendikulyar olmur. Bu səthlər 
+arasındakı məsafəni dəyişmək və ya bir səthdən başqa səthə 
+keçmək üçün müəyyən iş görmək lazımdır. 
+ 43
+1.3.4. Nyutonian və ya üçölçülü potensial 
+Fəzada üç ölçülü, ixtiyari formalı A  kütləsinin qravitasiya 
+potensialına baxaq. Bu kütlənin hər hansı r  məsafədə ( )zyxP ,,  
+nöqtəsində qravitasiya potensialı və cazibə qüvvəsinin təcilini 
+hesablamaq üçün A  kütləsinin elementar ( )ζηξ ,,dm  
+hissəciklərinə bölünərək hər bir hissəciyin effekti hesablanır və 
+A  kütləsindən alınan tam effekti hesablamaq üçün alınan nəticə 
+inteqrallanır. (1.5) ifadəsinə görə A  kütləsinin ( )ζηξ ,,dm  
+elementar hissəsinin r  məsafədə ( )zyxP ,,  yükünə cazibə 
+təcilinin potensialı  
+r
+dxdydz
+zyx
+dxdydz
+r
+dmdU ⋅⋅=
+++
+⋅⋅
+==
+σγσγγ 222         (1.18) 
+burada  σ - sıxlıq, dxdydzdm ⋅=σ  vahid hissəciyin yüküdür. 
+Onda A  kütləsinin tam qrvitasiya potensialı düzbucaqlı Dekart 
+koordinat sistemində 
+dxdydz
+r
+U
+zyx
+1
+∫∫∫⋅= σγ                        (1.19) 
+ 44
+alınır. Silindrik koordinat sistemində dzdrdrdxdydz ϕ⋅= , sferik 
+koordinat sistemində θϕθ ddrdrdxdydz sin2 ⋅=  olduğundan bu 
+sistemlərdə uyğun olaraq aşağıdakı kimi ifadə olunurlar: 
+dzdrdU
+zr
+ϕσγ
+ϕ
+∫∫∫⋅=            (1.20) 
+θϕθσγ
+θϕ
+ddrdrU
+r
+sin⋅∫∫∫⋅=         (1.21) 
+Qravitasiya potensialını yaradan cazibə qüvvəsinin Z  oxu 
+boyunca təcili isə, yəni istənilən koordinat sistemində şaquli ox 
+boyunca (yaddan çıxarmaq olmaz ki, qravimetriyada Yerin təsir 
+sahəsində onun radiusu boyunca istiqamətlənmiş təcil öyrənilir), 
+uyğun olaraq koordinat sistemlərində aşağıdakı kimi olacaq: 
+dxdydz
+rz
+Ug
+zyx
+Z 3
+1
+∫∫∫⋅−=
+∂
+∂
+= σγ , (dekart koor. sistemi)  (1.22) 
+dzdrd
+r
+Z
+Z
+Ug
+zr
+Z ϕσγ
+ϕ 2
+∫∫∫⋅−=
+∂
+∂
+= , (sferik ……"……)   (1.23) 
+θϕθσγ
+θϕ
+ddrd
+r
+Z
+z
+Ug
+r
+Z sin⋅∫∫∫⋅−=∂
+∂
+= , (silindrik …"…)  (1.24) 
+(1.20÷1.22) formulaları ilə hesablanan qravitasiya potensialı 
+qravimetriyada nyutonian və ya üçölçülü potensial adlanır. 
+ 45
+1.3.5. Loqarifmik və ya ikiölçülü potensial 
+Əgər A  kütləsi Y  oxu boyunca uzaq məsafəyə təsir edirsə 
+və bu halda ( )yx,  müstəvisi boyunca təsir eyni qalırsa, onda 
+qravitasiya potensialı nyutoianla yox loqarifmik təyin olunur. 
+Bu halda (1.17) tənliyini aşağıdakı kimi yazmaq olar: 
+r
+dydxdyU
+yx
+∞
+∞−
+∫∫∫⋅= σγ                  (1.25) 
+Y -ə görə olan axırıncı inteqralı təyin olunan üçün ∞± -u L± -lə 
+əvəz edək ( L  - burada sonlu kəmiyyətdir). Xüsusi halda L  
+sonsuzluğa yaxınlaşa bilər. Bu inteqralı LU -lə işarə etsək, 
+22222 ya
+dy
+zyx
+dy
+r
+dyU
+L
+L
+L
+L
+L
+L
+L
++
+∫=
+++
+∫=∫=
+−−−
+       (1.26) 
+(burada 222 zxa += ) alınar. İnteqralı açsaq, 
+22
+22
+aLL
+aLLloqU L
+++−
+++
+=                   (1.27) 
+bərabərliyini alarıq. İkiölçülü sahənin potensialının qiymətini 
+təyin etmək məqsədi ilə xüsusi hal üçün 12 =a  qəbul edərək 
+(1.25) loqarifmdən çıxaq. Bu LU -i təyin etmək üçün vacibdir, 
+ 46
+Şəkil 9. Yer səthindən 
+xaricdə cazibə təsiri altında 
+olan nöqtə potensialı 
+eyni zamanda 2a  sabit ədəddir. Onda (1.25) bərabərliyini 
+aşağıdakı kimi yazmaq olar: 
+2
+2
+2
+2
+2
+2
+2
+2
+22
+22
+2
+2
+22
+22
+2
+12
+2
+1
+2
+2
+11
+1
+1
+1
+1
+L
+L
+L
+a
+L
+a
+loq
+LL
+LL
+aLL
+aLLloq
+LL
+LLloq
+aLL
+aLLloqU L
++
+×
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−+
+≈
+++
+++−
+×
+++−
+++
+=
+=
+++−
+++
+−
+++−
+++
+=
+ 
+Burada L >> a  olduğundan 2
+2
+2L
+a  təşkiledicisini nəzərə almamaq 
+olar (xüsusi halda L  sonsuzluğa yaxınlaşdıqda). Onda 
+yuxarıdakı ifadə aşağıdakı kimi olar:  
+( ) loqrzxloq
+a
+loqU 2
+2
+12 22
+2 −=+−=⋅=
+, burada ( ) 222 rzx =+  (1.28) 
+(1.26)-nı (1.23)-də nəzərə alsaq, 
+xdz
+r
+loqU
+zx
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛∫∫⋅=
+12 σγ           
+(1.29)  
+alınar. Bu halda cazibə qüvvəsinin 
+təcili  
+dxydz
+r
+z
+z
+Ug
+zx
+Z 2∫∫⋅−=∂
+∂
+= σγ   
+(1.30) 
+ 47
+formulu ilə ifadə olunur. Vacib bir məqamı qeyd etmək lazımdır 
+ki, istər nyutonion, istərsə də loqarifmik potensialın 
+hesablanmasında sıxlığın sabit oldduğu nəzərdə tutulur. 
+1.4. Potensial nəzəriyyənin əsas tənlikləri 
+Divergensiya haqqında olan teorem (Qauss teoremi) 
+təsdiq edir ki, vektor sahəsinin verilmiş həcm üzrə 
+divergensiyasından alınan inteqral sahənin sferik səthi üzrə 
+xarici normal təşkiledicisinin bu həcmi məhdudlayan inteqralına 
+bərabərdir. Qeyd edək ki, divergent funksiya – qiyməti və 
+istiqaməti məlum olan, kəsilməz və müntəzəm vektor 
+funksiyasıdır. Qravitasiya sahəsi, o cümlədən Yerin qravitasiya 
+sahəsi bu əlamətlərə xas olduğundan, Qauss teoreminə görə 
+aşağıdakı  bərəabərlik doğrudur: 
+dSFdVF n
+SV
+⋅∫=⋅∇∫
+r
+    (1.31) 
+Əgər mühitdə cəzb edən yük yoxdursa və ya mühit tarazlıq 
+halındadırsa, onda hər iki inteqral sıfra bərabərdir. Ancaq (1.31) 
+ifadəsinə görə cazibə qüvvəsi – skalyar potensialın 
+qradtyentidir. Ona görə də  
+02 =∇=∇∇=∇ UUgr      (1.32)  
+ 48
+yəni qravitasiya potensialı xarici mühitdə Laplas tənliyini 
+ödəyir. (1.30) tənliyində ifadə olunmuş bu əlamətə 
+qravimetriyada laplasian deyilir və potensialın ümumi halda 
+əsas tənliklərindən biridir. Fiziki mənası – Yerin cazibə 
+sahəsindən kənarda potensialın sıfra bərabər olması deməkdir, 
+yəni çəkisizlik şəraiti (şəkş 9). 
+Düzbucaqlı koordinat sistemində Laplas tənliyi aşağıdakı 
+formadadır: 
+02
+2
+2
+2
+2
+2
+2 =
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=∇
+z
+V
+y
+V
+x
+VU  (1.33)     
+Silindrik koordinat sistemində 
+011 2
+2
+2
+2
+2
+2 =
+∂
+∂
++
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+⋅=∇
+z
+VV
+rr
+Vr
+rr
+U
+ϕ
+ 
+Sferik koordinat sistemində isə aşağıdakı kimidir: 
+0
+sin
+1sin
+sin
+11
+2
+2
+2222
+2
+2
+2 =⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+⋅+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+⋅=∇
+ϕθθ
+θ
+θθ
+V
+r
+V
+rr
+Vr
+rr
+U  
+Digər tərəfdən, əgər verilmiş həcmdə müəyyən m  yükü cazibə 
+təsiri altındadırsa və bu yük sferik səthin mərkəzi hesab 
+olunarsa, onda (1.29) ifadəsində sağ inteqral  
+mr
+r
+mdSFn
+S
+⋅⋅−=⋅⋅
+⋅
+−=⋅∫ γππγ 44 22        (1.34) 
+ 49
+Şəkil 10. Yer səthində 
+cazibə təsiri altında olan 
+nöqtə potensialı 
+qiymətini alar. Bu nəticə m  yükünün səthinin hər hansı formada 
+olmasından asılı olmayaraq doğrudur, yəni götürülmüş həcmdə 
+bir m  yox, M sayda səth olarsa, onda  
+MdSFdVF n
+SV
+⋅⋅−=⋅∫=⋅∇∫ γπ4
+r
+                     (1.35) 
+qiymətini alar. Əgər götürülmüş həcmi yox, onun vahid sıxlığa 
+bərabər olan hissəsini götürsək və bu halda inteqralı atsaq, 
+σγπ ⋅⋅−=⋅∇ 4F
+r
+                 (1.36) 
+qiymətini alarıq. Burada σ - götürülmüş vahid mühitin 
+sıxlığıdır. (1.3) ifadəsinə görə 
+σγπ ⋅⋅−=∇ 42U                      (1.37) 
+alınır, yəni Yerin cazibə təsiri olan 
+mühitdə Yerin təsiri altında olan hər 
+bir nöqtə Puasson tənliyini ödəyir. 
+Buna qravimetriyada puassonian 
+deyilir. Fiziki mənası – Yerin cazibə 
+sahəsində olan hər hansı bir cismin 
+potensialı qravitasiya sabiti ilə cismin 
+sıxlığı hasili ilə düz mütənasibdir 
+(şək.10). (1.30) və (1.34) tənlikləri potensial nəzəriyyəsinin əsas 
+tənlikləridir. 
+ 50
+1.5. Cazibə qüvvəsi reduksiyasi (düzəlişlər). Normal düzəliş 
+Yer səthi qravimetriyada şərti olaraq sferoid səth kimi 
+qəbul edilir. Bu səth dünya okean səviyyəsinə yaxın götürülür. 
+Əgər fikri olaraq, bütün dağlıq sahələri okean səviyyəsinə qədər 
+götürürb, okean və dənizləri isə dağ süxurları ilə doldursaq, belə 
+səthə malik olan Yer səthi sferoid adlanır. Yer sferoidi 
+ekvipotensial səthdir, yəni cazibə qüvvəsi bu səthin hər bir 
+nöqtəsində bu səthə perpendikulyardır. 1930-cu ildə sferoid 
+səthi üçün geodezik və geofiziki məsələlərin həllində 
+Beynəlxalq ittifaq vahid formula qəbul edib: 
+( )ϕβϕα 2sinsin1 220 ⋅+⋅+= gg        (1.38) 
+Burada Qalg 049,9780 =  qiymətinə bərabər ekvatorda cazibə 
+qüvvəsinin qiyməti, ϕ  - coğrafi en dairəsi, 0052884,0=α  və 
+0000059,0−=β  - sabitlərdir. Bu sabitlər müəyyən dövrdən 
+dövrə dəqiqləşdirilsə də qravimetriyada standart qəbul edilir. Bu 
+ifadə ilə hesablanan düzəliş qravimetriyada normal düzəliş 
+adlandırılır. Fiziki mənası - ekvatordan qütblərə doğru cazibə 
+qüvvəsinin qiyməti dəyişir. 
+Qravimetriyada axtarış-kəşfiyyat işləri öyrənilən ərazidə 
+müşahidə qöqtələrində qravimetrin göstərişinə görə aparılır. 
+Müşahidə qiymətlərinə müşahidə aparılan nöqtənin coğrafi en 
+ 51
+dairəsiÖ dəniz səviyyəsinə nisbətən yüksəkliy və planalma işləri 
+aparılan ərazinin relyefinə görə elə düzəlişlər vermək lazımdır 
+ki, müşahidə qiymətlərini hər hansı bir səthə görə, məsələn 
+sferoid və ya geoid səthinə görə, reduksiya etmək mümkün 
+olsun. Yksək dəqiqli monitorinq tədqiqatlarında Ayın Yer 
+tərəfindən cazibəsindən yaranan axımlılığa və izostazisiyasına 
+görə də düzəlişlər verilir. 
+(1.38) ifadəsi ilə hesablanmış düzəlişlər qravimetriyada 
+bəzən en dairəsinə görə düzəliş də adlanır. Yuxarıda qeyd 
+olunmuşdur ki, Yerin öz oxu ətrafında fırlanması nəticəsində 
+yaranan mərkəzəqaçma təcili ekvatorda maksimal, qütblərdə isə 
+sıfra bərabər olur (Yerin Günəş əirafında hərəkəti nəticəsində 
+mərkəzənaçma təcili nəzərə alınmamaq şərti ilə). Bu 
+mərkəzəqaçma təcilin istiqaməti qravitasiya təcilinin 
+istiqamətinin əksinədir. Eyni zamanda, qütblərdə Yerin 
+radiusunun ekvatora nisbətən qısa alduğundan ( mrekv 6378164. = , 
+mrqutb 6356799. = ) qütblərdə cazibə qüvvəsinin qiyməti ekvatora 
+nisbətən çoxdur (qütblərdən ekvatora −g nin dəyişməsi 
+mQal5200 ). Başqa sözlə, Yerin qütblərdə sıxılmaya görə artmış 
+cazibə qüvvəsi ekvatordakı mərkəzdənqaçma təcili hesabına 
+azalan cazibə qüvvəsini stimullaşdırır, yəni kompensə edir. 
+Ancaq buna baxmayaraq, en dairəsinə görə düzəliş 
+ 52
+qravimetriyada nəzərə alınır. Bu düzəlişi hesablamaq və fiziki 
+mənasını başa düşmək üçün (1.35) ifadəsini S məsafəsinə görə 
+differensiallayaq. Burada S məsafəsi müşahidə nöqtəsinin 
+şimal-cənub istiqamətdə yerdəyişmədir, yəni ekvatordan 
+qütblərə doğru. 
+km
+mQal
+d
+dg
+Rd
+dg
+RdS
+dg L
+ekv
+L
+en
+L ϕ
+ϕϕ
+2sin812,011 =⋅≈⋅= , 
+Burada dS - müşahidə nöqtələri arasındakı məsafənin meridiana 
+proyeksiyasıdır; enR - en dairəsində; ekvR - ekvatorda Yerin 
+radiusudur.  Bu bərabərlikdə differensialı  artımla əvəz etsək, 
+mQalSg ϕ2sin812,0 ∆⋅=∆                       (1.39) 
+alarıq. Göründüyü kimi bu düzəliş müşahidə aparılan məntəqə 
+ilə ekvatorda Yerin radiusunun fərqindən də asılıdır. Ancaq əsas 
+arqument coğrafi en dairəsinin dəyişməsidir və sinus funksiyası 
+ilə ifadə olunur, onun qiyməti qütblərdə sıfra, ekvatorda 
+maksimuma ( mQal812,0 ), o45=ϕ olduqda isə orta qiymətə 
+( mQal406,0 ) bərabər olur.  
+Normal və ya en dairəsinə görə düzəliş Yer kürəsinin 
+istənilən nöqtəsi üçün uyğun olaraq Kassinis və Helmert 
+( )[ ] mQalg 142sin0000059,0sin0052884,01978049 22 −−+= ϕϕ  
+( )[ ] mQalg 142sin000007,0sin005302,01978030 22 −−+= ϕϕ  
+ 53
+Şəkil 11. Hündürlük 
+vəya hava düzəlışınin 
+fiziki mənası
+düsturlarından istifadə etməklə xüsusi cədvəl tərtib olunmuşdur.  
+1.5.1. Hündürlüyə görə və ya «hava» düzəlişi 
+(1.1) formuluna görə cazibə qüvvəsi məsafənin kvadratına 
+tərs mütənasib olaraq dəyişdiyindən 
+qravimetriyada axtarış-kəşfiyyat, 
+eləcə də tədqiqat işləri zamanı 
+müşahidə olunmuş qiymətlərə, 
+müşahidə aparılan nöqtənin 
+yüksəkliyi ilə dəniz səviyyəsinin 
+hündürlüklər fərqinə görə düzəliş 
+vermək zəruridir (ş.k. 11). Ona görə 
+ki, axtarış-kəşfiyyat və ya tədqiqat 
+işləri aparılmış sahədə bütün qiymətlər eyni bir müstəvi səthinə 
+nisbətən aparılır. Müşahidə aparılan səthlə gətirilmiş səth 
+arsındakı yüksəkliklər fərqinə görə verilmiş düzəliş 
+hündürlüyə görə düzəliş və ya «hava» düzəlişi adlanır. Çünki 
+bu düzəliş müşahidə nöqtədəri arasındakı yüksəkliklər fərqini 
+nəzərə alarkən bu məsafəni boş fəza (hava) kimi qəbul edir və 
+bu fəzada olan hər hansı bir materiyanı nəzərə alınmır. İlk dəfə 
+Fay təklif etdiyi üçün çox vaxt Fay düzəlişi də adlanır. 
+ 54
+Bu düzəliş (1.3) ifadəsini Yerin radiusuna görə 
+differesiallamaqla alınır. 
+m
+mQal
+R
+q
+R
+M
+dR
+dg
+ekven
+yer
+en
+H 3086,02
+2
+3 −≈−≈−=
+γ
+ 
+Burada 2
+en
+yer
+R
+M
+q
+γ
+=  sabitdir. Bu bərabərlikdə differensialı artımla 
+əvəz etsək, 
+HmQalgH ∆⋅−=∆ 3086,0                (1.40) 
+alınır. Hündürlüyə görə düzəlişdə «minus» işarəsi on görə 
+qoyulur ki, əgər müşahidə məntəqəsi gətirilmə səthindən 
+yüksəkdədirsə, bu düzəliş müşahidə olunmuş qiymətlərlə 
+toplanılır, əgər əksinədirsə, yəni müşahidə məntəqəsi gətirilmə 
+səthindən aşağıdadırsa, bu dyzəliş müşahidə qiymətlərindən 
+çıxılır. Başqa sözlə, «minus» işarəsi müşahidə məntəqəsi ilə 
+gətirilmə səthi arasındakı yüksəkliklər fərqini kompensə edir. 
+1.5.2. Buge  düzəlişi 
+Buge düzəlişi müşahidə məntəqəsi ilə gətirilmə səthin 
+hündürlükləri arasındakı fərqi və bu fəzanı dolduran materiyanı 
+nəzərə alır. Eyni ilə (1.3) ifadəsini Yerin radiusuna görə 
+differensiallasaq:  
+ 55
+m
+mQal
+R
+dg
+dR
+dg
+ekv
+B
+en
+B σγπ ∆⋅⋅== 2  
+Bu bərabərlikdə differensialı  artımla əvəz etsək, 
+mQalgB ∆Η⋅∆⋅=∆ σ0419,0                       (1.41) 
+alarıq. Burada σ∆  öyrənilən fəzada sıxlıqlar fərqidir. 
+Tamamilə haqlı olaraq belə bir sual meydana çıxır: (1.3) 
+ifadəsini hər iki halda Yerin radiusuna görə differensiallayaraq 
+tamamilə müxtəlif işarəli və qiymətli nəticələr aldıq. Yaddan 
+çıxarmaq olmaz ki, birinci halda (1.3) funksiyasına vektorial, 
+ikinci halda isə skalyar funksiya kimi qəbul olunurdu. Bu 
+axtarılan arqumentdən asılıdır. 
+Buge düzəlişi hündürlüyə görə düzəlişdən fərqli olaraq, 
+əgər müşahidə nöqtəsi gətirilmə səthindən yüksəkdədirsə, bu 
+düzəliş müşahidə qiymətlərindən çıxılır, əksinə olduqda 
+toplanır. Buge düzəlişi ilə hündürlüyə görə düzəlişin işarələri 
+bir-birinin əksinədir. Düzəlişlərin bu xassəsinə görə 
+qravimetriyada axtarış-kəşfiyyat işlərində düzəlişin heç birindən 
+ayrılıqda istifadə olunmur, yəni bu düzəlişlərdən birgə istifadə 
+olunur və aşağıdakı kimi ifadə olunur: 
+( ) mQal
+R
+dg
+dR
+dgg
+ekv
+B
+en
+B
+B
+,3086,00419,0
+3086,00419,0
+∆Η⋅−∆⋅=
+=∆Η⋅−∆Η⋅∆⋅=+=∆
+σ
+σ
+         (1.42) 
+ 56
+Göründüyü kimi Buge düzəlişi iki arqumentli funksiyadır. 
+Öyrənilən süxur laylarının sıxlıqlar fərqindən və müşahidə 
+nöqtəsi ilə gətirilmə səthin hündürlükləri fərqindən. Bu 
+düzəlişin verilməsində belə fərz olunur ki, layların sıxlıqları 
+arasındakı fərq sabitdir və  layın ölçüləri sonsuzluqdadır. 
+Həqiqətdə isə heç vaxt belə olmur, həm sıxlıqlar fərqi, həm də 
+layın ölçüləri dəyişkəndir. Eyni zamanda, müşahidə nöqtələri 
+arasındakı hündürlüklər fərqi də dəyişkəndir. Sıxlıqlar fəqinə 
+görə dəqiq düzəliş vermək üçün öyrənilən sahəningeologiyası 
+haqqında, o cümlədən süxurların petrofiziki xüsusiyyətləri 
+haqqında məlumat dəqiq olmalıdır. Eləcə də layların tektonikası 
+haqqında məlumt dəqiq olmalıdır. 
+1.5.3. Prey  düzəlişi 
+Qravimetrin tarazlığa gətirilməsində ortaya çıxa biləcək 
+xətaları aradan qaldırmaq üçün Prey düzəlişindən istifadə 
+olunur. Prey düzəlişi, bir qravimetrdən yox, bir neçə 
+qravimetrdən istifadə etməklə nəzərə alınır. Bu qravimetrlər elə 
+yerləşdirilir ki, onların ölçü yükü bağlanmış lingləri bir-birinin 
+əksinə olsun. 
+Qravimetriyada ilk dəfə macar alimi Prey təklif etdiyi üçün 
+Prey düzəlişi adlanır. Bu düzəlişin məqsədi, Yerin səthinin hər 
+ 57
+hansı fiziki nöqtəsində müşahidə olunmuş ağırlıq qüvvəsi 
+təcilinin qiymətini geoid səthinə gətirməkdir. Yerin təkində və 
+ya su hövzələrinin dibində (dəniz, okean, göl) qravimetrik 
+tədqiqat işləri apararkən bu reduksiyanın həyata keçirilməsi 
+vacibdir. Prey düzəlişini zesablamaq üçün (1.37) ifadəsində 
+verilmiş hava düzəlişindən müşahidə nöqtəsi ilə dəniz səviyyəsi 
+arasında olan aralıq qat təsirinin iki qat qiymətini çıxmaq 
+lazımdır: 
+HmQal
+mQalHgP
+∆⋅∆⋅−=
+=∆Η⋅∆⋅⋅−∆⋅=∆
+)0838,03086,0(
+)0419,023086,0(
+σ
+σ
+   (1.43) 
+Aralıq qat effektinin iki qat götürülməsi aşağıdakı kimi izah 
+olunur: müşahidə nöqtəsi Yerin təkində, yəni müəyyən bir 
+dərinliyində yerləşdikdə, üstdə yerləşən aralıq qatın cazibə təcili 
+iki qat çox olur, su hvzəsinin dibində yerləşdikdə isə aralıq qatın 
+cazibə təcili iki qat azalır. Uyğun olaraq su hövzəsi dibində H∆  
+müsbət, Yerin müəyyən dərinliyində isə mənfi götürülür. Ona 
+görə də hesabi mənada su hövzəsi dibində bu qiymət, yəni 
+aralıq qatın iki qat effekti, hündürlüyə görə düzəlişdən çıxılır, 
+Yerin müəyən dərinliyində isə əksinə, aralıq qatın iki qat effekti 
+hündürlüyə görə düzəlişə əlavə olunur.  
+ 
+ 58
+1.5.4. Etveş  düzəlişi 
+Qravimetr quraşdırılan nəqliyyat vasitəsinin hərəkət 
+sürətinə və istiqamiətinə görə verilən düzəliş Etveş düzəlişi 
+adlanır. Bu düzəlişin fiziki mənası aşağıdakı kimidir.  
+Yuxarıda qeyd etmişdik ki, Yer kürəsi iki fırlanma 
+hərəkətinin təsiri altındadır: Günəş ətrafında – qərbdən şərqə 
+doğru, və öz oxu ətrafında – qərbdən şərqə doğru. Bu 
+qüvvələrdən başqa Yerin cazibə qüvvəsi təcilinin mütləq 
+potensial qiyməti ekvatordan qütblərə doğru artır. Bu amillər 
+qravimetrn göstərişinə təsir göstərir və onların təsirinə görə 
+Etveş düzəlişi verilir.  
+Buradan belə çıxır ki, əgər dəniz qşravimetrik planalmada 
+qravimetr quraşdırılmış nəqliyat vasitəsi müəyən bir bucaq 
+altında qərbdən şərqə doğru hərəkət edirsə, onda nəqliyyatın 
+sürəti Yerin öz oxu ətrafında fırlanma sürətinə əlavə olunur və 
+bu halda mərkəzəqaçma təcilinini qiyməti artır, qravimetrin 
+göstəricisi isə azalır. Əgər hərəkətdə olan nəqliyyat şərqdən 
+qərbə doğru hərəkət edirsə, nəqliyyatın sürəti əks işarə ilə Yerin 
+öz oxu ətrafında fırlanma sürətinə əlavə olunur və bu halda 
+mərkəzəqaçma təcilin qiyməti azalır, qravimetrin göstərişi artır. 
+Bu əlamətə görə Etveş düzəlişinə bəzən mərkəzəqaçma təcilinə 
+görə düzəliş də deyilir. 
+ 59
+Etveş düzəlişi 
+2004154,0sincos503,7 VVdgE ⋅+⋅⋅⋅= αϕ        (1.45) 
+brabərliyi ilə hesablanır. Burada V - hərəkət edən nəqliyyatın 
+dyünlə verilmiş sürəti, ϕ - müşahidə götürülmüş nöqtənin en 
+dairəsi, α - nəqliyyatın hərəkət istiqamətinin azimutudur. Etveş 
+düzəlişinin vahidi mQal -dır. İrimiqyaslı işlərdə Bərabərliyin 
+sağ tərəfindəki ikinci hədd nəzər alınmır və birinci həddə olan 
+en dairəsi bucağının kosinusu da çox cüzi dəyişdiyindən Etveş 
+düzəlişi 
+αsin503,7 ⋅⋅= VdgE                     (1.44) 
+formulu ilə hesablanır. 
+Beləliklə, Etveş düzəlişi əsasən hərəkət sürətindən və 
+istiqamətindən asılı olan ik arqumentli fueksiyadır. Qeyd etmək 
+lazımdır ki, Etveş düzəlişi təkcə dəniz akvatoriyasında aparılan 
+qravimetriya işlərində nəzərə alınmır. Aeroqravimetriya 
+işlərində də bu düzəlişin rolu az olmur. Məsələn, saatda 200 mil 
+sürəti ilə uçan təyyarə ilə aparılan qravimetriya işlərində Etveş 
+düzəlişinin qiyməti mQal1000 -dır.  
+ 
+ 60
+1.5.5. Topoqrafiya  düzəlişi 
+Bu düzəliş axtarış-kəşfiyat və tədqiqat işləri aparılan 
+ərazidə miqyasdan asılı olaraq relyef yksəkliklərinə görə verilir 
+rvə əsasən relyef düzəlişi adlanır. Dağlar və dərələr qravimetrə 
+eyni təsir edir, lakin biri qravimetrin göstəricilərinə müsbət təsir 
+edirsə, digəri mənfi təsir edir. Qravimetriyada quru ərazilərdə 
+axtarış-kəşfiyyat işləri aparılan zaman bu düzəliş mutləq nəzərə 
+alınır: dağlar qravimetrin göstəricisini azaldır (qravimetrin ölçü 
+yükünü yuxarı cəzb etdiyi üçün), dərələr də qravimetrin 
+göstəricisini azaldır (qravimetrinölçü yükünü aşağı çəkən labüd 
+qüvvənin olmaması üçün). Ona görə də relyef düzəlişi həmişə 
+müşahidə qiymətinə əlavə olunur (toplanır) və ya həmişə 
+müsbətdir. 
+Topoqrafiya düzəlişini hesablamaq üçün bir neçə üsul 
+mövcuddur. Bu ysulların hamısı topogeodeziya xəritələrinə 
+əsaslanır. Bütün üsullarda eyni prinsip gözlənilir: - iş aparılmış 
+sahə sektorlara bölünür, hər bir sektorda relyefin yüksəkliyinin 
+orta qiyməti hesablanır və sektorlarda alınmış relyefinin orta 
+qiymətləri müşahidə nöqtəsindəki relyef yüksəkliyi ilə 
+müqayisə edilir. 
+Relyef düzəlişini hesablamaq üçün (1.3) ifadəsini Yerin 
+radiusuna və müşahidə nöqtəsi ilə sektorlarda alınan 
+yüksəkliklərin müqayisəsinə görə diffferensiallasaq, aşağıdakı 
+ifadəni alarıq; 
+( )[ ]22022110 zrzrrrgT +−++−⋅∆⋅=∆ θσγ      (1.46) 
+ 61
+Şəkil 16. Pratt modeli
+Şəkil 15. Eri modeli 
+burada θ  - sektor bucağı, orS hhz −= , Sh - müşahidə nöqtəsinin, 
+orh - sektordə relyefin orta yüksəkliyi, ,0r  1r - sektorun daxili və 
+xarici radiusudur. 
+1.5.6. İzostazisiya  düzəlişi 
+İzostazisiya nəzəriyyəsinin 
+mahiyyəti aşağıdakından ibarətdir: 
+hesab olunur ki, bloklar şaquli 
+istiqamətdə aşağıda yerləşmiş 
+bloklara təzyiq edərək, yatma 
+dərinliyi yerin relyefinin formasından 
+asılı olan bərabər təzyiq səthi 
+yaradırlar. İzostazisiya nəzəriyyəsinin 
+iki modeli məlumdur. Eri modelinə görə (şək.15) blokların 
+sıxlıqları dəyişməzdir, lakin yer 
+qabığının qalınlığı dəyişərək 
+«dağların kökü»nü və okeanların 
+«antikökü»nü yaradırlar. Pratt 
+modelinə görə (şək.16) kompensasiya 
+dərinliyi dəyişməzdir, tarazlıq isə 
+blokların sıxlığının lateral dəyişməsi 
+hesabına baş verir. 
+ 62
+Əgər Yerin sıxlığı izotrop (bütün istiqamətlərdə eyni) və 
+ya lateral (hər hansı bir istiqamətdə) dəyişkən olsaydı, onda 
+yuxarıda qeyd olunan düzəlişlər qravimetrik axtarış-kəşfiyyat 
+və tədqiqat işlərində nəzərə alındıqdan sonra qravimetrin 
+göstəricisi bütün müşahidə nöqtələrində eyni olardı. Ancaq bu 
+belə olmur. Ona görə ki, nəinki sıxlıq lateral dəyişmir, süxur 
+laylarının qalınlıqları və yatma dərinlikləri da dəyişkəndir. 
+Ümumən, Yer səthində aparılan qravimetrik müşahidələr görə 
+tərtib olunmuş xəritələri müqayisə edərkən belə məlum olub ki, 
+dünya okean səviyyəsinə görə ortalaşdırılmış Buge funksiyası 
+ilə reduksiyalanmış anomaliyaları sıfra bərabərdir, yəni 
+okeanların ərazisində bu anomaliyalar müsbət, dağlıq ərazilərdə 
+isə bu anomaliyalar mənfi qiymətlərlə xarakterizə olunrlar. 
+Bu böyük miqyaslı effektlər Yer qabığı sıxlığının qeyri-
+bircins olması ilə izah olunur və onu göstərir ki, okeanların 
+altında yer qabığı dağların altındakına nisbətən daha böyük 
+sıxlığa malikdir. Bu böyük miqyaslı sistematik dəyişmənin 
+təbiətini izah etmək üçün 100 ildən çox əvvəl iki hipotez irəli 
+sürülmüşdü: birini Q.V.Eri, digərini isə ingilis arxiyepiskopu 
+C.Ş.Pratt. Hindistanda ingilis ordusu geodezik planalma 
+apararkən aşkar olunmuşdur ki, Himalay dağlarının cənub 
+ərazilərində astronomik və geodezik koordinatlar arasında çox 
+ 63
+fərq alınır. Bu fərq olmamalıdır, çünki dağlar və onlara bitişik 
+düzənlik eyni sıxlığa malikdirlər. Bu hadisədən sonra Q.V.Eri 
+öz hipotezini irəli sürmüşdür ki, böyük sıxlığa malik qabığın 
+altında nisbətən az sıxlıqlı süxur layı mövcuddur və böyük 
+sıxlıqlı qat az sıxlıqlı qatın üstündə «üzür». Bu hipotezaın 
+təsviri şək.15-də verilib. Burata T - Yer qabığının, h - kontinent 
+(quru) sahəlrdə çökmə qatın, h′ - kontinentlərin altında, h ′′ - 
+okeanların altında d  isə okeanların dibində çökmə qatın  orta 
+qalınlığıdır. Başqa sözlə, Eri hipotezinə görə kontinent və 
+okeanların altında sıxlıq eynidir, yuxarıda qeyd olunan 
+qalınqıqlar isə dəyişkəndir: Dəniz səviyyəli düzənlik sahələrə 
+nisbətən dağdarın altında qalınlıq çoxdur, okean sahələrdə isə 
+azdır. Dağların «kökü» daha dərindir. Bu elmi mülahizə Böyük 
+QURAN-da aşağıdakı kimi əhyə olunub:  
+Bundan dörd il sonra C.Ş.Pratt həmin hesablamalar 
+əsasında hipotez irəli sürmüşdür ki, hər iki halda böyük sıxlıqlı 
+qat az sıxlıqlı qatın üstündə «üzür», lakin kontinental sahələrdə 
+relyefdən asılı olaraq sıxlıq dəyişir, yəni azalır (şək. 16). İndiyə 
+qədər hansı hipotezin daha düzgün olduğu mübahisəlidir. 
+1889-cu ildə geoloq S.E.Datton izostazisiya düzəlişini 
+təklif edib və Eri-Pratt düzəlişi adlandırıb. Bu düzəliş böyük 
+miqyaslı işlərdə okean və quru ərazilərin təmas zonalarında Yer 
+ 64
+Şəkil 17. Ay və Yerin orbital 
+elementləri. 1-Yer; 2-Ayın 
+orbiti; 3-Ay;  4-Yerin ekvator 
+xətti;  5-Yerin fırlanma oxu;       
+6-perigey nöqtəsi;  7-apogey 
+nöqtəsi; 8-apsid oxu. 
+Şəkil 18. Ay, Günəş və Yerin qarşılıqlı 
+təsirində əsas astronomik elementlər 
+qabığının sıxlıqlar fəriqinə görə verilir. Axtarış-kəşfiyyat və 
+monitorinq tədqiqat işlərində nəzərə alınmır. 
+1.5.7. Yer səthinin qabarma-çəkilməsinə görə düzəliş 
+Bu düzəliş Yerin Günəş və Ayın Yer tərəfindən cazibəsi 
+nəticəsində Yer səthində baş vermiş qabarma və ya çəkilmələrə 
+görə verilir. Bu düzəlişin mütləq 
+cəm qiyməti mQal24,0≈ -dır. 
+Yüksək dəqiqlikli kəşfiyyat və 
+monitorinq tədqiqat işlərində bu 
+düzəlişin nəzərə alınmsı çox 
+labüd olsa da heç vaxt nəzərə 
+alınmır. Ona görə ki, düzəlişin 
+dəqiq nəzərə alınması üçün 
+məhz ölçü götürülən anda Ayın Yerə nisbətən və Yerin Günəşə 
+nisbətən fəza vəziyyətləri və 
+astronomik parametrləri çox 
+dəqiq məlum olmalıdır. Bu 
+isə düzəlişin hesablanması 
+üçün çox vaxt tələb edir.  
+Ayın Yer tərəfindən, 
+Yerin isə Günəş tərəfindən 
+ 65
+cazibə təsiri kifayət dərəcədə nəzərə çarpandır. Bu qarşılıqlı 
+cazibə nəticəsində planetlərin bir-birinə qarşı olan səthləri 
+cazibə qüvvəsi təsirindən deformasiyaya məruz qalır. Ay və 
+Günəşin səthlərinin deformasiyaya uğraması, əlbəttə nəzəridir, 
+çünki onların səthlərinin hansı dərəcədə deformasiyaya 
+uğramasını hesablamaq çətindir, lakin onların Yerlə qarşılıqlı 
+cazibəsindən Yer səthinin axımlılığı nəticəsində qravitasiya  
+sahəsi aşağıdakı qiymətlərlə xarakterizə olunurlar: 
+( ) ( ) mQalmQal GUNESHAY 07576,0;16452,0 maxmax ≈≈ δδ . 
+Burada ( )maxAYδ  və ( )maxGUNESHδ  uyğun olaraq Ay və Günəşin 
+Yerlə cazibəsi nəticəsində Yer səthində yaranan qravitasiya 
+axımlıq effektidir və qeyd olunduğu kimi cəm qiymət 
+mQal24,0≈ . Bu qiymət 1.37 ifadəsi ilə müqayisə olunduqda 
+m78,0≈  alınır, yəni Ay və Günəşin Yerlə cazibəsi nəticəsində 
+Yer səthində m78,0≈  qabarma və ya çəkilmə alınır.  
+Ayın Yer ətrafında fırlanma periodu (siderik period) 
+dəqiqliyi ilə Ayın öz oxu ətrafında vırlanma perioduna 
+bərabərdir, ona görə də Ay həmişə bir tərəfi ilə Yerə dönmüş 
+olur.  Bu halın fiziki səbəbi axımlıq qüvvələridir. Ay və 
+Günəşin cazibəsi nəticəsində quru və dəniz ərazilərində Yer 
+ 66
+kürəsi səthinin periodik rəqsi qabarma-çəkilmə adlanır və 
+qravitasiya effekti aşağıdakı formula ilə hesablanır:   
+( ) ( )
+( ) 334
+2
+2
+3max
+457,0cos3cos58,1
+1cos32,1
+zenit
+YERAY
+zenitzenit
+zenit
+YERAY
+zenit
+zenit
+YERAY
+AY
+Z
+RM
+Z
+RM
+Z
+RM
+⋅⋅
++−
+⋅⋅
++
++−
+⋅⋅
+=
+γββγ
+βγδ
+ 
+Burada ( )maxAYδ - Ayın Yerlə təsirindən cazibə effekti, γ  - 
+qravitasiya sabiti  (6,674x10-11m3/kq·s2); AYM - Ayın kütləsi 
+(7,35x1022kq); YERR  - Yerin radiusu (6378160m); zenitZ - 
+geosentrik zenit məsafəsi; zenitβ - geosentrik zenit bucağı.   
+Bu ifadə çox mürəkkəb astronomik riyazi çevrilmələrdən 
+alınmış son asılılıqdır və həmişə dəyişən arqumentli və bu 
+dəyişmədə heç bir qanunauyğunluq və ya periodiklik olmayan 
+iki arqumentdən ibarətdir: geosentrik zenit məsafəsindən və 
+zenit bucağından. Ona görə də  qabarma-çəkilmə hadisələri adi 
+fiziki proses olmasına baxmayaraq, bu hadisənin səbəb olduğu 
+qravitasiya effektini hesablamaq təcrübədə çətindir. Hər dəfə 
+konkret kəmiyyətə uyğun olaraq effekti hesablamaq lazımdır. 
+Çətinlik orasındadır ki, Ayın Yer ətrafında fırlanması 
+müddətinin (orta hesabla 27,4 gün) və Ay fazaları periodunun 
+təkrarlanmasının (orta hesabla 29,5 gün), batmış və bədirlənmiş 
+Ay və orbitin hansı nöqtəsində (perigey və apogey) onun 
+ 67
+yerləşməsinin, nəhayət Ayın Yerə maksimal yaxınlaşması və ya 
+uzaqlaşması qabarma-çəkilmədən irəli gələn qravitasiya 
+effektinin dəqiq hesablanmasına ciddi mane olur. Məhz bu 
+səbəblərdən axtarış və kəşfiyyat işlərində qabarma və çəkilmə 
+düzəlişi nəzərə alınmır. 
+Yer səthinin hər hansı bir nöqtəsində Ay və ya Günəş 
+tərəfindən gazibə qüvvəsinin potensialı ümumi formada aşağıda 
+verilmiş Lejandr polinomu ilə ifadə olunur: 
+( )ΖΡ⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛⋅= ∑ cosn
+n
+rr
+MU ργ             (1.48) 
+Burada ρ - Yerin radius-vektoru, Ζ - müşahidə nöqtəsindən 
+qabarma-çəkilmə yaradan cismə (Ay və Günəş) qədər olan zenit 
+məsafəsi, r - Yer və qabarma-çəkilmə yaradan cisimlərin 
+mərkəzləri arasındakı məsafə, M - qabarma-çəkilmə yaradan 
+cismin kütləsi, nΡ - n  dərəcəli Lejandr polinomudur. Qabarma-
+çəkilmə əsasən Lejandr polinomundan asılıdır. Lokal koordinat 
+sisteminə keçərək, mürəkkəb astronomik çevrilmələrdən sonra 
+yerin ekvatorunda Lejandr polinomu aşağıdakı kimi ifadə 
+olunur: 
+coshcoscossinsin ⋅⋅+⋅= δϕδϕαCos            (1.47) 
+Burada δ - qabarma-çəkilmə yaradan cismin əyilmə bucağı, α - 
+qabarma-çəkilmə yaradan cismin üfiqi bucağı, sh −= α - 
+ 68
+qabarma-çəkilmə yaradan cismin hər bir saatdan bir dönmə 
+bucağı, s -saatla ifadə olunan zamandır və λ+= Ss  
+bərabərliyi ilə hesablanır, S - Qrinviç meridianında ulduza görə 
+zaman, λ - Yer səthində müşahidə nöqtəsinin şərq uzunluq 
+bucağı, ϕ  - Yer səthində müşahidə nöqtəsinin coğrafi en 
+dairəsidir. Bu bərabərliyin sol tərəfini r -ə vurub bölərək və r
+1
+ 
+arqumentinə görə üçüncü dərəcədən differensiallasaq, istənilən 
+s  zaman anında koordinatları ( )λϕ,  olan nöqtədə qabarma-
+çəkilmə nəticəsində yaranan potensial, aşağıdakı formula ilə 
+hesablana bilər: 
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ −⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛ −+
++⋅⋅+⋅⋅
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+3
+1sin
+3
+1sin3
+cosh2sin2sin2coscoscos
+22
+22
+3
+δϕ
+δϕδϕ h
+r
+cDU A      (1.49)   
+burada c  - Yer və qabarma-çəkilmə yaradan cisimlərin 
+mərkəzləri arasındakı orta məsafə, D - sabitdir. Bu sabit Ay 
+üçün ,6206.2=AyD  Günəş üçün isə 46051.0. ⋅= AyGyn DD -dir. Bu 
+sabiti ilk dəfə təcrübi yolla alan alimin şərəfinə olaraq Dudson 
+sabiti adlanır və ölçü vahidi ( )22 / sanm  qəbul olunub. Fiziki 
+mənası bir saniyə kvadratında Ay və ya Günəş bir kvadrat metr 
+fırlanarsa, onun Dudson ədədi, uyğun olaraq, yuxarıdakılarına 
+bərabərdir. (1.49) formulasının köməyi ilə dünyada nəhəng 
+ 69
+şəhərlər üçün qabarma-çəkilmə yaradan potensial konkret 
+coğrafi koordinat üçün hesablanıb və nəzarət altındadır. Bu 
+kəmiyətin dəyişməsinə nnəzarət etməkdə məqsəd baş verə 
+biləcək kataklizmlərin və güclü zəlzələlərin əvvəlcədən 
+öyrnəilməsidir. Həqiqət naminə, hələlik bu kəmiyyətin 
+dəyişməsi heç bir kataklizm və güclü zəlzələr haqqında heç bir 
+məlumat verməyib. 
+Şəkil 19-da Ayın öz orbitində hərəkəti zamanı Günəş və 
+Yerə nisbətən kainatda yerləşməsindən asılı olraq sizigiv və 
+kvadratur qabarma təsvir olunub. Günəş, Yer və Ay bir xətt 
+boyunca düzləndikdə (orbitlərin absid oxları üst-üstə düşdükdə 
+və ya paralel olduqda) Günəş və Ayın Yerlə cazibəsi bir 
+istiqamətdə olur və mütləq qiyməti orta qiymətdən xeyli çox 
+olur (şəkildə soldan). Bu halda qabarma sizigiv adlanır. Sizigiv 
+qabarma batmış və bədirlənmiş Ay fazalarında baş verir.  
+Ay və Günəşin Yerlə cazibəsi bir-birinə perpendikulyar 
+olduqda (orbitlərin absid oxları perpendikulyar olduqda) bir-
+birinin cazibəsini zəiflədir və bu halda qabarmanın mütləq 
+qiyməti orta qiymətdən xeyli aşağı olur Bu halda qabarma 
+kvadratur adlanır (şəkildə sağdan). Kvadratur qabarma Ay 
+fazasının birinci və dördüncü rübündə baş verir. Yerin, eləcə də 
+Ayın, geologiyasının təkamülündə sizigiv qabarmanın rolu daha 
+ 70
+Şəkil 19. Sizigiv və kvadrativ 
+qabarmanın təsviri. 
+Şəkil 20. Ayın hərəkətinə təsir edən 
+qüvvələrin təsviri 
+C
+L
+L
+L
+T 1
+2
+3
+4
+L
+böyükdür. Ancaq 
+atmosferin (ekologiyanın) 
+dəyişməsinə kvdratur 
+qabarma daha güclü təsir 
+edir. Qeyd etmək lazımdır 
+ki, bu mülahizələr nəzəri 
+xarakterlidir, hələlik 
+təcrübədə təsdiq 
+olunmayıb.  
+1.6. Yerin  cazibə  sahəsi 
+və  kainat cisimləri.  
+Ayin  hərəkətinə  təsir edən  qüvvə 
+Ay üçün Yer mərkəzi cisimdir, lakin onun Yer ətrafında 
+orbital hərəkətinə əsas təsir edici qüvvə isə Günəş tərəfindən 
+cazibə qüvvəsidir. Başqa planetlər də Ayın hərəkətinə təsir edir, 
+ancaq onların təsiri Günəşin 
+təsirindən dəfələrlə kiçikdir. 
+Günəş tərəfindən Aya təsir 
+edən cazibə qüvvəsinin təcili 
+2
+1r
+MG=ψ  
+ 71
+formulu ilə ifadə olunur. Burada M - Günəşin kütləsi, 1r - 
+Günəşdən Aya qədər olan məsafədir. Yer tərəfindən Aya təsir 
+edən cazibə qüvvəsinin təcili 
+2r
+mGg =  
+formulu ilə ifadə olunur. Burada m - Yerin kütləsi, r - Yerdən 
+Aya qədər olan məsafədir. ψ  -nın qiymətini g -nin qiymətinə 
+bölsək,    
+2
+1
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+=
+r
+r
+m
+M
+g
+ψ  
+bərabərliyini alarıq. Belə ki, 333000=
+m
+M , 
+390
+1
+1
+=
+r
+r olduğundan 
+Ayın Günəşlə cazibəsi, Yerlə cazibəsindən iki dəfədən də 
+çoxdur. Ancaq Ayın hərəkətinə Günəşin cazibə qüvvəsi yox, 
+Günəşin Yer və Ayla cazibə qüvvəsinin fərqi təsir edir. Bir 
+halda ki, Günəşin Yerlə cazibəsindən Yerin caibə təcili    
+2a
+mG=′ψ , 
+hansı ki, burada a  Yerdən Günəşə qədər olan məsafədir, onda 
+uyğun olaraq Ay hərəkətinə olan təsirdən yaranmış ψ∆  təcil ψ  
+və ψ ′  təcillərinin fərqinə bərabərdir. 
+ 72
+Ay 1L  nöqtəsindən (şək. 20) keçdikdə, yəni Ayla Günəşin 
+arasında olduqda, ψ∆  təcili, uyğun olaraq təsir qüvvəsi, ən 
+böyük qiymət alır. Bu halda  
+( ) ( ) 22
+2
+22
+2
+ara
+raMG
+a
+MG
+ra
+MG
+⋅−
+−
+⋅=
+⋅
+−
+−
+⋅
+=∆ψ  alınır. Yerdən Aya 
+qədər  məsafə ( r ), Yerdən Günəşə qədər məsafədən ( a ) çox 
+kiçikdir, onda ra − fərqi a  məsafəsindən az fərqlənir və bu 
+halda məxrəcdə olan mötərizəni 2a  ilə əvəz etmək olar, 
+surətdəki 2r -nı isə nəzərə almamaq olar. Onda yuxarıdakı 
+bərabərlik aşağıdakı kimi qəbul oluna bilər: 
+3
+2
+a
+MrG ⋅⋅≈∆ψ  
+Ay 3L  nöqtəsindən (şəkil 12) keçdikdə, yəni Yer Ay və 
+Günəşin arasında olduqda, Günəşin Ayla cazibə ψ ′∆  təcili, 
+uyğun olaraq təsir qüvvəsi, demək olr ki, 1L  vəziyyətində 
+olduğu kimidir. Bu halda  
+( ) 322
+2
+a
+MrG
+ra
+MG
+a
+MG ⋅⋅
+≈
++
+⋅
+−
+⋅
+=′∆ψ  alınır. 
+Beləliklə, Ayın hərəkətinə təsir edən qüvvə təsir 
+məsafəsinin (Ay və Günəş arasındakı məsafə) kvadratı ilə yox, 
+kubu ilə tərs mütənasibdir və aşağıdakı ifadədən hesablanan 
+qiymətə, 
+ 73
+3
+2 ⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+′
+a
+r
+m
+M
+g
+ψ  
+yəni təqribən Yerlə Ay arasındakı cazibə qüvvəsinin 
+90
+1  -nə 
+bərabərdir. 1L  vəziyyətində Günəşin təsir qüvvəsi Ayı Yerdən 
+„itələyir“ (şəkildə oxla göstərilib), 3L  vəziyyətində isə Yeri 
+Aydan „itələyir“. 2L  və 4L  vəziyyətlərində isə Ayı və Yeri bir-
+birinə sanki „yaxınlaşdırır“, çünki bu vəziyyətlərdə Günəşin 
+Aya və Yerə cazibə qüvvəsi qiymətcə eynidir, lakin təsir 
+qüvvəsi bir-birinə əks olan bucaq altındadır. 
+1.7. Anomaliyalar 
+Buge anomaliyası. Qravimetryada axtarış-kəşfiyyat və 
+elmi-tədqiqat işlərində qarşıda qoyulmuş məqsəddən asılı olaraq 
+bir sıra anomaliyalardan istifadə olunur. Anomaliya hansı 
+düzəlişə görə hesablanmasından asılıdır. Başqa sözlə, 
+qravitasiya sahəsini öyrənərkən sahəni normal və anormal 
+təşkiledicilərə ayırmaqla işi asanlaşdırmaq olur. Ağırqlıq 
+qüvvəsi cazibə sahəsinin şaquli ox boyunca təsirdir. Hər hansı 
+müşahidə nöqtəsində cazibə qüvvəsi təcilinin müşahidə 
+qiymətinin, nöqtənin kordinatlarından asılı olaraqnəzəri 
+hesablanmış normal qiymətindən fərqlənməsinə anomaliya 
+ 74
+deyilir. Qarşıda qoyulmuş geoloji məsələdən asılı olaraq, 
+qravimetriyada axtarış-kəşfiyat və elmi-tədqiqat işlərində əsas 
+istifadə olunan Buge anomaliyasıdır. Bu anomaliya yuxarıda 
+qeyd olunan bir sıra düzəlişləri özündə cəmləşdirir və aşağıdakı 
+kimi ifadə olunur: 
+TBHLmB dgdgdgdggg +−+±=         (1.50) 
+burada mg - müşahidə olunmuş qiymət, Ldg - en dairəsi, Hdg - 
+hündürlük, Tdg - topoqrafiyaya, Bdg - Buge düzəlişləridir. 
+Qiymətləri məlum olanları nəzərə alsaq,   
+( ) σ∆⋅±−⋅+±= THHdggg LmB 0419,03086,0     (1.51) 
+və ya 
+( ) σ∆⋅−⋅−⋅+±= THHdggg LmB 0419,03086,0        (1.52) 
+(1.43) ifadəsi sıxlıq bütün istiqamətdə eyni olduqda doğrudur. 
+Bu halda  
+σ∆⋅= TdgT  
+olur. Bu isə heç vaxt mümkün olmur. 
+Bu ifadələrlə Buge anomaliyası hesablandıqdan sonra 
+cazibə qüvvəsinin şaqul oxu boyunca istiqamətlənmiş təcilin 
+anomaliyası hesablanır. Bu anomaliya (1.41) Buge funksiyası 
+ilə reduksiyalanmış (düzəlişlər nəzərə alınmış) müşahidə 
+ 75
+qiymətinin koordinatlarından asılı olaraq hesablanmış normal 
+qiymətdən fərqlənməsidir: 
+NBB ggg −=∂                                   (1.53) 
+burada Ng - Yerin hər hansı bir nöqtəsində cazibə qüvvəsi 
+təcilinin normal qiymətidir.  
+Əgər (1.41) ifadəsində Bdg və Tdg  hədləri nəzərə 
+alınmazsa, hesablanmış anomaliya hava anomaliyası adlanır. 
+Qeyd etmək vacibdir ki, (1.41) ifadəsində olan Bdg və Hdg  
+düzəlişləri qravimetrin yurləşdiyi nöqtənin koordinatlarından 
+asılı olaraq dəyişir. 
+§2. QRAVİMETRİYADA  İSTİFADƏ  OLUNAN  CİHAZ  
+VƏ AVADANLIQLAR 
+Qravimetriyada qarşıya qoyulmuş məsələdən asılı olaraq, 
+anomaliyanın öyrənilməsi üçn aparılan işin miqyasına uyğun 
+müəyyən dəqiqlik şəraitində hər hansı bir istinad nöqtəsindəki 
+qiymətə nəzərən nisbi dəyişmə hesablanır. Bu nisbi dəyişməni 
+aşkar etmək üçün istənilən cihazdan istifadə etmək düzgün 
+olmazdı. Qravimetriyada anomaliyanın iki: - mütləq və nisbi 
+qiymətindən istifadə olunur. Mütləq qiymət bilavasitə 
+müşahidə nöqtəsində cazibə qüvvəsi təcilinin qiyməti, nisbi  
+qiymət isə müşahidə nöqtəsində hər hansı bir istinad (dafaq) 
+ 76
+məntəqəsinə nisbətən cazibə qüvvəsi təcilinin qiymətidir. 
+Buradan da görünür ki, eyni bir cihazla müşahidə nöqtəsində 
+həm mütləq, həm də nisbi anomaliyanı ölçmək mümkün olmur. 
+Mütləq anomaliya müşahidə nöqtəsində makaranın rəqs 
+perioduna və ya kütləsi məlum hər hansı bir yükün hər hansı bir 
+məsafədən (hündürlükdən) düşmə zamanına görə təyin edilir. 
+Nisbi anomaliya müxtəlif vaxtlarda üç növ sihazdan 
+istifadə etməklə ölçülür: - fırlanan yüklər, makara və qravimetr. 
+Bunlardan ancaq qravimetrlərdən geniş istifadə olunur, digərləri 
+isə ancaq tətbiqi geofizikada tarix kimi diqqəti cəlb edir. Bu 
+səbəbdən də fırlanan yüklər və Makara növlü cihazlar qısaca 
+olaraq, qravimetrlər isə geniş şərh olunur. 
+2.1. Cazibə qüvvəsi təcilinin mütləq ölçülməsi 
+Düşən cisim. Cazibə qüvvəsi ( )g təcilinin ölçülməsi ilk 
+dəfə olaraq, cismin sərbəst düşməsindən alınan təcil olmasına 
+baxmayaraq, kiçik zaman intervalının qeydə alınması çətin 
+olması ucbatından, dəqiqlik uzun illər çox aşağı idi. Axırıncı 
+son on illiklərdə hesablama texnikasının əldə etdiyi nailiyyətlərə 
+görə istənilən zaman intervalının dəyişməsi yüksək dəqiqliklə 
+müşahidə olunduğundan bu üsula yenidən qayıdılıb.  
+ 77
+Cazibə qüvvəsi təcilini sərbəst düşən cismin düşmə 
+zamanını qeyd etməklə Nyutonun hərəkət tənliyinin köməyi ilə 
+hesablamaq olar. Əgər cisim, naməlum ilkin sürətlə 1t  və 2t  
+zamanında uyğun olaraq 1S  və 2S  məsafəsi qət edirsə, onda 
+Nyutonun hərəkət qanununa görə cazibə təcilinin mütləq 
+qiyməti  
+( )
+( )1221
+21122
+tttt
+tStSg
+−⋅
+⋅−⋅
+=                     (2.1)   
+ifadəsi ilə hesablanır. Bu bərabərlikdən istifadə etməklə, g -nin 
+mütləq qiymətini mQal1  dəqiqliklə hesablamaq üçün m21−  
+məsafədən düşmə zamanını 810− , məsafəni isə mKm1  dəqiqliklə 
+ölçmək lazımdır. 
+Makara. Yaxın keçmişə qədər  cazibə qüvvəsinin 
+təcili 1818-ci ildə Keyterin işləyib hazırladığı makaradan 
+istifadə etməklə həyata keçirilirdi. Bu cür Makara Podstamda, 
+Vaşinqtonda və Peddinqtonda mövcuddur. Podstamda alınmış 
+g -nin Qal274,981  qiyməti nominal kimi istifadə olunurdu. 
+Sonralar məlum olmuşdur ki, bu qiymət mQal14  artıbdır. 
+Cazibə təcili rəqslərin maksimal sayının zamana görə qeyd 
+olunmasına görə aşağıdakı formula ilə hesablanır: 
+hmT
+g
+⋅⋅
+Ι⋅
+= 2
+24π                                    (2.2) 
+ 78
+burada Ι - inersiya momenti, T - rəqs periodu, m - makaranın 
+yükü, h - fırlanma mərkəzindən makaranın mərkəzinə qədər 
+məsafədir. Fırlanan makarada 
+hm ⋅
+Ι  hasili l  uzunluqlu riyazi 
+Makara ilə əvəz olunur. Bu parametrlərin ölçülməsinin dəqiqliyi 
+yuxarıdakı kimidir. 
+2.2. Cazibə qüvvəsi təcilinin nisbi ölçülməsi.  
+Qravimetrlər 
+Hər hansı iki müşahidə məntəqəsi arasında cazibə təcili bu 
+iki məntəqələrin birinin dicərinə nisbətən qiymətdir. Nisbi 
+müşahidədə qiymət məntəqələr arasındakı məsafənin 
+uzunluğundan yox, bu məsafəyə sərf olunan zamandan asılıdır. 
+Qravimetriyada nisbi müşahidə üsulunda əsasən bir və ya bir 
+neçə istinad nöqtəsi əsas götürülür və bütün müşahidələr bu 
+istinad nöqtəsinə nəzərən nisbi ölçülür. Cazibə qüvvəsi təcilinin 
+nisbi ölçülməsi bir neçə növ cihazlarla həyata keçirilir. 
+Portativ makaralı cihazlar. Bu cihazlardan geodeziya və 
+geoloji məsələlərin həllində istifadə olunurdu. Hələ 1750-ci ildə 
+Buge makaranın rəqs periodunun müxtəlif yerlərdə: Cənubi 
+Amerikada, Laplandiyada və Parisdə dəyişdiyini qeyd etmişdi. 
+Bunun izahını aşağıdakı kimi vermək olar. 
+Əcər (1.48) ifadəsini perioda görə differensiallasaq,  
+ 79
+Şəkil 21. Qravimetrin 
+ümumi görünüşü. 
+T
+g
+hmTdT
+dg 28
+3
+2 −
+=
+⋅
+Ι
+⋅
+−
+=
+π  
+alınar. Buradan cazibə qüvvəsinin artımı 
+1
+1222
+T
+TTg
+T
+dTgdg −⋅−=⋅−=                     (2.3) 
+alınar. Bu bərabərlikdən belə bir nəticə çıxır ki, əcər hər hansı 
+iki müxtəlif məntəqədə rəqqasın periodu mks1 dəqiqliyində 
+ölçülərsə, yəni iki müxtəlif məntəqələrdə periodun fərqini, onda 
+bu fərqə uyğun olan cazibə qüvvəsinin artımı mQal1 olacaq. 
+Bunu adi kvarslı və seziumlu qol saatlarının köməyi ilə də 
+həyata keçirmək olar. 
+Fırlanan tərəzilər. 1791-ci ildə Kavendiş qravitasiya 
+abitini təyin etmək üçün fırlanan tərəzidən 
+istifadə etmişdir. Ancaq Kavendişin 
+istifadə etdiyi fırlanan tərəzinin qolları 
+müxtəlif uzunluqlu olmuşdur. 1980-cı ildə 
+macar alimi R.F. Etveş cazibə qüvvəsinin 
+qradiyentini ölçməyə qadir fırlanan tərəzi 
+işləyib hazırlamışdır. Etveşin fırlanan 
+tərəzisində qolların müxtəlif olması ilə 
+bərabər, yüklər bir-birindən müxtəlif 
+şaquli səviyyədə yerləşdirilmişdir.Bu 
+ 80
+cihazın müxtəlif modifikasiyaları 1915-1950-ci illər ərəfəsində 
+qravimetriyada axtarış-kəşfiyyat və elmi-tədqiqat işlərində 
+istifadə olunurdu. Keçən əsrin 50-ci illərindən başlayaraq bir-
+birinin ardınca bir-birindən etibarlı və dəqiq qravimetrlər icad 
+olunmuşdur.  
+Hal-hazırda fırlanan tərəzi prinsipi ilə işləyən cihazlardan 
+istifadə olunmur. Cazibə qüvvəsi təcilinin ölçülməsində Ən 
+geniş yayılmış cihazlar qravimetrlərdir. 
+Qravimetr (latın dilində qravis - ağır və metr - ölçmə) 
+cazibə qüvvəsi təcilini nisbi ölçmək üçün cihazdır. 
+Qravimetrlərin əksəriyyəti yaylı və fırlanan dəqiq tərəzilərdir. 
+Qravimetrləri adi tərəzilərdən fərqləndirici əlamət odur ki, 
+tərəzi sükunətdə olan yükə tətbiq olunan ağırlıq qüvvəsini, 
+qravimetr isə sükunətdə olan yükə yerin təsiri nəticəsində 
+cazibə qüvvəsi təcilini ölçür. Bu cür qravimetrlərin köməyi ilə 
+yayların deformasiyasının dəyişməsinə və ya böyük olmayan 
+yükün ağırlıq qüvvəsini kompensə edən xüsusi elastiki sapın 
+deformasiya əlamətinə görə cazibə qüvvəsi təcilinin dəyişməsi 
+ölçülür. Elastiki sapın deformasiyasına səbə digər ucuna 
+platindən xüsusi yükün, Yerin cazibəsi nəticəsində şaquli 
+rəqsidir. Axtarış-kəşfiyyat və elmi-tədqiqat işlərində 
+qravimetrlərlə planalma, cazibə qüvvəsi təcilinin mütləq 
+ 81
+qiyməti məlum olan məntəqədən başlanılır. Qravimetrlərin 
+quraşdırılmasında əsas çətinlik çöl şəraitində kiçik elastiki 
+deformasiyanın dəqiq ölçülməsini təmin etməkdən ibarətdir. 
+Qeyd olunma əlamətinə görə optik, fotoelektrik, həcm, 
+induksion və s. Qravimetrlərindən istifadə olunur. Bundan 
+başqa, aşağı ucuna yük bağlanmış xüsusi simin rəqs tezliyinin 
+dəyişməsinə və ya giroskopik cihazların presessiya sürətinin 
+ölçülməsinə əsaslanan qravimetrlər də mövcuddur. 
+Qravimetrlərin dəqiqliyi mQal1 -dan onlarca az olur. Dayaz su 
+hövzələrinin dibində, su altı və su səthində, təyyarələrdə ölçmə 
+işləri aparmaq üçün xüsusi qravimetrlərdən istifadə olunur. 
+Hərəkətdə olan nəqliyyat vasitələrində (avtomobil, təyyarə, 
+gəmi) quraşdırılmış qravimetrlər, onların göstəricilərinə əyilmə, 
+silkələnmə, hərəkət istiqaməti və s. kimi faktorların təsinirini 
+kompensə edən xüsusi avadanlıqlarla təmin olunurlar. Ağırlıq 
+qüvvəsi variasiyasına Ay-Günəş faktorlarının təsirini fasiləsiz 
+qeyd edən uzun müddətli ölçmə aparan qravimetrlər 
+mövcuddur.     
+Statistik qravimetrlər. Bu sihazların işlənib hazırlanması 
+və onlardan istifadə olunması keçən əsrimizin 30-cu illərinə 
+təsadüf edir. Onlar astazir olunmamış qravimetrlərin ikin 
+variantları idilər və zaman keçdikcə az bir vaxtda daha dəqiq 
+ 82
+qravimetrlərlə istehsalatdan çıxarıldılar. Onların əsas işləmə 
+Prinsipi aşağıdakı şəkildə verilir: yükün təsiri altında yayın 
+yerdəyişməsi çox olmadığı üçün ona fizikadan məlum Huk 
+qanununu tətbiq etmək mümkündür, yəni cazibə qüvvəsi yayın 
+uzanmasına mütənasibdir. Bu halda Huk qanununa uyğun 
+olaraq, 
+gMF ∂⋅= və SkF ∂⋅=                 (2.4) 
+bərabərlikləri doğrudur. Bu iki bərabərlikdən 
+M
+Skg ∂⋅=∂                         (2.5) 
+alınır. Burada k  yayın elastiklik əmsalıdır və 
+sm
+din - lə ölçülür. 
+g∂ -ni mQal1,0  dəqiqliyi ilə ölçmək üçün yayın uzanmasını 
+710− dəqiqliyinə qədər ölçmək lazımdır, çünki 
+S
+S
+g
+g ∂
+=
+∂  
+olur. Mexaniki olaraq 
+M
+k  kəmiyyətini kiçiltmək üçün ağır yük 
+və elastiklik əmsalı aşağı olan yay götürmək olar, ancaq yayın 
+bu cür dəqiqliyi çox məhduddur. Belə sistemin rəqs periodu 
+aşağıdakı asılıqla ifadə olunur: 
+k
+MT π2=                       (2.6) 
+ 83
+Şəkil 22. Astazir olunmuş qravımetrin ölçü sistemi (bütünlüklə 
+kvarsdan ibarətdir). 
+Bu halda (1.51) və (1.52) formulalarını nəzərə alsaq,  
+2
+24
+T
+Sg ∂⋅=∂ π                    (2.7) 
+alınar. Beləliklə, cihazın yüksək dəqiqliyini əldə etmək üçün 
+rəqs periodu çox olmalıdır və g∂ -nin ölçülməsi üçn çox vaxt 
+tələb olunacaq. 1932–1938-ci illərdə  statistik qravimetrlər bir 
+neçə formada icad olunub. Aşağıda onların əsaslarından ikisinin 
+izahı verilib. 
+Qalf  qravimetri. Bu cihazda yükün dönmə bucağı 
+ölçülür. Yük lent şəkilli metal yaydan asılır. Buy ay spiral 
+formalı olduğu üçün onun uzanmasından alınan effekt, 
+ 84
+Şəkil 23. Dib qravimetrinin ölçü sistemi. 
+burlmasından alınan effektdən çox azdır. Bu effekti qeyd etmək 
+üçün yayın ucuna dairəvi disk və əksetdirici güzgü bağlanır. 
+Yayın burulması həmin disk güzgüyə görə qeyd olunur, yəni 
+dönmə bucağına uyğun olaraq qravimetrin göstəricisi bərpa 
+olunur. 
+Qalf qravimetrindən keçən əsrin 50-ci illərinə qədər 
+Qravimetrin çəkisi əvvəlcə kq40 , sonralar isə kq10 -a qədər 
+endirilmişdir. Dəqiqliyi mQal1,0 -dır. 
+Boliden  qravimetri. 1938-ci ildə İsveç alimi Boliden 
+tərəfindən icad edilən bu qravimetrdə elektrik mənbəyindən və 
+bu mənbənin yaratdığı elektromaqnit sahəsinin 
+kompesasiyasından istifadə olunur. Bu qravimtrin prinsipial 
+ 85
+işləmə sxemi aşağıdakı kimidir. 
+Qravimetrin əsas elementi olan yük makara şəkillidir və 
+yaylar vasitəi ilə korpusdan asılmış vəziyyətdədir. Yükün aşağı 
+və yuxarı diskləri konsentrik olaraq vibratorlu daimi elektrik 
+mənbəyi arasında yerləşdirilir. Yerin cazibə qüvvəsinin 
+təsirindən yük hərəkət etdikdə kondensatorun tutumu dəyişir və 
+bu dəyişmə cazibə qüvvəsinin təcili kimi qeyd olunur. 
+Qravimetrin dəqiqliyi mQal1,0 -dır. Yuxarıda qeyd olunan 
+işləmə prinsipinə uyğun olaraq dünyanın bir çox alimləri 
+tərəfindən müxtəlif qravimetrlər icad edilib: Tissen, La Kosta-
+Romberq, Skaniya, Frost, Maqnoliya, Şimali Amerika, Uorden 
+və s. qravimetrləri. Bu qravimetrlərdən başqa keçmiş Sovetlər 
+dövləti tərəfindən də bir çox qravimetrlər icad olunub. Məsələn, 
+QNU-KV, QNU-KS, QAQ-2 və s..  
+Qravimetrlərin dəqiqliyinin artırılması üçün əsas ölçü 
+mexanizmi adətən xüsusi sferada yerləşdirilir. Bu sferalardan ən 
+əlverişlisi vakuum şəraitidir. Belə bir vakuum sferasının olması, 
+qravimetrlərin əsas ölçü mexanizmlərinin hazırlandığı detalların 
+temperatura və təzyiqə həssaslığından irəli gəlir. Hal-hazırda 
+istifadə olunan qravimetrlərin əsas ölçü mexanizmini vakuum 
+şəraitində yerləşdirilməsi ciddi bir problem yaratmır. Məhz 
+buna görə də və bir çox başqa amillərə görə yüksək dəqiqlikli 
+qravimetrlər icad olunub və qravimetriyanın faydalı qazıntı 
+yataqlarının axtarışında rolunu artırıb. Keçmiş Sovetlər 
+dövlətində icad olunmuş qravimetrlərdən bir neçəsinin kvars 
+ 86
+sisteminin prinsipial sxemi şək. 22 və 23-də verilib. Kvars 
+sistemli qravimetrin bütün elementləri kvarsdan olduğu üçün 
+kvars sistemli qravimetrlər adlanır. QNU-KV bu qravimetrin 
+markasıdır və qravimetrlərin markaları rus dilində tətbiq etmə 
+qabiliyyətinə görə verilib. Məsələn şək.22-də quru ərazilərdə 
+mükəmməl planalma işlərində istifadə olunan aşağı diapazonlu 
+və yüksək dəqiqlikli kvars QNU-KS qravimetrinin sxemi 
+verilib. Bu qravimetrlərdən mükəmməl qravii-kəşfiyyat 
+planalma işlərində istifadə olunur və onların imkan dairəsi ilə 
+əlaqədardır, belə ki, dörd saat davamiyyətli planalmalarda 
+müşahidələrin xətası mQal03,0 , dəqiqlik dərəcəsi mQal006,0  
+təşkil edir. Əsasən bu iki texniki parametrlər və qravimetrin 
+(növündən asılı olmayaraq) «sıfır-sürüşməsi» müddəti bütün 
+qravimetrlərin tətbiq sahlərini bilavasitə təyin edirlər. Eyni 
+zamanda, qravimetrlərin əsas və həssas elementi olan, kvarslı 
+yaylar vastəsi ilə xüsusi metaldan hazırlanmış «ölçü sapına» 
+bərkidilmiş əsas yay, bir ucuna platindən xüsusi yük bağlanmış 
+lingin cazibə təcili təsirindən kondensatorun lövhələri arasında 
+şaquli rəqsi hərəkəti xüsusi ölçü şkalasında qravimetrin 
+diapazonuna uyğun qeyd olunur. Bu əlamətə görə qravimetrlər 
+şaquli seysmik dalğaları qeyd edən Qolitsın seysmoqrafına 
+bənzəyir. Əslində isə astazirli kvars sistemləri qravimetrlərə xas 
+ 87
+olan və adi insan təfəkkürü ilə qavranılmayan çox mürəkkəb 
+mexaniki qurğudur.  
+Astazirli kvars sistemli qravimetrlərin ən etibarlısı və 
+dəqiq ölçmə qabiliyyətlisi keçmiş Sovetlər dövlətində icad 
+olunmuş qqravimetrlərdir. Bu qravimetrlərdən digərinin analoji 
+sxemi şək.22-də verilib. Bu qravimetr digərlərindən ölçmə 
+mexanizminin daha da mürəkkəbliyi fərqlənir. Bu mürəkkəblik 
+isə yüksək dəqiqlik və geniş ölçmə diapazonu ilə əlaqədardır. 
+Ölçmə diapazonu qiymətindən asılı olaraq, qrvimetrlərin 
+astazir sistemi istiliyə uyğunlaşdırılmış metaldan da hazırlanır.  
+Bu növ qravimetrlər mQal1500 -dan aşağı olmayan 
+diapazonla işləmək qabiliyyətinə malikdir və bu 
+qravimetrlərdən Yer kürəsinin qravitasiya dayaq şəbəkəsini 
+tərtib etməkdə, o cümlədən bir regiondan digər regiona ağırlıq 
+qüvvəsinin mütləq qiymətini ötürməkdə istifadə olunur. Belə 
+qraimetrlərin prinsipial sxemi şək. 22-də verilib. Qısaca olaraq 
+qeyd etmək lazımdır ki, astazirli qravimetrlərdə olduğu kimi 
+burada da ucuna xüsusi 4 yükü bağlanmış 2 lingi elastiki yaylar 
+vasitəsi ilə tarazlıq vəziyyətinə  gətirilir, yəni dayanıqlı olmayan 
+tarazlıq sistemidir.Ancaq ling və yük, eləcə də elastiki yaylar, 
+xüsusi metaldan hazırlanıb, lakin kvars qravimetrlərindən fərqli 
+olaraq qravimetrin ölçü sistemi iki pilləli elektrik termostatında 
+ 88
+yerləşdirilmişdir. Məhz elə buna görə də termostatik metallik 
+qravimetri adlanır.  
+Şək.23-də dib qrvimetrinin prinsipial sxemi verilib. 
+Öründüyü kimi sxem əsas iki blokdan ibarətdir: QNU-KS 
+qravimetrinin eyni olan kvars sistemi və ölçmə bloku. 
+Qravimetrin ölçmə bloku gəmidə və ya helihopperdə 
+quraşdırılır, qravimetr özü isə dəniz dibinə buraxılır. Dəni üstü 
+qravimetrik müşahidələrdə isə qravimetr gəminin üstündə 
+yerləşdirilir və bu növ qravimetrlərin prinsipial sxemi şək.6-da 
+verilib. Sxemdən göründüyü kimi burada da iki blok iştirak edir, 
+lakin dib qravimetrlərindən fərqli olaraq hər iki blok gəmidə 
+yerləşdirilir və gəmi hərəkət etdikcə fasiləsiz qeydiyyat aparılır. 
+Canlı aləmin beşiyi olan planetimizin çox hissəsi su ilə 
+örtülüb və insan su örtüyünün daxili aləmini öyrənməkdən çox, 
+onun altında nələr baş verdiyini də tədqiq edir. Bu tədqiqatlar 
+arasında qravimetriyanın köməyi ilə bir sıra nailiyyətlər əldə 
+olunmuşdur, əlbəttə, icad olunmuş qravimetrlərin köməyi ilə. 
+Bu növ qraimetrlər ilk növbədə geniş diapazona, dinamik ölçü 
+qabiliyyətinə və digər qravimetrlərə nisbətən astazir sistemi 
+dayanıqlı tarazlığa malikdirlər. Dayanıqlı tarazlıq xüsusi 
+metaldan hazırlanmış qeyri-yayvari simlərin köməyi ilə 
+yaradılır və  axımlıdır. Axımlılıq, yəni qravimetrin göstərişinin 
+ 89
+sıçrayışla yox, hamarvari dəyişməsi, ölçü sisteminin xüsusi 
+maye fəzasında yerləşdirilməsi ilə nail olunur. Bu maye 
+dempfer və öz özünə xas olan xüsusi yükü müqabilində 
+tarazlaşdırıcı rolunu oynayır (şək.7). 
+Aeoroqravimetrlər bu əlamətlərdən başqa, alınmış 
+müşahidə qiymətlərinin emalı ilə digər qravimetrlərdən 
+fərqlənirlər. Qravimetrik müşahidələrin aparılmasında əsas 
+əlamətlərdən biri, ağırlıq qüvvəsinin mütləq qiyməti məlum 
+nöqtədən başlayıb, qeyri naməlum nöqtədə müşahidə apararaq, 
+yenə həmin məlum nöqtəyə qayıtmaqdır. Ancaq, təyyarə ilə hər 
+hansı nöqtədən keçdikdən sonra, həmin nöqtəyə qayıtması asan 
+alınmır. Bu problem aşağıdakı emprik formulanın köməyi ilə 
+həll olunur: 
+( )
+0
+2
+2 f
+fCfCg ∆+∆⋅=∆       (2.8) 
+burada 0fff −=∆  çıxış və gəlinmiş nöqtələrdə qravimetrin 
+göstərişləri fərqi, C -qravimetrin sabitidir. (7.6) tənliyinin 
+sağındakı ikinci ifadə dempferləyici və tarazlaşdıcı rolunun 
+oynasa da, ədədi qiymətcə çox kiçikdir və ölçmələrin emalında 
+nəzərə alınmır, yəni hər bir müşahidə nöqtəsində qravimetrin 
+nöqtələr arasındakı göstərişlər fərqi, qravimetrin sabitinə 
+vurulmaqla mQal -la nəticə alınır vəplanalma prosesindən sonra 
+ 90
+qarşıda qoyulmuş geoloji-geofiziki məsələdən asılı olaraq 
+interpretasiya aparılır.   
+2.3. Qravimetrin sabitinin təyini 
+Qravimetrin göstəricisini kəmiyyətcə araşdırmaq üçün 
+onun ölçü şkalasının bir bölgüsünün qiymətini mütləq təyin 
+etmək lazımdır. Bu əməliyyatı qravimetrin sabitinin təyin 
+olunması adlandırmaq olar. Qravimetrin ölçü şkalasının bir 
+bölgüsünün mQal -la qiyməti isə qravimetrin sabiti adlanır. 
+Qravimetr sabitinin fiziki mənası cihazın ölçmə qabiliyyətidir. 
+Qravimetrin sabiti qravimetriyada əsasən iki üsulla təyin edilir: 
+poliqon və əyilmə üsulları. Poliqon üsulunda qravimetrn sabiti 
+cazibə qüvvəsi təcilinin qiyməti dəqiq məlum olan iki 
+məntəqəyə görə, əyilmə üsulunda isə xüsusi hazırlanmış, 
+horizontallığı tam təmin olunan platforma üzərində həyata 
+keçirilir. Bəzən qravimetrin sabitini təyin etmək üçün əlavə 
+yüklənmə üsulundan da istifadə edilir.  
+Poliqon üsulunda, yəni cazibə qüvvəsi təcilinin qiymətləri 
+məlum olduğu iki məntəqəyə görə C  qravimetr sabitinin təyin 
+etmək üçün bu iki məntəqə arasındakı g∆ təcil fərqini, bu 
+məntəqələrdə qravimetrin  göstəriciləri n∆ fərqinə bölmək 
+lazımdır: 
+ 91
+01
+01
+nn
+gg
+n
+gC
+−
+−
+=
+∆
+∆
+=  
+Bu üsulla bütün qravimetrlərin sabitini təyin etmək 
+mümkündür. Ancaq bu üsulla qravimetrin sabitini təyin edərkən 
+məntəqələr elə seçilməlidir ki, onlar arasındakı cazibə təcilinin 
+g∆  fərqi, qravimetrin sabitinin təyinində nisbi artımdan çox 
+olmasın. Məsələn, əgər mQalg 50=∆  olarsa, onda qravimetrin 
+sabitini 2,0 % dəqiqliyi ilə təyin etmək üçün təyin olunmanın 
+nisbi artımı mQal1,0  olmalıdır. Sabitin təyin olunmasında bütün 
+hesablamalarda bir məntəqədə alınan nisbi artımın orta 
+kvadratik xətası  
+[ ]
+( )1
+2
+−
+∂
+±=Σ
+NN   
+formulu ilə şesablanır. Ümumi təyin olunmada nisbi artım isə  
+[ ]
+( )1
+1 2
+−
+∂
+∆
+±=Σ′
+NNn  
+formulu ilə hesablanır. Burada n∆ - myşahidələrin orta hesabi 
+qiyməti, [ ]2∂ - müşahidələrin orta kvadratik xətası, N - 
+müşahidələrin sayıdır. 
+Əyilmə üsuluna görə qravimetrin sabitinin təyinində 
+cazibə qüvvəsi təcilinin qravimetrin əyilməsindən kosinusoidal 
+ 92
+asılılığından istifadə olunur. Qravimetrin hər hansı β  bucağı 
+qədər əyilməsindən cazibə qüvvəsi təcilinin dəyişməsi   
+( ) ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⋅⋅⋅+−−=−−=∆
+122
+cos1
+4
+2 βββ ggg       (2.9) 
+bərabərliyi ilə təyin olunur. Bu ifadədəki motərizənin arasında 
+«minus» işarəsidən sonra olan hədlər çox kiçik oduğundan 
+onları nəzərə almasaq və β  bucağına görə differensiallasaq,  
+ββ
+β
+⋅≈⋅−= gg
+d
+dg sin                 (2.10) 
+alınar. Bu təqribi bərabərlikdə differensialı artımla əvəz etsək 
+2
+2β⋅
+=∆
+gg                                   (2.11) 
+qəbul etmək olar. Əyilmə üsulunda iki əyilmə nöqtəsinə görə 
+qrvimetrin sabiti 
+( )12
+2
+12 2 nn
+g
+nn
+gC
+−
+⋅
+=
+−
+∆
+=
+β                       (2.12) 
+bərabərliyi ilə hesablanır. Burada 2n  və  1n - iki əyilmə 
+nöqtəsində qravimetrin göstəricisi, g - həmin nöqtədə cazibə 
+təcilinin mütləq qiymətidir. 
+ 
+ 
+ 93
+§3. QRAVİMETRİK MÜŞAHİDƏ METODLARI 
+Qravimetriyada axtarış-kəşfiyyat və elmi-tədqiqat işləri 
+zamanı nöqtələrin sıxlığı km20 -dən m6 -ə qədər dəyişir. 
+Planalmanın sıxlığı əvvəlcədən təqribi məlum olan və ya 
+təsəvvür olunan geoloji obyektin ölçüləri, yatma parametrləri və 
+fiziki əlamətləri ilə bağlıdır. 
+Neft-qaz axtarışında orta qiymətlə 26,1 km -na 1-2 müşahidə 
+nöqtəsi düşür. Amma bu, neft-qaz yataqlarının ölçülərindən 
+daha çox asılıdır. Neft-qazlı strukturların ölçüsü adətən böyük 
+olur və bu cür obyektlərdən qravitasiya effekti müşahidələrdən 
+yayına bilmir. Qravimetrynın köməyi ilə neft-qaz axtarışında 
+müşahidə məntəqələri arasındakı məsafə bərabər götürüldükdə 
+effekt daha diqqə təlayiq olur. Qravimetriyada müşahidə sistemi 
+„ilgəh“ prinsipi ilə yaradılır. Bu prinsipin əsas mahiyyəti ondan 
+ibarətdir ki, müşahidələr cazibə qüvvəsi təcilinin mütləq 
+qiyməti məlum olan məntəqədən başlanır, naməlum nöqtəyə 
+davam etdirilir və müşahidələr yenidən məlum nöqtədə başa 
+çatdırılır. Bütün qravimetrik müşahidələr, istər dayaq 
+şəbəkəsində, istərsə də sıravi şəbəkədə, eləcə də istər regional 
+işlərdə, istəsə də mükəmməl işlərdə bu prinsip mütləq 
+ 94
+gözlənilir, çünki qravimetriyada hər hansı bir nöqtədə cazibə 
+qüvvəsi təcilinin qiyməti nisbi hesablanır. 
+Filiz yataqlarının qravimetrik müşahidələrlə axtarışında 
+nöqtələr arasındakı məsafə öyrənilən sahədə eyni götürülmür. 
+Əvvəlcə tədqiqat sahəsində müəyyən eyni məsafəli nöqtələrdə 
+müşahidə aparılır və ilkin xəritə tərtib olunur. Bu xəritədə qeyd 
+olunmuş müsbət anomaliyaların ölçülərindən və bu 
+anomaliyaları yarada biləcək fiziki mühitin yatma dərinliyindən 
+asılı olaraq daha kiçik məsafəli nöqtələrdə müşahidələr aparılır. 
+Bu cür planalmada müşahidə nöqtələri arasındakı məsafə 
+m3020− , hətta bəzən daha az götürülür. Heç bir planalma işləri 
+aparılmayan və ya geoloji quruluş haqqında təqribi təsəvvür 
+olunan rayonlarda bu işlər bir neçə mərhələdə aparılır. 
+Müasir qravimetrik planalmada müşahidələrin 
+aparılmasında heç bir problem meydana çıxmır, belə ki, Yer 
+səthində insan ayağının dəymədiyi sahə yoxdur və „qravimetr“ 
+adlanan cihaz digər geofiziki cihaz və avadanlıqlara nisbətən 
+çox yüngül və istismar şərtləri çox asandır və eyni zamanda 
+qravimetrik işlərə çəkilən cərclər daha sərfəlidir. Bununla 
+bərabər qravimetrik planalmada digər problemlər mövcuddur. 
+İlk növbədə bu problemlərdən biri qravimetrin özünün və ölçmə 
+yükünün tarazlıq vəziyyətinə gətirilməsindən ibarətdir. 
+ 95
+Yuxarıda qeyd etmişdik ki, cazibə qüvvəsi təcilini ən dəqiq 
+ölçən qravimetrlər astazirli qravimetrlərdir. „Astazir“ sözü 
+„qeyri-stabil tarazlıq“ mənasını daşıyır. Bu o deməkdir ki, hər 
+hansı bir xarici təsir qravimetrin tarazlığını poza bilər. Bu 
+təsirlər, planalma zamanı qravimetri əldə, avtomobildə, gəmidə, 
+təyyarədə və s. apararkən silkələnmə ola bilər. Bütün bu 
+amillərdən başqa, qravimetrlərlə müşahidə zamanı ölçü 
+götürməzdən əvvəl qravimetrin ölçü yükünü mütləq horizontal 
+taraz vəziyyətinə gətirmək lazımdır. Qravimetrn bu vəziyətinə, 
+yəni ölçü yükünün taraz vəziyyətdə olmsına qravimetrin taraz 
+halı deyilir və bu halda qravimetrn göstərişi onun „sıfır“ 
+nöqtəsinin qiymətidir. Ancaq qravimetrin „sıfır“ qiyməti sabit 
+qalmır, müşahidə nöqtəsinə görə dəyişir, yəni hər bir nöqtədə 
+qravimetrin „sıfır“ qiymətini qeyd etdikdən sonra ölçü 
+götürmək lazımdır. Qravimetriyada planalmanın problem idə 
+buradan, yəni qravitmetrin taraz halına gətirilməsindən başlanır. 
+Bu problemi aradan götürmək üçün bir neçə üsullar mövcuddur. 
+Bunlardan ən sadəsi və ən dəqiqi qravimetrn „sıfır sürüşməsi“-
+ni təyin etməkdir. Qravimetrin „sıfır sürüşməsi“ müşahidə 
+nöqtələrində „sıfır“ göstəricisinin fərqidir.  Məhz buna görə də 
+qravimetrlə müşahidə zamanı onun „sıfır sürüşməsi“ni mütləq 
+təyin etmək və materialların emalında nəzərə almaq lazımdır. 
+ 96
+Şəkil 24. Dayaq şəbəkəsinin 
+düzləndirilməsi sxemi. a – dayaq şəbəkəsi 
+nöqtələri və nömrələri; б – aöırlıq qüvvəsi 
+qiymətlərinin artma istiqamətləri; в – 
+poliqonların düzləndirmə istiqaməti; 
+I,III – poliqonlar.  
+3.1. Dayaq şəbəkəsi 
+Qravimetrik kəşfiyyat işlərində əsas amillərdən biri dayaq 
+şəbəkəsinin yaradılması işləridir (şək. 24). Dayaq şəbəkəsi 
+1971-ci il Potsdam sisteminə, sıravi nöqtələr şəbəkəsi isə dayaq 
+nöqtələrinə bağlanılır. Dayaq şəbəkəsi planalma qiymətlərinin 
+ümumdövlətlər sisteminə və reyslərdə (gedişlərdə) qravimetrin 
+«sıfır-sürüşməsi»nin nəzərə alınmasına xidmət edir. Dyaq 
+şəbəkəsi I, II və III kateqoriyalarından ibarətdir və bu 
+kateqoriyalar qarşıda qoyulmuş 
+geoloji-geofiziki məsələlərdən 
+asılıdır. Qravimetriyada axtarış-
+kəşfiyyat və  elmi-tədqiqat 
+işlərində yaradılmış dayaq 
+şəbəkəsi dövlət qravimetrik 
+şəbəkəyə bağlanılır. Bundan 
+başqa, müəyyən müddətdən 
+sonra eyni bir ərazidə 
+aparılmış planalma işlərində 
+yaradılmış dayaq şəbəksi 
+arasında da mütləq bağlanma 
+aparılır. Əgər bu proses aprılmayıbsa, planalma işləri qəbul 
+olunmur. I kateqoriyalı dayaq şəbəkəsi dövlətlərarası, II 
+ 97
+kateqoriyalı vilayətlərarası, III kateqoriyalı dayaq şəbəkələri isə 
+sahələrarası statusuna malikdir. Dayaq şəbəkəsində ölçmələrin 
+dəqiqliyi sıravi şəbəkəyə nisbətən 1,5-2 dəfə yüksək olmalıdır. 
+ Dayaq şəbəkəsinnə reyslərin 1–2–1…–n–1 sxemi üzrə 
+işlənməsi üsul çox geniş yayılmışdır, yəni müşahidələr hansı 
+dayaq məntəqəsindən başlanırsa, orada da başa çatmalıdır. Bu 
+cür reyslərdə müşahidə məntəqələrinin sayı istifadə olunan 
+qravimetrin «sıfır-sürüşməsi» müddətindən aslıdır. Dayaq 
+şəbəkəsində müşahidələr mərkəzi müşahidə, iki pilləli, poliqon 
+və ilgəh-düyün nöqtəli sistemi ilə işlənilir.  
+Mərkəzi müşahidə sistemi digər müşahidə sistemlərindən 
+bütün dayaq məntəqəlirinin relyef şəraitindən asılı olaraq 
+əvvəlcədən müəyyənləşdirilmiş mərkəzi dayaq məntəqəsinə 
+bağlanması ilə fərqlənir. Mərkəzi dayaq məntəqəsi isə planalma 
+işlərindən əvvəl və planalma işləri başa çatdıqdan sonra 
+təkrarən dövlət kateqoriyalı dayaq məntəqəsinə bağlanılır. 
+İki pilləli müşahidə sistemi karkas və tamamlayıcı dayq 
+məntəqəlrindən ibarətdir. Bu sistemdən istənilən dayaq 
+məntəqəsini mərkəz kimi qəbul etdikdə və yüksək dəqiqlikli 
+planalma işlərində istifadə olunur. Tamalayıcı dayaq 
+məntəqələri mütləq bir neçə karkas dayaq məntəqəsinə 
+bağlanılır. 
+ 98
+Poliqonal müşahidə sistemində dayaq şəbəkəsi çox 
+bucaqlı poliqonları (minimum üç bucaq) və onların tərəflərini 
+özündə cəmləşdirir. Dayaq şəbəkəsinin hər bir müşahidə 
+məntəqəsi 1–2–1 sxemi üzrə bir-birindən asılı olmayan reyslərlə 
+işlənilir, yəni ağırlıq qüvvəsinin mütləq qiyməti məlum 
+olmayan məntəqə, ağırlıq qüvvəsinin mütləq qiyməti məlum 
+olan məntəqəyə bu sxemlə bağlanılır. Bu müşahidə sistemində 
+poliqonlar tərəfinin az olması müşahidələrin dəqiqliyinə və 
+müşahidə şəbəkəsinin düzlənməsinə xidmət edir. Müşahidə 
+məntəqələrinin sıxlığı qarşıda qoyulmuş geoloji məsələdən asılı 
+olaraq miqyasdan və istifadə olunan qravimetrin «sıfır» 
+sürüşməsinin zaman intervalından asılıdır. Msələn, əgər 
+qraimetrin «sıfır» sürüşməsi üç saat müddətində mQal3,0  
+dəyişirsə, dayaq müşahidə məntəqələri elə seçilməlidir ki, üç 
+saat müddətində 1–2–1 sxemi işlənilsin. Müşahidə 
+məntəqəlrində müşahidələrin sayı isə istifadə olunan 
+qravimetrin dəqiqliyindən, yəni bir müşahidənin orta kvadratik 
+xətasından asılıdır. 
+İlgəh-düyün nöqtəli müşahidə sistemi iki pilləli müşahidə 
+sisteminin müxtəlif formalarıdır. Belə ki, ilgəh nöqtələri – hər 
+hansı dayaq məntəqəsinə istinad olunmuş bir və ya bir neçə 
+sıravi reyslərin kəsişmə nöqtələridir. Müşahidə sistemi istifadə 
+ 99
+olunan qravimetrlərin «sıfır» sürüşməsi zamanını təmin 
+etməlidir, yəni ilgəh-düyün nöqtələri elə seçilməlidir ki, sıfır 
+sürüşmə zamanı ərzində bütün məntəqələrdə qapalı müşahidə 
+aprıla bilsin. Reyslərin kəsişmə nöqtələrinin sayı planalmanın 
+dəqiqliyindən asılıdır. İlgəh nöqtələri müəyyən şəbəkə 
+fomasında olmalıdır və bu şəbəkə mütləq düzləndirilir və ilgəh 
+nöqtələri dayaq məntəqəsi kimi istifadə olunaraq müşahidə 
+qiymətləri yenidən emal olunur. 
+ 3.2. Sıravi şəbəkə 
+Sıravi şəbəkə – əsas müşahidə nöqtələridir, yəni 
+qravimetrik planalmada alınmış nəticələr məhz bu şəbəkəyə 
+görə tərtib olunur. Əlbəttə, hər hansı bir reduksiyada tərtib 
+olunmuş xəritələrdə izoxətlər keçirilərkən dayaq şəbəkəsi 
+məntəqələrinin də aonomal qiymətləri nəzərə alınır. Planalma 
+ərazisinin relyefindən asılı olaraq, sıravi şəbəkənin forması 
+düzbucaqlı formasında olmasına üstünlük verilir. Bu, tərtib 
+olunmuş xəritənin interpretasiyası üçün transformasiyanın 
+əlverişli olmasından irəli gəlir. Öyrənilən sahənin düzbucaqlı 
+formada olması vacib deyil. Əsas şərt qarşıda qoyulmuş geoloji 
+məsələnin hərtərəfli həll olunmasıdır. Sıravi şəbəkənin 
+müşahidə nöqtələri profillər boyunca aparılarsa, profillər 
+ 100
+arasındakı məsafə ilə müşahidə nöqtələri arasındakı məsafənin 
+nisbəti iqyasdan asılı olmayaraq 5:1-ə olan nisbətdən çox 
+olmamalıdır. Sıravi şəbəkənin sıxlığı planalmanın məqsədindən 
+və geoloji şəraitdən asılıdır. Ancaq, gözlənilən və ya aşkar 
+olunan anomaliya, miqyasdan asılı olmayraq, mütləq minimum 
+üç sıravi nöqtə ilə müşahidə olunmalıdır və bu nöqtələr bir-
+ğirindən asılı olmayan reyslərlə işlənilməlidir. Bu əlamət də 
+sıravi şəbəkənin sıxlığına təsir edir. Sıravi şəbəkədə anomaliya 
+o zaman etibarlı hesab olunur ki, bu anomaliyanın amplitudu 
+planalmanın dəqiqliyindən minimum üç dəfə çox olsun. 
+Sıravi şəbəkənin bir sıra müşahidə üsulları mövcuddur: 
+birqatlı müşahidə üsulu, əks gedişdə təkrar müşahidə üsulu, düz 
+gedişdə təkrar müşahidə üsulu və «sıfır» sürüşmənin 
+paylanması üsulu. 
+ Birqatlı müşahidə üsulu ən geniş yayılmış müşahidə 
+formasıdır və ona görə birqatlı müşahidə adlanır ki, bir nöqtədə 
+minimum iki dəfə eyni vaxda müşahidə aparılır. Bu, iki və ya 
+daha çox qravimetrdən istifadə etməklə və ya eyni bir 
+qravimetrlə bir neçə dəfə müşahidə aparmaqla həyata keçirilir.  
+Sıfır sürüşmənin qiyməti reysin hər bir düyün nöqtəsinə və 
+mütləq istinad oluqmuş dayaq məntəqələrinə görə verilir. Əgər 
+bir neçə reys müddətində sıfır bölgünün dəyişməsi stabil 
+ 101
+qalarsa, onda sıfır sürüşmənin qiyməti sıravi reysin kənar 
+nöqtələrinə (başlanğıc və son nöqtə) görə də vnrilə bilər. Bu 
+üsulda bəzən, sıfır sürşmənin xətti olmasını yoxlamaq üçün, hər 
+hansı dayaq məntəqəsi sıravi nöqtə kimi işlənilir. Hər bir reysin 
+sıfır bölgüsünün dəyişmə qrafiki tərtib olunur. Bu qrafikin tərtib 
+olunmasında məqsəd, alınmış nəticənin hansı müşahidə 
+nöqtəsində uyğun olmamasını yoxlamaqdır. Əgər, alınmış 
+nəticə sıfır bölgünün dəyişmə qrafikindən kənara çıxarsa, onda 
+həmin nöqtədə müşahidə asılı olmayan digər reysdə yenidən 
+aparılır. Sıfır bölgünün dəyişmə qrafiki miqyasdan asılı 
+olmayaraq, planalmada iştirak etmiş iki qravimetrin nəticələri 
+arasında fərqə görə ( mQal -a uyğun olaraq) tərtib olunur. 
+Qravimetrlər arasında kəskin fərq alınan nöqtə yenidən işlənilir.  
+Əks gedişdə təkrar müşahidə üsulu birqatlı müşəhidədən 
+fərqli olaraq istehsalat işlərində çox az tətbiq olunur. Çünki 
+sıravi reys mütləq əks gedişlə təkrar olunmalıdır. Bu isə 
+planalmanın istehsalını aşağı salmaqla yanaşı, qravimetrin sıfır 
+bölgüsünün kobud dəyişməsinə gətirir. 
+Düz gedişdə təkrar müşahidə üsulu yuxarıda şərh 
+olunmuş üsulların vəhdətidir. Birqatlı müşahidə aparılır və 1–2–
+3–1, 1–4–5–1, 1–6–7–1 və s. ilgəhlərlə işlənilir, yəni reysin bir 
+ 102
+neçə nöqtəsi təkrarlanır. Bu üsul da istehsalat işlərində çox az 
+tətbiq olunur. 
+«Sıfır» sürüşmənin paylanması üsulu yuxarıda şərh 
+olunmuş hər üç üsuldan onunla fərqlənir ki, alınmış 
+müşahidələr arasında fərq tapılır və planalmaya nəzarət olunur. 
+Nəzarət sıfır bölgünün dəyişmə qrafiki və ya nəzəri olaraq ilə 
+həyata keçirilir. 
+Bütün üsullarda qravimetrin sıfır bölgüsünün dəyişməsinin 
+xətti olması nəzərdə tütulur. Bu dəyişmə qeyri-xətti olduqda, 
+bəzən artımların ayrılqda müşahidəsi üsulu tətbiq olunur. Bu 
+üsulun digərlərindən fərqi orasındadır ki, hər bir sıravi nöqtə 1–
+2–1 sxemi ilə, yəni dayaq məntəqəsi kimi işlənilir. 
+3.3. Qravimetrlə dənizdə müşahidə 
+Qravimetriyada axtarış-kəşfiyyat işlərinin böyük bir həcmi 
+dəniz akvatoriyasında aparılır. Müşahidə bilavasitə dəniz 
+sularının altında və ya üstündə aparılır. Dəniz planalmasında bir 
+çox problemlər ortaya çıxır: müşahidə nöqtələrinin 
+koordinatlarının təyini, dənizin dalğalanması nəticəsində 
+qravimetrin tarazlıq vəziyyətinə gətirilməsi, hərəkətdə olan 
+gəminin sürəti və s. Bu problemlərdən birincisi, yəni müşahidə 
+ 103
+nöqtəsinin koordinatlarının təyini son illərdə xüsusi sputniklərin 
+xeyli asanlaşmış və dəqiqləşdirilmişdir.  
+Qravimetrik planalma bir neçə mərhələdə həyata keçirilir. 
+Birinci mərhələ vəya hazırlıq pilləsinddə riyazi emal üçün vacib 
+oln, istifadə olunan avadanlığın texniki parametrləri yoxlanılır. 
+Əyilmə üsulu ilə qravimetrlər etalonlaşdırılır, yəni ölçü 
+şkalasının bir bölgüsünün mQal -la qiməti təyin olunur, 
+qeydiyyat qurğuları tənzimləndirilir. Xüsusi metodik üslublarla 
+qravimetrlərin dinamik əlamətlərini xarakterizə edən bütün ölçü 
+parametrləri sınaqdan keçirilir.  
+İkinci mərhələ – dayaq şbəkəsində aparılan 
+müşahidələrdir. Bu müşahidələr lövbər atmış gəminin üstündə – 
+meta (inersiya) mərkəzində reysə çıxmazdan əvvəl aparılır. 
+Dayaq şəbəkəində müşahidələrin məqsədi, sıravi müşahidə 
+sistemində istifadə olunan ağırlıq qüvvəsi mütləq qiymətlərinin 
+mümkün qədər dəqiq təyin olunması, eləcə də gəmidə 
+quraşdırılmış qravimetrlərin ölçmə qabiliyyətinin dəqiqliyini 
+müəyyənləşdirməkdir. 
+Üçüncü mərhələ – dənizdə aparılan planalma işlərdir. 
+Qarşıda qoyulmuş geoloji məsələdən asılı olaraq dənizdə 
+plnalma işləri digər okeanoloji tədqiqatlarla kompleks olaraq 
+əvvəlcədən müəyyənləşdirilmiş poliqonlarda həyata keçirilir. 
+ 104
+Dəniz qravimetrik planalmanın əsas dəqiqlik əlamətlərindən biri 
+radionaviqasiya üsulu ilə müşahidə nöqtələrinin 
+koordinatlarının təyin olunmasıdır.  
+Dənizdə qravimetrik planalma işləri, avadanlıqdan istifadə 
+etmədən asılı olaraq dib və üst qravimetrik üsullara ayrılır. 
+Dib qravimetrik planalmada, qravimetr dənizin dibinə 
+buraxılır və xüsusi qurğularla tam şaquli vəziyyət verildikdən 
+sonra və «blik» sıfır vəziyyətinə, yəni tam horizontal hala 
+gətirilərək gəmidə quraşdırılmış ekrandan qravimetrin 
+göstəricisi qeyd olunur. Bu zaman, təbii olaraq, istifadə olunan 
+gəmi müşahidə nöqtəsində dayanır. Şübhə yoxdur ki, müəyyən 
+sürətlə hərəkət edən gəmi inersiya nəticəsində istənilən nöqtədə 
+lazım olan anda dayanmır. Bu proses aradan götürmək üçün 
+mütləq və minimum iki motorlu gəmidən istifadə olunur. 
+Müşahidə nöqtəsində motorlar əks koherent işləyir, nəticədə 
+müəyyən zaman anında gəmi sanki «donur» və müşahidə 
+aparılır. Dib planalmada müşahidə dənizin şelf zonalarında 
+helihopper (vertolyot) vasitəsi ilə həyata keçirilir. Müşahidə 
+nöqtəsində helihopper «hava yastığı» yaratdıqdan sonra 
+qravimetr dənizin dibinə buraxılır və ölçü götürülür. 
+Üst qravimetrik planalmada istifadə olunan avadanlıq 
+gəminin üstündə quraşdırılır və müşahidə zamanı gəmi 
+ 105
+əvvəlcədən müəyyənləşdirilmiş düz xətli profillər boyueca 
+mümkün olan qədər dəyişməz sürətlə hərəkət edir. Sürətin 
+dəyişməz olması Etveş düzəlişinin dəqiq olması üçün zəruridir. 
+Bu zaman dinamik qravimetrlərdən istifadə olunur, yəni 
+qravimetrin göstərişi xüsusi qurğu ilə fasiləsiz qeyd olunur. Bu 
+xüsusi qurğunun qeydiyyat sürəti gəminin sürətinə 
+uyğunlaşırılır, əks halda planalmanın lazım olan miqyası inhiraf 
+oluna bilər. Müşahidə nöqtəsindən keçdikdə radionaviqatorun, 
+yəni operatorun göstərişi ilə müşahidə nöqtəsi qeyd olunur. 
+Materialların emalı prosesində xüsusi paletka (çərçivə) vasitəsi 
+ilə qravimetrin ölçü şkalasının qiymətinə görə mQal -a çevrilir. 
+Üst qravimetrik planalmada reysə çıxmazdan əvvəl, sahildə 
+əvvəlcədən müəyyən olunmuş dayaq nöqtəsində, lövbər atmış 
+gəmidə minimum 2-3 saat, xüsusi motordan idarə etməklə 
+fasiləsiz qeydiyyat aparılır, sonra reysə çıxılır. Dənizin 
+planalma sahəsinə çatdıqdan sonra gəmi dpyandırılır və yenə 
+minimum 2-3 saat qeydiyyat aparılır. İstifadə olunan 
+avadanlığın işləmə qabiliyyəti tam yoxlanıldıqdan sonra, 
+əvvəlcədən müəyyən olunmuş profillər üzrə və dəyişməz sürətlə 
+müşahidələr aparılır. Sahədə planalma işləri başa çatdıqdan 
+sonra gəmi sahilə qayıdır, reysdən qabaq aprılan işlər təkrar 
+olunur. Bu proses qravimetrin sıfır qiymətinin dəyişməsini 
+ 106
+müəyyən etmək üçün həyata keçirilir. Düzxətli profillər mütləq 
+bir-birini kəsməlidirlər və hər bir kəsişmə nöqtəsi də operator 
+vasitəsilə qeyd olununr və bu nöqtələrdəki qiymətlər 
+müşahidələrin dəqiqliyinin hesablanmasında istifadə olunur. Üst 
+qraimetrk planalmada, imkan daxilində, sahə elə seçilir ki, bu 
+sahə dib planalma sahəsini müəyyən qədər təkrarlasın. Planlma 
+işləri başa çatdıqdan və ilkin anomaliyalar xərtəsi tərtib 
+olunduqdan sonra, xəritələr müqayisə olunur və interpolyasia 
+dəqiqliyi hesablanır. İnterpolyasiya dəqiqliyi planalma 
+dəqiqliyindən yüksək olmalıdır.  
+Dördüncü mərhələ – dayaq nöqtələrində son 
+müşahidələrdir. Bu müşahidələrlə planalmanın dəqiqlyi bir daha 
+yoxlanılır. Dəniz qravimetrik planalma işlərində reyslərin 
+müddəti bəzən 2-3 ay çəkir. Belə olan hallarda dördüncü 
+mərhələnin aparılması tərtib olunmuş son anomaliyalar 
+xəritəsinin dəqiqliyinin miqyasa uyğun olmasında əsas rol 
+oynayır. 
+Nəhayət beşinci mərhələ – laboratoriya şəraitində istifadə 
+olunmuş avadanlığın texniki parametrləri bir daha yoxlanılır və 
+kameral işlər həyata keçirilir: son variantda lazımi xəritə tərtib 
+olunur, transformasiya aparılır, kəsilişlər tərtib olunur və son 
+hesabat tərtib olunur. 
+ 107
+Qarşıda qoyulmuş geoloji məsələdən və planalma işləri 
+aparılan sahənin coğrafi yerləşməsindən asılı olaraq dəniz 
+qravimetrk planalma işləri təyyarələr vasitəsilə də aparılır və 
+aeroqraviplanalma adlanır. Planalmanın metodu üst planalma 
+işlərinin eynidir. Yeganə fərq xüsusi simli qravimetrlərdən 
+istifadə olunmadır. Bu qravimetrin ölçü sistemi xüsusi 
+dempferləyici mayedə yerləşdirilir. 
+3.4. Müşahidələrin  kəmiyyətcə qiymətləndirilməsi 
+Planalmanın keyfiyətcə qiymətləndirildməsinin əsas 
+əlaməti, aşağıdakı ifadə ilə hesablanan, müşahidələrin orta 
+kvadratik xətasıdır, yəni 
+22
+sirdayg εεε +±=        (3.1) 
+Burada dayε , sirε - dayaq və sıravi şəbəkənin 
+düzləndirilməsindən sonra müşahidələrin orta kvadratik xətadır. 
+Əgər müşahidələr düzləndirilmirsə, dayaq şəbəkəsinin orta 
+kvadratik xətası təxmini formulalarla hesablanılır. 
+Mərkəzi müşahidə sistemi zamanı orta vkadratik xəta  
+ort
+day N
+µε ±=                 (3.2) 
+ 108
+formulu ilə hesablanır. Burada  µ  – hər hansı bir məntəqədə 
+müşahidələrin orta kvadratik xətası, 
+n
+NNort =  – hər hansı bir 
+məntəqədə müşahidələrin orta sayı, N  – dayaq şəbəkəsində 
+müşahidələrin ümumi sayı, n  – mərkəzi dayaq məntəqəsi 
+nəzərə alınmamaqla dayaq məntəqələrinin sayıdır. µ  -nin 
+qiyməti aşağıdakı foromulla hesablanır: 
+nN −
+Σ
+±=
+2δµ            (3.3) 
+İki pilləli müşahidə sistemi zamanı orta kvadratik xəta 
+aşağıdakı formula qiymətləndirilir: 
+22
+t
+tk
+t
+kday nn
+n εεε ⋅
++
++±=              (3.4)  
+burada 3,nnk – karkas və tamamlayıcı dayaq məntəqələrinin 
+sayı, tk εε , – (3.6) fomulası ilə hesablanan karkas və 
+tamalayıcı dayaq məntəqələrində ağırlıq qiymətlərinin 
+hsablanmasında orta kvadratik xətalardır. 
+Poliqonal müşahidə sistemi zamanı orta kvadratik xəta 
+aşağıdakı formula qiymətləndirilir: 
+Mday ⋅±= µε         (3.6) 
+ 109
+burada ədədi artım qiyməlri ilə ifadə olunmuş dayaq 
+məntəqələri arasındakı orta artım qiymətidir. µ -nin qiyməti  
+SN −
+∑
+±=
+2δµ              (3.7) 
+formulu ilə hesablanır. Burada S – dayaq şəbəkəsi 
+poliqonlarının tərəfləri sayıdır. 
+3.5. Anomaliya dəqiqliyinin hesablanması 
+Qravimetriyada planalmanın dəqiqliyi əsas əlamətlərdən 
+biridir. Dəqiqlik aşağıdakı formula ilə hesablanır: 
+222222
+TLBdayma εεεεεε ++++±=          (3.8) 
+burada mε – müşahidə olunmuş qiymətlərdə, dayε – dayaq 
+şəbəkəsində, Bε – Buge anomaliyalarının hesablanmasında, 
+Lε – normal qiymətlərin hesablanmasında və Tε – topoqrafiya 
+işlərində alınan xətalardır. Göründüyü kimi qravimetriyada 
+planalmanın dəqiliyi iş prosesində bir-birindən asılı olmayan 
+beş əsas parametrdən asılıdır. Buradn aydındır ki, qravimetrik 
+planalma nə dərəcədə kamillik tələb edir. 
+ Sahəvi planalmanın nəticələri izoanomallarla (eyni 
+qiymətli anomaliya xətləri) ifadə olunmuş, qarşıda qoyulmuş 
+ 110
+ 
+Qravi-kəşfiyyat işlərində tərtib olunan xəritələrin miqyası 
+və izoxətlərin uyğun keçirilməsi 
+Cədvəl 2. 
+Miqyas İzoxət-
+lərin 
+addımı, 
+mQal 
+Buge 
+anomaliya-
+larının 
+hesab-
+lanmasında  
+yol verilən 
+xəta, mQal 
+Müşahidə  
+qiymətlərinin 
+hesablanmasın
+də yol verilən 
+xəta, mQal 
+Tam inter-
+polyasiya, 
+mQal 
+Düzənlik ərazilərdə 
+1:500 000 5 ±1,5 ±0,5 ±2,0 
+1:200 000 2 ±0,8 ±0,4 ±1,0 
+1:100 000 1 ±0,4 ±0,3 ±0,5 
+1:50 000 0,50 ±0,20 ±0,15 ±0,35 
+ 0,25 ±0,10 ±0,07 ±0,20 
+1:25 000 0,25 ±0,10 ±0,06 ±0,20 
+ 0,20 ±0,08 ±0,06 ±0,15 
+1:10 000 0,20 ±0,08 ±0,06 ±0,15 
+ 0,10 ±0,04 ±0,03 ±0,07 
+1:5 000 0,10 ±0,04 ±0,030 ±0,07 
+ 0,05 ±0,02 ±0,015 ±0,03 
+Dağlıq ərazilərdə 
+1:500 000 5 ±2,0 ±0,5 ±3,0 
+1:200 000 2 ±1,0 ±0,40 ±1,50 
+1:100 000 1 ±0,50 ±0,25 ±0,70 
+1:50 000 1 ±0,50 ±0,25 ±0,70 
+ 0,50 ±0,25 ±0,12 ±0,35 
+1:25 000 0,50 ±0,25 ±0,12 ±0,35 
+ 0,25 ±0,12 ±0,06 ±0,20 
+1:10 000 0,20 ±0,10 ±0,06 ±0,15 
+1:5 000 0,10 ±0,05 ±0,03 ±0,07 
+məsələnin xarakterindən asılı olaraq, müxtəlif reduksiyalı 
+xəritələrlə və profillər boyunca planalmalarda isə qrafiklərlə 
+təqvim olunur. Xəritələrə müəyyən diskret məsafələri ilə 
+ 111
+müşahidə məntəqəlrinin nömrələri və hər bir nöqtədə anomaliya 
+qiymətləri qeyd olunur. Dayaq və sıravi nöqtələrin müşahidə 
+qiymətlərinə görə xəritələr interpolyasiya olunmaqla poliqon 
+üsulu ilə tərtib olunur, yəni minimum üç nöqtə arasında 
+izoxətlər miqyasa uyğun keçirilir. Aşağıdakı cədvəldə axtarış-
+kəşfiyyat və elmi-tədqiqat qravimetriya işlərində tərtib olunan 
+xəritələrin miqyası və izoxətlərin uyğun keçirilməsi verilir. 
+3.5.1. Çöl müşahidələrinə görə sıxlığın hesablanması 
+Qeyd etdik ki, süxur və mineralların sıxlığını bilavasitə 
+təyin etmək mümkün olmur. Yuxarıdakı cədvəllərdə verilənlər 
+isə ümumən götürülmüş qiymətlərdir. Bundan bəşqa süxur və 
+minerallar çox nadir hallarda bəsit halda olurlar. Onlar qarışıq 
+halda olduğundan qravimetrə hansı süxurun sıxlığının təsiri 
+yox, ümumi kütlənin təsiri öyrənilir. Bu təsir, yəni iş aparılan 
+ərazinin mühitin real sıxlığı qravimetrik müşahidələrə görə 
+təyin edilir.  
+   Sıxlığın yeraltı müşahidələrə görə təyini. Əgər 
+qravimetrik müşahidələr Yerin müəyyən dərinliyində 
+(quyularda, şaxtalarda) aparılarsa, bu müşahidələrin 
+qiymətlərinə görə qravimetriyada çox səmərəli olan sıxlıqların 
+təyin olunmasını həyata keçirmək olar. Müşahdələr bir-birinin 
+ 112
+altında olan (yer səthi və quyunun hər hansı bir dərinliyində) 
+nöqtələrdə aparılarsa, onda bu iki müşahidənin fərqi aşağıdakı 
+kimi hzesablanır: 
+( ) Tghhg +⋅⋅−⋅=∂ σ0838,03086,0        
+Burada h - şaquli məsafə (müşahidə nöqtələri arasındakı 
+məsafə), Tg - topoqrafiyaya görə düzəlişdir. Bu ifadədən sıxlığı 
+aşağıdakı kimi hesablamaq olar:   
+( )
+h
+ggh T
+⋅
+−∂−⋅
+=
+0838,0
+3086,0σ            (3.9) 
+Tg - düzəlişi σ - dan asılı olduğundan (1.45) bərabərliyi ardıcıl 
+yaxınlaşma üsulu ilə həll oluna bilər. Ardıcıl yaxınlaşma üsulu 
+ilə təyin olunan sıxlıq ən real sıxlıqdır, ancaq tətbiq olunması 
+çox vaxt aparır. Bundan başqa, müəyyən bir istiqamətdə sıxlığın 
+qiyməti, bu itiqamətə ortoqonal istiqamətdə tamailə başqa 
+qiymət alır. Bu axtarış-kəşfiyyat və ya elmi-tədqiqat işləri 
+aparılan ərazidə süxurların sıxlığının izometrik dəyişməsi ilə 
+izah oluna bilər.  
+Nettlton üsulu ilə sıxlığın təyini. Bu üsulla sıxlıq 
+haqqında kafi məlumat əldə etmək olar. Lakin bu üsul relyefi 
+mürəkkəb formada olan ərazilrdə daha effektivlidir. Tədqiqat 
+sahəsindən diaqonal xarakterli profil keçirilir və Buge 
+anomaliyalarının qiyməti sıxlığın bir neçə qiymətlərində 
+ 113
+hesablanılır (əlbəttə, tədqiqat sahəsinin geologiyasına uyğun 
+gələn). Profil boyunca alınmış Buge anomaliyaları əyrisinin 
+forması relyefin formasını əks etdirdikdə istifadə olunan sıxlıq 
+real sıxlıq kimi qəbul olunur.  
+Parasonis  üsulu ilə sıxlığın təyini. Bu üsul Nettltonun 
+qrafiki üsulunun riyazi formasıdır. Əgər (1.44) bərabərliyində 
+hədlərin yerini dəyişsək,        
+( ) ( ) σ⋅−⋅=∂−⋅+±− Thghdggg BLRm 0419,03086,0  
+( )
+Th
+ghdggg BLRm
+−⋅
+∂−⋅+±−
+=
+0419,0
+3086,0σ        (3.10) 
+alınar. Bir halda ki, süxurların orta sıxlığından istifadə olunur, 
+onda Buge anomaliyasının orta qiyməti sıfır qəbul edilir. Bu 
+halda (3.10) bərabərliyi bxmy −⋅=  düz xətt tənliyinə çevrilir. 
+Əgər düzbucaqlı koordinat sistemində y oxunda 
+( )hdggg LRm ⋅+±− 3086,0 -nin qiymətlərini, x  oxunda 
+( )Th −⋅0419,0 -nin qiymətlərindən dəyişən funksiya kimi 
+(istənilən miqyasda) qeyd edib, alınmış nöqtələrdən düz xətt 
+keçirsək, bu düz xəttin x  oxuna nisbətən əyilməsi σ -nın 
+qiymətiolacaq. Aydındır ki, bu nöqtələr düz xətt üstündə Yerin 
+bircins olduğu halda daha səlis yığılacaqdır. Ancaq Yer bircins 
+olmadığından nöqtələr çox az hallarda düz xətt üstündə yığışır. 
+ 114
+Belə olmayan hallarda ən kiçik kvadratlar üsulundan istifadə 
+etmək lazımdır. 
+Sıxlığın bu üsulla hesablanması regional tədqiqat işlərində 
+yaramır. Kiçik ölçülü sahələrdə yüksək miqyaslı yüksək 
+dəqiqlikli qravii-kəşfiyyat işləri apardıqda bu üsulla sıxlığın 
+öyrənilməsi vacibdir. 
+3.5.2. Qravimetrik  metodla  sixliğin  təyin olunmasina  
+şaquli  qradiyentin  təsiri 
+Qravimetriyada ağırlıq qüvvəsinin anomal şaquli 
+qradiyenti – Yerin mərkəzinə doğru cazibə qüvvəsi hər bir 
+metrdə müəyyən qiymətlə təsir edir, yəni normal təcil yaranır. 
+Bu qiymət 
+m
+mQal3086,0 -dir. Yuxarıda qeyd olunmuşdur ki, 
+qravimetrik məlumatlara görə sıxlığın hesablanmasında 
+m
+mQal3086,0  kəmiyyətinə bərabər olan ağırlıq qüvvəsi şaquli 
+qradiyentinin ZZV  normal qiymətindən istifadə olunur. 
+Həqiqətdə isə şaquli qradiyent planalma sahəsində heç vaxt 
+sabit qiymət almır, həm regional, həm də lokal işlərdə ZZV -in 
+anomal qiymətləri müşahidə olunur. ZZV -in lokal anomaliyaları 
+üst qatların təsiri ilə əlaqədardır və bu təsir Bg  əyrisinin 
+inhirafına səbəb olur, bu halda verilmiş Buge düzəlişi dəqiq 
+ 115
+olmaz. ZZV -in regional anomaliyaları isə qradiyentin gətirilmə 
+səthinin inhirafına səbəb olur və hesablanmış Buge düzəlişi 
+müəyyən δ  xətası ilə hesablana bilər, yəni hər iki halda ZZV  
+müəyyn ZZV∆  qiymətini alar. Bu prosesi nəzərə almaq üçün 
+yerüstü və ya quyu qravimetrik müşahidələrin emalında istifadə 
+olunan Buge düzəlişində Hk δ⋅−= 0419,03086,0  sabitinə ZZV∆  
+xətasını əlavə etmək vacibdir, yəni 
+δδ ⋅−∆+=⋅−= 0419,03086,00419,03086,0 ZZH Vk       (3.11) 
+Buradan ZZV∆ -i hesablamaq mümkündür, yəni  
+0419,0
+ZZ
+H
+V∆
++= δδ  
+( )HZZV δδ −=∆ 0419,0                    (3.12) 
+burada ZZV∆  - şaquli qradiyentin normal qiymətdən fərqi, Hδ və 
+δ - uyğun olaraq ZZV -in hesablanmasında istifadə olunan 
+normal və real sıxlıqlardır. ZZV∆ -in hsablanması aktiv tektonik 
+rayonlarda xüsusən vacibdir.     
+ 
+ 
+ 
+ 116
+§4. QRAVITASIYA SAHƏSININ TRANSFORMASIYASI 
+Cazibə qüvvəsi təcilinin izoxətlərlə ifadə olunmuş xəritəsi 
+maqnit sahəinin tam vektorunun və ya şaquli təşkiledicisinin 
+xəritəsinə çox oxşayır. Ancaq qravitasiya sahəsinin xəritəsi 
+maqnt sahəsinin xəritəsinə nisbətən „hamar“ və ya „axımlı“dır. 
+Bu, qravitasiya sahəsinə təsir edən əsas arqumentlərdən biri 
+olan süxurların sıxlıqlar fərqinin dəyişməsinin, süxurların 
+maqnit nüfuzluğunun dəyişməsinə nisbətən az olması ilə izah 
+olunur. Qravitasiya xəritəsinin sadə və axımlı olması onun 
+geoloji interpretasiyasını çətinləşdirir, belə ki, bir çox geoloji 
+obyektlər qravitasiya sahəsində əsasən daha böyük və dərində 
+yatan strukturlar əks olunurlar. Analoji olaraq nəhəng 
+strukturların təsiri kiçik ölçülü strukutrların qravitasiya effektini 
+azaldır. Ancaq qravitasiya sahəsinin təfsilati analizi sahədə əks 
+olunmuş bütün obyektlrəi geoloji interpretasiya etməyə imkan 
+verir. Qravimetriyada müşahidə işlərinin maya dəyəri 
+interpretasiya işləri ilə birlikdə, digər geofiziki və geoloji işlərə 
+nisbətən çox ucuzdur. Bununla bahəm, qravimetrik 
+materialların interpretasiyasından alınan məlumatlar, öyrənilən 
+ərazinin geologiyası haqqında digər geofiziki və geoloji işlərə 
+nisbətən daha zəngindir. Bu həqiqətən belədir. Ancaq çox-çox 
+əfsuslar olsun ki, geofizikanın seysmik metodundan az və ya 
+ 117
+çox xəbəri olan da olmayan da geofizikanın digər metodlarını, 
+xüsusən qravimetriyanı, tanımaq belə istəmirlər. Bu, ilk 
+növbədə, metodun qavranılmamasından, başa düşülməmsindən, 
+idrakın qəbul etməməsindən irəli gəlir. Digər tərəfdən, haqq-
+ədalət naminə qeyd etsək, neft-qaz tələlərinin öyrəniməsində 
+seysmik metodu heç bir geofiziki metod əvəz edə bilməz. 
+Bundan başqa, bütün dünyada seysmik metoda çəkilən xərclər, 
+digər geofiziki metodlara çəkilən xərclərdən müqayisə olunmaz 
+dərəcədə çoxdur. Buradan da aydındır, hər hansı bir problemin 
+həllinə sərf olunmuş maliyə miqdarını nə olur olsun çıxarmaq 
+lazımdır. Bu səbəblərdən dünya geofizikləri arasında 
+xoşagəlməz „seysmoşovinizm dalğası“ tüğyan edir. Etiraf 
+etmək lazımdır ki, bu cür „dalğalar“ digər geofiziki əsas 
+metodların (qravimetriya, maqnitometriya, elektrometriya) 
+inkişaf olmasına ciddi maneçilik yaradır. 
+Qravimetrik materialların geoloji interpretasiyasını daha 
+dəqiq həyata keçirilməsi üçün əsasən Buge və ya Fay 
+reduksiyalarında qravimetrik xəritə son variantda tərtib 
+edildikdən sonra istifadə olunur. Bu, ilk növbədə qarşıya 
+qoyulmuş geoloji məsələdən asılıdır. Qravimetrik materialların 
+geoloji interpretasiyasında birinci və vacib məsələ qravimetrik 
+xəritənin transformasiyasıdır. Transformasiya – bir formadan 
+ 118
+başqa bir formaya çevrilmə mənasında işlədilir. Qravimetriyada 
+çevrilmə xəritənin əsasən iki formada: regional fon və lokal 
+anomaliya formasında ifadə olunması başa düşülür.  
+4.1. Regional fon, lokal və qaliq anomaliyalar 
+Yuxarıda qeyd olunduğu kimi, qravimetrik xəritədə əks 
+olunmuş anomaliyalar dərinlikdə yerləşən nəhəng strukturlarla 
+əlaqədardırlar. Qravimetrik məlumatların bu əlaməti regional 
+fon adlanır. Regional fonu qravimetrik xəritədən ayırmaq çox 
+ciddi problemdir. Problemin mahiyyəti ondan ibarətdir ki, 
+öyrənilən ərazinin geoloji və tektonik əlamətlərindən asılı 
+olaraq, qravimetrik xəritədə regional fon özünəməxsus formada 
+əks olunur. Regional fonu qravimetrik xəritədən ayırmaq üçün 
+trnsformasiyada istifadə olunan parametrlər, bu fonu yaradan 
+geoloji obyektlərin yatım elementlərinə, yəni yatma dərinliyinə, 
+sıxlığına və həndəsi ölçülərinə uyğun olmalıdır. Parametrlər 
+düzgün verilmədikdə ayrılmış regional fon, lokal və qalıq 
+anomaliyaların geoloji interpretasiyası tamamilə yanlış 
+nəticələrə gətirib çıxara bilər. Başqa bir tərəfdən, hətta ola bilsin 
+əsas əlamətlərin biri olan, regional fonun ayrılmasında planalma 
+işlərinn miqyası da müəyyən rol oynayır. Ola bilsin ki, bir 
+miqyasda ayrılmış fon, digər miqyasda lokal və ya qalıq 
+ 119
+anomaliya kimi qəbul olunsun. Bu əlamət lokal və ya qalıq 
+anomaliyalar üçün də doğrudur, yəni müəyyən bir miqyasda 
+olan lokal və ya qalıq anomaliya digər miqyas üçün regional fon 
+ola bilər. Bundan başqa, axtarış-kəşfiyyat işlərində öyrənilən 
+obyektlər də rol oynayır, yəni neft-qaz yataqlarının axtarışında 
+tədqiq olunan lokal və ya qalıq anomaliya filiz yataqları üçün 
+regional fon ola bilər. Ona görə də regional fon, lokal və ya 
+qalıq anomaliya dedikdə tədqiqat işləri aparılan əraziyə xas olan 
+geoloji və tektonik əlamətlər əsas rol oynayır. Bu faktordan asılı 
+olaraq transformasiyanın aparılması da düzgün seçilməlidir.  
+Qravimetriyada potensial sahənin transformasiyasının bir 
+neçə metodu övcuddur. Onlardan bir neçəsinin mahiyyəti 
+aşağıda verilir. 
+4.2. Ortalaşdırma və qrafiki metod 
+Transformasiyanın ən sadə üsulu „ütülənmə“ prinsipinə 
+əsaslanır. Bu, ilk növbədə cazibə sahəsinin axımlılığından irəli 
+gəlir. Yuxarıda qeyd olunmuşdur ki, cazibə potensialının bir 
+səviyyədən digər səviyyəyə kəskin keçirmək olmaz və bu asan 
+problem deyil. Ortalaşdırma və qrafiki metodun əsas mahiyyəti 
+bu əlamətdən irəli gəlir və transformasiya metodları arasında ən 
+geniş yayılan metoddur. Planalmanın profil və sahəvi 
+ 120
+aparılmasından asılı olaraq ortalaşdırma metodu profillər 
+boyunca və sahəvi aparılır. Qeyd etmək lazımdır ki, ilk dəfə rus 
+alimi V.R. Qriffin tərəfindən bu metod riyazi yolla təklif 
+olunduğu üçün Qriffin ortalaşdırma metodu da adlanır.  
+Regional fon anomaliyaları ortalaşdırma nəticəsində alınan 
+qravieffekdir. Qalıq və ya lokal anomaliyalar isə müşahidə 
+məntəqələrində qravimetrlə müşahidə olunan qiymətlərlə 
+ortalaşmış qiymətlər arasındakı fərqlərdir. Potensial sahələrin 
+bu metodla traansformasiyasının mahiyyəti aşağıdakı kimidir.  
+Profillər boyunca aparılan işlərin nəticələrinə görə 
+verilmiş miqyasda Bg∆  anomaliyaları əyrisi tərtib olunduqdan 
+sonra diskret addımı seçilir. Diskret addımı qrafikin tərtib 
+olunduğu miqyasdan asılı olmayaraq, əsasən sm1  götürülür. 
+Miqyasdan asılı olaraq, sm1 -in sabiti olur, məsələn sm1 -də 
+mQal5 . Diskret addımı seçiləndən sonra planalmanın miqyası 
+və qarşıda qoyulmuş geoldoji məsələdən asılı olaraq 
+transformasiya parametri seçilir. Transformasiya parametrinin 
+seçilməsi üçün tədqiqat işləri aparılan sahənin geologiyası 
+haqqında aprior məlumatlar əsas götürülür. Transformasiya 
+parametri ilə öyrənilən dərinlik haqqında aşağıdakı emprik 
+fomula məlumdur: 
+( ) Η⋅=Η⋅÷≈ kR 7,05,0  
+ 121
+Burada k - transformasiya parametri, Η - öyrənilən dərinlikdir. 
+Transformasiya parametri qəbul edildikdən sonra profil 
+boyunca hər bir müşahidə nöqtəsindəki g∆  anomal qiymətdən 
+transformasiya parametrinə uyğun qiymətlərin orta ədədi 
+qiyməti çıxılır. Transformasiya parametrinə uyğun qiymət 
+dedikdə müşahidə nöqtəsindən R  diskret addımı qədər sağda və 
+solda Bg∆  qrafikindən interpolyasiya olunmuş qiymətlər başa 
+düşülür. Orta ədədi qiymət 
+( ) ( )
+2..
+RgRgg qiymort
+−∆++∆
+=∆  
+ifadəsi ilə hesablanır. Burada ( )Rg +∆ - müşahidə nöqtəsindən 
+sağda, ( )Rg −∆ - isə müşahidə nöqtəsindən solda Bg∆  
+qrafikindən interpolyasiya olunmuş qiymətlərdir.  
+..qiymortmlok ggg ∆−∆=∆  
+İfadəsidən lokal anomaliyalar hesablanır. 
+Sahəvi planalma işlərində isə xüsusi paletkadan 
+(çərçivədən) istifadə edilir. Qarşıya qoyulmuş geoloji məsələyə 
+uyğun olaraq  transformasiyada istifadə olunan paletkalar 
+müxtəlif formalı olurlar: dairəvi, kvadratik, düzbucaqlı, 
+ellipsoid və s. Əgər bircinsli mühit üçün, yəni izotrop, 
+transformasiya həyata keçirilirsə, paletka kvadratik və ya 
+kvadratik götürülü, əksinə əgər qeyri-bircins götürülürsə, yəni 
+ 122
+anizotrop, onda paletka düzbugaqlı və ya ellipsvari götürülür. 
+Axtarış-kəşfiyyat və elmi-tədqiqat işlərində ən çox istifadə 
+olunan paletka dairəvi fomalıdır. Paletkanın radiusu 
+transformasiyanın parametri rolunu oynayır və onun seçilməsi 
+eynilə profil boyunca olduğu kimidir. Profil boyunca 
+ortalaşdırma anomaliyaların intensivliyi və amplitudları məlum 
+olduqda aparılır. Profil boyunca transformasiyada məqsəd lokal 
+və regional anomaliyaların geoloji təşkiledicilərinin ölçülərini 
+dəqiq öyrənməkdir. Sahə boyunca transformasiya lokal və 
+regional fon anomaliyalarının müşahidə olunmuş qravitasiya 
+sahəsində görünməz olduğu halda aparılır. Məsələn, müşahidə 
+olunmuş sahə çox mürəkkəb formalı (xoatik, kəskin qradiyentli 
+və s.), eyni zamanda, müşahidə olunan sahə sadə formalı 
+olduqda belə onun onun lokal təşkilediciləri görünməz olur. Hər 
+iki halda sahə boyunca transformasiya apararkən istifadə olunan 
+paletkanın mərkəzi müşahidə nöqtəsində yerləşdirilir. 
+Paletkanın düyün nöqtələrinə düşən Bg∆ interpolyasiya 
+qiymətləri qeyd olunur və onların orta ədədi qiyməti hesablanır. 
+Yuxarıda göstərilən formulalarla lokal və regional fon 
+anomaliyaları hesablanır. 
+ 123
+Paletkanın düyün nöqtələrindəki qiymətlər transformasiya 
+parametrindən asılıdır, yəni paletkanın formasından asılı olaraq 
+düyün nöqtələrinin sayı da dəyişir. 
+Sahəvi transformasiya ilk dəfə olaraq V.P.Qriffin (Griffin 
+W.R., 1949) və L.A.Andreyev tərəfindən təklif olunub. Ona 
+görə də bu üsula qravimetriyada Andreyev-Qriffin üsulu da 
+deyilir. Bu üsulun fiziki və riyazi mənası ondan ibarətdir ki, 
+müşahidə olunmuş Bg∆  qiymətlərindən regional fon və lokal 
+anomaliyaları ayırmaq üçün müşahidə olunmuş Bg∆  
+anomaliyaların ikinci tərtib törəməsi hesablanır. Bu 
+transformasiya üsulunda regional fon müşahidə nöqtəsi 
+ətrafında orta qiymətdir, yəni 
+( ) ( ) θθ
+π
+π
+dRgRg ∫=
+2
+0
+1,2
+1                        (3.13) 
+Burada R - paletkanın parametri, θ - düyün nöqtəsinə doğru 
+R parametrnin azimutudur. Bu formulada iştirak eliyən 
+inteqralı, paletkanın parametrlərinə uyğun düyün nöqtələrində 
+Bg∆  interpolyasiya qiymətlərinin cəmi kimi qəbul etsək, 
+( ) ( ) ( ) ( )
+n
+RgRgRgRg nθθθ ,...,, 211 +++=                 (3.14) 
+ 124
+alınar. Təcrübədə ( )θ,Rg  qiymətləri qravimetrik xəritədə 
+interpolyasiya üsulu ilə paletkanın düyn nöqtələrindən 
+götürülür. 
+Bu üsulla alınmış fon anomaliyasına görə lokal anomaliya 
+hesablanır və beləliklə hər iki anomaliya müşahidə olunmuş  
+Bg∆  anomaliyasının ikinci tərtib törəməsi hesab olunur. Alınan 
+nəticələrin daha inamlı olmaı üçün palekanın ölçülərinin düzgün 
+seçilməsi vacib problemdir. Paletkanın parametri kiçik olduqda 
+regional fon müşahidə qiymətlərinə yaxın alınır, əksinə 
+parametr böyük lduqda regional fon daha uzaqdakı obyektlərin 
+təsirini özündə cəmləşdirəcək və hesablanmış fon və lokal 
+anomaliyaların inhiraf səviyəisini qaldıragaq və geoloji obyekt 
+haqqında yanlış təsəvvür yaranacaq. 
+4.3. Qalıq  və  üçüncü  tərtib  törəmə anomaliyaları 
+Hər hansı bir analitik funksiyanın ( )[ ]xf n  yüksək tərtibli 
+törəməsi özündən əvvəlki tərtibdən olan ( )[ ]xf n 1−  törəmənin 
+nəzərə almadığı effektləri daha qabarıq büruzə vermək, üzə 
+çıxarmaqdır. Bu mənada, cazibə qüvvəsi təcilinin yüksək tərtibli 
+törəmələrinin hesablanmasının böyük əhəmiyyəti var. Cazibə 
+qüvvəsi təcilinin yüksək tərtibli törəməsinin hesablanmasının 
+fiziki mənası – müşahidə nöqtəsi yaxınlığında yerləşmiş 
+ 125
+obyektlərdən alınan qravitasiya effektləri daha qabarıq büruzə 
+verməklə yanaşı, uzaqda yerləşmiş obyektlərin qravitasiya 
+effektini azaltmaqdır. Başqa sözlə, regional fon və lokal 
+anomaliyaların intensivliyini daha da gücləndirir. Ancaq bu 
+güclənmə müəyyən hədd daxilindədəir, yəni müəyyən 
+hesablamadan sonra əks proses baş verir, bu zaman geoloji 
+interpretasiyaya xüsusi fikir verilməlidir. 
+Beləliklə, belə bir nəticə alınır ki, müxtəlif tərtiblərdən 
+alınan regional fon və ya lokal anomaliyaların arasında fərq 
+olmalıdır. Qravimetriyada bu fərqə qalıq anomaliya deyilir. 
+Qalıq anomaliyaların ən sadə forması transformasiyada istifadə 
+olunmuş paletkanın radiusları arasında olan fərqə görə 
+hesablanmış anomaliyalardır. Bu anlayışı ilk dəfə olaraq bir-
+birindən asılı olmayaraq Saksov və Niqard təklif etdiyinə görə 
+qravimetriyada Saksov-Niqardın qalıq anomaliyaları adlanır və 
+aşağıdakı emprik formula ilə hesablanır: 
+( ) ( )
+12
+21
+.. RR
+RgRgg aq −
+−
+=∆                        (3.15) 
+burada ( )1Rg  və ( )2Rg  radiuslarında alınan lokal anomaliya, 1R  
+və 2R  isə planalmanın miqyasına uyğun olan ədədi 
+qiymətlərdir. 
+ 126
+Yuxarıda qeyd olunmuşdur ki, cazibə təcilinin yüksək 
+tərtibli törəməsi sətyanı amillərin təsirini daha da gücləndirir. 
+Belə olan halda qalıq anomaliya ilə yüksək tərtbli törəmə 
+arasında fərq olmalıdır. Həqiqətən, yüksək tərtibli törəmənin 
+fiziki mənası törəmə hesablanan nöqtədə müşahidə olunmuş 
+Bg∆  əyrisinin əyilmə ölçüsüdür, yəni şaquli törəməsidir. 
+Əyilmə qiymətinin dəyişməsi isə qalıq anomaliyalarla bilavasitə 
+əlaqədardır. Bu mənada qalıq anomaliyaların fiziki mənası 
+müşahidə nöqtəsində Bg∆  əyrisinin toxunan və ya horizontal 
+törəməsidir. Təbii olaraq, yüksək tərtibli şaquli və horizontal 
+törəmə arasında fərq olmalıdır. Belə bir mülahizənin üstündə ilk 
+dəfə nəzəri olaraq, Elkins (Elkins T.A., 1955) işləmişdir və bu 
+nəzəriyyəinin əsas mahiyyəti aşağıdakı kimidir. 
+Məlum olduğu kimi ( )zyxg ,,  funksiyası hər hansı bir 
+oblastda hormonikdir, yəni bu funksiyanın verilmiş oblastda 
+kəsilməz yüksək tərtibli törəməsi var və Laplas tənliyini ödəyir. 
+0=z  olduqda, yəni qravimetrik xəritənin tərtib olunduğu 
+müstəvi, aşağıdakı funksiya doğrudur, 
+( ) ( ) θθθ
+π
+π
+drrgrg ∫ ⋅⋅=
+2
+0
+0,sin,cos
+2
+1                (3.16) 
+çünki bu funksiya 0=z  olmaqla z  radiuslu sferik fəzanın hər 
+hansı müşahidə nöqtəsində və müşahidə nöqtəsi sferanın 
+ 127
+mərkəzində olmaq şərti ilə ( )zyxg ,,  cazibə təcilinini orta 
+qiymətidir. Bu funksiya 0=z  ətrafında yığılan və hormonik 
+olan aşağıdakı sıraya ayırmaq olar: 
+( ) nn rararaarg ⋅++⋅+⋅+= ...44220            (3.17) 
+Göründüyü kimi bu ifadədə r -in tək qüvvətləri nəzərə 
+alınmayıb. Ona görə ki, (1.62) ifadəsində θmsin , θncos  
+hədlərini nmr +  həddinə vurmaq lazım gələrdi. Belə olduqda isə 
+π20÷  intervalında inteqrallandıqda nm +  cüt ədəd olduğundan 
+inteqral sıfır qiymətini alar. 
+Laplas tənliyini aşağıdakı kimi yazıb 
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
+−=
+∂
+∂
+2
+2
+2
+2
+2
+2
+y
+g
+x
+g
+z
+g  
+( )yx,  müstəvisində polyar koordinat sisteminə keçib 
+θθ sin,cos ⋅=⋅= ryrx   
+və Laplas tənliyinin hər iki tərəfini  θ -ya görə π20÷  
+intervalında inteqrallasaq 
+θ
+θ
+θθ
+πππ
+dg
+r
+dg
+rrr
+d
+z
+g
+∫∫∫ ∂
+∂
+−⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+⋅+
+∂
+∂
+−=
+∂
+∂ 2
+0
+2
+22
+0
+22
+22
+0
+2
+2 11    (3.18) 
+alarıq. Bu bərabərliyin sağ tərəfinin ikinci həddi 
+inteqrallandıqdan sonra 
+π
+θ
+2
+0
+2
+1
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+⋅
+g
+r
+ ifadəsini alır və sıfra çevrilir. 
+(1.64) bərabərliyini 0=z  olmaqla hər iki tərəfini π2 -yə bölsək  
+ 128
+( ) ( )rg
+rrr
+d
+z
+zrrg
+z
+⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+⋅+
+∂
+∂
+−=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+⋅⋅⋅∂
+=
+∫
+1sin,cos
+2
+1
+2
+2
+0
+2
+0
+2
+2
+θθθ
+π
+π
+   (3.19) 
+alınar. 0→r  yaxınlaşmaqla ( )rg -in (1.62) ifadəsindəki 
+qiymətini nəzərə alsaq,  
+( ) 2
+0,0
+2
+0
+2
+2
+4,sin,cos
+2
+1 ad
+z
+zrrg
+zr
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⎭
+⎬
+⎫
+⎩
+⎨
+⎧
+∂
+⋅⋅∂
+==
+∫ θ
+θθ
+π
+π
+    (3.20) 
+alınar. Əgər (3.20) bərabərliyini 0=z  olmaqla 2z -na görə 
+differensiallasaq 
+( )
+2
+2 ar
+g
+=
+∂
+∂  
+alarıq. Bu o deməkdir ki, 0== zr  oduğu halda cazibə 
+potensialı təcilinin dəyişməsinin yüksək tərtibli törəməsini 
+qrafiki yolla da hesablamaq olar. Əgər hər hansı bir nöqtə üçün 
+bir neçə radiusda ( )rg -i hesablasaq və 2z -dan asılı olaraq 
+düzbucaqlı koordinat sistemində qeyd etsək, nəticəvi əyrinin 
+koordinat mərkəzinə görə əyilməsi 2a -na bərabər olacaqdır. Bu 
+kəmiyyəti 4− -ə vursaq 
+2
+2z
+g
+∂
+∂ -ni alarıq. Digər nöqtə üçün 0=r  
+koordinat mərkəzi olmaqla 0=z  müstəvisini diskret addımı 
+qədər sürüşdürürük. 
+Yüksək tərtibli törəmənin qrafiki yolla hesablanması üçün 
+çox vaxt tələb olunur və dəqiq olmur, eyni zamanda çox 
+ 129
+sadədir. Yüksək tərtibli törəmə daha dəqiq bir neçə müxtəlif 
+radiuslu analitik çevrədən istifadə etməklə hesablanır. Hər 
+çevrədə alınan effekt ölçü sabitinə vurulur. Bu üsul bir-birindən 
+asılı olmayaraq bir neçə alim tərəfindən irəli sürülmüşdür və 
+nəzəri olaraq aşağıdakı kimi ifadə olunur. 
+( )122110022
+2
+... +⋅++⋅+⋅+⋅=∂
+∂
+nn gkgkgkgkS
+k
+z
+g   (3.21) 
+burada 0g - müşahidə nöqtəsində cazibə potensialının təcili 
+(çevrənin mərkəzində), ,1g 2g - ardıcıl olaraq məntəqələrdə 
+cazibə potensialı təcilinin orta qiyməti, 0k , 1k - ölçü sabitləri 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+=∑
+n
+ik
+0
+0 , k - ədədi vurğu, S - müşahidə nöqtələri arasındakı 
+məsafə və ya diskret addımıdır və bu parametr miqyasa uyğun 
+olaraq km -lə ifadə olunur.  
+Çevrənin radiusu müşahidə şəbəkəsinin ölçülərindən 
+asılıdır. Msələn, əgər planalma kvadratik şəbəkə üzrə S  addımı 
+ilə aparılıbsa, onda çevrənin uyğun radiusları S , S2 , S5  və 
+s. olar. Bu sahədə ən sadə və dəqiq formula R.G. Henderson və 
+J. Zeyts (Henderson R.G. Ziets J., 1949) tərəfindən irəli sürülüb 
+və aşağıdakı kimidir: 
+( )2102
+2
+432 ggg
+z
+g
++−=
+∂
+∂                 (3.22) 
+ 130
+Yuxarıda qeyd etmişdik ki, k - ədədi vurğudur. Bu ədədi vurğu 
+regional dəyişkəndir, yəni öyrənilən ərazinin geologiyası ilə 
+əlaqədardır. Əsasən, süxurların stratiqrafiyası ilə izah olunur. 
+Azərbaycan ərazisi üçün bu vurğu vahid qəbul olunub və 
+aşağıdakı formulaya görə mərhum professor T.S. Əmiraslanov 
+tərəfindən yüksək tərtibli törəmənin hesablanması üçün xüsusi 
+proqramlar toplusu tərtib edilib (Allah rəhmət eləsin). 
+( )4321022
+2
+97,024,028,059,069,01 ggggg
+Sz
+g
+⋅−⋅−⋅+⋅+⋅=
+∂
+∂  (1.68) 
+burada 
+2
+11
+1
+−+=
+ggg ; 
+2
+22
+2
+−+=
+ggg ; 
+2
+33
+3
+−+=
+ggg ; 2
+44
+4
+−+=
+ggg  
+ 131
+N Ə T İ C Ə  
+Beləliklə, bu dərs vəsaiti müəllifin şəxsi cəhdi və əməyi 
+nəticəsində tərtib olunmuş və Bakı Dövlət Universiteti, 
+“Seysmologiya və Yer təkinin fizikası” kafedrasında “Qravi-
+kəşfiyyat” fənnin pqoqramı əsasında apardığı müzahirə və 
+seminar məşğələlərində rast gəldiyi əsas məqamlar nəzərə 
+alınmışdır. Müəllif əmindir ki, kitab oxucuların irad və 
+tövsüyyələrinə məruz qalacaq. Oxucuların bütün irad və 
+tövsüyyələrinə müəllif əvvəlcədən öz minnətdarlığını bildirir. 
+ 
+Qeyd: Kitabın üz qabığında verilmiş qrafiki təsvirlər 
+Rusiya Elmlər Akademiyası, Yerin Maqnetizmi İnstitutunun 
+əməkdaşı V.A.Blednovun “Gizlənmiş kütlə və cazibə haqqında” 
+məqaləsindən götürülmüşdür. Nyutonun ümumdünya cazibə 
+qanununa görə “qarşılıqlı cazibə qüvvəsi mövcud kütlə 
+hesabına” həyata keçirilir. V.A.Blednov hesab edir ki, bu 
+“mövcud kütlə” Qalaktikanın, ulduz və planetlər sisteminin, 
+eləcə də planet peyklərinin fırlanması nəticəsində yaranan xəyali 
+varlıq və ya fəza strukturudur. Bu fəza strukturu hər bir planetə 
+və onun peykinə (əgər peyk varsa) xasdır, ancaq onlar öz 
+aralarında oxşardırlar. Bu cür fəza strukturlarını müəllif 
+“gizlənmiş kütlə” adlandırır və hesab edir ki, cazibə sahəsini 
+kütlə yox, fırlanma nəticəsində yaranmış fəza strukturu yaradır. 
+Bu elmi nəticə böyük QURAN-la əhyə olunan “Kainatın 
+yaranması haqqında” ayələrə çox yaxındır və bir daha təsdiq 
+edir ki, QURAN-da verilənlər kainat həqiqətləridir...    
+ 132
+Ə D Ə B İ Y Y A T  
+1. Lukavçenko P. İ., Qravimetriçeskaə razvedka na neftğ i 
+qaz, M., 1956;  
+2. Veselov K. E., Saqitov M. U., Qravemetriçeskaə 
+razvedka, M., 1968; Spravoçnik qeofizika, t. 5, M., 1968. 
+3. Veselov K.E. Qravimetriçeskaə scёmka. Moskva: 
+„Nedra“, 1986, 312s. 
+4. Qravirazvedka (spravoçnik qeofizika). Moskva: „Nedra“, 
+1981, 397s. 
+5. Qravirazvedka (spravoçnik qeofizika). Moskva: „Nedra“, 
+1990, 607s. 
+6. Qruşinskiy N.P. Osnovı qravimetrii. Moskva: „Nauka“, 
+1983, 350s. 
+7. Qruşinskiy N.P., Qruşinskiy A.N. V mire sil təqoteniə. 
+Moskva: „Nedra“, 1985, 150s. 
+8. Mudreüova E.A., Baronov A.S., Filatov V.Q., Komarova 
+Q.M. İnterpretaüiə dannıx vısokotoçnoy qravirazvedki na 
+nestrukturnıx mestorojdeniəx nefti. Moskva: „Nedra“, 1979, 
+196s. 
+9. Maloviçko A.K., Kostiüın V.İ., Tarunina L.L. Detalğnaə 
+qravirazvedka na neftğ i qaz. Moskva: „Nedra“, 1979, 367s.  
+10. Şraybman V.İ., Jdanov M.S., Vitiükiy O.V. 
+Korreləüionnıe metodı preobrazovaniə i interpretaüii 
+qeofiziçeskix anomaliy. Moskva: „Nedra“, 1977, 237s. 
+11. Qruşinskiy H. P., Teoriə fiqurı Zemli, 2 izd., M., 1976;  
+12. Pellinen L. P., Bısşaə qeodeziə, M., 1978;  
+13. Burşa M., Osnovı kosmiçeskoy qeodezii, per. c çeş., ç. 2, 
+M., 1975.    

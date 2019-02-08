@@ -1,0 +1,36 @@
+Proqram tәminatının tәtbiqi üzrә 
+TӘLİMAT 
+1 vBooks proqram tәminatını Android platformasında mobil qurğuya yüklәmәk üçün GooglePlay standart proqramına keçmәk lazımdır. 1 
+2 vBooks proqramını telefona yüklәyib sazlayandan sonra proqram tәminatını yüklәmәk üçün müvafiq nişanı tapırsınız. 2 
+3 Proqramı işә salanda onun әsas menyu pәncәrәsinә düşürsünüz. 3 
+4 
+Sizin qarşınızda iki üfüqi zolaq açılacaq. Hәmin zolaqlarda kitabların adları vә üz qabıqları yerlәşir. 
+Üst zolaqda Virtual kitabxanaya yüklәnmiş son kitablar, alt zolaqda isә Virtual kitabxananın әn çox oxunan kitabları göstәrilir. 
+4 
+5 
+Әsas pәncәrәnin yuxarı hissәsindә daha bir zolaq - kitabların axtarışı zolağı var. 
+Universal axtarış Sizә lazım olan kitabları hәm kitabların müәlliflәrinә görә, hәm dә kitabın adına görә axtarmaq imkanı verәcәk. 
+5 
+6 
+Sizә lazım olan kitabı tapandan sonra, “YÜKLӘ” düymәsini basıb hәmin kitabı öz telefonunuza yüklәyә vә ya kitabın özünün ikonasını 
+basıb onu oxuya bilәrsiniz. 
+6 
+7 Kitabı telefona yüklәyәndә o, “Mәnim kitablarım” bölmәsinә düşür. Siz kitabı hәmin bölmәdә açıb oxuya bilәrsiniz. 7 
+8 “Mәnim kitablarım” bölmәsinә proqram pәncәrәsinin yuxarı sol küncündә yerlәşәn menyu vasitәsilә keçә bilәrsiniz. 8 
+9 Kitabı oxuyanda o, açılmış vә artıq oxunmuş kitab kimi qeyd edilir. 9 
+10 Kitabı oxuyarkәn, Siz mütaliәni dayandırdığınız sәhifәyә әlfәcin yerlәşdirә bilәrsiniz. 10 
+11 
+“Mәnim kitablarım” bölmәsindә filtrlәr tәtbiq etmәk olar. 
+Filtrlәri kateqoriyalar üzrә, әlfәcinli kitablar üzrә vә hәlә oxumadığınız kitablar üzrә tәtbiq etmәk olar. 
+11 
+12 Menyuda hәmçinin, Sizә lazım olan kitablar kateqoriyasına da keçә bilәrsiniz. 12 
+13 Bundan әlavә, oxunmuş kitabları “Mәnim kitablarım” bölmәsindәn silmәk olar. 13 
+14 
+Oxumaqda olduğunuz kitabda sizә lazım olan mәtni axtarmaq, mәtnin seçilmiş fraqmenti üzәrindә sonradan müәyyәn әmәliyyatlar 
+aparmaq üçün hәmin fraqmenti mübadilә buferinә köçürmәk olar. 
+14 
+15 
+Menyudakı elementlәrdәn biri “HAQQINDA” adlanır. 
+Burada proqramın cari versiyasına vә tәşkilatların bu proqramın hazırlanması haqqında tәşәbbüsünә dair informasiya verilmişdir. 
+15 
+*** vBooks Mobil Kitabxana proqramını  smartfonlar vә planşet üçün nәzәrdә tutulan vasitәsi ilә telefonuna  *** "QR scaner" yüklə

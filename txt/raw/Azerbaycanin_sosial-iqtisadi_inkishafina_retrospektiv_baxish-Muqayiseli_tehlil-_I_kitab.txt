@@ -1,0 +1,3346 @@
+MEHDİYEV X.O. 
+ 
+ 
+ 
+ 
+ 
+AZƏRBAYCANIN SOSİAL-
+İQTİSADİ İNKİŞAFINA 
+RETROSPEKTİV BAXIŞ: 
+müqayisəli təhlil 
+ 
+(I KİTAB) 
+ 
+ 
+ 
+ 
+ 
+ 
+Bakı  2015 
+Elmi redaktoru: AMEA İqtisadiyyat İnstitutunun 
+“Maliyyə, pul-kredit siyasəti” 
+şöbəsinin müdiri Tanrıverdi Paşa 
+ 
+ Rəyçilər:                 aparıcı elmi işçi, i.e.n. Ə.B.Sarıyev 
+                                 aparıcı elmi işçi, i.e.n S.Seyidova 
+ 
+Annotasiya: Bu kitab Azərbaycanın sovet və müstəqillik 
+dövründə sosial-iqtisadi inkişafına retrospektiv bir baxışdır. 
+Kitabda təhlil olunan materiallar Azərbaycan Respublikasında 
+həyata keçirilən bazar islahatlarının sosial-iqtisadi nəticələrinin 
+müasir qiymətləndirilməsi baxımından da aktualdır. Təqdim 
+etdiyimiz nəşri ağ kitab da saymaq olar. Bu, o deməkdir ki, burada 
+daha çox müəllifin fikirləri və rəyləri deyil, faktiki materiallara 
+üstünlük verilmişdir. Bunları əyani təsvir etmək üçün müəllif, 
+rəsmi statistik məlumatlar əsasında 100-dən artıq qrafik və cədvəl 
+tərtib etməklə, Azərbaycan iqtisadiyyatının ümumi mənzərəsini 
+verməyə çalışmışdır.  
+Kitab Azərbaycanın keçmişi və gələcəyi haqqında düşünən 
+hər kəs üçün nəzərdə tutulmuşdur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           © Mehdiyev X.O., 2015 
+ISBN:978-9952-8032-4-2                 © Tərtibatçı. Ideal-Print, 2015 
+ 
+ 
+ 
+2 
+ 
+ 
+MÜNDƏRİCAT 
+ GİRİŞ..................................................................... 9 
+      1. ƏHALİ................................................................... 14 
+1.1. Demoqrafik vəziyyət.............................................. 14 
+1.2. Yeyinti məhsullarının istehsalı və istehlakı............. 22 
+1.3. Gəlirlər.................................................................... 30 
+2. SƏNAYE................................................................ 39 
+2.1. Energetika............................................................... 43 
+2.2. Elektroenergetika..................................................... 46 
+2.3. Metallurgiya............................................................. 47 
+2.4. Maşınqayırma........................................................... 53 
+2.5. Kimya sənayesi ....................................................... 56 
+2.6. İstehlak məhsullarının istehsalı ............................... 59 
+      3. TİKİNTİ................................................................... 64 
+      3.1. Tikinti materiallarının istehsalı................................. 64 
+ 3.2. Tikinti sektorunun maşın təminatı .......................... 67 
+ 3.3. Yaşayış və sosial mədəni obyektlərin tikintisi.......... 69 
+4. KƏND TƏSƏRRÜFATI........................................ 74 
+  4.1. Kənd təsərrüfatında çalışan əhali və məhsuldarlıq... 77 
+  4.2 Kənd təsərrüfatının mineral gübrələr və  
+texnika ilə təminatı.................................................... 78 
+  4.3. Bitkiçilik................................................................... 82 
+  4.4. Heyvandarlıq............................................................. 91 
+5. NƏQLİYYAT......................................................... 96 
+6. MALİYYƏ.............................................................. 103 
+ YEKUN................................................................... 110 
+ İSTİFADƏ OLUNMUŞ ƏDƏBİYYAT .............. 111 
+ РЕЗЮМЕ………………………………………… 112 
+ RESUME…………………………………………. 112 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ŞƏKİLLƏR:  
+Şəkil 1. Təbii artım (əhalinin hər 1000 nəfərinə)................ 14 
+Şəkil 2. Doğulanların və ölənlərin sayı............................... 15 
+Şəkil 3. Xəstəxana çarpayıları............................................ 17 
+Şəkil 4. Xəstəxana xidmətlərinin qiyməti, manatla   
+(1 xidmət)............................................................... 18 
+Şəkil 5. Sanatoriyaların və müalicə pansionatlarının sayı... 19 
+Şəkil 6. Qeyri-rəsmi nikahda doğulan uşaqlar................... 20 
+Şəkil 7. Məktəbəqədər təhsil müəssisələrinin sayı.............. 21 
+Şəkil 8. Kolbasa məmulatlarının istehsalı (min ton)........... 23 
+Şəkil 9. Duz istehsalı (min ton).......................................... 24 
+Şəkil 10. Təbii çay istehsalı (min ton)................................... 25 
+Şəkil 11. Makaron məmulatı istehsalı (min ton)................... 25 
+Şəkil 12. Üzüm şərabı istehsalı (min dkl.)............................ 26 
+Şəkil 13. Ət və ət məhsullarının adambaşına istehlakı, 
+ ildə  kiloqramla.................................................... 28 
+Şəkil 14. Süd və süd məhsullarının adambaşına 
+ istehlakı, ildə kiloqramla...................................... 28 
+Şəkil 15. Yumurtanın adambaşına istehlakı, ildə ədəd......... 29 
+Şəkil 16. İstehlak qiymətləri indeksi (ilin sonuna)............... 32 
+Şəkil 17. Minimum əmək haqqının yaşayış minimum  
+ilə müqayisəsi (manatla)....................................... 34 
+Şəkil 18. İstehlak xərcləri və cəmi gəlirlərin 
+ müqayisəsi (manatla)........................................... 35 
+Şəkil 19. Kütləvi kitabxanaların sayı..................................... 37 
+Şəkil 20. Teatrlara gələnlərin sayı, min nəfər........................ 38 
+Şəkil 21. Sənaye istehsalının indeksləri, faizlə (1990=100).. 40 
+Şəkil 22. Neft hasilatı............................................................ 43 
+Şəkil 23. Elektrik enerjisi istehsalı........................................ 46 
+Şəkil 24. Dəmir filizi istehsalı, min ton................................. 47 
+Şəkil 25. Polad istehsalı, min ton.......................................... 48 
+Şəkil 26. Polad boruların istehsalı, min to............................. 48 
+Şəkil 27. Qara metal prokatı, min ton.................................... 49 
+Şəkil 28. Rezin və plastmas məmulatlar istehsalı, min ton... 50 
+Şəkil 29. Ştanqlı quyu nasosları, min ədəd............................ 53 
+4 
+ 
+Şəkil 30. Mancanaq dəzgahlarının istehsalı (min ədəd)........ 54 
+Şəkil 31. Məişət avadanlıqları istehsalı................................. 54 
+Şəkil 32. Sulfat turşusu istehsalı (min ton)............................ 56 
+Şəkil 33. Kaustik soda (maye) istehsalı (min ton)................ 57 
+Şəkil 34. Bütün növ parçaların istehsalı (milyon kv.metr).... 59 
+Şəkil 35. Xalça və xalça məmulatları (min kv.metr)............. 60 
+Şəkil 36. Mebel istehsalı........................................................ 63 
+Şəkil 37. Sement istehsalı (min ton)...................................... 64 
+Şəkil 38. Yığma dəmir beton konstruksiyaların  
+istehsalı, min kub m............................................... 65 
+Şəkil 39. Pəncərə şüşəsinin istehsalı, min kv. Metr ............ 66 
+Şəkil 40. Keramik plitələrin istehsalı (min kv.metr)............. 66 
+Şəkil 41. Hərəkətedici kranlar, ilin sonuna sayı, ədəd 68 
+Şəkil 42. Yaşayış evlərinin tikintisi (ümumi sahə,  
+min kv.metr).......................................................... 69 
+Şəkil 43. Ümumtəhsil məktəblərinin istifadəyə verilməsi 
+(sayı) ..................................... ................................ 70 
+Şəkil 44. Məktəbəqədər təhsil müəssisələrinin istifadəyə 
+verilməsi (yer) ....................................................... 70 
+Şəkil 45. Xəstəxana müəssisələrinin istifadəyə verilməsi 
+(çarpayı sayı) ........................................................ 71 
+Şəkil 46. Su kəməri xətlərinin istifadəyə verilməsi, kilometr 
+..................................... .......................... 72 
+Şəkil 47. Kanalizasiya xətlərinin istifadəyə verilməsi, 
+kilometr 73 
+Şəkil 48. Qaz xətlərinin istifadəyə verilməsi, kilometr 73 
+Şəkil 49. Кənd təsərrüfatı bitkilərinin əkin sahələri  
+(cəmi, 1000 hektar) ............................................... 75 
+Şəkil 50. Kənd təsərrüfatında məşğul işçilərin sayı (nəfər) 77 
+Şəkil 51. Kənd təsərrüfatında əkinlərə mineral  
+gübrələrin verilməsi (cəmi, 1000 ton).................... 79 
+Şəkil 52. Traktorların sayı, ilin sonuna (1000 ədəd)............ 80 
+Şəkil 53. Taxılyığan kombaynların sayı, ilin sonuna 
+ (1000 ədəd) .......................................................... 81 
+Şəkil 54. Taxıl: ümumi yığım, təmiz çəkidə 
+ (bütün təsərrüfat  kategoriyalarında) 83 
+5 
+ 
+ (adambaşına kiloqramla)...................................... 
+Şəkil 55. Kartof istehsalı (ton) və kartofun məhsuldarlığı 
+(sent/ha).................................................................... 85 
+Şəkil 56. Tərəvəz və bostan bitkilərinin isthesalı (1000 ton) 86 
+Şəkil 57. Tərəvəz və ərzaq bostan bitkilərinin məhsuldarlığı 
+(sent/ha) ..................................... ........................... 87 
+Şəkil 58. Şəkər çuğundurunun istehsalı və məhsuldarlığı 88 
+Şəkil 59. Çay: yaşıl çay yarpağının ümumi yığımı 
+ (1000 ton) ............................................................... 89 
+Şəkil 60. Ət istehsalı, kəsilmiş çəkidə (1000 ton) 92 
+Şəkil 61. Silos və yaşıl yem üçün qarğıdalı istehsalı  
+və əkin sahəsi ... ...................................................... 94 
+Şəkil 62. Pambıq istehsalı və əkin sahəsi .............................. 95 
+Şəkil 63. Nəqliyyat sektorunda yük daşınması, 1000  
+ton (bütün nəqliyyat növləri üzrə cəm) .................. 96 
+Şəkil 64. Nəqliyyat sektoru və emal sənayesi arasındakı 
+əlaqə ...................................................................... 97 
+Şəkil 65. Dəmir yolu ............................................................. 98 
+Şəkil 66. Dəniz nəqliyyatı ..................................................... 100 
+Şəkil 67. Avtomobil nəqliyyatı ............................................. 100 
+Şəkil 68. Dövlət borcuna xidmətlə bağlı xərclərin 
+ cəmi büdcə xərclərində payı................................... 108 
+ 
+CƏDVƏLLƏR: 
+Cədvəl 1. Səhiyyənin inkişafı və tibbi kadrlar. ..................... 17 
+Cədvəl 2. Ayrı-ayrı səhiyyə xidmətlərinin qiymətləri, 
+manatla ..................................... ......................... 19 
+Cədvəl 3. Məktəbəqədər təhsil müəssisələrinin xidməti 
+ (adi tipli uşaq bağçası) .......................................... 21 
+Cədvəl 4. Bəzi qida, tütün məmulatlarının və spirtli 
+ içkilərin istehsalı..................................... ............. 23 
+Cədvəl 5. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(hazır ərzaq məhsulları, spirtli və spirtsiz içkilər, 
+sirkə, tütün) ..................................... ..................... 27 
+Cədvəl 6. Ərzaq məhsullarının adambaşına istehlakı, 
+ ildə kiloqramla...................................................... 29 
+6 
+ 
+Cədvəl 7. Ev təsərrüfatlarında ayda adambaşına  
+düşən gəlirlər....................................... .................. 30 
+Cədvəl 8. Gəlirin alıcılıq qabiliyyəti (kq-la).......................... 33 
+Cədvəl 9. Nominal əmək haqqı (mədənçıxarma sənayesində 
+olan əmək haqqının hissəsi kimi) 36 
+Cədvəl 10. Sənaye istehsalının mülkiyyət formalarına  
+görə strukturu, yekuna nisbətən, faizlə................... 41 
+Cədvəl 11. Dövlət və qeyri-dövlət ali təhsil müəssisələrini 
+bitirən mütəxəssislərin istiqamətlər üzrə bölgüsü... 42 
+Cədvəl 12. Sənaye istehsalının mülkiyyət formalarına 
+ görə strukturu, yekuna nisbətən, faizlə.................. 44 
+Cədvəl 13. 2013-cü il üzrə idxal və ixracın əmtəə 
+ strukturu (mineral məhsullar)................................ 45 
+Cədvəl 14. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(plastik kütlələr, kauçuk, rezin, onlardan 
+hazırlanan məmulatlar)........................................... 51 
+Cədvəl 15. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(azqiymətli metallar və onlardan hazırlanan 
+məmulatlar) ..................................... ..................... 52 
+Cədvəl 16. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(maşınqayırma) ..................................... ............... 55 
+Cədvəl 17. Kimya sənaye məhsulları üzrə 2013-cü il üzrə 
+idxal və ixracın əmtəə strukturu (min ABŞ 
+dolları) ..................................... ............................. 58 
+Cədvəl 18. Toxuculuq materialları və məmulatları üzrə 2013-
+cü il üzrə idxal və ixracın əmtəə strukturu (min 
+ABŞ dolları) ..................................... .................... 61 
+Cədvəl 19. Toxuculuq sənayesi məhsulları  
+(ayaqqabılarr daxil olmaqla) ................................. 62 
+Cədvəl 20. Ayaqqabı, baş geyimləri və sair məmulatlar üzrə 
+2013-cü ildə idxal və ixracın əmtəə strukturu  
+(min ABŞ dolları) .................................................. 
+ 
+ 
+ 
+62 
+Cədvəl 21. Müxtəlif sənaye malları üzrə 2013-cü ildə  
+idxal və ixracın əmtəə strukturu ............................ 63 
+Cədvəl 22. 2013-cü il üzrə idxal və ixracın əmtəə 67 
+7 
+ 
+ strukturu (min ABŞ dolları) .................................. 
+Cədvəl 23. Əsas tikinti maşınlarının mövcudluğu,  
+(ilin sonuna sayı, ədəd) .......................................... 68 
+Cədvəl 24. Mənzil fondunun abadlığı (ilin əvvəlinə, faizlə) 74 
+Cədvəl 25. Kənd təsərrüfatı müəssisələrində 1  
+sentner məhsula əmək məsarifi, saat ..................... 78 
+Cədvəl 26. Əsas kənd təsərrüfatı texnikası növlərinin parkı, 
+ilin sonuna (ədəd) .................................................. 82 
+Cədvəl 27. Dənlilər ilə özünütəminetmə səviyyəsi, faiz 84 
+Cədvəl 28. Tərəvəz və bostan məhsulları ilə 
+ özünütəminetmə səviyyəsi, faiz............................ 87 
+Cədvəl 29. Əsas növ sənaye məhsulları ilə  
+özünütəminetmə səviyyəsi, faiz............................. 89 
+Cədvəl 30. 2013-cü il üzrə idxal və ixracın əmtəə  
+strukturu (bitki mənşəli məhsullar) ....................... 91 
+Cədvəl 31. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(diri  heyvanlar və heyvan mənşəli məhsullar)....... 95 
+Cədvəl 32. Mənfəətin iqtisadi fəaliyyət növləri üzrə strukturu 103 
+Cədvəl 33. Sənaye sahələrində yaradılmış mənfəətin 
+iqtisadi fəaliyyət növləri üzrə strukturu................. 104 
+Cədvəl 34. Dövlət büdcəsinin gəlirlərinin strukturu................ 105 
+Cədvəl 35. Dövlət büdcəsinin xərclərinin strukturu................. 105 
+Cədvəl 36. Təhsil sahəsinə ayrılan xərclərin büdcənin  
+ümumi xərclərində payı.......................................... 106 
+Cədvəl 37. Səhiyyə sahəsinə ayrılan xərclərin  
+büdcənin ümumi xərclərində payı.......................... 107 
+  
+  
+  
+  
+ 
+ 
+8 
+ 
+GİRİŞ 
+ 
+Əziz oxucu! 
+Bu kitabda Azərbaycan Respublikasının sovet dövrü ilə 
+yanaşı müstəqillik dövründə həyata keçirilən “bazar islahatlarının” 
+sosial-iqtisadi nəticələri təhlil olunmuşdur. Kitabda sosial-iqtisadi 
+inkişafın vəziyyətini əks etdirən göstəricilərin seçimi heç də 
+təsadüfi deyildir. İqtisadiyyatla bağlı  ədəbiyyatlarda adətən iki növ 
+təsərrüfat fəaliyyətinə - yəni mal və məhsulların istehsalı və 
+bölüşdürülməsinə rast gəlmək olar. Onların fərqli cəhətləri ilk dəfə 
+olaraq qədim Yunan filosofu Aristotel  tərəfindən müəyyən 
+edilmişdir. Birinci növ təsərrüfat fəaliyyəti - natural təsərrüfat və 
+ya “ekonomiya”dır; tərcümədə mənası evin (ekosun) lazımi 
+məhsullarla təmin edilməsi anlamını verən  bu təsərrüfat 
+fəaliyyətinin əsas xüsusiyyəti istehsal və ticarətin insanların 
+tələbatlarının ödənilməsinə yönəldilməsidir. İkinci növ təsərrüfat 
+fəaliyyətini Aristotel xrematistika adlandırmışdır (müasir dövrdə 
+bu növ təsərrüfat fəaliyyətinə “bazar iqtisadiyyatı” adı 
+verilmişdir 1 ). Bu cür təsərrüfat fəaliyyətinin əsas məqsədi 
+mənfəətin və daha çox qazancın əldə edilməsidir. 
+Azərbaycan Respublikasında (və ümumiyyətlə postsovet 
+məkanında) aparılan islahatların məqsədi - ölkədə olan təsərrüfat 
+fəaliyyəti növünün dəyişdirilməsi cəhdidir, belə ki, bunu 
+tələbatların ödənilməsinə fokuslaşmış təsərrüfat fəaliyyəti 
+növündən mənfəətin əldə edilməsi növünə keçid2 prosesi kimi də 
+anlamaq lazımdır. Belə bir şəraitdə, təsərrüfatın vəziyyətini əks 
+etdirən iqtisadi terminlərdə və təsərrüfat fəaliyyətinin nəticələrini 
+əks etdirən göstəricilərdə dəyişikliklər müşahidə olunur. “Bazar 
+iqtisadiyyatında” istifadə olunan yeni terminləri anlamaq 
+“iqtisadçıların quş-dilini” bilməyən sıravi vətəndaşlar üçün bəzən 
+1  Oxucu “bazar iqtisadiyyatı” termininin yaranması haqqında Amerika 
+iqtisadçısı C.K.Qelbreytin “Экономика невинного обмана: правда нашего 
+времени” kitabında ətraflı məlumat tapa bilər. 
+2 Keçid iqtisadiyyatı deyildikdə məhz bu nəzərdə tutulur. 
+9 
+ 
+                                                 
+çox çətin olur. İnsanlar təsərrüfatın əsas məqsədinin tələbatları 
+ödəmək olduğunu düşünərək, ənənəvi göstəricilərə diqqət yetirirlər 
+– nə qədər taxıl yığılıb, nə qədər ev tikilib və sair. Bunun yerinə isə 
+ümumi daxili məhsulun, Mərkəzi Bankın valyuta ehtiyatlarının nə 
+qədər artımı haqqında məlumatlar alırlar. 3  Məsələn, SSRİ 
+dövründə planlaşdırma aşağıdakı prinsiplə işləyirdi: uşaq 
+beşiklərinin istehsalı gələn il dünyaya gələcək uşaqların sayı 
+əsasında planlaşdırılırdı. Lakin əgər istehsalın məqsədi mənfəət 
+əldə etməkdən ibarətdirsə, firmalar əhalinin tələbatını deyil, 
+ödənişqabiliyyətli tələbi qiymətləndirirlər. Əhalinin 
+“ödənişqabiliyyətsiz” tələbləri istehsalçıları maraqlandırmır. Məhz 
+bu səbəbdən müasir dövrdə iqtisadiyyatda əsas göstəricilər 
+tələbatın ödənilməsi ilə deyil, pulun hərəkəti ilə bağlı 
+göstəricilərdir (rentabellik (mənfəətlilik), pulun (kreditin) qiyməti 
+və sair). Ölkə səviyyəsində isə belə göstəricilər – ümumi daxili 
+məhsul (ÜDM), balanslaşdırılmış büdcə, borcun məbləği və sair 
+indikatorlardır. Məsələn, “Azərbaycan 2020: Gələcəyə baxış” 
+inkişaf konsepsiyasına əsasən adambaşına düşən ÜDM-in həcmi 
+2020-ci il üçün 2 dəfə artmalı və ya adambaşına düşən ixrac həcmi 
+1000 ABŞ dollarına çatdırılmalıdır.4 Bütün bu göstəricilər natural 
+göstəricilər deyil. Belə göstəriciləri yalnız müasir dövrdə qəbul 
+edilmiş iqtisadi nəzəriyyə sistemində anlamaq mümkündür. 
+SSRİ-də (Azərbaycan SSR daxil olmaqla) unikal xalq 
+təsərrüfatı modeli yaradılmışdı. Əhalinin böyük hissəsi (xüsusi ilə 
+“intellingensiya”) bu modelin daxilində yaşadıqları üçün onun 
+unikallığını tam qiymətləndirə bilmirdilər. Rəsmi qəbul edilmiş 
+nəzəriyyə isə bütün suallara cavabı yalnız “marksizm-leninizm5”də 
+3 Təbii ki, bu məlumatlar da çox vacib olsa da, belə göstəricilərin artımı heç 
+də bir mənalı olaraq ölkə əhalisinin çoxunun xeyrinə deyildir. 
+4 “Xarici siyasət daxili siyasətin davamıdır” ifadəsi ixracla bağlı seçilmiş 
+məqsədi çox gözəl ifadə edir. Azərbaycanda ticarətlə məşğul əhalinin 
+statistikası növbəti fəsillərdə təqdim olunmuşdur. 
+5 Müasir filosofun qeyd etdiyi kimi, “marksizm-leninizm” sloqanının birinci 
+hissəsi (marksizm) özünəməxsus bir ağırlıqla sloqanın ikinci hissəsində 
+məğlub ideologiya kimi göstərir. Lakin marksizmin strateji məğlubiyyəti heç 
+10 
+ 
+                                                 
+axtarırdı. SSRİ-də dünya tarixində ilk dəfə olaraq “bazar” tipli 
+deyil, “ailə” tipli xalq təsərrüfatı yaradılmışdı. Bu o deməkdir ki, 
+xalq təsərrüfatında resurslar alqı-satqı ilə deyil, bir yerə yığılma – 
+kooperasiya vasitəsi ilə istifadə edilirdi. Bu, “yatmış” resursları 
+xalq təsərrüfatına cəlb edir və bazar iqtisadiyyatına xas olmayan 
+xüsusi bir motivasiya yaradırdı. “Ailədə” resursların bir yerə 
+yığılması və istifadə edilməsi planlaşdırma vasitəsi ilə həyata 
+keçirilirdi. Elə bu səbəbdən də,  resursların alqı-satqısı deyil, bir 
+yerə yığılaraq istifadə edilməsi SSRİ-yə Böyük Vətən 
+Müharibəsinin dəhşətli dağıntılarından sonra xalq təsərrüfatını qısa 
+zaman kəsiyində bərpa etməyə imkan verdi. Artıq 1948-ci ildə 
+SSRİ müharibədən əvvəlki sənaye istehsalı həcmini ötmüşdü. 
+Müasir bazar iqtisadiyyatı şəraitindən belə uğurların təkrar 
+olunması demək olar ki, mümkün deyildir. 
+Bu kitabda təhlil olunan indikatorlara gəldikdə isə qeyd 
+etmək lazımdır ki, əhalinin tələbatlarının nə dərəcədə ödənilməsini 
+nəzəri interpretasiyalardan asılı olmayan natural göstəricilərin 
+təhlili ilə anlamaq olar. Neçə ton poladın və ya mineral gübrənin 
+istehsalı və sair göstəricilər birmənalı şəkildə başa düşülən natural 
+göstəricilərdir. Belə göstəricilər insanların həyatlarını normal 
+şəkildə davam etdirməsinə şərait yaradır və ölkədə hökm sürən 
+ideologiyadan və ya siyasi rejimdən asılı deyildir. Təbii ki, əhalinin 
+adı çəkilən resurslarla təmin olunması onların rifahının artıq 
+yaxşılaşdırıldığı anlamına gəlmir: əksinə, tələbatlar genişdir və 
+getdikcə həddən artıq  böyüyə bilərlər. Əgər ölkədə poladın və ya 
+gübrənin miqdarı normal səviyyədədirsə, insanlar onların 
+mövcudluğunu hiss eləmirlər. Lakin onların miqdarı və istehsalı 
+azalırsa, bunun səbəbləri araşdırılmalıdır. 
+Kitabda təqdim edilən bütün rəqəmlər demək olar ki, yalnız 
+rəsmi statistikaya əsasən göstərilmişdir.6 Bəzi hallarda isə dövlət 
+də Lenin irsinin məğlubiyyəti deyildir və Lenin metodları indi də öz 
+aktuallığını saxlayır. Lakin bu mövzu təqdim edilən kitabın predmeti 
+deyildir. 
+6 http://stat.gov.az/ 
+11 
+ 
+                                                                                                             
+sənədlərindən, beynəlxalq sazişlərdən və digər sənədlərdən isnad 
+gətirilmişdir. Belə hallar kitabda müvafiq yerlərdə qeyd 
+olunmuşdur. Təsərrüfatın vəziyyətini göstərən göstəricilər 
+çoxluğundan biz yalnız bir neçəsinin təhlilini təqdim etmişik. Az 
+sayda olmasına baxmayaraq bu göstəricilərin dinamikası 
+təsərrüfatın ümumi vəziyyətini əks etdirir. Azərbaycan SSR-yə aid 
+statistik məlumatlar isə “Народное хозяйство Азербайджанской 
+ССР в 1988 г./ Статистический ежегодник” adlı rəsmi mənbədən 
+əldə edilmişdir. Həmçinin bu kitabda müəllifləri S.U.Qlazyev, 
+S.Q.Kara-Murza və S.A.Batçikovun olduğu “Белая книга. 
+Экономические реформы в России 1991-2001” kitabından bir 
+sıra vacib məlumatlar istifadə olunmuşdur. 
+Adətən SSRİ iqtisadiyyatından danışan hər bir “iqtisadçı” 
+ən əvvəl SSRİ-də istehsal olunan məhsulların dünya bazarında 
+rəqabətqabiliyyətli olmadığını qeyd edir. Lakin çox az adamlar 
+nəzərə alır ki, SSRİ kimi bir dövlətə rəqabətqabiliyyətlilik heç 
+lazım da deyildi, ümumiyyətlə SSRİ özünü “alverçi” dövlət kimi 
+də aparmırdı. Hər halda onu da nəzərə almaq lazımdır ki, SSRİ-in 
+hərbi sənayesinin məhsulları dünyada ən “rəqabətqailiyyətli” 
+məhsullardan sayılırdı.  
+“Bazar islahatlarının” dünya bazarlarına çıxarılan məhsullar 
+çeşidinə təsirini qiymətləndirmək məqsədi ilə hər bölmənin 
+sonunda müvafiq məhsullar üzrə xarici ticarət balansı da təqdim 
+edilmişdir. 
+Təsərrüfat sahələrinin seçilməsi iki meyar əsasında həyata 
+keçirilmişdir. Əvvəla, sistem yaradan, yəni məhsullarının istehsalı 
+digər sahələrin fəaliyyət göstərməsi üçün və ya ümumiyyətlə ölkə 
+təsərrüfatının fəaliyyət göstərməsi üçün vacib olan sahələr 
+seçilmişdir (məsələn, neft və təbii qaz, sement və sair istehsalı). 
+Həmçinin, əhalinin yaşaması üçün  vacib olan sahələr də 
+seçilmişdir. Məsələn, çörək və süd istehsalı və sair. Nəzərə almaq 
+lazımdır ki, iqtisadiyyatın əsas məqsədi - ölkə əhalisini 
+həyatəhəmiyyətli məhsullarla təmin etməkdir. Yalnız “islahatların” 
+belə məhsulların istehsalına necə təsir etməsi qiymətləndirildikdən 
+sonra, bu islahatların həqiqi məqsədinin nə olduğu və qarşıya 
+12 
+ 
+qoyduğu məqsədlərə çatıb-çatmaması haqqında fikirlər 
+formalaşdırmaq olar. 
+Kitabda verilən natural göstəricilərin dinamikasına çox qısa 
+şərhlər verilmişdir. Statistik məcmuələrdə məlumatlar əsasən 
+cədvəl formasında verilsə də, biz daha çox qrafik şəkillərə üstünlük 
+vermişik. Belə ki, qrafik əks etdirmə bəzi sahələrdə olan 
+əhəmiyyətli azalmanı daha aydın göstərir. Kitabın bir çox 
+hissələrində qarşılıqlı əlaqələrin qurulması və tam aydın olmayan 
+proseslərin müzakirəsi təqdim olunmamışdır. Belə müzakirələr, 
+oxucuların müəyyən nəticələr çıxarmalarına yönəldilməsi kimi 
+anlaşıla bilərdi. Həmçinin nəzərə almaq lazımdır ki, natural 
+göstəriciləri təhlil etməklə biz əhalinin həyat səviyyəsini də 
+qiymətləndirə bilərik. Lakin təkcə belə təhlil kifayət deyildir. Ona 
+görə bu kitab nəzərdə tutulan kitablar seriyasından birinci hissədir. 
+Müəllif kitabın hazırlanmasında istifadə edilən 
+materiallarda buraxıla bilən səhvlər üzrə şərhləri çox böyük 
+minnətdarlıqla qəbul və müzakirə etməyə hazırdır. 
+  
+13 
+ 
+1.ƏHALİ 
+1.1.Demoqrafik vəziyyət 
+ 
+Azərbaycan Respublikasının əhalisinin sayı 2014-cü ildə 
+9.447 milyon nəfər təşkil etmişdir. Əhalinin təbii artımının təhlili 
+göstərir ki, Azərbaycan SSR-də Böyük Vətən Müharibəsi dövrü 
+istisna olmaqla, son 70 ildə əhalinin sayına əhəmiyyətli dərəcədə 
+təsir edəcək hər hansı bir demoqrafik fəlakət baş verməmişdir. 
+Böyük Vətən müharibəsindən sonrakı təbii artımda olan yüksəlmə 
+70-ci illərdən başlayaraq müəyyən stabil həddə bərqərar olmuşdur. 
+1990-cı ildən başlayaraq əhalinin təbii artımında azalma 
+müşahidə olunmuşdur və bu azalma 2004-cü ilə kimi davam 
+etmişdir. 2004-cü ildən başlayaraq təbii artımda müəyyən 
+yüksəlmə müşahidə olunsa da, ötən əsrin 60-70-ci illərinin 
+səviyyəsi bərpa olunmamışdır və yəqin ki, bu, heç mümkün də 
+olmayacaqdır. 
+ 
+Şəkil 1. Təbii artım (əhalinin hər 1000 nəfərinə) 
+ 
+14 
+ 
+Nəzərə almaq lazımdır ki, ötən əsrin 70-ci illərindən 
+başlayaraq ölkədən daimi yaşamaq üçün gedənlərin sayı ölkəyə 
+daimi yaşamaq üçün gələnlərin sayından çox, yəni 1970-1990-cı 
+illər ərzində ölkə əhalisinin miqrasiya nəticəsində azalması orta 
+hesabla hər il 20.2 min nəfər olmuşdur. 1991-2007-ci illər ərzində 
+miqrasiya azalması orta hesabla hər il 7.6 min nəfər təşkil etmiş, 
+2008-ci ildən başlayaraq isə ölkədə miqrasiya artımı müşahidə 
+olunmaqdadır (orta hesabla hər il 1.5 min nəfər). 
+Təbii artımın azalması əsasən doğulanların sayının azalması 
+ilə əlaqədar olmuşdur. Sonuncunun əsas səbəbləri kimi 1990-cı 
+ildən sonra Qarabağ müharibəsi və xüsusi ilə urbanizasiya 
+prosesləri və s. göstərilə bilər. 
+ 
+ 
+ 
+Şəkil 2. Doğulanların və ölənlərin sayı 
+ 
+Qeyd edilməlidir ki, urbanizasiya nəticəsində azalma ötən 
+əsrin 60-cı illərində baş verən azalmadan keyfiyyətcə fərqlənir. 
+Sonuncunun əsas səbəbi kənd təsərrüfatının mexanikləşdirilməsi 
+15 
+ 
+nəticəsində, kəndlərdə artıq işçi qüvvəsinin yaranması olduğu 
+halda, 90-cı illərdə baş verən proseslərin səbəbi, kənd təsərrüfatı 
+sahəsində baş verən kardinal dəyişikliklər (kolxoz və sovxozların 
+ləğv edilməsi və fermer təsərrüfatlarına kənd əhalisinin cüzi 
+hissəsinin muzdur işçi kimi cəlb edilməsi) nəticəsində yaranan 
+artıq işçi qüvvəsinin şəhərlərə (əsasən Bakı şəhərinə) axını ilə 
+əlaqədar olmuşdur. Həmçinin nəzərə alınmalıdır ki, rəsmi 
+statistikaya əsasən son 23 ildə şəhər və kənd əhalisinin nisbəti 
+əhəmiyyətli dərəcədə dəyişməmişdir. Məsələn, 1990-cı ildə şəhər 
+yerlərində əhalinin sayı 53.9%, kənd yerlərində isə 46.1% təşkil 
+etmişdir. 2013-cü ildə isə bu göstəricilər müvafiq olaraq 53.2% və 
+46.8% təşkil etmişdir. 
+Azərbaycan SSR dövrü ilə müqayisədə körpə ölümü və 5 
+yaşadək uşaq ölümlərinin sayında isə azalma müşahidə 
+olunmuşdur.7 Qeyd edilməlidir ki, bu azalma yalnız doğulanların 
+sayının azalması ilə izah oluna bilməz və səhiyyədə bəzi pozitiv 
+dəyişikliklərlə bağlıdır.  
+Xəstəxana və poliklinikaların tikilməsi, rekonstruksiya 
+edilməsi və lazımı avadanlıqlarla təmin edilməsi ən aktual 
+məsələlərdən biridir. Bu işlərin miqyası Azərbaycan SSR-də 
+yüksək səviyyədə saxlanılırdı. İslahatlardan sonra bu işlərdə 
+azalma müşahidə olunmağa başlamışdır. 1991-ci ildə əhalinin hər 
+10 min nəfərinə düşən xəstəxana çarpayılarının sayı 99.9 olduğu 
+halda, 2000-ci ildə bu göstərici 89.7, 2013-cü ildə isə 46.8 ədəd 
+təşkil etmişdir. Xəstəxana çarpayılarının ümumi sayından xəstə 
+uşaqlar üçün olan çarpayıların sayı da azalmışdır. Belə ki, 1991-ci 
+ildə 0-17 yaşlı uşaqların hər 10 min nəfərinə düşən çarpayıların 
+sayı 44.6 olduğu halda, 2013-cü ildə bu göstərici 23.4 təşkil 
+etmişdir (təxminən iki dəfə azalma).  
+ 
+7  1992-1994-cü illər Qarabağ müharibəsi ilə əlaqədar travmalar, 
+zəhərlənmələr və xarici səbəblərin təsirinin digər nəticələrindən ölənlərin 
+sayı təxminən iki dəfə artmış, lakin 1995-ci ildən sonra əvvəlki səviyyəyə 
+qayıtmışdır. 
+16 
+ 
+                                                 
+ 
+Şəkil 3. Xəstəxana çarpayıları 
+ 
+Cədvəl 1. Səhiyyənin inkişafı və tibbi kadrlar 
+  1991 2013 
+Bütün ixtisaslardan olan həkimlərin sayı, 
+min nəfər 27.5 32.3 
+əhalinin hər 10 000 nəfərinə 38.7 35.0 
+Orta tibb işçilərinin sayı, min nəfər 68.0 57.5 
+əhalinin hər 10 000 nəfərinə 95.8 62.3 
+Xəstəxana müəssisələrinin sayı 731 539 
+onlarda çarpayılarının sayı, min  70.9 43.2 
+əhalinin hər 10 000 nəfərinə 99.9 46.8 
+Əhaliyə ambulatoriya-poliklinika yardımı 
+göstərən  müalicə   müəssisələrinin sayı  1826 1,725 
+Ambulator-poliklinik müəssisələrin gücü 
+(bir növbədə gəlişlərin sayı), min 108.9 105.5 
+əhalinin hər 10 000 nəfərinə 153.4 114.2 
+ 
+Xəstəxana çarpayılarının sayının azalmasının əsas 
+səbəblərindən biri - beynəlxalq standartlara əsasən bir çarpayıda 
+yatan xəstəyə düşən sahənin artırılmasıdır. Yeni “beynəlxalq 
+17 
+ 
+standartlara” uyğunluq, xəstələrin hesabına təşkil edilir, başqa 
+sözlə, yeni xəstəxanaların tikilib istifadəyə verilməsi əvəzinə, 
+mövcud xəstəxanalarda çarpayıların sayı azaldılır. 
+Xəstəxana müəssisələrinin sayında azalma həkimlərin 
+sayının artımı ilə müşahidə olunmuşdur. Bu məlumatı aşağıdakı 
+cədvəldə aydın görmək olar. 
+Azərbaycan SSR-də tibbi xidmətlərin formal olaraq pulsuz 
+olmasının əsl dəyərini bazar iqtisadiyyatı dövründə özəl 
+klinikaların açılması ilə tam qiymətləndirmək mümkün oldu. 
+ 
+ 
+ 
+Şəkil 4. Xəstəxana xidmətlərinin qiyməti, manatla (1 xidmət) 
+ 
+Müasir dövrdə səhiyyə xərcləri əhalinin büdcəsində 
+getdikcə böyük rol oynamağa başlayır. Məsələn, 2001-ci ildə ev 
+təsərrüfatlarının xərclərində səhiyyə xərcləri 2% olduğu halda, 
+2013-cü ildə bu göstərici 5% olmuşdur. Bundan əlavə ayrı-ayrı 
+səhiyyə xidmətləri üzrə də böyük artım müşahidə olunmuşdur. 
+Aşağıdakı cədvəldə belə məlumatlar toplanmışdır. 
+Sovet səhiyyə sisteminin xüsusi elementlərindən biri 
+sanatoriyalar idi. Fəaliyyət göstərdikləri dövrdə bu sanatoriyalar 
+həm mütəxəssislər, həm də adi insanlar tərəfindən xəstəliklərdən 
+profilaktika və müalicədən sonrakı reabilitasiya vasitəsi kimi 
+yüksək qiymətləndirilirdi.  
+ 
+18 
+ 
+Cədvəl 2. Ayrı-ayrı səhiyyə xidmətləri qiymətləri, manatla 
+ 
+Xidmətin adı Ölçü 
+vahidi 
+2006 2013 Artım 
+Terapevt xidmətləri 1 xidmət 3.40 11.45 237% 
+Göz həkimi xidmətləri 1 xidmət 3.00 9.79 226% 
+Kardioloq həkimi 
+xidmətləri 
+1 xidmət 4.07 16.92 316% 
+Dişin çəkilməsi 1 xidmət 2.56 5.12 100% 
+Dişin müalicəsi 1 xidmət 3.78 13.48 257% 
+Protezist həkimi xidməti 1 xidmət 25.01 52.65 111% 
+Tibbi tədqiqat: ultrasəs 
+tədqiqatı 
+1 xidmət 4.50 11.54 156% 
+Flüoroqrafiya 1 xidmət 2.93 10.08 244% 
+Qanın ümumi analizi   1 xidmət 1.92 6.65 246% 
+ 
+ 
+Şəkil 5.Sanatoriyaların və müalicə pansionatlarının sayı 
+ 
+Bu müəssisələrin özəlləşdirilməsi və Həmkarlar İttifaqı 
+sisteminin zəifləməsi nəticəsində sanatoriyalardan istifadə 
+azalmışdır. Sanatoriya və müalicə pansionatlarının sayının 
+19 
+ 
+dinamikası aşağıdakı qrafikdə əks olunmuşdur. 1988-ci il ilə 
+müqayisədə belə müəssisələrdə olan çarpayıların sayı təxminən 2.6 
+dəfə azalmışdır. Belə ki, 1988-ci ildə sanatoriya və müalicə 
+pansionatlarında çarpayıların sayı 15 min olduğu halda, 2014-cü 
+ildə bu göstərici 6 min təşkil etmişdir.  
+ 
+ 
+ 
+Şəkil 6. Qeyri-rəsmi nikahda doğulan uşaqlar 
+ 
+“Bazar islahatları” ailələrə ağır zərbə vurmuşdur. Belə ki, 
+islahatlar rəsmi qeydə alınmamış nikahda olan qadınlar tərəfindən 
+doğulan uşaqların sayının kəskin artması ilə nəticələnmişdir. 2013-
+cü ildə ölkədə doğulanların 14.5% qeyri-rəsmi nikahda olub. Bu 
+Azərbaycanda sabit ailələri qida və qayğı mənbəyi olmayan 
+uşaqlar kontingenti yaradır.  
+Eyni zamanda dövlət tərəfindən uşaqlara qayğı sistemi də 
+sistematik olaraq geriləmişdir. SSRİ dövründə çox vacib ictimai 
+institut olan uşaq bağçaları ötən ərsin 90-cı illərinin sonlarında 
+ideoloji kompaniyaların hədəf obyektinə çevrilmişdi. Lakin buna 
+baxmayaraq 90-cı illərin sonuna qədər yeni uşaq bağçaları tikilir, 
+köhnələr isə yenidən təmir olunurdu. Keçirilən islahatlar 
+20 
+ 
+məktəbəqədər təhsil müəssisələrinin əsas tərkib hissələrindən olan 
+uşaq bağçalarının sayının azalması ilə müşayiət olunmaqdadır. 
+ 
+ 
+Şəkil 7.Məktəbəqədər təhsil müəssisələrinin sayı 
+ 
+Cədvəl 3. Məktəbəqədər təhsil müəssisələrinin xidməti 
+ (adi tipli uşaq bağçası) 
+Məhsu-
+lun adı 
+Ölçü 
+vahidi 2006 2007 2008 2009 2010
+8 2011 2012 2013 
+Məktəbə-
+qədər  
+təhsil 
+müəssisə-
+lərinin 
+xidməti 
+(adi tipli 
+uşaq bağ-
+çası)  
+Adam 
+/ay 
+(ma-
+natla 
+0.26 0.20 0.28 0.50 101,81 172.06 185.24 189.21 
+8  2010-cu ildən özəl bağçaların tarifləri əlavə olunmuşdur. Lakin özəl 
+bağçaların həm sayının artması, həm də daha keyfiyyətli xidmət 
+göstərməsinə görə cari təhlilin məqsədi üçün göstərilən qeyd vacib deyil. 
+21 
+ 
+                                                 
+Göründüyü kimi məktəbəqədər təhsil müəssisələrinin 
+sayında azalan dinamika müşahidə olunur. Paralel olaraq 
+məktəbəqədər təhsil müəssisələrinin xidmət haqqında artım 
+müşahidə olunur. 2013-cü ildə ölkədə iqtisadiyyat üzrə nominal 
+əmək haqqının 425 manat olmasını nəzərə alsaq, uşaq bağçası 
+xidmətləri nominal əmək haqqının 44% təşkil etmişdir. 9  Dövlət 
+statistika komitəsinin məlumatına əsasən xidmət haqqı aşağıdakı 
+kimi dəyişmişdir. 
+ 
+1.2. Yeyinti məhsullarının istehsalı və istehlakı 
+ 
+Azərbaycan SSR-də qida məhsullarının istehsalı ilə məşğul 
+olan müasir yeyinti məhsulları sənayesi yaradılmışdı. Lakin “bazar 
+islahatları” bu sektor üzrə istehsala da mənfi təsir göstərmişdir. 
+Qida məhsullarının istehlakının əsas göstəricilərini nəzərdən 
+keçirək. Nəzərə alınmalıdır ki, bu bölmədə yalnız sənaye mənşəli 
+qida məhsullarının dinamikası təhlil edilmişdir. Heyvandarlıq və 
+bitkiçilik məhsullarının istehsalı haqqında geniş məlumat kənd 
+təsərrüfatı bölməsində təqdim olunub. 
+Əvvəlcə qeyd edilməlidir ki, bir sıra məhsullar üzrə pozitiv 
+dəyişikliklər qeydə alınmışdır. Məsələn, Azərbaycan SSR-in 
+müvafiq göstəriciləri ilə müqayisədə bitki yağlarının istehsalı 2 
+dəfə, alkoqolsuz içkilərin istehsalı isə təxminən 4 dəfə artmışdır. 
+Lakin bir sıra neqativ tendensiyalar da müşahidə olunur və 
+onların nəzərdən keçirilməsi zəruridir. Əvvəlcə qeyd edək ki, bitki 
+yağlarının istehsalının artmasına baxmayaraq özünütəminetmə 
+səviyyəsi hələ ki, aşağı səviyyədədir. Belə ki, bu məhsul üzrə 
+2013-cü ildə özünütəminetmə səviyyəsi 47% olmuşdur. Bu o 
+deməkdir ki, ölkə daxilində istifadə olunan bitki yağlarının yarıdan 
+çoxu xaricdən idxal olunur. Marqarin məhsullarının istehsalı 
+Azərbaycan SSR-in müvafiq göstəricisindən cəmi 4% artıq 
+9 Təbii ki, aylıq adambaşına düşən gəlir daha da aşağıdır. Məsələn, 2013-cü 
+ildə ev təsərrüfatlarında ayda adambaşına düşən gəlirlər 214.7 manat təşkil 
+etmişdir. 
+22 
+ 
+                                                 
+olmuşdur və 2013-cü ildə özünütəminetmə səviyyəsi 99% təşkil 
+etmişdir. 
+ 
+Cədvəl 4. Bəzi qida, tütün məmulatlarının və spirtli  
+içkilərin istehsalı 
+ 
+Məhsulun adı 1988 2012 1988-ci il ilə 
+müqayisədə 
+dəyişim 
+Bitki yağları, min ton 49,8 99,8 100% 
+Konservləşdirilmiş tərəvəz və 
+meyvələr, min ton 135,20 147,3 9% 
+Papiros və siqaretlər, milyard 
+ədəd 7,3 1,8 -75% 
+Alkoqolsuz içkilər, min dkl. 5142 25362 393% 
+Mineral sular, mln. dkl. 10,2 6,24 -39% 
+Marqarin məhsulları, min ton 22,2 23,1 4% 
+Pivə, mln. dkl. 4,0 4,8 19% 
+ 
+ 
+Şəkil 8. Kolbasa məmulatlarının istehsalı (min ton) 
+23 
+ 
+ 
+Analoji göstərici meyvə və tərəvəz konservlərinin 
+istehsalında da qeydə alınmışdır: istehsal 1988-ci illə müqayisədə 
+cəmi 9% artıb və özünütəminetmə səviyyəsi 2013-cü ildə 91% 
+olmuşdur. 
+Kolbasa məmulatlarının istehsalı Azərbaycan SSR-lə 
+müqayisədə əhəmiyyətli dərəcədə azalmışdır. Belə ki, 2012-ci ildə 
+istehsalın həcmi 1988-ci ildə istehsal olunmuş kolbasa 
+məmulatlarının 14%-i təşkil etmişdir. 
+ 
+ 
+Şəkil 9. Duz istehsalı (min ton) 
+ 
+Son illərdə duz istehsalında müəyyən artım qeydə alınsa da, 
+2012-ci ildə bu sahədə istehsal həcmi 1988-ci ilin istehsalının 
+24%-ni təşkil etmişdir.  
+Duz istehsalı 1988-ci ilin göstəricisindən 4 dəfədən çox 
+azalmasına baxmayaraq, son illər müəyyən artım müşahidə 
+olunmuşdur və özünütəminetmə səviyyəsi 2013-cü ildə 80% təşkil 
+etmişdir (2007-ci ildə müvafiq göstərici 12% təşkil etmişdir). 
+ 
+24 
+ 
+ 
+Şəkil 10. Təbii çay istehsalı (min ton) 
+ 
+Təbii çay istehsalında da azalma müşahidə olunmuşdur. 
+Belə ki, 2012-ci ilin istehsalı 1988-ci ilin müvafiq göstəricisinin 
+48%-ni təşkil etmişdir (yəni təxminən 2 dəfə azalma). Təbii çay 
+üzrə özünütəminetmə səviyyəsini də qənaətbəxş sayıla bilməz. 
+Belə ki, 2013-cü ildə bu göstərici 54.7% təşkil etmişdir. Bu o 
+deməkdir ki, əgər 1988-ci ilin istehsal səviyyəsi saxlanılsa idi, 
+özünütəminetmə səviyyəsi təxminən 100% ola bilərdi. 
+ 
+ 
+Şəkil 11. Makaron məmulatı istehsalı (min ton) 
+25 
+ 
+İki dəfədən çox azalma makaron məmulatlarının 
+istehsalında da müşahidə olunmuşdur. Belə ki, 2012-ci ilin 
+istehsalı 1988-ci ilin müvafiq göstəricisinin yalnız 44%-ni təşkil 
+etmişdir. Daxili istehsalın azalması təbii olaraq idxalın artımı ilə 
+müşahidə olunmuşdur. Makaron məmulatları üzrə özünütəminetmə 
+səviyyəsi 2013-cü ildə 52.6% təşkil etmişdir. Bu isə o deməkdir ki, 
+1988-ci ilin istehsal səviyyəsi saxlanılsa idi, demək olar ki, 
+makaron məmulatlarına olan tələbat daxili istehsal vasitəsi ilə 
+təmin edilə bilərdi. 
+ 
+ 
+ 
+Şəkil 12. Üzüm şərabı istehsalı (min dkl.) 
+ 
+Şərab istehsalında da əhəmiyyətli azalma müşahidə 
+olunmuşdur. Belə ki, araq istehsalı 1.8 dəfə, üzüm şərabı üzrə 5.2 
+dəfə, şampan şərabı üzrə 62.3 dəfə, konyak üzrə isə 18.7 dəfə 
+azalma müşahidə olunmuşdur.  
+Təbii ki, ölkə daxilində istehsalın azalması idxalın artımı ilə 
+kompensasiya edilir. İdxalın miqyasını anlamaq üçün ərzaq 
+məhsulları və spirtli içkilər üzrə xarici ticarətin dinamikasına nəzər 
+yetirək. Göründüyü kimi bu məhsul növləri üzrə mənfi saldo qeydə 
+alınmışdır (şəkər və şəkərdən hazırlanan qənnadı məmulatlar 
+istisna olmaqla). 
+ 
+26 
+ 
+Cədvəl 5. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+ (hazır ərzaq məhsulları, spirtli və spirtsiz içkilər, sirkə, tütün) 
+ 
+Min ABŞ dolları İdxal İxrac Saldo 
+Cəmi 813,625.8 346,815.2 -466,810.6 
+Ətdən və balıqdan alınan hazır 
+məhsullar 15,426.8 10,380.1 -5,046.7 
+Şəkər və şəkərdən hazırlanan 
+qənnadı məmulatları 228,972.2 243,840.2 14,868.0 
+Kakao və ondan hazırlanan 
+məhsullar 47,180.9 16,268.1 -30,912.8 
+Taxıldan, undan və ya süddən 
+alınan hazır məhsullar, unlu 
+qənnadı məmulatları 54,420.2 3,462.3 -50,957.9 
+Tərəvəz, meyvə, qoz-fındıq və 
+bitkilərin digər hissələrinin emal 
+məhsulları 27,205.7 21,964.9 -5,240.8 
+Sair  müxtəlif  ərzaq  məhsulları 25,104.9 1,801.9 -23,303.0 
+Spirtli və spirtsiz içkilər, sirkə 62,206.0 30,946.5 -31,259.5 
+Yeyinti sənayesinin qalıqları  və  
+tullantıları 14,279.7 7,393.8 -6,885.9 
+Tütün və tütünün sənaye 
+əvəzediciləri 338,829.4 10,757.4 -328,072.0 
+ 
+Cədvəldən göründüyü kimi ən böyük mənfi saldo tütün və 
+tütün sənaye əvəzediciləri üzrə qeydə alınmışdır. Bunun əsas 
+səbəblərindən biri ucuz idxalın yerli istehsalı əvəzetməsidir. 
+Məsələn, 2000-ci il ilə müqayisədə 2013-cü ildə ölkədə 5 dəfə az 
+(və ya 13.8 min ton az) tütün istehsal edilmişdir. Müvafiq olaraq 
+tütünün əkin sahəsi təxminən 7 dəfə (və ya 6.9 min hektar) 
+azalmışdır. 
+İndi isə  əsas ərzaq məhsulları istehlakının dinamikasına 
+nəzər yetirək. Aşağıdakı qrafikdən göründüyü kimi ət və ət 
+məhsullarının adambaşına istehlakı hələ də, 1988-ci ildəki  
+səviyyəsinə çatmamışdır. Belə ki, 1988-ci ildə adambaşına ət və ət 
+27 
+ 
+məhsullarının istehlakı ildə 38 kq. olduğu halda, 2013-cü ildə bu 
+göstərici 33.8 kq. təşkil etmişdir. 
+ 
+ 
+Şəkil 13. Ət və ət məhsullarının adambaşına istehlakı,  
+ildə kiloqramla 
+ 
+Şəkil 14. Süd və süd məhsullarının adambaşına istehlakı, 
+ ildə kiloqramla 
+ 
+Süd və süd məhsullarının istehlakında da hələ ki 
+Azərbaycan SSR-nin müvafiq göstəricisi daha yüksəkdir. Belə ki, 
+1988-ci ildə bu ərzaq məhsulunun illik istehlakı 306 kq. olduğu 
+halda, 2013-cü ildə bu göstərici 285 kq. olmuşdur. 
+28 
+ 
+ 
+ 
+Şəkil 15.Yumurtanın adambaşına istehlakı, ildə ədəd 
+ 
+İnsan orqanizmi üçün heyvani zülalların digər vacib 
+mənbəyi sayılan  yumurta istehlakı da Azərbaycan SSR-də müasir 
+dövrlə müqayisədə daha yüksək olmuşdur.  
+Qənd və qənnadı məmulatlarının istehlakında da azalma 
+müşahidə olunmuşdur. Belə ki, 1988-ci ildə adambaşına istehlak 
+ildə 41.3 kq. olduğu halda, 2013-cü ildə bu göstərici 31.5 kq. təşkil 
+etmişdir. 
+ 
+Cədvəl 6. Ərzaq məhsullarının adambaşına istehlakı, ildə 
+kiloqramla 
+Məhsul 1988 2013 
+Çörək və çörək məhsulları 155 141,6 
+Kartof 27 64,2 
+Tərəvəz və bostan bitkiləri 65 103,8 
+Balıq və balıq məhsulları 4,3 7,1 
+ 
+Əksinə olaraq, balıq istehlakı üzrə pozitiv dəyişim qeydə 
+alınmışdır. Belə ki, 1988-ci ildə balıq və balıq məhsullarının 
+istehlakı 4.3 kq. olduğu halda, 2013-cü ildə müvafiq göstərici 7.1 
+kq. təşkil etmişdir (təxminən 65% artım). Ərzaq məhsulları və  
+bəzi digər qrup məhsullar üzrə də artım qeydə alınmışdır . 
+29 
+ 
+1.3 Gəlirlər 
+ 
+İnsanın (ailənin) maddi rifahı ən öncə əsas həyat 
+nemətlərinin qiymətləri və gəlirlərin nisbəti ilə müəyyən olunur. 
+Əvvəlcə əhalinin gəlirlərinin strukturuna nəzər salaq. Ev 
+təsərrüfatları büdcəsinin statistikası Dövlət Statistika Komitəsinin 
+rəsmi veb saytında 2001-ci ildən başlayaraq dərc olunur. Qısa 
+müddətli statistika olmasına baxmayaraq bəzi nəzərə çarpan 
+dəyişiklikləri görmək mümkündür. Ən ciddi dəyişiklik əhalinin 
+gəlirlərində əmək fəaliyyətindən qaynaqlanan gəlirlərin payının 
+azalmasıdır. Bu əhali arasında gəlirlərə görə ciddi fərqlərin 
+yaranmasının və sosial təbəqələşmənin əsasıdır. 
+ 
+Cədvəl 7. Ev təsərrüfatlarında ayda adambaşına  
+düşən gəlirlər 
+ 
+  2001 2013 
+Gəlirlər – cəmi 98% 100% 
+Məşğulluqdan gəlirlər 40% 33% 
+Alınmış cari transfertlər 10% 16% 
+Digər gəlirlər 49% 51% 
+ 
+Alınmış cari transferlərin əsas hissəsi pensiyalarda ifadə 
+olunmuşdur. Digər gəlirlərin əsas hissəsi isə sahibkarlıq 
+fəaliyyətindən əldə olunan gəlirlərdir (icarə, əmlak və sair 
+gəlirlərin payı cüzidir). İlkin olaraq özünəməşqulluqdan gəlirlərin 
+artması “bazar islahatlarının” uğurlu keçdiyi təsəvvürünü yarada 
+bilər. Lakin daha dərin təhlil başqa nəticələr verir. Belə ki, rəsmi 
+statistikaya görə 2013-cü ildə ölkədə 234 634 fiziki şəxs fərdi 
+sahibkar olmuşdur və bunların 84% (və ya 196 467-si) ticarət, 
+nəqliyyat və anbar təsərrüfatı sahəsində çalışanlardır. Sırf ticarətlə 
+məşğul fiziki şəxs fərdi sahibkarların sayı isə 171 646 (və ya 73%) 
+təşkil etmişdir. Bu o deməkdir ki, sahibkarlıq əsasən “alış-veriş” 
+sahəsində yer almışdır. Digər rəsmi göstəricilər də bunu sübut edir. 
+30 
+ 
+Belə ki, Statistika Komitəsinin məlumatına əsasən ticarətlə məşğul 
+əhalinin sayı 2013-cü ildə 664.4 min nəfər10 və ya iqtisadiyyatın 
+bütün sahələrində məşğul əhalinin sayının 15% təşkil etmişdir. 
+Müqayisə üçün 1988-ci ildə xalq təsərrüfatında çalışan əhalinin 
+yalnız 6.4%-i  ticarət sahəsində 11 məşğul idi.  
+Həmçinin, 1988-ci ildə sənaye və tikintidə məşğul əhalinin 
+26%-i işləyirdisə, 2013-cü ildə bu göstərici 14% təşkil etmişdir. 
+Qeyd edək ki, sənaye və tikintidə azalma heç də məhsuldarlığın 
+artması hesabına baş verməmişdir (daha ətraflı məlumat üçün 
+“Sənaye” bölməsində təqdim edilib). 
+Əhalinin böyük hissəsinin əsas gəlir mənbəyi - əmək haqqı, 
+əmək qabiliyyəti olmayan insanlar üçün isə orta əmək haqqının 
+məbləğindən asılı olaraq hesablanan təqaüdlər və sosial 
+müavinətlərdir. Bu səbəbdən, əhalinin rifahının qiymətləndirilməsi 
+məqsədi ilə orta əmək haqqının alıcılıq qabiliyyətinin 
+qiymətləndirilməsi məqsədəuyğun olardı. 
+Dövlət Statistika Komitəsinin rəsmi məlumatına görə ərzaq 
+məhsulları üzrə istehlak qiyməti indeksi 2013-cü ilin dekabr ayında 
+205.8 təşkil etmişdir (2005=100).  
+Lakin bəzi sadə hesablamalar qida məhsulları üzrə artımın 
+daha çox olduğunu göstərir. Hesablamaların real natural 
+göstəricilərə yaxın olması məqsədi ilə istehlak olunan qida 
+məhsullarının kaloriliyi istifadə edilmişdir. Belə ki, 2005-ci ildə ev 
+təsərrüfatlarında istehlak edilmiş qidanın kaloriliyi 2445 kkal. 
+təşkil etmiş (sutkada adambaşına) və qida məhsullarına çəkilən 
+xərc ayda 28 manata bərabər olmuşdur. 2013-cü ildə istehlak 
+olunan qida məhsullarının kaloriliyi 2906 kkal., qida məhsullarına 
+çəkilən xərc isə 92 manat olmuşdur. Bu o deməkdir ki, 2005-ci ildə 
+olan kalorili qida məhsulunun istehlakı üçün 2013-cü ildə 77 manat 
+xərc çəkmək  lazım olmuşdur (2005-ci ildə isə 28 man.). Yəni qida 
+məhsulları üzrə qiymət indeksi 276 olmuşdur (2005-ci ildə 205.8).  
+10 Nəqliyyat vasitələrinin təmiri daxil olmaqla 
+11  “Включая общественное питание, материально техническое 
+снабжение и сбыт; заготовки.” 
+31 
+ 
+                                                 
+ 
+ 
+ 
+Şəkil 16.  İstehlak qiymətləri indeksi (ilin sonuna) 
+ 
+Hesablamaları qida vasitəsi ilə alınmış zülal, karbohidrat və 
+yağlar vasitəsi ilə həyata keçirdikdə isə müvafiq indeks 324 təşkil 
+etmişdir. Buradan belə nəticə çıxarmaq olar ki, ərzaq 
+məhsullarında rəsmi tanınmış inflyasiyadan başqa qidalı 
+məhsulların və kaloriliyin azalması müşahidə olunan “gizli” 
+inflyasiya da qeydə alınmışdır.İndi isə əhalinin gəlirlərinin alıcılıq 
+qabiliyyətini nəzərdən keçirək.  
+Son illərdə əhalinin gəlirlərinin artması unikal bir uğur kimi 
+ictimaiyyətə təqdim edilir. Lakin tarixi perspektivdən baxdıqda 
+hələ ki, müəyyən göstəricilər üzrə Azərbaycan SSR-in müvafiq 
+göstəriciləri bərpa edilməmişdir. Təhlilə başlamamışdan qeyd 
+etmək lazımdır ki, yeni dövrdə istehlak malları üzrə orta qiymətlər 
+əsas məhsul qrupları üzrə deyil, çox geniş assortiment üzrə verilir. 
+Belə ki, 1988-ci ilin statistik məcmuəsində 19 sayda əsas istehlak 
+mallarının qiymətləri verildiyi halda, 2013-cü il üzrə 145 adda qida 
+məhsullarının qiymətləri haqqında məlumat verilmişdir . Bu 1988-
+ci ilin göstəriciləri ilə müasir göstəricilərin müqayisəsini bir qədər 
+32 
+ 
+çətinləşdirir. Lakin bəzi məhsullar üzrə müqayisəli təhlillər vermək 
+olar. Aşağıdakı cədvəldə nominal əmək haqqının bəzi məhsullar 
+üzrə alıcılıq qabiliyyəti dinamikada təqdim edilmişdir. 
+ 
+Cədvəl 8. Gəlirin alıcılıq qabiliyyəti (kq-la) 
+ 
+Məhsul 1988 2006 2013 
+Sümüklü mal əti (doğranmış, çəkidə) 47 19 28 
+Köhnə kartof 562 186 352 
+Qara və yaşıl çay 14 28 50 
+Toyuq yumurtası 104 80 195 
+Şəkər 108 105 152 
+ 
+Cədvəl 8-dən göründüyü kimi, çay, yumurta və şəkər üzrə 
+1988-ci ilin göstəricisi bərpa edilmişdir və daha yüksək səviyyə 
+qeydə alınmışdır. Lakin mal əti, kartof üzrə itkilər hələ də bərpa 
+olunmamışdır. 
+Gəlirlərin məbləğinin və strukturunun dəyişməsi insanların 
+rifahını xarakterizə edən ən vacib göstəricilərdən biri olan 
+mənzilləri əhalinin böyük bir hissəsi üçün əlçatmaz etmişdir. SSRİ 
+dövründə əhaliyə verilən mənzillərin böyük hissəsi sənaye və kənd 
+təsərrüfatı müəssisələri tərəfindən tikilirdi. Özəlləşdirmədən 12 
+sonra müəssisələr demək olar ki bu fəaliyyətlərini dayandırdılar. 
+Bakı şəhərində olan mənzillərin 1988-ci ildə olan qiyməti haqqında 
+rəsmi məlumat tapa bilmədiyimizdən S.Q.Kara-Murzanın yuxarıda 
+adı çəkilən kitabından bir sitatı qeyd edək: «..1986-1987-ci illərdə 
+Moskvanın ilkin bazarında 1 kv.m. mənzil sahəsi 192 manat təşkil 
+edirdi ki, bu da bütün RSFSR üzrə orta aylıq əmək haqqının 89%-i 
+demək idi. Beləliklə 2 otaqdan (18 və 22 kv.m.) ibarət standart 
+mənzil 3 ilin ortalama əmək haqqı qiymətində idi (həm də mənzil 
+haqqı 15 illiyə nisyə, demək olar ki, çox cüzi faizlə verilirdi).  
+12 “Özəlləşdirmə” termininin rus dilində olan “Денационализация”, yəni 
+mülkiyyətin millətin əlindən alınması, başa düşülməlidir. 
+33 
+ 
+                                                 
+Bu cür vəziyyət SSRİ-nin paytaxtında qeydə alınıb. 
+Konservativ yanaşaraq Bakı şəhərində də analoji vəziyyətin 
+olduğunu fərz edək. Lakin əvvəlcə qeyd edək ki, islahatlar 
+nəticəsində dövlət tərəfindən əhaliyə pulsuz mənzillərin verilməsi 
+kəskin azalmışdır. Bunun əvəzində isə mənzil bazarı yaranmış və 
+təbii ki, mənzillərin qiyməti də kəskin artmışdır. Müasir dövrdə 
+yuxarıda qeyd etdiyimiz sitatda göstərilən mənzili almaq üçün neçə 
+illik əmək haqqı tələb olunur? İqtisadiyyat üzrə cəmi nominal 
+əmək haqqı 2013-cü ildə 425 manat təşkil etmişdir. 2013-cü ildə 
+ilkin mənzil bazarında 1 kvadrat metrin qiyməti isə 1056 manat 
+təşkil etmişdir. 13  Bu məlumatlar əsasında yuxarıda göstərilən 
+xarakteristikalı mənzili 6 ildə bir az çox orta aylıq əmək haqqı 
+hesabına almaq olar. Ümumiyyətlə 2013-cü ildə ilkin mənzil 
+bazarında 1 kvadrat metrin qiyməti iqtisadiyyat üzrə orta nominal 
+əmək haqqının 248%-ni təşkil etmişdir. 
+ 
+ 
+Şəkil 17. Minimum əmək haqqının yaşayış minimum ilə 
+müqayisəsi (manatla) 
+ 
+13 http://www.mbagroup.az/ 
+34 
+ 
+                                                 
+“Bazar iqtisadiyyatının” xarakterik göstəricilərindən biri 
+yaşayış minimumudur. Azərbaycanda yaşayış minimumu “Növbəti 
+il üçün yaşayış minimumu” qanunu ilə müəyyən edilir. 2013-cü 
+ildə yaşayış minimumu ölkə üzrə əmək qabiliyyətli insanlar üçün 
+125 manat14 səviyyəsində müəyyən edilmişdir. Təhlil məqsədi ilə 
+bu göstəricini istifadə edək. 
+Statistika komitəsinin məlumatına əsasən 2013-cü ildə 
+gəlirləri 125 manatdan az olan ev təsərrüfatlarının bütün ev 
+təsərrüfatlarında payı 11% olmuşdur. Bu o deməkdir ki, hər 100 
+ailədən 11-nin aylıq gəliri yaşayış minimumundan aşağıdır. 
+Minimum əmək haqqının (həmçinin gəlirlərində) yaşayış 
+minimumundan az olması rəsmi şəkildə əhalinin müəyyən 
+hissəsinin yoxsulluğa məhkum edilməsi deməkdir. 
+ 
+ 
+Şəkil 18. İstehlak xərcləri və cəmi gəlirlərin  
+müqayisəsi (manatla) 
+ 
+Azərbaycan iqtisadiyyatında “inkişaf etmiş” ölkələrdə 
+müşahidə olunan bəzi tendensiyalar da müşahidə olunur. Belə ki, 
+14 http://azeritoday.com/archives/tag 
+35 
+ 
+                                                 
+Dövlət Statistika komitəsinin məlumatına əsasən ev 
+təsərrüfatlarının cəmi gəlirləri istehlak xərclərindən azdır. Bu o 
+deməkdir ki, istehlakın müəyyən hissəsi (hələ ki, ümumi xərclərin 
+cüzi hissəsi – son 13 ildə orta hesabla 5%) borc vasitəsi ilə 
+maliyyələşdirilir. Yeni əhalinin borcla yaşamağa alışdırmaq 
+siyasəti artıq başlamışdır. Son illərdə müşahidə olunan bank 
+aktivliyi bunun bariz nümunəsidir. Lakin qeyd olunduğu kimi 
+bankların ölkə iqtisadiyyatında rolu ayrıca təhlil ediləcəkdir. 
+Əmək haqlarının təhlili zamanı digər vacib ünsür - xalq 
+təsərrüfatının müxtəlif sektorları arasındakı fərqlərdir. Bu fərqlər 
+təbəqələşmə haqqında maraqlı məlumatlar verir. Müasir 
+Azərbaycanda Azərbaycan SSR-dən fərqli olaraq istehsal 
+sənayesinə deyil, mədənçıxarma sənayesinə yönləndiyi üçün təbii 
+olaraq mədənçıxarmada ölkə üzrə ən böyük nominal əmək haqqı 
+qeydə alınmışdır. Ona görə təhlil məqsədi ilə digər sektorlarda olan 
+əmək haqqı mədənçıxarma sənayesində olan əmək haqqının hissəsi 
+kimi göstərilmişdir. 
+ 
+Cədvəl 9. Nominal əmək haqqı (mədənçıxarma sənayesində olan 
+əmək haqqının hissəsi kimi) 
+ 2005 2009 2012 
+Kənd təsərrüfatı, meşə təsərrüfatı və 
+balıqçılıq  8% 14% 14% 
+Emal sənayesi  23% 27% 28% 
+Tikinti  46% 44% 42% 
+Maliyyə və sığorta fəaliyyəti  61% 82% 75% 
+Təhsil  13% 26% 20% 
+Əhaliyə səhiyyə və sosial xidmətlərin 
+göstərilməsi  9% 16% 12% 
+ 
+Göründüyü kimi, təhsil sahəsindəki əmək haqqı 
+mədənçıxarma sənayesində qeydə alınan əmək haqqının 20%-ə 
+(səhiyyədə isə 12%) bərabər olmuşdur. Nəzərə çarpan digər amil 
+isə ölkədə ikinci ən böyük əmək haqqının maliyyə və sığorta 
+36 
+ 
+sektorunda olmasıdır. Bu mədənçıxarma sənayesinə fokuslaşmış 
+ölkələr üçün tipik bir göstəricidir. 
+Müasir dövrdə insanların və ailələrin həyat keyfiyyəti 
+həmçinin onların “mədəniyyət məhsullarını” istehlak edə bilmə 
+imkanı ilə də müəyyənləşir. Bu əsasən öz milli mədəniyyət irsi 
+məhsullarına aid edilir – kitabların və jurnalların oxunması, milli 
+bədii filmlərin izlənməsi, teatrlara baş çəkmə və sair. Bütün bu 
+nemətlər Azərbaycan SSR-də əhalinin böyük hissəsinin həyatının 
+ayrılmaz hissəsinə çevrilmişdi. Bazar islahatları mədəniyyət 
+sahəsinə də böyük zərbə vurmuşdur. Əsas olan isə odur ki, 
+mədəniyyət məhsullarının (bədii filmlərin, kitab və jurnalların və 
+sair) keyfiyyəti prinsipial olaraq dəyişmişdir. Lakin keyfiyyət 
+dəyişikliklərinin qiymətləndirilməsi bu kitabda qeyri-mümkündür, 
+ona görə bəzi kəmiyyət göstəricilərinə nəzər yetirəcəyik. 
+ 
+ 
+Şəkil 19.Kütləvi kitabxanaların sayı 
+ 
+SSRİ əhalisi dünyada ən çox mütaliə edən  əhali kimi qəbul 
+edilirdi. Lakin bazar iqtisadiyyatı şəraitində asudə vaxt 
+məhdudluğu əhalinin mütaliə prosesində də öz əksini tapmışdır. 
+Bunu ölkə ərazisində kütləvi kitabxanalar sayının dinamikası aydın 
+37 
+ 
+əks etdirir. 15  Bəzi müəlliflərin kitabxanaların sayının azalmasını 
+kompüter texnologiyalarının inkişafı ilə əlaqələndirməsi, 
+zənnimizcə, tam doğru deyildir. Bu texnologiyalar Azərbaycanda 
+son dövrlərdə inkişaf etməyə başlayıb. Belə ki, 2013-cü ildə ev 
+təsərrüfatlarının yalnız 53%-ində kompüter var idi (2005-ci ildə 
+7.3%) və onların yalnız 72%-də (2005-ci ildə 17%) İnternetə çıxış 
+imkanı var idi. 
+1990-2013-cü illər ərzində kitabxanalarda kitab fondu da 
+əhəmiyyətli dərəcədə azalmışdır. Belə ki, 1990-cı il ilə müqayisədə 
+2013-cü ildə kitabxanaların fondu 11.8 milyon nüsxə, oxucuların 
+sayı isə 2 dəfədən çox azalmışdır: 1988-ci ildə kitabxanalarda 3.3 
+milyon oxucu olduğu halda, 2013-cü ildə bu göstərici 1.4 milyon 
+olmuşdur. 
+ 
+ 
+Şəkil 20. Teatrlara gələnlərin sayı, min nəfər 
+ 
+15 Bəzi müəlliflərin kitabxanaların sayının azalmasını kompüter 
+texnologiyalarının inkişafı ilə əlaqələndirməsi, zənnimizcə, tam doğru 
+deyildir. Bu texnologiyalar Azərbaycanda son dövrlərdə inkişaf etməyə 
+başlayıb. Belə ki, 2013-cü ildə ev təsərrüfatlarının yalnız 53%-ində 
+kompüter var idi (2005-ci ildə 7.3%) və onların yalnız 72%-də (2005-ci ildə 
+17%) internetə çıxış imkanı var idi. 
+38 
+ 
+                                                 
+Artıq ötən əsrin 70-ci illərindən başlayaraq Azərbaycan 
+SSR-də teatra gələnlərin sayı yüksək səviyyədə idi – orta hesabla 
+hər il 1.8 milyon nəfər. 
+Son dövrlərdə teatrların sayının artmasına baxmayaraq 
+mədəni fəaliyyətin bu sahəsi 1988-ci il ilə müqayisədə iki dəfədən 
+artıq azalmışdır. Belə ki, 1988-ci ildə teatra gələnlərin sayı 1.7 
+milyon nəfər olduğu halda, 2013-cü ildə bu göstərici 0.6 milyon 
+nəfər təşkil etmişdir. 
+Muzeylərin sayı isə SSRİ dövrü ilə müqayisədə təxminən 2 
+dəfə artmışdır. Ancaq bu artım muzeylərə gələnlərin sayının 
+artması ilə müşahidə olunmamışdır. Belə ki, 1988-ci ildə 
+Azərbaycan SSR-də 120 muzey olmuş və həmin ildə muzeylərə 
+gələnlərin sayı 3 557 min nəfər təşkil etmişdir. 2013-cü ildə ölkədə 
+228 muzey fəaliyyət göstərmiş və onlara gələn insanların sayı 
+2 212 min nəfər olmuşdur. Kinoteatr sahəsində də analoji 
+dəyişikliklər müşahidə olunmuşdur. Məsələn, 1988-ci ildə kino 
+seanslarına gələnlərin sayı 45.7 milyon olduğu halda, 2013-cü ildə 
+bu göstərici 0.18 milyon olmuşdur. 
+ 
+2. SƏNAYE 
+ 
+SSRİ dövründə Azərbaycan SSR sənaye cəhətdən inkişaf 
+etmiş respublikalardan birinə çevrilmişdi. Bunun ən mühüm 
+göstəricilərindən biri sənayedə istehsal vasitələrinin(A qrup 
+məhsulların) istehsalının əsas yer tutmasıdır. Belə ki, 1988-ci ildə 
+sənaye istehsalının 72%-i istehsal vasitələrindən (A-qrup), 28% isə 
+istehlak predmetlərindən (B-qrup) ibarət olmuşdur. Azərbaycanda 
+sənayenin inkişafı “islahatlar” başlanana qədər yüksək templə 
+davam edirdi. Lakin 1990-cı ildən başlayaraq sənaye sahələrində16 
+kəskin azalma müşahidə olunmuşdur. 
+16 Mədənçıxarma sənayesi istisna olmaqla. Əsasən neft və qaz hasilatı ilə 
+təmsil olunmuş bu sahədə (əgər 1990-cı il 100% qəbul etsək) 255% artım 
+müşahidə olunmuşdur. Ölkənin təbii sərvətlərinin hasil edilərək xam mal 
+39 
+ 
+                                                 
+ 
+ 
+ 
+Şəkil 21. Sənaye istehsalının indeksləri, faizlə (1990=100) 
+ 
+Sonrakı illərdə sənaye istehsalında bəzi canlanma müşahidə 
+olunmasına baxmayaraq, 1990-cı ilin istehsal səviyyəsi hələ də 
+bərpa olunmamışdır. Müqayisə üçün nəzərə almaq lazımdır ki, 
+SSRİ dövründə 1980-1988-ci illər ərzində emal sənayesində 132% 
+artım müşahidə olunmuşdur (1980=100). Bu dövr ərzində 
+ümumilikdə sənayenin inkişafı 130.3%-ə çatmış (1980=100), yəni 
+artım demək olar ki, bütünlüklə emal sənayesi hesabına təmin 
+olunmuşdur. 
+Keçirilən islahatlara ən əvvəl sənaye müəssisələrinin 
+özəlləşdirilməsi ilə başlanıldı. 2000-ci ildə ölkədə fəaliyyət 
+göstərən sənaye müəssisələrinin 62% qeyri-dövlət mülkiyyətli 
+olmuş, onların sənaye istehsalında payı isə 48%-ə çatmışdı. 2012-
+ci ildə bu göstəricilər analoji olaraq 78% və 80% olmuşdur. Nəzər 
+alınmalıdır ki, əsas özəlləşdirilən sahə mədənçıxarma sənayesi 
+şəklində satılmasına münasibət bu kitabın məqsədlərini aşır və növbəti 
+yazılacaq işlərdə geniş yer alacaqdır. 
+40 
+ 
+                                                                                                             
+(yəni ən çox gəlir gətirən sahələr) olmuşdur. Aşağıdakı cədvəldə 
+sənaye sahələri üzrə özəlləşdirilmənin necə getdiyini müşahidə 
+etmək mümkündür. 
+ 
+Cədvəl 10. Sənaye istehsalının mülkiyyət formalarına görə 
+strukturu, yekuna nisbətən, faizlə 
+ 
+  1997 2012 
+Sənaye üzrə, cəmi 100 100 
+dövlət sektoru 74,9 19,9 
+qeyri-dövlət sektoru* 25,1 80,1 
+Mədənçıxarma sənayesi   100 100 
+dövlət sektoru 97,2 8,4 
+qeyri-dövlət sektoru 2,8 91,6 
+Emal sənayesi    100 100 
+dövlət sektoru 61,4 40,9 
+qeyri-dövlət sektoru 29,1 59,1 
+Elektrik enerjisi, qaz və buxar istehsalı, 
+bölüşdürülməsi və təchizatı 
+100 100 
+dövlət sektoru 100 98,9 
+qeyri-dövlət sektoru - 1,1 
+Su təchizatı, tullantıların  təmizlənməsi və 
+emalı 
+100 100 
+dövlət sektoru 75,0 71,4 
+qeyri-dövlət sektoru 25,0 28,6 
+ 
+İkinci vacib dəyişiklik özünü böyük zavod və fabriklərin 
+xırda müəssisələrə bölünməsi və sənaye sahələrində çalışan 
+işçilərin sayının azalmasında göstərmişdir. Belə ki, 1988-ci ildə 
+Azərbaycanda 1005 sənaye müəssisəsi və onlarda çalışan 452 min 
+işçi olmuşdur. 1995-ci ildə isə 2094 sənaye müəssisəsi və onlarda 
+çalışan 389 min nəfər olmuşdur. Ümumilikdə qeyd etmək lazımdır 
+ki, Azərbaycan sənaye potensialının bərpa olunması kadr təminatı 
+41 
+ 
+nöqteyi-nəzərindən çox çətin görünməkdədir. Belə ki, dövlət və 
+qeyri-dövlət ali təhsil müəssisələrini bitirən mütəxəssislərin 
+istiqamətlər üzrə bölgüsündə sənaye və tikinti sahəsində təhsil 
+alanların payının azalması müşahidə olunur.17 Azərbaycan SSR-in 
+statistik məlumatlarının müasir statistika ilə müqayisəsi çətin olsa 
+da, bir sıra məqamlara diqqət yetirmək yerinə düşərdi (cədvəl 11). 
+ 
+Cədvəl 11. Dövlət və qeyri-dövlət ali təhsil müəssisələrini bitirən 
+mütəxəssislərin istiqamətlər üzrə bölgüsü 
+ 
+İstiqamət 1988 2013 
+Sənaye və tikinti 31% 21% 
+Kənd təsərrüfatı 11% 1% 
+İqtisadiyyat və hüquq 5% 45%18 
+Səhiyyə, idman və bədən tərbiyəsi 9% 2% 
+Təhsil 40% 24% 
+İncəsənət və kinematoqrafiya 3% 3% 
+ 
+Göründüyü kimi, ali təhsil müəssislərinin hazırladığı 
+mütəxəssislərin təxminən yarısı iqtisadiyyat və digər sosial 
+ixtisaslar üzrə təhsil alırlar və bu artım əsasən sənaye və kənd 
+təsərrüfatı ixtisasları hesabına təmin edilməkdədir. 
+Əsas sənaye sektorlarının göstəricilərini təhlil edək. 
+17  Daha dəqiq desək, müasir statistika “sənaye və tikinti” ixtisası üzrə 
+məlumatları dərc etmir. Lakin rəsmi statistikada “texniki və texnoloji 
+ixtisaslar qrupu” adlı bölgü vardır. Təbii ki, burada yalnız sənaye və tikinti 
+sahəsinin mütəxəssisləri haqqında məlumat əks etdirilməyib. Lakin başqa bir 
+mənbənin olmaması bu məlumatı istifadə etməyə məcbur edir. 
+18 Bunun 24%-i “iqtisadiyyat və idarəetmə” ixtisası təşkil edir. Digər hissə 
+isə “humanitar və sosial” ixtisaslar qrupu ilə ifadə olunmuşdur. 
+42 
+ 
+                                                 
+2.1. Energetika 
+ 
+Burada ilk öncə neft və qaz istehsalını nəzərdən keçirmək 
+məqsədəuyğun olardı. Neft hasilatı sənaye sahəsində ən vacib 
+sahələrdən biridir. Azərbaycanda neft hasilatı islahatların 
+başlanması ilə azalmış sonrakı illərdə tarixi rekord həcmdə neft 
+hasil olunmağa başlamışdır. Nəzərə alınmalıdır ki, hasilatın artımı 
+ixracın artımı ilə müşahidə olunmuşdur. Lakin 2010-cu ildən 
+başlayaraq neft hasilatı getdikcə azalma tendensiyası göstərir. 
+ 
+ 
+Şəkil 22.Neft hasilatı 
+ 
+İslahatlar dövründə neft hasilatı kimi strateji bir sahədə 
+dövlət sektorunun payı azaldılmış və müvafiq olaraq özəl sektorun 
+payı artırılmışdır. Aşağıdakı cədvəldə bu prosesi  aydın şəkildə 
+görmək olar. 
+Özəl sektor gəlir əldə etməyi əsas məqsəd kimi gördüyü 
+üçün Azərbaycanda hasil olunan neftin çoxu ixrac olunur. Xam 
+neftin əmtəə balansına əsasən hasil olunan neftin ixrac olunan 
+hissəsinin payı 1997-ci ildə 3% olduğu halda, 2012-ci ildə bu 
+göstərici 85% olmuşdur. Ölkədə yeni boru xətlərinin çəkilməsi 
+43 
+ 
+planları irəli sürülür, “Avropanın enerji təhlükəsizliyini təmin 
+etmək” kimi yüksək dərəcədə ideolojiləşdirilmiş planlar qurulur.19 
+Müqayisə üçün, ümumilikdə SSRİ-də 1990-cı ildə hasil olunan 
+neftin yalnız 27.8% ixrac olunmuşdur.20 Həmçinin qeyd edək ki, 
+bu ixracın əsas hissəsi həmin dövrdə “müttəfiq” ölkələrə 
+yönəldilirdi. 
+ 
+Cədvəl 12. Sənaye istehsalının mülkiyyət formalarına görə 
+strukturu, yekuna nisbətən, faizlə 
+  1997 2012 
+Xam neft və təbii qaz hasilatı 100 100 
+dövlət sektoru 97,3 7,4 
+qeyri-dövlət sektoru 2,7 92,6 
+ 
+Neft və qaz hasilatı və ixracı Azərbaycanın ixrac etdiyi 
+məhsulların əsas maddələrini təşkil edir və ölkə büdcəsinin 
+gəlirlərinin yarıdan çoxunun mənbəyidir. Belə ki, Dövlət Neft 
+Fondunun 2013-cü illik hesabatına əsasən dövlət büdcəsinə 
+transferlər 11 350 21 milyon manat təşkil etmişdir, bu isə büdcə 
+gəlirlərinin 59%-ni təşkil edir. Bu o deməkdir ki, 2013-cü ildə 
+büdcəyə daxil olan hər 100 manatın 59 manatı neft fondunun 
+transferi hesabına mümkün olmuşdur.  
+Lakin qeyd edildiyi kimi, neft hasilatı 2010-cu ildən azalma 
+tendensiyası göstərməkdədir, qaz hasilatı isə 2007-2008-ci illərdə 
+19  İnkişaf etmiş ölkələri xammal ilə təmin etmək və onların hazır 
+məhsullarını almaq “beynəlxalq əmək bölgüsünə” əsasən dünya 
+kapitalizminin periferiya ölkələrinin əsas vəzifələrindəndir. 
+20 Bəzi “ekspertlər” insanları inandırmaq istəyirlər ki, hal-hazırda aparılan 
+neft ixracı siyasəti SSRİ dövründə ixrac siyasətinin davamıdır. Belə 
+mülahizələr əsasında insanlar fikirləşirlər ki, mövcud iqtisadi sistemdə SSRİ 
+dövründə müşahidə olunan istehsal və istehlak səviyyəsi bərpa oluna bilər. 
+Lakin bu metodoloji əvəzetmədir: SSRİ iqtisadiyyatı keyfiyyətcə müasir 
+iqtisadiyyatdan fərqli olub. 
+21 http://www.oilfund.az/uploads/annual_2013az.pdf 
+44 
+ 
+                                                 
+yüksək artım göstərmiş və hasilat nisbətən stabilləşmişdir. Ona 
+görə neft-qaz hasilatının perspektivləri də çox da parlaq görünmür. 
+Belə ki, Azərbaycan SSR dövründə dərin qazma işləri yüksək 
+səviyyədə təşkil edilmişdi. Müasir dövrdə Statistika komitəsinin 
+rəsmi saytında qazma işləri üzrə ətraflı məlumat tapmaq mümkün 
+olmasa da, Azərbaycan Milli Elmlər Akademiyasının Geologiya və 
+Geofizika İnstitutunun məlumatına əsasən: “Xəzərdə vəd edilən 
+yataqlar 700-1000 m. dərinlikdə yerləşir. Hal-hazırda ARDNŞ 
+(SOCAR) dərinliyi 150-200 m-dən çox olmayan quyular qazır, 
+halbuki dünya daha da yüksək dərinliklərdə qazma təcrübəsinə 
+malikdir. Məsələn Braziliya neft şirkəti “PetroBraz” Atlantik 
+okeanında dərinliyi 1420 m., 1709 m. və 1853 m. olan quyular 
+qazmışdır”.22 Müqayisə üçün Azərbaycan SSR-də qazılmış neft-
+qaz quyularının orta dərinliyi 1980-ci ildə - 4030 m., 1986-ci ildə - 
+3363 m., 1988-cı ildə - 3396 m. olmuşdur. 
+ 
+Cədvəl 13. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(mineral məhsullar) 
+Min ABŞ dolları İdxal İxrac Saldo 
+Cəmi 358,236.9 22,255,821.0 21,897,584 
+Duz, kükürd, torpaq və 
+daş, əhəng və sement 204,536.3 9,019.6 -195,517 
+Filizlər, şlaklar və kül 10,470.8 16,982.7 6,512 
+Mineral yanacaq, neft və 
+neft emalı məhsulları 143,229.8 22,229,818.7 22,086,589 
+ 
+Yekunda xarici ticarətin dinamikasına nəzər yetirək. 
+Göründüyü kimi Azərbaycanın dünya bazarlarında ən 
+rəqabətədavamlı məhsulu xam neft və təbii qaz kimi yerin təkindən 
+çıxan məhsullardır. 
+ 
+22 http://www.gia.az/view.php?lang=az&menu=46&id=832 
+45 
+ 
+                                                 
+ 
+2.2. Elektroenergetika 
+ 
+Energetika sahəsinin vəziyyəti istənilən ölkə 
+iqtisadiyyatının səviyyəsini və effektivliyini müəyyən edən əsas 
+göstəricilərdən biridir. Digər sahələrdə olduğu kimi islahatlar 
+elektroenergetikadan da yan keçməmişdir. İslahatlar istehsalda 
+kəskin azalma ilə başlamış, lakin sonrakı illərdə artım bərpa 
+olunmuşdur (2006-cı ildə 1990-cı ilin istehsal göstəricisindən artıq 
+elektrik enerjisi istehsal olunmuşdur). Müqayisə üçün nəzərə 
+alınmalıdır ki, 1970-1988-ci illər ərzində SSRİ-də qəbul olunmuş 
+Energetika planına əsasən Azərbaycan SSR-də elektrik enerjisi 
+istehsalı təxminən iki dəfə artırılaraq 23 572 milyon kv-saat təşkil 
+etmişdir. 
+ 
+ 
+ 
+Şəkil 23. Elektrik enerjisi istehsalı 
+ 
+Azərbaycan SSR ilə müqayisədə bu istehsal sahəsində 
+əmək məhsuldarlığında azalma müşahidə olunmuşdur. Belə ki, 
+əgər 1990-cı ildə elektroenergetikada 1 işçiyə düşən istehsal 1.2 
+milyon kv-saat olduğu halda, 1995-ci ildə bu göstərici 0.46, 2000-
+ci ildə 0.7, 2012-ci ildə 0.78 olmuşdur. Göründüyü kimi, son 
+46 
+ 
+illərdə məhsuldarlıqda müəyyən artım olsa da, 1990-cı ilin 
+səviyyəsi hələ ki, bərpa olunmamışdır. 
+Elektrik stansiyalarının gücünün artımı pozitiv göstərici 
+sayıla bilər. Belə ki, 1990-cı il ilə müqayisədə istilik enerji 
+stansiyalarında güc artımı 1108 Mvt (və ya 26%), su elektrik 
+stansiyalarında isə 235 Mvt (və ya 30%) artım müşahidə 
+olunmuşdur. Yuxarıda qeyd edildiyi kimi, Azərbaycan SSR-də 
+müşahidə olunan yüksək artım templəri müasir dövrdə 
+elektroenergetikada artım potensialının tam istifadə edilməməsinə 
+dəlalət etməkdədir. 
+ 
+2.3. Metallurgiya 
+ 
+Təhlilə başlamazdan əvvəl qeyd edilməlidir ki, 
+Azərbaycanda əsas növ sənaye məhsullarının istehsalının 
+dinamikası yalnız 2005-ci ildən başlayaraq rəsmi statistikada öz 
+əksini tapmışdır. Metallurgiya sektorunun təhlilini bu sahənin 
+xammalı olan dəmir filizinin istehsalının təhlili ilə başlamaq 
+məqsədəuyğun olardı. Aşağıdakı qrafikdə dəmir filizinin 
+istehsalında baş verən dəyişikliklər aydın görünür. 2005-ci ildə 
+ölkədə dəmir filizinin istehsal həcmi 1988-ci ilin göstəricisində 
+99.5 dəfə, 2012-ci ildə isə müvafiq olaraq 3.5 dəfə az olmuşdur. 
+Zənnimizcə, bu sektora islahatların təsiri haqqında başqa bir şərhə 
+ehtiyac yoxdur. 
+ 
+ 
+Şəkil 24. Dəmir filizi istehsalı, min ton 
+47 
+ 
+“İnkişaf etmiş ölkələr” üzrə polad istehsalı çox vacib 
+göstərici sayılır. Polad maşınqayırma üzrə ən əsas tikinti 
+materiallarından hesab olunur və onun istehlakının dinamikasına 
+əsasən ölkədə maşınqayırmanın və tikintinin inkişafından və 
+ümumilikdə ölkə iqtisadiyyatının investisiya imkanlarından 
+danışmaq olar. Polad istehsalının dinamikası aşağıdakı qrafikdə 
+əks olunmuşdur. 
+ 
+ 
+ 
+Şəkil 25. Polad istehsalı, min ton 
+ 
+ 
+Şəkil 26. Polad boruların istehsalı, min ton 
+48 
+ 
+ 
+Göründüyü kimi, 2005-ci ildə ölkədə poladtökmə 1988-ci 
+ilin göstəricisindən təxminən 3 dəfə, 2012-ci ildə isə müvafiq 
+olaraq təxminən 2 dəfə az olmuşdur. Müvafiq olaraq polad 
+borularının istehsalı da azalmışdır. Belə ki, 2005-ci ildə ölkədə 
+istehsal olunan polad borular 1988-ci ilin göstəricindən təxminən 
+465 dəfə, 2012-ci ildə isə təxminən 10 dəfə az olmuşdur. 
+Belə ki, böhran vəziyyətində dövlət xərclərinin böyük 
+hissəsi neft-qaz ixracından gələn vəsaitlə təmin edilir. Lakın bu 
+sahənin minimal şərtlərlə fəaliyyətini təmin etmək üçün boruların 
+daxili istehsalı təmin edilməmişdir. 
+Metallurgiyanın vacib sahəsi qara metal prokatının 
+istehsalıdır. Aşağıdakı qrafikdə qara metal prokatının istehsalının 
+dinamikası əks etdirilib. Nəzərə almaq lazımdır ki, Statistika 
+Komitəsi SSRİ dövründə dərc edilən bu metallurgiya məhsulunun 
+dinamikası haqqında məlumatı artıq dərc etmir. Bu səbəbdən 
+müqayisə məqsədi ilə Azərbaycan SSR-də dərc edilən qara-metal 
+prokatı müasir statistikanın armatur, polad borular və qara 
+metaldan məftil və kanatların istehsalı dinamikası ilə müqayisə 
+edilmişdir. İstehsalda baş verən azalmanın əlavə şərhə ehtiyacı 
+yoxdur. 
+ 
+ 
+Şəkil 27. Qara metal prokatı, min ton 
+49 
+ 
+ 
+Bu cür metallurgiya bazasında, sənayedə, nəqliyyatda və 
+tikintidə əhəmiyyətli inkişaf gözləmək doğru olmazdı. İdxal edilən 
+metallurgiya məmulatları ilə yalnız müəyyən dövr artım təmin 
+etmək olar. Adi poladın və prokatın istehsalının təxminən 2 dəfə 
+azalması artıq sənayedə olan böhran vəziyyətini əks etdirir. 
+Qeyd edilməlidir ki, 90-cı illərdən başlayaraq metallurgiya 
+sahəsində müşahidə olunan azalma heç də alternativ tikinti 
+materiallarının artımı ilə müşayiət olunmamışdır. Belə ki, son 
+dövrlərin texniki inkişaf göstəricilərindən biri maşınqayırmada və 
+tikintidə metalın plastmasla əvəz olunmasıdır. Lakin bu göstərici 
+üzrə də Azərbaycan SSR müasir dövrlə müqayisədə üstün 
+mövqedədir. Belə ki, 2005-ci ildə ölkədə istehsal olunan rezin və 
+plastmas məmulatlarının çəkisi 1988-ci ilin göstəricisindən 
+təxminən 15 dəfə, 2012-ci ildə isə müvafiq olaraq təxminən 2 dəfə 
+az olmuşdur. 
+ 
+ 
+Şəkil 28. Rezin və plastmas məmulatlar istehsalı, min ton 
+ 
+Rezin və plastmas məmulatları üzrə xarici ticarətin 
+dinamikasına nəzər salaq. Göründüyü kimi istehsalda son illərdə 
+qeydə alınan artım daxili tələbatı ödəmədiyi üçün bu qrup 
+50 
+ 
+məhsullar üzrə 224 mln. ABŞ dolları məbləğində mənfi ticarət 
+saldosu yaranmışdır. 
+ 
+Cədvəl 14. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(plastik kütlələr, kauçuk, rezin, onlardan hazırlanan məmulatlar) 
+ 
+Min ABŞ dolları İdxal İxrac Saldo 
+Cəmi 346,943 122,616 -224,328 
+Plastik kütlələr və onlardan 
+hazırlanan məmulatlar 278,361 122,104 -156,257 
+Kauçuk, rezin və onlardan 
+hazırlanan məmulatlar 68,582 512 -68,071 
+ 
+Qeyd üçün nəzərə alaq ki, Azərbaycan SSR dövründə dərc 
+olunmuş statistik məcmuədə aşağıdakı məlumatlar qeyd 
+olunmuşdur: «Sintetik qətran və plastik kütlə istehsalının əldə 
+olunan səviyyəsi, xalq təsərrüfayının quraşdırma materiallarına 
+olan ehtiyacını təmin etmir, xalq təsərrüfatının mütərəqqi 
+strukturunun təşəkkülünü ləngidir.».23 
+Ümumilikdə metallurgiya sektoru üzrə xarici ticarətin 
+dinamikası aşağıdakı cədvəldə əks etdirilmişdir. 
+Göründüyü kimi metallurgiya məhsulları üzrə idxaldan 
+böyük asılılıq müşahidə olunmaqdadır. (2013-cü ildə Azərbaycan 
+idxalının 12%-i məhz bu məhsulların payına düşmüşdür). Statistika 
+komitəsinin dərc etdiyi “Metallurgiya sənayesi müəssisələrinin 
+işinin əsas göstəriciləri” cədvəlində Azərbaycanda alüminium 
+istehsalı üzrə heç bir məlumat əks etdirilməsə də, ticarət balansında 
+“Alüminium və ondan hazırlanan məmulatlar” bölməsi diqqəti cəlb 
+edir.  
+ 
+23 Народное хозяйство Азербайджанской ССР в 1988 г./Статистический 
+ежегодник, Азербайджанское Государственное Издательство, Баку 
+1990, стр.258. 
+51 
+ 
+                                                 
+Cədvəl 15. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(azqiymətli metallar və onlardan hazırlanan məmulatlar) 
+ 
+Min ABŞ dolları İdxal İxrac Saldo 
+Cəmi 1,301,316.9 187,565.6 -1,113,751.3 
+Qara metallar 381,297.3 42,926.9 -338,370.4 
+Qara metallardan məmulatlar 751,591.3 53,443.8 -698,147.5 
+Mis və ondan hazırlanan 
+məmulatlar 
+28,443.2 5,095.4 -23,347.8 
+Nikel və ondan hazırlanan 
+məmulatlar 
+1,712.7 - - 
+Alüminium və ondan 
+hazırlanan məmulatlar 
+41,600.9 82,816.2 41,215.3 
+Qurğuşun və ondan 
+hazırlanan məmulatlar 
+493.5 2,600.5 2,107.0 
+Sink və ondan hazırlanan 
+məmulatlar 
+2,228.5 - - 
+Qalay və ondan hazırlanan 
+məmulatlar 
+264.8 - - 
+Digər azqiymətli metallar; 
+metal keramikası 
+900.5 - - 
+Azqiymətli metallardan 
+alətlər, qurğular, bıçaq, qaşıq 
+və çəngəllər 
+63,597.4 569.9 -63,027.5 
+Azqiymətli metallardan 
+hazırlanan digər məmulatlar 
+29,186.8 112.9 -29,073.9 
+ 
+Göründüyü kimi bu məhsul üzrə, digər metallurgiya 
+məhsullarından fərqli olaraq, müsbət saldo qeydə alınıb və bu heç 
+də təsadüfi deyildir. Belə ki, dünya iqtisadiyyatında qəbul edilmiş 
+həqiqət ondan ibarətdir ki, alüminium ixracı enerji daşıyıcı ixracına 
+(enerji sərfiyyatlılıq səbəbindən) bərabər tutulur. Yenə də, dünya 
+bazarlarında Azərbaycanın ən rəqabətqabiliyyətli məhsulu kimi 
+enerjidaşıyıcıları çıxış edir. 
+ 
+52 
+ 
+2.4. Maşınqayırma 
+ 
+Maşınqayırma sektoru üzrə azalma həm assortiment 
+sayında, həmdə fiziki həcm indekslərində müşahidə olunmuşdur. 
+Qeyd etmək lazımdır ki, SSRİ-də maşınqayırmanın inkişaf 
+səviyyəsi inkişaf etmiş ölkələrlə müqayisədə aşağı idi. Lakin, 90-cı 
+illərdən başlayaraq inkişafda olan bu fərq katostrofik həddə 
+çatmışdı. Müqayisəli təhlil aparmaq üçün Dövlət Statistika 
+Komitəsinin əsas sənaye məhsullarına daxil etdiyi maşınqayırma 
+məhsullarının və Azərbaycan SSR-də istehsal olunan 
+maşınqayırma məhsullarının dinamikasına nəzər salaq. 
+Dəyişkən cərəyanlı elektrik mühərriklərinin istehsalı 
+Azərbaycanda 2005-ci ildə 232 ədəd, 2012-ci ildə isə 316 ədəd 
+olmuşdur (orta hesabla 2005-2012-ci illərdə hər il 115 ədəd belə 
+mühərrik hazırlanmışdır). Azərbaycan SSR-də 1980-ci ildə 313 
+min, 1988-ci ildə isə 407 min ədəd bu cür mühərrik istehsal 
+olunmuşdur. Quyu nasoslarının istehsalında olan azalma isə 
+aşağıdakı qrafikdə əks olunub. Göründüyü kimi, rəqəmlər 
+müqayisə olunmayacaq qədər fərqlidirlər.  
+ 
+ 
+Şəkil 29. Ştanqlı quyu nasosları, min ədəd 
+ 
+53 
+ 
+ 
+Şəkil 30. Mancanaq dəzgahlarının istehsalı (min ədəd) 
+ 
+Neft sənayesinin vacib hissəsi olan mancanaq dəzgahlarının 
+istehsalında da kəskin azalma müşahidə olunmuşdur. Belə ki, 
+1988-ci ildə 6.2 min ədəd belə dəzgah istehsal olunduğu halda, 
+2005-ci ildə cəmi 141, 2012-ci ildə isə 628 ədəd mancanaq dəzgahı 
+istehsal olunmuşdur.  
+Siyahı üzrə növbəti məhsullar məişət kondisionerləri və 
+məişət soyuducularıdır.  
+ 
+ 
+ 
+Şəkil 31. Məişət avadanlıqları istehsalı 
+54 
+ 
+ 
+Yuxarıdakı qrafikdən göründüyü kimi bu məhsulların 
+istehsalında da kəskin azalma müşahidə olunmuşdur. Ucuz idxal 
+məhsulların yerli istehsalını əlverişsiz vəziyyətə salmışdır.  
+Maşınqayırma sənayesi məhsulları üzrə ticarətin 
+dinamikasına nəzər salaq. Bu cür məhsullarının idxalı cəmi idxalın 
+26%-ni təşkil edir və 90-cı illərdən başlayaraq artan trend göstərir.  
+ 
+Cədvəl 16. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+(maşınqayırma) 
+ 
+Min ABŞ dolları İdxal İxrac Saldo 
+Maşınlar, mexanizmlər, 
+elektrotexniki avadanlıqlar, 
+aparatura 
+2,758,293 57,576 -2,700,717 
+Nüvə reaktorları, qazanlar, 
+avadanlıqlar və mexaniki 
+qurğular, onların hissələri 
+2,012,935 28,493 -1,984,442 
+Elektrik maşınları və 
+avadanlıqları, aparatura, 
+onların hissələri 
+745,358 29,083 -716,275 
+Quru nəqliyyat vasitələri, uçan 
+aparatlar, üzən nəqliyyat 
+vasitələri 
+1,435,907 107,397 -1,328,510 
+Dəmiryol lokomotivləri və 
+tramvay vaqonları, digər 
+dəmiryol nəqliyyat vasitələri 
+42,922 301 -42,621 
+Quru nəqliyyat vasitələri 
+(dəmiryol nəqliyyat 
+vasitələrindən başqa) və 
+onların hissələri 
+905,874 9,708 -896,166 
+Gəmilər, qayıqlar və üzən 
+konstruksiyalar 
+46,958 46,559 -399 
+ 
+Nəqliyyat vasitələrinin idxalının əsas hissəsi quru nəqliyyat 
+vasitələrinin payına düşür və bu vasitələrin 84%-i isə minik 
+55 
+ 
+avtomobilləridir. Müqayisə üçün demək lazımdır ki,  idxal edilən 
+quru nəqliyyat vasitələrinin yalnız 6%-ni traktorlar, 4%-ni isə 
+avtobuslar təşkil edir.  
+ 
+2.5. Kimya sənayesi 
+ 
+Əsas növ kimya sənayesi məhsullarının istehsalının 
+dinamikasına nəzər yetirək. Müasir dövr kimya sənayesinin 
+Azərbaycan SSR-in kimya sənayesi ilə müqayisə etdikdə, ən əvvəl 
+nəzərə çarpan cəhət mineral gübrələrin və bitkilər üçün kimyəvi 
+qoruyucuların istehsalının dayandırılmasıdır. Azərbaycan SSR-də 
+intensiv bitkiçiliyin inkişafını təmin etmək məqsədi ilə mineral 
+gübrələrin istehsalı yüksək səviyyədə təşkil edilmişdi. Belə ki, 
+SSRİ dövründə Azərbaycanda 100% qidalı maddə hesabı ilə 
+aşağıdakı həcmdə mineral gübrə istehsal olunmuşdur: 1970-ci ildə 
+- 115 min ton, 1980-ci ildə - 219.7 min ton, 1985-ci ildə - 305.9 
+min ton, 1986-cı ildə 304.4 min ton, 1987-ci ildə - 312.5 min ton, 
+1988-ci ildə - 320.2 min ton.  
+ 
+ 
+Şəkil 32. Sulfat turşusu istehsalı (min ton) 
+ 
+56 
+ 
+Rəsmi statistik məlumatlara əsasən müasir dövrdə (2013-cü 
+ilə qədər) mineral gübrələrin istehsalı dayandırılmışdır, və yerli 
+tələbat idxal hesabına təmin olunmuşdur. Məsələn, 2013-cü ildə 
+daxili istifadə üçün 50.5 min ton mineral gübrə idxal edilmişdir 
+(1988-ci ildə olan daxili istehsalın 16%-i). Kənd təsərrüfatında 
+torpağa mineral gübrələrin verilməsinin müasir dövrdəki 
+vəziyyətinin daha ətraflı təhlili “Kənd təsərrüfatı” bölməsində əks 
+etdirilib. 
+Digər məhsulların dinamikasına nəzər salaq. Sulfat 
+turşusunun istehsalı 2012-ci ildə 1988-ci ilin istehsal ilə 
+müqayisədə 136 dəfə azalmışdır.  
+Analoji trend sintetik yuyucu vasitələrin istehsalının 
+dinamikasında da müşahidə olunur. Belə ki, 2012-ci ildə bu 
+məhsulların istehsalı 1988-ci ilin müvafiq göstəricisindən 139 dəfə 
+az olmuşdur. 
+Kaustik sodanın istehsalı 2012-ci ildə 1988-ci ilin istehsalı 
+ilə müqayisədə 787 dəfə azalmışdır.  
+ 
+ 
+ 
+Şəkil 33. Kaustik soda (maye) istehsalı (min ton) 
+ 
+57 
+ 
+Azərbaycan SSR-də kimya sənayesində yük avtomobilləri, 
+kənd təsərrüfatı maşınları və traktorlar, motosikl və motoroller 
+şinlərinin istehsalı təşkil edilmişdi. Məsələn, 1988-ci ildə ölkədə 
+1482.5 min ədəd şin istehsal edilmişdi. Hal-hazırda isə daxili 
+tələbat əsasən idxal vasitəsi ilə ödənilir. Məsələn, 2013-cü ildə 
+ölkəyə 822.4 min ədəd rezin şin idxal edilmişdir. 
+ 
+Cədvəl 17. Kimya sənaye məhsulları üzrə 2013-cü il üzrə idxal və 
+ixracın əmtəə strukturu (min ABŞ dolları) 
+ 
+Mal qrupları İdxal İxrac Saldo 
+Cəmi 751,263 57,170 -694,094 
+Qeyri üzvi kimyanın 
+məhsulları; qiymətli metallar 
+106,470 10,199 -96,271 
+Kimyəvi üzvi birləşmələr 34,817 34,705 -112 
+Əczaçılıq məhsulları 250,049 3,509 -246,540 
+Gübrələr 51,079 354 -50,725 
+Aşılayıcı və boyayıcı 
+ekstraktlar, boyalar və laklar 
+29,093 1,367 -27,726 
+Efir yağları, ətriyyat, kosmetika 
+və tualet vasitələri 
+52,282 91 -52,191 
+Sabun, yuyucu vasitələr və 
+analoji məmulatlar 
+100,489 202 -100,288 
+Zülal tərkibli maddələr, nişasta 
+və yapışqan, fermentlər 
+4,593 32 -4,561 
+Partlayıcı maddələr, pirotexnika 
+məmulatları, kibrit  
+6,174 6 -6,168 
+Foto və kino malları 2,367 0 -2,367 
+Digər kimyəvi məhsullar 113,851 6,705 -107,146 
+ 
+Lakin kimya sənayesində müəyyən pozitiv göstəriciləri də 
+qeyd etmək zəruridir. Məsələn, 2012-ci ildə polietilen istehsalı 
+(67.2 min ton) 1988-ci ilin müvafiq göstəricisindən (50.6 min ton) 
+58 
+ 
+33% artıq olmuşdur. Lakin daha dərin təhlil istehsalın artımının 
+əsas səbəbini ortaya çıxarır. Belə ki, ölkədə istehsal olunan etilen 
+polimerlərinin 85% (57.14 min tonu) ilkin formada ixrac 
+edilmişdir. 
+Kimya sənayesi üzrə xarici ticarətin dinamikasına nəzər 
+yetirək. Digər emal sənayesi sektorlarında olduğu kimi burada da 
+mənfi ticarət saldosu qeydə alınıb. 
+ 
+2.6. İstehlak məhsullarının istehsalı 
+ 
+İslahatlar zamanı xarici ticarətin liberallaşdırılması yerli 
+istehsalın kəskin azalması ilə müşahidə olunmuşdur. Nəticədə, 
+yüngül sənayedə ən geniş istehsal sahəsi olan tekstil istehsalı çox 
+böyük itkilərlə üzləşmişdir. İslahatlar bütün növ parçaların 
+istehsalının kəskin azalmasına səbəb olmuşdur. Mövcud statistika 
+parça istehsalının getdikcə azaldığını göstərir. 
+ 
+ 
+Şəkil 34. Bütün növ parçaların istehsalı (milyon kv.metr) 
+ 
+1988-ci ildə Azərbaycan SSR-də 185 milyon kvadrat metr 
+parça istehsal olunmuşdur. 2005-ci ildə bu göstərici 3.6 milyon 
+kvadrat metr (52 dəfə az), 2012-ci ildə isə 0.9 milyon kvadrat metr 
+(206 dəfə az) olmuşdur. Müvafiq olaraq 1988-ci il ilə müqayisədə 
+2012-ci ildə ölkədə 25 dəfə az pambıq parça istehsal olunmuşdur. 
+Nəticədə pambıq parçaların idxalı 2012-ci ildə 14.9 milyon 
+59 
+ 
+kv.metr təşkil etmişdir. İpək parçaların istehsalı üzrə isə müvafiq 
+dövr ərzində 5 dəfə azalma müşahidə olunmuşdur. 
+ 
+ 
+ 
+Şəkil 35. Xalça və xalça məmulatları (min kv.metr) 
+ 
+Xalça və xalça məmulatlarının istehsalında da “fəlakət” baş 
+vermişdir. 1988-ci il ilə müqayisədə 2012-ci ildə istehsal təxminən 
+1980 dəfə azalmışdır. Belə ki, 1988-ci ildə Azərbaycan SSR-də 
+3763 min kv.metr xalça və xalça məmulatları istehsal olunduğu 
+halda, 2012-ci müvafiq göstərici 1.9 min kv.metr olmuşdur.  
+Toxuculuq materialları üzrə xarici ticarətin dinamikasına 
+nəzər salaq.  
+Göründüyü kimi ixracın əsas hissəsinin toxuculuq 
+sənayesinin xammalı olan pambıq təşkil edir. Ölkədə müasir 
+dövrdə pambıq istehsalı aşağı düşsə də, bu xammala dünya 
+bazarlarında ehtiyac vardır – bu səbəbdən müsbət saldo qeydə 
+alınıb. 
+Statistika komitəsinin saytında əsas toxuculuq məhsulları 
+kimi göstərilmiş digər məhsullar üzrə Azərbaycan SSR dövrü ilə 
+müqayisədə dəyişmə aşağıdakı cədvəldə əks etdirilmişdir. 
+60 
+ 
+Cədvəl 18. Toxuculuq materialları və məmulatları üzrə 2013-cü il 
+üzrə idxal və ixracın əmtəə strukturu (min ABŞ dolları) 
+Mal qrupları İdxal İxrac Saldo 
+Cəmi 93,827 58,215 -35,613 
+İpək 1,256 1,312 56 
+Yun, zərif və ya qaba heyvan tükü 494 - - 
+Pambıq 1,866 31,818 29,952 
+Digər bitki mənşəli toxuculuq 
+lifləri, kağız iplik, kağız iplikdən 
+parçalar 
+595 - - 
+Kimyəvi saplar 8,779 3,262 -5,517 
+Kimyəvi  liflər 6,109 0 -6,109 
+Pambıq, keçə və sair toxunmamış 
+materiallar, kəndir, ip 7,762 63 -7,699 
+Xalçalar və digər toxunma döşəmə 
+örtükləri 7,498 75 -7,424 
+Xüsusi parçalar, krujeva, qobelen, 
+tikmələr 546 343 -204 
+Hopdurulmuş, üzlüklü toxuculuq 
+materialları 4,452 1,200 -3,252 
+Maşınla və ya əllə toxunma 
+trikotaj parçalar 195 0 -195 
+Toxunmuş trikotaj geyim əşyaları 
+və ləvazimatları 6,578 622 -5,956 
+Paltar və geyim ləvazimatları 
+(trikotajdan başqa) 32,224 526 -31,698 
+Digər hazır toxuculuq 
+məmulatları, işlənmiş geyimlər 15,473 18,994 3,521 
+ 
+Bu sənayenin məhsulları üzrə xarici ticarətin dinamikasına 
+nəzər salaq. Göründüyü kimi yerli istehsalın azalması idxal vasitəsi 
+ilə kompensasiya edilmişdir. 
+ 
+61 
+ 
+Cədvəl 19. Toxuculuq sənayesi məhsulları  
+(ayaqqabılar daxil olmaqla) 
+ 
+  1988 2012 Dəyişmə 
+Corab məmulatları, milyon 
+cüt 44,1 5,6 8 dəfə azalma 
+Pambıq mahlıcı, min ton 218,8 22,9 10 dəfə azalma 
+Ayaqqabı, milyon cüt 20,2 0,5 40 dəfə azalma 
+ 
+ 
+Cədvəl 20. Ayaqqabı, baş geyimləri və sair məmulatlar üzrə  
+2013-cü ildə idxal və ixracın əmtəə strukturu (min ABŞ dolları) 
+ 
+Mal qrupları İdxal İxrac Saldo 
+Cəmi 11,457.7 225.4 -11,232 
+Ayaqqabı, getrlər və analoji 
+məmulatlar 
+9,864.7 217.5 -9,647 
+Baş geyimləri və onların 
+hissələri 
+614.1 7.5 -607 
+Çətirlər, çəliklər, oturacaqlar, 
+qırmanc, qamçılar və onların 
+hissələri 
+854.1 - - 
+Lələk və quş tükü; süni güllər; 
+quş tükü və insan saçından 
+hazırlanan məmulatlar 
+124.8 0.4 -124 
+ 
+ 
+Vacib sahələrdən biri də mebel sənayesidir. Azərbaycan 
+SSR-də olan istehsal yeni dövrdə bu sahədə də kəskin azalma ilə 
+müşahidə olunmuşdur. 
+ 
+62 
+ 
+ 
+ 
+Şəkil 36. Mebel istehsalı 
+ 
+İstehsalda azalma yerli tələbatın idxal hesabına ödənilməsi 
+ilə nəticələnmişdir. Bunu aşağıdakı cədvəldə aydın görmək olar. 
+ 
+Cədvəl 21. Müxtəlif sənaye malları üzrə 2013-cü ildə idxal və 
+ixracın əmtəə strukturu 
+ 
+Mal qrupları İdxal İxrac Saldo 
+Min ABŞ dolları 204,392.8 1,419.9 -202,972.9 
+Mebel 150,333.2 1,281.9 -149,051.3 
+Oyuncaqlar, oyunlar və 
+idman avadanlıqları 25,245.0 17.1 -25,227.9 
+Müxtəlif  hazır  məmulatlar 28,814.6 120.9 -28,693.7 
+ 
+Ümumiyyətlə, qeyd edilməlidir ki, sənaye istehsalı üzrə 
+bütün assortiment deyil, yalnız 2005-2012-ci illər üzrə statistikası 
+dərc edilmiş məhsullar üzrə təhlil aparılmışdır. Məsələn, 
+Azərbaycan SSR-də uşaq velosipedlərinin sənaye istehsalı təşkil 
+edilmişdi. Müasir statistikada belə “əhəmiyyətsiz” məlumatlara yer 
+verilmir və ya sadəcə bu istehsal tamamilə dayandırılmışdır. 
+63 
+ 
+3. TİKİNTİ 
+3.1. Tikinti materiallarının istehsalı 
+ 
+Maşınqayırma ilə bir yerdə tikinti ölkə iqtisadiyyatının 
+inkişaf imkanlarını müəyyən edir. Əvvəlcə ölkədə istehsal olunan 
+tikinti materiallarının dinamikasına nəzər yetirək. Ən əsas tikinti 
+materiallarından biri sementdir. Sement istehsalının dinamikası 
+aşağıdakı şəkildə əks etdirilmişdir.  
+ 
+ 
+Şəkil 37.Sement istehsalı (min ton) 
+ 
+Göründüyü kimi müasir dövrdə sement istehsalı 
+Azərbaycan SSR-də olan sement istehsalını üstələyir və bu isə öz 
+növbəsində pozitiv bir haldır. Lakin nəzərə alınmalıdır ki, 
+istehsalın mövcud səviyyəsi daxili tələbi tam ödəmir və bu 
+məqsədlə idxaldan istifadə edilir. Məsələn, 2013-cü ildə 2 580 min 
+ton sement və sement klinkerləri idxal edilmişdir. 
+Digər vacib tikinti materialı kərpicdir. 2006-2010-cu illərdə 
+istehsal olunan kərpicin həcmi (orta hesabla hər il 286 min kub 
+metr) 1988-ci ilin müvafiq göstəricisindən (250 min kub metr) çox 
+olmuşdur. 2013-cü ildə isə ölkədə kərpic istehsalı 450 min kub 
+metr təşkil etmişdir.  
+64 
+ 
+Çox kəskin azalma, təxminən 68 dəfə, yığma dəmir-beton 
+konstruksiyaların istehsalında baş vermişdir.  
+ 
+ 
+Şəkil 38. Yığma dəmir beton konstruksiyaların istehsalı,  
+min kub m. 
+ 
+Azərbaycan SSR-də tikinti şüşəsinin daxili istehsalı yüksək 
+səviyyədə təşkil edilmişdi. Lakin 2012-ci ildə ölkədə istehsal 
+olunan tikinti şüşəsinin həcmi 1988-ci ilin müvafiq göstəricisindən 
+56830 dəfə azdır, yəni demək olar ki, istehsal dayandırılmışdır. 
+İstehsalı demək olar ki dayandırılan digər material tikinti 
+bloklarıdır. 2012-ci ildən sonra ölkədə istehsal tamamilə 
+dayandırılmışdır. Müqayisə üçün 1988-ci ildə sementdən, süni 
+daşdan və ya betondan hazırlanan tikinti blokları 1465 mln. ədəd 
+şərti kərpic təşkil etmişdir. Analoji göstərici 2001-ci ildə (son 
+istehsal ili) 3.4 mln. ədəd şərti kərpic olmuşdur. Ölkədə asbest 
+sement lövhələrin (şifer) istehsalı da dayandırılmışdır. 1988-ci ildə 
+Azərbaycan SSR-də 91.8 mln. şərti vərəq şifer istehsal olunduğu 
+halda, 2001-ci ildə (son istehsal ili) 34.4 mln. şərti vərəq təşkil 
+etmişdir. 
+ 
+65 
+ 
+ 
+Şəkil 39. Pəncərə şüşəsinin istehsalı, min kv. metr 
+ 
+ 
+ 
+Şəkil 40. Keramik plitələrin istehsalı (min kv.m.) 
+ 
+Sanitar keramika məmulatlarının istehsalı da ölkə 
+ərazisində dayandırılmışdır. Belə ki, 1988-ci ildə 67 min ədəd bu 
+cür məmulat istehsal olunduğu halda, 2008-ci ildə (son istehsal ili) 
+bu göstərici 0.2 min ədəd təşkil etmişdir.Vacib tikinti materialı 
+olan taxta yonqar pilətələrin də istehsalı dayandırılmışdır. 1988-ci 
+66 
+ 
+ildə Azərbaycan SSR-də 211 min kub metr taxta yonqar pilətələr 
+istehsal olunduğu halda, 2012-ci ildə (statistik məlumat olan son 
+istehsal ili) bu göstərici 0.1 min kub metr təşkil etmişdir. Taxta 
+materiallara olan tələbat əsasən idxal hesabına təmin edilir. Belə ki, 
+2013-cü ildə uzununa doğranmış meşə materiallarının idxalı 867 
+min kub metr, ağac yonqarlı pilətələrin idxalı isə 186 min kub metr 
+təşkil etmişdir və bu idxal olunan bütün meşə sənayesi 
+məhsullarının siyahısı deyil. 
+Əhəng istehsalında da azalma müşahidə olunmuşdur. 1988-
+ci ildə Azərbaycan SSR-də 74.8 min ton tikinti əhəngi istehsal 
+olunduğu halda, 2012-ci ildə bu göstərici 16.9 min ton (yəni 4 
+dəfədən çox azalma) təşkil etmişdir.  
+Girişdə qeyd etdiyimiz kimi SSRİ “alverçi” dövlət deyildi. 
+“Alverin” iqtisadiyyatın əsas motivi olmasına yönlənmiş müasir 
+iqtisadiyyatın xarici ticarət balansını nəzərdən keçirək. Göründüyü 
+kimi bütün məmulatlar üzrə mənfi ticarət saldosu qeydə alınmışdır. 
+ 
+Cədvəl 22. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+ (min ABŞ dolları) 
+Mal qrupları İdxal İxrac Saldo 
+Daş, gips, sement, asbest, 
+slyuda, keramika və şüşədən 
+məmulatlar 
+199,238 3,668 -195,570 
+Daş, gips, sement, asbest, 
+slyuda və analoji materiallardan 
+məmulatlar 
+80,945 822 -80,123 
+Keramika məmulatları 49,869 237 -49,632 
+Şüşə və ondan hazırlanan 
+məmulatlar 68,424 2,609 -65,815 
+ 
+3.2. Tikinti sektorunun maşın təminatı 
+ 
+Azərbaycan SSR-i ilə müqayisədə müasir dövrdə tikinti 
+sektorunun maşınlarla təminatı da əhəmiyyətli dərəcədə azalmışdır. 
+67 
+ 
+Ən əsas tikinti maşınlarından biri olan hərəkətedici kranların sayı 
+2013-cü ildə 1990-cı il ilə müqayisədə təxminən 2 dəfə azalmışdır.  
+ 
+Şəkil 41. Hərəkətedici kranlar, ilin sonuna sayı, ədəd 
+ 
+Cədvəl 23. Əsas tikinti maşınlarının mövcudluğu, 
+ (ilin sonuna sayı, ədəd) 
+  1990 2013 Dəyişim, % 
+Ekskavatorlar 3 890 1 822 -53% 
+Skreperlər 773 140 -82% 
+Buldozerlər 3 179 836 -74% 
+Hərəkətedici kranlar, cəmi 3 922 1 809 -54% 
+  ondan:    
+qülləli 670 238 -64% 
+avtomobil gedişli 2 113 713 -66% 
+pnevmotəkərli gedişli 404 182 -55% 
+tırtıllı gedişli 710 458 -35% 
+Avtoqreyderlər 299 534 79% 
+Avtoyükləyicilər 591 440 -26% 
+Traktorlar 2 977 454 -85% 
+ 
+68 
+ 
+Ümumiyyətlə qeyd olunmalıdır ki, Azərbaycan SSR-də 
+yaradılmış yüksək maşın təminatı demək olar ki, bütün əsas maşın 
+kateqoriyaları üzrə (avtoqreyderlər istisna olmaqla) azalmışdır. 
+Bunu aşağıdakı cədvəldə aydın görmək olar. 
+ 
+3.3. Yaşayış və sosial mədəni obyektlərin tikintisi 
+ 
+“Bazar islahatları” nəticəsində yaşayış evlərinin tikilməsi 
+və istifadəyə verilməsi də azalmışdır. 2000-ci ildən başlayaraq 
+artım müşahidə olunmasına, və 2013-cü ildə 2403 min kv.metr 
+yaşayış evlərinin tikilməsinə baxmayaraq, 1990-cı ilin səviyyəsi 
+(2848 min kv.metr) hələ də bərpa olunmamışdır. 
+ 
+ 
+Şəkil 42. Yaşayış evlərinin tikintisi (ümumi sahə, min kv.metr) 
+ 
+Yaşayış evlərinin tikintisində keyfiyyət dəyişiklikləri də 
+müşahidə olunmuşdur. Belə ki, 1990-cı ildə istifadəyə verilən 
+yaşayış sahəsinin 54.5%-i kənd yerlərində, 45.5%-i isə şəhər 
+yerlərində olmuşdur. 2013-cü ildə isə bu göstəricilər müvafiq 
+olaraq 34.8% və 65.2% olmuşdur.  
+İslahatların başlanması ilə ümumtəhsil məktəblərinin 
+tikintisi kəskin azalmışdır. Lakin sonrakı dövrlərdə Azərbaycan 
+69 
+ 
+SSR-də mövcud olan tikinti tempi bərpa edilmiş və hətta artım 
+müşahidə olunmuşdur. Belə ki, 1990-cı ildə 39 387 şagird yeri olan 
+80 məktəb istifadə verildiyi halda, 2013-cü ildə 53 016 yeri olan 
+132 ümumtəhsil məktəbi tikilib istifadəyə verilmişdir. 
+ 
+ 
+Şəkil 43. Ümumtəhsil məktəblərinin istifadəyə verilməsi (sayı) 
+ 
+ 
+ 
+Şəkil 44. Məktəbəqədər təhsil müəssisələrinin istifadəyə 
+verilməsi (yer) 
+70 
+ 
+Məktəbəqədər təhsil müəssisələrinin tikilib istifadəyə 
+verilməsində analoji tendensiyalar müşahidə olunmur. İslahatların 
+başlaması ilə bu müəssisələrin istifadəyə verilməsi demək olar ki 
+dayanmış, sonrakı illərdə isə müəyyən artım olsa da, Azərbaycan 
+SSR-də mövcud olan səviyyə bərpa edilməmişdir. Belə ki, 1990-cı 
+ildə 5 595 yerlik məktəbəqədər təhsil müəssisəsi istifadə verildiyi 
+halda, 2013-cü ildə bu göstərici 3 388 yer təşkil etmişdir. 
+ 
+ 
+Şəkil 45. Xəstəxana müəssisələrinin istifadəyə verilməsi 
+(çarpayı sayı) 
+ 
+Son illərdə xəstəxanaların tikintisində və istifadəyə 
+verilməsində pozitiv tendensiyalar müşahidə olunur. Lakin nəzərə 
+çarpan vacib cəhət istifadəyə verilən xəstəxanaların demək olar ki, 
+100% şəhər yerlərində istifadəyə verilməsidir. Məsələn, 1990-cı 
+ildə Azərbaycan SSR-də istifadəyə verilmiş 1 366 çarpayının 301-i 
+kənd yerində istifadəyə verilmişdi. 2013-cü ildə bu göstəricilər 
+müvafiq olaraq 1 750 və 0 olmuşdur. 
+Klub və mədəniyyət evlərinin istifadəyə verilməsində iki 
+dəfədən çox azalma baş vermişdir. Azərbaycan SSR-də klub və 
+mədəniyyət evləri əsasən kənd yerlərində istifadəyə verilirdi, 
+71 
+ 
+müasir dövrdə isə bu sosial-mədəni obyektlər demək olar ki, yalnız 
+şəhər yerlərində istifadəyə verilirlər. 
+Kommunal obyektlərin istifadəyə verilmə dinamikasını 
+nəzərdən keçirək.  
+ 
+ 
+Şəkil 46. Su kəməri xətlərinin istifadəyə verilməsi, kilometr 
+ 
+Bazar islahatlarının başlaması ilə su xətlərinin istifadəyə 
+verilməsi kəskin azalıb, lakin 2000-ci illərdən başlayaraq artım 
+müşahidə olunmaqdadır. Statistika komitəsinin rəsmi məlumatına 
+əsasən Azərbaycan Respublikasında 2013-cü ildə su kəməri ilə 
+abadlaşdırılmış mənzillərin ümumi mənzil fondunda payı 87.3% 
+təşkil etmişdir. Həmçinin qeyd edilməlidir ki, bu pay 2000-ci ildən 
+başlayaraq azalma tendensiyası göstərir. Belə ki, 2000-ci ildə 
+müvafiq pay 91.8% təşkil etmişdir. Bunun səbəblərindən biri yeni 
+tikilən evlərin zəruri kommunal şəraitin yaradılmaması ola bilər. 
+Kanalizasiya xətlərinin tikilib istifadəyə verilməsində artım 
+müşahidə olunmuşdur. Lakin qeyd edilməlidir ki, Statistika 
+komitəsinin rəsmi məlumatına əsasən Azərbaycan Respublikasında 
+2013-cü ildə kanalizasiya xətləri ilə abadlaşdırılmış mənzillərin 
+ümumi mənzil fondunda payı 84.9% təşkil etmişdir. Həmçinin 
+qeyd edilməlidir ki, bu pay 2000-ci ildən başlayaraq azalma 
+72 
+ 
+tendensiyası göstərmişdir. Belə ki, 2000-ci ildə müvafiq pay 90.0% 
+təşkil etmişdir. 
+ 
+ 
+Şəkil 47. Kanalizasiya xətlərinin istifadəyə verilməsi, kilometr 
+ 
+ 
+ 
+Şəkil 48. Qaz xətlərinin istifadəyə verilməsi, kilometr 
+ 
+73 
+ 
+Qaz xətlərinin tikilib istifadəyə verilməsində kəskin azalma 
+müşahidə olunub. Lakin Statistika komitəsinin məlumatına əsasən 
+Azərbaycan Respublikasında 2013-cü ildə qaz xətləri ilə 
+abadlaşdırılmış mənzillərin ümumi mənzil fondunda payı 85.7% 
+təşkil etmişdir. Həmçinin qeyd edilməlidir ki, bu pay 2000-ci ildən 
+başlayaraq azalma tendensiyası göstərir. Belə ki, 2000-ci ildə 
+müvafiq pay 93.1% təşkil etmişdir. 
+ 
+Cədvəl 24. Mənzil fondunun abadlığı (ilin əvvəlinə, faizlə) 
+ 
+ 2000 2013 
+Dövlət, ictimai mənzil fondunun və 
+mənzil tikinti kooperativləri fondunun 
+(özəlləşdirilmiş fond istisna olmaqla) 
+aşağıdakılarla abadlaşdırılmış mənzil 
+sahəsinin xüsusi çəkisi, faizlə:   
+ mərkəzi istilik sistemi ilə 76.2 64.6 
+ isti su ilə 27.1 5.2 
+ vanna ilə 76.9 72.0 
+ döşəməyə qoyulan  elektrik plitəsi ilə 1.5 0.8 
+ 
+Əhalinin mənzil fondunun abadlığından söz düşmüşkən 
+qeyd edək ki, bu sahədə pozitiv trendlər qeydə alınmamışdır. Su 
+kəməri, kanalizasiya və qaz xətləri haqqında yuxarıda məlumat 
+verildiyindən digər amillərə diqqət yetirək. 
+ 
+ 
+4. KƏND TƏSƏRRÜFATI 
+ 
+İslahatlar kənd təsərrüfatında kollektiv təsərrüfatların 
+dağıdılması və fərdi sahibkarlığın inkişaf etdirilməsi məcrasında 
+keçirilmişdir. Lakin islahatçılar sosiologiyanın nailiyyətlərindən 
+bəhrələnmədən “bazar” idolunu kənd təsərrüfatında da tətbiq 
+etməyə cəhd etdilər. Kəndlilərin fermerlərə çevrilməsi monetarizm 
+74 
+ 
+nöqteyi-nəzərindən effektiv olsa da, bu proses cəmiyyət nöqteyi-
+nəzərindən, sosioloqlar tərəfindən mənfi qiymətləndirilir və 
+kəndlilərin daha da yoxsullaşması ilə nəticələnir. Qəribədir ki, iri 
+kolxoz təsərrüfatları dağıdıldıqdan sonra “Azərbaycan 2020: 
+gələcəyə baxış” inkişaf konsepsiyasında iri təsərrüfat cəmiyyətləri 
+haqqında aşağıdakı diqqətəlayiq fikirlər əks olunub: “...iri taxılçılıq 
+təsərrüfatlarının yaradılması təşəbbüsləri dəstəklənəcəkdir”. Lakin 
+bizim kitabımızın məqsədi seçilən yolların qiymətləndirilməsi 
+deyil, faktiki məlumatların verilməsidir. Ona görə yenə rəsmi 
+statistikaya müraciət edək. 
+Kənd təsərrüfatı bitkilərinin əkin sahələri əsas 
+göstəricilərdən biridir. Azərbaycanda 1991-ci ildə 1473 min hektar 
+əkin sahəsi olmuş, sonrakı illərdə bu göstəricidə 2000-ci ilə qədər 
+azalma müşahidə olunmuşdur. 1991-ci ilin səviyyəsi yalnız 2008-
+ci ildə bərpa edilmişdir (1500 min hektar). Son 23 ildə kənd 
+təsərrüfatı bitkilərinin əkin sahələri 211 min hektar və 14% 
+artmışdır. 
+ 
+ 
+ 
+Şəkil 49. Кənd təsərrüfatı bitkilərinin əkin sahələri   
+(cəmi, 1000 hektar) 
+ 
+75 
+ 
+Lakin qeyd edilən tendensiya təsərrüfat kateqoriyaları üzrə 
+qeyri-bərabər paylanmışdır. Belə ki, 1990-2013-cü illər ərzində: 
+dənli və dənli paxlalı bitkilərin əkin sahələrində - 1.8 dəfə artım, 
+texniki bitkilərin əkin sahələrində - 6.7 dəfə azalma, kartof, tərəvəz 
+və bostan bitkilərinin əkin sahələrində - 2.3 dəfə artım, yem 
+bitkiləri üzrə - 1.3 dəfə azalma, pambığın əkin sahələri üzrə - 11.2 
+dəfə azalma, tütünün əkin sahələrində - 12.3 dəfə azalma, şəkər 
+çuğundurunun əkin sahələrində - 2.5 dəfə artım, dən üçün 
+günəbaxanın əkin sahələrində - 10.4 dəfə artım müşahidə 
+olunmuşdur. 
+Azərbaycan Respublikasında iqlim şəraiti ilə əlaqədar 
+olaraq suvarılan torpaqlar kənd təsərrüfatında vacib rol oynayır. 
+Azərbaycan SSR-də irriqasiya və suvarma işlərinin yüksək 
+səviyyədə təşkil edilməsi suvarılan torpaqlar sahəsinin müntəzəm 
+artması ilə nəticələnirdi. Belə ki, 1970-ci ildə Azərbaycan SSR-də 
+1 130 min hektar suvarılan torpaqlar olduğu halda, 1990-cı ildə bu 
+göstərici 1 440 min hektar təşkil etmişdir. Müstəqillik dövründə isə 
+suvarılan torpaqların ümumi sahəsində azalma müşahidə 
+olunmuşdur. Məsələn, 2013-cü ildə bu göstərici 1 435 min hektar 
+(5 min hektar az) təşkil etmişdir. 
+Sovet İttifaqının soyuq müharibədə məğlub olması və 
+Dağlıq Qarabağ müharibəsinin nəticəsində həm heyvandarlıq, həm 
+də bitkiçilikdə fiziki həcm indeksi aşağı düşmüşdür. 1990-cı ilin 
+səviyyəsinə nisbətən 2000-ci ildə, müqayisəli qiymətlərlə, kənd 
+təsərrüfatı məhsullarının 67%-i, 2004-cü ildə 88%-i, 2008-ci ildə 
+105%-i istehsal olunmuşdur. Kənd təsərrüfatı məhsullarının 
+istehsalı üzrə 1990-cı il səviyyəsinin bərpası heyvandarlıq və 
+bitkiçilik üzrə qeyri-bərabər  paylanmışdır. Belə ki, heyvandarlıq 
+məhsulları üzrə bərpa 2003-cü ildə (102%), bitkiçilik üzrə isə 
+2013-cü ildə (104%) baş vermişdir. Bərpa müddətinin çox 
+çəkməsinin əsas səbəblərindən biri aparılan “bazar islahatlarının” 
+artıq toplanmış istehsal potensialının saxlanılmasına 
+yönəldilməməsi olmuşdur. 
+Ümumiyyətlə qeyd edilməlidir ki, kolxoz-sovxoz 
+sisteminin demontaj edilməsi kənd təsərrüfatının 
+76 
+ 
+deindustrializasiyası və demodernizasiyası ilə nəticələnmişdir. Bu 
+proseslər kənd təsərrüfatında istehsal məqsədi ilə istifadə olunan 
+elektrik enerjisinin azalması, kənd təsərrüfatında istifadə olunan 
+texnikanın sayının və kənd təsərrüfatında çalışan işçilərin sayının 
+azalması ilə xarakterizə olunmuşdur.  
+ 
+4.1. Kənd təsərrüfatında çalışan əhali və məhsuldarlıq 
+ 
+Kənd təsərrüfatında çalışan işçilərin sayı üzrə məlumat 
+Dövlət Statistika Komitəsinin rəsmi saytında 2000-ci ildən 
+başlayaraq əks etdirilib. Verilən məlumatlara görə kənd təsərrüfatı 
+müəssisələrində çalışanların orta illik sayı 2000-2012-ci illər 
+ərzində 32% (7 664 nəfər), fərdi sahibkar təsərrüfatlarında 
+işləyənlərin sayı isə 30% (5 023 nəfər) azalmışdır. Müqayisə üçün 
+qeyd edək ki, 1988-ci ildə kənd təsərrüfatında çalışan işçilərin sayı 
+46 min nəfər, 2012-ci ildə isə 28 min nəfər təşkil etmişdir. 
+  
+ 
+Şəkil 50. Kənd təsərrüfatında məşğul işçilərin sayı (nəfər) 
+ 
+Nəzərə almaq lazımdır ki, bu azalmanın səbəbi kimi kənd 
+təsərrüfatında məhsuldarlığın artımı göstərilə bilər. Lakin 
+məhsuldarlığın təhlili bu nəticənin doğru olmadığını aşkara çıxarır. 
+77 
+ 
+Belə ki, 1990-cı il ilə müqayisədə 2012-ci ildə kənd təsərrüfatı 
+müəssisələrində 1 sentner məhsula əmək məsarifi üzrə dəyişmələr 
+aşağıdakı cədvəldə göstərilib.  
+ 
+Cədvəl 25. Kənd təsərrüfatı müəssisələrində 1 sentner məhsula 
+əmək məsarifi, saat 
+İllər 1990 2000 2013 Artım 
+(azalma) 
+Taxıl (qarğıdalısız) 3.1 10.2 10.9 252% 
+Kartof  17.4 28.9 26 49% 
+Çay yarpağı 57.7 253.1 269.7 367% 
+Süd 14.7 42.6 47.9 226% 
+Yumurta24 16.3 58.6 61.9 280% 
+Şəkər çuğunduru - 14.3 11.9 (17%) 
+Tərəvəz  12 25.2 23 92% 
+Ərzaq bostan bitkiləri - 11.6 12.3 6% 
+Meyvə 19.7 24.3 23 17% 
+Üzüm 15.1 42.7 44.1 192% 
+ 
+Göründüyü kimi əsas ərzaq məhsullarının istehsalında əmək 
+məsarifi (şəkər çuğunduru istehsalı istisna olmaqla) artmışdır. 
+ 
+4.2. Kənd təsərrüfatının mineral gübrələr  
+və texnika ilə təminatı 
+ 
+İntensiv təsərrüfatın aparılması zamanı torpağın 
+məhsuldarlığının təmin olunmasının əsas şərtlərindən biri məhsul 
+ilə torpaqdan çıxan qida maddələrinin kompensasiya edilməsi və 
+torpağın strukturunun saxlanılması üçün ona mütəmadi olaraq 
+mineral gübrələrin verilməsidir. 1985-ci il ilə müqayisədə əkin 
+sahələrinə verilən gübrənin çəkisində 239 min ton və ya 89% 
+24 Min ədəd. 
+78 
+ 
+                                                 
+azalma müşahidə olunmuşdur. Nəticədə hər hektar əkinə verilən 
+gübrənin çəkisində 150 kq. və ya 90% azalma baş vermişdir. Yəni 
+əgər 1985-ci ildə hər hektar əkinə 166 kq. mineral gübrə 
+verilirdisə, 2013-cü ildə bu göstərici 16 kq. təşkil etmişdir. 
+Müqayisə üçün digər ölkələrdə torpağa verilən mineral 
+gübrələrin miqdarı haqqında məlumata nəzər salmaq yerinə 
+düşərdi. Kənd təsərrüfatında hər hektar əkinə mineral gübrələrin 
+verilməsi (2011-ci il, 100 % qidalı maddə hesabı ilə): Rusiya – 25 
+kq., Avstraliya – 45 kq., Braziliya – 171 kq., Almaniya – 191 kq., 
+Hindistan 177 kq., ABŞ – 125 kq., Böyük Britaniya – 239 kq. 
+ 
+ 
+ 
+ 
+Şəkil 51. Kənd təsərrüfatında əkinlərə mineral gübrələrin 
+verilməsi (cəmi, 1000 ton) 
+ 
+Son illərdə traktor parkında əhəmiyyətli azalma müşahidə 
+olunmuşdur. Belə ki, traktorların sayı 1990-2013-cü illər arasında 
+17.4 min ədəd və ya 43% azalmışdır. Bunun nəticəsi olaraq 
+müvafiq dövr ərzində 1000 hektar əkinə düşən traktorların sayı 
+təxminən iki dəfə (48%) azalmış və yaxud bir traktora düşən əkin 
+sahəsi 85% artaraq 72 hektara yüksəlmişdir. Bu rəqəmləri daha 
+79 
+ 
+yaxşı anlamaq üçün bu sahənin digər ölkələrlə müqayisəsinə diqqət 
+yetirmək yerinə düşərdi. Bəzi ölkələrdə 1 traktora düşən əkin 
+sahəsi haqqında məlumat belə olmuşdur: Fransa – 16 ha, İtaliya – 
+4.7 ha, Polşa – 8 ha, Almaniya - 8 ha.25 
+ 
+ 
+ 
+Şəkil 52. Traktorların sayı26, ilin sonuna (1000 ədəd) 
+ 
+Kənd təsərrüfatının texnika təminatına nəzər salaq. 
+2005-ci ildən sonra müşahidə olunan müəyyən artım 
+“Aqrolizinq” təşkilatının yaradılması ilə əlaqədardır. Lakin nəzərə 
+almaq lazımdır ki, lizinq kreditin bir növüdür və kredit əsasında 
+dayanıqlı inkişaf mümkün deyildir. Bu məsələ kitabın ikinci 
+hissəsində daha ətraflı təhlil olunmuşdur. 
+ 
+25  Digər ölkələr üzrə məlumatlar əsasən BMT ərzaq və kənd təsərrüfatı 
+təşkilatının rəsmi saytından alınmışdır: http://www.fao.org/home/en/ 
+26  Üstündə meliorasiya qurğuları və digər maşınlar quraşdırılmış 
+traktorlardan başqa. 2005-ci ildə 284 ədəd belə traktor istehsal olunmuşdur. 
+80 
+ 
+                                                 
+ 
+ 
+Şəkil 53. Taxılyığan kombaynların sayı, ilin sonuna (1000 ədəd) 
+ 
+Taxılyığan kombaynların sayı 1990-2013-cü illər arasında 
+2.4 min ədəd və 53% azalmışdır. Nəticədə min hektar əkin 
+sahəsinə düşən taxılyığan kombaynların sayı müvafiq dövr ərzində 
+təxminən 6 ədəd və ya 74% azalmışdır. Əgər 1990-cı ildə min 
+hektar taxıl üzrə əkin sahəsində 8 ədəd kombayn işləyirdisə, 2013-
+cü ildə onların sayı 2 ədəd olmuşdur. Müqayisə üçün Rusiyada bu 
+göstərici 3.4, ABŞ-da – 5.6, Almaniyada – 12.8, Çində – 7.1 
+olmuşdur. 
+Təxmini olaraq eyni mənzərə digər kənd təsərrüfatı 
+texnikalarında da müşahidə olunmuşdur. Ətraflı məlumat aşağıdakı 
+cədvəldə təqdim olunub. 
+1990-cı ildə ölkədə əsas kapitala yönəldilən investisiyaların 
+14%-i kənd təsərrüfatının, 37.4%-i  isə sənayenin payına 
+düşmüşdür. 2013-cü ildə sənayeyə investisiyalar ümumi 
+investisiyaların 42%-ni təşkil etdiyi halda, kənd təsərrüfatında əsas 
+kapitala yönəldilən investisiyaların payı 3.2% enmişdir. Təbii ki, 
+bu cür investisiyalarla kənd təsərrüfatının texnika təminatının 
+bərpa edilməsi çətin məsələdir. 
+81 
+ 
+Cədvəl 26. Əsas kənd təsərrüfatı texnikası növlərinin parkı, 
+ ilin sonuna (ədəd) 
+Texnika növü 1990 2013 Dəyişmə 
+Traktorlar  40,883 23,469 1.7 azalma 
+Kotanlar  13,318 5,289 2.5 azalma 
+Kultivatorlar  7,278 732 9.9 azalma 
+Toxum səpənlər 8,998 2,132 4.2 azalma 
+Ot biçənlər  3,187 1,438 2.2 azalma 
+Ot presləyənlər 4,316 1,707 2.5 azalma 
+Kombaynlar (taxıl yığanlar) 4,544 2,143 2.1 azalma 
+Kombaynlar (qarğıdalı 
+yığanlar) 
+361 7 51.6 azalma 
+Kombaynlar (yem yığanlar) 1,624 640 2.5 azalma 
+Maşınlar (kartof yığanlar) 42 36 1.2 azalma 
+Maşınlar (pambıq yığanlar) 3,658 52 70.3 azalma 
+Maşınlar (çuğundur 
+yığanlar) 
+6 10 0.6 artım 
+Maşınlar (bərk mineral 
+gübrələri dağıdanlar) 
+2,928 254 11.5 azalma 
+Maşınlar (çiləyici və 
+tozlayıcılar) 
+8,915 871 10.2 azalma 
+ 
+ 
+4.3. Bitkiçilik 
+ 
+İstənilən təhlilin aparılmasında qoyulmuş məqsədlər və 
+görülmüş işlərin müqayisəsi asanlıq yaradır. Kənd təsərrüfatı üzrə 
+qoyulmuş məqsədləri “Azərbaycan Respublikasında əhalinin ərzaq 
+məhsulları ilə etibarlı təminatına dair Dövlət Proqramı” əsasında 
+qiymətləndirməyə çalışaq. 
+Taxıl istehsalı. Əkinçiliyin vəziyyətini əks etdirən əsas 
+göstərici taxıl istehsalıdır. Taxıl istehsalı insanların qidasının 
+əsasıdır və heyvandarlığın inkişafının vacib şərtlərindəndir. Dövlət 
+Proqramının 2015-ci il üçün icra meyarlarını təşkil edən hədəf 
+82 
+ 
+göstəricilərindən birincisi aşağıdakıdır: “dənli bitkilərin əkin 
+sahələrini 900 min hektara, məhsuldarlığı 32 s/ha-ya, ümumi 
+istehsalı 2,8 milyon tona çatdırmaq”. Qoyulmuş məqsədləri təhlil 
+edək. 
+Proqrama əsasən dənli bitkilərin əkin sahələri 900 min 
+hektara çatdırılmalıdır. Statistika komitəsinin məlumatına əsasən 
+taxıl üzrə əkin sahəsi artıq 2009-cu ildə 2008-ci illə müqayisədə 
+25% (229 min hektar) artırılaraq 1 126 min hektara çatdırılmışdır. 
+2013-cü il üçün analoji göstərici isə 1 074 min hektardır. Qeyd 
+edilməlidir ki, proqramda 2007-ci illə müqayisədə 22% artım 
+nəzərdə tutulmuşdusa da, real artım 45% olmuşdur, yəni qarşıya 
+qoyulan məqsəd artıqlaması ilə yerinə yetirilmişdir. 
+Məhsuldarlıq sahəsində 32 s/ha həddi məqsəd kimi 
+müəyyən edilmişdir. Taxıl istehsalı üzrə məhsuldarlıq 2013-cü ildə 
+27.5 sent/ha təşkil etmişdir, bu da 2007-ci ilin göstəricisindən (27.1 
+sent/ha) 1% artıqdır, lakin qoyulmuş məqsədə çatmaq üçün 2015-ci 
+ilə kimi (2007-ci illə müqayisədə) 18% artım təmin edilməlidir. 
+Qarşıdan gələn iki ildə bu cür artımın nəyin əsasında təmin 
+ediləcəyi indiki zamanda tam aydın deyildir. 
+ 
+ 
+Şəkil 54. Taxıl: ümumi yığım, təmiz çəkidə (bütün təsərrüfat  
+kateqoriyalarında) (adambaşına kiloqramla) 
+83 
+ 
+Ümumi taxıl istehsalının miqdarı 2015-ci il üçün 2,8 
+milyon tona çatdırılmalıdır. Bu göstərici üzrə qoyulmuş məqsəd 
+icra edilmişdir. Belə ki, 2013-cü ildə ölkədə 2 955 min ton taxıl 
+istehsal edilmişdir. Qeyd edilməlidir ki, dövlət proqramında 2015-
+ci il üçün yalnız kəmiyyət göstəriciləri əks etdirilib. Məsələn, 
+beynəlxalq praktikada ildə adambaşına 500 kq. taxıl istehsalı 
+ölkənin ərzaq təhlükəsizliyinin təmin edilməsi üzrə aşağı hədd 
+sayılır. Adambaşına düşən taxıl istehsalı aşağıdakı qrafikdə əks 
+etdirilib. Göründüyü kimi, bu göstərici üzrə 1990-cı illə 
+müqayisədə artım müşahidə olunmasına baxmayaraq, 500 kq. 
+həddi hələ aşılmayıbdır. 
+ 
+Cədvəl 27. Dənlilər ilə özünütəminetmə səviyyəsi, faiz 
+  2007 2008 2009 2010 2011 2012 2013 
+Dənlilərin 
+cəmi: 
+57.0 63.3 74.0 56.5 64.8 64.3 64.0 
+buğda 48.0 55.7 69.2 48.9 57.7 56.8 56.0 
+arpa 99.2 97.2 98.7 87.7 93.7 95.1 97.8 
+qarğıdalı 76.4 68.1 67.2 64.5 68.0 67.3 60.0 
+vələmir 68.2 88.6 94.5 80.6 82.8 84.4 89.3 
+sair növ 
+dənlilər 
+10.0 4.4 0.4 1.0 4.0 8.7 2.3 
+ 
+Kənd təsərrüfatı məhsullarının istehsalının aşağı olması, 
+müəyyən qidalanma səviyyəsini saxlamaq məqsədi ilə, idxal ilə 
+kompensasiya edilməlidir. Azərbaycan Respublikasının 2013-cü il 
+üzrə ərzaq balansına əsasən il ərzində ölkədə dənlilərin idxalının 
+istehsala nisbəti 56% təşkil etmişdir (son 7 ildə orta hesabla 
+59%27). Ümumiyyətlə, ərzaq balanslarının təhlili zamanı itkilərin 
+dinamikası diqqəti cəlb eləyir. Belə ki, dənli və paxlalı bitkilərin 
+27 20 ildən çox soyuq müharibə şəraitində olan ölkə üçün məqbul göstərici 
+sayıla bilməz. 
+84 
+ 
+                                                 
+istehsalında itkilər 2013-cü ildə istehsalın 10%-ni təşkil etmişdir 
+(son 7 ilin orta göstəricisi – 10%), bu isə kənd təsərrüfatının 
+texniki avadanlıqlarla və sair vəsaitlərlə təminatı məsələsinin 
+ciddiliyini göstərir. Bütün bunların nəticəsində dənlilər üzrə 
+özünütəminetmə səviyyəsi məqbul səviyyədə deyildir. Cədvəldən 
+göründüyü kimi əsasən mal-qara və quş üçün yem kimi istifadə 
+edilən arpa və vələmir üzrə yüksək göstəricilər qeydə alınmışdır, 
+buğda üzrə özünütəminetmə səviyyəsi isə 2013-cü ildə yalnız 56% 
+olmuşdur. 
+Dövlət proqramına əsasən 2015-ci il üçün bitkiçiliyin digər 
+əsas məhsulu – ikinci çörək sayılan kartof istehsalının həcminin 
+1,12 milyon tona çatdırılmasıdır.  
+ 
+ 
+ 
+Şəkil 55. Kartof istehsalı (ton) və kartofun məhsuldarlığı 
+(sent/ha) 
+ 
+2000-2013-cü illər ərzində kartof istehsalı 112%, 
+məhsuldarlıq isə 81% artmışdır. Bu illər ərzində kartofun əkin 
+sahəsi isə 24% artaraq 65 315 hektara çatmışdır. Lakin qeyd edilən 
+dövlət proqramının qəbul edilməsindən sonra kartof təsərrüfatında 
+neqativ tendensiyalar müşahidə olunmağa başlamışdır. Belə ki, 
+85 
+ 
+2008-2013-cü illər ərzində kartof istehsalı 8% azalaraq 992 780 ton 
+səviyyəsinə, kartof üzrə əkin sahələri 5% azalaraq 65 315 hektara 
+düşmüşdür. 
+Kartofun məhsuldarlığında da müəyyən azalma müşahidə 
+edilmişdir: 2008-ci ildə - məhsuldarlıq 153 sent/ha olduğu halda, 
+2013-cü ildə bu göstərici 152 sent/ha olmuşdur. Daha öncə də qeyd 
+edildiyi kimi məhsuldarlığın artırılmasının vacib şərtlərindən biri 
+əkin sahələrinə mineral gübrələrin verilməsidir. Kartofun əkin 
+sahələrinə verilən mineral gübrələrin çəkisində çox böyük azalma 
+müşahidə olunmuşdur: 1985-ci il ilə müqayisədə 2013-cü ildə bir 
+hektar əkin sahəsinə verilən gübrələrin çəkisində 277 kq. və ya 
+91% azalma müşahidə olunmuşdur. 
+Bu tendensiyalar dövlət proqramında kartof istehsalı üzrə 
+nəzərdə tutulan məqsədin yerinə yetirilməməsi riskini artırır. 
+Ümumiyyətlə, kartof ehtiyatları və istifadəsi balansının təhlili 
+zamanı itkilərin idxala olan nisbəti diqqəti cəlb edir. Bu göstərici 
+2013-cü ildə 82%, son 7 ildə isə orta hesabla 131% təşkil etmişdir. 
+Lakin qeyd edilməlidir ki, kartof üzrə özünütəminetmə səviyyəsi 
+yüksəkdir: belə ki bu göstərici 2013-cü ildə 98%, son yeddi ildə isə 
+orta hesabla 101% təşkil etmişdir. 
+ 
+ 
+Şəkil 56. Tərəvəz və bostan bitkilərinin istehsalı (1000 t.) 
+86 
+ 
+ 
+Dövlət proqramına əsasən tərəvəz və bostan bitkilərinin 
+istehsalı 2015-ci il üçün 1,72 milyon tona çatdırılmalıdır.  
+1990-cı il ilə müqayisədə tərəvəz və bostan bitkilərinin 
+istehsalında əhəmiyyətli artım müşahidə edilmişdir. Tərəvəz və 
+bostan bitkiləri ilə özünütəminetmə səviyyəsi kifayət qədər 
+yüksəkdir və aşağıdakı cədvəldə göstərilmişdir. 
+ 
+Cədvəl 28. Tərəvəz və bostan məhsulları ilə  
+özünütəminetmə səviyyəsi, faiz 
+  2007 2008 2009 2010 2011 2012 2013 
+Bütün növ 
+tərəvəz 
+98.8 104.6 101.2 97.6 95.7 98.9 102.3 
+Bostan 
+məhsulları 
+100.1 100.2 100.2 100.0 100.2 100.1 100.0 
+ 
+ 
+ 
+Şəkil 57. Tərəvəz və ərzaq bostan bitkilərinin məhsuldarlığı 
+(sent/ha) 
+ 
+Dövlət proqramına əsasən 2015-ci il üçün tərəvəz və ərzaq 
+bostan bitkilərinin birgə istehsalı 2007-ci ilin səviyyəsinə nisbətən 
+5% artaraq 1,72 milyon ton təşkil etməlidir. Lakin 2008-2013-cü 
+illər ərzində istehsalda yalnız 1% artım müşahidə olunmuşdur və 
+87 
+ 
+2013-cü ildə birgə istehsal 1.67 milyon ton təşkil etmişdir. Bu 
+bitkilərin əkin sahələrində də artım müşahidə edilmişdir. Tərəvəz 
+üzrə əkin sahələri 1990-cı il ilə müqayisədə 93% artdığı halda, 
+məhsul istehsalı yalnız 44% artmışdır, bu da artımın əsasən 
+ekstensiv yolla getdiyini göstərir. Ərzaq bostan bitkiləri üzrə isə 
+əkin sahələri müvafiq dövr ərzində 213%, məhsul istehsalı isə 
+537% artmışdır. Bu sahənin məhsuldarlığında da müxtəlif 
+istiqamətli tendensiyalar müşahidə olunmuşdur. 
+Tərəvəz və bostan bitkilərinin əkin sahələrinə verilən 
+gübrələrin çəkisində çox böyük azalma müşahidə olunmuşdur: 
+1985-ci il ilə müqayisədə 2013-cü ildə bir hektar əkin sahəsinə 
+verilən gübrələrin çəkisində 404 kq. və ya 94% azalma müşahidə 
+olunmuşdur. 
+ 
+ 
+ 
+ 
+Şəkil 58. Şəkər çuğundurunun istehsalı və məhsuldarlığı 
+ 
+Dövlət proqramına əsasən 2015-ci il üçün şəkər 
+çuğundurunun əkin sahəsi 20 min hektara çatdırılmalıdır. Son 13 
+ildə şəkər çuğunduru istehsalı 303%, məhsuldarlıq isə 59% 
+artmışdır. Şəkər çuğundurunun əkin sahəsi müvafiq dövr ərzində 
+88 
+ 
+121% artaraq 2013-cü il üçün 5 466 hektar təşkil etmişdir. 
+Göründüyü kimi, dövlət proqramında qoyulmuş məqsədə çatmaq 
+üçün qarşıdakı ildə şəkər çuğundurunun əkin sahəsi 266% 
+artırılmalıdır. 
+Məhz şəkər çuğunduru ilə özünütəminetmə səviyyəsi 
+haqqında məlumat tapılmadığından şəkər istehsalında istifadə 
+olunan xammal üzrə statistika aşağıdakı cədvəldə göstərilmişdir. 
+ 
+Cədvəl 29. Əsas növ sənaye məhsulları ilə özünütəminetmə 
+səviyyəsi, faiz 
+  2007 2008 2009 2010 2011 2012 2013 
+Şəkər istehsalı 
+üçün xammal 
+2.7 6.2 4.1 2.4 4.1 3.1 4.5 
+ 
+ 
+ 
+Şəkil 59. Çay: yaşıl çay yarpağının ümumi yığımı (1000 t) 
+ 
+Dövlət proqramında 2015-ci il üçün qarşıya qoyulan əsas 
+məqsədlərdən biri də meyvə istehsalının 800 min tona 
+çatdırılmasıdır. Statistik məlumatların təhlili göstərir ki, bu sahə 
+89 
+ 
+üzrə qoyulan məqsəd vaxtından əvvəl artıqlaması ilə yerinə 
+yetirilmişdir. Belə ki, 1990-2013-cü illər ərzində ümumi yığım 
+132%, məhsuldarlıq isə 1.6 dəfə artmışdır. Bu sahə üzrə 
+özünütəminetmə səviyyəsi də 100%-dən artıqdır: 2013-cü il üçün – 
+122%, son yeddi ildə orta hesabla – 130%. 
+Dövlət proqramına əsasən 2015-ci il üçün çay yarpağı 
+istehsalı 3 min tona çatdırılmalıdır. Bu sahənin təhlili 1990-cı ildən 
+sonra çay təsərrüfatında neqativ tendensiyaları aşkara çıxardır. 
+Belə ki, 1990-2013-cü illər ərzində yaşıl çay yarpağının ümumi 
+yığımı 98% (!!!!), məhsuldarlıq isə 3.3 dəfə azalmışdır. Müvafiq 
+dövr ərzində çay bitkisinin ümumi əkin sahəsi 93%, əkin sahələri 
+isə 94% azalmışdır. 
+Ölkədə çay ehtiyatı və istifadəsi üzrə statistika yalnız 2007-
+2013-cü illər ərzində təqdim edilmişdir. Bu dövr ərzində ölkəyə 
+idxal olunan çayın istehsala nisbəti orta hesabla 1.4 təşkil etmişdir 
+(2013-cü il üçün 1.8). Bu isə o deməkdir ki, çay ilə 
+özünütəminetmə səviyyəsi qənaətbəxş sayıla bilməz. Belə ki, 
+2013-cü ildə çay ilə özünütəminetmə səviyyəsi 54.7% olmuşdur. 
+Həmçinin qeyd edilməlidir ki, 2007-2013-cü illər ərzində ölkədən 
+ixrac edilən çayın istehsala nisbəti orta hesabla 74% olmuşdur, 
+yəni istehsal edilən çayın böyük hissəsi ixrac edilmiş, yerli tələb 
+isə idxal vasitəsi ilə ödənilmişdir. 
+Ümumiyyətlə, ölkənin daxili tələbatının (ərzaq məhsulu 
+kimi istifadə və emal məqsədi ilə) ödənilməsi üçün 2013-cü ildə 
+orta hesabla hər min nəfər əhaliyə 1.5 ton çay istehsal edilməli idi. 
+Faktiki olaraq isə 2013-cü ildə hər min nəfərə 0.06 ton çay istehsal 
+edilmişdir (müqayisə üçün 1990-cı ildə bu göstərici 4.3 ton təşkil 
+etmişdir). Nəhayət dövlət proqramında qarşıya qoyulmuş ümumi 3 
+min ton istehsalın təmin edilməsi qeyri-real görünür (2013-cü ildə 
+yığım 0.57 min ton təşkil etmişdir) və 1990-cı il istehsal həcminin 
+yalnız 10% təşkil etmişdir. 
+ 
+ 
+ 
+ 
+90 
+ 
+Cədvəl 30. 2013-cü il üzrə idxal və ixracın əmtəə strukturu 
+ (bitki mənşəli məhsullar) 
+ 
+Mal qrupları İdxal İxrac Saldo 
+Min ABŞ dolları 548,446.9 301,706.8 -246,740.1 
+Canlı ağaclar və sair 
+bitkilər, kəsilmiş çiçəklər 
+17,379.5 25.8 -17,353.7 
+Tərəvəzlər, 
+meyvəköklülər və kök 
+yumruları 
+14,360.3 77,263.8 62,903.5 
+Yeməli meyvələr və qoz-
+fındıq, sitrus bitkiləri 
+14,701.5 173,508.1 158,806.6 
+Qəhvə, çay və ədviyyatlar 21,603.9 44,381.7 22,777.8 
+Dənli bitkilər 434,614.7 10.6 -434,604.1 
+Unüyütmə və yarma 
+sənayesi məhsulları, 
+maya, nişasta 
+31,325.0 1,119.3 -30,205.7 
+Yağlı toxum və meyvələr, 
+digər toxum, dərman 
+bitkiləri 
+13,804.8 5,274.6 -8,530.2 
+Təbii şellak, kitrə, qatran, 
+digər bitki şirələri və 
+ekstraktlar 
+143.9 29.3 -114.6 
+Bitki  mənşəli  sair  
+məhsullar 
+513.3 93.6 -419.7 
+ 
+Bitki mənşəli məhsullar üzrə xarici ticarət saldosu əsasən 
+dənli bitkilərin idxalına görə mənfidir. 
+ 
+4.4 Heyvandarlıq 
+ 
+Dövlət Proqramının 2015-ci il üçün icra meyarlarını təşkil 
+edən hədəf göstəricilərindən biri ət istehsalını 340 min tona, süd və 
+süd məhsullarının istehsalını isə 2,4 milyon tona çatdırmaqdır. 
+91 
+ 
+Həmçinin proqrama əsasən sənaye üsulu ilə illik quş əti istehsalı 
+80 min tona, yumurta istehsalı isə 1,3 milyard ədədə 
+çatdırılmalıdır. 
+Son illərdə ət istehsalında da müsbət tendensiyalar 
+müşahidə olunmuşdur. 1990-2013-cü illər ərzində istehsal olunmuş 
+ət üzrə (kəsilmiş çəkidə) 70%-lik artım müşahidə olunmuşdur.  
+ 
+ 
+Şəkil 60. Ət istehsalı, kəsilmiş çəkidə (1000 t)28 
+ 
+Lakin proqramda qarşıya qoyulmuş 340 min ton ət istehsalı 
+məqsədinə çatmamaq riski yüksəkdir. Belə ki, son 13 ildə ət 
+istehsalında artım ildə orta hesabla 11 min ton olmuşdur. Əgər bu 
+tendensiya davam edərsə, 2015-ci il üçün qarşıya qoyulan məqsəd 
+yerinə yetirilməyəcəkdir. Ət istehsalındakı bəzi müsbət 
+tendensiyalara baxmayaraq, hələ ki bu sahədə idxaldan müəyyən 
+asılılıq qalmaqdadır. Belə ki, bütün növ mal-qara və quş əti üzrə 
+özünütəminetmə səviyyəsi 2013-cü ildə 92% (son yeddi ildə orta 
+hesabla 89%) təşkil etmişdir. Bu göstəricilər mal əti və ət 
+məhsulları üzrə - 87% (son yeddi ildə orta hesabla 93%), qoyun 
+28 Donuz əti nəzərə alınmamışdır. 
+92 
+ 
+                                                 
+(keçi) əti və ət məhsulları üzrə – 98% (son yeddi ildə orta hesabla 
+99%), quş əti və ət məhsulları üzrə isə - 96% (son yeddi ildə orta 
+hesabla 79%) təşkil etmişdir. 
+Süd və süd məhsullarının istehsalı üzrə 1990-2013-cü illər 
+ərzində müsbət irəliləyişlər qeydə alınmışdır. Belə ki, cəmi süd və 
+süd məhsullarının istehsalında 88%-lik və ya 850 min ton artım 
+müşahidə olunmuşdur. Bu artım 97% və ya 826 min tonu inək və 
+camış südü istehsalı, qalanı isə qoyun və keçi südü hesabına təmin 
+edilmişdir. Lakin proqram məqsədini yerinə yetirmə riski 
+yüksəkdir: belə ki, son 13 ildə süd və süd məhsullarının 
+istehsalında orta hesabla 61 min ton (optimistik olaraq son 4 ilin 
+artım statistikası – 97 min ton)  artım olmuşdur. Bu isə o deməkdir 
+ki, qeyd edilən artım tendensiyasının sabit qalması halında belə 
+2015-ci il üçün 2.4 milyon ton süd və süd məhsullarının istehsalı 
+məsələsi  qeyri-real görünməkdədir. Həmçinin qeyd edilməlidir ki, 
+süd və süd məhsulları üzrə özünütəminetmə səviyyəsi 2013-cü ildə 
+76% (son yeddi ildə isə 77%) təşkil etmişdir. 
+Quş ətinin istehsalı üzrə plan isə 2012-ci ildə artıqlaması ilə 
+yerinə yetirilmişdir. 2013-cü ildə quş əti və ət məhsulları üzrə 
+özünütəminetmə səviyyəsi 96% (son yeddi ildə 79%) olmuşdur. 
+Yumurta istehsalı üzrə də proqramın məqsədi 2013-cü ildə yerinə 
+yetirilmişdir: belə 2013-cü ildə ölkədə 1 401.5 milyon ədəd 
+yumurta istehsal edilmişdir. Yumurta üzrə özünütəminetmə 
+səviyyəsi 2013-cü ildə 97%, son yeddi ildə isə orta hesabla 95% 
+təşkil etmişdir. 
+Heyvandarlıqla sıx əlaqəli olan yem bitkilərinin istehsalına 
+nəzər yetirək. Dövlət Proqramının 2015-ci il üçün icra meyarlarını 
+təşkil edən hədəf göstəricilərindən biri də yem bitkilərinin əkin 
+sahələrinin 500 min hektara çatdırılmasıdır. 2013-cü ildə yem 
+bitkilərinin əkin sahələri 396 min hektar olmuşdur, bu isə 1990-cı 
+ilin göstəricisinin 76%-dir. Qoyulmuş məqsədə çatmaq üçün 2015-
+ci ildə  yem bitkilərinin əkin sahələrində 104 min hektar və ya 26% 
+93 
+ 
+artım təmin edilməlidir. 29  Lakin ölkədə heyvandarlıqda qiymətli 
+yem sayılan silosun, yaşıl qarğıdalının və kökümeyvəlilərin 
+istehsalı demək olar ki, dayandırılmışdır. Belə ki, 1990-2013-cü 
+illər ərzində silos və yaşıl yem üçün qarğıdalının istehsalı 926 min 
+ton və 98%, əkin sahəsi isə 97 min hektar və ya 98% azalmışdır. 
+Digər vacib yem olan kökümeyvəlilər üzrə istehsal 169 min ton və 
+ya 98%, əkin sahəsi isə 12.7 min hektar və ya 98% azalmışdır. 
+ 
+ 
+Şəkil 61. Silos və yaşıl yem üçün qarğıdalı istehsalı  
+və əkin sahəsi 
+ 
+Burada dövlət proqramında yer almayan, lakin tekstil 
+sənayesinin vacib materiallarında biri olan pambığın istehsalına da 
+nəzər etmək yerinə düşərdi.  
+SSRİ dövründə Azərbaycanda güclü pambıq təsərrüfatı 
+fəaliyyət göstərirdi. Lakin, müstəqillik dövründə bu sahədə 
+tənəzzül baş vermişdir. 1990-2013-cü illərdə pambığının əkin 
+sahələri 240 min hektar və ya 91%, istehsal isə 498 min ton və ya 
+92% azalmışdır.  
+29 Müqayisə üçün 2000-ci ildən başlayaraq yem bitkilərinin əkin sahələrində 
+hər il orta hesabla 21 min hektar artım olmuşdur. 
+94 
+ 
+                                                 
+ 
+ 
+Şəkil 62. Pambıq istehsalı və əkin sahəsi 
+ 
+Cədvəl 31. 2013-cü il üzrə idxal və ixracın əmtəə strukturu (diri  
+heyvanlar və heyvan mənşəli məhsullar) 
+ 
+Mal qrupları İdxal İxrac Saldo 
+Min ABŞ dolları 128,862.8 1,851.1 -127,011.7 
+Diri  heyvanlar 41,214.6 79.9 -41,134.7 
+Ət və əlavə ət qida 
+məhsulları 
+15,181.4 0.0 -15,181.4 
+Balıqlar  və xərçəngkimilər, 
+digər su onurğasızları 
+8,299.0 24.0 -8,275.0 
+Süd məhsulları, quş 
+yumurtası, təbii bal və 
+heyvan mənşəli digər ərzaq 
+məhsulları 
+64,045.0 1,237.8 -62,807.2 
+Heyvan  mənşəli  sair  
+məhsullar 
+122.8 509.4 386.6 
+ 
+95 
+ 
+Paralel olaraq pambıq sahələrinin texnika təminatında da 
+analoji tendensiyalar müşahidə edilmişdir. Belə ki, 1990-cı ildə 
+ölkədə 3658 ədəd pambıqyığan maşın var idisə, 2013-cü ildə cəmi 
+52 ədəd belə maşın olub (yəni pambıqyığan maşınların sayı 
+müvafiq dövr ərzində 70 dəfə azalmışdır). 
+Heyvan mənşəli məhsulların ticarət saldosu da müvafiq 
+olaraq mənfidir. 
+ 
+5. NƏQLİYYAT 
+ 
+Müasir cəmiyyət üçün ölkə daxilində və xaricində yüklərin 
+və sərnişinlərin daşınmasını təmin edən nəqliyyat sistemi zəruridir. 
+Azərbaycanın nəqliyyat sistemi SSRİ dövründə xalq təsərrüfatı ilə 
+vəhdət təşkil edərək inkişaf edirdi. Bu dövrdə nəqliyyat sisteminə 
+böyük kapital investisiyaları qoyulur, yeni yollar çəkilir, yeni 
+nəqliyyat obyektləri – portlar, aerovokzallar və sair tikilirdi. Bütün 
+növ nəqliyyat vasitələri ilə daşınan yükün həcmi stabil olaraq 
+artırdı.  
+ 
+ 
+Şəkil 63. Nəqliyyat sektorunda yük daşınması, 1000 ton  
+(bütün nəqliyyat növləri üzrə cəm) 
+ 
+96 
+ 
+“Bazar islahatları” dövründə Azərbaycanın nəqliyyat 
+sistemi böhran vəziyyətinə düşmüşdür. Bütün nəqliyyat vasitələri 
+ilə yük daşınmasının həcmi aşağıdakı qrafikdə təsvir edilmişdir. 
+Son illərdə müəyyən artımın müşahidə olunmasına baxmayaraq, 
+2013-cü ilin sonunda daşınan yükün çəkisi 1990-cı ilin 
+göstəricisinin yalnız 78%-ni təşkil edir. Müqayisə üçün nəzərə 
+alınmalıdır ki, 1970-1988-ci illər ərzində bütün nəqliyyat növləri 
+üzrə yük daşınması 295 milyon ton və ya 114% artmışdır. 
+1990-2013-cü illər ərzində bütün nəqliyyat növləri üzrə 
+(boru kəməri istisna olmaqla 30 ) geriləmə müşahidə olunmuş, 
+onların strukturunda azalma, və daxili daşınmalardan xaricə 
+daşınmalara köklənmə müşahidə olunmuşdur. 
+ 
+ 
+Şəkil 64. Nəqliyyat sektoru və emal sənayesi arasındakı əlaqə 
+ 
+Yük daşınmasındakı azalmanın əsas səbəbi xalq 
+təsərrüfatında aparılan “bazar” islahatları ilə bağlı olmuşdur. 
+İstehsalla  yük daşınmasının sıx əlaqəsi aşağıdakı qrafikdə aydın 
+30 Ölkə iqtisadiyyatının xam mal satışına köklənməsi ilə əlaqədar olaraq. 
+97 
+ 
+                                                 
+görünür. Belə ki, dəmir yolu, dəniz və avtomobil nəqliyyatı 
+vasitələri ilə daşınan yükün dinamikası emal sənayesinin 
+istehsalının dinamikası ilə demək olar ki, üst-üstə düşür. 
+Əsas nəqliyyat növləri üzrə vəziyyəti nəzərdən keçirək. 
+Əvvəla dəmir yolu nəqliyyatının əsas göstəricilərini təhlil edək. 
+Ölkədə 1990-cı il ilə müqayisədə dəmir yol xətlərinin istismar 
+uzunluğu 2013-cü ildə 452 km, elektrikləşdirilmiş yolların 
+uzunluğu isə 38 km azalmışdır. Müqayisə üçün 1970-1988 ci illər 
+ərzində 258 km, o cümlədən 476 km elektrikləşmiş yeni yollar 
+çəkilmişdir. Bu o deməkdir ki, SSRİ dövründən sonra yeni yolların 
+tikilməsi demək olar ki dayandırılmışdır. 
+ 
+ 
+ 
+ 
+Şəkil 65. Dəmir yolu 
+ 
+Nəqliyyatın dinamikasını əks etdirən əsas göstəricilərə - 
+yük daşınması və yük dövriyyəsinin dinamikasına nəzər yetirək. 
+Ötən əsrin 70-ci illərindən stabil templə artan dəmiryolu vasitəsi ilə 
+yük daşınması, “islahatların” başlanması ilə kəskin azalma ilə əvəz 
+olunmuşdur. 1991-1995-ci illər ərzində dəmir yollarında yük 
+dövriyyəsi 15.4 dəfə azalmışdır. Sonrakı illərdə yük dövriyyəsində 
+98 
+ 
+müəyyən artım müşahidə olunmasına baxmayaraq, 2013-cü ildə 
+olan yük dövriyyəsi 1990-cı ilin müvafiq göstəricisinin cəmi 21%-
+ni təşkil etmişdir. Yük daşınmasında da kritik azalma müşahidə 
+olunmuşdur. Belə ki, 2013-cü il ərzində dəmir yolu vasitəsi ilə 
+daşınan yüklərin çəkisi 1990-cı ilin göstəricisinin 29%-ni təşkil 
+etmişdir. Müvafiq göstəricilər aşağıdakı qrafiklərdə əks 
+olunmuşdur. Yük daşınmalarında baş verən keyfiyyət dəyişmələri 
+də diqqəti cəlb edir. Əgər 1990-cı ildə daşınan yüklərin 81%-i yerli 
+daşınmalar idisə, 2013-cü ildə bu göstərici 25% olmuşdur. Bu o 
+deməkdir ki, SSRİ dövründə yük daşınmaları əsasən daxili 
+iqtisadiyyata qulluq edir və müxtəlif sektorların son məhsullarının 
+daşınması ilə məşğul olurdu. Lakin yeni dövrdə yük daşınmaları 
+əsasən xam malın ixrac edilməsinə köklənmişdir.  
+Digər vacib göstərici isə dəmir yolunda çalışan işçilərin 
+sayıdır: 199931-cu ildə bu sahədə 26 053 nəfər çalışırdısa, 2013-cü 
+ildə bu göstərici 11 874 nəfər təşkil etmişdir (2.2 dəfə 
+azalma).Dəmir yolu vasitəsi ilə sərnişin daşınmasında da azalma 
+müşahidə olunmuşdur. 1990-cı ildə 8955 min sərnişin daşındığı 
+halda, 2013-cü ildə bu göstərici 2508 min nəfər təşkil etmişdir 
+(72% azalma). 
+Dənizlə daşınan yükün və yük dövriyyəsinin dinamikası 
+aşağıdakı qrafikdə əks olunmuşdur. 1990-cı illə müqayisədə 2013-
+cü ildə dəniz vasitəsi ilə daşınan yüklərin çəkisi 6 332 min ton 
+azalaraq 11 510 min ton təşkil etmişdir. Belə ki, 1988-ci ildə dəniz 
+nəqliyyatı vasitəsi ilə daşınan yük 24.7 milyon ton (yəni təxminən 
+iki dəfədən artıq) olmuşdur. Həmçinin dəniz nəqliyyatı ilə yük 
+dövriyyəsində də azalma müşahidə edilmişdir: 1990-cı il ilə 
+müqayisədə 2013-cü ildə yük dövriyyəsi 25% azalmışdır. 
+ 
+31  Rəsmi statistika məhz bu ildən başlayır. Amma nəzərə alınmalıdır ki, 
+1988-ci ildə dəmir yolunda yalnız yük daşınması sahəsində məşğul işçilərin 
+orta illik sayı 26.6 min insan təşkil etmişdir. 
+99 
+ 
+                                                 
+ 
+Şəkil 66. Dəniz nəqliyyatı 
+ 
+ 
+ 
+ 
+Şəkil 67.Avtomobil nəqliyyatı 
+ 
+100 
+ 
+Dəniz nəqliyyatı ilə sərnişinlərin daşınmasında da azalma 
+müşahidə olunmuşdur. 1996-cı ildə 32  39 min sərnişin 
+daşınmışdırsa, 2013-cü ildə bu göstərici 13.7 min sərnişin təşkil 
+etmişdir (yəni təxminən 3 dəfə azalma). Dəniz nəqliyyatında 
+çalışan işçilərin sayı isə 2000-ci illə müqayisədə 1948 nəfər artaraq 
+9667 nəfər təşkil etmişdir Qeyd edilməlidir ki, yalnız yük 
+daşınmasında məşğul işçilərin sayı 1988-ci ildə orta hesabla 4084 
+nəfər təşkil etmişdir. 
+Ötən əsrin 70-80-ci illərində avtomobil nəqliyyatı ilə 
+daşınan yüklərin həcmi çox sürətlə artırdı. Lakin islahatlar digər 
+sahələrdə olduğu kimi, burada da kəskin azalma ilə müşahidə 
+olunmuşdur.  
+Sonrakı illərdə bu nəqliyyat növündə artım müşahidə 
+olunsa da, 2013-cü ildə daşınan yüklərin həcmi 1990-cı ilin 
+göstəricisinin 82%-ni təşkil etmişdir. Müqayisə üçün avtomobil 
+nəqliyyatı ilə daşınan yüklərin həcmi: 1970-ci ildə – 189 milyon 
+ton, 1980-ci ildə – 332 milyon ton, 1988-ci ildə – 464 milyon ton, 
+2013-cü ildə isə – 125 milyon ton. Sərnişin daşınmasında isə artım 
+müşahidə olunmuşdur. Belə ki, əgər 1988-ci ildə avtomobil 
+nəqliyyatı vasitəsi ilə 777.3 milyon nəfər daşınmışdısa, 2013-cü 
+ildə bu göstərici 1 535 milyon olmuşdur (yəni təxminən iki dəfə 
+artım).  
+Bundan başqa qeyd olunmalıdır ki, ölkədəki avtomobil 
+yollarının uzunluğu azalmışdır. Belə ki, 1990-cı ildə ölkədəki 
+avtomobil yollarının uzunluğu 26 197 km. olduğu halda, 2013-cü 
+ildə bu göstərici 19 002 km. olmuşdur (yəni 7 195 km və ya 27% 
+azalma). Bərk örtüklü yolların uzunluğu isə 1996-ci illə 
+müqayisədə 4 033 km. azalaraq 2013-cü ildə 18 841 km. təşkil 
+etmişdir. Müqayisə üçün qeyd edək ki, 1970-1988-ci illərdə ölkədə 
+yeni 4.6 min km. avtomobil yolu çəkilmiş və avtomobil yollarının 
+32 Rəsmi statistika yalnız 1995-ci ildən başlayaraq bu göstəricini dərc edir. 
+Lakin müqayisə üçün nəzərə alınmalıdır ki, SSRİ dövründə bu göstərici 
+ildən ilə artırdı və 1988-ci ildə dəniz nəqliyyatı vasitəsi ilə 646 min sərnişin 
+daşınmışdır. 
+101 
+ 
+                                                 
+ümumi uzunluğu 1988-ci ildə 25.7 min km. təşkil etmişdir. Bu 
+dövr ərzində bərk örtüklü yolların uzunluğu isə 11 min km. artaraq 
+1988-ci ildə 24.4 min km. təşkil etmişdir. 
+Avtomobil yollarının azalması avtomobillərin sayının 
+kəskin artımı ilə müşahidə olunmuşdur.33 1990-cı il ilə müqayisədə 
+2013-cü ildə ölkədə olan minik avtomobillərinin sayı 4 dəfə artaraq 
+1 048 806 ədəd, avtobusların sayı təxminən 2 dəfə artaraq 30 334 
+ədəd, yük avtomobillərinin sayı 1.3 dəfə artaraq 133 637 ədəd  
+təşkil etmişdir. Nəticədə hər min nəfərə düşən minik 
+avtomobillərinin miqdarı 2013-cü ildə 122 ədəd təşkil etmişdir 
+(yəni 1988-ci ilin müvafiq göstəricisindən təxminən 3.3 dəfə çox). 
+Hava nəqliyyatı ölkədə yük daşınmasında böyük paya 
+malik deyildir (2013-cü ildə yükdaşımanın yalnız 0.06% hava 
+nəqliyyatı ilə həyata keçirilmişdir). Lakin hava nəqliyyatında 
+sərnişin daşınmasında azalma müşahidə olunmuşdur. 1988-ci ildə 
+2016 min sərnişin daşındığı halda, 2013-cü ildə bu göstərici 1 664 
+min sərnişin təşkil etmişdir (yəni 352 min və ya 17% azalma). 
+SSRİ dövründə hava nəqliyyatının digər vacib istifadə zonası kənd 
+və meşə təsərrüfatında aviakimyəvi işlərin aparılması idi: 1988-ci 
+ildə 2.87 milyon hektar ərazi işlənmişdir. Təəssüf ki, bu sahədə 
+müasir dövrdə görülən işlərin həcmi haqqında statistika tapmaq 
+mümkün olmadı. 
+Şəhər elektrik nəqliyyatının göstəricilərinə nəzər salaq. İlk 
+nəzərə çarpan cəhət ekoloji təmiz, ucuz tramvay və trolleybusların 
+ölkə ərazisində istifadəsinin dayandırılmasıdır. Metropoliten üzrə 
+1990-cı il ilə müqayisədə daşınılmış sərnişinlərin sayı 39.2 milyon 
+və ya 23% artaraq 2013-cü ildə 206.6 milyon sərnişin olmuşdur. 
+1970-ci il ilə müqayisədə isə 1988-ci ildə metro ilə daşınan 
+sərnişinlərin sayı 3 dəfə artaraq 143 milyon sərnişin olmuşdur. 
+Metro nəqliyyatının istismar yolunun uzunluğu 1990-cı il ilə 
+müqayisədə 6.6 km. (və ya 24%) artaraq 34.6 km. təşkil etmişdir. 
+33  Qeyd olunmalıdır ki, əhalinin minik avtomobilləri ilə təminatı 
+göstəricisinə görə 1988-ci ildə Azərbaycan SSR SSRİ-də sonuncu yeri 
+tuturdu: 1000 nəfər adama 33.5 ədəd minik avtomobili düşürdü. 
+102 
+ 
+                                                 
+1970-ci illə müqayisədə 1988-ci ildə metro istismar yollarının 
+uzunluğu 13.7 km. (və ya 2.2 dəfə) artaraq 25 km. təşkil etmişdir. 
+Sərnişin vaqonlarının sayı 1990-cı il ilə müqayisədə 44 ədəd 
+artaraq 266 ədəd təşkil etmişdir. 1970-ci il ilə müqayisədə 1988-ci 
+ildə sərnişin vaqonlarının sayı 4.3 dəfə artaraq 207 ədəd təşkil 
+etmişdir. 
+ 
+6. MALİYYƏ 
+ 
+Statistika komitəsinin dərc etdiyi məlumatlar arasında 
+“Maliyyə və kredit” bölməsi təqdim edilmişdir. Burada yalnız 
+maliyyə statistikası nəzərdən keçirilmiş və bu məqsədlə bu sahənin 
+struktur göstəriciləri araşdırılmışdır. 
+Əvvəlcə iqtisadiyyatda (xalq təsərrüfatında) yaradılmış 
+mənfəətin mənbəyini araşdıraq.  
+ 
+Cədvəl 32. Mənfəətin iqtisadi fəaliyyət növləri üzrə strukturu 
+ 
+  1988 2012 
+Sənaye 43% 92% 
+Kənd təsərrüfatı 18% 0.1% 
+Tikinti 13% 2.1% 
+ 
+Mövcud statistikaya əsasən 2012-ci ildə ölkədə mənfəətin 
+94%-i sənaye, kənd təsərrüfatı və tikinti sektorlarında 
+yaradılmışdır. 34 1988-ci ildə analoji göstərici 75% olmuşdur. Bu 
+səbəbdən məhz bu 3 əsas sektor üzrə mənfəətin yaradılmasını 
+müqayisə edək.  
+Göründüyü kimi tikinti və kənd təsərrüfatı üzrə azalma baş 
+versə də, sənaye üzrə artım qeydə alınıb. Lakin sənayedə yaradılan 
+mənfəətin strukturunun təhlili bu artımın mədənçıxarma 
+34 http://www.azstat.org/  
+103 
+ 
+                                                 
+sənayesində (əsasən neft və qaz hasilatı) təmin edildiyini aşkara 
+çıxarır. 
+ 
+Cədvəl 33. Sənaye sahələrində yaradılmış mənfəətin iqtisadi 
+fəaliyyət növləri üzrə strukturu 
+ 
+  1988 2012 
+Mədənçıxarma sənayesi35 18.6% 90.0% 
+Elektroenergetika 6.2% 2.8% 
+Emal sənayesi 75.2% 7.2% 
+ 
+Bütün sənaye növləri üzrə cəmin 100% olmamasının səbəbi 
+Azərbaycan SSR və müasir dövr statistik məlumatlarının 
+müqayisəsi zamanı yaranan çətinliklərdir. Göründüyü kimi, müasir 
+dövrdə ölkədə yaradılan mənfəətin 90%-i xam neft və təbii qaz 
+hasilatında yaradılır, Azərbaycan SSR-də isə analoji göstərici 19% 
+olmuşdur (konservativ yanaşma). Maşınqayırma sektorunda baş 
+verən dəyişiklikdə diqqəti cəlb edir: belə ki, 1988-ci il ərzində 
+yaradılan əlavə dəyərin 27%-i maşınqayırmada idisə, 2009-cu ildə 
+bu göstərici 1% olmuşdur. Emal sənayesi növləri üzrə yaradılan 
+əlavə dəyərin azalması təbii ki, yuxarıda (Sənaye bölməsində) qeyd 
+edilən istehsalın azalması ilə bağlıdır. 
+Maliyyə sahəsində müasir dövrün məlumatlarının 
+Azərbaycan SSR-lə müqayisəsi zamanı diqqət çəkən digər amil 
+sənaye müəssisələrinin mənfəətinin istifadə istiqamətidir. Məsələn, 
+1988-ci ildə sənaye müəssisələrinin mənfəətinin 63%-i dövlət 
+büdcəsinə köçürülmüşdür. Müasir dövrdə isə sənaye istehsalının 
+81%-nin (mədənçıxarma sənayesinin isə 94%) qeyri-dövlət 
+sektorunda cəmləşməsi mənfəətin istifadə istiqamətlərini tamamilə 
+dəyişir. 
+35 Konservativ yanaşma olaraq 1988-ci ilin bütün yanacaq sənayesi sektoru 
+“xam neft və təbii qaz hasilatı” kimi təsnifləşdirilmişdir. 
+104 
+ 
+                                                 
+Azərbaycan SSR-in və müasir Azərbaycanın büdcəsinin 
+strukturunu təhlil edək. Əvvəlcə dövlət büdcəsinin gəlirlərini 
+müqayisə edək. 
+ 
+Cədvəl 34. Dövlət büdcəsinin gəlirlərinin strukturu 
+ 1988 2013 
+Əlavə dəyər vergisi 44% 17% 
+Hüquqi şəxslərin mənfəət vergisi  28% 18% 
+Fiziki şəxslərin gəlir vergisi 7% 4% 
+Sair daxilolmalar 21% 61% 
+Cəmi 100% 100% 
+ 
+1988-ci ildə büdcə gəlirlərinin 70%-dən çoxu əlavə dəyər 
+vergisi36 və hüquqi şəxslərin dövlət büdcəsinə ödənişləri vasitəsi 
+ilə formalaşmışdır. 2013-cü ildə analoji göstərici 35% təşkil 
+etmişdir – yəni təxminən 2 dəfə az. Digər diqqəti çəkən məqam isə 
+sair daxilolmaların payının təxminən 3 dəfə artaraq 61% təşkil 
+etməsidir. Azərbaycan Respublikasının 2013-cü il dövlət büdcəsi 
+haqqında qanuna 37  əsasən sair daxilolmaların 96%-i Neft 
+fondundan daxilolmalar hesabına formalaşdırılmışdır.  
+Dövlət büdcəsinin xərclərinin strukturuna nəzər salaq. 
+  
+Cədvəl 35.Dövlət büdcəsinin xərclərinin strukturu 
+  1988 2013 
+İqtisadiyyata   41% 43% 
+Təhsil və elm 30% 8% 
+Səhiyyə   10% 3% 
+Sosial müdafiə və sosial təminat   13% 9% 
+Digər 6% 37% 
+Cəmi 100% 100% 
+ 
+36 Azərbaycan SSR-də “налог с оборота” 
+37http://www.maliyye.gov.az/sites/default/files/2013-Qanun- 202012.pdf 
+105 
+ 
+                                                 
+Göründüyü kimi, 1988-ci və 2013-cü illərdə iqtisadiyyata 
+(Azərbaycan SSR-də xalq təsərrüfatına) ayrılan xərclərin payı 
+demək olar ki eyni səviyyədə qalmışdır (2013-cü ildə 1988-ci il ilə 
+müqayisədə 2% çox). Lakin digər xərc növləri üzrə kəskin fərqlər 
+müşahidə olunur. Belə ki, təhsil və elm sahəsinə Azərbaycan SSR-
+də büdcə xərclərinin 30% ayrıldığı halda, 2013-cü ildə bu göstərici 
+8% təşkil etmişdir (3 dəfədən çox azalma).  
+  
+Cədvəl 36. Təhsil sahəsinə ayrılan xərclərin büdcənin ümumi 
+xərclərində payı 
+  1988 2013 
+Təhsil 28.0% 7.5% 
+məktəbəqədər və ibtidai təhsil38 2.1% 0.8% 
+natamam və orta təhsil 12.6% 4.1% 
+internat və xüsusi məktəblər 0.2% 0.3% 
+texniki-peşə məktəbləri və liseylər 3.6% 0.4% 
+ali təhsil 2.3% 0.7% 
+ 
+Bəzən kütləvi informasiya vasitələrində “ekspertlərin” 
+gənclərin elmə və təhsilə marağının azalması haqqında fikirlərini 
+eşitmək olur. Əgər bazar iqtisadiyyatının tətbiqi ilə cəmiyyətdə baş 
+verən sosial-mədəni dəyişiklikləri nəzərə almasaq və yalnız iqtisadi 
+səbəbi axtarsaq, təbii ki, təhsilin və elmin maliyyələşdirilməsinin 
+azalması əsas səbəb sayıla bilər. Ümumiyyətlə təhsil sahəsinin 
+vacibliyini nəzərə alaraq demək olar ki, bu sahədə dövlət 
+xərclərinin strukturunu daha ətraflı təhlilinə ehtiyac var. 
+Göründüyü kimi demək olar ki, bütün səviyyələr üzrə azalma 
+müşahidə olunmuşdur (internat və xüsusi məktəblər istisna 
+olmaqla). 
+Səhiyyə sektoruna ayrılan xərclər üzrə də təxminən 3 
+dəfədən artıq azalma müşahidə olunmuşdur. Səhiyyədə xərclərin 
+əsas hissəsinin müalicə-profilaktika müəssisələrinin payına 
+38 1988-ci üzrə yalnız “Uşaq bağçalarına” ayrılan vəsaitlər üzrə statistika 
+göstərilmişdir (yəni konservativ yanaşma). 
+106 
+ 
+                                                 
+düşdüyü üçün buraya istifadə edilən vəsaitlərin strukturuna nəzər 
+salaq. Aşağıdakı cədvəldən göründüyü kimi, təxminən dörd dəfə 
+azalma müşahidə olunmuşdur. 
+ 
+Cədvəl 37. Səhiyyə sahəsinə ayrılan xərclərin büdcənin ümumi 
+xərclərində payı 
+  1988 2013 
+Müalicə-profilaktika müəssisələri 8% 2% 
+ 
+Büdcənin təhlili zamanı maraqlı məqamlardan biri də 
+dövlət borclarıdır (əsasən də xarici dövlət borcları – 2013-cü ildə 
+xarici borc ümumi dövlət borcunun 82%-ni təşkil etmişdir). Xarici 
+dövlət borcu haqqında Azərbaycan Respublikası Maliyyə 
+nazirliyinin rəsmi saytında aşağıdakı məlumat verilmişdir: “01 
+yanvar 2014-cü il tarixində Azərbaycan Respublikasının xarici 
+dövlət borcu 4,753.2 milyon manat, xarici dövlət borcunun Ümumi 
+Daxili Məhsula (ÜDM) olan nisbəti 8.2 faiz təşkil edərək bir çox 
+inkişaf etmiş və inkişaf etməkdə olan ölkələri bu sahədə də 
+qabaqlamışdır”.39  
+Razılaşmaq olar ki, Azərbaycan Respublikasının xarici 
+borcu bir sıra inkişaf etməkdə olan ölkələrlə müqayisədə məqbul 
+səviyyədədir. Lakin burada bəzi detallara nəzər salmaq lazımdır.  
+Hesab olunur ki, kapitalizmin ən inkişaf etmiş ölkəsi 
+Amerika Birləşmiş Ştatlarıdır (ABŞ). Əgər biz ABŞ iqtisadiyyatını 
+“role model”40 olaraq qəbul ediriksə, deməli borc sahəsində olan 
+39 http://www.maliyye.gov.az/node/1694 
+40  Kütləvi informasiya vasitələrində tez-tez Azərbaycanda inkişaf 
+məqsədinin Qərb (ABŞ və Avropa) standartlı iqtisadiyyatın qurulması 
+olduğu haqda məlumatlara rast gəlmək olar. Marksizmin klassikinin 
+“Kapital”ın birinci cildində qeyd etdiyi kimi, daha inkişaf etmiş ölkə inkişaf 
+etməkdə olan ölkəyə onun gələcəyini göstərir. Lakin leqal marksizmin 
+əsaslarından biri olan bu fikrin düzgün olmadığını, demək olar ki eyni 
+vaxtda,V.Lenin və R. Lyuksemburq da sübut etmişlər. Lakin burada 
+reallıqdan ayrılaraq, hipotetik olaraq qəbul edək ki, nə vaxtsa inkişaf 
+107 
+ 
+                                                 
+“qabaqcıl” siyasəti də qəbul etməliyik. ABŞ Mərkəzi Bankı sayılan 
+Federal Ehtiyat Sistemi əsasən dövlətin borc qiymətli kağızlarını 
+almaqla pul emissiya etdiyi halda, Azərbaycan Mərkəzi Bankının 
+belə bir hüququ yoxdur.41 Lakin xarici borcun alınması alqışlanır. 
+Bu məsələnin daha ətraflı təhlili ikinci kitabda veriləcəkdir. 
+ 
+ 
+ 
+ 
+Şəkil 68. Dövlət borcuna xidmətlə bağlı xərclərin  
+cəmi büdcə xərclərində payı 
+ 
+etməkdə olan ölkələr (Azərbaycan da daxil olmaqla) inkişaf səviyyəsinə 
+görə Qərbin “qabaqcıl” ölkələrinə çatmaq imkanları var. 
+41http://www.cbar.az/assets/100/Azerbaycan_Respublikasi_merkezi_banki_h
+aqqinda_qanun.pdf 16.1. Mərkəzi Bank Azərbaycan Respublikasının dövlət 
+büdcəsi kəsirinin birbaşa maliyyələşdirilməsi üçün dövlətə kredit vermir. 
+Dövlət büdcəsində qısamüddətli vəsait çatışmazlığı yarandıqda, Mərkəzi 
+Bank müvafiq icra hakimiyyəti orqanı ilə bağlanmış müqaviləyə əsasən gəlir 
+gətirən dövlət borc qiymətli kağızları ilə təmin edilməsi şərti ilə dövlətə ən 
+çoxu 6 ay müddətinə və cari ildə ödənilmək şərti ilə milli valyutada 
+(manatla) kredit verə bilər. Belə kreditlərin verilmiş və ödənilməmiş 
+hissəsinin ümumi məbləği son üç il ərzində dövlət büdcəsinin orta 
+gəlirlərinin 3 faizindən çox ola bilməz.54.6. Mərkəzi Bank etibarlı emitentlər 
+tərəfindən buraxılmış likvidli borc qiymətli kağızlarını almaq hüququna 
+malikdir. 
+108 
+ 
+                                                                                                             
+Dövlət büdcəsinin xərcləri arasında dövlət borcuna 
+xidmətlə bağlı xərclərin payı artım tendensiyası göstərir. 
+Göründüyü kimi dövlət borcuna çəkilən xərclər (2013-cü ildə 
+4.1%) səhiyyə sisteminə çəkilən xərclərdən çoxdur. Bu cür 
+müqayisə təhsilin bir sıra sahələri üzrə də aparmaq olar, lakin bu 
+fəaliyyət oxucunun ixtiyarına buraxılır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+109 
+ 
+YEKUN 
+Təqdim edilən kitab Azərbaycanın sovet və müstəqillik dövründə 
+sosial-iqtisadi inkişafına retrospektiv bir baxışdır. Kitabda təhlil olunan 
+materiallar Azərbaycan Respublikasında həyata keçirilən bazar 
+islahatlarının sosial-iqtisadi nəticələrinin müasir qiymətləndirilməsi 
+baxımından da aktualdır. Bu nəşri ağ kitab da saymaq olar. Bu, o 
+deməkdir ki, burada daha çox müəllifin fikirləri və rəylərinə deyil, faktiki 
+materiallara üstünlük verilmişdir. Bunları əyani təsvir etmək üçün 
+müəllif, rəsmi statistik məlumatlar əsasında 100-dən artıq qrafik və 
+cədvəl tərtib etməklə, Azərbaycan iqtisadiyyatının ümumi mənzərəsini 
+verməyə çalışmışdır. Fikrimizcə, Azərbaycan iqtisadiyyatının 
+vəziyyətinin bu kitabda göstəriləndən fərqli halını əks etdirən hər hansı 
+möcüzəli göstəricilər diqqətimizdən yayınmamışdır. Qrafiklər və 
+cədvəllər Azərbaycan Respublikası iqtisadiyyatının (real sektorun) 
+böhran vəziyyətindən hələ də çıxmadığını açıq- aydın şəkildə göstərir.  
+Zənnimizcə, bu kitabda Azərbaycan SSR-lə müqayisəli təqdim 
+edilən materiallar yaşlı insanlara tarixi yaddaşlarını təzələməyə, gənclərə 
+isə Azərbaycan SSR-nin iqtisadiyyatı haqqında az da olsa məlumat 
+verməyə imkan yaradır. Təbii ki, kitabda təqdim edilən materiallar 
+iqtisadiyyatın bütün sahələrini əhatə etmir, lakin əsas sistem yaradan 
+sektorlar haqqında kifayət qədər material təqdim edilib. İqtisadiyyatla 
+bağlı diskussiyalarda hər sualın cavabı kimi daha çox Azərbaycanın 
+“gənc” dövlət olması və statistik məlumatların kasadlığı əsas arqument 
+kimi götürülür. Biz bu kitabda manipulyativ arqumentlərin bir qismini 
+faktiki materiallarla təkzib etməyə və vətəndaşlarımızın tarixi yaddaşını 
+bərpa etməyə çalışmışıq.  
+Onu da xatırlatmaq istəyirik ki, kitabın yazılmasında məqsəd - 
+SSRİ dövrü üçün nostalgiya hissləri yaratmaq deyildir. Lakin onu da 
+inkar etmək olmaz kı, hal-hazırda Azərbaycan iqtisadiyyatı SSRİ 
+dövründə qurulan sistemlərin bünövrəsində yaradılıb və onun əsasında da 
+fəaliyyət göstərir.. Bunun parlaq nümunəsi - kitabda neft sənayesinin 
+təhlili zamanı ARDNŞ tərəfindən qazılan neft quyularının dərinliyi 
+misalında təqdim edilməsidir. Azərbaycanın öz tarixi qüdrətini bərpa 
+etməsi üçün SSRİ dövründə yaradılan və “islahatlarla” daha da pozulmuş  
+sistemlərin yenidən işlək vəziyyətə gətirilməsini, onun 
+təkmilləşdirilməsini zəruri edir. Lakin təkcə bu şərtlərin yerinə 
+yetirilməsi də yetərli deyildir. Əlavə nələr edilməlidir - bu haqda 
+müəllifin ətraflı tədqiqatları və şərhləri növbəti kitabda təqdim 
+olunacaqdır. 
+ 
+110 
+ 
+İSTİFADƏ OLUNMUŞ ƏDƏBİYYAT 
+ 
+1. http://www.president.az/files/future_az.pdf Azərbaycan 2020: 
+gələcəyə baxış” inkişaf konsepsiyası. 
+2. http://www.eco.gov.az/programlar/Erzaq.doc Azərbaycan 
+Respublikasında əhalinin ərzaq məhsulları ilə etibarlı 
+təminatına dair Dövlət Proqramı. 
+3. http://azeritoday.com/archives/tag 
+4. http://stat.gov.az/ Dövlət Statistika Komitəsinin rəsmi saytı: 
+5. http://www.azstat.org/  
+6. http://www.cbar.az/assets/100/    
+7. http://www.fao.org/home/en/ 
+8. http://www.gia.az/view.php?lang=az&menu=46&id=832 
+9. http://www.mbagroup.az/ 
+10. http://www.oilfund.az/uploads/annual_2013az.pdf 
+11. Кара-Мурза С.Г. Народное хозяйство СССР. — М.: 
+Алгоритм, 2012. — 480 с.  
+12. Кара-Мурза Сергей, Глазьев Сергей, С. Батчиков: Белая 
+книга. Экономические реформы в России 1991 - 2001 гг., 
+Издание: 2002 г 
+13. Народное хозяйство Азербайджанской ССР в 1988 
+г./Статистический ежегодник, Азербайджанское 
+Государственное Издательство, Баку 1990, стр.258. 
+14. Экономика невинного обмана: правда нашего времени М: 
+Издательство "Европа", 2009. - 88 с. 
+ 
+ 
+ 
+ 
+ 
+111 
+ 
+Мехдиев Хайям Осман оглы, к.э.н. 
+Ретроспективный взгляд на социально-экономическое 
+развитие Азербайджана: сравнительный анализ (I КНИГА) 
+РЕЗЮМЕ 
+Эта книга является рестроспективным взглядом на 
+социально-экономическое развитие Азербайджана во времена 
+СССР и в условиях независимости. Материалы предоставленные 
+в книге являются актуальными также с точки зрения оценки 
+социально-экономических последствий рыночных реформ, 
+проведенных в Азербайджанской Республики. Книга может быть 
+перечислена к типу «белых» книг. Это означается, что здесь 
+представлены фактические сведения, а не мнения и оценка 
+действительности. Для этого автор постарался дать общую 
+картину экономики Азербайджана на основе более 100 графиков 
+и таблиц, построенных исходя из официальных статистических 
+данных. 
+Книга предназначена для всех, кто думает о прошлом и 
+будущем Азербайджана.  
+ 
+ 
+Mehdiyev Khayyam Osman oglu, Ph.D. 
+Retrospective view on social-economic development of 
+Azerbaijan: comparative analysis (I Book) 
+RESUME 
+This book is a retrospective view on social-economic 
+development of Azerbaijan during USSR and independence period. 
+Presented materials are also necessary for the estimation of the social-
+economic results of market economy reforms conducted in the 
+Azerbaijan Republic. The publication may be considered as a “white” 
+book. This means that not the opinions and assessment of reality, but 
+factual information is presented in the book. To do this the author 
+tried to submit an overall review of Azerbaijan economy on the basis 
+of more than 100 graphs and tables, which are formed from official 
+statistics. 
+The book is intended for anyone who is thinking about the 
+past and the future of Azerbaijan. 
+112 
+ 
+Xəyyam Osman oğlu Mehdiyev – 
+1986-cı ildə Füzuli rayonunun Yuxarı 
+Yağlıvənd kəndində anadan olmuşdur. 
+1993 ildən məlum səbəblərlə əlaqədar 
+olaraq Qaradağ rayonu Lök-batan 
+qəsəbəsində məskunlaşmış və oradakı 
+288 saylı orta məktəbi əla qiymətlərlə 
+bitirərək dövlət xətti ilə Rusiya 
+Federasiyası Hökuməti yanında Maliyyə 
+Akademiyasına (Moskva şəhəri) daxil olmuş və oranı fərqlənmə 
+diplomu ilə bitirmişdir. 2009 ildə yenə dövlət xətti ilə həmin 
+Universitetin aspiranturasına daxil olmuş və 2012 ildə iqtisad 
+elmləri üzrə namizədlik dissertasiyası müdafiə etmişdir. 2012- 
+2013 illərdə Rusiya Federasiyası Hökuməti yanında Maliyyə 
+universitetində “Pul-kredit münasibətləri və monetar siyasət” 
+kafedrasında müəllim işləmişdir. 2008-2013-cü illərdə Moskva 
+şəhərində QSC “Ernts&Young”, QSC “Credit Europe Bank” kimi 
+beynəlxalq təşkilatlarda iqtisadçı kimi çalışmışdır. 2014-cü ildə 
+Bakıya qayıtdıqdan sonra Azərbaycan Respublikası Mərkəzi 
+Bankında iqtisadçı kimi əmək fəaliyyətini davam etdirir. Eyni 
+zamanda, Azərbaycan Respublikası Prezidenti yanında Dövlət 
+İdarəçilik akademiyasında “İqtisadiyyatın dövlət tənzimlənməsi” 
+kafedrasının əvəzçiliklə müəllimidir. 
+ Bir dərs vəsaitinin və 10 məqalənin müəllifidir. 
+113 
+ 

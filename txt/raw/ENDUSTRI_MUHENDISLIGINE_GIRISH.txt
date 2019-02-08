@@ -1,0 +1,3484 @@
+ENDÜSTRI
+Sevil Imanova
+Qafqaz  Üniversitesi 
+Yayınları
+Bakü - 2010
+Qafqaz  Üniversitesi Yayınları
+Bakü - 2010
+ 
+Sevil İMANOVA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENDÜSTRİ  
+MÜHENDİSLİĞİNE  
+GİRİŞ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bakü  - 2010
+ 
+ 
+ 
+Q A F Q A Z  Ü N İV E R S İT E S İ   
+Y A Y I N L A R I   
+Y A Y I N  N O :  4 3  
+ 
+Sevil İMANOVA 
+ 
+ 
+ENDÜSTRİ MÜHENDİSLİĞİNE GİRİŞ 
+ 
+ 
+Redaktor: 
+Dr. Yadullah Babayev 
+ 
+Dizgi: 
+Sahib Kazımov 
+ 
+ 
+Qafqaz Üniversitesi Yayın Komisyonunun 30.06.2009 tarihli,  
+Ç-QU-15010-000/016 sayılı teklifi ve Senatosunun 16.09.2009 tarih, 2009/85.06  
+sayılı emri ile Üniversite yayını olarak basılmasına karar verilmiştir. 
+ 
+Kitap Qafqaz Üniversitesi Dizgi ve Basım Şubesinde  
+dizilerek yayına hazırlanmıştır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+©  Qafqaz University, 2010 
+©  Sevil İMANOVA, 2010
+ 
+ 
+ 
+İÇİNDEKİLER 
+ 
+ÖNSÖZ 5 
+GİRİŞ 7 
+BÖLÜM I 9 
+ENDÜSTRI MÜHENDİSLİĞİNE GENEL BAKIŞ 9 
+1.1 Endüstri Mühendisliğinin Tarihsel Gelişimi..............................................................................9 
+1.2 Endüstri Mühendisliği nedir. ...................................................................................................11 
+1.3 Endüstri Mühendisliğinin Fonksiyon Grupları ........................................................................13 
+1.4  İsraf Edilebilecek Kaynaklar. .................................................................................................14 
+1.5 Endüstri Mühendisliğinin Sorumluluk Yüklenebileceği  Konular...........................................15 
+1.6 Endüstri Mühendisliğinde Eğitiminde Dikkat Edilmesi Gereken Hususlar. ............................15 
+ 
+BÖLÜM II 17 
+VERİMİLİK VE VERİMLİLİĞİN YÖNETİMİ 17 
+2.1 Verimlilik ................................................................................................................................17 
+2.2 Verimlilik ile ilgili kavramlar..................................................................................................17 
+2.3 Verimlilik Ölçümü ..................................................................................................................18 
+2.4  Verimliliği Artırma Yolları ....................................................................................................18 
+2.5  Verimlilik Yönetim Sistemleri ...............................................................................................21 
+ 
+BÖLÜM III 22 
+İŞ ETÜDÜ-İŞ DEĞERLENDİRME VE ÜCRET SİSTEMLERİ 22 
+3.1. İş Etüdü ..................................................................................................................................22 
+3.1.1 İş etüdünün tarifleri..............................................................................................................................22 
+3.1.2. Metod Etüdü........................................................................................................................................23 
+3.1.3. Zaman Etüdü.......................................................................................................................................24 
+3.2 İş Değerlendirmenin amaç ve kapsamı ....................................................................................34 
+3.2.1 İş değerlendirmenin tanımı ..................................................................................................................35 
+3.2.2 İş Analizi ..............................................................................................................................................36 
+3.2.3  İş Değerlendirmenin Yararları ............................................................................................................39 
+3.2.4  İş Değerlendirme Planı .......................................................................................................................40 
+3.2.5 İş Değerlendirme Yöntemleri ..............................................................................................................41 
+3.3 Ücretlendirme Sistemi .............................................................................................................43 
+3.3.1  Teşvikli Ücret Sistemleri ....................................................................................................................44 
+ 
+BÖLÜM IV 45 
+ERGONOMİ VE İŞ GÜVENLİĞİ 45 
+4.1 Ergonomi.................................................................................................................................45 
+4.1.1 İnsan Bedenini Günlük Aktivitesi ve Gece Çalışmaları......................................................................49 
+4.2 İş Güvenliği .............................................................................................................................51 
+4.2.1 İşyeri.....................................................................................................................................................51 
+4.2.2. Güvenli Davranış Biçimi ....................................................................................................................52 
+ 
+4.2.3  Sorumluluklar .....................................................................................................................................52 
+4.2.4. İletişim ................................................................................................................................................53 
+4.2.5  Güvenli Çalışma Uygulaması .............................................................................................................53 
+4.2.6  Güvenlik İşaretleri ..............................................................................................................................55 
+4.2.7. Tehlikeli Madde, Malzeme ve İşlemler ..............................................................................................56 
+ 
+BÖLÜM V 59 
+TESİS YERİ SEÇİMİ VE DÜZENLENME 59 
+5.1. Tesis Yeri Seçimi Kavramı.....................................................................................................59 
+5.1.1  Tesis Yeri Seçimindeki Aşamalar ve Etmenler..................................................................................59 
+5.1.2 Tesis Yeri Seçimi Sorununa Yaklaşımlar............................................................................................61 
+5.2  Tesis Yeri Düzenlemenin Tanımı ve Amaçlar........................................................................62 
+5.2.1 Tesis Yeri Düzenleme Tipleri..............................................................................................................63 
+5.2.2. İş Akışı Tipleri ....................................................................................................................................66 
+5.2.3  Sistematik Tesis Yeri Düzenleme Yaklaşımı .....................................................................................66 
+ 
+BÖLÜM VI 67 
+ÜRETIM SISTEMLERI 67 
+6.1. Sistemin tanımı, temel yapısı, önemli bazı özellikleri. ...........................................................67 
+6.2 Sistemlerin Sınıflandırılması ...................................................................................................69 
+6.3. Üretim Kavramına Bir Bakış ..................................................................................................70 
+6.4. 2000’lerde Üretim ..................................................................................................................71 
+6.5. Üretim Süreci .........................................................................................................................72 
+6.5.1. Mal ve Hizmet Üretimi .......................................................................................................................72 
+6.6. Üretim Sisteminin tanımı .......................................................................................................74 
+ 
+BÖLÜM VII 75 
+KALİTE VE TOPLAM KALİTE YÖNETİMİ 75 
+7.1. Kalite Kavramı Nedir? ...........................................................................................................75 
+7.2. Toplam Kalite Yönetimi 79 
+7.2.1. Toplam Kalite Kavramı. ......................................................................................................79 
+7.2.2. Toplam Kalite Kontrol Kavramı..........................................................................................81 
+7.2.3. Toplam Kalite Yönetimi......................................................................................................82 
+7.2.4. Yeni Yönetim Anlayışı .......................................................................................................................84 
+ 
+BÖLÜM VIII 89 
+YAPAY ZEKA 89 
+8.1. Yapay Zekaya Genel Bakış ....................................................................................................89 
+8.1.1 İlk araştırmalar ve yapay sinir ağları ...................................................................................................91 
+8.1.2 Sembolik yapay zekâ ...........................................................................................................................91 
+8.2. Yapay sinir ağları ...................................................................................................................92 
+8.3.  Uzman sistemler ....................................................................................................................93 
+8.4. Doğal dil işleme......................................................................................................................94 
+8.5. Bulanık Mantık.......................................................................................................................95 
+8.6. Gelecekte yapay zeka .............................................................................................................96 
+ 
+KAYNAKLAR 98 
+ 
+ 5 
+ 
+ 
+ÖNSÖZ 
+ 
+"Yaşamdaki en büyük zevk, başkalarının senin yapamayacağını                     
+söyledikleri şeyi yapmaktır." der, Walter Bagehot. 
+ 
+Günümüz çalışmalarında müşteri memnuniyeti en önemli kavramlardan biridir. 
+Bu notları yazarken de düşündüğüm en önemli noktalardan biri budur, yani bu 
+kitabı okuyan talebelerim. 
+Endüstri Mühendisliğini diğer mühendislik dallarından farklı kılan en önemli 
+özelliği, insan odaklı olması ve bütünsel bakış açısıyla olaylara yaklaşmasıdır. Yani 
+sistemin merkezindeki en önemli faktörün insan faktörü olduğunun bilincinde 
+olmak ve sistemin tüm bileşenlerini etkileşimli sonuçlar bütünü içerisinde ele 
+almaktır. 
+Endüstri Mühendisleri, kuruluşun kaynaklarının dengeli dağıtımından, etkin 
+kullanımından ve uzmanlar arasındaki işbirliğinin kurulmasında da sorumludur. 
+Bir işletmenin kendi özgün uğraşları yanında, farklı alanlardaki uzmanlarla yö-
+netim arasında bir köprü görevi de yapar.  
+Endüstri Mühendisi, her düzeydeki yöneticinin karar verme aşamasında ihti-
+yaç duyduğu bilgi desteğini, bilimsel yöntemler kullanarak veren kişidir. Bu neden-
+le bir Endüstri Mühendisi kamu, ticaret, hizmet, tasarım, üretim ve hatta askeri 
+alanda faaliyet gösteren bütün işletmelerde çalışabilir.  
+Ders notunun amacı bu dalda öğrenim gören Endüstri Mühendisliğinin temel-
+lerini açmak, gerekli konuları kısaca anlatmak ve Endüstri Mühendisi olmayan bir 
+şahsın Endüstri Mühendisliğinin temel kavram ve yöntemlerini kolay ve anlaşı-
+labilir biçimde açıklamak. Endüstri Mühendisi olanlar için ise geleneksel Endüstri 
+Mühendisliği konularında başvurulabilecek bir el kitabı niteliktedır. 
+Sevil İmanova  
+ 
+Sevil İmanova 
+ 
+ 6 
+ 
+ 7 
+ 
+ 
+GİRİŞ 
+Tüm bilim dallarının amacı, insanlık için mevcut olan sorunları çözmek, insan 
+refahına yönelik gelişmiş ürün ve sistemler tasarlamak ve üretmek, bilinmeyenler 
+üzerinde araştırmalar yaparak elde edilen bulguları yine insanlık yararına kullan-
+maktır. Mühendislik temelde yenilikçiliğe, tasarıma ve projelendirmeye  dayalı bir 
+meslektir. 1900’lü yılların başlarında söz konusu çeşitli uygulamaların entegras-
+yonu yoluyla toplam işletme verimliliğinin geliştirmesine yönelik sistemler kurul-
+ması ihtiyacı doğmuştur. Endüstri Mühendisliği Mesleği bu ihtiyacın bir sonucu 
+olup, endüstriyel alanda doğması nedeniyle adı Endüstri Mühendisliği olmuştur. 
+Daha uygun bir isim Sistem veya Verimlilik Mühendisliği olabilirdi. Günümüzde 
+endüstri mühendisliği endüstriyel alanlar dışında bankacılık, sigortacılık, turizm, 
+sağlık, tarım, vb. birçok sektörde aynı ilke ve yöntemler ile işletmelerin geliştiril-
+mesinde katkılarda bulunmaktadır. 
+Endüstri Mühendisliği; yüksek performansı, güvenilirliği, sürekliliği ve mali-
+yet kontrolünü gerçekleştiren bütünleşik üretim ve hizmet sistemlerini tasarlayan, 
+planlayan, kuran ve yöneten uygulayıcılara (üyelere) sahip önde gelen bir meslek 
+olarak tanınmaktadır. Bu sistemler doğal olarak sosyo-teknik sistemler olmakla bir-
+likte ve ürün, hizmet veya programların ömürleri boyunca işgücü, bilgi, malzeme, 
+makine-teçhizat, proses ve enerji kaynaklarını entegre edecektir. 
+Bu mesleğin amaçları, karlılık, etkenlik, verimlilik, esneklik, duyarlık, yüksek 
+kalite, ürün ve hizmetlerin ömürleri boyunca sürekli geliştirilmesidir. Bu sonuçları 
+elde edebilmek için insan ve sosyal bilimler (ekonomi dahil), bilgisayar bilimleri, 
+temel bilimler, yönetim bilimleri, çağdaş iletişim becerileri ile birlikte fiziksel, 
+davranışsal, matematiksel, istatistiksel, organizasyonel ve ahlaki kavramlar kulla-
+nılacaktır. 
+Günümüzde ulusal ve uluslararası rekabetin önemli ölçüde artması işletmeleri 
+sürekli gelişme içinde olmalarını gerektirmektedir. İşletmelerde sürekli gelişme 
+ortamı oluşturulması çağdaş takım çalışmalarının yaygınlaştırılmasıdır. Endüstri 
+Mühendisleri söz konusu takım çalışmalarına yukarıda verilen tanım çerçevesinde 
+büyük katkı sağlayacaktır. Bu nedenle de endüstri mühendislerinin beşeri ilişkile-
+rini önemli ölçüde geliştirmeleri gerekmektedir. 
+Sevil İmanova 
+ 
+ 8 
+ 
+ 
+ 9 
+ 
+ 
+BÖLÜM I 
+ENDÜSTRI MÜHENDİSLİĞİNE GENEL BAKIŞ 
+1.1. Endüstri Mühendisliğinin Tarihsel Gelişimi 
+Endüstri mühendisliği yaklaşım ve esaslarına yönelik ilk çalışma olarak İngil-
+tere’de Adam Smith isimli bir ekonomist tarafından yazılan ve 1776 yılında yayın-
+lanan “The Wealth of Nations” adlı kitabı gösterilebilir. Adam Smith endüstri dev-
+rimi öncesi “İş Bölümü”, yani bir ürünün üretim ile ilgili farklı özelliklerdeki 
+işlerin birbirlerinden ayrılarak farklı kişiler tarafından yapılması ile verimliliğin 
+artacağı fikrini ortaya atmıştır.  
+Endüstri mühendisliğinin temelleri 1750 ve 1850 yılları arasında özellikle iş 
+bölümü kavramı ile atılmıştır. 1750 yılına kadar aynı kişi işi planlar, malzeme, ta-
+kım ve tertibatını seçer ve temin eder, işlemini ve kontrolünü yapardı. 
+1850 yılından sonraki en önemli gelişme, 1856-1915 yılları arasında yaşayan 
+ve çoğunlukla endüstri mühendisliğinin kurucusu olarak kabul edilen Frederick 
+Winslow Taylor isimli Amerikalı ile olmuştur. Taylor fabrikada bizzat çalışan, 
+sürekli gözlenen ve analiz yapan, düşündüklerini uygulayan ve geliştiren bir 
+makine mühendisidir. Özellikle işlerin daha kolay, daha etkin ve verimli yapıla-
+bilmesi için yeni iş metotları bulunmasına yönelik Metot Etüdü, işlerin işlem süre-
+lerinin belirlenmesine yönelik Zaman etüdü, iş bölümü, işçilerin yapacakları işe 
+göre seçimi ve eğitimi, işçi-işveren ilişkileri (endüstri ilişkileri), planlama ve kon-
+trol fonksiyonlarının işçiler tarafından değil yönetim tarafından gerçekleştirilmesi 
+konularında çok önemli katkıları olmuştur. 
+Aynı dönemlere rastlayan diğer bir gelişme Amerikalı bir çift olan Frank 
+Bunker Gilbreth (1868-1924) ve Lilian Moller Gilbreth ile olmuştur. Mühendis olan 
+Frank ile psikolog olan Lilian birbirlerinin bilgilerinden yararlanarak ve özellikle 
+Taylor’un çalışma ve yazılarından etkilenerek bir işin yapılmasında en etkin ve 
+verimli hareketlerin (özellikle insan açısından en kolay) neler olduğu konusunda 
+tam bir takım çalışması meydana getirmiştirler. Bu çalışmada taşıma, tutma, arama, 
+monte etme vb. iş hareketleri 17 adet Therblig denilen semboller ile ifade edilerek, 
+işi yapmanın en iyi metodunun belirlenmesinde ve iş eğitimlerinde bu sembollerin 
+kullanılması önerilmiştir. Aynı yıllarda Taylor ile uzun süre birlikte çalışmış olan 
+Henry Laurence Gannt (1861-1919) yapılacak işlerin birbirlerine göre zaman ve 
+Sevil İmanova 
+ 
+ 10 
+öncelik ilişkisini gösteren Gannt Şemasını, ayrıca standart üretim miktarı üzerin-
+deki üretimler için işçilere ödenecek bir prim sistemini (teşvikli ücret sistemini) 
+geliştirmiştir.  
+İlk endüstriyel düzeyde EM uygulamaları ABD işletmeleri tarafından yapıl-
+mıştır. 1898 Western Electric şirketinde teşvikli ücret sistemleri, 1912-1914 yılla-
+rında Armstrong Cork şirketinde maliyetlendirme, kalite kontrol, planlı bakım, 
+teşvikli ücret ve iş değerlendirme sistemleri, 1914’de Eli Lilly ile 1917’de  Cow 
+Chemical Şirketlerinde iş etüdü ve teşvikli ücret sistemleri uygulanmıştır. ABD’-
+nde iş metotlarına ait gelişmeler sürerken Fransa’da Henry Fayol (1841-1925) 
+önderliğinde bir grup planlama, organize etme, koordine etme, yürütme ve motive 
+etme şeklinde yönetim fonksiyonlarını tanımlamışlardır. 
+1920’li yıllardaki en önemli gelişme istatistiğin mühendislik çalışmalarına 
+uygulanmaya başlamasıdır. 1924 yılında ABD’nde Bell Telefon Laboratuarlarında 
+çalışan Dr. Walter Shewart istatistiği, üretimin çeşitli noktalarında örnekleme 
+yaparak ürün kalitesinin ekonomik bir şekilde kontrolü amacıyla kullanmıştır. 
+Shewart örnekleme teorisi ve kalite kontrolü uygulanması çalışmalarını 1931 
+yılında yayınlanan “Economic Control of the Quality of Manufacturing Product” 
+isimli kitabında toplamıştır. 
+İkinci dünya savaşı süresi ve sonrasında üzerinde gelişme kaydedilen Endüstri 
+Mühendisliği konuları; metot etüdü, zaman etüdü, iş basitleştirme, kalite kontrol, 
+ücret yönetimi, iş değerlendirme, teşvikli ücret (prim) sistemleri, iş yeri düzenleme 
+ve malzeme taşıma sistemleri ile üretim planlama ve kontrolü idi. Bu konular gü-
+nümüzde geleneksel endüstri mühendisliği (traditional industrial engineering) 
+olarak adlandırılmaktadır. 
+İkinci dünya savaşı, matematik, fizik, olasılık ve diğer sayısal analizle ilgili 
+bilimlerin, savaş yönetimindeki kararların alınmasına yardımcı olarak kullanıldığı 
+ilk savaştır. Endüstri Mühendisliğinin temel konularından Yöneylem Araştırması 
+(Operations Research) adı verilen karar verme yaklaşımı ilk defa İngiltere’de 1940 
+yılında askeri, gen ve sosyal bilimlerden gelen çeşitli bilim adamı ve uzmanların 
+oluşturduğu bir grup tarafından savaş süresince askeri problemlerin çözümünde 
+uygulanmıştır.  
+Yöneylem Araştırması yaklaşımının savaş sırasında başarılı olması, savaş 
+sonrası öncelikle ABD ve İngiltere’de olmak üzere işletme yönetimi problemle-
+rinin çözümünde de kullanılmasını sağlamıştır. Günümüzde yaygın şekilde kulla-
+nılan doğrusal programlama, doğrusal olmayan programlama, dinamik programla-
+ma teknikleri yöneylem araştırması yaklaşımının oluşturduğu tekniklerdir. Bu şe-
+Endüstri Mühendisliğine Giriş 
+ 
+ 11 
+kilde hangi mamulden ne kadar üretelim ki karımız en fazla olsun, hangi noktalara 
+depo kuralım ki dağıtım ve depolama maliyetlerimiz en düşük olsun, hangi taşıma 
+araçları ve hangi güzergahları (rotaları) kullanalım ki ürünlerimizi müşterilerimize 
+en hızlı bir şekilde ve en düşük maliyetle gönderebilelim, levha veya kumaşları 
+nasıl keselim ki firemiz en az olsun gibi işletme problemleri günümüzde yöneylem 
+araştırması teknikleri ile çözülebilmektedir. 
+1947 yılında Norbert Wiener tarafından ortaya konana Sibernetik biliminin de 
+EM’ ne önemli katkıları olmuştur. Sibernetik (Cybernetics) bilimi günümüz oto-
+matik kontrol ve otomasyonun temel özelliğini gösterir. Veriyi alma, işleme, bilgi 
+haline dönüştürme ve kullanma safhaları ile geri beslemeli bir çevrimi ifade eder. 
+EM  konusunda 1950 ve 1980 yılları arasındaki gelişme daha ziyade çalışan-
+ların motivasyonu üzerine olmuştur. Genellikle Japonya’da gelişen bu yaklaşım-
+lardan bazıları Kalite Kontrol Çemberleri (Geliştirme ve İyileştirme Grupları ola-
+rak da adlandırılmaktadır),   Toplam Kalite Yönetimi (Total Quality Management), 
+Çalışma Hayatı Kalitesinin İyileştirilmesi (Quality of Work Life), Toplam Üretken 
+Bakım (Total Productive Maintenance)’dır. Ayrıca Tam Zamanında Üretim (Just in 
+Time Production), Üretim Kaynakları Planlaması (Manufacturing Resource Planning 
+MRP-II), Sıfır Hata (Zero Defects) programları yine EM ile ilgili gelişmelerdir. 
+1.2. Endüstri Mühendisliği nedir 
+Endüstrinin başlamasından bu yana mühendislik dalının şu veya bu şekilde 
+uygulaması yapılmıştır. İnsan oğlu gerek düşünce, gerekse tecrübe güçlerini kulla-
+narak başarma yollarını bulmuştur. Ancak endüstri geliştikçe, iş incelenmesine 
+yoğun bir ilgi duyan ve işleri daha iyi yapma yollarını arayan ve bu konuda bilim-
+sel bir düzen getirmeye çalışan kişiler ortaya çıkmıştır. 
+Üretim faaliyeti ikiye ayrılır: 
+1. Mühendislik 
+2. Mühendislik dışındaki faaliyetler 
+Mühendislikle ilgili faaliyetler iki grupta toplanabilir: 
+1. Meslek Mühendisliği  
+- konstrüksiyon 
+- imalat 
+- takım 
+- makine vb. 
+Sevil İmanova 
+ 
+ 12 
+2. Endüstri Mühendisliği 
+Meslek mühendislikleri esas olarak matematik ve fizik biliminin uygulamasını 
+yaparlar. Endüstri mühendisinin diğer mühendislik dallarından farkı bu mühendis-
+lik dalının matematik ve fizikten başka insan faktörünü de göz önünde tutmasıdır. 
+Endüstri mühendisliğinin çeşitli tanımları vardıysa en iyisi ve en çok kullanı-
+lan şudur: 
+Endüstri mühendisliği tesis, makine, teçhizat ve bu teçhizatı kullanacak insan 
+gücünü en ekonomik ve verimli bir şekilde kullanmak amacıyla yapılan metot 
+etüdü, iş ölçümü ve diğer model yönetim tekniklerini ihtiva eden bir mühendislik 
+dalıdır. 
+Endüstri mühendisliği, insan, malzeme ve teçhizattan meydana gelmiş entegre 
+sistemlerin konstrüksiyonu, gelişmesi ve kuruluşu ile ilgilenir. Çalışmalarında ma-
+tematik fizik ve sosyal bilimlerdeki özel ilgi ve becerisini mühendislik analiz ve 
+kuruculuğunu metot ve prensipleri ile birleştirerek böyle sistemlerini elde edilecek 
+neticeleri tespit, tahmin ve değerlendirmeye çalışır. 
+Endüstri Mühendisliğinde incelenecek konular: 
+1. Verimlilik (Efficiency) 
+2. İş Etüdü (Work Study) 
+3. Metot Etüdü (Motion Study) 
+4. Zaman Etüdü (Time Study) 
+5. İş Ölçümü (Work Measure) 
+6. Ergonomi (Ergonomics) 
+7. İş Değerlendirme (Work Evaluation) 
+8. Ücret Sistemleri (Wage Systems) 
+9. İş Güvenliği (Work Security) 
+10. Üretim Sistemleri (Production Systems) 
+11. Yöneylem Araştırması (Operations Research) 
+12. Simülasyon (Simulation) 
+13. Yapay Zeka (Artificial İntelligence) 
+14. Üretim Planlama ve Kontrolü (Production Planning and Control) 
+15. Numerik Analiz (Numerical Analysis) 
+16. Olasılık ve  İstatistik (Probabality Systems and Statistics) 
+Endüstri Mühendisliğine Giriş 
+ 
+ 13 
+17. Kalite Güvence Sistemleri (Quality İnsurance Systems) 
+18. Toplam Kalite Yönetimi (Total Quality Management) 
+19. Değişim Mühendisliği (Reengineering) 
+20. Kıyaslama (Benchmarking) 
+1.3. Endüstri Mühendisliğinin Fonksiyon Grupları 
+Endüstri mühendisliğinin fonksiyon grupları 5 ana başlık altında incelenecek 
+mümkündür: 
+1. İş incelemesi 
+2. Yerleştirme planlarının yapılması 
+3. Malzeme hareketlerinin düzenlenmesi 
+4. Takım ve mastar hazırlanması, makine ve tesislerin seçilmesi 
+5. Yardımcı fonksiyonlar 
+1. İş incelemesi. 
+Yapıcı ve yardımcı üretim ve hizmet yerlerinde işlerin yürütülmesinde uygula-
+nacak olan en iyi metot ve standartların ortaya konmasıdır. 
+İş incelemesi, hareket, metot etüdü, zaman etüdü, zaman standartları ve başarı 
+derecelerinin değerlendirilmesini içerir. 
+Örnek, bir işçi bir ayda 500 tane demir kısmını yapıyor, standart zamana göre 
+hesaplanması, bir eleman 500 tane yapabilir. %10 tolerans, 550’den yukarı yaparsa 
+primli ücret ödenmelidir. 
+2. Yerleştirme planlarının yapılması 
+Ana ve yardımcı tezgah, makine ve tesislerin çalışma alanlarının en iyi şekilde 
+düzenlenmesini sağlar. Yerleştirme planlaması çalışmaları ile iş yerinde çalışma 
+alanına duyulan ihtiyaç tespit edilir. Bu amaç için uygun yerler seçilir, ana ve yar-
+dımcı tezgahlar ve tesislerin bir birleriyle olan ilişkileri sağlanır. 
+3.  Malzeme hareketlerinin düzenlenmesi 
+Üretilen mamullerin ve bu ürünlerin yapılmasında kullanılan malzemelerin 
+işletme içindeki hareketlerinin en iyi şekilde düzenlenmesi gerekir. Bu şekilde ça-
+lışma ile malzeme ve iş akış şemaları yapılır. Mevcut malzeme hareketi ve araçları 
+incelenir. 
+ 
+Sevil İmanova 
+ 
+ 14 
+4. Takım ve mastar hazırlanması, makine ve tesislerin seçilmesi 
+Bu çalışma ile gerekli operasyon ve proseslerde kullanılacak işi kolaylaştırıcı 
+ve masrafları kısıcı, kaliteyi yükselten, takım-mastar bağlama, kalıp ve aparatların 
+konstrüksiyonu hazırlanması, bakım ve muhafazası, seçilmesi ve değiştirilmesi 
+işleri yapılır. 
+5. Yardımcı Fonksiyonlar. 
+Endüstri mühendisliğinde özellikle, insan gücü verimini artırmak için bazı 
+fonksiyonlar yerine yetirilir. Bu fonksiyonları şu şekilde sıralamamız mümkün: 
+1) iş yeri organizasyonun yapılması 
+2) iş tanımlanması, değerlendirilmesi, sınıflandırılması ve kadroların 
+hazırlanması 
+3) işçi, usta ve ustabaşların iş başında eğitimi 
+4) iş güvenliği, iş yeri çalışma şartları, toplu sözleşme ve insan ilişkileri 
+konusunda çalışmalar yapma 
+5) teşvik edici ücret sisteminin uygulanması, 
+6) problem çözme tekniğini üretime uygulanması 
+Sonuç olarak özetlersek, endüstri mühendisliği, insan faktörünü de göz önünde 
+bulundurduğu için diğer mühendislik dallarındaki verimliliğin artırılması ve mali-
+yetlerin düşürülmesi konusunda fevkalade etkilidir. 
+1.4. İsraf Edilebilecek Kaynaklar 
+Ekonomi tanımında verildiği gibi sınırlı kaynaklarla sınırsız ihtiyaçları karşıla-
+mak gerekir. İşte endüstri mühendisliğinin de asıl amaçlarından biri bu sınırlı kay-
+nakların kullanılmasında israfı önlemektir. İsraf edilebilecek kaynakları aşağıdaki 
+gibi sıralayabiliriz. 
+1. İnsan kaynağı 
+2. Makine, teçhizat, takım ve donanım 
+3. Enerji israfı. 
+4. Yer, mekan israfı. Yani fabrikanın yerleştirilmesi, yer seçiminin              
+iyi yapılması 
+5. Zaman israfı. 
+ 
+ 
+Endüstri Mühendisliğine Giriş 
+ 
+ 15 
+1.5.  Endüstri Mühendisliğinin Sorumluluk Yüklenebileceği  
+Konular 
+1. Eskiyen fiziki kaynakların değiştirilmesi. Makine, bina, teçhizatın uygun bir 
+şekilde değiştirilmesi. 
+2. İmkan ve araçların geliştirilip genişletilmesi. Fiziki kaynakların, yani maki-
+ne ve teçhizatın verimini artırmak amacı ile iş yeri etüdleri yaparak, en ekono-
+mik metotları ortaya koymak. 
+3. Malzeme ve mamullerin hareketi ve bunların depolanması. İmalatta kulla-
+nılan her çeşit malzemenin hareket etüdünü yaparak, en ekonomik metotları 
+ortaya koymak. 
+4. Yerleştirme planının yapılması. Esas ve yardımcı tezgahlar, tesisler ve ça-
+lışma alanlarının en iyi şekilde düzenlenmesini sağlar. Yerleştirme planları 
+çalışmaları ile iş yerinde çalışma alanına olan ihtiyaç belirlenir. Bu amaç için-
+de uygun yerler seçilir. Esas ve yardımcı tezgahlar ve tesislerin birbirleriyle 
+olan ilişkileri tespit edilir. 
+5. İşgücünün organize edilmesi ve değerlendirilmesi. İş ölçülmesi çalışmaları 
+ile zaman standartlarının ve buna bağlı olarak da standart işgücünün belirlen-
+mesi. 
+6. Yöneticilerin eğitimi. Endüstri mühendisliğinin prensip ve tekniklerini birim-
+lerin yöneticilerine öğretmek amacıyla gerekli eğitim programlarını yürütür. 
+7. Kontrol bilgilerinin hazırlanması. Geliştirilen metotların uygulamalarının 
+takip etmek ve tasarrufları belli etmek üzere gerekli kontrol sistemlerini ortaya 
+koymak. 
+8. İşçi eğitimi. Geliştirilen metotların yerleştirilmesi için ilgili personelin iş ba-
+şında eğitimini temin etmek. 
+1.6.  Endüstri Mühendisliğinde Eğitiminde Dikkat Edilmesi 
+Gereken Hususlar 
+A.B.D.’de yapılan bir toplantıda alınan kararlar şu şekilde sıralanmıştır. 
+1. Endüstri mühendisleri üzerinde çalıştıkları sistemin teknik boyutları nedeni 
+ile, fizik, kimya gibi temel bilimlerin yanı sıra; makine, elektrik ve elektronik 
+gibi temel mühendislik dallarını da bilmeleri gerekir. (mühendislik bilgisi) 
+2. Liderlik. Yeni kavram ve sistemlerin tasarımının yapılmasında ve uygulama-
+sında liderlik rolü oynamaları gerekir.  
+Sevil İmanova 
+ 
+ 16 
+3. Sürekli gelişme. Sürekli iyileştirme fonksiyonunun ne anlama geldiğini ve 
+endüstri mühendisliğinin alanlarını yönetimin çok iyi bilmesi gerekir. Bunun 
+için sürekli eğitime ihtiyaç var. 
+4. Sistematik yaklaşım. Çalışılan iş yerinde veya fabrikada karşılaşılan problem-
+leri insani ve mali yönleriyle analiz yaparak problemleri çözebilmelidir. 
+5. Projecilik. Olağanüstü bir proje becerisi ve iyi bir ticari kafa yapısı olmalıdır. 
+6. Üretkenlik. Danışmanlık hizmeti verebilmeli, kendi çözümlerini, bilgilerini ve 
+fikirlerini başkasına aktarabilmelidir. 
+7. Yenilikçilik. Her zaman yeni şeyleri öğrenmeye açık olmalıdır. 
+8. Sistematik analiz ve tasarım. Problemleri kolay algılama ve kolay çözme yete-
+neği olmalı. 
+9. Beşeri ilişkiler. Çalıştığı arkadaşları ile ast ve üstleri ile iyi diyalog kurabil-
+meli, iyi iletişim sağlayabilmelidir. 
+10. Küresel düşünme ve anlayış. Ulusal ve uluslararası konuları anlama, kültür ve 
+becerisine sahip olmalı. 
+Bu kriterlere baktığımızda endüstri mühendisliği temel mühendislik bilgilerine 
+sahip olmalarının, yanı sıra ne kadar geniş görüş ufkuna sahip olmasının gerekti-
+ğini görmekteyiz.  
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+BÖLÜM II 
+VERİMİLİK VE VERİMLİLİĞİN YÖNETİMİ 
+2.1.  Verimlilik 
+Verimlilik=çıktılar/girdiler 
+Verimlilik (üretkenlik), belirli bir dönemde tamamlanan ürün veya hizmetler 
+(çıktılar) ile onları elde etmek için aynı dönemde kullanılan kaynaklar (girdiler) 
+arasındaki ilişkiyi ifade eder. 
+ 
+ 
+ 
+ 
+Şekil 2.1. Verimlilik Kavramı 
+Kaynaklar, diğer bir deyişle üretim faktörleri işçilik, sermaye, malzeme, enerji 
+ve bunların dışında kalan faktörler olup dolayısıyla çalışan sayısı, çalışılan saat, 
+kullanılan malzeme miktarı (ton, kg), harcanan enerji (kilovat saat), makine zama-
+nı, amortisman miktarı, sermaye maliyeti, kullanılan alan miktar (metrekare) cin-
+sinden ifade edilebilir. Ürünler ise genellikle imalat miktar, yapılan hizmet miktarı, 
+işlem sayısı veya süresi olup adet, zaman veya para cinsinden ifade edilebilir. 
+2.2. Verimlilik ile ilgili kavramlar 
+Karlılık: belirli bir döneme ait karın o dönemde kullanılan sermayeye oranıdır. 
+(kar/sermaye) 
+Ekonomiklik: parasal bir karşılaştırma olup satış gelirleri ile tüm işletme 
+giderleri arasındaki ilişkiyi gösterir.  
+Randıman (verim): gerçekleştirilen miktarın teorik olarak gerçekleştirilmesi 
+gösterilmesi gereken miktara oranıdır. 
+Etkinlik (Efficiency): ürünleri çıktıları üretmek için kaynakların (girdilerin) ne 
+kadar etkin kullanıldığını gösterir. 
+Etkililik (Effectiveness): Fiili olarak gerçekleştiren ürün miktarı ile hedeflenen 
+veya planlanan ürün miktarı arasındaki ilişkiyi gösterir. Etkinlik kaynak (girdi) 
+kullanımı, etkilik ise üretim performansı ile ilgili bir orandır.  
+ÜRETİM VEYA 
+HİZMET SİSTEMİ 
+ürünler 
+çıktılar
+kaynaklar 
+girdiler 
+Geri besleme
+Sevil İmanova 
+ 
+ 18 
+2.3. Verimlilik Ölçümü 
+Verimlilik çıktıların girdiye oranı olarak tanımlandığından, iş akışlarının kritik 
+noktalarında çıktı ve girdi miktarlarının doğru bir şekilde belirlenmesi verimliliğin 
+ölçülmesini sağlayacaktır. Ancak çıktı ve girdilerin belirlenmesinde aşağıdaki 
+noktalara dikkat edilmesi gerekir. 
+• elde edebilirlik: verinin elde edilmesine yönelik veri toplama sisteminin 
+oluşturulması (veriler raporlar, barkod sistemleri, bilgisayarlar vb. şekiller-
+de toplanabilir) 
+• doğruluk: verinin güvenirliğinin tespiti 
+• anlaşılabilirlik: ele alınan girdi ve çıktı ile ilgili olarak toplanan verinin, ve-
+rimliliğinin doğru bir şekilde ölçülmesine yönelik anlaşılabilirliği 
+• zamanlılık: verinin zamanında işlenebilir şekilde toplanma hızı 
+• ekonomiklik: veriyi toplamak ve işlemek için kullanılan maliyetlerin so-
+nunda elde edilen faydaya değmesi 
+Verimliliğim ölçme sisteminin birey, grup, bölüm, fonksiyon ve işletmenin 
+genel verimliliğini gösterecek şekilde tasarımlanması ve böylece ileriye yönelik 
+olarak değerlendirme yapılmasına olanak tanıması gerekmektedir. İşletmelerdeki 
+girdiler şekil 2 gösterildiği gibi sınıflanır. 
+Tüm girdiler direk işçilikte olduğu gibi maliyet merkezlerine direk olarak veya 
+masraf dağıtım anahtarı ile dağıtılabilir. Böylece maliyet merkezleri bazında tüm 
+girdilere yönelik verimlilikler ölçülebilir. Önemli olan fazla bürokrasiye boğul-
+madan, kritik verimlilik noktalarının belirlenerek gerçek verimliliği mümkün oldu-
+ğunda gösteren verimlilik ölçümlerinin yapılmasıdır. 
+Çıktı ve girdi tanımlamalarını, verimliliğini ölçmeyi tasarladığınız ülke, sek-
+tör, işletme, bölüm, atölye, hat, iş istasyonu veya kişi bazında verilen sınıflandır-
+malar çerçevesinde belirlememiz gerekmektedir. 
+Çıktılar temel olarak şekil 3’deki gibi sınıflandırılır. 
+ 
+ 
+Şekil 2.2.  İşletmenin çıktıları 
+MAMULLER YARI 
+MAMULLER 
+TALİ      
+MAMULLER 
+(SATILABİLİR) 
+MENKUL 
+KIYMET 
+GELİRLERİ 
+DİĞER 
+FAALİYET 
+GELİRLERİ 
+Endüstri Mühendisliğine Giriş 
+ 
+ 19 
+2.4.  Verimliliği Artırma Yolları 
+Verimliliğin arttırılmasına ilişkin olarak bazı yaklaşımlar aşağıda verilmektedir. 
+• İşletmeler mümkün olduğu kadar basite indirgenmelidir. 
+• Verimlilik hedefleri konulmalı, çalışanlar bu konuda motive edilmelidir. 
+• Üretimde üründen ürüne geçiş (hazırlık) zamanları en aza indirgenmelidir. 
+• Stok düzeyleri azaltılmalıdır. 
+• Mümkün olduğunca az çalışma alanı kullanılmalıdır. 
+• İçerde yap-dışarıdan satın al kararları iyi analiz edilmelidir. 
+• Malzeme ve/veya hizmet satın alınan şirketleri iyi ilişkiler kurulmalı, 
+onlara gerekli yardım yapılmalı, ancak rekabet ortamı içinde çalışmalıdır. 
+• Otomasyon kararları zamanında ve doğru verilmelidir. 
+• Çalışanlar arası iletişim artırılmalıdır. Herkesin birbirinin sorunlarını 
+bilmesini sağlayan bir düzen oluşturulmalıdır. 
+• Çalışanların becerileri çok yönlü olarak eğitim vd. yollar ile artırılmalıdır. 
+• Yönetimde kademe sayısı en aza indirilmelidir. 
+• İşletme amaç, hedef ve politikaları zamanında en alt kademeye kadar 
+iletilmelidir, talimatlar zamanında ve yeterince açık olmalıdır. 
+• Çalışanların fikirleri en üst düzeye kadar çıkabilmelidir. 
+• Planlı çalışma düzeni ruhu çalışanlara aşılanmalıdır. 
+• Fikirler değerlendirilmelidir. 
+• Takım çalışmaları teşvik edilmelidir. 
+• Çalışanın, tesis ve teçhizatın atıl durumda kalması mümkün olduğunca 
+önlenmelidir. 
+• Kişi ve bölümlerin birbirinden aldıkları ürün ve hizmetlere dış müşteri gibi 
+davranmalarını sağlayacak ortam hazırlanmalıdır. 
+• Kalite bilinci sürekli geliştirilmelidir. 
+• Sürekli yeni ürün geliştirilmeli, mevcutlar geliştirilmeli, verimsiz olanlar-
+dan vazgeçilmelidir. 
+• Sorumluluk ve yetki dağılımı en üst düzeyde sağlanmalıdır. 
+• Çalışanların arzu ettikleri yerde ve şekilde çalışma isteklerine duyarlı olun-
+malıdır. 
+• İşgücü değişimini (Devri) optimum düzeyde tutacak önlemler alınmalıdır. 
+• Değişen şartlara karşı esnek ve dinamik bir çalışma düzeni oluşturulmalıdır. 
+Sevil İmanova 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şekil 2.3. İşletmelerin Girdileri 
+GİRDİLER İşçilik  Direk İşçilik  1. Maliyet 
+X. Maliyet 
+Son Maliyet 
+Endirek 
+İşçilik  
+Yöneticiler  
+Büro Elemanları  
+Diğer Elemanlar  
+Sermaye  Duran  Arazi ve Arsalar  
+Binalar  
+Makine ve Teçhizat  
+Diğer  
+Dönen  Stoklar  
+Nakit  
+Alacaklar  
+Alacak Senetleri  
+Malzeme Direk Hammadde 
+Hazır Parça  
+İşletme 
+Enerji  Petrol Ürünleri  
+Gaz  
+Kömür  
+Doğal Gaz  
+Elektrik  
+Diğer  Satış ve Pazarlama  
+Genel İdari 
+Hizmet Alımları  
+Bilgi İşlem  
+Kırtasiye 
+Ar-Ge  
+Seyahatler  
+Endüstri Mühendisliğine Giriş 
+ 
+ 21 
+• Tüm işlemlerin prosedüre bağlanması ve form standardizasyonu sağlan-
+malıdır. 
+• İşin çalışanın özelliklerine uygun olarak düzenlenmesine yönelik ergonomik 
+ölçütlere önem verilmelidir. 
+Görüldüğü üzere verimlilik artırma önerileri önemli ölçüde endüstri mühen-
+disliği çalışmalarını içermektedir. 
+2.5.  Verimlilik Yönetim Sistemleri 
+İşletmelerde verimlilik yönetim sistemi kurulmasındaki temel amaçlar aşağıda 
+verilmiştir. 
+• Verimlilik ve Kalite bilincini artırmak 
+• Planlama ve sorun çözme becerilerini geliştirmek 
+• Ekip çalışmasını teşvik etmek, iletişimi artırmak 
+• Etkin verimlilik veri tabanı ve raporlama düzeni oluşturmak 
+• Çalışanlarda sürekli bir katılım, değişim ve yenilik düşüncesi yaratmak 
+• Üretim ve kalitede artış, maliyetlerde azalma sağlamak 
+• Yöntemleri geliştirmek, işleri basitleştirmek 
+• İşletmenin gelirlerini artırmak, çalışana daha iyi ücret vermek 
+Verimlilik kavramını incelediğimizde iki temel yönü olduğunu görmekteyiz. 
+Hem bir kültür olduğu, hem de bir sistematiğe sahip olması gerektiği anlaşılmak-
+tadır. Verimlilik yönetim sisteminin kurarken işletme yönetiminin, işçi sendika-
+larının ve diğer çalışanların önce bir kültüre sahip olması gerekmektedir. Verimli-
+liği artırmanın en etkin yolu verimlilik bilincini oluşturmaktır. Verimlilik kültürü-
+nün işletmeye hakim olduğu anda  iyi tasarlanmış bir Verimlilik Yönetim Sistemi 
+çok başarılı olacaktır. Sistem mutlaka Sürekli Gelişmenin 4 safhası olan PLANLA 
+/ HEDEF KOY-UYGULA-ÖLÇ-GELİŞTİR safhalarına sahip olmalıdır. 
+ 
+ 22 
+ 
+ 
+BÖLÜM III 
+İŞ ETÜDÜ-İŞ DEĞERLENDİRME VE ÜCRET 
+SİSTEMLERİ 
+3.1. İş Etüdü 
+Ürün veya hizmet üreten işletmelerde temel amaçlar verimlilik düzeyini yük-
+seltmek, kapasite ve kaliteyi artırmak, maliyeti düşürmek ve çalışma ortamını çalı-
+şabilir hale getirmektir. 
+Söz konusu faaliyetlerin geçekleştirilebilmesi için iş etüdü çalışmalarının 
+yapılması gerekir. 
+Bahsedilen amaçlar işgücü, malzeme, makine ve teçhizattan daha etkin ve daha 
+verimli faydalanarak gerçekleştirilebilir. Mesela; saatte 10 adetlik üretimi aynı 
+kaynakları kullanarak saatte 12’ye çıkarmak daha düşük maliyette daha kaliteli üre-
+tim yapabilmek, çalışanın daha kolay bir şekilde aynı işi yapabilmesini sağlamak iş 
+etüdünün temel çalışma alanını oluşturur. 
+ 
+3.1.1. İş etüdünün tarifleri 
+1.  İş etüdü, ihtisaslaşmış faaliyetlerin yürütümü için, insan ve malzeme kaynakla-
+rını mümkün olan en iyi şekilde kullanarak, metod etüdü ile iş ölçümü teknik-
+lerini birlikte uygulayan bir ilimdir. Bu tarifi analiz edersek, iş etüdünün, ileri 
+ve gelişmiş işletme faaliyetlerinin yürütümünde, insan ve malzeme kaynakları ile 
+meşgul olduğu sonucuna varırız. İş etüdü bu kaynakların en iyi bir şekilde kul-
+lanmalarını garanti eder. Bu garantiyi sağlamak için, metod etüdü ile iş ölçümü 
+tekniklerini kendi bünyesinde toplar. Bu açıdan iş etüdü bir tek işin etüdü de-
+ğildir. İş etüdü, İnsan-Malzeme-Metod ve iş ölçümleri ile tüm bir işletmenin 
+etüdüdür. 
+İş etüdü 
+Metod Etüdü 
+İş ölçümü 
+VERİMLİLİK 
+Endüstri Mühendisliğine Giriş 
+ 
+ 23 
+2.  İş etüdü, doğrudan doğruya verimliliğin arttırılması demektir. İş etüdü ile belli 
+bir veri (input) kaynağını sabit tutarak üretimin arttırılması sağlandığı zaman, 
+verimliliğin artırılmasına hizmet edilmiş olunur. Mevcut kaynağa, yeni bir yatı-
+rım yapmadan, fakat ufak bir araştırma masrafı ile üretimin aynı verilere göre 
+artması, iş etüdünün verimliliği arttırması demektir.  
+3.  İş etüdü  yöneticilerin en değerli bir yardımcısı demektir. Bir işletmede, yeni bir 
+organizasyonla verimliliğin arttırılması metodu, mevcut işletmeyi daha etkin bir 
+hale getirir. Verimlilik artışı işletmenin başarı derecesini gösterir. Bu başarılar-
+da yeni bir yatırım, yeni bir metod geliştirilmesi, kapasite arttırılışı, araştırma ve 
+geliştirme faaliyetleri söz konusudur. Bu faaliyetlerde istenen sonuca ulaşmak 
+için bir metod etüdünün yapılması zorunludur. Bu nedenle işletmelerde daha iyi 
+bir yönetimin bulunması, fabrikada mevcut işlem ve hizmetlerden, üretim faali-
+yetlerine etkisi olmayan zamanların azaltılmasını sağlayabilir. Bu da işletmede 
+kontrol, araştırma ve yeni projelerin yapılmasını gerektirir. Bu çalışmaların 
+tümü verimli değerlere dönüştürülmelidir. 
+4.  İş etüdü bir standart zamanın saptanması demektir. İş etüdü bir faaliyetin veya 
+faaliyetler grubunu, belli bir zaman süresi içinde, insan-malzeme-makine ve teç-
+hizatın, insan yapısına en uygun olan Mühendislik metodunun maksimum ve-
+rimliliği sağlamak için uygulanması ve bu metotla standart bir zamanın saptan-
+ması faaliyetlerini kapsar. Bu metodu geliştirmek, Metod etüdü, Standart Zama-
+nı belirlemek Zaman etüdü olarak tanımlanır. 
+3.1.2. Metod Etüdü 
+Seçilen bir işin yapımında, sistematik bir analizin yapılabilmesi için, elde 
+edilen bilgilerin yazılması, sonra kontrol edilmesi suretiyle daha kolay ve daha 
+başarılı bir şekilde uygulanabilecek yeni bir metodun geliştirilmesi ve elde edilmesi 
+işlemleri Metod Etüdüdür. 
+Metod Etüdünün konuları: 
+1. Süreçlerin ve yöntemlerin düzeltilmesi 
+2. Fabrikanın, atölyenin yada işin yapıldığı yerin, tesisat, donanım, tasarımla-
+rın düzeltilmesi. 
+3. İnsan gücünün tasarruflu kullanılması ve aşırı yorgunluğun giderilmesi 
+4. Malzeme, makina ve insan gücünün kullanılmasının düzeltilmesi 
+5. Daha iyi çalışma şartlarının geliştirilmesi, yani ergonomik faktörler. 
+Sevil İmanova 
+ 
+ 24 
+Metod etüdü üretim sistemlerinde aşağıdaki seviyelerde uygulanır. 
+1. Fabrikalar arası ilişkilerin düzenlenmesinde 
+2. Fabrikalardaki atölyeler arasında ilişkilerin düzenlenmesinde 
+3. Atölye içindeki iş istasyonlarının arasındaki ilişkilerin düzenlenmesinde 
+4. İş elemanları (araç-gereç, makina, insan) arasındaki ilişkiler 
+5. İş elemanları ile iş ortamının ilişkilerinde 
+6. Makina-insan, insan-insan ilişkilerinin düzenlenmesinde 
+7. İnsan ile diğer iş elemanları arasındaki ilişkiler 
+8. Sadece tekil olarak insan hareketlerini incelenmesinde kullanılır. 
+Metod etüdünün sistematiği (temel yöntemler) 
+1. Problemin tanımlanması 
+2. Problemin analizi 
+3. Muhtemel çözüm yollarını belirlemek 
+4. Bu çözüm yollarının karşılaştırarak değerlendirilmesi 
+5. Seçilen çözüm yolunun uygulanması 
+6. Uygulanan bu yöntemin izlenerek aksaklıkların çözümlenmesi 
+3.1.3. Zaman Etüdü 
+Üretim ve hizmetleri planlama çalışmaları zaman boyutu içinde yapılır. Plan-
+lanan tüm faaliyetlerin ne zaman bitirilebileceği ancak her faaliyetin süresinin he-
+saplanması veya tahmin edilerek birleştirilmesi yoluyla bulunabilir. Üretim faali-
+yetleri uygulama sürelerini belirleme çalışmalarını Zaman Etüdü başlığı altında 
+topluyoruz. Bir tanım yapmak gerekirse: Zaman Etüdü kalifiye (kaliteli veya uz-
+man) bir işçinin, belli bir işi, belirli bir çalışma hızıyla yapması için geçen sürenin 
+belirlenmesi amacıyla geliştirilen tekniklerin uygulanmasıdır. 
+Zaman etüdünün amaçları: 
+1. Mamul maliyetinin bulunması 
+2. İş için gerekli insan gücünün saptanması 
+3. Üretim planlama ve kontrolü 
+4. İş ekiplerinin iş yüklerinin dengelenmesi 
+5. Teşvikli ücret sistemlerine bir temel oluşturulması 
+6. Seçenek üretim yöntemlerinin süre açısından değerlendirilmesi 
+7. İçerde yapma-dışarıdan alma kararlarının verilmesi 
+Endüstri Mühendisliğine Giriş 
+ 
+ 25 
+8. Makina alımlarında seçeneklerin değerlendirilmesi 
+9. Verimlilik hesaplarının yapılması 
+10. Bir işçinin çalıştırabileceği makine sayısının belirlenmesi 
+Zaman etüdünde standart zamanı belirlenecek iş seçildikten sonra, iş ile ilgili 
+tüm bilgiler toplanır, gözlem ve görüşmeler yapılır, ilgili dokümanlar incelenir, iş 
+elemanlarına ayrılır, uygun zaman etüdü tekniği ile iş elemanlarının normal koşul-
+lardaki uygulanma süreleri belirlenir, kişisel ihtiyaç, dinlenme ve işi geciktirici 
+paylar ilave edilerek standart zamana ulaşılır. Zaman etüdü tekniklerini başlıca dört 
+ana grupta toplayabiliriz: 
+1. Kronometraj Yöntemi: kronometre veya elektronik saat kullanarak iş 
+elemanlarının yapılma süreleri ve yapılma hızları (tempoları) belirlenerek 
+işin toplamına yönelik standart zaman ulaşılır. 
+2. Önceden belirlenmiş Hareket-Zaman Sistemleri (Predetermined Motion 
+Time Study). Bu sistemde iş, elemanlarına ayrıldıktan sonra bu iş ele-
+manlarında uzanma, kavrama, çevirme vb. temel hareket bileşenlerine 
+ayrılmakta, bu bileşenlere ait zaman değerleri önceden uzun araştırmalar 
+sonucu hazırlanmış olan tablolardan alınmaktadır. Daha sonra söz konusu 
+zaman değerleri iş elemanları ve iş düzeyinde birleştirilerek standart 
+zamana ulaşmaktadır. 
+3. İş örnekleme yöntemi. İşin süresi hakkında genel bir fikir elde etmek ve 
+kısa süre içinde fazla hassas olmayan standart zaman değerlerine ulaşıl-
+mak istendiğinde bu yöntem uygulanabilir. Tesadüfi olarak yapılan göz-
+lemlerin sonucuna dayalı olarak gerçekleştirilen bir çalışmadır. 
+4. Analitik kestirim yöntemi. Fazla hassasiyet gerektirmeyen ve daha ziyade 
+uzun süreli işlerin standart zamanlarının belirlenmesinde kullanılabilir. 
+Aşağıdaki şekillerde uygulanabilir: 
+- uzman kişilerin bilgi ve deneyimlerinden yararlanma 
+- geçmiş iş zamanı kayıtlarının mevcut iş koşullarına göre revizyonu 
+- istatistik analizlerin uygulanması 
+- standart veri ve bilgisayar destekli sistemler kullanımı, çeşitli zaman 
+etüdü çalışmaları sonucu elde edilen iş elemanları ve bunlara ait zaman 
+değerleri standardize edilerek sınıflanabilirse, başka zaman etütlerinde 
+bu değelerden aynen veya revize edilerek yararlanılabilir.  
+Sevil İmanova 
+ 
+ 26 
+3.1.3.1. Kronometraj Yöntemi 
+Kronometraj yöntemi bir iş istasyonunda yapılan bir işlemin bir zaman etüd-
+cüsü tarafından doğrudan gözlemlenmesi ve işlem sırasında geçen sürenin krono-
+metre ile ölçülmesi şeklinde yapılır. Etüde başlamadan önce aşağıdaki koşulları 
+gerçekleştirmek etüdün etkinliğini artıracaktır: 
+1. Etüt edilecek işlemin ve işyerinin metod etüdü çalışmaları ile geliştirilmiş 
+olması 
+2. İşlemi yapacak işçi/işçilerin bu işte yeterli düzeyde eğitilmiş olması 
+3. İşlemin yapıldığı bölümün yetkilisinin zaman etüdünün amaçları ve önemi 
+konusunda bilgilendirilmiş olması 
+4. Zaman etüdü için gözlemlenecek işçi/işçilerin bölüm yetkilisinin onayı ile 
+seçilmesi (işçi/işçilerin normal fiziksel ve psikolojik özelliklere, istenen 
+miktar, kalite ve iş güvenliği spesifikasyonlarında çalışabilecek bilgi, dene-
+yim ve beceri ile normal sağlık koşullarına sahip olmaları gerekmektedir). 
+5. Zaman etüdünün yapılacağı gün ve zamanların yetkilinin onayı ile belir-
+lenmesi 
+6. Söz konusu işçi, ustabaşı ve gerektiğinde sendika ile temas kurarak ve 
+çalışmanın faydası anlatılarak onlardan destek sağlanması 
+Bu koşulları sağladıktan sonra zaman etüdcüsü aşağıda açıklanan safhaları 
+izleyerek çalışmayı tamamlar: 
+1. Standart zamanı saptanacak iş, işçi, kullandığı makine ve gereçler ile ilgili 
+bilgiler toplanarak çalışma sistemi belirlenir. 
+2. İşin tümü sırasıyla başlangıç ve son anları belirli bileşenlere ayrılır. Bir 
+öneri olarak süresi 5 saniyeden küçük olan bileşenler ardışığı vermeden 
+başka bileşenle birleştirilir. 
+3. İşin bileşenleri için kaç sayıda gözlem yapılacağı belirlenir. 
+4. Etüdcü her bir bileşen için geçen zaman gözleyerek zaman etüdü formuna 
+kaydeder. 
+5. İşçinin çalışma temposu saptanır. 
+6. İşçinin insancıl gereksinmelerine ait zaman payı hesaplanır. 
+7. İşi geciktirici etmenlerin zaman payı belirlenir. 
+8. İşin standart zamanı hesaplanır. 
+9. Standart zamanların bakımı yapılır. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 27 
+Şimdi inceleyelim: 
+1) Zaman etüdücüsü standart zamanı belirlenecek işin mevcut metoduna uygun 
+olarak nasıl yapıldığı öğrenmek zorundadır. Bu süre içinde zaman etüdcüsü  
+işçinin işin metodunun dışında yaptığı hareketleri belirleyip tempoyu ona 
+göre saptayabilecektir. 
+2) İş, zaman içinde başlangıç ve bitiş noktaları belirgin şekilde görülebilecek 
+iş elemanlarına ayrılır. Ayırmalar aşağıdaki gibi olabilir: 
+- sürekli tekrarlananlar 
+- ara sıra ortaya çıkanlar 
+- süresi sabit ve değişken olanlarda dikkat edilir. 
+3) Bu işlemler zaman etüdü formuna yazıldıktan sonra, işin kaç kere gözlem-
+leneceğine karar verilir. Her defa ölçüm yaptığımızda farklı nedenlerden 
+dolayı aldığımız sonuçlarda farklı olacaktır. Bu nedenlerden bazıları, çevre 
+koşulları, yorgunluk, moral durumu, iklim değişikliği, hafta başı ve sonu 
+olması, günün saati olabilir. 
+4) Uygulanacak zaman ölçüm sayısı saptandıktan sonra sıra iş elemanları 
+zamanların belirlemeye gelir. Zaman ölçümü üç şekilde yapılabilir. 
+a) Sürekli zaman ölçme: Zaman etüdcüsü kronometreyi ilk iş elemanı baş-
+ladığında çalıştırır ve son iş elemanı tamamlanıncaya kadar çalıştırmaya 
+devam eder. 
+Eleman  Okunan Zaman (dk)           Ölçülen Zaman(dk) 
+Eleman 1  0,12           0,12 
+Eleman 2  0,25           0,13 
+Eleman 3  0,50           0,25 
+b) Aralıklı Zaman Ölçüme: Burada kronometre, her iş elemanı sonunda 
+okunup başa alınır. 
+Eleman   Okunan ve Ölçülen Zaman (dk) 
+Eleman 1 0,12 
+Eleman 2 0,13 
+Eleman 3 0,25 
+c) Akumulatif Zaman Ölçme: Burada bir birine bağlı iki kronometre kulla-
+nılır. Kronometrenin biri durduğunda diğeri başa gelerek çalışmaya baş-
+lamaktadır. Böylece iş elemanı süresi ilk kronometreden rahatlıkla oku-
+nup forma yazılırken, diğer kronometre takip eden iş elemanı için çalış-
+maya başlamış olmaktadır. 
+Sevil İmanova 
+ 
+ 28 
+Okunan ve Ölçülen Zamanlar (dk) 
+Eleman        1. Kronometre   2. Kronometre 
+Eleman 1   0,12      - 
+Eleman 2         -    0,13 
+Eleman 3   0,25      - 
+Kronometreler dakikayı 100’e veya 1000’ bölünmüş olarak göstermekte, sıra-
+sıyla sentiminut (1/100 da) veya miliminut (1/1000 da) olarak okunmaktadır. 
+5) Zaman etüdü formalarında zamanların yazıldığı kısımda tempoyu gösteren 
+yer vardır. Zamanın değerini yazmadan önce temponun belirlenmesi gerek-
+mektedir. Çünkü aksi halde zamana göre değerlendirme yanılgısına düşe-
+bilir. Normal tempo 1.00 ile gösterilir. 1’den küçük tempolar düşük hızla 
+çalışmayı, 1’den büyükler ise yüksek hızla çalışmayı belirtir. Tempoyu 
+belirleme yönteminde beceri (skill), çaba (effort), koşullar (conditions) ve 
+tutarlılık (consistency) faktörleri esas alınmaktadır. Beceri, işi yaparken 
+gösterilen ve çalışanın ilgi yetenek ve deneyiminden oluşan ustalığı ifade 
+etmektedir. Zaman etüdcüsü beceri faktörünü değerlendirirken işçinin hare-
+ketlerindeki koordinasyona, ritmik olup olmadığına, tereddüde kalıp kalma-
+dığına, hassasiyetine ve gereksiz hareket yapıp yapmadığına dikkat etmek 
+durumundadır. Çaba faktöründe işçinin hareketleri gerçekleştirme arzusu 
+değerlendirilmektedir. Koşullar ısı, ışık, havalandırma gibi işçiyi etkileyen 
+çalışma ortamı şartlarını ifade etmektedir. Tutarlılık ise işçinin farklı iş 
+elemanlarını yaparken aynı performans düzeyini koruyabilme özelliğidir.  
+6) İşçinin insancıl gereksinmelerine ait zaman payları iki grupta toplanmak-
+tadır. 
+a. Kişisel İhtiyaç Payı: tuvalete gitme, ortam ısısı, aydınlatma, havalan-
+dırma ile ilgili cihazları ayarlama, su içme, pencereyi açma-kapama gibi 
+kişisel ihtiyaçlar için ayrılan paydır. Tüm işler için uygulanır. Normal 
+zamanın %5’i olarak alınır. 
+b. Dinlenme Payı: işin, işçi üzerinde oluşturacağı fizyolojik ve psikolojik 
+etkileri azaltabilmek amacıyla verilir. Dolayısıyla işin özelliklerinden 
+kaynaklanan zorlanmanın derecesine göre her iş için farklı bir oranda 
+belirlenir. Dinlenme payları normal zamanın yüzdesi olarak aşağıda 
+verilen faktörler ve tanımları dikkate alınarak saptanır. İşin özelliğine 
+bağlı olarak ara  değerler de seçilebilir. 
+7) işçinin kontrolü dışında belirli ve belirsiz işi geciktirici nedeler vardır. 
+Onun için bu payların eklenmesi gerekmektedir.  
+Endüstri Mühendisliğine Giriş 
+ 
+ 29 
+8) İş elemanı ve tempolar ölçüldükten ve gerekli paylar belirlendikten sonra ele 
+alınan iş veya iş elemanları için standart zamanlar hesaplanabilir. Hesap-
+lama formülü aşağıda verilmiştir. 
+Normal zaman       ).().( TorttortNZ ⋅=  …  (her iş elemanı için) 
+Standart Zaman     )1( gdkNZSZ +++=   veya 
+21 )1( ggdkNZSZ ++++=  
+şeklinde hesaplanabilir.  
+Burada:  
+NZ:  Normal (Temel) Zaman 
+t:  Ölçülen iş elemanı süresi 
+ort t:  ortalama iş elemanının süresi (yapılan gözlemlerde ölçülen zaman-
+ların toplamının gözlem sayısına bölünmesi ile bulunur) 
+T:  İş elemanı temposu 
+Ort T: ortalama tempo (yapılan gözlemlerde takdir edilen tempo değerleri 
+toplamının gözlem sayısına bölünmesi ile bulunur veya o iş elemanı 
+veya tüm işlem için genel olarak belirlenen tempo değeridir) 
+k:  kişisel ihtiyaç payı (yüzde olarak kullanılır) 
+d:  dinlenme payı ( yüzde olarak kullanılır) 
+g:  belirli ve belirsiz işi geciktirici paylar toplamıdır ( yüzde olarak 
+kullanılır) 
+g1:  belirsiz işi geciktirici paydır (yüzde olarak kullanılır) 
+g2:  belirli işi geciktirici paydır (normal zamanın birimi cinsinden kul-
+lanılır) 
+3.1.3.2. Önceden Belirlenmiş Hareket – Zaman Sistemleri 
+Önceden belirlenmiş hareket – zaman sistemleri (predetermined motion – time 
+systems) işi temel insan hareketlerine ayırmakta, bu hareketler için önceden normal 
+tempoya göre hazırlanmış olan tablolardan, hareketlerin özelliğine uygun zaman 
+değerlerini seçmekte veya söz konusu zaman değerlerinin toplamını alarak işin 
+standart zamanını belirlemektedir. Bu sistemlerin temel yararı, kronometraj yönte-
+minde olduğu gibi zamanın yanlış ölçülmesi veya temponun hatalı takdir edilmesi 
+durumlarının olmamasıdır. 
+Orijinal yöntem MTM-1 olarak adlandırılmaktadır. Geliştirilen yöntemlerden 
+bazıları, MTM-2, MTM-3, Master Standard Data, Universal Data, MOST ve 
+MODAPTS’dır. 
+Sevil İmanova 
+ 
+ 30 
+Önceden belirlenmiş hareket-zaman sisteminde işlemler iş sırasına uygun ola-
+rak uzanma, tutma, taşıma, yerleştirme, bırakma gibi temel hareketlere ayrılmakta, 
+her temel harekete ait normal zaman değeri ilgili tablodan hareketin özelliğine 
+dikkat ederek seçilmekte ve tüm hareketlere ait normal zamanına ulaşılmaktadır. 
+Normal zamana gerekli payların ilavesi ile standart zaman bulunmaktadır. 
+Bu sistemlerin avantajları aşağıdaki şekilde belirtilebilir: 
+1. Temel hareket zamanları evrensel düzeyde kabul edilmiş tablolardan alın-
+makta olup, zaman ölçümü ve tempo takdiri hatası yoktur. Daha doğru 
+standart zamanlar elde edilir. 
+2. İşin gözlemlenmesi zorunlu değildir, önemli olan işin temel hareketleri-
+nin ne olduğudur. Böylece üretime geçmeden tasarım sırasında standart 
+zaman tespiti mümkün hale gelmektedir. 
+3. İşin en elemanter düzeyde incelenmesi gerektiğinden metod geliştirme 
+önerilerine ışık tutar. 
+4. Temel hareketlerin kodlanması sonucu daha sistematik ve komputerizas-
+yona uygun bir yapıya sahiptir. 
+Bazı dezavantajları ile aşağıda belirtilmiştir: 
+1. Sadece insan tarafından gerçekleştirilen işlemlere uygulanır, makine sü-
+relerinin belirlenmesinde kullanılmaz. 
+2. Bu konuda gerekli eğitim almış kişilerce uygulanabilir. 
+3. Belirli bir kadronun bu işe ayrılması gerekir ve diğer yöntemlere göre so-
+nuca ulaşmak daha uzun süre alır. 
+4. Zorunlu değilse bile çalışmanın bilgisayar ile desteklenmesi gerekir. 
+3.1.3.3. MTM Yöntemi 
+Türkçe’de Sentetik Zamanlar veya Metod- Zaman Ölçümü (Methods – Time 
+Measurement) diye adlandırabileceğimiz MTM yönteminde el ve parmaklar ile 
+yapılan 8 temel hareket, 2 göz hareketi ve 14 vücut, bacak ve ayak hareketi fonk-
+siyonları bulunmakta ve bu hareketlere ait zamanlar 10 adet önceden belirlenmiş 
+hareket-zaman tablosunda kullanıcıların hizmetine sunulmaktadır. Söz konusu 
+temel hareketler aşağıda verilmiştir: 
+1. Uzanma(Reach-R): Eli belirli veya genel bir bölgeye uzatma 
+2. Hareket ettirme (Move-M): nesne/nesneler üzerinde kas kuvveti uygulama 
+3. Döndürme (Turn-T): boş veya veya dolu elin bilekten çevrilmesi 
+Endüstri Mühendisliğine Giriş 
+ 
+ 31 
+4. Tutma (Grasp-G): bir sonraki temel hareket için nesne/nesneleri par-
+maklar ile kavrama 
+5. Bastırma (Applying Pressure –AP): nesne/nesneler  üzerinde kas kuvveti 
+uygulama 
+6. Yerleştirme (Position-P): nesneleri birbiri içine veya üstüne yerleştirme 
+7. Bırakma (Release –RL): nesne/nesneler ile elin temasının kesilmesi 
+8. Ayırma (Dissengage-D): nesneleri birbirinden ayırma için kas kuvveti 
+uygulama 
+9. Göz gezdirme (Eye Travel-ET): gözün bir bakış noktasında diğerine 
+kaydırılması 
+10. Göz belirleme (Eye Focus- EF): nesnenin ayırt edici özelliklerinin 
+görülerek belirlenmesi 
+11. Ayak hareketi (Foot Motion-FM) 
+12. Bastırarak Ayak Hareketi (Foot Motion with Pressure –FMP) 
+13. Bacak Hareketi (Leg Motion-LM) 
+14. Yan Adım (Side Step –SS) 
+15. Vücudu Döndürme (Turn Body-TB) 
+16. Eğilme (Bend-B), Çömelme (Stoop-S), tek diz üzerine çömelme (Kneel 
+on one Knee- KOK) 
+17. Doğrulma (Arise from Bend-AB, Arise from stoop-AS, Arise from kneel 
+on one knee –AKOK) 
+18. İki diz üzerine çömelme (kneel on both knees –KBK) 
+19. İki düz üzerinden Doğrulma (Arise from kneel on Both Knees- AKBK) 
+20. Oturma (Sit-SIT) 
+21. Kalkma ( Stand-STD) 
+22. Serbest Yürüme (Walk –Pace-W-P) 
+23. Engelli Yürüme (Walk- Pace Obstacled – W-PO) 
+24. Yük ile Yürüme (Walk –Pace Loaded – W-PL) 
+Bazı temel hareketlere ait zaman değerleri tablolardan alınırken, hareketin 
+türü, uzaklığı, akışı, tutulan parça ağırlık ve ölçüleri, yönlendirme kolaylığı, baskı 
+kuvveti gibi özellikleri dikkate alınır. 
+MTM tablolarına bulunan zaman değerleri TMU (Time Measurement Unit) 
+adı verilen birim ile gösterilir. 
+Sevil İmanova 
+ 
+ 32 
+1TMU=0,00001saat=0,006 dakika=0,036 saniyedir. 
+1 saat=100000 TMU 
+1 dakika=1667 TMU 
+1 saniye=27,8 TMU 
+TMU kullanımının nedeni, işin temel hareketlerinin çok küçük zaman birim-
+lerinde yapabilme özelliğidir. 
+3.1.3.4.  İş Örnekleme Yöntemi 
+Uygulanması en kolay ve basit olan zaman etüdü yöntemi İş örnekleme (Work 
+Sampling) yöntemidir. Makinelerin veya çalışanların çalışma süreleri içinde gerçek-
+leştirdikleri işlere ait yüzdelerin tesadüfi gözlemler yoluyla belirlenmesini sağlar. 
+İş örnekleme yöntemi genel olarak aşağıdaki şekilde uygulanmaktadır: 
+1. Problemin ve amacın belirlenmesi; yani yöntemin hangi amaçla uygula-
+nacağı saptanmalıdır. Makinenin veya çalışanın boş kalma yüzdesinin, 
+gecikmelerin yüzdesinin, arızaların yüzdesinin belirlenmesi gibi. 
+2. Etüdün yapılacağı bölüm veya bölümlerin yöneticilerine etüdün amacı, 
+yararı ve yöntemi anlatılarak olurlarının alınması, gerekiyorsa üst yönetime 
+bilgi verilmesi ve çalışmanın açıklanarak duyurulması gerekir. 
+3. Gözlem, veri saklama, hesaplama ve raporlama için gerekli teçhizatın ha-
+zırlanması, bu noktada video kamera, bilgisayar vd. cihaz ve aletlere ihti-
+yaç olabilir. 
+4. Etüdcülerin eğitimi: çalışmanın amacı, yararı, işler, yöntemin ilke ve kural-
+ları etüdcülere etkin bir şekilde anlatılmalıdır. 
+5. İşlerin sınıflandırılması: işler etüdün amacına uygun olarak sınıflandırıla-
+rak tanımlanmalıdır. Basit bir sınıflandırma elemanın çalışması, boş bek-
+lemesi ve işyerinde olmaması şeklinde olabilir. Daha ayrıntılı sınıflandır-
+malar aşağıda verilmiştir: 
+A-Amaç: Makine kullanım oranı ve duruş nedenlerinin belirlenmesi 
+a) makine çalışıyor (işlem yapılıyor) 
+b) makine çalışmıyor(işlem yapılmıyor) 
+ba) Arıza 
+ baa) mekanik arıza 
+ bab) elektrik arıza 
+Endüstri Mühendisliğine Giriş 
+ 
+ 33 
+bb) Bakım 
+ bba) günlük bakım 
+ bbb) haftalık bakım 
+ bbc) aylık bakım 
+ bbd) revizyon 
+bc) enerji kesintisi 
+ bca) elektrik 
+ bcb) buhar 
+ bcc) hava 
+bd) malzeme yok 
+ bda)hammadde 
+ bdb) yardımcı madde 
+be) işçi yok 
+ bea) işe gelmeme (mazeretsiz) 
+ beb) viziteye çıkma 
+ bec)izin 
+ bed) raporlu 
+  bee) iş kazası 
+  bef) iş başında değil 
+bf) iş yok 
+B-Amaç: Büro çalışmasında işlerin dağılımının belirlenmesi 
+a) bilgisayar kullanıyor 
+b) daktilo yazıyor 
+c) faks çekiyor, gelen faksı alıyor 
+d) yazı yazıyor 
+e) dosyalama yapıyor 
+f) telefon ile konuşuyor 
+g) görüşme yapıyor 
+ga) dış ziyaretçi ile 
+gb) iş arkadaşı ile 
+Sevil İmanova 
+ 
+ 34 
+h) yürüyor 
+i) masayı düzenliyor 
+j) işi yok- çalışmıyor 
+k) iş yerinde yok 
+6. İş örnekleme gözlem formalarının hazırlanması 
+7. Örnekleme planının oluşturulması: bu aşamada, uygun bir örnekleme hata 
+ve güvenilirliği için gözlem sayısının hesaplanması ile gözlemlerinin ger-
+çekleştirileceği zaman döneminin belirlenmesi çalışmaları yapılır. Gözlem 
+sayısının hesaplanmasında iki önemli etmen vardır. Bunlar toplanan veri-
+nin güvenirliği ve veri toplamının maliyetidir. Veri toplama maliyeti özel-
+likle etütcü zamanı ile kullanılan alet ve teçhizattan kaynaklanır. Veri top-
+lama maliyetinin azaltılması için gerekli gözlem sayısının düşürülmesi 
+gerekir, bu durumda da toplanan verinin güvenirliği azalır. Gözlem sayı-
+sının belirlenmesinde aşağıdaki formül kullanılır. Gözlem sayısı hesabı 
+önem arz eden iş sınıflar için yapılarak, en büyük olanı alınır. 
+2
+2)1(
+D
+pzPN −=  
+N: gözlem sayısı 
+P: iş sınıfının tahmini gerçekleşme yüzdesi 
+Z: istenen güvenirlik düzeyi (R) için gerekli katsayı 
+D: istenen hata oranı 
+8. Gözlem planına göre gözlem yapılarak veriler ilgili formlara, kullanılıyorsa 
+bilgisayara kaydedilir. 
+9. Gözlemler yapılmaya devam ederken geçekleşme yüzdelerinin aritmetik 
+ortalaması ve standart sapması sürekli izlenir. 
+10. Elde edilen sonuçların ve önerilerin rapor haline getirilmesi ve ilgili ke-
+simlere sunulması. 
+3.2. İş Değerlendirmenin amaç ve kapsamı 
+Bir işletmede yapılan işler aynı değerde değildirler. Bazıları daha çok beden-
+sel çalışmayı, bazıları daha çok zihinsel çabayı gerektirir. Dolayısıyla bu işleri 
+değerlendirmek için bazı kavramlar kullanmak zorunludur. Ayrıca yarı bedensel 
+veya zihinsel çaba gerektiren işlerin de değerlendirilmeleri farklı olmaktadır. 
+Çünkü bu çabaların da, o iş için gerekli bilgi,  deneyim, sorumluluk ile çalışma ko-
+Endüstri Mühendisliğine Giriş 
+ 
+ 35 
+şulları gibi kavramların değişik seviyelerine sahip olunması ile yapılabilir. Aşa-
+ğıda bunlar maddeler halinde belirtilmiştir: 
+1. İşi yapmada kullanılan bilgi, deneyim ve özel yetenekler: o kişinin daha 
+önce belirli  bir gayret ve masraf harcayarak elde ettiği nitelikleridir. İş 
+hayatında bunları zaman zaman kullanır. Eğer bu özelliklere sarf ettikleri 
+ve onları kullanabilme yeteneği fazla ise, işe kattığı değer o kadar fazla 
+olacaktır. 
+2. İşi yaparken zihinsel ve bedensel çabalar harcayacaktır. 
+3. Yaptığı işin sorumluluğunu taşıyacaktır. 
+4. Çalıştığı ortam normal koşullarda değil ise bu bir yıpranma oluşturacaktır. 
+5. Kişi iş tehlikeleri olan bir ortamda çalışıyorsa sağlığını tehlikeye atma gibi 
+bir riske sahip olacaktır. 
+Özet olarak bir işin değeri, çalışanın çalışma süresince o işte kullandığı bilgi, 
+ve özel yetenekler, harcadığı zihinsel ve bedensel enerji, sorumlulukların doğur-
+duğu yıpranma, çalışma ortamı ve hayatı tehlikeye atışı ile işletmenin başarısına ne 
+kadarlık bir yardımda bulunuyorsa, o kadar  değerli iş yapıyordur şeklinde belir-
+lenir. 
+3.2.1. İş değerlendirmenin tanımı 
+İş Değerlendirme, bir işletmede, bir kuruluşta veya bir sektörde bulunana işle-
+rin aralarındaki fark ve benzerlikleri, kolaylık ve zorlukları dikkate alınarak değer-
+lendirilmesi, böylece işler arasında kalifikasyonluk ve zorluk açılarından bir grup-
+landırma, derecelendirme ve sıralama yapılmasıdır. Diğer bir deyişle, işlerin zorluk 
+ve kalifikasyonluk düzeyi açısından değerleri belirlenmektedir. İşin Değeri, gruplar 
+veya sıra içindeki yeri ya da puan değeri ile belirtilmektedir. 
+İşleri değerlendirebilmek için onları analiz etmeliyiz. İş analizi işi tüm açılar-
+dan inceleyerek detaylı bilgi edinme yöntemidir. İş analizinde gözlem, görüşme, 
+anket ve doküman inceleme yollarından biri veya birkaçı izlenebilir. Anket tekni-
+ğinde anket sorularının çok iyi hazırlanmış olması gerekir. Sorular amaçlanan tüm 
+bilgiler elde edilecek şekilde düzenlenmelidir. Gözlem yolu, işin gözlenen süredeki 
+özelliklerini gösterir. Ancak zihinsel karakteristikler bu yolla tam olarak belirlene-
+mez. Görüşmeler yolu ile bilgi toplamada, analistin iyi beşeri ilişkiler kurması 
+gerekir. Buna rağmen, herkesin işini tüm yönleriyle anlatması beklenemez. Bu ne-
+denle, söz konusu işin amiri veya diğer işi bilen uzman kişilerle de görüşme gere-
+kebilir. Doküman inceleme ise ancak analize destek bir faaliyettir. Verilen bu açık-
+Sevil İmanova 
+ 
+ 36 
+lamalar göstermektedir ki, açıklanan iş analizi yollarından hiçbiri tek başına yeterli 
+değildir. Mümkün olduğunca birlikte uygulanmalıdır. Ayrıca işi analiz edilecek 
+kişiye olaya taraf olması nedeniyle, çalışma amacının da objektif biçimde 
+açıklanması yararlı olacaktır. 
+İki farklı işin karşılaştırılması 
+Nitelik (etmen) Şoförlük Teknik Ressamlık 
+Öğrenim veya iş bilgisi ------ Çok daha fazla 
+Deneyim Daha fazla --------- 
+Beceri Aynı Aynı 
+İnisiyatif Daha fazla -------- 
+Donanıma karşı sorumluluk Çok daha fazla -------- 
+Malzeme/mamule karşı sorumluluk ------ Daha fazla 
+Başkaların iş güvenliğinden sorumluluk  Çok daha fazla --------- 
+Zihinsel çaba ------- Daha fazla 
+Bedensel çaba Daha fazla --------- 
+İş tehlikesi Çok daha fazla --------- 
+Çalışma koşulları Daha kötü --------- 
+3.2.2 İş Analizi 
+İş Değerlendirme amaçlı iş analizinin, bize iş değerlendirme yöntemimizde 
+kullanacağımız etmenler açısından işleri analiz etmesi ve istenen bilgileri sağla-
+ması gerekmektedir. 
+3.2.2.1.  İş Analizi Teknikleri 
+İş analizi üç ana kısımda toplanabilir: 
+1. Anket 
+2. Gözlem 
+3. Görüşme 
+Şimdi bu teknikleri sırasıyla açıklayalım: 
+1.  Anket Tekniği: tek başına başarı ile uygulanarak sonuç alınabilen bir tek-
+nik değildir. Başlıca nedenlerini aşağıdaki şekilde belirtebilir: 
+a) istenen bilgilerin tam manasıyla elde edilebileceği standart bir anket 
+formu tasarlamak oldukça zordur. 
+b) İşletmelerdeki bazı personelin anket formu doldurma konusunda ye-
+terli bilgi ve deneyimi olmaması nedeniyle, arzu edilen cevaplar alın-
+Endüstri Mühendisliğine Giriş 
+ 
+ 37 
+mayabilir, kişilerin kendi işlerini yazmaları onlar için zor olabilmek-
+tedir. 
+c) Bazı personel anket formunu bilinçli veya bilinçsiz olarak yanlış 
+bilgilerle doldurulabilir. Bunun başlıca nedeni işini olduğundan daha 
+değerli göstermek veya ayrıntılı bilgi vermemek anlayışından kaynak-
+lanabilir. 
+d) Anketlerin geri toplanması veya gönderilmesine önemli zaman kayıp-
+ları meydana gelebilir. 
+Bu sakıncalarına rağmen, büyük ölçekli araştırmalarda anket tekniği 
+iyi sonuçlar vermektedir: 
+Anket tekniğinin başarısı için şu faktörlere önem verilmelidir: 
+a) anket formunda personelin işleri hakkında iş değerlendirme amaçlı 
+tüm sorular sorulmalıdır. 
+b) Form kısa ve öz cevapları gerektiren ve kolaylıkla anlaşılan soruları 
+içermeli, sorular, çalışanın işini, sistematik ve mantıksal olarak düşün-
+dürecek şekilde sorulmalıdır. 
+c) Formun başlangıcında çalışmanın amacı açıklanmalı, işi ve çalışma 
+yerini belirten kısa sorular sorulmalı ve iş değerlendirme amaçlı so-
+rulara geçilmelidir. 
+d) Formun sonunda formu dolduracak kişinin adını yazacağı ve imzasını 
+atacağı yer bırakıldıktan sonra, en son geri gönderme tarihi de belir-
+tilmelidir. 
+2. Gözlem Tekniği: yine tek başına yeterli olmasa da atölye, fabrika gibi 
+yerlerdeki işçiliklerin analizinde yaralı bir tekniktir. En önemli avantajı 
+bilgilerin ilk elden toplanmasıdır. Bu şekilde iş analisti çalışma şartları, iş 
+akışı, kullanılan makine, donanım ve malzeme ile işin becerisi hakkında 
+bilgi edinebilmektedir. Özellikle tekrarlı işlerde çok daha iyi sonuçların 
+alınabileceği bu tekniğin idari ve yöneticilik görevlerine uygulanmasında 
+aynı başarı elde edilememektedir. Bu durumda görüşme tekniği önem 
+kazanmaktadır. 
+Gözlem tekniğinin uygulanmasındaki adımları aşağıdaki şekilde belir-
+tebiliriz: 
+a) gözlem yapılacak işte çalışana gözlemin amacının açıklanması, onun 
+işbirliğinin kazanılması, şüphelerinin ortadan kaldırılması önemli bir 
+Sevil İmanova 
+ 
+ 38 
+başlangıç noktasıdır. Aynı ilişki, söz konusu çalışanın amiri ve hatta 
+bölüm yöneticisi ile de kurulmalıdır. Bu amaçla tüm ilgililerin 
+katılacağı bir toplantı yapılması yararlı olacaktır. 
+b) İş analisti, gözlem öncesinde iş hakkındaki genel bilgileri yönetici-
+lerden, uzmanlardan ve dokümanlardan elde etmeli, işi kuşbakışı ve 
+bütünsel olarak görebilecek duruma gelmelidir. 
+c) Gözlem zamanları, işin normal şartlarında yapıldığı bir an olarak, 
+bölüm yöneticileri ile birlikte tespit edilmelidir. Tüm işlerin akışına 
+uygun sırada gözlemlenmesinde yarar vardır. 
+d) Gözlem sırasında iş analisti işi dikkatle gözlemlemeli, iş değerlendir-
+me amaçlı önemli noktaları belirlemeli ve gerekli notları almalıdır. 
+e) Gözlem sonrasında alınan notlar önceden hazırlanmış İş Analiz For-
+muna geçirilmeli, böylece İş Değerlendirme çalışmasına hazır hale 
+getirilmelidir. Gözlem sonuçları iş analiz bölüm yöneticileri ve çalışan 
+ile konuşularak forma amaca uygun biçimde aktarılmalıdır. 
+3.  Görüşme Tekniği: İş Analizi teknikleri içinde en etkin olan tekniktir. An-
+cak etkinliği sağlayabilmek için bazı kurallara da dikkat etmek gerekmek-
+tedir. En önemli nokta görüşmeyi yürütecek olan analistin eğitilmiş, bece-
+rikli, deneyimli ve profesyonel özelliklerde olmasıdır. Dolayısıyla iş ana-
+listleri çok iyi seçilmelidir. İş analistinde bulunması gereken temel karak-
+teristikleri aşağıdaki şekilde maddeleştirebiliriz: 
+a. İyi konuşma, iyi yazı ile ifade kabiliyetlerinin yanı sıra, çalışan per-
+sonelin açıklamalarını, lisanını anlayabilme özelliğine sahip olmalıdır. 
+Gerektiğinde üst yönetimden işçilere kadar çeşitli görüşmeler 
+yapılacaktır. Farklı eğitim, beceri ve kabiliyetlere sahip bu kişilerle iyi 
+bir diyalog kurulması gerekmektedir. 
+b. İşletme, içinde bulunan sektör ve analiz edilecek işler hakkında genel 
+bilgilere sahip olmalıdır. Böylelikle görüşme yapılacak kişilerle diya-
+loga girebilecek, işleri analiz edici etkin sorular sorabilecek ve diğer 
+işlerle olan karşılaştırmaları yapabilecektir. Bu amaçla iş analistlerinin 
+eğitiminde bu yöne önem verilmelidir. 
+c. Görüşme yoluyla iş analizi sırasında, analitik düşünce anlayışını ger-
+çekleştirebilmelidir. Şüphe, etkin sorular, tahkik etme fonksiyonları 
+gerçekleştirilerek, gerçekler elde edilmeli, gereksiz veya doğru olma-
+yan bilgiler elenmelidir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 39 
+d. Davranış Bilimleri konusunda temel bilgilere sahip olmalıdır. İnsan 
+davranışının görüşme sırasındaki özellikleri dikkate alınarak bu kişi-
+nin daha fazla katkısını sağlayacak, kayıtsız kalmasını önleyecek bi-
+çimde davranmalıdır. Şüphe muhalefet etme ve sıkılganlık karşısında 
+analist görüşülen kişinin güvenini kazanmalı ve işbirliği ortamını ya-
+ratmalıdır. 
+e. Kesin olarak ön yargılı, tarafgir davranma özelliği olmamalı, buna 
+karşın bireysel fikir üreten ve eleştiri gözle bakan özelliklere sahip ol-
+malıdır. 
+Yeterli ve doğru bilgilerin temin edilememesi, analistlerin  personelde şüphe 
+ve tepki oluşturması, onları olumsuz etkilemeleri iş değerlendirme çalışmalarını 
+negatif yönde etkileyecektir. 
+Yukarıdaki açıklamalardan da anlaşılacağı gibi iş analizi tekniklerinden sade-
+ce birini uygulamak iyi sonuç vermemektedir. Bu nedenle söz konusu tekniklerin 
+uygun bir sıra veya zamanlama ile uygulanmasında yarar vardır. Genellikle hazır-
+lanan bir İş Analiz Formundan yararlanarak, gerek gözlem ve gerekse görüşme 
+yönteminin birlikte kullanılması en uygun yoldur. 
+3.2.3.  İş Değerlendirmenin Yararları 
+İş değerlendirmenin genel amacı, işlerin gerçekleştirilebilmesi için gerekli 
+kalifikasyonluk düzeyinin, işin zorlukları ve koşullarının birbirlerine göre nispi 
+değerlerinin bulunmasıdır. Böylece, çalışanın işinde kullanması gereken bilgi, de-
+neyim, beceri ve inisiyatifin düzeyi, sorumlulukların oluşturduğu yıpranma, har-
+canan zihinsel ve bedensel çabanın düzeyi ile işin gerçekleştirildiği yerin koşulları 
+tespit edilir. bu faktörlerden hareketle işin nispi değeri belirlenir. 
+İş değerlendirmenin başlıca yararlarını aşağıdaki şekilde maddeleştirebiliriz: 
+1. İşyeri, sektör ve hatta ulusal düzeyde bilimsel esaslara oturtulmuş adil ve 
+dengeli bir ücreti sistemini oluşturmak. 
+2. Adil ve dengeli bir ücret sistemini kurulması ile çalışanın verimliliğini 
+artırmak 
+3. Zor, kalifikasyonluk düzeyi yüksek olan işlerde çalışanlara bu yolla yük-
+sek ücret ödeyerek, işletme dışına kaçmalarını önlemek 
+4. İşyeri, sektör ve hatta ulusal düzeyde iş unvanı standardizasyonunu ger-
+çekleştirmek 
+Sevil İmanova 
+ 
+ 40 
+5. İşlerin ve şartlarının yakından analizi sonucu; organizasyon ve metodlar 
+açısından verimsizlikleri belirlemek ve gidermek 
+6. İşin gerektirdiği personel niteliklerinin belirlenerek, personel seçimine bir 
+esas oluşturmak, iş spesifikasyonlarını belirlemek 
+7. Halen çalışan personelin eksik yönlerini görmek, eğitim ihtiyaçlarının 
+saptanması yoluyla eğitim planlarını yapmak 
+8. Tayin ve terfilere yardımcı olacak bilgileri sağlamak 
+9. Prim ve bu gibi teşvikli ücret sistemlerinin kullanılmasına temel 
+oluşturmak 
+10. Çalışanları, kendilerini geliştirmeleri, daha yüksek ücret gruplarındaki 
+işlere geçmeleri için teşvik etmek 
+11. Sendika ile olan müzakerelerde bilimsel esasların kullanılmasını 
+sağlamak 
+3.2.4.  İş Değerlendirme Planı 
+İşletme veya sektör bazındaki iş değerlendirme çalışmalarını, istenen sonuçlara 
+ulaşabilmek için belirli bir plan dahilinde yürütmek gereklidir. Bu aşağıdaki 
+gibidir: 
+1. İş değerlendirme kurulunun oluşturulması 
+2. İşlerin kapsam itibarıyla gruplandırılması 
+3. Her farklı kapsam için kullanılacak İş değerlendirme yöntemi ile bu yön-
+temin uygulama sisteminin belirlenmesi 
+4. Belirlenen yöntem ve sisteme uygun olarak iş analizlerinin yapılması 
+5. İş tanımlarına ait formatın geliştirilmesi 
+6. İş analizi sonuçlarının hazırlanan formata uygun olarak iş tanımları haline 
+getirilmesi 
+7. İşlerin, yöntem ve sisteme uygun olarak iş tanımı formatı üzerinde değer-
+lendirilmesi 
+8. Sonuçların faktör bazında karşılaştırmalar ile kontrolü, varsa hataların dü-
+zeltilmesi 
+9. İş değerlendirme kitabının hazırlanması 
+10. Yeni işçilik ve görevlerin kullanılan yöntem ve sisteme göre değerlendiril- 
+mesi 
+11. İtirazların incelenerek karara bağlanması 
+Endüstri Mühendisliğine Giriş 
+ 
+ 41 
+3.2.5. İş Değerlendirme Yöntemleri 
+Genel olarak işleri değerlendirmekte kullanılan yöntemler aşağıdaki şekilde 
+iki grup altında toplanmaktadır. 
+1. Kalitatif Yöntemler 
+a. Sıralama Yöntemi 
+b. Sınıflama Yöntemi 
+2. Kantitatif Yöntemler 
+a. Faktör Karşılaştırma Yöntemi 
+b. Puan Yöntemi 
+Kalitatif yöntemlerde, işler elemanlarına ayrılıp rakamsal bir şekilde değerlen-
+dirmemekte, bütün olarak ele alınıp sıralama, sınıflandırma türü çalışmalar yapıl-
+maktadır. Buna karşılık kantitatif yöntemlerde, işlerin analizi ve her bir karakte-
+ristiğinin ayrı ayrı rakamsal olarak değerlendirilmesi ile işlerin değerleri elde edil-
+mektedir. Kalitatif yöntemler az sayıda işçiliğin veya görevin bulunduğu işlet-
+melerde uygulanması doğru olan basit yöntemlerdir. Kantitatif yöntemler ise daha 
+uzun çalışma süresi gerektirmesine rağmen daha hassas ve doğru sonuçlar veren ve 
+günümüzde özellikle puan yöntemi olmak üzere geniş uygulama alanı bulan 
+yöntemlerdir. 
+Şimdi İş değerlendirme yöntemlerini sırasıyla inceleyelim: 
+3.2.5.1. Sıralama Yöntemi 
+İş Değerlendirme konusunda geliştirilmiş bir yöntemdir. İşler iş analizi çalış-
+maları ve iş tanımları ile bütün olarak ele alınmakta, ikili karşılaştırmalar ile zorluk 
+ve kalifikasyonluk düzeylerine göre en zorundan en kolayına doğru sıralanmak-
+tadır. Maliyeti az olmasına rağmen, değerlendirmeyi yapan kişilerin önyargıların-
+dan, belki tarafsız olamamalarından ve özellikle de varsa bilgi yetersizliklerinden 
+son derece etkilenerek, hatalı sonuçlar verebilen bir yöntemdir. 
+Kolay bir yöntem olmasına rağmen bu yöntemin en önemli mahsuru, de-
+ğerlendiren kişilerin önyargıları, işi değerlendirmek yerine kişiyi değerlendirme 
+yönüne gitmeleri, verilen ücretlerden ve iş tanımından ziyade işin unvanından 
+etkilenmeleridir. 
+3.2.5.2. Sınıflandırma Yöntemi 
+Diğer bir kalitatif yöntem olan sınıflandırma yönteminde, işler temel iş sınıf-
+ları veya dereceleri şeklinde sınıflandırılmakta sınıflar içinde gerekiyorsa işlerin 
+Sevil İmanova 
+ 
+ 42 
+sıralandırılması yapılmaktadır. Ancak doğal olarak bu işlem de sıralama yöntemi 
+kullanılarak yapılabilir. Sınıflandırma yönteminin esas özelliği işlerin değerlen-
+dirilmesini kaç sınıf içinde yapılacağı ve bu sınıfların birbirlerinden farklı karak-
+teristiklerinin neler olduğudur. 
+Kısa sürede sonuç alınması mümkün, kısmen kolay olan sınıflandırma yön-
+teminin en önemli sakıncaları sınıfların tüm işleri kapsayacak şekilde tanımlarının 
+yapılamaması, bazı işlerin bir tanım açısından bir sınıfa, diğer bir tanım açısından 
+bir sınıfa, diğer bir tanım açısından başka bir sınıfa girebilmesidir. 
+3.2.5.3. Faktör Karşılaştırma Yöntemi 
+Kantitatif bir yöntem olan Faktör Karşılaştırma Yönteminde işler bütün olarak 
+değil, iş elemanlarına ayrılarak incelenmekte belirli faktörler açısından değerlendi-
+rilmektedir. Değerlendirme parasal miktarlar üzerinden yapılabildiği gibi, doğru-
+dan bir puan skalası kullanılarak da yapılabilir. Kullanılan değerlendirme faktörleri 
+beceri, zihinsel çaba, bedensel çaba, sorumluluk ve iş koşullarıdır. Faktör sayısını 
+daha da artırmak mümkündür. Faktör karşılaştırma yöntemi anahtar işler (kulla-
+nılacak faktörlerin farklı düzeylerini gerektiren) üzerinden uygulanabileceği gibi 
+işletmedeki tüm işler üzerinde de uygulanabilir. Anahtar iş sayısı, iş ünvanı ve 
+kullanılan faktör sayısına bağlı olarak 15 ile 25 arasından seçilebilir. Anahtar iş 
+kullanılmasının temel nedeni bir değerlendirme skalasının oluşturulması ve tüm 
+işlerin bu skala üzerinde anahtar işlerle karşılaştırılarak yerleştirilmesidir. 
+Uygulamada Faktör Karşılaştırma Yöntemi farklı şekillerde kullanılabilmek-
+tedir. Bu yöntem oldukça esnek yapıdadır ve değerlendirme işlemi kalitatif yön-
+temlere göre daha objektiftir. Buna karşılık faktör derecelerinin tanımlarının olma-
+ması daha hassas bir değerlendirme yapmayı önlemektedir. Ayrıca anahtar işlerin 
+çok iyi seçilmiş olması, tüm işleri temsil edecek ve değerlendirme skalasının en iyi 
+şekilde oluşturacak nitelikte olması gerekmektedir. 
+3.2.5.4. Puan Yöntemi 
+En çok uygulama alanı bulmuş olan bu kantitatif nitelikteki yöntemin temel 
+özelliği işlerin faktör bazında elemanlarına ayrılarak sayısal olarak değerlendiril-
+mesi ve her faktör ve faktör derecelerinin ayrı ayrı tanımlarının yapılmış olmasıdır. 
+Puan Yönteminin adımlarını aşağıdaki şekilde belirleyebiliriz: 
+1. İş Değerlendirme kapsamındaki işleri değerlendirebilecek nitelikteki fak-
+törlerin seçimi 
+2. Faktör tanımlarının yapılması 
+Endüstri Mühendisliğine Giriş 
+ 
+ 43 
+3. Her faktörün derecelerinin belirlenmesi 
+4. Faktörlerin işleri değerlendirmedeki ağırlıklarının saptanması 
+5. Faktör derecelerinin faktör ağırlıklarını dikkate alarak puanlandırılması 
+6. İş analizlerinin yapılması ve uygun formatta iş tanımlarının hazırlanması 
+7. İşlerin faktörler açısından değerlendirilerek toplam puan değerinin 
+bulunması ve karşılaştırılarak varsa hataların düzeltilmesi 
+8. İş Değerlendirme El kitabının hazırlanması 
+Faktör seçimi İş Değerlendirme Kurulunca yapılır. Sözkonusu kurul esas ola-
+rak hazır faktör-puan planlarından yararlanabilir veya bu  planları kendi işletmesine 
+adapte ederek kullanmaya karar verebilir. Faktör sayısının çokluğu değerlendir-
+meyi zorlaştırarak uzun süre almasında ve hatta faktörler arasında anlam çakış-
+malarına neden olabilmektedir. Faktör sayısının azlığı ise değerlendirmede sübjek-
+tifliği artıracak, belki işlerin bazı yönleri değerlendirilmemiş olacaktır. Faktörler; 
+Maharet, Sorumluluk, Çaba ve İş Koşulları grupları halinde toplanmasına rağmen 
+faktör çeşidi oldukça fazladır. 
+3.3. Ücretlendirme Sistemi 
+Çalışanların işe katkılarına karşılık olarak ödenecek ücretin belirlenmesi sis-
+temine ücretlendirme sistemi denilmektedir. Ücret ödeme sistemleri başlıca üç 
+kısıma ayrılabilir: 
+1. Zaman esasına göre ücretlendirme sistemi: En yaygın olarak bilinen ve 
+kullanılan sistemdir. Aylık, haftalık, günlük olarak yapılan ödeme şeklidir. 
+2. Miktar esasına göre ücretlendirme sistemi: Verimlilik artışını teşvik etmek 
+veya belirli süreli (geçici) işler için uygulanan bir sistemdir. Yapılan işin 
+miktarına göre ödeme yapılır. Metrekare, metre, adet, kg gibi birimler üze-
+rinden bir birim ücret belirlenerek gerçekleşen üretim miktarına karşılık 
+gelen ücret hesaplanarak ödenir. 
+3. Karma esaslı ücretlendirme sistemi: Baz ücret zaman esaslı ücretlendirme 
+sistemine göre belirlendikten sonra, belirli standart bir üretim düzeyi aşıl-
+ması halinde miktar esasına göre yapılan ödeme sistemidir. Teşvikli ücret 
+veya Prim Sistemi olarak adlandırılır.  
+Zaman esaslı ücretlendirme sisteminin kurulmasında iş değerlendirme çalış-
+ması sonuçlarından yararlanılır. İş değerlendirmenin temel amacı işletme veya 
+işkolu düzeyinde “eşit işe eşit ücret” ilkesinden hareketle “adil ve dengeli bir ücret 
+Sevil İmanova 
+ 
+ 44 
+sisteminin” kurulmasıdır. Mavi yakalı personele (işçilere) toplu iş sözleşmeleri ile 
+uygulanan seyyanen zam sistemi, yani işler arasında zorluk, kalifikasyonluk ayı-
+rımı yapılmadan aynı miktar (ya da oranda) zam uygulaması, gerek işletmelerimize 
+gerekse ülkemize zarar vermektedir. 
+3.3.1. Teşvikli Ücret Sistemleri 
+Teşvikli ücret sistemleri miktar esaslı bir ücretlendirme sistemidir. 
+Emeğin fiyatı veya işin gerektirdiği maharet, sorumluluk, bedensel ve zihinsel 
+çaba ile katlanılan iş koşullarının üretimin gerçekleştirildiği zaman üretim içindeki 
+katkısının karşılığı olarak ücret kavramı ile verimlilik kavramı arasında yakın bir 
+ilişki vardır. Verimlilik artışı ile orantılı ücret artışı imkanının sağlanması, gerek 
+işçi gerekse işveren açısından bazı avantajlar sağlar. Böylece işçi aldığı ücreti 
+artırabilmekte iş veren ise daha fazla üretim elde etmekte, üretim kaynaklarının 
+daha yüksek oranda kullanımını sağlayarak birim maliyetlerini düşürebilmektedir. 
+Teşvikli ücret sistemleri satış personeli gibi beyaz yakalı personele de uygu-
+lanmasına karşılık, en çok karşımıza mavi yakalı personele olan uygulamalar çık-
+maktadır. 
+Teşvikin sadece maddi olmadığını, manevi ödüllerin de kullanıldığını da 
+belirtelim. Teşvikli ücret sistemleri bireysel ve grup planları olarak ikiye ayrıl-
+maktadır. Bireysel planlarda, çalışanın tek başına gerçekleştirdiği performans dik-
+kate alınırken, grup planlarında grubun performansı değerlendirilir. 
+Teşvikli Ücret Sistemlerinin Amaçları: 
+- Daha verimli çalışmak 
+- Birim mamul maliyetini düşürmek 
+- Makine, malzeme vb üretim kaynaklarından daha iyi yararlanmak 
+- Üretimi artırmak 
+- Fire oranını düşürmek 
+- İşçilerin gelirini artırmak 
+ 
+ 45 
+ 
+ 
+BÖLÜM IV 
+ERGONOMİ VE İŞ GÜVENLİĞİ 
+ 
+4.1. Ergonomi 
+Ergonomi çalışanların biyolojik, psikolojik özelliklerini ve kapasitesini göz 
+önüne alarak insan, makine ve çevre uyumunu sağlayan bilim dalıdır. 
+İşyerlerinde motivasyon ve iletişim eksiklikleri, insan yaratıcılığını ön plana 
+çıkaracak sistemlerin olmaması, iş monotonlukları, sürekli eğitim ve gelişme 
+ortamının yaratılmaması vbg. Faktörler çalışanların işlerinden tatmin olmamasına 
+neden olmakta, bu da yine iş verimini olumsuz yönde etkilemektedir. 
+İnsanların işyerlerinde insancıl şartlara, sağlıklı, güvenli ve rasyonel bir şe-
+kilde çalışabilmesi için; çalışma yeri ve teçhizatının, ısı, ses, aydınlatma vd. Çevre-
+sel faktörler ile işin organizasyonu ve yönetimine yönelik sistemlerin insanın 
+yapısal (anatomik), boyutsal (antropometrik) ve psikolojik özelliklerine göre dü-
+zenlenmesi gerekmektedir. Ergonominin temel görevi yukarıdaki amaçlar doğrul-
+tusunda bir iş düzenlenmesini gerçekleştirmektir. Ergonomi kelimesi Yunan’cadan 
+alınan “Ergon” ve “Nomic” sözcüklerinden oluşmaktadır. Ergon iş, nomic kural 
+anlamında gelmektedir. 
+İnsan – üretim aracı sistemlerinin ergonomik açıdan tasarımına ait temel kav-
+ramlar aşağıda sırasıyla açıklanmıştır. 
+1.  Yüklenme ve Zorlanma. Belirli çevre koşulları altında işin ve yapılış yönte-
+minin çalışan üzerinde yarattığı etkiler bütününe yüklenme adı verilmektedir. 
+Yüklenme, yüklenme düzeyi (derecesi) ve yüklenme süresi bileşenlerinden 
+oluşur. Toplam yükleme, çeşitli zaman dilimlerine ait yüklenme düzey ve 
+süresine ait yüklenmelerin toplamında oluşur. Yüklenme her kişi için aynıdır. 
+Ancak farklı yaş, cinsiyet ve özelliklerdeki kişilerin söz konusu yüklenme 
+karşısındaki zorlanmaları farklıdır. Aynı ağırlığı kaldırma sırasında genç bir 
+erkek ile bir çocuk veya kadının zorlanması doğal olarak farklı olacaktır. 
+Zorlanma, insanın yükleme karşısındaki tepkilerini belirten bir kavramdır. 
+Amaç yüklenme karşısındaki insanların zorlanmalarını en aza indirecek iş dü-
+zenlemelerini gerçekleştirmektir. 
+Sevil İmanova 
+ 
+ 46 
+Zorlanma bedensel açıdan olduğu gibi zihinsel açıdan da söz konusudur. İnsan 
+iş sırasından zihinsel açıdan kontrol etme, değişimi fark etme, ayırt etme, yo-
+rumlama, karar verme ve tepki verme fonksiyonlarını gerçekleştirir. Bu fonk-
+siyonlar göz, kulak, sinir sistemi, deri, beyin gibi oranları ile gerçekleştirilir ve 
+bunların da belirli hız ve kapasiteleri vardır. 
+2.  Bedensel Yüklenme. Bedensel ağırlıklı yüklenme bileşenleri dört ayrı şekilde 
+sınıflandırılmaktadır. 
+a) Statik durma işi: Vücudun belirli bir pozisyonda uzun süreli olarak 
+tutulmasıdır. Belirli bir süre eğilerek, çömelerek, ayakta durarak çalışma 
+bu duruma örnek olarak gösterilebilir. 
+b) Statik tutma işi: Malzeme, alet vb. nesnelerin belirli bir pozisyonda belirli 
+bir süre tutulma zorunluluğudur. Duvara delik delerken matkabın 
+tutulması, bir malzemenin taşınması örnek olarak gösterilebilir. 
+c) Ağır dinamik çalışma: Sürekli olmayacak biçimde vücudun büyük kas 
+gruplarının çalıştırıldığı hareketlerdir. Ağır bir malzemenin kaldırılması, 
+balyozla vurma örnek olarak gösterilebilir. 
+d) Tek yanlı dinamik çalışma: Vücudun küçük kas gruplarından sadece bir 
+veya birkaçının çok kısa aralıklarla çalıştırıldığı durumdur. Bilgisayar 
+klavyesinin kullanımı, fotokopi çekimi örnek olarak gösterilebilir. 
+Statik çalışmalarda kas uzun süre kasılmış durumda kalır ve dolayısıyla yeterli 
+taze kan gelemeyeceği ve çalışma sonucu oluşan atık maddeler atılamayacağı 
+için insan çabuk yorulur. Dinamik çalışmada ise kasın kasılma ve gevşemesi 
+kısa aralıklarla değişir ve kan dolaşım açısından bir zorluk oluşmaz. 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Zihinsel Yüklenme: Zihinsel yüklenmenin sayısal olarak ifadesi bedensel 
+yüklenmeye göre çok daha zordur. İnsan görsel, işitsel, dokunarak, ten yoluyla 
+olan ısıya duyarlılık, koku ve tat alma, iç organlar yolları ile algıladıkları 
+verileri bir zaman aralığı içinde zihinsel açıdan karara dönüştürmekte ve 
+gerekli tepkiyi göstermektedir. Dolayısıyla zihinsel yüklenmede bilgi algılama 
+DİNLENME 
+ 
+ 
+ 
+ 
+ 
+ 
+Kan gereksinimi    Kan Dolaşımı 
+ 
+ 
+ 
+ 
+ 
+ 
+DİNAMİK ÇALIŞMA 
+ 
+ 
+ 
+ 
+ 
+ 
+Kan gereksinimi    Kan Dolaşımı 
+ 
+ 
+ 
+ 
+ 
+ 
+STATİK ÇALIŞMA 
+ 
+ 
+ 
+ 
+ 
+ 
+Kan gereksinimi    Kan Dolaşımı 
+ 
+ 
+ 
+ 
+ 
+ 
+Endüstri Mühendisliğine Giriş 
+ 
+ 47 
+hızı önem kazanmakta, özellikle göz, kulak, dokunma ve hissetme yoluyla 
+algılamaları kolaylaştıracak etkin iş yeri düzenlemelerinin yapılması amaç-
+lanmaktadır. 
+a) Görsel göstergeler: Bu tip göstergeler 3 sınıfa ayrılmaktadır. 
+- Analog Göstergeler: bilgiler bir ölçekten yararlanılarak gösterilmek-
+tedir. Saatlerde olduğu gibi hareketli ibreler, hareketli kadranlar 
+(ölçekler) bu tip göstergelerdir. 
+- Sayısal Göstergeler: bilgiler sayısal değerleri ile gösterilmektedir. 
+Elektrik ve su sayaçları bu tip göstergelerdir. 
+- Aralık Göstergeleri: bilgilere ait aralıklar renk, ışık gibi düzenlemeler 
+ile gösterilmiştir. 
+b) İşitsel Göstergeler: işitsel göstergeler görsel göstergelere göre tali öneme 
+sahip olmasına karşılık, belirgin avantajı herhangi bir yöne bakılmasını 
+gerektirmememsidir. Sürekli kontrol gerektirmediklerinden daha az yük-
+lenme oluştururlar. Tehlike sirenleri, işe başlama ve mola zilleri, bilgisa-
+yarlardaki hatalı işlem sesleri bu tür göstergelerdir. 
+c) Dokunma ve Hissetme Yoluyla Algılama: üretim araçlarının kumanda ele-
+manlarının biçimleri ve uyumlu hareket yönleri dokunma ve hissetme 
+yoluyla algılama sağlar. Örneğin cihazların açık veya kapalı olma duru-
+munu kumanda elemanına dokunarak algılamak için, kumanda eleman-
+larının çalıştırma ve durdurma yönleri uyumlu olmalıdır. 
+4.  Antropometri: insan vücudunun ölçüleri ile ilgilenilen  bir bilimsel çalışma 
+alanıdır. İnsanların sabit durumundaki boyutları statik antropometri, çalışma 
+halindeki kullanılan çalışma alanına ait boyutlar dinamik antropometri olarak 
+adlandırılır. Statik antropometri geçitler, oturma düzeni için önemli iken, dina-
+mik antropometri iş istasyonu  tasarımında önemlidir. İş istasyonlarında farklı 
+antropometrik boyutlarda insanların çalışma durumunda olması oturma yük-
+sekliğinin ayarlanabilme özelliğine sahip olmasını gerektirir. 
+5.  İş Psikolojisi:  Çalışanların iş yerlerinde psikolojik açıdan kendilerini rahat ve 
+güvenli hissedecekleri, işe motive olacakları bir ortamın yaratılması gerek-
+mektedir. Bu konuda iş yeri düzenlemede yapılacak somut bazı çalışmalar 
+renklendirme ve müzik yayınlarıdır. Renklendirmenin gerek bilgi algılama 
+açısından ve gerekse insan performansına etkileri açısından önemi vardır. Gü-
+venlik renkleri olarak kırmızı doğrudan tehlikeyi, sarı muhtemel tehlikeyi, 
+yeşil tehlike olmadığını (ilk yardım araçlarının olduğu) ve mavi güvenli ol-
+Sevil İmanova 
+ 
+ 48 
+duğunu belirtir. Örneğin, imdat şalterleri, alarm sirenleri kırmızıya, taşıma 
+bant ve yolları sarıya, tehlike çıkış kapıları, ilk yardım odaları yeşile, önlem-
+lere yönelik uyarı işaretleri maviye boyanır. Renklerin farklı yansıtma oranı-
+nın olması iş yeri düzenlemede aydınlatma ve parlama açısından da önem 
+taşır. Beyaz renk %70-90, açık yeşil %35-65, koyu yeşil %10-20 ve siyah %0 
+yansıtma oranına sahiptir. Birbirine kontrast yapan renklerin kullanımı üretim 
+elemanlarının birbirinden ayırt edilmesinde yararlı olacaktır. Müzik yayını 
+özellikle tekdüze işlerin yapıldığı yerlerde olumlu etkiler yapmaktadır. Müzik 
+sesi şiddeti, türü ve süresinin iyi ayarlanması, iş yerinde özellikle hata ve ka-
+zalara neden olmaması açısında önemlidir. İşyerlerinin bitkiler ile yeşillendi-
+rilmesi, akvaryum konulması çalışanları psikolojik açıdan olumlu yönde etki-
+leyecektir. 
+6.  Çevre Koşulları: ısı, nem oranı, havalandırma bileşenlerinden oluşan iklim 
+koşulları (atmosferik koşullar), gürültü düzeyi, aydınlatma, titreşim ve iş orta-
+mı zararlıları ergonomik tasarımında düşünülmesi gereken çevre koşulları 
+faktörleridir. Aşağıda bu faktörler sırasıyla açıklanmıştır. 
+a) İklim koşulları: insanların normalden sıcak veya soğuk ortamlarda iş ve-
+rimleri düşmekte, iş kazası yapma olasılıkları artmaktadır. Ortalama vücut 
+ısısı 37°C’dir. Ortam ile vücut arasındaki ısı alışverişinde dört faktör söz 
+konusudur. Cilt üzerine yayılmış olan hava, vücuda temas eden cisimler, 
+ortamda bulunana soba, fırın, ateş gibi ısı kaynakları ve cilt üzerinde mey-
+dana gelen buharlaşmalardır. Gerekli hallerde özel giysi kullanımı, ısı kay-
+nakları yalıtımı vd. yollar ile ergonomik çalışma koşulları yaratılmalıdır. 
+b) Gürültü: uygun olmayan ses yoğunluğu düzeyleri rahatsız bir çalışma orta-
+mına, verimsizliğe ve hatta işitme kayıplarına neden olmaktadır. Rahatsız-
+lık veya zarar veren ses yoğunluğu gürültü olarak adlandırılmakta olup 
+Desibel (dB) birimi ile ölçülmektedir. İnsanın sesi algılamasında, sesin 
+desibel olarak ölçülen ses basıncı düzeyinin yanı sıra sesin frekansının da 
+önemi vardır. Sesin saniyedeki titreşim sayısı olarak tanımlanan frekans 
+Hertz (Hz) birimi ile ölçülür. Gürültünün insan üzerindeki etkisinin belir-
+lenmesinde ses basıncı ve ses frekansı düzeyleri ile bu düzeylerin zaman 
+içindeki değişim ve etki süresi dikkate alınır. İnsan kulağı 3.000-4.000 Hz 
+frekans ve 60-90 dB ses basıncı aralığında en duyarlı olmakta. 90 dB üze-
+rinde ses rahatsız edici olmakta, 130-140 dB üzerinde ise ağrı oluşturul-
+maktadır. Genel olarak gürültünün rahatsızlık veya zarar verici etkilerinden 
+korunmak içi  işyerlerinde gürültü düzeyinin 85 dB’i geçmemesi istenir. 
+Büro ortamlarında istenen en fazla gürültü düzeyi ise 55dB’dir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 49 
+c) Titreşim: özellikle mekanik teçhizattan kaynaklanan titreşimler insan 
+vücudunda kasılmalar ve uzun dönemde ağrı ve şikayetlere neden olur. 
+Titreşim insan vücudunun titreşim kaynağına teması yoluyla geçer, insan 
+dikey, yatay, dairesel ve karma bir şekilde etkiler. Titreşimin önlenmesi 
+için, titreşim kaynağının ortadan kaldırılması, cihazın devrinin düşürülme-
+si, dengesizliklerin giderilmesi, amortisör kullanımı, lastik yastıklı eldiven 
+kullanımı vb. önlemlerin alınması gerekir. 
+d) Aydınlatma: işyerinde gerek verimlilik ve gerekse çalışanların göz sağlığı 
+için yeterli düzeyde aydınlatma yapılmalıdır. Aydınlatma şiddeti arttıkça 
+insanların performansı artmakta, yaptıkları hata oranı azaltmaktadır. Ay-
+dınlatmadaki ölçü birimi lükstür (lx) ve birim alana düşen ışık akışını 
+belirtir. Yaz günü açık havada dünya yüzeyinde yaratılan aydınlatma 
+100.000 lüks, kışın kapalı havada dünya yüzeyinde yaratılan aydınlatma 
+3.000 lükstür. İşyerlerinde yapılan her işe ait aydınlatma gereksinimi farklı 
+farklıdır. Aydınlatmanın tüm alanda eş düzeyde gerçekleşmesine önem 
+verilmelidir. Işık sol yukarıdan gelecek şekilde çalışma alanı ayarlanmalı, 
+bakış yönünde ışık kaynağı olmamalı veya siperler ile yönü çalışma alanına 
+çevrilmelidir. Bunların dışında çalışma alanlarında düşük yansıtma oranı 
+için mat renkler kullanılmalıdır. 
+e) İş ortamı Zararlıları: tozlar, duman, sis (havadaki sıvı maddeler), gaz ve 
+buharlar ile çevrede bulunan zararlı katı ve sıvı maddeler iş ortamı zarar-
+lıları olarak adlandırılır. Silisyum, berilyum, asbest, kurşun, kömür ve çi-
+mento tozları, lehim, kaynak ve çinkooksit dumanları, karbonomonoksit, 
+benzol, yağ sisleri ve radyasyon gibi zararlılar iş ortamında bulunabilir ve 
+bunlara karşı önlem alınması gerekir. İş yerlerinde öncelikle ne tür zarar-
+lılar olup olmadığı belirlenmeli ve bunlara karşı etrafını örtme, hava ile 
+emme, havalandırma, maske, eldiven, gözlük, önlük, koruyucu ayakkabı ve 
+elbise kullandırma gibi önlemler alınmalıdır. Ayrıca çalışanların bu konuda 
+eğitimi de büyük önem taşımaktadır. 
+4.1.1. İnsan Bedenini Günlük Aktivitesi ve Gece Çalışmaları 
+İnsanların tüm fizyolojik fonksiyonları, günün 24 saati boyunca ritmik deği-
+şiklikler gösterirler. Günlük ritim olarak bilinen fonksiyonel aktivite değişiklikle-
+rine göre, sabah saat 04.00 civarında; vücut ısısı, merkezi sinir sisteminin uyanık-
+lığı, hormon salgıları ve benzeri beden fonksiyonları en düşük düzeylerine inerler. 
+Bu saatlerden itibaren, bütün fonksiyonel aktivitelerdeki artış akşam saatlerine ka-
+dar devam eder. Akşam 20.00 civarında en yüksek düzeyine erişen bu fonksiyon-
+larda bir düşüş başlar ve fonksiyonlar yeniden en düşük düzeylerine erişirler. 
+Sevil İmanova 
+ 
+ 50 
+4.1.1.1. Gece çalışmalarının etkisi 
+Gece vardiyası olarak bilinen, gece çalışmalarında insan bedeninin biyolojik 
+ritmi zorlanır ve zorunlu olarak birtakım değişiklikler geçirir. Bu değişiklikleri, her 
+insanda farklı sürelerde gerçekleşir. Gündüz vardiyasından geceye ya da gece 
+vardiyasından gündüze geçen işgörenlerde, yeterli bir günlük ritim uyumu yaklaşık 
+4-5 günde oluşur. Bazı işgörenlerde bu değişiklik daha uzun sürer ve ağır bir uyum 
+stresi içinde kalırlar. Genelde, gece vardiyasından gündüze geçiş daha kolaydır. 
+Uyumsuzluk gösteren işgörenlerin en önemli sorunu uyku saatlerindeki değişme-
+dir. Gece uyumayan bu insanlar, gündüzleri de eski alışkanlıkları ile uyanık kalırlar 
+ya da düzensiz bir şekilde uyuyarak, gerektiği kadar dinlenemezler. Bu nedenle iş 
+verimleri de düşüktür. Yedi günü aşan gece vardiyalarından gündüze geçişte de 
+önemli uyum zorlukları ortaya çıktığı saptanmıştır. Bu nedenle, gece vardiyalarının 
+gerek mesai saati ve gerekse gün sayısı açısından kısa tutulması önerilir. 
+İnsanların günlük ritmi konusunda yapılan çalışmalarda, aşağıdaki bulgular ilgi 
+çekmiştir: 
+1) Devamlı gece vardiyalarında, ilk dört hafta içinde verim gündüz vardiya-
+sındaki verimin çok altındadır. 
+2) Bir gece vardiyasını izleyen gündüz vardiyalarında, iş görenlerin göreve 
+gelmedikleri gün sayısı oldukça yüksektir. 
+3) İki haftalık gece vardiyalarında, işe gelmeme olayları, ikinci hafta içinde 
+giderek artmaktadır. 
+4) Gece vardiyası uygulamalarının süresi arttıkça, işe gelmeme olaylarında bir 
+azalma görülmeye başlar. Örneğin dört haftalık gece vardiyalarında de-
+vamsızlık, iki haftalık vardiyalardan daha düşük bir orandadır. 
+5) Günlük ritim uyumu aktif iş şekillerinde daha çabuk oluşmaktadır. 
+6) Bir hafta süreli gece vardiyalarında sabah 04.00 saatlerindeki işlem hata-
+ları, gündüz vardiyalarına bakarak %100 daha fazla bulunmuştur. 
+4.1.1.2. Vardiya seçenekleri 
+Vardiya çalışmalarına gereksinimi duyulan işletmelerde, ne tip bir vardiya 
+sisteminin seçileceğine kara verirken; biyolojik, teknik ve sosyal kriterler kullanıl-
+maktadır. Bu konuda yapılan gözlemlerin sonuçları vardiya seçiminde yol gösterici 
+olabilir. 
+1) Biyolojik kriterlere göre vardiyalar, iki ya da üç gün gibi kısa süreli ya da 
+en az dört hafta gibi uzun süreli olarak planlanmalıdır. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 51 
+2) Teknolojik yaklaşımlarda, her işletmenin kendi gereksinimleri ve zorunlu-
+lukları dikkate alınmalıdır. 
+3) Sosyal gereksinimler kriterine göre vardiyalar, iş görenlerin sosyal yaşan-
+tısının tedirgin etmeyecek bir şekilde, kısa süreli ya da kişinin içinde bu-
+lunduğu toplumun yerleşik kurallarına en uygun bir zamanlama olarak 
+düşünülmelidir. 
+4) Kısa ya da uzun vardiyalarda, biyolojik ritim etkisi hafta sonlarında bo-
+zulur. Uzun süreli vardiya sistemlerinde bu etki daha az hissedilir. 
+Endüstrilerin çoğunda önerilen vardiya sistemleri genellikle, değişen ekiplerin 
+çeşitli vardiyalarda çalışma günlerini en aza indirmeyi amaçlar. 
+Gece vardiyası çalışmalarının insan organizmasına getirdiği yük ve ritm 
+değişikliği sürecinde verim düşüklükleri gibi nedenlerle, vardiya sistemlerinin zo-
+runlu olduğu işletmelerde bu çalışmaların yakından denetimi önerilmektedir. Özel-
+likle yönetici kadroların vardiya çalışanları ile birlikte olmaları ve onların bu zo-
+runlu çalışmalarını paylaşarak, aynı özveriyi benimsemiş olmaları, işgörenlerin iş 
+hevesini artırarak verimliliği yükseltmektir. 
+Şüphesiz gece çalışanlara; ulaşım kolaylıkları, dinlenme aralarında sıcak 
+servis ve kantin kolaylıkları gibi destek hizmetleri vermek de yararlı olur. 
+4.2. İş Güvenliği 
+Hiç kimse bilerek kaza yapmaz: kazalar önceden tahmin edilemeyen sebep-
+lerle meydana gelir. Bazı zamanlar onları önlemek için hiç bir şey yapılamaz. 
+Örneğin, hiç kimsenin hiçbir şeyin yanlış gitmediğini düşündüğü zaman, 
+makinenin bir parçası bozulabilir. Veya bir sürücü direksiyonda fenalaşabilir. Buna 
+rağmen kazaların çoğu insan hatasından; cehalet veya ihmalden, unutkanlık veya 
+dikkatsizlikten kaynaklanır. Bu tür kazalar önlenebilir. İnsanlar, aynı noktada 
+değişik hareket ederlerse kaza dediğimiz olay olmayacaktır. 
+İnşaat endüstrisi en çok kaza olan sektörlerden biridir. Bu sektörün işgücünün 
+bir parçası olan insanların, diğer endüstrilerde çalışanlardan daha çok kaza yapma 
+ihtimali vardır. İnşaat sektöründe her yıl binlerce insan iş sırasında ölmekte, büyük 
+yaralanmalarla sonuçlanan birçok kaza olmaktadır. 
+4.2.1. İşyeri 
+İşyeri, bir inşaat sahası, üretim yapan bir fabrika, özel bir şirket, resmi kurum 
+veya kuruluş, yani insanların yaşadığı ve çalıştığı her yer olabilir. Korunulması 
+Sevil İmanova 
+ 
+ 52 
+gereken tehlikeler her zaman aynı olmayıp bazen oldukça farklı olabilir. İşi 
+düzenleyen kurallar, işlemler ve kanunlar iş yerine göre değişebilir. 
+Hep aynı işyerinde çalışanlar için bu problemler sözkonusu değildir. Aynı 
+düzende işe gelir ve giderler, aynı yerde dururlar, çoğu zaman aynı makinede 
+çalışırlar ve aynı işleri yapanlarla beraber düşünülebilirler. Muhtemelen işleri önle-
+rindedir ve çevrelerinde dört duvar, üzerlerinde bir çatı ve üzerinde durdukları bir 
+zemin vardır. İnşaat sektöründe çalışanlar bu pozisyonda sayılamazlar. İşyerleri 
+günden güne değişir ve değişen hava şartlarında çalışmak mecburiyetindedirler. 
+İşyerlerinde değişen şartlara ayak uyduramayanlar büyük ihtimalle kaza yapacak 
+veya kazaya sebep olacaklardır. 
+4.2.2. Güvenli Davranış Biçimi 
+İnsanların davranışları, başarı ve başarısızlıklarını belirler. Emniyetsiz aletlerle 
+veya emniyetsiz durumlarda çalışılan pek çok yerde, bazı kimseler yapılan veya ya-
+pılamayan şeylerin yol açacağı durumları gördükleri halde müdahale etmezler. 
+Pek çok kaza aniden ortaya çıkmaz; kazalara, ekipmana hasar veren, arızayı 
+gördüğü halde rapor etmeyen veya alet ve ekipman ayak altına koyan kimseler 
+sebep olur. Tehlikeyi görüp hiçbir şey yapmayan kimse, bir kaza ihtimaline iştirak 
+etmiştir. Bir kimsenin kazaya sebep olması için herhangi bir şey yapması 
+gerekmez; işi hakkındaki dikkatsizliği sakatlanmasına yetebilir. Bu durumda kişi, 
+kazaya sebep olabilecek bir şey yapmadığı halde düşüncesiz ve tedbirsiz davran-
+masıyla kazadan zarar görebilir. 
+4.2.3.  Sorumluluklar 
+Emniyet kendiliğinden oluşmaz, tıpkı işin bir parçası gibi organize ve icra 
+edilmelidir. Kanun ve tüzükler, hem işçi hemde işverenin sorumlulukları olduğunu 
+ifade eder. 
+1. İşverenin Sorumlulukları. Bir firmanın yapması gereken faaliyetler; işi planla-
+mak ve organize etmek, insanları eğitmek, becerikli ve yetenekli işçileri sa-
+hiplenmek, ünite ve ekipman bakımıyla ilgilenmek ve raporları kontrol ve 
+muhafaza etmektir. Bütün bu faaliyetler işyeri güvenliğinin yeterli olmasıyla 
+gerçekleşebilir. İşveren, sağlanan ekipman, çalışma şartları, işçiden yapması 
+istenilen ve verilen eğitim konularında sorumludur. 
+2. İşçinin Sorumlulukları. İşçi, ekipman kullanım biçimi, işini nasıl yapacağı, 
+eğitim sağlamanın yolu ve genel güvenlik anlayışı kazanması konularında 
+Endüstri Mühendisliğine Giriş 
+ 
+ 53 
+sorumludur. İşveren ve diğer personel tarafından işçinin çalışma hayatının 
+daha emniyetli olması için büyük gayret sarf edilir. İşçi de daima kendi 
+hareketlerinden sorumlu olduğunu hatırlamalı, hareketlerinin diğerleri üzerine 
+etkisini olacağını bilmelidir. Bu sorumluluğu hafife almamalıdır. 
+4.2.4. İletişim 
+Kuralların ve işlemlerin, etkili olabilmesi için, işi yapması gerekenlere iletil-
+miş, kavratılmış olması gerekir. 
+İletişim, basit manasıyla bilgi verme ve bilgi almadır. Aynı işte beraber 
+çalışan veya aynı yerde farklı işleri yapan bir grup insanın olduğu yerde, bu kim-
+selerin birbirleriyle iletişim kurmaları gereklidir. Talimatname veya açıklamalar 
+yazılı ya da sözlü olabilir. Örneğin, bir şef ne yapmanız gerektiği konusunda sözlü 
+talimat verebilir veya işin nasıl yapılacağını açıklayabilir. Bunun yanında, bir 
+ekipman parçası ile beraber yazılı işletme talimatı da verilebilir. 
+İletişim, sadece sözlü veya yazılı iletişimden ibaret değildir. El işaretleri siste-
+mi, renkli ışıklar veya ses ile de iletişim sağlanabilir. İki işçi arasında ne yaptıkları 
+konusunda karşılıklı anlaşmaları de iletişimdir. İletişim hakkında hatırlanması 
+gereken temel unsur şudur; karşılıklı olarak bilgi verilmeli ve alınmalıdır. İleti-
+şimde işaretler, kodlar ve kullanılan lisan, ilgili herkes tarafından bilinmeli ve an-
+laşılmalıdır. 
+İletişim işaretlerinin ne anlama geldiğini anlamayan insanlar kazaya sebep 
+olabilir. Kazalar, tehlike olmayan bir yerde bile, doğrudan doğruya bir yanlış 
+anlama veya yapılması muhtemel hatalardan kaynaklanır. Bunları düzeltmek için 
+belirli bir zaman gerekebilir. Acele edilerek, kısa kesilerek kazaları önlemek 
+mümkün değildir. 
+Bilgi pek çok değişik kaynaktan kazanılabilir; bir şef veya yöneticiden, 
+güvenlik görevlisi ve güvenlik temsilcisinden, tecrübeli meslek elemanlarından, 
+talimatname el kitaplarından, üretici ve bayilerinin broşürlerinden, şirket kuralla-
+rından, notlarından vs. Dinlemekle, soru sormakla ve işin daha güvenli yapılmasına 
+yardım edecek şeylerle ilgilenmekle bilgi sağlanabilir. 
+4.2.5. Güvenli Çalışma Uygulaması 
+Eğitim, güvenliğe girişi kapsamalı ve güvenliği işin bir parçası olarak ele 
+almalıdır. Bununla beraber, “güvenlik eğitimi” olarak söylenmese de, pek çok eği-
+tim güvenli çalışma metodları ve uygulamasını kapsayacaktır. 
+Sevil İmanova 
+ 
+ 54 
+Öncelikle bir işi yapmanın doğru metodu öğretilmeli ve uygulanmalıdır. Eğer 
+sürekli olarak güvenli olmayan metodlar uygulanırsa, çalışmanın güvenli metodu-
+nun bilinmesi de faydasızdır. Karşılaşılan tehlikeden başka, güvensiz uygulamalar, 
+çoğu zaman, işin icrasında verimsiz yoldur. Bu metodları kullananların bilgi ve 
+beceri yetersizliğini gösterir. Örneğin; merdiven kullanıldığında, iş için kafi uzun-
+lukta olup olmadığını, sağlamlığının ve uygun şekilde dikilmiş olup olmadığının 
+kontrol edilmesi önemlidir. Bu noktaların her birinin kontrol edilmesi güzel bir 
+uygulamadır. Bunu yapmakta ihmal, işin daha uzun süre yapılması veya daha kötü 
+yapılması ile sonuçlanır ve kazaya sebep olabilir. 
+4.2.5.1. Materyal ve Malzemeler 
+Materyal ve malzemeler, kullanılan şahısların sağlığı için, özelikle bu konuda 
+bilgileri yoksa, bir risk olabilir. Bazı malzemeler, göze, deriye ve asbestte olduğu 
+gibi akciğerlere zarar veren parçacık veya tozlar yayarlar. Diğer bazı malzemeler 
+zararlı buhar veya duman üretirler. İnşaat çalışmalarında yaygın olarak kullanılan 
+bazı malzemeler çok çabuk alevlenir veya deri için tehlikelidir. Bu malzemelerin 
+yol açabileceği tehlikeler konusunda bilginiz varsa gerekli tedbirleri almalı, şayet 
+yoksa bilen birine danışmalısınız. 
+4.2.5.2. Aletler ve Ekipman 
+Alet ve ekipman uygun kullanımı ve korunması eğitimi, işi yapmayı öğrenme-
+nin bir bölümüdür. Eğer bir alet veya ekipman parçasının uygun kullanımı ve 
+amacı anlaşılırsa, yanlış kullanımı onları kısa zamanda nasıl amaca uymayan hale 
+getireceği kolayca görülür. Sizin için ellerinizin zarar görmesi, işinizdeki alet ve 
+ekipmanın yanlış kullanımı veya hasar görmesinden daha önemlidir; çünkü iş 
+yapabilmek için her zaman onlara ihtiyacınız olacaktır! 
+El testeresinden hareketli krene kadar her alet ve ekipman parçası, onu kulla-
+nan kimsenin kontrolü altında olmalıdır. Bu aletler, kendilerinden istenen işi tam 
+olarak yapmıyorlarsa kontrol altında değildirler. Yani güvenli bir durumda 
+değildirler. Tecrübeli bir kişi kendi makine ve aletinin kontrolü dışına çıkmasına 
+izin vermez. Tecrübe, ne yapmak isteğini bilmeyi ve aleti amacınıza hizmet ettir-
+meyi gerektirir. 
+Pek çok makine ve fişek-hareketli aletler gibi bazı ekipman parçaları özellikle 
+bunları kullanmak üzere eğitilmiş ve uzmanlaşmış kimseler tarafından kullanıl-
+malıdır. Her makine veya ekipman parçasına özel kural ve işlemler uygulanır. Bun-
+lar bilinmeli ve izlenmelidir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 55 
+4.2.5.3. Tehlikeli İşlem ve Çalışmalar 
+Bazı işlem ve operasyonlar özellikle tehlikeli olarak bilinir. Asbest izolas-
+yonun soyulması, en tehlikeli işlemlerdendir. Çalışanların güvenceye alınması, 
+çoğu zaman, bu işte eğitilmiş personel çalıştıran müteahhitlere ve çalışmaları 
+yönetenlere bırakılmış durumdadır. Daha önce bahsedilen fişek-hareketli aletlerin 
+kullanımı özel tehlikeler ihtiva eder, özellikle yakınında çalışan başka kimseler 
+mevcutsa tehlike daha önemlidir. Kaldırma işlemleri de tehlikelidir ve yakinen 
+yönetilmesi gerekir. 
+Bunlar ve benzeri proses ve işletmelerde iş, ne yapılabileceğini, nasıl yapıl-
+ması gerektiğini ve işin hangi sırada yapılacağını açıklayan yönergelerle sınırlan-
+dırılmıştır. Yönergeler aynı zamanda neyin yapılamaması gerektiğini ve bazı du-
+rumlarda da kimin bulunması gerektiğini söyler; aynı zamanda iş sahalarına giriş-
+leri de kısıtlayabilir. Eğer işiniz bu işlemler kapsamında veya bunlardan etkilene-
+cek gibiyse, sorumluluklarınız hakkında kanunların ne dediğini bilmelisiniz. 
+4.2.6. Güvenlik İşaretleri 
+Bir inşaat sahasında işinize giderken pek çok işaret ve notlar göreceksiniz. 
+Bunlardan bazıları size yabancı gelmeyecek – örneğin bir “sigara içilmez” işareti. 
+Bir kısmını da daha önce görmemiş olabilirsiniz. Onların neyi ifade ettiğini öğren-
+meniz ve onları dikkate almak size kalmış bir şey. Onlar muhtemel tehlikeleri ikaz 
+eder ve asla ihmal edilmemelidir. 
+Güvenlik işaretleri dört değişik kategoride toplanır. Bunlar; şekilleri ve renk-
+leri ile tanınır. Bazen bu işaretler sadece bir sembol olabilir; bazen da harf ve 
+şekilleri ihtiva eder ve bir geçidin yükseklik toleransı veya bir krenin güvenli ça-
+lışma yükü gibi ekstra bilgiler sunabilir. 
+İşaretlerin dört ana kategorisi aşağıdaki şekildedir. 
+ 
+Sevil İmanova 
+ 
+ 56 
+1. Yasaklama İşaretleri 
+Şekil: Dairesel 
+Renk: Kırmızı daire ve çapraz çizgi 
+          Beyaz zemin üzerine siyah sembol 
+Anlamı: Ne yapılmaması gerektiğini bildirir 
+Örnek: Sigara içilmez  
+2. Mecburiyet İşaretleri 
+Şekil: Dairesel 
+Renk: Mavi zemin üzerine beyaz sembol 
+Anlamı: Ne yapılması gerektiğini bildirir 
+Örnek: Eldiven giyiniz 
+ 
+3. İkaz İşaretleri 
+Şekil: Üçgen 
+Renk: Siyah çerçeveli sarı zemin üzerine  
+siyah sembol  
+Anlamı: Tehlike ve İkaz 
+Örnek: Dikkat, elektrik şok riski  
+4. Bilgilendirme İşaretleri 
+Şekil: Kare veya Dikdörtgen 
+Renk: Beyaz zemin üzerine kırmızı sembol  
+Anlamı: Güvenlik amaçlı bilgi verme veya yol 
+gösterme 
+Örnek: İlk yardım noktası  
+4.2.7. Tehlikeli Madde, Malzeme ve İşlemler 
+Pek çok madde ve malzeme, gerekli tedbirler alınarak güvenli şekilde taşına-
+bilir ve bunlarla çalışılabilir. Şüphesiz ki, sorumsuzca kullanılır veya taşınırsa 
+hemen hemen her şey tehlikeli olabilir. Aynı şeyler, genelde yapılan şeyler (çoğu 
+zaman alet ve ekipmanlar yardımıyla) ve malzemeleri de kapsayan işlemler için de 
+Endüstri Mühendisliğine Giriş 
+ 
+ 57 
+doğrudur. Bazı malzeme ve işlemler özel dikkat gerektirir; birkaç tanesi için de 
+daha fazla dikkat gereklidir. Tehlikeler nelerdir, ne zaman ortaya çıkar, nasıl önle-
+nebilir; bunların bilinmesi önemlidir. Genellikle önlem, koruyucu elbise ve ekip-
+man kullanımını kapsar. 
+4.2.7.1. Toz ve Parçacıklar 
+Toz ve parçacıklar, malzemenin işlenmesi veya taşınması sırasında ortaya 
+çıkar. Personelin korunmasıyla ilgili kısımda işaret edildiği gibi, bu tozlar, gözlere, 
+akciğere ve bazı durumlarda deriye zarar verir. Tuğla, duvar, beton, kereste, plastik 
+ve diğer sert malzemeler, kesme veya delme aletleriyle işlendiklerinde toz ortaya 
+çıkar. Eğer bu tozun göze veya ciğerlere girme tehlikesi varsa, koruyucu ekipman 
+ve elbise gerekecektir. 
+Asbest tozlarının zararlı etkisi şimdi çok iyi bilinmektedir ve mavi asbest öyle 
+zararlıdır ki, inşaat çalışmalarında ve inşaat malzemelerinde uzun zamandır 
+kullanılmamaktadır. Tehlikesi bilinmeden önce çok geniş kullanılmakta idi, özel-
+likte  boru sisteminin korunması ve izolasyonu için kullanılırdı. Herkes özellikle de 
+yıkım ve tamir işlerinde çalışanlar, bu çeşit maddelerin tehlikesine karşı uyanık 
+olmalı ve bu durum kişinin kendi inisiyatifine bırakılmamalı, kişi ikaz edilerek 
+uyarılmalıdır. Asbestin diğer tipleri halen kullanılmaktadır. Örneğin; asbest çimen-
+todan çatı malzemesi, izolasyon tabakaları ve taşıtların fren mekanizmaları gibi. 
+Asıl tehlike, asbestin kesilmesi veya delinmesi işlemlerinde ve tamir, yıkım gibi 
+dağılma sözkonusu olan çalışmalarda ortaya çıkar. Asbestin taşınması ve kullanımı 
+kanunla ve yönetmelikle kontrol edilmelidir. Bu işlerde çalışan kimseler, toz 
+zararlarına karşı tam eğitilmiş ve korunmuş olmalıdır. 
+4.2.7.1. Duman ve Buharlar 
+Duman ve buharlar, kapalı hacimlerde en tehlikeli maddelerdir. Açık havada 
+genellikle dağılırlar. Yapıştırıcılar, reçineler, çözücüler, boyalar ve boya inceltici-
+lerin hepsi duman ve buhar üretirler, bu maddeler bina içinde kullanıldığında, kapı 
+ve pencereler mümkünse açılmalı ve bir hava cereyanı oluşturulmalıdır. Eğer bu 
+yapılmazsa veya duman birikmesi önlenmezse, gaz maskesi kullanmak gerekebilir. 
+Buharlar genellikle alevlenebilir. Alevlenebilir buhar üreten maddeler, çıplak 
+elektrik teli veya kıvılcım üretebilecek ekipman yanında depolanmamalı, açılma-
+malı veya kullanılmamalıdır. Kullanımdan sonra tapalar ve kapakların yerine 
+konduğundan ve kalıntıların acilen silinip temizlendiğinden emin olunmalıdır. İş-
+yerinde sadece iş için gerekli miktarda sıvı bulundurulmalı ve kullanılmayan kısmı, 
+alevlenebilir sıvıların depolandığı yere geri götürülmelidir. 
+Sevil İmanova 
+ 
+ 58 
+4.2.7.2 Üretimin Tehlikeli ve Zararlı Faktörleri 
+1. Fiziksel faktörler. Mekanik kuvvet,ses, titreşim, elektrik cereyanı, havadaki 
+toz, zararlı gaz, ve ergonomik şartları uygun olmayan ortamlar. 
+2.  Kimyasal faktörler. Zararlı gıcıklandırıcı kanserojen maddeler 
+3. Biyolojik faktörler. Mikroorganizmaların etkisi (bakteriler, virüsler, mantarlar) 
+4. Psiko-Fizyolojik faktörer. İşlerin fiziksel ve psikolojik etkiler.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 59 
+ 
+ 
+BÖLÜM V 
+TESİS YERİ SEÇİMİ VE DÜZENLENME 
+ 
+5.1. Tesis Yeri Seçimi Kavramı 
+Tesis kavramı ile fabrika, atölye, sanayi sitesi, depo, işyeri, okul hastane, kara-
+kol, kütüphane, üniversite gibi kurum ve kuruluşlar kastedilmektedir. Yer seçimi 
+kavramı ise kısa ve/veya uzun vadede çeşitli ölçütlere göre en iyi avantajlara sahip 
+yerin belirlenmesini ifade eder. Tesis yeri seçimi, gelecekte söz konusu avantajları 
+elde edebilmek amacıyla yapılacak yatırım için en uygun yerin seçimi çalışmasıdır. 
+Tesis yeri seçimindeki yanlışlıklar gelecekte önemli maddi kayıplara, çevre sorun-
+larına ve gelişme güçlüklerine neden olacaktır. Tesis yeri seçimi kararı, tesis plan-
+lama veya tesis tasarımı denilen bütünsel bir çalışmanın alt çalışmasıdır. Tesis 
+planlamada tesis yeri seçiminin yanı sıra tesis sayısı, tesis kapasitesi ve tesis üretim 
+ve yönetim sistemi kararları da verilir.  
+Çok karşılaşılan bir örnek olarak fabrika yeri seçimi problemi ele alınarak 
+tesis yeri seçimi konusu açıklanacaktır. Diğer tip tesisler için kullanılacak ölçütler 
+farklılıklar gösterse de temel yöntem aynı kalacaktır. Tesis yeri seçimi çok etmenin 
+aynı anda değerlendirilmesini gerektiren bir çalışmadır. 
+5.1.1. Tesis Yeri Seçimindeki Aşamalar ve Etmenler  
+Tesis yeri seçimi kavramı verilebilmesi için önerilen sistematik bir yaklaşım 
+aşağıdaki aşamalardan geçilmesini öngörür: 
+1) Bölge seçimi 
+2) Yöre seçimi 
+3) Yer (arsa, arazi) seçimi 
+Şimdi yukarıdaki seçim kararlarını etkileyen etmenleri inceleyelim: 
+a)  Bölge seçimi: Uygun coğrafi bölgenin belirlenmesi aşamasında aşağıdaki 
+etmenler dikkate alınır. 
+- Hammadde kalitesi, bulunma kolaylığı, gelecekteki durumu, maliyeti, 
+ulaşım şekli ve maliyeti 
+- İşgücü kalitesi, ortalama maliyeti, sosyo-kültürel yapısı, bulunabilirliği, 
+bölgenin ortalama yaşam standardı 
+Sevil İmanova 
+ 
+ 60 
+- Enerji kaynaklarının durumu, çeşitliliği, maliyeti, sürekliliği, kullanıla-
+bilirliği 
+- Ulaşım olanaklarının durumu, çeşitliliği, maliyeti, sürekliliği, kullanıla-
+bilirliği, 
+- Pazarın durumu yakınlığı, tüketici tercihleri, satış ve dağıtım olanak ve 
+maliyetleri, pazarlama ve reklam olanakları 
+- Yan sanayi kuruluşlarının durumu, teknolojisi, kalitesi, güvenirliği, yan 
+sanayi kullanım maliyetleri 
+- İklim durumu, iklimin üretim maliyetine etkileri, ulaşıma etkisi, işçilik 
+verimliliğine etkisi 
+- Sermaye temin olanakları, kredi ve faiz durumu, bölge halkının ilgisi, 
+devletçe sağlanan teşvik ve diğer mali olanaklar 
+- Bölge rekabet koşulları, rakip firmaların durumu 
+- Vergi, resmi harçlar 
+- Devletin bölgeye yönelik yatırım politikası 
+- Bölgedeki araştırma geliştirme ve teknoloji potansiyeli 
+b) Yöre seçimi: Bölge içinde işletmenin kurulacağı arsa/arazinin bulunduğu 
+yörenin seçimidir. 
+c) Arsa/Arazi seçimi: Yöre içinde işletmenin kurulacağı yerleşim alanının 
+seçimidir. 
+Yöre ve arsa/arazi seçiminde kullanılan etmenler aşağıda belirtilmiştir. Bu 
+etmenlerden bazıları bölge seçiminde de kullanılmasına karşılık burada 
+mikro açıdan değerlendirilmektedir. 
+- Alt yapı hizmetleri: ulaşım, haberleşme, elektrik, doğal gaz, su, 
+kanalizasyon, atık giderme tesis ve olanakları 
+- İşgücü, nüfus, nitelikli işgücü bulunabilirliği 
+- Organize sanayi bölgesi olup olmaması 
+- Ulaşım: iş merkezlerine, şehir merkezine, konut alanlarına, kamu 
+kuruluşlarına, limanlara, demiryoluna, havaalanına ve diğer tesislere 
+yakınlık ve ulaşım olanakları 
+- Genişleme olanaklarının varlığı 
+- İşçi-işveren ilişkilerinin durumu 
+- Çevre toplumun sosyo-kültürel yapısı 
+Endüstri Mühendisliğine Giriş 
+ 
+ 61 
+- Arazinin topografik yapısı 
+- Hammadde ve malzeme kaynakları, kapasiteleri, kalitesi, maliyeti ve 
+yakınlığı, 
+- Pazar hacmi, rekabet durumu ve yakınlığı 
+- Araştırma, geliştirme ve eğitim kuruluşlarına yakınlık 
+- Sağlık ve spor olanaklarına yakınlık 
+- İskan durumu 
+- Vergi, resmi harçlar 
+- Arsa/arazi ve yatırım maliyetleri 
+- İşletme maliyetleri  
+- Güvenlik olanakları 
+- Sağlanan teşvik ve kısıtlayıcı etmenler 
+- Uluslararası ticaret olanakları 
+Yöre seçiminde üç farklı yaklaşım düşünülebilir. Şehir içi, şehir dışı, yakın 
+yöreler, şehir dışı uzak yöreler. Her seçeneğin kendine göre avantajlı ve 
+dezavantajlı noktaları olacaktır. Şehir içi yerleşim alanları yüksek arsa veya 
+kira maliyetine karşılık, nitelikli çalışan bulabilme, pazara yakın olma 
+avantajlarına sahip olacak, şehir dışı uzak yöreler ucuz arazi maliyeti 
+avantajına karşılık, nitelikli çalışan bulamama ve pazara uzak olma deza-
+vantajlarına sahip olacaktır. Bu noktada yapılması gereken uygun yeri 
+seçimi yaklaşımı kullanılarak doğru kararın verilmesidir. 
+5.1.2. Tesis Yeri Seçimi Sorununa Yaklaşımlar 
+Tesis yeri seçimi yaklaşımları aşağıdaki şekilde sınıflandırılabilir: 
+1) Analitik Yaklaşım: bu yaklaşımda yerleştirme yapılacak alanın sürekli olduğu 
+varsayılır. Yani alanın her noktasına yerleştirme yapılabilir, her noktadan her 
+noktaya doğrusal olarak gidilebilir. Amaç taşınan mal ağırlığı ile taşınan uzak-
+lığı en küçükleyen yerin seçimidir. Bu yaklaşım ile tek tesisli veya çok tesisli 
+yerleştirme problemleri çözülebilir. 
+2) İktisatçı Yaklaşım: üretim, istihdam, fiyatlandırma, arz-talep, rekabet vd eko-
+nomik etmenlerin değişimin tanımlanarak ve aralarındaki ilişkilerin saptana-
+rak tesis yeri seçiminin belirlenmesi yaklaşımıdır. 
+3) Sistem Yaklaşımı: Endüstriyel sistemlerdeki bilgi, sipariş, malzeme, sermaye 
+işgücü ve nakit akışı gibi akışlar tanımlanarak ve aralarındaki ilişkiler sapta-
+narak tesis yeri seçiminin belirlenmesi yaklaşımıdır. 
+Sevil İmanova 
+ 
+ 62 
+4) Çok Ölçütlü Yaklaşımı: taşıma maliyetlerinin en küçüklenmesi amacının yanı 
+sıra işgücü temini, teşviklerden yararlanma, çevreye en az zarar gibi diğer 
+ölçütlerin de eş zamanlı olarak dikkate alındığı bir çözüm yaklaşımıdır. 
+5) Analog Yaklaşımlar: Problemi başka elemanlar vasıtasıyla benzer (analog) 
+modeller haline dönüştürerek görsel bir nitelik kazandırma yaklaşımıdır. 
+(analog modellere en iyi örnek bina yapımı öncesi gerçekleştirilen maket 
+çalışmalarıdır. Böylece maket incelenerek binanın konum ve mimarisine 
+yönelik kararlar verilir) Grafik modeller de bu yaklaşım altında görülür. 
+6) Karma Yaklaşım: Yukarıda belirtilen çeşitli yaklaşımlara uygun yöntemlerin 
+eş zamanlı veya ardışık olarak birlikte kullanıldığı yaklaşımdır. 
+5.2.  Tesis Yeri Düzenlemenin Tanımı ve Amaçlar 
+Tesis yeri düzenleme, mamul ve hizmet üretiminde kullanılan işgücü, malze-
+me, makine ve teçhizat gibi fiziksel kaynakların istenen kapasite, kalite, maliyeti ve 
+ergonomik koşulları sağlayarak en verimli bir şekilde üretimin yapılacağı alan üze-
+rine yerleştirilmesidir. Bu kapsamlı çalışma çeşitli mesleklerden kişilerin oluştur-
+duğu bir ekip tarafından gerçekleştirilir.  
+Tesis yeri düzenleme problemi aşağıda belirtilen nedenlerden dolayı oluşabilir: 
+1. Yeni bir tesis kurulması 
+2. Yeni bir alana veya binaya taşınılması 
+3. Yeni ürün tasarımları veya mevcut ürünlerdeki tasarım ve imalat yöntem 
+değişiklikleri, teknolojik yenilemeler 
+4. Bazı ürün üretimlerinden vazgeçilmesi 
+5. Yeni tesis ve makine alımları  
+6. Mevcut makinelerin satılması, kiralanması veya fason işletmelere verilmesi 
+7. Malzeme akışındaki verimsizlikler, malzeme takibindeki aksamalar, tıka-
+nıklıklar, darboğazlar 
+8. İnsancıl (ergonomik) çalışma koşullarındaki olumsuzluklar 
+9. İş yüklemelerindeki dengesizlikler, boş beklemeler 
+10. Çevre koruma etmenlerinden kaynaklanan zorlamalar 
+11. Aşırı malzeme taşımalarının oluşması, maliyetlerdeki atışlar 
+12. İş kazalarına karşı alınan iş güvenliği önlemleri 
+13. Ürün ve üretim kalite spesifikasyonlarının sağlanabilmesi. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 63 
+Yukarıdaki nedenlerin bazıları hemen, bazıları ise zaman içinde artan önemi 
+sonucu tesis yeri düzenleme çalışması yapılmasını gerektirir. 
+Tesis yeri düzenleme çalışmalarının amaç ve yararlarını ise aşağıdaki şekilde 
+belirtebiliriz: 
+1. Toplam üretim süresinin en aza indirilmesi, beklemelerin ve geri dönüşle-
+rin azaltılması. 
+2. Malzeme taşımaların en aza indirilmesi, malzeme taşıma düzeninin gelişti-
+rilmesi 
+3. Üretimin esnek bir yapıya kavuşturulması, üretim planındaki değişikliklere 
+daha hızlı uyum gösterilmesi 
+4. Çalışanlara çalışma kolaylığı, ergonomik koşullar ve iş kazalarına karşı iş 
+güvenliği sağlanması, 
+5. Arsa ve bina alanı ihtiyacının en aza indirilmesi yoluyla gerekli sermaye 
+miktarının azaltılması, alanlardan en verimli bir şekilde yararlanılması 
+6. Üretim planlama ve kontrolü faaliyetlerinin daha etkin ve verimli bir şe-
+kilde yapılabilir hale getirilmesi, stok alanları ve düzenlerinin belirlenmesi, 
+makine yüklemlerinin dengeli hale getirilmesi, kapasite kullanım oranları-
+nın yükseltilmesi 
+7. Temizlik, bakım-onarım, kalite kontrol vd. Faaliyetlerin daha etkin ve ve-
+rimli bir şekilde yapılabilir duruma getirilmesi 
+8. Geleceğe yönelik gelişmeler için gerekli önlemlerin alınması 
+5.2.1. Tesis Yeri Düzenleme Tipleri 
+Tesis yeri düzenlemede başlıca 3 tür yerleştirme bulunmaktadır. Bunlar aşa-
+ğıda sırasıyla açıklanmıştır: 
+1.  Prosese Göre Yerleştirme: iş yerinin düzenlenmesinde imalat donatımının 
+tipi ve işlem karakteristikleri önemli rol oynar. Eğer bunlar çok çeşitli mamul-
+leri üretecek şekilde ise prosese göre planlama uygulanır. Ancak her çeşitteki 
+mamul miktarı çok fazla değildir. Bu planlamada aynı ya da benzer tipteki 
+makine ve gereçler aynı grupta ve bir yerde toplanır. Gruplama önce bölüm-
+lere (talaş kaldırma, montaj, ambarlar) göre yapılır. Daha sonra bölüm için-
+deki benzer makineler kendi aralarında gruplandırılır. Örneğin talaş kaldırma 
+bölümündeki makineler, tornalar, frezeler, matkaplar olarak gruplandırılabilir. 
+Sevil İmanova 
+ 
+ 64 
+Yararları: 
+1. Makineler üniversal (genel amaçlı) olduğundan çok çeşitte mamul yapma 
+olanağı vardır. Esneklik daha fazladır. 
+2. Makineler fazla pahalı olmadığından yatırım miktarı azdır. Dolayısıyla iş 
+riski de azdır. 
+3. Donatım veya tezgahlardan birinin bozulması halinde, işin başka bir 
+tezgaha aktarılması ile üretimin aksaması önlenebilir. Ayrıca makinelerin 
+tamiri daha kolaydır. 
+4. Kişisel teşvikli ücret sistemleri için uygundur. Üretimde kişisel bilgi ve 
+benzeri kullanımı daha fazladır. 
+5. Karışık ve hassas proseslerin, özellikle fazla muayene isteyen durumların 
+kontrolü daha iyi yapılır. 
+Sakıncaları: 
+1. Yarı mamul stokları için fazla alan gereklidir. 
+2. Makineler farklı işler işleyeceğinden hazırlık zamanları uzundur. 
+3. Üretimin planlaması ve kontrolü karışıktır. 
+4. Malzeme taşıma maliyetleri yüksektir. 
+5. Nitelikli eleman kullanımı gerekir. 
+6. Üretim hızı düşük, beklemeler fazladır. 
+2.  Ürüne Göre Yerleştirme: Bu tip yerleştirme az çeşitte ürünün çok sayıda 
+üretildiği fabrikalarda uygulanır. Makine ve gereçler ürün üretiminin gerek-
+tirdiği sırada yerleştirilir. Böylece her iş istasyonunda ürüne, bir önceki istas-
+yonda uygulanan işlemden sonra gelen işlem uygulanır ve bir sonraki iş 
+istasyonuna gönderilir. 
+Yararları: 
+1. Malzeme taşıma maliyetleri düşüktür. 
+2. Hazırlık ve işlem zamanları kısadır, üretim hızlıdır. 
+3. İş istasyonları arasında yarı mamul stokları düşüktür, düzgün bir iş akışı 
+vardır. 
+4. Grup teşvikli ücret sistemlerine uygundur. 
+5. Üretimin planlaması ve kontrolü daha kolaydır. 
+6. Kalifiye olmayan işçi kullanılabilir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 65 
+Sakıncaları: 
+1. Ürünlere sürekli ve düzgün bir talebin olması gerekir. Talep yokluğu nede-
+niyle üretimin durması önemli kayıplara neden olur. 
+2. Makinelerden birinin arıza yapması tüm üretimin durmasına neden olabilir. 
+3. Makine ve teçhizat özel amaçlı olduğundan yatırım maliyetleri ve bakım-
+onarım giderleri fazladır. 
+4. İşçiler monoton işler yapmak durumundadır. 
+5. Üretim kapasitesi üretim akışı içindeki en düşük kapasiteli makine tara-
+fından belirlenmiş olur, kapasitelerin dengelenmesi önemli bir sorundur. 
+6. Esneklik, farklı ürün üretebilme kabiliyeti azdır. 
+3.  Sabit Ürüne Göre Yerleştirme: Bundan önceki iki tipte ürün hareketli, ma-
+kineler sabit idi. Bu tipte ürün belirli bir yerde sabittir ve üretim olanakları 
+gerektiğinde buraya taşınır. Gemiler, lokomotifler, büyük uçaklar, inşaat bu 
+tip ürünlerdir. Bu ürünler dışında sabit konumlu ürüne göre yerleştirme 
+yaklaşımı pek kullanılmaz. 
+Yararları: 
+1. Malzeme taşıma maliyetleri düşüktür. 
+2. İş dağıtımı ve kontrolü nispeten kolaydır. 
+3. Takım çalışmasının getirdiği avantajlara sahiptir. 
+4. Esnek bir üretim yapısı vardır. 
+Sakıncaları: 
+1. Makine ve teçhizatın taşınma ve yerleştirme maliyeti vardır. 
+2. Makine ve teçhizatın kullanım oranı düşüktür. 
+3. Kalifiye işçiye gereksinim gösterir. 
+Prosese göre yerleştirme daha ziyade siparişe göre üretim yapan küçük ve orta 
+ölçekli işletmelerde, ürüne göre yerleştirme ise stok için üretim yapan büyük 
+ölçekli işletmelerde uygulanır. Ancak prosese göre yerleştirmede parça aileleri kav-
+ramından hareketle imalat hücreleri oluşturulmakta ve böylece ürüne göre yerleş-
+tirmenin avantajları yakalanmaya  çalışılmaktadır. 
+ 
+Sevil İmanova 
+ 
+ 66 
+5.2.2. İş Akışı Tipleri 
+İşletmelerde malzeme, parça ve yarı mamullerin, üretimleri sırasında izle-
+dikleri yola işl akışı denilmektedir. Harflere sembolize edilen temel iş akışı tipleri 
+tek veya karma bir şekilde uygulanabilir. Hangi akış tipinin esas alınacağının 
+belirlenmesinde; işletmenin tek veya çok bina, tek veya çok katlı bina, malzeme 
+taşıma sistemleri, ergonomi ve iş  güvenliği kuralları, metot etüdü çalışmaları, par-
+çaların imalat ve kalite kontrol usulleri, temizlik ve bakım kolaylıkları, alan 
+ihtiyaçları, esneklik, binanın mimarisi vd. özellikleri dikkate alınır. İş akışı tipleri 
+düşey ve yatay olmak üzere iki grupta toplanmaktadır. 
+Düzgün ve belirli bir iş akışı üretim kontrolünü kolaylaştırır, malzeme taşıma 
+maliyetlerini düşürür ve verimliliği artırır. Belirlenen iş akışı malzeme taşıma 
+sisteminin kurulmasına da esas teşkil eder. Konveyör bantları, monoraylar, demir-
+yolları, elevatörler, borular vb. sabit yollu taşıma teçhizatı, köprülü vinçler, kule 
+vinçleri vb. sabit alanlı taşıma teçhizatı, forkliftler, traktör ve çekiciler, dozerler 
+serbest hareketli taşıma teçhizatı belirlenen iş akışı ile verimlilik ve ekonomiklik 
+faktörleri dikkate alınarak seçilir. 
+5.2.3. Sistematik Tesis Yeri Düzenleme Yaklaşımı 
+Tesis yeri düzeni tasarımında aşağıdaki kriterler esas alınır: 
+- Entegrasyon: ilgi etmenlerin en üst düzeyde entegre bir biçimde çalışabilme 
+özelliği, 
+- Hareket minimizasyonu: İnsan, malzeme ve teçhizat hareketinin en az düzey-
+de tutulabilmesi, 
+- Akış Yönünde Yerleştirme: Mümkün olduğu kadar makine ve teçhizatın iş 
+akışı yönünde yerleştirilmesi, 
+- En Az Alan ve Hacim Kullanımı: Hem iki hem de üç boyutta alan ve hacim 
+kullanımının en düşük düzeyde tutulabilmesi 
+- İş Güvenliği: İşçi sağlığı ve iş güvenliği önlemlerinin gerektiği şekilde alın-
+ması 
+- Çalışanların Tatmini: Tesis yeri düzeninde çalışanların tatminine yönelik 
+önlemlerin alınması, 
+- Esneklik: Değişikliklerin en az maliyet ile gerçekleştirilebilmesi ve çeşitli 
+üretimlerin yapılabilmesi 
+ 
+ 67 
+ 
+ 
+BÖLÜM VI 
+ÜRETİM SİSTEMLERİ 
+ 
+6.1. Sistemin Tanımı, Temel Yapısı, Önemli Bazı Özellikleri. 
+Sistem denilince akla öncelikle bir bütünlük kavramı gelir. Bu kısaca, her sis-
+temin bir bütün olduğu ve bütünün öğelerden oluştuğu şeklinde açıklanabilir. 
+Her sistemin bir amacı, yerine getirmesi gereken bir işlevi olacağına göre; 
+öğelerin de bu amacın gerçekleşmesine uyumlu olacak biçimde birleşmesi gerekir. 
+Bu şekilde; birbirleriyle uyum içinde çalışan, birbirleriyle karşılıklı işlevsel ilişki-
+leri olan, bütünün amacı doğrultusunda birbirlerini tamamlayan unsurlar söz konu-
+sudur. 
+Sistem öyle bir bütündür ki, öğelerinden herhangi biri diğeriyle olan ilişkile-
+rinde uyumsuzluk gösterdiğinde, bu durum bütünü etkiler. Örneğin, İnsan siste-
+minde; dolaşım, solunum, sindirim, boşaltım, sinir, üreme gibi çeşitli alt sistemler 
+bulunur. Dolayısıyla, insan vücudu bir düzen içerisinde işlerken, onu oluşturan 
+öğelerden biri, örneğin duyu organı aksarsa, sistem; yani insan, bir bütün olarak 
+bundan etkilenir. 
+Doğal sistemler için geçerli olan bu durum yapay sistemler için de geçerlidir. 
+Fabrikayı bir sistem, işçileri de onun bir öğesi olarak ele alırsak, bu öğenin; yani 
+işçinin herhangi bir aksaması, fabrikanın üretimini olumsuz yönde etkileyecektir. 
+Sistemin tanımı çeşitli biçimlerde yapılabilir. Sistem; öğelerin ya da bileşen-
+lerin ilişkilerinin bir amaç için organize edilmesidir, diyebiliriz.  
+Sistem içinde yer alan daha küçük sistemler de olabilir. Bunlar “alt sistem” 
+olarak adlandırılır. Alt sistemler kendi içinde bir bütün oluşturan, fakat içinde yer 
+aldıkları daha büyük sistemin amacı doğrultusunda çalışan sistemlerdir. Alt sistem-
+ler kendi başlarına ele alındığında bir sistemin bütün özelliklerini içerirler. Özel-
+likle karmaşık sistemler bir çok alt sistemlerden oluşurlar. Başka deyişle, her sis-
+tem kendisinden büyük başka bir sistem içinde yer alan bir alt sistemdir. 
+Bu açıklamalardan ortaya çıkan sonuçlar şöyle özetlenebilir: 
+Sistem, bileşenlerin oluşturduğu bir bütündür. 
+Sevil İmanova 
+ 
+ 68 
+Sistem, bileşenler arasında uyumlu ilişkileri dizisidir. 
+Bütünün bir amacının olması gerekir. 
+İşlevini yerine getiren bir bütün, daima bileşenlerinin toplamlarının oluştur-
+duğu değerden daha büyük bir değere sahiptir. 
+Bileşenler bütünden soyutlanarak incelendiklerinde yeterince anlaşılamazlar. 
+Bileşenler ait oldukları bütün içinde bir anlam kazanırlar, ait oldukları bütün için 
+bir değer taşırlar. 
+Sistem teorisinin ana çizgilerini içeren bu özellikler sistemin eksiksiz bir 
+tanımının yapılmasında büyük yarar sağlarlar. 
+O halde, sistem; bir amaca yönelik olarak çeşitli öğelerin işlevsel ilişkilerle bir 
+araya gelerek oluşturmuş oldukları bütündür, diyebiliriz. 
+Daha geniş bir tanım ise şöyle yapılabilir: 
+Sistem, bir bütün oluşturmak üzere bir araya gelmiş birbirleriyle karşılıklı 
+ilişki içinde bulunan bileşenlerin belli bir amacı gerçekleştirmek üzere uyumlu bir 
+biçimde bir arada çalıştığı yapıdır. 
+Her sistemde var olan  temel unsurlar, girdi, işlem ve çıktı unsurlarıdır. Bir 
+sistemin genel yapısı şekil 1.1’de verilmiştir. 
+ 
+ 
+ 
+ 
+ 
+Şekil 6.1. Sistemin yapısı ve temel unsurlar 
+Yukarıdaki şekilde ortada görülen işlem bölümü sistem kavramının en kar-
+maşık unsuru olup, nitelik bakımından daha çok bir kara kutuya benzer. Burada 
+birbirine bağlı birden çok işlem yer alır. İşlemler bütününün amacı, sistemin ama-
+cıyla özdeştir. Kara kutuya bir dönüştürme süreci olarak da bakılabilir. Çeşitli gir-
+dileri alıp önceden tanımlanmış bir çıktıya dönüştürme eylemi olarak işlev görür.  
+Sistemin fiziksel veya kavramsal olarak sınırları vardır. Bu sınırların dışında 
+kalan her şey sistemin çevresini oluşturur. Sistemler dinamik bir yapıya sahip 
+olmalarının bir gereği olarak, sistemin çevresi ve diğer sistemler ile sürekli ve 
+sonsuz bir ilişki içerisindedirler. 
+İŞLEM 
+çıktılar girdiler 
+Enerji 
+Malzeme 
+Bilgi  
+Tamamlanmış ürün  
+Hurda ekipman 
+Fire, üretim artığı 
+Bilgi Geri Besleme 
+Endüstri Mühendisliğine Giriş 
+ 
+ 69 
+Sistemin güvenilir ve dengeli olması da önemlidir. Bunu sağlayamamış sis-
+temlerin kullanışlı olması mümkün değildir.  
+Geri besleme işlevinin amacı, çıktılar ile önceden saptanmış standartlar ara-
+sındaki farklara ilişkin bilgileri, sisteme geri vermek suretiyle gerekli düzeltmelerin 
+yapılmasını sağlamaktır. Bu şekilde, sistem kendi denetimini ve yönetimini başar-
+mış olmaktadır. 
+Sistemlerin en belirgin özelliklerinden biri de, kendisinden küçük sistemlerde 
+(alt sistemlerden) oluşmasıdır. Çevremizde yer alan her sistem kendisinden daha 
+büyük  başka bir sistemin içinde yer alır. 
+Sistem anlayışının en büyük özelliklerinden biriside, ana sistemin başarısının 
+alt sistemlerin başarılarına dayanmasıdır. Ortaya çıkan çıktının alt sistemlerin kendi 
+başlarına ayrı-ayrı yaratabilecekleri çıktılarını toplamından büyük olması, sistem-
+lerin var oluş nedenlerinin başında gelir. 
+Başka bir deyişle, sistem öğelerinin aritmetik bir toplamı değil, organik bir 
+toplamıdır. Bunun anlamı şudur: Sistem oluşturmak üzere bir araya gelen öğeler 
+fazladan bir güç kazanmaktadırlar. 
+Bu ilkeyi bir örnekle açıklayalım: Bir otomobil oluşturan tekerlekler, pis-
+tonlar, motor, aks, yağ pompası, vb. parçaların her birinin bireysel olarak değer-
+lerini toplamı, otomobilin bütün olarak değerinden küçüktür. Çünkü otomobil bir 
+sistemde ve işlevi bir noktadan diğerine nesneleri (insanlar, mallar vb.) taşımaktır. 
+Otomobili oluşturan bileşenlerin tümü sistem oluşturmayacak şekilde bir arada 
+olsalar bile, otomobilin işlevini yerine getiremezler. Bu nedenle, bileşenler ancak 
+sistem oluşturacak şekilde bir araya geldiklerinde toplamlarına ek bir güç kazan-
+maktadırlar. Bu  güce “sinerji” adı verilir. 
+Sinerji; sistemlerin arttırılmış dayanıklılığı anlamına gelen bir terimdir. Siste-
+min bütün olarak gücü, onu oluşturan birimlerin güçlerinin teker-teker üst üste ek-
+lenmesiyle bulunan toplam güçten büyük olmaktadır. Bunu şöyle de ifade ede-
+biliriz: 2+2>4 (İki ile ikinin toplamı dörtten büyüktür.) 
+6.2. Sistemlerin Sınıflandırılması 
+Sistemleri çeşitli kriterlere göre sınıflandırmak olanaklıdır. Açık ve kapalı 
+sistemler, canlı ve cansız sistemler, doğal ve yapay sistemler gibi. 
+Bu sınıflamalardan konumuz gereği ancak birkaç tanesine değinmekle yetine-
+ceğiz: 
+Sevil İmanova 
+ 
+ 70 
+1. Açık ve kapalı sistemler:  
+Çevresi olan ve çevresi ile ilişkisi olan, ondan etkilenen sistem”açık” sistem-
+dir. Çevresi olmayan sistemler ise “kapalı” sistemdir. Kapalı sistemler tama-
+men kendi içinde kapanık sistemler olup dışarıya hiçbir alışverişleri yoktur. 
+Tüm “canlı” sistemler açık sistemlere tüm “cansız” sistemlerde “kapalı” sis-
+temlere örnek oluştururlar. Bir işletme açık sistem, termostatik kapalı sistemdir. 
+2. Deterministik ve probabilistik sistemler: 
+Sistemin davranışlarının önceden bilinebilirliğine göre genelde iki tür sistem-
+den söz edilebilir: Determinisitik (Belirli) sistem, Probabilistik (olasılıksal) 
+sistem.  
+Belirli sistem, değişik koşullarda nasıl davranacağı ve nasıl işleyeceği önceden 
+bilinen sistemlerdir. Tam bir belirlilik söz konusudur. Bilgisayarlar belirli ko-
+şullar altında hep aynı sonucu vermelerinden ötürü belirli sisteme örnek oluş-
+tururlar. 
+Olasılıksal sistem ise, davranışları önceden tam olarak kestirilmeyen, olasılık 
+kanunlarına bağlı olarak çalışan sistemdir. Stok kontrol sistemi, kalite kontrol 
+sistemi gibi sistemler olasılıklara bağlı olduklarından bu gruba girerler. 
+3. Basit ve karmaşık sistemler: 
+Sistemler karmaşıklık düzeylerine göre basit, karmaşık ve çok karmaşık olarak 
+üç gruba ayrılır. Yazı / tura atışı basit – olasılıksal, ısıtma sistemi ise basit – 
+belirli sisteme birer örnektir. Bilgisayar karmaşık – belirli sisteme, küçük işlet-
+meler ise karmaşık – olasılıksal sisteme, ulusal ekonomi ve büyük işletmeler 
+ise çok karmaşık- olasılıksal sisteme örnek gösterebiliriz. 
+Tüm bu sınıflandırmaların amacı, sistemleri ele alınış nedenine göre daha 
+düzenli bir şekilde inceleyebilmektir. Bu çalışmada, ana konumuz işletme 
+olduğundan başka sınıflandırmalar üzerinde durmaya gerek yoktur. 
+6.3. Üretim Kavramına Bir Bakış 
+Üretmek özelliği, insanı diğer canlılardan ayıran temel özelliklerden biridir. 
+Bunun başlıca nedeni, kuşkusuz üretimin büyük ölçüde düşünceye, zekaya, yaratı-
+cılığa dayanmasından ileri gelir. Bu özellikleri bünyesinde toplayan tek canlı 
+insandır. 
+Üretim en yalın tanımıyla, “yaratılan değer”dir. Bunu biraz daha açmak gere-
+kirse “ekonomik bir anlamı olan her hangi bir şeyi ortaya çıkarmak için ortaya ko-
+nulan faaliyete” üretim adı verilir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 71 
+Sonucunda hiçbir işe yaramayan, değersiz şeylerin ortaya çıktığı faaliyetlerin 
+üretim olarak adlandırılması olanaksızdır. Üretim sözcüğü yalnızca bir ürünün 
+ortaya çıkması, oluşturulması amacıyla yapılan faaliyetler değil, aynı zamanda “bir 
+ürüne değer katmak, değerini arttırmak amacıyla yapılan faaliyetler” için de kul-
+lanılır. 
+6.4. 2000’lerde Üretim 
+Birçok alanda çok şeyin değişime uğradığı 1990’lı yıllarda üretim olgusu yeni 
+boyutlar kazanmıştır. Bu değişime neden olan kavramlar aşağıda kısaca incelen-
+miştir: 
+Globalleşme: Dünya artık ufalmıştır. Herhangi bir yerdeki gelişme artık yüz-
+lerce hatta binlerce kilometre uzaktaki kişileri ve kurumları  etkilemektedir. Global 
+pazarlara girebilmek için üretim yapısının değişmesi gerekmektedir. “Küresel 
+düşün, bölgesel uygula” sözü bu yeni dönemin ilkelerinden biridir. 
+Yüksek Teknoloji: Üretim büyük ölçüde bilgisayarlara, mikro elektroniğe, ro-
+botlara vs. bağlı olmaktadır. Teknoloji sık sık değişmekte ve gelişmektedir. Gelişen 
+teknolojiye ayak uydurmak büyük önem kazanmaktadır. Ayak uydurmayan işlet-
+meler rakiplerinden geri kalmakta, pazar payları daralmakta, giderek yok olmaktadır. 
+Kalite anlayışı: “Toplam kalite anlayışı”, çok üretmek yerine kaliteli üretmek 
+olgusu yaygınlık kazanmıştır. Kalite yalnızca işletmenin ürettiği ürün boyutunda 
+düşünülmemekte, işletmenin kaynaklarını içine alacak şekilde kapsamı genişle-
+mektedir. 
+Çevrenin korunması: Üretimin doğal çevreyi bozmaması, tahrip etmemesi 
+konusu önem kazanmıştır. Ürünlerde kullanılan malzemelerin doğaya yeniden 
+dönüşüm oranının yüksek olması, başka deyişle, doğada kısa sürede kaybolarak 
+doğaya tekrar kazandırılması tercih edilmektedir. 
+Bilgi toplumu: Artan bilgi hacmi, bilgisayarların devreye girmesi imalata na-
+zaran bilgiye dayalı üretimi ön plana çıkarmıştır. Bilgi üretimi ve işlenmesi büyük 
+boyutlara ulaşmış, öte yandan rekabet ortamında hız ve zaman önem kazanmıştır. 
+Yönetim metotlarından yenilik: Tüm bu gelişmelere ayak uydurabilmek 
+açısından, yönetimde de büyük yenilikler gözlenmektedir. “Sıfır stok” veya “stok-
+suz üretim”, üretim yöntemlerinin esnek olması, üretim sistemlerinin modüler yapı-
+da ve çok kısa sürede değişikliklere cevap verecek nitelikte olması gibi kıstaslar bu 
+dönemin ana çizgilerini oluşturur. Bu bağlamda esnek imalat sistemleri, grup 
+teknolojisi, hücresel üretim, JIT (Just In Time) tam zamanında üretim gibi yeni 
+kavramlar üretim sistemlerine tanıştırılmıştır. 
+Sevil İmanova 
+ 
+ 72 
+6.5. Üretim Süreci 
+Üretim tanımının kapsamına yalnız bir malın fiziksel olarak üretilmesi girmez. 
+Üretim, mal ve hizmetlerin oluştuğu süreç olarak da tanımlanabilir. Bu anlamda, 
+üretim süreçlerine fabrikalar yanında hastanelerde, bürolarda, süpermarketlerde, 
+hava alanlarında ve benzeri yerlerde de rastlanır. 
+Bu tanımda da anlaşıldığı gibi genelde iki tür üretim süreci söz konusudur: 
+Mal üren süreçler, 
+Hizmet üreten süreçler. 
+Bu nedenle, üretim olayının yalnız fiziksel bir ürünün varlığı demek olmadığı 
+görüşü 1960’lardan sonra giderek yaygınlık kazanmıştır. Bazı yazılar üretim kavra-
+mının yanı sıra daha geniş kapsamlı bir “faaliyetler” sözcüğünden söz etmek-
+tedirler. Üretim sözcüğünün atölye teknolojisinin ve otomobil, çelik gibi fiziksel 
+ürünlerin imalini çağrıştırmasına karşılık, İngilizce “operations” teriminin karşılığı 
+olan faaliyetler sözcüğü; ister kamu olsun, ister özel olsun, kar amaçlı olan veya 
+olmayan, her hangi bir işletme içindeki mal veya hizmet üretimini kapsayan daha 
+geniş bir kavram olarak karşımıza çıkmaktadır. 
+6.5.1. Mal ve Hizmet Üretimi 
+Mal –hizmet ayırımının bazı durumlarda sanıldığı kadar kolay olmadığı söy-
+lenebilir. Örneğin, yazılım sektöründe program üretilmektedir. Burada hizmet 
+tarafı ağır basar. Menkul değerler alıp satan bir şirket kuşkusuz müşterileri için bir 
+yatırım hizmeti yapmaktadır. Bankacılık, sigortacılık sektörleri de parayı müşte-
+rilerinden alıp kullanmakta ve karşılığında bir hizmet sunmaktadır. Aynen bir otel 
+işletmesinin konaklama, lokantanın yemek, içki servisi vermesi, hastanenin sağlık 
+hizmeti sunmak gibi. 
+Yukarıda verdiğimiz örneklerin hemen hepsi klasik, bilinen örneklerdir. Bu-
+nunla beraber, günümüzde öylesine geniş bir ürün yelpazesi ile karşı karşıyayız ki, 
+bunları bir çırpıda gruplara ayırıp mal veya hizmet diye sınıflandırmanın güçlüğü 
+ortadadır. Bu konuda biraz daha düşündürücü bazı örnekler vermek de mümkündür: 
+YÖNETMENİN FİLM ÇEVİRMESİ→ çoğaltılması 
+Ressamın tablo yapması 
+Müzisyenin beste yapması 
+Şarkıcının plağa okuması  →  bant, video klip vb. 
+Yazarın roman, öykü yazması 
+Endüstri Mühendisliğine Giriş 
+ 
+ 73 
+Çevirmenin tercüme yapması 
+Heykeltıraşın anıt yapması 
+Tüm bu yapılanlar acaba hizmet mi sayılmalıdır yoksa mal mı? Örnekleri 
+biraz daha genişleterek söz gelimi; inşaat hizmet midir, yapım mı: sinema filmi, 
+müzik eseri (beste) hizmet midir, yoksa fiziksel bir meta mı? 
+Bu tür sorulara tam bir yanıt bulabilmek için mal ve hizmet üretimi arasında 
+kesin çizgilerle ayırabileceğimiz bazı kıstasları bilmekte yarar vardır. Her şeyden 
+önce mal fiziksel rahatlıkla algılanabilen, elle tutulabilen somut bir üründür, öte 
+yandan hizmet için aynı şeyleri söylemek olanaksızdır. Hizmetin cinsi çok değiş-
+ken olduğundan tek ve kolay  bir tanımı da verilemez. Örneğin, posta hizmeti mek-
+tupların veya basılı materyalin bir noktadan diğerine iletilmesini sağlayan bir hiz-
+mettir. Bu hizmete benzer hizmetler kurye ve kargo taşıma hizmetleridir. Çünkü 
+hepsinde materyal bir yerden diğerine aktarılmaktadır. Yolcu taşıma hizmetleri ola-
+rak niteleyebileceğimiz otomobil, uçak ve tren seyahatini de benzer hizmetler ola-
+rak görebiliriz. Çünkü hepsinde ürüne esas olan işlem; taşınacak nesnenin konu-
+munu değiştirmek, bir noktadan başka bir noktaya götürmektir. 
+Ayrıca, hizmet üretiminde ürünü stoklamak, saklamak olnaksızdır. Oysa ki, 
+mal üretiminde satılmayan ürün depolarda uzun süre saklanabilir. Hizmet üretimin-
+de örneğin bir uçak havalandıktan sonra boş koltukları doldurmak kesinlikle müm-
+kün olamayacağından telafisi olanaksız bir kayıp olarak tanımlamak yanlış olmaz. 
+Bu tür örnekler tablo 1’de gösterilmiştir: 
+İşletme cinsi Çıktısı 
+Döviz büfesi Bozdurulmuş döviz 
+Çöp toplama Toplanan çöpler 
+Kurye şirketleri Taşınan paketler 
+Seyahat acentesi Turlar, geziler 
+Telefon idaresi Telekomünikasyon 
+İthalat/ihracat Dış ticaret işlemleri 
+Kamuoyu araştırmaları Anketler 
+Dershaneler Eğitim, öğretim 
+Nakliye şirketi Taşıma 
+Gümrük komisyonculuğu Gümrükleme 
+Reklam ajansı Reklam kampanyası 
+Hastane, klinik Muayene, tedavi 
+Emlakçılık Emlak alım/satım 
+Medya işletmesi (radyo, TV) Yayın  
+Tablo 12.1. Hizmet üreten işletmeler 
+Sevil İmanova 
+ 
+ 74 
+Burada akla şöyle bir soru geliyor: Peki, tüm üretilen mal ve hizmetler üretim 
+yönetiminin kapsamı içine girer mi? kuşkusuz, kar amacı taşımayan sanat eserleri 
+(resim, müzik eserleri, tablolar, konserler) bu kapsamın dışında tutulmalıdır. 
+Askerlik gibi bir hizmet üretim sayılabilir mi? kuşkusuz hayır, çünkü üretimin 
+tanımından gelen en önemli husus, işletmeye de bir yarar sağlaması, yani kar elde 
+edilmesidir. 
+Bu noktada üretim sistemini ele almakta yarar bulunur. 
+6.6. Üretim Sisteminin tanımı 
+Üretim sistemi; ekonomik değeri olan bir ürünün yapımı için oluşturulan insan-
+makine-malzeme sistemi olarak, belli çeşit ve miktarda girdiyi alıp anlamlı bir çık-
+tıya dönüştüren sistemdir. Üretim sisteminin girdileri genel olarak beş grupta topla-
+nabilir: 
+1. Makina (machine) 
+2. Malzeme (material) 
+3. İnsan (men) 
+4. Sermaye (money) 
+5. Metot (method) 
+Üretim sisteminin temel elemanları olan unsurlara kısaca 5M adı verilir. 
+Üretim sisteminin temel elemanlarından biri makinedir. Makina veya üretim 
+araçları, tek veya genel amaçlı olur. Genel amaçlı makineler daha esnek yapıda olup 
+çeşitli ürün üretmeye elverişlidirler. Motor, torna, kaynak makineleri gibi araçla-
+rıdır. Bu araçlar bir veya birkaç işlemi yapabilirler. 
+Özel amaçlı makineler ise bir tek işi yapmak üzere programlanmışlardır. Bunu 
+genel amaçlı makinelerden daha çabuk yaparlar. Daha verimli çıktı üretirler. 
+Üretim sisteminin temel özelliği bir “dönüştürme” süreci içermesidir. Bu sü-
+reçle girdiler önceden belirlenen kurallara göre işlenmek süratiyle yine önceden 
+belirlenen bir çıktıyı oluştururlar. İşte bu karmaşık faaliyetlerin içinde yer aldığı, 
+dönüştürme ile ilgili tüm işlemlerin organize edildiği yapıda – ki bu yapı “kara 
+kutu” olarak anılır – yer alan işlemlere ilişkin kararların alınması ve yapılanması 
+üretim yönetiminin temel konusudur.  
+Üretim sistemlerinde amaç, kaliteli ve verimli bir çıktıyı ortaya koyabilmektir. 
+Üretim sistemlerinin çalışmalarını değerlendirmede kullanılan kriterler ise etkinlik, 
+üretkenlik, verimlilik gibi kavramlar olup her biri ayrı önem taşırlar.  
+ 
+ 75 
+ 
+ 
+BÖLÜM VII 
+KALİTE VE TOPLAM KALİTE YÖNETİMİ 
+ 
+7.1. Kalite Kavramı Nedir? 
+Kalite kelimesi son yıllarda slogan haline gelmiştir. Genellikle çok değişik 
+şekillerde kullanılmakta ve zaman zaman da yanlış anlaşılmalara neden olmaktadır. 
+Bunun için bu kavrama açıklık getirilmesinde yarar vardır. Bu amaçla aşağıdaki 
+açıklamalar yapılmıştır.  
+Kalite (Qualites) Latince “nasıl oluştuğu” anlamına gelen “quails” kelimesin-
+den gelmektedir. Esasta kalite sözcüğü hangi ürün ve hizmet için kullanılıyorsa, 
+onun gerçekte ne olduğunu belli etmek amacını taşımaktadır. Kalite, genel olarak 
+günlük konuşmalarda üstünlüğü ve iyiliği, diğer bir deyişle kaliteye konu olan ürün 
+ve hizmetin iyi niteliklerinin olduğunu belirtir. Bu bakımdan da kalite, sübjektif 
+(kişisel) değerleri içermektedir. Ancak hemen belirtmek gerekir ki, subjektif değer-
+lerndirmelerden oluşan kalite anlayışı ülkeden ülkeye, yaşam düzeyi, zevk, gele-
+nekler, toplumsal yapı, eğitim, prosedür gibi çok sayıda faktörlerin etkisi altında 
+değişik yapı göstermektedir. Bu nedenlerle tüketicinin ürün ve hizmetler için kul-
+landıkları kalite kelimesinin ifade edeceği anlamlar da farklı olabilmektedir. Bu 
+bakımdan herhangi bir ürünün üretiminde tüketicinin arayacağı niteliklerin gözö-
+nüne alınması gerekir. Bu açıdan da kalite subjektif bir kavramdır. Ancak ürünün 
+ölçülebilen, belirlenebilen ve coğu kez kalite standartları veya mevzuatlarla belir-
+lenen kalitesi ise objektif kalitedir. Esas olarak kalite sorusuna cevap verebilmek için 
+ürünün veya hizmetin sahip oldukları aşağıda anlatılan özellikleri bilmek gerekir. 
+1. Fonksiyonel Özellikler. Ürünün veya hizmetin belirli bir amacı yerine getire-
+bilmek için sahip olması gereken özellikler. 
+2. Kalite Özellikleri. Ürünün veya hizmetin daha iyi veya her zaman aynı şekilde 
+yapabilmesi için sahip olması gereken özellikler. 
+Fonksiyonel ozellikleri örnek olarak, bir vidanın boyutları, bir çelik levhanın 
+sertlik derecesi, bir ayakkabı tabanının esnekliği, bir ipliğin numara veya mukave-
+meti, bir kumaşın eni veya gramajı gibi sayılarla ifade edilebilen özellikler verile-
+bilir. Kalite özellikleri ise, vida boyunun belirli bir ölçüye uygunluğu, bir ayakka-
+bının derisinin uygunluk derecesi, bir kumaş boyunca görülebilecek gramaj deği-
+Sevil İmanova 
+ 
+ 76 
+şimleri, üretim hatalarının çeşitli partilerde rastlanan oranları gibi özelliklerdir. Bir 
+ürünün kaliteli oluşunda, çok zaman o ürünün bazı üstün özelliklere sahip olması 
+anlaşılır. 
+Kaliteli bir ürünü tanımlayacak olursak “Kaliteli bir ürün, fonksiyonel özel-
+likleri en dar değişim sınırları içinde istenilen değerlerde olan standart bir üretim 
+maddesidir.” 
+Kalite kavramı, zaman içinde, birbirinden farklı birçok şekilde tanımlanmıştır. 
+Bu tanımlardan, en fazla kullanılan birkaç tanesi aşağıda sıralanmıştır: 
+“Kalite, bir ürün ya da hizmetin değeridir. 
+Kalite, önceden belirlenmiş özelliklere uygunluktur. 
+Kalite, ihtiyaçlara uygunluktur. 
+Kalite, kullanıma uygunluktur. 
+Kalite, eksiklerden kaçınmaktır. 
+Kalite, müşteri beklentilerini karşılamak veya onların ilerisine geçmektir.” 
+Kalite, müşterinin beklentilerini ve isteklerini sürekli karşılayacak şekilde ürün 
+veya hizmet üretmektir. 
+Kaizen kavramını ortaya koyan Masaaki IMAI’nin kalite kavramına yaklaşımı 
+ise şöyledir: - “En genel anlamda kalite, geliştirilebilecek herşey demektir. Kali-
+teden söz ederken ilk akla gelen, ürünün ya da hizmetin kalitesi olmaktadır. Kaizen 
+stratejisi kapsamında incelenirse, hiçbir ürün veya hizmet, tasarlanmış olduğu sevi-
+yenin ilerisine geçemez. Burada, tasarım yapan insan olduğuna göre, insanın kali-
+tesi ile ilgilenilmelidir. 
+İşi oluşturan üç yapı taşı; donanım, yazılım ve insan kaynaklarıdır. Ancak, 
+insan faktörü yerine tam oturduktan sonra işin donanım ve yazılımla ilgili kısımları 
+ele alınmalıdır. İnsanların içinde kalteyi oluşturmak, Kaizen bilincini edinmelerine 
+yardım etmek demektir.” 
+Kalite, genelde planlanabilir ve organize edilebilir olup, talimatlarla seviye-
+sinin yükseltilmesi, gözlem ve kontrollerle de güvence altına alınması gerekir. 
+Kaliteyi ölçmeye çalışırken, kalite tarifine iki boyutta bakılabilir. Bunlardan 
+birincisi müşterinin tatmini, diğeri ise üretimde hatasızlıktır. 
+Olaya müşteri tatmini olarak bakıldığında yükse kalite satış hasılatını yüksel-
+tir, ancak bu sırada maliyetlerde de artış görülmesi kuvvetle muhtemeldir. 
+Üretimdeki hatasızlık ise yeniden işleme, hurda ve ya çöpe atma masraflarını 
+azaltmaktadır. İstatistiki kalite kontrol yöntemleri, her türlü testin maliyetini azalt-
+makta, kapasite kullanımını ve verimliliği artırmaktadır. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 77 
+Norichi Kano, kaliteyi tanımlamak için iki boyutlu bir model geliştirmiştir. 
+Kalite ile ilgili boyutlardan biri “mecburi kalite”, diğeri ise “cazip kalite”dir. 
+Mecburi kalite müşterinin üründen mutlak beklentilerini ifade eder. Eğer bu 
+karşılanmazsa müşteri tatmin olmaz. Örneğin; ürün güvenliği, kullanım kolaylığı. 
+Cazip kalite ise mevcut beklentilerin üzerine, müşterinin beklmediği ve talep 
+etmediği ve hakkında önceden fikir sahibi olmadığı özelliklerle ilgilidir. Binek 
+otomobillerinde, ani darbelere karşı hava yastığı geliştirilmesi buna örnektir. Cazip 
+kalite, bir süre sonra müşterinin benimsemesi ve talebi ile mecburi kalite halini alır. 
+Toplam kalite anlayışı, mükemmel tasarlanmış, her iki boyuttaki kaliteyi içeren bir 
+ürün veya hizmeti öngörür. 
+Performans 
+Performans, ürünün işlem yetenekleriyle ilgilidir. Örneğin; bir televizyon için 
+ses ve görüntü netliği, renk ve uzak istasyonları alabilme yeteneği gibi özellikler. 
+Kalitenin bu boyutu ölçülebilir olduğundan, markalar nesnel olarak performans 
+ölçütlerine göre sıralanabilirler.  
+Özellikler 
+Ürün ve hizmetin temel fonksiyonlarını destekleyen veya onların tanıtımını 
+yapan iş karakterelerdir. Televizyondaki otomatik arama yetenekleri buna örnektir. 
+Güvenirlik 
+Belirli bir süre içinde ürünün bozulma olasılığı ile ilgilidir. Güvenirlik ölçütle-
+rinden bazıları; birinci arızaya kadar geçen zaman, arızalar arasındaki zaman ve 
+birim zamandaki arıza sayısıdır. Bu kriterler, daha çok dayanıklı tüketim mallarına 
+yöneliktir. Atıl zamanın maliyeti arttıkça ve bakım pahalılaştıkça, güvenirliğin 
+önemi artmaktadır. 
+Uygunluk 
+Bir ürünün tasarımının ve kullanım karakterlerinin standartlara uyma oranıdır. 
+Dayanıklık 
+Dayanaıklık, teknik olarak, bir ürünün bozulancaya kadar kullanım miktarıdır. 
+Servis olanakları 
+Servis olanaklarının kapsamında, onarım hızı, kolaylığı ve gereken ustalık 
+vardır. 
+Sevil İmanova 
+ 
+ 78 
+Estetik 
+Estetik, öznel yargılara dayanır ve kişilere ait zevkin yansımasıdır. Evrensel 
+değildir. Herkesi memnun etmek imkansız olduğundan, şirketler hedef müşteri 
+grupları belirler. 
+Algılanan kalite 
+Müşteriler her zaman bir ürün ya da hizmetin tüm özelliklerini bilmediklerin-
+den dolayı karşılaştırmalar yapmak zorunda kalabilirler. Üretici firmanın ya da 
+ürünün ünü, algılanan kalitenin özüdür. 
+İşletmeler, kalite ile ilgili çalışmalar yaparken, kalitenin tüm boyutlarını 
+dikkate almak zorundadırlar. 
+Herhangi bir mamülün nihai kalitesini oluşturan ve mamulün kalitesini 
+doğrudan etkileyen faktörler vardır. Bu faktörler: 
+• Proje ve tasarım kalitesi 
+• Teknik ve mühendislik hesap kalitesi 
+• Hammadde kalitesi 
+• İmalat kalitesi 
+• İşçilik kalitesi 
+• Kontrol kalitesi 
+• Ambalaj kalitesi 
+• Depolama ve sevkiyat kalitesi 
+• Kullanım kalitesidir. 
+Kalite, şu üç unsurunun etkileşimi ile ölçülmelidir: 
+1. Ürünün kendisi 
+2. Kullanıcı, ürün kullanılışı, yerleştirilmesi, ona dikkat etme miktarı ve 
+ondan ne beklediği 
+3. Kullanma talimatları, müşterinin ve tamircinin eğitimi, tamirler için sağla-
+nan servis, parçaların bulunabilirliği. 
+Kullanış amacının ve Fiyatının gözönünde alınması gerekir.  
+Ancak bir ürünün kalite düzeyinin önce tasarlanması ve sonra üretimle beraber 
+gerçekleşmesi sözkonusu olduğuna göre, tüm faktörleri iki temel unsur üzerinde 
+toplamak mümkündür. Bunlardan Tasarım kalitesi bir ürünün genel olarak tüketici-
+lerin isteklerini karşılama derecesidir. Uygunluk kalitesi ise belirli bir ürünün 
+üretildiği zaman kendisi için tasarlanan kalite düzeyine uyma derecesidir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 79 
+7.2. Toplam Kalite Yönetimi  
+Toplam Kalite Yönetimi’nden bahsetmeden önce kavramların daha iyi açıklık 
+kazanması amacıyla Toplam Kalite ve Toplam Kalite Kontrol’dan bahsetmek isa-
+betli olacaktır. Her ne kadar bu üç kavram birbirini açıklar mahiyette ise de 
+anlatmakta fayda vardır. 
+7.2.1. Toplam Kalite Kavramı 
+Toplam Kalite, bir işletmede yapılan bütün işlerde, müşteri isteklerini karşı-
+layabilmek için şart olan yönetim, insan, yapılan iş, ürün ve hizmet kalitelerinin, 
+bir sistem yaklaşımı içerisinde, tüm çalışanların katılımı, hedef ve fikir birlikleri 
+sağlanarak ele alınması ve geliştirilmesidir. 
+Müşterilerin mevcut ve ileride oluşacak beklentileri üretime ve mamul tasarı-
+mına ışık tutmalıdır. 
+Toplam Kalite yaklaşımına göre kalite, bir yaşam tarzı ve bir bakış açısı olma-
+lıdır. Kişinin çalışmasıylai işletmesiyle, kısaca yaşamla bütünleşmesidir. 
+Günümüzde pazarlar kaliteli (hatasız, beklenen uygun, mükemmel) ürünleri ve 
+hizmetleri kanıksamaya başlarken, kalitenin ikinci boyutu olan tasarım öne çık-
+makta, müşterilerin beğenisini kazanan yeni, çeşitli ve farklı fonksiyonlar içeren 
+ürünleri en çabuk biçimde pazara çıkarabilenler kazanmaktadır. 
+Kuvvetli bir medya kampanyası, herangi bir ürün için müthiş bir talep sağla-
+yabilir. Ancak bu ürünü ilk tanıtımı ve ilk satışları için etkili olur. Müşterilerin 
+kalıcılığı ve satışların sürekliliği, ancak, iyi bir fiyat ve kalite kombinasyonu ile 
+sürdürülebilir. 
+Günümüzde, istenilen kalite düzeyinin uygun fiyatlarla beraber sağlanması 
+için Toplam Kalite yaklaşımı gündeme gelmiştir. Toplam Kalite modelinin öğeleri: 
+1. Önlemeye Dönük Yaklaşım. 
+Toplam Kalite modelinin temelinde, “hataları ayıklamak” yerine “hata yapma-
+mak” yaklaşımı vardır. 
+2. Ölçüm ve İstatistik 
+Ölçülemeyen şey geliştirilemez. Bu nedenle, ölçüm ve istatistik, Toplam Ka-
+lite’nin vazgeçilmez parçalardır. İstatistiğin vazgeçilmez önemi, aşağıdaki neden-
+lerden kaynaklanmaktadır. 
+a. Doğal olayların tümünde değişkenlik vardır. Bu değişkenliği ölçe 
+bilmek için istatistiğe başvurmak şartır. 
+Sevil İmanova 
+ 
+ 80 
+b. Hataların çok büyük bir bölümü değişkenlikten kaynaklanır. İstatistik 
+biliminin tekniklerini uygulayarak değişkenliğin özellikleri incelenir ve 
+hataların kaynakları bu yolla tesbit edilebilir. 
+c. İstatistik teknikleri analize yardımcı olduğu gibi, iletişimi de kolaylaş-
+tırır, konuya farklı açılardan bakan kişilerin aynı dili konuşmasına 
+imkan sağlar. 
+d. İstatistiksel düşünme alışkanlığını geliştirmek, gerek yönetici, gerekse 
+teknik personel için son derece yararlıdır. 
+3. Grup Çalışması 
+Çalışma gruplarının temel amacı, işin yapılma yöntemini irdelemek ve geliş-
+tirmek. İşlevleri ve yararları, aşağıdaki gibi sıralanabilir: 
+a. “İşletme körlüğü”nü aşmada en etkili yöntem, grup çalışmasıdır. Birey-
+lerin bulamadıkları sistem aksaklıklarını, gruplar kolayca bulabilirler. 
+b. Bu tür çalışmalar, kişilerin teknik bilgilerini geliştirir, işini daha iyi 
+anlamasına ve konuya bütünsel bakmasına yardımcı olur. 
+c. Çalışanların sorun çözme alışkanlıklarını geliştirir. 
+d. Çalışanlara iletişim alışkanlıkları yerleştirir. 
+e. Yaratıcılığı geliştirir ve teşvik eder. 
+f. Takım anlayışını yerleştirir. 
+g. Kişisel ilikileri ve etkileşimi güçlendirir. 
+h. Ekonomik analiz, çağdaş yönetim ve katılımcı karar verme anlayışını 
+geliştirir. 
+i. Kişilerin işlerini seven, başardıkları ile gurur duyan insanlar olmalarına 
+yardımcı olur. 
+4. Sürekli Gelişme 
+Hedef belli bir standardı tutturmak değil, seviyeyi, o seviye ne olursa olsun, 
+sürekli ve hızlı bir tempoda geliştirmektir. Sürekli gelişmede Dr. W.A.Shewhart 
+tarafından ortaya atılıp 1950 yılında Dr. E.W. Deming tarafından özümsenerek 
+Japonya’ya aktarılan P-U-K-D- çevriminin yeri büyüktür. 
+5. Yönetim Modeli. 
+Toplam Kalite kavramının beraberinde getirdiği kendine özel bir yönetim mo-
+deli vardır. Toplam Kalite Yönetimi başlığı altında bu model ayrıntılarıyla anla-
+tılacaktır. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 81 
+7.2.2. Toplam Kalite Kontrol Kavramı 
+Toplam Kalite Kontroli, tüketici isteklerini en ekonomik düzeyde karşılamak 
+amacıyla işletme içindeki pazarlama, mühendislik, imalat ve müşteri hizmeleri gibi 
+çeşitli ünitelerin kalitelerini oluşturulması, yaşatılması ve gelitirilmesi yolundaki 
+çabaların birleştirp koordine eden etkin bir sistem şeklinde tarif edilmektedir. 
+1960’lı yıllarda 2. Dünya Savaşının yaralarını saran sanayileşmiş ülkeler, 
+giderek yoğunlaşan bir rekabet ortamını da yaratırlar. Korumacılığın azalması, 
+ekonomilerin liberalleşmesi ve uluslararası ticaretin yaygınlaşması ile şriketlerde 
+ortak ölçüde global sratejiler istemeye başladılar. 
+Teknlojik gelişmenin henüz yaygınlaşmadığı dönemlerde rekabet gücünün 
+temel öğesi üretim üstünlüğü oluyordu. Geniş pazarlarda büyük hacimde üretimle 
+açılabilen şirketler kitle üretimi ve ölçek ekonomisinin avantajlarından azami 
+oranda yararlanarak rakiplerini geride bırakıyorlardı. 
+1970 li yıllar tekonolojisinin yaygınlaştığı ve 3. Dünya ülkelerine de girdiği 
+bir dönem oldu. Maliyetle rekabet olarak tanımlayabileceğimiz 1970 li yıllarda pek 
+çok Batı’lı firmanın üretimlerini geliştirmekte olan ülkelere kaydırmasına şahit 
+olduk. 
+1980 li yıllar ise rekabete yeni bir boyut getirdi: Kalite pek çok yönden tatmin 
+olmuş ve yüksek satın alma gücüne sahip kitleler artık ucuz ve bol ürünlere doy-
+muştu. Bu kitleleri ancak kaliteli ürünler cezb edebiliyordu. Kaliteli ürünlere olan 
+talep Batı’da oluştu. Fakat arz artan oranda Doğu’dan özellikle de Japonya’dan 
+kaynaklandı. Kaliteli ürünlere olan talep patlmasına paralel olarak Japonya’nın 
+ihracatı kısa sürede görülmemiş boyutta arttı. 
+1990 lı yıllarda rekabete yeni bir unsur daha eklendi, o da hız, pazarlar kaliteli 
+(hatasız, beklenen uygun, mukemmel) ürünleri ve hizmetler kanıksamaya başlar-
+ken, kalitenin ikinci boyutu olan tasarım öne çıkıyor, müşterinin beğenisini kaza-
+nan yeni, çeşitli ve farklı fonksiyonlar içeren ürünleri en çabuk biçimde pazara 
+çıkarabilen kazanıyor. 
+“Üretimle rekabet” öğesi 1980 lı yıllarda mahiyet değiştirdi; önceki yıllarda 
+önemli olan büyük hacim, ölçek ekonomisi, kitlesel / standart üretimin yerini: 
+esnek üretim, ürün çeşitliliği, küçük hacimde ekonomi ve dikey entegrasyondan 
+uzaklaştırarak asli ihtisaslaşma aldı. 
+Bu yeni ortamda başarılı olabilen kuruluşları incelediğimizde, bunların ortak 
+özelliklerinin Toplam Kalite Kontrol felsefesini ve onun getirdiği yaklaşımı benim-
+seyen şirketler olduğunu görüyoruz. 
+Sevil İmanova 
+ 
+ 82 
+“Toplam Kalite Kontrol” müşterilerin memnunluk duyarak satın alacaklaarı 
+ürün ve hizmetlerin geliştirilmesi, tasarımı, üretimi, pazarlanması ve satış sonrası 
+hizmetin maliyet düşürülerek yapılmasıdır. Bu hedeflere ulaşmak için bir kurulu-
+şun bütün kısımları (üsy yönetim, merkez bürosu, fabrikalar, üretim, tasarım, 
+teknik araştırma, planlama, Pazar araştırmaası, muhasebe, malzeme, ambar, satış, 
+personel, endüstri münasebetleri ve genel işler) beraberce çalışmalıdır. Kuruluşun 
+bütün kısımları işbirliğini kolaylaştıracak sistemleri kurmak ve standartları hazır-
+lamak ve uygulamak için gayret sarfetmelidir. Bu ancak; istatisitik, teknik metod-
+lar, standart ve kurallar, bilgisayar metodları, otomatik kontrol, cihazların kontrolu, 
+ölçü kontrolu, yöneylem araştırması, endüstri mühendisliği, Pazar araştırması gibi 
+teknik bilgilerin tam olarak kullanılması ile temin edilebilir. 
+7.2.3. Toplam Kalite Yönetimi  
+TKY bir yönetim sistemidir, bir programlar serisi değil. TKY’nin parçası ola-
+rak sunulan takımlardan çoğu, her organizasyonda başarılı bir şekilde uygulana-
+bilir, ancak günlük operasyonların boyut ve önceliklerini değiştirmeksizin tam 
+beklentiler elde edilemez. Toplam Kalite Yönetiminin başarılı olması için tüm 
+organizasyon tarafından benimsenmesi ve yukarıdan aşağıya tam bir kararlılıkla 
+uygulanması gereklidir. 
+Toplam Kalite Yönetimi, genel bir yönetim felsefesidir. Özel bir ortam için 
+ayarlanabilir ve Toplam Kalite Yönetimini uygulamak için onu benimseyen işlet-
+melerin sayısı kadar değişik yollar vardır. Gerçi bunlar bir ortak hedefi paylaş-
+maktadrılar. Organizasyondaki herkes, ürün ve hizmetlerin müşterilerin beklenti-
+lerini devamlı olarak karşılaması veya aşması için sürekli olarak çalışmaktadır. Ürün 
+ve hizmetlerin sürekli gelişimi için iyi tanımlanmış süreçler kullanılmaktadır. 
+Toplam Kalite Yönetimi, müşteri memnuniyetini kardan önce gören bir sis-
+temdir. Müşteri memnuniyeti uzun vadeli karlar getirir, fakat sadece kara öncelik 
+vermek ancak kısa vadede kazandırır. Toplam Kalite Yönetimi; işin hedeflerine 
+memnun müşteriler ve mutlu çalışanlar oluşturarak ulaşmak için kullanılan felsefe, 
+takım ve süreçlerin entegre bir setini kapsayan bir sistemdir. 
+Toplam Kalite Yönetiminin kuruluşunu oluşturan dört ana eleman vardır; 
+İnsan, Sürekli gelişim, Süreç ve Müşteri.  
+İnsan- Hedef, insanlara yetki vererek ekip çalışmasından optimal sonuçların 
+elde edilmesini sağlamaktadır. Bu hedefin yolu; iletişim hünerleri, karşılıklı etki-
+leşim hünerleri ve etkili toplantı yapma hünerleri üzerinde yoğunlaşan eğitim ile 
+başlar. Bu gibi bir eğitim, insanların grup aktiviteleri içerisinde etkin rol alarak ürün 
+Endüstri Mühendisliğine Giriş 
+ 
+ 83 
+ve süreçlerin sürekli gelişmine katkıda bulunmalarını sağlar. Daha ileri eğitim ise, 
+çalışanların yetkilendirmek için temel oluşturan ileri düzeydeki ekip çalışmasına 
+götürür. 
+Sürekli Gelişim- Problemlerin ana nedenlerini bulmak için “Niçin?” sorusu-
+nun beş defa sorulmasıyla uygun kararlar verebilmesine yardımcı olacak bilgilerin 
+toplanması oluşturmaktadır; Planla, Uygula, Kontro et, Devam et veya Değiştir. Bu 
+çevrimin tekrarlanması, mükemmeliğin hiç bitmeyen arayışıdır. Standardizasyon, 
+başarılı uygulamaların dökümantasyon ve eğitimin kullanımıyla standart operasyon 
+modu olarak belirlenmesi sürecidir. 
+Süreç- Problem Çözme Süreci ve Kalite Geliştirme Süreci, sürekli gelişim için 
+temel takımları ve ortak bir dili sağlamaktadır. 
+Bir ekip, bir problemi analiz ederken PÇS’yi rehber olarak kullanır, çözümleri 
+seçer, bir aksiyon planı geliştirir ve uygulama sonuçlarını değerlendirir. Bu değer-
+lendirme, ekibin yeniden ve uygulama sonuçlarını değerlendirir. Bu değerlendirme, 
+ekibin yeniden birinci basamaktan başlayıp sonucu tekrar incelemesine veya 
+orijinal problemin çözülmesiyle ortaya çıkan yeni problemlerin belirlemesine sebep 
+olur. 
+KGS’nin kullanımı dikkatin müşteri ve mişteri ihtiyaçları üzerine yoğunlaş-
+masına yardım eder. KGS; müşteri ihtiyaçlarını bir spesifikasyon sürecine dönüş-
+türmek için adım adım uygulama bir prosedürü tanımlamaktadır. PÇS’de olduğu 
+gibi, PUKD kavramı merkezidir. Nihai netice değerlendirir ve sürekli gelişimin 
+elde edilmesine KGS tekrarlanır. 
+Mukayese Süreci (Benchmarking Process), “sınıfın en iyisi” rolündeki model-
+lerin tanınmasını ve birbirine benzeyen metodların benimsemesine teşvik eder. 
+Mukayese sürecinin kullanılması, en iyi işletmelerin performanslarını karşılamaya 
+çalışmasında dolayı Toplam Kalite Yönetimini gerçekten stratejik yapmaktır. 
+Üretkenlik ve kalite gelişimini sağlamak için Toplam Kalite Yönetimi’nin par-
+çası olarak kullanılan birçok başka takım da vardır. Bu ileri takımlar hem daha 
+özeldir hem de kullanımları için insanların özel olarak eğitilmeleri gereklidir. 
+Müşteri- Toplam Kalite Yönetimi’deki birinci odak noktası müşteri ve müşteri 
+memnuniyetidir. Dr. Noriaki Kano; müşteri memnuniyeti açısından kalitenin beş 
+temel öğesini önermektedir. Bu beş öğenin üç tanesi özel bir öneme sahiptir: Bek-
+lenen kalite, tatmin eden kalite ve memnun eden kalite. (Diğer ikisi önemsenmeyen 
+kalite ve ters kalite) 
+Sevil İmanova 
+ 
+ 84 
+Beklenen kalite, müşterinin beklediği ve dolayısıyla ayrıca talep etmeye gerek 
+duymadığı özellik veya karakteristikleri belirtir. Bu özellikler bulunduğunda, müş-
+teri memnuniyetsizlik göstermez, fakat bu özellikler olmadığından müşteri memnun 
+olmaz. 
+Tatmin eden kalite, müşterinin özel olarak talep ettiği özellik veya karakte-
+ristikleri belirler. Bu özellikler bulunmadığında müşteri tatmin olmaz. Tatmin eden 
+kalite müşteri beklentilerini karşılar, ancak aşmaz. 
+Memnun eden kalite, müşterinin istemediği çünkü varlığından haberdar olma-
+dığı özellik ve karakteristikleri belirtir. Bu özellikler bulunduğunda, müşteri çok 
+memnun olar; bu özellikler bulunmadığında, müşteri memnuniyetsizlik göstermez. 
+Memnun eden kalite müşterinin beklentilerini karşılar ve onu memnun eder. 
+Beklenen kalite müşteri memnuniyetsizliğini önleyebilmelidir. Tatmin eden 
+kalite müşterinin beklentilerini karşılayarak onları tatmin edecek şekilde olmalıdır. 
+Memnun eden kalite müşteri beklentileri aşarak onları memnun etmelidir. Müşteri 
+memnuniyeti ürün ve hizmet farkının anahtarıdır. 
+7.2.4. Yeni Yönetim Anlayışı 
+Toplam Kalite Yönetimi, klasik anlamdaki yönetim anlayışının alternatifi ola-
+rak doğan, gelişen ve gelişmini devam ettiren bir anlayışın bugünkü adıdır. 
+Toplam Kalite Yönetimi, müşteri beklentilerini herşeyin üzerinde tutan ve 
+müşteri tarafından tanımlanan kaliteyi, tüm faaliyetlerinin yürütülmesi sırasında 
+ürün ve/ veya hizmet bünyesinde oluşturan bir yönetim biçimidir. 
+Toplam Kalite Yönetimi, müşterilerin ihtiyaçlarını her şeyin üzerinde tutarak 
+en iyi şekilde karşılamaya çalışan bir yaklaşım biçim olduğu kadar maliyetleri de 
+düşüren bir yönetim tarzıdır, diğer bir deyişle, Toplam Kalite Yönetimi, hatalı 
+mamül üretimin önlemeyi hedefler; böylece bir taraftan müşteri hatasız ürünlere 
+sahip olur memnun olurken, diğer taraftan da üretici kuruluşun (hatalı üretimden 
+kaynaklanan) maliyeti düşer. 
+Toplam Kalite Yönetimi, mamül kalitesi veya ürettiğimiz her ne ise onun 
+kalitesinden ziyade sistemin tüm elemanlarının ve sistem içindeki tüm müşterilerin 
+tatmin olduğu bir kalite sistemidir. Bu sistem en tepedeki yöneticiden en alttaki 
+çalışana kadar, tüm insanların bir sorumluluğu paylaştığı bir sistemdir. Çok yoğun 
+bir şekilde insana yönelen bir sistem anlayışıdır. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 85 
+Toplam Kalite Yönetimi, organizasyonun etkinliğindeki, verimliliğindeki ve 
+süreçlerindeki devamlı kendisine tamamen müşteri tatminine adayan organizasyon-
+ları kuran bir yönetim felsefesidir. 
+Toplam Kalite Yönetimi, müşterinin en ekonomik düzeyde tam olarak tatmin 
+edilmesi için, şirket içindeki pazarlama, mühendislik, satınalma, üretim, kontrol, 
+satış ve servis faaliyetlerinin organize edilerek, kalitenin oluşturulmasını, sürek-
+liliğini, geliştirilmesi ve takibini temin edecek etkin bir sistemin gerçekleştirilme-
+sidir. 
+Kalite Yönetimi, genel yönetim fonksiyonunun kalite politikasını tespit eden 
+ve uygulayan bölümüdür. Hedeflenen kalitenin gerçekleştirilmesi için kuruluşun 
+bütün üyelerinin, sorumluluğu üst yönetime ait olan kalite yönetiminde katılımı 
+gereklidir. Kalite Yönetimi, stratejik planlama, kaynakların tahsisi, kalite planla-
+ması, işletilmesi ve değerlendirilmesi gibi kalite için yapılan diğer sistematik 
+faaliyetleri kapsar. 
+Toplam Kalite Yönetimi, üst yönetimin büyük bir istekle işin içinde olmasını 
+ve gerçek desteğini ifade eder. Toplam Kalite sistemini yürütmek için yöneticiler, 
+bir yandan müşterilerin kalite gereksinimlerini almak, bu gereksinimleri karşılamak 
+ve hatalı ürünleri elimine etmek konularında yapılan çalışmalara katılırken, diğer 
+yandan da, gerekli politikaların belirlenmesi, tüm elemanların kendilerini bu po-
+litikalara yakın hissetmesi ve politika hedeflerine ulaşılmasının sağlanması konu-
+larında çalışır. 
+Liderlik tarzı, Toplam Kalite Yönetimi’ne ulaşma çabalarının başarı dere-
+cesiyle yakından ilgilidir. “Bu benim iş görme şekli ve yöntemimdir, hemen şimdi 
+kolayca değişemem” şeklindeki düşünceler doğru değildir, çünkü insanlar istedik-
+leri zaman değişebilirler ve eğer kalitenin hızla yükseldiği bir ortamda başarıya 
+ulaşmak istiyorlarsa, bunu gerçekleştirmelidirler. Liderlerin, beraber çalıştıkları in-
+sanların ne düşündüklerini ve nasıl davrandıklarını değerlendirmeden, her durumda 
+aynı liderlik tarzını kullanmaları yanlıştır. Duruma bağlı liderlik, kalite hareketinde 
+de işlemeleri ve insanları başarıya ulaştıracaktır. 
+TKY sisteminin temel teoremleri şunlarıdr: 
+• Toplam Kalite Yönetimi, üretim, mühendislik, pazarlama, satışlar ve tabii 
+ki üst yönetimi kapsayan tüm fonksiyonları ve grupları çevreleyen bir iş 
+felsefesidir. Üst yönetimin desteği olmazsa Toplam Kalite Yönetimi siste-
+mi bocalayacaktır. Gruplar arası iletişim, yüksek kalite için gerekli daya-
+nışmayı ve geri beslemeyi sağlayacaktır. 
+Sevil İmanova 
+ 
+ 86 
+• Toplam Kalite Yönetimi için önemli olan, müşteri isteklerinin karşılan-
+masıdır. Parola “devamlı gelişme”dir. Yönetim, özellikle başarıları daha 
+etkin tasarımlarla sonuçlanacak devamlı gelişmeleri fark etmelidir. Başarı-
+ların fark edilmesi, daha yüksek performansın elde edilmesini sağlayacaktır. 
+• Toplam Kalite Yönetimi, müşteri beklentilerini kapsayan ürünü üreten sü-
+reç ve ürün tasarımına ulaşmak için işçilerin birlik içinde çalışmasıyla elde 
+edilen devamlı gelişmedir. Müşteri istekleri devamlı arttığı için, mevcut 
+standartlar başlangıç noktası olarak alınarak, gelişmeyi sağlayabilecek fır-
+satlar belirlenmelidir. Eğer standartlar, müşteri isteklerinin üzerindeyse, 
+ürün, müşteriyi tamamen memnun edecektir. 
+• Toplam Kalite Yönetimi, ürün veya hizmetin güvenirlik ve kararlılığı geliş-
+tirmek için teknikler ve araçlar sağlar. Konrtol etme ve dengeleme sistemi 
+olarak Toplam Kalite Yönetimi, tasarım kriterlerinin dış müşteriyi tatmin 
+etmesi konusunda güvence verir. Performans ölçme sistemi, üretim ve tasa-
+rım gruplarına, performans ve güvenirlik hakkında geri beslemeler sağlar. 
+Kalitenin bir yönetici için ne kadar önemli olduğu, günlük programına bakıla-
+rak anlaşılır. Zamanının %90 üretim, %10’unu kalite konusuna harcayan yönetici-
+ler, öncelik verecekleri noktaları açıkça ortaya koyarlar. Gerçek görüş, söylenilen-
+lerle değil, yapılanlarla ortaya konulandır. 
+Amerikan işletmelerinin çoğunda, kıdemli yöneticiler, müşteri ile ilgili çalış-
+maya, sistem ile savaşmaya ve ikinci ve üçüncü defadan sonra aynı şeyleri yap-
+maya az zaman harcarlar. Onların daha düşük seviyedeki meslektaşları ise 
+müşterilerle ilgilenir ve işletme içindeki süreçler ve sistemler ile uğraşır. Toplam 
+kalite modelinde esas, "ilk defada doğruyu yapmak"tır. Bu nedenle, müşterinin 
+beklediği (hata beklentisinin ötesindeki) kalite, tasarım aşamasında gerçekleştirilir. 
+Bu kaliteyi tutturmak mümkün olsa da olmasa da, TKY, şikayetleri beklemeden, 
+yeni ve gelişmiş kalite arayışını sürdürür. Reaktif değil, proaktiftir. 
+Özellikle A.B.D.'de liderler, genellikle, kendi işlerinin kalitesi hakkında bir 
+karar verebilmek için gerekli bilgiyi elde edememektedirler. Satışlar, zamanında 
+karşılanan talepler, nakit akışı, kazançlar ve yatırımlarının getirişi konularında iyi 
+bilgi edinebildikleri halde, kaliteyi etkileyen faktörler hakkında hiçbir bilgiye 
+ulaşamamakta, belki de ulaşmayı istememektedirler. 
+Yukarıdaki tanımlarda da değinildiği gibi TKY bir performans artırma strateji 
+olup bir teknik değildir. TKY uygulama sürecine girmiş olan firmalarda toplam 
+performans artırma hedefi doğrultusunda çeşitli araç, teknik ve yöntemlerin kulla-
+nımı söz konusu olacaktır. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 87 
+Her kuruluş kendi TKY uygulama şeklini kendisi bulmalı ve bunu yönetim 
+strateji ile bütünleştirmelidir. Ancak bununla birlikte, bir kuruluşta TKY stratejisi 
+ve uygulamalarında söz edebilmek içîn dört kavram ve uygulamanın yerleşmiş 
+olması ve süreklilik kazanması gerekmektedir. Bu kavram ve uygulamalar yöne-
+tim anlayışındaki dört yenilik olarak da isimlendirilmekte olup, müşteri odak-
+lılık, sürekli iyileştirme, toplam katılımcılık ve toplumsal sorumluluktur. 
+1. TKY uygulayan firmalar müşteri odaklı olup, onların ihtiyaçlarının karşılan-
+masını esas alır. Bu nedenle hızla değişen müşteri ihtiyaç ve beklentileri 
+karşısındaki reaksiyon hızının yüksekliği firmanın müşteri ihtiyacını karşı-
+lamadaki yeterliliğini belirleyecektir. 
+2. TKY uygulayan firmalar üretilen mal ve hizmetleri, işletme süreçlerini ve 
+personeli sürekli iyileştirir ve geliştirirler. Sürekli iyileştirme kalitede sü-
+rekli mükemmellik arayışı, demek olup ulaşılan tüm hedefler plânlı ve siste-
+matik bir şekilde analiz edilerek nasıl aşılacağı araştırılır. 
+3. TKY uygulayan firmalar tüm personelin toplam katılımını sağlarlar. Katı-
+lımcılık herkesin işini daha iyi yapabilmesi, müşteri tatmini ve sürekli 
+iyileştirmenin sağlanabilmesi için haberleşme, iletişim, eğitim, motivasyon 
+ve karar alma gücünün paylaşımı ile sağlanır. 
+4.  TKY uygulayan firmalar, bilinenlerin yeniden araştırılarak (tekerleğin yeni-
+den keşfi) vakit kaybını önlemek, kalite kültürünü değiştirmek ve kalite sağ-
+lama uygulamalarına hız kazandırmak amacı ile öğrenilenleri diğer firmalarla 
+paylaşırlar.  
+Yukarıda açıklanan bu dört yeniliğin uygulaması dört kademede gerçekle-
+şir: Bireysel, çalışma grubu, organizasyon, bölge/endüstri TKY uygulama kade-
+meleri ile yönetim anlayışında yaşanan dört yeniliğin belirli ölçüde paralellik 
+gösterdiği söylenebilir. 
+Bireysel düzeydeki TKY uygulamaları ile firma içinde, çalışanlar arasında 
+müşteri/tedarikçi anlayışına dayalı bir ilişki ve çalışma mekanizması yerleştirilir. 
+Böylece herkes kendisinden sonra gelen süreci müşteri olarak görüp onun 
+ihtiyaçlarını tam olarak karşılama çabası içinde olurken, müşteri ihtiyaçlarının 
+tatmini ile birlikte sürekli gelişme/ geliştirme anlayışı bireysel bazda gerçekleşmiş 
+olacaktır. 
+Grup düzeyindeki TKY uygulamaları tüm süreçlerde günlük işlerle iyileştir-
+me faaliyetlerinin birleştirilmesini gerektirecektir. Bunun için; ekip çalışması, 
+eğitim ve öğrenme ile birlikte organizasyonel yapıda ekipler ve çalışma gruplarının 
+Sevil İmanova 
+ 
+ 88 
+otonom olarak oluşabilmesine izin verebilecek bir yapılanma ve yönetim anla-
+yışına ihtiyaç duyulur. Grup düzeyindeki Toplam Kalite Yönetimi uygulamaları 
+bireysel düzeyde Toplam Kalite bilinç ve bilgisi gelişmiş kişiler tarafından yapı-
+labilir. Bir başka deyişle “bana ne yapacağım söylensin” diyen personel yerine 
+“ben ne yapacağımı bilirim” diyebilen personelden oluşan gruplar Toplam Kalite 
+Yönetimi’nin yenilikçi yönetim anlayışının firmanın tüm süreçlerine yayılımı ve 
+toplam katılımın sağlanması için sistematik bir hareket başlatılımış olur. 
+Endüstri sektör, bölgesel ya da ulusal düzeydeki Toplam Kalite Yönetimi 
+uygulamaları ise genellikle bireysel olarak kuruluşlar tarafından yürütülen kalite 
+kültür ve bilincinin geliştirilmesi amacı ile yapılan çalışmalardır. 
+Bu çalışmaların örneklerinde; kuruluşların bilgi paylaşma, öğrenilenlerin 
+öğretilmesi, kalite kültürünün geliştirerek yaygınlaştırılması, yan sanayi ilişkile-
+rinin geliştirilmesi, kalite sistemlerinin organizasyonu, tanıtımı vb. amaçlara so-
+rumluluğun gereklerinin yerine getirilmeye çalışıldığı görülmektedir. 
+ 
+ 
+ 89 
+ 
+ 
+BÖLÜM VIII 
+YAPAY ZEKA 
+8.1. Yapay Zekaya Genel Bakış 
+İdealize edilmiş bir yaklaşıma göre yapay zekâ, insan zekâsına özgü olan, al-
+gılama, öğrenme, çoğul kavramları bağlama, düşünme, fikir yürütme, sorun çözme, 
+iletişim kurma, çıkarımsama yapma ve karar verme gibi yüksek bilişsel fonksi-
+yonları veya otonom davranışları sergilemesi beklenen yapay bir işletim sistemi-
+dir. Bu sistem aynı zamanda düşüncelerinden tepkiler üretebilmeli (eyleyici Yapay 
+Zekâ) ve bu tepkileri fiziksel olarak dışa vurabilmelidir. 
+"Yapay zekâ" kavramının geçmişi modern bilgisayar bilimi kadar eskidir.Fikir 
+babası, "Makineler düşünebilir mi ?" sorunsalını ortaya atarak Makine Zekâsını tar-
+tışmaya açan Alan Mathison Turing'dir.1943 te II. Dünya Savaşı sırasında Kripto 
+Analizi gereksinimleri ile üretilen elektromekanik cihazlar sayesinde bilgisayar 
+bilimi ve yapay zekâ kavramları doğmuştur. 
+Alan Turing, Nazi'lerin Enigma makinesinin şifre algoritmasını çözmeye çalı-
+şan matematikçilerin en ünlenmiş olanlarından biriydi. İngiltere, Bletchley Park'ta 
+şifre çözme amacı ile başlatılan çalışmalar, Turing'in prensiplerini oluşturduğu bil-
+gisayar prototipleri olan Heath Robinson, Bombe Bilgisayarı ve Colossus Bilgisa-
+yarları, Boole cebirine dayanan veri işleme mantığı ile Makine Zekâsı kavramının 
+oluşmasına sebep olmuştu. 
+ 
+Şekil 8.1 Yapay Beyin 
+Sevil İmanova 
+ 
+ 90 
+Modern bilgisayarın atası olan bu makineler ve programlama mantıkları aslın-
+da insan zekâsından ilham almışlardı. Ancak sonraları, modern bilgisayarlarımız 
+daha çok uzman sistemler diyebileceğimiz programlar ile gündelik hayatımızın 
+sorunlarını çözmeye yönelik kullanım alanlarında daha çok yaygınlaştılar. 1970'li 
+yıllarda büyük bilgisayar üreticileri olan Microsoft, Apple, Xerox, IBM gibi 
+şirketler kişisel bilgisayar (PC Personal Computer) modeli ile bilgisayarı popüler 
+hale getirdiler ve yaygınlaştırdılar. Yapay zekâ çalışmaları ise daha dar bir araştır-
+ma çevresi tarafından geliştirilmeye devam etti. 
+Bu gün, bu çalışmaları teşvik etmek amacı ile Alan Turing'in adıyla anılan 
+Turing Testi ABD'de Loebner ödülleri adı altında Makine Zekâsına sahip yazı-
+lımların üzerinde uygulanarak başarılı olan yazılımlara ödüller dağıtılmaktadır. 
+Testin içeriği kısaca şöyledir: birbirini tanımayan birkaç insandan oluşan bir 
+denek grubu birbirleri ile ve bir yapay zekâ diyalog sistemi ile geçerli bir süre 
+sohbet etmektedirler. Birbirlerini yüz yüze görmeden yazışma yolu ile yapılan bu 
+sohbet sonunda deneklere sorulan sorular ile hangi deneğin insan hangisinin maki-
+ne zekâsı olduğunu saptamaları istenir. İlginçtir ki,şimdiye kadar yapılan testlerin 
+bir kısmında makine zekâsı insan zannedilirken gerçek insanlar makine zannedil-
+miştir. 
+Loebner Ödülünü kazanan Yapay Zekâ Diyalog sistemlerinin yeryüzündeki en 
+bilinen örneklerinden biri A.L.I.C.E|'dir.Carnegie üniversitesinden Dr.Richard 
+Wallace tarafından yazılmıştır.Bu ve benzeri yazılımlarının eleştiri toplamalarının 
+nedeni, testin ölçümlediği kriterlerin konuşmaya dayalı olmasından dolayı 
+programların ağırlıklı olarak diyalog sistemi (chatbot) olmalarıdır. 
+Yapay Zekanin Alt Dallari aşağıdaki gibi sıralanmıştır. 
+• Makine Zekâsı (Sembolik Yapay Zekâ)  
+• Yapay Sinir Ağları (Sibernetik Yapay Zekâ)  
+• Doğal Dil işleme (Dil ile düşünme)  
+• Konuşma Sentezi (Yapay Konuşma)  
+• Konuşma Anlama (Konuşma Analizi)  
+• Uzman sistemler  
+• Örüntü Tanıma  
+• Genetik Algoritmalar  
+• Genetik Programlama  
+• Bulanık Mantık  
+Bunlardan bazılarının açıklamaları ileride verilecektir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 91 
+8.1.1 İlk araştırmalar ve yapay sinir ağları 
+İdealize edilmiş tanımıyla yapay zekâ konusundaki ilk çalışmalardan biri 
+McCulloch ve Pitts tarafından yapılmıştır.Bu araştırmacıların önerdiği, yapay sinir 
+hücrelerini kullanan hesaplama modeli, önermeler mantığı, fizyoloji ve Turing'in 
+hesaplama kuramına dayanıyordu.Her hangi bir hesaplanabilir fonksiyonun sinir 
+hücrelerinden oluşan ağlarla hesaplanabileceğini ve mantıksal ve ve veya işlemle-
+rinin gerçekleştirilebileceğini gösterdiler.Bu ağ yapılarının uygun şekilde tanım-
+lanmaları halinde öğrenme becerisi kazanabileceğini de ileri sürdüler.d Hebb, sinir 
+hücreleri arasındaki bağlantıların şiddetlerini değiştirmek için basit bir kural 
+önerince, öğrenebilen yapay sinir ağlarını gerçekleştirmek de olası hale gelmiştir. 
+1950'lerde Shannon ve Turing bilgisayarlar için satranç programları yazı-
+yorlardı. İlk yapay sinir ağı temelli bilgisayar SNARC, MIT'de Minsky ve Edmonds 
+tarafından 1951'de yapıldı.Çalışmalarını Princeton Üniversitesi'nde sürdüren Mc 
+Carthy, Minsky, Shannon ve Rochester'le birlikte 1956 yılında Dartmouth'da iki 
+aylık bir açık çalışma düzenledi.Bu toplantıda birçok çalışmanın temelleri 
+atılmakla birlikte, toplantının en önemli özelliği Mc Carthy tarafından önerilen 
+Yapay zekâ adının konmasıdır. İlk kuram ispatlayan programlardan Logic Theorist 
+(Mantık kuramcısı) burada Newell ve Simon tarafından tanıtılmıştır. 
+Daha sonra Newell ve Simon, insan gibi düşünme yaklaşımına göre üretilmiş 
+ilk program olan Genel Sorun Çözücü (General Problem Solver)'ı geliştirmişler-
+dir. Simon, daha sonra fiziksel simge varsayımını ortaya atmış ve bu kuram, insan-
+dan bağımsız zeki sistemler yapma çalışmalarıyla uğraşanların hareket noktasını 
+oluşturmuştur.Simon'ın bu tanımlaması bilim adamlarının Yapay zekâya yakla-
+şımlarında iki farklı akımın ortaya çıktığını belirginleştirmesi açısından önemlidir: 
+Sembolik Yapay Zekâ ve Sibernetik Yapay Zekâ. 
+8.1.2 Sembolik yapay zekâ  
+Simon'ın sembolik yaklaşımından sonraki yıllarda mantık temelli çalışmalar 
+egemen olmuş ve programların başarımlarını göstermek için bir takım yapay 
+sorunlar ve dünyalar kullanılmıştır.Daha sonraları bu sorunlar gerçek yaşamı hiçbir 
+şekilde temsil etmeyen oyuncak dünyalar olmakla suçlanmış ve yapay zekânın 
+yalnızca bu alanlarda başarılı olabileceği ve gerçek yaşamdaki sorunların çözü-
+müne ölçeklenemeyeceği ileri sürülmüştür. 
+Geliştirilen programların gerçek sorunlarla karşılaşıldığında çok kötü bir 
+başarım göstermesinin ardındaki temel neden, bu programların yalnızca sentaktik 
+süreçleri benzeşimlendirerek, anlam çıkarma, bağlantı kurma ve fikir yürütme gibi 
+süreçler konusunda başarısız olmasıydı.Bu dönemin en ünlü programlarından 
+Sevil İmanova 
+ 
+ 92 
+Weizenbaum tarafından geliştirilen Eliza, karşısındaki ile sohbet edebiliyor gibi 
+görünmesine karşın, yalnızca karşısındaki insanın cümleleri üzerinde bazı işlemler 
+yapıyordu.İlk makine çevirisi çalışmaları sırasında benzeri yaklaşımlar kullanılıp 
+çok gülünç çevirilerle karşılaşılınca bu çalışmaların desteklenmesi durdurulmuştu. 
+Bu yetersizlikler aslında insan beynindeki semantik süreçlerin yeterince incelen-
+memesinden kaynaklanmaktaydı. 
+8.2. Yapay sinir ağları  
+Yapay sinir ağları (YSA), insan beyninin bilgi işleme teknolojisinden 
+esinlenerek geliştirilmiş bir bilgi işlem teknolojisidir. YSA ile basit biyolojik sinir 
+sisteminin çalışma şekli simüle edilir (benzetilir). Simüle edilen sinir hücreleri 
+nöronlar içerirler ve bu nöronlar çeşitli şekillerde birbirlerine bağlanarak ağı oluş-
+tururlar. Bu ağlar öğrenme, hafızaya alma ve veriler arasındaki ilişkiyi ortaya çı-
+karma kapasitesine sahiptirler. Diğer bir ifadeyle, YSA'lar, normalde bir insanın 
+düşünme ve gözlemlemeye yönelik doğal yeteneklerini gerektiren problemlere çö-
+züm üretmektedir. Bir insanın, düşünme ve gözlemleme yeteneklerini gerektiren 
+problemlere yönelik çözümler üretebilmesinin temel sebebi ise insan beyninin ve 
+dolayısıyla insanın sahip olduğu yaşayarak veya deneyerek öğrenme yeteneğidir. 
+Biyolojik sistemlerde öğrenme, nöronlar arasındaki sinaptik (synaptic) bağlan-
+tıların ayarlanması ile olur. Yani, insanlar doğumlarından itibaren bir yaşayarak 
+öğrenme süreci içerisine girerler. Bu süreç içinde beyin sürekli bir gelişme 
+göstermektedir. Yaşayıp tecrübe ettikçe sinaptik bağlantılar ayarlanır ve hatta yeni 
+bağlantılar oluşur. Bu sayede öğrenme gerçekleşir. Bu durum YSA için de geçer-
+lidir. Öğrenme, eğitme yoluyla örnekler kullanarak olur; başka bir deyişle, gerçek-
+leşme girdi/çıktı verilerinin işlenmesiyle, yani eğitme algoritmasının bu verileri 
+kullanarak bağlantı ağırlıklarını (weights of the synapses) bir yakınsama sağlanana 
+kadar, tekrar tekrar ayarlamasıyla olur. 
+                                 
+Şekil 8.2. Yapay Sinir Ağı 
+Endüstri Mühendisliğine Giriş 
+ 
+ 93 
+YSA'lar, ağırlıklandırılmış şekilde birbirlerine bağlanmış birçok işlem biri-
+minden (nöronlar) oluşan matematiksel sistemlerdir. Bir işlem birimi, aslında sık 
+sık transfer fonksiyonu olarak anılan bir denklemdir. Bu işlem birimi, diğer nöron-
+lardan sinyalleri alır; bunları birleştirir, dönüştürür ve sayısal bir sonuç ortaya çı-
+kartır. Genelde, işlem birimleri kabaca gerçek nöronlara karşılık gelirler ve bir ağ 
+içinde birbirlerine bağlanırlar; bu yapı da sinir ağlarını oluşturmaktadır. 
+Sinirsel (neural) hesaplamanın merkezinde dağıtılmış, adaptif ve doğrusal 
+olmayan işlem kavramları vardır. YSA'lar, geleneksel işlemcilerden farklı şekilde 
+işlem yapmaktadırlar. Geleneksel işlemcilerde, tek bir merkezi işlem birimi her 
+hareketi sırasıyla gerçekleştirir. YSA'lar ise herbiri büyük bir problemin bir parçası 
+ile ilgilenen, çok sayıda basit işlem birimlerinden oluşmaktadır. En basit şekilde, 
+bir işlem birimi, bir girdiyi bir ağırlık kümesi ile ağırlıklandırır, doğrusal olmayan 
+bir şekilde dönüşümünü sağlar ve bir çıktı değeri oluşturur. İlk bakışta, işlem 
+birimlerinin çalışma şekli yanıltıcı şekilde basittir. Sinirsel hesaplamanın gücü, 
+toplam işlem yükünü paylaşan işlem birimlerinin birbirleri arasındaki yoğun bağ-
+lantı yapısından gelmektedir. Bu sistemlerde geri yayılım metoduyla daha sağlıklı 
+öğrenme sağlanmaktadır. 
+Çoğu YSA'da, benzer karakteristiğe sahip nöronlar tabakalar halinde yapılan-
+dırılırlar ve transfer fonksiyonları eş zamanlı olarak çalıştırılırlar. Hemen hemen tüm 
+ağlar, veri alan nöronlara ve çıktı üreten nöronlara sahiptirler. 
+YSA'nın ana öğesi olan matematiksel fonksiyon, ağın mimarisi tarafından 
+şekillendirilir. Daha açık bir şekilde ifade etmek gerekirse, fonksiyonun temel 
+yapısını ağırlıkların büyüklüğü ve işlem elemanlarının işlem şekli belirler. YSA'-
+ların davranışları, yani girdi veriyi çıktı veriye nasıl ilişkilendirdikleri, ilk olarak 
+nöronların transfer fonksiyonlarından, nasıl birbirlerine bağlandıklarından ve bu 
+bağlantıların ağırlıklarından etkilenir. 
+Yapay sinir ağlarının üstünlüklerinin yanı sıra bazı sakıncaları da vardır. Bu 
+sakıncalar şu şekilde listelenebilir: 
+• Sistem içerisinde ne olduğu bilinemez.  
+• Bazı ağlar hariç kararlılık analizleri yapılamaz.  
+• Farklı sistemlere uygulanması zor olabilir.  
+8.3.  Uzman sistemler  
+Her iki akımın da uğradığı başarısızlıklar, her sorunu çözecek genel amaçlı 
+sistemler yerine belirli bir uzmanlık alanındaki bilgiyle donatılmış programları 
+kullanma fikrinin gelişmesine sebep oldu ve bu durum yapay zekâ alanında yeni-
+Sevil İmanova 
+ 
+ 94 
+den bir canlanmaya yol açtı. Kısa sürede Uzman sistemler adı verilen bir meto-
+doloji gelişti. Fakat burada çok sık rastlanan tipik bir durum, bir otomobilin tamiri 
+için önerilerde bulunan uzman sistem programının otomobilin ne işe yaradığından 
+haberi olmamasıydı. Buna rağmen uzman sistemlerin başarıları beraberinde ilk 
+ticari uygulamaları da getirdi. 
+Yapay zekâ yavaş yavaş bir endüstri hâline geliyordu. DEC tarafından 
+kullanılan ve müşteri siparişlerine göre donanım seçimi yapan R1 adlı uzman 
+sistem şirkete bir yılda 40 milyon dolarlık tasarruf sağlamıştı. Birden diğer ülke-
+lerde yapay zekâyı yeniden keşfettiler ve araştırmalara büyük kaynaklar ayrılmaya 
+başlandı. 1988'de yapay zekâ endüstrisinin cirosu 2 milyar dolara ulaşmıştı. 
+8.4. Doğal dil işleme 
+Antropoloji bilimi, gelişmiş insan zekâsı ile dil arasındaki bağlantıyı gözler 
+önüne serdiğinde, dil üzerinden yürütülen yapay zekâ çalışmaları tekrar önem 
+kazandı. İnsan zekâsının doğrudan doğruya kavramlarla düşünmediği, dil ile 
+düşündüğü, dil kodları olan kelimeler ile kavramlar arasında bağlantı kurduğu 
+anlaşıldı.Bu sayede insan aklı kavramlar ile düşünen hayvan beyninden daha hızlı 
+işlem yapabilmekteydi ve dil dizgeleri olan cümleler yani şablonlar ile etkili bir 
+öğrenmeye ve bilgisini soyut olarak genişletebilme yeteneğine sahip olmuş-
+tu.İnsanların iletişimde kullandıkları Türkçe, İngilizce gibi doğal dilleri anlayan 
+bilgisayarlar konusundaki çalışmalar hızlanmaya başladı.Önce, yine Uzman sis-
+temler olarak karşımıza çıkan doğal dil anlayan programlar, daha sonra Sembolik 
+Yapay Zekâ ile ilgilenenler arasında ilgiyle karşılandı ve yazılım alanındaki 
+gelişmeler sayesinde İngilizce olan A.I.M.L (Artificial intelligence Markup 
+Language) ve Türkçe T.Y.İ.D (Türkçe Yapay Zekâ İşaretleme Dili) gibi bilgisayar 
+dilleri ile sentaktik Örüntü işlemine uygun veri erişim metodları geliştirilebildi. 
+Bugün Sembolik Yapay Zekâ araştırmacıları özel Yapay Zekâ dillerini 
+kullanarak verileri birbiri ile ilişkilendirebilmekte, geliştirilen özel prosedürler 
+sayesinde anlam çıkarma ve çıkarımsama yapma gibi ileri seviye bilişsel fonk-
+siyonları benzetimlendirmeye çalışmaktadırlar. 
+Bütün bu gelişmelerin ve süreçlerin sonunda bir grup yapay zekâ araştır-
+macısı, insan gibi düşünebilen sistemleri araştırmaya devam ederken, diğer bir grup 
+ise ticari değeri olan rasyonel karar alan sistemler (Uzman sistemler) üzerine 
+yoğunlaştı. 
+ 
+Endüstri Mühendisliğine Giriş 
+ 
+ 95 
+8.5. Bulanık Mantık 
+Bulanık mantık, 1961 yılında Lütfi Askerzade'nin yayınladığı bir makalenin 
+sonucu oluşmuş bir mantık yapısıdır. 
+Bulanık mantığın temeli bulanık küme ve alt kümelere dayanır. Klasik yak-
+laşımda bir varlık ya kümenin elemanıdır ya da değildir. Matematiksel olarak ifade 
+edildiğinde varlık küme ile olan üyelik ilişkisi bakımından kümenin elemanı oldu-
+ğunda "1", kümenin elemanı olmadığı zaman "0" değerini alır. Bulanık mantık 
+klasik küme gösteriminin genişletilmesidir. Bulanık varlık kümesinde her bir varlı-
+ğın üyelik derecesi vardır. Varlıkların üyelik derecesi, (0, 1) aralığında herhangi bir 
+değer olabilir ve üyelik fonksiyonu M(x) ile gösterilir . 
+ 
+Şekil 8.3. Sıcaklığın bulanık mantıkla üyelik fonksiyonu 
+Örnek olarak normal oda sıcaklığını 23 derece olarak kabul edersek klasik 
+küme kuramına göre 23 derecenin üzerindeki sıcaklık derecelerini sıcak olarak 
+kabul ederiz ve bu derecelerin sıcak kümesindeki üyelik dereceleri "1" olur. 23 
+altındaki sıcaklık dereceleri ise soğuktur ve sıcak kümesindeki üyelik dereceleri 
+"0" olur. Soğuk kümesini temel aldığımızda bu değerler tersine döner. Bulanık 
+küme yaklaşımında üyelik değerleri [0,1] aralığında değerler almaktadır. Örneğin 
+14 derecelik sıcaklık için üyelik derecesi "0", 23 sıcaklık derecesi için üyelik değeri 
+"0,25" olabilir. 
+“doğru”, ”çok doğru”, ”az çok doğru” v.b. gibi sözel olarak ifade edilen 
+(linguistik-dilsel-değişkenli) doğruluk derecelerine sahip olması, Geçerliliği kesin 
+değil fakat yaklaşık olan çıkarım kurallarına sahip olması, Her kavramın bir derecesi 
+olması, Her mantıksal sistemin bulanıklaştırılabilmesi, Bulanık mantıkta bilginin, 
+bulanık kısıtlara ait değişkenlerin esnekliği veya denkliğiyle yorumlanması. 
+Klasik kümelerin aksine bulanık kümelerde elemanların üyelik dereceleri [0, 
+1] aralığında sonsuz sayıda değişebilir. Bunlar üyeliğin derecelerinin devamlı ve 
+aralıksız bütünüyle bir kümedir. Keskin kümelerdeki soğuk-sıcak, hızlı-yavaş, 
+aydınlık-karanlık gibi ikili değişkenler, bulanık mantıkta biraz soğuk, biraz sıcak, 
+Sevil İmanova 
+ 
+ 96 
+biraz karanlık gibi esnek niteleyicilerle yumuşatılarak gerçek dünyaya benzetilir. 
+En önemli fark, böyle bir çatıda bilginin kaynağındaki küme üyeliğinin kesin ta-
+nımlanmış önkoşullarının olmayışı ve daha çok problemlerle rasgele değişkenlerin 
+hazır bulunmasındadır. 
+Bir şeyin varlığı kendisine ait bir isimle doğar. Evrendekilerin tamamı hem 
+(ya) tek (1) hem de (ya da) sonsuz eksi tektir (sonsuz -1). 
+Klasik mantık ile bulanık mantık arasındaki temel farklılıklar : 
+Klasik Mantık Bulanık Mantık 
+A veya A Değil A ve A Değil 
+Kesin Kısmi 
+Hepsi veya Hiçbiri Belirli Derecelerde 
+0 veya 1 0 ve 1 Arasında Süreklilik 
+İkili Birimler Bulanık Birimler 
+Yapay zeka uygulaması olarak bulanık mantık 
+Bulanık mantık bir yapay zeka uygulaması oluşturma prensibidir. Bulanık 
+mantıkta temel olan bir sonuca varmaktır. Normal bir programın yapısı: 
+• Temel girdiler → Program → Sabit bir sonuç şeklindedir. Oysa ki bir bula-
+nık mantık uygulaması:  
+• Sayısı belli olmayan veri yığını → Program → Girdilere ve varsayıma göre 
+değişken bir veya birden fazla sonuç şeklindedir. Bir bulanık mantık 
+uygulamasındaki sonuç, aynı girdiler olsa bile değişik bir sonuç döndürebilir 
+ve bir öbek halinde veriyi alabilir. Bulanık mantıktaki özellik bunun hari-
+cinde verilen verilerin örnekleme mantığı ile alınması ve tümü simgelediği 
+varsayımı yapılması ve buna göre bir olasılık değerinin elde edilmesidir.  
+8.6. Gelecekte yapay zeka 
+Gelecekte yapay zekâ araştırmalarındaki tüm alanların birleşeceğini öngörmek 
+zor değildir. Sibernetik bir yaklaşımla modellenmiş bir Yapay Beyin, Sembolik 
+bir yaklaşımla insan aklına benzetilmiş bilişsel süreçler ve Yapay Bilinç sistemi, 
+insan aklı kadar esnek ve duyguları olan bir İrade (Karar alma yetisi), Uzman 
+sistemler kadar yetkin bir bilgi birikimi ve rasyonel yaklaşım.Bunların dengeli 
+bir karışımı sayesinde Yapay Zeka, gelecekte insan zekâsına bir alternatif oluş-
+turabilir. 
+Endüstri Mühendisliğine Giriş 
+ 
+ 97 
+Bilginin hesaplanması matematiksel gelişme ile mümkün olabilir. Çok yüksek 
+döngü gerektiren problemlerin çözümü, Satranç oyununda en iyi hamleyi hesap-
+lamak veya görüntü çözümleme işlemlerinde bilgiyi saymak yerine hesaplamak 
+süreti ile sonuca ulaşılabilir. 
+Yeni matematik kuantum parçacık davranışlarını açıklayacağı gibi kuantum 
+bilgisayarın yapılmasına olanak verir . 
+Yapay zeka uygulamaları gün geçtikçe gelişmeye ve insan zekasını yakala-
+maya doğru adım adım ilerlemektedir. 
+Bilişim uzmanları, bir insanın hepsi aynı anda paralel olarak çalışan 100 
+trilyon nötron bağlantısının toplam hesap gücünün alt sınırı olan saniyede 10 
+katrilyon hesap düzeyine 2025'te erişeceğini düşünüyorlar. 
+Beynin bellek kapasitesine gelince, 100 trilyon bağlantının her birine 10.000 
+bit bilgi depolama gereksinimi tanınırsa, toplam kapasite 10^18 düzeyine çıkıyor. 
+2020 ye gelindiğinde insan beyninin işlevselliğine erişmiş bir bilgisayarın fiyatının 
+1000 dolar olacağı tahmin ediliyor. 2030'da 1000 dolarlık bir bilgisayarın bellek 
+kapasitesi 1000 insanın belleğine eşit olacak. 2050'de ise yine 1000 dolara, dün-
+yadaki tüm insanların beyin gücünden daha fazlasını satın alabileceksiniz. 
+ 
+ 98 
+KAYNAKLAR 
+1. Abdullah Doğan; Yapay zeka; İstanbul 2002 
+2. Aykut Top; Üretim Sisemleri: Analiz ve Tasarım; Istanbul 1996 
+3. Bülent KOBU Prof. Dr. Müh.; Üretim Yönetimi; İstanbul 1994 
+4. Çağatay Güler, Prof.Dr.; Sağlık Boyutuyla Ergonomi; Ankara 2004 
+5. Eide-Jenison-Mashaw-Nortup; Engineering Fundamentals and Problem Solving; McGraw-Hill 
+Higher Education 2002 
+6. Kenan OKAN; İş Güvenliği; Ankara 1990 
+7. Mehmet TANYAŞ. Doç. Dr.; Endüstri Mühendisliğine Giriş; İstanbul 1995 
+8. Muhittin ŞİMŞEK Yrd. Doç. Dr.; Kalite Yönetimi, İstanbul 1999 
+9. Muhittin ŞİMŞEK Yrd. Doç. Dr.; Mühendislikte Ergonomik Faktörler; İstanbul 1994 
+10. Mustafa KURT Doç. Dr., Arş. Gör. Metin Dağdeviren; İş Etüdü; Gazi Kitabevi 2003 
+11. Necmettin ERKAN Dr.; Ergonomi Verilmlilik, Sağlık ve Güvenlik için İnsan Faktörü Mühen-
+disliği; Anakara 1997 
+12. Nesime ACAR; Üretim Planlaması, Yöntem ve Uygulamaları; Anakara 1996 
+13. Oygur YAMAK Yrd. Doç. Dr.; Üretim Yönetimi Sistemler, İlkeler ve Teknikler; İstanbul 1994 
+14. Philip E. HİCKS; Industrial Engineering and Management; McGRAW-HILL INTERNATİONAL 
+Editions 1999 
+15. R.S. BRIDGER; Introduction to Ergonomics; McGRAW-HILL INTERNATİONAL Editions 1995 
+16. Yapı Endüstrisi Eğitim Kurulu; İş Güvenliği; Ankara 1995 
+17. Yücel ÇAĞLAYAN, Dr. Ahmet KILINÇ; İş Güvenliği; İstanbul 1992 
+ 
+ 

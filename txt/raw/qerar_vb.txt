@@ -1,0 +1,29 @@
+vBooks mobil proqramını yaratmaq qərarı nə ilə bağlıdır 
+ 
+Gündəlik həyatın dinamikasının artması və vaxt çatışmazlığı şəraitində istifadəçilər 
+(potensial oxucular) internet portallarından, saytlardan və başqa mənbələrdən 
+informasiyanın alınması üçün mobil qurğulardan istifadə edilməsinə daha çox üstünlük 
+verirlər. 
+ 
+Bəzən müəyyən obyektlər (konkret halda elektron kitablar) haqqında bu və ya digər 
+informasiyanı tapmaq mümkün olmadığına görə, axtarışı məhz elə seqmentdə aparmaq 
+lazımdır ki, istifadəçini (oxucunu) maraqlandıran informasiya bilavasitə həmin 
+seqmentdə yerləşir. İstifadəçilərin müəyyən hərəkətlərinə uyğunlaşdırılmış mobil 
+proqramlar bu cür informasiyanı intuitiv olaraq rahat və operativ tapmağa imkan verir. 
+Digər tərəfdən, mobil qurğular praktik olaraq istənilən yerdə şəbəkəyə daxil olmağa 
+imkan verir. Bu amil, əlbəttə informasiyanın əlyetərliyi baxımından da böyük üstünlük 
+malikdir, yəni istifadəçi istədiyi vaxt həmin informasiyanı operativ şəkildə əldə edə 
+bilər. 
+ 
+Məlumdur ki, mobil qurğular (smartfonlar, planşetlər və s.) həmişə əl altında olur və 
+onlardan istifadə etmək imkanı fərdi kompüter və ya noutbukla müqayisədə qat-qat 
+artıqdır. Məhz bu fakt bizi “Android” platformalı smartfonlar üçün Virtual kitabxananın 
+proqram təminatını yaratmağa vadar etdi. 
+ 
+Biz bütün dünyada smartfonlardan istifadə haqqında statistikanı öyrənəndən sonra 
+“Android” platformasının xeyrinə seçim etdik. 
+ 
+Bütün dünyada istifadə edilən smartfonların ümumi sayını 100% qəbul etsək, bu 
+göstəricinin 80%-dən çox hissəsi “Android”lərin payına düşür.  
+ 
+ 

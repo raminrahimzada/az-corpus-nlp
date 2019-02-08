@@ -1,0 +1,2832 @@
+AZƏRBAYCAN RESPUBLİKASI TƏHSİL NAZİRLİYİ 
+ 
+AZƏRBAYCAN DÖVLƏT AQRAR UNİVERSİTETİ 
+ 
+ 
+ 
+ 
+ 
+ 
+“MATERİALŞÜNASLIQ, KONSTRUKSİYA 
+MATERİALLARI TEXNOLOGİYASI  
+VƏ ELEKTROTEXNİKİ MATERİALLAR” 
+FƏNNİNDƏN  
+ 
+ 
+ 
+ 
+LABORATORİYA İŞLƏRİ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GƏNCƏ– 2013 
+ 1 
+ Dərs vəsaiti Azərbaycan Dövlət Aqrar Universitetinin Elmi 
+Şurasının qərarı (25.12.2012-ci il tarixli 05/3.5  saylı 
+protokolu) ilə nəşr olunması tövsiyə edilmiş, Azərbaycan 
+Respublikası Təhsil Nazirliyinin 27.02.2013-cü il tarixli 324 
+saylı əmri ilə qrif verilmişdir. 
+Müəlliflər: ADAU-nun Elektrik mühəndisliyi kafedrasının 
+prof.O.H.Məmmədov, Energetika kafedrasının müdiri 
+İ.C.Kərimov, Gəncə  elektrik Şəbəkəsinin aparıcı mühəndisi 
+Z.O.Məmmədov və mühəndis-elektrik M.V.Məmmədova. 
+Rəy verənlər: AzTU-n “Avtomatika və idarəetmə” kafed-
+rasının müdiri R.M. Hacıyev və ADAU-n “Maşın mühəndisliyi  
+və standartlaşdırma” kafedrasının dosenti E.M.Məmmədov. 
+UOT 621.315.62.004 (075.8) 
+Materialşünaslıq, konstruyksiya materialları texnologi-
+yası və elektrotexniki materiallar (Modul 2) fənnindən la-
+boratoriya işləri. Dərs vəsaiti.                           2013, 87  səh. 
+Dərs vəsaiti bakalavr təhsil səviyyəsində Aqrar 
+mühəndislik -050706 ixtisası üzrə təhsil alan tələbələr üçün 
+nəzərdə tutulub.  
+Dərs vəsaitində “Materialşünaslıq, konstruksiya material-
+ları texnologiyası və elektrotexniki materiallar” fənninin 
+(modul-2) Elektrotexniki materiallar hissəsindən laboratoriya 
+işlərinin yerinə yetirilmə metodikası, sınaqların aparılmasına 
+ümumi tələblər və bu zaman tələb olunan təhlükəsizlik texnikası 
+qaydaları ətraflı verilib. 
+İxtisasın Dövlət Standartının tələblərinə uyğun olaraq dərs 
+vəsaitində tərtib olunmuş fənnin proqramında verilən hər bir 
+laboratoriya işində işin məqsədi, yerinə yetrilmə ardıcıllığı və 
+metodikası, sınaq nəticələrinin işlənilməsi və hesabatın tələb 
+olunan məzmunu verilir.  
+Dərs vəsaiti elektrik mühəndisliyi və elektroenergetika mü-
+həndisliyi ixtisasları üzrə təhsil alan bakalavrlar, magistrlər və 
+həmçinin  istehsalatda çalışan mühəndis-texniki işçilər üçün də 
+faydalı ola bilər.  
+ 
+ 2 
+GİRİŞ 
+ 
+Hazırda respublikanın kənd təsərrüfatı tələbedicilərinin 
+elektrik təchizatı tamamilə Dövlət enerji sistemindən təmin 
+olunur. Bununla yanaşı qeyd olunmalıdır ki, kənd təsərrüfatın-
+da elektrik təchizatının etibarlılığı hələ əsasən tamamilə təmin 
+olunmayıb və bir problem kimi qarşıda durmaqdadır. Müəyyən 
+edilmişdir ki, kənd elektrik şəbəkələrində müxtəlif səbəblərdən 
+baş verən çoxsaylı zədələnmələrdən tələbedicilərin elektrik təc-
+hizatında ciddi fasilələr baş verərək etibarlılığın aşağı düşməsi-
+nə səbəb olur. 
+İstismar təcrübələri ilə müəyyən olunub ki, elektrik tələb-
+edicilərində baş verən qəza və planlı açılmaların 80%-ə qədəri 
+hava xətləri ilə əlaqədar olur. 
+Uzun illərdir ki, kənd elektrik şəbəkələrində etibarlılığı 
+yüksəltmək üçün elmi işçilər və istismarçılar tərəfindən daimi 
+texniki-təşkilatı tədbirlər işlənib həyata keçirilir. 
+Bu tədbirlərin həyata keçirilməsində əsas məsələlərdən biri 
+elektrik təchizatı qurğularının və elektrik avadanlığının əsas 
+elementlərinin təşkil olunduqları elektrotexniki materialların 
+düzgün seçilib səmərəli istifadə olunmasıdır. 
+Elektrotexniki materiallar elektrik və maqnit sahələrinə 
+münasibətdə müəyyən xüsusiyyətlərlə xarakterizə olunan və bu 
+xüsusiyyətlər nəzərə alınmaqla elektrotexnikada tətbiq edilən 
+materiallardır. Bunlar xüsusi materiallar olmaqla bütün elektro-
+texniki avadanlıq, qurğu və məmulatların hazırlanmasında, tə-
+mir və istismarında istifadə olunur. Qeyd olunduğu kimi elek-
+trik avadanlığı, qurğu və məmulatların istismar prosesində eti-
+barlı işi onlarda tətbiq edilən elektrotexniki materialların key-
+fiyyətindən asılıdır.  
+Elektrotexniki materiallar olaraq əsasən elektrik izolyasiya, 
+keçirici, yarımkeçirici və maqnit materiallarından istifadə olu-
+nur. 
+Yeni texnika üçün müasir avadanlıqların işlənilməsi və bu-
+ 3 
+raxılması əhəmiyyətli dərəcədə mütərəqqi elektrotexniki mate-
+rialların tətbiqindən asılıdır. Müvafiq elektrotexniki materialla-
+rın ancaq səmərəli seçilməsi halında artırılmış xüsusi xarakte-
+ristikalı və yüksək istismar etibarlılıqlı yeni elektrik avadanlıq-
+ları yaratmaq olar. 
+Müasir şəraitdə inkişaf etmiş energetikanın və elektrikləş-
+mənin bütün qurğuları və onların elementləri müxtəlif xassəli 
+elektrotexniki materiallardan hazırlanmışdır. Bu qurğu və ele-
+mentlərin istismar prosesindəki etibarlı və fasiləsiz işi elektro-
+texniki materialların xassələrindən asılıdır. Belə ki, elektrik 
+avadanlıqlarının sıradan çıxmaları və hər hansı zədələnmənin 
+baş verməsi əsas etibarı ilə onlarda istifadə olunan materialların 
+keyfiyyətindən asılıdır.  
+Buna görə də istismar prosesində yaradılan və həyata keçi-
+rilən bütün texniki və təşkilatı tədbirlər, başqa sözlə mühəndis 
+fəaliyyəti məhz  elektrotexniki materialların saz  vəziyyətdə 
+saxlanmasına və işləməsinə istiqamətlənir. Bütün yuxarıda gös-
+tərilənlərin uğurla həyata keçirilməsi işində əsas etibarı ilə 
+elektrik qurğularında ən zərif və məsuliyyətli element olan 
+izolyasiya materiallarının xarakteristikalarına müntəzəm olaraq 
+nəzarət edilməsi ən vacib və əsas istismar əməliyyatlarından 
+hesab olunur. 
+Elektrotexniki materiallar fənninin öyrənilməsində mühazi-
+rə dərslərindəki müəyyən nəzəri biliklərin zənginləşdirilməsi 
+üçün fənnin işçi və tədris proqramlarına uyğun olaraq laborato-
+riya işlərindəki məsələlərin öyrənilməsinin mühüm əhəmiyyəti 
+vardır. 
+Tələbələrin “Elektrotexniki materiallar” laboratoriyasında 
+yerinə yetirdikləri işlər bu kursun öyrənilməsində ən vacib va-
+sitələrdən biridir. 
+Tələbələr tərəfindən laboratoriya işlərinin yerinə yetirilmə-
+sində məqsəd elektritexniki materialların tətbiqinin əsas prin-
+siplərini və qanunauyğunluqlarını təcrübi olaraq mənimsəmək 
+və həm də daha yaxşı başa düşməkdir.  
+ 4 
+Laboratoriya işlərinin yerinə yetirilmə prosesində tələbələ-
+rin sxemlərin yığılması, elektrotexniki materiallar nümunəsi ilə 
+tanış olmaq və sınaq əməliyyatlarının yerinə yetirilməsi, elek-
+trik avadanlığının etibarlılığının təmin olunması sahəsində 
+praktiki vərdişlərin mənilsənilməsi də əsas əhəmiyyətə malik-
+dir.  
+Bundan başqa tələbələrin laboratoriyada işi həm də elektro-
+texniki materialların  sınaq texnikası və metodikasını  mənim-
+səmək və təcrübə qiymətləri əsasında onlara qiymət verməyi 
+öyrənməkdən ibarətdir.  
+Tələbələr tərəfindən elektrotexniki materialların xarakteris-
+tikalarının çıxarılması və əsas parametrlərinin təyininə əsasla-
+nan aparılan sınaqlar nəticəsində onların xüsusiyyətləri müəy-
+yən edilir.  
+Sınaq vaxtı iki metoddan istifadə olunur: birbaşa və vasitəli 
+metod. 
+Birbaşa metodda axtarılan kəmiyyət təcrübənin aparılma 
+prosesində ölçüçür.Bu zaman çox hallarda tənzimləmə qurğu-
+sunun olması tələb olunur ki, sınaq aparmaq çox vaxt və elek-
+trik enerjisi itgisi ilə əlaqədar olur. Buna görə də bir başa sınaq 
+metodu bir qayda olaraq yüklənmələri çətinlik yaratmayan ki-
+çik güclü elektrik avadanlığında istifadə olunur.  
+Vasitəli metodla təcrübə prosesindəki sınaqlarda axtarılan 
+kəmiyyət deyil, analitik üsulla təyin olunan digər kəmiyyətlər 
+ölçülür. Vasitəli metod o zaman tətbiq olunur ki, təcrübənin 
+sxemi kifayət qədər sadə olsun və onun aparılması böyük enerji 
+və vaxt itgisi ilə əlaqədar olmasın, sınaq nəticilərinin işlənilmə-
+si xüsusi çətinlik yaratmasın, son nəticələr isə kifayət qədər də-
+qiq olsun.  
+Ən geniş yayılmış vasitəli metod sınaqlar zamanı tətbiq 
+olunan yüksüz işləmə və qısa qapanma metodudur. 
+Sınaqlar prosesində elektrotexniki materialların bir sıra pa-
+rametrlərinin standartın tələblərinə uyğunluğunu müəyyən 
+etmək üçün onlar təyin olunmalıdır.  
+ 5 
+LABORATORİYA İŞLƏRİNİN YERİNƏ 
+YETİRİLMƏ METODİKASI 
+ 
+Hər bir laboratoriya işinin yerinə yetirilməsinə aşağıdakılar 
+daxildir: 
+-laboratoriya işinin proqram və məzmunu ilə ilkin tanış ol-
+maq; 
+-laboratoriya işi ilə iş yerində tanış olmaq; 
+-cihazların seçilməsi və sxemin yığılması; 
+-təcrübənin aparılması; 
+-iş haqqında hesabatın tərtibi. 
+Hər bir laboratoriya işini  bir qayda olaraq üç–dörd tələbə-
+dən ibarət işçi briqada yerinə yetirir. Ona görə ki, elektrik ava-
+danlığı ilə sınaq apararkən eyni zamanda bir neçə kəmiyyətlə-
+rin (gərginlik, cərəyan, güc, tezlik, fırlanma sürəti və s.) ölçül-
+məsi lazım gəlir. 
+Laboratoriya işini müvəffəqiyyətlə yerinə yetirmək üçün 
+hər bir tələbə əvvəlcədən işin proqramı ilə tanış olmalı və veri-
+lən laboratoriya işini əhatə edən tövsiyyə olunan dərslik və dərs 
+vəsaitlərinin müvafiq nəzəri bölməsini mənimsəməlidir.  
+Tələbə özünün işçi dəftərinə bəndlər üzrə işin yerinə yetir-
+mə planını yazır, təcrübələrin sxemini çəkir, təcrübələrin nəti-
+cələri yazılan cədvəlləri və formulaları hazırlayır. 
+Bu hazırlıqları hər bir tələbə sərbəst olaraq laboratoriya 
+dərslərindən kənar vaxtlarda aparır. 
+Hazırlıq nəticəsində tələbə laboratoriya işinin planı həc-
+mində nəzəri materialı mənimsəməli, sxemləri və təcrübələrin 
+aparılma ardıcıllığını, elektrik avadanlığında baş verən fiziki 
+prosesləri və gözlənilən nəticələrin xarakterini bilməlidir. 
+Tələbə dərsin əvvəlində işçi dəftərini məşğələnin rehbərinə 
+göstərir ki, bu da onun işin həllinə buraxılması üçün əsas şərt-
+lərdən biridir.  Bundan başqa müəllim şifahi sorğu ilə təəbənin 
+işin həllinə hazırlıq dərəcəsini də yoxlayır. 
+Laboratoriya işinin həllinə hazır olmayan tələbə işin yeri-
+ 6 
+nə yetrilməsinə buraxılmır. 
+Məşğələnin rəhbəri tərəfindən işə buraxılan briqada iş ye-
+rində laboratoriya işi ilə tanış olmağa başlayır. Hər şeydən əv-
+vəl elektrik avadanlığının konstruktiv xüsusiyyətlərini müəy-
+yən etmək və xarici baxışla aşkar oluna bilən nasazlıqlar ara-
+dan qaldırıllır. 
+Elektrik ölçü cihazları, yükləmə, işəburaxma və tənzimlə-
+yici reostatlar sınaqdan keçrilən elektrik avadanlığının nominal 
+göstəricilərinə əsasən seçilir. 
+Təcrübə aparmaq üçün seçilmiş cihaz və aparatlar iş yerin-
+də elə yerləşdirilməlidir ki, ölçülən kəmiyyətlərin təyini zamanı 
+istifadəsi əlverişli olsun, quraşdırma sxemi isə elə olmalıdır ki, 
+birləşdirmə məftillərinin sayı minimum olsun. 
+Ölçü cihazlarının yerləşdirilməsi zamanı nəzərə almaq 
+lazımdır ki, elektrodinamik və elektromaqnit sistemli cihazlar 
+xarici maqnit sahəsinin təsirənə məruz qala bilər. Buna görə də 
+onlar bu sahənin təsir sferasından kənarda yerləşdirilməlidir, 
+əks halda ölçü zamanı əlavə xətalar ola bilər.  
+Sxemi yığmazdan qabaq elektrik avadanlığının hansı sıxac-
+larının sxemin ayrı–ayrı nöqtələrinə uyğunluğu, reostat və tən-
+zimləyicilərin işə buraxma və işçi rejimlərinə müvafiq olması 
+müəyyənləşdirilir. 
+Birləşdirici məftillərin en kəsiyi onlardan axan cərəyana 
+görə seçilməlidir. 
+Sxemin yığılma qaydası aşağıdakı kimi olmalıdır. 
+Sxemə uyğun olaraq elektrik enerji mənbəyinin bir sıxacın-
+dan başlayıb baş ardıcıl dövrənin bütün elementləri birləşdirilir 
+və mənbəyin digər sıxacında başa çatdırılır. Bundan sonra bü-
+tün köməkçi və paralel dövrələr yığılır. 
+Sxemi yığarkən kontaktlarda birləşmələrin bağlanma sıxa-
+cına diqqət yetriməlidir, belə ki, möhkəm bağlanmayan kon-
+taktlar ölçü zamanı artıq xətalar alınmasına, əlavə güc itgisinə, 
+birləşmə yerlərinin qızmasına səbəb olur. 
+Sxemin yığılmasında bütün briqada üzvüləri iştirak etməli-
+ 7 
+dirlər. Sxemi bir və ya iki tələbə yığırsa, briqadanın qalan üz-
+vüləri sxemin yığılmasını izləməklə, sonda onun yoxlanmasın-
+da iştirak edirlər. 
+Sxemin yığılmasının sonuncu mərhələsi ölçü cihazlarının 
+göstərici əqrəblərinin vəziyyətinin yoxlanılmasıdır. Bütün ci-
+hazların əqrəbləri sıfır vəziyyətində olmalıdır. Əks halda onla-
+rın vəziyyəti korrektor vasitəsilə düzəldirilməlidir. 
+Yığılmış sxem məşğələ rəhbəri və ya onun iştirakı ilə 
+briqada üzvülərinin biri tərəfindən mütləq yoxlanılmalıdır. 
+Ancaq belə yoxlamadan sonra sxemi gərginliyə qoşmaq olar. 
+Sxemi işə qoşma anında ölçü cihazlarının göstərişlərini müşa-
+hidə etmək lazımdır. Əgər cihazın əqrəbi meyl etməzsə və ya 
+şkalanı bu və ya digər tərəfə həddən çox meyl edib, şkalanı ke-
+çərsə, dərhal sxem dövrədən açılmalıdır. Cihazın qeyri – nor-
+mal göstərişinin səbəbi müəyyən olunub aradan qaldırıldıqdan 
+sonra sxem yenidən gərginliyə qoşulmalıdır. 
+Bundan sonra cihazların göstəricilərini yazmadan bütün 
+dövrənin işi qəbul olunmuş proqram üzrə dəyişilməklə ölçülə-
+cək kəmiyyətlər yoxlanılır. 
+Təcrübənin aparılma mümkünlüyü yoxlandıqdan sonra 
+onun aparılmasına başlanılır. 
+Bu zaman hər bir tələbə əvvəlcədən müəyyən olunmuş 
+vəzifəsini yerinə yetirir. Bu halda bir və ya iki tələbə lazımı 
+tənzimləmə aparır – yükü və ya verilən gərginliyi və s. dəyişdi-
+rir, qalan tələbələr isə cihazların göstərişlərini işçi dəftərlərin-
+dəki cədvəllərə yazırlar. 
+Ölçü cihazlarından qiymətlərin götrülmasi diqqətlə aparıl-
+malıdır. Cərəyan və gərginlik ölçü transformatorları vasitəsilə 
+bağlanılmış çoxsərhədli cihazların göstərişləri yaxşı olar ki, əv-
+vəlcə şkala bölgüləri üzrə, təcrübə qurtarandan sonra isə həqiqi 
+qiymətlərə çevirməklə müəyyən olunsun. 
+Təcrübə qurtarandan sonra sxem sökülmədən ölşü nəticələ-
+rinin yoxlanması aparılır. Bu məqsədlə ölçülərin nəticələrinə 
+görə işçi dəftərdə və ya millimetrli kağızda nöqtələr müəyyən 
+ 8 
+miqyasla göstərməklə tələb olunan qrafiklər çəkilir. 
+Ölçülərin nəticələri və qrafiklərin qaralamaları məşğələ 
+rəhbəri tərəfindən yoxlanılır. 
+Ancaq məşğələ rəhbərinin icazəsi ilə sxemi sökmək və ya 
+sınağın növbəti bəndinə keçmək olar. 
+Təcrübə qiymətlərinin tamamilə işlənilməsi və yerinə yeti-
+rilən laboratoriya işinin hesabatının tərtibi laboratoriya məşğə-
+ləsindən kənarda yerinə yetirilir. 
+Hesabat  ya laboratoriyada verilən xüsusi dəftərdə blankda 
+(vərəqə), ya da ayrıca dəftərdə tərtib olunur. Hesabatda labora-
+toriya işinin adı, onun nömrəsi (sayı), yerinə yetrilmə vaxtı və 
+tələbənin familiyası göstərilməlidir. 
+Hesabatda laboratoriya işinin yerinə yetirilmə planı, işdə 
+istifadə olunan maşın və aparatın nominal göstəriciləri, təcrü-
+bənin çəkilmiş sxemləri,  ölçmə və hesabatların nəticələri olan 
+cədvələr, tələb olunan çəkilmiş qrafiklər, hesabatlarda istifadə 
+olunan formullar olmalıdır. 
+Hesabatın sonunda tələbə tənqidi təhlil verməli və yerinə 
+yetirilmiş laboratoriya işi üzrə qısa nəticələri göstərməlidir. 
+Hesabatın mətni, formulalar və rəqəmli kəmiyyətlər mü-
+rəkkəblə, təcrübənin sxemləri və qrafiklər cizgi çəkmək üçün  
+olan ləvazimatlarla (xətkeşlər, pərgar, bucaq ölçən və s.) karan-
+daşla işlənilməlidir.  
+Sxemlər qəbul olunmuş standart şərti işarələrə uyğun çəkil-
+məlidir. Qrafiklər 10 12 sm ölçülü millimetrli kağızda çəkil-
+məlidir. 
+Bütün qragiki asılılıqlar çəkmək və istifadə etmək üçün 
+əlverişli olan miqyasda çəkilməlidir. 
+Qrafikin koordinat oxlarında ölçülmüş kəmiyyətin qiymət-
+ləri bərabər bölgülərlə çəkilmiş əlverişli miqyas saxlamaqla 
+göstərilir. Koordinat başlanğıcı bütün hallarda sıfır qiymətinə 
+uyğun olmalı və hər hansı iki kəmiyyətin asılılığını göstərən 
+təcrübə nəticələrinə uyğun nöqtələr göstərilməlidir. Nöqtələr 
+qrafikdə göstərilərkən qrafiki mürəkkəbləşdirməmək üçün 
+ 9 
+onların koordinatları göstərilmir. Alınmış nöqtələr səlist əyri 
+xətlə birləşdirilir. Bir neçə nöqtənin qrafikdən kənarda qalması 
+təcrübənin qeyri – dəqiqliyi, cihazların xətaları,  xarici maniə-
+lər və s. ilə əlaqədar ola bilər.  
+Hesabatın sonunda alınmış göstəricilərə əsasən qısa nəticə-
+lər və yerinə yetrilən laboratoriya işinin izahatı verilməlidir. 
+Tələbə yerinə yetirdiyi laboratoriya işi üzrə tam hesabatı 
+yoxlamaq üçün sonrakı məşğələ başlanmazdan əvvəl onu məş-
+ğələ rəhbərinə təqdim edir. 
+Tələbə məşğələ rəhbərindən ya bir, ya da məzmunca yaxın 
+olan 2 – 3 laboratoriya işinə görə məğbul ala bilər. 
+Məşğələ rəhbəri o zaman məğbul kitabçasında məğbul ya-
+zır ki, tələbə cari semestr üçün tədris planında göstərilən bütün 
+laboratoriya işlərini yerinə yetirsin, hesabatları tərtib etsin və 
+təhvil versin, müvafiq suallara cavab verə bilsin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+LABORATORİYA İŞLƏRİNİN YERİNƏ 
+YETİRİLMƏSİNDƏ TƏHLÜKƏSİZLİK TEXNİKASI 
+ 
+“Elektrotexniki materiallar” fənninin laboratoriya məşğələ-
+lərinə başlayarkən tələbələr təhlükəsizlik texnikası qaydaları ilə 
+tanış olmalı və onlara ciddi əməl etməlidirlər. Yadda saxlamaq 
+lazımdır ki, elektrik cərəyanının insan orqanizminə təsiri həmi-
+şə təhlükəlidir. 
+Əlverişli olmayan şəraitdə insan bədəninin müqaviməti 
+800-1000 Om-dur. Bu zaman cəmi 50V gərginlik insan həyatı 
+üçün təhlükə təşkil edir. 
+Bundan başqa laboratoriyada istifadə olunan elektrik ma-
+şınlarının fırlanan həissələri ilə əlaqədar işlərdə olduqca ehti-
+yatlı olmaq lazımdır. 
+Laboratoriya məşğıləsində yerinə yetirilməli olan əsas təh-
+lükəsizlik texnikası qaydalarına aşağıdakılar daxildir. 
+1. Məşğələ rəhbərinin icazəsi olmadan laboratoriyadakı 
+əsas bölüşdürücü qurğuda və digər açarlarda hər hansı 
+açıb – bağlama əməliyyatı aparmaq qəti qadağandır. 
+2. Sxemi yığmağa başlamazdan əvvəl elektrik enerji mən-
+bəyindəki avtomat açarın (və ya kəsən açarın) açıq olması yox-
+lanılmalıdır (yəgin edilməlidir). 
+3. Sxemin elementlərinin birləşməsi izolyzsiyası saz vəziy-
+yətdə olan ucluqlu məftillərlə yerinə yetirilməlidir.  
+4. Lazım olan ölşü cihazları və aparatların işçi gərginlik və 
+cərəyana uyğun olmasına diqqət yetirilməlidir. 
+5. Kəsən açar (avtomat açar) elə yerləşdirilməlidir ki, onun 
+təsadüfi qapanmasına yol verilməsin. 
+6. Sxem yığıldıqdan sonra istifadə olunmayan məftillər və 
+kənar əşyalar iş yerindən götürülməlidir. 
+7. Məşğələ rəhbəri yoxlamadan işçi sxemi gərginliyə 
+qoşmaq olmaz. 
+8. Sxemə gərginlik qoşan zaman yoldaşlarına “Ehtiyatlı 
+olun bağlayıram” deməklə xəbərdarlıq etməlidir.  
+ 11 
+9. Gərginlik altında olan sxemin cərəyan keçirən element-
+lərinə toxunmaq olmaz. 
+10. Sxemdə olan bütün yenidən birləşdirmə və düzəlişlər 
+sxem tamamilə cərəyansızlaşandan və elektrik enerjisi mənbə-
+yindən açılandan sonra aparıla bilər.  
+11. Elektrik maşınları işə qoşularkən bütün aqreqat xarici 
+baxışdan keçrilməli və birləşdirici məftillər düzəldilməlidir. 
+12. Məşğələ rəhbəri yoxlamadan elektrik maşınını işə qoş-
+maq olmaz. 
+13. Səliqəsiz geyimlə maşınların fırlanan hissələrinə yaxın-
+laşdıqda ehtiyatlı olmaq lazımdır. 
+14. Laboratoriya işlərini yerinə yetirərkən maşının işi za-
+manı onun yastıqlarında həddən çox qızma olduqda dərhal 
+məşğələnin rəhbərinə xəbər vermək lazımdır.  
+15. Fırlanan maşında iş zamanı hər hansı nizamlama əmə-
+liyyatı aparmaq olmaz.  
+16. Maşını şəbəkədən açarkən onun tez dayanması üçün əl 
+və ya ayaqla rotor valını tormozlamaq olmaz. 
+17. Ölçü cihazı, reostat və elektrik maşınında aşkar olunan 
+hər hansı zədələnmə haqqında dərhal məşğələ rəhbərinə xəbər 
+verilməlidir. 
+18. Maşınların fırlanma sürətini ölçmək üçün taxometrdən 
+istifadə etdikdə onun təlimatı ilə tanış olub buna əməl etmək la-
+zımdır.  
+19. Laboratoriyanın işçi yerində qəza baş verərsə əvvəlcə 
+buradakı bütün avtomat açar və kəsən açarları dərhal açmaq və 
+iş yerini tərk etmək lazımdır. 
+Təhlükəsizlik texnikasına hər hansı əməl etməmək insan 
+həyatı üçün təhlükəlidir və çox hallarda qiymətli elektrik ölçü 
+cihazlarının və aparatlarının sıradan çıxmasına səbəb ola bilər. 
+ 
+ 
+ 
+ 
+ 12 
+ELEKTROTEXNİKİ MATERİALLARIN 
+SINAQLARINA İRƏLİ SÜRÜLƏN TƏLƏBLƏR 
+ 
+Müasir şəraittə elektroenergetikanın, elektrik maşınqayır-
+manın və aqrar istehsalatının, elektrikləşdirilməsi və avtomat-
+laşdırılmasının inkişafı həm də bu sahələrdə geniş növlü  elek-
+trotexniki materialların tətbiqi ilə əlaqədardır. Son illərdə elek-
+trotexniki materialların iş şəraiti olduqca mürəkkəbləşir, onlara 
+irəli sürülən tələblər isə xüsusilə, elektrik avadanlığının istis-
+mar etibarlılığının təmin olunma məsələlərilə əlaqədar kəskin 
+yüksəlir. 
+Bütün bunlarla əlaqədar olaraq elektrotexniki materialların 
+müxtəlif sınaqları böyük əhəmiyyətə malik olur. Bu sınaqların 
+aparılmasında başlıca məqsəd elektrotexniki materialların xas-
+sələrinin standartların və texniki şərtlərin tələblərinə uyğunlu-
+ğunu təyin etməkdir. 
+Sınaqlar aşağıdakı məsələləri əhatə edir: 
+1. Sınaq nümunəsinin seçilməsi onların sınağa hazırlanma-
+sı. 
+2. Elektrotexniki materialların əsas xassələrini xarakterizə 
+edən elektrik və qeyri-elektrik kəmiyyətlərin ölçülməsi. 
+3. Bir sıra elektrik, iqlim, mexaniki, fiziki-kimyəvi və bu 
+və ya digər şəraitdə xidmət müddəti təsirlərində eksperimental 
+üsulla elektrotexniki materialların xassələrinin dəyişməsini xa-
+rakterizə edən qanunauyğunluqların təyini. 
+Zavod-hazırlayıcılar hazırladıqları məlumatları nümunəvi 
+və kontrol sınaqlardan keçirirlər. Elektrotexniki materiallar nü-
+munəvi sınaq zamanı standartın və texniki şərtlərin istinasız 
+olaraq bütün tələblərinə uyğun sınaqdan keçirirlirlər. 
+Kontrol sınaqlar hazır məmulatı göndərən zavodların onu 
+sifarişçilərə təhvil verilməsindən qabaq aparılır. 
+Profilaktik sınaqlar istismar şəraitində aparılır. Bu sınaqlar 
+xüsusilə izolyasiya materiallarının sonrakı istismar üçün yararlı 
+olmasını yoxlamaq məqsədilə aparılır. Proflaktik sınaqlar yox-
+ 13 
+lama reqlament (nizama salma) və qəza sınaqlarına ayrılır. 
+Yoxlama sınaqları işçi təlimatlara əsasən aparılır. 
+Reqlament sınağı elektrik izolyasiya materiallarında de-
+fektləri aşkar etmək üçün yerinə yetirilir. 
+Qəza sınaqları normal istismar pozularkən izolyasiyanın 
+zədələnməsinin səbəblərini təyin etmək üçün aparılır və izolya-
+siyanın gələcək istismara yararlı olması yoxlanılır. 
+Elektrik avadanlığında istifadə olunan izolyasiya material-
+larının sınaqları iki yerə bölünür: elektrik və qeyri-elektrik. 
+Elektrik sınaqlarını aparmaqda məqsəd izolyasiya mate-
+riallarının xüsusi həcmi, xüsusi səthi, dielektrik nüfuzluluğu, 
+dielektrik itgi bucağının və elektrik möhkəmliyini təyin etmək-
+dir. 
+Qeyri-elektrik sınaqlarını aparmaqda məqsəd mexaniki, fi-
+ziki və kimyəvi xassələr, termiki xarakteristikalar və nəmliklə 
+əlaqəli xarakteristikaları təyin etməkdir. 
+Sınaqlar zamanı kifayət qədər fərqli qiymətlər alındıqda 
+etibarlı və həqiqi nəticələr almaq üçün təkrar sınaqların sayını 
+artırmaq lazım gəlir. 
+Misal üçün N sayda deşilmə gərginliyi sınaqları apardıqda 
+orta deşilmə gərginliyi aşağıdakı kimi təyin olunur. 
+. 
+Deşilmə gərginliyinin orta qiymətə nisbətən səpələnməsi 
+orta kvadratik fərqlənmə σ ilə xarakterizə olunur və aşağıdakı 
+ifadə ilə hesablanır: 
+.   
+Dəyişməyən şəraitlərdə və müəyyən qrup nümunələrinin 
+çoxsaylı sınaqları zamanı eyni materialların deşilmə ehtimalı 
+gərginlik funksiyalarının differensial və inteqral əyrilərinin 
+qurulması ilə təyin edilir. 
+N
+U
+U
+N
+i
+i
+or
+
+ 1
+ 
+1
+2
+
+
+
+
+N
+UU ori
+ 14 
+Laboratoriya  işi  1 
+ 
+DİELEKTRİKLƏRİN XÜSUSİ HƏCMİ VƏ XÜSUSİ 
+SƏTHİ MÜQAVİMƏTLƏRİNİN TƏYİNİ 
+ 
+İşin məqsədi: İzolyasiya materiallarının əsas dielektrik xa-
+rakteristikalarından olan xüsusi həcmi və xüsusi səthi müqavi-
+mətlərinin təyin olunma metodikasını mənimsəyib və onların 
+təcrübi olaraq ölçülmə üsullarını öyrənmək. 
+ 
+İşin yerinə yetirilmə qaydası: Verilən izolyasiya materialı 
+nümunəsinin tam, səthi və həcmi müqavimətlərinin təyini qay-
+dasını öyrənib onların şəkil 1 və şəkil 2 sxemləri üzrə təcrübi 
+ölçülərdən istifadə edərək hesablamalı. 
+Verilən material üçün xüsusi həcmi və xüsusi səthi müqa-
+vimətləri hesablayıb standart qiymətlərlə müqayisə etməli. 
+ 
+İşin məzmunu və onun yerinə yetirilmə metodikası: 
+ 
+ Məlumdur ki, real (   ) dielektrik elektrik sahəsi təsi-
+rinə məruz qalanda onda istiliyə çevrilə bilən sızma cərəyanı 
+əmələ gəlir: 
+. 
+Bu halda müvafiq olaraq tam Rv və Rs müqavimətləri və 
+onların xüsusi  v və  s müqavimətləri müşahidə edilir. Bütün 
+başqa elektrotexniki materiallar kimi dielektriklərdə də onların 
+keyfiyyətinə  qiymət vermək üçün əsas parametrlərdən biri 
+xüsusi müqavimətdir ki, buraya da v və s daxildir. Bu 
+məqsədlə 3 elektrod üsulundan istifadə olunur. 
+Ümumi halda xüsusi müqavimət aşağıdakı kimi təyin 
+olunur: 
+. 
+svsıa İİİİ  з
+R
+S
+
+
+ 15 
+Dielektriklərdə xüsusi v aşağıdakı sxem üzrə ölçülür 
+(şək.) 1.1.) 
+ 
+ 
+Şək. 1.1. Dielektriklərdə tam və xüsusi həcmi müqavimətin 
+ölçülmə sxemi: 1-aşağı elektrod; 2-dielektrik nümunəsi; 3-yuxarı 
+elektrod; 4-qoruyucu elektrod 
+ 
+Göstərilən sxemə yüksək gərginlik qurğusundan (misal 
+üçün АИИ-70 aparatından) U=1000V gərginlik verilir.  
+Ölçülmə prosesində cihazların göstərişinə əsasən tam həc-
+mi müqavimət (Rv) təyin edilir: 
+. 
+Xüsusi həcmi müqavimət: 
+, 
+burada ℓ- dielektrik nümunəsinin qalınlığı; 
+            S- yuxarı elektrodun (3) sahəsi, 
+. 
+Dielektriklərdə xüsusi səthi müqavimət s aşağıdakı sxem 
+üzrə ölçülür (şək. 1.2). 
+ 
+v
+v
+İ
+U
+R 
+
+SRv
+v 
+4
+2
+1dS
+
+
+ 16 
+ 
+ 
+Şək. 1.2. Dielektriklərdə tam və xüsusi səthi müqavimətin  
+ölçülmə sxemi  
+ 
+Cihazların göstərişinə əsasən dielektrikin tam səthi müqa-
+viməti təyin edilir: 
+. 
+Xüsusi səthi müqavimət: 
+, 
+burada S'-şərti sahə olub d1 d2 –yə yaxınlaşması zamanı 
+d2-d1 qalınlığındakı hissənin (halqanın) sahəsi S' çevrəsinin 
+uzunluğuna yaxınlaşır.  
+Bu halda: 
+,  
+l=d2-d1 qiymətlərini yerinə yazdıqda 
+ , 
+burada d1 və d2  elektrodların diametrləridir. 
+ 
+s
+s
+İ
+U
+R 
+
+S
+Rss
+
+
+ 
+2
+21 ddS
+
+
+
+ 
+  212
+21
+
+
+
+dd
+dd
+Rss
+
+
+
+ 17 
+Hesabatın məzmunu 
+ 
+Bütün sınaqların sxemini, təcrübə qiymətlərini və xüsusi 
+səthi və həcmi müqavimətlərin təyini üzrə alınmış hesabat 
+nəticələrini göstərməli. Alınmış nəticələri müvafiq ədəbiyyat-
+larda göstərilən qiymətlərlə müqayisə etməli. Laboratoriya 
+işində alınan nəticələri əsaslandırmalı. 
+ 
+Ədəbiyyat 
+ 
+1.Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU-nun nəşriyyatı, 2011, 140 s. 
+2. Пястолов А.А. и.др. Практикум по технологии 
+монтажа и ремонта электрооборудования. Учебное посо-
+бие для вузов –М.: Агропромиздат, 1990-160 с. 
+3. Казарновский Д.М., Тареев Б.М. Испытания электро-
+изоляционных материалов и изделий. Л.: Энергия, 1995, 
+296 с.   
+ 
+Laboratoriya işi üzrə ОП-1 qurğusu üçün sual-cavablar 
+ 
+Sual 1. Aşağıdakılardan hansı aktiv cərəyanın ifadəsidir? 
+Cavab: 1. U⋅ Iv 
+             2. U⋅ Is  
+             3. Iv+Is 
+Sual 2. Aşağıdakılardan hansı tam həcmi müqavimətin 
+ifadəsidir? 
+Cavab: 1. ;  
+             2.   ; 
+             3. .  
+sİ
+U
+vİ
+U
+İ
+U
+ 18 
+Sual 3. Xüsusi həcmi və səthi müqavimətlərin təyinində 
+sxemə nə qədər sabit gərginlik verilir? 
+Cavab: 1. 1000V  
+             2. 400 V 
+             3. 220 V 
+Sual 4. Aşağıdakılardan hansı xüsusi səthi müqavimətin 
+təyini ifadəsidir? 
+Cavab: 1. ;     
+             2.  ;  
+             3.   . 
+Sual 5. Xüsusi səthi və həcmi müqavimətlərin təyinində 
+hansı üsuldan istifadə olunur? 
+Cavab:  1. Meqometr; 
+              2. Üç elektrod;     
+              3. Testerlə. 
+ 
+ 
+
+SRs 
+
+SRм
+
+SRm
+ 19 
+Laboratoriya   işi 2 
+TRANSFORMATOR YAĞININ SINAĞI 
+ 
+Ümumi məlumatlar 
+Transformator yağı maye dielektrik kimi müxtəlif yüksək 
+gərginlik aparatlarında tətbiq olunur. Güc transformatorlarında 
+yağ izolyasiya və soyuducu mühit kimi istifadə olunur. 
+Yağ kifayət qədər yüksək dielektrik xüsusiyyətləri ilə 
+xarakterizə edilir. 
+İşin məqsədi:  Transformator yağının sınaq metodu ilə ta-
+nış olmaq. Sınaqdan keçirilən yağın təcrübə qiymətlərinin ma-
+ye  dielektriklərin DÜİST-də verilən xarakteristikaları ilə mü-
+qayisə etməklə yüksək gərginlik aparatlarında istifadə etmək  
+üçün yararlı olmasını müəyyən etmək. 
+İşin proqramı:  1. Transformator yağının elektrik möh-
+kəmliyini təyin etməli. 
+ 2. Yağda kömürləşmənin miqdarını təyin etməli. 
+ 3. Yağda suyun və mexaniki qarışıqların olmasının təyin 
+etməli. 
+ 
+İşin məzmunu və onun yerinə yetirilmə metodikası 
+ 
+1.Transformator yağının elektrik möhkəmliyinin sınağı 
+üçün АИИ-70, AMИ-60 və AИM-80 tipli aparatlardan istifadə 
+edilir. Laboratoriyada olan АИИ-70  aparatının prinsipial elek-
+trik sxemi şəkildə verilir. Sınaq 6 dəfə təkrar olunaraq, orta de-
+şilmə gərginliyi hesablanılır. 
+Ölçü və hesabatın nəticələri cədvəl 2.1-ə yazılır. 
+Cədvəl 2.1 
+s/s Maye 
+dielektrikinin adı  
+ 
+Deşilmə gərginliyi, kV  
+Ud.or. 
+ 
+Eor. Ud1 Ud2 Ud3 Ud4 Ud5 Ud6 
+ 
+Cədvəldə verilən qiymətlərə görə 
+ 20 
+; 
+ 
+    təyin olunur. 
+Transformator yağının elektrik möhkəmliyinin qiyməti 
+DÜİST-lə müqayisə edilib yağın vəziyyətinə qiymət verilir. 
+DÜİST 982-80 standartına uyğun olaraq təzə və ya regene-
+rasiya olunan quru  və istismarda olan yağın əsas keyfiyyət 
+göstəricilərinin buraxıla bilən sərhəd qiymətləri cədvəl 2.2-də 
+verilir. 
+Cədvəl 2.2 
+Standarta uyğun yağın göstəricilərinin buraxıla bilən 
+qiymətləri 
+ 
+s/s 
+ 
+Yağın keyfiyyət göstəriciləri 
+Buraxıla bilən qiymət 
+Təzə quru 
+yağ üçün 
+Istismarda olan 
+yağ üçün 
+1 
+Aşağıdakı gərginlikli transforma-
+tor və izolyatorlar üçün yağın stan-
+dart qabda təyin olunmuş elektrik 
+möhkəmliyi, kV:  
+15 kV-a qədər 
+15-dən 35 kv-a qədər 
+60-dan 220 kv-a qədər 
+330-dan 500 kv-a qədər 
+ 
+ 
+ 
+ 
+30 
+35 
+45 
+55 
+ 
+ 
+ 
+ 
+25 
+30 
+40 
+50 
+2 Mexaniki qarışıqların olması olmamalıdır olmamalıdır 
+3 Kömürləşmənin olması olmamalıdır olmamalıdır 
+4 Turşuluq ədədi, mq KOH 1 q-da 0,02 0,02 
+ 
+2. Yağdakı kömürləşmənin miqdarını təyin etmək üçün 
+onu qalınlığı 10...12 sm olan şüşə bankaya tökürlər. Bankanın 
+xarici divarına üzərində 1mm, 0,5mm və 0,1mm qalınlığı olan 
+qara tuşla xətlər çəkilmiş kalka kağızı yapışdırılır. Həmin ban-
+ka faner və ya metal qutuya yerləşdirilir, 25 V-lıq  elektrik lam-
+5
+... 62
+.
+dd
+ord
+UU
+U
+
+
+5,2
+.
+.
+ord
+ord
+U
+U 
+ 21 
+pası ilə işıqlandırılır. Bu halda  50 mm-lik məsafədən 4 mm öl-
+çülü deşikdən yuxarıda qeyd olunan xətlərə baxılır, yağda kö-
+mürləşmənin miqdarı aşağıdakı üç qrup üzrə qiymətləndirilir: 
+I qrup-hər üç xətt görünür-kömürləşmə yoxdur; 
+II qrup-ikinci xətt aydın görünmür-yağı süzgəcdən keçir-
+mək lazımdır; 
+III qrup-ikinci xətt görünmür-yağ dəyişilməlidir. 
+3. Yağın tərkibindəki su və mexaniki qarışıqlar nazik sınaq 
+şüşəsinə tökülən yağın işıqda baxılması ilə təyin edilir. 
+Yağın şəffaflığı və onda mexaniki qarışıqların olması bax-
+maqla müəyyən edilir. 
+ 
+Şək. 2.1. АИИ-70 tipli yağ- sınaq qurğusunun  prinsipial 
+elektrik sxemi: 
+EV – elektrodlu farfor yağ-sınaq qabı; TV1- yüksək gərginlik transfor-
+matoru; TV2- tənzimləyici transformator; S1- açar; SF1 – avtomat açar;C1, 
+C2,C3,C4 və C5 kondensatorlar; SF2 – bloklaşdırıcı kontaktlar;  PV – kilo-
+voltmetr;  R-  rezistor;  HLG və HLR- yaşıl və qırmızı siqnal lampaları 
+ 22 
+Hesabatın məzmunu 
+ 
+1.Yağ sınaq  qurğusunun sxemini çəkib iş prinsipini izah 
+etməli. 
+2. Aparılmış sınaqların nəticələrinə görə yağın vəziyyətinə 
+qiymət verməli. 
+ 
+Ədəbiyyat 
+ 
+1. Пястoлов А.А. Практикум по монтажу, эксплуатации 
+и ремонту электрооборудования . М.: «Колос» 1986,-224 c. 
+2. Васильев И.П.Лабораторные работы по электромате-
+риаловедению. М. Высшая школа, 1988,-112 c. 
+3. Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı 2011, 140 s. 
+4. Səidov E.Ə., Məmmədov O.H. və b. Elektrik avadanlığı-
+nın təmiri və etibarlılığı fənnindən Praktikum, Bakı, “Elm” 
+nəşriyyatı, 2011, 152 s. 
+ 
+Laboratoriya işi üzrə ОП-1 qurğusu üçün sual-cavablar 
+ 
+Sual 1.Transformatorda yağın əsas vəzifəsi nədən ibarət-
+dir? 
+Cavab:1. Dolaq izolyasiyasının köhnəlməsini azaltmaq 
+üçün; 
+             2. İtkiləri azaltmaq üçün; 
+             3. Soyumanı və izolyasiyanı yaxşılaşdırmaq üçün. 
+Sual 2. Yağın deşilmə gərginliyi hansı qurğu ilə yoxlanılır? 
+Cavab: 1. Dəyişən cərəyan yüksək gərginlik körpüsü ilə. 
+             2. Meqommetrlə; 
+             3. АИИ-70, АМИ-60 və АИМ-80 yüksək gərgin-
+lik qurğusu ilə: 
+Sual 3.Gərginliyi 15 kV-a qədər olan qurğulara tökülməli 
+təzə yağın elektrik  möhkəmliyi nə qədər olmalıdır? 
+ 23 
+Cavab: 1. 30 kV  
+              2. 15 kV 
+              3. 25 kV. 
+Sual 4.Yağın turşuluq ədədinin hansı qiymətində onu 
+istismara buraxmaq  olar?                    
+Cavab:   1. 0,4 mq KOH/q 
+                2. 0,02 mq KOH/q-dan az. 
+                3. 0,25 mq KOH/q 
+Sual  5.Təcrübə xətlərinin hansı qrup görünüşündə yağda 
+kömürləşmə ən çox hesab olunur?                      
+Cavab:   1. İkinci xətt aydın görünmür 
+               2. İkinci xətt görünmür. 
+               3. Hər üç xətt aydın görünür. 
+ 
+ 24 
+Laboratoriya işi 3 
+ 
+BƏRK VƏ QAZ DİELEKTRİKLƏRİN ELEKTRİK 
+MÖHKƏMLİYİNİN TƏYİNİ 
+ 
+İşin məqsədi: Bərk və qaz dielektriklərin əsas xarakteristi-
+kalarından olan elektrik möhkəmliyi ilə tanış olmalı və onların 
+ölçülmə  metodikasını mənimsəməli. Bir sıra bərk dielektriklə-
+rin və qazşəkilli dielektriklərdən havanın elektrik möhkəmliyi-
+ni təyin etməli. 
+ 
+İşin yerinə yetirilmə qaydası: 1.Laboratoriyada olan müx-
+təlif bərk dielektriklərin elektrik möhkəmliyini təyin etməli. 
+2. Qaz dielektriklərdən olan adi havanın elektrik möhkəm-
+liyini eynicinsli elektrik sahəsində təyin etməli. 
+ 
+İşin məzmunu və onun yerinə yetrilmə metodikası:   
+ 
+Dielektriklərin etibarlı işi üçün onların işçi gərginliyi deşil-
+mə gərginliyindən aşağı olmalıdır. Deşilmə anında elektrodlara 
+verilən gərginlik deşilmə gərginliyi adlanır, elektrik sahəsinin 
+bu haldakı sahə gərginliyinin qiyməti elektrik  möhkəmliyi ad-
+lanır: 
+      , kV/mm, 
+Ud- deşilmə gərginliyi, kV; 
+h-deşilmə yerində dielektrikin qalınlığı, mm. 
+Deşilmə gərginliyinin nominal gərginliyə nisbəti elektrik 
+möhkəmliyinin ehtiyat əmsalı adlanır. Bu əmsal dielektrikin 
+xassəsindən və onun iş şəraitindən asılı olaraq müəyyən edilir. 
+Elektrik möhkəmliyi prinsipial elektrik sxemi şəkil 3.1-də 
+verilən yüksək gərginlik aparatı ilə təyin edilir. Bu məqsədlə  
+АИИ-70 və АИM-70 markalı  xüsusi qurğudan istifadə edilir. 
+(Bax: 2 saylı laboratoriya işi, Transformator yağının sınağı).  
+h
+U
+E dd 
+ 25 
+ 
+ 
+ 
+Şək. 3.1. Yüksək gərginlik  deşici qurğunun prinsipial 
+ elektrik sxemi 
+ 
+Aparatda gərginlik sıfırdan dielektrikin deşilmə qiymətinə 
+qədər 1..2 kV/san sürətilə səlist yüksəldilir. Gərginlik qida 
+mənbəyi tərəfdə bağlanan və yüksək tərəfdəki gərginliyə uyğun 
+dərəcələnən voltmetrlə (PV) ölçülür. 
+Hər hansı izolyasiya materiallarının elektrik möhkəmliyi 
+aşağıdakı ardıcıllıqla təyin olunur: 
+- qurğunun torpaqlanmasinin vəziyyəti yoxlanılır; 
+- izolyasiya materialının nümunəsi sınaq üçün hazırlanır, 
+onun qalınlığı (h) ölçülür; 
+- izolyasiya materialı nümunəsi qurğunun elektrodları 
+(EV) arasına yerləşdirilir və onun qapağı bağlanılır; 
+- QF1 və QF2 avtomatları bağlanılır; 
+- tənzimləyici qurğu ilə (PY) gərginlik sıfırdan materialın 
+deşilməsinə qədər qaldırılır. Deşilmə anında QF2 avtomatı açı-
+lır. Deşilmə gərginliyinin qiyməti PV voltmetrindən qeyd olu-
+nur. 
+Ölçü və hesabatların nəticələri aşağıdakı cədvəl 3.1-ə yazı-
+lır. 
+Cədvəl 3.1 
+Bərk dielektriklərin elektrik möhkəmliklərinin ölçü və 
+hesablarının nəticələri 
+s/s Materialın və onun 
+markası 
+Ud, kV h,mm Ed, kV/mm 
+     
+ 26 
+ 
+ 
+Şək. 3.2. Eynicinsli sahədə havanın elektrik möhkəmliyinin 
+elektrodlararası məsafədən standart aslılıq qrafiki 
+Havanın elektrik möhkəmliyinin elektrodlararası məsafə-
+dən asılılığı da yuxarıda göstərilən yüksək gərginlik qurğusun-
+da aparılır. Sınaq zamanı elektrodlar arası məsafə 0,1...0,2 –dən 
+1,2...1,5 mm sərhəddində olmaqla 5...6 ölçü nöqtəsi üzrə aparı-
+lır. 
+Təcrübənin nəticələri 3.2 cədvəlinə yazılır. 
+Cədvəl 3.2 
+Havanın elektrik möhkəmliyinin təcrübə nəticələri 
+ 
+s/s Ud, kV h, mm Ed, kV/mm Elektrodun 
+forması 
+     
+ 
+Hesabatın məzmunu 
+ 
+1. Sınaq sxemini çəkməli. Bərk və qaz şəkilli dielektriklə-
+rin təcrübə və hesabat nəticələrini göstərməli. Alınmış ölçü və 
+hesabat nəticələrini müvafiq ədəbiyyat göstəriciləri ilə müqayi-
+sə etməli. 
+2. Eynicinsli sahədə aparılan sınaq nəticəsində hava üçün 
+ 27 
+elektrik möhkəmliyinin elektrodlararası məsafədən asılılıq 
+qrafikini qurmalı və onu standart qrafiqlə (şək. 3.1) müqayisə 
+etməli. 
+3. İşdə alınan nəticələri əsaslandırmalı. 
+ 
+Ədəbiyyat 
+ 
+1. Məmmədov O.H. Elektrotexniki materiallar. Dərs vəsai-
+ti, ADAU nəşriyyatı, Gəncə, 2011, 140 s. 
+2. Практикум по технологии монтажа и ремонта элек-
+трооборудования. Под редакций доктора техн.наук  А.А. 
+Пястолова  М.: Агропромиздат, 1990, 160 с. 
+3. Səidov R.Ə., Məmmədov O.H., Kərimov İ.C. və b. Elek-
+trik avadanlığının etibarlılığı və təmiri fənnindən Praktikum. 
+Bakı, “Elm” nəşriyyatı 2011, 152 s. 
+4. Филикова В.А. и. др. Электротехнические и конс-
+трукционные материалы. М.: Издательский центр «Акаде-
+мия», 2011, 280 с. 
+ 
+Laboratoriya işi üzrə ОП-1 qurğusu üçün sual və 
+cavablar 
+ 
+Sual 1. Yüksək gərginlikli deşici aparatın prinsipial elek-
+trik sxemində PУ qurğusunun vəzifəsi nədən ibarətdir? 
+Cavab: 1. Gərginliyi tənzimləmək 
+     2. Cərəyanı ölçmək 
+     3. Müqaviməti ölçmək 
+Sual 2. Elektrik möhkəmliyi izolyasiya materialının hansı 
+xarakteristikalar qrupuna aiddir? 
+Cavab:  1. Fiziki-kimyəvi  
+      2. İstilik  
+      3. Dielektrik 
+Sual 3. Elektrik  möhkəmliyi hansı ifadə ilə təyin olunur? 
+ 28 
+Cavab: 1. ; 
+      2. ; 
+    3.  . 
+Sual 4. Elektrik  möhkəmliyi hansı aparatla təyin edilir? 
+Cavab:  1. АИИ-70 aparatı ilə  
+      2. Ampermetr və voltmetrlə 
+      3. Sabit cərəyan körpüsü ilə  
+Sual 5.Yüksək gərginlik  qurğusunun prinsipial elektrik 
+sxemində TV transformatorunun vəzifəsi nədən ibarətdir? 
+Cavab: 1. Gərginliyi yüksəltmək  
+     2. Gərginliyi ölçmək 
+     3. Gərginliyi azaltmaq  
+R
+U
+h
+U
+h
+S
+Rv
+1
+ 29 
+LABORATORİYA İŞİ 4 
+ 
+GÜC TRANSFORMATORLARININ 
+DOLAQLARININ KONSTRUKSİYASI VƏ ONLARIN 
+İZOLYASİYA ELEMENTLƏRİNİN ÖYRƏNİLMƏSİ 
+ 
+İşin məqsədi. Güc transformatorlarının təyinatı, təsnifatı, 
+onlarda tətbiq olunan dolaqların tipləri və izolyasiya elementlə-
+rini  öyrənmək. 
+ 
+İşin yerinə yetirilmə qaydası.  
+ 
+1. Güc trasnformatorlarının təyinatı və təsnifatları ilə tanış 
+olmaq. 
+2. Üçfazalı transformatorların quruluşu ilə tanış olmaq. 
+3. Güc transformatorlarının dolaqlarının tiplərini öyrən-
+mək. 
+4. Güc transformatorunun dolaqlarının izolyasiya konstruk-
+siyalarını və orada istifadə olunan materialların qısa xarakteris-
+tikalarını göstərmək. 
+ 
+İşin məzmunu və yerinə yetirilmə metodikası.  
+                                                
+1.Güc transformatorlarının təyinatı və təsnifatı. 
+ 
+Güc transformatorları dəyişən cərəyan şəbəkələrində gər-
+ginliyi bir qiymətdən başqa qiymətə çevirmək üçün istifadə 
+olunurlar.  Transformatorlar yüksəldici və alçaldıcı olurlar. 
+Transformatorlar əsas hissələrinə maqnit nüvəsi (maqnin 
+sistemi) və I və II tərəf dolaqları daxil olan statik elektromaqnit 
+qurğusudur. Maqnit nüvəsi ona geydirilmiş dolaqlarla birgə 
+transformatorun aktiv hissəsi adlanır. 
+Transformatorlar aşağıdakı kimi təsnif olunur: 
+-soyuma növünə görə - hava ilə (quru) və yağla (yağ) soyu-
+ 30 
+dular; 
+-fazalarının sayına görə - bir və üç fazalı; 
+-dolaqların sayına görə - ikidolaqlı və çoxdolaqlı; 
+-dolaqların konstruksiyasına görə - birqat, ikiqat; çoxqatlı, 
+fasiləsiz, vintvari. 
+ 
+2. Üçfazalı transformatorun quruluşu.  
+ 
+Transformatorun sxemi şəkil 4.1-də göstərilir. 
+Transformatorun maqnit nüvəsinin görünüşləri şəkil 4.2 və 
+4.3-də verilir. 
+ 
+ 
+Şək. 4.1. TM 160/10 transformatorunun sxemi:  
+1-nəqletdirmə roliki; 2-torpaqlama boltu; 3-çən; 4-pasport 
+lövhəsi; 5-transformatoru qaldırmaq üçün qarmaq; 6-çökdürmə qabı; 
+7-yağ göstərici; 8 və 9- YG və AG çıxışları; 10-civəli termometr; 11-qayka; 
+12-qarmaq; 13-lövhə; 14-yağ nümunəsi götürmək üçün tıxac;15- gərginlik 
+çevricisi; 16-qoruyucu boru; 17-termosifon süzgəc. 
+ 31 
+Şəkil 4.2-dən göründüyü kimi üçfazalı güc transformatoru-
+nun maqnit nüvəsi qalınlığı o,35 və ya 0,5 mm-lik elektrotexni-
+ki polad vərəqələrdən yığılan üç ədəd saquli çubuqlardan (1) və 
+bunlarla əlaqəli olan iki ədəd yuxarı və aşağı boyunduruq (12) 
+olmaqla sərt konstruksiyadan ibarətdir. Şaquli çubuqlara  trans-
+formatorun dolaqları yerləşdirilir. Boyunduruq və çubuqlar bir-
+birinə birləşdirilərək qapalı maqnit konturu yaradır. Burulğan 
+cərəyanları azaltmaq üçün maqnit nüvəsinin hər bir polad vərə-
+qəsi 202 və ya КФ-965 markalı lakla örtülür. 
+Maqnit nüvəsinin vərəqələrdən ibarət olan boyunduruq və 
+çubuqları kağız-bakelit silindirin içərisinə salınan və hər iki tə-
+rəfində yiv olan polad sancaq vasitəsilə qaykalarla möhkəm sı-
+xılır. 
+ 
+ 
+Şək. 4.2. İki dolaqlı güc transformatorunun maqnit nüvəsi:  
+1- maqnit nüvəsinin çubuqları; 2,12- yuxarı və aşağı boyunduruqlar; 
+3,13-yuxarı və aşağı boyunduruğun tiri;  
+4,5,8 – horizontal və şaquli sıxıcı sancaqlar;  
+6- izolyasiyaedici araqatı; 7- nəqletdirmə deşikləri; 9- şaquli sancağın 
+izolyasiyası; 10-polad zolaq; 11-ağac 
+ 
+ 32 
+ 
+b) 
+Şək. 4.3. Boyunduruğun (a) və çubuğun (b) en kəsik sahələri: 
+1,9 – boyunduruğun və çubuğun aktiv poladı, 2-elektrokarton 
+izolyasiya; 3- boyunduruq tiri; 4, 11 – kağız bakellit izolyasiya borusu;      
+5, 10 – izolyasiya şaybalar; 6,12 – sıxıcı dəmir sancaqlar;  
+7, 13 – qaykalar; 8, 14- polad şaybalar. 
+ 
+3.Üçfazalı transformatorun dolaqlarının tipləri və  
+quruluşu. 
+  
+Transformator dolaqları izolyasiyalı dolaq məftilindən ha-
+zırlanılır. 
+Bundan başqa dolaqların izolyasiyasını elektrik deşilməsin-
+dən və dağılmasından mühafizə etmək üçün nəzərdə tutulan 
+müxtəlif izolyasiya detalları da istifadə olunur. 
+Müasir transformatorqayırma zavodlarında ən çox  birqat, 
+ikiqat, çoxqatlı və fasiləsiz silindrik dolaq tipləri tətbiq olunur. 
+Bu dolaqların ümumi görünüşü şəkil 4.4-də verilir. 
+ 33 
+4.Güc transformatorlarının dolaqlarının konstruksiyası 
+və orada istifadə olunan materialların qısa xarakteristikaları. 
+ 
+Qeyd olunduğu kimi güc transformatorlarında birqat, ikiat, 
+çoxqat və fasiləsiz tipli dolaqlar tətbiq olunur (Şək. 4.4). 
+  
+Şək. 4.4. Güc transformatorlarının dolaqları:  
+a- birqat; b-ikiqat; c- çoxqat; d-fasiləsiz; e-vintvari;  
+1- düzbucaqlı məftildən sarğı; 2- dolağın kənar sarğılarının 
+izolyasiyasını gücləndirmək üçün elektrokarton qutu; 3- kəsilmiş 
+bərabərləşdirici halqa; 4- kağız-bakelit silindir; 5-dolağın birinci qatının 
+sonu; 6-şaquli reykalar; 7-dolağın daxili budaqlanması; 9-dolaq sarğılarının 
+transpozisiyası 
+ 34 
+Vint boyunca birqat sarınan və bir və ya bir neçə paralel 
+məftillərdən ibarət olan dolaq bir qat silindrik dolaq adlanır. 
+Belə dolaqda adətən ПБ və ya АПБ markalı (bir neçə qat tele-
+fon kağızından ibarət izolyasiyalı mis və ya aliminium dolaq 
+məftili) dolaq istifadə olunur. Sarğılar maili vəziyyətdə sarınır. 
+Buna görə də dolağın uçlarına horizontal vəziyyət vermək 
+üçün dolağın hər iki ucunda pambıq parça lenti ilə əvvəlcədən 
+hazırlanmış kağız-bakelit  halqalar (3) bərkidilir. Dolaqlara 
+yüksək mexaniki möhkəmlik vermək  üçün sonuncu sarğılar və 
+kəsilmiş halqalar pambıq parça lenti ilə möhkəm sarınır. Şəkil 
+4.4-də (a) göstərildiyi kimi dolağın kənar sarğısının yuxarı və 
+aşağı çıxışının yanındakı boş qalan hissəyə 0,5…0,7 mm qalın-
+lığında elektrokardon qoyulur (2). 
+İki qat dolaq da bir qat dolaq kimi sarınır. Dolaq qatları 
+arasına şaquli şəkildə fısdıq ağacından çubuqlar və elektrokar-
+don yerləşdirilir. Bu halda dolaq qatları arasında yaranan ka-
+nallar dolaqdan ayrılan istiliyin örtülməsini yaxşılaşdırır. Çox-
+qatlı silindrik dolağın hazırlanmasında dairəvi məftil kağız-ba-
+kelit silindrə sarınır. Bu silindrə sarınmış dolaq və sonrakı do-
+laq qatlarının arasına qatlararası izolyasoiya olaraq bir neçə qat 
+kabel kağızından hazırlanan kağız silindr yerləşdirilir. 
+Çoxqatlı dolaqda gərginliyi tənzimləmək məqsədilə budaq-
+lanmalar çıxarılır (şək. 4.4 b, 7). 
+Çoxqatlı dolaqların mexaniki möhkəmliyini artırmaq üçün 
+onlar pambıq parça lenti ilə möhkəm sarınır və 80-100 
+o
+C-də 
+qliftal lakı ilə hopdurulur. 
+Gücü 1000 kVA və ondan çox olan transformatorlarda 
+ardıcıl birləşmiş eyni katuşkalardan hazırlanılan fasiləsiz dolaq 
+tiplərindən istifadə olunur (şək. 4.4, d). 
+Fasiləsiz dolaq öz adına uyğun olaraq qırığı və lehimi ol-
+mayan yastı (müstəvi) məftillərdən hazırlanılır. 
+Transformatorun izolyasiyası xarici və daxili olmaqla iki 
+yerə bölünür. 
+Xarici izolyasiyaya transformatorun çənində olmayan izol-
+ 35 
+yasiyalar aiddir, misal üçün I və II tərəf dolaqlarının çıxış izol-
+yatorları, fazalararası izolyasiya, çıxışlarla transformatorun tor-
+paqlanan hissəsi arasındakı  izolyasiya və s.  
+Daxili izolyasiyaya transformator çəninin daxilində yerlə-
+şən, transformator yağında olan çox hissə  aiddir. Daxili izolya-
+siyaya baş və uzununa izolyasiyalar da daxildir. 
+Baş izolyasiyaya transformatorun hər bir dolağının torpaq-
+lanmış hissəyə və digər dolaqlara görə izolyasiyası daxildir. 
+Uzununa izolyasiyaya isə hər hansı dolağın müxtəlif nöqtə-
+ləri arasındakı, yəni sarğılararası, qatlarası və katuşkalararası 
+izolyasiyalar aiddir. Buraya həmçinin dolaq çıxışlarının və çev-
+rici açarın çıxışlarının izolyasiyası da  daxildir. 
+Transformatorun izolyasiyası istismar vaxtı baş verən  
+elektrik, istilik, mexaniki və fiziki-kimyəvi təsirlərə heç bir zə-
+dələnmə olmadan davam gətirməlidir. 
+İzolyasiyanın elektrik hesabatı elə aparılmalıdr ki, onlar 
+normalarda nəzərdə tutulan yoxlama və nümunəvi sınaqlara da-
+vam gətirə bilsinlər. 
+ 
+Hesabatın məzmunu 
+ 
+1.Güc transformatorlarının təyinatı, quruluşu və təsnifatı-
+nın izahatını verməli, pasport göstəricilərini izah etməli. 
+2. Üçfazalı transformatorun sxemini göstərib, quruluşunun 
+izahını verməli, hissələrinin vəzifələrini göstərməli. 
+3. Güc transformatorlarının dolaqlarının tiplərini və onların 
+quruluşunu izah etməli. 
+4. Güc transformatorlarının dolaqlarında istifadə olunan 
+izolyasiya konstruksiyasını və materialların xarakteristikalarını 
+göstərməli. 
+Ədəbiyyat 
+ 
+1. Пястoлов А.А. и др. Практикум по монтажу, экс-
+плуатации и ремонту электрооборудования. М.: «Колос» 
+ 36 
+1986, 224 c. 
+2. Пястолов  А.А. и др. Монтаж, эксплуатация и ремонт 
+электрооборудования. М.: Колос, 1981. 335 с. 
+3. Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı,  2011,140 s. 
+4. Kərimov İ.C. və b. Elektrik avadanlıqlarının təmir tex-
+nologiyası. Gəncə, ADAU nəşriyyatı, 2010, 354 s. 
+5. Перельмутер Н.М. Электромонтер-обмотчик и изо-
+лировщик по ремонту электрических машин и трансформа-
+торов. Учебное пособие. М.: Высш.шк, 1984, 328 с. 
+ 
+Laboratoriya işi üzrə OП- 1 qurğusu üçün sual-cavablar 
+ 
+Sual 1. Transformatorun daxili hissəsinə onun hansı ele-
+mentləri daxildir? 
+Cavab 1. Transformatorun dolaqları 
+            2. Maqnit nüvəsi və dolaqlar 
+            3. Maqnit nüvəsi. 
+Sual 2. Transformatorlar  dolaqlarının sayına görə necə 
+təsnif olunur? 
+Cavab:  1. Hava və yağ ilə soydulan dolaqlar.           
+               2. Birqatlı, ikiqatlı, çoxqatlı, fasiləsiz, vintvari
+               3.İkidolaqlı və çoxdolaqlı 
+ Sual 3. Ücfazalı transformatorun maqnit nüvəsinin polad 
+vərəqələrinin qalınlığı nə qədər olur? 
+ Cavab: 1. 1,0-1,5 mm 
+              2. 0,10-0,2 mm 
+              3. 0,35-0,5 mm 
+Sual 4.   Güc transformatorunun (yağla soyudulan) dolaq-
+larında hansı markalı dolaq məftillərindən istifadə olunur ? 
+Cavab:  1. ПБ  və АПБ;  
+              2.  ПЭТВ  
+              3. ПСД 
+Sual 5.  Transformatorun daxili izolyasiyasına nələr daxil-
+ 37 
+dir? 
+Cavab:  1. Dolaqların çıxış izolyatorları;  
+              2. Baş və uzununa izolyatorlar;    
+              3. Çıxışlarla transformatorun torpaqlanan hissəsi 
+arasındakı izolyasiya. 
+ 
+ 38 
+Laboratoriya  işi 5 
+ 
+ASİNXRON MÜHƏRRİKLƏRİNİN 
+DOLAQLARININ KONSTRUKSİYASI VƏ ONLARIN 
+İZOLYASİYA ELEMENTLƏRİNİN ÖYRƏNİLMƏSİ 
+ 
+İşin məqsədi: Asinxron mühərriklərinin təyinatı, təsnifatı, 
+onlarda tətbiq olunan dolaqların tipləri və izolyasiya elementlə-
+rini öyrənmək.  
+ 
+İşin yerinə yetirilmə qaydası:  
+ 
+1.Asinxron mühərriklərinin təyinatı, təsnifatı və quruluşu 
+ilə tanış olmalı. 
+2. Dolaqların əsas konstruktiv elementləri ilə tanış olub 
+onun parametrlərini təyin etməli. 
+3.Dolaqların tipləri ilə tanış olub onları öyrənmək. 
+4. Asinxron mühərriklərinin dolaqlarının izolyasiya kons-
+truksiyaları ilə tanış olub onlarda istifadə olunan materialların 
+qısa xarakteristikalarını öyrənmək. 
+ 
+İşin məzmunu və yerinə yetirilmə metodikası: 
+1.Asinxron mühərriklərinin təyinatı, təsnifatı və 
+quruluşu. 
+ 
+Hazırda ən geniş istifadə olunan dəyişən cərəyan maşını 
+asinxron mühərrikləridir. Asinxron mühərrikinin vəzifəsi elek-
+trik enerjisini mexaniki enerjiyə çevirməkdir. Quruluşunun sa-
+dəliyinə, iş zamanı yüksək etibarlılığına, kifayətləndirici işçi 
+xarakteristikalarına və nisbətən dəyərinin ucuz olmasına görə 
+bu mühərriklər istehsalatın bütün sahələrində-sənaye, kənd tə-
+sərrüfatı, tikinti və nəqliyyatda geniş istifadə  olunur. Ölkələrin 
+maşınqayırma zavodları müxtəlif güclü və konstruktiv quruluş-
+lu asinxron mühərrikləri istehsal edir. 
+ 39 
+Belə mühərriklərin çatışmazlıqlarına işəburaxma cərəyanın 
+nominaldan 5…7  dəfə çox, işəburaxma momentinin isə az ol-
+ması və sürətinin səlist tənzimlənilə bilməməsi aiddir. 
+Asinxron mühərrikinin aşağıdakı parametrli tipləri tətbiq 
+olunur: 
+-gücü 0,08-55 kVt, fırlanma sürəti 750, 1000, 1500 və 
+3000 d/dəq olan A və AO seriyalı; 
+-gücü 0,4-100 kVt, sürəti 600, 750, 1000, 1500 və 3000 
+d/dəq olan A2 və AO2 seriyalı; 
+-gücü 1,5-30 kVt, sürəti 1000, 1500, 3000 d/dəq olan 
+AO2... CX və AO2... CXT3 seriyalı; 
+-gücü 0,09-250 kVt, sürəti 500, 600, 750, 1000, 1500 və 
+3000 d/dəq olan 4A seriyalı; 
+-gücü 0,25-4 kVt, sürəti 750, 1000, 1500 və 3000 d/dəq 
+olan Da seriyalı; 
+-gücü 11-45 kVt, sürəti isə 3000 d/dəq olan ПЭДВ tipli 
+subartezian quyularında işləyən dərinlik elektrik mühərrikləri. 
+Bütün adi seriyalı asinxron mühərrikləri ətraf mühitdən 
+mühafizə olunma dərəcəsinə görə açıq, mühafizə olunmuş, qa-
+palı, partlayışdan və nəmlikdən mühafizə olunmuş qruplarına 
+bölünməklə istehsal olunurlar. 
+Ücfazalı asinxron mühərrikinin əsas hissələri göstərilməklə 
+ümumi görünüşü şəkil 5.1-də verilir. Asinxron mühərrikinin 
+tərpənməz hissəsinə stator (8) və hərəkət edən hissəsinə rotor 
+(9) daxildir. 
+Statorun gövdəsi (6) silindrik çuğun və ya aliminiumdan 
+tökülən, daxili hissəsində preslənmiş maqnit nüvəsi olan özül-
+dən ibarətdir. Burulğan cərəyanlardan yaranan itgiləri azaltmaq 
+üçün maqnit nüvəsi qalınlığı 0,3...0,5 mm olan bir-birindən xü-
+susi nazik lak təbəqəsi ilə izolyasiya edilmiş elektrotexniki po-
+lad vərəqələrdən yığılır. Maqnit nüvəsinin daxili çevrəsi bo-
+yunca bərabər məsafələrdə stator yuvaları ştamplanılır və bu 
+yuvalara stator dolaqları yerləşdirilir. 
+Stator dolaqlarının ucları sıxaclar qutusuna (5) çıxarılır. 
+ 40 
+Asinxron mühərrikinin rotoru(9) da həmçinin elektrotexniki 
+polad vərəqələrdən ibarət olur. Rotorun maqnit nüvəsinin daxi-
+linə mühərrikin valı (1) preslənilir. Rotor nüvəsinin xarici səthi 
+boyu açılmış yuvalarda rotor dolaqları və ya çubuqları yerləşdi-
+rilir. 
+ 
+ 
+ 
+Şək. 5.1. 4A100CУ1 tipli asinxron mühərriki: 
+1-rotorun valı; 2-diyircəkli yastıq; 2,3-yastıq şiti; 4-stator dolağı;5- do-
+laq çıxışları qutusu; 6- statorun gövdəsi; 7- yük vinti; 8- stator nüvəsi; 9-ro-
+tor; 10-ventilyator; 11-ventilyator örtüy. 
+ 
+Asinxron mühərrikinin üzərinə onun nominal göstəriciləri 
+olan lövhəcik bərkidilir. Burada mühərrikin gücü, gərginliyi, 
+fırlanma tezliyi, güc əmsalı (cosφ), faydalı iş əmsalı (η) və s. 
+göstərilir. 
+Şəkil 5.2 asinxron mühərrikinin dolaqlarının uclarının onun 
+ 41 
+üzərindəki sıxaclara (C1... C6) birləşdirilməsi və faz dolaqları-
+nın ulduz  və ücbucaq üzrə sıxaclar qutusunda bağlanması gös-
+tərilib. 
+ 
+                                       a)                      b) 
+Şək. 5.2. Asinxron mühərrikinin  dolaqlarının birləşmə sxemi (a) 
+və faz dolaqlarının ulduz və üçbucaq birləşdirilməsi (b). 
+ 
+Şəkil 5.3-də asinxron elektrik mühərrikinin statoru göstəri-
+lib. Mühərrikin tərpənməz hissəsi-stator (a) nüvədən (1), dolaq-
+dan (2) və gövdədən (özüldən)(3) ibarətdir. 
+Mühərrikin maqnit nüvəsinin bir hissəsi olan stator nüvəsi 
+(b) daxili səthində yuvalar açılmış düzgün silindrdən ibarətdir. 
+Stator nüvəsi ayrı-ayrı polad vərəqələrdən ibarətr sıxılmış pa-
+ketdən (c) ibarətdir.  
+Maşında yaranan burulğan cərəyanını azaltmaq üçün polad 
+vərəqələrinin hər biri hər iki tərəfdən izolyasiya lakı ilə örtülür. 
+Bununla həm  də maşında polad itgiləri də azalır. Stator nüvə-
+sinin yuvalarında izolyasiyalı mis və ya alüminiumdan ibarət 
+ 42 
+üçfazalı dolaq yerləşdirilir. 
+Asinxron mühərrikinin fırlanan hissəsi rotor nüvədən, val-
+dan və dolaqdan ibarət olur. 
+ 
+ 
+Şək. 5.3. Asinxron elektrik mühərrikinin statoru: a-yığılmış 
+halda stator; b- stator nüvəsi; c-nüvənin vərəqəsi; 1- nüvə; 2-dolaq;  
+3-gövdə (özül). 
+ 
+Stator və rotor nüvələri arasında 0,2…0,4 mm hava aralığı 
+olur. Asinxron mühərrikinin qısa qapanmış rotoru şəkil 5.4-də 
+verilir. 
+ 
+2. Dolaqların əsas konstruktiv elementləri ilə tanış olub 
+onların parametrlərinin təyin olunması. 
+ 
+Asinxron mühərrikinin ən vacib tərkib hissələrindən biri 
+onların dolaqlarıdır.Dolaqlarda elektrik enerjisinin mexaniki 
+ 43 
+enerjiyə çevrilməsilə əlaqədar əsas işçi proseslər baş verir. 
+Asinxron mühərriklərinin stator və kontakt halqalı faz 
+rotorlarında üçfazalı dəyişən cərəyan dolaqları istifadə olunur. 
+Qısa qapanmış rotorlarda isə qısa qapanan dolaqlar yerləşir 
+(şək. 5.3 və 5.4-ə baxmalı). 
+ 
+ 
+ 
+Şək. 5.4. Asinxron mühərrikinin qısa qapanmış rotoru: 
+a-yuvalara çubuqlar yerləşdirilən; b- “dələ” təkəri; c-aliminium 
+ərintisindən tökülmüş dolaqları olan; 1-rotor nüvəsi; 2- dolaqların qısa 
+qapayıcı halqaları olan; 3-dolaq çubuqları; 4-val; 5-ventilyasiya kürəkləri. 
+ 
+Dolağın ən sadə elementi adətən müxtəlif adlı şimal və cə-
+nub qonşu qütblər altında olan, iki yuvada yerləşən ardıcıl bir-
+ləşmiş iki məftildən ibarət sarğıdır. Sarğının yuvada yerləşən 
+elementləri onun aktiv tərəfləri adlanır və maşının baş maqnit 
+sahəsinin elektrik hərəkət qüvvəsinin məhz burada çevrilməsi 
+baş verir. Sarğının yuvada yerləşməyən elementi alın hissəsi 
+adlanır. Bir neçə sarğı ardıcıl birləşməklə yuvalarda yerləşir və 
+katuşka (seksiya) adlanır. Bir yuvada bir sarğı yerləşərsə çu-
+buq, bir neçə sarğı yerlərsə  katuşka adlanır. 
+Katuşka və seksiyalar sarğılar sayı (s) və dolaq addımı (y) 
+ilə xarakterizə olunur. Dolaq addımı katuşka və seksiyanın əha-
+tə etdiyi stator və ya rotorun maqnit nüvəsində olan dişlər sayı 
+ 44 
+ilə ifadə olunur.Misal üçün, əgər seksiyanın (katuşkanın) bir tə-
+rəfi I yuvada, o biri tərəfi isə VI yuvada yerləşirsə  və katuşka 5 
+yuva əhatə edirsə, dolaq adımı 5-ə bərabər qəbul olunur, başqa 
+sözlə y=6-1=5 olur. Dolaq addımı qütb bölgüsünə bərabər olar-
+sa bu tam və ya diametral addım, əgər qütb bölgüsündən kiçik 
+olsa qısadılmış addım adlanır. 
+Tam dolaq addımı: 
+. 
+ Qısaldılmış dolaq addımı:   
+, 
+burada Z-statorun yuvalar sayı; 
+    P-qütblər sayı; 
+    Kq – qısadılma əmsalı Kq=0,66...0,85. 
+Bir neçə seksiya və ya katuşka ardıcıl birləşdirilərək katuş-
+ka qrupu əmələ gətirir və başqa sözlə bir qütbə və fazaya düşən 
+yuvalar sayı adlanır və aşağıdakı ifadə ilə təyin olunur. 
+, m-fazalar sayı olub m=3 qəbul olunur. 
+ 
+3. Dolaqların tipləri ilə tanış olub, onların öyrənilməsi. 
+ 
+Asinxron mühərriklərində əsasən bir qat və iki qat dolaq-
+dan istifadə olunur. Bir qat dolaqda hər bir yuvada katuşka və 
+seksiyanın bir tərəfi, iki qat dolaqda isə müxtəlif katuşka və 
+seksiyaların iki tərəfi yerləşdirilir. 
+Asinxron mühərriklərinin dolaqlarının göstərilməsi şərtidir. 
+Dolaq sxeminin göstərilməsinin əsas  iki üsulundan istifadə 
+olunur. Birinci üsulda silindrik formada olan statorun dolaq 
+hissəsi müstəvi şəklində açılır və bu sxem açılış sxemi adlanır. 
+İkinci üsulda dolaqların uç hissələri göstərilməklə stator 
+P
+Z
+yt
+
+
+2
+
+P
+Z
+ky qq
+
+
+2
+
+
+mP
+Z
+q
+2
+ 45 
+nüvəsinin silindrik şəkildə olması ilə üc (və ya alın) hissədən 
+dolaqlar göstərilməsilə sxem çəkilir. Bu sxemlər uc və ya 
+dairəvi sxemlər adlanır. 
+Şəkil 5.5-də asinxron mühərrikinin iki qat stator dolağının 
+açılış sxemi verilir. 
+ 
+ 
+ 
+Şək. 5.5. İkiqat stator dolağının açılış sxemi. 
+ 
+Şəkil 5.6-da isə bir qat konsentrik dolağın açılış və uc 
+sxemləri göstərilib. 
+Şəkil 5.6-da birqat və ikiqat dolaqların katuşka qruplarının 
+sxemləri verilir. 
+ 
+ 46 
+ 
+ 
+Şək. 5.6. Birqat dolağın açılış (a), uc (b) və alın hissəsinin 
+görünüş (c) sxemləri. 
+ 
+ 
+ 
+Şək. 5.7. Birqat və ikiqat dolaqların katuşka (seksiya) qrupları.  
+ 47 
+Şəkil 5.7-də bir qat və ikiqat qolaqların hər ikisində katuş-
+ka  qruplarının sayı q=2 olan dolaqların hissələri göstərilib. 
+Ücfazalı dolaqlarda faza dolaqlarının başlanğıcı və sonları 
+C1-C4, C2-C5 və C3-C6 dolaları arasında 120
+o
+ elektrik dərəcə-
+si olur. 
+4. Asinxron mühərriklərinin dolaqlarının izolyasiya 
+konstruksiyaları ilə tanış olub istifadə olunan materialların 
+xarakteristikalarının izah edilməsi. 
+ 
+Zavodda istehsal olunarkən və təmir vaxtı asinxron mühər-
+riklərinin stator dolağında aşağıdakı konstruktiv izolyasiya ma-
+terialları tətbiq oluna bilər: 
+sarğı izolyasiyası, yuva (və ya gövdəyə görə) izolyasiyası, 
+alın hissədəki dolaqların izolyasiyası, qatlararası izolyasiya və s. 
+Ümumiyyətlə, dolağın bütün məftilləri biri-birindən və 
+gövdədən etibarlı izolyasiya olunmalıdır. İzolyasiyalı  dolaq 
+məftillərində sarğılararası izolyasiya rolunu məftilin öz izolya-
+siyası oynayır. 
+Gövdə və ya yuva izolyasiyası mühərrikin gərginliyindən 
+və yuvanın formasından asılı olaraq müxtəlif ola bilər. 
+Yumşaq katuşkalı dolaqlarda istifadə olunan katuşkalar və 
+yuvanın forması şəkil 5.8-də verilir. 
+ 
+ 
+Şək. 5.8. Yumşaq dolaqlarda istifadə olunan katuşkalar və 
+yuva:a-bir qat yumşaq dolaq üçün katuşka; b-ikiqat yumşaq dolaq 
+üçün katuşka; c-yumşaq dolağın yuvaya yerləşdirilməsi 
+ 48 
+Yumşaq məftilli dolaqlarda gövdə izolyasiyası adətən bir 
+neçə qat olmaqla yuvaya yerləşdirilir və bu yuva qutusu adla-
+nır. Bu halda izolyasiya materialları  mühərrikin istismar şə-
+raitindən və tələb olunun qızmaya davamlılıq sinfindən asılı se-
+çilir. Yumşaq dolaqlar üçün tətbiq olunan izolyasiyalar şəkil 
+5.9-da verilir. 
+ 
+ 
+Şək. 5.9. Yumşaq stator dolaqlı mühərriklərin izolyasiya 
+konstruksiyası: 
+a-birqat yumşaq dolaq üçün yuva; b-ikiqat yumşaq dolaq üçün yuva; c- 
+ikiqat yumşaq dolaq üçün katuşkanın alın hissəsi; 1- ЭВ markalı elektro-
+karton; 2- laklı şüşə parça; 3-ЭВ markalı elektrokarton; 4,5-fıstıq və ya toz 
+ağacından yuva çivi; 6,7,8- plenkaelektrokarton; 9,10-laklı şüşə parça;     
+11-ipək parça (tafta); 12-laklı şüşə parça; 13-plenkaelektrokarton;  14-şüşə 
+boru. 
+ 
+Hesabatın məzmunu 
+ 
+1. Asinxron mühərriklərinin təyinatı, quruluşu və təsnifatı-
+nın izahatını verməli, pasport göstəricilərini  izah etməli. 
+2. Asinxron mühərriklərinin stator və rotor dolaqlarının 
+konstruktiv elementlərinin izahını verib, parametrlərini göstər-
+məli. 
+ 49 
+3. Stator dolaqlarının tiplərini izah edib, sxemlərini çəkib 
+göstərməli. 
+4. Asinxron mühərriklərinin dolaqlarında istifadə olunan 
+izolyasiya konstruksiyasını və materialları göstərməli. 
+ 
+Ədəbiyyat 
+ 
+1. Пястoлов А.А. Практикум по монтажу, эксплуатации 
+и ремонту электрооборудования . М.: «Колос» 1986, 224 c. 
+2. Пястолов  А.А. и др. Монтаж, эксплуатация и ремонт 
+электрооборудования. М.: Колос, 1981, 335 с. 
+3. Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı,  2011, 140 səh. 
+4. Kərimov İ.C. və b. Elektrik avadanlıqlarının təmir tex-
+nologiyası. Gəncə, ADAU nəşriyyatı, 2010, 354 s. 
+5. Бернштейн Л.М. Изоляция электрических машин об-
+щего назначения. М.: Энергоиздат, 1999, 367 с. 
+ 
+Laboratoriya işi üzrə ОП-1 qurğusu üçün sual-
+cavablar 
+ 
+Sual 1. Asinxron mühərrikinin vəzivəsi nədən ibarətdir. 
+Cavab: 1. Gərginliyi tənzimləmək; 
+             2. Elektrik enerjisini mexaniki enerjiyə çevirmək; 
+             3. Elektrik enerjisini istiliyə çevirmək. 
+Sual 2. Asinxron mühərrikinin fırlanan hissəsi neçə 
+adlanır? 
+Cavab: 1.Rotor hissəsi; 
+             2. Statorun maqnit nüvəsi; 
+             3. Stator dolağın hissəsi. 
+Sual 3. Bir qütbə  və fazaya düşən yuvalar sayı hansı ifadə 
+ilə təyin olunur.. 
+Cavab:   1.  ; qk
+P
+z
+2
+ 50 
+2.  ; 
+               3. . 
+Sual 4. Yuvada qatlararası izolyasiya kimi hansı 
+materialdan istifadə olunur? 
+Cavab:   1. ЭВ markalı elektrokardon; 
+               2. Plenka elektrokarton; 
+               3. İpək parçadan. 
+Sual 5. Dolağın ən sadə elementi necə adlanır 
+ Cavab:  1. Seksiya; 
+              2. Faz dolağı; 
+              3. Katuşka. 
+ 
+ 
+P
+z
+2
+mP
+z
+2
+ 51 
+Laboratoriya işi 6 
+ 
+TRANSFORMATORLARIN AKTİV POLADININ 
+İZOLYASİYA MÜQAVİMƏTİNİN VƏ ELEKTRİK 
+MÖHKƏMLİYİNİN TƏYİNİ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+ 
+İşin məqsədi. Transformatorlarin aktiv polad vərəqələrinin 
+elektrik möhkəmliyinin və izolyasiya  müqavimətinin yoxlanıl-
+ma metodikasını mənimsəmək. 
+ 
+İşin yerinə yetirilmə ardıcıllığı. 
+ 
+1.Aktiv polad vərəqələrin izolyasiyasının elektrik möh-
+kəmliyini təyin etməli. 
+2.Aktiv polad vərəqələr paketinin izolyasiya  müqavimətini 
+təyin etməli. 
+ 
+İşin məzmunu və yerinə yetirilmə metodikası. 
+ 
+I. Aktiv polad vərəqəsinin izolyasiyasının elektrik möh-
+kəmliyini təyin etmək üçün tədqiqat obyekti olaraq transforma-
+tor nüvəsinin lakla örtülmüş bir ədəd polad vərəqəsi qəbul olu-
+nur. Təcrübə aşağıdakı qayda üzrə yerinə yetirilir. 
+1. Sınaqdan keçirilən polad vərəqəni və elektrik dövrəsinə 
+birləşdirmək üçün onun əlverişli yerinin izolyasiyası (lakı) tə-
+mizlənilir. 
+2. Şəkil 6.1-ə uyğun olaraq cihazlar seçilməklə təcrübənin 
+aparılma sxemi yığılır. 
+3. Avtotransformatorun (TV) sıxacında dəstək vasitəsi  ilə 
+minimal gərginlik müəyyən olunur. 
+4. Məftil (1) sıxacı ilə sınaqdan keçirilən polad vərəqəyə 
+(3) bağlanılır. 
+5. Gəzdirilə bilən (2) elektrodunu vərəqənin istənilən yeri-
+nə yerləşdirməli. 
+ 52 
+6. Avtotransformatorun dəstəyi ilə gərginlik vərəqənin 
+izolyasiyasının elektrik möhkəmliyinə qədər səlist yüksəldilir. 
+İki və üç dəfəlik lakla örtülmüş vərəq üçün deşilmə gərginliyi 
+100...150V-dan az olmamalıdır. 
+Təcrübəni bir neçə dəfə təkrar etməklə polad vərəqənin 
+izolyasiyasının elektrik möhkəmliyinə qiymət verilir. 
+Elektrik möhkəmliyinin qiyməti voltmetr (PV) vasitəsi ilə 
+müəyyən olunur. Deşilmə anında lampa yanır. 
+ 
+ 
+ 
+Şək 6.1. Aktiv polad vərəqəsinin elektrik möhkəmliyinin təyini 
+sxemi: 
+TV- avtotransformator; HL-siqnal lampası; 1- sıxac;  
+2- elektod; 3- sınaqdan keçirilən nümunə.         
+                 
+II. Aktiv polad vərəqələrinin izolyasiyası müqavimətini tə-
+yin etmək üçün tədqiqat obyekti kimi izolyasiyalı polad vərə-
+qələr paketi götürülür. Təcrübə aşağıdakı qayda ilə aparılır: 
+1. Sahəsi 100 sm
+2
+olan aşağı elektrodun üzərində 20 ədəd 
+izolyasiyalı vərəqədən ibatət müəyyən təzyiqlə sıxılmaqla bağ-
+lanmış paket (1) yerləşdirilir; 
+2. Bütün vərəqələrin üzərinə isə sahəsi 100 sm
+2
+olan ikinci 
+elektrod (2) yerləşdirilir. 
+3. Paketlər 0,6 mPa təzyiqlə sıxılır; 
+ 53 
+4.Şəkil 6.2-də göstərilən sxem yığılır; 
+5.Elektrodlara hazırlanıb birləşdirilmiş sıxaclar vasitəsi ilə 
+məftil birləşdirməklə 3…5V gərginlik verilir. 
+ 
+ 
+Şək. 6.2. Aktiv polad vərəqənin izolyasiya müqavimətinin təyini 
+sxemi: 
+1-izolyasiyalı vərəqəli paket; 2- izolyasiya; 3- elektrod. 
+ 
+Sxemə bağlanmış ampermetr (PA) və voltmetrin (PV) gös-
+tərişlərinə əsasən izolyasiyalı paketin müqaviməti müxtəlif cə-
+rəyan və gərginliklərdə təyin olunur və orta qiymət hesablanılıb 
+buraxıla bilənlə müqayisə olunur. Hesabat qaydası: 
+  ; ;   ;  . 
+         Polad vərəqələr paketinin izolyasiya müqaviməti  
+Rort≥50 Om olmalıdır. 
+ 
+Hesabatın məzmunu 
+ 
+1. Aktiv polad vərəqələrinin izolyasiyasinin elektrik möh-
+kəmliyinin təyini üzrə sınağın aparılmasının məzmunu, istifadə 
+olunun sxem, cihaz və qurğuların göstəriciləri, sınağın nəticələ-
+1
+1
+1
+İ
+U
+R 
+2
+2
+2
+İ
+U
+R 
+3
+3
+3
+İ
+U
+R 
+3
+321 RRRRorta
+
+
+ 54 
+rinin  hesablanılması, bunların buraxıla bilən qiymətlə müqayi-
+səsini və ümumi nəticələri göstərmək. 
+2. Aktiv polad vərəqələr paketinin izolyasiya müqaviməti-
+nin təyini üzrə sınağın aparılmasının qısa məzmunu, istifadə 
+olunan sxem, cihaz və qurğuların göstəriciləri, sınağın nəticələ-
+rinin  hesabatı, bunların buraxıla bilən qiymətlə müqayisəsi və 
+ümumi nəticələri göstərmək. 
+ 
+Ədəbiyyat 
+ 
+1. Пястoлов А.А. Практикум по технологии монтажа и 
+ремонта электрооборудования. М.: «Агропиздат.» 1990, 
+160 c. 
+2. Васильев И.П.Лабораторные работы по электромате-
+риаловедению. М.: Высшая школа. 1988, 152 c. 
+3.Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı, 2011, 140 s. 
+ 
+Laboratoriya işi üzrə  OП-1 proqram qurğusu üçün sual-
+cavablar 
+ 
+Sual 1. Aktiv polad vərəqənin izolyasiyasının elektrik 
+möhkəmliyini təyin etmək üçün tədqiqat obyekti kimi nə götü-
+rülür? 
+Cavab   1. Lakla örtülmüş polad vərəqə 
+              2. Transformatorun nüvəsi    
+              3.Gəzdirilə bilən elektrod 
+Sual 2.Elektrik möhkəmliyinin təyinində avtotransfor-
+matorun vəzifəsi nədən ibarətdir? 
+Cavab   1. Gərginliyi ölcmək 
+              2. Gərginliyi dəyişmək  
+              3. İzolyasiyanın deşilməsinə siqnal vermək 
+Sual 3. Aktiv polad vərəqənin deşilmə gərginliyi neçə volt-
+dan az olmamalıdır? 
+ 55 
+Cavab    1. 220 V  
+               2. 400 V 
+               3. 150 V 
+Sual 4. Aktiv polad vərəqənin  izolyasiya müqavimətinin 
+təyinində reostatın vəzifəsi nədən ibarətdir? 
+Cavab   1. Sabit cərəyan mənbəyi yaratmaq. 
+              2. Gərginliyi ölçmək. 
+              3. Cərəyan və gərginliyi dəyişmək. 
+Sual 5.  İzolyasiyalı polad vərəqələr paketinin izolyasiya 
+müqaviməti neçə Om- dan az olmamalıdır? 
+Cavab 1. 50 Om  
+            2. 0,5 MOm 
+            3. 5 MOm        
+ 
+ 
+ 56 
+Laboratoriya işi 7 
+ 
+ELEKTRİK MAŞINININ AKTİV POLADININ 
+QIZMAYA SINAĞININ APARILMASI 
+ 
+İşin məqsədi. Elektrik maşınlarının aktiv poladının qızma-
+ya görə sınaq metodikasını mənimsəmək. 
+ 
+İşin yerinə yetirilmə ardıcıllığı. Elektrik maşınının stator 
+nüvəsinin qızmaya görə sınağını aparıb, stator nüvəsinin aktiv 
+poladı üzrə temperaturun paylanmasını müəyyən etməli və 
+alınmış qiymətlərin buraxıla bilənlə müqayisəsini aparmalı. 
+Elektrik maşınının statorunun polad nüvəsindəki xüsusi it-
+gini hesablayıb buraxıla bilənlə müqayisə etməli. 
+ 
+İşin məzmunu və onun yerinə yetirilmə metodikası. 
+ 
+Təmirdən əvvəl defektləşdirmədə və aktiv poladın tam və 
+qismən sökülüb yığılması zamanı maşının aktiv poladının sına-
+ğı aparılır. Sınağın məqsədi-polad vərəqələrinin qapanması nə-
+ticəsində yerli qızmaları və poladdakı xüsusi itgini təyin etmək-
+dir. 
+Sınaq 50Hs tezlikdə, 1T induksiyada aparılır. 
+Təcrübədə sınaq obyekti dəyişən cərəyan mühərrikinin ak-
+tiv poladının statoru götürülür. Təcrübəni aşağıdakı qaydada 
+aparmalı. 
+Maqnitlənmə dolağını hesablamalı və onu tədqiq olunan 
+statorun nüvəsinə sarımalı (şək. 1). 
+Maqnitlənmə dolağanın sarğılarının sayı aşağıdakı ifadə ilə 
+təyin edilir: 
+ 
+ 
+burada U və f – cərəyan mənbəyinin gərginliyi və tezliyi; 
+cfBhLK
+U
+44,4
+
+ 57 
+            B- stator boyunduruğunda maqnit induksiyası; 
+            h- stator boyunduruğunun hündürlüyü; 
+            Kc- laklanmış polad üçün 0,95 olan polad paketinin 
+doldurma     əmsalı; 
+            L – polad paketinin uzunluğu 
+Maqnitlənmə dolağının məftilinin en kəsiyini seçmək üçün 
+maqnitlənmə cərəyanının qiyməti təyin edilir: 
+, 
+burada  H – maqnit sahə gərginliyinin qiyməti olub 215-
+280 A/M qəbul olunur. 
+             Do- stator boyunduruğunun orta hissəsinə uyğun 
+gələn diametrdir. 
+Maqnitlənmə dolağında tam gərginlik düşgüsünü nəzərə al-
+madan poladdakı itginin ölçülməsi düzgün olmayan nəticə ve-
+rir. Xətanı düzəltmək üçün vatmetrin gərginlik dolağı sarğılar 
+sayı maqnitlənmə dolağının sarğılar sayına bərabər olan kon-
+trol dolağın sarğısına bağlanmalıdır ( şək. 7.1). 
+ 
+ 
+Şək. 7.1. Maşının polad nüvəsinin sınağının sxemi: 
+1- maqnitlənmə dolağı; 2-kontrol dolaq. 
+
+
+
+HD
+İ
+
+ 0
+ 58 
+2. Sxemi qoşmalı və 10…20 dəqiqədən sonra gərginliyi aç-
+madan dişlərə və boyunduruğa toxunmaqla qızmanı yoxlamalı, 
+sonra termocüt və ya termoverici statorun ən soyuq və isti nöq-
+tələrinə yerləşdirməli. 
+3. Sınağı 90 dəqiqə müddətində aparmalı. Hər 10 dəqiqə-
+dən bir bütün cihazların göstərişini və temperaturun qiymətini 
+cədvələ yazmalı (cədvəl 7.1). 
+     Poladdakı xüsusi itginin təyini: 
+, 
+burada  G- nüvənin ölcülərinə və poladın sıxlığına görə tə-
+yin olunur. Xüsusi itgi Э3 markalı polad üçün 2,5 Vt/kq, Э1 
+üçün isə 4 Vt/kq- dır; 
+    P – vattmetrin göstəriçisi. 
+    Cədvəl 7.1 
+Polad nüvənin sınağının nəticələri 
+s/s 
+Ölçmə 
+vaxtı 
+U1, 
+V 
+P1, 
+Vt 
+Іμ, 
+A 
+Px, 
+Vt/kq 
+Nöqtələrdə       
+temperatura, 
+o
+C 
+t 1 t 2 t 3 
+1         
+2         
+3         
+4         
+5         
+6         
+7         
+ 
+Hesabatın məzmunu 
+ 
+1. Elektrik maşınının polad nüvəsinin qızması üzrə sınağın 
+sxemini, istifadə olunmuş riyazi ifadələri, sınağın aparılması 
+üçün seçilən cihaz və qurğuların texniki göstəriciləri, sınaq və 
+hesabat nəticələrini təqdim etməklə, sınağın ümumi nəticəsini 
+şərh edib maşının nüvəsinin qızmasına və onun keyfiyyətinə 
+G
+p
+px 
+ 59 
+qiymət verməklə nəticə çıxarmalı. 
+2. Maşının qızma sınağının nəticəsinə və stator nüvəsinin 
+çəkisinə görə xüsusi itkinin qiymətini hesablayıb buraxıla bi-
+lənlə müqayisə edib, maşının nüvəsinin keyfiyyətinə qiymət 
+verməklə nəticə çıxarmalı.  
+ 
+Ədəbiyyat 
+ 
+1. Пястoлов А.А. Практикум по монтажу, эксплуатации 
+и ремонту электрооборудования. М.: «Колос» 1986, 224 c. 
+2. Васильев И.П.Лабораторные работы по электромате-
+риаловедению. М. Высшая школа. 1988, 152 c.. 
+3. Məmmədov O.H.Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı, 2011, 140 s. 
+4. Səidov R.Ə., Məmmədov O.H. və b. Elektrik avadanlığı-
+nın təmiri və etibarlılığı fənnindən Praktikum, Bakı, “Elm nəş-
+riyyatı”, 2011, 152 s. 
+ 
+Laboratoriya işi üzrə OП- 1 qurğusu üçün sual-cavablar 
+ 
+Sual 1. Polad nüvənin sınağında maqnit induksiyası nə 
+qədər qəbul  edilir? 
+Cavab 1. 0,6 Tl 
+            2. 1,0 Tl 
+            3. 5,0 Tl 
+Sual 2. Maqnitlənmə cərəyanı hansı ifadə ilə təyin edilir? 
+Cavab:  1. ; 
+           
+2. ; 
+3.  . 
+cKhBf
+U
+ 44,4
+
+ HDo 
+G
+P1
+ 60 
+ Sual 3. Təcrübənin sonunda poladın qızma artımı neçə də-
+rəcə olmalıdır? 
+ Cavab: 1. t=60 C 
+              2. t = 45 C 
+              3. t < 45 C 
+Sual 4.   Poladın sahə gərginliyi nə qədər olmalıdır? 
+Cavab:  1. 450 A/m;  
+              2.  500 A/m  
+              3. 280 A/m3 
+Sual 5.  Poladın sınağında məqsəd nədir? 
+Cavab:  1. Gərginliyi ölçmək;  
+              2. Xüsusi itkini təyin etmək;    
+              3. Ümumi   itgini tapmaq. 
+ 
+ 
+ 61 
+Laboratoriya işi  8 
+ 
+BƏRKİYƏN DİELEKTRİKLƏRİN YUMŞALMA VƏ 
+DAMCILAMA TEMPERATURLARININ TƏYİN 
+EDİLMƏSİ 
+ 
+Qətranlar, bitumlar, kompaundlar və digər amorf maddələr 
+başqa kristallik maddələrdən fərqli olaraq müəyyən ərimə tem-
+peraturasının olmaması ilə xarakterizə olunurlar. Müxtəlif di-
+elektriklərin yumşalma temperaturunu və damcılama tempera-
+turu “üzük və kürə” və Ubbelod metodları ilə təyin edirlər. 
+İşin məqsədi: “Üzük və kürə” və Ubbelod metodları ilə 
+yumşalma temperaturunu təyin etmək üçün cihazlarla tanış ol-
+maq. Amorf dielektriklərin yumşalma temperaturunun və dam-
+cılama temperaturunun təyin olunma üsullarını mənimsəmək. 
+ 
+Cihazlar və avadanlıqlar 
+ 
+“Üzük və kürə” metodu ilə yumşalma temperaturunu təyin 
+etmək üçün cihaz(şək. 8.1) dörd nümunəni eyni vaxtda sına-
+maq üçün dörd bürünc üzük və polad kürələr komplektindən 
+ibarətdir. Üzüklərı 3 nəzarət lövhəsinə 4 malik olan dayaqda 5 
+bərkidirlər və onları su və ya qliserinlə dolu şüşə qabda yerləş-
+dirirlər. Qliserini yumşalma temperaturu 100 
+0 
+C-dən yuxarı 
+olan materialların sıanğı zamanı tətbiq edirlər. 
+Ubbelod cihazı (şək. 8.2) aşağı hisəsinə metallik giliz taxıl-
+mış xüsusi termometrdən 1 ibarətdir.  Gilizin üstünə atmosferlə 
+əlaqə yaratmaq üçün deşikləri 3 olan borucuq 2 burulmuşdur. 
+Hündürlüyü 12 mm olan şüşə kasanın 5 diametri 7 mm, onun 
+aşağı hissəsindəki deşiyin diametri isə 3 mm-dir. 
+O, sınaqdan keçirilən materialı doldurmaq üçün nəzərdə tu-
+tulmuşdur. Sınaqdan keçiriləcək dielektrik nümunəsi ilə doldu-
+rulmuş kasanı boruya 2 quraşdırma ştiftlər 4 toxunana qədər 
+yerləşdirirlər. Bu ştiftlər termometrin kürəsinin sınaqdan keçi-
+ 62 
+rilən materiala batma dərinliyini məhdudlaşdırır. 
+ 
+ 
+ 
+Şək. 8.1. Bərkiyən dielektriklərin “üzük və kürə” metodu üzrə 
+yumşalma temepraturunu təyin etmək üçün cihaz: 
+a – ümumi görünüşü, b – sxemi; 1 – polad kürə, 2 – sınaqdan keçirilən 
+material, 3 – bürünc halqa, 4 – nəzarət lövhəsi (disk) 5 – dayaq, 6 – termo-
+metr, 7-asqının qapağı, 8 – dairəvi cızıq, 9 - əsas borucuq, 10–şayba,          
+11 – birləşdirici borucuq (halqa), 12 – şüşə stəkan 
+ 63 
+İşin yerinə yetirilmə ardıcıllığı 
+ 
+A. “Üzük-kürə” metodundan (bax. Şək. 8.1) istifadə edərək 
+bitumun yumşalma temperaturunu təyin etməli. 
+1. Bitum parçalarını farfor kasaya yerləşdirməli və yavaş – 
+yavaş qızdıraraq, onu maye halına gətirməli. 
+2. Üç üzüyü 2 ərimiş sınaqdan keçiriləcək materialla dol-
+durmalı. 
+3. Soyuduqdan sonra üzüyün yuxarı səthindəki material ar-
+tığını qızdırılmış bıçaqla kəsməli. 
+4.Üzükləri cihazın bürünc deşiklərin yerləşdirməli və bi-
+tum qatları üstünə polad kürələri bir-bir qoymalı. 
+5. Cihazı su və ya qliserin doldurulmuş qaba salmalı və 5 
+0
+ 
+C/dəq sürəti ilə qızdırmalı. Temperatura termometrlə nəzarət 
+edilir. Material bərabər qızmağa başlayır. Qızaraq, sınağı aparı-
+lan material polad kürənin 1 kütləsinin təsiri altında aşağı sıxı-
+lır və cihazdakı aşağı nəzarət lövhəsinə 4 toxunur. 
+6. Toxunma anında qeyd edilmiş temperaturu material nü-
+munəsinin yumşalma temperaturu kimi qəbul etməli və onu 
+cədvəl 8.1-ə yazmalı. 
+Cədvəl 8.1  
+ 
+ 
+ 
+S/s 
+ 
+Sınağı aparılan 
+materialların 
+adları 
+Ölçülürlər 
+Yumşalma 
+temperaturu, 
+0
+C 
+Damcılama 
+temperaturu, 
+0
+C 
+ 
+B. Damcılama temperaturunu təyin etməli. 
+1. Kasanı 5 (bax. Şək. 8.2) maye halına gətirilmiş, sınağı 
+aparılan materialla doldurmalı. Artıq materialı qızdırılmış bı-
+çaqla kəsməli. 
+2 Kasanı və termometri 1 cihazına yerləşdirməli. 
+3. Cihazı diametri 40 mm olan sınaq şüşəsinə yerləşdirmə-
+li; sınaq şüşəsini su və ya yağ hamamına salmalı və 1 
+0 
+C/dəq 
+sürəti ilə qızdırmalı 
+ 64 
+ 
+ 
+Şək. 8.2. Sınaq şüşəsi və hamamla Ubbelod cihazı: 
+1 – termometr; 2 – metallik borucuq; 3 – deşik;  
+4 – quraşdırıcı ştif;, 5 – şüşə kasa; 6 – sınaq şüşəsi;  
+7 – su və ya yağ hamamı; 8 – sınağı aparılan material. 
+ 
+. Kasanın 5 dibindəki deşikdən birinci damcının düşmə 
+anını qeyd etməli. 
+4. Birinci damcının düşmə anında qeyd edilən temperaturu 
+yazmalı və onu verilmiş amorf materialın damcılama tempera-
+ 65 
+turu saymalı. 
+5. Ölçülərin nəticələrini cədvəl 8.1-ə  yazmalı. 
+Aşağıdakı sualların cavablarını əlavə edərək, əvvəllər 
+müəyyən olunmuş nümunə üzrə hesabat tərtib etməli. 
+1. Yumşalma və damcılanma temperaturları altında nə başa 
+düşülür? 
+2. Yumşalma və damcılanma  temperaturlarını hansı cihaz-
+larla təyin edirlər? 
+3. Su və ya yağ hamamı hansı rolu oynayır? 
+4. Bərkiyən dielektriklərin yumşalma və damcılanma tem-
+peraturları hansı praktiki mənanı daşıyırlar? 
+ 
+Ədəbiyyat 
+ 
+1. Колесов С.Н., Колесов И.С. Электротехнические и 
+конструкционные материалы.Киев: Транспорт, 2003. 384с. 
+2.Казарновский Д.М., Тареев Б.М. Испытание электро-
+изоляционных материалов и изделий. Л.: Энергия, 1980. 
+226 с.   
+3. Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı, 2011, 140 s. 
+ 
+Laboratoriya işi üzrə ОП-1 qurğusu üçün sual-cavablar 
+ 
+Sual 1. Yumşalma temperaturunun təyini hansı qrup 
+dielektriklər üçün aparılır? 
+Cavab: 1. Mayeşəkilli dielektriklər 
+             2. Bərk dielektriklər 
+             3. Bərkiyən dielektriklər 
+Sual 2. Materialın yumşalma temperaturu hansı üsulla 
+təyin olunur? 
+Cavab: 1. “Üzük və kürə” üsulu  
+             2. Ubbelod metodu 
+             3. Martens aparatı ilə 
+ 66 
+Sual 3. Yumşalma temperaturunun təyinində qızdırıcı vasi-
+tə kimi nədən istifadə olunur? 
+Cavab: 1. İsti havadan 
+             2. Su və ya qliserin 
+             3. Elektrik lampasının şüasından 
+Sual 4. Yumşalma temperaturunun təyinində nə zaman qli-
+serindən istifadə olunur? 
+Cavab: 1. Sınaqdan keçirilən maddə elektrik izolaysiya la-
+kı olduqda 
+              2. Yumşalma temperaturu 100
+0
+C-dən çox olan sı-
+naqdan keçrilən material üçün 
+              3. Sınaqdan keçirilən, materialın temperaturu 50
+0
+C 
+–dən az olduqda. 
+Sual 5. Amorf dielektrikin damcılama temperaturu hansı 
+metodla təyin olunur? 
+Cavab: 1. Ubbelod cihazı ilə 
+             2. “Üzük və kürə” üsulu ilə 
+             3.Materialı müəyyən qabda qızdırmaqla 
+ 
+ 67 
+Laboratoriya işi   9 
+ 
+MAYE DİELEKTRİKLƏRİN ŞƏRTİ 
+ÖZLÜLÜYÜNÜN TƏYİNİ 
+Ümumi məlumat 
+Maye dielektriklər üçün (elektrik izolyasiya yağları, laklar, 
+doldurulan və hopdurulan kompaundlar və s.) ən vacib xarakte-
+ristikalarından biri özlülükdür. Özlülük maye dielektrik qətran-
+ları bir-birinə nisbətən yerdəyişməsi zamanı daxili sürtünmə 
+əmsalıdır. Əgər mayenin özlülüyü böyükdürsə, onda maye qa-
+tıdır, onun hissəcikləri az hərəkətlidir; əgər mayenin özlüyü az-
+dırsa onda onun hissəcikləri çox mütəhərrikdir. Maye dielek-
+triklərin hopdurulma və soyutma qabiliyyəti onların özlülükləri 
+ilə təyin edilir. Maye dielektrikin özlülüyü nə qədədr kiçik 
+olarsa, onun hissəcikləri məsaməli dielektriklərə və dolaqların 
+sarğıları arasında daha dərinliyə nüfuz edərlər. 
+Özlülüyü  xüsusi cihazların-viskozimetrlərin köməyi ilə öl-
+çürlər. Viskozimetrin işi qabdan, onun dibindəki silindrik de-
+şikdən (soplodan) müəyyən həcmdə mayenin axma müddətinin 
+ölçülməsinə əsaslanır. Mayenin axmasının böyük müddəti bö-
+yük özülülüyə uyğun gəlir. Transformatora   tökülən yağın öz-
+lülüyü  mümkün qədər optimal olmalıdır ki, yağ dolaqlardan is-
+tiliyi  daha yaxşı ötürsün. Yağ açarlarında aşağı özülüklü yağ 
+açarının mexanizmlərinin hərəkətinə kiçik müqavimət göstərir 
+və qövsün yaxşı soyumasına və onun sönməsinə şərait yaradır. 
+Özlülüyün xarakteristikalarından biri şərti özlülükdür. Şərti 
+özlülüyün Enqler dərəcələrindəki (
+о
+Э) qiyməti 200 ml elektrik 
+izolyasiya mayesinin verilmiş temperaturda axma vaxtının, 200 
+ml distillə edilmiş suyun 20
+0
+ C-də axma müddətinə nisbətində 
+özünü göstərir. 200 ml suyun 20
+0
+ C-də axma müddəti cihazın 
+sabiti adlanır və o 50...52 san-yə bərabərdir. 
+Özlülüyün digər xarakteristikası–kinematik özlülük də tət-
+biq edilir. kinematik özlülüyün ölçü vahidi stoksdur (1Ct=10
+-4
+ 
+m
+2
+/san) Stoksun yüzdə biri –santistoks (cCt). 20
+0
+C zamanı 
+ 68 
+kinematik özlülük təqribən 1 cCt-ə bərabərdir. 
+Şərti özülülüyün ŞÖ ölçü vahidi kinematik özlülüyün  
+emprik əlaqəsi: ŞÖ (dərəcə)=0,135 (cCt). 
+İşin məqsədi: şərti özlülüyü ölçmək üçün cihazların quru-
+luşu ilə və onun   təyin olunma metodları ilə tanış olmalı. 
+ 
+Cihazlar və avadanlıqlar 
+ 
+Şək. 9.1. Universal viskozimetr BУ: 
+1- ölçü  kolbası; 2-elektrik cihazı; 3-axım deşiyi; 4- çubuq;  
+5- hamamda mayenin temperaturunu ölçmək üçün termometr;  
+6- sınaqdan keçirilən mayenin temperaturunu ölçmək üçün termometr; 
+7- çubuq üçün deşik; 8- qapaq; 9- qarışdırıcının dəstəyi; 10-bürünc qab 
+(sınaqdan keçiriləcək maye üçün çən); 11- göstərici (bürünc ştift);            
+12- hamam; 13 –qarışdırıcı (kürəklər); 14- quraşdırma vinti; 15.. 200 ml 
+həcmə uyğun gələn işarə 
+
+
+ 69 
+Maye dielektriklərin şərti özlülüyünü təyin etmək üçün 
+universal viskozimetrdən BУ (şək. 9.1) istifadə edirlər.  
+ 
+ 
+Şək. 9.2. B3-4 viskozimetri: 
+1-qab; 2- saxlayıcı; 3- ştativ; 4- üfuqi qurğu üçün ştift, 5- mayeni qəbul 
+etmək üçün qab; 6-axım deşiyi; 7- çubuq. 
+Onun əsas hissəsi- bürünc qabdır (10) ki, ora sınaqdan ke-
+çiriləcək mayeni tökürlər. Qab 10 digər bürünc qabın 12 (ha-
+mamın) içərisində yerləşdirilmişdir. Bu qab 12 su, yağ və ya 
+digər maye ilə doldurulur. Qabın 10 qapağında 8 iki deşik var-
+dır termometr 6 üçün deşik və ağac və ya fibra çubuq 4 üçün 
+deşik 7. Çubuq 4 öz iti ucu ilə axım deşiyini 3-silindrik kanalı 
+bağlayır. Silindrik kanalın daxili diametri 2,8 mm və hündürlü-
+yü isə 20 mm-dir. Hamam 12 elektrik qızdırıcı cihazın 2 kömə-
+yi ilə qızdırılır. Qızdırıcı 13 hamamda mayeni qızdırmağa xid-
+ 70 
+mət edir. Hamamda temperatura nəzarət, sıxacla bərkidilmiş 
+termometrlə 5 yerinə yetirilir. Qabın 10 içərisində  göstəricilə-
+rin 11  ucluğu vardır. Onların yuxarı ucları eyni zamanda qaba 
+tökülmüş maye dielektrikin səthinə toxunmalıdırlar bu cihazın 
+üfuqi qızdırıldığını  yoxlamağa imkan verir. Qurğunun üfiqi ni-
+zamlanması vintlərin 14 köməyi ilə həyata keçirilir. Cihazın al-
+tında ölçü kolbasını yerləşdirilər. 
+Özlülüyü təyin etmək üçün daha sadə konstruksiyalı B3-4-
+ü də istifadə etmək olar. Bu cihaz maye dielektrikin özlülüyü-
+nü, onu qızdırmadan təyin etməyə imkan verir. B3-4 viskozi-
+metrinin qabı 1 (şək. 9.2) metaldan və ya plastik kütlədən ha-
+zırlanmışdır. Onun konusabənzər dibində diametri 4 mm olan, 
+tıxacla bağlanan axım deşiyi vardır. Viskozimetr 100 ml sınaq-
+dan keçiriləcək maye tutur ki, onun da özlülüyü   bu miqdarda 
+mayenin qabdan 1 axma müddəti (saniyə ilə)  ilə təyin edilir. 
+ 
+İşin yerinə yetirilməsi ardıcıllığı 
+ 
+1. Qabdan 10 deşiyi 3(bax şək. 9.1) çubuqla 4 əvvəlcədən 
+bağlamalı və qapağı taxmalı. 
+2. BУ viskozimetrinin təmiz qabına 10 sınaqdan keçirilə-
+cək mayeni göstəricilərin 11 uclarına qədər tökməli. 
+3. Hamama lazımı miqdarda su kəmərindəki sudan doldur-
+malı və termometri quraşdırmalı. 
+4. Elektrik qızdırıcı cihazla 2 hamamı sınaqdan keçiriləcək 
+mayeni müəyyən olunmuş temperaturda (transformator yağı 
+üçün 20 və ya 50
+0
+ C) qədər yavaş-yavaş qızdırmalı. Sınaqdan 
+keçiriləcək mayenin temperaturu verilmiş qiymətə çatdıqda, 
+hamadakı mayenin temperaturu sınaqdan keçiriləcək mayenin 
+temperaturunu 0,2
+0
+ C-dən çox  keçməməlidir. 
+5. Bundan sonra şərti özlülüyün ölçülməsinə başlamalı. 
+Bunun  üçün mayeni əldə olunmuş temperaturda 5 dəq müddə-
+tində saxlamalı. Sonra çubuğu 4 çıxarmalı və eyni anda saniyə 
+ölçəni işə salmalı, mayenin səviyyəsi ölçü kolbasından 200 ml-ə 
+ 71 
+çatdığı anda saniyə ölçəni dayandırmalı (köpüyü nəzərə alma-
+malı). 
+6. Sınaqdan keçirilən mayenin şərti özlülüyünü 20 və 50
+0
+ 
+C-də Engler dərəcələrində təyin etməli ( cihazın sabitini 50...52 
+san bərabər götürməli). 
+B3-4 viskozimetrlərindən istifadə edən zaman ona 10 ml 
+sınaqdan keçiriləcək maye tökürlər, 5 dəq onun çökməsini göz-
+ləyirlər, saniyə ölçənlə onun müddətini saniyə ilə qeyd edirlər 
+və buna görə verilmiş mayenin özülülüyünü şərti hesablayırlar. 
+7. Ölçmələrin və hesablamaların nəticələrini cədvəl 9.1-də 
+yazmalı. 
+                                                                  Cədvəl 9.1 
+№ 
+Dielektriklərin 
+adları 
+Cihazın 
+sabiti, 
+san. 
+Ölçülürlər hesablanır 
+dielektriklərin 
+temperaturu, 
+0
+C 
+dielektriklərin 
+axma 
+müddəti 
+Şərti 
+özülülük 
+(
+0
+Э)
+ 
+      
+ 
+Aşağıdakı sualların cavablarını əlavə etməklə, əvvəlcədən 
+müəyyən edilmiş nümunə üzrə hesabat tərtib etməli. 
+  1.Transformator yağının özlülüyü  transformatorun işinə 
+nə şəkildə təsir edir? 
+  2. Maye dielektrikin özülülük dərəcəsi onun məsaməli di-
+elektriklərdə hopma qabiliyyətinə necə təsir edir? 
+Hesabatın məzmunu 
+1. Bütün qurğuların quruluşu və iş prinsiplərini göstərməli. 
+2. Sınaqların nəticələrini verməli. 
+Ədəbiyyat 
+ 
+1. Богородицкий Н.П. и.др. Электротехнические  мате-
+риалы. Л.: Энергоатомиздат, 1985,304 с. 
+2. Никулин Н.В. Электроматериаловедение. М.: Выс-
+шая школа, 1989, 92 с.  
+3. Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı, 2011, 140 s. 
+ 72 
+Laboratoriya işi üzrə ОП-1 qurğusu üçün sual cavablar 
+ 
+Sual 1. Özlülük hansı dielektriklər üçün əsas xarakteristika 
+hesab olunur? 
+Cavab: 1. Bərk dielektriklər 
+      2.Qaz dielektriklər 
+      3.Maye dielektriklər 
+Sual 2. Maye dielektriklərdə özlülüyün normadan artıq ol-
+ması onun konveksiya (soyutma) xüsusiyyətinə necə təsir edir? 
+Cavab: 1. Konveksiyanı artırır 
+      2.Konveksiya sabit qalır 
+      3. Konveksiyanı azaldır. 
+Sual 3. Şərti özlülüyün vahidi hansıdır? 
+Cavab:  1. Stoks 
+       2. Enqler dərəcə 
+0
+Э 
+       3. Puaz 
+Sual 4. Maye dielektrikin özlülüyü  hansı cihazla ölçülür? 
+Cavab: 1. Martens aparatı ilə 
+      2. Viskozimetrlə 
+      3. Ubbelod cihazı ilə 
+Sual 5. Aşağıdakılardan universal viskozimetr hansıdır? 
+Cavab: 1. ВУ tipli viskozimetri 
+              2. ВЗ-4 tipli viskozimetri 
+              3. Qiqrometr 
+ 
+ 73 
+Laboratoriya işi 10 
+ 
+ELEKTRİK MAŞINLARI VƏ 
+TRANSFORMATORLARIN DOLAQ MƏFTİLİNİN 
+İZOLYASİYASININ BƏRPASI                                                                       
+ 
+İşin məqsədi. 1.Dolaq məftilinin köhnə izolyasiyadan tə-
+mizləmə metodikasının mənimsəmək. 
+2. Məftillərin birləşdirmə metodları ilə tanış olmaq. 
+3. Dolaq məftilinin izolyasiyasının bərpası zamanı izolyasi-
+ya sapının seçilmə metodikasını mənimsəmək. 
+ 
+İşin yerinə yetrilmə planı 
+ 
+1. Dolaq məftilindən köhnə izolyasiyanı təmizləməli. 
+2. Məftilin lehimləmə və qaynaq işlərinin aparılması və 
+onun dartılıb düzəldilməsi. 
+3. Məftilin üzərini izolyasiya örtən dəzgahın quruluşunu 
+öyrənib, kinematik sxemini çəkməli. 
+4. Məftilin üzərini yeni izolyasiya ilə örtməli.  
+ 
+İşin məzmunu və onun yerinə yetrilmə qaydası 
+ 
+Məftilin izolyasiyasının bərpa prosesinin texnoloji sxemi 
+aşağıdakı əməliyyatlardan ibarətdir: 
+1. Zədələnmiş izolyasiyalı dolaq yuvalardan çıxarılıb sort-
+lara ayrılır. Uzunluğu  2m-dən  az olmayan məftillər qaynaq 
+olunur və ya lehimlənir. 
+2. Məftilin köhnə izolyasiyası yandırılır, sulfat turşusunun 
+sulu məhlulunda izolyasiya qalıqlarından təmizlənilir və sabun-
+lu suda yuyulur, qurudulur və barabana sarınır. 
+3. Saplar hazırlanılır və dəzgahda məftilin üzərinə sarınır. 
+Texnoloji prosesə görə məftil söküldükdən sonra 500...600
+0
+C  
+temperaturda elektrik sobasında onun izolyasiyası  30...50 dəq 
+ 74 
+müddətində yandırılıb təmizlənir. 
+Yanmış izolyasiyanın qalıqlarını məftilin üzərindən təmiz-
+ləmək üçün  5...10 dəqiqə müddətində sulfat turşusunun sulu 
+məhlulunda saxlanılır. 
+Bundan sonra məftil  10...20 dəq müddətində  1%-li sabun-
+lu suda yuyulur ki, məftilin səthində olan zəhərli sulfat turşusu  
+qalığından tamamilə təmizlənilsin. 
+Bundan sonra məftilin diametrindən asılı olaraq lazım gə-
+lən hissələr qaynaq edilir və ya lehimlənilir. 
+Hazırlanmış məftil roliklər arasından keçrilməklə dartılıb 
+düzəldilir və ağacdan olan katuşkaya sarınmaqla yığılır. Məftil 
+xüsusi dəzgahdan keçrilməklə bəzi yerlərdə yandırma zamanı 
+ölçüsü dəyişən hissələr düzəldilir. 
+Məftilin izolyasiyasının bərpası üzrə işlərin sonrakı əmə-
+liyyatları aşağıdakılardır: 
+- izolyasiya sapının nömrəsinin seçilməsi və paralel sapla-
+rın sayının hesabatı; 
+- aparılmış hesabat əsasında paralel sapların kiçik taxta  ka-
+tuşkalara (tağalaqlara) sarınması;  
+- sap sarınmış katuşkaların izolyasiya ilə məftilin üstünü 
+örtən maşına yerləşdirməli və yeni izolyasiyanın çəkilməsi. 
+Sapın nömrəsi izolyasiyası bərpa olunan məftilin izolyasi-
+yanın qalınlığından asılı olaraq (cədvəl 10.1) seçilən izolyasi-
+yanın ikitərəfli qalınlığına görə (cədvəl 10.2) verilən qiymətlə-
+rə əsasən seçilir. 
+Cədvəl 10.1 
+Dolaq məftilinin izolyasiyasının iki tərəfli qalınlığı 
+Məftilin 
+markası 
+Məftilin diametri 
+0
+.3
+5
+..
+.0
+,3
+8
+ 
+0
+,4
+1
+..
+.0
+,4
+9
+ 
+0
+,5
+1
+..
+.0
+,5
+9
+ 
+0
+,7
+2
+..
+.0
+,9
+6
+ 
+1
+,0
+..
+.2
+,1
+ 
+2
+,2
+6
+..
+.5
+,2
+ 
+ПЭБО 0,16 0,165 0,17 0,18 0,21 - 
+ 
+ 75 
+Bundan sonra sap zolağının eni (B) aşağıdakı ifadə ilə he-
+sablanılır: 
+, 
+ 
+burada  d – çılpaq məftilin diametri, mm; 
+     h – sapın sarınma addımı, mm. 
+Cədvəl 10.2 
+İzolyasiya sapının nömrəsinin məftilin birtərəfli 
+izolyasiyasının qalınlığından asılılığı 
+Məftilin bir- 
+tərəfli 
+izolyasiyasının 
+qalınlığı, mm 
+0
+,1
+2
+8
+ 
+0
+,1
+0
+5
+ 
+0
+,0
+8
+5
+ 
+0
+,0
+7
+7
+ 
+0
+,0
+6
+7
+ 
+0
+,0
+5
+6
+ 
+0
+,0
+5
+2
+ 
+Sapın nömrəsi 40 54 85 100 134 170 200 
+ 
+Sapın sarınma addımı: 
+,  
+burada   v – məftilin dəzgahdakı xətti sürəti, m/dəq; 
+      n – sap katuşkasının bərkidildiyi diskin (rozetkanın) 
+sürəti. 
+      v və n  maşının konstruksiyasından asılı olaraq eksperi-
+mental yolla təyin olunur. 
+Sap zolağındakı sapların sayı (K): 
+, 
+burada  b – bir ədəd sapın enidir və sapın nömrəsindən asılı 
+olaraq cədvəl 10.3-dən tapılır.  
+Cədvəl 10.3 
+Bir ədəd sapın eninin sapın nömrəsindən asılılığı 
+Sapın 
+nömrəsi 
+40 54 85 100 134 170 200 
+b 0,215 0,185 0,147 0,136 0,119 0,100 0,09 
+222 dh
+dh
+B
+
+
+
+
+n
+h
+v
+1000
+b
+B
+K 
+ 76 
+Dolaq məftilinin izolyasiyasının bərpası üzrə əldə olunan 
+göstəricilər aşağıdakı cədvələ qeyd olunur. 
+Cədvəl 10.4 
+d
+, 
+m
+m
+ 
+Δ
+iz
+, 
+m
+m
+ 
+S
+ap
+ın
+ 
+n
+ö
+m
+rə
+si
+ 
+B
+, 
+m
+m
+ 
+h
+, 
+m
+m
+ 
+v
+, 
+m
+/d
+əq
+  
+n
+, 
+d
+/d
+əq
+  
+b
+, 
+m
+m
+  
+K 
+Təcrübədən 
+alınan  Δiz, 
+mm 
+          
+ 
+Hesabatın məzmunu 
+ 
+1. Məftilin izolyasiyasının bərpa olunma texnologiyasını 
+qısaca izah etməli. 
+2. Sap zolağındakı izolyasiya saplarının sayının hesabatını 
+göstərməli. 
+3. Məftilin üzərini izolyasiya ilə örtən dəzgahın sxemini 
+göstərməli. 
+Yoxlama sualları 
+ 
+1. Elektrik maşınları və transformatorlarda ən çox hansı 
+marka dolaq məftili istifadə olunur ? 
+2. Məftil sulfat turşusunun sulu məhlulunda nəyə görə sax-
+lanılır? 
+3. Sapın nömrəsi nəyə görə təyin edilir ? 
+4. Sapın sayı necə təyin olunur? 
+ 
+Ədəbiyyat 
+ 
+1. Səidov R.Ə., Məmmədov O.H. və b. Elektrik avadanlığı-
+nın təmiri və etibarlılığı fənnindən Praktikum. Bakı, “Elm” 
+nəşriyyatı, 2011, 152 s. 
+2. Məmmədov O.H. Elektrotexniki materiallar. Gəncə, 
+ADAU nəşriyyatı, 2011, 140 s. 
+3. Пястолов А.А. и др. Практикум по технологии мон-
+тажа и ремонта электрооборудования М.: Агропромиздат, 
+1990, 160 с. 
+ 77 
+Laboratoriya işi üzrə ОП-1 qurğusu üçün sual-cavablar 
+ 
+Sual 1. Məftilin köhnə izolyasiyasının sobada təmizlənil-
+məsi (yandırılması) hansı temperaturda yerinə yetirilir? 
+Cavab: 1. 150..200
+0
+C-də 
+      2. 900…1000
+0
+C-də 
+      3. 500…600
+0
+C-də 
+Sual 2. Məftilin köhnə izolyasiyasının sobada təmizlənil-
+məsi nə qədər müddətdə aparılır? 
+Cavab: 1. 30...50 dəqiqə 
+      2. 1...2 saat 
+      3. 10...15 dəqiqə 
+Sual 3. Məftilin izolyasiyası yandırıldıqdan sonra sulfat 
+turşusunun sulu məhlulunda nə qədər müddətdə saxlanılır? 
+Cavab: 1. 5...10 dəqiqə 
+      2. 2...3 dəqiqə 
+      3. 20...30 dəqiqə 
+Sual 4. İzolyasiya sapı zolağının eni hansı ifadə ilə təyin 
+olunur? 
+Cavab: 1. . 
+      2. . 
+      3. . 
+ 
+Sual 5. Bir ədəd izolyasiya sapının eninin ölçüsü nədən 
+asılı təyin olunur? 
+Cavab: 1. İzolyasiya sapının nömrəsindən 
+      2. Sapın sarınma addımından 
+      3. Məftilin diametrindən 
+
+V
+1000
+b
+B
+1000
+222 dh
+dh
+
+
+
+ 78 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                               
+79 
+ 
+ 
+ 
+81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                             
+ 83 
+ 84 
+ Əlavə 6 
+Bir sıra fiziki kəmiyyətlərin ölçü vahidləri arasında 
+əlaqələr 
+ 
+1. Sıxlıq:  
+2. Çəki, güc:  
+3. Təzyiq və həmin ölçüdə olan digər kəmiyyətlər:  
+ 
+4. Zərbə özlülüyü: 
+ 
+5. Səthi gərilmə:  
+6. Dinamiki özlülük:  
+7. Kinematik özlülük:  
+8. İstilikkeçirmə  
+9. Xüsusi istilik tutumu 
+ 
+10.  Xüsusi müqavimət 
+ 
+11.  Xüsusi keçiricilik 
+ 
+12.  Elektrik möhkəmliyi, elektrik sahəsinin gərginliyi 
+ 
+13.  Maqnit sahəsinin gərginliyi  
+ 
+14.  Maqnit induksiyası  
+                              
+ 
+ 
+33 /001,0/1 smqmkq 
+kqskqsN 1,0102,01 
+...105,7
+/10/102,10/11
+3
+25262
+scmm
+mmkqssmkqsmNPa
+
+
+
+
+23232 /10/1002,1/1 smsmkqssmsmkqsmC  
+smdinmN /10/1 3
+sPPmsNsPa 32 1010/11 
+Stsm 42 10/1 
+)/(104,2)/(1 3 KssmkalKmVt  
+)/(104,2)/(1 4 KqkalKkqC  
+mmkOmmmmOmsmOmmOm  626 10/101001
+)/(1001,0/1 2611 mmOmmsmOmmSm  
+smkVmmkVmV /10/10/1 56  
+ЭsmAmA 3106,12/01,0/1 
+QsТ 4101 
+ 85 
+Əlavə 7 
+Fənndə qəbul olunmuş əsas kəmiyyətlərin işarələri 
+ 
+- xüsusi keçiricilik,                     - istilikkeçirmə, 
+- dielektrik itki bucağı,              - dielektrik 
+nüfuzluluğu, 
+- dinamiki özlülük,                     - kinematik özlülük,                  
+ - mexaniki möhkəmlik,            - vaxt, 
+- sıxlıq, xüsusi müqavimət,        F- güc,                                                         
+I- cərəyan şiddəti,                          - ani cərəyan, 
+J- cərəyan sıxlığı,                            k- Bolsman sabiti, 
+ – uzunluq,                                   t- temperatur 
+0
+C, 
+U- potensiallar fərqi,                      - sürət, 
+V – həcm,                                       W- enerji,         
+f- tezlik,                                          m- kütlə, 
+P- güc,                                            q – yük, 
+S- səth, sahə,                                   r – radius, müqavimət. 
+- materialın nisbi nəmliyi, bu caq, 
+- molekulun dipol momenti, maqnit nüfuzluluğu, 
+- xətti genişlənmənin temperatur əmsalı, 
+C- kondensatorun tutumu, istilik tutumu, 
+E- elektrik sahəsinin gərginliyi, 
+Eпр- elektrik möhkəmliyi, 
+e- elektronun yükü, natural loqarifmanın əsası, 
+H- maqnit sahəsinin gərginliyi, 
+p-təzyiq, xüsusi güc itkisi, 
+Q – kondensatorun yükü, 
+R – qaz sabiti, radius, müqavimət, 
+- qadağan zonasının eni,bucaq tezliyi,  
+z- dəyişən cərəyanin müqaviməti, 
+T- mütləq temperatur, bərklik,  
+B –maqnit induksiyası, 
+ТК  və ya - dielektrik nüfuzluluğunun temperatur 
+ T
+ 
+ 
+ 
+
+i
+
+
+
+
+1
+
+ 
+ 86 
+əmsalı, 
+TK или - xüsusi müqavimətin temperatur əmsalı, 
+ 
+ 
+ 87 
+ 
+MÜNDƏRİCAT 
+ 
+Giriş............................................................................................ 3 
+Laboratoriya işlərinin yerinə yetirmə metodikası........................ 6 
+Laboratoriya işlərinin yerinə yetirilməsində 
+ təhlükəsizlik texnikası................................................................. 
+ 
+11 
+Elektrotexniki materialların sınaqlarına irəli sürülən 
+tələblər......................................................................................... 
+ 
+13 
+Laboratoriya  işi  1 
+Dielektriklərin xüsusi həcmi və xüsusi 
+səthi müqavimətlərinin təyini...................................................... 
+ 
+ 
+15 
+Laboratoriya   işi 2 
+Transformator yağının sınağı....................................................... 
+ 
+20 
+Laboratoriya işi 3 
+Bərk və qaz dielektriklərin elektrik möhkəmliyinin təyini......... 
+ 
+25 
+Laboratoriya işi 4 
+Güc transformatorlarının dolaqlarının konstruksiyası və onların 
+izolyasiya elementlərinin öyrənilməsi......................................... 
+ 
+ 
+30 
+Laboratoriya  işi 5 
+Asinxron mühərriklərinin dolaqlarının konstruksiyası və onların 
+izolyasiya elementlərinin öyrənilməsi......................................... 
+ 
+ 
+39 
+Laboratoriya işi 6 
+Transformatorların aktiv poladının izolyasiyasiya 
+müqavimətinin və elektrik möhkəmliyinin təyini........................ 
+ 
+ 
+52 
+Laboratoriya işi 7 
+Elektrik maşınının aktiv poladının qızmaya sınağının aparılması 
+ 
+57 
+Laboratoriya işi  8 
+Bərkiyən dielektriklərin yumşalma və damcılama 
+temperaturlarının təyini............................................................... 
+ 
+ 
+62 
+Laboratoriya işi   9 
+Maye dielektriklərin şərti özlülüyünün təyini............................. 
+ 
+68 
+Laboratoriya işi 10 
+Elektrik maşınları və transformatorların dolaq məftilinin 
+izolyasiyasının bərpası................................................................ 
+ 
+ 
+74 
+Əlavələr........................................................................................ 79 
+ 
+ 88 
+Авторы учебного пособия «Электротехнические 
+материалы» - сотрудники Азербайджанского 
+Государственного Аграрного Университета: профессор 
+кафедры «Электроинженерия» Мамедов Октай Гусейн 
+оглы, заведующий кафедрой «Энергетика» Керимов 
+Ильгам Джамиль оглы, ведущий инженер-электрик 
+Мамедов Заур Октай оглы, инженер-электрик Мамедова 
+Матанат Вагиф кызы.  
+  
+ 89 
+ 
+ 

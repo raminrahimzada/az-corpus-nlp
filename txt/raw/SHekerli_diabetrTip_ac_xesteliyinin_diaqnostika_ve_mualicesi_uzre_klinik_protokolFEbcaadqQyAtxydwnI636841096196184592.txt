@@ -1,0 +1,3411 @@
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+Azərbaycan Respublikası Səhiyyə Nazirliyi  
+kollegiyasının 12 iyun 2009-cu il tarixli  
+17 saylı qərarı ilə təsdiq edilmişdir 
+ 
+ 
+ 
+ 
+ 
+ 
+ŞƏKƏRLİ DİABET (TİP 2) 
+XƏSTƏLİYİNİN DİAQNOSTİKA  
+VƏ MÜALİCƏSİ ÜZRƏ 
+KLİNİK PROTOKOL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bakı - 2009 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 
+54.15 
+Ş 47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ş 47     Şəkərli diabet (tip 2) xəstəliyinin diaqnostika və müalicəsi  
+ üzrə klinik protokol. – 36 səh. 
+ 2
+Klinik protokol Azərbaycan Respublikası Səhiyyə 
+Nazirliyinin səhiyyə islahatları çərçivəsində ictimai 
+səhiyyə kadrlarının hazırlanması üzrə Tədbirlər proqramı 
+əsasında tərtib edilmişdir. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 3
+ 
+Klinik protokolun redaktoru: 
+C.Məmmədov – Səhiyyə Nazirliyi İctimai Səhiyyə və 
+İslahatlar Mərkəzinin direktoru 
+ 
+Klinik protokolun tərtibçilər heyəti: 
+R.Məmmədhəsənov – SN baş endokrinoloqu, ATU-nun daxili 
+xəstəliklər kafedrasının müdiri, t.e.d., professor, ə.e.x. 
+V.Mirzəzadə – Azərbaycan Endokrinoloqlar Elmi 
+Cəmiyyətinin sədri, “Metabolizm” jurnalının baş redaktoru, 
+t.e.d. 
+R.Cabbarov – Respublika Endokrinologiya Mərkəzinin 
+direktoru, t.e.n. 
+V.Muradov – Bakı ş. Endokrinoloji Dispanserinin baş həkimi 
+A.Əhmədov – İctimai Səhiyyə və İslahatlar Mərkəzi tibb 
+işçilərinin peşəkar hazırlığı şöbəsinin müdiri 
+G.Hacızadə – İctimai Səhiyyə və İslahatlar Mərkəzi səhiyyə 
+siyasəti və islahatlar şöbəsinin həkimi 
+ 
+Səhiyyə Nazirliyinin Tibbi yardımın təşkili şöbəsi tərəfindən 
+rəy verilmişdir. 
+ 
+ 
+ 
+ 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 4
+Sübutların etibarlılıq dərəcəsi və elmi tədqiqatların tipləri 
+Sübutların 
+etibarlılıq 
+dərəcəsi 
+Sübutların mənbələri  
+(elmi tədqiqatların tipləri) 
+Ia 
+Sübutlar meta-analiz, sistematik icmal və ya 
+randomizasiya olunmuş klinik tədqiqatlardan (RKT) 
+alınmışdır 
+Ib Sübutlar ən azı bir RKT-dən alınmışdır 
+IIa 
+Sübutlar ən azı bir yaxşı planlaşdırılmış, nəzarət 
+edilən, randomizasiya olunmamış tədqiqatdan 
+alınmışdır 
+IIb Sübutlar ən azı bir yaxşı planlaşdırılmış kvazi-eksperimental tədqiqatdan alınmışdır 
+III 
+Sübutlar təsviri tədqiqatdan (məsələn, müqayisəli, 
+korrelyasion tədqiqatlar, ayrı-ayrı halların 
+öyrənilməsi) alınmışdır 
+IV Sübutlar ekspertlərin rəyinə və ya klinik təcrübəyə əsaslanmışdır 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 5
+Tövsiyələrin etibarlılıq səviyyəsi şkalası 
+Tövsiyənin 
+etibarlılıq 
+səviyyəsi 
+Tövsiyənin əsaslandığı sübutların  
+etibarlılıq dərəcəsi 
+A 
+• RKT-lərin yüksək keyfiyyətli meta-analizi, 
+sistematik icmalı və ya nəticələri uyğun 
+populyasiyaya şamil edilə bilən, sistematik səhv 
+ehtimalı çox aşağı olan (++) irimiqyaslı RKT. 
+• Sübutların etibarlılıq dərəcəsi Ia. 
+B 
+• Kohort və ya klinik hal - nəzarət tipli tədqiqatların 
+yüksək keyfiyyətli (++) sistematik icmalı, yaxud 
+• Sistematik səhv riski çox aşağı olan (++) yüksək 
+keyfiyyətli kohort və ya klinik hal - nəzarət tipli 
+tədqiqat, yaxud  
+• Nəticələri uyğun populyasiyaya şamil edilə bilən, 
+sistematik səhv riski yüksək olmayan (+) RKT. 
+• Sübutların etibarlılıq dərəcəsi Ib və IIa. 
+C 
+• Nəticələri uyğun populyasiyaya şamil edilə bilən, 
+sistematik səhv riski yüksək olmayan (+) kohort və 
+ya klinik hal - nəzarət tipli və ya nəzarət edilən, 
+randomizasiya olunmamış tədqiqat, yaxud  
+• Nəticələri uyğun populyasiyaya bilavasitə şamil 
+edilə bilməyən, sistematik səhv riski çox aşağı olan 
+və ya yüksək olmayan (++ və ya +) RKT. 
+• Sübutların etibarlılıq dərəcəsi IIb. 
+D 
+• Klinik hallar seriyasının təsviri, yaxud  
+• Nəzarət edilməyən tədqiqat, yaxud  
+• Ekspertlərin rəyi.  
+• Yüksək səviyyəli sübutların mövcud olmamasının 
+göstəricisidir. 
+• Sübutların etibarlılıq dərəcəsi III və IV. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 6
+İxtisarların siyahısı 
+AQQ  – acqarına qanda qlükoza səviyyəsi 
+AQP  – acqarına qlikemiyanın pozulması  
+ASLX  – aşağı sıxlıqlı lipoproteidlərin xolesterini 
+BKİ  – bədən kütləsi indeksi 
+DKA  – diabetik ketoasidoz 
+DÖNÖ  – diabet zamanı özünə nəzarətin öyrədilməsi  
+DPN  – distal simmetrik polineyropatiya  
+HbA1c  – qlikolizə olunmuş hemoqlobin  
+HPP  – hamiləliyin planlaşdırılması proqramı 
+HŞD  – hestasiya şəkərli diabeti 
+XBX  – xroniki böyrək çatışmazlığı 
+XBT-10  – Xəstəliklərin Beynəlxalq Təsnifatı, 10-cu baxış 
+OQTT  – oral qlükoza tolerantlığı testi 
+QFS  – qlomerulların filtrasiya sürəti 
+QQPQ  – qanda qlükozanın pasiyent tərəfindən qiymətləndirilməsi 
+QTP  – qlükoza tolerantlığının pozulması 
+QV  – qalxanabənzər vəz 
+PAX  – periferik arteriyaların xəstəliyi 
+RKT  – randomizasiya olunmuş klinik tədqiqatlar 
+ŞD  – şəkərli diabet 
+ŞD2  – şəkərli diabet (tip 2) 
+TBİ  – topuq-braxial indeksi 
+TQM  – tibbi qidalanma ilə müalicə 
+ÜDX  – ürək-damar xəstəliyi 
+ÜXX  – ürəyin xronik xəstəliyi 
+ÜST  – Ümumdünya Səhiyyə Təşkilatı 
+YSLX  – yüksək sıxlıqlı lipoproteidlərin xolesterini 
+YPKS  – yumurtalıqların polikistozu sindromu 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 7
+Protokol həkim-endokrinoloqlar, ilkin səhiyyə xidmətləri 
+səviyyəsində çalışan terapevtlər, ailə həkimləri üçün nəzərdə 
+tutulmuşdur. 
+Pasiyent qrupu:  
+► 2-ci tip şəkərli diabeti və onun fəsadları olan bütün yaş 
+qruplarından xəstələr, hamilə qadınlar  
+► Şəkərli diabetin inkişafı üzrə risk qrupuna daxil olan əhali  
+ 
+Protokolun məqsədləri: 
+► Müasir diaqnostika və müalicə metodlarını tətbiq etməklə ŞD-nin 
+diaqnostika və müalicəsinin təkmilləşdirilməsi 
+► ŞD ilə xəstələnmə və ölüm hallarının azaldılması 
+► Fəsadlaşmalar ehtimalını müəyyən etmək üçün ŞD-nin gedişinin 
+qiymətləndirilməsi 
+► ŞD-li xəstələrin həyat keyfiyyətinin yaxşılaşdırılması 
+ÜMUMİ MÜDDƏALAR 
+Şəkərli diabet tip 2 (ŞD2) – insulinin təsirinin və ya insulin 
+sekresiyasının defekti nəticəsində zülal, piy və karbohidrat 
+mübadiləsi pozğunluğu ilə müşayiət olunan və xroniki 
+hiperqlikemiya ilə xarakterizə edilən polietioloji metabolik 
+pozğunluqdur. Şəkərli diabetin orqanizmə mənfi təsiri müxtəlif 
+orqanların disfunksiyası, çatışmazlığı və gecikmiş (xroniki) fəsadları 
+şəklində təzahür edir. 
+Şəkərli diabet – kəskin və xroniki ağırlaşmaların əmələgəlmə 
+riskinin qarşısını almaq üçün daimi müalicə və xəstələrə 
+özünənəzarəti öyrətməyi tələb edən bir xəstəlikdir. Şəkərli diabetin 
+müalicəsi tək qlikemiyaya deyil, həmçinin onun ağırlaşmalarına 
+gətirib çıxara biləcək digər faktorlara nəzarət tələb edir. 
+Prediabet dedikdə, acqarına qlikemiyanın pozulması və 
+qlükozaya qarşı tolerantlığın pozulması nəzərdə tutulur. Qeyd edilən 
+hər iki hal geri dönən vəziyyətdir, belə ki, karbohidrat mübadiləsini 
+tam normallaşdırmaq mümkündür. Eyni zamanda hər iki hal ürək-
+damar sistemi xəstəliklərinin və ürək-damar xəstəliklərindən ölümün 
+əsas risk faktoru hesab olunur (B). 
+ 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 8
+Epidemiologiya 
+ŞD-nin epidemiologiyası kifayət qədər öyrənilməmişdir. Dünya 
+əhalisinin 2-3%-i ŞD-dən əziyyət çəkir. ÜST-nin məlumatlarına görə 
+1985-ci ildə dünyada ŞD olan 60 mln insan qeydiyyata alınmışdır. 
+Beynəlxalq Diabet Federasiyasının 2008-ci il üçün olan 
+məlumatlarına görə ŞD-dən əziyyət çəkən insanların sayı 246 mln-
+dur. ŞD2 şəkərli diabetin ən geniş yayılmış formasıdır. ŞD2 bütün 
+şəkərli diabet hallarının 90-95%-ini təşkil edir.  
+ŞD2-nin əhali arasında çox rast gəlinməsi ÜST tərəfindən bu 
+xəstəliyin epidemiya kimi qəbul edilməsinə səbəb olmuşdur. Əhali 
+arasında bu xəstəlik qeydə alınandan 2-3 dəfə çoxdur.  
+ 
+ŞD-nin təsnifatı 
+► ŞD 1-ci tip (β-hüceyrələrin destruksiyası və insulin çatışmazlığı 
+ilə xarakterizə edilir) 
+► ŞD 2-ci tip (insulin rezistentliyi nəticəsində baş verən insulinin 
+sekresiyasının defekti ilə xarakterizə edilir) 
+► Başqa səbəblərdən – məs., β-hüceyrələrin funksiyasının genetik 
+defekti, insulinin təsirinin genetik defekti, pankreasın ekzokrin 
+funksiyasının pozulması ilə nəticələnən xəstəliklər (sistik fibroz), 
+dərmanların və ya kimyəvi maddələrin təsiri (QİÇS və ya orqan 
+transplantasiyasından sonra aparılan müalicə) – baş verən diabet 
+► Hestasion şəkərli diabet (HŞD) (hamiləlik zamanı diaqnostika edilir) 
+ŞƏKƏRLİ DİABET TİP 2-nin XBT-10 üzrə TƏSNİFAT 
+E10-14  Şəkərli diabet (ŞD)  
+.0  koma ilə 
+.1  ketoasidozla 
+.2  böyrəklərin zədələnməsi ilə 
+.3  gözlərin zədələnməsi ilə 
+.4  nevroloji ağırlaşmalarla 
+.5  periferik qan dövranının 
+pozğunluğu ilə 
+.6  digər dəqiqləşdirilməmiş 
+ağırlaşmalarla 
+.7  çoxsaylı ağırlaşmalarla 
+.8  dəqiqləşdirilməmiş 
+ağırlaşmalarla 
+.9  ağırlaşmalarsız 
+E10  İnsulindən asılı ŞD 
+E11  İnsulindən asılı olmayan ŞD 
+E12  Qeyri-kafi qidalanma ilə bağlı ŞD 
+E13  ŞD-nin digər dəqiqləşdirilmiş formaları 
+E14  Dəqiqləşdirilməmiş ŞD 
+O24  Hamiləlik dövründə ŞD 
+R73.0  Qlükozaya qarşı tolerantlığın pozulması 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 9
+ŞD RİSK FAKTORLARI VƏ SKRİNİNQİ 
+Prediabet və ŞD yaranmasının risk faktorları
+► Yaşın >45 olması 
+► Ailədə diabet xəstəliyi (birinci dərəcəli qohumluq) 
+► Ürək-damar xəstəliyi 
+► Çəkinin artıqlığı və ya piylənmə (çəkinin ideal bədən çəkisindən ≥20% 
+artıq olması və ya bədən kütləsi indeksi ≥25 kq/m2) 
+► Az hərəkətli həyat tərzi 
+► Bəzi etnik qruplara mənsubiyyət: Latın Amerikası mənşəli, qaradərili, 
+Asiya mənşəli amerikalılar, amerika hinduları və ya Sakit okean 
+adalarında yaşayanlar. 
+► Əvvəllər qlükoza tolerantlığında və ya acqarına qlükozanın 
+səviyyəsində dəyişikliklərin olması 
+► Hipertenziya (AT ≥140/90 mm c.süt.) 
+► Triqliseridlərin səviyyəsinin artması (≥ 250 mq/dl və ya 2,82 mmol/L), 
+yüksək sıxlıqlı lipoproteidlərin konsentrasiyasının aşağı olması (≤40 
+mq/dL və ya 0,90 mmol/L) 
+► Hestasiya diabetinin olması 
+► Yenidoğulmuşun çəkisinin >4 kq olması  
+► Yumurtalığın polikistozu sindromu (YPKS) 
+► Psixi xəstəliyin olması 
+ 
+Skrininq 
+► Artıq çəki və ya piylənməsi (BKİ > 25 kq/m2) olan böyüklər və bir və 
+ya daha çox risk faktorları olan şəxslər prediabet və ŞD2-yə görə 
+yoxlanmalıdırlar. Risk faktorları olmayan şəxslərdə  isə testləşdirmə 45 
+yaşdan başlamalıdır. (B)  
+► Hiperlipidemiya (ASLX>130) və hipertenziyası (qan təzyiqi >140/90 
+mmHg) olan hər bir xəstəyə yaşından asılı olmayaraq ŞD2-yə görə 
+skrininq aparılması tövsiyə olunur. 
+► Testlərin nəticəsi normal olduqda, təkrar testlər ən azı 3 illik zaman 
+çərçivəsində aparılmalıdır. (D) 
+► Prediabetin və ya diabetin testləşdirilməsi üçün AQQ testi  və ya 2 
+saatlıq OQTT (75 qr. qlükozadan sonra), yaxud hər ikisini aparmaq 
+olar. (B) 
+► AQP olan xəstələrdə diabet riskini daha dəqiq müəyyən etmək üçün 
+OQTT aparılması tövsiyə edilir. (D)  
+► Prediabet olan xəstələrdə ÜDX-nin risk faktorlarını aşkarlamaq və 
+mümkündürsə, müalicə etmək lazımdır. (B) 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ŞD2-nin DİAQNOSTİKASI 
+1. Klinik simptomatika 
+Şəkərli diabetli xəstələrin əsas şikayətləri ağızda quruluq, 
+susuzluq (polidipsiya), tez-tez və çoxlu sidik ifrazı (poliuriya), gecə 
+sidik ifrazı, arıqlama, zəiflik və s. ola bilər. Eyni zamanda bir çox 
+xəstələrdə heç bir şikayət olmaya da bilər. 
+2. ŞD2-nin və prediabetin laborator diaqnostikası 
+ŞD2-nin diaqnostikası məqsədilə AQQ təyin edilir və ya 2 saatlıq 
+OQTT aparılır (A). Diabetin diaqnostikasında AQQ ilə müqayisədə 
+75 qr. qlükoza vasitəsilə aparılan OQTT-nin daha həssas və spesifik 
+olmasına baxmayaraq, onun praktikada yerinə yetirilməsi çətin ola bilər.  
+OQTT nəticələrinə əsasən şəkərli diabet və prediabetin 
+diaqnostik meyarları cədvəl 1-də göstərilmişdir (D).  
+Cədvəl 1. OQTT-nin cavablarına əsasən ŞD, QTP və AQP zamanı kapilyar 
+və venoz qanda və plazmada qlükoza konsentrasiyasının diaqnostik 
+göstəriciləri (75 qr. quru qlükoza 250-300 ml isti suda həll edilir. 
+Ürəkbulanmanın olmaması üçün suya az miqdarda limon turşusu və ya bir 
+parça limon əlavə etmək olar.) 
+Qlükozanın konsentrasiyası, mmol/l (mq/dl) 
+Qanda Plazmada Klinik interpretasiya Venoz Kapilyar Venoz Kapilyar 
+Şəkərli diabet 
+Acqarına ≥ 6.1  ( ≥ 110 ) 
+≥ 6.1  
+( ≥ 110 ) 
+≥ 7.0  
+( ≥ 126 ) 
+≥ 7.0  
+( ≥ 126 ) 
+2 saat sonra ≥ 10.0  ( ≥ 180 ) 
+≥ 11.1  
+( ≥ 200 ) 
+≥ 11.1  
+( ≥ 200 ) 
+≥ 12.2  
+( ≥ 220 ) 
+Qlükozaya qarşı tolerantlığın pozulması 
+Acqarına < 6.1  ( <110 ) 
+< 6.1  
+( < 110 ) 
+< 7.0  
+( <126 ) 
+< 7.0  
+( < 126 ) 
+2 saat sonra 
+≥ 6.7  
+( ≥ 120 ) 
+< 10.0  
+( < 180 ) 
+≥ 7.8  
+( ≥ 140 ) 
+< 11.1 
+( < 200 ) 
+≥ 7.8  
+( ≥ 140 ) 
+< 11.1  
+( <200 ) 
+≥ 8.9  
+( ≥ 160 ) 
+< 12.2  
+( <220 ) 
+Acqarına qlikemiyanın pozulması 
+Acqarına 
+≥ 5.6  
+( ≥ 100 ) 
+< 6.1 ( 
+<110 ) 
+≥ 5.6  
+( ≥ 100 ) 
+< 6.1  
+( <110) 
+≥ 6.1  
+( ≥ 110 ) 
+< 7.0  
+( < 126 ) 
+≥ 6.1  
+( ≥ 110 ) 
+< 7.0  
+( < 126 ) 
+2 saat sonra < 6.7  ( < 120 ) 
+< 7.8 
+( <140) 
+< 7.8  
+( < 140 ) 
+< 8.9  
+( < 160 ) 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 11
+Diabetin diaqnostikası üçün HbA1c-nin təyini hal-hazırda tövsiyə 
+olunmur (D). 
+ 
+3. ŞD2 olan xəstələrin İlkin qiymətləndirilməsi 
+Tam tibbi qiymətləndirmə zamanı diabetin təsnifatı aparılmalı, 
+diabetik fəsadların olub-olmaması müəyyənləşdirilməli, öncəki 
+müalicə nəzərdən keçirilməli və diabet diaqnozu qoyulan xəstələrdə 
+qlikemiyaya nəzarətin olmasına fikir verilməlidir. Toplanan 
+məlumatlar müalicə planının tərtib edilməsində və xəstənin davamlı 
+aparılmasında yardımçı olacaqdır. Hər bir xəstəyə onun vəziyyətini 
+xarakterizə edən laborator müayinələr aparılmalıdır. 
+Diabetin tam qiymətləndirilməsinin komponentləri. 
+Xəstəlik tarixi 
+► Diabetin başlanma yaşı və xüsusiyyətləri (məs., DKA, 
+asimptomatik laborator tapıntılar) 
+► Qida rejimi, qidalanma statusu, uşaqlıq və yetişkənlik dövrünün 
+çəki, boy artımı və inkişaf tarixi 
+► Diabet üzrə maariflənmə tarixi 
+► Öncə aparılmış müalicənin və onun nəticəsinin xülasəsi (HbA1c 
+qeydləri) 
+► Dərman preparatlarını, qidalanma rejimini və fiziki aktivliyi, 
+həmçinin qlükozanın monitorinqinin nəticələrini və pasiyentin bu 
+məlumatdan istifadə etmə bacarığını əks etdirən diabetin hal-
+hazırkı müalicə planı 
+► DKA-nın tezliyi, ağırlığı və səbəbi 
+► Hipoqlikemiya epizodları 
+► Hipoqlikemiyanın başa düşülməməsi (vaxtında müəyyən 
+edilməməsi) 
+► Hər hansı bir ağır hipoqlikemiya: tezliyi və səbəbi 
+► Diabetik fəsadların tarixi 
+► Mikrovaskulyar fəsadlar: retinopatiya, nefropatiya, neyropatiya 
+(sensor – buraya pəncədə olan dəyişikliklər aiddir və avtonom – 
+buraya seksual disfunksiya və qastroparez aiddir) 
+► Makrovaskulyar fəsadlar: ÜXX, serebrovaskulyar xəstəlik, PAX 
+► Başqa psixoloji problemlər, diş xəstəlikləri 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 12
+Fiziki müayinə 
+► Boy, çəki, BKİ 
+► Qan təzyiqinin ölçülməsi, ehtiyac olduqda ortostatik vəziyyəti 
+dəyişməklə 
+► Göz dibinin müayinəsi 
+► QV palpasiyası 
+► Dəri müayinəsi (acanthosis nigricans və insulin inyeksiyası 
+yerlərini təyin etmək üçün) 
+► Pəncənin hərtərəfli müayinəsi: 
+ Baxış 
+ Arteria dorsalis pedis və arteria tibialis posterior-da pulsasiyanın 
+yoxlanılması 
+ Diz qapağı və Axill reflekslərinin olması/ olmaması 
+ Proprioseptiv, vibrasiya və monofilament hissiyyatlarının təyin edilməsi 
+Laborator qiymətləndirmə 
+► HbA1c, əgər son 2-3 ay ərzində yoxlanılmayıbsa 
+► Son bir ildə aparılmayıbsa/ mümkün olmayıbsa, aşağıdakı 
+müayinələr aparılmalıdır: 
+ Acqarına lipid profili: total, ASLX, YSLX və triqliseridlər 
+ Qaraciyərin funksional testləri 
+ Sidikdə albuminin miqdarı, albuminin kreatinə nisbətini göstərməklə 
+ Qanda kreatinin səviyyəsi və QFS hesablanması 
+Göndərişlər 
+► Göz müayinəsi ildə bir dəfə 
+► Reproduktiv dövrdə olan qadınlar üçün ailə planlaşdırılması üzrə 
+mütəxəssisə müraciət 
+► TQM almaq üçün diyetoloqa müraciət 
+► Diabetin pasiyentlər tərəfindən aparılmasına dair maarifləndirmə 
+► Dişlərin müayinəsi 
+Əgər ehtiyac olarsa, psixi xəstəliklər üzrə mütəxəssisə müraciət 
+ŞD2-nin MÜALİCƏSİ 
+Müalicənin strateji məqsədi həyat davamiyyətinin artırılması və 
+keyfiyyətinin yaxşılaşmasına nail olmaq üçün şəkərli diabetin verdiyi 
+zərərlərin, fəsadların vaxtında  profilaktikasının aparılmasıdır. 
+Şəkərli diabetin fəsadlarının profilaktikası üçün əsas vasitə 
+müalicənin taktiki məqsədlərinə nail olmaqdır. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 13
+Müalicənin taktiki məqsədləri  
+► ŞD-li xəstənin özünü normal hiss etməsinə nail olmaq (D) 
+► Acqarına və yeməkdən əvvəl qanda şəkərin miqdarı <110 mq/dl 
+və ya <6,1 mmol/l (D) 
+► Yeməkdən 2 saat sonra qanda şəkərin miqdarı <140 mq/dl və ya 
+≤7,8 mmol/l (D) 
+► Qlikohemoqlobinin səviyyəsi (HbA1c) ≤ 7,0% (A) 
+► Ümumi xolesterin <175 mq/dl və ya < 4,5mmol/l (B) 
+► Yüksək sıxlıqlı lipoproteidlərin xolesterini (YSLX) (B)  
+ Kişilər üçün >40 mq/dl və ya > 1,03 mmol/l 
+ Qadınlar üçün >50 mq/dl və ya>1,29 mmol/l  
+► Triqliseridlər <150 mq/dl və ya <1,79 mmol/l (B) 
+► Arterial təzyiq: sistolik ≤130 mm c.süt. (B) və diastolik ≤ 80 mm 
+c.süt. (B) 
+► Bədən kütləsi indeksi (BKİ) (D) 
+ Kişilər üçün     ≤25  kq/m2 
+ Qadınlar üçün  ≤24  kq/m2 
+Şəkərli diabetli xəstələrin monitorinq planı (D) 
+Test/yoxlama Aparılma tezliyi 
+HbA1C 1-3 aydan bir 
+Göz müayinəsi İldə 2 dəfə 
+Tam ayaq müayinəsi 
+1. Ayağın vizual və palpator müayinəsi – 
+həkimə hər müraciətdə 
+2. Ayaqda hissiyyatın yoxlanılması – ildə 2 dəfə 
+Lipid profili 1. Normaldırsa, ildə 2 dəfə 2. Dəyişiklik varsa, 1-3 aydan bir 
+Mikroalbuminuriya İldə 2 dəfə 
+Kreatinin 1. Normaldırsa – ildə 2 dəfə 2. Dəyişiklik varsa – ayda 1-2 dəfə 
+Qan təzyiqi 1. Normaldırsa – həkimə hər müraciətdə 2. Dəyişiklik varsa – günlük özünənəzarət 
+Çəki Həkimə hər müraciətdə 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ŞD2-nin müalicə planı 
+Əsas prinsiplər: 
+► Həyat tərzinin dəyişdirilməsi: 
+ Düzgün qidalanma 
+ Fiziki aktivlik 
+► Özünənəzarət 
+► Xəstələrin təlimi 
+► Şəkər endirici farmakoterapiya 
+► Fəsadların və yanaşı xəstəliklərin erkən müalicəsi (arterial 
+təzyiqin tənzimlənməsi, qanda lipidlərin səviyyəsinin 
+normallaşdırılması və s.) 
+HƏYAT TƏRZİNİN DƏYİŞDİRİLMƏSİ 
+Tibbi qidalanma ilə müalicə (TQM) 
+► Artıq çəki və piylənmə insulinə rezistentliyin səbəbdir. Ona görə 
+də diabet və ya risk faktorları olan şəxslərə çəkini azaltmaq 
+tövsiyə olunur. (A) 
+► Az karbohidratlı pəhrizdə olan xəstələrdə lipid profili, böyrək 
+funksiyası və zülal mübadiləsinin (nefropatiya hallarında) 
+monitorinqini aparmaq və ehtiyac olduqda hipoqlikemiyanı 
+müalicə etmək lazımdır. (D) 
+► Yüksək risk qrupuna daxil olan şəxslər tərkibində bitki lifləri (14 
+qr. bitki lifi/1000 kkal) və dənli bitkilər (normadan 1,5 dəfə çox) 
+olan pəhrizə riayət etməlidir. (B) 
+Diabet zamanı yağ qəbulu 
+► Qəbul edilən yağlar ümumi kalorilərin 7%-ni təşkil etməlidir. (A) 
+► Transformasiya olunan yağların miqdarı minimal olmalıdır. (D) 
+Diabet zamanı karbohidratlar qəbulu 
+► Qəbul edilən karbohidratların hesablanması və sübutlara 
+əsaslanan üsullardan istifadə etməklə karbohidratlar qəbulunun 
+monitorinqi qlikemik nəzarətin əsas mərhələsidir. (A) 
+► Qəbul edilən karbohidratların hesablanmasına nisbətən, diabet 
+zamanı qlikemik indeks və qlükoza ilə yüklənmənin köməyi ilə 
+qlikemiyanın daha dəqiq nəzarətini aparmaq mümkündür. (B) 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+Qidalanma ilə bağlı digər tövsiyələr 
+► Gündəlik dozada qlükozanı əvəzedici tərkibli şirniyyatlar qəbul 
+edilə bilər. (A) 
+► Diabetli xəstələr çox az miqdarda alkoqol qəbul edə bilərlər 
+(gündə 1 kiçik qədəh və ya ondan az qadınlar, 2 kiçik qədəh və 
+daha az kişilər üçün) (D) 
+► Effektivliyi və uzunmüddətli istifadəsinin təhlükəsizliyinə dair 
+kifayət qədər sübut olmadığı üçün vitamin E, C və karotin kimi 
+antioksidant əlavələrin rutin istifadəsi tövsiyə olunmur. (A) 
+► Ahıl yaşlı və ya piylənməsi olan yaşlı xəstələrdə xromun 
+istifadəsinin üstünlüyü  tam sübut edilmədiyi üçün, ondan istifadə 
+tövsiyə olunmur. (D) 
+Fiziki aktivlik 
+► Çəkini azaltmaq və eyni səviyyədə saxlamaq üçün fiziki aktivlik 
+həyat tərzinin dəyişdirilməsi proqramına daxil edilməlidir. (B) 
+► ŞD xəstələri ən azı həftədə 150 dəqiqə orta gərginlikli fiziki 
+hərəkətlər (ürək döyüntülərinin 50-70%-ə qədər artması) yerinə 
+yetirməlidirlər. (A) 
+► Əks-göstərişlər olmadıqda ŞD2 olan şəxslər həftədə 3 dəfə  
+idman hərəkətləri edə bilərlər. (A) 
+Pasiyentlər əvvəlcə həkim müayinəsindən keçməlidirlər: ürəyin 
+koronar xəstəliyinin risk faktorlarını qiymətləndirmək lazımdır. 
+Həkimlər həmçinin əks-göstərişləri təyin etməlidirlər – nəzarət 
+olunmayan hipertenziya, ağır avtonom neyropatiya, ağır periferik 
+neyropatiya, retinopatiya və ya pəncənin zədələnməsi.  
+ 
+Psixi-sosial qiymətləndirmə və qulluq 
+► Psixoloji və sosial vəziyyətin qiymətləndirilməsi diabetin 
+aparılmasının bir hissəsidir. (D) 
+► Depressiya, həyəcan, qidalanmanın pozulması və tibbi rejimə pis 
+riayət edilməsi ilə nəticələnən şüur pozuntuları kimi psixi-sosial 
+problemlərin skrininqi aparılmalıdır. (D) 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 16
+DİABETDƏ ÖZÜNƏ NƏZARƏTİN ÖYRƏDİLMƏSİ (DÖNÖ) 
+Bir qrup göstəricilər vardır ki, onları şəkərli diabeti olan şəxslər 
+özləri nəzarətdə saxlamalıdırlar. Bu – özünənəzarət adlanır. 
+Özünənəzarət həyat keyfiyyətini saxlamaq və ŞD ağırlaşmalarının 
+(həm kəskin, həm də xroniki) profilaktikası üçün olduqca vacibdir. 
+ŞD olan şəxslər özləri müalicələrini düzgün korrektə etməlidirlər 
+(qidalanma, insulinin və ya həblərin dozaları, fiziki aktivlik). Bu 
+məqsədlə ŞD-li xəstələrə təlim keçilir. 
+DÖNÖ metabolik nəzarətin optimallaşdırılması, fəsadların 
+profilaktikası və aparılması, həyat keyfiyyətinin artırılmasında 
+pasiyentlərə kömək edir. 
+► Diabet diaqnozu qoyulduqdan sonra pasiyentlərə milli 
+standartlara əsaslanan DÖNÖ aparılmalıdır. (B) 
+► Özünə nəzarət əsasında davranışın dəyişməsi DÖNÖ-nün vacib 
+nəticəsidir və onun qiymətləndirilməsinin aparılması müalicə 
+proqramının bir komponentidir. (D) 
+► DÖNÖ psixi-sosial araşdırmalara əsaslanmalıdır, çünki 
+emosional vəziyyətin yaxşı olması diabetin gedişinə müsbət təsir 
+edir. (C) 
+ŞD2-li XƏSTƏLƏRİN ÖYRƏDİLMƏSİ 
+I. İnsulin müalicəsi  almayan ŞD2 xəstələrinin öyrədilməsi: 
+1. ŞD nədir? 
+2. Qidalanmanın planlanması. 
+3. ŞD və fiziki aktivlik. 
+4. Dərman müalicəsi. 
+5. Qanda şəkərə nəzarət. 
+6. Pəncəyə qulluq. 
+ 
+II. İnsulinlə müalicə alan ŞD2 xəstələrinin öyrədilməsi: 
+1. ŞD nədir? 
+2. Qidalanmanın planlanması. 
+3. ŞD və fiziki aktivlik. 
+4. İnsulinlə müalicə. 
+5. Qanda şəkərə nəzarət. 
+6. Pəncəyə qulluq. 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 17
+III. Arterial hipertenziyası (AH) olan ŞD2 xəstələrinin öyrədilməsi: 
+1. ŞD nədir? 
+2. Qidalanmanın planlanması. 
+3. ŞD və fiziki aktivlik. 
+4. Dərman müalicəsi. 
+5. Qanda şəkərə nəzarət. 
+6. Arterial hipertenziya və fiziki aktivlik. 
+7. Arterial təzyiqə nəzarət. 
+8. Pəncəyə qulluq. 
+FARMAKOLOJİ MÜALİCƏ 
+ŞD tip 2-nin müalicəsinin alqoritmi 
+Hal-hazırda müalicə Amerika Diabet Assosiasiyası və Diabetin 
+Öyrənilməsi üzrə Avropa Assosiasiyasının hazırladığı müalicə 
+alqoritminə əsasən aparılır (Əlavə 2). 
+Farmakoloji müalicənin prinsipləri: 
+► Diaqnoz qoyulan andan başlayaraq ŞD2-li xəstələrə müalicə 
+proqramı komponentlərinin hamısı mütləq qaydada tətbiq 
+olunmalıdır. (A)  
+► Tələb edilən qlikemik səviyyə əldə edilənə qədər dərman 
+terapiyasının daimi monitorinqi və titrlənməsi 2-3 ay ərzində 
+aparılmalıdır. (A)  
+► Əgər 2-3 aydan sonra lazımı nəticə əldə edilməzsə, başlanılan 
+müalicə intensivləşdirilməlidir. (A)  
+► Monoterapiya və ya kombinə olunmuş terapiya zamanı qlikemik 
+profil əldə edilmədikdə doza artırılmalıdır və ya ikinci, yaxud 
+üçüncü dərman əlavə edilməlidir. (A)  
+Monoterapiya 
+► Metformin, xüsusən artıq çəkisi olan xəstələrdə, ilkin preparatdır. (A) 
+► Metforminin təyinatı üçün əks-göstərişlər olarsa və ya istifadəsi 
+zamanı əlavə təsirlər olarsa, sulfonil-sidikcövhəri preparatları 
+xəstələrin əksəriyyəti üçün ilk sıra dərmanıdır. (B)  
+Kombinə olunmuş müalicə
+► Əgər мetformin ilə müalicənin effekti az olarsa, əks-göstəriş 
+yoxdursa, sulfonil-sidik cövhəri preparatları və ya digər 
+şəkərsalıcı həblər əlavə edilməlidir. (B)  
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 18
+DƏRMAN VASİTƏLƏRİNİN SEÇİLMƏSİ 
+1. Qlükometabolik vəziyyətə uyğun  
+► Postprandial hiperqlikemiya zamanı – α-qlükozidazanın inhibitoru, 
+qısa müddətli sulfonil-sidikcövhəri preparatları, qlinidlər, qısa 
+müddətli requlyar insulin və ya insulinin analoqları. 
+► Acqarına hiperqlikemiya – biquanidlər, uzun müddətli sulfonil-
+sidikcövhəri preparatları, qlitazonlar, uzun müddətli requlyar insulin 
+və ya insulinin analoqları 
+► İnsulin rezistentliyi – biquanidlər, qlitazonlar, α-qlükozidazanın 
+inhibitoru  
+► İnsulin çatışmazlığı – sulfonil-sidikcövhəri preparatları, qlinidlər, 
+insulin 
+2. ŞD2-nin ilkin müalicəsi zamanı 
+Seçim preparatları: 
+ Metformin  
+ Tiazolidinedion  
+ Sekretaqoqlar  
+ Dipeptidil-peptidaza-4 inhibitoru  
+ Alfa-qlükozidazanın inhibitoru 
+2-3 ay ərzində preparatın monitorinqi və titrlənməsi aparılmalıdır.  
+2-3 aydan sonra tələb olunan qlikemik profil əldə edilmədikdə, 
+kombinə olunmuş terapiyanın başlanması tövsiyə olunur. 
+İnsulin terapiyası 
+► HbA1c səviyyəsi 8%-dən çox, simptomatik hiperqlikemiya 
+olarsa, həmçinin AQQ-nin yüksəlməsi və ya HbA1c-dən asılı 
+olmayan postprandial qlükozanın həddən artıq artması olarsa, 
+insulinlə terapiya başlanmalıdır. (A)  
+► Hiperqlikemiyaya nəzarət etmək üçün və HbA1c 10%-dən çox 
+olduqda baş verən qlükoza toksikliyinin qarşısını almaq 
+məqsədilə insulin terapiyası təyin edilir, vəziyyət bərpa edildikdə 
+insulin müalicəsi dəyişdirilir və ya dayandırılır. (A)  
+► Aşağıdakı hallarda ŞD2-li xəstələrə müvəqqəti olaraq AQP-yə 
+nəzarət etmək üçün monoterapiya və ya oral preparatlarla 
+kombinə olunmuş şəkildə orta- və ya uzunmüddətli təsir edən 
+insulin təyin edilir:  
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 19
+ Oral preparatlar qeyri-effektiv, intolerant olduqda və ya əks 
+göstərildikdə 
+ Qısa zaman ərzində euqlikemiya vəziyyətini əldə etmək üçün 
+(məs., uzunmüddətli hiperqlikemiya əlamətləri olan xəstələr 
+əməliyyatdan sonrakı və/ və ya təcili yardım məntəqəsində) 
+ Hamiləlik planlaşdırılanda və ya baş verdikdə 
+ HbA1c normal səviyyədən >1,5 % çoxdur  
+ Çəkinin itməsi və ya qida qəbulu ilə əlaqəli olmayan ketozla 
+bağlı insulin çatışmazlığı 
+Qlikemiyaya nəzarət 
+Qlikemiyanın səviyyəsini stabilləşdirməyə  yönələn müalicənin 
+effektivliyini artırmaq məqsədilə həkimlər və pasiyentlər 
+qlikemiyaya nəzarət etmək üçün iki asan texnikadan istifadə edə 
+bilərlər: HbA1c-nin təyin edilməsi və qanda qlükozanın pasiyent 
+tərəfindən qiymətləndirilməsi (QQPQ). 
+► Qanda qlükozanın pasiyent tərəfindən qiymətləndirilməsi 
+(QQPQ) 
+ Çoxsaylı insulin inyeksiyası alan və ya insulin pompasından 
+istifadə edən xəstələrdə QQPQ gündə 3 dəfə və ya daha artıq 
+aparılmalıdır. (A)  
+ İnsulindən az hallarda istifadə edən, qeyri-insulin preparatları 
+və ya tibbi qidalanma ilə müalicə (TQM) olunan 
+pasiyentlərdə QQPQ yalnız qlikemiyanın tələb olunan 
+səviyyəsinin əldə edilməsi barədə məlumat almaq üçün 
+lazımdır. (D)  
+ Qida qəbulundan sonra qlikemiyanın səviyyəsini təyin etmək 
+üçün QQPQ məsləhət görülür. (D)  
+ QQPQ təyin edildikdə, əmin olun ki, pasiyentlər QQPQ 
+texnikasına dair ilkin təlimatlar və ardıcıl qiymətləndirmə 
+barədə məlumat almışlar, onların bu prosedura zamanı alınan 
+nəticələrdən istifadə etmək bacarığı müalicənin 
+tənzimlənməsinə kömək edəcəkdir. (D)  
+► Qlikolizə olunmuş hemoqlobinin təyini testi (HbA1c) 
+ Müalicə olunan (və daimi qlikemiya nəzarətində olan) 
+pasiyentlərə HbA1c testi ən azı ildə iki dəfə aparılmalıdır. (D)  
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 20
+ Müalicəsi dəyişdirilən və ya qlikemiyanın göstəricisi 
+tələblərə cavab verməyən pasiyentlərdə HbA1c testi hər rüb 
+aparılmalıdır. (D)  
+ Xəstəliyin aparılması planına uyğun olaraq HbA1c testinin 
+yerinə yetirilməsi müalicənin vaxtında dəyişdirilməsi barədə 
+qərar qəbul etməyə imkan verir. (D) 
+ 
+Klinik protokolun tərtib edildiyi dövrdə Azərbaycan 
+Respublikasında qeydiyyatdan keçmiş əsas şəkərsalıcı 
+preparatların qısa xarakteristikası əlavə 3-də göstərilmişdir. 
+ŞD ZAMANI XÜSUSİ HALLAR 
+Xəstələnmənin stressi, travma və /və ya cərrahi müdaxilə 
+qlikemik nəzarətə təsir edə, həyat üçün təhlükəli olan, ağırlaşma və 
+ölüm hallarının qarşısını almaq üçün təcili yardım tələb edən diabetik 
+ketoasidoza (DKA) və qeyri-ketoasid hiperosmolyar vəziyyətlərə 
+səbəb ola bilər. Qlikemik nəzarətin pozulmasına gətirib çıxaran hər 
+bir halda qanda qlükozanın və ketoza meylli olan xəstələrdə sidik və 
+ya qanda ketonların tez-tez monitorinqini aparmaq vacibdir. 
+Müəyyən olunmuş hiperqlikemiya müalicə planında müvəqqəti 
+dəyişikliklər tələb edir və əgər bu zaman ketoz, qusma və ya huşun 
+dəyişməsi qeyd olunursa, təcili olaraq mütəxəssisə müraciət etmək 
+lazımdır. Qeyri-insulin preparatları və ya yalnız TQM alan xəstələrə 
+müvəqqəti olaraq insulin təyin edilir. Adekvat miqdarda maye və isti 
+təyin edilə bilər. Diabetli pasiyentlərdə infeksiya və ya 
+dehidratasiyanın olması hospitalizasiyaya göstəriş ola bilər. 
+Hipoqlikemiya 
+Hipoqlikemiyanın müalicəsində qlükoza və ya karbohidrat 
+tərkibli qidalardan (qanda qlükozanın səviyyəsi  >70 mq/dl olduqda) 
+istifadə edilir. Kəskin hipoqlikemiya qlükoza ilə daha tez 
+korrelyasiya olunur. Karbohidratlara proteinlərin əlavə edilməsinin 
+müalicəyə təsiri yoxdur. Yağlar kəskin hipoqlikemiyanı ləngidir və 
+cavab reaksiyasının vaxtını uzadır.  
+► Huşu aydın olan xəstələrə hipoqlikemiya zamanı qlükoza (15-20 
+qr) və ya tərkibində qlükoza olan hər hansı bir karbohidrat verilir. 
+15 dəq. sonra aparılan QQPQ hipoqlikemiyanın davam etdiyini 
+göstərsə, müalicə təkrarlanır. Bir dəfə QQPQ normal olarsa, xəstə 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 21
+hipoqlikemiyanın təkrarlanmasının qarşısını almaq üçün qida 
+qəbul etməlidir. (D)  
+► Ağır hipoqlikemiya riski böyük olduqda qlükaqon təyin olunur. 
+Xəstəyə qulluq edən şəxslər və ya ailə üzvləri onun istifadə 
+qaydası barədə məlumatlandırılmalıdırlar. (D)  
+► Hipoqlikemiya olmasını anlamayan, yaxud bir və ya daha artıq 
+ağır hipoqlikemiya epizodları olan şəxslərdə gələcəkdə 
+hipoqlikemiya hallarının qarşısını almaq üçün qlikemiyanın hədəf 
+səviyyəsini bir qədər artırmaq məsləhət görülür. (B) 
+İmmunizasiya 
+Diabetli şəxslərdə pnevmokok infeksiyasının və yüksək ölüm 
+göstəricisi (50%) olan nozokomial bakteriemiyanın inkişaf riski 
+yüksəkdir.  
+ 
+Tövsiyələr: 
+► 6 aydan böyük diabetli pasiyentlər hər il qrip əleyhinə peyvənd 
+almalıdırlar. (C) 
+► Ən azı bir dəfə pnevmokok peyvəndi vurulmalıdır. Birdəfəlik 
+revaksinasiya 65 yaşdan yuxarı olan şəxslərə aparılır. 
+Revaksinasiyanın başqa göstərişləri aşağıdakılardır: nefrotik 
+sindrom, xronik böyrək xəstəliyi və immunosupressiv hallar, 
+(məs., transplantasiyadan sonra). (C) 
+DİABETİK FƏSADLARIN PROFİLAKTİKASI 
+Şəkərli diabetin fəsadlarının profilaktikası üçün əsas vasitə 
+müalicənin taktiki məqsədlərinə nail olmaqdır. 
+Şəkərli diabetin fəsadlarının diaqnostikası və müalicəsi haqqında 
+ayrıca xüsusi protokol hazırlanmalıdır. 
+A. ÜDX 
+ÜDX diabetin xəstələnmə və ölüm səbəbləri arasında aparıcı yeri 
+tutur və xəstəliklə bağlı məsrəflərin artmasına səbəb olur. ŞD2 
+zamanı olan yanaşı xəstəliklər (məs.. hipertenziya və dislipidemiya)  
+ÜDX-nin risk faktorları, diabet isə müstəqil risk kimi müəyyən edilir. 
+Bu faktorların idarə edilməsi ÜDX-nin profilaktikası və ya 
+inkişafının ləngidilməsi üçün effektivdir. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 22
+Şəkərli diabetin öyrənilməsi üzrə ADVANCE araşdırması 
+göstərmişdir ki, xəstələrdə arterial hipertenziyanın olub-
+olmamasından asılı olmayaraq daimi şəkildə perindopril+indapamid 
+kombinasiyasının qəbulu şəkərli diabetin makro- və mikrodamar 
+ağırlaşmalarının profilaktikasını və ürək-damar ölümünün faizini 
+aşağı salır. (A) 
+ 
+1. Hipertenziya/ qan təzyiqinə nəzarət 
+Hipertenziya diabetlə yanaşı gedən və pasiyentlərin 
+əksəriyyətində olan ən geniş yayılmış xəstəlikdir. O, həmçinin ÜDX-
+nin və mikrovaskulyar fəsadların əmələ gəlməsinin ən böyük risk 
+faktorudur. AT qeyri-diabetik xəstələrdə olduğu kimi ölçülür: qolda, 
+ürək səviyyəsində – oturaq vəziyyətdə, ayaq üstə və 5 dəqiqəlik 
+istirahətdən sonra. Dİabet və hipertenziyanın müştərək risk faktorları 
+olduğundan, ŞD zamanı hipertenziyanın diaqnostik meyarları 
+(AT≥130/80 mmHg) qeyri-diabetik şəxslərlə müqayisədə 
+(AT≥140/90 mmHg) daha aşağıdır. Özünə nəzarət və AT-nin 24 
+saatlıq monitorinqi maskalanan hipertenziyanı üzə çıxarmağa kömək 
+edir. 
+Skrininq və diaqnostika 
+► Hər müayinə vaxtı qan təzyiqi ölçülməlidir. Sistolik AT ≥ 130 
+mmHg və ya diastolik AT ≥ 80 mmHg olduqda, təkrar  ölçülmə 
+başqa gün aparılmalıdır. Nəticələrin yuxarıdakı kimi olması 
+hipertenziya diaqnozunu təsdiqləyir. (C) 
+Məqsədlər 
+► Müalicə nəticəsində sistolik AT < 130 mmHg səviyyəsinə 
+düşməlidir. (C) 
+► Müalicə nəticəsində diastolik AT < 80 mmHg səviyyəsinə 
+düşməlidir. (B) 
+2. Dislipidemiya / lipid mübadiləsinə nəzarət 
+Skrininq 
+► Böyük yaşlı pasiyentlərin əksəriyyətində ən azı ildə bir dəfə 
+acqarına lipid profili təyin edilməlidir. Risk səviyyəsi aşağı olan 
+böyüklərdə (lipidlərin strukturu: ASLX<100 mq/dl, YSLX>50 
+mq/dl və triqliseridlər <150 mq/dl) lipidlərin qiymətləndirilməsi 
+iki ildən bir aparılmalıdır. (D) 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 23
+3. Antitrombositar preparatlar 
+► Anamnezində ÜDX olan diabetli xəstələrdə ikincili profilaktika 
+(metafilaktika) kimi aspirin terapiyasından istifadə  olunur (75-
+162 mq/gün) (A) 
+► Kardiovaskulyar xəstəliklər riski yüksək olan (bura yaş > 40 və 
+ya əlavə risk faktorları – ailədə ÜDX, hipertenziya, siqaretçəkmə, 
+dislipidemiya və ya albuminuriya – aiddir) diabetli xəstələrə ilkin 
+profilaktika məqsədi ilə aspirin (75-162 mq/gün) təyin edilir. (A) 
+► Yaşı 30-dan aşağı olan pasiyentlərdə aspirinin tətbiqinin 
+üstünlüyü barədə kifayət qədər məlumat olmadığı üçün onlara 
+aspirin təyin edilməsi tövsiyə olunmur, həmçinin yaşı 21-dən 
+aşağı olan şəxslərdə Reye sindromunun inkişaf etmə təhlükəsi 
+yüksək olduğu üçün aspirin əks-göstərişdir. (D) 
+► Ağır və proqressivləşən ÜDX zamanı aspirin digər, məs., 
+klopidrogel kimi, antitrombositar preparatla kombinə olunur. (C) 
+4. Siqaret çəkmənin dayandırılması 
+► ŞD-li xəstələrin hamısı siqareti tərgitməlidir. (A) 
+► Siqaret çəkmənin dayandırılması və müalicənin digər formaları 
+diabetik qulluğun bir komponentidir. (B) 
+B. NEFROPATİYA 
+Ümumi tövsiyələr 
+► Nefropatiya riskini azaltmaq və ya inkişafını ləngitmək üçün 
+qlükoza nəzarətini optimallaşdırmaq lazımdır. (A) 
+► Nefropatiya riskini azaltmaq və ya inkişafını ləngitmək üçün AT 
+nəzarətini optimallaşdırmaq lazımdır. (A) 
+Skrininq 
+► ŞD2 olan pasiyentlərdə diaqnoz qoyulduqdan sonra ildə bir dəfə 
+sidiklə albumin ekskresiyasını qiymətləndirmə testi aparılmalıdır. 
+(D) 
+► Böyük yaşlı diabetli pasiyentlərin hamısında, sidiklə albumin 
+ekskresiyasının dərəcəsindən asılı olmayaraq, ildə bir dəfə qanda 
+kreatinin səviyyəsi yoxlanılmalıdır. Qanda kreatinin miqdarı 
+QFS-ni və xronik böyrək xəstəliyinin (XBX) mərhələsini (əgər 
+xəstəlik varsa) qiymətləndirmək üçün istifadə edilir. (D) 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 24
+C. RETİNOPATİYA 
+Ümumi tövsiyələr 
+► Retinopatiya riskini azaltmaq və ya inkişafını ləngitmək üçün 
+qlükoza nəzarətini optimallaşdırmaq lazımdır. (A) 
+► Retinopatiya riskini azaltmaq və ya inkişafını ləngitmək üçün AT 
+nəzarətini optimallaşdırmaq lazımdır. (A) 
+Skrininq 
+► ŞD2 olan pasiyentlərə diaqnoz  qoyulduqdan qısa müddət sonra 
+oftalmoloq tərəfindən gözlərin tam və hərtərəfli müayinəsi 
+aparılmalıdır. (B) 
+► Bundan bir müddət sonra ŞD2 olan pasiyentlərdə oftalmoloq 
+tərəfindən gözlərin təkrar müayinəsi aparılmalıdır. Bir və ya daha 
+çox müayinə normal nəticə verərsə, müayinələr 2-3 ildən bir 
+aparıla bilər. Retinopatiyanın proqressivləşməsi daha sıx 
+müayinələrə göstərişdir. (B) 
+► Hamiləliyi planlaşdıran və ya artıq hamilə olan diabetli 
+qadınlarda gözlərin hərtərəfli müayinəsi aparılmalıdır və 
+retinopatiyanın inkişafı və/ və ya proqressivləşməsi riskinin 
+olması barədə pasiyentə məlumat verilməlidir. Göz müayinəsi 
+hamiləliyin ilk trimestrində, bütün hamiləlik dövrü və doğuşdan 
+sonrakı 1 il ərzində aparılır. (B) 
+D. NEYROPATİYA 
+► ŞD2-nin diaqnostikası vaxtı və ondan sonra ən azı ildə bir dəfə 
+xəstələrin hamısına sadə klinik testlərin köməyi ilə distal simmetrik 
+polineyropatiyaya (DPN) görə skrininq aparılmalıdır. (B) 
+ Xəstələrin hamısı pəncəyə qulluq etmək barədə 
+məlumatlanmalıdırlar. DPN olan pasiyentlər pəncəyə qulluğa dair 
+daha geniş bilik almalı və xüsusi ayaqqabı geyməlidirlər. (B) 
+ ŞD2-nin diaqnostikası zamanı avtonom neyropatiyanın 
+əlamətlərinin və simptomlarının skrininqi aparılmalıdır. Nadir 
+hallarda xüsusi test tələb olunur, lakin onun xəstəliyin 
+aparılması və ya nəticəsinə təsiri yoxdur. (D) 
+ Pasiyentlərin həyat keyfiyyətini yaxşılaşdırmaq məqsədilə DPN 
+və avtonom neyropatiyanın spesifik simptomlarını 
+yüngülləşdirmək üçün dərmanlardan istifadə edilməsi tövsiyə 
+olunur. (D) 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 25
+Diabetik avtonom neyropatiya 
+Bu fəsadın əlamətləri və simptomları anamnez toplanarkən və 
+fiziki müayinə zamanı təyin edilməlidir. Avtonom neyropatiyanın 
+əsas klinik təzahürlərinə aşağıdakılar aiddir: sakit vəziyyətdə 
+taxikardiya, fiziki hərəkətlərə tolerantlıq, ortostatik hipotenziya, 
+qəbizlik, qastroparez, erektil disfunksiya, sudomotor disfunksiya (tər 
+vəziləri funksiyasının pozulması), neyrovaskulyar funksiyanın 
+pozulması, “xəfif diabet” və hipoqlikemik avtonom çatışmazlıq.  
+E. PƏNCƏYƏ NƏZARƏT 
+► Pəncənin xorası və ya amputasiyasının öncədən meydana çıxan 
+əlamətlərini vaxtında müəyyən etmək üçün diabetli xəstələrə hər 
+il pəncənin hərtərəfli müayinəsi aparılmalıdır. Pəncənin 
+müayinəsi ilkin baxış zamanı monofilament, kamerton, palpasiya 
+vasitəsilə və vizual yolla aparılmalıdır. (B) 
+► Diabetli şəxsləri pəncəyə nəzarət barədə təlimatlandırmaq 
+lazımdır. (B) 
+► Pəncə xorası və yüksək riskli pəncəsi olan şəxslərə,  xüsusən də 
+anamnezində pəncə xorası və ya amputasiya olanlara, çoxixtisaslı 
+yanaşma tövsiyə olunur. (B) 
+► Siqaret çəkən, qoruyucu hissiyyatın itməsi və toxumaların 
+struktur pozulmaları və ya anamnezində aşağı ətraflarda 
+patologiyası olan xəstələri, sonrakı profilaktika və uzun müddətli 
+sağqalma naminə pəncə problemləri ilə məşğul olan mütəxəssis 
+yanına göndərmək lazımdır. (C) 
+► Periferik arterial xəstəliyin (PAX) ilkin skrininqinə anamnezdə 
+dəyişkən axsamanın olması və ayaqda pulsasiyanın 
+qiymətləndirilməsi daxildir. PAX-li xəstələrin əksəriyyəti 
+asimptomatik olduğu üçün topuq-braxial indeksin (TBİ) təyin 
+edilməsi nəzərdə tutulmalıdır. (C) 
+► Əhəmiyyətli dərəcədə dəyişkən axsama və ya TBİ müsbət 
+olduqda, xəstələrdə damarların vəziyyətinin daha ətraflı 
+qiymətləndirilməsi və fiziki hərəkət, dərman preparatları və 
+cərrahi müdaxilə imkanının müəyyən edilməsi üçün 
+mütəxəssislərin məsləhəti lazımdır. (C) 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 26
+► Diabetik neyropatiyanın və /və ya PAX-nin  məntiqi nəticəsi olan 
+pəncənin xoralaşması və amputasiyası diabetli xəstələrin ölüm və 
+əlilliyinin əsas səbəbləridir. Risk amillərinin erkən diaqnostikası 
+və aparılması qeyri-qənaətbəxş nəticənin profilaktikasına və ya 
+ləngidilməsinə  kömək edə bilər. 10 ildən artıq diabetdən əziyyət 
+çəkən, kişi cinsinə mənsub, qlikemiya nəzarəti pis olan və ya 
+kardiovaskulyar, retinal və ya renal fəsadlar baş verən xəstələrdə 
+xoralaşma və ya amputasiya riski böyükdür.  
+► Pəncə ilə əlaqəli aşağıdakı riskli hallar zamanı amputasiya 
+ehtimalı yüksəkdir: 
+ Qoruyucu hissiyyatın itməsi ilə müşahidə olunan periferik 
+neyropatiya 
+ Biomexanizmlərin pozulması (neyropatiya olduqda) 
+ Yerli təzyiqin artması əlamətləri (eritema, xoranın qanaması) 
+ Sümüklərin deformasiyası 
+ PAX (ayaqda pulsasiyanın azalması və ya yox olması) 
+ Anamnezdə xoranın və ya amputasiyanın olması 
+ Ağır dırnaq patologiyası. 
+SPESİFİK XƏSTƏLƏRİN POPULYASİYASINDA  
+ŞD2-nin APARILMASI 
+A. Asimptomatik uşaqlarda ŞD2-nin testləşdirilməsi 
+Meyarlar 
+Artıq çəki (normal çəkinin 120%-i) + aşağıdakı risk 
+faktorlarından ikisi:  
+► Ailədə diabet xəstəliyi (birinci və ya ikinci sıra qohumluq) 
+► Bəzi etnik qruplara mənsubiyyət 
+► İnsulin rezistentliyi və ya onun yaranmasına gətirib çıxaran 
+şərtlər (acanthosis nigricans, hipertenziya, dislipidemiya və ya 
+yumurtalıqların polikistoz sindromu) 
+► Anada diabet və ya HŞD olması.  
+ 
+Xəstəliyin başlanması vaxtı: ilk dəfə 10 yaşda və ya yetişkənlik 
+dövründə, əgər yetişkənlik dövrü erkən başlayıbsa.  
+Müayinə tezliyi iki ildən bir, AQQ yoxlanılması məsləhət 
+görülür. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 27
+B. Hestasiya ŞD2 (HŞD2) 
+HŞD2-nin risk faktorları
+1. Yaşın 25-dən az olması  
+2. Çəkinin artıqlığı və ya piylənmə 
+3. Ailədə diabet xəstəliyi (məs., birinci sıra qohumluq) 
+4. Qlükoza metabolizminin pozulması tarixi  
+5. Pis mamalıq anamnezi  
+6. Yenidoğulmuşun çəkisinin > 4 kq olması 
+7. Yumurtalığın polikistozu sindromunun olması 
+8. Bəzi etnik qruplara mənsubiyyət 
+9. AQQ-nin (ən azı 8 saat qidalanmamaq şərtilə) >85 mq/dL və ya 2 
+saatlıq postprandial qlükozanın konsentrasiyasının >140 mq/dL 
+olması (75 qr. qlükoza ilə OQTT-dən sonra)  
+Hamiləliyin planlaşdırılması proqramı (HPP) 
+► Hamiləlik öncəsi HbA1c-nin səviyyəsi normaya mümkün qədər 
+yaxın olmalıdır (<7%) (B) 
+► Reproduktiv potensialı olan ŞD2-li qadınlar hamiləlik öncəsi 
+normal qlükoza nəzarətinin və ailə planlaşdırılması prosesində 
+iştirakın vacibliyi barədə məlumat almalıdırlar. (D) 
+► Hamilə olmağı planlaşdıran diabetli qadınların vəziyyəti 
+qiymətləndirilməli və diabetik retinopatiya, nefropatiya, 
+neyropatiya və ÜDX olduqda, onlar müalicə olunmalıdır. (D) 
+► Belə qadınların qəbul etdiyi dərman preparatları hamiləlik öncəsi 
+nəzərdən keçirilməlidir, çünki diabetin müalicəsi zamanı istifadə 
+edilən preparatların bir çoxu hamiləlik dövründə əks-göstərişdir. (D) 
+► Anadangəlmə qüsurlar diabetli analardan doğulan uşaqlar 
+arasında xəstələnmə və ölüm hallarının aparıcı səbəbidir. 
+Qüsurların yaranma riski qlikemiyanın artması ilə düz 
+mütənasibdir. Bu risk hestasiyanın ilk 6-8 həftəsi ərzində və 
+HbA1c-nin konsentrasiyası ilə təyin olunur. Riskin azaldılması 
+üçün HPP-yə uyğun hərəkət etmək lazımdır. HPP ŞD-li xəstələrə 
+diabetik pəhriz və intensiv insulin terapiyası tətbiq etməklə, 
+onları özünə nəzarət və QQPQ-yə hazırlayan çoxixtisaslı 
+proqramdır. Məqsəd – normal qlikemiya və HbA1c ≤7%  əldə 
+etməkdir. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 28
+Qüsurların yaranma riskini minimallaşdırmaq üçün mövcud olan 
+standart qulluğa aşağıdakılar daxildir:  
+► Qüsurların yaranmasının planlaşdırılmamış hamiləliyin və pis 
+metabolik nəzarətin nəticəsi olması barədə qadın pasiyentlərə 
+məlumat vermək  
+► Metabolik nəzarət məqsədlərinə çatana qədər effektiv 
+kontrasepsiyadan istifadə etmək. 
+ 
+Hamiləlik zamanı əks-göstəriş olan dərmanlar kateqoriyalar üzrə 
+dəyərləndirilir. Oral antidiabetik dərman preparatları arasında 
+metformin və akarboza∗ “B” kateqoriyasına aid edilir (insanlarda 
+təhlükəli olması barədə sübut yoxdur), digərləri isə “C” 
+kateqoriyasına (risk istisna olunmur) aiddir. 
+C. Ahıl yaşlı xəstələrdə ŞD2 
+► Funksional problemləri olmayan və həyat davamiyyəti göstəricisi 
+yüksək olan ahıl yaşlı pasiyentlərdə diabetin müalicəsi daha gənc 
+şəxslərdəki kimi aparılır. (D) 
+► Yuxarıdakı meyarlara uyğun gəlməyən yaşlılara fərdi yanaşma 
+tələb olunur, lakin xəstələrin hamısında kəskin hiperqlikemik 
+fəsadlar riskinə və ya simptomlarına gətirib çıxaran təhlükəli 
+amil – hiperqlikemiyanın qarşısı alınmalıdır. (D) 
+► Yaşlı xəstələrdə başqa kardiovaskulyar risk faktorlarının 
+müalicəsi dərman vasitələrinin effektiv təsirinin vaxt intervalını 
+və fərdi yanaşmanı nəzərə almaqla aparılmalıdır. Yaşlı xəstələrin 
+hamısına hipertenziyanın müalicəsi aparılmalıdır, 
+dislipidemiyanın müalicəsi və aspirin terapiyasından sonra həyat 
+davamiyyəti ən azı ilkin və ya ikincili profilaktikadan sonra əldə 
+edilən vaxt intervalına bərabərdir. (D) 
+► Yaşlı xəstələrdə diabetik fəsadların skrininqinə fərdi yanaşma 
+olmalıdır, lakin funksional çatışmazlıqla nəticələnə biləcək 
+fəsadlara ilk növbədə diqqət yönəldilməlidir. (D) 
+ 
+ 
+                                                 
+∗ Klinik protokolun tərtib edildiyi dövrdə Azərbaycan Respublikasında dövlət 
+qeydiyyatından keçməmiş dərman vasitəsi. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 29
+ŞD2-nin PROFİLAKTİKASI 
+ŞD2-nin başlanmasını ləngidən tədbirlər
+► Qlükoza tolerantlığının pozulması (QTP) (A) və ya acqarına 
+qlikemiyanın pozulması (AQP) (D) müşahidə olunan xəstələrdə 
+diabetin başlanmasını ləngitmək məqsədilə ilkin müalicə kimi 
+çəkini azaltmaq üçün sağlam qidalanmaya və fiziki aktiv həyat 
+tərzinə keçmək qətiyyətlə tövsiyə olunur. Əgər müəyyən vaxt 
+ərzində yalnız həyat tərzinin dəyişdirilməsi ilə effekt əldə 
+edilmirsə, metforminin tətbiq edilməsi məsləhət görülür. (A) 
+► Prediabeti olan xəstələrə ildə bir dəfə prosesin diabetə 
+keçməsinin monitorinqi aparılmalıdır. (D) 
+► Həyat tərzinin dəyişdirilməsi + metformin: çox böyük risk 
+səviyyəsi (QTP, AQP + başqa risk faktorlarının olması), 
+piylənmə və yaşı 60-dan yuxarı olanlara bu sxem üzrə müalicə 
+aparılır. (D) 
+► İlkin olaraq həyat tərzinin dəyişdirilməsi (C):  
+ Diyetoloqa müraciət edilməsi, çəkini aşağı salmaq məqsədilə 
+enerji istifadəsinin azaldılması və qida strategiyasına dair 
+aşağıdakı məqsədləri güdən dietik proqramın tərtib edilməsi:  
+- Çəkinin azaldılması: ümumi çəkinin 5%-dən 7%-ə 
+qədəri (A)  
+- Qidalanma: yağların miqdarı ümumi sərf olunan 
+enerjinin 30%-inə, doymuş yağların miqdarı isə 
+ümumi sərf olunan enerjinin 10%-inə kimi azaldılmalı 
+və bitki mənşəli qidaların miqdarı hər 1000 kkal-a 15 
+qr. hesabı ilə və ya daha çox artırılmalıldır. (A) 
+ Müntəzəm fiziki aktivlik tövsiyə olunur (təxminən həftədə 
+150 dəq.) (A)  
+► Daimi ardıcıl müşahidə uğurlu nəticənin qarantıdır (B) 
+► Prediabeti olan şəxslərə kardiovaskulyar xəstəlikləri törədən 
+tütünçəkmə, hipertenziya və dislipidemiya kimi amillər barədə 
+məlumat vermək lazımdır. (A)  
+► Hipertenziyanın və dislipidemiyanın aktiv müalicəsi həyat 
+tərzinin dəyişdirilməsi və farmakoloji terapiya ilə bağlıdır. (A) 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ƏLAVƏ №1 
+2-ci TİP ŞƏKƏRLİ DİABET TƏHLÜKƏSİNİN 
+QİYMƏTLƏNDİRİLMƏ FORMASI 
+Sağda verilən variantlardan birini dairəyə alın və xalları toplayın. 
+1. Yaş 
+0 xal  45 yaşdan aşağı 
+2 xal 45-54 yaş 
+3 xal 55-64 yaş 
+4 xal 64 yaşdan yuxarı 
+2. Bədən kütləsi indeksi 
+0 xal 25 kq/m2-dən aşağı 
+1 xal  25-30 kq/m2
+3 xal 30 kq/m2 -dan artıq 
+3. Qabırğaaltı nahiyədə ölçülən bel çevrəsi (adətən göbək 
+nahiyəsində) 
+KİŞİ QADIN 
+0 xal    94 sm-dən az 
+2 xal    94-102 sm 
+3 xal    102 sm-dən  artıq 
+ 80 sm-dən az 
+ 80-88 sm 
+ 88 sm-dən artıq 
+ 
+4. Siz işdə və / və ya istirahət vaxtı gündə 30 dəq. fiziki hərəkətlər 
+(normal gündəlik aktivlik daxil olmaqla) edirsinizmi? 
+0 xal           Yox 
+2 xal            Hə 
+ 
+ 30
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 31
+5. Qidalanma zamanı meyvə, tərəvəz və giləmeyvə qəbul 
+edirsinizmi? 
+0 xal Hər gün 
+1 xal Hər gün yox 
+6. Siz nə vaxtsa müntəzəm antihipertenziv müalicə almısınız?  
+0 xal Yox 
+2 xal Hə 
+7. Sizdə nə vaxtsa qanda qlükozanın yüksəlməsi aşkar edilibmi? 
+0 xal Yox 
+5 xal Hə 
+8. Ailə üzvləriniz və ya başqa qohumlar arasında şəkər xəstəliyi 
+(1-ci və ya 2-ci tip) diaqnozu qoyulan şəxs varmı? 
+0 xal Yox 
+3 xal Hə: baba, nənə, xala, bibi, dayı, əmi və ya onların uşaqları  
+ (öz valideynləriniz, bacı, qardaş və ya uşağınız istisna 
+ olmaqla) 
+5 xal Hə: valideynlər, bacı və qardaşlar və ya uşağınız. 
+Total risk xalları 
+10 il ərzində 2-ci tip şəkərli diabetin inkişaf etmə riski 
+bərabərdir: 
+7-dən az Aşağı: 100 haldan birində xəstəlik inkişaf edə bilər 
+7-11 Cüzi yüksəlmə: 25 haldan birində xəstəlik inkişaf edə 
+bilər 
+12-14 Orta: 6 haldan birində xəstəlik inkişaf edə bilər 
+15-20 Yüksək: 3 haldan birində xəstəlik inkişaf edə bilər 
+20-dən çox Çox yüksək: 2 haldan birində xəstəlik inkişaf edə bilər 
+ 
+ 
+ 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ƏLAVƏ №2 
+ŞD2 xəstələrinin müalicə alqoritmi* 
+ 
+Həyat tərzinin dəyişdirilməsi + metformin
+Şəkərli diabet diaqnozunun qoyulması
+ 
+ 
+HbA1c 
+≥ 7%Yox Hə
+ 
+ 
+ 
+ 
+ Sulfanil-sidikcövhəri 
+preparatı əlavə etmək 
+– ən ucuz 
+Bazal insulin 
+əlavə etmək –  
+ən effektiv 
+Qlitazon əlavə 
+etmək – 
+qlikemiya yoxdur
+ 
+ 
+ 
+ 
+HbA1c 
+≥ 7% 
+Hə Yox 
+HbA1c 
+≥ 7%
+Hə Yox
+HbA1c 
+≥ 7% 
+Hə Yox
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+İntensiv insulinlə müalicə + 
+metformin ± qlitazon
+HbA1c 
+≥ 7% 
+Hə Yox 
+HbA1c 
+≥ 7% 
+Hə Yox
+Bazal insulin və ya intensiv 
+insulinlə müalicə əlavə etmək 
+İntensiv 
+insulinlə 
+müalicə
+Qlitazon 
+əlavə 
+etmək 
+Bazal 
+insulin əlavə 
+etmək 
+Sulfanil-sidikcövhəri 
+preparatı əlavə etmək 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32
+*Alqoritm Amerika Diabet Assosiasiyası (ADA) və Diabetin Öyrənilməsi üzrə Avropa 
+Assosiasiyası (EASD) tərəfindən ŞD2 xəstələrinin müalicəsi üçün qəbul edilmişdir. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 33
+ƏLAVƏ №3 
+ŞD2 xəstəliyinin müalicəsində istifadə olunan dərman vasitələri 
+№ Preparatın adı Dozası Xəbərdarlıq 
+Biquanidlər – əsas effekt: qara ciyərdə qlükoneogenezi dəf edir 
+1 Metformin (Siofor, Qlükofaj) 500-3000 mq/gündə 
+Böyrək 
+çatışmazlığı zamanı 
+istifadəsi əks-
+göstərişdir. Ən çox 
+əlavə təsirlər mədə-
+bağırsaq traktı 
+tərəfindən olur. 
+Sulfonil-sidikcövhəri preparatları – əsas effekt: mədəaltı vəzin β-
+hüceyrələrindən insulin sekresiyasını stimulə edir 
+2 
+Qlibenklamid 
+(Manninil, 
+Euqlikon) 
+5-20 mq/gündə 
+3 Qliklazid (Diabeton) 80-320 mq/gündə 
+4 Qliklazid MR (Diabeton MR) 30-120 mq/gündə 
+5 Qlipizid (Qlibenez) 5-20 mq/gündə 
+6 Qlimepirid (Amaril, Mepril) 1-8 mq/gündə 
+7 Qlikvidon (Qlürenorm) 30-120 mq/gündə 
+Qara ciyər və 
+böyrək çatışmazlığı 
+zamanı istifadəsi 
+əks-göstərişdir 
+Qeyri-sulfonil-sidikcövhəri preparatları – əsas effekt: mədəaltı 
+vəzin β-hüceyrələrindən insulin sekresiyasını stimulə edir 
+8 Repaqlinid (Novonorm) 0,5-16 mq/gündə 
+9 Nateqlinid
+∗ 
+(Starliks) 120-480 mq/gündə 
+Qara ciyər və 
+böyrək çatışmazlığı 
+zamanı istifadəsi 
+əks-göstərişdir 
+Tiazolidindionlar – əsas effekt: əzələlərdə və piy toxumasında 
+insulin rezistentliyini azladır 
+10 Roziqlitazon (Avandia) 2-8 mq/gündə 
+Qara ciyər və ürək-
+damar çatışmazlığı 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 34
+11 Pioqlitazon (Aktos) 15-45 mq/gündə zamanı istifadəsi əks-göstərişdir 
+α-qlükozidazanın inhibitoru – əsas effekt: bağırsaq traktından 
+qlükozanın sorulmasını ləngidir 
+12 Akarboza
+∗ 
+(Qlükobay) 150-300 mq/gündə 
+Preparat qaz və 
+qarnın köpməsini 
+əmələ gətirir, bəzən 
+diarreya ola bilər 
+İnsulin preparatları 
+İnsulinlərin 
+təsir 
+müddəti 
+Preparatlar 
+Təsirin 
+başlanma 
+müddəti 
+(- saat 
+sonra) 
+Təsirin 
+pik 
+vaxtı 
+(- saat 
+sonra) 
+Təsirin 
+davametmə 
+müddəti 
+(- saat) 
+Ultraqısa 
+təsirli (insan 
+insulininin 
+analoqu) 
+Novorapid 
+(Aspart) 
+Humaloq 
+(Lizpro) 
+0,25 0,5-2 3-4 
+Qısa təsir 
+müddətli 
+Aktrapid HM
+Humulin R 
+İnsuman 
+Rapid 
+0,5 1-3 6-8 
+Uzun təsir 
+müddətli 
+İnsulatard 
+Humulin H 
+İnsuman 
+bazal 
+1,5 
+1 
+1 
+4-6 
+4-8 
+3-4 
+12-14 
+18-20 
+18-20 
+Uzun təsir 
+müddətli 
+(insan 
+insulininin 
+analoqu) 
+Lantus 
+Levemir 2-4 8-12 24-36 
+ 
+ 
+                                                 
+∗ Klinik protokolun tərtib edildiyi dövrdə Azərbaycan Respublikasında dövlət 
+qeydiyyatından keçməmiş dərman vasitəsi. 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 35
+Ədəbiyyat: 
+1. Boule N.G., Haddad E., Kenny G.P et al. Effects of exercise on 
+glycemic control and body mass in type 2 diabetes mellitus. A 
+meta analysis of controlled clinical trial / N.G. Boule, E. Haddad, 
+G.P. Kenny // Jama.-2001.-Vol 286.-P.121-827. 
+2. Definition, diagnosis and classification of diabetes mellitus and 
+its complications : Report of WHO Consultation.-1999.-59p. 
+3. Franz M.J., Bantle J.P., Bebe C.A. et al. Evidence-based 
+nutrition principles and recommendations for the treatment and 
+prevention of diabetes and related complications / M.J. Franz, 
+J.P. Bantle, C.A. Bebe // Diabetes care.-2002.-Vol25.-P.48-98. 
+4. Guidelines for Diabetes care. A desktop guide to type 2 diabetes 
+mellitus // European Diabetes Policy Group.-1998-1999. 
+5. Management of Diabetes. A national clinical guideline 55, 
+November 2001, Scottish Intercollegiate Guidelines Network. – 
+access mode : www.sign.ac.uk 
+6. Management of hyperglycemia in type 2 diabetes; a consensus 
+algorithm for the adjustment of therapy // Diabetes Care.-2006.-
+Vol 29.-P.1963-72. 
+7. Nathan D.M., Buse J.B., Davidson M.B. et al. Management of 
+hyperglycemia in type 2 diabetes:a consensus algorithm for the 
+initiation adjustment of therapy: a consensus statement form the 
+American diabetes association / D.M. Nathan, J.B. Buse, M.B. 
+Davidson // Diabetes Care. 2007. - Vol.29.-P.1963. 
+8. Standards of Medical Care in Diabetes 2008. American Diabetes 
+Association // Diabetes Care.-2008-Vol.31. Supplement 1, 
+January 2008 
+9. The Diabetes Prevention Program Research Group. Impact of 
+intensive lifestyle and metformin therapy on cardiovascular 
+disease risk factors in the Diabetes Prevention Program // 
+Diabetes Care.-2002.-Vol28.-P.888-894. 
+10. UKPDS Group. Effect of intensive blood-glucose control with 
+metformin on complications overweight patients with type 2 
+diabetes (UKPDI 34) // Lancet.-1998.-Vol352.-P.854-865. 
+ 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.
+ 36
+ 
+11. UKPDS Group intensive blood-glucose control with 
+sulphonylureas or insulin compared with conventional treatment 
+and risk complications in patients with type 2 diabetes 
+(UKPDI33) / /Lancet.-1998.-Vol 352.-P.837-853. 
+12. Алгоритмы специализированной медицинской помощи 
+больным сахарным диабетом: Методические рекомендации 
+/Под ред. И.И. Дедова, М.В. Шестакова.-2е изд. - М, 2006. -
+103с. 
+13. Дедов И.И., Мельниченко Г.А. Эндокринология. 
+Национальное руководство.- М.: ГЭОТАР-Медиа, 2008. -
+1064с. 
+14. Дедов И.И., Суркава Е.В., Майоров А.Ю. Терапевтическое 
+обучение больных сахарным диабетом. - Реафарм, 2004. -
+193с.  
+15. Дедов И.И., Шестакова М.В. Сахарный диабет: Руководство 
+для врачей.- Москва: Универсум Паблишинг, 2003.- 455с. 
+16. Общее руководство по лечению сахарного диабета 2-го типа. 
+Международная диабетическая федерация, 2005г. ООО 
+"Компания Боргес". - М, 2007. -80 с. 
+17. Терапевтическое обучение больных: Программы 
+непрерывного обучения для работников здравоохранения в 
+области профилактики хронических заболеваний. Отчет 
+рабочей группы ВОЗ. - М, 1996-98. 
+ 
+K
+lin
+ik
+ p
+ro
+to
+ko
+l A
+zə
+rb
+ay
+ca
+n 
+R
+es
+pu
+bl
+ik
+as
+ı S
+əh
+iy
+yə
+ N
+az
+irl
+iy
+in
+in
+İc
+tim
+ai
+ S
+əh
+iy
+yə
+ v
+ə 
+İs
+la
+ha
+tla
+r M
+ər
+kə
+zi
+nd
+ə 
+ha
+zı
+rla
+nm
+ış
+dı
+r.

@@ -1,0 +1,3543 @@
+ 
+1 
+ 
+M.N. Nuriyev 
+ 
+ 
+English – Azerbaijani 
+Azerbaijani – English 
+Concise Dictionary of Project Management 
+Terms 
+ 
+ 
+Ġngiliscə – Azərbaycanca 
+Azərbaycanca – Ġngiliscə 
+Layihələrin idarə edilməsi terminləri 
+qısa lüğəti 
+ 
+ 
+ 
+Xəzər Universiteti NəĢriyyatı 
+Bakı – 2012 
+ 
+2 
+ 
+ 
+Xəzər Universiteti NəĢriyyatı, 2012 
+ 
+ 
+Müəllif-tərtibatçı: Məhəmməd N. Nuriyev (prof., t.e.d.) 
+Redaktorlar: Lyudmila Sotova 
+ Cabir Məmmədli 
+Dizayn: Zakir N. Yusifoğlu 
+ 
+Nuriyev M.N. English–Azerbaijani, Azerbaijani–
+English Concise Dictionary of Project Management 
+Terms = Ġngiliscə–azərbaycanca, azərbaycanca–
+ingiliscə layihələrin idarə edilməsi terminləri qısa lüğəti. 
+– Bakı: Xəzər Universiteti NəĢriyyatı, 2012. – 150 səh. 
+658.4/03-dc22 
+ 
+ 
+ISBN 978-9952-20-070-6 
+ 
+ 
+ 
+3 
+ 
+ 
+Mündəricat 
+ 
+Müqəddimə ........................................................ 4 
+Abbreviation ....................................................... 6 
+Ġxtisarlar ............................................................. 8 
+Ġngiliscə-azərbaycanca terminlər ........................ 11 
+Azərbaycanca-ingiliscə terminlər ....................... 90 
+Ġstifadə olunmuĢ mənbələr ................................. 148 
+ 
+ 
+ 
+4 
+ 
+ 
+Müqəddimə 
+ 
+Lüğətdə layihələrin idarə edilməsi sahəsində 
+istifadə olunan 800-dən artıq termin, söz və söz birləĢ-
+mələrinin ingiliscə–azərbaycanca və azərbaycanca–
+ingiliscə tərcümələri verilib. Ehtiyac duyulan hallarda 
+termin ingiliscə-azərbaycanca tərcüməsində Azərbay-
+can dilində qisaca izah olunur. Lüğətdən istifadə edil-
+məsini asanlaĢdırmaq məqsədilə azərbaycanca–ingilis-
+cə tərcümədə hər bir sinonim ayrıca bir termin kimi 
+təkrarlanıb. Lüğətə daxil edilmiĢ terminlər, ilk növbədə, 
+layihələrin idarə edilməsinin ümumi prinsip və yanaĢ-
+malarını, layihənin təqvim planının qurulması və təhli-
+lini, maliyyə xərclərini, riskləri, liderlik, idarəetmə və 
+kommunikasiyanı, keyfiyyətin təminatını və idarə edil-
+məsini, layihələndirmənin tətbiqi məsələlərini əhatə 
+edir. Lüğətdə, əsasən, layihələrin idarə edilməsi sahə-
+sində mütəxəssislərin hazırlanmasında aparıcı təĢki-
+latlar olan ESI International və Project Management 
+Institute-nun mənbələrindən, eləcə də, Azərbaycanda 
+bu sahədə ixtisaslaĢan təĢkilatların və mütəxəssislərin 
+təcrübəsindən istifadə edilib.  
+ 
+5 
+ 
+ 
+Azərbaycan əlifbası 
+ 
+A B C Ç D E Ə 
+F G  Ğ  H X I Ġ 
+J K Q L M N O 
+Ö P R S ġ T U 
+Ü V Y Z 
+ 
+ 
+English alphabet 
+ 
+A B C D E F G 
+H I J K L M N  
+O P Q R S T U  
+V W X Y Z 
+ 
+ 
+6 
+ 
+ 
+Abbreviation 
+ 
+ACWP Actual Cost of Work Performed  
+BCWP Budgeted Cost of Work Performed  
+BCWS Budgeted Cost of Work Scheduled  
+CCB Change Control Board  
+CPM Critical Path Method  
+CPN Critical Path Network  
+EAC Estimate at Completion  
+EF Early Finish Date  
+EMV Expected Monetary Value 
+EPM Enterprise Project Management  
+ES Early Start Date  
+EV Earned Value  
+EVM Earned Value Management 
+FMEA Failure Modes and Effect Analysis  
+KPIs Key Performance Indicators  
+KSFs Key Success Factors  
+LCC Life Cycle Cost  
+LF Late Finish Date  
+LS Late Start Date   
+MPM Modern Project Management 
+ 
+7 
+ 
+OBS Organizational Breakdown Structure  
+PBS Project Breakdown Structure  
+PDM Precedence Diagramming Method  
+PERT Program Evaluation and Review Technique  
+PMB Performance Measurement Baseline  
+PMIS Management InformationSystem  
+PRD Project Requirements Document  
+RAM Responsibility Assignment Matrix  
+RBS Resource Breakdown Structure  
+RF Remaining Float  
+RFQ Request for Quotation  
+RFP Request for Proposal  
+SDI® Strength Deployment Inventory  
+SV Schedule Variance  
+SWOT Strength, Weaknesses, Oportunities and 
+Threats Analisys  
+TCPI To-Complete Performance Index  
+WBS Work Breakdown Structure 
+ 
+ 
+8 
+ 
+İxtisarlar 
+ 
+DNŞ dəyiĢikliklərə nəzarət Ģurası 
+ƏTBV ən tez baĢlama vaxtı  
+GMD gözlənilən maliyyə dəyəri  
+GZİTA güclü və zəif tərəflərin, imkan və təhlükələrin 
+analizi  
+HDÜX həyat dövrünün ümumi xərcləri  
+İBQV iĢin bitməsinə qalmıĢ vaxt  
+İD icra olunmuĢ dəyər (iĢlərin həcmi)  
+İƏP icraetmənin əsas planı  
+İİBD icra olunmuĢ iĢin büdcə dəyəri  
+İİFX icra olunmuĢ iĢlərə çəkilən faktiki ümumi xərclər  
+İİS iĢlərin iyerarxik strukturu  
+İTEX iĢin (layihənin) tamamlanmasında ehtimal olunan 
+xərclər 
+KFS keyfiyyət  funksiyalarının strukturlaĢdırılması  
+KYŞ kritik yol Ģəbəkəsi  
+KYÜ kritik yol üsulu  
+QEV qalan ehtiyat vaxt  
+QS qiymətlər sorğusu  
+LİİS layihələrin idarə edilməsinin informasiya sistemi  
+LİMM layihələrin idarə edilməsinin müasir metodolo-
+giyası  
+LİS layihənin iyerarxik strukturu  
+LTS layihə tələbləri sənədi  
+ 
+9 
+ 
+MDİ mənimsənilmiĢ dəyərin idarə edilməsi  
+MDN münasibətlərin dərketmə nəzəriyyəsi  
+MLİ müəssisə layihələrinin idarə edilməsi  
+MMƏG müvəffəqiyyəti müəyyən edən əsas göstəricilər  
+MÖM məsuliyyətlər (öhdəliklər) matrisi  
+NNT nasazlıqların və onların nəticələrinin təhlili  
+PFDF planlaĢdırılmıĢ və faktiki dəyər arasındakı fərq  
+PX planlaĢdırılmıĢ xərclər  
+PİBD planlaĢdırılmıĢ iĢin büdcə dəyəri  
+Pİİ planın icra indeksi  
+SÖRRV spesifik, ölçülə bilən, razılaĢdırılmıĢ, real, vaxt-
+la məhdudlaĢdırılan  
+ŞGTN Ģəxsiyyətin güclü tərəfləri nəzəriyyəsidir  
+Tİİİ tamamlanma iĢlərinin icrası indeksi  
+TİSB təĢkilati strukturda iĢlərin bölgüsü  
+TM təklif üçün müraciət  
+TSİFB təĢkilati strukturda iĢlərin fərdlər arasında bölgü-
+sü  
+ 
+10 
+ 
+ 
+11 
+ 
+ 
+İngiliscə-azərbaycanca terminlər1 
+A 
+Accept qəbul etmək 
+Action Plan fəaliyyət planı 
+Layihə tapĢırıqlarının təsviri, kim tərəfindən və nə 
+vaxt yerinə yetiriləcəyini əks etdirən təfsilatlı plan. 
+Activity 1. fəaliyyət; 2. iĢ 
+Layihənin yerinə yetirilməsi üçün gərək olan iĢlərin 
+tərkib hissəsi. Fəaliyyətin həyata keçirilməsi üçün 
+müəyyən vaxt və digər resurslar sərf olunur. Fəaliy-
+yət ayrı-ayrı tapĢırıqlardan ibarət ola bilər.  
+Activity Code fəaliyyətin kodu 
+Layihə iĢləri strukturunun (LĠS) tərkibində iĢlər paketi 
+və ya onun tərkib hissəsinin unikal identifikatoru. 
+Activity Duration fəaliyyətin müddəti 
+Fəaliyyətin baĢa çatdırılması üçün tələb olunan vaxt 
+(illər, aylar, həftələr, günlər). Bu vaxtın qiymətləndi-
+                                                          
+1
+Bəzi terminlərin azərbaycanca izahı verilmiĢdir. 
+ 
+12 
+ 
+rilməsi zamanı iĢin mahiyyəti və lazım olan resurslar 
+nəzərə alınır. 
+Activity List fəaliyyətlərin siyahısı 
+Activity-on-Arc “fəaliyyət-qövs” 
+“Fəaliyyət-qövs” tipli əməliyyatların məntiqi ardıcıllığı 
+sxemi; layihənin Ģəbəkə təsviri. “Fəaliyyət-qövs” for-
+matında layihənin fəaliyyətləri qövslərlə təsvir edilir. 
+Təpələr layihə fəaliyyətlərinin baĢlanmasını və/və ya 
+baĢa çatmasını qeyd edən və dolayı yolla təpələr 
+arasında olan ardıcıllıq əlaqələrini modelləĢdirən ha-
+disələrdir (və ya əsas mərhələlərdir).  
+Activity-on-Arrow “fəaliyyət-ox” 
+Oxlar diaqramı; Layihənin Ģəbəkə formasında təsvi-
+ri. Layihəyə aid olan fəaliyyətlər (iĢlər) Ģəbəkədə ox-
+lar vasitəsilə təsvir edilir. Ox iĢarəsinin baĢlanğıc 
+nöqtəsi iĢin baĢlanmasını, ucu isə iĢin baĢa çatması-
+nı qeyd edir. Fəaliyyətlər və iĢlər təpələr adlandırılan 
+nöqtələrdə birləĢir və bu birləĢmələr iĢlərin icra olun-
+ma ardıcıllığını əks etdirir. Təpələr, bir qayda olaraq, 
+çevrə Ģəklində təsvir edilir. 
+Activity-on-Node “fəaliyyət-təpə” 
+“Fəaliyyət-təpə” tipli əməliyyatların məntiqi ardıcıllığı 
+sxemi; layihənin Ģəbəkə təsviri. Layihədə icra oluna-
+caq iĢlər Ģəbəkə qrafın təpələri, iĢlərin yerinə yetiril-
+məsi ardıcıllığı və onlar arasındakı əlaqələr isə isti-
+qamətləndirilmiĢ qövslər (oxlar) vasitəsilə əks etdiri-
+lir. Təpələr çevrə və ya düzbucaq Ģəklində təsvir edi-
+lir və fəaliyyətin baĢlanmasını (baĢa çatmasını) qeyd 
+edir. 
+ACT 
+ 
+13 
+ 
+Activity Sequencing fəaliyyətlərin ardıcıllığı 
+Fəaliyyətlər arasındakı məntiqi əlaqələrin müəyyən 
+edilməsi. Layihə Ģəbəkəsinin məntiqinə əsaslana-
+raq, hər bir fəaliyyətin baĢlanma vaxtının düzgün 
+müəyyən edilməsi məqsədilə layıhənin tərkib ele-
+mentləri (iĢlər, fəaliyyətlər, tapĢırıqlar) arasındakı 
+asılılıqları müəyyən edir.  
+Actual Cost faktiki xərclər 
+Actual Cost of Work Performed (ACWP) icra olun-
+muĢ iĢlərə çəkilən faktiki xərclər (ĠĠFX) 
+Actual Finish Date faktiki bitmə vaxtı 
+Fəaliyyətə dair iĢin faktiki bitmə vaxtı. 
+Actual Start Date faktiki baĢlanma vaxtı 
+Fəaliyyətə dair iĢin faktiki baĢlanma vaxtı. 
+Adjourning komanda iĢinin bitməsi 
+Komandanın inkiĢaf fazası. 
+Affinity Diagramming qruplaĢma diaqramı 
+Ġdeyalar irəli sürülür, sonra bir-biri ilə əlaqəli olan 
+ideyalar əsasında qruplar yaradılır, onların adları 
+müəyyən olunur və son nəticədə ideyalar ayrı-ayrı 
+qruplara daxil edilir. 
+Aligning People insanların məqsəd-yönümlü istiqa-
+mətləndirilməsi və uzlaĢdırılması 
+Altruistic-Nurturing (Blue) altruist-qayğıkeĢ (mavi) 
+üslub 
+ALT 
+ 
+14 
+ 
+BaĢqalarına himayədarlıq, inkiĢafı və xoĢbəxtliyi 
+üçün qayğı. AĢağıdakılarla xarakterizə olunur: baĢ-
+qalarına kömək göstərilməsi yollarının axtarıĢı, eh-
+tiyaclarına cavab verməsi və açıq olması, onlara yük 
+olmasından çəkinməsi, həyatlarının yüngülləĢdi-
+rilməsi üçün çalıĢması, hüquqlarının müdafiəsi, onla-
+rın dəyərləndirildiyinə əmin olması və potensialları-
+nın reallaĢmasına əmin olması. 
+Analytical-Autonomizing (Green) analitik-sərbəst 
+(yaĢıl) üslub 
+Fərdiyyətçilik, Ģəxsi gücünə əsaslanmaq, müstəqil-
+lik; iĢlərin düzgün fikirləĢilməsinə qayğı; mənalı qay-
+danın yaradılmasına və onun təminatına qayğı. AĢa-
+ğıdakılarla xarakterizə olunur: obyektivlik, emosiya-
+lara nəzarət edilməsi, müfəssəl, ehtiyatlı, praktik, 
+ciddi, qəti, ədalətli, özünün hakimi olması, iĢə baĢla-
+mazdan əvvəl hər seyi nəzərdən keçirməsi. 
+Analogous Estimating analoqlara görə qiymətləndir-
+mə 
+QarĢıda duran əməliyyatların parametrlərinin qiy-
+mətləndirilməsi üçün əvvəllər icra olunmuĢ oxĢar 
+əməliyyatların tərkib, dəyər, büdcə, müddət və ya di-
+gər ölçülən eyni tipli parametrlərin qiymətlərindən is-
+tifadə edən qiymətləndirmə üsulu. 
+Approved Change Request təsdiqlənmiĢ dəyiĢiklik 
+müraciəti 
+Appraisal Cost qiymətləndirmə xərcləri 
+Arrow ox iĢarəsi 
+ANA 
+ 
+15 
+ 
+Fəaliyyətin qrafik təsviri. 
+Arrow Diagramming Method oxlar diaqramı üsulu 
+ġəbəkə qrafikinin, təqvimi planın, iĢlər cədvəlinin ox 
+iĢarələri ilə qrafik təsviri.  
+As-Late-as-Possible mümkün qədər gec 
+Layihənin hər bir fəaliyyətinin ən gec baĢlama vaxtı-
+na əsaslanan təqvim planı. 
+Assertive-Nurturing (Red-Blue) inamlı-qayğıkeĢ (qır-
+mızı-mavi) üslub 
+Liderlik və tapĢırığın icrası vasitəsilə baĢqalara hi-
+mayədarlıq, onların inkiĢafı, əmin-amanlığı üçün 
+qayğı. AĢağıdakılarla xarakterizə olunur: baĢqaları-
+na kömək edilməsi üçün imkanların aktiv axtarıĢı; 
+onların maksimum inkiĢafı və yüksəliĢi üçün zəmin 
+yaradılmasına digərlərini sövq etməsi, əmin-amanlı-
+ğının və təminatının yaradılmasına dair təkliflərə 
+açıq olması; uğurlar yolunda olan maneələrin öhdə-
+sindən gəlmək üçün ruh yüksəkliyinin və dəstəyin 
+yaradılması. 
+Assertive-Directing (Red) inamlı-idarəedici (qırmızı) 
+üslub 
+TapĢırığın baĢa çatdırılması və arzu olunan nəticələ-
+rin əldə edilməsi naminə insanların təĢkili, vaxt, ma-
+liyyə və digər resurslar üçün qayğı. AĢağıdakılarla 
+xarakterizə olunur: hakimiyyət, səlahiyyət və liderlik 
+vəzifələri üçün rəqabət etmək, inandırmadan istifadə 
+edilməsi, imkanlar üçün hazır olması, əldə edilmiĢ 
+mükafatlara hüququ olduğuna iddia edilməsi, çəti-
+ASS 
+ 
+16 
+ 
+nliklərin qəbul edilməsi, riskin qəbul edilməsinə arzu 
+olunan və gərək olan hal kimi baxması. 
+Assessing Project Status layihənin vəziyyətinin (sta-
+tusun) qiymətləndirilməsi 
+50/50 qaydası – tapĢırıq baĢlananda hesabat verilir 
+ki, 50 faiz baĢa çatıb, baĢa çatanda isə hesabat veri-
+lir ki, 100 faiz baĢa çatdırılıb; 20/80 qaydası – tapĢı-
+rıq baĢlananda hesabat verilir ki, 20 faiz baĢa çatıb; 
+0/100 qaydası – ən konservativ yanaĢmadır və he-
+sab edilir ki, tapĢırıq baĢa çatdırılmamıĢ o, heç bir 
+dəyər daĢımır. 
+As-Soon-as-Possible mümkün qədər tez 
+Layihənin hər bir fəaliyyətinin ən tez baĢlama vaxtı-
+na əsaslanan təqvim planı. 
+Authority 1. səlahiyyətlər; 2. hakimiyyət 
+Availability mümkünlük 
+Avoid çəkinmək  
+Təhlükənin aradan qaldırılması və ya onun layihəyə 
+təsir etməsi ehtimalının aradan götürülməsi. 
+ 
+ASS 
+ 
+17 
+ 
+ 
+B 
+Backward Pass əks keçid (sondan baĢlanğıca) 
+Natamam iĢlərin gec baĢlanma və bitmə vaxtlarının 
+sondan baĢlanğıca tərəf hesablanması. 
+Ballpark Estimate təqribi qiymətləndirmə 
+Baseline (plan) 1. əsas plan; 2. ilkin cədvəl; 3. ilkin 
+qrafik 
+Layihə, iĢlər paketi və ya fəaliyyətin ilkin planı (təs-
+diq olunmuĢ dəyiĢikliklərlə). KənarlaĢmaların müqa-
+yisə olunacağı nominal plan.  
+Baseline Finish Date ilkin planlaĢdırılmıĢ baĢa çatma 
+vaxtı 
+Layihə, iĢlər paketi və ya fəaliyyətin ilkin müəyyən 
+olunmuĢ baĢa çatdırılma vaxtı (təsdiq olunmuĢ də-
+yiĢikliklərlə). 
+Baseline Start Date ilkin planlaĢdırılmıĢ baĢlanma 
+vaxtı 
+Layihə, iĢlər paketi və ya fəaliyyətin ilkin müəyyən 
+olunmuĢ baĢlanma vaxtı (təsdiq olunmuĢ dəyiĢiklik-
+lərlə). 
+Benchmarking nümunə ilə müqayisə 
+ĠĢlərin icra etmə standartlarını müəyyən etmək məq-
+sədilə layihə iĢlərin icrasının digər oxĢar layihələrlə 
+müqayisəsi.  
+ 
+18 
+ 
+Benefit-Cost Ratio fayda-xərc nisbəti 
+Bid təklif 
+Tender və ya təklif sənədində təsvir olunmuĢ iĢlərin 
+əvvəlcədən müəyyən olunmuĢ qiymətlərdə yerinə 
+yetirilməsi təklifi.  
+Block Diagram blok-sxem 
+Sistemin və ya altsistemlərin tərkib hissələrı arasın-
+dakı əlaqələrin qrafik təsviri. 
+Borrowed Behavior Pattern götürülmüĢ davranıĢ nü-
+munəsi 
+Dəyərimiz barədəki hissiyyatımızı yaxĢılaĢdırmayan, 
+lakin əsas motivasiyalarımızla ziddiyətdə olmayan 
+davranıĢ nümunəsi. 
+Bottom-up Estimating “aĢağıdan yuxarıya” qiymət-
+ləndirmə 
+ĠĢin elementinin qiymətləndirmə üsulu. ĠĢ daha kiçik 
+hissələrə bölünür. ĠĢin hər bir hissəsinin icra edil-
+məsi üçün gərək olanlar qiymətləndirilir və iĢin bu 
+elementinə aid olanlar cəmlənir. 
+Brainstorming 1. “beyin fırtınası”; 2. “beyin həmləsi” 
+Spontan ideyaların hasil edilməsi. 
+Breakdown hissələrə ayırma 
+Budget büdcə 
+Hər hansı bir planlaĢdırılmıĢ əməliyyatın, iĢlərin iye-
+rarxik strukturun elementinin və ya bütövlükdə layi-
+hənin təsdiq edilmiĢ dəyəri. 
+Budget at Completion 1. layihənin dəyəri; 2. tamam-
+lamada büdcə; 3. layihəyə ayrılmıĢ ümumi büd-
+cə 
+BEN 
+ 
+19 
+ 
+Layihənin bütün fəaliyyətlərin təsdiq olunmuĢ xərc-
+lərinin güman edilən qiymətlərinin cəmi (hər hansı 
+əlavə xərcləri də nəzərə almaqla). 
+Budgeted Cost of Work Performed (BCWP) icra 
+olunmuĢ iĢin büdcə dəyəri (ĠĠBD) 
+Budgeted Cost of Work Scheduled (BCWS) planlaĢ-
+dırılmıĢ iĢin büdcə dəyəri (PĠBD) 
+Building Relationships əlaqələrin qurulması 
+Bureaucratic Authority 1. bürokratik hakimiyyət;  
+2. səlahiyyətlər 
+TəĢkilatın qaydalarına, siyasətə, prosedurlara və for-
+malara dair biliklərə və onlardan istifadə edilməsinə 
+əsaslanır. 
+Business Agreement 1. biznes razılaĢma; 2. müqavi-
+lə 
+Business Risk biznes riski 
+Biznes fəaliyyəti ilə əlaqədar mənfi və ya müsbət 
+risklər. 
+BUS 
+ 
+20 
+ 
+ 
+C 
+Capacity 1. imkanlar; 2. məhsuldarlıq; 3. istehsal gücü 
+Layihənin yerinə yetirilməsi üçün əldə olan bütün 
+mövcud resurslar; icrası mümkün olan iĢlərin həcmi. 
+Capacity Analysis məhsuldarlığın (istehsal gücünün) 
+analizi 
+TəĢkilatın, prosesin, maĢın və avadanlıqların isteh-
+sal güclərinin və məhsuldarlığın analizi. Ġlk növbədə, 
+əlavə iĢin görülməsi imkanlarının aĢkarlanması məq-
+sədi ilə yerinə yetirilir. 
+Capacity Matrix qabiliyyətlər matrisi 
+ġəxsin qabiliyyətini, biliklərini və davranıĢlarını əks 
+etdirir. 
+Capacity Planning məhsuldarlığın (istehsal gücünün) 
+planlaĢdırılması 
+Mövcud resurslar və bacarıqlar daxilində verilmiĢ za-
+man ərzində yerinə yetirə biləcəyi iĢin həcminin 
+əvvəlcədən qiymətləndirilməsi. 
+Cautious-Supporting (Green-Blue) tədbirli-dəstəklə-
+yici (mavi-yaĢıl) üslub 
+Ədalət üçün düĢünülmüĢ dəstək; özündə və baĢqa-
+larda müstəqilliyin inkiĢafı və möhkəmlənməsi üçün 
+qayğı. AĢağıdakılarla xarakterizə olunur: baĢqaları-
+ 
+21 
+ 
+nın əmin-amanlığının yaxĢılaĢdırması və qoruması 
+üçün effektiv proses və resursların qurulması, daha 
+geniĢ müstəqillik və sərbəstlik üçün dəstəyin veril-
+məsi, ədalətli prinsiplər uğrunda mübarizə, yüksəliĢi 
+təmin edən fəaliyyətlərin dəstəyi. 
+Cause-and-Effect Diagram səbəb və nəticə diaqramı 
+(ĠĢikava diaqramı) 
+Change Acceptance dəyiĢikliyin qəbul edilməsi 
+ĠĢlərin yeni üsulla yerinə yetirilməsinə və gələcəyə 
+diqqət yetirilir. 
+Change Acknowledgement dəyiĢikliyin tanınması 
+DəyiĢikliyin labüdlüyünün tanınması. 
+Change Control dəyiĢikliklərin idarə edilməsi və nə-
+zarət 
+Layihənin həyat dövrü ərzində dəyiĢikliklərin idarə 
+edilməsi üçün müəyyən olunmuĢ qaydalar və pro-
+seslər; dəyiĢikliklərə nəzarət və menecment prosesi. 
+Change Control Board (CCB) dəyiĢikliklərə nəzarət 
+Ģurası (DNġ) 
+DəyiĢikliklərin təsdiqlənməsi və ya rədd edilməsi 
+üçün yaradılmıĢ Ģura. 
+Change Control System dəyiĢikliklərə nəzarət sistemi 
+Rəsmi layihə sənədlərinə düzəliĢlərin edilmə qayda-
+larını müəyyən edən formal qaydalar toplusu. 
+Change Management Plan dəyiĢikliklərin idarə edil-
+məsi planı 
+CHA 
+ 
+22 
+ 
+Yeni prosedurların və sistemin təĢkilata uyğunlaĢdı-
+rılması və dəyiĢikliklərin əlavə edilməsi prosesinin 
+idarə edilməsini təmin edən və əvvəlcədən sənəd-
+ləĢdirilmiĢ yanaĢma. 
+Change Rejection dəyiĢikliyin rədd edilməsi 
+Mövcud vəziyyətin saxlanılması cəhdi. 
+Change Request dəyiĢiklik haqda müraciət 
+Change Resistance dəyiĢikliyə müqavimət 
+Hirsli, narazı, dilxor reaksiya. 
+Change Support dəyiĢikliyə dəstək 
+Charismatic Authority 1. qəlblərin hakimliyinə əsasla-
+nan hakimiyyət; 2. Ģəxsiyyətin müstəsna xü-
+susiyyətlərinə əsaslanan hakimiyyət 
+Fərdin Ģəxsiyyətindən irəli gələn hakimiyyət və sə-
+lahiyyətlər. 
+Client 1. müĢtəri; 2. sifariĢçi 
+Closeout Phase baĢa çatdırılma fazası 
+Closing Processes baĢa çatdırılma prosesləri 
+Layihənin və ya fazanın formal baĢa çatdırılması 
+üçün yerinə yetirilən iĢlər. 
+Coercive Authority məcbur etmək səlahiyyətləri 
+Colloborative Negotiation əməkdaĢlıq danıĢığı 
+DanıĢığı “Mən uduram/Siz udursunuz” ssenarisi ilə 
+aparmaq cəhdi. 
+Colocation yanbayan, eyni yerdə yerləĢmə 
+CHA 
+ 
+23 
+ 
+Communicating kommunikasiya 
+Communication Management Plan kommunikasiya-
+nın idarəetmə planı 
+Communication Metrics kommunikasiya göstəriciləri 
+Layihə kommunikasiya göstəriciləri kimi gözlənilən 
+və faktiki göstəricilərdən, istifadə etmə faizindən, 
+mümkün vaxtdan, təkrar iĢdən, boĢdayanmadan, 
+defektlərdən, müĢtəri məmnunluğundan və s. istifa-
+də edilir.  
+Comparability müqayisə oluna bilmə 
+Competitive Negotiation rəqabətli danıĢıq 
+DanıĢığın “Mən uduram/Siz uduzursunuz” ssenarisi 
+ilə aparılması. 
+Compromising kompromisə gəlmək 
+Concept Phase layihənin ideya fazası 
+Həmçinin, iqtisadi analiz fazası, həyata keçirilməsi-
+nin mümkünlüyünün yoxlanılması fazası, iqtisadi-
+texniki əsaslandırma mərhələsi. 
+Configuration Management konfiqurasiyanın idarə 
+edilməsi 
+Conflict 1. konflikt; 2. münaqiĢə; 3. ziddiyyət 
+Conflict Management konfliktin idarəetməsi 
+Constraint məhdudiyyət 
+Contingency gözlənilməz hallar üçün təminat 
+Contingency Allowance gözlənilməz hallar üçün nə-
+zərdə tutulmuĢ əlavə vaxt və maliyyə 
+CON 
+ 
+24 
+ 
+Contingency Plan gözlənilməz hallar üçün nəzərdə 
+tutulmuĢ alternativ strategiyalar 
+Contingency Reserves gözlənilməz hallar üçün eh-
+tiyatlar 
+Layihə xərclərinin və yerinə yetirilmə müddətinin nə-
+zərdə tutulduğundan artıq olmasının və layihənin 
+icrası göstəricilərinin yayınmasının təsirinin azaldıl-
+ması üçün gərək olan vəsait və vaxt.  
+Contract Closeout kontraktın baĢa çatdırılması 
+Contract Work Breakdown Structure ĠĠS-nin müəy-
+yən kontrakta aid hissəsi 
+Layihə iĢlərin iyerarxik strukturunun tərkib hissəsi, 
+kontraktın yerinə yetirilməsi üçün görüləsi iĢlərin təs-
+viri. 
+Control 1. nəzarət; 2. idarəetmə 
+Control Account xərclərə nəzarət hesabı 
+Faktiki xərclərin əldə edilmiĢ dəyər ilə müqayisə et-
+mə nöqtəsi – müəyyən olunmuĢ iĢ paketi; idarəetmə 
+nəzarət nöqtəsi. 
+Control Chart nəzarət qrafiki 
+Prosesin davranıĢını əks etdirən qrafiklər. Prosesin 
+göstəricilərinin müəyyən olunmuĢ nəzarət sərhədlə-
+rinə nisbətən və zamana uyğun qrafik təsviri. Prose-
+sin nəzarət altında olub-olmamadığını yoxlamaq 
+üçün istifadə olunur. 
+Control Gate layihənin gediĢatını yoxlama nöqtəsi 
+Core Project Team layihənin əsas komandası 
+CON 
+ 
+25 
+ 
+Corrective Action 1. düzəldici tədbir; 2. təshihedici 
+tədbir 
+Cost Baseline zamana görə bölüĢdürülmüĢ büdcə 
+Faktiki xərcləri planlaĢdırılmıĢ xərclərlə müqayisə et-
+mək üçün xüsusi hazırlanmıĢ və zaman ilə uzlaĢdı-
+rılmıĢ büdcə. 
+Cost Control büdcə dəyiĢikliklərinə nəzarət 
+Cost Overrun artıq xərcləmə 
+Faktiki xərclərin planlaĢdırılmıĢ xərclərə nisbətən ar-
+tıqlığı.  
+Cost Performance Baseline 1. planlaĢdırılmıĢ xərclər; 
+2. zamana görə bölüĢdürülmüĢ büdcə  
+Xərclərin idarə edilməsi, monitorinqi və ölçülməsi 
+üçün istifadə olunan zamana görə bölüĢdürülmüĢ 
+büdcə. 
+Cost Performance Index xərclərin icra indeksi 
+PlanlaĢdırılmıĢ və faktiki xərclərin nisbətidir. Xərclər 
+baxımından layihənin icrasının effektivliyini ölçür.  
+Cost Performance Measurement Baseline planlaĢ-
+dırılmıĢ xərclər və məqsədlər  
+Gələcək xərclərin proqnozu, təhlili və müqayisəsi 
+üçün istifadə olunan büdcə xərcləri və ölçülən məq-
+sədlər; xərclərin səmərəliliyini ölçmək üçün istifadə 
+edilən baza göstəriciləri. 
+Cost-Reimbersable Contracts xərclərin ödənilməsi 
+kontraktları 
+COS 
+ 
+26 
+ 
+Xərclərin ödənilməsi kontraktında satıcının faktiki 
+xərcləri və mənfəəti təmin edən əlavə hissə ödənilir. 
+Cost Underrun faktiki xərclərin planlaĢdırılmıĢ xərclərə 
+nisbətən az olması 
+Cost Variance 1. xərclər fərqi; 2. kənarlaĢma 
+BaĢa çatdırılmıĢ iĢin büdcədə nəzərdə tutulmuĢ 
+dəyəri ilə faktiki xərclər arasındakı fərq. 
+Crash Cost layihə cədvəlinin sıxlaĢdırılması xərcləri 
+Crashing layihə cədvəlinin sıxlaĢdırılması 
+Fəaliyyətlərin ardıcıllığını dəyiĢməyərək, resursları 
+əlavə etmək yolu ilə layihə müddətinin azaldılması. 
+Critical Activity kritik fəaliyyət (iĢ) 
+Kritik yolda yerləĢən fəaliyyət (iĢ). 
+Critical Path kritik yol 
+Layihənin ən tez baĢa çatma müddətini müəyyən 
+edən iĢlər toplusu. 
+Critical Path Method (CPM) kritik yol üsulu (KYÜ) 
+Ən kiçik çevikliyi (ehtiyat vaxtı) olan fəaliyyətlər ardı-
+cıllığının (yolun) təhlili əsasında layihənin müddətini 
+proqnozlaĢdırmaq üçün istifadə olunan Ģəbəkə ana-
+lizi üsulu. 
+Critical Path Network (CPN) kritik yol Ģəbəkəsi (KYġ) 
+Critical Risk kritik risk (böhranlı) 
+Critical Success Factors uğur qazanmanın həlledici 
+amilləri 
+COS 
+ 
+27 
+ 
+Cross-Functional Team 1. matris strukturlu komanda 
+2. çoxprofilli komanda 
+Ümumi məqsəd üçün iĢləyən müxtəlif sahənin mütə-
+xəssislərindən ibarət komanda. Komandaya maliy-
+yə, marketinq, istehsalat prosesləri, insan resursları 
+və digər sahələrin mütəxəssisləri cəlb olunur, o cüm-
+lədən kənardan. 
+Cumulative Cost kumulyativ xərclər (toplanmıĢ) 
+Current Start Date iĢin baĢlanma vaxtının hazırkı qiy-
+məti 
+Customer 1. sifariĢçi; 2. müĢtəri 
+Layihənin yerinə yetirilməsini maliyyələĢdirən Ģəxs 
+və ya qurum. 
+Customer Acceptance sifariĢçi tərəfindən qəbuletmə 
+Customer Requirements sifariĢçinin tələbləri 
+Təklif üçün müraciətdə müĢtərinin müəyyən etdiyi la-
+yihənin spesifikasiyası və/və ya nəticələrin atribut-
+ları. 
+Cycle 0 sıfır mərhələ 
+Layihənin siyasi, texniki, iqtisadi və praktiki müm-
+künlüyünü müəyyən edən ilkin mərhələ. 
+CYC 
+ 
+28 
+ 
+ 
+D 
+ 
+Data Date verilənlərin ayrılma tarixi 
+Ötən dövrün faktiki verilənlərini gələcək planlaĢdırıl-
+mıĢ verilənlərdən ayırmanın zaman nöqtəsi. 
+Decision qərar 
+Decision Making qərarların qəbul edilməsi 
+Decision Tree qərarlar ağacı 
+Qərarlar və onlarla əlaqəli nəticələr arasındakı asılı-
+lıqları əks etdirən ağacvari struktur. 
+Decomposition 1. bölünmə; 2. dekompozisiya 
+Sistemin daha kiçik hissələrə bölünməsi. 
+Defect qüsur (keyfiyyətsizlik) 
+Deliverable layihənin nəticələri 
+Layihənin və ya onun tərkib hissəsinin real, ölçülən, 
+yoxlanıla bilən nəticələri. 
+Delphi technique Delfi üsulu 
+Ekspertlərin fərdi fikirlərin öyrənilməsi və ümumiləĢ-
+dirilməsi üsulu; ekspertlər panelinə əsaslanan inter-
+aktiv proqnozlaĢdırma üsulu. Üsulun adı qədim yu-
+nan Delfi orakul – qeybdən xəbər verən kahin ilə 
+bağlıdır. 
+Dependency asılılıq 
+ 
+29 
+ 
+Dependency Network məntiqi əlaqələr Ģəbəkəsi 
+Dependent Event asılı hadisə 
+BaĢ verməsi digər hadisənin baĢ verməsindən asılı 
+olan hadisə. 
+Dependent Tasks bir-birindən asılı tapĢırıqlar 
+Burada bir tapĢırıqın baĢlanması və ya baĢa çatdı-
+rılması digər tapĢırıqın baĢa çatdırılmasından və ya 
+bitməsindən asılıdır. 
+Detailed Schedule təfsilatlı (müfəssəl) iĢ cədvəli 
+Development Phase layihənin iĢlənilməsi fazası 
+Digraph diqraf 
+ ĠstiqamətləndirilmiĢ qraf. 
+Direct Overhead əlavə xərclərin layihəyə aid olunan 
+hissəsi 
+Direct Project Cost birbaĢa layihəyə aid olunan xərc-
+lər 
+Directive Structure direktiv struktur 
+Bir rəhbər bütün komanda üzvlərinin fəaliyyətlərini 
+istiqamətləndirir. 
+Discrete Work Package ayrıca iĢ paketi 
+ĠĢin icrasını qiymətləndirmək üçün istifadə olunan, 
+müəyyən olunmuĢ baĢlanma və sona çatma vaxtı 
+olan qısamüddətli və ölçülə bilən tapĢırıq. 
+Distributed Budget bölüĢdürülən büdcə 
+Documentation 1. sənədlər; 2. sənədləĢmə 
+Document Control sənədləĢmənin nəzarət sistemi 
+Layihə sənədləĢməsinin icrası və nəzarət sistemi. 
+Drop-Dead Date ən son müddət 
+Dummy Activity fiktiv iĢ 
+DUM 
+ 
+30 
+ 
+Duration müddət 
+Layihənin hər hansı bir elementin baĢa çatdırılması 
+üçün tələb olunan iĢ dövrləri (saatlar, günlər, iĢ həf-
+tələri). 
+Duration Compression müddətin qısaldılması 
+Layihənin tərkibini dəyiĢmədən layihə cədvəlinin sıx-
+laĢdırılması. 
+DUR 
+ 
+31 
+ 
+ 
+E 
+Early Finish Date (EF) ən tez baĢa çatma vaxtı  
+Early Start Date (ES) ən tez baĢlama vaxtı (ƏTBV) 
+Early Warning System vaxtında xəbərdarlıq etmə 
+sistemi 
+Earned Value (EV) icra olunmuĢ (mənimsənilmiĢ) də-
+yər (iĢlərin həcmi) (ĠD) 
+Layihə iĢlərinin gediĢatının analizi, iĢlərin yerinə yeti-
+rilməsinin və xərclərin ilkin layihə göstəriciləri ilə mü-
+qayisəsi. 
+Earned Value Management (EVM) mənimsənilmiĢ 
+dəyərin idarə edilməsi (MDĠ) 
+Layihənin yerinə yetirilməsinin və irəliləyiĢin obyektiv 
+qiymətləndirilməsi üçün tərkibi, təqvim planı və re-
+surslarını inteqrasiya edən, layihə idarəetməsinin 
+planlaĢdırma, monitorinq və nəzarət üsulu. 
+Earned Value Technique mənimsənilmiĢ dəyər üsulu 
+Layihənin yerinə yetirilməsini qiymətləndirən, iĢlərin 
+gediĢatının analizinə əsaslanan üsullar və yanaĢma-
+lar. 
+Effort iĢin həcmi 
+ 
+32 
+ 
+Layihə fəaliyyətinin və ya elementinin icra olunması 
+üçün tələb olunan iĢ vahidləri (iĢçi heyətinin saatları, 
+günləri, həftələri). 
+Effort Remaining yerdə qalmıĢ iĢ dövrləri 
+Elapsed Time faktiki vaxt 
+Fəaliyyətin, əməliyyatın, iĢin və ya istehsal dövrünün 
+baĢlanmasından bitənədək ötən faktiki vaxt. 
+Encouraging 1. həvəsləndirmə; 2. dəstəkləmə 
+End Activity sonuncu, davamı olmayan iĢ 
+End Product son nəticə 
+Layihə iĢindən irəli gələn real nəticə. 
+End User son istifadəçi 
+Layihə məhsulundan və ya xidmətindən bilavasitə 
+istifadə edən. 
+Enhance gücləndirmək 
+Ġmkanın gözlənilən dəyərinin gücləndirilməsi. 
+Enterprise Project Management (EPM) müəssisə 
+layihələrinin idarə edilməsi (MLĠ) 
+Entrusting səlahiyyətin verilməsi 
+Estimate gözlənilən nəticənin qiymətləndirilməsi 
+Estimate at Completion (EAC) 1. iĢin (layihənin) ta-
+mamlanmasında ehtimal olunan xərclər(ĠTEX); 
+2. tamamlanmada gözlənilən qiymət  
+Layihənin, fəaliyyətlər toplusunun və ya ayrıca bir 
+fəaliyyətin baĢa çatdırıldığı zaman gözlənilən ümumi 
+EFF 
+ 
+33 
+ 
+xərclər. Layihənin bu günədək olan icrasına əsasla-
+naraq proqnozlaĢdırılan ümumi xərclər. 
+Estimated Cost gözlənilən xərclər 
+Estimate to Complete tamamlanma xərclərinin proq-
+nozu 
+Layihənin, fəaliyyətlər toplusunun və ya ayrıca bir 
+fəaliyyətin baĢa çatdırılması üçün gərək olan əlavə 
+məbləğ. 
+Estimated Final Cost güman edilən ümumi xərclər 
+Layihənin baĢa çatdırılmasına çəkiləcək ümumi 
+xərclərin ehtimal (güman) edilən qiyməti. 
+Estimating 1. qiymətləndirmə; 2. proqnoz 
+Konkret nəticənin əldə edilməsi üçün gərək olacaq 
+xərclərin, resursların və iĢ cədvəlinin proqnozu. 
+Estimating Costs dəyərin (xərclərin) qiymətləndiril-
+məsi 
+VerilmiĢ zamanda mümkün olan informasiya əsasın-
+da gözlənilən nəticənin xərclər baxımından proqnoz-
+laĢdırılması. 
+Event 1. hadisə; 2. nəticə 
+Resursları istifadə etməyən fəaliyyət; layihənin kritik 
+mərhələsini qeyd etmək üçün istifadə edilən bir və 
+ya bir neçə iĢin sonu. Məsələn: qərarın qəbul edil-
+məsi nöqtəsi.  
+Event Chart mərhələlər qrafiki 
+Zaman Ģkalasında əsas mərhələlərin baĢlanma və 
+baĢa çatma vaxtlarının əks etdirilməsi üçün istifadə 
+EVE 
+ 
+34 
+ 
+olunan Ģəbəkə qrafiki. PlanlaĢdırılmıĢ hadisələr içi 
+boĢ, baĢa çatmıĢ hadisələr isə qalın üçbucaqlarla 
+təsvir edilir. Təkrarən planlaĢdırılan və vaxtı dəyiĢən 
+hadisələr romb Ģəklində təsvir edilir. 
+Event-on-Node 1. “hadisə-təpə”; 2. “hadisə-qovĢaq” 
+Hadisələrin qrafın təpələrində və Ģəbəkənin qovĢaq-
+larında təsviri. Hadisələr (nəticələr) çevrə və ya düz-
+bucaqlarla qeyd olunur.  
+Event-Oriented Schedule nəticələrə (hadisələrə) yö-
+nəlmiĢ iĢ qrafiki 
+Exception 1. tələblər fərqi; 2. istisna 
+MüĢtərinin tələbləri ilə kontraktorun təklifində qeyd 
+etdiyi tələblər arasındakı fərq.  
+Exception Report ciddi kənarlaĢmaların hesabatı 
+Əsas plandan ciddi kənarlaĢmaları qeyd edən 
+sənəd. 
+Exception Reporting mühüm kənarlaĢmalarının sə-
+nədləĢdirilməsi prosesi 
+Executing Processes icra etmə prosesləri 
+Layihədə nəzərdə tutulmuĢ iĢlərin baĢa çatdırılması 
+üçün təĢəbbüs edilən hər hansı bir fəaliyyət və ya 
+proses. 
+Execution icra 
+Execution Phase layihənin icrası fazası 
+Exit Strategy çıxıĢ strategiyası 
+EVE 
+ 
+35 
+ 
+Expected Monetary Value (EMV) gözlənilən (ehtimal 
+edilən) maliyyə dəyəri (GMD) 
+Expected Time gözlənilən (ehtimal edilən) vaxt 
+ĠĢin icrasına gərək olacaq gözlənilən (ehtimal edilən) 
+vaxt. 
+Expected Value gözlənilən (ehtimal edilən) maliyyə 
+dəyəri 
+Expenditure 1. xərc; 2. məxaric 
+Layihənin normal gediĢatında çəkilən xərclər. 
+Expense 1. xərc; 2. məsrəf 
+VerilmiĢ zaman ərzində istifadə edilən aktivlər və 
+xidmətlər. 
+Expenses xərclər 
+Layihənin yerinə yetirilməsi və istismarı zamanı çəki-
+lən gündəlik xərclər. 
+Expert Authority ekspertin (mütəxəssisin) nüfuzu 
+Expert Interview ekspert ilə müsahibə 
+Expert Judgement ekspert rəyi (fikirlər və tövsiyələr) 
+External Dependency xarici asılılıq 
+Layihə və qeyri-layihə iĢləri arasındakı asılılıqlar.  
+External Failure Cost xarici imtinaların xərcləri 
+External Feedback xarici əks əlaqə 
+External Risk xarici (kənar) risk 
+EXT 
+ 
+36 
+ 
+1 
+F 
+Facilitating Ethical Conduct etik davranıĢın dəstəyi, 
+asanlaĢdırılması 
+Failure 1. nasazlıq; 2. iĢ qabiliyyətinin itirilməsi 
+Failure Modes and Effect Analysis (FMEA) nasazlıq-
+ların və onların nəticələrinin təhlili (NNT) 
+Fast-Tracking sürətli layihələndirmə 
+Normal hallarda ardıcıl yerinə yetirilən fəaliyyətlərin 
+üst-üstə düĢməsi yolu ilə iĢlər cədvəlinin sıxlaĢdı-
+rılması. 
+Feasibility 1. mümkünlük; 2. yerinə yetirilə bilmə im-
+kanı 
+Feedback əks əlaqə 
+Mövcud vəziyyət, əldə edilmiĢ nəticə, cari göstərici-
+lər, məhsula olan reaksiya, tapĢırığın icrasına və s. 
+aid olan və vəziyyətin yaxĢılaĢdırılması üçün istifadə 
+olunan məlumat. 
+Filtering filtrdən keçirmə 
+Ən yaxın prioritet olmayan risklərin kənara qoyulma-
+sı üçün bir sıra sualların verilməsi.  
+Financial Closeout maliyyə əməliyyatların bağlanması 
+ 
+37 
+ 
+Layihə ilə əlaqədar maliyyə xərclərinin təhlili və bü-
+tün maliyyə əməliyyatlarının dayandırılması.  
+Financial Closure Plan maliyyə əməliyyatların bağ-
+lanması planı 
+Financial Control büdcə dəyiĢikliklərinə nəzarət 
+Finish Date baĢa çatma vaxtı 
+PlanlaĢdırılmıĢ əməliyyatın və ya layihənin baĢa çat-
+dırılması ilə əlaqədar vaxt. Faktiki, planlaĢdırılmıĢ, 
+gözlənilən, tez, gec, əsas, hədəf və ya cari ifadələri 
+ilə birgə istifadə olunur.   
+Finish-to-Finish finiĢ-finiĢ 
+Növbəti əməliyyatın əvvəlki əməliyyat bitməmiĢ baĢa 
+çatmasının qeyri-mümkünlüyünü qeyd edən məntiqi 
+əlaqə. 
+Finish-to-Finish Lag finiĢ-finiĢ intervalı 
+Ġki ardıcıl əməliyyatın sonu arasındakı məcburi mini-
+mal zaman intervalı.  
+Finish-to-Start finiĢ-start 
+Növbəti əməliyyatın baĢlanması üçün əvvəlki əmə-
+liyyatın bitməsini tələb edən məntiqi əlaqə. 
+Finish-to-Start Lag finiĢ-start intervalı 
+BaĢlanan və bitmiĢ əməliyyatlar arasındakı məcburi 
+minimal zaman intervalı. 
+Fishbone Diagram səbəb-nəticə (ĠĢikava) diaqramı 
+Fixed Cost sabit xərclər 
+FIX 
+ 
+38 
+ 
+Fixed Price Contract sabitqiymətli və ya birdəfəyə 
+ödənilən kontrakt 
+Flexible-Cohering (Hub) çevik-birləĢdirici (hab) üslub 
+Çeviklik üçün qayğı; qrupun əmin-amanlığı üçün 
+qayğı; qrup üzvlərinə və qrupa mənsub olmağına 
+qayğı. AĢağıdakılarla xarakterizə olunur: baĢqaları-
+nın hissləri və fikirləri ilə maraqlanması, geniĢ baxıĢ-
+lara və uyğunlaĢmağa hazır olması, müxtəlif yolla 
+hərəkət etmək üzərində eksperiment aparması, 
+qrupun üzvü olmaqla fəxr etməsi; çevik bir Ģəxs kimi 
+tanınmasını, çoxsaylı adamları tanımasını, adamlar 
+tərəfindən özünün tanınmasını xoĢlaması.  
+Float fəaliyyətin ehtiyat vaxtı 
+Flow Diagram texnoloji marĢrutun sxemi 
+Force Field Analysis faktorlar sahəsinin analizi 
+Forced Analysis layihə qrafikinin təkrar analizi 
+Forcing məcburetmə 
+Formal Acceptance qəbuletmə 
+Layihənin və ya onun fazasının qəbul edilməsinə 
+dair sənəd. 
+Forming təĢkiletmə 
+Komandanın inkiĢaf fazası. 
+Forward Pass düz keçid (baĢlanğıcdan sona) 
+Yerinə yetirilməmiĢ iĢlərin ən tez baĢlanma və bitmə 
+vaxtlarının hesablanması. 
+FIX 
+ 
+39 
+ 
+Forward Scheduling layihənin verilmiĢ tarixdən plan-
+laĢdırılması  
+VerilmiĢ baĢlanma tarixi, tapĢırıqların müddəti və 
+ardıcıllığı əsasında layihənin bitmə tarixinin hesab-
+lanması. 
+Free Float sərbəst vaxt ehtiyatı 
+Functional Team funksional komanda 
+Eyni sahədən və ya bölmədən olan, problemlərin 
+həlli üçün mütəmadi görüĢən, bir-birinə dəstək 
+verən, informasiyanı bölüĢdürən və mütəmadi 
+təkmilləĢdirməni həyata keçirən iĢçilər qrupu. 
+ 
+FUN 
+ 
+40 
+ 
+G 
+Gantt Chart Qant diaqramı 
+Təqvim planına (iĢlər cədvəlinə) aid informasiyanın 
+qrafik təsviri. Tipik lent diaqramında əməliyyatlar və 
+iĢlərin iyerarxik strukturun elementləri diaqramın sol 
+tərəfində göstərilir, tarixlər yuxarı və ya aĢağı hissə-
+sində qeyd olunur, əməliyyatların müddəti isə üfuqi 
+zolaqlar Ģəklində təsvir edilir. 
+Go/No-Go davam etmək/etməmək 
+Grade 1. növ; 2. sort; 3. kateqoriya 
+ 
+ 
+41 
+ 
+H 
+Hammock aqreqat fəaliyyət 
+Layihənin həyat dövrünün seqmenti boyu əlaqəli 
+fəaliyyətləri qruplaĢdıran aqreqat və ya toplu fəaliy-
+yət. Aqreqat əməliyyatlardan istifadə edilməsi əks 
+olunan fəaliyyətlərin sayını azaldaraq, layihənin 
+ümumiləĢdirməsi prosesini asanlaĢdırır. 
+Hard Logic zəruri məntiq 
+Hard Skills texniki vərdiĢ və bacarıqlar 
+Helping Factors kömək edən faktorlar 
+Hindering Factors mane olan faktorlar  
+Historic Records baĢa çatmıĢ iĢlərə (layihəyə) aid sə-
+nədlər 
+OxĢar layihələrin mümkünlüyünün, tendensiya və 
+problemlərinin proqnozlaĢdırılması üçün istifadə olu-
+nan layihə sənədləri. 
+Historical Estimating keçmiĢ məlumata əsaslanan 
+qiymətləndirmə 
+Historical Information keçmiĢ fəaliyyətə dair statistik 
+məlumat 
+House of Quality “keyfiyyət evi” 
+ 
+42 
+ 
+“Keyfiyyət evi” xarici görünüĢü evə oxĢayan dia-
+qramdır. Bu diaqramdan müĢtərinin istəkləri və məh-
+sulun/firmanın bacrıqları arasındakı əlaqələri təsvir 
+etmək üçün istifadə olunur. Keyfiyyət funksiyalarının 
+strukturlaĢdırılması üsulunun tərkib hissəsidir. 
+Human Resource Planning insan qaynaqlarının plan-
+laĢdırılması 
+Hygiene Motivation Theory motivasiyanın iki faktorlu 
+nəzəriyyəsi 
+Herzberg-in nəzəriyyəsinə görə, iĢlə əlaqədər göstə-
+ricilərin bir növünün mövcudluğu iĢçinin məmnunlu-
+ğuna səbəb olur, digər göstəricilərin mövcudluğu isə 
+qeyri-məmnunluğa gətirir. Beləliklə, məmnunluq və 
+qeyri-məmnunluq biri artanda o birisi azalan konti-
+nuum deyil, ancaq bir-birindən asılı olmayan feno-
+menlərdir. 
+HUM 
+ 
+43 
+ 
+I 
+Idea Phase konsepsiya fazası 
+Idle Time boĢ dayanma vaxtı 
+Impact Analysis təsirin təhlili 
+Xüsusi bir riskdən və ya hadisələr ardıcıllığından irəli 
+gələn itkilərin və ya faydaların həcminin qiymətləndi-
+rilməsi. 
+Implementation yerinə yetirilmə 
+Implementation Phase yerinə yetirilmə fazası 
+Independent Cost Analysis gözlənilən xərclərinin 
+müstəqil qurum tərəfindən təhlili 
+Independent Cost Estimate xərclərinin müstəqil qu-
+rum tərəfindən qiymətləndirilməsi 
+Independent Event müstəqil hadisə 
+Indirect Cost dolayı xərclər 
+Infrastructure infrastruktur 
+Initial Project Plan layihənin ilkin planı 
+Initiating Processes layihənin əsasının qoyulma pro-
+sesləri 
+Initiation 1. əsasının formal qoyulması; 2. inisializasiya 
+ 
+44 
+ 
+Initiation Phase 1. inisializasiya fazası; 2. əsasının qo-
+yulma fazası 
+Input giriĢ, prosesin giriĢi, sistemin giriĢi 
+Prosesin baĢlanması üçün gərək olan və layihəyə 
+nisbətən daxili və ya xarici olan hər hansı bir ele-
+ment. Məsələn, məlumat, vəsait, sənəd, digər resurs 
+və s. 
+Input/Output daxil etmə/xaric etmə 
+Ġnformasiyanın daxil edilməsi və nəticənin xaric edil-
+məsi. 
+Integrated Project Progress Report layihənin gediĢa-
+tına dair kompleks hesabat 
+Interdependencies qarĢılıqlı asılılıqlar 
+Interdependency Diagram qarĢılıqlı əlaqələr diaqramı 
+Internal Audit daxili audit 
+Internal Control daxili nəzarət 
+Internal Failure Cost daxili imtinaların xərcləri 
+Internal Risk daxili risk 
+Layihə komandasının nəzarəti altında olan risk. 
+Interruptible Duration fasiləli müddət 
+Investment kapital qoyuluĢu 
+Isikawa Diagram səbəb-nəticə diaqramı 
+Issue problem 
+Issues Register problemlərin qeydiyyat vərəqi 
+INI 
+ 
+45 
+ 
+ 
+J 
+Job 1. tapĢırıq; 2. iĢ 
+Job Analisis iĢin təhlili 
+Job Class of Employees eyni tapĢırığı yerinə yetirən 
+iĢçilər 
+Job Description iĢin təsviri 
+ĠĢin icrası üçün tələb olunan biliklər, vərdiĢlər, səla-
+hiyyətlər, vəzifələr, iĢçi əlaqələri. 
+Judicious-Competing (Red-Green) Hüquqi-rəqabətli 
+(qırmızı-yaĢıl) üslub 
+Rəqabətdə intellektual inam, ədalət, qayda və düz-
+günlük üçün qayğı. AĢağıdakılarla xarakterizə olu-
+nur: riskləri və imkanları qiymətləndirə bilən rasional 
+liderlik, bütün faktlar məlum olanda fəal və qətiyyətli 
+hərəkət, düĢünülmüĢ strategiya və proses vasitəsilə 
+müqabillik ilə üz-üzə çıxmaq. 
+ 
+46 
+ 
+ 
+K 
+Key Decision Point əsas qərar vermə mərhələsi 
+Key Event 1. əsas hadisə; 2. mərhələ 
+Key-Event Schedule əsas mərhələlərdən ibarət təq-
+vim planı 
+Key Performance Indicators (KPIs) fəaliyyətin əsas 
+həlledici göstəriciləri (FƏG) 
+Key Success Factors (KSFs) müvəffəqiyyəti müəy-
+yən edən əsas göstəricilər (MMƏG) 
+Known Risk məlum risk 
+Normal halda bu risk barədə məlumatı əldə etmək 
+mümkündür; bu risk müəyyən olunmalı və nəzarət 
+edilməlidir; bir qayda olaraq, idarə olunandır. 
+ 
+47 
+ 
+ 
+L 
+Lag gecikmə 
+Lagging Indicators gecikmə ilə dəyiĢən göstəricilər 
+Lag Relationship gecikmə əlaqəsi 
+Late Finish Date (LF) ən gec baĢa çatma vaxtı 
+Late Start Date (LS) ən gec baĢlama vaxtı 
+Lead qabaqlama 
+Lead Time 1. sifariĢin gözləmə vaxtı; 2. gecikmə vaxtı 
+SifariĢ və ya sorğu veriləndən sonra məhsulun, xid-
+mətin, materialın və ya resursların əldə edilməsi 
+üçün tələb olunan vaxt. 
+Leadership Style liderlik üslubu 
+Leading Change dəyiĢikliyin idarəetməsi 
+Leading Teams komandaların idarə edilməsi 
+Legitimate Authority 1. qanuni hakimiyyət; 2. səlahiy-
+yət 
+Vəzifədən irəli gələn, formal. 
+Lessons Learned toplanmıĢ biliklər 
+Lessons-Learned Review toplanmıĢ biliklərin təhlili 
+ 
+48 
+ 
+Level Finish Schedule fəaliyyətin planlaĢdırılmıĢ baĢa 
+çatma günü 
+ Resursların bölüĢdürülməsi prosesindən istifadə 
+edərək, fəaliyyətin dayandırılmasının planlaĢdırılmıĢ 
+tarixi.  
+Level Start Schedule fəaliyyətin planlaĢdırılmıĢ baĢ-
+lanma günü 
+ Resursların bölüĢdürülməsi prosesindən istifadə 
+edərək, fəaliyyətin baĢlanmasının planlaĢdırılmıĢ ta-
+rixi. Ən tez baĢlanma vaxtına bərabərdir və ya on-
+dan gecdir. 
+Leveling 1. resursun bərabərləĢdirilməsi; 2. eyni sə-
+viyyəyə gətirmə; 3. fərqlərin aradan qaldırılması 
+Leadership liderlik 
+Leadership Competencies liderlik bacarıqları 
+Leadership Paradigms liderlik paradiqmaları (prinsip-
+ləri) 
+Life Cycle həyat dövrü 
+Life Cycle Cost (LCC) həyat dövrünün ümumi xərcləri 
+(HDÜX) 
+Logic Ģəbəkədə fəaliyyətlərin ardıcıllığı 
+Logic Diagram Ģəbəkə diaqramı 
+LEV 
+ 
+49 
+ 
+ 
+M 
+Make-or-Buy 1. istehsal etmək və ya almaq; 2. daxili 
+və ya kənar resurslardan istifadə etmək 
+Management by Projects layihə prinsipi ilə idarəetmə 
+Management Reserves menecment ehtiyatları 
+Proqnozu mümkün olmayan təhlükələr üçün nəzər-
+də tutulmuĢ ehtiyatlar. 
+Man-Hour/Month/Year insan–saatı/ayı/ili  
+Mandatory Dependency zəruri asılılıq 
+Masked (Nonvalued) Behavior Pattern maskalanmıĢ 
+(dəyərləndirilməyən) davranıĢ nümunəsi 
+Dəyərimiz barədəki hissiyyatımızı yaxĢılaĢdırmayan, 
+lakin özümüzü qorumaq və ya yaĢamaq üçün qəbul 
+etdiyimiz davranıĢ nümunəsi: “YaĢamaq üçün qəbul 
+etməliyəm”. 
+Master Project Schedule mərhələlər qrafiki 
+Master Schedule iĢlərin əsas qrafiki 
+Əsas nəticələri, mərhələləri və iĢlərin iyerarxik struk-
+turunun elementlərini əks edən iriləĢdirilmiĢ plan.  
+Matrix Organization matris təĢkilatı 
+ 
+50 
+ 
+Prioritetləri müəyyənləĢdirmək və layihəyə təyin 
+olunmuĢ iĢçilərin iĢini idarə etmək üçün səlahiyyət-
+ləri layihə və funksional menecerlər arasında bölüĢ-
+dürən təĢkilati struktur. Səlahiyyətlərin bölgüsü ba-
+lansından asılı olaraq, idarəetmə strukturu güclü 
+matris və ya zəif matris təĢkilatı ola bilər. 
+Matrix Team matris strukturlu komanda 
+Maximun Position maksimal mövqe 
+DanıĢıqda hər Ģeyi əldə etmək istəyi.  
+Megaproject 1. meqalayihə; 2. çox böyük ölçülü layihə 
+Milestone əsas mərhələ 
+Vaxt və resurs sərf etmir. 
+Milestone Chart əsas mərhələlərin qrafiki 
+Milestone Method əsas mərhələlər üsulu 
+Milestone Payment bitmıĢ mərhələyə görə ödəniĢ 
+Milestone Schedule mərhələlərin təqvim planı 
+Minimum Position minimal mövqe 
+DanıĢıqda razı olacağınız qənaətbəxĢ nəticə. 
+Mirror Image “güzgü əksi” strukturu 
+Struktur layihənin funksiyalarını əks etdirir. 
+Mitigate 1. azaltmaq; 2. yumĢaltmaq 
+Təhlükənin baĢ vermə ehtimalının və ya onun mənfi 
+nəticəsinin minimum səviyyəyə endirilməsi. 
+Modern Project Management (MPM) layihələrin idarə 
+edilməsinin müasir metodologiyası (LĠMM) 
+MAT 
+ 
+51 
+ 
+Monitor monitorinq 
+Monitoring Actuals Versus Budget büdcəyə nəzarət 
+Monitoring and Controlling Processes monitorinq və 
+nəzarət prosesləri 
+Monte-Carlo Analysis Monte-Karlo analizi 
+Monte-Carlo Simulation Monte-Karlo simulyasiyası 
+Monte-Karlo simulyasiya üsulundan qeyri-müəyyən 
+təbiəti olan proses, hadisə və sistemlərin fəaliyyətlə-
+rinin kompüterdə modelləĢdirilməsi üçün istifadə 
+edilir.  
+Most Likely Time ən çox güman edilən vaxt 
+Most Likely Time Estimate ən çox güman edilən 
+müddət 
+Motivating and Inspiring motivasiya etmə və ruhlan-
+dırma 
+“Motivational Value System™ (MVS™)” motivasiya 
+dəyərləri sistemi 
+Multiple-Project Scheduling çoxsaylı layihələrin plan-
+laĢdırılması 
+Mutually Exclusive Events bir-birini inkar edən hadi-
+sələr 
+Heç vaxtı eyni zamanda baĢ verə bilməz. 
+MUT 
+ 
+52 
+ 
+ 
+N 
+Near-Critical Activity kritikə yaxın fəaliyyət 
+Çox kiçik zaman ehtiyatı olan fəaliyyət. 
+Near-Critical Path kritikə yaxın yol 
+Çox kiçik zaman ehtiyatı olan yol. 
+Near-Term Activity ən yaxın fəaliyyət 
+Yaxın zamanda bitəcək və ya baĢlanacaq fəaliyyət. 
+Need ehtiyac 
+Needs Assessment ehtiyacların qiymətləndirilməsi 
+Negative Float mənfi vaxt ehtiyatı 
+Mənfi vaxt ehtiyatı qeyid edir ki, planlaĢdırılmıĢ baĢa 
+çatma vaxtına nail olmaq üçün sonrakı əməliyyatlar 
+onlardan əvvəl olan əməliyyatlar baĢa çatmamıĢ 
+baĢlanmalıdır. Mənfi vaxt ehtiyatı gec vaxt ilə tez 
+vaxt arasındakı fərq mənfi olanda yaranır. 
+Negotiating danıĢıqların aparılması 
+Net Book Value xalis qalıq dəyər 
+Net Earnings xalis mənfəət 
+Net Income xalis gəlir 
+Net Loss xalis itkilər 
+ 
+53 
+ 
+Net Present Value xalis cari (diskontlaĢdırılmıĢ) dəyər 
+Net Profit xalis mənfəət 
+Network Analysis Ģəbəkənin təhlili 
+Layihənin müddəti, sərbəst vaxtı və kritik yolu müəy-
+yən edir. 
+Network-Based Scheduling Ģəbəkə əsasında iĢlərin 
+təqvimi planlaĢdırılması 
+Network Diagram Ģəbəkə diaqramı 
+Network Diagramming Ģəbəkə diaqramının qurulması 
+Networking ĢəbəkələĢmə 
+Network Logic Ģəbəkə məntiqi 
+Network Path Ģəbəkə yolu 
+Ninety-Ninety (90-90) Rule of Project 90-90 qaydası 
+Layihənin ilkin 90 faizi vaxtın 90 faizini, yerdə qalan 
+10 faizi isə digər 90 faiz vaxtı tələb edir.  
+Node 1. qrafın təpəsi; 2. Ģəbəkənin qovĢağı 
+Nominal Group Technique nominal qrup üsulu 
+Delfi və “beyin fırtınası” üsullarına oxĢar üsul; bura-
+da qrup ancaq adda var, real qrup yoxdur, formal 
+üzvlər var. 
+Noncritical Path qeyri-kritik yol 
+ġəbəkə diqramında ümumi vaxt ehtiyatı müsbət olan 
+hər hansı bir yol. 
+Nonexlusive Events inkar olunmayan hadisələr 
+NON 
+ 
+54 
+ 
+Ola bilər ki, eyni vaxtda baĢ versin və ya baĢ vermə-
+sin. 
+Non-Verbal Signals qeyri-verbal (sözsüz) siqnallar 
+Qeyri-verbal siqnallar mesajın 55%-ni təĢkil edir. 
+Bunlara insanın duruĢu, barmaqların tıqqıltısı, sinə-
+də çarpaz tutulan qollar, narahat hərəkətlər, oturan-
+da çarpaz qoyulan ayaqlar, qalxan qaĢlar, büzüĢən 
+dodaqlar, qıyılmıĢ gözlər aiddir. 
+Normal Cost normal xərclər 
+Plana uyğun olaraq, normal Ģəraitdə fəaliyyətin baĢa 
+çatdırılması üçün gərək olan xərclərin güman edilən 
+həcmi. 
+Normal Time normal vaxt 
+Plana uyğun olaraq, normal Ģəraitdə fəaliyyətin baĢa 
+çatdırılması üçün gərək olan vaxtın güman edilən 
+qiyməti. 
+Norming tənzimləmə 
+Komandanın inkiĢaf fazası. 
+Not/No Earlier Than tarixdən tez olmayaraq 
+Not/No Later Than tarixdən gec olmayaraq 
+NON 
+ 
+55 
+ 
+ 
+O 
+Objective məqsəd 
+Opportunity əlveriĢli imkan 
+Layihənin nəticələrinə müsbət təsir göstərən və ya 
+müsbət dəyiĢikliklərin yaranması imkanını artıran 
+risklər, hadisələr və vəziyyətlər.  
+Optimistic Time Estimate müddətin optimist (nikbin) 
+qiyməti 
+Çətinliklərin yaranmadığı və hər Ģeyin yaxĢı olduğu 
+halda fəaliyyətin bitirilməsinin mümkün olan müddəti. 
+Organizational Breakdown Structure (OBS) təĢkilati 
+strukturda iĢlərin bölgüsü (TĠSB) 
+Organizational Fit təĢkilati uyğunluq 
+Original Duration ilkin müddət 
+Fəaliyyəti bitirmək üçün tələb olunan iĢ vahidlərinin 
+ilkin qiyməti. 
+Outcome nəticə 
+Ardıcıllığın və ya yolun sonunda əldə olunan 
+nəticə. 
+Output 1. çıxıĢ; 2. prosesin çıxıĢı; 3. sistemin çıxıĢı 
+ 
+56 
+ 
+Proses nəticəsində yaranan məhsul, xidmət və ya 
+nəticə. BaĢqa prosesin (sistemin) giriĢi ola bilər. 
+Overall Change Control bütün layihə üzrə dəyiĢiklik-
+lərin idarə olunması 
+Overhead Cost əlavə xərclər 
+Ġcarə, iĢıq, istilik, vergilər, sığorta və s. 
+Oversight layihəyə nəzarət 
+ 
+OVE 
+ 
+57 
+ 
+ 
+P 
+Paralingual Elements paralinqvistik elementlər 
+DanıĢıq tərzi, sürəti, intonasiya və s. Mesajın 38%-ni 
+təĢkil edir. 
+Parametric Estimating parametrik qiymətləndirmə 
+Parametrik qiymətləndirmə ötən dövrə aid olan sta-
+tistik verilənlər və araĢdırılan dəyiĢənlər arasındakı 
+statistik asılılıqdan istifadə edən qiymətləndirmə 
+üsuludur.  
+Pareto Analysis Pareto analizi 
+Bu yanaĢmaya uyğun olaraq, istehsal, təchizat və 
+xidmətdə yaranan problemlərin əhəmiyyətli faizin sə-
+bəbkarları az saylı problemlərdir. YanaĢma, adətən, 
+ABC və ya 80/20 qaydası adlandırılır. Məsələn, 
+kompüter sisteminin sıradan çıxmalarının 80 faizinin 
+səbəbkarı kompüter elementlərinin 20 faizidir. 
+Pareto Diagram Pareto diaqramı 
+Hər bir müəyyən edilmiĢ səbəbin törətdiyi nəticələrin 
+sayını göstərən və yaranma tezliyinə uyğun nizam-
+lanmıĢ histoqram. 
+Pareto Optimal Solution Pareto optimal həll 
+ 
+58 
+ 
+Bir tərəfin vəziyyətinin yaxĢılaĢdırılması, digər bir tə-
+rəfin vəziyyətinin eyni və ya daha çox dərəcədə pis-
+ləĢməsinə gətirən həll. 
+Pareto`s Law Pareto qanunu 
+Joseph Juran tərəfindən dəstəklənən və XIX əsrin 
+italiyalı iqtisadçısı Vilfredo Pareto-nun iĢlərinə əsas-
+lanan prinsip. Bu prinsipə görə, problem və qüsurla-
+rın böyük hissəsini “ən mühüm” bir neçə səbəb törə-
+dir.  
+Partial Audit layihənin qismən auditi 
+Path yol 
+Bir-birilə birləĢmiĢ fəaliyyətlər ardıcıllığı Ģəbəkə 
+yolunu təĢkil edir. 
+Path Convergence yolların konvergensiyası (birləĢ-
+məsi) 
+Path Divergence yolların divergensiyası (ayrılması) 
+Path Float yolun ehtiyat vaxtı 
+Payback Period xərcin ödəmə (qaytarma) vaxtı 
+People-Oriented Closeout Activities insan–yönümlü 
+baĢa çatdırılma fəaliyyətləri  
+Percent Complete yerinə yetirilmə faizi 
+Konkret tarixədək baĢa çatdırılmıĢ iĢin məbləğinin 
+ümumi yerinə yetiriləsi iĢin büdcəsinə nisbətən faizi. 
+Percent Spent xərclənmə faizi 
+PAR 
+ 
+59 
+ 
+Konkret tarixədək baĢa çatdırılmıĢ iĢin yerinə yetiril-
+məsinə sərf olunmuĢ məbləğin ümumi yerinə yetiri-
+ləsi iĢin büdcəsinə nisbətən faizi. 
+Performance Measurement Baseline (PMB) icraet-
+mənin əsas planı (ĠƏP) 
+Layihənin icrasının idarə edilməsi və nəzarəti məq-
+sədi ilə cari icraetmənin müqayisə edildiyi plan. Bu, 
+təsdiq olunmuĢ və ümumiləĢdirilmıĢ plan layihənin 
+dəyərinə, müddətlərə və tərkibə aid iĢləri əhatə edir. 
+Performance Reporting icraetmə haqqında hesabat 
+Performance Requirements tələb olunan nəticələr 
+Fəaliyyət, tapĢırıq və layihə səviyyəsində tələb olu-
+nan nəticələr. 
+Performance Review layihənin vəziyyətinin təhlili 
+Performance Spesification iĢlərin icrasına qoyulan 
+tələblər 
+Performing icraetmə  
+Performing Organization layihəni yerinə yetirən əsas 
+təĢkilat 
+PERT (Program Evaluation and Review Technique) 
+proqramın dəyərləndirməsi və analizi üsulu 
+PERT Chart layihənin PERT üsulu ilə təsviri 
+PERT/Cost layihə iĢlərinə sərf olunan vaxtın və xərc-
+lərinin hesablanması 
+PERT Estimating PERT qiymətləndirilməsi 
+PER 
+ 
+60 
+ 
+Orta çəkili qiymətlər əsasında kritik yolun qiymətlən-
+dirilməsi. 
+Personality Traits Ģəxsiyyətin səciyyələndirici xüsu-
+siyyətləri 
+Pessimistic Duration bədbin (pessimist) müddət 
+Pessimistic Time bədbin (pessimist) müddət 
+Pessimistic Time Estimate müddətin pessimist (bəd-
+bin) qiyməti 
+Qeyri-adi və gözlənilməyən çətinliklərin yarandığı və 
+əlveriĢsiz Ģəraitdə fəaliyyətin bitirilməsinin mümkün 
+olan müddəti. 
+Phase layihənin fazası 
+Phase-End Review fazanın nəticələrinin təhlili 
+Layihənin hər bir fazasının sonunda fazanın baĢa 
+çatdırılmasına dair razılığın əldə edilməsi üçün ye-
+rinə yetirilən formal təhlil.  
+Phase Exit layihənin gediĢatının yoxlama nöqtəsi 
+Phase Gate fazanın gediĢatının yoxlama nöqtəsi 
+Növbəti fazaya keçib-keçməmək barədə rəhbərlik 
+tərəfindən qərar verilən nöqtə. 
+Phase Review fazanın nəticələrinin təhlili 
+Layihənin hər bir fazasının sonunda yerinə yetirilir. 
+Təhlildə layihənin irəliləməsi qiymətləndirilir və növ-
+bəti fazaya keçib-keçməmək barədə qərar verilir. 
+Planned Activity planlaĢdırılmıĢ fəaliyyət 
+Cari vaxta qədər baĢlanmayıb və bitməyib. 
+PER 
+ 
+61 
+ 
+Planned Finish Date planlaĢdırılmıĢ baĢa çatma vaxtı 
+Planned Start Date planlaĢdırılmıĢ baĢlanma vaxtı 
+Planned Value (PV) 1. planlaĢdırılmıĢ xərclər (PX); 2. 
+planlaĢdırılmıĢ həcm; 3. planlaĢdırılmıĢ dəyər 
+VerilmiĢ zaman intervalı üçün planlaĢdırılmıĢ və təs-
+diq olunmuĢ xərclərin güman edilən dəyəri. 
+Planning Phase planlaĢdırma fazası 
+Planning Processes planlaĢdırma prosesləri 
+PMP® Exam “Layihənin idarə edilməsi peĢəkarı” imta-
+hanı 
+Portfolio portfel 
+Layihə və proqramlar toplusu. 
+Portfolio Management portfelin idarə edilməsi 
+Positive Float müsbət vaxt ehtiyatı 
+Post-Implementation Review tətbiq olunmuĢ sistemin 
+təhlili 
+Post-Implementation Review Report tətbiq olunmuĢ 
+sistemin təhlilinin hesabatı 
+Postproject Analysis and Report layihə nəticələrinin 
+analizi və hesabat 
+Postproject Evaluation and Review layihə nəticələ-
+rinin analizi və dəyərləndirilməsi 
+Precedence Diagramming Method (PDM) 1. qovĢaq 
+əməliyyatları üsulu; 2. əməliyyatların məntiqi ar-
+dıcıllığı sxemi  
+PRE 
+ 
+62 
+ 
+Precedence Relationship 1. məntiqi əlaqə; 2. ardıcıl-
+lıq əlaqəsi 
+Predecessor Activity əvvəlki iĢ 
+Preliminary Design Review dizaynın ilkin analizi 
+Present Value cari dəyər 
+Prevention Cost qarĢısının alınması xərcləri 
+MüĢtərinin tələblərinin ödənilməsi üçün əvvəlcədən 
+çəkilən xərclər. 
+Problem Solving problemin həlli 
+Procurement satınalma 
+Procurement Documents satınalma sənədləri 
+Procurement Management Plan satınalmanın idarə-
+edilməsi planı 
+Procurement Performance Evaluation satınalmanın 
+icrasının təhlili 
+Procurement Planning satınalmanın planlaĢdırılması 
+Product 1. məhsul; 2. əmtəə 
+Product Baseline əmtəənin ilkin əsas təsviri 
+Product Breakdown Structure əmtəənin iyerarxik 
+strukturu 
+Product Life Cycle əmtəənin həyat dövrü 
+Product Scope əmtəənin təsviri 
+Xüsusiyyətləri, funksiyaları, göstəriciləri. 
+Productivity məhsuldarlıq 
+PRE 
+ 
+63 
+ 
+Program proqram 
+Əlaqəli layihələr toplusu. 
+Program Management proqramın menecmenti 
+Progressive Elaboration tədrici təkmilləĢdirmə 
+Project layihə 
+Project Audit layihənin auditi 
+Project-Based Organization əsasən layihələrlə məĢ-
+ğul olan təĢkilat 
+Project Baseline layihənin planlaĢdırılmıĢ əsas gös-
+təriciləri 
+Project Breakdown Structure (PBS) layihənin iyerar-
+xik strukturu (LĠS) 
+Project Budget layihə büdcəsi 
+Project Calendar layihə təqvimi 
+Project Charter layihə nizamnaməsi 
+Project Closeout 1. layihənin baĢa çatdırılması; 2. ta-
+mamlanması 
+Project Communications Management layihədə 
+kommunikasiyaların idarə edilməsi 
+Project Constraints layihənin məhdudiyyətləri 
+Tərkib, xərc, vaxt, risk, keyfiyyət və resurslar. 
+Project Control layihənin idarə edilməsi və nəzarət 
+Project Cost Baseline layihənin zamana görə büdcə-
+ləĢdirilmıĢ xərcləri 
+PRO 
+ 
+64 
+ 
+Project Cost Estimate layihənin ümumi gözlənilən 
+xərcləri 
+Project Cost Management layihə xərclərinin idarə 
+edilməsi 
+Project Cost System layihə xərclərinin uçot sistemi 
+Project Evaluation layihənin qiymətləndirilməsi 
+Məqsədlərə nail olmasının yoxlanılması üçün mütə-
+madi yerinə yetirilən qiymətləndirmə. 
+Project Duration layihənin müddəti 
+Layihənin baĢa çatması və baĢlanması tarixləri 
+arasındakı fərq. 
+Project Finish Date layihənin bitmə tarixi 
+Project Human Resource Management layihənin in-
+san qaynaqlarının idarə edilməsi 
+Project Implementation layihənin yerinə yetirilməsi 
+Project Initiation 1. layihənin inisializasiyası; 2. layi-
+hənin əsasının formal qoyulması 
+Project Integration layihənin inteqrasiyası  
+Məqsədlərə nail olmaq üçün layihənin müxtəlif 
+tərəflərinin və elementlərinin birləĢdirilməsi. 
+Project Integration Management layihə elementləri-
+nin inteqrasiyasının idarə edilməsi 
+Projectized Team layihə strukturlu komanda 
+Project Life Cycle layihənin həyat dövrü 
+PRO 
+ 
+65 
+ 
+Tərkibi və sayı layihədə iĢtirak edən təĢkilatın (təĢki-
+latların) idarəetmə tələbatlarına uyğun olaraq, müəy-
+yən olunan layihə fazalarının toplusu. 
+Project Life-Cycle Cost layihənin həyat dövrünə aid 
+olan ümumi xərclər 
+Project Life Cycle Phases layihənin həyat dövrünün 
+fazaları 
+PMBOK® Guide (A Guide to the Project Management 
+Body of Knowledge) PMBOK təlimat kitabı 
+Project Management layihələrin idarə edilməsi (idarə-
+etməsi) 
+Project Management Body of Knowledge layihənin 
+idarə edilməsinə dair biliklər toplusu 
+Project Management Information System (PMIS) la-
+yihələrin idarə edilməsinin informasiya sistemi 
+(LĠĠS) 
+Project Management Processes layihənin idarə edil-
+məsi prosesləri 
+Project Management Process Groups layihənin ida-
+rə edilməsi proseslərin qrupları (kateqoriyaları) 
+Project Management Sotware layihələrin idarə edil-
+məsinin proqram təminatı 
+Project Management Team layihənin idarə edilməsi 
+komandası 
+Project Manager layihə meneceri 
+Project Network Diagram layihənin Ģəbəkə diaqramı 
+PRO 
+ 
+66 
+ 
+Project Objectives layihənin məqsədləri 
+Project Organization layihənin təĢkilati strukturu 
+Project Performance layihənin icrası 
+Project Personnel layihənin heyəti 
+Layihə meneceri, layihənin idarəetmə komandası və 
+layihənin komandası. 
+Project Phase layihənin fazası 
+Project Plan Development layihə planının iĢlənilməsi 
+Project Planning layihənin planlaĢdırılması 
+Project Procurement Management layihə satınalma-
+larının idarə edilməsi 
+Project Quality Management layihə keyfiyyətinin ida-
+rə edilməsi 
+Project Quality System layihənin keyfiyyətinin idarə 
+edilməsi sisteminin təĢkilati strukturu 
+Project Reporting layihə hesabatının verilməsi 
+Layihənin vəziyyəti və irəliləməsi barədə hesabatla-
+rın verilməsi 
+Project Requirements layihənin tələbləri 
+Project Requirements Document (PRD) layihə tə-
+ləbləri sənədi (LTS) 
+Project Resources layihə resursları 
+Project Review(s) layihənin monitorinqi 
+Kənar təĢkilat vasitəsilə layihənin monitorinqi. 
+Project Risk layihənin riskləri 
+PRO 
+ 
+67 
+ 
+Project Risk Management layihə risklərinin idarə edil-
+məsi 
+Project Schedule layihənin təqvim planı 
+Project Scope layihənin tərkibi 
+Bütün iĢlər, onların xüsusiyyətləri və funksiyaları. 
+Project Scope Management layihə tərkibinin idarə 
+edilməsi 
+Project Stakeholder layihədə marağı olan tərəf 
+Project Termination layihənin bitməsi 
+Project Time Management layihə vaxtının idarə edil-
+məsi 
+Project WBS layihə iĢlərinin iyerarxik strukturu 
+Proposal təklif 
+Proposal Project Plan layihənin təklif planı 
+Prosedures qaydalar 
+Prototype 1. sınaq nümunəsi; 2. prototip 
+Pure Risk xalis (təmiz) risk 
+Sığortalanması mümkün olan və ancaq itkilərlə əla-
+qədar risk. 
+Purse-String Authority maliyyəyə əsaslanan haki-
+miyyət, səlahiyyət 
+PUR 
+ 
+68 
+ 
+ 
+Q 
+Quality keyfiyyət 
+Quality Assurance keyfiyyətin təmin edilməsi 
+Quality Control keyfiyyətə nəzarət 
+Quality Evaluation keyfiyyətin qiymətləndirilməsi 
+Quality Function Deployment (QFD) keyfiyyət 
+funksiyalarının strukturlaĢdırılması (KFS) 
+Keyfiyyət funksiyalarının strukturlaĢdırılması üsulu 
+istifadəçilərin tələblərini layihələndirilən məhsulun 
+keyfiyyətinə çevirir, keyfiyyəti formalaĢdıran funksi-
+yaları açıqlayır və dizaynda nəzərə tutulmuĢ keyfiy-
+yəti təmin etmək üçün gərək olan üsulları açıqlayır. 
+KFS müĢtərinin istəklərini konkret texniki göstəricilə-
+rə çevrilməsinə kömək edir.  
+Quality Management keyfiyyətin idarə edilməsi 
+Quality Management Plan keyfiyyətin idarə edilməsi 
+planı 
+Quality Metrics keyfiyyət göstəriciləri 
+Quality Planning keyfiyyətin planlaĢdırılması 
+ 
+69 
+ 
+ 
+R 
+Records məlumatların uçotu 
+Records Management layihə sənədləĢməsinin uçotu  
+Recovery bərpa edilmə 
+Recovery Schedule bərpa edilmə qrafiki 
+Layihənin icrasında itirilmiĢ vaxtların bərpası. 
+Referent Authority istinad nüfuzu 
+ ġəxs rəhbərliyin onu və onun fikirlərini dəstəklədiyini 
+vurğulayaraq, nüfuz qazanır.  
+Relationship Awareness Theory münasibətlərin dər-
+ketmə nəzəriyyəsi (MDN) 
+Ġnsanlar arasındakı münasibətlərin motivasiya nəzə-
+riyyəsidir. Əsas vasitəsi Ģəxsiyyətin güclü tərəfləri 
+nəzəriyyəsidir (ġGTN–SDI®). Bu nəzəriyyə daha 
+yaxĢı münasibətlərin qurulması baxımından, insan 
+davranıĢının arxasında duran motivlərin və dəyərlə-
+rin dərk edilməsini artırır. AĢağıdakı sahələrdə baca-
+rıqları gücləndirir: kommunikasiya və nüfuzetmə, 
+liderlik, layihənin idarəetməsi, komandanın formalaĢ-
+ması, münaqiĢənin idarə edilməsi. 
+Remaining Duration (RDU) iĢin bitməsinə qalmıĢ vaxt 
+(ĠBQV) 
+ 
+70 
+ 
+Remaining Float (RF) qalan ehtiyat vaxt (QEV) 
+ĠĢin tez bitməsi və gec bitməsi arasındakı fərq. 
+Replanning yenidən planlaĢdırma 
+Reporting layihə hesabatının verilməsi 
+Request for Proposal (RFP) təklif üçün müraciət (TM) 
+Böyük həcmli alqılar üçün. 
+Request for Quotation (RFQ) qiymətlər sorğusu (QS) 
+Kiçik həcmli alqılar üçün. 
+Requirement tələb 
+Reschedule yenidən planlaĢdırma 
+Reserve ehtiyat 
+Residial Risk qalıq risk 
+Risklərə reaksiya veriləndən sonra yerdə qalan risk. 
+Resource resurs 
+Təcrübəli heyət, avadanlıq, xidmətlər, materiallar, 
+xammal, maliyyə vəsaitləri və s. 
+Resource Calendar resurslar təqvimi 
+Hər bir resursun istifadə olunmasının mümkün olan 
+və mümkün olmayan günlərini müəyyən edən iĢ və 
+qeyri-iĢ günlərinin təqvimi.  
+Resource Breakdown Structure (RBS) təĢkilati struk-
+turda iĢlərin fərdlər arasında bölgüsü (TSĠFB) 
+Resource Code resursun kodu (identifikatoru) 
+Resource Leveling resursların bərabərləĢdirilməsi 
+REM 
+ 
+71 
+ 
+BaĢlanma və baĢa çatma vaxtlarının müəyyən edil-
+məsi zamanı resursların məhdud olduğunu nəzərə 
+alan, resurslardan imkan daxilində təqribən eyni sə-
+viyyədə istifadə etməyə və istifadənin həddindən çox 
+artması və azalmasının qarĢısını almağa çalıĢan Ģə-
+bəkə analizi üsulu. 
+Resource-Limited Schedule resursların məhdudlu-
+ğunu nəzərə alan təqvimi plan 
+Mümkün olan resursların miqdarı məhdud olan Ģə-
+raitdə ən az vaxt tələb edən təqvimi planın qurul-
+ması üsulu. Bu üsul resurslara qoyulmuĢ məhdu-
+diyyətlərə riayət etmək naminə, ehtiyac olarsa, la-
+yihənin yerinə yetirilməsi müddətini uzadacaq. 
+Resource Loading resursların bölüĢdürülməsi 
+Resource Planning resursun planlaĢdırılması 
+Responce Analysis Matrix risklərə qarĢı tədbirlər 
+matrisi 
+Responce Planning risklərin menecmenti strategi-
+yasının hazırlanması 
+Responce System risklərə cavab vermə sistemi 
+Responsibility Assignment Matrix (RAM) məsuliy-
+yətlər (öhdəliklər) matrisi (MM) 
+Layihənin təĢkilati iyerarxik strukturunu iĢlərin iyerar-
+xik strukturu ilə uyğunlaĢdıran və tərkibin hər bir ele-
+mentinə məsul Ģəxsin və ya komandanın təyin olun-
+masına dəstək verən struktur. 
+RES 
+ 
+72 
+ 
+Reward Authority 1. mükafata əsaslanan hakimiyyət; 
+2. səlahiyyətlər 
+Reverse Scheduling əks istiqamətdə planlaĢdırma 
+Review 1. qiymətləndirmə; 2. təhlil; 3. nəzərdən keçiril-
+mə 
+Risk risk 
+Risk Acceptance riskin qəbul edilməsi 
+Risk Analysis risklərin analizi 
+Risk Appraisal riskin qiymətləndirilməsi 
+Risk Assessment riskin qiymətləndirilməsi 
+Risk Audit risk menecmentin formal auditi 
+Risk Avoidance riskin aradan qaldırılması 
+Risk Control riskin idarə edilməsi 
+Risk Description riskin təsviri 
+Risk Evaluation riskin qiymətləndirilməsi 
+Risk Event risk hadisəsi 
+Layihəyə mənfi və ya müsbət təsir göstərə bilən ha-
+disə. 
+Risk Event Lists risk hadisələrinin siyahısı 
+Risk Event Statements risk hadisələrinin təsviri 
+Risk Identification riskin müəyyən edilməsi 
+Risk Impact riskin təsiri 
+Risk Management risklərin idarə edilməsi 
+Risk Mitigation 1. riskin azaldılması; 2. zəiflədilməsi 
+REW 
+ 
+73 
+ 
+Riskin effektini və ya onun baĢ verilməsi ehtimalını 
+azaldan riskin idarə edilməsi strategiyası. 
+Risk Probability riskin ehtimalı 
+Risk Responce risklərə reaksiya 
+Risk Tolerance 1. risk tolerantlığı; 2. risklərə dözüm-
+lülük  
+TəĢkilatın və ya səxsin dözə biləcəyi riskin səviyyəsi, 
+miqdarı və ya həcmi. 
+Risk Transfer riskin ötürülməsi 
+Riskin idarə edilməsinin bir tərəfdən o biri tərəfə ötü-
+rən hər hansı bir üsul. 
+Roles and Responsibilities Matrix rollar və öhdəliklər 
+matrisi 
+Rolling Wave Planning dalğavari planlaĢdırma 
+Bu üsulda yaxın vaxtda icra olunacaq iĢ iĢin iyeraxik 
+strukturunun hərtərəfli və dərin açıqlanması ilə təfsi-
+latlı planlaĢdırılır, sonradan yerinə yetirilicək iĢlərin 
+iyerarxik strukturu o qədər də dərindən açıqlanmır, 
+lakin cari dövrün iĢləri icra olunduqca, növbəti dövr-
+də yerinə yetiriləcək iĢlərin detalları açıqlanır və iĢ 
+təfsilatlı planlaĢdırılır. 
+Root Cause Analysis ilkin (əsas) səbəbin aĢkarlanma-
+sı 
+Əsas səbəb kimi bir neçə kənarlaĢma, qüsur və ya 
+risklər çıxıĢ edə bilər. 
+Rules of Thumb praktiki qaydalar 
+Run Chart göstəricinin (iĢin) zaman qrafiki 
+RUN 
+ 
+74 
+ 
+ 
+S 
+Sample 1. müĢahidə toplusu; 2. seçim 
+Sampling seçim prosesi 
+Scatter Diagram səpələnmə diaqramı 
+Schedule 1. təqvimi plan; 2. iĢlər cədvəli; 3. iĢ qrafiki 
+Schedule Baseline əsas təqvim planı 
+Schedule Compression təqvimi planın sıxlaĢdırılması 
+Schedule Control təqvimi planın dəyiĢikliklərinin me-
+necmenti 
+Schedule Development təqvimi planın hazırlanması 
+Schedule Performance Index (SPI) planın icra indek-
+si (PĠĠ) 
+Ġcra olunmuĢ iĢin planlaĢdırılmıĢ iĢə nisbəti. 
+Schedule Revision iĢlər qrafikinin təshih edilməsi  
+Təsdiq olunmuĢ təqvim planında planlaĢdırılmıĢ 
+baĢlama və baĢa çatma tarixlərinin dəyiĢdirilməsi. 
+Schedule Simulation təqvimi planın simulyasiyası 
+Schedule Update təqvimi planın yenilənməsi 
+Cari vəziyyətin nəzərə alınması üçün planın yenidən 
+iĢlənilməsi. 
+ 
+75 
+ 
+Schedule Variance (SV) planlaĢdırılmıĢ və faktiki 
+dəyər arasındakı fərq (PFDF) 
+Təqvimi planın planlaĢdırılmıĢ və faktiki dəyərləri 
+arasındakı fərq. Pul vahidi ilə ölçülür. 
+Scheduled Finish Date iĢin planlaĢdırılmıĢ bitmə vaxtı 
+Scheduled Start Date iĢin planlaĢdırılmıĢ baĢlama 
+vaxtı 
+Scheduling təqvimi planlaĢdırma 
+Scope 1. layihənin tərkibi; 2. məzmunu; 3. əhatə dai-
+rəsi; 4. predmet sahəsi 
+Scope Baseline layihənin baza (əsas) tərkibi 
+Tərkibin, iyerarxik iĢlər strukturunun və iĢ paketləri 
+təsvirləri toplusunun təsdiq olunmuĢ konkret versi-
+yası. 
+Scope Baseline Approval layihənin əsas tərkibinin 
+(məzmunun) təsdiqi 
+Scope of Work iĢin tam təsviri 
+Scope Statement tərkibin təsviri 
+Scope Verification tərkibin yoxlanılması 
+Layihənin tamamlanmıĢ nəticələrinin qəbul edilməsi-
+nin formallaĢdırılması prosesi. 
+Score Chart ballar kartı 
+Keyfiyyətin ballar əsasında qiymətləndirilməsi kartı. 
+Secondary Float əlavə ehtiyat vaxtı 
+Self-Managed özünü idarə edən 
+SEL 
+ 
+76 
+ 
+Semivariable Cost qarıĢıq xərclər 
+Setting Direction istiqamətin müəyyən edilməsi 
+Arzu olunan gələcəyin müəyyən edilməsi. 
+Share bölüĢdürülmə 
+Ġmkanın və gözlənilən müsbət nəticənin baĢqa tərəf 
+ilə bölüĢdürülməsi. 
+Short–Term Plan qısamüddətli plan 
+Significant Variance 1. əhəmiyyətli kənarlaĢma;  
+2. əhəmiyyətli fərq 
+Layihənin məqsədlərinə ciddi təsir edən planlaĢdırıl-
+mıĢ və faktiki göstəricilər arasındakı fərqlər. 
+Simulation 1. prosesin imitasiyası (modelləĢdirilməsi);  
+2. kompüter simulyasiyası 
+Bir qayda olaraq, dəfələrlə müxtəlif Ģərtlərlə təkrarla-
+nır. Qeyri-müəyyənliklərin layihəyə təsirini qiymət-
+ləndirmək üçün istifadə olunur. Layihənin simulyasi-
+yası vaxtı kompüter modelindən və risklərin güman 
+edilən qiymətlərindən istifadə edilir. 
+Slack sərbəst vaxt 
+SMART (specific, measurable, agreed-upon,  
+realistic, time-bound) spesifik, ölçülə bilən, ra-
+zılaĢdırılmıĢ, real, vaxtla məhdudlaĢdırılan 
+(SÖRRV) 
+Smoothing zəiflətmə 
+SEM 
+ 
+77 
+ 
+Konfliktin zəiflədilməsi üsulunda Ģəxsiyyətlər və 
+qruplar arasındakı fərqlərin rolu azaldılır, eyni za-
+manda, ümumi maraqlar vurğulanır. 
+Soft Skills insanlarla iĢləmək vərdiĢ və bacarıqları 
+Software proqram təminatı 
+Sources of Risk risk mənbələri 
+Span of Control idarəetmə dairəsi 
+Menecerin effektiv idarə edə biləcəyi iĢçilərin sayı. 
+Specialty ixtisaslaĢdırılma 
+Hər bir üzv bir neçə hissədə iĢləyir. 
+Spesification spesifikasiya 
+Spesification Control spesifikasiyanın nəzarət sistemi 
+Stage Gate layihənin gediĢatının yoxlama nöqtəsi 
+Stakeholder Bias marağı olanın meyli 
+Standart Deviation standart yayınma 
+Start Date fəaliyyətin baĢlanma tarixi 
+Əməliyyatın baĢlanması ilə əlaqədar vaxt. Faktiki, 
+planlaĢdırılmıĢ, gözlənilən, tez, gec, əsas, hədəf və 
+ya cari ifadələri ilə birgə istifadə olunur.  
+Start-to-Finish start-finiĢ əlaqəsi 
+Növbəti əməliyyat əvvəlki əməliyyat bitməmiĢ baĢ-
+lanmalıdır. 
+Start-to-Start start-start əlaqəsi 
+Əvvəlki əməliyyat növbəti əməliyyat baĢlanmamıĢ 
+baĢlanmalıdır. 
+STA 
+ 
+78 
+ 
+Statement of Work iĢlərin təsviri 
+Layihə iĢləri, proqram və texniki təminat, iĢ qrafiki, 
+nəticələr və uyğun tarixlər, standartlar və nəticələrin 
+qəbul etmə meyarları haqqında məlumat. 
+Status vəziyyət 
+Layihənin müəyyən tarixdəki vəziyyəti. 
+Status Report vəziyyət haqqında hesabat 
+Layihənin müəyyən tarixdəki vəziyyəti haqqında he-
+sabat. 
+Status Review Meeting vəziyyətin təhlili görüĢü 
+Layihənin vəziyyətinin (statusunun) müzakirəsi üçün 
+keçirilən görüĢ. 
+Steering rəhbərlik 
+Storming konflikt mərhələsi  
+Komandanın inkiĢaf fazası. 
+Strength Deployment Inventory® (SDI®) Ģəxsiyyətin 
+güclü tərəfləri nəzəriyyəsi (ġGTN) 
+Subnet altĢəbəkə 
+Layihənin bir hissəsini təsvir edən Ģəbəkə. 
+Subnetwork altĢəbəkə 
+Layihənin bir hissəsini təsvir edən Ģəbəkə. 
+Subproject altlayihə 
+Layihənin bir hissəsi (komponenti). 
+Subsystem altsistem 
+Sistemin bir hissəsi. 
+STA 
+ 
+79 
+ 
+Subtask 1. alttapĢırıq; 2. aralıq tapĢırıq  
+TapĢırığın (iĢin) bir hissəsi. 
+Successor Activity ardınca gələn fəaliyyət 
+Cari fəaliyyət baĢlandıqdan sonra baĢlanan fəaliy-
+yət. 
+Summary Schedule əsas mərhələlərin qrafiki 
+Summary Work Breakdown Structure iĢlərin iyerar-
+xik strukturunun yuxarı səviyyələri 
+ĠĠS-nin üç yuxarı səviyyəsi. 
+Sunk Costs geri qaytarılmaz xərclər 
+ÇəkilmiĢ və geri qaytarılması mümkün olmayan 
+xərclər. 
+SWOT Analisys (Strength, Weaknesses, Oportuni-
+ties and Threats) güclü və zəif tərəflərin, imkan 
+və təhlükələrin analizi (GZĠTA) 
+SWO
+OOO
+O 
+ 
+80 
+ 
+ 
+T 
+Target Completion Date iĢin planlaĢdırılmıĢ baĢa çat-
+dırılması vaxtı 
+Target Date planlaĢdırılmıĢ tarix 
+Target Finish Date iĢin planlaĢdırılmıĢ bitmə vaxtı 
+Target Plan məqsədli plan 
+Müəyyən olunmuĢ tarixdə iĢlərin baĢa çatdırılmasına 
+yönəldilmiĢ plan.  
+Target Position hədəf mövqe 
+Münasib razılaĢmanın əldə edilməsi. 
+Target Reporting məqsədlərin əldə edilməsinə dair 
+hesabat 
+Cari və planlaĢdırılmıĢ iĢ qrafiklərinə əsaslanaraq 
+hesabatların verilməsi.  
+Target Start Date iĢin planlaĢdırılmıĢ baĢlama tarixi  
+Task tapĢırıq 
+ĠĢin tərkib hissəsi. 
+Task Definition tapĢırığın təsviri 
+Task Force problemi araĢdıran xüsusi qrup 
+ 
+81 
+ 
+Task Force Organization layihələndirmə üçün mü-
+vəqqəti yaradılmıĢ təĢkilat 
+Tasking təfsilatlı istiqamətləndirmə 
+Task-Oriented WBS layihənin tapĢırıq–yönümlü struk-
+turu  
+Task Type tapĢırığın növü 
+Team Sociogram komandanın sosioqramı  
+Kiçik sosial qrupda Ģəxsiyyətlər arasında olan 
+münasibətlərin (simpatiya-antipatiya) qrafik təsviri. 
+Technical Baseline layihənin əsas texniki planı 
+Texniki hədəfləri, məqsədləri və tərkibi müəyyən edir. 
+Termination by Addition təĢkilatın daimi bölməsinə 
+çevrilməsi ilə əlaqədar layihənin bitməsi 
+Termination by Extinction bütün iĢlərin dayandırılma-
+sı ilə əlaqədar layihənin bitməsi 
+Termination by Integration inteqrasiya yolu ilə bağ-
+lanması 
+Layihə iĢlərinin təĢkilatın mövcud funksiyaları ilə bir-
+ləĢməsi yolu ilə layihənin bağlanması. 
+Termination by Murder qəflətən bağlanma 
+Layihə ilə əlaqədar olmayan səbəblərə görə layihə-
+nin bağlanması. 
+Termination by Starvation resursların çatmadığına 
+görə iĢin dayandırılması 
+Termination for Convenience münasiblik üçün bağ-
+lanma 
+TER 
+ 
+82 
+ 
+Davam edilməsi mənasız olduğuna görə layihənin 
+bağlanması. 
+Termination for Default defolt bağlanma 
+SifariĢçi öhdəliklərini yerinə yetirə bilmədiyinə görə 
+layihənin bağlanması.  
+Termination Manager layihənin bağlanmasına məsul 
+olan menecer 
+Threat təhlükə 
+Layihə üçün mənfi xarakter daĢıyan Ģərtlər, vəziyyət, 
+hadisələrin gediĢatı, nəticələrə mənfi təsir göstərən 
+digər risklər və dəyiĢikliklər. 
+Three-Point Estimate üç nöqtəli qiymətləndirmə 
+Optimist, pessimist və ən çox güman edilən ssenari-
+lər. 
+Time-and-Materials Contracts “Vaxt və materiallar” 
+kontraktları 
+Bu tipli müqavilədə kontraktorun ödəniĢinə birbaĢa 
+layihədə istifadə olunan əməyin, materialların və 
+avadanlığın istifadəsinin faktiki xərcləri, kontraktorun 
+əlavə xərcləri və onun mənfəətini nəzərə alan 
+razılaĢdırılmıĢ sabitlər daxildir. 
+Time-Limited Scheduling zamana görə məhdudlaĢ-
+dırılmıĢ planlama 
+Time-Line zaman qrafiki 
+Time Now cari vaxt 
+Hesabatın verildiyi və ya yerdə qalan iĢlərin icrasına 
+baĢlandığı vaxt. 
+TER 
+ 
+83 
+ 
+Time-Phase Budget təqvimi büdcə (gündəlik, həftəlik, 
+aylıq) 
+Time-Scaled Network Diagram zaman Ģkalası ilə 
+uzlaĢdırılmıĢ Ģəbəkə diaqramı 
+Time Value of Money pulun zaman dəyəri 
+Time Variance 1. vaxtın kənarlaĢması; 2. vaxt fərqi 
+PlanlaĢdirilmıĢ və faktiki vaxt arasındakı fərq. 
+To-Complete Performance Index (TCPI) tamamlan-
+ma iĢlərinin icrası indeksi (TĠĠĠ)  
+Layihənin məqsədlərinə nail olmaq üçün layihənin 
+yerdə qalan bütün iĢlərində riayət olunmalı və 
+proznoz edilən xərclərin icrası. 
+Top-Down Budget yuxarıdan aĢağıya hesablanmıĢ 
+büdcə 
+Top-Down Estimating yuxarıdan aĢağıya hesablan-
+mıĢ gözlənilən xərclər 
+Total Allocated Budget layihəyə ayrılmıĢ ümumi 
+büdcə 
+Total Cost ümumi xərclər 
+Total Float ümumi ehtiyat vaxtı 
+Traceability izləmək imkanı 
+Layihənin əvvəlindən sonunadək və ya əks istiqa-
+mətdə. 
+Track Record nailiyyətlərin və uğursuzluqların qeydiy-
+yatı 
+TRA 
+ 
+84 
+ 
+Transfer ötürülmə 
+Riskin və ona reaksiya verilməsi məsuliyyətinin baĢ-
+qalarına ötürülməsi. 
+Trend Analysis 1. tendensiyalar təhlili; 2. proqnozu 
+Ötən dövrlərin məlumatlarına əsaslanaraq, layihənin 
+tərkibinin, müddətlərinin və dəyərin baza planından 
+yayınmasının proqnozu. 
+Trend Report tendensiyalar hesabatı 
+Layihə göstəricilərinin variasiyalarının indikatorudur. 
+TRA 
+ 
+85 
+ 
+ 
+U 
+Undistributed budget bölüĢdürülməmiĢ büdcə 
+BaĢlanmamıĢ iĢlər üçün ehtiyatda saxlanılan büdcə. 
+Unmanageable Risk idarə olunmayan risk 
+Unknown Unknowns 1. məlum olmayan naməlumlar; 
+2. naməlum məchullar  
+Proqnozu mümkün olmayan risklər. 
+ 
+ 
+86 
+ 
+ 
+V 
+Validation 1. yoxlanılma; 2. təsdiq edilmə 
+Məhsulun, xidmətin və ya sistemin müĢtərinin və ya 
+digər maraqları olan tərəflərinin tələblərinə uyğun ol-
+masının yoxlanılması. 
+Value dəyər 
+Valued Behavior Pattern dəyərləndirilən davranıĢ nü-
+munəsi 
+Seçimdə sərbəst olanda özümüz haqqında yaxĢı 
+hissiyyatda olmaq üçün istifadə etdiyimiz davranıĢ 
+nümunəsidir: “Bu, həqəqətən də mənəm!”  
+Variable Cost dəyiĢən xərclər 
+Variance 1. kənarlaĢma; 2. fərq 
+Nəzərdə tutulmuĢ qiymətdən faktiki və ya gözlənilən 
+kənarlaĢma. 
+Variance Analysis kənarlaĢmaların (fərqlərin) analizi 
+Variance at Completion tamamlanmada fərq 
+Layihənin ilkin qiyməti ilə onun baĢa çatmasındakı 
+yeni qiyməti arasındakı fərq. 
+Variance Report kənarlaĢmalar haqqında hesabat  
+ 
+87 
+ 
+Layihənin planlaĢdırılmıĢ və faktiki icrasına əsasla-
+nan hesabat. 
+Variance Threshold kənarlaĢmanın yol verilən həddi 
+Variation dəyiĢmə 
+Verification yoxlama 
+Virtual Team virtual komanda 
+Vision 1. “vizyon”; 2. arzu olunan gələcək 
+Voice of customer 1. sifariĢçinin fikri; 2. müĢtərinin 
+istəkləri 
+Layihənin hər bir mərhələsində ĢifariĢçinin tələbləri-
+nin texniki tələblərə çevrilməsi yolu ilə ĢifariĢçinin tə-
+ləblərinə uyğun məhsul, xidmət və nəticələrin alın-
+masını təmin edən planlaĢdırma metodu.  
+ 
+VOI 
+ 
+88 
+ 
+ 
+W 
+WBS Dictionary iĢ paketlərin kataloqu 
+WBS Element iĢlərin iyerarxik strukturun elementi (is-
+tənilən səviyyəyə aid olan) 
+WBS Index iĢlərin iyerarxik strukturu elementlərinin si-
+yahısı 
+Wideband Delphi təkmilləĢdirilmiĢ Delfi üsulu 
+Withdraw aralaĢmaq 
+YanaĢmada münaqiĢə problemi təxirə salınır və ya 
+problemdən tamam çəkinilir. Bu, müvəqqəti bir 
+həldir, çünki problem və konflikt təkrarən baĢ verir və 
+davam edir.  
+Workaround nəzərdə tutulmamıĢ tədbir (riskə qarĢı 
+görülən) 
+Work Authorization iĢə baĢlama icazəsi 
+Work Breakdown Structure (WBS) iĢlərin iyerarxik 
+strukturu (ĠĠS) 
+Work Element tapĢırıq 
+Working Calendar iĢ təqvimi 
+Work Item tapĢırıq 
+ 
+89 
+ 
+Workload iĢ yükü  
+VerilmiĢ vaxt ərzində yerinə yetiriləsi iĢ. 
+Work Package iĢlər paketi (kompleksi, toplusu) 
+ĠĢlərin iyerarxik strukturun hər bir budağının ən aĢa-
+ğı səviyyəsində yerləĢən layihənin nəticəsi və ya iĢ-
+lərin elementi 
+Work Package Budget iĢlər paketinin büdcəsi 
+Work Performed yerinə yetirilmiĢ iĢ 
+Work Period iĢ dövrü 
+Work Results iĢin nəticələri 
+Work Statement iĢlərin təsviri 
+Work Style iĢ üslubu 
+Work Unit iĢ dövrü 
+Fəaliyyət ilə əlaqədar iĢin yerinə yetirilməsi mümkün 
+olan təqvimi vaxt vahidi. 
+Workweek iĢ həftəsi 
+Gündəlik iĢ saatları və həftənin iĢ günlərinin sayı. 
+ 
+WOR 
+ 
+90 
+ 
+ 
+Azərbaycanca-ingiliscə terminlər 
+A 
+Aqreqat fəaliyyət hammock 
+Altlayihə subproject 
+Altruist-qayğıkeş (mavi) üslub altruistic-nurturing 
+(Blue) 
+Altsistem subsystem 
+Altşəbəkə 1. subnet; 2. subnetwork 
+Alttapşırıq subtask  
+Analitik-sərbəst (yaşıl) üslub analytical-autonomizing 
+(Green) 
+Analoqlara görə qiymətləndirmə analogous 
+estimating 
+Aralaşmaq withdrawal 
+Aralıq tapşırıq subtask 
+Ardıcıllıq əlaqəsi precedence relationship  
+ 
+ 
+91 
+ 
+Ardınca gələn fəaliyyət successor activity 
+Artıq xərcləmə cost overrun 
+Arzu olunan gələcək vision 
+Asılı hadisə dependent event 
+Asılılıq dependency 
+“Aşağıdan yuxarıya” qiymətləndirmə bottom-up 
+estimating 
+Ayrıca iş paketi discrete work package 
+Azaltmaq mitigate 
+AZA 
+ 
+92 
+ 
+ 
+B 
+Ballar kartı score chart  
+Başa çatdırılma fazası closeout phase 
+Başa çatdırılma prosesləri closing processes 
+Başa çatma vaxtı finish date 
+Başa çatmış işlərə (layihəyə) aid sənədlər historic 
+records 
+Başqaları üçün layihələri icra edən təşkilat project-
+based organization 
+Başlanğıcdan sona keçid forward pass  
+“Beyin fırtınası” brainstorming 
+“Beyin həmləsi” brainstorming 
+Bədbin (pessimist) müddət 1. pessimistic duration; 2. 
+pessimistic time 
+Bərpa edilmə recovery 
+Bərpa edilmə qrafiki recovery schedule 
+Birbaşa layihəyə aid olunan xərclər direct project 
+cost 
+Bir-birindən asılı tapşırıqlar dependent tasks 
+ 
+93 
+ 
+Bir-birini inkar edən hadisələr mutually exclusive 
+events 
+Bitmış mərhələyə görə ödəniş milestone payment 
+Biznes razılaşma business agreement 
+Biznes riski business risk 
+Blok-sxem block diaqram 
+Boş dayanma vaxtı idle time 
+Böhranlı risk critical risk 
+Bölünmə decomposition 
+Bölüşdürülən büdcə distributed budget 
+Bölüşdürülmə share  
+Bölüşdürülməmiş büdcə undistributed budget 
+Büdcə budget 
+Büdcə dəyişikliklərinə nəzarət 1. cost control;  
+2. financial control 
+Büdcəyə nəzarət monitoring actuals versus budget 
+Bürokratik hakimiyyət bureaucratic authority 
+Bürokratik səlahiyyətlər bureaucratic authority 
+Bütün işlərin dayandırılması ilə əlaqədar layihənin 
+bitməsi termination by extinction 
+Bütün layihə üzrə dəyişikliklərin idarə olunması 
+overall change control 
+BÜT 
+ 
+94 
+ 
+ 
+C 
+Cari dəyər present value 
+Cari vaxt time now 
+Ciddi kənarlaşmaların hesabatı exception report 
+Ciddi kənarlaşmaların sənədləşdirilməsi exception 
+reporting 
+ 
+95 
+ 
+ 
+Ç 
+Çevik-birləşdirici (hab) üslub flexible-cohering (hub) 
+Çəkinmək avoid 
+Çıxış output 
+Çıxış strategiyası exit strategy 
+Çox böyük ölçülü layihə megaproject 
+Çoxprofilli komanda cross-functional team 
+Çoxsaylı layihələrin planlaşdırılması multiple-project 
+scheduling 
+ 
+ 
+96 
+ 
+ 
+D 
+Daxil etmə/xaric etmə input/output 
+Daxili audit internal audit 
+Daxili imtinaların xərcləri internal failure cost 
+Daxili nəzarət internal control 
+Daxili risk internal risk 
+Daxili və ya kənar resurslardan istifadə etmək 
+make-or-buy 
+Dalğavari planlaşdırma rolling wave planning 
+Danışıqların aparılması negotiating 
+Davam etmək/etməmək go/no-go 
+Davamı olmayan iş end activity 
+Defolt bağlanma termination for default 
+Dekompozisiya decomposition 
+Delfi üsulu Delphi technique 
+Dəstəkləmə encouraging 
+Dəyər value 
+Dəyərin qiymətləndirilməsi estimating costs 
+Dəyərləndirilən davranış nümunəsi valued behavior 
+pattern 
+ 
+97 
+ 
+Dəyişən xərclər variable cost 
+Dəyişiklik haqda müraciət change request 
+Dəyişikliklərə nəzarət sistemi change control system 
+Dəyişikliklərə nəzarət şurası Change Control Board 
+(CCB) 
+Dəyişikliklərin idarə edilməsi planı change 
+management plan 
+Dəyişikliklərin idarə edilməsi və nəzarət change 
+control 
+Dəyişikliyə dəstək change support  
+Dəyişikliyə müqavimət change resistance 
+Dəyişikliyin idarəetməsi leading change 
+Dəyişikliyin qəbul edilməsi change acceptance 
+Dəyişikliyin rədd edilməsi change rejection 
+Dəyişikliyin tanınması change acknowledgement 
+Dəyişmə variation 
+Diqraf digraph  
+Direktiv struktur directive structure 
+Dizaynın ilkin analizi preliminary design review 
+Dolayı xərclər indirect cost 
+90-90 qaydası ninety-ninety (90-90) rule of project  
+Düz keçid forward pass 
+Düzəldici tədbir corrective action 
+DÜZ 
+ 
+98 
+ 
+ 
+E 
+Ehtimal edilən maliyyə dəyəri expected monetary 
+value (EMV) 
+Ehtiyac need 
+Ehtiyacların qiymətləndirilməsi needs assessment 
+Ehtiyat reserve 
+Ekspert rəyi (fikirlər və tövsiyələr) expert judgement 
+Ekspert ilə müsahibə expert interview 
+Ekspertin nüfuzu expert authority 
+Etik davranışın asanlaşdırılması facilitating ethical 
+conduct 
+Etik davranışın dəstəyi facilitating ethical conduct 
+Eyni səviyyəyə gətirmə leveling 
+Eyni tapşırığı yerinə yetirən işçilər job class of 
+employees 
+Eyni yerdə yerləşmə colocation 
+ 
+99 
+ 
+ 
+Ə 
+Əhəmiyyətli fərq significant variance 
+Əhəmiyyətli kənarlaşma significant variance 
+Əks əlaqə feedback 
+Əks istiqamətdə planlaşdırma reverse scheduling 
+Əks keçid backward pass 
+Əlaqələrin qurulması building relationships 
+Əlavə ehtiyat vaxtı secondary float 
+Əlavə xərclər overhead cost 
+Əlavə xərclərin layihəyə aid olunan hissəsi direct 
+overhead 
+Əlverişli imkan opportunity 
+Əməkdaşlıq danışığı colloborative negotiation 
+Əməliyyatların məntiqi ardıcıllığı sxemi precedence 
+diagramming method (PDM) 
+Əmtəə product 
+Əmtəənin həyat dövrü product life cycle 
+Əmtəənin ilkin əsas təsviri product baseline 
+ 
+100 
+ 
+Əmtəənin iyerarxik strukturu product breakdown 
+structure 
+Əmtəənin təsviri product scope 
+Ən çox güman edilən vaxt most likely time 
+Ən gec başa çatma vaxtı late finish date (LF) 
+Ən gec başlama vaxtı late start date (LS) 
+Ən son müddət drop-dead date 
+Ən tez başa çatma vaxtı early finish date (EF) 
+Ən tez başlama vaxtı early start date (ES) 
+Əsas hadisə key event 
+Əsas qərar vermə mərhələsi key decision point 
+Əsas mərhələ 1. key event; 2. milestone 
+Əsas mərhələlər cədvəli summary schedule 
+Əsas mərhələlər planı summary schedule 
+Əsas mərhələlər üsulu milestone method 
+Əsas mərhələlərdən ibarət təqvimi plan key-event 
+schedule 
+Əsas mərhələlərin qrafiki 1. milestone chart; 2. sum-
+mary schedule 
+Əsas plan Baseline (plan) 
+Əsas təqvim planı schedule baseline 
+Əsasın formal qoyulması initiation 
+Əsasın qoyulma fazası initiation phase 
+Əvvəlki iş predecessor activity 
+ƏMT
+Y 
+ 
+101 
+ 
+ 
+F 
+Faktiki başlanma vaxtı actual start date 
+Faktiki bitmə vaxtı actual finish date 
+Faktiki xərclər actual cost 
+Faktiki xərclərin planlaşdırılmış xərclərə nisbətən 
+az olması cost underrun 
+Faktiki vaxt elapsed time  
+Faktorlar sahəsinin analizi force field analysis  
+Fasiləli müddət interrruptible duration 
+Fayda-xərc nisbəti benefit-cost ratio 
+Fazanın gedişatının yoxlama nöqtəsi phase gate 
+Fazanın nəticələrinin təhlili 1. phase review;  
+2. phase-end review 
+Fəaliyyət 1. activity; 2. iĢ 
+“Fəaliyyət-ox” activity-on-arrow 
+“Fəaliyyət-qövs” activity-on-arc 
+“Fəaliyyət-təpə” activity-on-node 
+Fəaliyyət planı action plan 
+Fəaliyyətin başlanma tarixi start date 
+ 
+102 
+ 
+Fəaliyyətin ehtiyat vaxtı float 
+Fəaliyyətin əsas həlledici göstəriciləri key 
+performance indicators (KPIs) 
+Fəaliyyətin kodu activity code 
+Fəaliyyətin müddəti activity duration 
+Fəaliyyətin planlaşdırılmış başa çatma günü level 
+finish schedule 
+Fəaliyyətin planlaşdırılmış başlanma günü level 
+start schedule 
+Fəaliyyətlərin ardıcıllığı activity sequencing 
+Fəaliyyətlərin siyahısı activity list 
+Fərq variance 
+Fərqlərin aradan qaldırılması leveling 
+Fiktiv iş dummy activity 
+Filtrdən keçirmə filtering 
+Finiş-finiş finish-to-finish 
+Finişh-finiş intervalı finish-to-finish lag 
+Finiş-start finish-to-start 
+Finiş-start intervalı finish-to-start lag 
+Funksional komanda functional team 
+FƏA 
+ 
+103 
+ 
+ 
+G 
+Gecikmə lag 
+Gecikmə əlaqəsi lag relationship 
+Gecikmə ilə dəyişən göstəricilər lagging indicators 
+Geri qaytarılmaz xərclər sunk costs 
+Giriş input 
+Göstəricinin (işin) zaman qrafiki run chart  
+Götürülmüş davranış nümunəsi borrowed behavior 
+pattern 
+Gözlənilən xərclər estimated cost 
+Gözlənilən xərclərin müstəqil qurum tərəfindən 
+təhlili independent cost analysis 
+Gözlənilən qiymət estimate 
+Gözlənilən maliyyə dəyəri 1. expected monetary 
+value; 2. expected value 
+Gözlənilən nəticəni qiymətləndirmək estimate 
+Gözlənilən vaxt expected time 
+Gözlənilməz hallar üçün alternativ strategiyalar 
+contingency plan  
+ 
+104 
+ 
+Gözlənilməz hallar üçün ehtiyatlar tontingency 
+reserves 
+Gözlənilməz hallar üçün əlavə vaxt və maliyyə 
+contingency allowance 
+Gözlənilməz hallar üçün təminat contingency 
+Gücləndirmək enhance 
+Güclü və zəif tərəflərin, imkan və təhlükələrin 
+analizi Strength, Weaknesses, Oportunities 
+and Threats (SWOT) analisys  
+Güman edilən ümumi xərclər estimated final cost 
+Güman edilən vaxt expected time 
+“Güzgü əksi strukturu” mirror image 
+GÖZ 
+ 
+105 
+ 
+ 
+H 
+Hadisə event 
+“Hadisə-qovşaq” event-on-node 
+“Hadisə-təpə” event-on-node 
+Hadisələrə yönəlmiş iş qrafiki event-oriented 
+schedule 
+Hakimiyyət authority  
+Hədəf mövqe target position 
+Həvəsləndirmə encouraging 
+Həyat dövrü life cycle 
+Həyat dövrünün ümumi xərcləri life cycle cost 
+Hissələrə ayırma breakdown 
+Hüquqi-rəqabətli (qırmızı-yaşıl) üslub judicious–
+competing (red-green) 
+ 
+106 
+ 
+ 
+X 
+Xalis cari (diskontlaşdırılmış) dəyər net present 
+value 
+Xalis gəlir net income 
+Xalis itkilər net loss 
+Xalis qalıq dəyər net book value 
+Xalis mənfəət 1. net earnings; 2. net profit 
+Xalis (təmiz) risk pure risk 
+Xarici (kənar) risk external risk 
+Xarici asılılıq external dependency 
+Xarici əks əlaqə external feedback 
+Xarici imtinaların xərcləri external failure cost 
+Xərc expenditure 
+Xərcin ödəmə (qaytarma) vaxtı payback period 
+Xərclənmə faizi percent spent 
+Xərclər expenses 
+Xərclərə nəzarət hesabı control account 
+Xərclərin fərqi cost variance 
+Xərclərin icra indeksi cost performance index 
+ 
+107 
+ 
+Xərclərin kənarlaşması cost variance 
+Xərclərin qiymətləndirilməsi estimating costs 
+Xərclərin müstəqil qurum tərəfindən 
+qiymətləndirilməsi independent cost estimate 
+Xərclərin ödənilməsi kontraktları cost-reimbersable 
+contracts 
+XƏR 
+ 
+108 
+ 
+ 
+İ 
+İcra execution 
+İcraetmə haqqında hesabat performance reporting 
+İcra olunmuş dəyər earned value (EV) 
+İcra olunmuş işin büdcə dəyəri budgeted cost of 
+work performed (BCWP) 
+İcra olunmuş işlərə çəkilən faktiki xərclər actual 
+cost of work performed (ACWP) 
+İcra olunmuş işlərin həcmi earned value (EV) 
+İcra prosesləri executing processes 
+İcraetmə performing 
+İcraetmə fazası execution phase 
+İcraetmənin əsas planı performance measurement 
+baseline (PMB) 
+İdarə edilməsi management 
+İdarə olunmayan risk unmanageable risk 
+İdarəetmə control 
+İdarəetmə dairəsi span of control 
+İdeyaların spontan hasil edilməsi brainstorming 
+ 
+109 
+ 
+İxtisaslaşdırılma specialty  
+İİS-nin müəyyən kontrakta aid hissəsi contract work 
+breakdown structure 
+İlkin cədvəl baseline 
+İlkin (əsas) səbəbin aşkarlanması root cause 
+analysis 
+İlkin qrafik baseline  
+İlkin müddət original duration 
+İlkin planlaşdırılmış başa çatma vaxtı baseline finish 
+date 
+İlkin planlaşdırılmış başlanma vaxtı baseline start 
+date 
+İmkanlar capacity 
+İnamlı-idarəedici (qırmızı) üslub assertive–directing 
+(red) 
+İnamlı-qayğıkeş (qırmızı-mavi) üslub assertive-
+nurturing (red-blue) 
+İnfrastruktur infrastructure 
+İnisializasiya initiation  
+İnisializasiya fazası initiation phase 
+İnkar olunmayan hadisələr nonexlusive events 
+İnsan qaynaqlarının planlaşdırılması human 
+resource planning 
+İnsan-saatı/ayı/ili man-hour/month/year 
+İNS 
+ 
+110 
+ 
+İnsanların məqsəd-yönümlü istiqamətləndirilməsi 
+və uzlaşdırılması aligning people 
+İnsanlarla işləmək vərdiş və bacarıqları soft skills  
+İnsan-yönümlü başa çatdırılma fəaliyyətləri people-
+oriented closeout activities 
+İnteqrasiya yolu ilə bağlanma termination by 
+integration 
+İstehsal etmək və ya almaq make-or-buy 
+İstehsal gücü capacity 
+İstehsal gücünün analizi capacity analysis 
+İstehsal gücünün planlaşdırılması capacity planning 
+İstiqamətin müəyyən edilməsi setting direction 
+İstinad nüfuzu referent authority 
+İstisna exception 
+İş 1. job; 2. activity 
+İş dövrü 1. work period; 2. work unit 
+İş həftəsi workweek 
+İş qabiliyyətinin itirilməsi failure 
+İş qrafiki schedule 
+İş paketlərin kataloqu WBS Dictionary 
+İş təqvimi working calendar 
+İş üslubu work style  
+İş yükü workload 
+İşə başlama icazəsi work authorization 
+İNS 
+ 
+111 
+ 
+İşikava diaqramı cause-and-effect diagram 
+ 
+İşin başlanma vaxtının hazırkı qiyməti current start 
+date 
+İşin bitməsinə qalmış vaxt remaining duration (RDU) 
+İşin həcmi effort 
+İşin nəticələri work results 
+İşin planlaşdırılmış başlama tarixi target start date 
+İşin planlaşdırılmış başlama vaxtı scheduled start 
+date 
+İşin planlaşdırılmış bitmə vaxtı 1. scheduled finish 
+date; 2. target finish date 
+İşin tam təsviri scope of work 
+İşin təhlili job analisis 
+İşin təsviri job description 
+İşlər cədvəli schedule 
+İşlər qrafikinin təshih edilməsi schedule revision 
+İşlər paketi (kompleksi, toplusu) work package 
+İşlər paketinin büdcəsi work package budget 
+İşlərin əsas qrafiki master schedule 
+İşlərin icrasına qoyulan tələblər performance 
+spesification 
+İşlərin iyerarxik strukturu Work Breakdown Structure 
+(WBS) 
+İŞL 
+ 
+112 
+ 
+İşlərin iyerarxik strukturun elementi (istənilən 
+səviyyəyə aid olan) WBS Element  
+İşlərin iyerarxik strukturu elementlərinin siyahısı 
+WBS Index 
+İşlərin iyerarxik strukturunun yuxarı səviyyələri 
+summary work breakdown structure 
+İşlərin təsviri 1. statement of work; 2. work statement 
+İzləmək imkanı traceability  
+İŞL 
+ 
+113 
+ 
+ 
+K 
+Kapital qoyuluşu investment 
+Kateqoriya grade 
+Keçmiş fəaliyyətə dair statistik məlumat historical 
+information 
+Keçmiş məlumata əsaslanan qiymətləndirmə 
+historical estimating 
+Keyfiyyət quality 
+“Keyfiyyət evi” house of quality  
+Keyfiyyət funksiyalarının strukturlaşdırılması 
+quality function deployment  
+Keyfiyyət göstəriciləri quality metrics  
+Keyfiyyətə nəzarət quality control 
+Keyfiyyətin idarə edilməsi quality management 
+Keyfiyyətin idarə edilməsi planı quality management 
+plan 
+Keyfiyyətin qiymətləndirilməsi quality evaluation 
+Keyfiyyətin planlaşdırılması quality planning 
+Keyfiyyətin təmin edilməsi quality assurance 
+Keyfiyyətsizlik defect 
+ 
+114 
+ 
+Kənarlaşma variance 
+Kənarlaşmalar haqqında hesabat variance report 
+Kənarlaşmaların (fərqlərin) analizi variance analysis 
+Kənarlaşmanın yol verilən həddi variance threshold 
+Komanda işinin bitməsi adjourning 
+Komandaların idarə edilməsi leading teams 
+Komandanın sosioqramı team sociogram  
+Kommunikasiya communicating 
+Kommunikasiya göstəriciləri communication metrics 
+Kommunikasiyanın idarəetmə planı communication 
+management plan 
+Kompromisə gəlmək compromising 
+Kompüter simulyasiyası simulation 
+Konfiqurasiyanın idarə edilməsi configuration 
+management 
+Konflikt conflict  
+Konflikt mərhələsi (fazası) storming  
+Konfliktin idarəetməsi conflict management  
+Konsepsiya fazası idea phase 
+Kontraktın başa çatdırılması contract closeout 
+Kömək edən faktorlar helping factors  
+Kritik fəaliyyət (iş) critical activity 
+Kritik risk critical risk 
+Kritik yol critical path 
+KƏN 
+ 
+115 
+ 
+Kritik yol şəbəkəsi critical path network (CPN) 
+Kritik yol üsulu critical path method (CPM) 
+Kritikə yaxın fəaliyyət near-critical activity 
+Kritikə yaxın yol near-critical path 
+Kumulyativ xərclər cumulative cost 
+KUM 
+ 
+116 
+ 
+ 
+Q 
+Qabaqlama lead 
+Qabiliyyətlər matrisi capacity matrix  
+Qalan ehtiyat vaxt remaining float (RF) 
+Qalıq risk residial risk 
+Qant diaqramı Gantt chart 
+Qanuni hakimiyyət, səlahiyyət legitimate authority 
+Qarışıq xərclər semivariable cost 
+Qarşılıqlı asılılıqlar interdependencies 
+Qarşılıqlı əlaqələr diaqramı interdependency diagram  
+Qarşısının alınması xərcləri prevention cost 
+Qaydalar prosedures 
+Qeyri-verbal (sözsüz) siqnallar non-verbal signals 
+Qeyri-kritik yol noncritical path 
+Qəbul etmə formal acceptance 
+Qəbul etmək accept 
+Qəflətən bağlanma termination by murder 
+Qəlblərin hakimliyinə əsaslanan hakimiyyət 
+charismatic authority  
+ 
+117 
+ 
+Qərar decision 
+Qərarlar ağacı decision tree 
+Qərarların qəbul edilməsi decision making 
+Qısamüddətli plan short term plan 
+Qiymətləndirmə estimating 
+Qiymətləndirmə (vəziyyətin) review 
+Qiymətləndirmə xərcləri appraisal cost 
+Qiymətlər sorğusu request for quotation (RFQ)  
+Qovşaq əməliyyatları üsulu precedence 
+diagramming method (PDM) 
+Qrafın təpəsi node 
+Qruplaşma diaqramı affinity diagramming 
+Qüsur defect 
+QÜS 
+ 
+118 
+ 
+ 
+L 
+Layihə project 
+Layihə büdcəsi project budget 
+Layihə cədvəlinin sıxlaşdırılması crashing 
+Layihə cədvəlinin sıxlaşdırılması xərcləri crash cost 
+Layihə elementlərinin inteqrasiyasının idarə edil-
+məsi project integration management 
+Layihə hesabatının verilməsi 1. project reporting; 2. 
+reporting 
+Layihə xərclərinin idarə edilməsi project cost 
+management 
+Layihə xərclərinin uçot sistemi project cost system 
+Layihə işindən irəli gələn real nəticə end product 
+Layihə işlərinə sərf olunan vaxtın və xərclərinin 
+hesablanması PERT/Cost 
+Layihə işlərinin iyerarxik strukturu project WBS 
+Layihə keyfiyyətinin idarə edilməsi project quality 
+management 
+Layihə kommunikasiyaların idarə edilməsi project 
+communications management 
+ 
+119 
+ 
+Layihə qrafikinin təkrar analizi forced analysis 
+Layihə meneceri project manager 
+Layihə nəticələrinin analizi və dəyərləndirilməsi 
+postproject evaluation and review 
+Layihə nəticələrinin analizi və hesabat postproject 
+analysis and report 
+Layihə nizamnaməsi project charter 
+Layihə planının işlənilməsi project plan development 
+Layihə prinsipi ilə idarəetmə management by 
+projects 
+Layihə resursları project resources 
+Layihə risklərinin idarə edilməsi project risk 
+management 
+Layihə satınalmalarının idarə edilməsi project 
+procurement management 
+Layihə sənədləşməsinin uçotu records management 
+Layihə strukturlu komanda projectized team 
+Layihə təqvimi project calendar 
+Layihə tələbləri sənədi project requirements 
+document (PRD) 
+Layihə tərkibinin idarə edilməsi project scope 
+management 
+Layihə vaxtının idarə edilməsi project time 
+management 
+Layihədə marağı olan project stakeholder 
+LAY 
+ 
+120 
+ 
+Layihələndirmə üçün müvəqqəti yaradılmış təşkilat 
+task force organization 
+Layihələrin idarə edilməsi (idarəetməsi) project 
+management 
+Layihənin idarə edilməsi komandası project 
+management team 
+Layihələrin idarə edilməsinin informasiya sistemi 
+Project Management InformationSystem (PMIS) 
+Layihələrin idarə edilməsinin müasir 
+metodologiyası modern project management 
+(MPM) 
+Layihələrin idarə edilməsinin proqram təminatı 
+project management sotware 
+Layihən insan qaynaqlarının idarə edilməsi project 
+human resource management 
+Layihəni yerinə yetirən əsas təşkilat performing 
+organization 
+Layihənin auditi project audit 
+Layihənin bağlanmasına məsul olan menecer 
+termination manager 
+Layihənin başa çatdırılması project closeout 
+Layihənin baza (əsas) tərkibi scope baseline 
+Layihənin bitmə tarixi project finish date 
+Layihənin bitməsi project termination 
+LAY 
+ 
+121 
+ 
+Layihənin həyat dövrünə aid olan ümumi xərclər 
+project life-cycle cost 
+Layihənin dəyəri budget at completion 
+Layihənin əhatə dairəsi scope 
+Layihənin əsas komandası core project team 
+Layihənin əsas texniki planı technical baseline 
+Layihənin əsas tərkibinin (məzmunun) təsdiqi 
+scope baseline approval 
+Layihənin əsasını qoyma prosesləri initiating 
+processes 
+Layihənin əsasının formal qoyulması project 
+initiation 
+Layihənin fazası project phase 
+Layihənin gedişatına dair kompleks hesabat 
+integrated project progress report 
+Layihənin gedişatının yoxlama nöqtəsi 1. control 
+gate; 2. phase exit; 3. stage gate 
+ 
+Layihənin heyəti project personnel 
+Layihənin həyat dövrü project life cycle 
+Layihənin həyat dövrünün fazaları project life cycle 
+phases 
+Layihənin icrası project performance 
+Layihənin idarə edilməsi project management 
+LAY 
+ 
+122 
+ 
+Layihənin idarə edilməsi və nəzarət project control 
+“Layihənin idarə edilməsi peşəkarı” imtahanı PMP® 
+exam 
+Layihənin idarə edilməsi prosesləri project 
+management processes 
+Layihənin idarə edilməsi proseslərinin qrupları 
+(kateqoriyaları) project management process 
+groups 
+Layihənin idarə edilməsinə dair biliklər toplusu 
+project management body of knowledge 
+Layihənin ideya fazası concept phase 
+Layihənin ilkin planı initial project plan 
+Layihənin inisializasiyası project initiation 
+Layihənin inteqrasiyası project integration 
+Layihənin işlənilməsi fazası development phase 
+Layihənin iyerarxik strukturu project breakdown 
+structure (PBS) 
+Layihənin keyfiyyətinin idarə edilməsi sisteminin 
+təşkilati strukturu project quality system 
+Layihənin qismən auditi partial audit 
+Layihənin qiymətləndirilməsi project evaluation 
+Layihənin məhdudiyyətləri project constraints 
+Layihənin məqsədləri project objectives 
+Layihənin məzmunu scope 
+LAY 
+ 
+123 
+ 
+Layihənin monitorinqi project review(s) 
+Layihənin müddəti project duration 
+Layihənin nəticələri deliverable 
+Layihənin PERT üsulu ilə təsviri PERT Chart 
+Layihənin planlaşdırılması project planning 
+Layihənin planlaşdırılmış əsas göstəriciləri project 
+baseline 
+Layihənin predmet sahəsi scope 
+Layihənin riskləri project risk 
+Layihənin şəbəkə diaqramı project network diagram 
+Layihənin tamamlanması project closeout 
+Layihənin tapşırıqyönümlü strukturu task-oriented 
+WBS 
+Layihənin təklif planı proposal project plan 
+Layihənin təqvim planı project schedule 
+Layihənin tələbləri project requirements 
+Layihənin tərkibi project scope 
+Layihənin təşkilati strukturu project organization 
+Layihənin ümumi gözlənilən xərcləri project cost 
+estimate 
+Layihənin verilmiş tarixdən planlaşdırılması forward 
+scheduling 
+Layihənin vəziyyətinin (statusun) 
+qiymətləndirilməsi assessing project status 
+LAY 
+ 
+124 
+ 
+Layihənin vəziyyətinin təhlili performance review 
+Layihənin yerinə yetirilməsi project implementation 
+Layihənin zamana görə büdcələşdirilmış xərcləri 
+project cost baseline 
+Layihəyə ayrılmış ümumi büdcə 1. budget at 
+completion; 2. total allocated budget 
+Layihəyə nəzarət oversight 
+Liderlik leadership 
+Liderlik bacarıqları leadership competencies  
+Liderlik paradiqmaları leadership paradigms 
+Liderlik prinsipləri leadership paradigms 
+Liderlik üslubu leadership style 
+LAY 
+ 
+125 
+ 
+ 
+M 
+Maksimal mövqe maximun position 
+Maliyyə əməliyyatların bağlanması financial closeout 
+Maliyyə əməliyyatların bağlanması planı financial 
+closure plan 
+Maliyyəyə əsaslanan hakimiyyət purse-string 
+authority 
+Maliyyəyə əsaslanan səlahiyyət purse-string 
+authority 
+Mane olan faktorlar hindering factors  
+Marağı olanın meyli stakeholder bias 
+Maskalanmış (dəyərləndirilməyən) davranış 
+nümunəsi masked (nonvalued) behavior 
+pattern 
+Matris strukturlu komanda 1. cross-functional team; 
+2. matrix team 
+Matris təşkilatı matrix organization 
+Meqalayihə megaproject 
+Menecment ehtiyatları management reserves 
+Məcbur etmə forcing 
+ 
+126 
+ 
+Məcbur etmək səlahiyyətləri coercive authority 
+Məhdudiyyət constraint 
+Məhsul product 
+Məhsuldarlığın analizi capacity analysis 
+Məhsuldarlığın planlaşdırılması capacity planning 
+Məhsuldarlıq 1. capacity; 2. productivity 
+Məxaric expenditure 
+Məqsəd objective 
+Məqsədlərin əldə edilməsinə dair hesabat target 
+reporting 
+Məqsədli plan target plan 
+Məlum olmayan naməlumlar unknown unknowns 
+Məlum risk known risk 
+Məlumatların uçotu records 
+Mənfi vaxt ehtiyatı negative float 
+Mənimsənilmiş dəyər üsulu earned value technique 
+Mənimsənilmiş dəyərin həcmi earned value (EV) 
+Mənimsənilmiş dəyərin idarə edilməsi earned value 
+management  
+Məntiqi əlaqə precedence relationship 
+Məntiqi əlaqələr şəbəkəsi dependency network 
+Mərhələlər qrafiki 1. event chart; 2. master project 
+schedule 
+Mərhələlərin təqvim planı milestone schedule 
+MƏC 
+ 
+127 
+ 
+Məsrəf expense 
+Məsuliyyətlər (öhdəliklər) matrisi responsibility 
+assignment matrix (RAM)  
+Minimal mövqe minimum position 
+Monitorinq monitor 
+Monitorinq və nəzarət prosesləri monitoring and 
+controlling processes 
+Monte-Karlo analizi Monte-Carlo analysis 
+Monte-Karlo simulyasiyası Monte-Carlo simulation 
+Motivasiya dəyərləri sistemi “Motivational Value 
+System™ (MVS™)” 
+Motivasiya etmə və ruhlandırma motivating and 
+inspiring 
+Motivasiyanın İki faktorlu nəzəriyyəsi hygiene 
+motivation theory 
+Müddət duration 
+Müddətin qısaldılması duration compression 
+Müddətin optimist (nikbin) qiyməti optimistic time 
+estimate 
+Müddətin pessimist (bədbin) qiyməti pessimistic 
+time estimate 
+Müəssisə layihələrinin idarə edilməsi enterprise 
+project management (EPM) 
+Müfəssəl iş cədvəli detailed schedule 
+Mükafata əsaslanan hakimiyyət reward authority 
+MÜK 
+ 
+128 
+ 
+Mükafata əsaslanan səlahiyyətlər reward authority 
+Müqayisə oluna bilmə comparability 
+Mümkün qədər gec as-late-as-possible 
+Mümkün qədər tez as-soon-as-possible 
+Mümkünlük 1. feasibility; 2. availability 
+Münaqişə conflict 
+Münasibətlərin dərketmə nəzəriyyəsi relationship 
+awareness theory 
+Münasiblik üçün bağlanma termination for 
+convenience 
+Müsbət vaxt ehtiyatı positive float 
+Müstəqil hadisə independent event 
+Müşahidə toplusu sample 
+Müştəri client 
+Müştərinin istəkləri voice of customer 
+Mütəxəssisin nüfuzu expert authority 
+Müvəffəqiyyəti müəyyən edən əsas göstəricilər Key 
+Success Factors (KSFs) 
+MÜK 
+ 
+129 
+ 
+ 
+N 
+Nailiyyətlərin və uğursuzluqların qeydiyyatı track 
+record 
+Naməlum məchullar unknown unknowns 
+Nasazlıq failure 
+Nasazlıqların və onların nəticələrinin təhlili failure 
+modes and effect analysis (FMEA) 
+Nəticə outcome 
+Nəzarət control 
+Nəzarət qrafiki control chart 
+Nəzərdə tutulmamış tədbir (riskə qarşı görülən) 
+workaround 
+Nəzərdən keçirilmə review 
+Nominal qrup üsulu nominal group technique 
+Normal xərclər normal cost 
+Normal vaxt normal time 
+Növ grade 
+Nümunə ilə müqayisə benchmarking 
+ 
+130 
+ 
+ 
+O 
+Ox işarəsi arrow 
+Oxlar diaqramı üsulu arrow diagramming method 
+Ötürülmə transfer 
+Özünü idarə edən self-managed 
+ 
+131 
+ 
+ 
+P 
+Paralinqvistik elementlər paralingual elements 
+Parametrik qiymətləndirmə parametric estimating 
+Pareto analizi Pareto analysis 
+Pareto diaqramı Pareto diagram 
+Pareto qanunu Pareto`s law 
+Pareto optimal həll Pareto optimal solution 
+PERT qiymətləndirilməsi PERT estimating 
+Planın icra indeksi schedule performance index 
+Planlaşdırılmış başa çatdırılma vaxtı target 
+completion date 
+Planlaşdırılmış başa çatma vaxtı planned finish date 
+Planlaşdırılmış başlanma vaxtı planned start date 
+Planlaşdırılmış dəyər planned value 
+Planlaşdırılmış fəaliyyət planned activity 
+Planlaşdırılmış həcm planned value 
+Planlaşdırılmış xərclər 1. cost performance baseline; 
+2. planned value 
+ 
+132 
+ 
+Planlaşdırılmış xərclər və məqsədlər cost 
+performance measurement baseline 
+Planlaşdırılmış işin büdcə dəyəri budgeted cost of 
+work scheduled (BCWS) 
+Planlaşdırılmış tarix target date 
+Planlaşdırılmış və faktiki dəyər arasındakı fərq 
+schedule variance (SV)  
+Planlaşdırma fazası planning phase 
+Planlaşdırma prosesləri planning processes 
+PMBOK təlimat kitabı PMBOK® Guide (A Guide to the 
+Project Management Body of Knowledge) 
+Portfel portfolio 
+Portfelin idarə edilməsi portfolio management 
+Praktiki qaydalar rules of thumb  
+Problem issue 
+Problemi araşdıran xüsusi qrup task force 
+Problemin həlli problem solving 
+Problemlərin qeydiyyat vərəqi issues register 
+Proqram program 
+Proqram təminatı software 
+Proqramın dəyərləndirilməsi və analizi üsulu 
+Program Evaluation and Review Technique 
+(PERT)  
+Proqramın idarə edilməsi program management 
+PLA 
+ 
+133 
+ 
+Prosesin imitasiyası (modelləşdirilməsi) simulation 
+Prototip prototype 
+Pulun zaman dəyəri time value of money 
+PUL 
+ 
+134 
+ 
+ 
+R 
+Resurs resource 
+Resurs təqvimi resource calendar 
+Resursların bərabərləşdirilməsi resource leveling 
+Resursların bölüşdürülməsi resource loading 
+Resurslar çatmadığına görə işin dayandırılması 
+termination by starvation 
+Resursların məhdudluğunu nəzərə alan təqvimi 
+plan resource-limited schedule 
+Resursun bərabərləşdirilməsi leveling 
+Resursun kodu (identifikatoru) resource code 
+Resursun planlaşdırılması resource planning 
+Rəhbərlik steering  
+Rəqabətli danışıq competitive negotiation 
+Risk risk 
+Risk hadisələrinin siyahısı risk event lists 
+Risk hadisələrinin təsviri risk event statements 
+Risk hadisəsi risk event 
+Risk menecmentin auditi risk audit 
+ 
+135 
+ 
+Risk mənbələri sources of risk 
+Risk tolerantlığı risk tolerance 
+Riskin aradan qaldırılması risk avoidance 
+Riskin azaldılması risk mitigation 
+Riskin ehtimalı risk probability 
+Riskin idarə edilməsi risk control 
+Riskin qəbul edilməsi risk acceptance 
+Riskin qiymətləndirilməsi 1. risk appraisal; 2. risk 
+assessment; 3. risk evaluation 
+Riskin müəyyən edilməsi risk identification 
+Riskin ötürülməsi risk transfer  
+Riskin təsiri risk impact 
+Riskin təsviri risk description 
+Riskin zəiflədilməsi risk mitigation 
+Risklərə cavab vermə sistemı responce system 
+Risklərə dözümlülük risk tolerance 
+Risklərə qarşı tədbirlər matrisi responce analysis 
+matrix 
+Risklərə reaksiya risk responce 
+Risklərin analizi risk analysis 
+Risklərin idarə edilməsi risk management 
+Risklərin idarə edilməsi strategiyasının 
+hazırlanması responce planning 
+RİS 
+ 
+136 
+ 
+Rollar və öhdəliklər matrisi roles and responsibilities 
+matrix 
+ROL 
+ 
+137 
+ 
+ 
+S 
+Sabit xərclər fixed cost 
+Sabit qiymətli və ya bir dəfəyə ödənilən kontraktlar 
+rixed price contract 
+Satınalma procurement 
+Satınalma sənədləri procurement documents 
+Satınalmanın icrasının təhlili procurement 
+performance evaluation 
+Satınalmanın idarə edilməsi planı procurement 
+management plan 
+Satınalmanın planlaşdırılması procurement planning 
+Seçim sample 
+Seçim prosesi sampling  
+Səbəb-nəticə diaqramı 1. fishbone diagram; 2. Isi-
+kawa diagram; 3. cause-and-effect diagram 
+Səlahiyyət verilməsi entrusting 
+Səlahiyyətlər authority 
+Sənədlər documentation 
+Sənədləşmə documentation 
+Sənədləşmənin nəzarət sistemi document control 
+ 
+138 
+ 
+Səpələnmə diaqramı scatter diagram  
+Sərbəst vaxt slack 
+Sərbəst vaxt ehtiyatı free float 
+Sifarişçi 1. customer; 2. client 
+Sifarişçi tərəfindən qəbuletmə customer acceptance 
+Sifarişçinin fikri voice of customer 
+Sifarişçinin tələbləri customer requirements  
+Sifarişin gözləmə vaxtı lead time 
+Sıfır mərhələ cycle 0 
+Sınaq nümunəsi prototype 
+Son istifadəçi end user 
+Son nəticə end product 
+Sondan başlanğıca keçid backward pass 
+Sonuncu iş end activity 
+Sort grade 
+Spesifikasiya specification 
+Spesifikasiyanın nəzarət sistemi specification control 
+Standart yayınma standart deviation 
+Start-finiş əlaqəsi start-to-finish  
+Start-start əlaqəsi start-to-start  
+Sürətli layihələndirmə fast-tracking 
+SƏP 
+ 
+139 
+ 
+ 
+Ş 
+Şəbəkə diaqramı 1. network diagram; 2. logic diagram 
+Şəbəkə diaqramının qurulması network diagramming 
+Şəbəkə əsasında işlərin təqvimi planlaşdırılması 
+network-based scheduling 
+Şəbəkə məntiqi network logic 
+Şəbəkə yolu network path 
+Şəbəkədə fəaliyyətlərin ardıcıllığı logic 
+Şəbəkələşmə networking 
+Şəbəkənin qovşağı node 
+Şəbəkənin təhlili network analysis 
+Şəxsiyyətin güclü tərəfləri nəzəriyyəsi “Strength 
+Deployment Inventory® (SDI® )” 
+Şəxsiyyətin müstəsna xüsusiyyətlərinə əsaslanan 
+hakimiyyət charismatic authority 
+Şəxsiyyətin səciyyələndirici xüsusiyyətləri 
+personality traits  
+ 
+140 
+ 
+ 
+T 
+Tamamlanma xərclərinin proqnozu estimate to 
+complete 
+Tamamlanma işlərinin icrası indeksi to-complete 
+performance index (TCPI) 
+Tamamlanmada büdcə budget at completion 
+Tamamlanmada ehtimal olunan xərclər estimate at 
+completion (EAC) 
+Tamamlanmada fərq variance at completion  
+Tamamlanmada gözlənilən qiymət estimate at 
+completion (EAC) 
+Tapşırığın növü task type 
+Tapşırığın təsviri task definition 
+Tapşırıq 1. job; 2. task; 3. work element; 4. work item 
+Tarixdən gec olmayaraq not/no later than 
+Tarixdən tez olmayaraq not/no earlier than 
+Texniki vərdiş və bacarıqlar hard skills 
+Texnoloji marşrutun sxemi flow diagram 
+Tendensiyaların hesabatı trend report 
+Tendensiyaların proqnozu trend analysis 
+ 
+141 
+ 
+Tendensiyaların təhlili trend analysis 
+Tədbirli-dəstəkləyici (mavi-yaşıl) üslub cautious-
+supporting (green-blue) 
+Tədrici təkmilləşdirmə progressive elaboration 
+Təfsilatlı istiqamətləndirmə tasking 
+Təfsilatlı iş cədvəli detailed schedule 
+Təhlil review 
+Təhlükə threat 
+Təklif 1. bid; 2. proposal 
+Təklif üçün müraciət request for proposal (RFP)  
+Təkmilləşdirilmiş Delfi üsulu wideband Delphi 
+Təqribi qiymətləndirmə ballpark estimate 
+Təqvim planı schedule 
+Təqvim planın simulyasiyası schedule simulation 
+Təqvim planın yenilənməsi schedule update  
+Təqvimi büdcə (gündəlik, həftəlik, aylıq) time-phase 
+budget  
+Təqvimi planın dəyişikliklərinin idarə edilməsi 
+schedule control 
+Təqvimi planın hazırlanması schedule development 
+Təqvimi planın sıxlaşdırılması schedule compression 
+Təqvimi planlaşdırma scheduling 
+Tələb requirement 
+Tələb olunan nəticələr performance requirements 
+TƏL 
+ 
+142 
+ 
+Tələblər fərqi exception  
+Tənzimləmə norming 
+Tərkibin təsviri scope statement 
+Tərkibin yoxlanılması scope verification 
+Təsdiq edilmə validation 
+Təsdiqlənmiş dəyişiklik müraciəti approved change 
+request 
+Təshihedici tədbir corrective action 
+Təsirin təhlili Impact Analysis 
+Təşkil etmə Forming 
+Təşkilati strukturda işlərin bölgüsü organizational 
+breakdown structure (OBS) 
+Təşkilati strukturda işlərin bölgüsü resource 
+breakdown structure (RBS) 
+Təşkilati uyğunluq organizational fit 
+Təşkilatın daimi bölməsinə çevrilməsi ilə əlaqədar 
+layihənin bitməsi termination by addition 
+Tətbiq olunmuş sistemin təhlili post-implementation 
+review 
+Tətbiq olunmuş sistemin təhlilinin hesabatı post-
+implementation review report 
+Toplanmış biliklər lessons learned 
+Toplanmış biliklərin təhlili lessons-learned review 
+Toplanmış xərclər cumulative cost 
+TƏL 
+ 
+143 
+ 
+ 
+U-Ü 
+Uğur qazanmağın həlledici amilləri critical success 
+factors 
+Üç nöqtəli qiymətləndirmə three-point estimate 
+Ümumi ehtiyat vaxtı total float 
+Ümumi xərclər total cost 
+ 
+144 
+ 
+ 
+V 
+“Vaxt və materiallar” kontraktları time-and-materials 
+contracts 
+Vaxtın bədbin (pessimist) qiyməti 1. pessimistic 
+duration; 2. pessimistic time 
+Vaxtın fərqi time variance 
+Vaxtın kənarlaşması time variance 
+Vaxtında xəbərdarlıq etmə sistemi early warning 
+system 
+Verilənlərin ayrılma tarixi data date 
+Verilmiş zaman ərzində istifadə edilən aktivlər və 
+xidmətlər expense 
+Vəziyyət status  
+Vəziyyət haqqında hesabat status report  
+Vəziyyətin təhlili görüşü status review meeting  
+Virtual komanda virtual team 
+“Vizyon” vision 
+ 
+145 
+ 
+ 
+Y 
+Yaxın zamanda bitəcək əməliyyat near-term activity 
+Yanbayan colocation 
+Yenidən planlaşdırma 1. replanning; 2. reschedule 
+Yerdə qalmış iş dövrləri effort remaining 
+Yerinə yetirilə bilmə imkanı feasibility 
+Yerinə yetirilmə implementation 
+Yerinə yetirilmə faizi percent complete 
+Yerinə yetirilmə fazası implementation phase 
+Yerinə yetirilmiş iş work performed 
+Yoxlama verification  
+Yoxlanılma validation 
+Yol Path 
+Yolların divergensiyası (ayrılması) path divergence 
+Yolların konvergensiyası (birləşməsi) path 
+convergence 
+Yolun ehtiyat vaxtı path float 
+Yuxarıdan aşağıya hesablanmış büdcə top-down 
+budget 
+ 
+146 
+ 
+Yuxarıdan aşağıya hesablanmış gözlənilən xərclər 
+top-down estimating  
+Yumşaltmaq mitigate 
+YUX 
+ 
+147 
+ 
+ 
+Z 
+Zaman qrafiki time-line 
+Zaman şkalası ilə uzlaşdırılmış şəbəkə diaqramı 
+time-scaled network diagram 
+Zamana görə bölüşdürülmüş büdcə 1. cost 
+baseline; 2. cost performance baseline 
+Zamana görə məhdudlaşdırılmış planlama time-
+limited scheduling 
+Zəiflətmə smoothing  
+Zəruri asılılıq mandatory dependency 
+Zəruri məntiq hard logic 
+Ziddiyyət conflict 
+ 
+148 
+ 
+ 
+İstifadə olunmuş mənbələr 
+Lüğətlər 
+Dictionary of Project Management Terms / J. LeRoy Ward. – 
+3
+rd
+ edition. – Arlington, Virginia, 2008. – 481 p. – ISBN 978-
+1-890367-45-9 
+English-Azerbaijani Dictionary of Financial and Economics 
+Terms / Y.M. Khanmuradov. – Baku: Shusha Publishing, 
+2000. – 512 p. 
+Ġngiliscə-azərbaycanca lüğət / Q.Q. Məmmədov. – Bakı: 
+ġərq-Qərb, 2004. – 1320 səh. – ISBN 9952-418-06-7 
+Khazar English-Azerbaijani Comprehensive Dictionary in 6 
+volumes // Vol. 1-3. – Baku: Khazar University Press, 2004-
+2008. – ISBN 9952-20-020-X 
+Əsas ədəbiyyat 
+A Guide to the Project Management Body of Knowledge 
+(PMBOK
+®
+ Guide). – 4th edition. – PMI  
+Gido J. Successful Project Management – 4
+th
+ edition. – 
+Mason: South-Western Cengage Learning, 2009. – 505 p. – 
+ISBN 978-0-324-65613-8 
+ 
+149 
+ 
+Project Leadership, Management, and Communications: 
+reference manual. – ESI International, 2009. – 410 p. 
+Managing Projects: reference manual. – ESI International, 
+2009. – 190 p. 
+Scheduling and Cost Control: reference manual. – ESI 
+International, 2009. – 210 p. 
+Risk Management: reference manual. – ESI International, 
+2009. – 160 p. 
+Project Management Applications: reference manual. – ESI 
+International, 2009. – 344 p. 
+Babayev Ġ. Layihələrin idarə edilməsi metodologiyası: 
+monoqrafiya. – Bakı, 2003. – 300 səh. 
+Veb saytlar 
+www.azerdict.com 
+www.ipma.az 
+ 
+150 
+ 
+Qeyd üçün 

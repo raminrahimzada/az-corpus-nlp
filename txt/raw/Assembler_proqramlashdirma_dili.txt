@@ -1,0 +1,3231 @@
+Assembler 
+proqramlaşdırma
+dili  
+hm d SadıxovƏ ə
+2– ci buraxılış 
+25.02.2014
+Önsöz
+Bu kitabda Assembler proqamlaşdırma dilind n b hs olunur. Kitab assembler dilin  yeni ə ə ə
+başlayanlar üçün n z rd  tutulsa da, mövzular orta peş kar s viyy d  hat  olunub . ə ə ə ə ə ə ə ə ə
+Kitabdan istifad  ed  bilm k üçün oxucunun h r-hansı proqramlaşdırma dilini bilm si, ə ə ə ə ə
+funksiyaların çağırılması, funksiyalara parametr ötürülm si v  göst ricil r mövzularını bilm siə ə ə ə ə  
+mütl q t l b olunur. Y ni hazırki material h r-hansı proqramlaşdırma dilini mük mm l bil n ə ə ə ə ə ə ə ə
+proqramçılar üçündür. Baxmayaraq ki,  kitabda heç bir başqa proqramlaşdırma dilin  istinad ə
+verilmir, lakin bir çox mövzuların m nims nm si peş kar s viyy sin  yaxın, b z n is  tam ə ə ə ə ə ə ə ə ə ə
+peş kar proqramlaşdırma t crüb si t l b edir. ə ə ə ə ə
+Arxitektura 
+Bu kitabda hal-hazırda çox geniş yayılmış X86 arxitekturalı prosessorların (İNTEL, AMD ...) 
+assembler dili izah olunur. 
+Sintaksis
+X86 arxitekturası üçün assembler proqramlaşdırma dilinin bir-birin  oxşar müxt lif ə ə
+sintaksisl ri mövcuddur. Bu kitabda daha asan başa düşül n v  geniş yayılmış AT&T ə ə ə
+sintaksisind n istifad  olunur.ə ə
+Oxucu kütl siə
+Kitab assemblerl  maraqlanan hamı üçün faydalı ola bil r, lakin sas oxucu kütl si yeni ə ə ə ə
+başlayan sistem proqramçılar hesab olunur.
+m liyyatlar sistemi v  kompilyatorƏ ə ə
+Nümun  kodlar GNU/Linux sisteml rind  kompilyasiya v  icra  üçün n z rd  tutulub. ə ə ə ə ə ə ə
+Assembleri örg nm k üçün  n lverişli m liyyatlar sistemi  GNU/Linux sisteml ridir. ə ə ə ə ə ə ə
+Windowsda assembleri örg nm k v  başa düşm k nisb t n ç tindir, çünki Windows ə ə ə ə ə ə ə
+sisteml ri sas n istifad çi proqramlaşdırmada istifad  olunur. İstifad çi interfeysi ə ə ə ə ə ə
+m s l sind  Windows çox ir lid  olsada, performans v  t hlük sizlik m s l l rind  Unix ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+sisteml rind n geri qalır. Bu s b b  gör  sistem proqramlaşdırma il  m şğul olmaq ə ə ə ə ə ə ə ə
+ist y nl r Unix  üstünlük verirl r. Klassik Unix sisteml rind n is (Solaris, AİX, HP_UX, ə ə ə ə ə ə ə ə
+FreeBSD ...) proqramlaşdırma bir k nara qalsın, adic  istifad  etm k peş kar t crüb  t l b ə ə ə ə ə ə ə ə ə
+edir. Bu s b bl  GNU/Linux klassik Unix tipli sistem olmasına r ğm n nisb t n asan ə ə ə ə ə ə ə
+interfeysli olduğuna gör  yeni başlayan(v  peş kar) sistem proqramçılar üçün ideal seçim ə ə ə
+hesab olunur. GNU/Linux sistml rinin v  assembler kompilyatorlarının quraşdırılması bar d  ə ə ə ə
+traflı m lumatı  ə ə asadikhov.net saytından v  ya ə youtube.com/user/heliks85 s hif sind n ldə ə ə ə ə 
+ed  bil rsiniz .ə ə
+Mü llif hüquqları:ə
+Kitabda daxil olunan materialın v  proqram nümun l rinin sizin hansısa işiniz  yarayacağına ə ə ə ə
+mü llif t r find n heç bir t minat verilmir. Bu proqramlardan istifad  n tic sind  yaranan ə ə ə ə ə ə ə ə ə
+ist nil n ziyana gör  m suliyy ti oxucu özü daşıyır, mü llif heç bir m suliyy t daşımır.ə ə ə ə ə ə ə ə
+Arzu, irad v  t klifl rinizi mü llif  aşağıdakı ünvandan çatdıra bil rsiniz.ə ə ə ə ə ə
+ahmed.sadikhov@gmail.com
+İçind kil rə ə
+1 Giriş…............................................................................ 4
+2 Yaddaş …...................................................................... 9
+3 C rg l r…..................................................................... 27ə ə ə
+4 Stek…............................................................................ 44
+5 Funksiyalar …................................................................ 53
+6 Say sisteml ri…............................................................. 62ə
+7 Bit m liyyatları…........................................................... 68ə ə
+
+1
+Giriş
+Assembler dili dedikd  bir çoxlarında köhn  proqramlaşdırma dili t s vvürü yaranır ki,ə ə ə ə  
+bu da s b bsiz deyil. H qiq t n assembler 3-cü s viyy li dill rd n vv l istifad  olunan dil ə ə ə ə ə ə ə ə ə ə ə ə
+olub.  Hal-hazırda 3-cü s viyy li dill rin (Paskal,C,C++,C#, JAVA v.s.) standartları kifay t ə ə ə ə
+q d r inkişaf etdirilib, ixtisaslaşdırılmış proqramlaşdırma mühitl ri v  kitabxanaları ə ə ə ə
+yaradılmışdır.  Bu s b bd n bugünkü günd  ə ə ə ə “köhn ”  ə hesab olunan bir dili örg nm yi hansı ə ə
+s b l r vacib eliy  bil r.  Bu sualın çox cavabı ola bil r  lakin m n t k bir cavabla assembleri ə ə ə ə ə ə ə ə
+örg nm yin  vacibliyini ifad  etm k ist yir m:ə ə ə ə ə ə
+Assembler dili sistem proqramlaşdırmanın açarıdır.
+ 
+Buradan o aydın olu ki, bugünkü günd  assembler yalnız sistem proqramlaşdırmanı ə
+örg nm k ist y nl r üçün vacib ola bil r v  bundan da lav  sistem proqramlaşdırmanı ə ə ə ə ə ə ə ə ə
+örg nm k ist y nl r assembler çox mük mm l bilm lidirl r. ə ə ə ə ə ə ə ə ə
+Bugünkü günd  assembler sas n sistem proqramçılar t r find n istifad  olunur sistem ə ə ə ə ə ə ə
+proqram kodlarının t rtibind . Sistem proqramlaşdırmada istifad si geniş yayılmış dig r dil ə ə ə ə
+lb ttd  ki C dilidir. Assembler sas n C il  t rtib olunması mümkün olmayan kritik kod ə ə ə ə ə ə ə
+hiss l rinin  t rtibind  istifad  olunur. Buraya sas n qurğu v  proqram k silm l rini, giriş – ə ə ə ə ə ə ə ə ə ə ə
+çıxış portlarını v.s. idar  ed n kod hiss l ri aiddir.ə ə ə ə
+m liyyatlar sistemi k silm l r vast sil  idar  olunur. Bu k silm l rin h r biri sistemin Ə ə ə ə ə ə ə ə ə ə ə ə
+normal f aliyy ti üçün olduqca vacibdir.  ə ə Misal üçün sistem üçün n vacib k silm l rd n ə ə ə ə ə
+hesab olunan saat k silm si zamanı (timer interrupt – m liyyatlar sisteminin ür k ə ə ə ə ə
+döyüntüsü) icra olunan  kod yalnız assemblerd  realiz  oluna bil r. Aşağıda linux nüv sinin ə ə ə ə
+1.0 buraxılışından assembler dilind  müvafiq kod k simi göst rilir(x86):ə ə ə
+1
+ .align 2
+_timer_interrupt:
+        push %ds                # save ds,es and put kernel data space
+        push %es                # into them. %fs is used by _system_call
+        push %fs
+        pushl %edx              # we save %eax,%ecx,%edx as gcc doesn't
+        pushl %ecx              # save those across function calls. %ebx
+        pushl %ebx              # is saved as we use that in ret_sys_call
+        pushl %eax
+        movl $0x10,%eax
+        mov %ax,%ds
+        mov %ax,%es
+        movl $0x17,%eax
+        mov %ax,%fs
+        incl _jiffies
+        movb $0x20,%al          # EOI to interrupt controller #1
+        outb %al,$0x20
+        movl CS(%esp),%eax
+        andl $3,%eax            # %eax is CPL (0 or 3, 0=supervisor)
+        pushl %eax
+        call _do_timer          # 'do_timer(long CPL)' does everything from
+        addl $4,%esp            # task switching to accounting ...
+        jmp ret_from_sys_call
+Avadanlıqlar v  onların proqramlaşdırılması sistem proqramlaşdırma m s l l ridir. Biz bu ə ə ə ə ə
+m s l l r  yeri g ldikc  toxunacayıq. Ümumilikd  is  m qs d assembler v  sisteml  bağlı ə ə ə ə ə ə ə ə ə ə ə ə ə
+t m l bilikl ri izah etm kdir.ə ə ə ə
+m liyyatlar sisteminin idar  etdiyi n vacib vahidl rd n biri istifad çi proqramlarıdır.  Ə ə ə ə ə ə ə
+Ümumiyy tl  m liyyatlar sisteminin sas m qs di istifad çi proqramlarının normal iş ə ə ə ə ə ə ə ə
+f aliyy tini t şkil etm k, proqramların kompüterin resurslarından istifad sini  t min etm k, ə ə ə ə ə ə ə
+onların müraci tl rini düzgün yerin  yetirm k, istifad çi proqrmlarına aid m lumatları ə ə ə ə ə ə
+mühafiz  etm kdir. Bu deyil nl rd n kompüterd  icra olunan h r-bir proqramın m liyyatlar ə ə ə ə ə ə ə ə ə
+sistemi üçün n  q d r vacib olduğu anlaşılır. G lin istifad çi proqramlarının strukturu il  tanışə ə ə ə ə ə  
+olaq.
+Proqramın strukturu
+Kompüterd  icra olunan h r-bir proqram ə ə “hiss ”ə   adlandırılan struktur vahidl rind n ibar t ə ə ə
+olur.  Y ni sad  dild  des k proqram müxt lif m qs dl r üçün n z rd  tutulmuş bir neç  ə ə ə ə ə ə ə ə ə ə ə ə
+hiss  - ə d n ibar t olur.  lb ttd  müasir proqramların h r-bir hiss si v  onların funksional ə ə Ə ə ə ə ə ə
+xarakteristikası artıq t kmill şdirilmiş sistem proqramlaşdırma kursunun mövzusudur. Biz is  ə ə ə
+h l lik başlanğıc s viyy d  proqramın n vacib hiss l r il  tanış olacayıq. ə ə ə ə ə ə ə ə ə
+Proqramın n vacib hiss si lb ttd  ki onun instruksiyalarını özünd  saxlayan ə ə ə ə ə ə .text hiss sidir.ə  
+Proqramın dig r vacib hiss si proqram m lumatlarını özünd  saxlayan ə ə ə ə .data hiss sidir.  ə
+Proqramın dig r vacib hiss si ə ə .stek -dir, lakin stekl  ir lid ki mövzularda tanış olacayıq.ə ə ə
+2
+H l lik is  proqramı sad  halda aşağıdakı kimi iki hiss d n ibar t t s vvür ed  bil rik, ə ə ə ə ə ə ə ə ə ə ə
+m lumatlar v  instruksiyalar:ə ə
+ Proqramın sadə strukturu
+   |----------------|
+   |                |
+   |     .data          |
+   |                |
+   |----------------|
+   |                |
+   |     .text             |
+   |                |
+   |----------------|
+  
+                
+Hiss   adlarıının vv lin  (.ə ə ə ə data, .text) nöqt  qoyulduğuna diqq t yetir k. Assembler dilind  ə ə ə ə
+vv li nöqt  il  başlayan ifad l r ə ə ə ə ə ə “direktiv” adlanır. Direktivl r kompilyatora bu v  ya dig r ə ə ə
+m lumat ötürm k üçündür.  Misal üçün ə ə .data direktivi kompilyatora m lumatlar hiss sinin ə ə
+başladığı yeri bildirir. .text direktivi is   instruksiyalar hiss sinin başlanğıcını bildirir. Dig r ə ə ə
+direktivl r  misal olaraq ə ə .globl, .bss v.s. direktivl ri göst r  bil rik. Bunlarla ir lid  tanış ə ə ə ə ə ə
+olacayıq. 
+Proqramda m lumatlar hiss sinin olması vacib deyil. Bu zaman ə ə .data direktivind n istifad  ə ə
+etmirik. G lin assembler dilind  sad  proqram nümun si il  tanış olaq.ə ə ə ə ə
+Assembler dilind  sad  proqramə ə  
+Assembler dilind  sad  proqram nümun si aşağıdakı kimi olar:ə ə ə
+          #assembler dilinde sade proqram
+          .data
+          .text
+          .globl _start
+          _start:
+          movl $5, %ebx
+          movl $1, %eax
+          int  $0x80
+Proqramı s tir-s tir t hlil ed k. Proqramın ilk s tri ə ə ə ə ə
+3
+          .data
+s tridir.  Artıq bildiyimiz kimi burada ə .data direktivind n istifad  olunub v  m lumatlar ə ə ə ə
+hiss sinin başlanğıcının elanını bildirir. Lakin h l lik m lumatlar hiss sind  biz heç bir ə ə ə ə ə ə
+m lumat el n etm mişik.  Ona gör  proqramda biz bu direktivd n istifad  etm y  d  bil rdik.ə ə ə ə ə ə ə ə ə ə  
+Növb ti s tir:ə ə
+          .text
+Bu s trin d  m nası il  biz artıq tanışıq,  proqramın instruksiyalar hiss sinin başlandığı yeri ə ə ə ə ə
+bildirir. 
+Növb ti s tir:ə ə
+          .globl _start
+Burada  .globl direktivind n istifad  olunub. ə ə .globl direktivi kompilyatora h miyy tli nişanlar ə ə ə
+bar sind  m lumat verir. Burada kompilyatora ə ə ə _start nişanının h miyy tli nişan olduğunu ə ə ə
+bildirilir. 
+Nöbvb ti s tir:ə ə
+          _start:
+Assembler dilind  sonu qoşanöqt  il  bit n ifad l r ə ə ə ə ə ə “nişan” adlanır. Nişanlar h r-hansı ə
+m lumat v  ya instruksiyanın balanğıc ünvanın bildirir v  h min ünvana  istinad etm k üçün ə ə ə ə ə
+istifad  olunur.  ə _start nişanı xüsusi nişandır v  proqramın ilk icraolunmalı instrksiyasının ə
+yerini bildirir, başqa sözl  assembler proqramları ə _start nişanından icra olunmağa başlayır. 
+Proqramın növb ti 3 s tri aşağıdakı kimidir:ə ə
+          movl $5, %ebx
+          movl $1, %eax
+          int  $0x80
+Bu s tirl r artıq prosessor t r find n icra olunan instruksiyalardır. İlk iki instruksiya müvafiq ə ə ə ə ə
+olaraq prosessorun %ebx v  ə %eax reqistrl rin  ə ə 5 v  ə 1 qiym tl rini yazır, sonuncu instruksiya ə ə
+is  ə 0x80 nömr li k silm ni çağırır. Bu instruksiyalarla traflı ir lid ki mövzularda tanış ə ə ə ə ə ə
+olacayıq.
+Prosessorun strukturu.
+4
+Baxmayaraq ki, prosessor olduqca mür kk b struktura malikdir v  onu bütün inc likl rin  ə ə ə ə ə ə
+q d r izah el m k üçün 10-larla kitab t l b olunur, yeni başlayan sistem proqramçılar üçün ə ə ə ə ə ə
+sad  halda prosessoru aşağıdakı kimi t svir ed  bil rik.ə ə ə ə
+   
+  
+                Prosessorun strukturu             
+                
+    |------------------------------------------------|
+    |                    |                           |
+    |  Yaddaş İdarəetmə  |   İnstruksiya çeviricisi  |
+    |   bloku            |                           |
+    |--------------------|---------------------------|
+    |                    |                           |
+    | Kəsilmələr  bloku  |       İcraetmə bloku      |
+    |                    |                           |
+    |--------------------|---------------------------|
+    |                                                |
+    |          ....    digər hissələr ....           |
+    |                                                |
+    |------------------------------------------------|
+    |                                                |
+    |                Reqistrlər                      |
+    |                                                |
+    |------------------------------------------------|
+    
+Bu hiss l r iç risind  bizim bilm li olduğumuz v  istifad  ed c yimiz hiss  prosessorun  ə ə ə ə ə ə ə ə ə ə
+Reqistrl rdir. Prosessorun dig r hiss l ri il  sistem proqramçılar m şğul olur. ə ə ə ə ə ə
+Registrl r prosessora aid çox kiçik yaddaş elementl ridir. Prosessor kompüterin fiziki ə ə
+yaddaşından(RAM) m lumatı kiçik hiss l rl  (4-8 bayt) reqistrl r  köçürür, sonra emal edir. ə ə ə ə ə ə
+Reqistrl rin h r-birin  öz adları il  müraci t olunur.ə ə ə ə ə
+Reqistrl rin ölçüsü v  sayı konkret prosessor arxitekturasından asılı olur. ə ə x86 arxitekturasının 
+sas işçi reqistrl riə ə  rax, rbx, rcx, rdx, rdi, rsi, rsp, rbp v  ə  rip reqistrl ridir. Bu reqistrl rd n ə ə ə rax, 
+rbx, rcx, rdx, rdi, rsi m lumatlarla, ə rsp, rbp stek yaddaşı il  işl m k üçün istifad  olunur. ə ə ə ə rip 
+reqistri özünd  icra olunan instruksiyanın ünvanın saxlayır. Bu reqistrl rin h r-birinin ölçüsü 8 ə ə ə
+baytdır (64 bit). 
+ rax reqistri 64 bit.
+5
+Bundan lav  ə ə rax, rbx, rcx, rdx reqistrl rinin h r birinin ilk 32 bitin  uyğun olaraq ə ə ə eax, ebx, ecx 
+v  ə edx adı il  müraci t etm k olar. 32 bitlik (4 baytlıq) m liyyatlar zamanı bu reqistrl rl  ə ə ə ə ə ə ə
+işl m k daha lverişlidir. ə ə ə
+ eax, ebx, ecx v  ə edx reqistrl rin h r birinin d  ilk 16 bitin  d  ə ə ə ə ə ax, bx, cx v  dxə  adları il  ə
+müraci t etm k olar. ə ə
+ 
+ 
+Öz növb sind  1 baytlıq m liyyatlar zamanı ə ə ə ə ax, bx, cx v  dxə   reqistl rin h r birinin ilk 8 bitin  ə ə ə
+( 0-7 bitl r) ə al, bl, cl v  ə dl, növb ti 8 bitin  (8-15) is  ə ə ə ah, bh, ch və dh adları il  müraci t etm k ə ə ə
+olar.  
+6
+Qeyd.  rax, rbx, rcx, rdx, rdi, rsi, rsp, rbp v  ə  rip reqistrl ri  64 bitlik arxitekturalara aiddir, 32 bitlikə  
+maşınlarda bu reqistrl r mövcud deyil v   ə ə rax, rbx, rcx, rdx, rdi, rsi, rsp, rbp v  ə  rip 
+reqistrl rind n istifad  olunur.ə ə ə
+M lumatın  köçürülm siə ə
+Proqramın icrası zaman m lumat köçürm l ri çox tez-tez baş verir. Müasir prosessorlar ə ə ə
+m lumat köçürm k üçün çox inkişafetmiş instruksiyalara malikdirl r. Bunlardan nisb t n ə ə ə ə ə
+mür kk bl ri il  yaddaş v  ünvan mövzularını örg ndikd n sonra tanış olacayıq.  İndi is   ə ə ə ə ə ə ə ə
+m lumat köçürm l rinin nisb t n sad  hallarını n z rd n keçir c yik. ə ə ə ə ə ə ə ə ə ə ə
+M lumat köçürm k üçün ə ə mov instruksiyasından istifad  olunur. ə mov instruksiyasının 
+sintaksisi aşağıdakı kimidir:
+    mov mənbə, mənsəb
+mov instruksiyası m lumatı m nb d n m ns b  köçürür. Köçürül n m lumatın ölçüsünd n ə ə ə ə ə ə ə ə ə ə
+asılı olaraq mov instruksiyasının aşağıdakı formaları istifad  olunur: ə movb, movw, movl v  ə
+movq. Bu instruksiyalar  uyğun olaraq 1, 2, 4 v  ə 8 bayt m lumat köçürm k üçün istifad  ə ə ə
+olunur. Misal üçün prosessorun %eax reqistrin  ə 1 qiym ti köçür n instruksiya aşağıdakı kimi ə ə
+olar:
+  movl $1, %eax
+Assembler dilind  reqistrl rin adının vv lin  faiz - ə ə ə ə ə % işar si, d dl rin vv lin  is  dollar - ə ə ə ə ə ə ə ə $ 
+işar si artırılır. Burada biz ə mov instruksiyasının movl formasından istifad  etdik, çünki  ə %eax 
+reqistrinin ölçüsü 4 baytdır v  ə 4 baytlıq m liyyatlar zamanı ə ə movl -d n istifad  edirik. ə ə
+Çalışma 1. Aşağıdakı instruksiyanın gördüyü işi mü yy nl şdirin:ə ə ə
+     movl $5, %ebx
+H lli: ə Prosessorun %ebx reqistrin  5 qiym ti yazır.ə ə
+Çalışma 2. Prosessorun %edx reqistrin  7 qiym tini yazan instruksiya t rtib edin.ə ə ə
+H lliə : Instruksiya aşağıdakı kimi olar:
+        movl $7, %ebx
+Çalışma 3. %eax reqistrin  1, ə %ebx reqistrin  5, ə %ecx reqistrin  20, ə %edx reqistrin  30 ə
+qiym ti yazan proqram t rtib edin.ə ə
+7
+H lli.ə  Proqram kodu aşağıdakı kimi olacaq:
+     .data
+     .text
+     .globl _start
+     _start:
+        movl $1,  %eax
+        movl $5,  %ebx
+        movl $20, %ecx
+        movl $30, %edx
+        movl $1, %eax
+        int  $0x80
+Proqramın sonuncu iki instruksiyasına n z r salaq:ə ə
+       movl $1, %eax
+       int  $0x80
+Bu iki instruksiya proqramı söndürm k üçündür. ə
+Assembler proqramlarının kompilyasiyası
+Assembler proqramlarını kompilyasiya etm k üçün vv lc  proqramın m tn faylını h r-hansı ə ə ə ə ə ə
+bir faylda, misal üçün prg.s faylında yadda saxlayırıq v  kompilyasiya üçün aşağıdakı mrl ri ə ə ə
+daxil edirik:
+    as prg.s -o prg.o
+    ld prg.o -o prg
+N tic d  ə ə ə prg.s assembler faylından prg adlı icraolunabil n ikili proqram faylı alınır.  ə
+Assembler proqramlarının icrası
+Assembler proqramlarını icra ed rk n müt madi olaraq prosessorun reiqstrl rinin ə ə ə ə
+qiym tini,proqram yaddaşının müxt lif hiss sl rind  (ə ə ə ə ə stek, .data, .text , .bss v.s.) m lumatları ə
+t hlil etm k t l b olunur. Bunun üçün müxt lif t hlil proqramları mövcuddur. Biz hal-hazırda ə ə ə ə ə ə
+n geniş yayılmış ə gdb t hlil proqramından istifad  ed c yik.  ə ə ə ə
+gdb il  proqramları t hlil etm k üçün aşağıdakı qaydalardan istifad  edirl r. vv lc  proqramə ə ə ə ə Ə ə ə  
+kodunun t hlil aparmaq ist diyimiz yerl rind  nişan t yin edirik. Proqramı  ə ə ə ə ə gdb il  yükl yirl r. ə ə ə
+Hansı nişanlarda proqramın icrasını dayandırma ist diyimizi ə gdb -y  bildiririk v  proqramın ə ə
+8
+icrasına başlayırıq. gdb proqramı bizim qeyd etdiyimiz ünvanlarda dayandırır v  biz  ə ə
+prosessorun reqistrl rini v  yaddaşı t hlil etm y  imkan verir. T hlil işl rini bitirdikd n sonra ə ə ə ə ə ə ə ə
+proqramın icrasını davam etdiririk v  proqram bizim t yin etdiyimiz növb ti nişanda icrasını ə ə ə
+dayandırır. Müvafiq mrl r aşağıdakı kimi olar:ə ə
+gdb il  h r-hansı proqramı yükl m k üçün,ə ə ə ə
+    gdb proqramın_adı
+mrini, proqramın icrasını h r-hansı yerd (nişan) dayandırmaq üçün,ə ə ə
+    break nişan
+mrini, reqistrl rin qiym tini örg nm k üçün,ə ə ə ə ə
+   info registers $reqisterin_adı
+mrini, növb ti instruksiyanı icra etm k üçün,ə ə ə
+   nexti
+v  ya qısacaə
+   n
+mrini ,ə
+Proqramın icrasını b rpa etm k üçün ə ə
+ continue
+v  ya qısacaə
+ c
+mrini daxil etm liyik. ə ə gdb -nin yaddaşı t hlil etm  mrl ri il  müvafiq bölm l rd  tanış ə ə ə ə ə ə ə ə
+olacayıq, h l lik is  yalnız reqistrl rin qiym tl rini yoxlamaqla kifay tl n c yik.ə ə ə ə ə ə ə ə ə ə
+Çalışma 4. Aşağıdakı proqramın icraya başalama anında(_start) prosessorun reqistrl rinin ə
+qiym tl rini t yin edin.ə ə ə
+      #prg.s
+     .data
+     .text
+     .globl _start
+     _start:
+        movl $1, %eax
+9
+        int  $0x80
+H lli.ə  vv lc  proqramın m tniniƏ ə ə ə  prg.s faylında yadda saxlayaq. Daha sonra 
+    as prg.s -o prg.o
+    ld prg.o -o prg
+mrl ri il  ə ə ə prg.s -d n prg proqram faylını alırıq. ə prg -nı gdb il  yükl y k:ə ə ə
+    gdb prg
+vv lc  proqramın icrasını dayandırmaq ist diyimiz yerl ri Ə ə ə ə ə gdb -y  bildirm liyik. Bizd n ə ə ə
+proqramın icraya başlama anında reqistrl rin qiym tl rini örg nm k t l b olunduğundan ə ə ə ə ə ə ə
+_start nişanından istifad  ed  bil rik. Proqramın icrasını ə ə ə _start nişanında dayandırmaq üçün 
+break mrini daxil ed k:ə ə
+    break _start
+Bütün bunlar hazırlıq m rh l sidir. Proqramın icrasını başlaya bil rik, bunun üçün ə ə ə ə run mrini ə
+daxil etm liyk. ə
+    run
+N tic d  proqram icra olunmağa başalayacaq v  bizim t yin etdiyimiz yerl rd  gdb ə ə ə ə ə ə ə
+proqramın icrasını dayandıracaq (_start nişanı). 
+Bu anda prosessorun reqistrl rinin qiym tini örg nm k üçün aşağıdakı mri daxil edirik:ə ə ə ə ə
+      info registers $eax $ebx  $ecx  $edx  $esi  $edi
+N tic :ə ə
+(gdb) info registers $eax $ebx  $ecx  $edx  $esi  $edi 
+eax            0x0      0
+ebx            0x0      0
+ecx            0x0      0
+edx            0x0      0
+esi            0x0      0
+edi            0x0      0
+(gdb)
+Çalışma 5.  Prosessorun reqistrl rin  müxt lif qiym tl r yazın. ə ə ə ə ə gdb proqramı il  prosessorun ə
+reqistrl rin  yazılmış m lumatları yoxlayın.ə ə ə
+H lli.ə  Proqram aşağıdakı kimi olar:
+      #prg.s
+     .data
+10
+     .text
+     .globl _start
+_start:
+      movl $45, %eax
+      movl $32, %ebx
+      movl $9,  %ecx
+      movl $12, %edx
+    f:
+  
+        movl $1, %eax
+        int  $0x80
+vv lc  proqramı kompilyasiya ed k:Ə ə ə ə
+ 
+[ferid@fedora Documents]$ as tmp.s -o tmp.o
+[ferid@fedora Documents]$ ld tmp.o -o tmp
+Daha sonra proqramı gdb il  yükl y k:ə ə ə
+[ferid@fedora Documents]$ 
+[ferid@fedora Documents]$ gdb tmp
+GNU gdb (GDB) Fedora (7.2.90.20110429-36.fc15)
+Reading symbols (no debugging symbols found)...done.
+(gdb) 
+Proqramı  _start  v   ə f   nişanlarında dayandırmaq üçün break mrind n istifad  ed k:ə ə ə ə
+(gdb)
+(gdb) break _start
+Breakpoint 1 at 0x400078
+(gdb) break f
+Breakpoint 2 at 0x40008c
+(gdb)
+Proqramın icrasını başlamaq üçün run mrini daxil ed k. Proqram icraya başlayacaq v  ə ə ə
+_start  nişanında dayanacaq. 
+(gdb) run
+Starting program: /home/ferid/Documents/tmp 
+Breakpoint 1, 0x0000000000400078 in _start ()
+(gdb)
+Prosessorun %eax, %ebx, %ecx və %edx reqistrl rinin qiym tl rini yoxlayaq:ə ə ə
+(gdb) info registers $eax $ebx  $ecx  $edx               
+eax            0x0      0
+11
+ebx            0x0      0
+ecx            0x0      0
+edx            0x0      0
+(gdb)
+Proqramın icrasını davam ets k, proqram f nişanında dayanacaq.ə
+(gdb) c
+Continuing.
+Breakpoint 2, 0x000000000040008c in f ()
+(gdb)
+Reqistrl rin qiym tl rini yoxlayaq:ə ə ə
+(gdb) info registers $eax $ebx  $ecx  $edx 
+eax            0x2d     45
+ebx            0x20     32
+ecx            0x9      9
+edx            0xc      12
+(gdb)
+İzah: Proqramda biz _start və f adlı iki nişan t yin edirik. Proqram icraya başlayır v  ə ə
+prosessorun reqistrl rin  müxt lif qiym tl r yazır. Biz proqramı ə ə ə ə ə gdb il  yükl yib t l b olunan ə ə ə ə
+yerl rd  proqramın icrasını dayandırmaq üçün ə ə break mrind n istifad  edirik. Proqramın ə ə ə
+icrası _start nişanında dayandıqdan v  biz reqistrl rin qiym tl rini yoxladıqdan sorna ə ə ə ə
+proqramın icrasını davam etm k üçün ə c mrind n istifad  edirik. Proqram növb ti nişanda ə ə ə ə
+dayanır v  biz reqistrl rin qiym tini yenid n yoxlayırıq.ə ə ə ə
+B zi sad  instruksiyalarə ə
+Bu bölm d  b zi sad  assembler instruksiyaları v  onlardan istifad y  aid proqram ə ə ə ə ə ə ə
+nümun l ri daxil ed c yik. Bu t crüb  biz  növb ti başlıqlarda tanış olacağımız prosessorunə ə ə ə ə ə ə ə  
+yaddaşa müraci t üsulları, stek v  funksiyalar il  işl y n zaman lazım olacaq.ə ə ə ə ə
+ADD instruksiyası
+Add instruksiyası iki m lumatı c ml m k üçün istifad  olunur. Sintaksisi aşağıdakı kimidir:ə ə ə ə ə
+    add məlumat1, məlumat2
+Bu zaman m lumat1 m lumat2 -nin üz rin  lav  olunur v  n tic  m lumat2 -d  saxlanılır.ə ə ə ə ə ə ə ə ə ə ə
+Qeyd edim ki, assembler dilind , ümumiyy tl  proqramlaşdırmanın aşağı s viyy sind  bütünə ə ə ə ə ə  
+m lumatlar d dl rl  ifad  olunur, ikili, onluq v  16 -lıq formada. Bu bar d  daha traflı 6-cı ə ə ə ə ə ə ə ə ə ə
+paraqrafda izah verilir.
+Add instruksiyasına aid nümun l r  baxaq: ə ə ə
+12
+  add %eax, %ebx 
+  add $56, %ecx 
+Birinci instruksiya %eax reqistrind  olan m lumatı ə ə %ebx -d ki il  c ml yir v  n tic ni ə ə ə ə ə ə ə %ebx -  ə
+yazır, ikinci instruksiya %ecx reqistrinin qiym tin 56 vahid artırır. ə
+Çalışma 5. Assembler dilind  23 il  5 d dl rinin c mini hesablayan proqram t rtib edin.ə ə ə ə ə ə ə
+H lli.ə  Nümun  proqram aşağıdakı kimi olar:ə
+ 
+         #proq3.s
+        .text
+        .globl _start
+        
+        _start:
+        movl $23, %ecx
+        movl $5, %exb
+        add  %ecx, %ebx
+        movl $1, %eax
+        int  $0x80
+İzahı: Proqramın ilk s tirl rinin izahını bilirik. ə ə movl $23, %ecx instruksiyası %ecx -  23 qiym tini ə ə
+yazır. movl $5, %exb instruksiyası is  ə %ebx -  5 qiym tini yazır. ə ə add %ecx, %ebx instruksiyası 
+%ecx -d ki m lumatı ə ə %ebx -in üz rin  lav  edib, n tic ni ə ə ə ə ə ə %ebx -d  saxlayır.ə
+Çalışma 6. Çalışma 5 -d  t rtib olunan proqramın n tic sinin doğruluğunu yoxlayın.ə ə ə ə
+H lliə . Proqram ecx -  23, ə ebx -  5 qiym tl ri yazdıqdan sonra add instruksiyası il  onların ə ə ə ə
+c mini ə ebx -d  saxlyır. Y ni ə ə add %ecx, %ebx instruksiysı icra olunn zaman ebx -  28 (23+5) ə
+qiym ti yazılmış olur. Proqramın n tic sinin doğruluğunu yoxlamaq üçün ə ə ə add %ecx, %ebx 
+instruksiyası icra olunduqdan sonra ebx -in qiym tinin 28 -  b rab r olduğunu yoxlamalıyıq. ə ə ə ə
+Bunun üçün add %ecx, %ebx instruksiyasından sonra proqramın icrasını dayandırıb ebx 
+reqistrinin qiym tini örg nm liyik. Proqramın icrasını ə ə ə add %ecx, %ebx instruksiyasından sonra 
+dayandıra bilm k üçün proqram kodunda biraz d yişiklik ed k, t l b olunan instruksiyadan ə ə ə ə ə
+sonra yeni dayan adlı nişan yerl şdir k. Proqramın yeni kodu aşağıdakı kimi olar:ə ə
+          #proq3.s
+        .text
+        .globl _start
+        
+        _start:
+        movl $23, %ecx
+        movl $5, %ebx
+13
+        add  %ecx, %ebx
+        dayan:
+        movl $1, %eax
+        int  $0x80
+Proqramı vv lc  kompilyasiya ed k:ə ə ə ə
+  as prog3.s -o prog3.o
+  ld prog3.o -o prog3
+Proqramı gdb il  yükl y k:ə ə ə
+   gdb prog3
+dayan nişanında proqramın icrasını saxlamaq üçün break dayan mrini daxil ed k:ə ə
+  break dayan
+Proqramı iş  salmaq üçün ə run mrini daxil ed k v  t l b olunan yerd  dayanmasını ə ə ə ə ə ə
+gözl y k:ə ə
+  run
+Proqram icra olunancaq v  dayan nişanında gdb proqramın icrasını dayandıracaq. Bu yerd  ə ə
+ebx reqistrinin qiym tini örg nm k üçün ə ə ə info registers $ebx mrini daxil ed k:ə ə
+   info registers $ebx
+N tic :ə ə
+(gdb) info registers $ebx
+ebx            0x1c     28
+(gdb) 
+Sub instruksiyası 
+Sub - çıxma instruksiyasıdır. sub instruksiyası birinci arqumentin qiym tini ikincid n çıxıb ə ə
+n tic ni ikinciy  yerl şdirir.ə ə ə ə
+Sub instruksiyasına aid nümun l r  baxaq: ə ə ə
+  sub %eax, %ebx 
+  sub $5, %ecx
+Birinci instruksiya ebx -d n ə %eax -i çıxır, ikinci instruksiya ecx -d n 5 çıxır.ə
+14
+Çalışma 7. El  proqram t rtib edin ki, ə ə eax -  40 qiym ti yazsın, daha sonra onun qiym tini 35ə ə ə  
+vahid azaltsın.
+H lliə . Müvafiq proqram kodu aşağıdakı kimi olar:
+        .text
+        .globl _start
+        
+        _start:
+        # eax -e 40 qiymeti yazaq
+        movl $40, %eax
+        # eax -in qiymetini 35 vahid azaldaq
+        sub $35, %eax
+        movl $1, %eax
+        int  $0x80
+Imul instruksiyası 
+Imul - vurma instruksiyasıdır. Mull instruksiyası iki arqument q bul edir, birinci il  ikinci ə ə
+arqumentin hasilini hesablayıb ikinciy  yerl şdirir.ə ə
+Imul instruksiyasına aid nümun l r  baxaq: ə ə ə
+imul %ecx, %edx 
+imul $5, %ebx 
+Birinci instruksiya ecx -i %edx -  vurur, ikinci instruksiya ə ebx -in qiym tin 5 d f  artırır.ə ə ə
+Çalışma 8. El  proqram t rtib edin ki, ə ə eax -  10, ə ebx -  5, qiym ti yazsın, daha sonra ə ə eax -l  ə
+ebx -in hasilini hesablasın.
+H lliə . Müvafiq proqram kodu aşağıdakı kimi olar:
+        .text
+        .globl _start
+        
+        _start:
+        # eax -e 10, ebx -e 5 qiymeti yazaq
+        movl $10, %eax
+        movl $5,  %ebx
+        # eax -le ebx -in hasilini hesablayaq
+        # cavab ebx -e yerleshir
+15
+        imul %eax, %ebx
+        #cavabi (ebx) ecx -e köcurek
+        movl %ebx, %ecx
+        movl $1, %eax
+        int  $0x80
+ Div instruksiyası 
+Div - bölm  instruksiyasıdır. Qeyd edim ki, div instruksiyası toplama, çıxma v  vurma ə ə
+instruksiyalarından bir q d r mür kk bdir. Buna gör  ə ə ə ə ə div instruksiyasından istifad  etm nin ə ə
+sad  varintını t qdim ed c m. Sad  halda ə ə ə ə ə div instruksiyasından istifad  etm k üçün vv lc  ə ə ə ə ə
+bölün ni ə eax -  yerl şdiririk, ə ə edx -  is  0 qiym ti yazırıq. Daha sonra böl ni h r-hansı başqa ə ə ə ə ə
+reqistr  yerl şdiririk. Bundan sonra bölm ni yerin  yetirm k üçün ə ə ə ə ə div böl n_reqistrə  
+instruksiyasını icra ed  bil rik. N tic d  qism t ə ə ə ə ə ə %eax, qalıq is  ə %edx reqistrl rin  yerl şdirilir. ə ə ə
+Çalışma 9. 20 -ni 4  böl n proqram kodu t rtib edin.ə ə ə
+H lliə . Burada bölm k ist diyimiz d d 20(bölün n), böldüyümüz d d is  (böl n) 4-dür. ə ə ə ə ə ə ə ə ə
+Bunun üçün vv lc  edx -  0 qiym ti yazaq. Bölün ni eax, böl ni is  h r-hansı (eax v  edx ə ə ə ə ə ə ə ə ə ə
+-d n f rqli) reqistr , misal üçün ecx reqistrin  köçür k.ə ə ə ə ə
+   movl $0,  $edx
+   movl $20, $eax
+   movl $4, %ecx
+İndi bölm ni yerin  yetir  bil rik. Bunun üçün ə ə ə ə div %ecx instruksiyasını icra etm liyik (çünki ə
+böl ni ecx reqistrin  yerl şdirmişik ).ə ə ə
+  div %ecx
+N tic d  qism t (5) ə ə ə ə eax -d , qalıq is  (0) ə ə edx -d  olacaq. Yekun proqram kodu aşağıdakı kimi ə
+olar:
+        .text
+        .globl _start
+        
+        _start:
+        movl $0,  %edx
+        movl $20, %eax
+        movl $4, %ecx
+        div %ecx
+        dayan:
+        movl $1, %eax
+16
+        int  $0x80
+ İnc instruksiyası
+inc instruksiyası operandının qiym tini 1 vahid artırır. incb, incw v  incl formaları mövcuddur, ə ə
+hansı ki, uyğun olaraq 1,2 v  4 baytlıq operandlarla işl m k üçün istifad  olunur. Sintaksis ə ə ə ə
+aşağıdakı kimidir:
+   inc(b/w/l) operand
+Misal üçün g r eax reqistrinin qiym tini 1 vahid artırmaq ist s k onda ə ə ə ə ə
+  incl %eax 
+yazmalıyıq. eax reqistrinin ölçüsü 4 bayt olduğundan incl formasından istifad  etdik.ə
+Başqa misallara baxaq:
+  incb %bh
+bh reqistrinin qiym tini 1 vahid artırır(ə ebx -in ilk 8 biti).
+Dec instruksiyası
+dec instruksiyası operandının qiym tini 1 vahid azaldır. ə decb, decw v  ə decl formaları 
+mövcuddur, hansı ki, uyğun olaraq 1,2 v  4 baytlıq operandlarla işl m k üçün istifad  olunur. ə ə ə ə
+Sintaksis aşağıdakı kimidir:
+   decc(b/w/l) operand
+Misal üçün g r ecx reqistrinin qiym tini 1 vahid azaltmaq ist s k onda ə ə ə ə ə
+  decl %ecx
+yazmalıyıq. ecx reqistrinin ölçüsü 4 bayt olduğundan decl formasından istifad  etdik.ə
+Başqa misallara baxaq:
+  decw %dx
+dx reqistrinin qiym tini 1 vahid azaldır(edx -in ilk 16 biti).ə
+Çalışma 10. Aşağıdakı kod icra olunduqda ecx reqistrinin qiym ti neç  olar?ə ə
+      movl $6, %ecx
+17
+      incl %ecx
+      incl %ecx
+      incl %ecx
+      incl %ecx
+H lli.ə  vv lc  Ə ə ə %ecx -  6 qiym ti yazılır, sonra ardıcıl olaraq 4 d f  ə ə ə ə ecx -in qiym ti 1 vahid ə
+artırılır. N tic d  ə ə ə ecx -in qiym ti 10 -a b rab r olacaq.ə ə ə
+Jmp - keçid instruksiyası 
+Assembler proqramı _start nişanından başlayaraq  “yuxarıdan – aşağı”  icra olunur.  B z n is  ə ə ə
+proqramın icrasını növb ti instruksiyadan yox,  “ə başqa yerd n”ə   davam etdirm k t l b olunur.  ə ə ə
+Bu zaman jmp – keçid instruksiyasından istifad  olunur.   ə
+ jmp instruksiyasının sintaksisi aşağıdakı kimidir: 
+    jmp nişan
+Bu zaman icraolunma artıq “növb ti” ə  instruksiyadan yox, jmp -instruksiyasında göst ril n  ə ə
+“nişan” -dan davam ed c k. ə ə
+Çalışma 11. Aşağıdakı kod icra olunduqda %ebx reqistrinin qiym ti neç  olar?ə ə
+           movl $10, %ebx
+           incl %ebx
+           incl %ebx
+           jmp a
+           incl %ebx
+           incl %ebx
+          a:
+           decl %ebx
+H lliə . vv lc  Ə ə ə ebx -  10 qiym ti yazılır. Daha sonra ardıcı olaraq 2 d f  ə ə ə ə ebx -in qiym ti 1 ə
+vahid artırılır. N tic d  ə ə ə ebx -in qiym ti 12 -y  b rab r olur. Daha sonra ə ə ə ə jmp a instruksiaysı icra 
+olunur v  ə a nişanına keçid baş verir, jmp instruksiyası il  ə a nişanı arasında qalan instruksiyalar 
+icra olunmur. a nişanında is   ə decl %ebx  instruksiyası icra olunur v  ə %ebx -in qiym ti 1 vahid ə
+azalır, cavab 11.
+Çalışma 12. Aşağıdakı kod icra olunduqda %edx reqistrinin qiym ti neç  olar?ə ə
+          movl $5, $edx
+          decl %edx
+          jmp a
+          decl %edx
+          decl %edx
+      a:
+18
+          jmp b
+          movl $7, %edx
+          incl %edx
+      b:
+          movl $0, edx
+H lli.ə  vv lc  Ə ə ə edx -  5 qiym ti yazılır. Daha sonra onun qiym ti 1 vahid azaldılır v  ə ə ə ə a 
+nişanına keçid baş verir. a nişanında is  ə b nişanına keçid instruksiyası yerl şdiyind n ə ə b -y  ə
+keçid baş verir. b nişanına edx -  0 qiym ti yazılır. Cavab 0.ə ə
+ Cmp - müqais  instruksiyası ə
+Yuxarıda biz proqramın icra istiqam tini d yişm k üçün jmp – keçid instruksiyası il  tanış ə ə ə ə
+olduq. Bu zaman jmp instruksiyası sad c  istiqam ti bir yerd n başqa yer  yön ldirdi. B z nə ə ə ə ə ə ə ə  
+is  el  hallar ola bil r ki, bir yerd n başqa yer  keçid etm k h r-hansı ş rtd n asılı olaraq ə ə ə ə ə ə ə ə ə
+yerin  yetirilsin.  Bu zaman müqais  v  keçid instruksiyalarından birg  istifad  olunur, ə ə ə ə ə
+aşağıdakı kimi:
+    müqais   qiym t1, qiym t2ə ə ə
+    ş rti_keçid  nişanə
+Bu zaman müqais  instruksiyasına parametr kimi ötürül n qiym t1 il  qiym t2 -nin ə ə ə ə ə
+müqais sind n asılı olaraq ş rti_keçid instruksiyasında göst ril n nişana keçid yerin  yetirilir.ə ə ə ə ə ə  
+Müqais  instruksiyası cmp kimi işar  olunur. Misal üçün tutaq ki, %eax reqistri il  %ebx ə ə ə
+reqistrl rinin qiym tl rini müqais  etm k ist s k yazarıq:ə ə ə ə ə ə ə
+    cmp %eax, %ebx
+v  ya %ecx reqistrinin qiym tini 4 il  müqais  etm k ist s k yazmalıyıq:ə ə ə ə ə ə ə
+    cmp %ecx, $4
+Bir daha yada salaq ki, assemblerd  d dl rin adları vv lin  dollar - $ işar si artırılır.ə ə ə ə ə ə ə ə
+Qeyd ed k ki, cmp instruksiyası sad c  ona ötürül n parametrl rin qiym tl rini müqais  edir ə ə ə ə ə ə ə ə
+ v  n tic  flags reqistrind  qeyd  alınır.  Müqais nin n tic sind n asılı olaraq bu v  ya dig r ə ə ə ə ə ə ə ə ə ə ə
+m liyyatı icra etm k üçün ə ə ə cmp instruksiyasından d rhal sonra ş rti keçid instruksiyalarındanə ə  
+istifad  etm liyik. ə ə
+Ş rti keçid instruksiyaları aşağıdakılardır: ə
+jg, jge, jl, jle, je, jne.
+(jump great, jump great equal, jump less, jump less equal, jump equal, jump not equal) 
+19
+Bu keçid instruksiyaları cmp instruksiyasının n tic l rini uyğun olaraq aşağıdakı kimi n z r  ə ə ə ə ə ə
+alır: keç g r ikinci arqument birincid n böyükdürs , böyük b rab rdirs , kiçikdirs , kiçik ə ə ə ə ə ə ə ə
+b rab rdirs , b rab rdirs , f rqlidirs . ə ə ə ə ə ə ə ə
+Çalışma 13.  Aşağıdakı proqram icra olunduqda a nişanında  %edx reqistrinin qiym ti neç  ə ə
+olar? 
+  .text
+  .globl _start
+ 
+ _start:
+   movl $10, %edx
+   movl $5, %eax
+   cmp  $12, %eax
+   jg  a
+   incl %edx
+a:
+   movl $1, %eax
+   int  $0x80
+H lli. vv lc  %eax reqistrin  5 qiym ti yazılır v  12 il  müqais  olunur. Cmp -in ikinci ə Ə ə ə ə ə ə ə ə
+arqumenti birincid n böyük olmadığına gör  v  cmp -d n sonra jg (keç g r ikinci birincid n ə ə ə ə ə ə ə
+böyükdür) instruksiyası icra olunduğuna gör  t l b olunan ş rt öd nmir v  dem li jg -da ə ə ə ə ə ə ə
+göst ril n nişana keçid baş vermir. Proqram jg -dan sonra g l n instruksiyadan davam edir.  ə ə ə ə
+Burada is  %edx -in qiym ti 1 vahid artırılır. Cavab 11.ə ə
+Çalışma 14.  Aşağıdakı proqram icra olunduqda a nişanında  %edx reqistrinin qiym ti neç  ə ə
+olar? 
+  .text
+  .globl _start
+ 
+ _start:
+   movl $10, %edx
+   movl $25, %eax
+   cmp  $12, %eax
+   jg  a
+   incl %edx
+a:
+   movl $1, %eax
+   int  $0x80
+20
+   
+H lli. ə Baxdığımız bu halda is  ə %eax reqistrinin qiym ti 25 olduğundan v  25 12 -d n böyük ə ə ə
+olduğuna gör  a nişanına keçid baş verir. Cavab 10.ə
+Çalışma 13. eax v  ə ebx reqistrl rinin qiym tl rini müqais  et. g r ebx -in qiym ti ə ə ə ə Ə ə ə eax -d n ə
+böyükdürs  ə ecx -  5 qiym ti yaz, ks halda ə ə ə ecx -  0 qiym ti yaz. ə ə
+H lliə . eax v  ə ebx reqistrl rinin qiym tl rini müqais  etm k üçün ə ə ə ə ə cmp %eax, %ebx 
+instruksiyasını icra etm liyik. g r ə Ə ə ebx eax -d n böyükdürs  onda ə ə ecx -  5 qiym ti ə ə
+yazmalıyıq, ks halda 0. Bunun üçün aşağıdakı koddan istifad  ed  bil rik.ə ə ə ə
+   cmp %eax, %ebx
+   jg  a
+   movl $0, %ecx
+   jmp b
+a:
+   movl $5, %ecx
+b:
+İzahı. Bu kod parçasında t l b olunan m s l nin h lli üçün biz müqais  (ə ə ə ə ə ə ə cmp), ş rti ə
+keçid(jg), ş rtsiz keçid (ə jmp) v  iki nişandan (ə a, b) istifad  etdik. Proses aşağıdakı kimi baş ə
+verir:
+vv lcƏ ə ə cmp instruksiyası eax -lə ebx -in qiym tini müqais  edir. D rhal sonra ə ə ə jg a 
+instruksiyası g lir. g r ə Ə ə ebx eax -d n böyükdürs  ondaə ə  jg instruksiyası a nişanına keçid edir 
+v  icraolunma ə a nişanından davam edir. jg -il  ə a nişanı arasında qalan instruksiyalar (movl $0, 
+%ecx; jmp b) icra olunmur. Keçid instruksiyalarının mahiyy ti budur. ə
+a nişanında yerl ş n instruksiya icra olunduqda ə ə ecx reqistrin  5 qiym ti yazılır v  bel likl  ə ə ə ə ə
+m s l nin birinci ş rti t min olunur. ə ə ə ə ə
+ks halda, y ni Ə ə ebx eax -d n böyük olmazsa ondaə  jg instruksiyası a nişanına keçid etmir və jg 
+-dan sonra g l n instruksiyalar icra olunur. Bu zaman vv lcə ə ə ə ə ecx -  0 yazılır v  ə ə b nişanına 
+keçid edilir(jmp b). Burada lav  ə ə b nişanı t yin etm yin və ə ə ecx -  0 yazdıqdan sonra ə jmp il  ə
+h min nişana keçm kd  m qs d ə ə ə ə ə a nişanında olan instruksiyanı icra etm m kdir.ə ə
+g r Ə ə ecx -  0 yazdıqdan sonra jmp il  ə ə b nişanına keçm s k onda ə ə a nişanında yerl ş n ə ə
+instruksiya icra olunar v  ə ecx -  5 qiym ti yazılar. Bel likl  ə ə ə ə ebx -l  ə eax -in müqais ninin ə
+n tic sind n asılı olmayaraq ə ə ə ecx -  h miş  5 qiym ti yazılar. İstifad  etdiyimiz bu yanaşma ə ə ə ə ə
+is  t l b olunan ş rtl rin öd nm sini t min edir.ə ə ə ə ə ə ə ə
+Proqram kodun tam başa düş n  q d r t krar-t krar yazıb t dqiq etm yiniz m sl h tdir.ə ə ə ə ə ə ə ə ə ə ə
+Çalışma 14. İki d din böyüyünü tapan proqram t rtib edin. ə ə ə
+21
+H lliə . Bunun üçün vv lc  müqais  etm k ist diyimiz qiym tl ri misal üçün ə ə ə ə ə ə ə ə 12 v  ə 45 
+d dl rinin uyğun olaraq ə ə ə %eax v  ə %ebx reqistrl rin  köçür k. Müqais nin n tic sini is  ə ə ə ə ə ə ə %ecx-
+ köçür rik. ə ə cmp instruksiyası il  ə %eax -l  ə %ebx -in qiym tl rini müqais  edib ə ə ə jg instruksiyası 
+il  ikincinin birincid n böyük olma halın yoxlayacağıq. Daha traflı m lumat aşağıda, ə ə ə ə
+proqramın izahında verilir. Proqram kodu aşağıdakı kimi olar:
+        # 2 ededin boyuyunu tapan proqram
+        .data
+        .text
+        .globl _start
+        .type _start, @function
+        _start:
+        movl $12, %eax
+        movl $45, %ebx
+        # cmp ile ededleri muqaise edek
+        cmp %eax, %ebx
+        # müqaisənin nəticəsini yoxlamaq üçün
+        # şərti keçid instruksiyalarından istifadə etməliyik
+        # ikinci ededin birinciden boyukluyunu yoxlamaq ucun
+        # jg instruksiyasindan istifade edek
+        jg a
+        # eger ikinci eded birinciden boyukdurse
+        # onda keç a: nişanına ve z -e ebx -i yaz
+        # eks halda yeni eax ebx -den boyukdurse (ve ya ber.)
+        # onda eax -i kocur z -te ve son -a kec
+        movl %eax, %ecx
+        jmp son
+a:
+        movl %ebx, %ecx
+son:
+        movl $1, %eax
+        int $0x80
+Proqramın izahı: 
+vv lc  Ə ə ə eax v  ə ebx reqistrl rin  müqais  etm k ist diyimiz d dl ri köçürdük. Daha sonra ə ə ə ə ə ə ə ə
+cmp vast sil  bu qiym tl ri müqais  etdik. g r ə ə ə ə ə Ə ə ebx eax -d n böyük olarsa bu zaman ə jg 
+instruksiyası a nişanına keç c k v  burada ə ə ə ecx -  ə ebx -i yazacaq, ks halda (ə eax >= ebx) 
+olarsa jg keçid etmir v  proqramın icrası növb ti instruksiyadan davam edir. Burada ə ə eax -in 
+qiym ti ə ecx -  yazılır v  ə ə son -a keçid edilir. Proqram sona çatır. 
+22
+D yiş nl rə ə ə  
+D yiş nl r proqramın ə ə ə .data hiss sind  elan olunur. D yiş nl rd n h r - hansı m lumat ə ə ə ə ə ə ə ə
+saxlamaq üçün istifad  olunur. Assembler dilind  d yiş n elan elan etm k üçün aşağıdakı ə ə ə ə ə
+sintaksisd n istifad  olunur. ə ə
+nişan:
+.tip 
+nişan d yiş nin adını bildirir. ə ə tip is  d yiş nin yaddaşda neç  bayt yer tutduğunu göst rir. ə ə ə ə ə
+Qeyd edim ki, assembler dilind  yüks k s viyy li dill rd  olduğu kimi tam tipi, h qiqi tipi, v.s. ə ə ə ə ə ə ə
+tipl r xarakteristik deyil. Tip dey rk n sas n yaddaşda tutulan yerin ölçüsü başa düşülür. nə ə ə ə ə Ə  
+geniş istifad  olunan tipl r aşağıdakılardır: ə ə byte, int, long və ascii. byte v  ə ascii tipl r bir bayt, ə
+int v  ə long is  uyğun olaraq 2 v  4 bayt q d r yer tutur. ə ə ə ə ascii tipind n Simvol tipli m lumatları ə ə
+yerl şdirm k üçün istifad  olunur. ə ə ə
+Misal üçün long tipli x v  ə y adlı iki d yiş n elan etm k ist s k, aşağıdakı kimi yazmalıyıq ə ə ə ə ə
+x:
+.long
+y:
+.long
+Bu zaman yaddaşda x v  ə y adlı h r biri 4 bayt yer tutan iki d yiş n elan etmiş oluruq. ə ə ə
+g r elan zamanı d yiş nl r  ilkin qiym t m nims tm k ist s k onda bu qiym ti tipd n Ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+sonra qeyd etm liyik, aşağıdakı kimi ə
+nişan:
+.tip ilkin_qiymət 
+Misal üçün int tipli z d yiş ni elan ed k v  ona ilkin ə ə ə ə 34 qiym ti m nims d k:ə ə ə ə
+z:
+.int 34
+Bu zaman artıq z d yiş nin ilkin qiym ti 34 olar. ə ə ə
+Başqa bir misala baxaq. ascii tipli c d yiş ni elan ed k v  ona ilkin olaraq ə ə ə ə "A" qiym ti ə
+m nims d k:ə ə ə
+c:
+.ascii "A"
+Çalışma 1.  long tipli x d yiş ni elan edin. ə ə x d yiş nin  ilkin olaraq ə ə ə 45 qiym ti m nims din. ə ə ə  x 
+d yiş ninin qiym tini ə ə ə %ebx reqistrin  köçürün.ə
+23
+H lli. Proqram kodu aşağıdakı kimi olar:ə
+   .data
+ x:
+ .long 45
+   .text
+ .globl _start
+ _start:
+    movl x, %ebx
+    movl $1, %eax
+    int  $0x80
+Çalışma 1. D yiş nl rd n istifad  etm kl  iki d din c mini hesablayan proqram t rtib edin.ə ə ə ə ə ə ə ə ə ə ə
+H lli.ə  vv lki paraqrafda biz reqistrl rd n istifad  etm kl  2 d din c mini hesablayan Ə ə ə ə ə ə ə ə ə ə
+proqram t rtib etmişdik. Bu çalışmada biz vv lc  proqramın ə ə ə ə .data hiss sind  ə ə .long tipind n ə
+olan x, y v  adlı ə z d yiş n elan ed c yik v  onlaraq uyğun olaraq 10, 24 v  0 qiym tl ri ə ə ə ə ə ə ə ə
+m nims d c yik. Daha sonra ə ə ə ə x v  ə y-in qiym tl rini toplamaq üçün vv lc  d yiş nl rd n ə ə ə ə ə ə ə ə ə
+reqistrl r  köçür c yik (ə ə ə ə mov), daha sonra onları toplayıb yekun qiym ti reqistrd n ə ə z 
+d yiş nin  köçür c yik. Proqram kodu aşağıdakı kimi olar:ə ə ə ə ə
+# assembler dilinde 2 ededin cemini
+# hesablayan proqram
+.data
+x:
+.long 10
+y:
+.long 24
+z:
+.long 0
+.text
+.globl _start
+.type _start,@function
+_start:
+# x ve y -in qiymetlerini reqistrlere kocurek
+movl x, %eax
+movl y, %ebx
+24
+# qiymetleri cemleyek
+addl %eax, %ebx
+# neticeni z -te kocurek
+movl %ebx, z
+son:
+movl $1, %eax
+int $0x80
+Proqramın n tic sini yoxlamaq üçün ə ə son nişanında icranı dayandırmalı v  ə print z mri ilə ə z -in 
+qiym tini öyr nm k olar, aşağıdakı kimi:ə ə ə
+(gdb) print z
+$1 = 34
+(gdb) 
+Çalışma 2. D yiş nl rd n istifad  etm kl  iki d din n böyüyünü hesablayan proqram ə ə ə ə ə ə ə ə ə ə
+t rtib edin.ə
+H lli. Biz reqistrl rd n istifad  etm kl  bu proqramı t rtib etmişdik. İndi is  d yiş nl rd n ə ə ə ə ə ə ə ə ə ə ə ə
+istifad  etm kl  eyni proqramı t rtib ed c yik. Müvafiq kod aşağıdakı kimi oalr:ə ə ə ə ə ə
+   .data
+ x:
+ .long 74
+ y:
+ .long 156
+ max:
+ .long 0
+   .text
+   .globl _start
+ _start:
+    # evvelce deyishenlerin qiymetlerini
+    # reqistrlere kocerek
+    movl x, %eax
+    movl y, %ebx
+    # en boyuk qiymeti tapaq
+    cmp %eax, %ebx
+    jg  a
+    movl %eax, max
+    jmp b
+25
+  a:
+    movl %ebx, max
+  b:
+    movl $1, %eax
+    int  $0x80
+Proqramı test etm k üçün kompilyasiya edib, gdb il  yükl yirik v  b nişanında dayanma t yin ə ə ə ə ə
+edirik(break b) v  proqramı icra edirik(run). Proqram b nişanında icrasını dayandırdıqda print ə
+max mri il  max d yiş ninin qiym tini yoxlayırıq, aşağıdakı nümun d ki kimi:ə ə ə ə ə ə ə
+[linux]$ 
+[linux]$ as tmp.s -g -o tmp.o
+[linux]$ ld tmp.o -g -o tmp
+[linux $ gdb tmp
+GNU gdb (GDB) Fedora (7.2.90.20110429-36.fc15)
+Reading symbols ... done.
+(gdb) break b
+Breakpoint 1 at 0x4000d2: file tmp.s, line 34.
+(gdb) run
+Starting program:   
+Breakpoint 1, b () at tmp.s:34
+34          movl $1, %eax
+(gdb) print max
+$1 = 156
+(gdb) c
+Continuing.
+[Inferior 1 (process 28447) exited with code 0234]
+(gdb) quit
+[linux]$ 
+x v   y d yiş nl rin  h r d f  müxt lif qiym tl r verm kl  proqramın n tic sini test etm k ə ə ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+olar.
+İndi is  bir q d r mür kk b nümun  il  tanış olaq.ə ə ə ə ə ə ə
+Çalışma 3. D yiş nl rd n istifad  etm kl  3 d din n böyüyünü hesablayan proqram t rtib ə ə ə ə ə ə ə ə ə ə ə
+edin.
+H lli. Proqram kodu aşağıdakı kimi olar:ə
+ .data
+ x:
+ .long 789
+ y:
+ .long 1291
+26
+ z:
+ .long 455
+ max:
+ .long 0
+   .text
+   .globl _start
+ _start:
+    # evvelce deyishenlerin qiymetlerini
+    # reqistrlere kocerek
+    movl x, %eax
+    movl y, %ebx
+    movl z, %ecx
+    # en boyuk qiymeti tapaq
+    cmp %eax, %ebx
+    jg  a   # %ebx boyukdurse onu %ecx -le yoxla
+    # eks hal, %eax -i %ecx -le muqaise et
+    cmp %eax, %ecx
+    jg c   # eger %ecx %eax -den boyukdurse onda o en bpyukdur 
+           # onu max -a kocurt, eks halda %eax en boyukdur onu 
+           # max -a kocurt
+    movl %eax, max
+    jmp son
+  a:
+    cmp %ecx, %ebx
+    jg b  # eger %ebx %ecx-den de boyukdurse demek o en boyukdur
+    # %ebx en boyukdur, onu max -a kocurt
+  b:
+    movl %ebx, max
+    # ecx en boyukdur, onu max -a kocurt
+    jmp son
+  c: 
+    movl %ecx, max  
+  son:
+    movl $1, %eax
+    int  $0x80  
+Proqramı test etm k üçün ə son nişanında dayanma t yin edib max d yiş ninin qiym tini ə ə ə ə
+yoxlaya bil rik.  ə x, y v  ə z d yiş nl rin  h r d f  f rqli qiym tl r verm kl  proqrmın n tic sini ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+yoxlaya bil rik. Nümun  n tic  aşağıdakı kimi olar:ə ə ə ə
+[linux]$ 
+[linux]$ as tmp.s -g -o tmp.o
+[linux]$ ld tmp.o -g -o tmp
+[linux]$ gdb tmp
+27
+GNU gdb (GDB) Fedora (7.2.90.20110429-36.fc15)
+ 
+Reading symbols from  ...done.
+(gdb) break son
+Breakpoint 1 at 0x4000ea: file tmp.s, line 52.
+(gdb) run
+Starting program:   
+Breakpoint 1, son () at tmp.s:52
+52          movl $1, %eax
+(gdb) print max
+$1 = 1291
+(gdb) c
+Continuing.
+[Inferior 1 (process 28725) exited with code 013]
+(gdb) quit
+[linux]$ 
+Suallar:
+1. Proqramın hiss l rind n b zil rinin adını sadalayın.ə ə ə ə ə
+2. Proqramın instruksiyaları yerl ş n hiss si nec  adlanır?ə ə ə ə
+2. Proqramın m lumatları yerl ş n hiss si nec  adlanır?ə ə ə ə ə
+2. Direktivl r n  üçün istifad  olunur?ə ə ə
+2. Hansı ifad l r nişan adlanır?ə ə
+2. Nişanlar n  üçün istifad  olunur?ə ə
+2. Aşağıdakı kodda hansı nişanlar t yin olunub?ə
+   s:
+     movl %eax, %ecx
+   d: 
+     jmp s
+   f:
+     ret
+  mx:
+28
+  ff:
+     int $126
+10. Prosessorun t şkil olunduğu hiss l rd n b zil rinin adlarını sadalayın?ə ə ə ə ə ə
+12. Reqistrl r prosessorun daxilind  yerl şir, yoxsa yaddaşda ?ə ə ə
+11. Reqistrl r n  üçün istifad  olunur?ə ə ə
+ 10. x86 arxitekturalı prosessorların hansı reqistrl rini tanıyırsınız?ə
+%rax reqistri -nin ölçüsü neç  bitdir?ə
+ %rax reqistrinin ilk 32 biti nec  adlanır ? (Cavab %eax).ə
+%eax reqistrinin ilk 16 biti nec  adlanır?ə
+%ax reqistrinin ilk v  son 8 biti nec  adlanır?ə ə
+Aşağıdakı reqistrl rin ölçül ri neç  baytdır?ə ə ə
+ %rbx, %eax, %cx, %dh, %al.
+3. Assembler dilind  m lumat köçürm k üçün hansı instruksiyadan istiad  olunur?ə ə ə ə
+4 baytlıq m lumat köçürm k üçün mov instruksiyasının hansı forması istifad  olunur?ə ə ə
+2 baytlıq m lumat köçürm  zamanı mov instruksiyasının hansı forması istifad  olunur?ə ə ə
+6. %eax reqistrind  olan m lumatı ə ə %ebx reqistrin  köçür n instruksiya t rtib edin.ə ə ə
+7. %ecx reqistrinin qiym tini 1 vahid atıran instruksiya t tib edin.ə ə
+8. %edx v  ə %ecx reqistrl rinin qiym tl rini c ml y n instruksiya t rtib edin.ə ə ə ə ə ə ə
+29
+9. Aşağıdakı proqram icra olunduqda a nişanında %ecx reqistrinin qiym ti neç  olar?ə ə
+        .data
+        .text
+        .globl _start
+        
+        _start:
+        movl $2, %eax
+        movl $5, %ebx
+        add  %eax, %ebx
+        movl %ebx, %ecx
+a:
+        movl $1, %eax
+        int  $0x80
+10. Assembler prqramlarını t hlil etm k üçün hansı proqramdan istifad  olunur?ə ə ə
+11. break mri n  m qs d üçün istifad  olunur?ə ə ə ə ə
+13. H r-hansı nişanda proqramın icrasını dayandırmaq üçün n  etm k lazımdır?ə ə ə
+14. %ecx reqistrinin qim tini örg nm k üçün hansı gdb mrind n istifad  olunur.ə ə ə ə ə ə
+Proqramın icrasını davam etm k üçün hansı mrd n istifad  olunur?ə ə ə ə
+15. 9-cu çalışmada daxil olunmuş proqramın a nişanında icrasını dayandırın v  %ecx ə
+reqistrinin qim tini t yin edin.ə ə
+16. Aşağıdakı proqram icra olunduqda b nişanında %edx reqistrinin qiym ti neç  olar. Cavabıə ə  
+izah edin, proqramı test edin.
+        .text
+        .globl _start
+        
+        _start:
+        movl $0, %ecx
+        movl $0, %edx
+30
+        movl $5, %ebx
+a:
+        cmp %ebx, %ecx
+        jg  b
+        addl $4, %edx
+        incl %ecx
+b:
+        movl $1, %eax
+        int  $0x80
+17. Aşağıdakı proqram icra olunduqda b nişanında %edx reqistrinin qiym ti neç  olar. Cavabıə ə  
+izah edin, proqramı test edin.
+        .text
+        .globl _start
+        
+        _start:
+        movl $0, %ecx
+        movl $0, %edx
+        movl $5, %ebx
+a:
+        cmp %ebx, %ecx
+        jg  b
+        addl $4, %edx
+        incl %ecx
+        jmp a
+b:
+        movl $1, %eax
+        int  $0x80
+1. Proqramda d yiş nin qiym tin örg nm k üçün hansı mrd n istifad  olunur?ə ə ə ə ə ə ə ə
+Çalışmalar.
+1. %ebx reiqstrin  3 qiym ti yazan proqram t rtib edin. Gdb il  proqramı yükl yib, %ebx -in ə ə ə ə ə
+qiym tini test edin.ə
+2. Yalnız reqistrl rd n istiad  etm kl  23, 45, 12 d dl rini c ml m k üçün proqram t rtib ə ə ə ə ə ə ə ə ə ə ə ə
+edin.
+31
+3. Yalnız reqistrl rd n istiad  etm kl  45 il  123 d dl rinin böyüyünü tapan proqram t rtib ə ə ə ə ə ə ə ə ə ə
+edin.
+4. D yiş nl rd n v  reqistrl rd n istiad  etm kl  4 v  67 d dl rinin c mini hesablayan ə ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+proqram t rtib edin.ə
+5. D yiş nl rd n v  reqistrl rd n istiad  etm kl  34 v  12 d dl rinin böyüyünü tapan ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+proqram t rtib edin.ə
+6. D yiş nl rd n v  reqistrl rd n istiad  etm kl  56 , 67 v  89 d dl rinin böyüyünü tapan ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+proqram t rtib edin.ə
+7. D yiş nl rd n v  reqistrl rd n istiad  etm kl  55, 32, 11 v  45 d dl rinin böyüyünü ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+tapan proqram t rtib edin.ə
+8. 5 il  9 d dl rinin hasilini hesablayan proqram t rtib edin.ə ə ə ə ə
+9. 56 -ın 33 -  bölünm sind n alınan qalığı hesablayan proqram t rtib edin.ə ə ə ə
+10. 456 -ın 23 -  bölünm sind n alınan tam hiss ni hesablayan proqram t rtib edin.ə ə ə ə ə
+32
+2
+Yaddaş
+Bu başlıqda assemblerin n mür kk b v  vacib mövzularından biri olan yaddaş il  ə ə ə ə ə
+tanış olacayıq. Prosessorun yaddaşda yerl ş n m lumatı ld  etm  yollarını örg n c yik. ə ə ə ə ə ə ə ə ə
+Bu başlıqda örg n c yimiz bilikl r stekin v  funksiyaların, el c  d  c rg l rin örg nilm si ə ə ə ə ə ə ə ə ə ə ə ə ə
+zamanı biz  lazım olacaq. Bundan lav  yaddaşın strukturunu, prosessorun yaddaşa ə ə ə
+müraci t qaydalarını mük mm l bilm k m liyyatlar sitemi v  proqram q zalarını t hlil ə ə ə ə ə ə ə ə ə
+etm k üçün mütl q vacibdir. ə ə
+Yaddaşın strukturu
+Kompüterin yaddaşını ardıcıl düzülmüş v  0 -dan başlayaraq nömr l nmiş kiçik yaddaş ə ə ə
+yuvaları ş klind  t s vvür etm k olar. ə ə ə ə ə
+33
+Sonuncu yaddaş yuvasının indeks nömr si(k) yaddaşın h cmi il  mü yy n olunur. H r-bir ə ə ə ə ə ə
+yaddaş yuvasının ölçüsü 1 baytdır v  bu yaddaş yuvalarında yalnız v  yalnız 0-dan 255 -  ə ə ə
+kimi tam d dl r yerl şdirm k olar.ə ə ə ə ə
+H r-bir bayt öz növb sind  8 bitd n ibar tdir. ə ə ə ə ə
+34
+Bu  bitl rin h r birind  0 v  ya 1 qiym ti yerl şdiril  bil r, aşağıdakı kimi:ə ə ə ə ə ə ə ə
+Bu bitl r ardıcıllığının h r-biri 0-dan 255 -  kimi (h r ikisi daxil olmaqla) h r-hansı d d  ə ə ə ə ə ə ə ə
+uyğun g lir. Bu bar d  daha traflı ə ə ə ə Say sisteml ri ə bölm sind  tanış olacayıq.ə ə
+Buradan aydın olur ki, kompüterin yaddaşında d dl rd n savayı heçn  yerl şdirm k olmaz. ə ə ə ə ə ə ə
+İst nil n tipli m lumat yaddaşda d dl r ardıcıllığı ş klind  yerl şir. Sonradan proqramlar ə ə ə ə ə ə ə ə ə
+h min d dl r ardıcıllığını istifad çiy  t l b olunan ş kild  (musiqi, ş kil, m tn v.s.) göst rir. ə ə ə ə ə ə ə ə ə ə ə ə ə
+Kompüter yaddaşında yerl ş n m lumata müraci t etm k üçün onun ünvanın bilm k t l b ə ə ə ə ə ə ə ə
+olunur.
+ 
+ Ünvan
+H r bir yaddaş yuvasının ə indeks nömr siə  onun “ünvanı” adlanır. İndeks nömr l ri 0-dan ə ə
+başlayaraq nömr l ndiyind n, yaddaşın ilk baytının ünvanı 0, növb ti baytının ünvanı 1 v.s. ə ə ə ə
+olar. Gördüyümüz kimi yaddaş ünvanları da öz növb sind  d dl r vast sil  ifad  olunur. ə ə ə ə ə ə ə ə
+H r bir m lumat v  instruksiya yaddaşda mü yy n bir ünvanda yerl şir.  D yiş nin ünavnın ə ə ə ə ə ə ə ə
+ld  etm k üçün onun adının vv lin  dollar - ə ə ə ə ə ə '$'  işar si artırmaq lazımdır. Misal üçün ə
+aşağıdakı koda baxaq:
+  .data
+35
+  x:
+   .long 10
+ Bu kodda x d yiş ni elan olunub v  onun yaddaş sah sin  ə ə ə ə ə 10 qiym ti yazılıb. g r biz ə Ə ə x 
+d yiş ninin ünvanın ld  etm k ist yiriks  ə ə ə ə ə ə ə onda yuxarıda izah edildiyi kimi d yiş nin adının ə ə
+vv lin  ə ə ə $ işar si artırmalıyıq, aşağıdakı kimi:ə
+    movl  $x, %ebx
+x -in ünvanı %ebx -  köçürülür.ə
+g r Ə ə x -in vv lind n ə ə ə $  işar sini götürs k ondaə ə  x-in qiym tin  müraci t etmiş olarıq.ə ə ə
+    movl  x, %ebx
+x -in qiym ti ə %ebx -  köçürülür.ə
+Çalışma 1. Sad  bir proqram t rtib edin v  o proqramda bir d yiş n elan edin. Daha sonra ə ə ə ə ə
+h min d yiş nin ünvanını ə ə ə mov instruksiyası il  ə %ebx reqistrin  köçürün v  ə ə gdb il  bu ünvanı ə
+çap edin.
+H lli.ə  Sad  proqram aşağıdakı kimi olar:ə
+  .data
+  x:
+   .long 10
+   .text
+   .globl _start
+  _start:
+  # x nishaninin istinad etdiyi ünvani
+  # %ebx reqistrine kocurek
+   movl $x, %ebx
+   # %ebx reqistrinin qiymetini orgene bilmek
+   # ucun son nishanindan istifade edek
+ son:
+   movl $1, %eax
+   int  $0x80
+Proqramı komilyasiya edib gdb il  yükl y k v  ə ə ə ə son nişanında proqramın icrasını dayandırıb, 
+%ebx reqistrinin qiym tini örg n k.ə ə ə
+N tic :ə ə
+36
+(gdb) info registers $ebx
+ebx            0x6000bc 6291644
+(gdb) 
+x nişanının ünvanı 6291644 v  ya ə 0x6000bc -dir. info reqisters mri reqistrin qiym tini h m ə ə ə 16-
+lıq(hex), h m d  ə ə 10 -luq(dec) say sistemind  göst rir. Say sisteml ri il  paraqraf 8-d  tanış ə ə ə ə ə
+olacayıq. Ünvanlarla işl y rk n 16-lıq formadan istifad  etm k lverişlidir. ə ə ə ə ə ə
+Yuxarıda  tanış olduğumuz m lumatlar yaddaş v  ünvan bar sind  t s vvür yaratmağımıza ə ə ə ə ə ə
+köm k olur. Bu d rsin sas m qs di is  bununla yanaşı h m d  prosessorun yaddaşa ə ə ə ə ə ə ə ə
+müraci t etm  üsulları il  tanış olmaqdır. Prosessorun yaddaşa müraci t qaydasını yaxşı ə ə ə ə
+m nims m k assemblerin növb ti bölm l rini başa düşm k üçün vacibdir.ə ə ə ə ə ə ə
+ Prosessorun yaddaşa müraci t üsuluə
+Prosessor yaddaşdakı m lumatı ld  etm k üçün onun ünvanın bilm lidir.  Ünvanı ə ə ə ə ə
+göst rm k üçün prosessorun t qdim el diyi müxt lif imkanlardan istifad  ed  bil rik.  G lin ə ə ə ə ə ə ə ə ə
+bu qaydalarla tanış olaq, sad d n mür kk b  doğru prinsipin  m l ed r k.ə ə ə ə ə ə ə ə ə ə
+1) Üsul 1.  Y qin ki, m lumatın prosessora ötürm nin n sad  üsulu m lumatın birbaşa ə ə ə ə ə ə
+instruksiyaya yerl şdirilm si üsuludur. Bu üsul il  biz artıq tanışıq, aşağıdakı kimi:ə ə ə
+   movl $45, %ebx
+ Yuxarıdakı kodda 45 qiym ti %ebx reqistrin  köçürülür. Bu zaman 45 qiym ti birbaşa  ə ə ə   
+ movl $45, %ebx    instruksiyasına yerl şdirilir, prosessor onu yaddaşın hansısa ünvanından ə
+ld  etmir.  Bir şey  diqq t yetir k ki, baxdığımız üsulda d din vv lin  dollar - $ işar si ə ə ə ə ə ə ə ə ə ə ə
+artırılıb.  Növb ti üsullarla tanış olaq.ə
+2) Üsul 2.  Asandan mür kk b  getm  qaydasını n z r  alsaq y qin ki, m lumatı ld  ə ə ə ə ə ə ə ə ə ə ə
+eym nin ikinci üsulu nişandan istifad  etm kdir. Misal üçün tutaq ki, yaddaşda ə ə ə long tipli y 
+d yiş ni elan etmişik v  ona ə ə ə 3 qiym ti m nims tmişik.  ə ə ə
+  .data
+  y:
+   .long 3
+Bu zaman h min m lumatı ə ə %ebx d yiş nin  köçürm k ist s k yazarıq:ə ə ə ə ə ə
+   movl y, %ebx
+N tic d  ə ə ə %ebx reqistrin  ə y d yiş ninin-inə ə  “qiym ti” ə - 3 yazılmış olaq.  Bu d f  artıq ə ə
+m lumayt prosessora yaddaşdan köçürülür. D yiş nin adının vv lind  ə ə ə ə ə ə $ işar sinin ə
+olmamasına diqq t yetir k.ə ə
+37
+3) Üsul 3. M lumat ld  etm k üçün dig r sad  üsul m lumatı bir reqistrd n dig rin  ə ə ə ə ə ə ə ə ə ə
+köçürm kdir:ə
+   movl %eax, %ebx
+Bu zaman prosessorun %eax reqistrind  olan m lumat ə ə %ebx reiqstrin  köçürül r. ə ə
+4) Üsul 4.  Yuxarıdakı  üsullar il  biz vv lki d rsl rimizd  istifad  etmişdik. Növb ti tanış ə ə ə ə ə ə ə ə
+olacağımız üsulda is  m lumata müraci t etm k üçün ünvandan istifad  ed c yik. Tutaq ki, ə ə ə ə ə ə ə
+h r-hansı ə x d yiş nin ünvanı ə ə %eax reqistrin  yerl şdirilib.  Bu zaman ünvana gör  müraci t ə ə ə ə
+etm k üsulu il  aşağıdakı kimi ə ə %eax  ünvanında yerl ş n m lumata müraci t ed  bil rik.ə ə ə ə ə ə
+   movl (%eax), %ebx   
+Gördüyümüz kimi %eax reqistrini möt riz  iç risin  yerl şdirmişik. Bu  instruksiya icra olunan ə ə ə ə ə
+zaman prosessor  %eax reiqstrin  yerl şdirilmiş ünvandakı m lumatı ə ə ə %ebx -  köçür r.  Qeyd ə ə
+edim ki, g r yuxarıdakı instruksiyada möt riz l rd n istifad  etm s ydik, ondaə ə ə ə ə ə ə ə ə  %ebx -  ə
+yaddaşdan h r-hansı  m lumat  yox, sad c  ə ə ə ə %eax köçürül rdi(3-cü üsul).ə
+  Nümun y  baxaq, tutaq ki h r-hansı ə ə ə x d yiş ni elan etmişik:ə ə
+  .data
+  x:
+   .long 20
+vv lc  aşağıdakı kod il  Ə ə ə ə x d yiş ninin ünvanın ə ə %eax reqistrin  yazaq.  Artıq bildiyimiz kimi ə
+d yiş nin ünvanın ld  etm k üçün onun adının vv lin  dollar - ə ə ə ə ə ə ə ə $ işar si artırırıq.ə
+   movl $x, %eax
+Daha sonra aşağıdakı instruksiya il  ünvanı ə %eax -d  yerl ş n m lumatı ə ə ə ə %ebx -  köçür  ə ə
+bil rik.ə
+    
+   movl (%eax), %ebx
+N tic d  ə ə ə %ebx -  ə x -in qiym ti –ə  20 köçürülmüş olar. Bu nümun  m lumata müraci t etm k ə ə ə ə
+üçün yaddaşdan istifad y  nümun  üçün göst rilmişdir. Real proqramda bizə ə ə ə  x d yiş ninin ə ə
+qiym tini ə %ebx -  köçürm k üçün onun ünvanın ə ə %eax -  köçürüb, sonra ünvana gör  ə ə
+müraci t üsulundan istifad  etmirik, el  birbaşa 2-ci üsuldan istifad  ed rik, ə ə ə ə ə movl x, %ebx.
+Lakin stekl , c rg l rl  işl y rk n,  funksiyalara parametr ötür rk n v.s. hallarda  ünvana ə ə ə ə ə ə ə ə ə ə
+gör  müraci t üsulu yaddaşdakı m lumatı ld  etm k üçün yegan  mümkün yol olur. ə ə ə ə ə ə ə
+Yaddaşa müraci t üçün tanış olduğumuz bu yeni üsul aşağıda daxil ed c yimiz ümumi ə ə ə
+üsulun bir halıdır. Bu ümumi üsul aşağıdakı kimidir.
+Yaddaşda yerl ş n m lumata müraci tin ümumi qaydası aşağıdakı kimidir:ə ə ə ə
+38
+  Nişan( %sürüşmə_reqistri, %index_reiqstri, əmsal)
+Bu qaydaya sas n yekun ünvan aşağıdakı düstur il  hesablanır:ə ə ə
+ Yekun_ünvan = Nişan + %sürüşmə_reqistri + %index_reqistri * əmsal; 
+Ünvanın göst rilm  qaydasında iştirak ed n parametrl rd n ist nil n biri buraxıla bil r. Bu ə ə ə ə ə ə ə ə
+zaman yekun ünvanın hesablanma düsturunda h min parametrin qiym ti 0 götürülür. msal ə ə Ə
+yalnız 1,2,4 v  ə 8 qiym tl ri ala bil r. ə ə ə
+İndi is  unvanın hesablanma qaydasına aid çalışmalara baxaq. ə
+Tutaq ki, x nişanının ünvanı 10, %eax reqistrinin qiym ti ə 5, %ebx reqistrinin qiym tiə  3 - dür. 
+Aşağıdakı çalışmalarda yekun ünvanın hesablanmasına aid müxt lif hallar üçün çalışmalar ə
+verilib.
+ 
+Çalışma 2.  x(%eax, %ebx, 6) -ifad sinin istinad etdiyi yekun ünvanı hesablayın.ə
+H lli.ə  Yekun ünvanın hesablanma düsturuna gör  verilmiş ifad nin istinad el diyi ünvanı ə ə ə
+aşağıdakı kimi hesablaya bil rik:ə
+yekun ünvan = x + %eax + %ebx*6 = 10 + 5 + 3*6 = 33;
+Cavab 33 - nömr li bayt;ə
+Çalışma 3. x(%eax, %ebx, 10) -ifad sinin istinad el diyi ünvanı hesablayın.ə ə
+H lli.ə  Düstura sas n unvanı aşağıdakı kimi hesablaya bil rik.ə ə ə
+yekun ünvan = x + %eax + %ebx*10 = 10 + 5 + 3*10 = 45;
+Cavab 45.
+Çalışma 4. x(%eax) -ifad sinin istinad el diyi ünvanı hesablayın.ə ə
+H lli.ə  Bu d f  ə ə  %index_reiqstri v  ə msalə  buraxıldığından düsturda onların qiym ti ə 0 götürülür.
+yekun ünvan = x + %eax + 0*0 = 10 + 5 = 15
+Cavab 15.
+Çalışma 5. (%eax) -ifad sinin istinad el diyi ünvanı hesablayın (bu hal artıq biz  tanışdır 4-cü ə ə ə
+üsul).
+39
+H lli. ə Bu d f  ə ə nişan,  %index_reiqstri v  ə msalə  buraxıldığından düsturda onların qiym ti ə 0 
+götürülür.
+yekun ünvan = x + %eax + 0*0 = 0 + 10 + 0 = 10
+Cavab 10.
+Çalışma 6. x(, %ebx, 8) -ifad sinin istinad el diyi ünvanı hesablayın.ə ə
+H lli.ə   %sürüşm _reqistriə  buraxıldığından onun qiym ti ə 0 götürülür. Düstura sas n unvanı ə ə
+aşağıdakı kimi hesablaya bil rik.ə
+yekun ünvan = x + 0 + %ebx*8 = 10 + 0 + 3*8 = 34;
+Cavab 34.
+Çalışma 7.   Tutaq ki, long tipli x d yiş ni verilmişdir. ə ə
+ x:
+  .long 
+Aşağıdakı koddan sonra %ebx reqistri yaddaşın hansı ünvanına istinad ed c k? ə ə
+  movl $x, %ebx
+H lli.  ə D yiş nin adının vv linə ə ə ə ə $ işar si artıran zaman onun ünvanı qaytarılır. Buna gör  ə ə
+yuxarıdakı kod icra olunan zaman %ebx reqistrind  ə x -in ünvanı yerl ş r, başqa sözl  ə ə ə %ebx 
+reqistri yaddaşda x d yiş nin  istinad ed r. ə ə ə ə
+Çalışma 8.   Tutaq ki, long tipli x d yiş ni verilmişdir. ə ə
+ x:
+  .long 
+Aşağıdakı koddan sonra %ebx reqistri yaddaşın hansı ünvanına istinad ed c k? ə ə
+    
+  movl $x, %ebx
+  incl %ebx
+H lli.  ə İlk kod x d yiş nin ünvanını %ebx -  köçürdüyünd n %ebx x-  istinad edir. Növb ti ə ə ə ə ə ə
+kod %ebx -in qiym tini 1 vahid artırdığından o yaddaşda x-d n sonrakı bayta istinad edir.ə ə
+Yaddaşa müraci t üsullarını örg ndik, indi is  bu üsulların köm yi il  yaddaş t dqiqi ə ə ə ə ə ə
+m s l l ri il  m şğul olaq. ə ə ə ə ə ə
+Qeyd: yaddaşı t dqiq etm k üçün göst ril n aşağıdakı üsullar 64 bitlik maşınlar üçün ə ə ə ə
+40
+keç rlidir.ə
+gdb proqramı il  yaddaşın h r hansı ünvanında yerl ş n m lumatı yoxlamaq üçün ə ə ə ə ə x 
+mrind n istifad  etm liyik. ə ə ə ə x mrinin istifad  qaydası aşağıdakı kimidir:ə ə
+   x /SaySay_sistemiFormat    Ünvan
+Gördüyümüz kimi x mri ə 4 patrametr q bul edir: ə Say, Say_sistemi, Format v  ə Ünvan.
+ Say parametri verilmiş ünvandan başlayaraq neç  hiss  m lumatın çap edilm li olduğun ə ə ə ə
+bildirir.
+Say_sistemi parametri m lumatın hansı say sistemind  çap olunmalı olduğun göst rir. Onluq ə ə ə
+say sistemi üçün d, 16 -lıq üçün x , ikili say sistemi üçün isə t qiym tind n istifad  ed  bil rik.ə ə ə ə ə
+Format parametri m lumatın neç  baytlıq hiss l rl  çap edilm li olduğun bildirir. ə ə ə ə ə ə 1- baytlıq 
+hiss l r üçün ə ə b, 2 baytlıq hiss l r üçünə ə  h,  4  baytlıq hiss l r üçün ə ə w,  8  baytlıq hiss l r üçün ə ə
+is  ə g qiym tind n istifad  etm liyik.ə ə ə ə
+ Bütün bunlarla daha traflı ir lid ki mövzularda tanış olacayıq. H l lik is  sad  hallara ə ə ə ə ə ə ə
+baxaq.
+Ünvan parametri  m lumatlarını  çap el m k ist diyimiz  yaddaş ünvanını bildirir.ə ə ə ə
+ Misal üçün yaddaşın 0xfffaa90 ünvanından başlayaraq növb ti bir bayt m lumatıə ə  10 -luq say 
+sistemind  çap el m k ist s k aşağıdakı mri daxil etm liyik:ə ə ə ə ə ə ə
+ x   /1db    0xfffaa90
+Burada  Say parametri 1(hiss l rin sayı), Say_sistemi parametri d (10 -luq), Format parametriə ə  
+is  b (h r-bir hiss nin ölçüsü 1 bayt) -dir.ə ə ə
+Çalışma 7.  Proqramda long tipli s d yiş ni elan edin v  ona başlanğıc olaraq ə ə ə 47 qiym ti ə
+m nims din. ə ə s d yiş ninin ünvanın ə ə %rbx reqistrin  köçürün.    Daha sonra h min ünvanda ə ə
+olan m lumatı çap edin.ə
+H lli. Nümun  kod aşağıdakı kimi olar:ə ə
+ .data
+ s:
+ .long 47
+ .text
+ .globl _start
+ _start:
+41
+  movq $s, %rbx
+  son:
+    movl $1, %eax
+    int  $0x80  
+Proqramı test ed k:ə
+[ferid@fedora Documents]$ gdb tmp
+Reading symbols ...(no debugging symbols found)...done.
+(gdb) 
+(gdb) break son
+Breakpoint 1 at 0x4000b7
+(gdb) run
+Starting program: 
+Breakpoint 1, 0x00000000004000b7 in son ()
+(gdb) info registers $rbx
+rbx            0x6000c0 6291648
+(gdb) x /1dw 0x6000c0
+0x6000c0 <s>:   47
+(gdb) 
+İzahı:  Proqramda long tipli s d yiş ni elan edirik v  ona ə ə ə 47 qiym ti m nims dirik. Daha sonraə ə ə  
+s d yiş ninin yaddaşdakı ünvanın ə ə %rbx reqistrin  köçürürük.ə  info registers mri il  ə ə %rbx -d  ə
+olan m lumatı, ə s -in ünvanın çap edirik. x  mri il  h min ünvandan başlayaraq ə ə ə 4 bayt 
+m lumatı (ə long tipi) 10 -luq say sistemind  ekranda çap edirik.ə
+  Suallar.
+  1. H r-bir yaddaş yuvasının ölçüsü neç  baytdır?ə ə
+  2. Yaddaş yuvaları bir-birin  n z r n nec  yerl şib?ə ə ə ə ə ə
+  3.  Yaddaş yuvaları nec  nömr l nir?ə ə ə
+  4. Ünvan n dir?ə
+42
+  5. Yaddaşın ilk baytının ünvanı neç dir?ə
+  6. D yiş nin ünvanın ld  etm k üçün onun adının vv lin  hansı simvol yazmaq lazımdır?ə ə ə ə ə ə ə ə
+  7. M lumata müraci t etm nin ümumi qaydası nec dir?ə ə ə ə
+  8. Yekun ünvanın hesablanması qaydası nec dir?ə
+  
+  
+43
+3
+C rg l rə ə ə
+Bu başlıqda c rg l r il  tanış olacayıq. C rg l rin  öz lliyi odur ki, onu t şkil ed n ə ə ə ə ə ə ə ə ə ə
+elementl r yaddaşda ardıcıl düzülür v  h r-biri eyni ölçüd  yer tutur. Bu imkan verir ki, ə ə ə ə
+c rg nin ilk elementinin v  ya h r-hansı başqa elementinin ünvanını bilm kl  dig r ə ə ə ə ə ə ə
+elementl rin ünvanın ld  ed  bil k.  ə ə ə ə ə
+Bu başlıqda vv lki başlıqda örg ndiyimiz yaddaşa müraci t etm k bilikl rind n istifad  ə ə ə ə ə ə ə ə
+ed c yik. Çalışma kimi t qdim olunan nümun  proqramlar h m yaddaşdan istifad  t crüb si,ə ə ə ə ə ə ə ə  
+h m d  ümumilikd  assembler proqramlaşdırma t crüb si toplamağa hesablanıb. Bu t crübə ə ə ə ə ə ə 
+növb ti bölm l rd  tanış olacağımız stek v  funksiyalar kimi mür kk b assembler ə ə ə ə ə ə ə
+mövzularının m nims nilm sind  yardımçı olar.ə ə ə ə
+C rg nin elanıə ə
+D yiş nl rl  tanış olark n qeyd etdik ki, d yiş n  elan zamanı qiym t m nims d rk n ə ə ə ə ə ə ə ə ə ə ə ə ə
+tipd n sonra h min qiym ti yazmalıyıq, misal üçün aşağıdakı elanda ə ə ə  long tipli y d yiş nin  ə ə ə
+başlanğıc 56 qiym ti m nims dirik. ə ə ə
+44
+ .data
+ y:
+ .long 56
+Biz 56 r q mind n sonra vergüll  ayırmaqla   ist nil n sayda qiym t lav  ed  bil rik. Bu ə ə ə ə ə ə ə ə ə ə ə
+zaman h min qiym tl r ardıcıllığından ibar t c rg  alarıq:ə ə ə ə ə ə
+ .data
+ y:
+ .long 56, 45, 7, 890, 21, 9
+Başqa sözl  d yiş nl r  bir elementd n ibar t c rg  kimi baxmaq olar. Ümumilikd  is   ə ə ə ə ə ə ə ə ə ə ə
+c rg l r aşağıdakı kimi elan olunur: vv lc  c rg nin adı göst rilir, daha sonra tipi, daha ə ə ə ə ə ə ə ə ə
+sonra is  c rg nin elementl ri vergüll  ayrılmaqla sıralanır.ə ə ə ə ə
+ cərgənin_adı:
+   .tip element1, element2, … , elementn
+Aşağıdakı çalışmalarda müxt lif tipl rd n c rg l r elanına aid nümun l r göst rilir. ə ə ə ə ə ə ə ə ə
+ Çalışma 1. long tipind n olan ə 3, 4, 45, 56 elementl rind n ibar t ə ə ə x c rg si elan edin.ə ə
+H lli.ə  C rg nin elanı sintaksisin  sas nə ə ə ə ə  x c rg sini aşağıdakı kimi elan ed  bil rik.ə ə ə ə
+  x:
+  .long   3,  4,  45,  56
+Çalışma 2.  byte tipind n olan özündə ə 'a', 'f', 'r',  'q' v  ə 'd'  simvollarını saxlayan s c rg siə ə
+ t rtib edin.ə
+H lliə . 
+     s: 
+     .byte  'a', 'f', 'r',  'q', 'd' 
+Qeyd .  Yuxarıdakı elanda simvolların hamısı tipi ascii elan ed r k cütdırnaq arasında da ə ə
+elan etm k olar. Aşağıdakı kimi:ə
+     s: 
+     .ascii  "afrqd" 
+Bu zaman cütdırnaq arasında c rg nin elementl ri ardıcıl sıralanır(arada vergül, m saf  ə ə ə ə ə
+olmadan). Bu qayda yalnız ascii tipind n olan c rg l r , başqa sözl  s tirl r  aiddir. ə ə ə ə ə ə ə ə ə
+45
+C rg nin yaddaşdakı v ziyy tiə ə ə ə
+G lin c rg l rin yaddaşda nec  yerl şm si v  onun elementl rinin ünvanlarının nec  ə ə ə ə ə ə ə ə ə ə
+mü yy n olunması il  tanış olaq.ə ə ə
+ Gördüyümüz kimi C rg nin adı c rg nin birinci elementin  istinad edir. Bütün elementl r ə ə ə ə ə ə
+yaddaşda eyni ölçüd  yer tutur v  ardıcıl  yerl şibl r.  İndi  elementl rin ünvanlarının nec  ə ə ə ə ə ə
+mü yy n olunması il  tanış olaq.  ə ə ə
+Tutaq ki, c rg nin ilk elementinin ünvanını bilirik,  onu ş rti olaraq ə ə ə ÜNVAN il  işar  ed k. ə ə ə
+Tutaq ki, c rg nin elementl ri ə ə ə long tiplidir , y ni c rg nin h r bir elementi yaddaşda ə ə ə ə 4 bayt 
+yer tutur.  Bu zaman c rg nin ikinci elementi birincid n ə ə ə 4 bayt “yuxarıda” yerl şir. Başqa ə
+sözl  g r birinci elementin ünvanı ə ə ə ÜNVAN-dırsa, onda ikinci elementin ünvanı ÜNVAN + 4 
+olar.  Analoji olaraq 3 -cü elementin ünvanı  ikinci elementin ünvanından 4 vahid çox, y ni ə
+ÜNVAN + 4 + 4 olar.  Bel likl  c rg nin ə ə ə ə k-cı elementinin ünvanı  ÜNVAN + (k-1)*4 olar.
+Bu dedikl rimizd n c rg nin ilk elementinin ünvanı v  ölçüsünü bildiyimiz zaman, c rg nin ə ə ə ə ə ə ə n-
+ci elementinin ünvanını ld  etm k üçün aşağıdakı düsturu almış oluruq:ə ə ə
+   n-ci_elementin_ünvanı = ilk_elementin_ünvanı + (n-1)*c rg nin_tipinin_ölçüsüə ə
+N z r  alsaq ki, c rg nin adı c rg nin ilk elementin  istinad edir, yuxarıdakı düsturu ə ə ə ə ə ə ə ə
+46
+aşağıdakı kimi yaza bil rik:ə
+   n-ci_elementin_ünvanı = c rg nin_adı + (n-1)*c rg nin_tipinin_ölçüsüə ə ə ə
+Bu deyil nl r c rg nin elementl rinin ünvanlarının t yin olunmasının mahiyy tini izah etm k ə ə ə ə ə ə ə ə
+üçündür, praktiki çalışmalar zamanı biz c rg nin bu v  ya dig r elementin  müraci t etm k ə ə ə ə ə ə ə
+üçün yaddaşa müraci t üsullarından istifad  ed c yik. vv lki bölm d  yaddaşa müraci t ə ə ə ə Ə ə ə ə ə
+üçün daxil etdiyimiz qaydaya n z r salaq:ə ə
+  Nişan( %sürüşm _reqistri, %index_reiqstri, msalə ə )
+Qeyd etdiyimiz kimi yaddaşa müraci t üçün istifad  etdiyimiz bu ifad y  gör  ünvan ə ə ə ə ə
+aşağıdakı düstur il  hesablanır:ə
+Yekun_ünvan = Nişan + %sürüşm _reqistri + %index_reqistri * msal;ə ə  
+Bu qaydadan istifad  etm kl  c rg nin elementl rin  müraci t etm k ist s k aşağıdakı kimi ə ə ə ə ə ə ə ə ə ə ə
+yaza bil rik:ə
+  c rg nin_adı ( , %index_reqistri, ölçü  )ə ə
+  Burada %index_reqistri elementin indeks nömr si, ə  ölçü is  c rg nin tipinin ölçüsün  uyğun ə ə ə ə
+g lir. ə
+  Yuxarıdakı düsturuun uyğun g ldiyi ünvanı hesablayaq:ə
+  Yekun_ünvan =  c rg nin_adı + %index_reqistri * ölçüə ə
+( Burada %sürüşm _reqistri ə iştirak etm diyind n 0 götürülmüşdür.)  Gördüyümüz kimi  g r ə ə ə ə
+%index_reqistri -n  c rg nin  ə ə ə n-ci elementinin indeks nömr sini, ölçü parametrin  is  ə ə ə
+c rg nin tipinin ölçüsünü m nims ts k onda bu ünvan c rg nin n-ci elementinin ünvanı il  ə ə ə ə ə ə ə ə
+üst-üst  düşür. Bel likl  biz c rg nin adı, tipinin ölçüsünd n istifad  etm kl  ist nil n ə ə ə ə ə ə ə ə ə ə ə
+elementin  müraci t ed  bil rik.ə ə ə ə
+Calışma . long tipli 5 elementd n ibar t ə ə x adlı c rg  elan edin. ə ə x c rg sinin ə ə 3 -cü elementinin 
+qiym tini çap edin.ə
+H lli.ə  vv lc  test üçün istifad  ed c yimiz proqram kodunu daxil ed k. Daha sonra test Ə ə ə ə ə ə ə
+proseduru il  tanış olaq. Sonda izaha n z r salarıq.ə ə ə
+Nümun  kod:ə
+ .data
+ # long tipli 5 elementli x cergesi elan edek
+ x:
+ .long 34, 768, 89, 33, 10
+47
+ .text
+ .globl _start
+ _start:
+ # 3 -cu elementin indeks nomresi 2 -dir
+ # indeks nomreleri 0-dan hesablanir
+ # indeks nomresini %ecx -e kocurek
+ movl $2, %ecx
+ 
+ # long tipinin olcusu 4 baytdir
+ # 3 -cu elementi %ebx reqistrine kocurek
+ movl x(,%ecx,4), %ebx
+ #yuxaridaki instrusiya x cergesinin 3-cu 
+ # elementini %ebx -e kocurer, gdb ile 
+ # onun qiymetini yoxlaya bilerik
+  son:
+    movl $1, %eax
+    int  $0x80  
+ Test:
+[ferid@fedora Documents]$ gdb tmp
+ 
+Reading symbols  ...done.
+(gdb) break son
+Breakpoint 1 at 0x4000bd
+(gdb) run
+Starting program:                
+Breakpoint 1, 0x00000000004000bd in son ()
+(gdb) info registers $ebx
+ebx            0x59     89
+(gdb)
+ 
+Izahı:  Proqramın data hiss sind  long tipli ə ə 5 elementd n ibar t  ə ə x c rg si elan edirik v  bu ə ə ə
+c rg nin elementl rin  müft lif qiym tl r m nims dirik. Qiym tini çap etm k ist diyimiz ə ə ə ə ə ə ə ə ə ə ə ə
+element 3 -cü element olduğundan onun indeks nömr sini ə %ecx reqistrin  yazırıq. C rg nin ə ə ə
+elementl rinin indeks nömr l ri 0-dan başlayaraq nömr l ndiyind n 3-cü elementin indeks ə ə ə ə ə ə
+nömr si 2 olur (birinci elementin indeksi 0-dır). Daha sonra   ə movl x(,%ecx,4), %ebx 
+instruksiyası il  ə x c rg sinin 3-cü elementini ə ə %ebx -  yazırıq.  Proqramı test etm k üçün onu ə ə
+gdb il  yükkl yib ə ə son  nişanında icrasını dayandırırıq və %ebx reqistrinin qiym tini yoxlayırıq.ə
+Çalışma.  8 ascii simvolundan ibar t ə s c rg si elan edin.ə ə  s  c rg sinin ə ə 5-ci elementini çap 
+48
+edin.
+H lli:   ə vv lc  nümun  kodu daxil ed k.Ə ə ə ə ə
+ .data
+ s:
+ .ascii "akdfgrty"
+ .text
+ .globl _start
+ _start:
+ # 5 -ci elementin indeks nomresi 4 -dur
+ # indeks nomreleri 0-dan hesablanir
+ # indeks nomresini %ecx -e kocurek
+ movl $4, %ecx
+ 
+ # ascii tipinin olcusu 1 baytdir
+ # 5 -cu elementi %bh reqistrine kocurek
+ movb s(,%ecx,1), %bh
+ #yuxaridaki instrusiya s cergesinin 5-ci
+ # elementini %bh -e kocurer, gdb ile 
+ # onun qiymetini yoxlaya bilerik
+  son:
+    movl $1, %eax
+    int  $0x80  
+Proqramı test ed k:ə
+(gdb) run
+Starting program:          
+Breakpoint 1, son () at tmp.s:31
+31          movl $1, %eax
+(gdb) info registers $rbx
+rbx            0x6700   26368
+(gdb) 
+rbx            0x6700   26368
+(gdb) info registers $bh
+bh             0x67     103
+(gdb)
+İzahı:   Proqramın data  hiss sind  biz ə ə ascii tipli 8 elementd n ibar t ə ə s c rg si elan edirik. ə ə
+Qeyd ed k ki ə ascii tipinin ölçüsü 1 baytdır.  Daha sonra 5-ci element  mütraci t etm k üçün ə ə ə
+vv lc  onun indeks nömr sini (ə ə ə ə 4) %ecx -  yazırıq.  Aşağıdakı instruksiyaə  s c rg sininə ə  5-ci 
+49
+elementini  %bh reqistrin  yazır. ə
+ movb s(,%ecx,1), %bh
+Burada biz  s(,%ecx,1)  ünvanında  yerl ş n bir bayt m lumatı köçürm k ist diyimiz  gör  ə ə ə ə ə ə ə
+movb  iinstruksiyasından istifad  etmişik.  Yada salaq ki (1-ci başlıq)  ə %bh reqistrinin ölçüsü 1 
+baytdır. Info registers  mri il  ə ə %bh reqistrinin qiym tini çap etdikd  aşağıdakı n tic ni alırıq:ə ə ə ə
+(gdb) info registers $bh
+bh             0x67     103
+(gdb)
+Burada %bh reqistrinin qiym ti ə 103 göst rilmişdir. Bu ə ASCİİ c dv lində ə ə 'g' simvoluna uyğun 
+g lir(ASCİİ c dv li simvolları lav  fix -d  verilmidir).  ə ə ə Ə ə ə
+Calışma.   long tipli  7 elementd n ibar t ə ə y c rg sinin elementl ri c mini hesablayan proqram ə ə ə ə
+t rtib edin.ə
+H lli:ə
+ 
+ .data
+ y:
+ .long 15, 18, 1, 45, 78, 243, 89, 10
+ cem:
+ .long 0
+ .text
+ .globl _start
+ _start:
+  movl $0, %edx
+dovr:
+  movl y(,%edx,4), %eax
+  addl %eax, cem  
+  incl %edx    
+  cmpl $7, %edx
+  je son
+  jmp dovr
+  son:
+    movl $1, %eax
+    int  $0x80  
+50
+Proqramı test ed k:ə
+[ferid@fedora Documents]$ gdb tmp
+(gdb) break son
+Breakpoint 1 at 0x4000cd
+(gdb) run
+Starting program:   
+Breakpoint 1, 0x00000000004000cd in son ()
+(gdb) print cem
+$1 = 489
+(gdb) 
+Proqramın izahı:
+vv lc  proqramda Ə ə ə 7 elementd n ibar t ə ə y c rg si elan edirik.  Daha sonra ə ə %edx reqistrin  ə 0 
+qiym ti yazırıq.  ə %edx reqistrind  biz hal-hazıra kimi n z rd  keçirdiyimiz elementl rin sayını ə ə ə ə ə
+yadda saxlayırıq. Daha sonra dovr nişanı elan edirik.    movl y(,%edx,4), %eax instruksiyası y 
+c rg sinin ə ə %edx indeksli elementini %eax reqistrin  köçürür.  cem d yiş nin  elandaə ə ə ə  0 
+qiym ti m nims tmişik. Dövr h r-d f  t krar olunduqda c rg nin növb ti elementi ə ə ə ə ə ə ə ə ə ə %eax 
+reqistrin  köçürülür v   ə ə addl %eax, cem instruksiyası il  h min qiym t cem -in üz rin  lav  ə ə ə ə ə ə ə
+olunur.  Daha sonra %edx -in qiym tini bir vahid artırırıq(ə incl %edx) v  yeni qiym ti ə ə 7 il  ə
+müqais  edirik(ə cmpl $7, %edx).  %edx 7 qiym ti alanda artıq bütün elementl r n zr d n ə ə ə ə ə
+keçirilib v  biz dövrd n çıxırıq(ə ə je son). ks halda dovrün vv lin  qayıdırıq(Ə ə ə ə jmp dovr).
+Çalışma 3.  Tutaq ki, y adlı h r-hansı c rg  verilmişdir. M lumdur ki, bu c rg nin sonuncuə ə ə ə ə ə
+ elementi 453 -  b rab rdir. C rg nin elementl rinin sayını tapan proqram t rtib edin.ə ə ə ə ə ə ə
+H lliə .  vv lc  proqramı daxil ed k, daha sonra proqramın traflı izahını ver rik.Ə ə ə ə ə ə
+ 
+ # cergenin elementlerinin sayini tapan proqram
+ .data
+ y:
+  .long 45, 23, 67, 2, 12, 78, 90, 453
+  .text
+   .globl _start
+   _start:
+   #ilk olaraq indeks = 0 goturek
+   movl $0, %edx
+   #dovre bashliyiriq
+dovr:
+   #novbeti indeksi %edx olan elementi 
+51
+   #%eax -e kocurek
+   movl y(, %edx, 4), %eax
+   #muqaise edek
+   cmpl $453, %eax
+   #beraberdirse son
+   je son
+   #eks halda indeksi 1 vahid artir
+   incl %edx
+   #qayit evvele
+   jmp dovr
+son:
+   # say = indeks + 1
+   incl %edx
+    movl $1, %eax
+    int  $0x80
+Izahi: vv lc  ə ə ə %edx reqistrin  ə 0 qiym ti yazırıq. C rg nin elementl rin  müraci t etm k ə ə ə ə ə ə ə
+üçün y(, %edx, 4) yaddaşa müraci t üsulundan istifad  edirik. Bu zaman göst ril n ifadə ə ə ə ə
+ indeks nömr si edx olan elementin ünvanına istinad ed c k.  İlk elementd n başalayaraq ə ə ə ə
+(index nömr si ə 0) elementl ri ə %eax reqistrin  köçürürük.  Daha sonra ə %eax -in qiym tini ə 453 
+d di il  müqais  edirik. g r b rab rdis  onda dem li ə ə ə ə Ə ə ə ə ə ə  c rg nin sonuna çatmışıq dövrü ə ə
+t rk edirik, ks halda indeksi bir vahid artırıb dövrün vv lin  qayıdırıq. ə ə ə ə ə
+Çalışma 4. Tutaq ki, long tipli q c rg si verilmişdir. C rg d ki elementl rin sayının ə ə ə ə ə ə 8 olduğu 
+m lumdur. C rg nin elementl ri iç risind  qiym tiə ə ə ə ə ə ə  56-ya b rab r olan elementin indeks ə ə
+nömr sini tapan proqram t rtib edin.ə ə
+H lli.ə  vv lc  proqram kodun daxil ed k, sonra izahla tanış olarıq.Ə ə ə ə
+               
+ # cergedeki elementin indeksini tapan proqram
+ .data
+ q:
+  .long 234, 3, 90, 78, 56, 67, 19, 83
+  .text
+   .globl _start
+   _start:
+   #ilk olaraq indeks = 0 goturek
+   movl $0, %edx
+   #dovre bashliyiriq
+dovr:
+   #novbeti indeksi %edx olan elementi 
+   #%eax -e kocurek
+52
+   movl q(, %edx, 4), %eax
+   #muqaise edek
+   cmpl $56, %eax
+   #beraberdirse son
+   je son
+   #eks halda indeksi 1 vahid artir
+   incl %edx
+   #eger indeks = 8 demeli cergenin sonudur dovru terk et
+   cmpl $8, %edx
+   je son
+   #qayit evvele
+   jmp dovr
+son:
+    movl $1, %eax
+    int  $0x80
+N tic :ə ə
+(gdb) run
+Starting program
+Breakpoint 1, 0x00000000004000cb in son ()
+(gdb) info registers $edx
+edx            0x4      4
+(gdb) 
+İzahı: vv lc  Ə ə ə %edx reqistrin  ə 0 qiym ti yazırıq v  ilk elementd n başlayaraq bir-bir bütün ə ə ə
+elementl ri yoxlayırıq. H r-d f  ə ə ə ə %edx -in qiym tini ə 1 vahid artırırıq. 56-ya b rab r olan ə ə
+element  tapılanda dövrü t rk edirik. Dövrün sonun yoxlamaq üçün ə %edx -in qiym tiniə  8 il  ə
+müqaisə edirik.
+Çalışma 5. Elementl rinin tipi ə char olan f c rg si verilmişdir. ə ə 's' -  b rab r olan elementin ə ə ə
+indeksini tapın. C rg nin sonuncu elementi ə ə 'a' -ya b rab rdir.ə ə
+               
+ # cergedeki elementin indeksini tapan proqram
+ .data
+ f:
+  .byte 'd', 'q', 't', '+', '?', 's', 'w', 'a'
+  .text
+   .globl _start
+   _start:
+53
+   #ilk olaraq indeks = 0 goturek
+   movl $0, %ecx
+   #dovre bashliyiriq
+dovr:
+   #novbeti indeksi %ecx olan elementi 
+   #%al -e kocurek
+   movb f(, %ecx, 1), %al
+   #muqaise edek
+   cmpb $'s', %al
+   #beraberdirse son
+   je son
+   #eks halda indeksi 1 vahid artir
+   incl %ecx
+   #qayit evvele
+   jmp dovr
+son:
+    movl $1, %eax
+    int  $0x80
+N tic :ə ə
+(gdb) run
+Starting program 
+Breakpoint 1, 0x00000000004000ca in son ()
+(gdb) info registers $ecx
+ecx            0x5      5
+(gdb)
+Artıq yaddaşa müraci t üsulları, keçid v  müqais  instruksiyalarının t tbiqi il  assemblerə ə ə ə ə
+ dilind  daha mür kk b proqramlar t rtib ed  bil rik.ə ə ə ə ə ə
+Çalışma 3.   241, 15, 242, 123, 50, 100, 240 elementl rind n ibar t ə ə ə eded_ard c rg sininə ə
+ n böyük elementini tapan proqram t rtib edin.ə ə
+        # en böyek qiymeti tapan proqram
+        # proqram en boyuk qiymeti tapib
+        # 
+        
+        .data
+        eded_ard:
+        .long 241, 15, 242, 123, 50, 100, 240
+        say:
+        .long 7
+54
+        .text
+        .globl _start
+        .type _start,@function
+        _start:
+        movl $0, %ebx
+        movl $0, %edx
+        
+dovr:
+        cmpl say, %edx
+        je son
+        
+        movl eded_ard(,%edx,4), %eax
+        cmpl %eax, %ebx
+        jg boyuk
+        movl %eax, %ebx
+boyuk:
+        incl %edx
+        jmp dovr
+        son:
+        movl $1, %eax
+        int $0x80
+    
+Programın izahı: 
+Proqramın m lumat hiss sind  (ə ə ə .data) biz aşağıdakı m lumatları yerl şdiririk. ə ə
+vv l biz 7 d dd n ibar t ardıcıllıq elan edirik. Ə ə ə ə ə ə
+           eded_ard:
+           .long 220, 15, 3, 123, 50, 100, 240
+Daha sonra is  say nişanı. ə
+           say:
+           .long 7
+Say d yiş nind  biz d l rin sayını yerl şdiririk. Bu biz  dövrün bitm si ş rtini yoxlamaq ə ə ə ə ə ə ə ə ə ə
+üçün lazımdır.  Daha sonra proqramın instruksiyalar hiss sini elan edirik. ə
+.text 
+%edx reqistrind  biz n z rd n keçirdiyimiz d dl rin sayını saxlayırıq. Ona gör  ə ə ə ə ə ə ə ə
+ilk başlanğıcda bu reqistr  0 qiym ti yerl şdiririk. H l lik heç bir d din qiym tini ə ə ə ə ə ə ə ə
+yoxlamamışıq. 
+movl $0, %edx 
+%ebx -d  is  d dl r ardıcıllığından n z rd n keçirdiyimiz d dl r iç risind n n ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+55
+böyüyünü yerl şdiririk. Dövr h r d f  t krarlandıqca c rg nin növb ti elementinin ə ə ə ə ə ə ə ə
+qiym ti ə %eax reqistrin  köçürülür v  onun qiym ti ə ə ə %ebx il  müqais  olunur. g r ə ə Ə ə
+böyükdürs  h min qiym t ə ə ə %ebx -  yazılır. Bel likl  ə ə ə %ebx -d  h miş  baxılan d dl rə ə ə ə ə ə
+ iç risind  n böyüyü yerl şir. Başlanğıcda is  ə ə ə ə ə %ebx -d  ə 0 qiym ti yerl şdirm liyik. ə ə ə
+Növb ti s tird  biz dovr nişanını elan edirik. ə ə ə
+dovr: 
+Bu nişan dövrün başlanğıcı hesab olunur. Daha sonra biz say d yiş ni il  ə ə ə %edx -d  olan ə
+qiym ti müqais  edirik(cmpl say, ə ə %edx). g r onlar b rab rdirs  dem li bütün d dl r Ə ə ə ə ə ə ə ə ə
+yoxlanılıb dövrd n çıxırıq(jə mp son). 
+        cmpl say, %edx
+        je son
+%edx -d  biz baxdığımız d dl rin sayını saxlayırıq v  başlanğıcda onaə ə ə ə ə  0 m nims tmişik. ə ə
+Dövr h r d f  t krarlandıqda biz ə ə ə ə %edx -in qiym tin ə 1 vahid artırırıq. 
+Növb ti instruksiya h r d f  dövr t krar olduqda ə ə ə ə ə eded_ard c rg sinin növb ti ə ə ə
+elementini %eax registrin  köçürür. ə
+movl eded_ard(,%edx,4), %eax
+Burada FİZİKİ ÜNAVININ hesablanma düsturunu yada salsaq m nb  ünvan aşağıdakı ə ə
+kimi hesablanır: 
+eded_ard + 0 + %edx*4
+eded_ard m lumatın yaddaşdakı ünavanıdır. Möt riz d n sonrakı birinci h dd ə ə ə ə ə
+buraxıldığından onun qiym tiə  0 götürülür. C min üz rin  ə ə ə %edx -lə 4 - ün hasili lav  olunur. ə ə
+Bel likl  köçürülm li olan m lumatın yekun ünvanı hesablanır. Dövrün ə ə ə ə
+başlanğıcında %edx -in qiym ti ə 0 olduğundan düsturun n tic si el  eded_ard olacaq. ə ə ə
+Bu is  c rg nin ilk elementinin ünvanıdır. Bel likl  dövrün başlanğıcında bu instruksiya ə ə ə ə ə
+icra olunduqda c rg nin ilk elementi y ni ə ə ə 220 %eax -  yazılır. Dövr h r d f  t krarlandıqdaə ə ə ə ə
+ qeyd etdiyimiz kimi %edx -in qiym ti ə 1 vahid artır. Bu is  yuxarıdakı düstura gör  ünvanın ə ə
+qiym tiniə  4 vahid artırır v  c rg nin növb ti elementinin ünvanını almış oluruq. C rg nin ə ə ə ə ə ə
+elementl rinin tipini long elan etdiyimizd n onun h r bir elementi yaddaşda ə ə ə 4 bayt yer tutur
+ v  c rg nin elementl ri yaddaşda ardıcıl yerl şir. Buna gör  ə ə ə ə ə ə k-cı elementin ünvanını almaq 
+üçün ilk elementin ünvanının üz rin  ə ə (k-1)*4 lav  etm liyik. ə ə ə
+Növb ti instruksiyalar aşağıdakı kimidir: ə
+        cmpl %eax, %ebx
+        jg boyuk
+        movl %eax, %ebx
+Burada %ebx n z rd n keçirdiyimiz d rl r iç risind  n böyüyünü, ə ə ə ə ə ə ə ə ə %eax is  c rg nin ə ə ə
+növb ti elementinin qiym tini özünd  saxlayır. g r ə ə ə Ə ə %ebx %eax -d n böyükdürs  ə ə
+onda %eax -d  olan qiym t bizim üçün maraqlı deyil v  biz ə ə ə jb boyuk instruksiyası il  boyukə
+ nişanına keçid edirik. Harada ki, yeni dovr  keçid işl ri üçün hazırlıq işl ri görülür v  yeni ə ə ə ə
+dövr  keçid edilir. Lakin ks halda, y ni ə ə ə %eax %ebx -d n böyük olarsa dem li c rg nin ə ə ə ə
+hal - hazırda baxılan qiym ti indiy  kimi baxdığımız qiym tl rd n böyükdür v  maksimum ə ə ə ə ə ə
+56
+olaraq onu götürm liyik. Bu halda artıq jg boyuk (ə jump great ) instruksiyası icra olunmur v  ə
+növb ti instruksiya, ə movl %eax, %ebx instruksiyası icra olunur v  ə %eax -in qiym tin ə %ebx -ə
+ yazır. N tic d  ə ə ə %ebx -d  baxılan d dl rin iç risind n n böyüyü yerl şir. ə ə ə ə ə ə ə ə
+Daha sonra proqram kodu aşağıdakı kimidir: 
+ 
+boyuk:
+        incl %edx
+        jmp dovr
+Buarada artıq qeyd el diyimiz kimi, boyuk nişanı elan olunur. ə incl %edx instruksiyası 
+%edx -in  qiym tini ə 1 vahid artırır. Daha sonra jmp dovr instruksiyası vast sil  dövrün ə ə
+başlanğıcına  (dovr nişanı) keçid edilir. 
+H r d f  dövr t krarlandıqda ə ə ə ə %edx -in qiym ti ə 1 vahid artdığından %edx -in qiym ti ə say 
+qiym tin  b rab r olduqda son nişanına keçid edilir v  proqram sona çatır. ə ə ə ə ə
+  Suallar.
+   1.   C rg nin elementl ri bir birin  n z rn yaddaşda nec  yerl şir ?ə ə ə ə ə ə ə ə
+    2.   C rg nin ilk elementinin indeksi neç dir ?ə ə ə
+    3.    Tutaq ki,  long tipli x c rg si verilibə ə
+ x:
+  .long  5, 34, 98, 78, 435
+     aşağıdakı koddan sonra  %ebx reqistrinin qiym ti neç  olar?ə ə
+   
+  movl x, %ebx
+     4.    Tutaq ki,  long tipli x c rg si verilibə ə
+ x:
+  .long  5, 34, 98, 78, 435
+     aşağıdakı koddan sonra  %ebx reqistrinin qiym ti neç  olar?ə ə
+     
+  movl $0, %edx
+  movl x(,%edx,4), %ebx
+     5.    Tutaq ki,  long tipli x c rg si verilibə ə
+ x:
+  .long  5, 34, 98, 78, 435
+     aşağıdakı koddan sonra  %ebx reqistrinin qiym ti neç  olar?ə ə
+  movl $3, %edx
+  movl x(,%edx,4), %ebx
+57
+     6.    Tutaq ki,  long tipli x c rg si verilibə ə
+ x:
+  .long  5, 34, 98, 78, 435
+     aşağıdakı koddan sonra  %ebx reqistrinin qiym ti neç  olar?ə ə
+  movl $x, %eax
+  movl (%eax), %ebx
+     7.    Tutaq ki,  long tipli x c rg si verilibə ə
+ x:
+  .long  5, 34, 98, 78, 435
+     aşağıdakı koddan sonra  %ebx reqistrinin qiym ti neç  olar?ə ə
+  movl $x, %eax
+  addl $4, %eax
+  movl (%eax), %ebx
+  Çalışmalar.
+  1.  long tipli c rg nin 5 -ci elementini t yin ed n proqram t rtib edin.ə ə ə ə ə
+  2. ascii tipli c rg nin 3 -cü elementini t yin ed n proqram t rtib edin.ə ə ə ə ə
+  3. long tipli 8 elementd n ibar t c rg nin n kiçik elementini  t yin ed n proqram t rtib edin.ə ə ə ə ə ə ə ə
+  4. ascii tipli c rg nin sonuncu elementi 'h'  simvoludur. C rg nin 'a' -ya b rab r olan ə ə ə ə ə ə
+simvollarının sayını t yin ed n proqram qurun.ə ə
+ 5. long tipli c rg nin sonuncu elementi 43 -  b rab rdir. C rg nin  cüt elementl rinin c mini ə ə ə ə ə ə ə ə ə
+tapan proqram t rtib edin.ə
+  
+  Yaddaş t dqiqiə
+ long tipli   x c rg si elan ed k.  ə ə ə x -in ünvanın örg n k v  yaddaşı t dqiq etm  metodları il  ə ə ə ə ə ə
+verilmiş ünvanda yerl ş n m lumatları çap ed k.ə ə ə ə
+Proqram kodu aşağıdakı kimi olar:
+ 
+ .data
+58
+ x:
+  .long  5, 34, 98, 78, 435, 43, 678, 2, 4545, 234, 678, 0, 321, 789
+  .text
+   .globl _start
+   _start:
+  #cergenin unvanin %ebx -e kocurek
+  movl $x, %ebx
+son:
+    movl $1, %eax
+    int  $0x80
+Test ed k:ə
+(gdb) break son
+Breakpoint 1 at 0x4000b5
+(gdb) run
+Starting program:
+Breakpoint 1, 0x00000000004000b5 in son ()
+(gdb) info registers $rbx
+rbx            0x6000bc 6291644
+(gdb) x /10dw 6291644
+0x6000bc <x>:   5       34      98      78
+0x6000cc <x+16>:        435     43      678     2
+0x6000dc <x+32>:        4545    234
+(gdb) 
+59
+         4  
+Stek     
+Bu paraqrafda stek il  tanış olacayıq. Stek assemblerin n vacib mövzularındandır. ə ə
+Müasir kompüter arxitekturaları funksiyalara müraci ti stek vast sil  t min edir. m liyyatlar ə ə ə ə Ə ə
+sisteminin n z if hiss si d  m hs stek sayılır. Buna gür  sistem  n zar ti l  keçirm k ə ə ə ə ə ə ə ə ə ə ə ə
+üçün n geniş yayılmış hücumlar - buferi daşırma(buffer overflow) stek  müdaxil  vast sil  ə ə ə ə ə
+h yata keçirilir.ə
+Stek nədir ?
+m liyyatlar sistemi h r-bir proqrama yaddaşda mü yy n sah  ayırır. Bu sah nin bir hiss si Ə ə ə ə ə ə ə ə
+proqramın instruksiya v  m luatlarının yerl şdirilm sin  s rf olunur. Yerd  qalan sah  is  ə ə ə ə ə ə ə ə ə
+boş sah . ə
+60
+61
+Yerd  qalan boş sah ni proqram 2 m qs d üçün istifad  edir: funksiya parametrl ri v  ə ə ə ə ə ə ə
+dinamik d yiş nl rl  işl m k üçün. Bu sah l r uyğun olaraq stek v  heap adlanır. ə ə ə ə ə ə ə ə ə
+62
+Stek proqrama aid yaddaş sah sidir v  sas n funksiyalar t r find n istifad  olunur. Stek  ə ə ə ə ə ə ə ə ə
+m lumat yerl şdirm k v  stekd n m lumat götürm k xüsusi qayda il  h yata keçirirlir. Bu ə ə ə ə ə ə ə ə ə
+dizayn funksiyaların çağırılmasını v  funksiyalardan qayıtmanı t min etm k üçündür. ə ə ə
+Stekin proqrama aid bir yaddaş sah si olduğunu örg ndik. İndi stek  nec  m lumat ə ə ə ə ə
+yerl şdirm k v  stekd n m lumat götürm nin qaydaları il  tanış olaq.ə ə ə ə ə ə ə
+vv la onu qeyd edim ki, Ə ə $2 -d  örg ndiyimiz yaddaşa müraci t üsulundan istifad  etm kl  ə ə ə ə ə ə
+stekd n v  el c  d  yaddaşın  ist nil n dig r hiss sind n m lumat ld  ed  bil rik, lakin ə ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+stek yaddaşı il  işl m k üçün xüsusi instruksiyalar v  lav  reqistrl r t rtib olunmuşdur. Bu ə ə ə ə ə ə ə ə
+istruksiyalar push v  ə pop, reqistrl r isə ə %rsp və %rbp reqistrl ridir. ə
+Diqq t!  Bu v  növb ti Funksiyalar mövzusunda stekl  işl m k üçün istifad  olunan ə ə ə ə ə ə ə
+mexanizm 64 bitlik arxitektura üçündür. 32 birlik kompüterl rd  bu v  növb ti mövzunun ə ə ə ə
+proqramları işl m z.  Son zamanlar 64 bitlik kompüterl rin t dric n geniş yayıldığını n z r  ə ə ə ə ə ə ə ə
+alaraq bu seçimi etdik.  Lakin b zi m qamları n z r  alıb proqramların müvafiq 32 bitlik ə ə ə ə ə
+versiyalrını t rtib ed  bil rsiniz, bunlar aşağıdakılardır:ə ə ə
+   Reqistrl r uyğun olaraq ə %esp b  ə %ebp -reqistrl ridir. Stek m liyyatları zamanı (ə ə ə push, pop) 
+stek reqistrinin qiynm ti  ə 4 bayt d yişir(azalır, artır).ə
+Stekin iş prinsipi.
+Stekl  işl m yi örg nm k üçün aşağıdakıları bilm liyik:ə ə ə ə ə ə
+Proqramın vv lind  stek boş olur, y ni stekd  heç bir m lumat olmur. Proqramın icrası boyuə ə ə ə ə ə  
+63
+stek  m lumatlar yerl şdiril  (ə ə ə ə push) v  stekd n m lumatlar götürül  (ə ə ə ə pop) bil r. Bu zaman ə
+stek yaddaşının h cmi müvafiq olaraq artır v  azalır. ə ə
+Stekin n üstüə
+Bilm yimiz g r k n n vacib m qam v  ümumiyy tl  stekin mahiyy tini t yin ed n m qam ə ə ə ə ə ə ə ə ə ə ə ə ə
+m lumatların stek  nec  g ldi yox, yalnız v  yalnız bir yerd n lav  olunması v  ə ə ə ə ə ə ə ə ə
+götürülm sidir. Bu yer, başqa sözl  stekd  olan m lumatlara v  ya stek  istinad yeri stekin ə ə ə ə ə ə
+n üstü adlanır v  ə ə %rsp reqistri il  t yin olunur. Biz stek  m lumat yerl şdir rk n v  ondan ə ə ə ə ə ə ə ə
+m lumat götür rk n prosessor ə ə ə %rsp reqistrin qiym tini avtomatik yenil yir v  ə ə ə %rsp reqistri 
+h miş  stekin n üstün  istinad edir.ə ə ə ə
+V ziyy ti ç tinl şdir n amilə ə ə ə ə
+Bu yerd  başqa bir m s l ni d  bilm yimiz z ruridir, hansı ki, öz növbsind  stekl  işl m yi ə ə ə ə ə ə ə ə ə ə ə
+örg nm yi daha da ç tinl şdirir. Stek yuxarıdan aşağıya doğru artır. Bu n  dem kdir ? Biz ə ə ə ə ə ə
+ad t el mişik ki, n y s  bir şey lav  ed n zaman onda artma baş verir v  bu artım özünü ə ə ə ə ə ə ə ə ə
+r q ml r vast sil  ifad  edir. Stekd  h r-şey t rsin dir. Proqramın vv lind  (y ni stek boş ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+olanda) stekin n üstü özünün maksimum qiym tind  olur. T dric n stek  m lumat ə ə ə ə ə ə ə
+yerl şdir n zaman stek göst ricisinin qiym ti (ə ə ə ə %rsp) biz ad t etdyimizin ksin  olaraq artmaqə ə ə  
+v zin  azalır. H l lik bunu tam aydın başa düşm y  bil rsiniz. Assemblerin b zi mövzuları ə ə ə ə ə ə ə ə ə
+t dricl  başa düşülür. Sad c  bilm k kifay tdir ki, stek  m lumat yerl şdir n zaman stek ə ə ə ə ə ə ə ə ə ə
+göst ricisinin qiym ti azalır, stekd n m lumat götürdükd  is  artır.ə ə ə ə ə ə
+Stek  m lumat yerl şdirm k - Pushə ə ə ə
+64
+Stek  m lumat yerl şdirm k üçün push instruksiyasından istifad  olunur. ə ə ə ə ə 32 bitlik sisteml rdə ə 
+pushl, 64 bitlik sisteml rd  is  ə ə ə pushq instruksiyası istifad  olunur. ə Push instruksiyası bir 
+arqument q bul edir, stek  yerl şdirilm li olan m lumat. Bu konkret d d , reqistrd  v  ya ə ə ə ə ə ə ə ə ə
+yaddaşda yerl ş n m lumat ola bil r. N tic d  h min m lumat stekin n üsün  yerl şdirilir ə ə ə ə ə ə ə ə ə ə ə ə
+v  stek göst ricisi aşağıya doğru sürüşür. Stek göst ricisinin (ə ə ə %rsp) qiym tiə  32 bitlik 
+sisteml rd  ə ə 4, 64 bitlik sisteml rd  ə ə (%rsp) is  ə 8 vahid azalır. 
+  vv lƏ ə
+      Stek
+   _________
+  |_________|
+  |_________|
+  |_________| ← %rsp  köhnə
+   push məlumat
+  Sonra
+      Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |_məlumat_| ← %rsp yeni
+  %rsp yeni = %rsp köhnə - 8
+  Stekd n m lumat götürm k - Popə ə ə
+Stekd n m lumat götürm k üçün pop instruksiyasından istifad  olunur. ə ə ə ə 32 bitlik sisteml rd  ə ə
+popl, 64 bitlik sisteml rd  is  ə ə ə popq instruksiyası istifad  olunur.ə  Pop instruksiyası bir 
+arqument q bul edir reqistr v  ya ünvan. N tic d  stekin n üstünd n ə ə ə ə ə ə ə 4 v  yaə  8 bayt 
+m lumat götürül r k göst ril n yer  (reqistr , ünvan) yerl şdiril c k. Stek göst ricisinin ə ə ə ə ə ə ə ə ə ə
+65
+(%esp) qiym ti ə 32 bitlik sisteml rd  ə ə 4, 64 bitlik sisteml rd  (ə ə %rsp) isə 8 vahid artmış olur. 
+  vv lƏ ə
+         Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |_məlumat_| ← %rsp  köhnə
+   pop reqistr
+  Sonra
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________| ← %rsp  yeni
+      Stek
+  %rsp yeni = %rsp köhnə + 8
+Növb ti çalışmalarda push v  pop instruksiyaları vast sil  stek  m lumat yerl şdirilm si v  ə ə ə ə ə ə ə ə ə
+stekd n m lumat götürülm si, bu zaman stek göst ricisinin qiym tinin nec  d yişm si ə ə ə ə ə ə ə ə
+yoxlanılacaq. Bu biz  funksiyaların çağırılması v  qayıtmasını başa düşm y  köm k ed r. ə ə ə ə ə ə
+ Çalışma 1. Stek  ə 10 qiym ti yerl şdir n proqram t rtib edin.ə ə ə ə
+H lliə . Nümun  kod aşağıdakı kimi olar:ə
+ 
+  .data
+  .text
+  .globl _start
+  _start:
+  pushq $10
+66
+son:
+  movl $1, %eax
+  int  $0x80
+Çalışma 2.  %rax  reqistrini stek  yerl şdir n proqram kodu t rtib edin.ə ə ə ə
+H lliə . Nümun  kod aşağıdakı kimi olar:ə
+ 
+  .data
+  .text
+  .globl _start
+  _start:
+  pushq %rax
+son:
+  movl $1, %eax
+  int  $0x80
+Çalışma 3.  stekin n üstünd  olan m lumatı ə ə ə %rbx reqistrin  köçür n proqram t rtib edin.   ə ə ə
+H lliə . Nümun  kod aşağıdakı kimi olar:ə
+ 
+  .data
+  .text
+  .globl _start
+  _start:
+  popq %rbx
+son:
+  movl $1, %eax
+  int  $0x80
+Çalışma 4.  Stekd n istifad  etm kl  ə ə ə ə %ebx reqistrinə 456 qiym ti yazan proqram t rtib edin.ə ə
+67
+H lli.ə  Nümun  kod aşağıdakı kimi olar:ə
+ 
+ .data
+ .text
+   .globl _start
+   _start:
+    pushq $456
+    popq %rbx
+son:
+    movl $1, %eax
+    int  $0x80
+Test:
+(gdb) break son
+Breakpoint 1 at 0x40007e
+(gdb) run
+Starting program: /home/ferid/Documents/tmp 
+Breakpoint 1, 0x000000000040007e in son ()
+(gdb) info registers $rbx
+rbx            0x1c8    456
+(gdb) 
+İzahı:  Tutaq ki, proqramın vv lind  stekin v ziyy ti aşağıdakı kimidir:ə ə ə ə ə
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________| ← %rsp  
+    pushq $456    instruksiyası  stek   ə 456 qiym tini yerl şdir r v  stek göst ricisi aşağı sürüş r.ə ə ə ə ə ə
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+68
+  |___456___| ← %rsp  
+Daha sonra  h min qiym ti ə ə %ebx reqistrin  yazmaq üçün ə popq %rbx  instruksiyasından 
+istifad  edirik. N tic d  stekin n üstünd  olan m lumat, ə ə ə ə ə ə ə 456 d di ə ə %rbx reqistrin  köçürülür ə
+v  stek reqistri yuxarı sürüşür( vv lki v ziyy tin  qayıdır).ə ə ə ə ə ə
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________| ← %rsp  
+Çalışma 5.   Aşağıdakı proqram icra olduqda son nişanında %ecx reqistrinin qiym ti neç  ə ə
+olar?
+ 
+ .data
+ .text
+   .globl _start
+   _start:
+    pushq $25
+    pushq $78
+    pushq $45
+    popq %rcx
+son:
+    movl $1, %eax
+    int  $0x80
+Test:
+(gdb) break son
+Breakpoint 1 at 0x40007f
+(gdb) run
+Starting program: 
+Breakpoint 1, 0x000000000040007f in son ()
+(gdb) info registers $rcx
+69
+rcx            0x2d     45
+(gdb) 
+İzahı:  Tutaq ki, proqramın  vv lind  (ə ə ə _start nişanı) stekin v ziyy ti aşağıdakı kimidir: ə ə
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________| ← %rsp  
+Proqramın ilk instruksiyası    pushq $25 stek  ə 25 qiym tini yerl şdirir v  stek göst ricisi aşağı ə ə ə ə
+sürüşür.
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |____25___| ← %rsp  
+Növb ti instruksiya stek   ə ə 78 qiym tini yerl şdirir,       ə ə pushq $78.
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |____25___|
+  |____78___| ← %rsp  
+Görgüyümüz kimi yeni qiym tl r stek  h miş  n üstd n yerl şdirilir. Proqramın növb ti ə ə ə ə ə ə ə ə ə
+instruksiyası stek   45 qiym tini yerl şdirir,   ə ə ə pushq $45.  Stek göst ricisi (ə %rsp) aşağı sürüşür 
+.  
+    Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |____25___|
+  |____78___|
+70
+  |____45___| ← %rsp  
+Növb ti instruksiya stekin n üstünd  olan m lumatı ə ə ə ə %ecx reqistrin  yazır v  stek reqistri ə ə
+yuxarı sürüşür,     popq %rcx.  Baxdığımız halda stekin n üstündə ə 45 qiym ti dayandığından ə
+( n üstd  h miş  stek  n son yerl şdiril n m lumat yerl şir)  ə ə ə ə ə ə ə ə ə ə %ecx -  ə 45 qiym ti yazılar.ə
+    Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |____25___|
+  |____78___| ← %rsp  
+Bu çalışmada biz stek il  işin mahiyy tini, y ni  n sonuncu yerl şdiril n n birinci çıxır ə ə ə ə ə ə ə
+prinsipini izah etdik.
+Çalışma 6.  Stekd n istifad  etm kl  ə ə ə ə %eax v  ə %ebx reqistrl rinin qiym tini d yiş n proqram ə ə ə ə
+t rtib edin.ə
+H lli.ə   Nümun  kod aşağıdakı kimi olar:ə
+ 
+ .data
+ .text
+   .globl _start
+   _start:
+  movq $1, %rax
+  movq $2, %rbx
+  pushq %rax
+  pushq %rbx
+y:
+  popq %rax
+  popq %rbx
+son:
+    movl $1, %eax
+    int  $0x80
+71
+Test:
+ 
+(gdb) break y
+Breakpoint 1 at 0x400088
+(gdb) break son
+Breakpoint 2 at 0x40008a
+(gdb) run
+Starting program:                                                   
+Breakpoint 1, 0x0000000000400088 in y ()
+(gdb) info registers $rax $rbx
+rax            0x1      1
+rbx            0x2      2
+(gdb) c
+Continuing.
+Breakpoint 2, 0x000000000040008a in son ()
+(gdb) info registers $rax $rbx
+rax            0x2      2
+rbx            0x1      1
+(gdb)
+İzahı:   Proqramın vv lind  bizə ə ə  %eax v  ə %ebx reqistrl rin  uyğun olaraq ə ə 1 v  ə 2 qiym tl ri ə ə
+yerl şdirirk. Proqramın sonunda is  h min qiym tl r d yişilmiş olur. M qs d sad c  stekin ə ə ə ə ə ə ə ə ə ə
+nec  işl diyini izah et kdir. Stek   n son yerl şdiril n m lumat n birinci çıxarılır.  Tutaq ki, ə ə ə ə ə ə ə ə ə
+proqramın başlanğıcında stekin v ziyy ti aşağıdakı kimidir:ə ə
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________| ← %rsp  
+vv lc  stek  Ə ə ə ə %rax reqistrinin qiym tini yerl şdiririk:ə ə
+  pushq %rax
+%rax reqistrinin qiym ti stek  yazılır. ə ə %rsp reqistrinin qiym ti ə 8 bayt  “aşağı”   sürüşür(azalır).
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |__%rax___| ← %rsp  
+72
+Daha sonra stek  ə %rbx reqistrinin qiym tini yerl şdiririk:ə ə
+  pushq %rbx
+%rbx reqistrinin qiym ti stek  yerl şdirilir.  ə ə ə %rsp reqistrinin qiym ti növb ti d f  ə ə ə ə 8 bayt 
+“aşağı”   sürüşür(azalır).
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |__%rax___|
+  |__%rbx___| ← %rsp  
+Hal-hazırda stekin  n üstünd  ə ə %rbx, ondan sonra is  (stekin yuxarısına doğru) ə %rax 
+reqistrl ri yerl şir.  İndiki v ziyy td  pop instruiksiyası il  stekd n m lumat götürs k birinci ə ə ə ə ə ə ə ə ə
+olaraq stekin n üstünd  olan m lumat qaytarılacaq, y ni ə ə ə ə %rbx -in qiym ti v  stek reqistri 8 ə ə
+bayt “yuxarı”  sürüş c k.  Növb ti instruksiya bu işi yerin  yetirir.ə ə ə ə
+    popq %rax
+Yuxarıdakı instruksiya reqistrin n üstünd  olan m lumatı göter r k ə ə ə ə ə %eax reqistrin  yazır v  ə ə
+stek göst ricisi ə “yuxarı”  sürüşür. 
+     Stek
+   _________
+  |_________|
+  |_________|
+  |_________|
+  |__%rax___| ← %rsp  
+Növb ti  instruksiya il  stekin n üstünd  olan ə ə ə ə 8 bayt m lumatı ə %ebx reqistrin  köçürürük.ə
+  popq %rbx
+Stekin v ziyy ti aşağıdakı kimi olar:ə ə
+     Stek
+   _________
+73
+  |_________|
+  |_________|
+  |_________| ← %rsp  
+%eax v  ə %ebx reqistrl rini stek  yerl şdirdikd n sonra onları yerl şdirdiyimiz ardıcıllığın ks ə ə ə ə ə ə
+ardıcıllığı olaraq stekd n çıxarırıq.ə
+Suallar. 
+    1.  Stek  n dir ?ə
+    2.  Stek  m lumat yerl şdirm k üçün hansı instruksiyadan istifad  olunur?ə ə ə ə ə
+    3.  Stekd n  m lumat götürm k üçün  hansı instruksiyadan istifad  olunur?ə ə ə ə
+    4.  Stek göst ricisi n dir ?ə ə
+    5.  Prosessorun hansı reqistri h miş  stekin ə ə “ n üstün ” ə ə  istinad edir ?
+    6.  64 bitlik sistemdı pushq instruksiyası icra ed rk n ə ə %rsp reqistrinin qiym ti nec  d yişir?ə ə ə
+    7.  64 bitlik sistemdı popq instruksiyası icra ed rk n ə ə %rsp reqistrinin qiym ti nec  d yişir?ə ə ə
+     8. Aşağıdakı kod icra olunduqda %rbx reqistrinin qiym ti neç  olar?ə ə
+    pushq $56
+    pushq $32
+    movq $4, %rax
+    pushq $rax
+    popq %rbx
+ 
+    9. Tutaq ki, %rax reqistrinin qiym ti ə 12 -y , ə %rbx reqistrinin qiym ti is  ə ə 34 -  b rab rdir.ə ə ə
+    movq $12, %rax
+    movq $34, %rbx
+ Aşağıdakı koddan sonra h r iki reqistrin qiym ti neç  olar?ə ə ə
+    pushq %rax
+    popq  %rbx  
+  Yaddaş t dqiqi.ə
+ 
+   Çalışma 1. Stek göst ricisinin qiym tini mü yy nl şdirin.ə ə ə ə ə
+H lli.ə  Sad  bir proqram t rtib ed k v  proqramı kod hiss sind  h r-hansı nişan t yin ed k. ə ə ə ə ə ə ə ə ə
+74
+H min nişanda proqramın icrasını saxlayaq v  stek reqistrinin qiym tini örg nm k üçün ə ə ə ə ə info 
+registers $rsp mrini daxil ed k.ə ə
+Nümun  proqram aşağıdakı kimi olar:ə
+.data
+.text
+.globl _start
+_start:
+movl $4, %ebx
+son:
+movl $1, %eax
+int $0x80
+N tic :ə ə
+(gdb) break son
+Breakpoint 1 at 0x4000bc
+(gdb) run
+Starting program: 
+Breakpoint 1, 0x00000000004000bc in son ()
+(gdb) info registers $rsp
+rsp   0x7fffffffe208      0x7fffffffe208
+(gdb)
+Burada biz son nişanında proqramın icrasını dayandırırıq v  stek göst ricisinin qiym tini ə ə ə
+yoxlayırıq. Stek registri 0x7fffffffe208 ünvanına istinad edir. Bu qiym t 16-lıq say sistemind  ə ə
+verilib. Say sisteml ri il  6-cı paraqrafda tanış olacayıq. ə ə
+Çalışma 2. Stek göst ricisinin qiym tini t yin edin v  yaddaşın h min ünvanında (stekd ) ə ə ə ə ə ə
+yerl ş n 64 bayt m lumatı çap edin .   ə ə ə
+H lli. vv lc  stekin göst ricisinin qiym tini örg nm liyik. Daha sonra yaddaşı oxu mri il  ə Ə ə ə ə ə ə ə ə ə
+stek göst ricind n 64 bayt vv l g l n m lumatı oxuyacayıq. N z r  almalıyıq ki, stek  ə ə ə ə ə ə ə ə ə ə ə
+m lumatlar ünvanın azalması istiqam tind  lav  olunur. ə ə ə ə ə
+75
+Nümun  proqram kodu aşağıdakı kimi olar:ə
+.data
+.text
+.globl _start
+_start:
+movl $4, %ebx
+son:
+movl $1, %eax
+int $0x80
+Proqramı gdb il  yükl y k v  ə ə ə ə son nişanında proqramın icrasını dayandıraq. Daha sonra stek 
+göst ricisinin qiym tini örg n k:ə ə ə ə
+(gdb) break son
+Breakpoint 1 at 0x40007d
+(gdb) run
+Starting program:                          
+Breakpoint 1, 0x000000000040007d in son ()
+(gdb) info registers $rsp
+rsp            0x7fffffffe250   0x7fffffffe250
+(gdb)
+İndi is  bu ünvandan ə 64 bayt yuxarı (stek boyu yuxarı qalxdıqca yaddaş ünvanı azalır) hiss niə  
+t hlil etm liyik. Bunun üçün x mrind n istifad  etm liyik.  mr aşağıdakı kimi olar:ə ə ə ə ə ə Ə
+(gdb) x /8dg 0x7fffffffe250
+Burada gdb -y  deyilir ki, ə 0x7fffffffe250 ünvanından başlayaraq 8 baytlıq hiss l rl  yaddaşın ə ə ə
+növb ti ə 8 hiss sini çap et. C mi çap olunan yaddaşın ölçüsü ə ə 8*8 = 64 olur. mri daxil ed k:Ə ə
+(gdb) x /8dg 0x7fffffffe250
+0x7fffffffe250: 1       140737488348492
+0x7fffffffe260: 0       140737488348518
+0x7fffffffe270: 140737488348551 140737488348568
+0x7fffffffe280: 140737488348584 140737488348617
+(gdb)
+Çalışma 3 . Stek  müxt lif  qiym tl r yerl şdirin v  yaddaşı t dqiq edin.ə ə ə ə ə ə ə
+76
+H lliə . Nümun  proqram kodu aşağıdakı kimi olar:ə
+.data
+.text
+.globl _start
+_start:
+#steke muxtelif qiymetler yerleshdirek
+pushq $9
+pushq $45
+pushq $890
+pushq $234
+pushq $78
+pushq $312
+pushq $7
+pushq $3466
+pushq $555
+pushq $809
+pushq $3
+son:
+movl $1, %eax
+intl $0x80
+vv lki qayda il  stekin yaxın trafını t dqiq ed k:Ə ə ə ə ə ə
+(gdb) break son
+Breakpoint 1 at 0x4000a0
+(gdb) run
+Starting program:       
+Breakpoint 1, 0x00000000004000a0 in son ()
+(gdb) info registers $rsp
+rsp            0x7fffffffe1f8   0x7fffffffe1f8
+(gdb) x /12dg 0x7fffffffe1f8
+0x7fffffffe1f8: 3       809
+0x7fffffffe208: 555     3466
+0x7fffffffe218: 7       312
+0x7fffffffe228: 78      234
+0x7fffffffe238: 890     45
+0x7fffffffe248: 9       1
+(gdb) 
+77
+5 
+Funksiyalar  
+Bu bölm d   Assemblerin n vacib mövzusu – Funksiyalar, funksiyaların proqram ə ə ə
+kodlarının t rtibi, funksiyalara parametr ötürm k v  el c  d  x86 arxitekturasında funksiyanınə ə ə ə ə ə  
+çağırılması v  geri qayıtması mexanizmi il  tanış olacayıq. ə ə
+ Funksiyanın proqram kodu
+Funksiyalar proqramın .text hiss sind  elan olunmuş  nişanlardır.  1-ci başlıqda ə ə jmp – keçid 
+instruksiyası il  tanış olduq v  qeyd etdik ki, ə ə jmp instruksiyası proqramın icrasını göst ril n ə ə
+nişandan davam etdirm k üçündür.  Funksiyalardan da bu m qs d üçün istifad  edirik. F rq ə ə ə ə ə
+yalnız ondadır ki, funksiyalar çağırıldığı ünvanı  “yadda”  saxlayır v  buna gör  proqramın ə ə
+hansı yerind n çağırmağımızdan asılı olmayaraq, öz işini qurtardıqdan sonra funksiya h min ə ə
+yer   ə “geri qayıda”  bilir.  
+Bundan lav  funksiya çağıran zaman biz stekd n istifad  etm kl  funksiyaya parametrl r ə ə ə ə ə ə ə
+d  ötür  bil rik. Qarşıdakı mövzuda bu v  dig r m s l l rin n  cür yerin  yetirildiyi müzakirə ə ə ə ə ə ə ə ə ə ə ə 
+olunur.
+Funksiyanı çağrmaq.
+78
+Funksiyanı çağırmaq üçün call instruksiyasından istifad  olunur. ə call instruksiyası bir 
+arqument q bul edir, çağırılmalı olan funksiyanın adını aşağıdakı kimi:ə
+       call  funksiyanın_adı
+N tic d  ə ə ə   funksiyanın_adı  funksiyası icra olunur, başqa sözl   ə   funksiyanın_adı   nişanına 
+keçid edilir. call  instruksiyası t kc  göst ril n nişana keçid etmir ( ks halda bunun üçün ə ə ə ə ə
+sad c  ə ə jmp instruksiyasından istifad  ed rdik), h m d  funksiyanın “ə ə ə ə geri qayıda” bilm si ə
+üçün funksiyanın “qayıtma ünvanını” stek  yerl şdirir.  ə ə
+Buradan  bir  m s l y   diqq t  yetirm k t l b olunur:  funksiyanın qayıtma ünvanı stek  ə ə ə ə ə ə ə ə ə
+yerl şdirilir, y ni ə ə call instruksiyası icra olunan zaman stekin v ziyy ti  d yişir.  Bunu ə ə ə
+aşağıdakı  fiqurdan gör  bil rik.ə ə
+Tutaq ki, call instruksiyasından vv l stekin v ziyy ti aşağıdakı kimidir:ə ə ə ə
+        Stek
+   __________________
+  |__________________|
+  |__________________|
+  |__________________| ← %rsp  
+  call instruksiyasından sonra stekin v ziyy ti aşağıdakı kimi d yiş r:ə ə ə ə
+        Stek
+   __________________
+  |__________________|
+  |__________________|
+  |__________________|
+  |__qayıtma-ünvanı__| ← %rsp  
+Qayıtma ünvanı stek  yerl şdirilir v  stek göst ricisi aşağı sürüşür. ə ə ə ə
+Funksiyadan geri qayıtmaq.
+Funksiyadan geri qayıtmaq üçün ret   instruksiyasından istifad  olunur.  ə ret instruksiyası heç 
+bir arqument q bul el mir, aşağıdakı kimi:ə ə
+   
+   ret
+79
+Bu instruksiya icra olunan zaman icraolunma funksiyanın çağırıldığı yer  qayıdır v  h min ə ə ə
+yerd n davam edir.  Bunun üçün ə ret instruksiyası sad c  stekin n üstünd  yerl ş n ə ə ə ə ə ə
+m lumatı qayıtma ünvanı kimi q bul edir v  h min ünvana keçid edir. Buradan bir m qam ə ə ə ə ə
+ortaya çıxır ki, funksiyadan qayıdan zaman stekin n üstünd  funksiyanın qayıtma ünvanı ə ə
+yerl şm lidir. ks halda başqa yer  keçid olunar. ə ə Ə ə
+Dem li funksiyanı çağırdıqdan sonra v  funksiya kodun icra etdikd  stek üz rind  m liyyat ə ə ə ə ə ə ə
+aparan zaman  bir m s l d n min olmalıyıq ki, biz funskiyanın qayıtma ünvanın korlamırıq ə ə ə ə ə
+v  bir d  stek m liyyatları stek göst ricisini yuxarı-aşağı sürüşdürdüyünd n funksiyadan ə ə ə ə ə ə
+qayıdan zaman stek göst ricisinin funksiyanın qayıtma ünvanına istinad etm sini t min ə ə ə
+etm liyik. Başqa sözl  ə ə ret instruksiyasını icra etm zd n önc  tam min olmalıyıq ki, stekin nə ə ə ə ə  
+üstünd  qayıtma ünvanı yerl şir.ə ə
+Buna n zar t etm k is  h tta kifay t q d r kiçik ölçülü proqram kodlarında bel  müşkül ə ə ə ə ə ə ə ə ə
+m s l dir.  Sistem müh ndisl ri çıxış yolu olaraq ə ə ə ə ə %rbp reqistrind n istifad ni t min etmişl r. ə ə ə ə
+%rbp reqistrind n istifad d  m qs d stek göst ricisinin funksiya çağırılan andakı qiym tini ə ə ə ə ə ə ə
+qorumaq v  funksiya qayıdan zaman h min qiym ti b rpa etm kdir. Bunun üçün funksiya ə ə ə ə ə
+kodunun başlanğıcında ilk olaraq aşağıdakı iki instruksiya icra olunmalıdır:
+    pushq %rbp
+    movq %rsp, %rbp
+N tic d  ə ə ə %rbp reqistri stek  yerl şdirilir v  onun qiym ti stek göst ricisinin qiym ti il  ə ə ə ə ə ə ə
+v zl nir.   Funksiyanın icrası zamanı ə ə ə %rbp -reqistrinin qiym tini d yişm k olmaz. Bel lik  ə ə ə ə ə
+%rbp funksiyanın icrası boyu h miş  stekin üstünün funksiya çağırılan andakı qiym tin  ə ə ə ə
+istinad etmiş olur. Funksiyadan qayıtma zamanı is  biz bu instruksiyaları ksin  icra etm kl  ə ə ə ə ə
+stek göst ricisinin  və ə %rbp reqistrl rinin funksiya çağırılan andakı qiym tl rini b rpa etmiş ə ə ə ə
+olarıq, aşağıdakı kimi:
+    movq %rbp, %rsp
+    popq %rbp
+Artıq bu zaman %rsp reqistri funksiya çağırılan andakı v ziyy tin  qayıtmış olur v  h min ə ə ə ə ə
+v ziyy td  stekin n üstünd  funskyanın qayıtma ünvanı yerl şdiyind n ret instruksiyasını ə ə ə ə ə ə ə
+icra ed  bil rik. Bunları n z r  alsaq assembler funksiyalarının ilk 2 s tri ə ə ə ə ə ə
+    pushq %rbp
+    movq %rsp, %rbp
+son 3 s tri aşağıdakı kimi olmalıdır:ə
+    movq %rbp, %rsp
+    popq %rbp
+    ret
+80
+Bel likl  biz assembler funksiyasının prototipini almış oluruq:ə ə
+funksiyanın_adı:
+    #hazırlıq işləri
+    pushq %rbp
+    movq %rsp, %rbp
+    #funksyanın proqram kodu
+    #geri qayıtma kodu
+    movq %rbp, %rsp
+    popq %rbp
+    ret
+Yuxarıda biz x86 arxitekturalı prosessorların funksyanı çağırılması v  geri qayıtması ə
+mexanizmi il  tanış olduq. Lakin bunları bilm k h l  assembler dilind  funksiyalarla işl m yinə ə ə ə ə ə ə  
+“dadını çaxartmağa”  imkan vermir. H ll olunması g r k n bir m s l  v  kifay t q d r vacib ə ə ə ə ə ə ə ə ə ə ə
+m s l  funksiyalara parametr ötürülm si m s l sidir, hansı il  ki biz növb ti mövzuda tanış ə ə ə ə ə ə ə ə ə
+olacayıq. Amma etiraf edim ki, bu call v  ret instruksiyalarının işini başa düşm k q d r ç tin ə ə ə ə ə
+deyil, g r yaddaşa müraci t v  stek m liyyatları  yaxşı m nims nilibs .ə ə ə ə ə ə ə ə ə
+Funksiyaya parametr ötürm kə
+Stek bölm sind  stek yaddaşının funkiyalar üçün çox vacib h miyy t daşıdığını qeyd ə ə ə ə ə
+etmişdik. Bu yalnız funksiyanın qayıtma ünvanın stekd  yerl şdirilm si il  bitmir. Funksiyaya ə ə ə ə
+ötürül n parametrl r d  stek  yerl şdirilir. ə ə ə ə ə
+Funksiyaya parametr ötürm k üçün funksiyanı çağrmazdan önc  ona ötürm k ist diyimiz ə ə ə ə
+parametrl ri stek  yerl şdirm liyik, daha sonra is  funkiyanı çağırmalıyıq.  Funksiya kodundaə ə ə ə ə  
+is  yaddaşa müraci t etm  üsullarından istifad  etm kl  h min parametrl ri ld  ed  bil rik.ə ə ə ə ə ə ə ə ə ə ə ə
+Bu dedikl rimizi yani göst rm k m qs dil  aşağıda yalnız bir parametr q bul ed n funksiyaə ə ə ə ə ə ə ə ə  
+t rtib ed c yik. Test m qs di üçün t rtib etdiyimiz funksiya ona ötürül n parametrin qiym tiniə ə ə ə ə ə ə ə  
+bir vahid artırır. Lakin bu tamamil  test m qs di üçün t rtib olunan bir fuksiyadır v  m qs d ə ə ə ə ə ə ə
+sad c  parametrin stekd n ld  olunması qaydası il  tanış olmaqdır. Növb ti t rtib ə ə ə ə ə ə ə ə
+ed c yimiz test proqramda  is   funksiyaya parametr olaraq d yiş n ünvanı ötür c k v  ə ə ə ə ə ə ə ə
+yaddaşa müraci t üsullarından istifad  etm kl  funksiyanın n tic sini h min d yiş n  ə ə ə ə ə ə ə ə ə ə
+m nims d c yik. Bunu artıq funksiyalardan istifad nin nisb t n  daha praktik nümun si ə ə ə ə ə ə ə ə
+hesab etm k  olar. ə
+Bel likl  aşağıdakı proqram nümun sind  art adlı funksiya t rtib edirik. Funksiya bir parametrə ə ə ə ə  
+q bul edir v  h min parametrin qiym tini bir vahid artırır.  Daha sonra proqram kodunun ə ə ə ə
+traflı izahını ver c yik. Nümun  proqram kodu aşağıdakı kimi olar:ə ə ə ə
+81
+.data
+.text
+.globl _start
+_start:
+    #atr funksiyasina 65 qiymetini parametr olaraq
+    #oturek
+    pushq $65
+    #atr funksiyasini cagiraq
+    call art
+son:
+    movl $1, %eax
+    int  $0x80
+    #art funksiyasinin proqram kodu
+art:
+    #hazırlıq işləri
+    pushq %rbp
+    movq %rsp, %rbp
+    #funksyanın proqram kodu
+    #funksiyaya oturulen parametri stekden %rbx -e kocurek
+    movq 16(%rbp), %rbx
+    #parametrin qiymetini 1 vahid artiririq
+    incq %rbx
+    #geri qayıtma kodu
+    movq %rbp, %rsp
+    popq %rbp
+    ret  
+Izahı:  Tutaq ki, proqramın vv lind  stekin v ziyy ti aşağıdakı kimidir:ə ə ə ə ə
+               Stek
+         |------------------|
+         |                  |
+         |------------------|
+         |                  | ← %rsp
+         |------------------|
+vv lc  stek  65 qiym ti yerl şdiririkƏ ə ə ə ə ə
+82
+    pushq $65
+Stekin v ziyy ti:ə ə
+                Stek
+         |------------------|
+         |                  |
+         |------------------|
+         |                  |
+         |------------------|
+         |        65        | ← %rsp
+         |------------------| 
+Daha sonra art funksiyasını çağırırıq:
+    call art
+call instruksiyası yuxarıda qeyd etdiyimiz ki, funksiyanın qayıtma ünvanını stek  yerl şdirir. ə ə
+Ona gör  call instruksiyasından sonra  stekin v ziyy ti aşağıdakı kimi olar:ə ə ə
+                Stek
+         |------------------|
+         |                  |
+         |------------------|
+         |                  |
+         |------------------|
+         |        65        |
+         |------------------|
+         |  qayıtma-ünvanı  | ← %rsp
+         |------------------| 
+call instruksiyası qayıtma ünvanın stek  yerl şdirdikd n sonra proqramın icra istiqam tini art ə ə ə ə
+nişanına yönl ndirir v  proqram art nişanından(funksiyasından) icra olunmağa başlayır. art ə ə
+funksiyasında yuxarıda qeyd etdiyimiz kimi vv lc  hazırlıq işl ri görülür v  ə ə ə ə ə %rbp reqistri 
+stek  yerl şdirilir. ə ə
+    pushq %rbp
+83
+Stekin v ziyy ti aşağıdakı kimi olar:ə ə
+                Stek
+         |------------------|
+         |                  |
+         |------------------|
+         |                  |
+         |------------------|
+         |        65        |
+         |------------------|
+         |  qayıtma-ünvanı  |
+         |------------------|
+         |       %rbp       | ← %rsp
+         |------------------| 
+ Daha sonra is   ə %rbp -y  ə %rsp -ni köçürürük:
+    movq %rsp, %rbp
+N tic d  ə ə ə %rbp %rsp -nin istinad etdiyi ünvana, stekin n üstün  istinad etmiş olur:ə ə
+                Stek
+         |------------------|
+         |                  |
+         |------------------|
+         |                  |
+         |------------------|
+         |        65        |
+         |------------------|
+         |  qayıtma-ünvanı  |
+         |------------------|
+  %rbp → |       %rbp       | ← %rsp
+         |------------------| 
+ Daha sonra aşağıdakı mr il  funksiyaya örüdüyümüz parametri ə ə %rbx reqistrin  köçürürük:ə
+    movq 16(%rbp), %rbx
+Yaddaşa mürac t üsuluna gör   ə ə 16(%rbp)  ifad si  yaddaşınə   %rbp + 16 ünvanına istinad 
+edir.  Bu %rbp -d n 16 bayt yuxarı ünvandır.   ə %rbp -nin hal-hazırda istinad el diyi ünvanda ə
+%rbp -nin vv lki qiym ti, ondan 8 bayt yuxarıda qayıtma ünvanı, 16 bayt yuxarıda is  ə ə ə ə
+84
+funksiyaya ötürdüyümüz parametr yerl şir.  64 bitlik sistel rd  stek  yerl şdiril n h r-bir ə ə ə ə ə ə ə
+m lumat 8 bayt yer tutur(32 bitlik sisteml rd  4 bayt). ə ə ə
+Bel lik  yuxarıdakı instruksiya funksyaya ötürdüyümüz parametri ə ə %rbx reqistrin  köçürür.ə
+Çalışma 1. İki d yiş nin c mini hesablamaq üçün cem funksiyası t rtib edin. cem ə ə ə ə
+funksiyasından istifad  etm kl  proqram qurun.ə ə ə
+H lliə . vv lc  proqram kodunu daxil ed k, daha sonra izahı ver rik:Ə ə ə ə ə
+.data
+# long tipinden x ve y deyishenleri icra edek
+x:
+.long 5
+y:
+.long 14
+s:
+.long 0
+.text
+.globl _start
+_start:
+#s -in unvanin steke yerleshdir
+pushq $s
+# ikinci deyisheni steke yerleshdir
+pushq y
+# birinci deyisheni steke yerleshdir
+pushq x
+# cem funksiyasini cagir
+call cem
+son: 
+movl $1, %eax
+int $0x80
+#cem funksiyasi
+cem:
+pushq %rbp
+movq %rsp, %rbp
+# birinci parametri %rax -e yazaq
+movq 16(%rbp), %rax
+# ikinci parametri %rbx -e yazaq
+movq 24(%rbp), %rbx
+# %rax -le %rbx -i cemleyek
+addq %rax, %rbx
+85
+# cemi s deyishenine yazaq
+# evvelce s -in unvanin stekden %rax -e kocurek
+movq 32(%rbp), %rax
+# indi ise unvani %rax -de olan yere(s) neticeni yazaq
+movq %rbx, (%rax)
+# geri qayidiriq
+movq %rbp, %rsp
+popq %rbp
+ret
+Izahı:
+Proqramda long tipind nə  x, y və s d yiş nl ri elan edirik v  onlara uyğun olaraq 5, 14 v  0 ə ə ə ə ə
+qiym tl ri m nims dirik. cem funksiyasını çağırmazdan önc  ona ötürül n parametrl ri stekə ə ə ə ə ə ə ə 
+yerl şdiririk. İlk olaraq stek  s d yiş ninin ünvanını yerl şdiririk. Daha sonra ə ə ə ə ə y v  ə x 
+d yiş nl rinin qiym tl rini yerl şdiririk. Bu halda stekin v ziyy ti aşağıdakı kimi olar:ə ə ə ə ə ə ə ə
+s-in ünvani__|
+y          __|
+x          __| <-- %rsp 
+call cem instruksiyası il  ə cem funksiyanı çağırırıq. call instruksiyası qayıtma ünvanın stek  ə
+yerl şdirir ə cem fumksiyasını çağırır. Stek bel  olar:ə
+s-in ünvani__|
+y          __|
+x          __|
+qyt.ünv    __| <-- %rsp 
+cem funksiyası icra olunur v  ilk olaraq ə %rbp -ni stek  yerl şdirir v  ə ə ə %rsp -ni %rbp-y  ə
+köçürür. Stek bel  olar:ə
+s-in ünvani __|
+y           __|
+x           __|
+qyt.ünv     __|
+%rbp(kohne) __| <-- %rsp 
+Daha sonra birinci d yiş ni (x) srtekd nə ə ə  %rax -  köçürürük.ə
+movq 16(%rbp), %rax
+Paraqraf 2 -d  örg ndiyimiz unvanin hesablanma qaydasına sas n ə ə ə ə 16(%rbp) = 
+16 + %rbp. Bu ünvanda is  ə x d yiş ni yerl şir.ə ə ə
+Stek
+------------
+86
+s-in unvani __| <-- %rbp + 32
+y           __| <-- %rbp + 24
+x           __| <-- %rbp + 16
+qay.ünv     __| <-- %rbp + 8
+%rbp(kohne) __| <-- %rsp, %rbp(yeni)
+-----------
+Daha sonra movq 24(%rbp), %rbx instruksiyası il  ə y-i %rbx -e yazırıq.
+addq %rax, %rbx instruksiyası %rax-l  ə %rbx -i c ml yir. ə ə
+s-in ünvanın %rax -  köçürürük.ə
+movq 32(%rbp), %rax
+%rbx -i unvanı %rax -de yerl ş n yaddaşa köçürürük.ə ə
+movq %rbx, (%rax)
+Daha sonra %rbp v  ə %rsp reqistrl rinin vv lki qiym tl rini b rpa edirik v  funksiyadan geri ə ə ə ə ə ə ə
+qayıdırıq.
+Çalışma 2. Çalışma 1 -d  t rtib olunmuş ə ə cem funksiyasını test edin.
+vv lc  proqramı kompilyasiya edib Ə ə ə gdb il  yükl y k, ə ə ə cem v  ə son nişanlarında dayanma 
+t yin ed k:ə ə
+(gdb) break cem
+Breakpoint 1 at 0x4000d3
+(gdb) break son
+Breakpoint 2 at 0x4000c8
+(gdb)
+Proqramı icra ed k. Proqram icra olunacaq v  ə ə cem nişanında(funksiya) dayanacaq.
+(gdb) run
+Starting program:  
+Breakpoint 1, 0x00000000004000d3 in cem ()
+(gdb)
+Bu yerdə s d yiş nin qiym tini örg nm k üçün ə ə ə ə ə print s mrini daxil ed k:ə ə
+(gdb) print s
+$1 = 0
+(gdb)
+Daha sonra proqramı davam etm k üçün ə c mrini daxil ed k, proqram icra olunacaq v  son ə ə ə
+nişanında dayanacaq.
+(gdb) c
+Continuing.
+Breakpoint 2, 0x00000000004000c8 in son ()
+87
+(gdb)
+Artıq c m funksiyası icra olunmuşdur, ə s d yiş ninin qiym tini bir daha yoxlayıb funksiyanın ə ə ə
+düzgün işl diyin  min olaq:ə ə ə
+(gdb) print s
+$2 = 19
+(gdb) 
+Çalışma 3. İki d din n böyüyünü hesablamaq üçün ə ə ə en_boyuk funksiyası t rtib edin. ə
+en_boyuk funksiyasından istifad  etm kl  proqram qurun.ə ə ə
+H lliə : Nümun  proqram aşağıdakı kimi olar:ə
+.data
+# long tipinden x ve y deyishenleri icra edek
+x:
+.long 123
+y:
+.long 56
+s:
+.long 0
+.text
+.globl _start
+_start:
+#s -in unvanin steke yerleshdir
+pushq $s
+# ikinci deyisheni steke yerleshdir
+pushq y
+# birinci deyisheni steke yerleshdir
+pushq x
+# en_boyuk funksiyasini cagir
+call en_boyuk
+son: 
+movl $1, %eax
+int $0x80
+#en_boyuk funksiyasi
+en_boyuk:
+pushq %rbp
+movq %rsp, %rbp
+# birinci parametri %rax -e yazaq
+movq 16(%rbp), %rax
+# ikinci parametri %rbx -e yazaq
+movq 24(%rbp), %rbx
+88
+# ucuncu parametri %rcx -e yazaq
+movq 32(%rbp), %rcx
+# muqaise edek
+cmp %rax, %rbx
+jg birinci_boyuk
+movq %rbx, (%rcx)
+birinci_boyuk:
+movq %rax, (%rcx) 
+# geri qayidiriq
+movq %rbp, %rsp
+popq %rbp
+ret
+N tic :ə ə
+(gdb) break en_boyuk 
+Breakpoint 1 at 0x4000d3
+(gdb) break son
+Breakpoint 2 at 0x4000c8
+(gdb) run
+Starting program:   
+Breakpoint 1, 0x00000000004000d3 in en_boyuk ()
+(gdb) print s
+$1 = 0
+(gdb) c
+Continuing.
+Breakpoint 2, 0x00000000004000c8 in son ()
+(gdb) print s
+$2 = 123
+(gdb) 
+Suallar.
+1. Funksiya  çağırmaq üçün hansı instruksiyadan istifad  olunur ?ə
+2.  call instruksiyası il  ə jmp instruksiyasının f rqi n dir?ə ə
+3.  Funksiyadan geri qayıtmaq üçün hansı isntruksiyadan istifad  olunur ?ə
+4.  ret instruksiyası geri qayıtma ünvanını nec  mü yy n edir ?ə ə ə
+5.  %rbp reqistri n  üçün istifad  olunur ?ə ə
+Çalışmalar.
+89
+Çalışma 1. Funksiyalardan istifad  etm kl  c rg nin n böyük elementini tapan proqram ə ə ə ə ə ə
+t rtib edin.ə
+Çalışa 2. Funksyalardan istifad  etm kl  s trin uzunluğunu hesablayan proqram t rtib edin.ə ə ə ə ə
+Çalışma 3. Funksiyalardan istifad  etm kl  s trid  verilmiş simvolların sayını tapan proram ə ə ə ə ə
+t rtib edin.ə
+Çalışma 4. Funksiylardan istifad  etm kl  tam d dl r c rg sind  verilmiş d din neç  d fə ə ə ə ə ə ə ə ə ə ə ə ə ə 
+t krarlandığını hesablayan proqram t rtib edinə ə
+Çalışma 5. Funksiylardan istifad  etm kl  c rg nin elementl ri c mini hesablayan proqram ə ə ə ə ə ə ə
+t rtib edin.ə
+Yaddaşın  t hlili.ə
+Aşağıdakı çalışmanı yerin  yetirm kd  m qs d call instruksiyasının funksiyanın qayıtma ə ə ə ə ə
+ünvanını stek  yerl şdirdiyini yoxlamaqdır. ə ə
+ Çalışma.   funk  adlı funksiya t rtib edin.  Funksiyaya 3 parametr ötürün.  Funksiyanın ə
+çağrılma yerind  proqramın icrasını dayandırın.  Daha sonra yaddaşı t dqiq edin v  ə ə ə
+funksiyaya ötürül n parametrl rin stek  yerl şdirdiyin  min olun.  Daha sonra növb ti ə ə ə ə ə ə ə
+icraolunmalı instruksiyanın ünvanın çap edin. Bu funksiyanın qayıtma ünvanıdır.  Növb ti ə
+instruksiyanı (call) icra edin v  steki yoxlayın. Call instruksiyasının funksiyanın qayıtma ə
+ünvanını stek  yerl şdirdiyini yoxlayın.ə ə
+Nümun  proqram kodu aşağıdakı kimi olar:ə
+.data
+.text
+.globl _start
+_start:
+    #funksiyaya parametrler oturek
+    pushq $67
+    pushq $89
+90
+    pushq $32
+    #proqramin icrasini funk-u cagirmazdan once 
+    #dayandirmaq ucun stop nishani elan edek
+evvel:
+    #funk funksiyasini cagiraq
+    call funk
+sonra:
+son:
+    movl $1, %eax
+    int  $0x80
+    #atr funksiyasinin proqram kodu
+funk:
+    #hazırlıq işləri
+    pushq %rbp
+    movq %rsp, %rbp
+    #funksyanın proqram kodu
+    #geri qayıtma kodu
+    movq %rbp, %rsp
+    popq %rbp
+    ret  
+Test:
+Proqramın icrasını funksiyanı çağırmazdan önc  dayandıra bilm k üçün  ə ə evvel adlı nişan 
+t yin edirik.  Funksiyanın qayıtma ünvanı call instruksiyasından sonra g l n instruksiyanın ə ə ə
+ünvanıdır v  call instruksiyası m hs h min ünvanı stek  yerl şdirir. Bu ünvanı ld  ed  ə ə ə ə ə ə ə ə
+bilm k üçün call instruksiyasından sonra ə sonra nişanı t yin edirik.  Gdb il  proqramı yükl yirikə ə ə  
+v  ə evvel v  ə funk nişanlarında dayanma t yin edirik. ə
+(gdb) break evvel
+Breakpoint 1 at 0x40007e: file tmp.s, line 22.
+(gdb) break funk
+Breakpoint 2 at 0x40008e: file tmp.s, line 40.
+(gdb) 
+Proqramı icra edirik.  evvel nişanında proqramın icrası dayanır. 
+(gdb) run
+Starting program: /home/ferid/Documents/tmp 
+Breakpoint 1, evvel () at tmp.s:22
+22          call funk
+91
+(gdb)  
+Bu yerd  biz artıq funksiyaya parametrl r ötürmüşük, lakinə ə  call instruksiyası h l  icra ə ə
+olunmayıb.  Steki yoxlayaq v  funksiyaya ötürdüyümüz parametrl rin stekd  oluğuna min ə ə ə ə
+olaq.
+(gdb) print sonra
+$2 = {<text variable, no debug info>} 0x400083 <sonra>
+(gdb) info registers $rsp
+rsp            0x7fffffffe238   0x7fffffffe238
+(gdb) x /8xg 0x7fffffffe238
+0x7fffffffe238: 0x0000000000000020      0x0000000000000059
+0x7fffffffe248: 0x0000000000000043      0x0000000000000001
+0x7fffffffe258: 0x00007fffffffe54b      0x0000000000000000
+0x7fffffffe268: 0x00007fffffffe565      0x00007fffffffe586
+(gdb) 
+Funksiyanın qayıtma ünvanını örg n k:ə ə
+(gdb) print sonra
+$2 = {<text variable, no debug info>} 0x400083 <sonra>
+(gdb) 
+Dem li ə call instruksiyası icra olunanda  0x400083  ünvanını stek  yerl şdirm lidir. Proqramın ə ə ə
+icrasını davam ets k o ə funk nişanında (funksiyasında) dayanacaq, y ni ə call -dan sonra. Call 
+instruksiyasının stek göst ricisinin qiym tini d yişdirdiyini n z r  alsaq stek yoxlamaq üçün ə ə ə ə ə ə
+%rsp reqistrinin qiym tini yenid n örg nm li, daha sonra steki yoxlayaraq   ə ə ə ə 0x400083   
+ünvanının  stek  yerl şdirildiyin  min olmalıyıq. ə ə ə ə
+(gdb)c
+Continuing.
+Breakpoint 2, funk () at tmp.s:40
+40          movq %rbp, %rsp
+(gdb) info registers $rsp
+rsp            0x7fffffffe228   0x7fffffffe228
+(gdb) x /8xg 0x7fffffffe228
+0x7fffffffe228: 0x0000000000000000      0x0000000000400083
+0x7fffffffe238: 0x0000000000000020      0x0000000000000059
+0x7fffffffe248: 0x0000000000000043      0x0000000000000001
+0x7fffffffe258: 0x00007fffffffe54b      0x0000000000000000
+(gdb) 
+Gördüyümüz kimi call instruksiyası qayıtma ünvanını -   0x400083  stek   yerl şdirib. Bunu da ə ə
+yoxlamaq t l b olunurdu.ə ə
+92
+             6 
+Say 
+Sisteml riə  
+Bu mövzuda biz  2-lik, 10-luq v  16-lıq say sisteml rinin mahiyy ti, bir say ə ə ə
+sistemind n dig rin  keçid qaydalı il  tanış olacayıq. Qeyd edim ki, 2-lik say sisteml ri biz  ə ə ə ə ə ə
+sas n bit m liyyatları, 16-lıq say sisteml ri is  ünvanlarla işl y rk n lazım olur.ə ə ə ə ə ə ə ə ə
+İkili say sistemi 
+İkili say sistemind  ifad  olunan d dl r c mi iki simvol, 0 v  1 simvollarından ibar t olur. ə ə ə ə ə ə ə ə
+Aşağıdakı iki say sistemind  ifad  olunan d dl r , başqa sözl  ikili d dl r  müxt lif ə ə ə ə ə ə ə ə ə ə ə ə
+nümun l r göst rilir:ə ə ə
+    
+93
+    0,   1,    00,    10,    00101,   111111111,    0101011011
+Gördüyümüz kimi bu d dl r sad c  0 v  1 -l r ardıcıllığından ibar tdir. Bu d dl ri bizim ə ə ə ə ə ə ə ə ə ə ə
+yaxşı tanıdığımız 10-luq d dl r  çevirm k üçün qaydalar mövcuddur. G lin bu qayda il  ə ə ə ə ə ə ə
+tanış olaq.
+İkili d din 10-luq d d  çevrilm si.ə ə ə ə ə ə
+İkili d din 10-luq d d  çevirm nin addımlarını izah ed k v  konkret misallar üz rind  ə ə ə ə ə ə ə ə ə ə
+göst r k. Tutaq ki, aşağıdakı ikili d di onluq d d  çevirm k t l b olunur.ə ə ə ə ə ə ə ə ə ə
+        1 0 0 1 0 1 0 1 1
+vv lc  verilmiş ikili d din r q ml rini sağdan sola  0-dan başlayaraq nömr l yirik:Ə ə ə ə ə ə ə ə ə ə
+ 
+Bundan sonra  2 d dinin  h r bir r q min nömr sin  uyğun qüvv tini hesablayırıq: ə ə ə ə ə ə ə ə
+28=256
+27=128
+26=64
+25=32
+24=16
+23=8
+22=4
+                21=2
+               20=1
+94
+Daha sonra h r bir r q m  uyğun hesabladığımız qüvv ti h min r q m  vurub alınan ə ə ə ə ə ə ə ə ə
+hasill ri c ml yirik.ə ə ə
+               
+ 1* 28 + 0* 27 + 0* 26 + 1* 25 + 0* 24 + 1* 23 + 0* 22 + 1* 21 + 1* 20  = 
+      1 * 256  +  0 * 128  +  0 * 64  +  1 * 32  +  0 * 16  +  1 * 8  +  0 * 4  +  1 *  2  +  1 * 1  =  
+      256 +  0  +  0  +  32  + 0  +  8  +  0  +  2  + 1   =   299
+N tic d  alınan d d verilmiş ikili d din onluq qarşılığı olar:ə ə ə ə ə ə ə
+       (b) 1 0 0 1 0 1 0 1 1   =   (d) 299  
+    
+ 
+d dl rin hansı say sistemin  aid olduğunu bildirm k üçün qarşısında möt riz d  müvafiq Ə ə ə ə ə ə ə ə
+say sistemi işar sini qeyd edirl r.  İkilik say sisteminin işar si  ə ə ə b – binary, 10 -luq say 
+sisteminin işar si  ə d – decimal, 16 – lıq say sisteminin iaşr si is  ə ə h – hexal -dır.  Dig r ə
+nümun l r  baxaq:ə ə ə
+  
+      10010110 = 1* 27 +  0* 26 + 0* 25 + 1* 24 + 0* 23 + 1* 22 + 1* 21  + 0*
+20  =  128 + 16 + 4+ 2 = 150
+       (b) 10010110    =   (d) 150  
+   
+Indi is  onluq d din ikili d d  çevrilm si il  m şğul olaq. ə ə ə ə ə ə ə ə ə
+Onluq d din ikili d d  çevrilm siə ə ə ə ə ə
+Onluq d di ikili d d  çevirm k üçün aşağıdakı qaydadan istifad  edirik: ə ə ə ə ə ə ə
+Onluq d di ikiy  bölürük, qalığı yadda saxlayırıq (qalıq 0 v  ya 1 ola bil r), qism ti is  ə ə ə ə ə ə ə
+yenid n ikiy  bölürük. Yenid n qalığı yadda saxlayırıq v  qism ti 2 -y  bölürük. Bu prosesi ə ə ə ə ə ə
+qism td  0 qiym ti alınana kimi davam etdiririk. Sonda bütün aldığımız qalıqları ks sıra il  ə ə ə ə ə
+düzs k verilmiş onluq d d  müvafiq ikili d di almış olarıq. Misal üçün 35 onluq d dini ikili ə ə ə ə ə ə ə ə
+d d  çevir k. ə ə ə ə
+95
+Qalıqları sondan vv l  düzs k alarıq: ə ə ə ə 100011
+      (d)  35   =  (b)  100011
+Başqa bir misal, 1378 onluq d dini ikili d d  çevir k: ə ə ə ə ə ə
+Qalıqları sondan vv l  düzs k alarıq:  ə ə ə ə 10101100010
+ 
+    (d)  1378  = (b)  10101100010
+96
+Ikili d dl rin toplanmasıə ə ə
+İkili d dl r d  onluq d dl r kimi toplana, çıxıla, vurula v  bölün  bil r. Biz sad c  ə ə ə ə ə ə ə ə ə ə ə ə
+toplamanın qaydasını göst r c yik. Dig r m ll r analoji qaydada aparılır. İkili d dl ri ə ə ə ə ə ə ə ə ə ə
+toplamaq üşün aşağıdakı qaydaları bilm liyik:ə
+    0 il  0-rı toplayanda 0 alırıqə
+    1 il  0-rı toplayanda 1 alırıqə
+    1 il  1-i  toplayanda  0 alırıq 1 yadda qalırə
+    1 il  1-i toplayanda v  yadda 1 olanda  0 alırıq 1 yadda qalır.ə ə
+İki d din müvafiq mövqed  yerl ş n r q ml rin sağdan sola bu qayda il  toplayırıq, onluq ə ə ə ə ə ə ə ə ə
+d l rin toplanması qaydasına oxşar. G lin   0101 v   1101 d dl rini toplayaq. ə ə ə ə ə ə ə ə
+   
+         
+   Sağdan sola yuxarıdakı qayda il  bu d dl ri toplayaq.  1 il  1-i topladıqda 1 alınır, yadda ə ə ə ə ə
+bir qalır.
+     
+    
+ 
+        --------------             (1 yadda)
+                      0       
+   0 il  0-rı tolayırıq 0 el yir üz rin  d  yaddaşdakı 1-i lav  edirik olur 1, yaddaşda heçn  ə ə ə ə ə ə ə ə
+qalmır.
+     
+    
+ 
+        --------------             (0 yadda)
+                  1 0       
+ Yen  1 il  1 I toplayırıq 0 eliyir,  yadda  1  qalır.ə ə
+     
+    
+ 
+        --------------             (1 yadda)
+97
+0 1 0 1
+1 1 0 1+
+0 1 0 1
+1 1 0 1+
+0 1 0 1
+1 1 0 1+
+0 1 0 1
+1 1 0 1+
+             0 1 0       
+   N hay t  0 il  1 -i toplayırıq 1 eliyir, yaddaşdakı 1 d  üz rin  lav  edirik olur 0 v  yadda ə ə ə ə ə ə ə ə ə
+yen  1 qalır.ə
+     
+    
+ 
+        --------------             (1 yadda)
+        0  0 1  0       
+  Bütün d dl ri topladığımızdan yaddaşdakı 1-i  yazırıq n vv l .ə ə ə ə ə ə ə
+     
+    
+ 
+        --------------             (1 yadda)
+     1 0  0 1  0       
+   
+  Bel lik     ə ə 0101  il    ə 1101  ikili d dl rinin c mi  ə ə ə ə 10010  -a b rab r oldu.   ə ə
+     0101 + 1101 = 10010    (b)
+   
+Qeyd  edim ki, g r toplananalarda r q ml rin sayı eynbi deyils  bu zaman r m ml rinin ə ə ə ə ə ə ə ə ə
+sayı az olan d din vv lin  t l b olunan sayda ə ə ə ə ə ə ə 0 artırırıq. Misal üşüm 101010110 il  ə  11011 -i 
+toplasaq 11011 -in vv lin  4 d n  ə ə ə ə ə 0 artırmalıyıq,  000011011. Daha sonra onları yuxarıdakı 
+qayda il  toplaya bil rik.ə ə
+16 - lıq say sistemi. 
+Yaddaş ünvanları il  işl y rk n d dl rin 16-lıq say sistemind ki ifad sind n istifad  etm k ə ə ə ə ə ə ə ə ə ə ə ə
+çox rahatdır. 16 - say sistemind ki r q ml r 16 simvol vast sil  ifad  olunur. Bu simvollar ə ə ə ə ə ə ə
+aşağıdakılardır:  
+         0, 1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, c, d, e, f 
+Burada 0,1,2 ... 9 r q ml ri onluq say sitemind ki müvafiq d dl r , ə ə ə ə ə ə ə ə a, b, c, d, e, f   r q ml ri ə ə ə
+is  onluq sistemd ki ə ə 10, 11, 12, 13, 14 v  ə 15 d dl rin  uyğun g lir.  16-lıq say sistemind  ifadə ə ə ə ə ə ə 
+olunan b zi d dl rl  tanış olaq:ə ə ə ə ə
+98
+0 1 0 1
+1 1 0 1+
+0 1 0 1
+1 1 0 1+
+   af9900e5, 12,  4444a, ffffffff, 300dd1bfee  
+Proqramlaşdırmada ad t n 16-lıq d dl rin vv linə ə ə ə ə ə ə ə 0x işar si artırılır:ə
+  0x44, 0x666ffde21, 0x87aa  
+16 -lıq d din 10 -luq d d  çevrilm si. ə ə ə ə ə ə
+16-lıq  d dl rin 10-luq d dl r  çevrilm si 2-lik d dl rin çevrilm sin  oxşardır. Nümun  ə ə ə ə ə ə ə ə ə ə ə ə ə ə
+sasında 16-lıq d din 10-luq d d  çevrilm si qaydası il  tanış olaq.  Tutaq ki, aşağıdakı ə ə ə ə ə ə ə ə
+16-lıq d di 10-luq d d  çevirm k ist yirik:ə ə ə ə ə ə ə
+         ff5a92ee
+ vv lc   16-lıq d di sağdan sola 0-dan başlayaraq nömr l yirik. Ə ə ə ə ə ə ə
+    
+ Daha sonra  16  d dinin  h r bir r q min nömr sin  uyğun qüvv tini hesablayırıq: ə ə ə ə ə ə ə ə
+167=268435456
+166=16777216
+165=1048576
+164=65536
+163=4096
+162=256
+                161=16
+99
+          160=1
+Daha sonra h r bir r q m  uyğun hesabladığımız qüvv ti h min r q m  vurub alınan ə ə ə ə ə ə ə ə ə
+hasill ri c ml yirik.ə ə ə
+               
+   f* 167 + f* 166 + 5* 165 + a* 164 + 9* 163 + 2* 162 + e* 161 + e* 160  
+  =    15 * 268435456   +  15 * 16777216  +  5 * 1048576  +  10 * 65536  +  
+    
+    9 * 4096  +  2 * 256  + 14 * 16  + 14 * 1 = 4284125934
+ Bel likl    ə ə  (h)  ff5a92ee  =  (d)  4284125934
+   
+Burada hasili hesablayark n 16-lıq simvolların 10-luq d d qarşılığından istifad  etdik. ə ə ə ə
+  
+Onluq d dl rin 16-lıq say sistemin  çevirilm si. ə ə ə ə ə
+Onluq d dl ri 16-lıq say sistemin  çevir rk n ikilik istem  çevidiyimiz qaydanı t tbiq ə ə ə ə ə ə ə ə
+ed c yik, lakin bölün n olaraq 2 yox, 16 -dan istifad  ed c yik. Misal üçün 20560414 onluq ə ə ə ə ə ə
+d dini 16 -lıq d d  çevir k: ə ə ə ə ə ə
+100
+16-lıq d dl rin toplanması.ə ə ə
+16 -lıq d dl r üz rind  hesab m lll ri 10-luq d dl r  oxşardır. Bunun üçün aşağıdakı ə ə ə ə ə ə ə ə ə ə ə ə
+qaydadan istifad  etm liyik. R q ml ri c ml m k üçün onların müvafiq 10-luq qarşılığından ə ə ə ə ə ə ə ə
+istifad  edirik. g r r q ml rin c mi 15 -  b rab r v  ya aşağı olarsa müvafiq r q mi yazırıqə Ə ə ə ə ə ə ə ə ə ə ə ə  
+v  yadda heçn  saxlamırıq. ks halda 15-d n böyük olduqda ondan 16 çıxırıq, n  qaldısa ə ə Ə ə ə
+müvafiq yer  yazırıq v  yadda bir saxlayırıq.  G lin iki 16-lıq d din toplanması nümun si ə ə ə ə ə ə
+üz rind  bu qaydalır il  tanış olaq.  Tutaq ki,  ə ə ə 7fd41a il   ə ad9e4c 16-lıq d dl rini toplamaq ə ə ə
+ist yirik.  ə
+   
+   
+ Sağdan sola bir -bir toplamağa başlayaq. İlk olaraq   a il  c -ni toplamalıyıq.  a-nın 10-luq ə
+qarşılığı – 10, c -nin onluq qarşılığı is  12-dir.  Bu ikisinin c mi 22 edir.  C m 15 -i ə ə ə
+keçdiyind n c md n 16 çıxırıq alınır 6, yadda qalır 1.ə ə ə
+   
+       -----------------------       (1 yadda)
+                               6
+         
+   1 il  4-ü toplayırıq edir 5, üz rin  yaddaşdakı 1-i lav  edirik edir 6., yadda heçn  qalmır.ə ə ə ə ə ə
+   
+       -----------------------       (0 yadda)
+                           6  6
+         
+  
+   Növb ti olaraq 4 il  e-ni toplamalıyıq. e-nin  10-luq qarşılığı 14 olduğundan c m 18 edir. 18 ə ə ə
+15 -d n böyük olduğuna gör  ondan qaydaya uyğun olaraq 16 çıxırıq, qalır 2, yadda is  1 ə ə ə
+olur.
+   
+       -----------------------       (1 yadda)
+101
+7 f d 4 1 a
+a d 9 e 4 c+
+7 f d 4 1 a
+a d 9 e 4 c+
+7 f d 4 1 a
+a d 9 e 4 c+
+7 f d 4 1 a
+a d 9 e 4 c+
+                      2  6  6
+         
+ d il  9 -un c mi 22 edir(d -ni 10-luq qarşılığı 13 b rab rdir).  22-nin üz rin  yaddaşdakı 1-i ə ə ə ə ə ə
+lav  edirik olur 23. Daha sonra qaydaya uyğun olaraq 23-d n  16 çıxırıq  alırıq 7 yadda is  1ə ə ə ə  
+qalır.
+   
+       -----------------------       (1 yadda)
+                  7  2  6  6
+         
+f il  d-nin c mi 28 olur, 1 -d  yadda eliyir 29( f-in 10 -luq qarşılığı 15 -dir).     29 -dan 16 çıxırıqə ə ə  
+alırıq 13, hansı ki 16-lıq d-y  uyğundur, yadda is  1 qalır.ə ə
+   
+       -----------------------       (1 yadda)
+             d  7  2  6  6
+         
+a il  7 -ni toplayırıq 17, üz rin  yaddaşdakı 1-i lav  edirik 18. 18 -d n 16 çıxırq 2, yadda ə ə ə ə ə ə
+qalır 1.
+   
+       -----------------------       (1 yadda)
+         2  d 7 2 6 6
+         
+   Sonda yaddaşdakı 1- n vvılı yazırıq.ə ə
+   
+       -----------------------       (1 yadda)
+    1  2  d 7 2 6 6
+         
+Bel likl , alırıq:ə ə
+102
+7 f d 4 1 a
+a d 9 e 4 c+
+7 f d 4 1 a
+a d 9 e 4 c+
+7 f d 4 1 a
+a d 9 e 4 c+
+7 f d 4 1 a
+a d 9 e 4 c+
+        7fd41a  +   a99e4c   = 12d7266
+Suallar
+ 
+     1.  Hansı say sisteml rini tanıyırsınız?ə
+         2.  İkili d dl r hansı r q ml rl  ifad  olunur?ə ə ə ə ə ə ə ə
+         3.  16-lıq say sistemind ki d r q mi 10-luq qarşılığı neç dir ?ə ə ə ə
+ Çalışmalar 
+       1.  101011  ikili d dini 10-luq d d  çevirin.ə ə ə ə ə
+       2.   234 10-luq d dinin ikilik qarşılığını tapın.ə ə
+       3.  0100101  il  110101  ikili d dl rinin c mini hesablayın.ə ə ə ə ə
+       4.   0x645dda  d dinin 10-luq qarşılığını tapın.ə ə
+       5.    56785 onluq  d dinin 16-lıq qarşılığını tapın.ə ə
+       6.    0x878a il  0x76bb4 16-lıq d dl rinin c mini hesablayın.ə ə ə ə ə
+103
+                               7 
+                 Bit
+ m liyyatlarıə ə
+Biz qeyd el dik ki, m lumatın ölçü vahidi bayt -dır. Lakin b z n verilmiş baytı t şkil ə ə ə ə ə
+ed n bitl r üz rind   hansısa m liyyatlar aparmaq, o cüml d n müxt lif bitl rin qiym tini ə ə ə ə ə ə ə ə ə ə ə
+örg nm k, d yişm k, sola - sağa sürüşdürm k v.s. işl r görm k lazım g lir. Nümun  ə ə ə ə ə ə ə ə ə
+testl rimizi ə %rax reqistrinin ilk yarısını t şkil ed n ə ə %eax reqistri üz rind  ver k. Bilirik ki,ə ə ə  %eax 
+registrinin ölçüsü 4 baytdır, başqa sözl  ə 32 bit. Reqistrin bitl ri sağdan sola 0 -dan başlayaraqə  
+nömr l nir. ə ə
+104
+n m şhur bit m liyyatlarına bitl rin c m halda sağa v  ya sola sürüşdürülm sini misal Ə ə ə ə ə ə ə ə
+g tirm k olar.ə ə
+Sürüşm  m liyyatları ə ə ə
+Sola sürüşmə
+Verilmiş bitl r ardıcıllığını (h r hansı reqistr v  ya yaddaş sah sini ifad  ed n bitl r )  sola ə ə ə ə ə ə ə
+sürüşdür rk n bütün bitl r c m ş kild  olduğu kimi göst ril n vahid sola sürüşür.ə ə ə ə ə ə ə ə
+   
+  Bu bitl r ardıcıllığını  2 vahid sola sürüşdür k:ə ə
+  
+ Boş qalan yerl r  0 yazılır, aşağıdakı kimi:ə ə
+  
+  Bitl ri sola sürüşdürm k üçün ə ə shll instruksiyasından istifad  olunur. ə shll instruksiyasının 
+istifad  qaydası aşağıdakı kimidir:ə
+105
+   shll  say, operand
+N tic d  operand il  veril n bitl r ardıcıllığı, bu yaddaşda mü yy n sah  v  ya h r-hansı ə ə ə ə ə ə ə ə ə ə ə
+reqistr ola bil r, göst ril n sayda sola sürüş r. Misal üçün ə ə ə ə %eax reqistrinin bitl rini ə 4 vahid 
+sola sürüşdür n kod aşağıdakı kimi olar:ə
+   shll $4, %eax
+Sağa sürüşm  sola sürüşm y  analojidir.ə ə ə
+Bul c bri m liyyatları ə ə ə
+V  , V  ya m liyyatları ə ə ə ə
+Bitl r ardıcıllığı üz rind  ə ə ə VƏ , V  YAƏ  m liyyatları icra etm k üçün ə ə ə andl v  ə orl 
+instruksiyalarından istifad  edirl r. ə ə
+and instruksiyası 2 arqument q bul edir: ə
+and arq1, arq2 ş klind . ə ə arq1 il  ə arq2 -in müvafiq bitl rin  ə ə VƏ m liyyatı t tbiq ed r k n tic ni ə ə ə ə ə ə ə
+arg2 -d  saxlayır. Bitl r  ə ə ə VƏ m liyyatının t tbiqi aşağıdakı kimidir ə ə ə
+   BİT1 | BİT2 | BİT1 VƏ BİT2
+-------------------------------
+     1  |  1   |    1
+     1  |  0   |    0
+     0  |  0   |    0
+     0  |  1   |    0
+C dv ld n gördüyümüz kimi iki bitin ə ə ə VƏ -si yalnız v  yalnız onların h r ikisinin qiym ti 1 ə ə ə
+olduqda 1 qiym ti alır. ə
+Misal üçün 0101 il  ə 1100 bitl r ardıcıllığının and -i, ə 0100 -a b rab r olar,aşağıdakı kimi: ə ə
+0|1|0|1
+1|1|0|0
+-------
+0|1|0|0
+Başqa misala baxaq, 0100010101011101 il  ə 01101111100001011 in and -i 01000101000001011 olar, 
+aşağıdakı kimi. 
+0|1|0|0|0|1|0|1|0|1|0|1|1|1|0|1|1
+0|1|1|0|1|1|1|1|1|0|0|0|0|1|0|1|1
+---------------------------------
+106
+0|1|0|0|0|1|0|1|0|0|0|0|0|1|0|1|1
+Bitl r  ə ə V  YAƏ  m liyyatının t tbiqi aşağıdakı kimidir: ə ə ə
+   BİT1 | BİT2 | BİT1 VƏ YA BİT2
+-------------------------------
+     1  |  1   |    1
+     1  |  0   |    1
+     0  |  0   |    0
+     0  |  1   |    1
+Verilimiş iki bit  ə V  YAƏ  - orl m liyyatının t tbiqi c dv ld n gördüyümüz kimi h r iki bit 0 ə ə ə ə ə ə ə
+olduqda 0 qiym ti alır, qalan bütün hallarda, y ni heç olmasa ikisind n biri v  ya h r ikisi 1 ə ə ə ə ə
+olduqda 1 qiym ti alır. ə
+Maskalama 
+Bir çox hallarda verilmiş bitl r ardıcıllığının bu v  ya dig r mövqed  yerl ş n bitinin qiym tini ə ə ə ə ə ə ə
+(0/1) örg nm k t l b olunur.  ə ə ə ə
+Misal üçün tutaq ki, %eax registrinin ilk bitinin qiym tini örg nm k ist yirik. Bunun üçün 0-cı ə ə ə ə
+bitin maskasından istifad  etm liyik. 0 -cı bitin maskası aşağıadkı kimi olar: ə ə
+00000000000000000000000000000001 
+Uyğun olaraq 1-ci bitin maskası 
+00000000000000000000000000000010 
+, 31 -ci bitin maskası 
+10000000000000000000000000000000, 
+15 -ci bitin maskası 
+00000000000000000100000000000000 
+kimi olar. 
+Bir daha qeyd edim ki, bitl rin nömr l nm si 0-dan başlayır. ə ə ə ə
+Qiym tini tapmaq ist diyimiz bitin maskasını ə ə %ebx -  köçür k. ə ə
+movl 0b00000000000000000000000000000001, %ebx 
+Artıq %ebx -d  ilk bitin maskası yerl şir. Daha sonra ə ə %eax registrin  ə %ebx reqistri il  v  - and ə ə
+m liyyatını t tbiq ets k ilk ə ə ə ə %eax registrinin ilk bitinin qiym tini alarıq. ə
+andl %ebx, %eax 
+Bel  ki, ə %ebx -in ilk bitind n başqa bütün yerd qalan bitl ri 0 olduğundan ə ə ə %eax -l  V  ə Ə
+m liyyatı zamanı ə ə %eax -in ilk bitind n savayı yerd  qalan bütün bitl ri silin c k, 0-ra ə ə ə ə ə
+b rab rl ş c k. Yekun qiym t is  ə ə ə ə ə ə ə %eax -in ilk bitinin qiym tind n asılı olacaq, bel  ki, g r ə ə ə ə ə
+%eax -in ilk biti 0-sa onda n tic  -d  0, ks halda is  1 olar. Bel likl  biz ə ə ə ə ə ə ə %eax -in ilk bitinin 
+qiym tini t yin etmiş olduq. ə ə
+107
+Qısa icmal
+Biz bu kitabda assembler dilind  proqram t rtibi, d yiş nl r, ünvanlar, yaddaşa müraci t ə ə ə ə ə ə
+üsulları, stekin iş prinsipi, funksiyaların çağırılması, geri qayıtması mexanizml ri, funksiyalara ə
+parametr ötürm  v.s. il  tanış olduq.  Bu bilikl r h r-hansı assembler kodunun işini t hlil ə ə ə ə ə
+etm k üçün kifay t ed r, lakin assemler bununla bitmir. ksin  bütün bunları böyük bir  yolunə ə ə Ə ə  
+başlanğıcı hesab etm k olar.  Söhb t sistem proqramlaşdırmadan gedir. Bu kitabda daxil olanə ə  
+instruksiya v  reqistrl r   istifad çi proqramlaşdırmada istifad  olunur. Lakin prosessorun işini ə ə ə ə
+idar  ed n, müxt lif dig r instruksiya v  reqistrl r mövcuddur, hansı ki bu instruksiyaları ə ə ə ə ə ə
+yalnız sistem proqram kodları yerin  yetir  bil r. İstifad çi proqramlarına sistemin işin  t sir ə ə ə ə ə ə
+göst r  bil c k h r-hansı instruksiya icra el m k v  h r-hansı sistem h miyy tli m lumat ə ə ə ə ə ə ə ə ə ə ə ə ə
+yerl ş n reqistr v  ya yaddaşa müraci t etm k icaz si verilmir.  Bütün bu işl ri prosessorə ə ə ə ə ə ə 108 
+t nziml yir.  Ümumiyy tl  sistem proqramlaşdırma örg nm li m s l l ri qısa olaraq ə ə ə ə ə ə ə ə ə ə
+aşağıdakı kimi sadalamaq olar: arxitektura , sistemin yükl nm  prosesi, k silm l r, yaddaşın ə ə ə ə ə
+idar  olunması, fayllar sisteminin idar  olunması, prosesl r(icra olunan proqramlar), ş b k  , ə ə ə ə ə ə
+prosesl rarası laq  vasit l ri, sinxronizasiya v.s.  C v  Assembler dill rini mük mm l ə ə ə ə ə ə ə ə ə
+bil nl r üçün Unix proqramlaşdırmanı örg n yi m sl h t görür m. Daha sonra açıq kodlu ə ə ə ə ə ə ə ə
+Linux nüv sini örg nm y  başlamaq v  yuxarıda sadaladığım m s l l rin C v  assembler ə ə ə ə ə ə ə ə ə ə
+dill rind  nec  realizasiya olunması il  tanış olmaq olar. Sistem proqramlaşdırmanı ə ə ə ə
+Windowsda örg nm y  başlamağı m sl h t görmür m, öz t crüb mn n.ə ə ə ə ə ə ə ə ə ə
+Biraz mü llif bar sind :ə ə ə
+108
+M n uzun müdd tdir ki, (t xmin n 5-6 il) Linux nüv si proqram kodlarını örg nir m. Son 3 ə ə ə ə ə ə ə
+ild  paralel olaraq Diskret Riyaziyyatı örg nm y  başlamışam. M qs dim Linuxun h r-hansı ə ə ə ə ə ə ə
+alqorimtl rind n birinin riyazi modelini qurub optimallığını t dqiq etm kdir.  Hal-hazırda CFS ə ə ə ə
+alqoritmini örg nir m – Complete Fair Scheduler.  Növb ti m rh l l rd  Fayllar sistemi, ə ə ə ə ə ə ə ə
+yaddaşın idar  olunması v  Sinxronizasiya alqoritml rini d  n z rd n keçirm yi ə ə ə ə ə ə ə ə
+planlaşdırıram. Bunlar yaxın g l c y  planlaşdırılan işl rdir, nisb t n sonrakı planlarda is  ə ə ə ə ə ə ə ə
+süni intellekt, paralel icraolunma, qarışıq m ntiq v.s. kimi mövzuları yer alır.ə
+ 
+     
+   
+109

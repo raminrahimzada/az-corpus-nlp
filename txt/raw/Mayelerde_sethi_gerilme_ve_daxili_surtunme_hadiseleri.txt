@@ -1,0 +1,2165 @@
+ 3 
+                  Rasim  MƏMMƏDOV 
+ 
+ 
+ 
+ 
+                   
+ 
+ 
+MAYELƏRDƏ SƏTHİ GƏRİLMƏ VƏ 
+DAXİLİ SÜRTÜNMƏ HADISƏLƏRI 
+ 
+                         
+                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                             BAKI – 2007 
+ 
+ 4
+ 
+Azərbaycan Respublikası Təhsil Nazirliyi 
+Azərbaycan Respublikası Təhsil Problemləri İnstitutu 
+Bakı Dövlət Universiteti 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MAYELƏRDƏ SƏTHİ GƏRİLMƏ VƏ 
+DAXİLİ SÜRTÜNMƏ HADISƏLƏRI 
+ 
+ 
+                          Azərbaycan Respublikası Təhsil Nazirliyi 
+                               Elmi Metodik Şurasının «Fizika»  
+                               bölməsinin 28.06.2007 tarixli iclasının       
+                        qərarı ilə  təsdiq edilmişdir (protokol №10). 
+ 
+ 
+ 
+     
+                           B A K I  -  2007 
+ 
+ 
+ 
+ 5 
+ 
+ 
+Rəyçilər:      prof. A.U.Mahmudov 
+                    prof. A.H.Kazımzadə  
+ 
+ 
+ 
+ 
+   R.Q.Məmmədov.   Mayelərdə səthi gərilmə və daxili      
+                                sürtünmə  hadisələri.  
+                                    Bakı, BDU, 2007, 74 s. 
+                                     
+                                     
+                    
+Metodik vəsaitdə molekulyar fizikanın mayelərdə 
+səthi gərilmə və daxili sürtünmə hadisələri bölmələri 
+haqqında geniş məlumat ətraflı şərh olunmuş, onları 
+kəmiyyətcə və keyfiyyətcə xarakterizə edən müvafiq 
+parametrlərin müxtəlif üsullarla təyin edilməsi  üsulları 
+verilmişdir. 
+ Vəsait universitetlərin təbiət fakültələrinin tələbələri 
+üçün nəzərdə tutulmuşdur. 
+ 
+ 
+ 
+ 
+ 
+                                          ©   R.Q. Məmmədov , 2007 
+ 
+ 
+ 
+ 6
+G İ R İ Ş 
+ 
+ Vəsaitdə molekulyar fizikanın bir-biri ilə sıx əlaqəli 
+bölmələri olan səthi gərilmə  və daxili sürtünmə hadisələrinin 
+fiziki mahiyyəti və bu hadisələri xarakterizə edən kəmiyyətlər 
+haqqında zəruri məlumatlar ətraflı şərh olunmuşdur. Müxtəlif 
+faktorların (temperatur, təzyiq, mayenin təbiəti və s.) təsiri ilə 
+bu hadisələrin xarakterində baş verən dəyişikliklər aydın təsvir 
+edilmişdir. 
+  Mayelərin səthi gərilmə  və daxili sürtünmə 
+hadisələrini  kəmiyyət və keyfiyyətcə xarakterizə edən səthi 
+gərilmə və daxili sürtünmə əmsalları, onların ölçü vahidləri və 
+təcrübi təyini metodları kitabda dolğun ifadə edilmişdir. Hər bir 
+metodun şərhində  məntiqi ardıcıllığa ciddi rəayyət 
+olunmuşdur. Metodların qısa nəzəriyyələri anlaşıqlı verilmiş, 
+səthi gərilmə və daxili sürtünmə əmsallarının müvafiq işçi 
+analitik ifadələri müəyyən edilmişdir.  
+İşçi riyazi ifadələrin təcrübi yoxlanılmasını təmin edən təcrübi 
+qurğuların sxematik təsvirləri  vəsaitdə aydın əks olunmuş və 
+onların hissələrinin icra funksiyaları ətraflı şərh edilmişdir. 
+Təcrübi qurğularla düzgün rəfdar edilməsinə və onların işinin 
+normal təmin edilməsinə xüsusi diqqət yetirilmişdir. 
+Təcrübənin aparılması üçün zəruri işlər ardıcıllıqla qeyd 
+edilmişdir. Səthi gərilmə və daxili sürtünmə əmsallarının ədədi 
+qiymətlərinin və təcrübə xətalarının dəqiq hesablanması təmin 
+edilmişdir.  
+ 
+ 7 
+I. FƏSİL 
+ 
+MAYELƏRDƏ SƏTHİ GƏRİLMƏ 
+HADİSƏSİ 
+ 
+1.1. Mayelərin səthi gərilməsi haqqında               
+                    qısa nəzəri məlumat 
+ 
+Maye molekulları arasında cazibə qüvvəsi itələmə 
+qüvvəsinə nəzərən çox böyük olur və onlar əhatə olunduqları 
+molekullar tərəfindən cəzb olunurlar. Molekullar arasında 
+məsafə böyük olduqca onların bir-birinə göstərdikləri cazibə 
+təsir qüvvəsi zəifləyir və kifayət qədər böyük məsafələrdə 
+cazibə qüvvəsi sıfra bərabər olur, yəni belə molekullar arasında 
+qarşılıqlı təsir olmur. Mayelər fizikasında molekullar arasındakı 
+qarşılıqlı təsirlə bağlı olan molekulyar təsir radiusu və 
+molekulyar təsir sferası anlayışlarından istifadə olunur.      
+Molekulyar təsir radiusu  maye molekulları arasında 
+elə məsafəyə deyilir ki, bundan böyük məsafələrdə yerləşən 
+molekullar arasında qarşılıqlı təsir olmasın. Radiusu 
+molekulyar təsir radiusuna bərabər olan sferaya isə molekulyar 
+təsir sferası deyilir.  
+Molekulyar təsir radiusu maye molekullarının effektiv 
+radiusundan təqribən üç dəfə böyük olur və molekulyar təsir 
+sferası olduqca kiçik həcmi əhatə edir. İxtiyari maye molekulası 
+yalnız, mərkəzi bu molekulanın mərkəzi ilə üst-üstə düşən 
+molekulyar təsir sferasının içərisində  mərkəzləri yerləşən 
+qonşu molekulların təsirinə məruz qalır. Bu səbəbdən, 
+mayelərin daxilində və səthində yerləşən molekullar öz 
+ətraflarındakı qonşu molekulların düzülüşünə (paylanmasına) 
+görə bir-birindən kəskin fərqlənirlər. Maye daxilində olan hər 
+bir molekulanın ətrafında qonşu molekullar təqribən bərabər 
+paylanırlar. Ona görə də maye daxilində yerləşən molekulaya 
+bütün istiqamətlərdə modulca təqribən bərabər olan qonşu 
+ 8
+molekulların cazibə qüvvələri təsir göstərir. Bu qüvvələr 
+qarşılıqlı istiqamətlərdə bir-birini kompensasiya edir və 
+nəticədə maye daxilində molekullara təsir edən qüvvələrin 
+əvəzləyicisi sıfra bərabər olur.  
+Lakin maye səthində yerləşən molekula ətrafındakı 
+qonşu molekullar bərabər paylanmır və bu səbəbə görə də 
+onlara təsir edən qonşu molekulaların cazibə qüvvələrinin 
+əvəzləyicisi sıfırdan fərqli olur. Bu halı nisbətən ətraflı 
+araşdıraq. 
+Real mayelər öz səthləri ilə məhdudlaşırlar və bu 
+səthlərlə başqa təbiətli ikinci mühitlərlə təmasda olurlar. Əgər 
+hər hansı qabda müəyyən həcmdə maye olarsa mayenin 
+səthinin bir hissəsi qabın divarları ilə, qalan hissəsi isə hava ilə 
+təmasda olur və mayenin sərbəst səthi adlanır. Deməli, maye 
+üçün başqa təbiətə malik ikinci mühit bir hissədə qabın 
+divarlarıdır, digər hissədə isə havadır (qazdır). Maye səthində 
+yerləşən molekulları əhatə edən molekulyar təsir sferasının bir 
+hissəsində maye molekulları, digər hissədə isə ikinci mühitin 
+atom və molekulları yerləşir. İkinci mühitin atom və 
+molekullarının təbiəti  və düzülüşü maye molekullarının təbiəti 
+və düzülüşündən fərqləndiyi üçün mayenin səth molekullarına 
+təsir edən qonşu molekulların cazibə qüvvələrinin əvəzləyicisi 
+sıfra bərabər olmur. Bu əvəzləyici qüvvənin istiqaməti ikinci 
+muhitin təbiətindən asılı olur. 
+Məsələn, asanlıqla yəqin etmək olar ki, hava ilə 
+təmasda olan maye səthində yerləşən hər bir molekulaya  təsir 
+edən əvəzləyici qüvvənin istiqaməti mayenin daxilinə doğru 
+yönələcəkdir. Mayenin səth molekullarının əhatə olunduqları  
+molekulyar təsir kürəsinin yuxarı yarısında qaz molekulları, 
+aşağı yarısında isə maye molekulları olur. Maye molekullarının 
+sıxlığı hava molekullarının sıxlığından böyük olduğu üçün 
+maye tərəfindən səth molekullarına təsir göstərən cazibə 
+qüvvəsi onlara hava tərəfdən təsir edən cazibə qüvvəsindən 
+böyük olur, yəni səth molekullarına qonşu molekulların 
+ 9 
+göstərdiyi təsir qüvvələrinin əvəzləyicisi mayenin daxilinə 
+doğru yönəlir.  
+Yuxarıda deyilənlərdən aydın olur ki, mayenin, 
+qalınlığı təxminən molekulyar təsir radiusuna bərabər olan səth 
+təbəqəsində yerləşən molekullarına mayenin daxilinə doğru 
+yönəlmiş qüvvələr təsir göstərir. Deməli, monomolekulyar səth 
+təbəqəsi tərəfindən mayeyə təzyiq göstərilir, yəni maye sıxılır. 
+Bu təzyiq daxili və ya molekulyar  təzyiq adlanır və ədədi 
+qiymətcə mayenin bir kvadratmetr sahəyə malik səthinin 
+molekullarına təsir edən təzyiq qüvvələrinin əvəzləyicisinə 
+bərabərdir. 
+Əgər hər tərəfdən hava ilə əhatə olunmuş müəyyən 
+kütləli maye yalnız molekulyar təzyiq qüvvələrinin təsirinə 
+məruz qalarsa, bu zaman mayenin tarazlıqlda olması üçün onun 
+səthinin sahəsi minimum qiymət almalıdır. Eyni həcmə malik 
+müxtəlif həndəsi fiqurlar içərisində kürə  ən kiçik səthə malik 
+fiqur olduğu üçün mayenin səthi sfera formasında olmalıdır. 
+Əks halda, mayeyə təsir edən molekulyar təzyiq qüvvələri bəzi 
+isitiqamətlərdə bir-birini kompensasiya etməz və nəticədə 
+həmin istiqamətlərdə mayeyə təsir göstərən qüvvələr yaranar 
+ki, bu qüvvələr də maye tarazlığa gələnə kimi onun  səthinin 
+formasının dəyişməsinə səbəb olar.  
+ 
+1.2. Səthi gərilmə əmsalı və onun vahidləri 
+ 
+Yuxarıda deyilənlərdən belə bir nəticə çıxır ki, maye 
+səthi elastiki pərdə kimi həmişə gərilmiş vəziyyətdə olur və bu 
+gərilmə maye səthinin sahəsinin minimum olmasını təmin edir. 
+Maye səthinin gərilmiş vəziyyətdə olması səth molekullarına 
+səth boyunca yönələn qüvvələr təsir etdiyini göstərir və bu 
+qüvvələr səthi  gərilmə qüvvələri adlanır. Mayelərin səthi 
+gərilməsini xarakterizə etmək üçün səthi gərilmə əmsalı 
+adlanan fiziki kəmiyyətdən istifadə olunur. Bu kəmiyyət həm 
+qüvvə, həm də enerji baxımından təyin edilir.  
+ 10
+Mayenin monomolekulyar səth qatında yerləşən 
+konturun vahid uzunluğuna təsir edən səthi gərilmə qüvvəsinə 
+mayenin səthi gərilmə əmsalı deyilir.  
+Uzunluğu l  olan  səth konturuna təsir edən səthi 
+gərilmə qüvvəsi F olarsa,  onda mayenin α səthi gərilmə əmsalı  
+                                     
+l
+F
+=α   (I) 
+ 
+düsturu ilə təyin olunar.  
+Bu düsturdan görünür ki,  səthi gərilmə əmsalının 
+vahidi BS vahidlər sistemində  
+ 
+[ ]
+m
+N1=α  
+ 
+və SQS vahidlər sistemində  isə  
+ 
+[ ]
+sm
+dn1=α  
+olar. 
+Mayelərin səthi gərilmə əmsalını enerji baxımından 
+təyin etmək üçün maye səthinin sərbəst enerjisindən istifadə 
+olunur. Maye səthinin sərbəst enerjisi, maye səthinin izotermik 
+kiçilməsi zamanı səthin potensial enerjisinin səthin kiçilməsi 
+üçün sərf olunan hissəsinə deyilir.  
+Maye səthinin vahid sahəsinin malik olduğu sərbəst 
+enerjiyə mayeinin səthi gərilmə əmsalı deyilir. 
+Mayenin sahəsi S olan səthinin malik olduğu sərbəst 
+enerji W olarsa, onda mayenin α səthi gərilmə əmsalı  
+ 
+S
+W
+=α    (2) 
+ 
+ 11 
+düstüru ilə təyin olunar.  
+(2) düsturundan görünür ki, mayenin səthi gərilmə 
+əmsalı enerji baxımından təyin olunduqda onun vahidi BS 
+vahidlər sistemində  
+ 
+[ ] 21m
+С
+=α  
+ 
+və SQS vahidlər sistemində isə  
+ 
+[ ] 21 sm
+erq
+=α  
+ 
+Mayeninin səthi gərilmə əmsalı bir sıra faktorlardan, o 
+cümlədən, həm mayeinin, həm  də mayeinin təmasda olduğu 
+ikinci mühitin təbiətindən və temperaturundan asılı olan 
+mühüm fiziki kəmiyyətdir. Müəyən edilmişdir ki, temperatur 
+artıqca səihi gərilmə əmsalı azalır. Lakin bu asılılığı ifadə edən 
+riyazi düsturu nəzəri olaraq əldə etmək, yəni bütün mayelər 
+üçün tətbiq oluna bilən riyazi düstur tapmaq mümkün deyildir. 
+Buna baxmayaraq, ayrı-ayrı qrup təcrübi nəticələri izah edə 
+bilən emprik düstürlar müəyyən edilmişdir. Kifayət qədər çox 
+təcrübələrlə doğruluğu müəyyən olunmuş emprik düsturlardan 
+biri  
+ 
+( )
+3
+2
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−−=
+µ
+ρτα TTB b   (3) 
+ 
+ifadəsidir.  
+Burada B- bütün mayelər üçün təxminən eyni olan sabit əmsal 
+olub SQS vahidlər sistemində 2,I-dir, T-mütləq temperatur, Tb-
+böhran temperaturu, τ -kiçik düzəliş,  ρ -mayenin sıxlığı və 
+µ -mayenin molyar kütləsidir.  
+ 12
+ 
+1.3. Səthi gərilmənin müxtəlif səth hadisələrinə 
+təsiri 
+ 
+ Mayelər üçün xarakterik olan bir sıra fiziki hadisələr, 
+məsələn, islatma, sərbəst səthin əyilməsi hesabına əlavə 
+təzyiqin yaranması, kapilyarlıq və s. bilavasitə mayelərin səthi 
+gərilmə hadisəsi ilə əlaqədardır. 
+İslatma hadisəsi maye molekullarının həm öz 
+aralarında, həm də mayenin təmasda olduğu ikinci mühitin 
+molekulları arasında olan qarşılıqlı təsir ilə müəyyən olunur. 
+Belə ki, maye molekulları ilə mayenin təmasda olduğu cismin 
+molekulları arasında olan cazibə qüvvəsi, maye molekullarının 
+öz aralarında olan cazibə qüvvəsindən böyük olarsa, bu halda 
+maye cismi isladır, əks halda isə, yəni kiçik olduqda isə 
+islatmır. 
+İslatma hadisəsi kənar bucaq deyilən kəmiyətlə 
+xarakterizə olunur. Kənar bucaq, mayenin sərbəst səthinin 
+cismə toxunan sərhəddindən bu sərbəst səthə  çəkilmiş toxunan 
+ilə cismin maye ilə təmasda olduğu səthi arasında qalan bucağa 
+deyilir. Maye cismi isladan olduqda kənar bucaq iti, islatmayan 
+olduqda isə kor bucaq olur. Kənar bucaq sıfır olduqda maye 
+cismi tam isladan, açıq bucaq olduqda isə maye cismi tam 
+islatmayan adlanır. 
+Qabın içərisində olan mayenin qabın divarları ilə 
+toxunmayan səthi, yəni sərbəst səthi, nisbətən böyük sahəyə 
+malik olduqda ağırlıq qüvvəsinin təsiri hesabına üfiqi müstəvi 
+formada olur. Lakin, qabın divarlarına çox yaxın hissələrdəə 
+sərbəst səth əyri səth  formasına malik olur. Maye qabı 
+islatdıqda bu əyri səth çökük, islatmadıqda isə qabarıq formada 
+olur. Mayenin əyri formaya malik sərbəst səthi menisk  adlanır. 
+Mayenin müstəvi formalı sərbəst səthindəki 
+molekullara təsir edən səthi gərilmə qüvvələri səth boyunca 
+üfiqi istiqamətdə yönələcəkdir. Maye əyri səthə malik olduqda 
+ 13 
+səthdəki hər bir molekula təsir edən səthi gərilmə qüvvəsi səthə 
+toxunan üzərində olacaqdır. Bu səthi gərilmə qüvvələrini şaquli 
+və üfiqi istiqamətlərə yönələn iki toplananlarına ayırsaq, 
+asanlıqla görmək olar ki, səth molekullarına təsir edən üfiqi 
+toplananlar bir-birini kompnensasiya edirlər. Lakin şaquli 
+toplananların hamısı bir istiqamətə yönəlirlər, yəni, sərbəst səth 
+qabarıq olduqda onlar aşağı, çökük olduqda isə yuxarı 
+istiqamətə yönəlirlər. Bu zaman mayenin sərbəst səthinə təsir 
+edən əlavə təzyiq yaranır. Belə ki, bu əlavə təzyiq mayenin 
+sərbəst səthi qabarıq olduqda onu aşağıya doğru sıxır, çökük 
+olduqda isə yuxarıya dartır. 
+Səthi gərilmə əmsalı α olan mayenin sərbəst səthinin 
+əyriliyi hesabına yaranan əlavə təzyiq  
+ 
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++=
+21
+11
+rr
+P α∆   (3) 
+ 
+kimi ifadə olunur. Bu düstur Laplas düsturu adlanır.  
+Burada r1 və r2  - mayenin sərbəst səthini bir-birinə 
+perpendikulyar iki müstəvi ilə normal istiqamətdə kəsərkən 
+alınan əyri xətlərin bir-biri ilə kəsişmə nöqtəsində bu səthin əyri 
+xətlər üzrə əyrilik radiuslarıdır. 
+Əgər mayenin sərbəst səthi sferik seqment formasında 
+olarsa, onda   r1=r2=r  olar və əlavə təzyiq  
+ 
+r
+P α2=∆   (4) 
+ 
+düsturu ilə hesablanar. 
+Kapilyar borularda, yəni daxili radiusu içərisindəki 
+mayenin sərbəst səthinin əyrilik radiusu tərtibində olan nazik 
+borularda, mayenin sərbəst səthi bütövlükdə əyri səth olur. 
+Əgər kapilyar silindir farmasında olarsa, onda onun içərisində 
+ 14
+yerləşən mayenin sərbəst səthi, yəni meniski, sferik seqment 
+formasında olar və orada yaranan təzyiq (4) düsturu ilə 
+hesablanar. Kapilyar borunun bir ucu müstəvi sərbəst səthə 
+malik mayeyə batırılarsa kapilyara daxil olan mayenin  meniski 
+yuxarı (əgər maye kapilyarı isladırsa) və ya aşağı (əgər maye 
+kapilyarı islatmırsa) istiqamətə hərəkət edərək müstəvi səthin 
+səviyəsindən fərqli olan səviyədə dayanacaqdır.  
+Kapilyar borularda yaranan əlavə təzyiqin təsiri ilə 
+meniskin müəyyən səviyələrə doğru hərəkət etməsinə 
+kapilyarlıq hadisəsi deyilir. 
+Mayelərin səthi gərilmə əmsalını təcrübi olaraq təyin 
+etmək üçün bir-birindən səciyyəvi cəhətlərilə fərqlənən 
+miüxtəlif üsullardan istifadə olunur. Onlardan praktikada geniş 
+istifadə olunanları növbəti səhifələrdə ətraflı şərh olunmuşdur. 
+ 
+ 
+1.4.   MAYELƏRIN SƏTHI GƏRILMƏ 
+ƏMSALININ TƏYINI    
+   
+Mayelərdə müşahidə olunan bir çox fiziki hadisələrin 
+baş verməsinin və xüsusiyətlərinin səthi gərilmə əmsalından 
+bilavasitə asılı olması, bu əmasalın müxtəlif üsullarla təcrübi 
+olaraq təyin edilməsinə imkan verir.  
+ 
+1.4.1. HALQANI QOPARMA ÜSULU 
+ 
+      Ləvazimat:   1) qurğu, 2) çəki daşları, 3) ştankenpərgər,  
+                         4) tədqiq olunan maye. 
+ 
+N ə z ə r i    m ə l u m a t 
+ 
+Bərk cisim, onu isladan maye səthinə toxunarsa təmas 
+səthi boyunca cismə maye molekulları yapışar. Əgər cisim 
+mayedən qoparılarsa, onda yapışan maye cisimlə birlikdə 
+ 15 
+mayedən ayrılmağa cəhd edər. Bu zaman cisim mayedən 
+uzaqlaşdıqca cismə yapışan maye qatının yan səthi içəriyə 
+doğru əyiləcək. Uzaqlaşma müəyyən həddə çatdıqda cisim 
+mayedən tam qopacaq və cismin təmasda olan səthi maye 
+təbəqə ilə örtüləcəkdir. 
+Cismi mayedən qoparmaq üçün ona ən azı iki 
+səbəbdən yaranan qüvvələri tarazlaşdıra bilən quvvə ilə təsir 
+etmək lazımdır. Bu qüvəllərdən biri cisim ilə birlikdə uzaqlaşan 
+maye qatının nazilən yan divarının (səthinin) bürüyən xətt 
+boyunca səthi gərilmə qüvvəsi, digəri isə, həmin maye qatının 
+en kəsiyi boyunca yerləşən maye molekullarını bir-birinidən 
+ayıran qüvvədir. 
+Bərk cismin həndəsi formasını elə seçmək olar ki, ona 
+yapışan maye qatının yan səthini bürüyən konturuna təsir edən 
+səthi gərilmə qüvvəsinə nisbətən bu maye qatının en kəsiyi 
+boyunca yerləşən maye molekullarını bir-birindən ayıran qüvvə 
+nəzərə alınmayacaq dərəcədə kiçik olsun. Belə cismi mayedən 
+qoparmaq üçün lazım olan qüvvə, yalnız cismə yapışan maye 
+qatının  yan səthini bürüyən kontura təsir edən səthi gərilmə 
+qüvvəsini tarazlaşdırmalıdır. Deməli, bu zaman mayeinin səthi 
+gərilmə qüvvəsi ədədi qiymətcə elə həmin tarazlaşdlırıcı 
+qüvvəyə bərabər olacaqdır. Bu hal, bərk cismdən hazırlanmış 
+nazik divarlı halqadan istifadə olunduqda təcrübi olaraq yaxşı 
+ödənilir. 
+Yuxarıda deyilənlərdən aydındır ki, əgər təcrübi olaraq 
+maye səthində l uzunluğa malik kontura təsir edən F səthi 
+gərilmə qüvvəsinin qiyməti təyin edilərsə, onda mayenin α 
+səthi gərilmə əmsalı  
+ 
+l
+F
+=α   (1) 
+ 
+düsturu ilə hesablanar. 
+ 16
+Divarının qalınlığı d, daxili və xarici diametrləri isə 
+uyğun olaraq D0 və D olan halqanın alt oturacağını mayenin 
+sərbəst səthinə toxundurub, sonra isə ona P qüvvəsi tətbiq 
+etməklə onu mayedən qoparsaq, onda mayenin səthində 
+uzunluğu halqanın oturacağının l1 daxili və l2 xarici 
+çevrələrinin uzunluqları cəminə bərabər, yəni l1+l2=l olan 
+kontura təsir edən səthi gərilmə qüvvəsinin modulu F=P olar. 
+Bu halda α əmsalı  
+21 ll
+p
++
+=α   (2) 
+ 
+düsturu ilə təyin olunar.  
+Burada,  
+ 
+ODl π=1 ,    
+Dl π=2 ,     
+ 
+2
+ODDd
+−
+= . 
+ 
+olduğundan, onda mayenin səthi gərilmə əmsalı 
+ 
+)(2 dD
+p
+−
+=
+π
+α   (3) 
+ 
+düsturu ilə hesablanar. 
+ 
+Q u r ğ u n u n   t ə s v i r i. 
+ 
+Qurğu sxematik olaraq Şəkil-1 - də göstərilmişdir. Ş 
+ştativinə millimetrlərlə bölgüləri olan ŞK şkalası və bir ucunda 
+ 17 
+Y yayı olan çubuq bərkidilmişdir. Y yayının digər ucuna T 
+kiçik tərəzi gözü və Şk şkalasına doğru yönəlmiş Ə əqrəbi 
+bağlanmışdır. T kiçik tərəzi gözünün alt hissəsində olan Qr 
+qarmaqdan alüminiumdan hazırlanmış H halqası asılmışdır. 
+ 
+ 
+Й
+Шк 
+Т
+Щ
+Г
+Г
+В  С
+Ш 
+  
+Г
+Кр
+Ş ə k i l  -  
+1
+ 18
+Tədqiq  olunan maye Kr kranı bağlı olan Q1 şəffaf 
+qaba tökülür. Bu qab şaquli istiqamətdə hərəkət edə bilən S 
+skamyası üzərinə qoyulur. Skamyanı lazım olan hündürlükdə 
+saxlamaq üçün V vintindən istifadə olunur. Maye Q1 qabından 
+boşalarkən Q2 qabına tökülür.  
+ 
+Ö l ç m ə l ə r 
+ 
+ I. Qarmaqdan asılmış H halqasını qarmaqdan çıxarıb, 
+ştangenpərgər vasitəsi ilə onun xarici diametrini (D) və 
+divarının qalınlığını (d) ölçüb qeyd etməli, sonra isə halqanı Qr 
+qarmaqdan asmalı.  
+2. Tədqiq olunan mayenin Kr kranı bağlı olan Q1 qaba 
+töküb bu qabı S skamyası üzərinə elə qoymaq lazımdır ki, H 
+halqası mayenin mərkəzi hissəsindən yuxarıda dayansın. 
+3. V vintini boşaldıb S skamyasını yuxarı istiqamətdə 
+elə səviyəyə qədər qaldırmalı ki, H halqasının alt oturacağı 
+maye səthinə toxunsun. Bu anda V vintini bərkidib, S 
+skamyasını bu səviyədə saxlamalı. 
+4. Kr kranını açıb mayeni Q1 qabından Q2 qabına 
+axıdaraq, eyni zamanda Ə əqrəbinin Şk şkalası üzərinə 
+hərəkətini izləməli və kiçik H halqası sudan qopduğu anda 
+əqrəbin şkala üzərindəki göstərişini qeyd etməli. 
+5. V vinetini boşaldıb S skamyasını aşağı  istiqamətdə 
+hərəkət etdirərək onu ilkin səviyədə saxlamalı və V vintini 
+bərkitməli.  
+6. Q2  qabına tökülən mayeni qaytarıb Q1 qabına 
+boşaltmalı. 
+7. T kiçik tərəzi gözünə o qədər çəki daşları qoymalı 
+ki, Y yayı o qədər uzansın ki, Ə əqrəbi şkala üzərində halqa 
+qopan ana uyğun olan bölgüdə dayansın. Bu zaman T tərəzi 
+gözündəki çəki daşlarının miqdarını hesablayıb qeyd etməli. 
+Çəki daşlarının yekun P çəkisi ədədi qiymətcə mayenin səthi 
+gərilmə qüvvəsinin moduluna bərabər olacaqdır. 
+ 19 
+8. Təcrübəni ən azı üç dəfə təkrar etməli. 
+ 
+H e s a b a t 
+ 
+ I. Ölçü və çəki nəticəsində qeyd olunmuş 
+qiymətlərdən istifadə edərək halqanın d qalınlığını, D xarici 
+diametrini və P səthi gərilmə qüvvəsinin orta qiymətlərini 
+hesablamalı . 
+2. d, D və P kəmiyyətlərinin orta qiymətlərini (3) 
+düsturunda yerinə qoyub tədqiq olunan mayenin səthi gərilmə 
+əmsalını hesablamalı. 
+3. Təcrübənin mütiləq və nisbi xətalarını (3) 
+düsturundan istifadə edərək hesablamalı. 
+ 
+ 
+                                    
+1.4. 2.   DAMCI ÜSULU 
+ 
+      Ləvazimat:  1) qurğu, 2) tədqiq olunan maye ,                
+                         3) etalon maye, 4) qıf, 5) stəkan,  
+                         6) tərəzi və çəki daşları. 
+ 
+N ə z ə r i   m ə l u m a t  
+ 
+Şaquli vəziyətdə qoyulmuş və aşağı ucu havada 
+yerləşən nazik borudan çox kiçik sürətlə maye axarsa borunun 
+uc hissəsindən maye damcı-damcı tökülər. Bu zaman borunun 
+ucunda damcı əvvəlcə böyüyür, sonra isə müəyyən həcmə 
+malik olduqda qopub düşür. Damcı borudan qopan anda damcı 
+ilə borunun ucu arasına kiçik hündürlüyə malik silinidr formalı 
+boğaz əmələ gəlir. Bu boğazın radiusu borunun uçunun 
+radiusundan kiçik olur.  
+Borunun ucundan mayenin damcı-damcı düşməsinə 
+səbəb mayenin səthi gərilmə qüvvəsinin təsir göstərməsidir. 
+ 20
+Belə ki, damcı əmələ gələn zaman bu damcıya öz ağılıq 
+qüvvəsi və borunun ucunda maye səthini bürüyən kontur 
+boyunca səthi gərilmə qüvvəsi təsir edir. Bu qüvvələr modulca 
+bir-birinə bərabər olduqda damcı borudan qopur. Bu hal isə 
+damcı böyüyərək müəyyən həcmə malik olduqda baş verir. 
+Əgər səthi gərilmə əmsalı α olan maye damcısı  
+borunun ucundan qopan anda onun silindrik boğazının radiusu r 
+olarsa onda damcının boğazını bürüyən çevrəvari konturun 
+uzunluğu l olar və bu kontura təsir edən səthi gərilmə qüvvəsi   
+ 
+rlF παα 2==   (I) 
+olur.  
+Damcı qopan andan ağırlıq qüvvəsi P olarsa, onda  
+ 
+απrFP 2==   (2) 
+ 
+olur və mayenin α səthi gərilmə əmsalı  
+ 
+r
+P
+π
+α
+2
+=   (3) 
+ 
+düsturu ilə hesablanır.  
+Səthi gərilmə əmsalını (3) düsturu ilə təyin edərkən, 
+damcı boğazının r radiusunun böyük dəqiqliklə ölçülməsi 
+xüsusi diqqət tələb edir. Bu zaman adətən okulyarı mikrometrlə 
+təchiz edilmiş baxış borularından istifadə edilir. Bir çox 
+hallarda isə emprik düsturlardan istifadə edilir. Məsələn, təcrübi 
+olaraq müəyyən edilmişdir ki, divarının qalınlığı bir millimetrə 
+qədər olan nazik borulardan damcı qopan andan onun daralmış 
+boğazının r radiusu borunun ucunun R xarici radiusunun 0,62 
+hissəsinə bərabər olur, yəni  
+ 
+Rr 62,0=  
+ 21 
+ 
+olur və bu zaman (3) düsturu  əvəzinə aşağıdakı  
+ 
+R
+P
+π
+α
+24,1
+=   (4) 
+ 
+düsturundan istifadə olunur. 
+Etalon mayedən istifadə edərək tədqiq olunan mayenin 
+α səthi gərilmə əmsalını təyin etdikdə yuxarıda qeyd olunan 
+çətinlik aradan qalxır, yəni damcının daralmış boğazını 
+ölçməyə ehtiyac qalmır. Belə ki, V həcminə malik tədqiq 
+olunan maye və həmin V həcmi qədər götürülmüş etalon maye 
+eyni bir şaquli nazik borudan eyni sürətlə axıdılır. Bu zaman 
+borunun ucundan qopan tədqiq olunan mayenin bir damcısının 
+çəkisi P və etalon mayenin bir damcısının çəkitsə Pe olarsa, 
+onda (3) düsturuna əsasən tədqiq olunan və etalon mayelərin 
+uyğun α və αe səthi gərilmə əmsalları  
+ 
+R
+P
+π
+α
+2
+=     
+ 
+R
+Pe
+e π
+α
+2
+=  
+düsturları ilə təyin olunar. Bu düsturların müqayisəsindən α 
+əmsalını hesablamaq üçün 
+ 
+e
+e P
+P
+==αα   (5) 
+ 
+ifadəsi alınır. 
+Əgər damcıları uyğun P və Pe çəkilərini, onların uyğun 
+ρ və ρ e sıxlıqları ilə ifadə etsək, onda (5) düsturu daha 
+ 22
+əlverişli forma alar. Bu məqsədlə borudan hər birinin həcmi V 
+olan tədqiq olunan  və etalon maye axıdılarkən yığılan 
+damcıların uyğun n və ne sayıları və axan mayelərin uyğun M 
+və Me kütlələri təyin edilir. 
+Borudan axan mayelərin M və Me kütlələri  
+ 
+VM ρ= ,  
+ 
+VM ee ρ= . 
+ 
+düsturları ilə və uyğun Q və Qe çəkiləri 
+ 
+VgMgQ ρ== ,  
+ 
+VggMQ eee ρ== . 
+ 
+dusturları il əifadə olunduqlarından, onda bu mayelərdə 
+yaranan uyğun n və ne damcıların hər birinin uyğun P və Pe 
+çəkiləri 
+n
+Vg
+n
+Qp ρ== , 
+ 
+ 
+e
+e
+e
+e
+e n
+Vg
+n
+Q
+p
+ρ
+== . 
+ 
+düsturları ilə hesablanır. Bu düsturlar (5)-də nəzərə alınsa 
+tədqiq olunan mayenin α səthi gərilmə əmsalını hesablamaq 
+üçün  
+e
+e
+e n
+n
+ρ
+ρ
+αα =   (6) 
+ 
+ifadəsi alınır. 
+ 23 
+ 
+Q u r ğ u n u n   t ə s v i r i 
+ 
+Qurğu Şəkil – 2-də göstərilmişdir. Qurğu əsasən Ş 
+ştativindən şaquli vəziiyyətdə asılmış B borusundan ibarətdir. 
+Borudan maye həcmini göstərən Şk şkalası vardır. Tədqiq 
+olunan və etalon mayelərdən eyni həcmdə istifadə olunmasını 
+təmin etmək üçün şkalada a və b nişanları qoyulmuşdur. 
+Mayenin borudan axma sürətini dəyişmək üçün borunun 
+nisbətən nazik ucunda K kranı vardır. Borudan tökülən maye S 
+stəkanına toplanır. 
+ 
+Ö   l ç m ə l ə r 
+ 
+ 1. Mikrometr vasitəsi ilə B borusunun damcı tökülən 
+nazik ucunun (D) xarici diametrini ölçüb, alınan qiyməti ikiyə 
+bölərək borunun ucunun (R) xarici radiusunu təyin etməli. 
+2. K kranını bağlayıb tədqiq olunan mayeni qıf vasitəsi 
+ilə B borusuna o qədər doldurmalı ki, mayenin səthi a nişanı 
+səviyyəsində dayansın. 
+3. Boş S stəkanını tərəzidə çəkib onun (MSO) kütləsini 
+təyin etməli və sonra onu borunun altına qoymalı. 
+4. Ehmalca K kranını elə açmalı ki, borunun ucundan 
+maye damcıları qopsun. Borudakı tökülən maye səviyyəsi b 
+nişanına çatana kimi borudan düşən damcıların sayının (n) qeyd 
+edib sonra isə K kranını bağlamalı. 
+5. Toplanmış maye damcıları ilə S stəkanın tərəzidə 
+çəkib onu Ms kütləsini təyin etməli. 
+6. Tədqiq olunan mayeni B borusundan S stəkanına 
+boşaldıb, sonra isə bu mayeni başqa qaba tökməli, boş stəkanı 
+borunun altına qoymalı.  
+ 24
+ 
+К
+Ş ə  k i l  -  2 
+Б
+б 
+а 
+С
+Шк
+Ш
+ 25 
+7. K kranını bağlayıb etalon mayeni qıf vasitəsi ilə B 
+borusuna o qədər doldurmalı ki, mayeinin səthi a nişanı 
+səviyəsində dayansın. 
+8. Ehmalca K kranın elə açmalı ki, borunun ucundan 
+maye damcıları qopsun. Bu zaman borudakı maye səviyəsi  b  
+nişanına çatana kimi tökülən damcıların (ne) sayını qeyd edib, 
+sonra isə K kranını bağlamalı. 
+9. Təcrübəni ən azı üç dəfə təkrar etməli. 
+ 
+H e s a b a t 
+ 
+           1. Ölçülən R, MSO, MS, n və ne  kəmiyyətlərinin orta 
+qiymətlərini təyin etməli.                           
+2. Tədqiq olunan mayenin n damcıdan ibarət olan 
+hissəsinin M  kütləsini M=Ms-Mso  düsturu ilə hesablamalı. 
+3. Tədqiq olunan mayenin bir damcısının m kütləsini  
+n
+Mm =   düsturu ilə hesablandığını nəzərə alıb, onun  P  
+çəkisini     
+g
+n
+Mmgp ==  
+ 
+düsturu ilə hesablamalı. 
+4. Damcının P çəkisini və borunun ucunun R xarici 
+radiusunun qiymətlərini (4) düsturunda yerinə yazıb, tədqiq 
+olunan mayenin  α  səthi gərilmə əmsalını hesablamalı. 
+5.  Etalon mayenin eα  səthi gərilmə əmsalını və  eρ  
+sıxlığını, tədqiq olunan mayenin isə ρ  sıxlığının təcrübə 
+aparılan temperatura uyğun qiymətlərini cədvəldən götürməli. 
+6. eee n,,, ρρα  və  n  kəmiyətlərinin qiymətlərini (6) 
+düsturunda yerinə yazıb, tədqiq olunan mayenin  α  səthi 
+gərilmə əmsalını hesablamalı. 
+ 26
+7.   Təcrübənin mütləq və nisbi xətalarını (4) və (6) 
+düsturlarına əsasən hesablamalı. 
+  
+ 
+1.4.3. KAPILYAR BORULARDA MAYE  
+          SƏVIYƏSININ QALXMASI ÜSULU 
+ 
+Ləvazimat : 1) qurğu, 2) katetometr, 3) müxtəlif diametrli  
+                       üç kapilyar boru,  4) tədqiq olunan maye,         
+                   5) distillə olunmuş su, 6) spirt,  7) kapilyar  
+                       boruları üfiqi vəziyyətdə saxlaya bilən  
+                       dayaq. 
+ 
+N ə z ə r i    m ə l u m a t 
+ 
+Silindrik kapilyar borularda maye meniski sferik 
+seqment formasında olur. Daxili radiusu R olan belə kapilyarın 
+bir uçunu səthi gərilmə əmsalı α  olan və kapilyarın divarını 
+isladan mayeyə batırdıqda maye kapilyara daxil olur və onun 
+meniski r radiusa malik çökük səth olur. Bu zaman meniskin 
+çökük olması hesabına atmosfer təzyiqinin əksi istiqamətində 
+mayeyə təsir edən əlavə təzyiq yaranır. 
+Bu əlavə təzyiq                
+r
+p α∆ 2=   (1) 
+ 
+kimi ifadə olunan Laplas düsturu ilə təyin olunur. 
+Kapilyar boru batırılan mayenin sərbəst səthinə 
+atmosfer təzyiqi təsir edirsə, kapilyarın içərisindəki maye 
+səthinə atmosfer təzyiqindən p∆  əlavə təzyiq qədər az təzyiq 
+təsir edər. Bu səbəbə görə də kapilyarda menisk elə səviyəyə 
+qədər qalxır ki, kapilyarda yaranan h  hündürlüklü maye 
+sütununun hidrostatik təzyiqi  p∆  əlavə təzyiqini 
+ 27 
+tarazılaşdırsın. Əgər sərbəstdüşmə təcili g  və mayenin sıxlığı 
+ρ  olarsa, onda kapilyarda mayenin yaratdığı hidrostatik təzyiq  
+ghρ  olar,  və  p∆  üçün  
+ 
+                    ghρρ∆ =   (2) 
+ 
+ifadəsini yazmaq olar. 
+(2) düsturunu (1)-də nəzərə alsaq, onda mayenin α  
+səthi gərilmə əmsalını hesablamaq üçün    
+      
+               ghrρα 2
+1
+=   (3)    
+   
+ifadəsi alınar. 
+Adətən kapilyarda meniskin r  radiusunu ölçmək üçün 
+mürəkkəb əməliyyatlar icra etmək lazım gəlir. Odurki, (3) 
+düsturundan istifadə etdikdə  r   radiusundan deyil, onun 
+kapilyarın R   daxili radiusu ilə əlaqə düsturundan istifadə 
+etmək daha əlverişlidir. Bu əlaqə düsturu sadə həndəsi 
+qurmalarla alınır. Beləki, əgər meniskin kapilyarın divarı ilə 
+əmələ gətirdiyi kənar bucaq δ  olarsa, 
+ 
+                           
+δCos
+Rr =      
+                        
+olar. Bu ifadə (3)-də nəzərə alınsa, onda α  əmsalı 
+ 
+                
+δ
+ρα
+Cos
+ghR
+2
+=    (4) 
+düsturu ilə hesablanar. 
+ 28
+Əgər tədqiq olunan maye kapilyarın divarını tam 
+isladırsa, onda 0=δ  )Cos( 1=δ  olar və α  əmsalı üçün 
+ 
+           ghRρα 2
+1
+=   (5) 
+alınar. 
+ 
+Q u r ğ u n u n   t ə s v i r i 
+ 
+ Qurğu sxematik olaraq Şəkil – 3-də göstərilmişdir. 
+Müxtəlif diametrli üç B1, B2, B3  kapilyar boruları  Ş  ştativinin 
+S sıxacına bərkidilir və şaquli olaraq  Q  şəffaf qabda olan 
+tədqiq edilən mayeyə batırılır. Kapilyarların şaquli olmalarını 
+təmin etmək üçün ştativdən Şq şaqulu asılır. Qabdakı mayenin 
+temperaturunu ölçmək üçün T termometrindən istifadə olunur. 
+Qurğu bütövlükdə şəffaf pəncərəsi olan Tc termostatında 
+yerləşdirilir. Kapilyar borularda maye sütunlarının 
+hündürlükləri katetometrlə ölçülür. 
+ 
+Ö l ç m ə l ə r 
+ 
+ 1.  Kapilyar boruları əvvəlcə distillə olunmuş su, sonra 
+isə spirtlə yumalı və qurutmalı. 
+2. Hər bir kapilyar borunu üfiqi vəziyyətdə dayaq 
+üzərinə qoyub, katetometr vasitəsilə onların  D1, D2 və D3  
+diametrlərini ölçməli.  
+3. Kapilyar boruların üçünü də Şq şaqulunun köməyi 
+ilə S sıxacına şaquli vəziyyətdə bərkitməli. 
+4.  V  vintini  boşaldaraq  S sıxacı aşağı o qədər 
+endirməli ki, hər üç kapilyarın ucları Q  qabında olan mayeyə  
+5÷7 sm  dərinlikdə batsın. Kapilyarın tam islanmaları üçün 3÷5 
+dəqiqə gözləməli, sonra isə bu kapilyarları 2÷3 sm hündürlüyə 
+qaldırmalı və V vintini bərkitməli.  
+ 29 
+ 
+ 
+ 
+ 
+Ş ə  k i l  -  3 
+Г
+Ш
+ТС 
+В
+Ш
+Т
+Б2 Б1 Б
+С 
+ 30
+ 
+ 
+5.  Katetometrin baxış borusunu əvvəlcə Q  qabındakı 
+mayenin səthi səviyyəsinə yönəldib onun göstərişini qeyd 
+etməli. Sonra isə, baxış borusunu ardıcıl olaraq hər bir 
+kapilyarda olan meniskin dib nöqtələrinə tuşlayıb katetometrin 
+göstərişlərini qeyd etməli. Kapilyarlarda olan maye sütunlarının 
+aşağı və yuxarı uclarına uyğun katetometrin göstərişləri 
+fərqlərini təyin etməklə kapilyarlardakı maye sütunlarının 
+)h(),h( 0201  və )h( 03  hündürlüklərini təyin etməli. 
+6. Təcrübəni ən azı üç dəfə təkrar etməli. 
+ 
+H e s a b a t 
+ 
+  1. Kapilyar borularını D1, D2 və D3 diametrlərinin 
+orta qiymətlərini təyin edib, sonra isə onların uyğun R1, R2 və 
+R3  radiuslarını təyin etməli. 
+2. Menisklərin formasını nəzərə almaqla kapilyarlarda 
+maye sütunlarının daha dəqiq  h1, h2 və h3  qiymətlərini   
+1011 3
+1 Rhh +=   , 
+ 
+ 2022 3
+1 Rhh +=    ,       
+ 
+3033 3
+1 Rhh += . 
+ 
+düsturları ilə hesablamalı. 
+3. Hər bir kapilyar üçün ayrılıqda  h  və  R  
+parametrlərin qiymətlərini (5) düsturunda yerinə yazıb mayenin 
+səthi gərilmə əmsalını hesablamalı. 
+4.  Təcrübənin mütləq və nisbi xətasını hesablamalı. 
+ 31 
+ 
+1.4.4. SƏTHIN ƏYRILIYI HESABINA YARANAN      
+       TƏZYIQIN KOMPENSASIYASI ÜSULU 
+ 
+        Ləvazimat :  1) qurğu,  2) tədqiq olunan maye,  3) üç  
+                                müxtəlif diametrli kapilyar boru. 
+                  
+N ə z ə r i    m ə l u m a t  
+ 
+  Mayenin sərbəst səthi əyri formaya malik olduqda 
+ona səthin əyriliyi hesabına yaranan əlavə təzyiq təsir göstərir 
+və bu təzyiq əyri səthin daxilinə doğru yönəlir. Kapilyar 
+borularda olan mayelərin sərbəst səthləri əyri formaya malik 
+olduqlarından bu mayelərə həmişə əlavə təzyiq təsir göstərir. 
+Maye kapilyarı islatdıqda maye meniski çökük olur və yaranan 
+əlavə təzyiq atmosfer təzyiqinin əksi istiqamətində yönəlir. 
+Maye kapilyarı islatmadıqda isə menisk qabarıq olur və 
+yaranan əlavə təzyiq atmosfer təzyiqi istiqamətində yönəlir. 
+Silindrik kapilyarda səthi gərilmə əmsalı  α   olan 
+maye meniskinin radiusu r olarsa, yaranan əlavə təzyiq 
+ 
+                
+r
+p α∆ 2=   (1) 
+ 
+düsturu ilə hesablanır. Meniskin kapilyarın divarı ilə əmələ 
+gətirdiyi kənar bucaq δ  olarsa, meniskin r   radiusu ilə 
+kapilyarın R daxili radiusu arasında əlaqə 
+ 
+                 
+δCos
+Rr =  
+olar.  (1) düsturunda bu ifadəni nəzərə alsaq və sadə riyazi 
+çevirmə aparsaq, onda mayenin  α   səthi gərilmə əmsalını 
+təyin etmək   üçün   
+                                                             
+ 32
+                            
+δ
+∆α
+Cos
+pR
+2
+=   (2) 
+ 
+ifadəsi alınar. 
+Maye kapilyarın divarını tam isladırsa, onda  0=δ  
+)Cos( 1=δ   olur və α  əmsalı 
+ 
+            ρα ∆= 2
+R
+  (3) 
+ 
+düsturu ilə hesablanır. 
+Şaquli boruda yerləşən ρ  sıxlığa və h hündürlüyə 
+malik olan maye sütununun yaratdığı hidrostatik təzyiq ilə 
+kapilyarda yaranan∆p əlavə təzyiq kompensasiya olunarsa, 
+yəni ghp ρ=∆  olarsa, α  əmsalını təyin etmək üçün  
+ 
+ghRρα
+2
+1
+=   (4) 
+ 
+ifadəsi alınar. 
+ 
+Q u r ğ u n u n   t ə s v i r i 
+ 
+ Qurğu sxematik olaraq Şəkil – 4-də göstərilmişdir. 
+İçərisində bir damla D tədqiq olunan maye olan K kapilyar  
+ 33 
+ 
+ 
+Р2 
+Л 
+Р1 
+Ş ə k i l  -  4 
+ 
+С
+1
+В 
+Б 
+2 
+ 
+К 
+Ш2 
+Д 
+1 
+ 
+3 
+С 
+Бх М 
+Г 
+ 34
+boru Ş1 ştativinə üfiqi vəziyətdə bərkidilir. Bu kapilyarın 1 ucu 
+B borusunun bir ucuna keçirilmiş R1 rezin boruya daxil edilir.  
+B borusu Ş2  ştativinə bərkidilib və onun 2 ucu R2  rezin boru 
+vasitəsi ilə M manometrə birləşdirilir. B borusunun 3  ucu isə S 
+skamyasının üstündə olan  Q qabından yuxarıda saxlanılır. Q 
+qabına onun həcminin təxminən üçdə iki hissəsi qədər su 
+tökülür. V vinti vasitəsilə Q şaquli istiqamətdə hərəkət etdirilə 
+bilir. B borusunda havanın təzyiqini artırmaqla D damcısına 
+təsir etmək üçün Q qabı V vinti vasitəsilə yuxarı qaldırılır və 
+borunun 3 ucunu suya batırmaqla boruda hava sıxılır. Yaranan 
+əlavə təzyiq M monometrilə ölçülür.     K kapilyarının havada 
+olan ucunda D maye damcısının əmələ gəldiyi menski 
+müşahidə etmək üçün Bx baxış borusundan və  L lampasından 
+istifadə olunur. 
+ 
+Ö l ç m ə l ə r 
+ 
+  1. Ucları yaxşı cilalanmış K kapilyar borunun bir 
+ucunu tədqiq olunan mayeyə batırmalı və kapilyara bir damcı 
+maye daxil etməli. 
+            2. K kapilyarının damcı olan ucunu təmiz silib və 
+qurutmalı. 
+3. K kapilyarını Ş1 ştativinə üfiqi vəziyətdə bərkitməli, 
+onun içərisində maye damcısı olmayan ucunu  R2  rezin boruya 
+birləşdirməli. 
+4.  L lampasını məmbəyə qoşmalı və  Bx baxış 
+borusunu  K kapilyarının havadakı ucuna tuşlamalı. 
+5. V vintini burmaqla  S skamyasını yuxarı qaldırıb  B  
+borusunun  3 ucunu qabdakı mayeyə toxundurmalı. 
+6. Baxış borusu ilə kapilyarın uçundakı maye menskini 
+müşahidə edərək, eyni zamanda V vintini ehmalca burmaqla B 
+borusunun 3 ucunu mayeyə o dərinliyə qədər batırmalı ki, 
+kapilyarın ucunda D maye damcısının səthi müstəvi forma 
+ 35 
+alsın. Sonra isə M manometrin qollarındakı maye səviyyəsinin 
+h fərqini qeyd etməli. 
+7. Üç müxtəlif diametrli kapilyardan istifadə etməklə 
+təcrübəni üç dəfə təkrar etməli. 
+ 
+H e s a b a t. 
+ 
+1.  Manometrdə olan mayenin ρ  sıxlığını və kapilyarların R 
+daxili 
+      radiuslarını cədvəldən götürməli. 
+2. Manometrin h göstərişini və R ilə ρ -nun cədvəldən 
+götürülmüş qiymətlərini  (4)  düsturunda yerinə qoyub, 
+mayenin α səthi gərilmə əmsalını hər bir kapilyar üçün 
+ayrılıqda təyin etməli və sonra isə onların orta qiymətini 
+hesablamalı. 
+3.  Təcrübənin mütləq və nisbi xətalarını  (4) düsturundan 
+istifadə edərək hesablamalı. 
+ 
+ 
+1.4.5. HAVA QABARCIĞINDA MAKSIMUM      TƏZYIQ 
+ÜSULU 
+ 
+        Ləvazimat :  1) qurğu,  2) tədqiq olunan maye,           
+                            3) etalon maye (distillə  edilmiş su). 
+ 
+N ə z ə r i    m ə l u m a t  
+ 
+  Hava qabarcıqlarının əmələ gəlməsi mayenin səthi 
+gərilmə hadisəsi ilə bağlıdır. Təcrübi olaraq bunu asanlıqla 
+müşahidə etmək olar. Əgər bir ucu mayenin sərbəst səthinə 
+toxunan şaquli nazik borunun digər ucundan ona hava daxil 
+edilərsə, onda mayenin boru daxilində qalan səthi gərilmiş 
+pərdə kimi çökək forma alacaq, yəni hava qabarcığı əmələ 
+gələcəkdir. Boruya havanın daxil edilməsi davam etdirilərsə 
+ 36
+qabarcıq müəyən həcmə qədər böyüyəcək və sonra isə 
+partlayacaqdır. Deməli qaracığın içərisində olan havanın təzyiqi 
+maksimum olduqda o partlayır. Müəyyən olunmuşdur ki, bu 
+maksimum təzyiq yaranan anda, yəni hava qabarcığı partlayan 
+halda, mayenin α  səthi gərilmə əmsalı ilə  P maksimum təzyiq 
+arasında  
+ 
+                                Ρ= Aα                     (1) 
+ 
+münasibəti vardır. Burada  A  mütənasiblik əmsalı olub, yalnız 
+borunun mayeyə toxunan ucunun həndəsi ölçülərindən asılı 
+olan sabit kəmiyyətdir. Ona cihaz sabiti də deyirlər. 
+ Əgər qurğunun  A  cihaz sabiti məlumdursa, onda  (1)  
+düsturundan istifadə edərək mayenin α  səthi gərilmə əmsalını 
+hesablamaq olar.  Əks halda,  A  sabiti məlum deyilsə, onda ilk 
+növbədə qurğunun A sabiti təyin edilir. Bu məqsədlə eα  səthi 
+gərilmə əmsalı məlum olan mayedən, yəni etalon mayedən 
+istifadə edərək  
+ 
+e
+e
+P
+α
+α =   (2) 
+ 
+Düsturu ilə  A  sabiti təyin olunur. Burada,  Pe  etalon mayenin 
+hava qabarcığındakı maksimum təcyiqdir. 
+ Əgər  (2) ifadəsi  (1)-də nəzərə alınarsa α  əmsalı  
+ 
+e
+eP
+P αα =   (3) 
+düsturu ilə hesablanar. 
+ 37 
+Tədqiq olunan və etalon maye qabarcıqlarında uyğun  
+P və Pe maksimum təzyiqləri  U şəkilli manometrlə ölçülərsə, 
+onda   
+ 
+eee ghP
+ghP
+ρ
+ρ
+=
+=
+  (4) 
+ 
+olar.  
+Burada,  ρ  manometrdə olan mayenin sıxlığı, g – 
+sərbəstdüşmə təcili, h və he isə  tədqiq olunan və etalon maye 
+qabarcıqlarının partlama anında manometr qollarındakı maye 
+səviyyələrinin fərqidir, yəni manometr göstərişidir.  
+(4) ifadələrini (3) – də nəzərə alsaq tədqiq olunan 
+mayenin α  səthi gərilmə əmsalını hesablamaq üçün  
+ 
+e
+eh
+h αα =           (5) 
+ 
+düsturu alınar. 
+ 
+Q u r ğ u n u n   t ə s v i r i 
+ 
+  Qurğunun sxematik təsviri Şəkil - 5 –də 
+göstərilmişdir.   Tədqiq olunan maye  S sınaq şüşəsinə tökülür 
+və sınaq şüşəsi, ortasından  N nazik boru keçən T tıxacı ilə kip 
+bağlanır. Bu sınaq şüşəsi Ş ştativinə şaquli vəziyyətdə 
+bərkidilir.  S sınaq şüşəsinin Ç çıxıntısı vardır. Bu çıxıntı R1 
+rezin boru ilə dörd ucu olan və Ş ştativinə bərkidilmiş B 
+borusunun 1 ucuna birləşdirilir.  B borusunun 2 ucu R2  rezin 
+boru ilə U şəkilli  M manometrə, 3 ucü K1 kranı ilə atmosferə 
+və  4 ucu isə  R3 rezin boru vasitəsilə  Ş ştativinə bərkidilmiş A 
+ 38
+aspiratoruna birləşdirilir. Aspiratorun içərisindəki suyu  Q  
+qabına tökmək üçün  K2  kranından istifadə edilir. 
+ 
+Ö l ç m ə l ə r 
+ 
+1. A aspiratorunun K2 kranını bağlayıb onu su ilə 
+doldurmalı və aspiratorun altına  Q qabını qoymalı. 
+2. Dörd uclu B borusunun 3 ucundakı  K1 kranını 
+açmalı və tədqiq olunan mayedən müəyyən qədər, təxminən 
+sınaq şüşəsinin üçdə bir həcmi qədər,  S sınaq şüşəsinə tökməli. 
+3. Ortasındakı deşikdən N nazik boru keçən T tıxacı 
+ilə S sınaq şüşəsinin ağzını kip bağlamalı və  N nazik borunu 
+ehmalca sınaq şüşəsinə daxil edərək onun ucunu maye səthinə 
+toxundurmalı.  
+4. Dörd uclu B borusunun K1  kranını bağlayıb A 
+aspiratorunun K2 kranını azacıq açaraq ondan suyu damcı-
+damcı  Q qabına axıtmalı. K2 kranınıqı elə açıq vəziyyətdə 
+saxlamalı ki, N nazik borunun ucunda hava qabarcıqlarının 
+əmələ gəlməsi və partlaması nisbətən böyük fasilələrlə baş 
+versin və qabarcıqlar partlayan anda manometrin  h  göstərişini 
+qeyd etmək mümkün olsun.  
+5. Hava qabarcıqlarının əmələ gəlməsi və partlaması 
+prosesi qərarlaşdıqdan sonra, ən azı on dənə qabarcıq partlayan 
+anlara uyğun manometr qollarındakı maye səviyyələrinin  h  
+fərqini qeyd etməli.  
+6.  Tədqiq olunan maye əvəzinə etalon maye götürüb, 
+yuxarıdakı 1÷5 bəndlərində göstərilənləri təkrar yerinə yetirib 
+və etalon maye üçün manometr qollarındakı maye 
+səviyyələrinin   he  fərqini qeyd etməli. 
+ 
+ 39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ş ə k i l  -  5 
+Б
+3
+Г 
+А 
+К
+4 
+Р3 
+Ш
+Т 
+Н 
+С 
+Ч 
+ 
+Р
+2
+Р
+К1 
+ 40
+ 
+ 
+ 
+ 
+ 
+H e s a b a t. 
+ 1. Manometrin h və he göstərişlərini və etalon 
+mayenin cədvəldən götürülmüş eα əmsalını  (5) düsturunda 
+yerinə qoyub tədqiq olunan mayenin α  əmsalını hesablamalı.  
+2. Təçrübənin mütləq və nisbi xətalarını hesablamalı. 
+ 43
+II.  FƏSİL 
+ 
+MAYELƏRDƏ DAXİLİ SÜRTÜNMƏ 
+HADİSƏSİ 
+ 
+2.1.   Mayelərdə və qazlarda laminar və turblent axın  
+haqqında qısa nəzəri məlumat 
+ 
+Maddənin bərk və qaz hallarından fərqli olaraq, maye 
+halında qonşu molekullar arasında cazibə qüvvəsi itələmə 
+qüvvəsinə nəzərən çox böyük olur və bu səbəbə görə maye 
+axıcılıq xassəsi kəsb edir.  
+Mayelərin axını xaraktercə laminar və turbulent olur.  
+Axın zamanı maye hissəcikləri bir-birinə paralel laylar üzrə 
+hərəkət edirsə belə axın laminar axın adlanır.  
+Tərifdən göründüyü kimi, laminar axın zamanı paralel 
+laylardakı hissəciklərin “öz layını”  tərk etməsi baş vermir. 
+Bundan fərqli olaraq elə axına rast gəlmək olur ki, orada maye 
+hissəcikləri mürəkkəb hərəkət edərək burulğan əmələ gətirir, 
+yəni laylardakı hissəciklərin qarışması baş verir. Belə axın 
+turbulent axın adlanır.  
+Qeyd edək ki, laminar axın zamanı axın borusunun ixtiyari 
+nöqtəsində maye hissəciklərinin sürəti zaman keçdikcə 
+dəyişmir. Bu sözləri turbulent axın üçün demək olmaz. 
+Turbulent axın zamanı axın borusunun hər bir nöqtəsində 
+hissəciklərin sürəti zaman keçdikcə dəyişir. Deməli laminar 
+axın stasionar (qərarlaşmış), turbulent axın isə qeyri-stasionar 
+(qərarlaşmamış) axındır. 
+Mayelərin laminar və turbulent axını zamanı molekulların 
+bir laydan digər laya keçib-keçməməsini qeyd etdik. Belə keçid 
+molekulların xaotik hərəkəti ilə deyil, istiqamətlənmiş (axınla 
+birlikdə) hərəkəti ilə əlaqədardır. Molekulların xaotik 
+hərəkətləri nəticəsində laylararası keçidi hər iki axında baş 
+verir. Daxili sürtünmə məhz belə keçidlərin təsiri ilə yaranır. 
+ 44
+Keçid icra edən molekul özü ilə müəyyən impuls (hərəkət 
+miqdarı) aparır və ona görə də qonşu layların nisbi sürəti 
+dəyişir. Nəticədə sanki laylar arasında sürtünmə yaranır. Bu isə 
+axına perpendikulyar istiqamətdə axın sürətinin dəyişməsinə, 
+daha dəqiq desək, axın borusunun divarına yaxınlaşdıqca 
+sürətin azalmasına səbəb olur.  
+ 
+2.2. Daxili sürtünmə əmsalı və onun vahidləri 
+ 
+Maye və qazlarda daxili sürtünmə hadisəsini xarakterizə 
+edən əsas parametrlərdən biri daxili sürtünmə əmsalıdır. Bu 
+əmsalın fiziki mahiyyəti maye və qazlar üçün eyni olduğunu 
+nəzərə alıb onun haqqında qısa nəzəri məlumat vermək üçün 
+əsasən mayelərdən söhbət açacağıq və yalnız zəruri hallarda 
+qazların daxili sürtünməsindən danışacağıq. 
+Mayenin silindirik borudan laminar axınına müxtəlif sürətli 
+maye laylarının hərəkəti kimi baxmaq olar: hər bir layın sürəti 
+sabit olub digər layların sürətindən fərqlənir. Layların sabit 
+sürətlə hərəkət etməsi o deməkdir ki, silindirik borunun 
+uclarındakı sabit təzyiqlər fərqi hesabına meydana çıxan və bu 
+laylara təsir edən təzyiq qüvvəsi maye daxilində bu laylara təsir 
+edən digər qüvvə ilə tarazlaşır (əks halda laylar Nyutonun 
+ikinci qanununa görə sabit təcillə hərəkət edərdi). Bu qüvvəyə 
+mayenin daxili sürtünmə qüvvəsi deyilir.  
+Təcrübi olaraq müəyyən edilmişdir ki, müxtəlif sürətlərlə 
+hərəkət edən qonşu maye laylarına onların nisbi sürətlərinin 
+əksinə yönəlmiş  sürtünmə qüvvəsi  (F) təsir göstərir. Bu qüvvə  
+                            S
+dх
+dvF η=                        (1) 
+düsturla təyin olunur. 
+Burada  S – layların toxunan səthlərinin sahəsi, 
+dх
+dv
+ – axına 
+perpendikulyar istiqamətdə sürət qradientidir (sürətin vahid 
+məsafədə dəyişməsidir), η - mayenin daxili sürtünmə əmsalıdır. 
+ 45
+Bəzən η dinamik özlülük əmsalı və ya sadəcə olaraq özlülük 
+əmsalı da adlanır.  
+Bir çox hallarda isə mayenin dinamik özlülük əmsalının  
+(η) onun sıxlığına (ρ) olan nisbəti kimi təyin olunan  
+                                   
+ρ
+ην =                          (2)         
+ 
+kinematik özlülük əmsalından da istifadə olunur. 
+Əgər (1) düsturunda layın toxunma səthinin sahəsinin və 
+sürət qradientinin vahidə bərabər olduqlarını qəbul etsək, onda 
+daxili sürtünmə əmsalı ədədi qiymətcə sürtünmə qüvvəsinə 
+bərabər olar. Deməli, mayenin daxili sürtünmə əmsalı sürət 
+qradienti vahid olduqda layın vahid sahəli toxunma səthinə təsir 
+edən sürtünmə qüvvəsinə bərabər olan kəmiyyətə deyilir.  
+SQS vahidlər sistemində daxili sürtünmə əmsalı vahidi 
+olaraq Puaz qəbul edilmişdir: 1 Puaz, sürət qradienti 
+sm
+ssm /1  
+olduqda (yəni 1 sm məsafədə sürətin  
+s
+sm1  dəyişməsi zamanı) 
+toxunma səthinin sahəsi 1 sm2 olan maye layına 1 dina 
+sürtünmə qüvvəsi təsir edən mayenin daxili sürtünmə əmsalıdır, 
+yəni  
+ 
+[ ]
+ssm
+q
+ssmsm
+smdnPzPuaz
+⋅
+=
+⋅
+⋅
+=== 1111 2η  
+ 
+BS vahidlər sistemində daxili sürtünmə əmsalı vahidi 
+aşağıdakı kimi təyin edilir: 
+ 
+[ ] Pz
+sm
+kq
+smm
+mN 1011 2 =⋅
+=
+⋅
+⋅
+=η  
+ 
+ 46
+Kinematik özlülük əmsalı, (2) düsturundan göründüyü 
+kimi, mayenin sıxlığının hər vahidinə düşən dinamik özlülük 
+əmsalına bərabərdir. SQS vahidlər sistemində kinematik 
+özlülük əmsalı vahidi olaraq Stoks qəbul edilmişdir: 
+ 
+[ ]
+s
+sm
+smq
+ssmq
+smq
+PzStStoks
+2
+33 11111 =
+⋅
+====ν  
+ 
+ 
+BS vahidlər sistmində kinematik özlülük əmsalı vahidi  
+       
+               [ ] St
+s
+m
+mkq
+smkq 1000011
+2
+3 ==
+⋅
+=ν  
+olar. 
+Daxili sürtünmə əmsalı ilk növbədə mayelərin molekulyar 
+quruluşundan asılıdır. Məlumdur ki, maye molekulları kiçik 
+rəqsi hərəkətdə olurlar. Bu rəqsi hərəkət ölçüsü molekulların 
+ölçüləri tərtibində olan molekullar arasındakı məsafələrdə baş 
+verir. Zaman keçdikcə rəqs edən molekullar fluktasiya 
+nəticəsində qonşu molekulların təsiri ilə yerlərini sıçrayışla 
+dəyişib rəqsi hərəkətlərini yenidən davam etdirir. Beləliklə 
+maye molekulları daimi bu cür istilik hərəkətində olur. 
+Aydındır ki, molekullar arasındakı məsafə böyüdükcə mayenin 
+axını da artır. Deməli bu zaman axıcılığın tərs qiyməti ilə 
+mütənasib olan daxili sürtünmə əmsalı azalır. Bu səbəbdən 
+daxili sürtünmə əmsalının temperatur asılılığı 
+                        
+кТ
+wS exp=η                                 (3) 
+ 
+kimi ifadə olunan Frenkel – Andrade düsturu ilə təyin olunur.  
+Burada S – molekulların orta sıçrayış məsafəsindən, rəqs 
+tezliyindən və mayenin temperaturundan asılı vuruqdur, w - 
+ 47
+molekulların aktivləşmə enerjisi olub, onun sıçrayış etməsinə 
+sərf edilir, k – Bolsman sabitidir və T – mütləq temperaturdur.  
+S vuruğunun temperaturdan asılılığı zəif olduğu üçün η - 
+nın temperatur asıllığı əsasən  
+кТ
+wexp  vuruğu ilə müəyyən 
+olunur, yəni temperatur artdıqca η sürətlə azalır. Həqiqətən, 
+məsələn, tempeatur 0 ºS – dən 100 ºS – yə    qədər   artdıqda  
+suyun    daxili    sürtünmə   əmsalı    1,8⋅10-2  - dən 2,8⋅10-3 
+ssm
+q
+⋅
+ - yə qədər azalır. 
+Mayelərdən fərqli olaraq qazlarda daxili sürtünmə əmsalı 
+temperatur artdıqca artır, belə ki, η əmsalı T1/2 ilə mütənasibdir.  
+Yuxarıda deyilənlərdən aydın olur ki, daxili sürtünmə 
+əmsalı real maye və qazları xarakterizə edən əsas fiziki 
+kəmiyyətlərdən biridir. Bu kəmiyyət təcrübi olaraq müxtəlif 
+üsullarla təyin edilir.  
+ 
+ 
+2.3. MAYELƏRDƏ DAXILI SÜRTÜNMƏ 
+ƏMSALININ TƏYINI 
+ 
+2.3.1. KAPILYAR VISKOZIMETR ÜSULU 
+ 
+Ləv a z i m a t :  1) qurğu, 2) tədqiq olunan maye,            
+                       3) etalon maye (təmiz su),                            
+                       4) saniyəölçən, 5) damcıladıcı  
+                        (pipetka) və ya qıf, 6) süzgəc kağızı,    
+                       7) piknometr. 
+ 
+N ə  z  ə  r  i    m  ə  l  u  m  a  t  
+ 
+Maye laminar axarkən onun sürətinin axına perpendikulyar 
+istiqamətdə paylanması Puazeyl qanunu ilə ifadə olunur. Əgər 
+ 48
+uclarındakı təzyiqlər fərqi ∆P olan r radiuslu və l uzunluqlu 
+silindirik boru ilə özlülüyü η olan maye axırsa, onda borunun 
+mərkəzindən radial istiqamətdə x məsafədə mayenin sürəti 
+Puazeyl qanununa görə aşağıdakı düsturla təyin olunar:  
+ 
+                           ( ) ( )22
+4
+xrxv −∆Ρ=
+lη
+              (1) 
+ 
+Göründüyü kimi, mayenin v sürəti x məsafəsindən asılı 
+olaraq parabolik qanunla dəyişir. Bu düsturdan istifadə edərək 
+borunun en kəsiyindən t müddətində axan mayenin V həcmini 
+təyin etmək üçün  
+     
+              
+lη
+π
+8
+4 ∆Ρ
+=
+trV                            (2) 
+                  
+ifadəsini almaq olar. Bu ifadə Puazeyl düsturu adlanır.  
+Puazeyl düsturundan görünür ki, silindirik borudan maye 
+axarkən ∆P, r, t, l və V kəmiyyətlərini ölçüb borudan axan 
+mayenin η özlülük əmsalını hesablamaq olar. Lakin, praktiki 
+olaraq buna nail olmaq o qədər də asan deyildir. Çünki (2) 
+düsturundan istifadə edilərkən maye axınının laminarlıq şərti 
+mütləq ödənilməlidir. Əks halda axın Puazeyl düsturu tətbiq 
+edilə bilməyən turbulent xarakterli olar. 
+Axının laminar və turbulent xarakterli olması mayenin 
+təbiətindən, axın sürətindən və borunun həndəsi ölçülərindən 
+asılıdır. Beləki, sıxlığı ρ olan maye silidirik boru ilə axarkən 
+laminar xarakterdən turbulent xarakterə Reynolds ədədi 
+müəyyən kritik qiymətdən böyük olduqda keçir (məsələn, 
+silindirik boruda axan su üçün onun kritik qiyməti 1000-dir). 
+Reynolds ədədi adsız kəmiyyətdir və belə təyin olunur: 
+ 
+ 49
+                
+η
+ρvr
+=Re                    (3) 
+(3) ifadəsindən görünür ki, sıxlığı ρ və özlülüyü η 
+olan maye axınının laminar xarakterdən turbulent xarakterə 
+keçməsi r radiusu kiçik olduqda axın sürətinin nisbətən böyük 
+qiymətlərində baş verə bilər. Məhz bu səbəbə görə η - nı (2) 
+düsturu ilə təyin etmək üçün maye axınının turbulent xarakterə 
+malik olma ehtimalının kiçik olmasını təmin edən hallardan 
+istifadə olunur. Bu hallardan biri də kapilyar borudan istifadə 
+etməkdir. Buna görə də bəzən bu üsula kapilyar üsul, istifadə 
+olunan cihaza isə viskozimetr deyirlər. 
+Daxili sürtünmə əmsalını təyin etmək  üçün etalon 
+mayedən (özlülük əmsalı və sıxlığı məlum olan mayedən) 
+istifadə etmək daha əlverişlidir. Çünki, etalon mayedən istifadə 
+etdikdə kapilyar borunun həndəsi ölçülərini, uclarındakı 
+təzyiqlər fərqini və axan mayenin həcmini təyin etməyə ehtiyac 
+qalmır. Doğrudan da, əgər eyni bir borudan əvvəlcə müəyyən V 
+həcmdə özlülüyü məlum olmayan (η), sonra isə həmin V 
+həcmdə özlülüyü məlum olan (η0) maye axarsa, onda (2) 
+düsturuna əsasən 
+ 
+                   ∆Ρ⋅⋅= t
+V
+r
+l8
+4πη                    (4) 
+      
+                    00
+4
+8
+∆Ρ⋅⋅= t
+V
+r
+l
+πη                    (5) 
+ 
+Bu ifadələri tərəf – tərəfə bölsək 
+ 
+                         
+00∆Ρ
+∆Ρ
+=
+t
+t
+Oηη                                    (6) 
+ 50
+ 
+Əgər borunun uclarında təzyiqin atmosfer təzyiqinə bərabər 
+olduğunu, yəni axın yalnız mayelərin ağırlıq qüvvələrinin təsiri 
+ilə baş verdiyini qəbul etsək 
+                                                         
+                                ghρ=∆Ρ           (7)  
+ 
+                                ghOO ρ=∆Ρ           (8) 
+ 
+Burada g - sərbəst düşmə təcili, h – maye sütununun 
+hündürlüyü (hər iki maye üçün eynidir), ρ - tədqiq olunan 
+mayenin sıxlığı, ρ0  etalon mayenin sıxlığıdır. 
+(7) və (8) ifadələrini (6) – da nəzərə alsaq 
+ 
+                           
+00
+0 ρ
+ρηη
+t
+t
+=                                   (9) 
+ 
+(9) düsturundan görünür ki, etalon mayedən istifadə 
+etdikdə tədqiq olunan mayenin daxili sürtünmə əmsalını təyin 
+etmək üçün eyni həcmli mayelərin kapilyar borudan axma 
+müddətlərini (t və t0) və tədqiq olunan mayenin ρ sıxlığını 
+təcrübi olaraq ölçmək kifayətdir. 
+ 
+Q u  r  ğ  u  n  u  n    t  ə  s  v  i  r  i  
+ 
+Daxili sürtünmə əmsalı sxematik olaraq şəkildə göstərilən 
+kapilyar viskozimetrlə təyin edilir. Bu viskozimetr U formalı 
+şüşə borudur. Onun bir qolu borudan (1) və ona birləşmiş 
+tutumdan (2), digər qolu isə kapilyar borudan (3), ona birləşmiş 
+tutumdan (4) və həmin tutuma birləşmiş nisbətən böyük 
+radiuslu borudan (5) ibarətdir. Viskozimetrdəki mayeni sormaq 
+üçün 5 borusuna rezin boru (6) taxılır. Kapilyar borudan keçən 
+ 51
+maye həcmini göstərmək üçün onun və radiusu nisbətən böyük 
+olan 5 borusunun üzərində m və n cizgiləri çəkilmişdir. 
+Viskozimetr Ş ştativin S sıxacına bərkidilib içərisində su 
+olan Q şəffaf qaba şaquli vəziyyətdə elə salınır ki, suyun 
+səviyyəsi n cizgisindən yuxarıda olsun. Q şəffaf qaba Qz 
+qızdırıcısı, Qr qarışdırıcısı və T termometri daxil edirlər.  
+ 
+Ö l ç mə lə r  
+ 
+1. Qurğunu təşkil edən hissələrin işə yararlı  olmasını 
+nəzərdən keçirməli və onun təcrübəni aparmaq üçün 
+tam hazır olmasını yoxlamalı.  
+2. Viskozimetri ştativin S sıxacından açıb onu əvvəlcə 
+təmiz su ilə, sonra isə tədqiq olunan maye ilə yumalı. 
+3. Tədqiq olunan mayeni damcıladıcı və ya qıf ilə 1 
+borusundan viskozimetrə tökməli. Maye viskozimetrin 
+2 tutumunun təxminən yarısına qədər dolmalıdır.  
+4. Viskozimetri ştativin S sıxacına bərkidib şaquli 
+vəziyyətdə Q şəffaf qaba elə salmalı ki, qabın 
+içərisindəki suyun səviyyəsi viskozimetrin üzərindəki 
+n cizgisindən yuxarıda olsun.  
+5. 10 - 15 dəqiqə gözləməli və sonra T termometrin 
+göstərişini qeyd etməli. 
+6. Rezin boru (6) ilə mayeni n cizgisindən yuxarı 
+səviyyəyə qalxana kimi sormalı. 
+7. Sormanı dayandırıb rezin borunun ucunu atmosferdə 
+saxlayaraq viskozimetrin qolundakı mayenin enməsini 
+müşahidə etməli və menisk n cizgisindən keçdiyi anda 
+saniyəölçəni işə salmalı, m cizgisindən keçdiyi anda 
+isə saniyəölçəni dayandırmalı. 
+8. Saniyəölçənin göstərişini, viskozimetrin  n və m 
+cizgiləri arasında yerləşən həcmdəki mayenin  3 
+kapilyarı ilə axdığı t müddəti qeyd etməli. Ölçməni bir 
+neçə dəfə (ən azı 3 dəfə) təkrar etməli. 
+ 52
+9. Viskozimetri ştativin S sıxacından açmalı və 
+içərisindəki mayeni boşaldıb onu təmiz su ilə yumalı. 
+10. Tədqiq olunan maye əvəzinə etalon maye (təmiz su) 
+töküb təcrübəni 3 - 5 bəndlərində göstərilən qaydada 
+təkrar edərək viskozimetrin m və n cizgiləri arasında 
+yerləşən həcmdəki etalon mayenin 3 kapilyarı ilə 
+axdığı t0  müddəti qeyd etməli. Ölçməni bir neçə dəfə 
+(ən azı 3 dəfə) təkrar etməli. 
+11. Tədqiq olunan mayenin ρ sıxlığını piknometrlə təyin 
+etmək üçün boş piknometrin M0  kütləsini təyin 
+etməli. Sonra onu tədqiq olunan maye ilə doldurub Q 
+qabının içərisindəki suya salaraq 10 - 15 dəqiqə 
+saxladıqdan sonra piknometrdəki mayenin səviyyəsini 
+onun üzərindəki cizgiyə çatdırmalı (əgər səviyyə 
+cizgidən aşağı olsa damcıladıcı ilə maye əlavə etməli, 
+yuxarı olsa süzgəc kağızı ilə mayedən götürməli). 
+Piktometri Q qabından çıxarıb səylə qurutmalı və 
+onun maye ilə birlikdə Mm kütləsini təyin etməli. Bu 
+əməliyyatları piknometrə maye əvəzinə təmiz su 
+dolduraraq təkrar etməli və piknometrin su ilə birlikdə 
+Ms kütləsini təyin etməli. 
+12 .  Qızdırıcı ilə Q qabındakı suyu qızdırıb təcrübəni 3 - 
+11 punktlarda göstərilən qaydada təkrar edərək t,   t0 , 
+M0 , Mm və Ms kəmiyyətlərinin müxtəlif 
+temperaturlardakı qiymətlərini təyin etməli. Belə ki, 
+temperaturu hər dəfə 4 – 6 °S artırmaq şərti ilə suyun 
+temperaturu 50 – 60 °S olana kimi təcrübəni aparmalı.  
+13 .  Qurğunu işdən azad edib səhmana salmalı və istifadə 
+olunan ləvazimatları laboranta təhvil verməli. 
+ 
+H e s a b a t  
+ 
+ 53
+1. Tədqiq olunan və etalon mayelərin kapilyar borudan 
+axma müddətlərinin t  və 0t  orta qiymətlərini təyin 
+etməli.  
+2. Tədqiq olunan mayenin ρ sıxlığını  
+3.  
+                                ( ) λλρρ +−
+−
+−
+= 0
+0
+0
+ММ
+ММ
+s
+м  
+ 
+      düsturu ilə hesablamalı. Burada  λ - havanın sıxlığı 
+(λ=0,0012 3см
+г ),  ρ0 – təcrübə temperaturunda suyun 
+sıxlığıdır (cədvəldən götürməli). 
+4. Müxtəlif temperaturlarda təyin edilmiş  t , 0t  və ρ - 
+nun qiymətlərini (9) düsturunda nəzərə alıb tədqiq 
+olunan mayenin daxili sürtünmə əmsalını hesablamalı. 
+Bu zaman suyun η0 və ρ0 parametrlərinin müxtəlif 
+temperaturlardakı qiymətlərini cədvəldən götürməli. 
+5. η - nın temperaturdan asılılıq qrafikini qurmalı. 
+6. Təcrübənin mütləq və nisbi xətalarını hesablamalı. 
+ 
+ 54
+ 
+ 
+2.3.2.  STOKS ÜSULU 
+ 
+    Ləvaz i mat .  1) qurğu, 2) müxtəlif radiuslu kürəciklər,                  
+                      3) mikrometr, 4) saniyəölçən, 5) xətkeş 
+ 
+N ə  z  ə  r  i    m  ə  l  u  m  a  t  
+ 
+Bərk cisim özü maye içərisində hərəkət etdikdə maye 
+layları arasında sürtünmə qüvvəsi meydana çıxır. Bu qüvvə 
+ШГ
+Т
+С
+1
+5
+6
+4
+3
+2
+н
+Г Г
+Ş ə k i l  
+ 55
+bərk cismin həndəsi ölçülərindən, hərəkət sürətindən, mayenin 
+daxili sürtünmə əmsalından və sıxlığından asılıdır.  
+Təcrübi olaraq müəyyən edilmişdir ki, bərk kürəcik, xətti 
+ölçüləri bu kürəciyin r radiusundan çox-çox böyük olan qabda 
+yerləşmiş η özlülüyünə malik maye içərisində arxasınca 
+burulğan əmələ gətirməyən v sürəti ilə hərəkət edirsə ona 
+                         vrFS πη6=              (1) 
+ 
+müqavimət qüvvəsi təsir edir. Bu qüvvə stosk qüvvəsi adlanır. 
+Mayenin daxili sürtünmə qüvvəsinin (1) ilə ifadə 
+olunduğunu bilərək η  özlülük əmsalını təyin etmək üçün bərk 
+kürəciyin maye daxilində düşməsindən istifadə etmək olar. 
+Əgər M kütləli və r radiuslu kürəcik çox böyük radiusa R malik 
+(R>r) silindirik qabda yerləşmiş özlü maye içərisində arxasınca 
+burulğan əmələ gətirmədən silindirin oxu boyunca düşürsə, bu 
+zaman ona hərəkət istiqamətində yönəlmiş P ağırlıq qüvvəsi ilə 
+yanaşı, hərəkətin əksi istiqamətdə yönəlmiş FA Arximed və FS 
+Stoks qüvvələri təsir göstərir. Onda Nyutonun ikinci qanununa 
+əsasən bu kürəciyin hərəkət tənliyi  
+ 
+               SА FFdt
+dvm −−Ρ=                     (2) 
+ 
+Kürəciyin və mayenin sıxlıqları uyğun olaraq ρ və ρm , 
+sərbəstdüşmə təcili g olarsa, Ρ və FA qüvvələri aşağıdakı kimi 
+təyin olunar: 
+ 
+               
+grF
+gr
+МА ρπ
+ρπ
+3
+3
+3
+4
+3
+4
+=
+=Ρ
+                      (3) 
+ 
+ 56
+Buradan görünür ki, kürəciyə təsir edən P və FA qüvvələri 
+hərəkət zamanı sabit qalır, lakin FS müqavimət qüvvəsi, (1) 
+ifadəsindən göründüyü kimi sabit qalmayıb kürəciyin sürəti 
+artdıqca o da artır. Nəticədə kürəciyə təsir edən əvəzləyici 
+qüvvə və eyni zamanda kürəciyin hərəkət təcili azalır. Əgər (1) 
+və (3) ifadələrini (2) – də nəzərə alıb sadə riyazi çevirmələr 
+aparsaq kürəcik təcilinin sürətdən asılı olaraq azalması 
+ 
+                v
+r
+g
+dt
+dv М
+22
+9
+ρ
+η
+ρ
+ρρ
+−⋅
+−
+=                (4) 
+ 
+ 
+kimi ifadə olunar. Göründüyü kimi, kürəcik hərəkət edərək elə 
+v0 sürətinə malik olur ki, bu zaman onun təcili sıfıra bərabər 
+olur, yəni kürəcik bərabərsürətlə hərəkət edir. (4) düsturunda 
+olduqda 00 =
+dt
+dv
+ olduğunu nəzərə alsaq 
+                        
+2
+0 9
+2 grv М
+η
+ρρ −
+=                 (5) 
+ 
+ifadəsini alarıq. Buradan görünür ki, kürəciyin radiusu nə qədər 
+kiçik olsa, o daha kiçik sürətlə bərabərsürətli (qərarlaşmış) 
+hərəkət edər. Əgər kürəcik v0 sürətinə malik olduqdan sonra t 
+müddətində l məsafəsi gedərsə, onda 
+ 
+                           
+t
+v l=0                            (6) 
+ 
+olar. (6) – nı (5) – də nəzərə alsaq mayenin η daxili sürtünmə 
+əmsalını hesablamaq üçün  
+ 
+ 57
+                 tgrМ 2
+9
+2
+l
+ρρ
+η
+−
+=                    (7) 
+ 
+düsturunu alarıq.  
+Daxili sürtünmə əmsalını dəqiq təyin etmək üçün silindirik 
+qabın radiusu ilə kürəciyin radiusu arasındakı münasibəti, daha 
+dəqiq desək, qabın divarı ilə düşən kürə arasındakı məsafənin 
+kürənin radiusuna nisbətən kifayət qədər böyük olmasını təmin 
+etmək lazımdır. Əgər silindirik qabın ölçülərini nəzərə almalı 
+olsaq, onda radiusu R olan silindirik qabdakı mayenin η 
+özlülük əmsalı  
+ 
+                   tgr
+R
+r
+М 2
+4,219
+2
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +
+−
+=
+l
+ρρ
+η                     (10) 
+ 
+düsturu ilə təyin olunar.  
+ 
+Q u  r  ğ  u  n  u  n    t  ə  s  v  i  r  i  
+ 
+Qurğu sxematik olaraq Şəkil – 2-də göstəlirmişdir. 
+Tədqiq edilən maye (qliserin, transformator yağı və s.) ilə 
+doldurulmuş və üzərində a1, a2, a3 cizgiləri olan Q silindirik qab 
+içərisində su olan S silidirik qaba salınaraq M masası üzərinə 
+qoyulur. Masanın tənzimedici vintlərinin köməkliyi ilə silindir 
+şaquli vəziyyətə gətirilir. Kürəciyin a1 cizgisindən keçərkən 
+sabit sürətlə hərəkət etməsini təmin etmək üçün silindirdə maye 
+səviyyəsi a1 cizgisindən ən azı 5 - 8 sm yuxarıda olmalıdır. 
+Təcrübə zamanı mayenin temperaturunu ölçmək üçün S 
+silindirindəki suya dəqiqliyi 0,1 °S – dən az olmayan T 
+termometri salınır. Qurğu Ş şaqulu ilə təchiz olunur.  
+ 
+Ö  l  ç  m  ə  l  ə  r  
+ 58
+ 
+1. Qurğunu təşkil edən hissələrin işə yararlı olmasını 
+nəzərdən keçirməli və qurğunun təcrübəni aparmaq 
+üçün tam hazır olmasını yoxlamalı. 
+2. M masasının tənzimedici vintlərinin və Ş şaqulunun 
+köməkliyi ilə Q qabını şaquli vəziyyətə gətirməli.  
+3. Mayenin temperaturunu qeyd etməli.  
+4. Q silindirik qabın R radiusunu, a1, a2 və a2, a3 cizgiləri 
+arasındakı l və l1 məsafələrini ölçməli.  
+5. İstifadə olunan kürəciklərin təcrübəni aparmaq üçün 
+yararlı olmasını yoxlamalı. Bu məqsədlə onların ən 
+böyüyünün radiusunu mikrometrlə ölçməli və onu 
+silindirin oxu boyunca suya salmalı. Saniyəölçəndən 
+istifadə edərək kürəciyin l məsafəsini getdiyi  t 
+müddətini və l1 məsafəsini getdiyi t1 müddətini 
+ölçməli. Sonra uyğun olaraq 
+t
+v l=  və 
+1
+1
+1 t
+v l=  
+sürətlərini hesablamalı. Əgər v və v1 sürətləri 
+bərabərdirsə onda təcrübəni aparmaq üçün radiusu bu 
+kürənin radiusundan böyük olmayan kürələrdən 
+istifadə etməli. Əks halda daha kiçik radiuslu kürə 
+götürüb v=v1 şərtinin ödənməsinə nail olaraq təcrübəni 
+aparmaq üçün münasib radiusa malik kürəciklər 
+seçməli.  
+6. Kürəciyin r radiusunu mikrometrlə ölçüb, onu Q 
+qabının mərkəzi oxuna yaxın yerdə mayeyə salmalı. 
+Saniyəölçən ilə kürəciyin a1 və a2 cizgiləri arasındakı l 
+məsafəsini getməsi üçün sərf olunan t müddətini qeyd 
+etməli.  
+7. Təcrübəni ən azı beş kürəcik üçün təkrar etməli.  
+ 
+ 
+ 
+ 
+ 59
+H  e  s  a  b  a  t  
+ 
+1. Kürənin və mayenin ρ və ρm sıxlıqlarını cədvəldən 
+götürməli. Əgər mayenin təcrübə temperaturundakı ρm 
+sıxlığı cədvəldə yoxdursa, onda onu təcrübi olaraq 
+təyin etməli. 
+2 .  R, l, g, ρ, ρm – in qiymətlərini və hər bir kürəcik üçün 
+təyin edilmiş r və t – nin qiymətlərini (7) ifadəsində 
+yerinə yazıb mayenin η özlülük əmsalını hesablamalı.  
+3 .  Beş kürəcik üçün (7) ifadəsi ilə hesablanmış η - nın 
+qiymətlərindən istifadə edərək daxili sürtünmə 
+əmsalının orta qiymətini təyin etməli. 
+4 .  Təcrübənin mütləq və nisbi xətalarını hesablamalı.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60
+ 
+2.4. QAZLARIN DAXILI SÜRTÜNMƏ 
+ƏMSALININ TƏYINI 
+М 
+С Ш 
+Г 
+л
+л1 
+а1 
+а2
+а3 
+Т 
+Ş ə k i l  -  2
+ 61
+ 
+2.4.1.  HAVANIN DAXILI SÜRTÜNMƏ ƏMSALININ 
+TƏYINI 
+ 
+Ləv a z i m a t :  1) qurğu, 2) saniyəölçən, 3) həcmi  
+                           1,5 –  2  l  olan qab 
+ 
+N ə  z  ə  r  i    m  ə  l  u  m  a  t  
+ 
+Mayelər kimi qazların da daxili sürtünmə əmsalını təyin 
+etmək üçün Puazeyl düsturundan istifadə etmək olar. Bunun 
+üçün gərək tədqiq olunan qazın boru ilə laminar axması və axın 
+zamanı qazın sıxılmaması təmin olunsun. Bu məqsədlə nisbətən 
+qısa kapilyar borulardan istifadə olunur.  
+Kapilyar borunun uclarında kifayət qədər kiçik təzyiqlər 
+fərqi yaratsaq bu kapilyardan keçən qaz axını laminar olar. Bu 
+zaman kapilyarın daxilində onun oxu boyunca qazın sıxlığı 
+sabit qalır, yəni axın zamanı qaz praktiki olaraq sıxılmır. 
+Deməli, əgər kapilyarın uzunluğu l  və radiusu r olarsa, onda bu 
+kapilyardan t müddətində axan qazın V həcmi  
+                           
+lη
+π
+8
+4 ∆Ρ
+=
+trV                            (1) 
+ 
+Buradan görünür ki, əgər təcrübi olaraq kapilyarın 
+uclarındakı  ∆Ρ  təzyiqlər fərqini və kapilyardan keçən qazın  V 
+həcmini müəyyən etsək, qazın η daxili sürtünmə əmsalını 
+ 
+                      
+lV
+tr
+8
+4 ∆Ρ
+=
+πη                    (2) 
+ 
+düsturu ilə hesablamaq olar.  
+Daxili sürtünmə əmsalını (2) düsturu ilə hesabladıqdan 
+sonra təcrübənin düzgün aparılması üçün vacib sayılan qaz 
+ 62
+axınının laminarlıq şərtinin pozulmadığını yoxlamaq lazımdır. 
+Belə ki, əgər qaz kimi havadan istifadə olunarsa, onda hava 
+axınının laminar olması üçün  Re  Reynolds ədədi 2000 – dən 
+kiçik olmalıdır. Bu zaman Reynolds ədədi 
+ 
+                               η
+ρ dvRе =                (3) 
+ 
+düstur ilə hesablanır. Burada d – kapilyarın diametri, ρ 
+havanın sıxlığı, η - havanın daxili sürtünmə əmsalı və  v   
+havanın orta axın sürəti olub 
+ 
+                                       
+tr
+Vv 2π
+=             (4) 
+ 
+ifadəsi ilə təyin olunur. (4) – ü (3) – də nəzərə alsaq, Re – ni 
+belə hesablamaq olar: 
+ 
+                      tr
+VRе
+πη
+ρ2
+=                 (5) 
+ 
+Beləliklə (5) ilə Re ədədini hesablayıb Re < 2000 şərtinin 
+ödənil-məsini yoxlamaq lazımdır. Əgər bu şərt ödənmirsə onda 
+kapilyarın uclarındakı təzyiqlər fərqini elə qiymətə qədər 
+azaltmaq lazımdır ki, bu şərt mütləq ödənilsin.  
+ 
+Q u  r  ğ  u  n  u  n    t  ə  s  v  i  r  i  
+ 
+Təcrübədə istifadə olunan qurğu sxematik olaraq  Şəkil -3-
+də göstərilmişdir. Qurğu A aspiratorundan, K kapilyarından, M 
+manometrindən və B quruducu balondan ibarətdir. K kapilyarın 
+uclarında kiçik təzyiqlər fərqi yaratmaq üçün A aspiratoruna  3 
+ 63
+kranın və 4 qıfın vasitəsi ilə kifayət qədər su doldurulur. Sonra 
+isə 1 kranını açıb aspiratordan müəyyən həcmdə su axıdılır. Bu 
+K kapilyarı ilə hava sorulur, yəni aspiratorun 5 aralığında hava 
+seyrəkləşir və K kapilyarın uclarında təzyiqlər fərqi yaranır. 
+Aspiratordan axan suyun həcmi 2 şkalası və kapilyarın 
+uclarındakı təzyiqlər fərqi M manometri ilə ölçülür.  
+Kapilyardan axan havanın nisbətən quru olması üçün hava 
+kapilyara daxil olmamışdan qabaq içərisinə kalsium xlorid 
+(CaCl2) doldurulmuş B balonundan keçir.  
+ 
+Ö  l  ç  m  ə  l  ə  r  
+ 
+1. Qurğunu təşkil edən hissələrin işə yararlıolduğunu 
+nəzərdən keçirməli və qurğunun təcrübəni aparmaq 
+üçün tam hazır olmasını yoxlamalı. 
+2 .  Kapilyarın uzunluğunu millimetrik xətkeşlə ölçməli. 
+3 .  Aspiratorun 3 kranını açıb 4 qıfı ilə onu sü ilə 
+doldurub, sonra isə 3 kranını bağlamalı. 
+4 .  Aspiratorun 1 kranını açaraq suyu digər qaba 
+axıtmalı. Bu zaman  M manometrin qollarındakı ∆Ρ 
+səviyyələr fərqinin stabilləşməsini gözləməli və qeyd 
+etməli. 
+5 .  Su səviyyəsinin 2 şkalası üzərində vəziyyətini qeyd 
+edərək saniyəölçəni işə salmalı. 
+6 .  Aspiratordan V = 0,5 ÷ 1,0 l  su axdıqdan sonra 
+saniyəölçəni saxlamalı. Bu zaman saniyəölçən 
+kapilyardan 0,5 – 1,0  l  hava axdığı   t   müddəti 
+göstərəcək. 
+7 .  Manometrin ∆Ρ göstərişinin və axan havanın V 
+həcminin eyni (sabit) qiymətləri üçün təcrübəni 6 ÷ 8 
+dəfə təkrar edərək  t  zamanı üçün orta qiymət 
+tapmalı. 
+ 
+H  e  s  a  b  a  t  
+ 64
+ 
+1. Kapilyarın r radiusunu cədvəldən götürüb və t, ∆Ρ, V, l  
+üçün təcrübi təyin edilmiş qiymətləri (2) düsturuna 
+yazıb η daxili sürtünmə əmsalını hesablamalı.  
+2. Havanın otaq temperaturundakı ρ sıxlığını cədvəldən 
+götürüb və η, t, r, V – nin məlum qiymətlərini (5) – də 
+yerinə yazıb Re Reynolds ədədini hesablamalı.  
+3. Re<2000 şərtinin ödənilməsini yoxlamalı. Bu şərt 
+ödənilmirsə təcrübəni aspiratorun 1 kranından axan su 
+sərfinin kiçik qiymətlərində aparmalı. 
+4. Təcrübənin mütləq və nisbi xətalarını hesablamalı. 
+ 
+ 
+5
+Ş ə k i l  
+4 К
+М
+2
+А
+Б
+3
+К
+1
+ 65
+ 
+ 
+Ə D Ə B I Y Y A T 
+ 
+1. Tahirov V.İ. Molekulyar fizika. Bakı, Elm, 1999, 257s. 
+2. Əhmədov F.A. Mexanika və molekulyar fizika. Bakı, 
+BDU, 2005, 260 s. 
+3. Abaszadə A. Molekulyar fizika və istilik. Bakı, Maarif, 
+1967, 346 s. 
+4. Кикоин А.К., Кикоин И.К. Молекулярная физика. 
+Москва, Наука, 1976, 478 с. 
+5. Сивухин Д.В. Общий курс физики: Термодинамика 
+и молекулярная физика. Москва, Наука, 1979, 551 с. 
+6. Матвеев А.Н. Молекулярная физика. Москва, 
+Высшая школа, 1987, 356 с. 
+7. Телеснин Р.В. Молекулярная физика. Москва, 
+Высшая школа, 1965, 298 с. 
+8. Əmiraslanov A. Ümumi fizika praktikumu, Bakı, 
+Maarif, 1978,306 s. 
+9. Гольдина Л.Л. Лабораторные занятия по физике, 
+Москва, 1983, 702 с. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 66
+ 
+M Ü N D Ə R İ C A T 
+ 
+G i r i ş ………………………………………………..….. 3 
+ 
+ 
+I  FƏSİL.   MAYELƏRDƏ SƏTHİ GƏRİLMƏ HADİSƏSİ   
+1.1. Mayelərdə səthi gərilmə haqqında qısa nəzəri  
+          məlumat  …………………………………………..  4 
+1.2. Səthi gərilmə əmsalı və onun vahidləri …….……. 7 
+1.3. Səthi gərilmənin müxtəlif səth hadisələrinə  
+           təsiri……………………………………………….9 
+1.4. Mayelərin səthi gərilmə əmsalının təyini …….…13 
+     1.4.1. Halqanı qoparma üsulu ……………………….13 
+     1.4.2. Damcı üsulu …………………………………..19 
+     1.4.3. Kapilyar borularda maye səviyyəsinin qalxması  
+               üsulu …………………………………………..27 
+     1.4.4. Səthin əyriliyi hesabına yaranan təzyiqin  
+               komööpensasiyası üsulu……….………………33 
+1.4.5. Hava qabarcığında maksimum təzyiq üsulu …38 
+ 
+II  FƏSİL.   MAYELƏRDƏ DAXİLİ SÜRTÜNMƏ  
+                  HADİSƏSİ 
+ 67
+2.1. Mayelərdə və qazlarda laminar və turblent  
+           axın haqqında qısa nəzəri məlumat ………..…… 43 
+2.2. Daxili sürtünmə əmsalı və onun vahidləri ……….44 
+2.3.  Mayelərdə daxili sürtünmə əmsalının təyini …....49 
+     2.3.1. Kapilyar viskozimetr üsulu ……………………49 
+     2.3.2. Stoks üsulu ……………………………………..57 
+2.4. Qazların daxili sürtünmə əmsalının təyini ……….64 
+     2.4.1.Havanın daxili sürtünmə əmsalının təyini…..…64 
+ 
+    Ə d ə b i y y a t …………………………..……………69 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 68
+ 
+ 
+ 
+Məmmədov Rasim Qara oğlu 
+fizika-riyaziyyat elmləri doktoru, 
+professor 
+ 
+MAYELƏRDƏ SƏTHI GƏRILMƏ VƏ 
+DAXILI SÜRTÜNMƏ  HADISƏLƏRI 
+(Metodik vəsait)  
+ 
+Bakı, BDU, 2007, 71 s. 
+ 
+ 

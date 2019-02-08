@@ -1,0 +1,6506 @@
+RİF   
+MİN   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    
+ 
+ 
+ 
+      
+19 mart 2011- i    456 -     
+   . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+«Müəllim»  
+ – 2011 
+2
+:   . .  .   
+    , -
+ ,  . .   
+ 
+       
+ 
+ 
+ . .,  . .   
+ (    ). : « » 
+, 2011, - 232 .  
+ 
+    ( ) ,    
+   .       , 
+   ,  ,  -
+   .        
+        .  -  
+,         , -
+ ,         
+    . 
+D rslik,        -
+   ,      -
+   .     
+     ,   
+ .  
+         
+     ,    .   
+         -
+  .        
+       -
+. 
+ 
+M 
+5129943
+20111380112
+ 
+ . . , . . , 2011 
+ 
+« »   . 
+ 
+  19.03.2011.   59. 
+  60×841/16. 14,5 . .  500.
+3 
+MÜND R CAT 
+ 
+ ................................................................ 4 
+  ........................................................................ 7 
+  l r  f nnin  g  ………...... 9 
+    ….......... 13 
+  t    …. 18 
+    ... 23 
+-    (software)……………………..  28 
+-     (hardware)………………..……. 37 
+ ?................................................................... 53 
+   …………………………………... 65 
+-   …………………………………………. 74 
+-      …………………. 81 
+-     ………………… 89 
+-      
+   ……………………... 102 
+-  v     …….……... 108 
+-    ……………………………… 116 
+   ………….. 130 
+  ……………………………... 136 
+   ………………… 142 
+-    ……………………. 156 
+-     ...............… 162 
+-      
+ ………………………………………………... 171 
+-       ………………… 183 
+   -  r ………. 192 
+    …………………….. 201 
+……………………………………………….. 218 
+……………………………………………… 228 
+ 
+ 
+4 
+ 
+ 
+AB - n 42-ci prezidenti Bill Klinton öz hakimiyy tinin 
+sonunda kütl vi informasiya nümay nd l rinin – “XX srin 
+v  kinci Minilliyin n böyük nailiyy ti kimi n yi qeyd 
+ed rdiniz” – sual na cavab olaraq heç kimin gözl m diyi bir 
+halda, informasiyan n ld  olunmas  v  ötürülm si sah sind  
+qazan lan u urlar  qeyd etdi. 
+Eyni zamanda qeyd etm k laz md r ki, b riyy t  laz m 
+olan informasiyalar n 85%-i co rafi m kanla ba l d r, y ni 
+informasiya heç olmasa dördölçülüdür v  bunun üçü m kanla 
+ba l d r. Y ni bu ba l l q d qiq olmad qda informasiya öz 
+d y rini itirir, istifad çi ondan istifad  ed  bilmir, qeyri-
+mü yy nlik yaran r. 
+Müasir zamanda informasiyan n ld  olunmas , emal  v  
+istifad çiy  çatd r lmas n n müxt lif vasit l ri, üsullar  v  
+metodlar  mövcuddur. Bunlardan hans lar n n seçilm si qoyu-
+lan m qs d v  ona çatmaq üçün h ll olunacaq m s l l rin 
+növü v  mür kk bliyind n as l d r. Metod v  vasit l rin çox 
+olmas na baxmayaraq onlar aras nda Co rafi nformasiya 
+Sisteml rinin (C S) özünü t sdiq etm si v  liderlik mövqeyini 
+saxlamas  art q inkarolunmaz bir faktd r. 
+T ssüfl  qeyd etm k laz md r ki, bizim universitetl ri-
+mizin co rafiya v  bu yön mli fakült l rind  C S haqq nda 
+n z ri praktiki kurslar az t dris edilir. Dünyan n qabaqc l 
+universitetl rind  is  bu predmet  xüsusi diqq t verilir, fiziki 
+v  yaxud sosial-iqtisadi co rafiya istiqam tind n as l  
+olmayaraq onun trafl  t drisi verilir. 
+Misal üçün, C S mühitind  x rit l rin t rtib olunmas n n 
+xüsusi üstünlükl ri vard r. Bel  ki, «klassik - n n vi» üsul-
+larla t rtib olunmu  x rit l r ümumi t zahür v  m nz r  üçün 
+yararl  idi v  bununla da onlar n funksiyas  qurtar rd . C S 
+mühitind  yaranm  x rit l r is  ümumi t zahür yaratmaqla 
+5 
+yana , bir m lumat, veril nl r bazas  rolunu oynay r,  onlar n  
+daimi operativ kild   yenil m k imkanlar  var,  onlar çox-
+t b q lidir v  bu t b q l rd ki h r m rh l  yeni informasiya 
+v  veril nl r imkan d r. Bununla da co rafiya t bii v  sosial-
+iqtisadi proses v  hadis l rin modelinin yarad lmas nda, bu 
+prosesl r  t sir ed n amill rin laq l ndirilm sind  v  onla-
+r n proqnozla d r lmas nda birba a baza rolu oynay r. 
+Ümumi kild  C S yer s thin  aid informasiyalar n top-
+lanmas , inteqrasiyas  v  t hlili üçün xüsusi proqramlarla 
+t chiz olunmu  kompyuter sistemi kimi t rifl nir. Ancaq 
+n z r  almaq laz md r ki, ist nil n t rif d qiq deyil v  onun 
+daim t z l nm   ehtimal  vard r. Üst lik bir fakt da var ki, 
+C S-nin özü yeni sah dir v  onda bu t rifin daimi t kmil-
+l c yi labüddür. Mü llifl r bunlar  n z r  alaraq, C S-in 
+t rifini verm k m qs dini qar ya qoymur v  fikirl ir m ki, 
+düz edirl r.  
+D rslikd  C S-in sas ideyas , mahiyy ti, arxitekturas  v  
+obyektl ri t qdim olunur. C S texnologiyas  m hsullar  il  ta-
+n l q, onun imkanlar  v  al tl ri, t tbiq sah l ri xüsusi böl-
+m l rd  verilir. Cox hallarda t l b l r v  ümumiyy tl  istifa-
+d çil r m kan-zaman obyektl rini ay rd etm kd  ç tinlikl  
+rastla rlar. Bunlar   n z r    alan  mü llifl r  onlar n  rhin   
+xüsusi yer vermi l r. D rslik illüstrativ materiallarla z n-
+gindir v  bu da mövzunun d rk olunmas  üçün faydal d r. C S    
+mühitind  informasiyan n t hlili v  onun bazas nda obyekt-
+l rin modell dirilm si, x rit l rin t rtib olunmas  v  kadastr 
+i l rind  onun rolu da d rslikd  öz ksini tapm d r. 
+Qeyd etm k laz md r ki, t qdim olunan kitab bu sah d  
+respublikam zda yaz lan ilk d rslikdir v  ona gör  d  n -
+z rd n qaç r lm  mümkün m qamlara oxucu, mü yy n loyal-
+l qla yana a v  yaxud bu sah d  ba qa monoqrafiya v  elmi 
+m nb l r  müraci t ed  bil r. Mü llifl rin sas üstünlüyü, 
+traf mühitin, o cüml d n torpaq örtüyünün t dqiqi sah sind  
+6 
+müt x ssis olmalar  v  h mçinin n z ri v  praktik istiqam t-
+d  z ngin t crüb y  malik olmalar ndad r. 
+Hesab edir m ki, A. .Mehdiyevin v  A. . smay lovun 
+“Co rafi nformasiya Sisteml ri” d rsliyi universitetl rimizd  
+bu sah d  kadrlar n haz rlanmas na v  el c  d  bu sah d  
+i l y n müt x ssisl rin f aliyy tin  böyük fayda ver  bil r. 
+nformatika elminin yeni sah si olan C S sah sind  yeni 
+kitablar n yaz lmas  t qdir layiqdir. Bu d rslik bel  kitablar 
+aras nda birincil rd n oldu una gör  xüsusil  h miyy tlidir. 
+ 
+Ramiz M mm dov  
+AMEA-n n müxbir üzvü,  
+texniki elml r doktoru, professor 
+ 
+7 
+  
+ 
+     , « -
+  »     
+      -
+     .   
+     : 
+-        
+  (  ?); 
+- -     ; 
+- -    ; 
+- -   ;    
+-  n g    ;   
+- -   ; 
+- -in       ;  
+- -   -     ; 
+-     ; 
+-        
+ .  
+     
+ ,       
+   , -    
+   . 
+       -
+:  
+-         -
+     .    
+      ;   
+-  –      
+  ; 
+-        
+    ; 
+-     ( )   
+8 
+; 
+-      -
+  ; 
+-      ; 
+-          
+  ; 
+-           
+. 
+      
+        -
+, , , ,   
+     -
+    . 
+9 
+     
+ 
+   ( ),  -
+,      -
+      ,  
+       (Janette Lee). 
+-        2500  
+       -
+       
+.   ,    
+     -    
+,    ,  ,  
+       
+  -     -
+.      ,  g  
+  .        
+      -
+. ,     
+      
+    .     
+   .     
+-  ü       
+      . 
+     -
+     .   
+,   - ü     
+.      
+        -
+ .       -
+.   ,    
+       
+, ,     
+       
+.      -
+10 
+      ,  
+    . 
+        
+     .   
+      ,   
+  .      -
+   :    
+       
+ ? 
+  ,   
+       -
+ . ,      -
+ ,     , 
+  , ,  
+     -
+ . 
+ ,      -
+ ,        
+   .    , -
+        
+      .  
+,      
+       
+   . ü , -
+  ,      
+       
+.     ,     
+       
+. “   ”  -
+   ,      
+-        . « -
+»   ,      
+          
+        
+11 
+ . « »     
+   . « »   
+ r      -
+,  ,    
+     .  
+ ,  « » ,   -
+      -
+  . 
+       
+ : 
+ 
+ 
+ 
+,      
+   ,   -     
+ .  
+ ( )    ,  
+       , 
+  ,     
+        -
+     .   -
+       
+ i      
+.      
+    (GIS technology)  
+.       
+    . ,  , 
+   .     , -   
+   -   . 
+ , -       -
+       .  -
+  
+  
+ 
+  
+ 
+ 
+     
+  
+12 
+   .   , 
+, , n ,  , 
+,    -
+      . 
+      -    -
+  -ni      .   
+13 
+    
+  
+ 
+ ,     
+         -
+     .   -
+     ,    -
+ .    ,   -
+    .   
+       
+ ,       . -
+, ,       
+   .    -   
+    (  1.1). 
+ 
+ 1.1 
+-       
+ 
+ 
+    
+     
+  
+ 
+Geographic 
+Information system 
+ 
+ 
+  
+ 
+Geographical 
+Information system 
+ 
+ 
+ Geomatique   
+ 
+  
+Georelational 
+information system   
+  
+  
+Natural resources 
+information system   
+    
+  
+  
+Geoscience or 
+geological information 
+system 
+  
+ ( ) 
+  
+Spatial information 
+system 
+  
+  
+ 
+ ( ) 
+  
+ 
+Spatial data analysys 
+system  
+n   
+n  
+14 
+      
+  -  -   -
+ ü     -
+  .    
+,      , -
+   . -   
+    ,     
+    .    
+   .      
+  ,    .  
+   ,    
+,     . 
+    -       
+      . 
+    , y   
+      .  -
+        , 
+      -
+  .       
+           
+   ,       
+,         
+   .        
+ .   ?   
+      , 
+   ,      
+     .   
+       ,   
+         
+,       ,  
+  .      
+         
+   .   , -
+        
+15 
+   .    
+    .  
+     ,     
+     . 
+   ,  
+       ,  
+   .  -
+      ,  
+        
+      .   
+     ,   -   
+. ,   .  -  
+   . 
+,     
+ ,       : 
+1.   
+2.   
+3.  
+      ,    
+        -
+  ,      -
+   -       
+   .     -
+       ,  
+       . 
+   -     , 
+     .  -
+     : 
+1.      , -
+,      .   
+2.        
+ . 
+3.       -
+, ,         -
+16 
+   . 
+4.       -
+    , , , 
+,       ,    -
+,      -
+.  
+ 
+ 1.1. -       
+ 
+  , -     -
+.  , ,    ,    
+    .  
+, ,     
+        -
+   . -     
+ 
+ 
+ 
+ 
+ 
+-
+  
+-
+ 
+ 
+-
+ 
+ 
+ 
+ -
+-
+ 
+ 
+ 
+ 
+ 
+17 
+.   -     
+      -
+.     ,   
+   , , 
+     . - , 
+      
+ .      -
+  ( .1.1). 
+18 
+   
+  
+ 
+     ,  -
+      -
+   .   -
+      ,  
+       
+. 
+    -   -
+   4    .  
+  (1950-1970-  )   -
+,        
+   . 1960-    
+,      -
+     . 
+      -
+       .  
+       
+  .     -  -
+   . 
+  (1970-1980-  ) -   
+     .    
+     
+       
+. 
+  (1980-1990-  )   
+       
+   ,    
+   ,      
+.        
+       -
+ .  , a  -
+ -     .  
+19 
+,   (1990-    
+)    ,   -
+       .  
+          
+  .    -
+       
+ ,       
+ ,   
+      . 
+,    -
+       -
+  .     
+    ,  
+ ,     -
+    .     
+ ,   60-     , -
+     ,   -
+,       -
+   .  -
+  ,   ,  
+      
+ -        
+    .   , 
+      ( , 20    100 
+ )     -
+      . -
+ ,     -
+, , ,   -
+   .    
+       
+ ,      -
+      -
+  .    ,  ,  
+     . 
+20 
+        
+          
+        . 
+     : 
+        -
+        
+ ; 
+       ; 
+  ,  ,   .  
+       
+  . 
+  ,     -
+    .    -
+  10-15   ,    
+      . 
+        -
+       -
+.         
+,  ,     -
+    . -
+     .   -
+         
+   . -
+     .  -
+        -
+  ,      . 
+       
+       -
+  .      
+   ,     -
+   .         
+ ,  , ,    
+      -
+   .    -
+21 
+    .     
+      . 
+    1960-   
+       
+       
+.    ,     
+      -
+     .  
+       
+    .   
+  ,       
+    
+ . 
+  (1960-   ) -   
+       ( ) -
+       -
+.      , 
+   ,    -
+        -
+.    GBF-DIME (Geographic Base 
+File, Dual Independent Map Encoding) . -
+        -
+.     -   -
+      -
+  .    -
+     : 
+• SYMAP (   ); 
+• CALFORM (     ); 
+• SYMVU (    ); 
+• ODYSSEY (  ARC/INFO  ). 
+    , , 
+, , , , , , -
+  .        
+.  
+     ,    
+22 
+     ,  1969-   -
+ ESRI  Intergraph   .  -
+       -
+  .  
+   ,      
+   .   
+ ,      -
+     . 
+        
+( )     ,  -
+   (  ,  -
+,   , , , -
+, , , ,   
+  .)  .   
+, , ,  , -
+, ,   . -    
+ . -     -
+       -
+   . 
+ j        
+,  ,    -
+    .    
+    ,   -
+      .   
+         
+     . ,  -
+   .     
+       
+  ( )   .    
+     . 
+,     , -
+    ,   
+   .   
+ ,  ,   -
+  .  
+23 
+    
+   
+ 
+     -
+     .   
+      
+. -      -
+,   , ,   -
+         -
+  .    , 
+  -      . 
+ 
+  -  : 
+1.  
+2.  (data) 
+3.   (software) 
+4.   (hardware) 
+5.  
+    ( . 3.1)  
+.  
+ 
+ 3.1. -    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+   ,   -
+,     ,   
+ ,     
+.      -
+       
+.  -   . 
+ .     -
+,   ,   -
+       -
+ . 
+-      -
+ : 
+   (map user).  -   
+ ,      -
+   . -       
+    . 
+   (map builder). ,  -
+       -
+         
+  . 
+    (map publisher).  ,  
+     
+ . 
+  ( )  (data builder). 
+      -
+    . 
+    (database administra-
+tor). , -       -
+    . 
+    (database designer). 
+        
+ . 
+    (developer).    
+  -   ,  
+25 
+     . 
+  .    , 
+     .  
+  ( )  ? 
+    ( )   
+    .   
+   . :    
+ ,    ,   -
+ ,      . 
+-        -
+    . 
+ ( ) .    -
+  .     -
+,     
+.   -      
+  .     
+  : 
+      . , -
+, , , , -
+,       .; 
+  ,    -
+; 
+        
+    ; 
+       
+   . 
+  .    -
+,     :  
+-  (  , ,  
+); 
+-     ( , -
+ ,    .); 
+-      ( , 
+,    ,   .); 
+26 
+-     ( , -
+, , ). 
+       
+ , ,    -
+    .    
+  ,       
+ .    -
+       -
+   .    -
+  ,    -
+.        -
+  .    -
+     .  -
+     ,  ,  -
+      -
+     .  -   
+     . -
+        
+ ( )  -    -
+     .  -
+  , ,  -
+,       -
+       -
+   .  
+    -
+      .  -
+       
+,      -
+  . ü    (   -
+ )     -
+. -          -
+        
+ . 
+ . -     -
+27 
+   ,     -
+      -
+.       -
+  -       -
+    : 
+1.       -
+; 
+2.      ; 
+3.       
+   ; 
+4.  , ,  , 
+-      -
+   ; 
+5.      ; 
+6.      (workflow).   
+       -
+    . 
+-        
+       
+    . 
+28 
+-      
+ 
+-       ,  -
+      -
+      . 
+       
+. 
+ 
+   
+ 
+-       
+ ,     -
+ . : «    -
+ », «   », «  -
+ », «   »  .  
+-       -
+        
+( . 4.1).     -  -
+      . 
+      -
+.       
+  :   - . -  
+   .   
+     .   
+         .  
+     ,     
+            
+   .  -
+ (geocoding - .)     
+     . 
+,      
+    .  -
+    –      (   
+29 
+ 
+ 
+ 
+ 
+ 4.1.    (  . , 1999) 
+ 
+                 
+ 
+ 
+ 
+ 
+ 
+-  
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-  
+ 
+ 
+ 
+ 
+ ( ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+( ) 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+-  
+ 
+ 
+ 
+30 
+,    .)   (  -
+  )   .   -
+        
+   ,    , -
+ ,    .-  .   -
+ ,       
+ .   n    -
+   ,        
+.  ,  , , , -
+  .         
+.      , -    
+  .     
+ ,  ,  , 
+      . 
+   ,     
+    .   -
+    ,    
+  ,    -
+  ,   ,   -
+,    .    
+. 
+  ,  a    -
+,        
+.      , -
+    .     -
+      -
+        
+     .   
+ 
+ 
+31 
+   
+ 
+      -
+  .   -
+      . ,  
+ ,         
+          
+    .      -
+        
+ , -       
+     . 
+ ,       
+     -
+        -
+       . 
+-        -
+ ,      -
+ .     : 
+  ,  -
+,    ,   -
+    .    -
+ ,    .  
+     
+   .    -
+    ,   -
+       . 
+        -
+   ESRI    -
+ , -      -
+   .  -
+,          
+  . 
+       -
+       -
+32 
+  .     -
+      -
+,        -
+    .   -
+       ,  -
+     . 
+  
+ 
+ 4.1 
+ 
+      
+  
+ 
+     
+    
+I View, / ,  
+   ,   , 
+,  2000 
+  
+  
+  
+   2.0 
+ 
+     
+ESRI      . 
+DARATECH Inc.     -
+     : ESRI, Leica Geo-
+systems, IBM, SICAD Geomatics, Intergraph, GE Network 
+Solutions, AutoDesk, MapInfo    -
+    4.2-  .  
+      
+  ,     -
+   . ,     
+     ?   
+     ( . 4.3).   
+            
+33 
+ 
+ 4.2        
+ 
+ 
+ 
+ 4.3.       
+    
+34 
+    .  -
+ ,        
+     
+.  43      -
+   ,    12  
+      . 
+      
+     .   -
+  ,    -
+       -
+      60 %-
+  ( . 4.4).      3-5 % 
+ . 
+                         
+ 
+ 4.4         
+     
+35 
+        
+     
+ ( . 4.5).  
+          
+ 
+ 4.5.        
+     
+ 
+   , -    
+       -
+    .  ,  -
+       -
+    View,    
+    .  
+Daratech      ("GIS Markets & 
+Opportunities 2000")      
+      -
+.   ,    
+36 
+         -
+  ESRI  .   
+       
+    :   - 
+58%;  - 49%;  -72 %;    - 
+50%;   -37 %. 
+ 
+ 
+ 
+ 
+ 
+37 
+-      (hardware) 
+ 
+    
+ ,       
+(hardware)   .   , 
+         
+.       ,  
+-  ,    -
+         
+      .  
+  90-    ,   -
+        
+. -    ,   -
+        -
+.  
+ 
+ 5.1. -       ( )  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ –   
+ 
+ 
+ 
+38 
+  -       
+    ( . 5.1) 
+     -
+,       -
+  .      
+  ,     : 
+    (PC),     
+(Workstation) .       
+.  
+    ,   
+,      -
+.        
+ ,     
+   .    
+  ,  ,    
+ 8086      ,  
+  .  MS-DOS, 
+MS Windows        
+      32   .  
+      
+  ,     512 -  
+ .   ,  -
+       
+ ,   21   -
+.   UNIX, Solaris, VMS, O/S2  .  
+   .  
+,      -
+        
+        
+   ,    -
+. -      ,  
+     -
+ ,         -
+.        
+39 
+, Microsoft Windows  Linux   -
+        
+. ,      
+  ,     
+       
+,    -
+  . 
+-     , -
+ ( )      
+ .   « »   
+.  
+ 
+   
+ 
+       -
+      -  -
+    .   
+      : 
+  ; 
+     ; 
+   . 
+       -
+.    ,    -
+ ,    ( ) . -
+    :  
+    ; 
+  ; 
+  ; 
+   ; 
+      . 
+ -       
+         
+.  
+40 
+        
+    ( . 5.2): 
+ 
+ 
+ 5.2  -          
+ 
+ ,     
+          
+       .    
+        
+      . 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+41 
+ 
+ 
+     – -
+    .  -
+           
+ .       
+        
+.      ,  
+     , -
+       . 
+       , 
+     .  -
+     -
+,       -
+    .   
+ 2     .  
+ 
+ 
+ 
+     ,  
+      .   
+   ,     -
+       -
+  .  (     -
+   ),  , ,  
+        
+ .    : 
+-       
+    ; 
+-        
+         
+  (    ). 
+     . 
+   ,  3-6 -  -
+42 
+   .  ,    , -
+     3     
+.     -
+    (    100 )  
+  .      
+     . 
+  ,   (   ) 
+  .   -
+     ,   -
+  .       
+       
+     . -
+ ,      
+      -
+  .   
+      
+: 
+- ; 
+-  .  
+ ,   ( -
+)       
+ .     -
+     ,   
+  .      , -
+      ,  
+     ( .: Wacom  -
+).  ,      
+ .   ,  -
+   , ,   
+  . 
+   ,   -
+       
+ ,      . -
+      -
+43 
+ .    ,   
+      
+    .  , -
+  ,   , -
+    .       
+.   ,   -
+ 0.005-0.03   .   -
+,   ,  
+   .  
+   ,   -
+    ,    -
+         
+ ,      
+.    ,    
+       -
+    .    
+         
+  .      -
+     .  , 
+   0.004   . 
+-       -
+   .    -
+  CalComp, Mutoh, Wacom  . -
+   .  
+  ,     
+ -  .   -
+  ,      
+.  
+   (Surface Sizes)   
+    .  6 
+    ( 0)  . 
+    , ,  
+ ,    .   
+(  5.3). 
+44 
+  
+ , 
+   -
+ ( -0)  -
+   
+.   
+  
+  -
+ ( . 5.4). -
+   
+  , 
+          
+  .  
+  (Output Rate)   
+  .   
+       
+,       .  
+  (  )    , -
+          
+    . 
+ 
+ 5.4.  ( 0)  
+ 
+ 5.3   -WACOM 
+45 
+ 
+ 5.5.     
+ 
+    ( )  
+      ,  
+   .   
+,   ,    
+-       
+     -
+. 
+       ( . 
+5.6):    
+       
+     ( . 5.7).  
+  ,     , 
+     .  -
+ ,       
+   . 
+46 
+   
+( )  -
+  -  -
+.  , , 
+   
+ ( . 5.8).  
+    
+ (OceGraphics). 
+  -
+, CalComp  
+   -
+     
+  . 
+ 
+ 
+ 
+ 5.7.       
+ 
+ 5.6. -    
+    
+ (    - ,  
+ – ) 
+47 
+      ,  
+       . -
+         -
+.       -
+  .  
+ 
+    
+ 
+ 5.8.     ( ) 
+ 
+ 
+ 
+ 
+    ,  -
+ ( )   ( -
+)     . 
+  ,   -
+     , 
+    .  -
+     . -
+    . , 
+,    100    
+.    ,    
+  1855-       -
+  « » .    
+   .  -
+,        -
+  ,      
+48 
+( )   .   
+        -  
+     . 
+      
+      
+, ,      . 
+      -
+:   ( )   -
+ (TWAIN – модул,     .). 
+       
+ :  ,  ,  -
+,  ,  .   -
+   (  -4, -3, -0)   
+. 
+   20  (0.02 ) -
+   .     
+ ,   .  -
+     .   -
+ ,       
+  ,     
+  ,       
+ .   ,   
+,      , 
+        
+     .   
+   , , , -
+  .  ,     -
+.  
+       
+ dpi .      
+    ,     
+   .      
+ ( )     -
+.      -
+49 
+       -
+ .      
+  .   , 
+      
+  .     -
+       , 
+   .   -
+        
+    (  
+).       
+       ,    
+    .   
+ ,     
+ .   ,     
+  ,     -
+.          
+       
+.       
+  .     -
+     -    
+      .  
+ 
+ 5.9.  ( -0)     ( ) 
+50 
+        
+    ( -0)   
+( . 5.9). 
+ 
+  
+ 
+    ,  -
+       -
+     . ,   
+       
+     ,  
+     .  , 
+  ,     -
+   ( )  . -    
+ ,   , , 
+  .       
+      .  
+      ,  
+   . 
+ 
+ 
+ 
+        ( 0, 
+1  .)      ,    -
+  .    -
+   Hewlett Packard (HP)  
+  .  
+ 
+ 5.10.  HP DesignJet 100  
+51 
+    ,  -
+ ,     .   -
+   (200, 300, 600, 1200  .).   
+         . 
+    -     -
+.       
+    ( . 5.11): 
+ 
+                     
+)                                                                ) 
+ 
+  5.11.  HP esign  800 ( )   HP esign  5500 ( )   
+ 
+       
+        
+     . 
+-        -
+,          
+     -
+  .  ,    
+  (  ,   .) -
+      -
+     .    
+       -
+,        -
+.      
+52 
+      -
+  ,    (  )  
+ ,      
+  ,  ,    -
+  .    , -
+ , ,     
+   ( . 5.12). 
+ 
+ 
+ 5.12. -       
+ 
+53 
+GPS  ? 
+ 
+GPS –   -
+    
+   (Glo-
+bal Positioning System)  
+  . 
+    
+ ,  -
+   -
+  .  -
+   ( -
+)  .  -
+    ,   
+      . 
+  ,    
+     50-   
+   -     
+ . GPS     
+ 1969-   .   80-   
+    GPS-   
+  .      
+        
+ .  
+   ?  
+ ,      ,  -
+  ,   -
+,       -
+  .  , GPS-      
+1      .  
+GPS  ?  
+GPS      
+   (NAVSTAR   
+)     . 
+54 
+        -
+  .    -
+:  
+  ; 
+  ( - ); 
+   (  1136 ); 
+        
+; 
+      -
+ . 
+      GPS-  
+ .      
+      
+   . -     
+ GPS-      -
+  ,  100  .  
+ 
+NAVSTAR   ? 
+ 
+NAVSTAR     24   . 
+   6     , 
+-   60o   .   
+  4       24 -
+  .      20180   
+ 12   . 24    -
+     ,   
+      .   -
+, 2010-     31-  .  
+    787 ,    -
+   5  .    -
+ 10-9       -
+.  ,    -
+  1575    50    
+. 
+55 
+NAVSTAR     1978-   
+   ,  ,     
+    .     
+  10   ,  -
+         
+         
+ .    24  -
+    12    .  
+ 
+ 
+    ? 
+ 
+      -
+ : 
+   (        
+   ); 
+   ( , , ); 
+  ; 
+  ; 
+     . 
+ 
+ ? 
+ 
+      
+ .      
+ ,   ,     -
+ . , GPS     
+( ) ,   ,   
+ .  
+     -
+  .       -
+ .     
+           .  
+56 
+ 
+ 
+          
+      .  
+      . 
+  GPS ,   ,   
+   ,    30   
+.   30     
+.   GPS 30    -
+,   ,   GPS  
+      . 
+GPS-    ,    
+     .     -
+   .      
+         
+       -
+  .  GPS-    
+30       -
+57 
+,       ,  -
+       
+.   « »  .  GPS- -
+ 30    ,  
+GPS-      
+.    , GPS-  
+    (100  
+)        -
+     .   
+        
+(  )  .   « » 
+ .      
+OziExplorer ,     
+   .   ,  -
+   :   
+     
+**** Week 121 almanac for PRN-1 ************ 
+ID:  1 
+Health:  0 
+Eccentricity:  5.20515441894531E-0003 
+Time of Applicability(s):  2.33472000000000E+0005 
+Orbital Inclination(rad):  9.67345058917999E-0001 
+Rate of Right Ascen(r/s): -7.78318121064103E-0009 
+SQRT(A) (m^1/2):  5.15366992187500E+0003 
+Right Ascen at TOA(rad):  7.78944641351700E-0002 
+Argument of Perigee(rad): -1.73652994632721E+0000 
+Mean Anom(rad): -2.07132005691528E+0000 
+Af0(s):  2.07901000976562E-0004 
+Af1(s/s):  0.00000000000000E+0000 
+week:  121  
+ 
+58 
+**** Week 121 almanac for PRN-2 ************ 
+ID:  2 
+Health:  0 
+           --------     ---------- 
+week:  121 
+**** Week 121 almanac for PRN-3 ************ 
+ID:  3 
+Health:  0 
+     -----------       ----------- 
+week:  121  
+ 
+ 
+  ? 
+GPS-     
+       ,  
+       
+  .    , 2 
+ (    )    -
+   ,    
+      4    
+(  6.1). GPS-     
+  (    ) , 
+,       , 
+       . 
+GPS-     ( ,  -
+    )   -
+    : 
+   ; 
+     (0.1   
+); 
+     . 
+59 
+ 
+ 6.1. GPS-       
+ 
+-    GPS   -  
+    5    
+.     -
+  -  (  ) ,  
+  ,  ,   (2 ) 
+   ( . 6.2). 
+ 
+ 
+ 6.2. GPS   -      
+5     
+60 
+GPS-       
+ ?  
+    ,      
+ ,      
+    .     
+     GPS-  
+       
+   . ,   -
+  GPS-     -
+       -
+     .    
+     
+? 
+     ,  
+  «   »   -
+.      ,   
+ -      
+  .     -
+   30-100   -
+.      GPS  -
+     . -    
+   «   »   
+1  2000-     . 
+      -
+  ,   -
+ (      ), 
+      .  
+  .      -
+  . GPS      -
+      -
+.  ,     ( ) 
+   .   -
+        
+. 
+61 
+GPS-     ? 
+ 
+ 
+GPS-     . GPS 
+ ,       
+    .   -
+    ,        -
+     ,  
+GPS-  .    
+GPS-     4   
+ : 
+ GPS- ; 
+ GPS- ; 
+ GPS- ; 
+ GPS- . 
+ GPS-      
+    .   -
+      -
+,    .  
+  ,     -
+      -
+   ,     
+     .  
+ GPS-    -
+       -
+      
+-   . 
+ GPS-      
+.         
+      
+ .   .  
+ GPS-      
+   .  
+62 
+ 
+ 
+ 6.3.  GPS-  
+ 
+,    GPS-  -
+   GPS-   , 
+ a       ( . 6.3): 
+, ,     
+   ,  
+    .  ,   
+     . GPS  
+       
+-    . 
+-       -
+       . 
+  2003-      
+      
+  ( . 6.4).  ,  
+     .  
+63 
+ 
+ 
+ 6.4.     
+ 
+      . -
+    Garmin, Magellan, Cobra   
+.     .  
+ 
+ 6.5.    
+64 
+       
+ .        
+ ( . 6.5). 
+ 
+      -
+? 
+ -     
+        
+.       
+   ,     -
+ NAVSTAR    ,  -
+    . 
+65 
+     ( ) 
+ 
+ ,      
+       
+    .   
+      .   
+   ,   1 -    
+  .    -
+   : 
+-          
+    ; 
+-  ,   .    
+ ; 
+-        
+         -
+ (             
+)   ; 
+-       
+( ,       );  
+-  ,    (  , 
+  .) .     3-4 
+       . 
+      
+      ( -
+   .Wutrich   -
+).   ,      
+ ,    ( . 7.1). 
+      ,   
+.     ,    
+ ( ),    .   
+       -
+         -
+ ( . 7.2).  
+66 
+ 
+ 7.1.      
+ 7.2.      
+67 
+   GPS    -
+  .       -
+      . 
+      . 
+                                   
+ 
+ 
+ 
+ 7.3.       
+ 
+ 
+     -
+,       ( )   -
+          -
+ ( ),        
+        ( . 7.4).   
+68 
+                 
+)                                                               ) 
+ 
+ 7.4.    ,     
+       ( )  
+       ( )  
+ 
+      -
+.      -   -
+. 
+ 
+ 7.5.       .     
+       . 
+69 
+ 
+ 7.6.       ,    
+        3-4     
+  .       . 
+    . 
+ 
+ 
+.7.7.     ,    
+  .       . 
+70 
+ 
+ 
+.7.8.     ,  
+    . 
+ 
+ 
+ 7.9.     ,  
+    . 
+71 
+ 
+ 7.10.     ,   
+         
+      . 
+ 
+ 
+ 
+. 7.11.     ,  
+      . 
+72 
+ 
+ 
+ 7.12.     ,  
+      . 
+ 
+ 
+       
+  .  ,  
+    ,    .  
+         
+    ( . 7.13). 
+ 
+ 
+ 
+ 
+ 
+73 
+      
+ 
+ 
+      
+ 
+ 
+      
+ 
+ 
+         
+.7.13.      
+74 
+     
+ 
+ 
+    -
+ ,    , -  ,   
+       
+      -
+.  
+      -
+,     
+      -
+        -
+     .    -
+       
+        -
+     .     
+        -
+. -     ,  -
+     , :  
+    ,  ,  
+  . 
+    -    -
+  :  
+- ; 
+- ; 
+-  (  );  
+- ;  
+- ; 
+- ; 
+-     . 
+        -
+    (  8.1). 
+   -i   
+ : 
+75 
+-     (urban GIS);  
+-    (municipal GIS); 
+-      (enviromental GIS) 
+ . 
+ 8.1 
+ ,      
+ 
+   
+, 2 
+ 
+ 105 -  108 1:1000 000 – 1:100 000000 
+ 105 - 107 1:1000 000 – 1:100 000000 
+ (  
+)   
+ 
+104 - 107 
+ 
+1:1000 000 – 1:10 000000 
+ 103 - 105 1:100 000 – 1:2 500000 
+ 103 1:1000  – 1:50000 
+    
+(   ) 
+ 
+102 - 103 
+ 
+1:1000 – 1:10 000 
+ 
+       
+ . 
+        
+       -
+.   ,  ,  , -
+, , , , , 
+      -
+ .    -
+     ,    -
+  (integrated GIS, IGIS) . 
+-  -     -
+      .  
+ , -    : 
+-  ,  ( )    
+     .  
+   ,    -
+       -
+   ,  -
+76 
+ (    ),  -
+    ,      
+,      (overlay)  , 
+     
+.    ,    
+    .  ,  
+      -
+     Paradox, Access, Oracle  .  
+    .     
+  run time    ,  -
+        -
+  .    ESRI, 
+INTERGRAPH, AutoDesk, SIMENS NIXDORF, GDS   . 
+     ( . 8.1). 
+ 
+ 
+ 
+ 
+ 8.1. ArcMap   (ESRI) 
+77 
+-    -  (viewer) .   
+      
+   .    
+        
+  . -     
+      
+      
+-   . ESRI    
+Arc Explorer   .     -
+ ,  ,   ( -
+, , )     
+.       
+    ( . 8.1). 
+ 
+ 
+ 
+ 
+ 8.2.   (   ) 
+ 
+ 
+78 
+-       , 
+   ,   
+   .   -
+       
+  ( . 8.3). 
+ 
+ 
+ 
+ 
+ 
+ 8.3.    
+ 
+ 
+-       
+  .   ,   -
+,       .  
+    ( . 8.4). 
+-       
+        
+.       -
+       
+         
+    ( . 8.5).  
+79 
+ 
+ 
+ 8.4.       
+ 
+-
+ 
+ 8.5.     
+80 
+    ,     
+      , 
+      -
+    .   
+ - ,  , -
+        -
+,       
+.  , ,  
+ .     .  
+81 
+-     
+ 
+  ( )     -
+ .    ,  
+      -
+       
+  ,   
+ .       
+    .   
+   ,      
+        
+.       -
+ ,    , 
+  ,   
+    .   
+,     -
+  . ,        
+,     .   -
+,    .  
+   ,   
+        
+      .  -
+    ,    
+ ( )  .   
+   ,    
+     ,  
+,    .      -
+  .      
+     .    
+,        
+   .   ,  
+        
+ .     
+         
+82 
+         
+      .    
+    ,   , 
+     . -
+     (   -
+ )     -
+  .      
+  ( )    -
+   ,      
+  . 
+      -
+    . -   -
+         
+ .   , -   -
+ ,     -
+ .      -
+    . 
+      
+      .     
+     ,  -
+      .   
+ ,      
+        ,   -
+  .      
+,         
+    .   , -
+    ,     
+     -
+.    -     -
+,       -
+,        
+      .   
+,        
+         
+83 
+.      
+        
+       . -  
+ ( )    : 
+-  ; 
+-  ; 
+-  ; 
+-   ; 
+-  . 
+-        
+, -        
+ .   
+       -
+:  ,  ,   -
+ . 
+-       
+  .  
+ 
+   
+      -
+      . 
+ 
+  
+       -
+.   ,      
+  ,      
+ ,        -
+,     .    
+  .    -
+ . ,   , 
+,    .   
+    .   
+        
+.   ,      
+84 
+   , , -
+       
+.        
+    .   
+       ,  
+500         , 
+ 200        
+  .    . ,  -
+     . -
+       -
+      ( . 9.1).             
+ 
+ 
+ 9.1.     . 
+ 
+           . -
+  ,      ( . 
+9.2),  ( . 9.3)     .  
+-      . 
+       . -
+  ,     
+      ( . 9.4). 
+85 
+ 
+ 
+ 9.2.       . 
+ 
+ 
+ 
+ 
+ 9.3.         . 
+ 
+ 
+86 
+                   
+ 9.4.        
+ 
+ 
+ ( )  
+ 
+, ,  ,   
+  .     .  
+       
+     . 
+       
+      .  
+      
+,      -
+       
+.   ,     
+  ,      
+      .  
+, ,    . -
+      -
+  ( . 9.5).  
+87 
+ 
+ 9.5.      . 
+ 
+     .  -
+  ,     .  
+    ,   . 
+        
+  .      
+  .     ,  -
+        
+ .      -
+.  
+      
+    .  ,  -
+       
+    . 
+88 
+    
+ 
+   -     -
+       .  
+        -
+    .      
+    ,  -
+ ,  ,  -
+ ,    .  .  
+       
+  ( . 9.6).   
+            
+–
+ 
+ 9.6. -       
+  . 
+ 
+89 
+-    
+ 
+ 
+  ,      
+        
+  .    ,  
+   ,    
+       
+  .    -
+        -
+  .      
+    .    - 
+ .    .   
+     .    
+      
+      .  
+   ,    , 
+         
+,       -
+  .    
+       
+   .    
+      ,    
+ .   -    
+    .   ,  
+    .  - -
+        
+  .        -
+ .    ,     
+    ,  -
+       
+  :   .   
+ 
+90 
+ (raster)  
+ 
+ (raster)      
+   .     
+   .       
+         -
+  .    , -   -
+           
+     , «   
+»,   « » ( ) .  
+    ,      
+      -    -
+    .      
+      ( . 10.1). 
+ 
+ 
+ 
+ 10.1.    . 1-  ;  
+2 – ; 3 –   . 
+91 
+   (dot’s per inch –    
+ )         
+    .    
+   ,        
+ .        
+,         
+     .     -
+    200-1200      -
+  (       ,  
+.        ).  
+       
+.      -
+  ( )     -
+      .  -
+      -
+.  , ,  -
+,    ,  ,  
+     .   
+  .     -
+   .    -
+      . -
+    ,    -
+  ,     
+ ( )  .   
+    ,    
+  ( )    
+   .   -
+      
+        
+          
+( . 10.2). 
+92 
+ 
+ 10.2     
+ 
+   ,    
+      ,    
+  ,   (resolution) -
+  .        , 
+       -
+ ,     . 
+ ,      . 
+ ,       
+   .   ,   
+    .   
+       
+   .     ,  
+       -   
+  .     
+93 
+ ,    ,  -
+    ,   
+      . 
+       -
+  ,       
+     .   -
+      , 
+     .  
+      
+       
+   .  
+ -       -
+ : 
+  (resolution) –   
+        
+     .   
+       
+      .   , -
+     .     
+ .    
+  -       
+       . 
+  –  ,    -
+         .   
+     . 
+ 
+ (vector)  
+ 
+ (vector)     
+,     ,     -
+,    ( )   -
+    .   , 
+          
+     .  
+94 
+-       , 
+    , , ,   
+   .     
+    .   
+ , , ,     
+ .      
+    .   
+    .  -
+       -
+     -
+.   ,  ,   -
+ ,         
+       -
+      .  
+ ,     -
+ ,       .  
+       
+   :  
+  ; 
+  ; 
+  ; 
+  . 
+ 
+ 
+ : 
+ 
+ –        -
+    . ,     
+,       ,   -
+    ( .10.3): 
+95 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 
+=………… 
+=………… 
+ 
+. 10.3.    
+ 
+ 
+ –        
+    . 
+ 
+ : 
+ –     .  
+         
+.          
+     .  -
+       ,  
+     , , 
+        
+.        
+,         
+    ( . 10.4).  
+ 
+ 
+                            
+ 
+ 
+ 
+ 
+ 
+ 
+. 10.4.    
+96 
+         
+,       .  - , 
+,        
+  ( ,    )  . -
+ ,       
+,     .   
+      -
+  ,      
+    ,     
+          
+      -
+   . ,     
+   ,     
+    .      
+        
+      -
+.  ,  ,  -
+  .       
+.      
+  –      . 
+ –       -
+. 
+ –   . 
+ –   . 
+ 
+ : 
+ –      -
+  .   (polygon)  
+  .     , 
+-  , ,   . -
+   (10.5).    
+    . ,   
+     ,   
+    ,     
+97 
+.  ( )     -
+,    ,     -
+        . 
+ 
+ 
+ 
+ 10.5.     . 1-  ; 
+2 – ; 3 –   . 
+ 
+ –     . 
+ 
+ : 
+  – ,     -
+  . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+98 
+    
+ 
+         
+      
+  ( .10.6).  
+                             
+_̂
+_̂
+_̂
+_̂
+_̂ _̂
+_̂_̂
+_̂
+_̂
+_̂ _̂_̂
+_̂
+_̂ _̂
+_̂
+_̂
+_̂
+_̂
+_̂
+_̂
+_̂
+_̂
+Lake
+Superior
+La
+ke
+ M
+ich
+iga
+n
+Mexico
+Gulf of Mexico
+Texas
+Montana
+Utah
+Iowa
+Colorado
+Kansas
+Wyoming
+New Mexico
+Illinois
+Nebraska
+Minnesota
+Missouri
+Oklahoma
+Arizona
+South Dakota
+Arkansas
+North Dakota
+Wisconsin
+Alabama
+Indiana
+Louisiana
+Mississippi
+Idaho
+Michigan
+Tennessee
+Kentucky
+Florida
+Ohio
+Georgia
+Austin
+Topeka
+Denver
+Pierre
+Helena
+Jackson
+Lincoln
+LansingMadison
+Santa Fe
+Cheyenne
+St. Paul
+Bismarck
+Montgomery
+Des Moines
+Baton Rouge
+Little Rock
+Springfield Indianapolis
+Oklahoma City
+Jefferson City
+Salt Lake City
+Nashville-Davidson
+-110°
+-100°
+-100° -90°
+-90°
+30
+°
+30
+°
+40
+°
+40
+°
+ 
+. 10.6.    
+ 
+   ,     -
+     . ,  -
+ .  -       
+  .     , 
+   ,       
+.  ,    
+      ,    
+99 
+      -
+ .   ,    -
+   ,   -    
+      
+  ( . 10.7).    -
+,        . 
+        
+  .     
+  .   
+  -   .  
+ 
+ 
+ 
+ 
+ 10.7. ,       
+ 
+ 
+ 
+ 
+ 
+ 
+      нюгтяляр                    хятляр                    полигонлар 
+        нюгтя                       садя                          садя 
+        мулти                    мцряккяб                мцряккяб
+100 
+    
+ 
+      -
+        
+ ( )  .    
+        -
+,      .  
+  ,    
+     ( . 10.8) 
+ 
+ 
+ 10.8.     
+ 
+  ,     
+     ,    
+ .     . , , 
+ ,  ,     
+     .  
+   -  ,  
+,  ,   .   -
+   . 
+       
+    . 
+    . ,   
+    ?    
+  ,      -
+ .      -
+Хятляр
+101 
+ . 
+ : 
+-      ,  
+        
+  ; 
+-    (     ) 
+    ; 
+-      ; 
+-    -      
+,    -   . 
+  
+ : 
+ -       ; 
+-  ,   , 
+ ,  , -   
+   ; 
+-    ,      
+   ; 
+-     ,  -
+  (   )  . 
+ 
+102 
+-            
+     
+ 
+-    ,    
+    . -  -
+        -
+   .     
+     . 
+   , -   -
+  : 
+-   ; 
+-  ,    ; 
+-  ; 
+-  . 
+ 
+-         
+    ( . 11.1): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                  
+ 
+ 11.1. -    
+ 
+      
+.  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+           , 
+           
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+103 
+1.   ,   -
+ ,     -
+       .  -
+        
+        
+ ( .:    
+    ). 
+ 
+2.  ,    -
+,       -
+    ,    
+    . 
+ 
+3.     
+       
+ .   ,   
+  ,  , , 
+     , -
+,     .  
+ 
+4.  ,     -
+    -      
+.   ,      -
+  .  
+ 
+ 
+      
+    ,    -
+    .   
+     ,    
+      -
+      
+ (c   11.1). 
+104 
+ 11.1 
+ 
+       
+ c  
+ 
+         
+ :  
+,  
+  . 
+ : 
+,  
+  . 
+ : -
+ ,   . 
+ . 
+ : -
+ , , 
+;   . 
+ :  
+  (  
+). 
+ :  
+   . 
+    
+    . 
+ .   
+ 
+      
+       (   11.2) 
+ 
+ 11.2 
+      
+ 
+  
+ :    
+( ) 
+  
+  
+  
+: 
+  
+   
+ 
+   
+   
+ :  
+   
+( ) 
+  
+  
+  
+:    
+: 
+    
+    
+   
+    
+105 
+      
+   .    ,  
+      . 
+    ,    -
+     .  -
+    ,     
+      -
+.       
+ ,   . -    
+       
+   , -     
+       
+ . -    ,   
+       
+  (   11.3). 
+ 
+ 11.3 
+     
+   
+ 
+  
+,    
+   
+ . 
+ 
+ 
+ 
+ –   
+,     
+    
+  . 
+  
+ . 
+    
+   . 
+ 
+   ,   -
+     .    -
+    ,    
+  .     
+,  -   –   -
+    (  11.4).  
+106 
+       
+  ,     -
+          . 
+ ( )  -  « »  
+.     ,    -
+  . -   ( )  
+     -
+    , 
+     . 
+ 
+ 11.4 
+ 
+ ( )   
+  
+ 
+  
+   , 
+,   . 
+  . 
+ 
+ 
+ ,   
+   
+    
+. 
+  -
+    , -
+    -
+   . 
+ 
+      
+  ,  -
+    -
+   -
+. 
+ 
+    ,  -
+    . ,  
+        
+,      -
+,   . . 
+       -
+  .     -
+         
+   . 
+ -      
+107 
+    .  -
+    (  ) -
+    . 
+        
+     (  11.5). 
+  
+ 11.5 
+ 
+     
+ 
+  
+ . 
+  
+. 
+   
+. 
+, -      
+     , 
+  . 
+, ,   
+ .   . 
+ 
+   , -  , 
+,        
+       
+  .      
+    . , -
+       -
+   . 
+ 
+108 
+    
+V     
+ 
+  
+ 
+       
+( )    . -
+     -
+ , , ,     . 
+  .   -  -
+ . 
+ 
+ 
+ 
+      -
+  ,       -
+  .  ,  – -
+       -
+ .   1:10 000 , , 
+  1    10 000 -  . 
+     ,  
+      :  -
+ ,         
+.    1:5000     
+1:100 000      
+  .   -
+ ( )       
+       -
+ .      -
+      . 
+       . 
+      -
+,       .  
+       
+109 
+  . 
+     ,  -
+,        -
+. 
+    ,   -
+      -
+       -
+ .      -
+: 
+   ; 
+   ; 
+     . 
+      -
+ ,       , -
+       -
+       -
+  .      
+    .   -
+      
+.      
+       : 
+    2,5     
+.   1:50 000     
+ 2,5  , 1:125 000   
+  .   1:50 000   
+ 2,5  , 1:20 000   . 
+ , ,   -
+,  (    )  
+       -
+.       
+   ,   
+   .   
+     
+      
+110 
+ .  –     
+ ( :   c ). -  
+  ,    -
+    .  ,  
+       
+         
+  .     -
+    :    , 
+       . 
+ ,    . 
+ 
+ 
+ 
+      
+   . -
+       -
+.        , 
+(      )     
+  . 
+    , -  
+       
+  . -       
+,     .    
+        
+. 
+   ,    -
+         
+    . ,  
+      
+  -    . 1997-    
+        
+      , 
+     .  -
+       1:10 000 
+111 
+   .     
+   .    
+        
+  ,  .       
+    .  
+       
+     . 
+   -    , 
+       
+  . 
+      -
+      . 
+      
+   1   (  0.03-0.06 ) -
+         
+     . 
+     ,   
+  0,3-0,4   ,    
+. 1:10 000    1:2000; 1:1000 
+   1:500     -
+   .   , 
+          
+  ,      
+ .  ,    
+.     : , ,  
+  . 
+        
+ . ,      -
+ ?  ,   
+  .  , -
+    .  ,  
+  -     
+.        20 
+.,    10 ,     
+112 
+       
+  ,       
+   .   – 
+        -
+      . 
+        
+     -
+       
+ .      
+     , 
+       
+.      . 
+       
+      
+  .      -
+  ,       . 
+ ,    . 
+         0,5 
+   . , 1:2000 -
+       -
+  1 -     .   -
+ 1:100 000     50   
+    . 
+       -
+       -
+    . -  .  
+(Roger Tomlinson, 2003)    -
+         
+  .   (  12.1; 
+12.2)  ,     -
+         
+    . 
+113 
+ 12.1 
+ 
+         
+  , %-   
+ ( )
+1 3 5 8 10 
+0.01 1:100 1:300 1:500 1:800 1:1000 
+0.1 1:300 1:900 1:1500 1:2400 1:3000 
+1.0 1:1000 1:3000 1:5000 1:8000 1:10 000 
+10.0 1:3000 1:9000 1:15 000 1:24 000 1:30 000 
+100.0 1:10 000 1:30 000 1:50 000 1:80 000 1:100 000 
+1000 1:30 000 1:90 000 1:150 000 1:240 000 1:300 000 
+1  ( ) = 10 000 2 = 2 471  
+ 
+  ,  0,01   5 
+     ,  -
+ 1:500 ,  1     , 
+  1:100 .    , 
+5        1:500  
+ 0,01       . 
+ 
+ 12.2 
+        
+  
+   
+ 
+( ) 1:1000 1:5000 1:10 000 1:50 000 1:100 000 
+0.01 10.0 50                   -                   
+0.1 3.3 16.6 33.3          -          
+1.0 1.0 5.0 10.0 50.0 -  
+10.0            1.6 3.3 16.6 33.3 
+100.0                  1.0 5.0 10.0 
+1000                           1.6 3.3 
+1  ( ) = 10 000 2 = 2 471  
+ 
+114 
+         
+         
+       
+ .    ,    
+   0,1 - ,     
+   , 3,3    1:1000 -
+   . 
+     – l -
+     : 
+  ; 
+     ; 
+   ; 
+        
+; 
+        
+; 
+   . 
+ ,      
+     . 
+    ,       
+   .    -
+ ,       
+    .   , -
+     ,  
+       -
+   . 
+-      
+   .    
+       ,   
+     . -
+,        
+        . -
+       -
+115 
+  .  
+ ,     -
+     -
+.     -
+        -
+     .  -
+         
+ ,  . 
+       
+  ,    -
+        -
+     . 
+      -
+      .  
+       
+       
+ .    
+       
+,        
+. ,     -
+,   ,    
+  .      -
+ . 
+  ,     
+,        
+.   , -    -
+        -
+,     .   
+116 
+-      
+ 
+   ,    -
+, , ,      
+ .  ,   
+  ,   -
+  .     ,   
+      ,  -
+        -
+  : 
+ 
+1.   –    -
+  ,  –   .   
+       
+  .  
+ 
+2.  -  -     -
+   ,   -
+ ,        
+   .     -
+      ,   -
+       .  
+ 
+3.  – -   ,   -
+        -
+.       
+        -
+    . 
+        
+ ,     -  . -
+       
+  ESRI     ArcGIS 
+.    -     -
+ ArcGIS-      -
+117 
+    .     
+     ,    
+( ),  ( )    
+( )   . ESRI   
+ -      -
+: 
+ 
+ 
+ 13.1. -    
+ 
+ 
+ 
+ 
+ 
+118 
+-     
+ 
+-   ,    -
+    ,   
+   .   -
+         
+ . ,   ,  -
+     ,  , , 
+   .   .   -
+,       -
+. -          
+   .     
+   ESRI    
+ : 
+   ,    -
+ (   )  ( .13.2). 
+ 
+ 
+ 13.2.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+119 
+    (   ) 
+( .13.3) 
+ 
+ 13.3.    
+ 
+ 
+   ( .13.4) 
+ 
+ 13.4.   
+ 
+ 
+     ( .13.5)  
+ 
+ 13.5.     
+120 
+    ( .13.6) 
+ 
+ 13.6.    
+ 
+ ,  ,    
+    ( .13.7)                                          
+ 
+ 
+ 13.7.      
+ 
+   
+-      ,  
+       
+  .     -
+        -
+  .     -
+    . , -
+       . 
+121 
+ ,      
+    ( . 13.8). 
+     , -
+   ,   -
+.      -
+     .   
+   .     
+    . -
+ ,     -
+      
+ ( ,   )  
+.  
+ 
+ 
+ 13.8.     . 
+ 
+    ,   -
+     .    
+ ,    
+   .   -
+122 
+          
+       -
+ ( . 13.9).  
+ 
+ 
+ 
+ 
+ 13.9.   
+ 
+      
+  . -     
+  ,        
+    -   
+.     -       
+  ( .13.10).  
+ 
+123 
+ 
+ 13.10.        
+ 
+  ,    -
+  , , ,   
+  . ,     
+ ,     -
+   .  
+-        -
+ ,    ,  
+      . 
+  ,     
+    . -   
+        . 
+        
+  .   ,    
+ ,       , 
+       
+124 
+ .    -     
+  : 
+-       ; 
+-         
+ ( ); 
+-        
+.         
+     . 
+-        -
+    .  -   
+      
+  ,      
+      . 
+ 
+125 
+ 
+ 
+   ,  – -
+        -
+  ,    -
+    .     
+  ,    -
+, 3  ,   ,     
+.    . 
+ ,      -
+ ,     
+.         -
+   .     
+       ,  
+. ,   ,    
+    .   ,   
+      .  
+,       
+       .  -
+         -
+   . ,   
+        -
+   ( . 13.11).  
+       
+     ( . 13.12). 
+      , 
+       , 
+     . ,  
+   800     -
+      .   -
+ ,       
+      -
+ ( .13.13).  
+ 
+126 
+ 
+ 13.11.      
+ 
+ 
+ 13.12.    . 
+ 
+     ,  
+ , , ,   -
+   .      
+. -    ,  -
+,   .    -
+    ( . 13.14).  
+127 
+ 
+ 13.13.    
+ 
+ 
+ 
+ 13.14     
+ 
+128 
+ ,     -
+    .   
+      -   
+   . 
+ 
+ 
+ 
+-      ,   
+        
+( ) .      
+( )  ( :,  ),    
+ ( : ,  )   -
+   .  ,    
+      -
+    .  -
+        
+    .   
+         .  
+  -  ,    -
+    .  -
+       : 
+ 
+ +  =      
+ 
+      -
+    .     
+    .   
+  .  
+    -
+   .     
+       
+  ,     -
+. ,      
+    ,  -
+      -
+129 
+  .     -
+        
+   . 
+-      , -
+, ,     -
+      .  
+      -
+     .     
+ ,      
+    .  
+      -
+  ,  ( )  -
+,      -
+ . 
+   ,   -
+      . -
+     -
+        
+.  
+ 
+130 
+   
+ 
+ 
+      
+       -
+  .   -
+,     . 
+    ,    ( ) 
+     .    
+       
+    .  
+     -
+.     , -   -
+  ,      
+.        
+      ,  -
+        
+  .      
+,      ,  
+   .   
+     -
+,      -
+ .   ,   ( ),    
+( )       
+     . 
+      -
+     -
+ .      
+ ,   -    
+     ,   ,  
+   .    
+-    ,   -
+ -      .   , 
+      ,  -
+ ,  ,     
+131 
+ . 
+-       
+         
+   .    -
+,   -      -
+    , ,  ( )   -
+  . ,   ,   -
+        -
+,        
+ . ,    -
+,   .   -
+       -
+,  «  »      -
+  .    -
+    ( , ,  -
+). ,       , -
+   .   -
+        
+     «  
+»    .   
+   ,     
+        
+   .  ,  
+      ,   5 
+  .  
+      
+ .  ,    
+      , -
+      . -
+        
+ ,     . 
+         
+       -
+ .  
+132 
+        
+  .    . 
+          
+ , .:  , ,   
+.          
+     . :  
+         
+     ,   . 
+     -
+   . 
+   .   -
+   ,       
+.   ,   ,  
+,     .   -
+       .  
+     -
+       -
+  . 
+  ,     
+      -
+      ( )  
+.       -
+  .     -
+  ,    -
+  .    ,  -
+   .   . -
+        -
+   ,     
+ . 
+ ,       -
+  ,     
+    .   -
+,           
+       
+. 
+133 
+    ,   
+       
+      -
+  . 
+       
+  ,     -
+ . ,     . -
+  .     -
+  .     -
+ ,      -
+    .     
+     : 
+1.       
+  ( . 14.1).      , 
+        .   
+         
+    . 
+ 
+ 
+ 14.1        
+ 
+2.       ( .14.2). 
+       
+ . 
+ 
+ 
+ 14.2         
+134 
+3.     ( .14.3) 
+ 
+ 14.3.      
+ 
+4.        
+( .14.4).         
+    ,   
+   ,    
+. 
+ 
+ 
+ 14.4        . 
+ 
+ ,       
+    .    
+      .  
+ ,       
+ . 
+     ,  -
+   ,      
+  .       
+        
+135 
+.     , -
+ ,        
+    .   
+      ( . 14.5). 
+ 
+ 
+ 
+ 14.5     .      
+ ,        . 
+136 
+     
+ 
+ ,        
+ .       
+   .      
+.      -
+,          
+   .       
+  (attribute)  .   (attribute 
+value)      . -
+    ( )  -
+    (attribute class) . 
+,       
+ .       
+      -
+ . 
+   : 
+  
+  
+    
+   
+   
+ 
+ 
+ 
+      
+ .      
+   .     -
+      
+      . -
+,    : ,  
+,    . (  , -
+  ,    .). 
+       -
+137 
+ .   ,   -
+  ,      
+ .   ,  
+       -
+ . 
+ 
+ 
+ 
+    . -
+,       . -
+     ,     
+          -
+. ,      -
+        . 
+   ,    
+     -   
+(     )     -
+  .   ,  -
+ 4-   3-       
+    . 
+    , 
+       
+      . 
+    ,  
+     -
+ . ,    100  
+     : 
+ 
+    
+I      100 - 81  
+II      80 - 61  
+III    60 - 41  
+IV    40 - 21  
+V     20 - 1   
+138 
+   
+ 
+  ,    -
+    .    -
+    .  ,   
+       
+.      -
+     . 
+  
+    
+       0-50 
+      51-250 
+ 251-500 
+   500-1000 
+ 
+                        
+  
+ 
+       
+  . ,      
+        
+   .  ,    -
+       ( .15.1). 
+ 
+   
+ 1.5-2.0 
+ 2.0-2.5 
+ 2.5-3.0 
+ 3.0-4.0 
+ >4.0 
+    
+139 
+ 
+ 15.1.     
+  
+        -
+      . , 
+   ,    18-30 
+       -
+         
+  .    .  
+       
+ . ,    18-30   
+  32  ,     98  
+ , 18-30      
+ 
+32 
+98 
+ 100 = 32,65% . 
+  
+       
+     . -
+,          
+   ( . )    -
+140 
+     . -  
+     -
+        ( . 15.2). 
+                 
+ 
+ 
+ 15.2     
+  
+      
+,    ,     -
+ , ,       
+. 
+-        
+    . -
+    3   -
+: 
+1. ; 
+2. ; 
+3. . 
+141 
+    ,    
+      -
+       .  
+          
+ .       -
+   : 
+Select attribute = value 
+       
+       -
+     .  
+         
+ . -      -
+       . 
+.: 
+Select Soil = 28B,   28  
+    ;  
+  
+Calculate Rank = 2 
+     . 
+,     -
+        
+  .     
+        
+ . 
+142 
+     
+ 
+ 
+  -     -
+     .   -
+       
+    .   
+( )      
+  : 
+    ? 
+       ? 
+        
+  ? 
+          ? 
+     ?  
+        -
+? 
+ 1, 2,….,      -
+ ? 
+        -
+    . 
+       -
+        -
+.        -
+   . -   
+   ( . – Structured Query Language), -
+        
+ .      
+   -       : 
+  : 
+      ; 
+     ; 
+143 
+   ; 
+   ( , , ); 
+ . 
+ 
+ ( , )   : 
+ « » (      
+  ) ;  
+ ; 
+    ; 
+  ; 
+ ; 
+   ; 
+  –  ; 
+  ; 
+  ; 
+ ; 
+ ; 
+  ; 
+    . 
+ 
+ ( )  -   -
+,       
+.     
+      .  
+       
+ .      
+       -
+    .  -
+      -
+       -
+.       ,   
+   .   -
+ ,  ( , )   
+144 
+  ,    -
+        
+. 
+ (ing. – overlay) .   
+         
+   .  -
+  : 
+     ; 
+     ; 
+     ; 
+     -  ; 
+         
+   ; 
+    ; 
+    ; 
+      -
+  . 
+     -   
+        «  
+» (  – point-in-polygon)  .   -
+   -  ,  «  
+» (  – polygon-in-polygon)   .  
+       -
+      .  
+       
+      
+ ( . 16.1).    -
+  ( , , )   . 
+       -
+      .  -
+      ,   
+ ,    .   -
+ ,    ,    
+145 
+      -
+       -
+         
+.  
+ 
+ 
+ 16.1.     -  
+ ( ) . 
+146 
+-       
+   ,     
+.    , 4   
+ .  ,  ,  ( ) 
+       .   
+         
+  ( . 16.2).     
+        ,  
+        .  
+       
+       -   ( -
+  ). 
+ 
+ 
+ 16.2       . 
+ 
+147 
+       
+ ,           . 
+     ,   
+    .    
+        , 
+   ,      .   
+     -
+ .  
+  (buffer zone, buffer, corridor) –  
+ , ,       
+      
+(equidistant line)   . « -
+»  (buffering)   , 
+   20     . 
+  . ,  –  –   
+    ,  -
+   500 ,  200 ,    
+44  .  ,      
+ .    ,  -
+     ,   -
+  .  -     
+        
+        ( . 
+16.3). 
+ 
+ 16.3. ,     
+148 
+ ,      
+  .     
+ . ,   –  –   -
+   5     
+     ,   
+ 5   .   
+  ,       
+ .        -
+,       -
+   .  ,    
+       ,  
+    .     
+,        
+       -
+. 
+  ,        
+     500   . 
+      500   
+   ,      
+        
+ ( .16.4).   
+  ,     
+  .     
+ ,       .    -
+  12  .    
+     :    
+  .     -
+  .     ,  -
+        -
+  .    -
+   -   .  
+       
+ .  ,    -
+   .      
+149 
+ 
+ 16.4.     
+ 
+     .   
+        . 
+    ,  -
+   .  
+ ,    -
+     .  
+     (16.5).  -
+ ( ),         
+   .    
+( )       -
+.      , -
+     . 
+     . 
+      ,   
+       . 
+    ,  (    ) -
+     
+  ( .16.6). 
+150 
+ 
+ 
+ 16.5.    
+ 
+ 
+ 
+ 
+ 16.6.       
+ 
+ 
+        
+    .  
+,       -
+       . -
+     -
+        
+( . 16.7). 
+151 
+ 
+ 
+ 16.7.       
+ 
+        
+        
+.        . 
+   32, 35, 53, 68    
+     ( .16.8).  
+     ,    
+   ,   50   
+   . 
+ 
+ 
+ 
+ 16.8         
+152 
+ ,      
+     .      
+ -   .   ,  
+       
+     ( .16.9). 
+ 
+ 
+ 16.9.       
+ 
+ 
+    .  
+   , , ,   . 
+     .  
+ -    ( .16.10). 
+       -
+        
+.     
+:  
+     
+  ,  ,   (x, y), 
+   (x1, y1; …; xn, yn),     -
+   .  
+        -
+  .  ,    
+      .    ,      
+153 
+ 
+ 16.10.    
+ 
+  .      
+        
+.        . 
+      ( -
+)    . 
+ 
+    
+ ( )  
+ 
+      
+    .  -
+     . -
+ , , ,   . 
+   .  ( -
+)       , 
+      
+(     -
+      ).   
+      
+   .  -  
+154 
+  ,    
+      . 
+     .   
+      ( , -
+   .) ,  -
+      -
+  . ,    -
+  -     .  
+  ,   
+      . 
+  -  .  -
+         -
+         -
+-   .    -
+       
+ .       
+      
+     ( .16.11).  
+         
+ 
+ 16.11   -   
+155 
+      
+   .   , 
+       
+      
+(CorelDraw, Adobe Illustrator, Adobe Indesign  .),  
+        
+     . 
+      . -   
+    . -
+   , -     -
+    . -     -
+         
+.  
+ 
+156 
+-        
+ 
+       
+        
+ . -     , , , 
+  .     . -
+     ,      
+     , -  -
+  ,     
+    .   , 
+       
+ .  
+   ( ) (   
+   )    -
+        
+ . ,   -   -
+.    -   .  -
+,  ,     ( -
+ )  .  
+       -
+   .      -
+        . 
+        . 
+       
+( .17.1). 
+  «  »   -  -
+         
+. «  »     ,  
+        . 
+        
+( : )   .    
+ .        
+        .        .   
+157 
+ 
+ 17.1.   . 
+ 
+ 
+      (  ) -
+ ( . 17.2).    -
+      ,   
+         
+.     , ,  
+     .   
+    (0,0)    
+    .    
+   ,   , , -
+ ( ) .     -
+   -900     +900 . 
+     .  
+      -
+1800    1800   . -       
+158 
+ 
+ 17.2.      
+ 
+ 
+        
+   : 
+ 
+ 
+                                                                                  
+(   )                      (   )                                    
+ 
+ 17.3.     
+ 
+  ,    -
+      
+    ,  -
+   .    -
+       -
+      ,  
+159 
+  .  ,   , 
+      ,  
+       
+.     ,   -
+     .  
+   ,     -
+ ,      -
+.    .  
+  ,     -
+    . 
+ 
+   
+ 
+       
+      .   
+       ,   
+        
+ .  
+      
+(1: 5 000 000   )     .   
+       
+ .   (1:1000 000   
+)         
+  .  1: 5 000 000   
+1:1 000 000       
+     ,  -
+     .  -
+ ,   ,   (   
+)     ( . 17.4).   
+ ,     .  
+   ,      
+  .      
+    ( . 17.5): 
+ 
+160 
+ 
+ 17.4.    
+ 
+ 
+ 17.5.   
+ 
+       
+.      (17.6): 
+        
+.   ,       -
+    ,     
+ : 
+ =(  - )/  
+   ,   1/   -
+  .  
+161 
+ 
+ 17.6.       
+ 
+    , 1984-    -
+   (WGS 84 – World Geodetic System) -
+   : 
+ = 6378137.0  
+1/  =298.257223563   
+  0 – 1       
+        ,  
+  ,    . 
+162 
+-        
+ 
+  
+-    ,  -
+     .  
+     -
+    . -
+  ?   –  
+         
+ .     
+   (   
+)     ,  
+   .       
+ , ,     .  
+   .    
+    2    
+ .      
+ ,        
+.  ,   = 0  = 0 
+.  -       
+       -
+   ,       . 
+      
+      . 
+        -
+.        : 
+ 
+ 
+163 
+         
+.        
+      
+       
+   .     
+       
+   .  
+ 
+ 
+ 18.1.      
+ 
+    ,  
+      
+     ( . 18.1).   
+ 
+ 
+ 18.2.   
+ 
+ 
+,    
+   
+   
+164 
+-        
+    .  , 
+   ,    
+ . ,     
+  ,    
+       . 
+  ,     
+ ,      
+ .  ,   , , 
+,      
+  .     ( ) 
+     .  
+   ,  
+    , ,   
+   .   
+      . 
+          
+   ,   . 
+         
+  ,     
+. 
+       -
+,   .  
+  ,    -
+    .    
+      -
+      ,   -
+       . , -
+   ,   -
+    .   
+      ( . 
+18.3). 
+165 
+ 
+ 
+ 
+ 18.3.   
+ 
+ 
+  ,     
+  . ,    
+  .   
+   .     
+      , 
+    .  -
+       . 
+    ( . 
+18.5).      
+ ( .18.4). 
+     -
+ .     -
+   ,    -
+      .  
+ 
+166 
+ 
+ 
+ 18.4.   . 
+ 
+ 
+ 
+ 18.5.   
+ 
+ 
+       
+       
+      -
+   .   
+      -
+    .  -
+,       .  
+167 
+ 
+ 
+       –  
+.       -
+         -
+   .     -
+  ,      
+    .   
+       
+.         
+    .  
+           
+ ,     -
+    .     
+       
+ . 
+-       
+   ( , , ), 
+  1983-      
+(NAD1983   NAD83)  : 
+-117   12    57.75961                          34     01    43.77884 
+      1927 –
+      (NAD1927   
+NAD27),   : 
+-117   12    54.61539                          34     01     43.72995 
+   ,  -
+     3 ,  
+   0,05    . 
+     -
+          
+        
+.       -
+     .     
+    1984-    
+168 
+  (World Geodetic System of 1984, 
+WGS 84)  .   –   -
+      -
+  .  ,  -
+  (Global Positioning, GPS)  
+. 
+ 
+ 18.6.     
+ 
+     -
+       .  
+    ,    
+  ,       
+   ( .18.6).   , 
+        
+   «  »  . 
+«  »       
+     .  
+,       
+169 
+  .   
+      -
+    .  
+      -
+ : 1927-      (North 
+American Datum of 1927, NAD27), 1983-    
+  (North American Datum of 1983, 
+NAD83), 1950-     (European Datum of 
+1950, ED50).     , 27  
+ 83  , ED50    
+    .  
+     , 1927-    
+  ( NAD27)     
+    (1866-  ) .   
+ ,      
+          , 
+       -   -
+  .     
+   (Meades Ranch)   . NAD27 
+      -
+.  
+ 83   ,  -
+       
+.         
+     .  
+        
+GRS80.   .    
+        
+.       -
+    (100-150 ).  83   
+   WGS 84    -  . 
+WGS 84   83 координат системляри  -
+. -        
+83       
+170 
+  .   HARN (High Accuracy 
+Reference Network _ HARN) -     -
+    HPGN (High Precision Geodetic 
+Network) -       
+. 
+    ,  ( ) ,  
+      
+ .       
+   ,   ( .: 27 
+ 83)      - 
+ .  ,      
+   .   
+-       , -
+       
+  .    
+      
+      .                 
+              
+ 
+171 
+-        
+   
+  
+  ,    
+        
+,    .   
+,       -
+ ,    -
+     .  -
+,       -
+     .    -
+    ,  ,  
+ .      -
+   .    
+      . 
+       , 
+       . 
+        
+,       
+     .  
+         -
+    .    
+-      .   
+   ,   
+       
+   .      
+   -  .    
+, -        
+.      
+  .      
+  .   ,  
+        
+   . ,  -
+        
+172 
+         
+    -  .   
+ .   .   ,  
+       
+       
+   ,    
+  .    . 
+  ,     
+:  ,    -
+.          -
+         -
+ .       -
+.     .  
+ ,     -
+      -
+.      -  
+,    ,   
+,        
+.    .     
+      .   
+      , -
+    ,   -
+      . 
+ ,     -
+  . ,    -
+   ?  ,    -
+   ,  ,  -  -
+,      , 
+   .    
+       -
+      
+   (   -  ) 
+ .   ,  -
+       -
+173 
+       
+   .     
+( .19.1),     ,  
+       . 
+ 
+ 
+ 
+ 19.1.      . 
+ 
+     .    
+,      . 
+174 
+         
+ 19.2.   
+   
+ 19.3.   
+  
+ 
+ 
+        
+,         -
+         
+( . 19.2). 
+       
+,      ,   -
+        
+      ( .19.3).     
+   ,    -
+     .  ,  
+          . 
+       -
+     . -
+     ,  -
+       
+.     -
+      . 
+,     , 
+ ,  ,  u  -
+  .       -
+  .     
+175 
+        -
+.      , 
+      -
+.      ,  
+         
+ .      
+ ,     -
+    .  
+     , 
+          
+  .     -
+      .  -
+        -
+       
+  .     
+,          .  
+     ,  
+          
+ ,      . 
+      -
+     : 
+    –    
+,    ,  
+,   ,  
+  ; 
+     –    
+ ,   -
+,      , 
+ , ,   .;   
+    –   , 
+ ,      -
+  ; 
+     –   -
+176 
+ ;    -
+  ,    
+,     , 
+      .; 
+   –     -
+,    ,  -
+ ,   -
+,     .  
+   , 
+  -
+    -
+,   -
+ .   -
+,    -
+     
+  ,  
+  -
+   
+   
+   -
+ .     
+  -
+     
+   
+ ,    
+    ( .19.4).  
+       
+   : 
+   (    ).  
+   (    ). 
+   (  ). 
+      -
+        -
+ 
+ 19.4  
+   
+177 
+,       -
+ .       
+  .    
+     .    
+,      
+         
+ ,      
+,        
+,  ,   .    .  
+         
+,     . , 
+     .  
+      -
+,         
+   .  
+      -
+   ,     . 
+  ,      
+      -
+   .    
+     .  -
+      
+     , -
+  .     . 
+,      -
+    ,  -
+          
+  .    -
+       
+.        
+       -
+  . 1960-   ,   
+     ,   
+      
+178 
+  .     2 
+        
+ .  ,    
+(1961),  (1961-1963),  (1964-1965), , 
+ (1971)    , -
+    (1969),  (1968-1975) -
+      -
+   .    (1973-
+1974)      .  
+    1960-   . 
+       , 
+    .  
+     (   -
+ )    -1 (   
+ ) 1972-    .  
+ -      -
+    ( .19.5). 
+ 
+ 
+ 
+ 19.5.     
+179 
+        -
+         -
+     ( .19.6). 
+ 
+ 
+ 
+ 19.6.     . 
+ 
+       1986-
+    (System Probatoire D`Obser-
+vation de la Terre)      
+( .19.7).   
+  (  5)     
+       
+ .      
+ -   5  ,  -
+ 2,5 ,     10        
+ .        
+          1       - 
+180 
+ 
+ 
+ 19.7  ( )   
+ 
+ 
+rini   .   26     
+  .   117 . -
+ ,    950     
+  .   
+ - ,      
+.  , , ,   -
+       .  
+1991  1995-      
+      ( .19.8). 
+  782-798 -   .  
+     (Active 
+Microwave Instrument) .  -
+  ,  ,  ,  
+   ,   
+        
+ . 
+ 
+181 
+ 
+ 
+ 19.8.     . 
+ 
+  1995-      
+ .    ,  
+       
+    .   
+       , 
+  -      -
+ .     , -  -
+      
+       
+( .19.9).      4,18 ,   
+1,88 ,   1030 - .   850-870 
+182 
+- , 102    .    
+  6   ,   
+ ,     6-10    
+ .   
+                      
+ 
+ 
+ 19.9. -      
+     
+ 
+     (   
+  )     
+      (  
+ )     .  
+ ,  ,   -
+      -
+. 
+ 
+183 
+-       
+ 
+ ,      
+   .      
+  ,     
+   ,   
+   ,     
+,       . -
+ , ,     , , -
+, ,        -
+   .    
+    .  -
+         
+   . ,    
+       ?   
+       
+      (  20.1): 
+ 20.1 
+     ( ) 
+ 
+  
+   
+(  ) 
+1 2 
+   
+   -
+  
+   , 
+    
+   
+   -
+     
+  3    
+   . 
+    
+       
+    
+    
+   64 .  
+ 
+    
+  
+   -
+     
+  . 
+   
+    
+    
+  . 
+184 
+ 20.1-   
+1 2 
+     
+  50   
+  
+   -
+     
+     
+. 
+   ,  
+   -
+    
+     
+   
+ 
+  10  10  (IK)   
+16 16  (QB) òèêèëè  
+  
+1: 40 000   1  
+ ,    
+3.6  6.4 -     
+     
+ 
+     
+ 
+   -
+   -
+   
+   
+,   -
+  . 
+   
+  . 
+    7  
+    
+.    
+     
+  . 
+   -
+      
+ . 
+   
+     
+  . 
+   
+    
+      
+   . 
+-   -
+  ,  
+   -
+  
+    
+  . 
+    
+   
+    
+     
+ 
+-        
+   .    
+  : WORLDVIEW-1, QUICKBIRD, 
+IKONOS, CARTOSAT, , ORBVIEW, 
+185 
+FORMOSAT-2, SPOT, ALOS, LANDSAT, TERRA 
+(ASTER) 
+   ,    
+   .     
+       
+.     15  ( ) 
+ 80  ( )     . 
+  , 15      
+    (  20.1). 
+ 
+      
+) 15                                        ) 80   
+ 20.1.       . 
+ 
+   ( . 20.2  20.3)   
+     . -
+   . 
+ 
+ 20.2.      (  1 ) 
+186 
+ 
+ 20.3.       
+(  61 ) 
+ 
+  ?   -
+     (450-900 ) 
+      -  . 
+ ( )  -   
+  (    )    
+    -    -
+ . -       
+      , 
+    . 
+        
+   (  20.2). 
+ 
+ 20.2 
+  
+   
+ 
+QUICKBIRD 25  2 64  2 
+IKONOS 49  2 100  2 
+SPOT-5 21  21  21  21  
+IRS-1C/1D 23  23  23  23  
+Radarsat 50  50  50   50  
+Terra (Aster) 60  60   
+Landsat-7 185  170    
+ 
+187 
+       
+   ?   -
+        
+.  -  ,   
+.   .     -
+       -
+.       
+       -
+   ( . 20.3) 
+ 20.3 
+ 
+      
+1 2 3 
+ITT Visual 
+Information 
+Solutions 
+(  RSI) 
+ENVI http://www.ittvis.com  
+Autodesk 
+Autodesk 
+CAD Overlay 
+http://usa.autodesk.com/  
+BAE Systems SOCET SET http://www.socetgxp.com/  
+Bentley 
+Systems 
+MicroStation  
+GeoGraphics 
+http://www.bentley.com/en-us/  
+Blue Marble 
+Geographics 
+Geographic 
+Transformer 
+http://www.bluemarblegeo.co
+m/index.php  
+ERDAS 
+(  Leica 
+Geosystems 
+Geospatial 
+Imaging) 
+ERDAS http://www.erdas.com/  
+ErMapper 
+(  
+ – 
+ERDAS-  
+) 
+ErMapper http://www.ermapper.com/  
+ESRI ArcGIS http://www.esri.com/  
+Clark Labs IDRISI http://www.clarklabs.org/  
+Intergraph 
+GeoMedia 
+Professional 
+http://imgs.intergraph.com/  
+188 
+ 20.3-   
+1 2 3 
+Manifold 
+Manifold® 
+System  
+http://www.manifold.net/  
+MapInfo 
+MapInfo 
+Professional 
+http://www.mapinfo.com/  
+MicroImages TNTmips  http://www.microimages.com/  
+Overwatch 
+Systems ( . 
+Paragon 
+Imaging) 
+ELT http://www.paragon.com/  
+PCI geomatics Geomatica http://www.pcigeomatics.com/  
+ PHOTOMOD http://www.racurs.ru/  
+ 
+       -
+        -
+    .    
+     (  20.4). 
+ 
+ 20.4 
+ 
+   
+WORLDVIEW-1 1,7-5,9  
+QUICKBIRD 1-5  
+IKONOS 1-5  
+OrbView-3 1-5  
+SPOT 26  
+IRS 25  
+Radarsat-1 3-7  
+Landsat-7 16  
+   
+      
+ (61 , 1 , 2,4 , 5 , 15   .) , 
+    .  -
+       
+  ( . 20.5). 
+189 
+ 20.5 
+ 
+     
+Landsat 7 ETM+ 15  1:100 000 
+SPOT 1-4 10  1:100 000 
+IRS-1C  IRS-1D 6  1:50 000 
+SPOT 5 5  1:25 000 
+EROS 1,8  1:10 000 
+OrbView-3 4  1:20 000 
+OrbView-3 1  1:5 000 
+IKONOS* 4  1:20 000 
+IKONOS* 1  1:5 000 
+QUICKBIRD 2.44  1:12 500 
+QUICKBIRD 0.61  1:2 000 
+ 
+-        , 
+      -
+.  ,     ,  -
+      .  
+ ( )       -
+      -
+  .     -
+       -
+   .    -
+    : 
+  ,        
+,      ; 
+  -   ,  
+  . 
+  ,   -
+       ,  -
+      
+  .    
+,      -
+     -
+  .      
+190 
+     ,  
+  .       
+     . -
+          
+    ,  -
+        . 
+,    , 
+    , , , 
+, ,     
+ ( )     
+.       .  
+  –     -
+  .     -
+,     . 
+ –       , 
+    . , -
+      ,  
+, ,     –  
+   . 
+  –    -
+.    ,   -
+     . -
+      
+ .  ,      
+   ,     
+.  
+ –       
+      , 
+      . 
+ –   ,    
+    . ,  ,  
+     ,  
+ .  ,   .  - 
+        
+191 
+  .  
+ –      
+  .      
+  ,       
+    .   
+    .  -
+       . 
+ –      
+      -
+   .     
+  ,  . 
+,  , , ,  -
+  .   -   ,   
+ .      
+   ,    
+   . -
+ ,     
+         -
+ .   ,     
+    .  -
+    .  
+   : 
+    ; 
+       -
+; 
+     ; 
+      -
+. 
+ 
+192 
+   
+    
+ 
+       
+       
+    .   
+       -
+   .      
+   .    
+  ,       
+  .  
+  ,     
+      -
+        
+   .   
+       . 
+       
+-    .    
+      
+.      -
+     -
+  . -     -
+      . -
+       
+       
+  .   ,    
+,     MGE, GeoMedia 
+(INTERGRAPH, USA), ARC/INFO, ArcGIS (ESRI, USA), 
+MapInfo (MapInfo Corporation, USA), WinGis (ProGis w.h.v., 
+Austria), Geo/Draw Geo/Graph ( )  .   
+    .    
+, -        
+      WINDOWS  UNIX 
+  .  
+193 
+    
+ 
+ 
+    -
+    -
+   ,     
+  ,     -
+      
+ ,    -  
+-   .    
+       -
+      
+     .  -
+       -
+        -
+    .  -
+      
+      -
+  : 
+-  -  (Main Frame); 
+- -  (  – PDP, VAX, 11 ); 
+-   (WS – Hewlet-Packerd, Sun SPARC-
+Station); 
+-    (  - Intel  Macintosh). 
+      -
+ ,       
+  . 
+         
+        
+ :  
+   ( )     
+( );  
+   ; 
+194 
+      
+( ) ; 
+     ( , -
+, , ,    .); 
+    . 
+       I  
+       
+   2,5 -  ,  
+  512-1024   ,    100 
+ .     -
+     WINDOWS (2000, XP, N  
+ .)  UNIX (HP-UX, Sun OS, Solaris  .),  
+.    ,  -
+        
+        
+    .  
+      INTEL  
+.  
+      -
+        -
+        
+      . 
+      
+    .   
+   ,   -
+  .     -
+       
+.  
+     -
+      -
+    . 
+     
+    GeoMedia 
+195 
+(INTERGRAPH, USA), MapInfo (MapInfo Corporation, 
+USA), ARC/INFO, ArcView, ArcGIS  (ESRI, USA)   
+   . 
+GeoMedia (INTERGRAPH, USA)    
+       
+   .    -
+ (    )    ,  
+   ,   
+  .  . GeoMedia –  
+  . , Intergraph  MGE, 
+MGE Segment Manager, FRAMMETM      
+ Arc/Info, Oracle® SDO, Microsoft Access®, AutoCad® 
+DWG/DXF, MicroStation®     
+    .     
+  . :  
+-  ; 
+-  ( ,    .)  ; 
+-     ; 
+-   ; 
+-      . 
+      
+    ,  
+     -
+  .   
+    (   -
+   )     MapInfo -
+   .      
+ .        
+,        . 
+MapInfo –   .  -
+     SQL MM   
+.        
+  (   , , 
+196 
+, -    .)   
+.      
+     . 
+MapInfo –      
+       -
+,        -
+  . MapInfo      
+ .    ,    
+     ,  
+      .  
+MapInfo , , , , ,   (  –  
+)    . MapInfo  
+      
+( , W ), /MicroStation Design (DGN), ArcGIS 
+(.shp)      -
+  « » ( )   .  
+MapInfo  Excel, Access, xBASE  -
+    . MapInfo -
+ ORACLE, Microsoft SQL  .    
+   .   , 
+, ,   .     -
+    .  
+ESRI      -
+  Arc/Info, ArcView, ArcGIS    
+   .     
+      -
+, , ,  ,   
+     .   
+ , 2004-       
+ArcGIS 9.0        
+  .       
+       -
+  .   
+ 
+197 
+    -   
+   
+ 
+      -
+      -
+ ,   ,  
+     -
+  .   -
+  ,       
+,       . 
+        
+   .   ,  
+     -
+  2032     
+       -
+     . 
+       -
+ .        -
+   ,   -
+     .  
+        
+  .      
+,       
+  .  -
+       . 
+      
+        
+.      -
+,     -
+  .     
+     -
+.   ,  ,  
+      -
+  .    
+198 
+   .   , 
+ , ,   -
+,  ,  ,  -
+  . 
+      -
+     –  -
+  .     
+  -      
+.  ,    
+  ,      
+      -
+.  
+.      -
+ (      ) -
+      . 
+     ( -
+),      , -
+ ,        
+       -
+. -      -
+,      
+.       
+, ,     .   
+,        -
+   .    
+        
+     , -    
+     .  
+   ,     , 
+      
+ . ,     
+,      -
+   .    
+ .   ,     
+199 
+     -
+.   ,       
+        . 
+     -    
+,        
+    ,    
+    .  
+       
+      . 
+       -
+       . 
+        
+  .      
+ ,       
+ . 
+       
+  ,    -
+ .   -    
+       .  
+ ,   -     
+    . -    
+        
+    .  -
+       
+   .     
+        
+       
+        
+.      
+  ,   « » 
+  . 
+.     ,  
+      
+    ,   , -
+200 
+  .    -
+.     -
+  ,   ,  
+     . 
+.        
+,         
+ .    ,   
+, ,     
+   .    
+         
+   ,    
+    .    
+       -
+       .   
+,       .  
+    ,   , 
+    .  -
+      -
+ : 
+  ( ); 
+  ; 
+     ; 
+     ; 
+   . 
+      
+   ( )    
+     . 
+  ,    
+    ,   -
+,        
+  . -   -
+  30-     . 
+201 
+       
+ 
+   ,   -
+  ,   
+  .     -
+      
+ .   ,  
+       
+        
+  .    -
+    .    
+    -  -
+  .   ,   
+      , -
+ ,      -
+    .    
+    ,  “Leica” 
+   ,    
+    .  
+ 90-      , -
+        
+  .   
+      ,  
+     -
+      -
+       
+.        
+      -
+  ,     
+        
+       
+  . 
+8  2003-    «    
+      
+202 
+     »  -
+. 
+     
+ SECO (      – State Sec-
+retariat for Economic Affairs)    . 
+     
+    ,    
+        
+    .   
+      
+( )  .    -
+  ,   -
+         
+       
+.       -
+      -
+        
+     -
+ ( . 22.1).    ,  -
+       . 
+  2003-     ,  
+2005-      . 
+     
+ : 
+•      -
+       
+; 
+•      -
+      -
+     ; 
+•        -
+      ; 
+•       
+  . 
+203 
+ 
+ 
+ 22.1.     (2005-  ) 
+ 
+       -
+     -
+     . 
+      -
+      , 
+       
+    ( . 22.2). 
+ ,      
+   ,  ,    
+  .      
+    ( . 22.3). 
+          
+    ( . 22.4). -
+  ,     
+,     -
+ . 
+204 
+Cadastre Project Azerbaijan, 22.11.2005 3
+ilot
+Nov an an
+ 
+ 
+ 22.2.        . 
+ 
+ 
+ 
+ 22.3.      . 
+205 
+Cadastre Project Azerbaijan, 22.11.2005 6
+BAK
+RRO
+Internet
+R
+Map Viewer
+Aer
+oto-
+grammetr
+B
+IS adastr stem
+ 
+ 
+ 22.4.     
+ 
+       
+    ( . 22.5). 
+ 
+Beechcraft Super King Air 350C
+of the Swiss Federal Office of Topography at Baku airport  
+ 
+ 22.5.     
+206 
+      -
+    (  30) .  
+       -
+          
+( . 22.6). 
+ 
+ 
+ 
+ 22.6.     (  30) 
+ 
+ ,     
+  : 
+207 
+     ; 
+ ; 
+  ; 
+  .         
+  ,     -
+         
+.       -
+     ( . 22.7). 
+ 
+GPS reference sta
+ 
+ 22.7.         
+ 
+ 
+      
+ ( . 22.8),      
+      
+ ( . 22.9). 
+208 
+ 
+ 22.8.     GPS   
+ 
+Stereo- otogrammetr y
+ 
+ 22. 9.    -   
+  (    )  
+ 
+ 
+ 
+ 
+ 2
+2.
+10
+. 
+ 
+ o
+rt
+o
+ot
+o 
+ 
+ 
+ 210
+ 
+ 
+ 
+ 2
+2.
+11
+. 
+ 
+ 
+ 
+ 
+ 
+ 211
+ 
+ 
+ 
+ 
+   
+   
+ 2
+2.
+12
+. 
+ 
+  1
+0 
+ 
+ 
+ 
+ 212
+    -
+ .  
+      -
+        3 
+ .    -
+ ( . 22.10),    ( . 
+22.11)  10     ( . 22.12) 
+     . 
+  model   -
+  ( . 22.13): 
+ 
+Cadastre Project Azerbaijan, 22.11.2005 18
+Bak
+470
+514
+ 
+ 
+ 22.13.     model  
+ 
+      
+     -
+; 
+ INTERLIS    ; 
+ 213
+ INTERLIS    -
+     , , 
+      
+ GIS s stem    асан-
+лашдырыр. 
+  ,    -
+,   ,     -
+        
+        
+    ( . 22.14). -
+     -
+  : 
+      ; 
+    ; 
+      .  
+ 
+ 
+ 
+ 
+ 22. 14.   
+ 214
+     
+    :     
+ ,    ; 
+    ; 
+    . 
+   ,    -
+       -
+.       
+ : 
+     ( . 22.15); 
+ ,   ( .22.16)    
+( .22.17)      . 
+ 
+Cadastre Project Azerbaijan, 22.11.2005 20
+ 
+ 22.15.     
+ 
+ 215
+ 22.16.         . 
+ 22.17.         
+ 216
+       -
+      -
+     ( . 22.18).  
+ 
+ 
+ 22.18.        
+ 
+       
+     -
+      -
+  : 
+       -
+      -
+     ; 
+       
+  ;  
+      
+  ;  
+ 217
+        
+ ; 
+     -
+; 
+        
+ . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 218
+    
+   
+ 
+ –  (  )  
+ .   -
+, , ,    .  -
+  .  
+ (aerophoto) –   -
+.        
+     :  
+  ; 
+  ; 
+   ; 
+  . 
+   , . ,   -
+ .     -
+        
+   . 
+ –   , 
+     
+  . 
+  (automated carto-
+graphy, computer aided mapping, CAM) –  
+   ,  -
+      , , -
+,  , ,   .  
+ , ,    , 
+     . . .   -
+  ,     
+.      : 
+   ;   -
+  ;  (    
+). 
+ 219
+   (automated interpretation, 
+image analysis, image processing, computer interpretation) -  
+      
+   . . . –   -
+   ( ).   
+       
+    . 
+        
+  ,    -
+ .  
+    (workstation) – -
+,      
+ ,       
+ .      
+(networked workstation),      (stand 
+– alone workstation )   . 
+ (algorithm) –   .   
+        
+     -
+   .       
+  .,  .   IX  -
+        -  
+-  (783-855)   .   
+       -
+   .     
+  XII     -
+        
+.     -  . 
+        . 
+       . 
+  (hardware) –    -
+,    .    
+   ,     -
+ 220
+  . 
+ (archiving) –   -
+   ( ., ARJ, RAR)  -
+ (compression),      
+   (packing) 
+ (attribute) –    
+(  ),       
+    .   
+    .  -
+ .   (spatial attribute)   - -
+ (aspatial attribute )     .  
+ (byte) –       
+ .      8  
+. 1  ( , ) 1024 ; 1  
+( , ) 1024  ; 1  ( , ) 1024 ; 
+1  ( , ) 1024 ; 1  ( , ) 1024 
+ .    
+ ( , ) –    
+   ( ) -
+  ,    -  
+  ( )   ( ) 
+   .    
+  . 
+ ( ) –       -
+   : 1. «  »  «  
+»; 2. «basic indissoluble information unit» , -
+  ; 3. «binary unit»   , 
+    0  1  .  
+    8   -
+.  
+ (    ) –  -
+      -
+ . 
+ 221
+  (buffer zone) – ,    
+       
+.       , -
+       , 
+     .  -
+  ,       
+   ,   -
+   ,    -
+    .  .  
+CPU (Central Processing Unit) –  . 
+ (   ) –   
+.  -     .  
+ (interpretation, decoding) –  
+   ,   -
+      -
+, ,  , ,   .  
+    . 
+     ( ), 
+ ( , , )   ( -
+,   .)  . 
+  ( , ) -   -
+  , -    -
+   .  -
+     ,  
+, ,   ,   . 
+ . 
+ ( ) -  (     
+   ),  , , 
+        -
+   . 
+ ( ) – .     . 
+        
+. 
+ ( ) –     
+ 222
+       . 
+ ( ) -    .  
+ ( ) –    -
+ .     .  
+    , , , ;    
+, , , ;    
+,     BIL, BIB, BIP, 
+BSQ   . 
+ ( ) –  -
+, , ,    
+   -  .   
+    ( -
+)     .                   
+ ( ) -    
+      -
+  .     
+  -      
+. , ,   - 
+    ,     
+      
+.         
+     
+.  
+ (    ) –   
+ .     -
+   .   
+      .  
+  (   ) –  
+     -
+  , ,  -
+  .     . 
+/   (viewshed analysis, 
+visibility/unvisibility analysis) -    
+    ,   
+ 223
+  ( ) , -
+    .    
+       -
+    .    
+        
+       
+ .     -
+     .  -
+       -
+         
+ . 
+ ( ) – .  , -
+ .     , , 
+   . -    
+    :    
+-  .  
+ (Generalization) –   
+          
+  .   -
+     -
+ ,      
+ ,      .   . 
+      (cartographic 
+generalization) .  , -  .   
+«   » (spatial data 
+generalization – ing.)  .   -  
+   . 
+   (layer, coverage, overlay) –  
+    ,     
+       
+  .   , , 
+        
+.     (multi- 
+ 224
+layered)      .   
+JPG (Joint Photographic Experts Group) -  JPG   
+ .   16   32  
+      .   
+ . 
+ (cartometry) –   , 
+,   .      . 
+  (space mapping) –  
+       
+.     -     -
+.     ( , 
+   )   -
+       
+  .     
+     . 
+ ( ) -     
+      -
+  .    (   
+ ).      1972-   
+. .     ,  -
+,      
+. . –   185  170  (31 450 2)  
+ . 
+  (Thematic maps) -    
+      . . .-   
+   :  ,  
+,  ,  ,  -
+,  ,  ,  -
+,  ,   ,  -
+,  ,  ,    . 
+ (menu) –  ,  -
+    ( ) . -
+       -
+        -
+ 225
+   . 
+ (metadata) –    -
+.      , 
+ , .   ,  -
+, , , , ,   -
+,     .    
+.  
+   (remote sensing 
+data) –  , ,      
+   .    , 
+        
+,  ,      
+        -
+  .      -
+     .   
+:    ,   
+  ,    .  -
+   :    -
+    ,      
+ ,     , 
+    .   -
+  ,     
+ ,      
+ ( , ,    .)  
+ .  
+  (  ) – . -
+ ,    .   (   
+ )   ,   -
+       
+  . 
+   (   
+,  ) –  , , -
+,       -
+ . 
+ 226
+ ( ) –      -
+ -   . 
+ (   ) –  
+ . 
+SQL (Structured Query Language) –  -
+    .   
+. 
+ ( ) –      
+. 
+ ( ) –      -
+    . 1986-   -
+ . 
+ ( ) –   -
+     ( )  
+(  -   2   )  . 
+ (    ) –  
+       
+.    .   
+ -         
+. 
+  ( ) –    
+ -     -
+.  
+ ( ) –      
+ ,  .  -
+    .  
+ (vectorization) –    
+ –      . 
+  (Database) ( ) –   
+  (  )  . 
+ ,       
+  .   , 
+    ,  -
+    . -    
+ 227
+     -
+  ( )   . -   
+      , 
+   (  – spatial database)  
+.      
+    (map database) -
+ . 
+  (format conversion)- -
+       .  
+ (visualization, viewing, displaying) – 
+,       
+  ,  . 
+-   , ,  -
+     .   
+-      «zoom in» - , «zoom 
+out» -       
+    (   -
+         -
+). .   (2-  view),  (3-  
+view)     .  
+  (neighbourhood analysis, proximity 
+analysis) –   ,   
+        
+  .  
+ (updating, update) –  -
+        
+ ( , )   -
+. 
+   (Land information system) – 
+ ,      -
+ . 
+ 
+ 228
+   
+ 
+ . .    
+. : « », 2004. – 308 . 
+ . .  .    
+. : « », 1997. – 120 . 
+ . .    -
+       -
+. -  19-  , , 2000 
+ . .    -
+   p  .   19 –  
+ , 1998 
+ . .      
+  .   ,  
+   ,    -
+ .  2,  , 29-  , 1997 
+ . .     -
+     .   , 
+20 – , 8, 1996 
+ . .  .  . -
+  -  .//  
+ , 2000, 2, . 42-48.  
+ArcView GIS:  . – .: , 
+1998. – 365 . 
+ . .  -
+. – .: 1997. -64 . 
+ . . .   
+ – .: - , 1998. . 91– 104. 
+ . .,  . .  
+:    . - . : 2000. - 222 . 
+ . .,  . .,  .  
+,    . : ,2004 .- 
+64 . 
+ 229
+ . .     .   
+ . . . . « . .» 1975 , - 328 . 
+ .    (  
+ESRI    ). – .: , 
+2001. – 255 . 
+ . ., . .   . . 
+- .:  , 2001. - 349 . 
+ . .,  . .   . 
+ . -  2-    . 
+– .:  “ ”, 1997. 160 . 
+ . .,  . .,  .   -
+  .  : ,2003 .-  96  
+ . .  . – .:  
+” +”, 1998. 118 . 
+ . . .  -
+  – .: - , 1998. .81–90. 
+ . .,  . . . 
+ . .: 1997. 213 . 
+ . .,  . .,  . .  -
+   . 
+(  I).  -  .:  .    , 1996, 491 .            
+ . .   
+. . (   ), .  –  
+ +, 1999 
+ . . :   . 
+.« », .,1973- 204p. 
+ . .,  . .  . -
+ : . . : -
+  , 2005 – 140 .  
+ .   . Redlands, California, 2003 
+-325 c. 
+ . .     
+ . – .:   , 1997. 
+ 230
+-80 . 
+ . .    -
+.  “   ”. – .:    
+, 1998. -286 . 
+ . .,  . .    
+   . : 
+. 2008.-312 . 
+ . .    -
+  . – : -  . , 1997. 
+253 . 
+Rhind D.W, and Green, N.P.A.  ”Design of  a 
+Geographical Information System for a Heterogeneous 
+Scientific Community” International Journal of Geographical 
+Information Systems, 1988, 2(2) : 171 - 189 
+ 
+  
+ 
+http://www.agp.ru/  (   “ ”) 
+http://www.cadacademy.ru/     
+http://www.dataplus.ru/   
+[http://www.dataplus.ru/Soft/ESRI/ArcGIS/ArcGIS.h
+tm   ArcGIS   +.]  
+http://www.dataplus.ru/Support/Download/ESRI/Arc
+Reader_91_rus_09_08_05.exe   
+ArcReader]  
+http://www.e-lib.gasu.ru/   
+ 
+http://www.esri.com/software/arcgis/index.html 
+            ArcGIS   ESRI.] ref-en 
+http://www.friends.pomorsu.ru/Alest/CompHistory/index
+.htm 
+www.garshin.ru/linguistics/_htm/my-terms/term_gis.htm 
+      
+ 231
+http://www.geospb.ru/index.html ( - -
+ ,    ) 
+http://www.gisa.ru/assoc.html  
+http://www.gisa.ru/  -   
+http://www.gisa.ru/1439.html 
+http://www.gisa.ru/432.html 
+http://www.gis.nnov.ru/ (  -
+    ) 
+http://www.gisok.spb.ru/ (  -
+) 
+http://www.osp.ru/cw/1996/06/48.htm  
+http://www.progis.ru/win/wingis2000.htm  
+http://www.resident.ru/defaulf.htm 
+http://www.resident.ru/softmare/mapinfo/defaulf.htm 
+http://www.scgis.ru/ (   
+     
+) 
+ 232
+ 
+ 
+ 
+ 
+ 
+Ариф Шяфащят оьлу Мещдийев 
+АМЕА-нын щягиги цзвц,  
+физика-рийазиййат елмляри доктору, профессор 
+ 
+Амин Исмайыл оьлу Исмайылов 
+кянд тясяррцфаты елмляри доктору 
+ 
+ЪОЬРАФИ ИНФОРМАСИЙА СИСТЕМЛЯРИ 
+ 
+(Азярбайъан дилиндя) 
+ 
+ 
+Бакы – «Мцяллим» - 2011 
+ 
+ 

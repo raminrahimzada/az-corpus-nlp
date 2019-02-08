@@ -1,0 +1,3240 @@
+İsmayıl Sadıqov 
+Ramin Mahmudzadə
+Naidə İsayeva
+Ümumtəhsil 
+məktəblərinin
+10-cu sinfi üçün dərslik
+Azərbaycan Respublikası 
+Təhsil Nazirliyinin 
+30.04.2009-cu il tarixli  
+499 №-li əmri ilə 
+təsdiq edilmişdir.
+Elmi redaktor: Расим Ялигулийев, АМЕА-нын мцхбир цзвц, т.е.д., профессор 
+İnformatika –  10-cu sinif. Цmumtяhsil mяktяblяri цчцn dяrslik. 
+И.C.Sadыqov, Р.Я.Мащмудзадя, N.R.Иsayeva. “Bakыnяшr” – Bakы, 2009, 128 sяh.
+Rяyчilяr: Ялякбяр Ялийев, т.е.д., профессор 
+Hяyat Axundova – Bakы шяhяr akademik Zərifə Яliyeva adına orta
+mяktяbinin mцяllimi
+Gцlnarя Sяlimova – Bakы шяhяr 7 nюmrяli orta mяktяbinin mцялlimi
+Rяhilя Яliyarzadя – Bakы Avropa liseyinin mцяllimi
+Valid Mяhяrrяmov – Bakы шяhяr Fizika-riyaziyyat vя informatika tяmayцllц
+liseyinin mцялlimi
+Rafiq Qasыmov – Bakы шяhяr 119 nюmrяli orta mяktяbinin mцялlimi
+ISBN-978-9952-429-09-9
+© Azяrbaycan Respublikasы Tяhsil Nazirliyi, 2009.
+© “Bakыnяшr”, 2009.
+© Dizayn, “Bakыnяшr”, “TM” artgroup, 2009. 
+M Ü N D Ə R İ C A T
+1. İNTERNET XİDMƏTLƏRİ 
+1.1. İnternetdə ünsiyyət  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.2. Şəbəkə etikası . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+1.3. Elektron təhsil  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2. VERİLƏNLƏR BAZASI 
+2.1. Verilənlər bazası və onun obyektləri  . . . . . . . . . . . . . . . . . . . . . . 16
+2.2. Verilənlər bazasının idarəolunması sistemi  . . . . . . . . . . . . . . . . 18
+2.3. Praktikum. Verilənlər bazası strukturunun yaradılması . . . . . . . . 22
+2.4. Praktikum. Cədvəllərarası əlaqələr. 
+Verilənlərin daxil edilməsi və uzaqlaşdırılması  . . . . . . . . . . . . . . 28
+2.5. Verilənlərin əks etdirilməsi. Formalar  . . . . . . . . . . . . . . . . . . . . . 34
+2.6. Praktikum. Formaların yaradılması  
+və verilənlərin formaya daxil edilməsi . . . . . . . . . . . . . . . . . . . . . 37
+2.7. Verilənlərin sürətli axtarışı. Arama, çeşidləmə, süzmə . . . . . . . . 43
+2.8. Praktikum. Verilənlərin axtarışı, çeşidlənməsi 
+və süzülməsi  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+2.9. Sorğular. Hesabatlar  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+2.10. Praktikum. Sorğuların yaradılması. 
+Hesabatların yaradılması və redaktəsi . . . . . . . . . . . . . . . . . . . . . . . 53
+3. NƏŞR MƏHSULLARININ YARADILMASI 
+3.1. Microsoft Publisher proqramı ilə tanışlıq  . . . . . . . . . . . . . . . . . . 62
+3.2. Praktikum. İnformasiya bülleteninə mətnin daxil edilməsi  . . . . . . . . . 67
+3.3. Praktikum. İnformasiya bukletinin və vi zit kartının 
+yaradılması  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+3.4. Praktikum. Microsoft Publisher proqramında 
+veb-saytların yaradılması  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+3.5. Praktikum. Veb-sayt üzərində iş  . . . . . . . . . . . . . . . . . . . . . . . . . 86
+3
+4. VEB-PROQRAMLAŞDIRMA
+4.1. HTML  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92  
+4.2. Praktikum. HTML-faylların yaradılması vasitələri  . . . . . . . . . . . . 97 
+4.3. Veb-sayt layihəsi  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+5. İNFORMASİYANIN QORUNMASI 
+5.1. İnformasiya təhlükəsizliyi anlayışı . . . . . . . . . . . . . . . . . . . . . . . 106 
+5.2. Ziyanverici proqramlar. Kompüter virusları  . . . . . . . . . . . . . . . . 111 
+5.3. Praktikum. Antivirus proqramları vasitəsilə 
+informasiyanın mü hafizəsi  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115 
+5.4. Kompüter cinayətkarlığı  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120 
+5.5. Kriptoqrafiya. Rəqəmli imza  . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+Proqram . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+4
+1
+İNTERNET 
+XİDMƏTLƏRİ 
+İNTERNETDƏ ÜNSİYYƏT............................................................................................................ 6
+ŞƏBƏKƏ ETİKASI ....................................................................................................................... 8
+ELEKTRON TƏHSİL .................................................................................................................. 121.3.
+1.2.
+1.1.
+6
+İNTERNETDƏ ÜNSİYYƏT
+• İnternetin hansı kommunikasiya xid mət ləri var
+• Elektron poçtun iş prinsipi necədir
+• Telekonfransların hansı üstünlükləri var
+• “On-line” və “off-line” nə deməkdir
+İnternet şəbəkəsində istifadəçilərə
+mü əy yən informasiya xidməti göstərən
+va sitələr İn ternet xidmətləri adlan dı rı -
+lır. Bu xidmət ləri iki qrupa bölmək
+olar: kommunikasiya xidmətləri və in -
+for masiya xidmətləri. Ən geniş istifadə
+olunan kommunikasiya xidmətləri ilə
+tanış olaq.
+Elektron poçt. Elektron poçt ən
+geniş yayılmış şəbəkə xidmətidir.
+Elektron poçtun iş prinsipi adi poçt-
+dan istifadə etmiş hər bir kəsə intuitiv
+olaraq aydındır. Şəbəkənin host-
+kompüterini məktubların çeşid -
+ləndiyi və poçt şöbə lərinə paylandığı mərkəzi poçtamtla müqayisə etmək olar.
+Poçt şöbələrində hər bir abonent üçün poçt “qutusu” olur və
+ona ünvanlanmış göndərişlər həmin “qutuya” daxil olur. 
+Elektron poçtun üstünlüyü onun ope rativliyində və
+rabitənin yüksək keyfiyyətindədir. Çatdırma sürəti, gecə-
+gündüz iş rejimi, göndərişlərin eyni zamanda çoxsaylı adresa-
+ta yol lana bilməsi, alınan poçtun istifadəçi tə ləb edənədək
+host-kompüterdə sax lanması və çoxlu digər imkanlar elektron poçtu adi poçtdan
+fərq ləndirir. Müasir elektron poçt proq ramları mətn informasiyaları göndərməklə
+yanaşı, həm də məktublara başqa növ faylları – böyük həcmli mətn sə nəd lərini,
+arxiv fayllarını,  şəkil, video, səs və s. olan faylları da qoşa bilir.
+Telekonfrans. Telekonfrans elektron poçtun bir növüdür. Bu, şəbəkə isti-
+fadəçiləri arasında müəyyən mövzu üzrə mütəşəkkil informasiya müba di ləsidir.
+Elm və texnikanın müxtəlif sahələrə geniş inteqrasiyanı nəzərdə tutan müasir
+dövrümüzdə bu tele kom munikasiya ünsiyyət növü xü su silə aktualdır.
+Telekonfranslar üçün nə coğ ra fi, nə də dil sərhədləri var.
+Telekonfransda mühüm rolu aparıcı oy nayır. İştirak çı la rın dəvət olunması,
+ünsiyyət dilinin se çilməsi, müzakirələrin idarə olunması və onlara yekun vurul-
+İnternetin kommunikasiya xidmətləri
+Elektron poçt 
+Telekonfrans
+Gap
+ICQ
+İnternet-telefoniya
+S Ö Z L Ü K
+1.1.
+7
+ması kimi təşkilati işlər aparıcıya həvalə olunur. Konfrans iştirakçılarının tərkibi
+və sayına, həmçinin, onun müddətinə heç bir məhdudiyyət qoyulmur, müzakirələr,
+hətta, yarım il də çəkə bilər. Öz məruzəsini, yaxud məlumatını təqdim edən işti-
+rakçı ayrıca bir adresata deyil, konfransın bütün iştirakçılarına müraciət edir.
+Adətən, telekommunikasiya şəbəkəsində eyni vaxtda müxtəlif mövzularda çoxlu
+sayda konfranslar keçirilir və istifadəçi onların istənilən birində iştirak edə bilər.   
+“On-line” ünsiyyət. Bəzən hər hansı problemi
+operativ olaraq dialoq prosesində müzakirə
+etmək zərurəti yaranır. Belə hallarda onlayn
+(ingiliscə on-line – xətdə) adlandırılan real za -
+man rejimində ünsiyyət texnologiyasından isti-
+fadə olunur.
+• Onlayn rejim informasiyanın ötürülməsi üçün maksimal opera-
+tivliyin tələb olunduğu hallarda, məsələn, birjalarda, bank iş lə -
+rində çox tətbiq olunur. Bu üsuldan kütləvi informasiya vasitələri
+interaktiv sorğular, “canlı” dialoqlar zamanı geniş istifadə edir lər. 
+• Adi istifadəçilər də ünsiyyət üçün onlayn xidmətlərdən yarar-
+lana bilərlər. Son zamanlar İnternet istifadəçiləri arasında mətn
+şəklində replikalar mübadiləsi geniş yayılıb. Real zaman reji-
+mində belə söhbətlərin aparılmasını təmin edən sistemlər “gap
+otaqları” (chat room) adlanır. Gaplarda həmsöhbətlərdən birinin
+kom püterində yığılmış mətn eyni zamanda başqasının da
+ekranında görünür.
+• Gənclər arasında İnternet vasitəsilə daha bir ünsiyyət növü –
+İnternet-peycerlər geniş yayılıb. Elektron poçtda olduğu kimi,
+burada da real zamanda qısa məlumatların və hətta, faylların
+mübadiləsini aparmaq olar.
+Ən məşhur İnternet-peycinq sistemi ICQ (ay-si-kyu)
+proq ramıdır. Ənənəvi İnternet xidməti olan elektron poçtdan
+fərqli olaraq ICQ şəbəkəsində məlumatlar ani ötürülür. İn ter -
+net-peycinqin hər bir abonentinin fərdi nömrəsi olur və şəbəkə ünsiyyətinin
+Telefonla ünsiyyət həmişə on-line rejimində baş verir. Teleqram göndə rərkən siz blankı
+off-line rejimində doldurursunuz, sonra teleqrafçı on-line rejimində teleqramı rabitə xət-
+tilə ötürür; sonra isə teleqramın ünvanlandığı şəxs onu off-line rejimində oxu yur. 
+1. İNTERNET XİDMƏTLƏRİ
+həvəskarları bir-birlərinə təkcə elektron poçt ünvanlarını deyil, həmçinin ICQ
+nömrələrini (ICQ#) də verə bilərlər.
+İnternet-telefoniya. İnternetdə danışıq və ya səs siqnallarını ötürmək üçün
+İnternet-telefoniya texnologiyasından istifadə olunur. Da nışıq zamanı səs siqnal-
+ları sıxılıb kodlaşdırılaraq verilənlər paketinə çevrilir. Sonra bu paketlər İnternet
+vasitəsilə əks tərəfə gön dərilir. Adresata çatan paketlər dekodlaşdırılaraq yenidən
+səs siqnalına çevrilir. 
+İnternet-telefoniyada danışıq haqqı adi telefon rabitəsi ilə müqayisədə bir
+neçə dəfə aşağıdır (xüsusən, beynəlxalq danışıqlar üçün).  
+1. “On-line” nədir? Bu termindən harada istifadə olunur?
+2. ICQ simvollar yığını nə deməkdir?
+3. Telekonfrans hansı İnternet xidməti növünə aiddir?
+4. İnternet-telefoniyanın ənənəvi telefon rabitəsindən hansı üstünlükləri var?
+ŞƏBƏKƏ ETİKASI
+• Şəbəkədə davranış normaları nəyə lazımdır
+• Elektron yazışmalarda hansı qaydalara əməl olunmalıdır
+• Gapda həmsöhbətlərlə necə davranmalı
+• Telekonfranslarda davranış qaydalarının hansı xüsusiyyətləri var
+İctimai yerlərdə davranış qaydalarını
+uşaqlıqdan öyrədirlər. Virtual ün siy -
+yət gerçək həyatda baş verən ün siy -
+yətdən fərqlənir. Həmsöhbət ləriniz
+si zi görmürlər, onlar nə sizin üstün-
+lüklərinizi, nə də çatışmazlıqlarınızı
+bilirlər, heç kəsi sizin ictimai möv -
+qeyiniz maraqlandırmır. Bəzən vir-
+tual ünsiyyət zamanı həmsöhbət -
+lərdən kimsə öz davranışına görə heç bir cəza alma yacağını bilərək, başqalarını
+təhqir edə, özündən çıxara, yaxud, sadəcə, zəhləsini tökə bilər. Buna görə də,
+ICQ termini ingilis dilindəki “I seek you” (“Mən səni axtarıram”) ifadəsindən yaranıb.
+Ünsiyyət etikası
+Nik
+Smaylik
+S Ö Z L Ü K
+1.2.
+8
+şəbəkədə iş zamanı ümumi qəbul olunmuş müəyyən qaydalara – ünsiyyət etikası-
+na riayət etmək lazımdır. Hər bir şəbəkə ünsiyyət üsulunun öz etik qaydaları var.
+Onların bəzilərini nə zər dən keçirək.
+Gap ünsiyyəti. Gənclər arasında çox geniş yayılmış gap xidməti ən demokratik
+şəbəkə ünsiyyət üsulu olsa da, orada da müəyyən qaydalara əməl etmək məs-
+ləhətdir: 
+• İştirakçıların əksəriyyətinin ünsiyyətdə olduğu dildən istifadə
+edin. Bu, həm xarici dillərə, həm də slenqə aiddir.
+• Özünüzü ağıllı göstərməyə çalışmayın. Bu, həmsöhbətinizi sizin
+əley hinizə çevirə bilər. Məlumatları sadə və aydın şəkildə gön -
+də rin.
+• Hər hansı səbəbdən həmsöhbətləriniz sizi qane etmirlərsə, gap-
+dan uzaq laşsanız daha yaxşı olar.
+• Müəyyən mövzu üzrə ixtisaslaşan gap-serverdəsinizsə, söhbətin
+mövzusundan kənara çıx mayın. Sözün həqiqi mənasında gap
+etmək istəyənlər üçün xüsusi serverlər mövcuddur.
+• Qeyri-normativ leksikadan istifadə etməyin. Gapların əksə riy -
+yəti izlənilir: etikanı pozan “ağzıyavalar” serverdən uzaq laş -
+dırılır.
+Daha bir neçə qayda:
+• Qondarma addan (ing. nik) istifadə edin, çünki gaplar qeyri-
+rəsmi ünsiyyət üçündür.
+•  Bu növ ünsiyyətdən tez-tez istifadə edirsinizsə, qondarma
+adınızı dəyiş mə yin.
+• Gapa daxil olanda salamlaşın.
+• Replikanıza cavab verilmirsə, onu bir neçə dəfə təkrarlamayın,
+çün ki sizin haq qınızda hövsələsiz, yaxud zəhlətökən həmsöh-
+bət təəssüratı yarana bi lər. Cavab almaq üçün bir qədər
+gözləyin – o, gecikə də bilər.
+Elektron poçt ünsiyyəti. Elektron poçt vasitəsilə yazışma məktublaşanlar
+arasında münasibətdən asılı olaraq işgüzar, yaxud şəxsi ola bilər.
+Şəxsi məktublara etika baxımından ciddi tələblər qoyulmur. Yaxın dostunuza
+yazdığınız istər adi, istərsə də elektron məktubda özünüz üçün məqbul olan
+istənilən sözdən istifadə edə bilərsiniz. Şəxsi yazışmada məktubun üslubu və
+ifadə tərzi məktublaşan insanların tanışlıq səviyyəsindən asılı olur. 
+91. İNTERNET XİDMƏTLƏRİ
+10
+Adi işgüzar yazışmalarda qəbul olunmuş “qızıl” qaydalar isə bunlardır:
+• Yalnız məğzini verməklə, fikirlərinizi qısaca ifadə edin.
+• Savadlı yazın.
+• Başqalarından nəzakət tələb edirsinizsə, özünüz də nəzakətli
+olun.
+• Aldığınız məktubun cavabını gecikdirməyin.
+• Ümumi ifadələrlə “canınızı qurtarmayın”. Deməyə sözünüz
+yox dursa, bunu nəzakətlə bildirib, yazışmaya son qoyun. 
+Elektron yazışmalarda bu göstərilənlərə aşağıdakı qaydalar da əlavə olunmalıdır: 
+• Subject (mövzu) sahəsini doldurun. İstifadəçilərin çoxu virus-
+ların qor xu sundan mövzusu olmayan, yaxud mövzusu şübhəli
+olan məktubları oxumadan uzaqlaşdırırlar.
+• Elan etdiyiniz mövzuya uyğun fikirlər yazın.
+• Məktubunuzun sonunda kimliyinizi bildirin.
+• Qabaqcadan arxivləşdirmədən böyük həcmli fayllar göndərmə -
+yin.
+• Əgər məktubunuzda adresatların hamısı üçün mühüm və faydalı
+informasiya yoxdursa, onu bir neçə ünvana “səpələməyin”.
+Sizin ünvanınızı arzuolunmaz adresat kimi “qara siyahıya” sala
+bilərlər.
+• Elektron yazışmalarda emosiyaları bildirmək üçün çox zaman
+sözlərin yerinə simvollar ardıcıllığından (smaylik-
+lərdən) istifadə olunur. Smayliklərdə istifadə olunan
+hər simvolun öz anlamı var: “ikinöqtə” gözü, “defis”
+burnu, “mötərizə” ağzı bildirir. Aşağıda geniş isti-
+fadə olunan smayliklərdən bəziləri göstərilib.
+Simvollar ardıcıllığı Mənası
+:)
+:))))
+;)
+:(
+:((((
+:-0
+Təbəssüm
+Gülüş
+Hiyləgər təbəssüm
+Məyusluq
+Ümidsizlik
+Təəccüb
+11
+Telekonfrans ünsiyyəti. Elə qaydalar var ki, onlar həm dostcasına söhbətlər,
+həm işgüzar ünsiyyət, həm də elmi polemikalar üçün məqbuldur:
+• Fikirləriniz üst-üstə düşməsə də, başqalarının fikirlərinə hörmət lə
+yanaşın.
+• Səhvlərinizi etiraf etməyi bacarın.
+• Fikirlərinizi təsdiq etmək üçün dəlil-sübutlara əsaslanın.
+• Mənasız danışıqları vaxtında kəsməyi bacarın.
+Telekonfranslarda insanlar müəyyən bir mövzunu müzakirə etməyə yığışırlar.
+Əlbəttə, yuxarıda sadalanan qaydalara burada da əməl etmək gərəkdir, ancaq
+telekonfranslara başqa normalar da xasdır:
+• Məlumatlar qısa olmalıdır.
+• Söylənilən fikirlər problemin mahiyyətinə uyğun olmalıdır.
+• Məlumatlar bütün həmsöhbətlərə ünvanlanmalıdır.
+• Özünü reklam yolverilməzdir.
+• İrqçi xarakterli fikirlər, təhqirlər və nəzakətsiz qeydlər qadağandır.
+1. Şəbəkədə hansı ünsiyyət qaydalarına əməl olunmalıdır?
+2. “Nik” nədir və ondan nə vaxt istifadə olunur?
+3. Nümunə üçün bir neçə elektron mıəktub götürün. Onların məzmununu yazışma
+etikası baxımından təhlil edin. Çatışmazlıqları və düzgün məqamları qeyd edin.
+4. Hər hansı mövzunu müzakirə etmək üçün sinif yoldaşlarınızla telekonfrans qu -
+run. Ünsiyyət zamanı etik normalara diqqət edin.
+1. İNTERNET XİDMƏTLƏRİ
+ELEKTRON TƏHSİL
+• Uzaqdan təhsil nədir.
+• E-öyrənmə nədir və onun hansı üstünlükləri var
+• Fasiləsiz təhsil sistemi nə deməkdir
+• Elektron tədris vəsaitlərinin ənənəvi vəsaitlərdən fərqi nədədir
+Təhsil sistemi həmişə dövrünün tex nologiyalarından yararlanmağa ça lışır.
+İnformasiya texnologi yalarının inki şafı və  İnternetin yaranması tədris pro sesində
+özündən qabaqkı texno lo giyalardan fərqli olaraq görünməmiş imkanlar açmışdır.
+Telekommunikasiya texnologiyaları
+və İnternet şəbəkəsinin resursları yeni
+tədris tipini – uzaqdan təhsili  (distant
+təhsili) meydana çıxarıb. Uzaqdan təh-
+silin subyekti, yəni öyrənən (şagird,
+tələbə və s.) pedaqoqdan, tədris vasitələrindən və təhsil resurslarından uzaqda
+olur. Bu təhsil növü üçün də tədris prosesinə xas olan bütün komponentlər – məz-
+mun, məqsədlər, təşkilat formaları, təlim vasitələri, nəzarət sistemi və nəticələrin
+qiymətlən dirilməsi xarakterikdir. 
+Uzaqdan təhsil zamanı məlumatları öyrənənlərə çatdırmaq üçün müxtəlif
+üsullardan istifadə olunur. Tətbiq olunan texnologiyaların artıq bir neçə nəsli
+(ənənəvi çap məhsullarından ən müasir kompüter texnologiyalarınadək) bir-biri-
+ni əvəz etmişdir. Lakin, texnoloji yeniliklərin meydana çıxmasına baxmayaraq,
+bir çox hallarda hələ də daha sadə üsullara üstünlük verilir. Məsələn, Hindistanda
+uzaqdan təhsil üçün radiodan istifadə edilməsi geniş ya yılmışdır. Çünki radio
+oradakı əhalinin əksəriyyəti üçün daha əlverişlidir və əlavə infrastruktur yarat-
+mağa gərək yoxdur. 
+Hazırda uzaqdan təhsil məqsədilə İnternet ünsiyyət vasitələrinin hamısından
+– elektron poçtdan, forumlardan, gap xidmətlərindən, tele- və videokonfranslar-
+dan istifadə olunur.
+İndi iri şirkətlərin çoxu öz işçi heyətinin hazırlığını standartlaşdırmaq, bu
+məq sədlə çəkilən xərcləri azaltmaq və keyfiyyəti yüksəltmək üçün öz tərki-
+blərində uzaqdan təhsil mərkəzləri yaradırlar. Demək olar ki, heç bir müasir
+şirkət bunsuz keçinə bilməz. Məsələn, Microsoft şirkəti öz işçilərini, onun məh-
+sullarından istifadə edənləri, yaxud alıcıları və proqram təminatı hazırlayanları
+öyrətmək üçün böyük öyrədici portal yaratmışdır. 
+Uzaqdan təhsil
+Öyrənən 
+E-öyrənmə 
+Fasiləsiz təhsil
+S Ö Z L Ü K
+1.3.
+Əslində uzaqdan təhsilin tarixi daha “qədimdir”. Belə ki, ötən əsrin əvvəllərində radio-
+nun ixtirasından sonra ilk radiokurslar yayımlanmağa başladı. Analoji kurslar 1950-ci
+illərdə telekanallarda açıldı. 1960-cı ildə ilk dəfə Çində orta təhsil vermək üçün radio və
+televiziyadan istifadə etməyə başladılar.
+12
+Müasir dünyanın görünməmiş bir sürətlə dəyişməsi biliklərin daha
+çevik və ucuz ötürülməsi üsullarının tətbiq olunmasını tələb edir.
+Günümüzün bu kəskin probleminin həllini mümkün edən vasitələrdən
+biri elektron öyrənmə, yaxud e-öyrənmədir [e-learning]. 
+Bundan öncəki təhsil sistemlərində kompüterlər tədrisin daha yaxşı, daha
+səmərəli aparılması üçün yardımçı bir vasitə idi. Lakin sürətli İnternet şə bə kə si nin
+meydana çıxması “müstəqil öyrənmə” və “ömrü bo yu öyrənmə” anlayışlarını orta -
+ya çıxardı. 
+Getdikcə genişlənən e-öyrənmənin bir sıra xüsusiyyətləri vardır:  
+• Zaman və məkan məhdudiyyəti yoxdur.
+• Öyrənən (şagird, tələbə) mövzunu öyrənənə qədər onun üzərində
+çalışa bilir.
+• Hər kəs öz qavrama qabiliyyətinə uyğun olaraq öyrənə bilir. 
+• Öyrənən mövzunu başa düşmədiyi halda kommunikasiya va si tə lə ri
+ilə müəllim və digər öyrənənlərlə əlaqə qura bilər.
+Yaşadığımız informasiya cəmiyyətinin dinamik inkişafı üzvlərindən bütün
+ömrü boyu, fasiləsiz təhsil almasını tələb edir. Bu, insana zamanla ayaqlaşmaq,
+lazım gəldikdə peşəsini dəyişmək, cəmiyyətdə özünə layiqli yer tutmaq imkanı
+verir. 
+İqtisadi cəhətdən inkişaf etmiş ölkələr artıq məktəbəqədər və orta məktəb təh-
+sili, peşə təhsili, ixtisasartırma və yenidən hazırlanma sistemi, əlavə təhsil və s.
+də daxil olmaqla,  fasiləsiz təhsil sistemi yaratmağa başlamışlar.
+E-öyrənməyə elektron dərsliklər, tədris xidmətləri və texnologiyaları aiddir.
+Elektron dərsliklər, yaxud elektron tədris nəşrləri və resursları mürəkkəb məhsul
+olmaqla, müasir texnikanın nailiyyətlərini, fənn sahələri üzrə mövzuları və tədris
+metodikasını, dizayn və bədii keyfiyyətləri özündə birləşdirir. Doğrudur, kitabla
+müqayisədə elektron tədris nəşrləri və resursları üçün müəyyən proqram-texniki
+kompleks tələb olunur. Lakin elektron audiovizual tədris sistemləri bu gün üçün
+məlum olan mətn, nitq, musiqi, foto, video, qrafika, animasiya və hətta, virtual
+reallığın kombinə edilmiş interaktiv komponentlərini də özündə əks etdirən bütün
+təqdimetmə növlərini özündə birləşdirir.
+E-öyrənmə İnternet, yaxud İntranet şəbəkəsi vasitəsilə şəxsin müstəqil öyrənməsi ilə
+gerçəkləşən, biliyin əldə olunmasında zaman və məkan hüdudlarını tanımayan, ömür
+boyu öyrənməyə imkan verən bir təhsil sistemidir. 
+Azərbaycan höku mə ti ilə Dünya Ban kı nın Beynəlxalq İnkişaf Assosiasiyası arasında
+bağlanmış saziş əsasında Təhsil Sektorunun İnkişafı Layihəsi çərçivə sin də “Azərbaycan
+Res publikasında fa silə siz pedaqoji təhsil və müəllim hazırlığının milli konsepsiyası və
+strategiya sı” layihəsi hazırlanmışdır.
+131. İNTERNET XİDMƏTLƏRİ
+Elektron tədris vəsaitləri
+Elektron multimedia nəşri/resursu yalnız mürəkkəb elmi-texniki məhsul
+deyil, o həm də məzmunun dolğunluğu, metodik tapıntı, yaradıcılığın yüksək
+səviyyəsi, başqa sözlə, əsl incəsənətdir.
+1. Hansı dərslərinizdə elektron dərsliklərdən istifadə edirsiniz?
+2. Tədris prosesində e-öyrənmədən necə istifadə etmək olar?
+3. E-öyrənmənin ənənəvi təhsillə müqayisədə müsbət və mənfi cəhətlərini
+sadalayın. 
+4. Hansı internet təhsil resurslarından istifadə etmisiniz?
+14
+2
+VERİLƏNLƏR 
+BAZASI
+VERİLƏNLƏR BAZASI VƏ ONUN OBYEKTLƏRİ  ..................................................................................................................16
+VERİLƏNLƏR BAZASININ İDARƏOLUNMASI SİSTEMİ  .....................................................................................................18
+PRAKTİKUM. VERİLƏNLƏR BAZASI STRUKTURUNUN YARADILMASI  .................................................................... 22
+PRAKTİKUM. CƏDVƏLLƏRARASI ƏLAQƏLƏR. 
+VERİLƏNLƏRİN DAXİL EDİL MƏ SİVƏ UZAQLAŞDIRILMASI .............................................................. 28
+VERİLƏNLƏRİN ƏKS ETDİRİLMƏSİ. FORMALAR ................................................................................................................ 34
+PRAKTİKUM. FORMALARIN YARADILMASI VƏ VERİLƏNLƏRİN FORMAYA DAXİL 
+EDİLMƏSİ ................................................................................................................................................................. 37
+VERİLƏNLƏRİN SÜRƏTLİ AXTARIŞI. ARAMA, ÇEŞİDLƏMƏ, SÜZMƏ ......................................................................... 43
+PRAKTİKUM. VERİLƏNLƏRİN AXTARIŞI, ÇEŞİDLƏNMƏSİ VƏ SÜZÜLMƏSİ ......................................................... 46
+SORĞULAR. HESABATLAR ........................................................................................................................................................... 49
+PRAKTİKUM. SORĞULARIN YARADILMASI. HESABATLARIN YARADILMASI VƏ REDAKTƏSİ ..................... 532.10.
+2.9.
+2.8.
+2.7.
+2.6.
+2.5.
+2.4.
+2.3.
+2.2.
+2.1.
+16
+VERİLƏNLƏR BAZASI VƏ ONUN OBYEKTLƏRİ
+• Verilənlər bazası nədir
+• Verilənlər bazasının əsas obyektləri hansılardır
+• Sahə nədir. Yazı nədir
+• Verilənlər bazasında neçə cədvəl ola bilər
+İnformasiya və informasiya prosesləri ilə tanış olarkən insanın istənilən
+fəaliyyət sahəsinin informasiya ilə əlaqəli olması qeyd olunmuşdu. İnformasiya
+ilə işləmək və xüsusən də nəsildən-nəslə ötürmək üçün, onun saxlanmasının
+xüsusi əhəmiyyəti var. İnsan cəmiy yəti inkişaf etdikcə, informasiyanı saxlamaq
+üçün müxtəlif vasitələr düşünülmüş və onlar zaman-zaman təkmilləşdirilmişdir.
+Ancaq informasiyanın, sadəcə, saxlanması ye tərli deyildir. İnformasiya elə
+saxlanmalıdır ki, lazım olduqda onu asanlıqla əldə etmək mümkün ol sun. Məhz
+axtarışları asanlaşdırmaq məqsədi ilə əlifbalı qeyd kitabçaları düzəldilmiş,
+kitabxanalarda isə əlifba və  mövzular üzrə kataloqlar yaradılmışdır.
+Belə bir misalı nəzərdən keçirək. Məlum dur
+ki, avtomobil müfəttişliyində avtomobil-
+lərin qeydiyyatı apa rılır. Xüsusi kartotekada
+hər bir avtomobil haq qında informasiya –
+maşının nömrəsi (dövlət nişanı), markası,
+rəngi, sahibi haqqında məlumat sax lanılır.
+Kar totekada bütün məlumatlar maşınların
+nömrəsinə görə nizamlanır, ona görə də ma -
+şı nın nömrəsi məlumdursa, istənilən maşın haqqında məlumatı asanca tapmaq
+olar.
+Təəssüf ki, bəzi hadisələr zamanı maşının nömrəsi həmişə mə lum olmur.
+Məsələn, qəza törə dən sürücü hadisə ye rindən qaçdıqda, hadisənin şahidləri çox
+zaman maşının nömrəsini deyə bilmirlər; ən yaxşı halda onlar maşının mar kasını
+və rəngini xatırlaya bilirlər. Ağ rəngli “Mersedes”i tapmaq üçün bütün kar-
+totekanı “ələk-vələk etmək” lazım gəlir. Bu hal son za man laradək belə idi.
+Əlbəttə, bir neçə ayrı-ayrı kartoteka
+düzəltmək olardı. Məsələn, avto mo -
+billəri birində nömrələrinə görə, baş -
+qasında rənglərinə görə, üçüncü sündə
+isə ayrı bir əlamətə görə nizamlamaq
+olardı. Ancaq belə təkrarlanmalar işin
+həcmini əhəmiy yətli dərəcədə artırır,
+çünki hər bir avtomobil haqqında bir neçə kart doldurmaq lazım gəlir.
+Verilənlər
+Verilənlər bazası
+Sahə
+Yazı
+Cədvəl 
+S Ö Z L Ü K
+2.1.
+Bundan başqa, real informasiya sistemlərində çoxsaylı müxtəlif veri lənlər
+saxlanılır. Belə sistemlərdə axtarışın hansı əlamətə (yaxud əlamətlərə) görə
+aparılacağını qabaqcadan demək mümkün olmur. Bu cür məsələlərin həlli, yəni
+lazım olan informasiyanın məqbul zamanda tapılması yalnız kompüterlərin mey-
+dana çıxmasından sonra mümkün oldu. 
+Kompüterlərdə informasiyanı saxlamaq və axtarmaq üçün verilənlər bazası
+adlandırılan xüsusi proqram sistemlərindən istifadə olunur. Verilənlər bazası
+[database] informasiyanın, yaxud verilənlərin nizamlı yığınıdır. Məlumatların
+kompüterdə verilənlər bazası şəklində saxlanması həmin məlumatların çevik
+olaraq tapılmasını, çap olunmasını, istifadəsini asanlaşdırır.
+Verilənlər bazası haqqında əyani təsəvvürə malik olmaq üçün haqqında da -
+nışdığımız avtomobillər kartotekasına bir neçə avtomobil haqqında məlumat
+daxil edək.
+Verilənlər bazasının mərkəzi obyekti cədvəldir [table]. Bu gün cədvəl əsasın-
+da yaradılmış verilənlər bazası daha çox yayılıb. Ən sadə verilənlər bazasında da
+azı bir cədvəl olur. Ümumiyyətlə isə, verilənlər bazasında, adətən, onlarca cəd-
+vəl olur. Cədvəl sətirlərdən və sütunlardan ibarətdir.
+Yuxarıda nəzərdən keçirdiyimiz misalda
+cədvəlin hər bir sətri özündə 1 avtomobil
+haqqında informasiyanı saxlayır. Verilənlər
+bazası sistemlərində, adətən, sətir əvəzinə
+yazı [record] termini işlədilir. Beləliklə,
+verilənlər bazasının hər bir cədvəli yazılar-
+dan ibarətdir. 
+Cədvəlin hər bir sütunu avtomobilin bir
+xarakteristikasını təs vir edir. Verilənlər ba zasında belə sütunları sahə [field] ad -
+landırırlar. Beləliklə, hər bir yazı sahələrdən təşkil olu nub.
+Nömrə Marka Rəng Buraxılış
+ili
+Qeydiyyat ili Sahibi
+1 10BD123 “VAZ-2106” Qara 1999 2000 Qarayev A.
+2 90LX432 “Mersedes” Ağ 2005 2007 Məmmədli Z.
+3 10ON010 “TOYOTA” Qırmızı 2007 2007 Bağırzadə E.
+4 10UD324 “BMW” Gümüşü 2000 2002 İvanova A.
+5 90JU725 “TOFAŞ” Qara 2003 2004 Hacımuradov Ş.
+Sütun (Sahə)
+Sətir
+(Yazı)
+172. VERİLƏNLƏR BAZASI
+18
+Yuxarıdakı cədvəldə hər bir yazı 6 sahədən ibarətdir (əslində, avtomobil
+müfəttişliyinin gerçək verilənlər bazasında daha çox sahə olur).
+Hər bir sahə adı və verilənlərin tipi ilə xarakterizə olunur. Avtomobillərlə
+bağlı yuxarıda baxdığımız verilənlər bazasında Nömrə, Marka, Rəng, Buraxılış
+ili, Qeydiyyat ili, Sahibi sahələrdir. Verilənlər bazasında sahələrin müxtəlif tipləri
+ola bilər: mətn, ədəd, tarix, zaman, pul və s. Baxdığımız nümunədə sahələrin
+adları birinci sətirdə, hər bir sahənin qiymətləri isə uyğun sütunda göstərilib.
+1. Verilənlər bazası nədir?
+2. Verilənlər bazası hansı obyektlərdən ibarətdir?
+3. Verilənlər bazasında cədvəlin sətir və sütunları necə adlanır? 
+4. Müəyyən fəaliyyət sahəsinə aid olan obyektlərin parametrlərini cədvəl şəklində
+gös tərin. Cədvəldə sahələri və yazıları göstərin. 
+VERİLƏNLƏR BAZASININ İDARƏOLUNMASI SİSTEMİ
+• Verilənlər bazasının idarəolunması sistemi nədir
+• Microsoft Access necə başladılır
+• Cədvəl strukturunun yaradılması texnologiyası necədir
+Verilənlər bazasında axtarışın opeativ -
+li yini və keyfiyyətini təmin et mək
+üçün bu prosesi avto mat laş dır maq la -
+zım dır. Müasir kom püter texnologiya -
+la rı müxtəlif cür informa siya ların
+elekt ron şəkildə sax lan ması və emalını
+təşkil etməyə imkan verir. Kompü ter -
+də verilənlər bazasını bir neçə üsulla yaratmaq olar. Birincisi, Basic, Pascal, C++
+və s. kimi proqramlaşdırma dillərinin köməyilə. Bu üsuldan təcrübəli proq ram -
+çılar istifadə edirlər. İkincisi, verilənlər bazasının idarəolunması sistemi (VBİS)
+ad landırılan xüsusi proqram mühitində. Belə sistemlərlə işləmək üçün kompüter-
+lə işləmək bacarıqlarına malik olmaq və verilənlər bazasının işlənib hazırlanması
+nəzəriyyəsinin əsaslarını başa düşmək lazımdır.     
+İstənilən verilənlər bazası sahə və yazı adlandırılan sadə obyektlərdən ibarətdir. Sahə və
+yazıların toplusu daha iri obyekt – cədvəl əmələ gətirir. Başqa sözlə, cədvəl yazılardan,
+yazılar isə sahələrdən təşkil olunur.
+Verilənlərin saxlandığı yeri – sahəni bir otaq kimi təsəvvür etsək, onda yazılara bir mən -
+zi lin otaqları, cədvəllərə isə bir blokda olan mənzillər kimi baxmaq olar. 
+Verilənlər bazasının idarəolunması
+sistemi 
+Microsoft Access
+Alətlər zolağı
+Tapşırıqlar paneli
+S Ö Z L Ü K
+2.2.
+Ueyn Retliff
+(19...........) 
+19
+Verilənlər bazasının idarəolunması sistemi (VBİS), verilənlər
+bazasının yaradılması üçün proqram vas itələrinin toplusudur.
+Hazırda bir neçə növ VBİS vardır ki, onlardan ən məşhurları bun-
+lardır: Access, Oracle, MySQL, Yukon. Bu sistemlərin hər birinin öz
+üstünlükləri və çatışmazlıqları var. Bunlardan geniş istifadə olunanı Microsoft
+Office paketinə daxil olan Microsoft Access sistemidir. Adları çəkilən digər sis-
+temlər isə şəbəkələr üçün daha güclü verilənlər bazasını yaratmaq məqsədi
+daşıdığından onlardan az sayda mütəxəssislər istifadə edirlər.
+Verilənlər bazasının idarəolunması sistemi
+• verilənlər bazasının strukturunun yaradılmasını,
+• bazanın verilənlərlə doldurulmasını,
+• bazada olan verilənlərin redaktəsini (dəyişdirilməsini),
+• informasiyanın vizuallaşdırılmasını
+təmin edir. İnformasiyanın vizuallaşdırılması dedikdə, verilənlərin seçilməsi,
+onların nizamlanması, lazım olan şəkildə tərtib edilməsi və çıxış qurğusuna
+göndərilməsi nəzərdə tutulur. 
+Microsoft Access sisteminin interfeysi. Access verilənlər bazasında minlər-
+lə cədvəl ola bilər, hər bir cədvəldə olan yazıların sayı isə ilk növbədə kompü-
+terinizin sərt diskində qalan boş yerin həcmindən asılıdır. 
+Verilənlər bazası [database, DB] və VBİS [Database Mana gement
+Sys tem, DBMS] anlayışları ötən əsrin 60-cı illə ri nin or ta larında, elekt -
+ron hesablayıcı maşınların idarəetmə sahə lərində aktiv istifadə
+edilməyə başladığı zamanlarda meydana çıxmışdır.  
+1981-ci ildə Amerika Milli Kosmik Agentliyinin (NASA) mühəndisi
+Ueyn Retliff [Wayne Ratliff] boş vaxtlarında futbol statistikasını
+aparmaq üçün sadə VBİS hazırlamaqla məşğul olurdu. Bu sistem o
+dövrün fərdi kompüterləri üçün nəzərdə tutulduğundan çox pri mi tiv
+idi və yalnız bir neçə yüz yazını emal edə bilirdi. Retliff “Vulkan”
+adlandırdığı bu sistemi satmağa başladı, lakin elə bir uğur qazana
+bilmədi.
+“Vulkan”ın reklamı proqram biznesi ilə məşğul olan Corc Teytin
+gözünə sataşır və o, Retliffdən həmin sistemin satışının müstəsna
+hüququnu alır. O zamanlar  “Vulkan” markası başqa firmaya məxsus
+olduğundan yeni ad düşünmək lazım gəlir. Ticarət agentinin təklif
+etdiyi dBase II adı çox uğurlu olur: o, həm sanballı səslənirdi, həm də
+əvvəllər guya bu proqramın I versiyasının çıxmasına işarə vururdu.     
+Tezliklə dBase II proqram məhsulları bazarında öz yerini tutdu, onun
+dBase III, dBase III+, dBase IV versiyaları yarandı. Sonradan isə
+çoxsaylı bənzər sistemlər meydana çıxdı və cədvəllər üçün istifadə
+olunan “dbf” formatı standarta çevrildi.
+Ueyn Retliff  
+(1946)
+2. VERİLƏNLƏR BAZASI
+Kompüterdə quraşdırılmış başqa proqramlar kimi, Access 2003 proqramını
+da başlatmağın ən asan yolu Windows sisteminin Start menyusundan istifadə et -
+məkdir. Bunun üçün aşağıdakı addımlar atılmalıdır:
+1. Windows sisteminin Start menyusunu açın.
+2. Start menyusunun yuxarı hissəsindəki All Programs sətrini seçin.
+3. Açılan yeni menyudan əvvəlcə Microsoft Office, sonra isə
+Microsoft Office Access 2003 bəndini seçin.
+Bundan sonra Access 2003 proqramı yüklənməyə başlayacaq və ekrana proq -
+ramın baş pəncərəsi çıxacaq (şəkil 2.1).
+Şəkil 2.1. MS Access proqramının baş pəncərəsi
+MS Access mühitinin interfeysi MS Office paketinə daxil olan başqa proqram
+mühitlərinin interfeysinə çox bənzəyir. Pəncərənin yuxarı hissəsində menyu
+zolağı [menu bar] və alətlər zolağı [toolbar] yerləşir. Sağda tapşırıqlar paneli
+[task pane] açılır.  
+Başlıq zolağı Menyu zolağı Alətlər zolağı Tapşırıqlar paneli 
+20
+2. VERİLƏNLƏR BAZASI 21
+Verilənlər bazası mühitində işləmək üçün bütün komandalar, başqa proqram
+mühitlərində olduğu kimi, menyu sistemində toplanıb. Daha çox istifadə olunan
+menyu komandaları həm də düymələr şəklində alətlər zolağında yerləşdirilib. Ve -
+ri lən lər bazasının müxtəlif obyektləri ilə iş zamanı alətlər zolağında, məhz həmin
+re jim üçün  gərəkli olan düymələr əks olunur. 
+Başqa proqram mühitlərində proqramın başladılması ilə eyni zamanda yeni
+sə nə din pəncərəsi də açılır, ancaq MS Access mühitində yeni verilənlər bazası
+yaratmaq üçün Getting Started panelində Create a new file sətrini seçmək
+lazımdır. Tap şı rıqlar panelində New File paneli açılacaq. Oradan Blank data-
+base bəndini seçmək lazımdır. Bu komandanın yerinə yetirilməsi nəticəsində
+pəncərə açılacaq ki, orada yeni verilənlər bazasının adını daxil etmək və saxlan-
+cağı qovluğu seçmək lazım gə ləcək. Yalnız bundan sonra verilənlər bazasının baş
+pəncərəsi açılacaq (bax şəkil 2.2). 
+Verilənlər bazası ilə iş cədvəllərin yaradılmasıyla başlayır. Cədvəlin yaradıl-
+ması iki mərhələdə aparılır:
+• cədvəlin strukturunun yaradılması;
+• cədvəlin verilənlərlə doldurulması.
+Cədvəlin strukturu konstruktor rejimində yaradılır. Konstruktor rejimində
+cəd vəlin strukturunun blankı açılır (bax şəkil 2.3).
+Cədvəlin strukturunun yaradılması üçün
+1. Sahələrin adlarını Field Name sütununa daxil etmək;
+2. Data Type sütunda siyahıdan sahələrdəki verilənlərin tipini
+seç mək;
+3. Açar sahəni qeyd etmək;
+4. Sahələrin əlavə xassələrini General vərəqəsində göstərmək la -
+zımdır.
+MS Access sistemində verilənlərin aşağıdakı tiplərini təyin etmək olar: Mətn,
+Memo, Ədəd, Tarix/ Zaman, Pul, Sayğac, Məntiqi, OLE obyekti, Hiperistinad. 
+Cədvəlin strukturunun yaradılması kimi, onu nəzərdən keçirmək və dəyiş -
+dirmək üçün də konstruktor rejimindən istifadə edilir. Cədvəli verilənlərlə
+doldurmaq üçün isə cədvəl rejiminə keçmək lazımdır.
+1. Verilənlər bazasının idarəolunması sistemi nədir?
+2. MS Access mühitinin baş pəncərəsinin əsas elementlərini sadalayın.
+3. MS Access mühitində verilənlər bazası cədvəlinin yaradılması mərhələləri hansıdır?
+4. MS Access sistemində verilənlər hansı tiplərə aid ola bilər?
+22
+PRAKTİKUM. 
+VERİLƏNLƏR BAZASI STRUKTURUNUN YARADILMASI
+• Yeni verilənlər bazasını necə yaratmalı
+• Sahənin  ölçüsünü necə dəyişdirməli
+• Başlıca açar nədir və bu, nəyə lazımdır
+Hər biriniz coğrafi atlasdan istifadə
+etmisiniz. Orada əsas coğrafi ob yekt -
+lər – qitələr, ölkələr, şəhərlər, okean lar,
+dənizlər, çaylar və s. haq qın da infor-
+masiya xəritələr vasitəsilə təq dim
+olunur. Bəzən isə xəritələrlə yanaşı, hər bir ölkənin bayrağı, sahəsi, əhalisi, pul
+vahidi və s. haqqında əlavə informasiyalar da yerləşdirilir.
+Atlasda informasiyanın axtarışı çox vaxt aparır. Axtardığınız şəhərin hansı
+ölkədə, hansı qitədə yerləşdiyini bilmirsinizsə, həmin şəhəri xəritədə tapmaq
+müş külə çevrilə bilər. Şəhərin yeri haqqında nə qədər çox informasiyanız olarsa,
+onu daha tez tapa bilərsiniz. Ən sürətli axtarış yolu isə obyektin coğrafi enliyi və
+uzunluğuna görə axtarılmasıdır.
+Coğrafi obyektlər haqqında informasiyanı təqdim etməyin daha səmərəli üsu -
+lu isə verilənlər bazasından istifadə etməkdir. Belə bir verilənlər bazasını ya rat -
+ma ğa çalışaq.
+Map [Xəritə] adlandıracağımız bu verilənlər bazası üç cədvəldən ibarət ola-
+caq: Qitələr, Ölkələr, Yaşayış məntəqələri. Bu cədvəllərin hər birinin struktu-
+runu təsvir edək.
+2.3.
+Sahə 
+Açar sahə 
+Başlıca açar
+S Ö Z L Ü K
+Qitələr cədvəlinin strukturu
+Ölkələr cədvəlinin strukturu
+Yaşayış məntəqələri cədvəlinin strukturu
+Hər bir sahənin mənası adından aydın olur. Hər cədvəldə Sayğac
+[AutoNumber] tipli sahə verilmiş və o, açar sahə kimi qeyd olunmuşdur. 
+Başlıca açar [primary key] hər hansı cədvəldə xüsusi sahədir.
+Praktiki olaraq hər bir cədvəlin başlıca açarı olmalıdır, çünki cəd-
+vəldəki yazılar avtomatik olaraq başlıca açara görə sıralanır. Bunun
+da sayəsində cədvəldə verilənlər həmişə nizamlanmış olur. 
+Qitələr və Ölkələr cədvəllərində qitənin adını və ölkənin adını da açar sahə
+kimi elan etmək olardı. Lakin proqram mühitində ədəd tipli sahələrlə işləmək daha
+“asandır”. Yaşayış məntəqələri cədvəlində isə açar olaraq iki sahəni –
+CoğrafiEnlik və CoğrafiUzunluq sahələrini birgə götürmək olardı. Lakin açar kimi
+Sayğac tipli sahədən istifadə etmək daha məqsədəuyğundur, çünki sadə açarla
+işləmək,  iki ədəddən ibarət mürəkkəb açarla işləməkdən daha rahatdır.
+Açar sahə Sahənin adı Verilənlərin tipi
+# MəntəqəninKodu
+MəntəqəninAdı
+CoğrafiEnlik
+CoğrafiUzunluq
+MəntəqəninTipi (şə hər, kənd...)
+Əhalisi
+Sayğac
+Mətn
+Ədəd
+Ədəd
+Mətn
+Ədəd
+Açar sahə Sahənin adı Verilənlərin tipi
+# ÖlkəninKodu
+ÖlkəninAdı
+DövlətQuruluşu
+PulVahidi
+ÖlkəninSahəsi
+İnternetÜnvanı
+Sayğac
+Mətn
+Mətn
+Mətn
+Ədəd
+Hiperistinad
+Açar sahə Sahənin adı Verilənlərin tipi
+# QitəninKodu
+QitəninAdı
+QitəninSahəsi
+Sayğac
+Mətn
+Ədəd
+2. VERİLƏNLƏR BAZASI 23
+Proqram mühitində verilənlər bazası yaradarkən qısaldılmış adlardan istifadə
+etmək (məsələn, MəntəqəninTipi əvəzinə TipMənt) olar.
+Cədvəlləri doldurmaq üçün verilənləri coğrafi atlaslardan, yaxud İnternetdən
+götürə bilərsiniz. 
+1. Access 2003 proqramını başladın.
+2. FileNew menyu komandasını seçin.
+3. Pəncərənin sağ hissəsindəki New File tapşırıqlar panelində Blank data-
+base... bəndini seçin. 
+4. Açılan dialoq boksunda yeni yaradılan verilənlər bazasının saxlanacağı
+qovluğu seçin və verilənlər bazasının adını (Map.mdb) daxil edin. Başqa
+MS Office proqramlarından fərqli olaraq Access yeni yaradılan sənədə
+başlanğıcda ad verib saxlamağı təklif edir.
+5. Create düyməsini çıqqıldadın. Verilənlər bazasının baş pəncərəsi açılacaq
+(şəkil 2.2).
+Şəkil 2.2. Verilənlər bazasının baş pəncərəsi
+ÇALIŞMA 1. Yeni verilənlər bazası faylının yaradılması
+24
+6. Pəncərənin sol hissəsindəki düymələrlə tanış olun. Onlar verilənlər bazasının
+ob yektlərinə uyğundur: Tables [Cədvəllər], Queries [Sorğular], Forms
+[For malar], Reports [Hesabatlar]. Düymələri növbəylə çıqqıldadın və baş
+pən cərənin sağ hissəsindəki, eləcə də alətlər zolağının görünüşündəki  də-
+yişiklikləri izləyin.
+7. Pəncərəni qapadın.
+1. Map verilənlər bazası faylını tapın və onu qoşa çıqqıldadın. Verilənlər ba -
+za sının baş pəncərəsi açılacaq (bax şəkil 2.2).
+2. Map : Database pəncərəsinin sol panelində Table düyməsini çıqqıldadın.
+3. Sağ paneldə Create table in Design view bəndini seçdirin və alətlər zo -
+la ğındakı Open düyməsini çıqqıldadın. Yeni Table1 pəncərəsi açılacaq
+(şəkil 2.3).
+Şəkil 2.3. Cədvəlin strukturunun blankı
+4. Blankın yuxarı hissəsində Field Name sütununda sahənin adını (QitəninKodu)
+daxil edin. Qonşu Data Type sütununda AutoNumber verilən tipini seçin. 
+5. İkinci sahənin adını (QitəninAdı) daxil edin və onun tipini Text seçin.
+ÇALIŞMA 2. Qitələr cədvəlinin yaradılması
+252. VERİLƏNLƏR BAZASI
+6. Açar sahələri təyin edin:
+• QitəninKodu sahəsini çıqqıldadın.
+• EditPrimary Key menyu komandasını yerinə yetirin, yaxud alət lər zo -
+lağındakı uyğun düyməni çıqqıldadın.
+• Soldakı boz sütunda “açar” simvolunun yarandığına əmin olun. 
+7. Alətlər zolağındakı düymədən istifadə edərək açarı ləğv edib, yenidən yaradın.
+8. QitəninSahəsi sahəsini daxil edin və onun tipini Number verin.
+1. QitəninAdı sahəsini çıqqıldadın. Bu sahə aktiv olur. Sahənin adının solunda qa -
+ra üçbucaqlı yaranır. 
+2. Blankın sol aşağı hissəsindəki General vərəqəsində Field Size sətrini tapın.
+Ora da susqunluqla mətn sətrinin maksimal uzunluğu 50 simvol təyin edilmiş dir.
+3. Həmin qiyməti 15-ə dəyişin. Bu qiymət ən uzun adı olan qitə üçün (Şi ma li
+Amerika) kifayətdir.
+4. QitəninSahəsi sahəsini çıqqıldadın.
+5. General vərəqəsinin Field Size sətrində bu sahə üçün susqunluqla müəyyən
+olunmuş ədəd tipi – Long Integer göstərilmişdir. Soraq kitabçalarında sahə,
+adətən, yuvarlaqlaşdırılaraq, tam ədədlə (kvadrat kilometr, yaxud min kvadrat
+kilometrlə) göstərilir. Əslində isə sahə həqiqi ədəd olduğundan, siyahıdan
+Decimal tipini seçin.
+6. ViewDatasheet View menyu komandasını seçməklə cədvəl rejiminə keçin.
+Ekrana cədvəlin saxlanması haqqında xəbərdarlıq çıxacaq. Bu zaman cədvəlin
+adını – Qitələr göstərin.
+7. Cədvəl rejimində siz cədvəlin sütunlarının başlıqlarını və yeni yazı daxil etmək
+üçün nəzərdə tutulmuş boş sətir görəcəksiniz. Boş sətrin birinci sahəsində
+(AutoNumber) yazılıb. Bu sahənin qiyməti tam ədəd olaraq artma sırası ilə
+avtomatik daxil olunur.
+8. Qitənin adını və sahəsini daxil edin. Sətri doldurmağa başladıqda ondan aşağı-
+da yeni boş sətir yaranır.
+9. Yenidən konstruktor rejiminə qayıdın (ViewDesign View).
+ÇALIŞMA 3. Cədvəlin xassələrinin dəyişdirilməsi
+26
+10. Alətlər zolağında konstruktor rejimindən cədvəl rejiminə keçmək üçün nə zər də
+tutulmuş düy məni tapın və bir rejimdən başqasına keçin.
+11. Cədvəli qapadın. 
+1. Yeni cədvəl yaradın.
+2. Ölkələr cədvəlinin strukturuna əsasən (bax səh. 23) sahələrin adlarını daxil
+edin və onların tiplərini göstərin.
+3. Açar sahəni müəyyən edin.
+4. Sahələrin xassələrini aşağıdakı cədvələ uyğun dəyişin.
+5. Cədvələ Ölkələr adını verin və onu qapadın.
+1. Açar sahələr nəyə lazımdır?
+2. Sahələrin xassələri necə verilir?
+3. Məktəb verilənlər bazasını və onun tərkibində Şagirdlər cədvəlini yaradın. 
+Şagirdlər cədvəlinin strukturu
+Açar sahə Sahənin adı Verilənlərin tipi Sahənin ölçüsü
+# ŞagirdinKodu
+Soyadı
+Adı
+Atası
+Təvəllüdü
+Sinfi 
+Sayğac
+Mətn
+Mətn
+Mətn
+Tarix
+Ədəd
+20
+20
+20
+Integer
+Sahənin adı General vərəqəsi
+ÖlkəninAdı
+DövlətQuruluşu
+PulVahidi
+ÖlkəninSahəsi
+Sahənin ölçüsü 20
+Sahənin ölçüsü 20
+Sahənin ölçüsü 10
+Sahənin ölçüsü Decimal
+ÇALIŞMA 4. Ölkələr cədvəlinin yaradılması
+2. VERİLƏNLƏR BAZASI 27
+PRAKTİKUM.
+CƏDVƏLLƏRARASI ƏLAQƏLƏR. 
+VERİLƏNLƏRİN DAXİL EDİLMƏSİ VƏ UZAQLAŞDIRILMASI
+• Cədvəlin strukturunu necə dəyişdirməli
+• Relyasiyalı verilənlər bazası nədir
+• Cədvəllərarası əlaqələri necə qurmalı
+• Cədvələ verilənləri necə daxil etməli və necə uzaqlaşdırmalı
+Cədvəlin yaradılması texnologiyası əvvəlki cədvəllərdəki kimidir. 
+1. Map verilənlər bazası faylını ta pın
+və onu qoşa çıqqıldadın. Ve ri lən lər
+bazasının baş pəncərəsi açılacaq
+(bax şəkil 2.2).
+2. Yeni cədvəl yaradın.
+3. Yaşayış məntəqələri cədvəlinin st ruk-
+turuna əsasən (bax səh.23) sa hə lərin
+ad larını daxil edin və on la rın tipləri-
+ni gös tərin.
+4. Açar sahəni müəyyən edin.
+5. Sahələrin xassələrini aşağıdakı cəd -
+vələ uyğun göstərin.
+6. Cədvələ Yaşayış məntəqələri adını verin və onu qapadın.
+1. Ölkələr cədvəlini konstruktor rejimində açın. Bunun üçün verilənlər baza-
+sının baş pəncərəsində Ölkələr cədvəlini seçin, sonra isə alətlər zolağında
+Design düyməsini çıqqıldadın (şəkil 2.4). 
+ÇALIŞMA 2. Cədvəlin strukturunun dəyişdirilməsi
+Sahənin adı General vərəqəsi
+MəntəqəninAdı
+CoğrafiEnlik
+CoğrafiUzunluq
+MəntəqəninTipi
+Əhalisi
+Sahənin ölçüsü 20
+Sahənin ölçüsü Decimal
+Sahənin ölçüsü Decimal
+Sahənin ölçüsü 10
+Sahənin ölçüsü Decimal
+Relyasiya 
+Cədvəllərarası əlaqə
+Aparıcı cədvəl – Asılı cədvəl
+“Birin birə”
+“Birin çoxa”
+“Çoxun birə”
+“Çoxun çoxa”
+S Ö Z L Ü K
+ÇALIŞMA 1. Yaşayış məntəqələri cədvəlinin yaradılması
+2.4.
+28
+2. İnternetÜnvanı sahəsini çıqqıldadın. Bu sahə aktiv olacaq.
+3. Alətlər zolağındakı Design Rows düyməsini çıqqıldadın. Boş sətir
+yaranacaq.
+4. Field Name sütununda yeni sahənin adını (QitəninKodu) daxil edin və onun
+tipini Number göstərin. 
+5. Cədvəli qapadın və saxlayın.
+Şəkil 2.4. Verilənlər bazasının baş pəncərəsi
+Eyni qayda ilə Yaşayış məntəqələri cədvəlinə yeni sahə (ÖlkəninKodu) əlavə
+edin və onun da tipini Number göstərin.
+Adətən, verilənlər bazasında iki və daha çox cədvəl olur və bu cədvəllər
+arasında müəyyən əlaqə yaradılır. Məsələn, baxdığımız misalda Qitələr ilə
+Ölkələr, eləcə də Ölkələr ilə Yaşayış məntəqələri cədvəlləri arasında belə bir
+əlaqə mövcuddur. Belə ki, hər bir ölkə müəyyən qitədə, hər bir yaşayış məntəqəsi
+isə müəyyən ölkədə yerləşir. 
+Cədvəllər arasında müəyyən əlaqələrin olduğu verilənlər bazasına rel ya si ya -
+lı (əlaqəli) verilənlər bazası deyilir. 
+Verilənləri cədvələ daxil etdikdən sonra da cədvəlin strukturunu dəyişmək olar.
+2. VERİLƏNLƏR BAZASI 29
+“Relyasiya” termini ingilis dilindəki relation (münasibət, əlaqə) sözündən
+yaranıb. İki cədvəl bir-biri ilə əlaqələndirildikdə aşağıdakı dörd mümkün əlaqə -
+dən biri əmələ gəlir.
+• “Birin birə” [One-To-One]. Belə əlaqə zamanı birinci cədvəlin bir
+yazısı o biri cədvəlin yalnız bir yazısı ilə əlaqələnir. Bu, ən sadə
+əlaqədir və ondan az-az hallarda istifadə olunur. 
+• “Birin çoxa” [One-To-Many]. Birinci cədvəlin bir yazısı ikinci cəd-
+vəlin çoxlu yazısı ilə əlaqələnir. Məsələn, bir qitədə çoxlu sayda
+dövlət yerləşə bilər. 
+• “Çoxun birə” [Many-To-One]. Birinci cədvəlin çoxlu yazısı ikinci
+cədvəlin bir yazısı ilə əlaqələnir. 
+• “Çoxun çoxa” [Many-To-Many]. Bu halda birinci cədvəlin çoxlu yazısı
+ikinci cədvəlin çoxlu yazısı ilə əlaqələnir. Belə əlaqə növü çox dolaşıq
+olduğundan, verilənlər bazasında onu yaratmağa icazə verilmir. 
+1. ToolsRelationships menyu komandasını seçməklə Relationships pən -
+cərəsini açın. Eyni zamanda Show Table dialoq boksu da açılacaq.
+2. Ardıcıl olaraq hər bir cədvəli seçdirin və Add düyməsini çıqqıldadın.
+3. Dialoq boksunu qapadın. Relationships pəncərəsində üç kiçik düzbucaqlı
+pəncərə yaranacaq. Hər pəncərənin başlığında uyğun cədvəlin adını görə -
+cəksiniz. Açar sahələr qalın şriftlə seçdirilmişdir.
+4. Hər bir pəncərənin ölçülərini elə dəyişin ki, cədvəlin adı və bütün sahələri
+tam görünsün.
+5. Cədvəlləri nümunəyə uyğun yerləşdirin (şəkil 2.5).
+6. Cədvəllər arasında əlaqə yaratmaq üçün göstəricini Qitələr cədvəlinin Qi -
+tə ninKodu açar sahəsinin üzərinə aparın, siçanın düyməsini basın və onu
+Ölkələr cədvəlinin QitəninKodu sahəsinə doğru hərəkət etdirin. Sahənin
+üzərinə çatdıqda siçanın düyməsini buraxın. Hər şeyi düzgün etdinizsə,
+Edit Relation ships pəncərəsi açılacaq (şəkil 2.6). Bu pəncərədə əlaqəli
+cədvəllərin və əlaqələndirilən sahələrin ad ları verilib. Solda aparıcı cədvəl,
+sağda isə asılı cədvəl göstərilir. Pəncərənin aşa ğı hissəsində cədvəllərarası
+əlaqənin (münasibətin) tipi verilib (“One-To-Many” – “Birin çoxa”).
+ÇALIŞMA 3. Cədvəllər arasında əlaqələrin yaradılması
+30
+Şəkil 2.5. Relationships pəncərəsi
+Şəkil 2.6. Edit Relationships pəncərəsi
+7. Cascade Update Related Fields və Cascade Delete Related Re cords
+yoxlama bokslarını qeyd edin. 
+8. Eyni qayda ilə Ölkələr və Yaşayış məntəqələri cədvəlləri arasında əlaqə
+qurun.
+Aparıcı və asılı cədvəllərin əlaqəli sahələrinin adlarının eyni olması vacib deyil. Lakin sa -
+hələri əlaqələndirərkən çaşmamaq üçün belə sahələrə eyni adlar vermək daha yaxşıdır.
+2. VERİLƏNLƏR BAZASI 31
+1. Relationships pəncərəsini açın.
+2. Siçanın göstəricisini əlaqə xəttinin üzərinə aparın və sağ düyməsini çıqqıl-
+dadın.
+3. Açılan kontekst menyusunda Delete komandasını seçin. Çıxan bildirişə
+təsdiq cavabından sonra iki cədvəl arasındakı seçdirilmiş əlaqə “qırılacaq”.
+4. Əvvəlki çalışmada təsvir olunmuş üsuldan istifadə edərək əlaqəni yenidən
+ya ra dın.
+1. Qitələr cədvəlini açın.
+2. Qitələr haqqında məlumatları daxil edin.
+3. Hər yazının solundakı “+” işarəsinə diqqət yetirin. Bu işarə onu göstərir ki,
+cədvəlin əlaqədə olduğu cədvəl(lər) vardır.
+4. “+” işarəsini çıqqıldadın. Əlaqəli Ölkələr cədvəlinin sahələri açılacaq. Bu
+cəd vəl hələ doldurulmayıb, ona görə də siz yalnız boş yazı sətrini gö rə cək si -
+niz.
+ÇALIŞMA 5. Verilənlərin cədvəllərə daxil edilməsi
+ÇALIŞMA 4. Əlaqələrin ləğv edilməsi və bərpası
+32
+5. Bu qitəyə aid ölkələr haqqında məlumatları daxil edin. Ölkələr daxil edil -
+dik cə, hər bir yazının önündə “+” işarəsi yaranacaq ki, bu da Ölkələr cəd-
+vəli ilə əlaqəli cədvəl(lər)in olmasını bildirir.
+6. Ölkənin adının yanındakı “+” işarəsini çıqqıldadın. Əlaqəli Yaşayış mən-
+təqələri cədvəlinin sahələri açılacaq.
+7. Qitələr cədvəlini qapadın.
+8. Ölkələr cədvəlini açın. Ölkələr haqqında daxil etdiyiniz bütün verilənləri
+orada görəcəksiniz. Bundan başqa, bu cədvəlin QitəninKodu sahəsində hər
+bir ölkə üçün avtomatik olaraq uyğun qitənin kodu yazılmış olacaq. Buna
+səbəb cədvəllər arasında qurulmuş əlaqədir.
+9. Yaşayış məntəqələri cədvəlini açın. Orada daxil etdiyiniz şəhərlər haqqın-
+da bütün verilənləri görəcəksiniz. Bundan başqa, bu cədvəlin ÖlkəninKodu
+sahəsində hər bir yaşayış məntəqəsi üçün avtomatik olaraq uyğun ölkənin
+kodu yazılmış olacaq.
+Şəkil 2.7. Verilənlərin əlaqəli cədvəllərə daxil edilməsi
+Verilənləri hər bir cədvələ ayrı-ayrılıqda da daxil etmək olar. Bu zaman aşağıdakı qaydaya
+əməl etmək lazımdır. Əvvəlcə, verilənlər aparıcı cədvələ, sonra isə asılı cədvələ daxil
+edilməlidir. Lakin verilənləri ayrıca cədvələ daxil etdikdə əlaqəli sahəyə (Ölkə nin Ko du,
+yaxud QitəninKodu) “əl ilə” yazmaq lazım gələcək. Bu isə o qədər də əlverişli de yil, çünki
+səhv etmək ehtimalı var.
+2. VERİLƏNLƏR BAZASI 33
+Hər hansı yazını cədvəldən uzaqlaşdırmaq üçün öncə həmin yazı seçdirilmə-
+lidir. Yazını seçdirmək üçün hər bir sətrin sol küncündəki yazı seçicisini çıq -
+qıldadın. Birdəfəyə bir neçə yazını seçdirməkdən ötrü <Shift> klavişindən isti-
+fadə edin, yəni seçdirmək istədiyiniz növbəti yazının yazı seçicisini çıqqıldat-
+mazdan öncə <Shift> klavişini basıb saxlayın.
+Yazı(lar) seçdirildikdən sonra verilənləri silmək (uzaqlaşdırmaq) üçün
+<Delete> klavişini basın. Access seçilmiş yazıların uzaqlaşdırılacağı haqqında
+xəbərdarlıq edəcək. 
+Yadda saxlayın ki, uzaqlaşdırdığınız yazıları Undo ko man dası vasitəsilə geri
+qaytara bilməzsiniz!
+1. Cədvəllərarası əlaqələr necə qurulur?
+2. Aparıcı və asılı cədvəllər olarsa, verilənləri necə daxil etmək olar?
+3. Yazını cədvəldən uzaqlaşdırmaq üçün hansı addımlar atılmalıdır?
+4. Sinif jurnalına uyğun olaraq sinfinizdəki ilk 5 şagird haqqında məlumatı Şa gird -
+lər cədvəlinə daxil edin.
+VERİLƏNLƏRİN ƏKS ETDİRILMƏSİ. 
+FORMALAR
+• Verilənlər bazasının təqdimolunma rejimləri hansılardır
+• Forma nədir
+• Nəyə görə verilənlərin daxil edilməsi zamanı formalardan istifadə olunur
+Verilənlər bazasının cədvəlləri yaradıl -
+dıqdan və onlar arasında əlaqələr qu -
+rul duqdan sonra, verilənləri idarə et -
+mək üçün müxtəlif obyektlər işlənib
+ha zırlanır: 
+• verilənlərə baxmaq, onları daxil etmək və dəyişdirmək üçün ekran for ma ları;
+• qoyulmuş məsələyə uyğun olaraq verilənləri çeşidləmək, axtarmaq və
+seç mək üçün sorğular;
+• verilənləri çapa vermək üçün hesabatlar.
+Verilənlər bazası iki rejimdə təqdim oluna bilər: cədvəl və forma şəklində.
+Forma 
+Cədvəl rejimi
+Forma rejimi 
+S Ö Z L Ü K
+2.5.
+ÇALIŞMA 6. Yazıların cədvəldən uzaqlaşdırılması
+34
+Cədvəl rejimi. Bu rejimlə artıq tanışsınız. Elektron cədvəli xatır la dan bu
+rejimdə verilənlər bazasında olan informasiya ekrana sətirlər və sütunlar şəklində
+çıxarılır. Bu halda bü tün yazılar eyni anda gözünüzün qabağında olur ki, bu da
+onların redaktəsini asan laşdırır. 
+Şəkil 2.8. Verilənlər bazası cədvəl rejimində
+Forma rejimi. Əgər yaratdığınız verilənlər bazasından yalnız özünüz istifadə
+edəcəksinizsə, çox güman ki, birbaşa cədvəllərlə işləmək sizin üçün daha rahat-
+dır. Yox, əgər sizin yaratdığınız verilənlər bazası ilə onun haqqında az biliyi olan
+başqa şəxslər işləyəcəklərsə, onlar üçün birbaşa cədvəllər üzərində əməliyyat
+aparmaq çətin ola bilər. Bu problemi həll etmək üçün verilənlər bazasının
+idarəolun ması sistemlərində formalar nəzərdə tutulmuşdur.
+Baza cədvəllərinə yazıları daxil etmək, redaktə etmək və baxmaq üçün for-
+malardan istifadə olunur. Adətən, verilənlərin daxil edilməsi ilə xüsusi ayrılmış
+işçilər məşğul olduqda formalar tətbiq edilir. 
+Forma – elektron blankdır. Bu blankın sahələri verilənlər bazasındakı yazı la -
+rın elementlərinə uyğun olur. Bu sahələrə yazılmış verilənlər avtomatik olaraq
+baza cədvəllərinə daxil edilir. 
+Şəkil 2.9. Verilənlər bazası forma rejimində
+2. VERİLƏNLƏR BAZASI 35
+Forma rejimində siz gözünüz önündə hər dəfə yalnız bir yazını görürsünüz.
+Bununla belə, forma pəncərəsinin aşağı hissəsində bir yazıdan başqasına keçmək
+üçün düymələr zolağı yerləşir.
+Formalardan istifadə bir neçə səbəbdən əlverişlidir:
+1. Verilənlərin daxil edilməsi ilə məşğul olan işçi heyətinin baza
+cədvəllərinə birbaşa müraciəti arzuedilən deyil.
+2. Eyni bir cədvələ verilənlərin bir neçə formadan daxil edilməsi
+işçilər arasında sə lahiyyətlərin bölüşdürülməsinə və bununla da
+verilənlərin qorunmasına imkan verir.
+3. Böyük həcmli informasiyanın daxil edilməsi həddindən artıq yo -
+rucu işdir. Yorulmuş insan isə daha tez səhv edir. Formalardan
+istifadə olunması verilənlərin daxil edilməsini asanlaşdırır, səhv
+ehtimalını azaldır və daxiledilmə prosesində verilənlərin
+yoxlanılmasını təmin edir. 
+4. Bazaya daxil ediləcək verilənlər çox zaman kağız blanklarda
+yer ləşir. Əgər elektron formanın xarici görünüşü kağız blankın-
+dakı orijinal formaya bənzəyərsə, daxiletmə zamanı xətaların
+sayı bir neçə dəfə azalır.    
+Verilənlər bazasını başqalarının dəyişdirməsindən qorumaq üçün xüsusi vasi -
+tələr nəzərdə tutulmuşdur. Məsələn, elə parol təyin etmək olar ki, bu, istifadəçiyə
+yalnız veri lənlərə baxmağa icazə versin. Başqa parol verilənlərə baxmaqla
+yanaşı, həm də onları dəyişdirmək və yeni verilənlər daxil etmək səlahiyyəti verə
+bilər. Yüksək sə viyyəli parol isə, hətta, verilənlərin strukturunu dəyiş dirmək
+imkanı da verə bilər.
+1. Verilənlərin idarə olunması üçün verilənlər bazasında hansı obyekt lər dən isti-
+fadə olunur?
+2. Formalardan istifadə hansı səbəblərdən əlverişlidir?
+3. Verilənlər bazasını arzuolunmaz dəyişikliklərdən qorumaq üçün hansı vasi tə -
+lərdən istifadə olunur?
+36
+PRAKTİKUM. 
+FORMALARIN YARADILMASI VƏ VERİLƏNLƏRİN 
+FORMAYA DAXİL EDİLMƏSİ
+• Sadə formaları necə yaratmalı
+• Formanı necə redaktə etməli
+• Verilənlər cədvələ forma vasitəsilə necə daxil edilir
+Access proqramında başqa obyektlər kimi formaları da sehrbazın köməyilə,
+yaxud “əl ilə” (konstruktor rejimində)
+yaratmaq olar. Formanı ilkin olaraq
+sehrbaz vasitəsilə yaratmaq, sonra isə,
+lazım gələrsə, konstruktor rejimində  redaktə etmək məsləhət görülür.
+1. Map verilənlər bazası faylını qoşa çıqqıldadın. Verilənlər bazasının baş
+pən cə rəsi açılacaq (bax şəkil 2.2).    
+2. Obyektlər panelində Forms ob yek t ini seçin (şəkil 2.10).  
+Şəkil 2.10. Forms pəncərəsi
+3. Formanın sehrbaz vasitəsilə ya ra dılması (Create form by using wi zard)
+rejimini başladın. Form Wizardın birinci səhifəsi açılacaq  (şəkil 2.11).
+ÇALIŞMA 1. Qitələr cədvəli üçün formanın yaradılması
+Forma
+Formanın növləri
+S Ö Z L Ü K
+2.6.
+2. VERİLƏNLƏR BAZASI 37
+Şəkil 2.11. Form Wizard pəncərəsi
+4. Sehrbazın təklif etdiyi aşağıdakı addımları atmaqla formanı yaradın.
+Addım 1. Forma üçün sahələrin cədvəldən seçilməsi:
+1) Tables/Queries siyahısından Qitələr cədvəlini seçin;
+2) >> düyməsini çıqqıldatmaqla Available Fields siyahısından
+bütün sahələri Selected Fields siyahısına keçirin;
+Hər hansı sahənin formada əks olunmasını istəmirsinizsə, < düy -
+məsindən istifadə etməklə həmin sahəni Selected Fields
+siyahısından uzaqlaşdırın.  
+3) Next düyməsini çıqqıldadın.
+Form Wizardın ikinci səhifəsi açılacaq (şəkil 2.12). Burada siz
+yeni formada sahələrin necə yerləşməsini seçəcəksiniz. Sə hi fə -
+nin sağ tərəfindəki variantları seçdikcə sol hissədəki qabaqca -
+dan baxış sahəsində formanın necə görünəcəyi əks olunacaq.
+38
+Addım 2. Formanın növünün seçilməsi:
+1) Ən rahat forma növü olan Columnar (“sütunşəkilli”) növü -
+nü se çin;
+2) Next düyməsini çıqqıldadın.
+Şəkil 2.12. Formanın növünün seçilməsi
+Sehrbazın üçüncü səhifəsi açılacaq (şəkil 2.13). Bu səhifədə
+tərtibat üslubu seçilir. Seçilmiş varianta uyğun olaraq səhifənin
+sol hissəsində həmin üslubda formanın necə görünəcəyinə baxa
+bilərsiniz.
+Addım 3. Tərtibat üslubunun seçilməsi:
+1) Adların (variantların) üzərində gəzişməklə təqdim olunan üs -
+lub lara baxın;
+2. VERİLƏNLƏR BAZASI 39
+2) Xoşunuza gələn üslubu seçin;
+3) Next düyməsini çıqqıldadın.
+Şəkil 2.13. Tərtibat üslubunun seçilməsi
+Addım 4. Formaya ad verilməsi:
+1) Qitələr adını daxil edin;
+2) Open the form to view or enter information variantını se çin.
+3) Finish düyməsini çıqqıldatmaqla sehrbazla işi başa çatdırın.
+Yeni Qitələr forması açılacaq (bax şəkil 2.9) və orada Qitələr cədvəlinin
+birin ci yazısı əks olunacaq.
+5. Aşağıdakı keçid düymələrindən istifadə etməklə, mövcud yazılara baxın:
+– Növbəti yazıya keçid;
+– Sonuncu yazıya keçid;
+– Əvvəlki yazıya keçid;
+– Birinci yazıya keçid;
+– Yeni yazıya keçid.
+40
+6. Formada hansı sahələrin dəyişilməyən, hansı sahələrin isə verilənlərin da -
+xil edil mə si üçün nəzərdə tutulduğunu müəyyən edin.
+7. Qitələr haqqında məlumatları formadan daxil edin.
+1. Qitələr formasını açın.
+2. Konstruktor rejiminə keçin (ViewDesign View menyu komandası). For -
+manın blankı pəncərəsi açılacaq. Eyni zamanda Access-in baş pəncərəsində
+formatlama alətləri zolağı yaranacaq. 
+3. Formanın ölçülərini dəyişdirin. Bunun üçün siçanın göstəricisini formanın
+sağ  sərhədinin üzərinə aparın və onu aşağı dartın. Formanın ölçüsü böyü -
+yəcək.
+4. Formanın Form Header, Detail  və Form Footer bölümlərinin başlıq la -
+rı nı tapın. Obyektlərin hamısı Detail bölümündə yerləşmişdir. Başqa
+bölümlə rin ölçüləri isə sıfıra bərabərdir.
+5. Bölümlərin ölçülərini dəyişdirin. Bununçün siçanın göstəricisini bölümün
+sərhədinin üzərinə aparın və onu aşağı dartın. Bölümün ölçüsü böyüyəcək.
+6. Formanın obyektlərini – yarlıqları və mətn bokslarını tapın. Cədvəlin hər
+sahəsi üçün blankda iki obyekt görəcəksiniz. Bunlar “yarlıq” (Label) və
+“mətn boksu”dur (Text Box). “Mətn boksu” obyekti konstruktor
+pəncərəsində ağ düzbucaqlı kimi göstərilir. Formaya baxış zamanı mətn
+boksunda cədvəlin verilənləri əks olunur. “Yarlıq” obyekti isə şəffaf düzbu-
+caqlı şəklində olur. Bir yazıdan başqasına keçərkən yarlığın mətni də-
+yişmir, o, formanın dəyişilməyən hissəsidir. Ancaq konstruktor rejimində
+yarlıqda olan mətni dəyişmək olar, mətn boksunda olan mətni isə dəyişmək
+olmaz, çünki orada sahənin adı gös tərilib. Formada başqa obyektlər –
+siyahılar, düymələr, yoxlama boksları və s. yerləşə bilər. 
+7. “Yarlıq” obyektini çıqqıldadın. Bu zaman uyğun “mətn boksu” da qeyd
+olu nacaq. Eləcə də, “mətn boksu”nu çıqqıldatdıqda uyğun “yarlıq” qeyd
+edilmiş olacaq.
+ÇALIŞMA 2. Formanın redaktə olunması
+2. VERİLƏNLƏR BAZASI 41
+8. QitəninKodu yarlığında sözləri bir-birindən aralayın və onun şriftini qalın edin.
+9. Oxşar əməliyyatı o biri yarlıqlar üzərində də aparın.  
+Bu tapşırığın yerinə yetirilmə texnologiyası Çalışma 1-də ki kimidir.
+Bu tapşırığın yerinə yetirilmə texnologiyası Çalışma 1-də ki kimidir.
+Verilənlərin formaya daxil edilməsi onların Datasheet view rejimində (cəd-
+vəl rejimində) cədvələ daxil edilməsinə çox bənzəyir. Siz daxiletmə nöqtəsini
+müəyyən etmək üçün eyni ilə <Tab> və ox klavişlərindən istifadə edə bilərsiniz.
+Bundan başqa, formanın aşağısındakı naviqasiya düymələri də eynidir. Yeni yazı
+əlavə etmək üçün cədvəlin sonundakı boş yazıya keçmək, yaxud New Record
+düyməsini çıqqıldatmaq lazımdır. Mövcud yazını redaktə etmək üçün, həmin
+yazını ekrana çıxarmaq və dəyişiklikləri formanın sahəsində aparmaq lazımdır.
+1. Ölkələr formasını açın.
+2. Formanın aşağı hissəsindəki New Record düyməsini çıqqıldadın.
+Yeni yazının daxil edilməsi blankı açılacaq.
+3. Daxiletmə nöqtəsini ÖlkəninAdı sahəsinə keçirmək üçün <Tab> klavişini
+basın. Verilənlər daxil olmağa başlananda Access proqramı ID nömrəsini
+(Ölkə ninKodu) təyin edəcək. 
+4. Klaviaturada Azərbaycan yığın. Formanın yuxarısında solda görünən qə -
+ləm simgəsi sizin verilənləri daxil etdiyinizi bildirir. 
+5. <Tab> klavişini basın və manat yazın.
+6. <Tab> klavişini basın və açağıdakı məlumatları formaya daxil edin:
+ÖlkəninSahəsi 86600
+QitəninKodu 2
+İnternetÜnvanı www.azerbaijan.az
+7. <Enter> (yaxud <Tab>) klavişini basın. Yeni yazını daxil etmək üçün blank
+açılacaq.
+ÇALIŞMA 5. Verilənlərin Ölkələr formasına daxil edilməsi
+ÇALIŞMA 4. Yaşayış məntəqələri cədvəli üçün forma
+ÇALIŞMA 3. Ölkələr cədvəli üçün forma
+42
+8. Eyni qayda ilə Asiya qitəsində yerləşən bir neçə ölkə haqqında məlumatı
+da xil edin.
+9. Formanın aşağı hissəsində cari yazının nömrəsini göstərən Record Num -
+ber bok sunda 3 yazın və <Enter> klavişini basın. Üçüncü yazıda olan ver-
+ilənlər gö rü nə cək. 
+10. Əgər hər hansı sahə doldurulmamışsa, yaxud yanlışlıq varsa, həmin sa -
+həni doldurun (redaktə edin).
+11. File menyusunu açın və Close komandasını seçin. Forma qapanacaq.
+12. Obyektlər panelində Tables obyektini seçin və Ölkələr cədvəlini açmaq
+üçün onu qoşa çıqqıldadın.
+13. Formadan yeni daxil etdiyiniz yazıların cədvələ əlavə olunduğunu gö rə -
+cəksiniz. 
+14. İşin sonunda cədvəli, sonra isə Access proqramını qapadın.  
+Şagirdlər cədvəlinə uyğun forma yaradın. Naviqasiya düymələrindən istifadə et -
+məklə möv cud yazılar arasında gəzişin. Sinfinizdəki digər şagirdlər haqqında mə -
+lumatları daxil edin.
+VERİLƏNLƏRİN SÜRƏTLİ AXTARIŞI. 
+ARAMA, ÇEŞİDLƏMƏ, SÜZMƏ 
+• Cədvəllərdə verilənləri necə axtarmalı
+• Çeşidləmə nədir
+• Yazıların qruplaşdırılması nə deməkdir
+• Süzgəc nədir və onun hansı növləri var
+Verilənlər bazasının informasi ya la rın saxlanılması üçün nəzərdə tutulduğunu
+bilirsiniz. Soruşula bilər: axı, adi kartoteka da bu məqsədə xidmət edir, əlavə zəh-
+mət  və xərc çəkib verilənlər bazası yaratmağa nə lüzum var? Buna haqq qa -
+zandırmaq üçün verilənlər bazasının idarəolunması sistemi elə üstünlüklərə malik
+olmalıdır ki, adi kartotekada həmin 
+imkanlar olmasın. Məsələn, lazım olan
+məlumatı tapmaq üçün çox böyük
+miqdarda informasiyanı ani olaraq
+“gözdən keçirsin”. 
+Doğrudan da, verilənlər bazasının
+əsas üstünlüyü çox böyük həcmdə informasiyanı saxlamaqda deyil, məhz, lazım
+Arama
+Çeşidləmə
+Süzmə
+Süzgəc
+S Ö Z L Ü K
+2.7.
+2. VERİLƏNLƏR BAZASI 43
+olan məlumatları ani olaraq tapmaqda, onları emal etməkdədir. Bu məqsədlə,
+Access-də bir neçə komanda nəzərdə tutulub: Arama [Find], Çeşidləmə [Sort],
+Süzmə [Filter]. İndi onların hər biri ilə yaxından tanış olaq.  
+Arama [find] aləti verilənlər bazasında istifadəçinin göstərdiyi nümunəyə
+uyğun gələn məlumatları tapmağa imkan verir. Məsələn, tutaq ki, nömrəsini
+bilmədiyiniz, yalnız rənginin sarı  olduğunu bildiyiniz avtomobili tapmaq lazım -
+dır. Bunun üçün EditFind menyu komandası vasitəsilə açılan dialoq boksunda
+(bax şəkil 2.14) axtarış üçün nümunə daxil edilir. Axtarışın nəticəsində alınan
+cədvəldə yalnız rəngi sarı olan avtomobillər qalacaq. Find komandası həm cəd-
+vəl, həm də forma rejimində işləyir.
+Adətən, verilənlər bazasında yüzlərlə, minlərlə yazı olur. Çox zaman onları
+nizamlamağa, yəni müəyyən ardıcıllıqla düzməyə ehtiyac yaranır. Verilənlər
+bazasında yazıların nizamlanmasına çeşidləmə deyilir. 
+Çeşidləmə [sort], verilənlərin hər hansı əlamətlərə görə nizamlanmasıdır. Bu,
+verilənlərə tez və səmərəli baxmağa imkan verir. İki növ çeşidləmə mövcuddur:
+artma sırasıyla çeşidləmə və azalma sırasıyla çeşidləmə. Ədədi sahələr üçün artma,
+yaxud azalma qiymətə görə, mətn sahələri üçün isə əlifbaya görə sıralamadır.
+Əgər sahədə təkrarlanan qiymətlər varsa, çeşid ləmə zamanı
+yazılar eyni qiymətlərə görə qrup lara bölünür. Məsələn,
+Cins sahəsinə görə çe şidləmə aparılarsa, onda bütün yazılar
+iki bö yük qrupa – kişilər və qadınlar qrupuna ayrılacaq.
+Belə növ çeşidləməyə yazıların qruplaş dırıl ması deyilir. 
+MS Access sistemində çeşidləməni yalnız bir sahəyə
+görə aparmaq olar. Hər bir yeni çe şidləmə əvvəlkinin
+nəticəsini ləğv edir. Lakin bəzən yazıları eyni zamanda bir neçə sahəyə görə
+çeşidləmək lazım gəlir. Buna o zaman ehtiyac yaranır ki, bəzi sahələrdə eyni
+qiymətlər olur. Məsələn, respublika üzrə Şagirdlər cədvəlində hər hansı məktəb-
+dən olan bir şagirdi tapmaq üçün öncə şagirdləri məktəblər üzrə qruplaşdırmaq
+və sonra hər bir qrupu əlifba üzrə sıralamaq lazımdır. Bu halda genişlənmiş
+süzgəc, yaxud sorğu alətindən istifadə edilməlidir.
+Cədvəldə verilənlərin çeşidlənməsi hər hansı sahəyə görə aparılır. 
+MS Access sistemində çeşidləməni yalnız bir sahəyə görə aparmaq olar.
+Find, Sort və Filter komandalarının köməyilə sadə suallara cavab al maq olur. Mürəkkəb
+suallara cavab almaq üçün, verilənlər basasının idarəolunması sistemlərində başqa
+vasitədən – sorğulardan istifadə olunur.
+44
+Verilənlər bazasının idarə olunması cürbəcür axtarış və seçim meyarları ilə
+sıx bağlıdır. İstifadəçinin tələbatını ödəyən verilənlərin bazadan seçilməsi süzgəc
+vasitəsilə həyata keçirilir.  
+Süzgəc [filter], yazıların axtarışı və seçilməsi üçün istifadə olunan şərtdir.
+Süzmə (süzgəcdən keçirmə), konkret halda gərəksiz informasiyaları atmaqla
+obyektlərə müxtəlif yönlərdən baxmağa imkan verir. Adından da göründüyü
+kimi, süzgəc tələblərə cavab verən yazıları “buraxır”, qalan yazıları isə “tutub
+saxlayır” (gizlədir). MS Access bir neçə növ süzgəc təklif edir:
+• “Formaya görə” süzgəc [Filter By Form]
+• “Seçilmişə görə” süzgəc [Filter By Selection]
+• “Seçilmişin inkarı” süzgəci [Filter Excluding Selection]
+• Genişləndirilmiş süzgəc [Advanced Filter]
+“Seçilmişə görə” süzgəc, verilənlər bazasında seçdirilmiş fraqmentin olduğu
+yazıları ayırmağa imkan verir. 
+“Seçilmişə görə” süzgəc vasitəsilə verilənləri seçmək üçün
+1. Verilənlərin seçilməsinin aparıldığı sahənin istənilən yerində bir
+neçə simvolu, yaxud həmin sahəni bütövlükdə seçdirmək;
+2. RecordsFilterFilter By Selection menyu komandasını seç -
+mək, yaxud alətlər zolağındakı uyğun düyməni çıqqıldatmaq;
+3. Yenidən bütün yazıları əks etdirmək üçün RecordsRemove
+Fil ter/Sort komandasını yerinə yetirmək, yaxud alətlər zolağın-
+dakı Remove Filter düyməsini çıqqıldatmaq lazımdır.
+“Seçilmişin inkarı” süzgəci əks əməliyyat aparır, yəni belə yazıları nəzərə
+almır. Genişləndirilmiş süzgəc daha mürəkkəb seçim şərtləri verməyə, eləcə də
+bir neçə parametr üzrə çeşidləmə aparmağa imkan verir. Bütün növ süzgəcləri,
+istər verilənlər bazasına bütövlükdə, istərsə də müəyyən şərtlə seçilib ayrılmış
+yazılara tətbiq etmək olar.     
+1. Verilənlər bazasının idarəolunması sistemlərində verilənlərin sürətli axtarışı üçün
+han sı vasitələrdən istifadə olunur? 
+2. Cədvəldəki yazıları bir neçə sahəyə görə çeşidləmək üçün nə etmək lazımdır?
+3. Süzgəc nədir və ondan nə üçün istifadə olunur? 
+4. Access proqramında hansı növ sücgəclər var?
+Çeşidləmə, süzgəc və sorğu – verilənlərin emalının əsas alətləridir. 
+2. VERİLƏNLƏR BAZASI 45
+PRAKTIKUM. 
+VERİLƏNLƏRİN AXTARIŞI, ÇEŞİDLƏNMƏSİ 
+VƏ SÜZÜLMƏSİ
+• Verilmiş qiymətin olduğu yazını necə tapmalı
+• Verilənləri necə çeşidləməli
+• Çeşidlənmiş verilənləri əvvəlki vəziyyətinə necə qaytarmalı
+• Verilənləri süzgəc vasitəsilə necə seçməli
+1. Ölkələr cədvəlini açın.
+2. Kursoru axtarış aparacağınız sahəyə (PulVahidi) yerləşdirin. Access ax ta rı -
+şı avtomatik olaraq cari sahə, yəni kursorun olduğu sahə üzrə aparır.
+3. EditFind menyu komandasını seçin, yaxud alətlər zolağındakı uyğun
+düy məni çıqqıldadın. Find and Replace dialoq boksu açılacaq (şəkil 2.14).
+Şəkil 2.14. Find and Replace dialoq boksu
+4. Tapmaq istədiyiniz informasiyanı (məsələn, marka) Find With sahəsinə
+yazın.
+5. Find Next düyməsini çıqqıldadın. İnformasiyanın axtarışına başlanılacaq.
+Axtarış şərtini ödəyən yazı tapılarsa, kursor həmin yazıya keçəcək və
+tapılmış mətn seçdirilmiş olacaq. Uyğun yazı tapılmazsa, bu haqda bildiriş
+ekrana çıxacaq.
+ÇALIŞMA 1. Verilmiş qiymətə görə yazının tapılması
+2.8.
+46
+6. Əgər tapılan yazı sizin axtardığınız deyilsə, Find Next düyməsini yenidən
+çıqqıldadın və sizi maraqlandıran yazı tapılanadək bu prosesi davam
+etdirin.
+Verilənlərin çeşidlənməsi texnologiyası aşağıdakı kimidir:
+1. Çeşidləmək lazım olan sahəni istənilən sətirdə çıqqıldatmaq.
+2. RecordsSort menyu komandasını seçmək, yaxud alətlər zola -
+ğındakı uyğun düyməni çıqqıldatmaq.
+1. Obyektlər panelində Tables obyektini seçin və Ölkələr cədvəlini açmaq
+üçün onu qoşa çıqqıldadın.
+2. İstənilən sətirdə ÖlkəninAdı sahəsini çıqqıldadın. Alətlər zolağındakı
+Sort Ascending düyməsini çıqqıldadın. Cədvəldə olan yazılar ölkələrin
+adına görə əlifba sırası ilə düzüləcək.
+3. Records menyusunu açın və Remove Filter/Sort komandasını seçin.
+Yazılar əvvəl yerləşdikləri ardıcıllıqla düzüləcək.
+4. Gərək olarsa, sağa hərəkət edin və istənilən sətirdə ÖlkəninSahəsi sahəsini
+çıqqıldadın. Alətlər zolağındakı Sort Descending düyməsini çıqqıldadın.
+Cədvəldə olan yazılar ölkələrin sahələrinə görə azalma sırası ilə düzüləcək.
+5. İstənilən sətirdə PulVahidi sahəsini çıqqıldadın. Alətlər zolağındakı Sort
+Ascending düyməsini çıqqıldadın. İndi cədvəldəki yazılar ölkələrin pul
+vahidlərinə görə əlifba sırası ilə düzüləcək.
+6. Cədvəli qapadın. 
+Çeşidləmə nəticəsində cədvəldəki informasiyalar məntiqi olaraq yenidən
+təş kil olunsa da, iş yenə də bütün cədvəllə aparılır. Lakin bizə yalnız
+müəyyən şərti ödəyən yazılarla işləmək lazımdırsa, bunun üçün Filter
+komandasından istifadə etmək olar.
+ÇALIŞMA 2. Cədvəldə verilənlərin çeşidlənməsi
+Artma sırasıyla çeşidləmə zamanı verilənlər aşağıdakı qaydada düzülür:
+• ədədlər – ən kiçik mənfi ədəddən ən böyük müsbət ədədə doğru;
+• mətn – əlifba sırası ilə (ədədlər, işarələr, hərflər);
+• tarix və zaman – xronoloji ardıcıllıqla.  
+2. VERİLƏNLƏR BAZASI 47
+1. Map.mdb verilənlər bazasını açın.
+2. Ölkələr cədvəlini cədvəl rejimində açın (şəkil 2.15).
+Şəkil 2.15. Ölkələr cədvəli cədvəl rejimində 
+3. Süzgəc yaratmaq üçün:
+• RecordsFilterAdvanced Filter/Sort menyu komandasını se çin.
+ÖlkələrFilter1 pəncərəsi açılacaq.
+• Field sətrindəki siyahıdan süzgəcdən keçiriləsi sahənin adını (Öl kə nin Sahəsi) seçin.
+• Criteria sətrində >100000 yazın.
+• FilterApply Filter/Sort menyu komandasını seçin. Süzülmənin nəti cə -
+si ekrana çıxacaq (şəkil 2.16).
+Şəkil 2.16. Süzgəcin işinin nəticəsi
+4. Verilənlər bazasını qapadın.
+Əgər axtardığınız simvollar sətrinin necə yazıldığını bilmirsinizsə, yaxud
+əmin deyilsinizsə, axtarış meyarında məlum olmayan simvolların yerini
+bildirən əvəzedici işarələrdən istifadə etmək olar. Tez-tez istifadə olunan
+əvəzedici işarələr aşağıdakı cədvəldə göstərilib:
+1. Ölkələr cədvəlində dövlət quruluşu “respublika” olan ölkələri tapın.
+2. Ölkələr cədvəlində yazıları ölkələrin sahələrinə görə azalma sırası ilə çeşidləyin.
+3. Süzmə alətindən istifadə etməklə 1-ci tapşırığı yerinə yetirin.
+Simvol Təsviri Nümunə
+* İstənilən sayda simvola
+uyğundur.
+ÖlkəninAdı = Al* şərti həm “Alma niya”, həm də
+“Albaniya” qiymətini qaytarır.
+? İstənilən bir hərfə (əlifba sim -
+vo luna) uyğundur.
+PulVahidi = ?vro şərti “Avro” qiymətini qaytarır.
+# İstənilən bir rəqəmə uyğundur.  ID = 1## şərti 100-dən 199-dək bütün ID-ləri qay ta rır. 
+ÇALIŞMA 3. Genişləndirilmiş süzgəcə görə verilənlərin süzülməsi
+48
+SORĞULAR. HESABATLAR
+• Sorğu nədir və onun nəticəsi nə olur
+• Sorğular necə formalaşdırılır
+• Mürəkkəb sorğular necə yaradılır
+• Hesablar necə yaradılır
+Verilənlər bazasında verilənlər cədvəllərdə saxlanılır. Ancaq istifadəçilərin
+bilavasitə bu cədvəllərlə işləməsi təhlükəsizlik və etibarlılıq baxımından məs-
+ləhət görülmür. Verilənlərə müraciət,
+adətən, birbaşa deyil, aralıq obyektlər
+– sorğular, formalar və hesabatlar va -
+sitəsilə həyata keçirilir. Baza cədvəl-
+lərinin strukturu kimi, bu obyektlər də
+verilənlər bazasının layihələn dirilməsi
+mərhələsində yaradılır.   
+Sorğular. Qeyd olunduğu kimi, veri -
+lənlərə müraciət etmək üçün, adətən,
+sorğulardan [query] istifadə olunur.
+Sorğularla işləmək rahatdır, sürətlidir
+və onlar təhlükəsizlik baxımından eti -
+barlıdır.   
+Bir cədvəl üçün bir neçə sorğu for-
+malaşdırmaq olar. Hər bir sorğu cəd-
+vəldə saxlanılan informasiyanın bir
+hissəsini – yalnız ona lazım olan
+hissəsini seçib götürə bilər. Sorğu  nəticəsində ilkin verilənlər bazasının əsasında
+ye kunlaşdırıcı cədvəl yaradılır. Bu cədvəldə yalnız sorğuya uyğun verilənlər top -
+lanır.
+Sorğular xüsusi qaydalara uyğun yazılır. Bu qaydaların toplusuna sorğu dili
+[query language] deyilir. Ayrı-ayrı sistemlərin sorğu dili fərqli ola bilər, ancaq
+onların əsasında, adətən, eyni ümumi prinsiplər dayanır. Avtomobillərlə bağlı
+misa la yenidən baxaq. 
+1. Əgər bizə bütün göy rəngli avtomobilləri tapmaq lazımdırsa, onda kom-
+püterə belə bir sorğu verilməlidir:
+rəng = “göy”
+Məmmədova məxsus avtomaşını axtarmaq üçün sorğu belə olacaq:
+sahibi = “Məmmədov”
+Sorğu
+Sorğu dili
+Sadə sorğu
+Mürəkkəb sorğu
+Hesabat
+S Ö Z L Ü K
+2.9.
+2. VERİLƏNLƏR BAZASI 49
+2. Tutaq ki, bizə 2000-ci ildə buraxılmış avtomobillərin siyahısı lazımdır. Bu
+hal da sorğu     
+buraxılış ili = 2000
+şəklində veriləcək. Əgər bizi 2000-ci ilədək buraxılmış avtomobillər
+maraqlandırırsa, sorğunu belə vermək olar:
+buraxılış ili < 2000
+İkiqat bərabərsizlikdən də istifadə etmək olar. 
+1990 <= buraxılış ili <= 1999
+sorğusu 1990-cı ildən 2000-ci ilədək buraxılmış avtomobilləri tapıb çıxaracaq.
+3. Sorğuda ayrı-ayrı sahələrin qiymətlərini də müqayisə etmək olar. Əgər bizə
+buraxıldığı ildə qeydiyyatdan keçmiş avtomobillər lazımdırsa, sorğunu
+belə vermək olar:
+buraxılış ili = qeydiyyat ili
+Bəzən əslində olmayan halların da, məsələn, buraxılmamışdan öncə qey-
+diy-yatdan keçmiş avtomobillərin tapılması sorğusunu vermək olar:
+qeydiyyat ili < buraxılış ili
+Aydındır ki, belə hal olmamalıdır, ancaq bu cür sorğunun yerinə yetirilməsi
+bazaya yanlış daxil edilmiş yazıları aşkar etməyə imkan verəcək.
+4. Sorğuda hesab əməllərindən də istifadə etmək olar. Məsələn, aşağıdakı sorğu
+buraxılış ilindən 3 və daha artıq il vaxt keçəndən sonra qeydiyyata düşən avto-
+mobilləri tapmağa imkan verir:
+qeydiyyat ili – buraxılış ili > 3
+5. İndiyədək baxdığımız sorğularda axtarış aparılan sahələrin qiymətləri qa -
+baq cadan məlum idi. Ancaq çox zaman axtarılan qiymətlər dəqiq məlum
+olmur. Bu halda sorğunu örnəklər (şablonlar) vasitəsilə vermək əlverişli
+olur. Şablonlarda sahənin qiyməti dəqiq deyil, ulduz (*)  və sual işarəsinin
+(?) köməyi ilə göstərilir. Bir sual işarəsi sahənin qiymətinin uyğun yerində
+istənilən bir simvolun ola biləcəyini göstərir. Ulduz işarəsi də sahənin
+qiymətinin uyğun yerində ixtiyari simvolun ola biləcəyini göstərir, ancaq
+bu halda bir “*” işarəsinin yerində istənilən sayda simvol ola bilər.
+50
+Tutaq ki, sahiblərinin soyadı “C” hərfi ilə başlayan avtomobilləri tapmaq tə -
+ləb olunur. Bu halda sorğu 
+sahibi = “C*”
+şəklində olacaq. Əgər bizi sahibinin soyadı “Cəlilli”, yaxud “Cəmilli” olan
+avtomobillər maraqlandırırsa, sorğunu belə vermək olar:
+sahibi = “Cə?illi”
+Nömrəsində “3” rəqəmi olan maşınları tapan sorğu aşağıdakı şəkildə olacaq:
+nömrə = “*3*”
+İndiyədək qurduğumuz sorğuların hamısında axtarış yalnız bir sahəyə görə
+aparılırdı. Belə sorğulara sadə sorğular deyilir. Çox zaman axtarışı bir neçə sahə
+üzrə aparmaq lazım gəlir. Məsələn, tutaq ki, bizə bütün qara “Mersedes”lərin
+siyahısı lazımdır. Marka = “Mersedes” sorğusu bizə bütün “Mersedes”ləri tap-
+mağa imkan verəcək, ancaq onların içərisində hər cür rəngdə olanları ola bilər.
+Eynilə, rəng = “qara” sorğusu bütün qara rəngli avtomobilləri seçib ayıracaq,
+yəni seçilmiş maşınların içərisində hər markadan ola biləcək. Belə məsələləri həll
+etmək üçün mürəkkəb sorğulardan istifadə olunur. İki sadə sorğunun bir-
+ləşməsindən ibarət olan  
+marka = “Mersedes” və rəng = “qara”
+sorğusu məhz bizə lazım olan siyahını verəcək. 
+Aşağıdakı sorğu nömrəsi 3-lə başlayan və sahibinin soyadı “Vəlizadə” olan
+“BMW” markalı avtomobilləri axtarıb tapacaq: 
+marka = “BMW” və nömrə = “3*” və sahibi = “Vəlizadə”
+İndi tutaq ki, bütün qara və göy rəngli maşınları tapmaq tələb olunur.    
+rəng = “qara” və rəng = “göy”
+sorğusu uğursuz olacaq, çünki şərtdəki “və” bağlayıcısı avtomobilin rənginin
+eyni zamanda həm qara, həm də göy olmasını bildirir. Bu isə, aydındır ki, ola
+bilməz. Belə məsələni həll etmək üçün sorğu
+rəng = “qara” və ya rəng = “göy”
+şəklində verilməlidir.
+Bəzən hər hansı şərti ödəməyən yazıları tapmaq lazım gəlir. Tutaq ki, rəngi
+qırmızı olmayan avtomobilləri tapmaq lazımdır. Bunu aşağıdakı sadə sorğu ilə
+etmək mümkündür: 
+rəng <> “qırmızı”
+2. VERİLƏNLƏR BAZASI 51
+Bu sorğunu başqa cür də vermək olar: 
+deyil (rəng = “qırmızı”)
+Buradakı “deyil” sözü onu bildirir ki, ondan sonra gələn şərti ödəməyən
+yazılar seçilməlidir.
+Sonda daha mürəkkəb sorğu aparaq. Tutaq ki, axtarılan avtomobil haqqında
+məlumdur ki, o, qara və ya göy rəngli “Mersedes”, yaxud “BMW”dir. Onda
+sorğu belə olacaq:
+(marka = “Mersedes” və ya marka = “BMW”) 
+və 
+(rəng = “qara” və ya rəng = “göy”).
+Hesabatlar. Hesabatlar verilənlər bazasının obyekti olub, informasiyanın
+çıxışı üçün nəzərdə tutulub. Hesabata formanın analoqu kimi baxmaq olar, ancaq
+burada verilənlər ekrana deyil, çapa çıxarılır. Hesabatın işinin nəticəsi printer
+üçün hazırlanmış kağız sənəddir.
+Hesabatın strukturu da formanın strukturuna oxşayır. Formada olduğu kimi,
+hesabatın səhifəsində də ayrıca bir yazının, yaxud bir neçə yazının verilənləri yer-
+ləşə bilər. Bundan başqa, hesabatda tərtibat üçün zəruri olan xüsusi elementlərdən
+– kolontitullardan, təkrarlanan başlıqlardan və s. istifadə oluna bilər. 
+Hesabatlar istər birbaşa cədvəllər, istərsə də sorğular əsasında formalaşdırıla
+bilər. Kompüter hesabatlarının rahatlığı ondadır ki, onlar informasiyanı verilmiş
+əlamətlərə görə qruplaşdırmağa, sonra isə bu qruplar və ya bütün baza üzrə yekun
+hesablamalar aparmağa imkan verir. 
+Hesabatları sehrbaz vasitəsilə yaratmaq, konstruktor rejimində isə korrektə
+etmək daha əlverişlidir.
+1. Sorğu nədir?
+2. Sorğuların yazılış qaydası necədir?
+3. 1999-cu ildən sonra qeydiyyatdan keçmiş “Mersedes” və “Toyota” markalı avto-
+mobilləri  tapan sorğu necə olmalıdır?
+4. Hesabat və formanın hansı oxşar və fərqli cəhətləri var?  
+52
+PRAKTİKUM. SORĞULARIN YARADILMASI. 
+HESABATLARIN YARADILMASI VƏ REDAKTƏSİ
+• Sorğuları necə yaratmalı
+• Hesabatların yaradılması alqoritmi necədir
+• Yaradılmış hesabatı necə korrektə etməli
+Cədvəldə lazım olan verilənləri tez tapmaq üçün süzgəc, xüsusən ge niş lən di -
+rilmiş süzgəc gözəl vasitədir. Ancaq təkcə verilənlərə baxmaq deyil, eyni zaman-
+da onları hər hansı qaydada emal etmək zərurəti yarandıqda süzgəc yetərli olmur.
+Bu halda sorğular köməyə gəlir, belə ki, sorğuların bir sıra üstünlükləri vardır:
+• Sorğunu eyni zamanda bir neçə cədvələ tətbiq etmək olar.
+• Ekrana yalnız lazım olan sahələri çıxarmaq olar.
+• Sorğu nəticəsində alınan yekun cədvəldə sahələrin ardıcıllığını də -
+yişmək olar.
+• Ekrana yalnız zəruri olan sayda yazı çıxarmaq olar. 
+1. Map verilənlər bazası faylını qoşa çıqqıldadın. Verilənlər bazasının baş
+pən cərəsi açılacaq (bax şəkil 2.2).
+2. Obyektlər panelində Queries obyektini seçin (şəkil 2.17).
+Şəkil 2.17. Queries pəncərəsi
+ÇALIŞMA 1. Sorğunun yaradılması
+2.10.
+2. VERİLƏNLƏR BAZASI 53
+3. Sorğunun konstruktor rejimində yaradılması (Create query in Design
+view) rejimini başladın. Sorğu blankı və Show Table pəncərəsi açılacaq
+(şəkil 2.18).
+Şəkil 2.18. Cədvəllərin sorğu blankına artırılması
+4. Qitələr və Ölkələr cədvəllərini seçin və Add düyməsini çıqqıldadın. Hər
+iki cədvəl Select Query pəncərəsinə əlavə olunacaq. 
+5. Show Table pəncərəsini qapadın.
+6. Qoşa çıqqıldatmaqla Qitələr cədvəlində QitəninAdı sahəsini və Ölkələr
+cəd vəlində isə ÖlkəninAdı və DövlətQuruluşu sahələrini seçin. Bu sahələr
+sor ğu blankının aşağı hissəsindəki sütunlarda görünəcək.
+7. QitəninAdı və ÖlkəninAdı sahələri üçün çeşidləmə verin.
+8. DövlətQuruluşu sahəsi üçün seçim şərtini göstərin: Like “*respublika*”. 
+9. QueryRun menyu komandasını seçin, yaxud alətlər zolağındakı Run
+düyməsini çıqqıldadın. Nəticələrə baxın.
+10. ViewDesign View menyu komandasını seçməklə konstruktor rejiminə keçin.
+54
+11. Sorğu pəncərəsini qapadın. Onu Respublika adı ilə saxlayın.
+12. Verilənlər bazasının baş pəncərəsində yaradılmış sorğunun adının görün-
+məsinə əmin olun.
+13. Cədvələ sorğu şərtini ödəyən yeni verilənlər daxil edin.
+14. Qoşa çıqqıldatmaqla sorğunu yenidən başladın və nəticəyə baxın.
+15. Sorğunu qapadın. 
+1. Verilənlər bazasının baş pəncərəsinin obyektlər panelində Reports obyek-
+tini seçin.
+2. Hesabatın sehrbaz vasitəsilə yaradılması (Create report by using wi-
+zard) rejimini başladın.
+3. Birinci addımda (şəkil 2.19) Qitələr cədvəlindən QitəninAdı sahəsini, Öl -
+kə lər cədvəlindən isə ÖlkəninAdı, DövlətQuruluşu və PulVahidi sahələrini
+se çin. 
+Şəkil 2.19. Report Wizard pəncərəsi – Addım 1
+ÇALIŞMA 2. Hesabatın yaradılması
+Əgər “respublika” sözünün hər yerdə düzgün yazıldığına əmin deyil sinizsə, seçim şərtini
+qısaltmaq olar, məsələn, Like “*res*”, yaxud Like “*pub*”.
+2. VERİLƏNLƏR BAZASI 55
+Next düyməsini çıqqıldatmaqla növbəti addıma keçin (şəkil 2.20).
+Şəkil 2.20. Report Wizard pəncərəsi – Addım 2
+4. Verilənlərin təqdimolunma şəklini seçin. İlkin olaraq (susqunluqla) sizə
+qitələr üzrə qruplaşdırma şəkli təklif olunacaq. Ölkələr üzrə görünüşə də
+baxın. Münasib olan növü seçin. Növbəti addıma keçin.
+5. Burada verilənləri qruplaşdırmaq üçün əlavə səviyyə vermək olar, ancaq
+bundan istifadə etməyəcəyik. Növbəti addıma keçin (şəkil 2.21).
+Şəkil 2.21. Report Wizard pəncərəsi – Addım 4
+56
+6. Verilənlərin ölkələrin adlarına görə çeşidlənməsini göstərin. Növbəti addı-
+ma keçin (şəkil 2.22).
+Şəkil 2.22. Report Wizard pəncərəsi – Addım 5
+7. Hesabatın maketini seçin. Təklif olunan maketlər arasındakı fərqi görmək
+üçün müxtəlif maketlərlə bir neçə hesabat yaradın.
+8. Növbəti addımda (şəkil 2.23) hesabatın tərtibat üslubunu seçin.
+Şəkil 2.23. Report Wizard pəncərəsi – Addım 6
+9. Sonuncu addımda hesabata Qitələr və ölkələr üzrə hesabat adını verin və
+Finish düyməsini çıqqıldadın.     
+2. VERİLƏNLƏR BAZASI 57
+Şəkil 2.24. Hesabata baxış 
+Nəticədə alınan hesabata (şəkil 2.24) baxıb, aşağıdakı suallara cavab verin:
+• Hesabatda neçə səhifə var?
+• Hər səhifədə hansı məlumatlar təkrarlanır? 
+• Hansı məlumat yalnız birinci səhifədə verilib?
+• Verilənlər necə qruplaşdırılıb?
+• Səhifənin aşağı hissəsində hansı informasiya yerləşib?
+• Hesabatın xarici görünüşündə hansı çatışmazlıqlar var?
+Sehrbaz hesabatların yaradılması üçün səmərəli vasitə olsa da, bəzən alınmış
+hesabatın xarici görünüşü sizi qane etməyə bilər, məsələn:
+• Bütün sahələrin başlıqları tam görünməyə bilər.
+• Bütün verilənlər tam əks olunmaya bilər.
+• Sütunların başlıqları sahələrin adlarından ibarət olduğundan, on -
+lar dakı söz lər bitişik yazılıb.  
+Belə hallarda hesabatı redaktə etmək zərurəti yaranır.
+58
+Konstruktor rejimində iş texnologiyası aşağıdakı kimidir:
+1. ViewDesign View menyu komandasını yerinə yetirməklə konstruktor
+rejiminə keçin. Hesabat blankı (şəkil 2.25) açılacaq. Eyni zamanda he -
+sabatın formatlanması üçün alətlər zolağı yaranacaq.
+Şəkil 2.25. Hesabatın redaktə olunması 
+2. Hesabat blankında hesabatın bölümlərini tapın: hesabatın başlığı (Report
+He ader), səhifənin başlığı, yaxud yuxarı kolontitul (Page Header),
+qrupun başlığı (QitəninKodu Header), verilənlər bölümü (Detail),
+səhifənin sonluğu, yaxud aşağı kolontitul (Page Footer), hesabatın son-
+luğu (Report Footer).  
+3. Hesabatın obyektlərini – yarlıqları və mətn bokslarını tapın. Onların xa rici
+görünüşünü fərqləndirmək üçün müxtəlif şriftlərdən istifadə olunur. Bax -
+dığımız halda “yarlıqlar” (Label) qalın, “mətn boksları” (Text Box) isə adi
+şriftlə göstərilib. Alətlər zolağında hesabatın bütün obyektlərini açıb bax-
+maq olar. 
+4. Hesabatda avtomatik olaraq hesablanan obyektləri – “tarix” və “səhifənin
+nöm rəsi” sahələrini tapın.
+ÇALIŞMA 3. Hesabatın redaktə olunması
+2. VERİLƏNLƏR BAZASI 59
+5. Blankda qrafik obyektləri – hesabatın bölümlərini bir-birindən ayıran xət -
+ləri tapın. Onları da redaktə etmək olar.
+6. Hesabatın obyektlərinin redaktəsi formanın obyektlərinin redaktəsi kimidir.   
+Rənglərdən istifadə etməklə, hesabatı daha baxımlı etmək olar. Bunun üçün
+formatlama alətləri zolağında Fill/Back Color və Font/Fore Color düymələri
+nəzərdə tutulub. Hər iki düymə hesabatda mətnin rəngini dəyişir, ancaq onların
+nəticələri fərqli olur:
+Fill/Back Color düyməsi fonun rəngini dəyişir, mətnin
+rəngi isə dəyi şmir.
+Font/Fore Color düyməsi yarlıqda, yaxud mətn bok-
+sundakı hərflərin (mətnin) rəngini dəyişir.  
+Konstruktor rejimində hesabat üzərində işləri -
+nizin nəticəsinə baxmaq üçün Access proqramın-
+da iki re jim nə zər də tutulub:
+• Layout preview. Bu rejim seçil dikdə, Access
+heç bir hesab lama apar madan he sa batın nü mu -
+nə sini ekrana çıxaracaq. Bu da sə nə din son
+variant larının necə görünəcəyi haqqında təəs -
+sürat ya radacaq. Bu rejimə keçmək üçün Report
+View düy məsinə bitişik açılan siyahı düyməsini
+çıq qıldadın, sonra isə orada Layout preview
+bən dini seçin.
+• Print preview. Hesabata tam şəkildə, yəni bütün verilənlər
+və hesablamalar olmaqla baxmaq üçün Print preview düy -
+məsini çıqqıldadın. 
+1. Sorğularda hansı seçim şərtlərindən istifadə olunur?
+2. Hesabatların yaradılması texnologiyasının mahiyyəti nədən ibarətdir?
+3. “Tarix” və “səhifənin nömrəsi” sahələri hesabatın hansı bölümündə yerləşib?
+4. Çalışma 2-ni təkrar yerinə yetirin. Sehrbazın addımlarında başqa variantlardan
+istifadə edin.
+5. Telefon kitabçası adlı verilənlər bazası yaradın, sinif yoldaşlarınızın ev və mobil
+telefonları haqqında məlumatları ora daxil edin. Əlifba sırasına uyğun olaraq
+hesabat alın.
+60
+3
+NƏŞR MƏHSULLARININ
+YARADILMASI 
+MICROSOFT PUBLISHER PROQRAMI İLƏ TANIŞLIQ ........................................................... 62
+PRAKTİKUM. İNFORMASİYA BÜLLETENİNƏ MƏTNİN DAXİL EDİLMƏSİ ................................. 67
+PRAKTİKUM. İNFORMASİYA BUKLETİNİN VƏ Vİ ZİT KARTININ YARADILMASI ...................... 71
+PRAKTİKUM. MICROSOFT PUBLISHER PROQRAMINDA VEB-SAYTLARIN YARADILMASI ...... 76
+PRAKTİKUM. VEB-SAYT ÜZƏRİNDƏ İŞ ..................................................................................... 863.5.
+3.4.
+3.3.
+3.2.
+3.1.
+MICROSOFT PUBLISHER PROQRAMI İLƏ TANIŞLIQ 
+• Yeni nəşr məhsulunu necə yaratmalı
+• İnformasiya bülleteni nədir və bu, necə yaradılır
+• Rəng və şrift sxemini necə dəyişdirməli
+Siz artıq Microsoft Office paketinə daxil olan bir neçə proqramla –
+MS Word, MS Excel, MS PowerPoint, MS Access ilə tanışsınız. Bu
+fəsildə belə proqramlardan daha biri – Microsoft Publisher haqqın-
+da məlumat veriləcək.  Adından da gö rün düyü kimi, Publisher proq -
+ramı çap məhsullarının – bülletenlərin, bro şür lərin, elanların, sertifikatların, vizit
+kartlarının hazırlanması üçün nəzərdə tutulub (ingilis dilində “publisher” “nəşr
+edən, naşir, çap edən” anlamını verir). 
+Doğ ru dur, bu sadalanan məhsulları
+mətn prosessorlarında da yaratmaq
+olar, ancaq bu sahədə Publisher proq -
+ra mının imkanları daha genişdir. Bu
+proqram, hətta, veb-səhifələrin hazır -
+lan ması üçün də gözəl vasitədir.
+Göstərilən məhsullardan hansının yaradılmasından asılı olmayaraq, Publisher
+proq ramında işi “boş vərəqdən” başlamağa ehtiyac yoxdur. Burada hər bir çap
+məhsulu üçün çoxsaylı hazır professional maketlər təklif olunur. İşə başlamaq
+üçün, sadəcə, xoşunuza gələn maketi açmaq kifayətdir. Maketi açdıqdan sonra siz
+mətn və rəsmlər üçün nəzərdə tutulmuş yerləri doldurmalısınız. Həmçinin, rəng
+sxemini və şrift sxemini dəyişdirə, maketə yeni elementlər artıra, yaxud müəyyən
+elementləri uzaqlaşdıra və maketi tamamilə öz istəyinizə uyğunlaşdıra bilərsiniz.
+Proqram başladılan kimi ekranda Microsoft Publisher proqramının baş pəncərəsi
+açılır (şəkil 3.1).
+Publisher proqramının baş pəncərəsi və onun elementləri Word mətn proses-
+sorunu çox xatırladır. Sadəcə, tapşırıqlar paneli, Word proqramında olduğu kimi,
+sağda deyil, solda  yerləşir.  
+Proqram ilk dəfə başladıldıqda, özünüz haqqında informasiyaların daxil
+edilməsini təklif edən pəncərə açılacaq (bax şəkil 3.9). Əgər şəxsi verilənlərinizi
+daxil etsəniz, onlar sonrakı işlərdə avtomatik olaraq istifadə olunacaq. Sonradan
+bu verilənlərdə dəyişikliklər (məsələn, ünvan, telefon nömrəsi) olarsa, onları Edit
+ Personal Information komandası vasitəsilə dəyişdirmək olar.
+Tapşırıqlar panelini göstərmək, yaxud gizlətmək üçün View menyusunun Task Pane ko -
+mandasından istifadə etmək olar. Tapşırıqlar panelində tez-tez istifadə olunan komandalar
+yerləşdirilmişdir. 
+Çap məhsulları
+Bülleten 
+Rəng sxemi
+Srift sxemi
+S Ö Z L Ü K
+3.1.
+62
+3. NƏŞR MƏHSULLARININ YARADILMASI 63
+Şəkil 3.1. Microsoft Publisher proqramının baş pəncərəsi
+Publisher proqramında hazırlanan nəşr məhsullarının bütün elementləri, o
+cüm lədən mətn blokları bir-birlərindən asılı deyil. İstənilən elementin yerini, öl -
+çülərini, formasını və ümumiyyətlə, xarici görünüşünü dəyiş dir mək olar. 
+1. Start düyməsini çıqqıldadın.
+2. Açılan Start menyusunun yuxarı hissəsindəki All Programs elementini seçin.
+3. Açılan yeni menyudan öncə Microsoft Office, sonra isə Microsoft Office
+Publisher 2003 bəndini seçin. Ekranda Microsoft Publisher proqramının
+baş pəncə rəsi açılacaq (şəkil 3.1).
+4. Ekranın solunda əks olunan New Publication tapşırıqlar panelində nəşr növ -
+ləri siyahısından Publications for Print növünü, sonra isə News letters  
+ÇALIŞMA 1. Yeni informasiya bülleteninin yaradılması
+İnformasiya bülleteni – ictimai dəyəri olan hadisə, məsələ, iş haqqında qısa rəsmi məlu mat dır.
+Tapşırıqlar paneli Menyu zolağı Alətlər zolağı Başlıq zolağı
+64
+nö vünü seçin. Bu zaman pəncərənin sağ hissəsində informasiya bülleten-
+lərinin müxtəlif şablonları əks olunacaq (şəkil 3.2). 
+Şəkil 3.2. Bülleten nümunələri
+5. Lazım olan şablonu seçin. İnformasiya bülleteninin yaradılması sehrbazı
+baş ladılacaq.
+6. Sehrbaz ekrana Personal Information dialoq boksunu çıxararsa, Cancel
+düyməsini çıqqıldadın.
+7. Ekranın sol tərəfində əks olunan News let ter Opti ons tapşırıqlar panelində Pa -
+ge Content bəndini çıqqıldadın və sənədiniz üçün sütunların sayını gös tərin.
+8. Color Schemes bəndini çıqqıldadın. Uy ğun dialoq boksu açılacaq (şə -
+kil 3.3). Siyahıdan rəng sxemlərindən birini seçin, yaxud Custom color
+scheme bəndini çıqqıldadın və öz rəng sxeminizi yaradın.
+Şəkil 3.3. Rəng sxeminin seçilməsi
+Microsoft Publisher 2003 proqramında peşəkar dizaynerlər tərəfindən hazırlanmış 2000-
+dən artıq şablon, 200-dən artıq şrift, minlərlə şəkil, fotoqrafiyalar, çərçivə elementləri, səs
+effektləri var. 
+Bundan başqa, bu proqramda olan hazır nəşr işləri bu sahədə peşəkar olmayanlara da
+yaxşı nəticə almağa imkan verir. 
+3. NƏŞR MƏHSULLARININ YARADILMASI 65
+9. Font Schemes bəndini çıqqıldadın. Açılan şrift sxemləri va ri antlarından
+birini seçin, yaxud öz sxeminizi ya ratmaq istəyirsinizsə, Styles and
+Formatting bən dindən istifadə edə bilərsiniz.
+10. File menyusunda Save komandasını yerinə ye ti rin.
+11. Fayla ad verin. Publisher proqramı bu faylı av to matik olaraq .pub uzan-
+tısı ilə saxlayacaq.
+12. Save düyməsini çıqqıldadın.
+1. İnformasiya bülleteni nədir və Microsoft Publisher proqramında bu, necə hazırla nır?
+2. İstədiyiniz fənn üzrə müəyyən mövzuda bülleten hazırlayın.
+66
+3. NƏŞR MƏHSULLARININ YARADILMASI 67
+PRAKTİKUM. İNFORMASİYA BÜLLETENİNƏ MƏTNİN
+DAXİL EDİLMƏSİ 
+• Bir neçə mətn çərçivəsini necə birləşdirməli
+• Bülletenə yeni mətn çərçivəsini necə artırmalı
+• Bülletendəki gərəksiz obyektləri uzaqlaşdırmaq üçün nə etmək la zım dır
+Microsoft Publisher proqramında xüsusi çərçivələrdən istifadə olunur. Bunlar
+həm mətn, həm də şəkil çərçivələri
+ola bilər.  Bülletendə olan çərçivələrin
+hər han sı birini çıqqıldatmaqla siz
+başlığı, mət ni, yaxud şəkli dəyiş-
+dirmək imkanı əldə edirsiniz. Müəyyən mətn çərçi vəsində yerləşən mət ni dəyiş -
+dirmək üçün siçanın göstəricisini həmin çərçivənin istənilən yeri nə aparıb sol
+düy məni çıqqıldatmaq və seçdirilmiş mətnin əvəzinə öz mətninizi klaviaturadan
+daxil etmək lazımdır. Bülletenin şablonunda olan mətn yeni mətnlə əvəz olu-
+nacaq.
+1. Standart alətlər zolağında Zoom In düyməsini çıqqıldadın. Bundan
+sonra üzərində işləyəcəyiniz bülletenin görüntüsü böyüyəcək (şəkil 3.4).
+2. Lead Story Headline mətn çərçivəsinin istənilən yerini çıqqıldadın və
+klaviaturadan əsas məqalənin başlığını daxil edin.
+3. Əsas məqalə çərçivəsində verilmiş tövsiyələrlə tanış olun və bu mətn
+çərçivəsinin istənilən yerini çıqqıldadın. Tövsiyə xarakterli mətn seç di -
+rilmiş olacaq və indi siz onu öz məqalənizin mətni ilə əvəz edə bilərsiniz.
+Eyni qayda ilə başqa mətn çərçivələrindəki mətnləri də dəyiş mək olar.
+4. Mətn çərçivələrinin ölçülərini dəyişdirmək üçün mətn sahəsini bir dəfə
+çıqqıldadın və siçanın göstəricisini mətn çərçivəsinin perimetri boyunca
+yerləşən kiçik ağ tutacaqlardan birinin üzərinə aparın. Bu zaman göstəri-
+ci öz formasını dəyişərək ikiistiqamətli ox şəklini alacaq. Siçanın sol
+düyməsini basıb saxlamaqla tutacağı dartın. Hərəkət istiqamətindən asılı
+olaraq çərçivənin ölçüləri böyüyəcək, yaxud da kiçiləcək.
+5. Bülletenin başqa səhifəsinə keçmək üçün proqram pəncərəsinin aşağı
+hissəsində yerləşən simgəsini çıqqıldadın.
+ÇALIŞMA 2. Mövcud mətn çərçivələri ilə iş
+Tutacaq
+Lasso
+S Ö Z L Ü K
+3.2.
+68
+Şəkil 3.4. Görüntüsü böyüdülmüş bülleten
+6. İnformasiya bülletenini saxlayın.  
+1. Əgər bir neçə mətn çərçivəsi bir-biri ilə birləşdirilmişsə, yəni bir məqalənin
+mətni bir neçə çərçivəyə yerləşdirilmişsə, onda bu çərçivələrin əhatə etdiyi
+sahənin sol yuxarı, yaxud sağ aşağı küncündə Go to Previous Text
+Box və Go to Next Text Box düymələri görünür. Onlardan hər hansı
+birini çıqqıldatmaqla, məhz, hansı çərçivələrin bir-biri ilə birləşmiş
+olduqlarını biləcəksiniz. 
+ÇALIŞMA 3. Mətn çərçivələrinin birləşdirilməsi və ayrılması
+Əgər mətn cari çərçivəyə yerləş mirsə, o, avtomatik olaraq həmin çərçivəyə biti şik olan
+başqa çərçivəyə keçir. Bir-birinə birləşmiş mətn çərçivələri bir neçə səhifəyədək uzana və
+bir neçə sütundan ibarət ola bilər.
+2. Bir-biri ilə bağlı olan iki mətn çərçivəsini ayırmaq üçün birinci çərçivəni,
+sonra isə alətlər zolağında Break Forward Link düyməsini çıqqıl-
+dadın.
+3. Ayrılmış çərçivənin mətni Text in Overflow adlı xüsusi sahəyə yerləş di ri -
+lir. Bu sahə ekranda görünmür. Mətn çərçivəsinin aşağı hissəsində
+simgəsi əmələ gəlir ki, bu da mətnin bir hissəsinin gizlədilmiş olduğunu
+göstərir. Mətn çərçivəsini böyüdün, yaxud mətnin gizlədilmiş hissəsini
+aşağıdakı qaydada başqa sahəyə köçürün.
+4. Mətnin davamını başqa çərçivədə yerləşdirmək üçün əvvəlcə əsas mətnin
+olduğu çərçivəni, bundan sonra isə alətlər zolağındakı Create Text
+Box Link düyməsini çıqqıldadın. Bu zaman siçanın göstəricisi “içərisində
+mətn olan” dolça şəklini alacaq ( ).  
+3. NƏŞR MƏHSULLARININ YARADILMASI 69
+5. İndi artıq mətni boş mətn çərçivəsinə “tökmək” üçün siçanın dolçaşəkilli
+göstəricisini həmin çərçivənin içərisinə aparın və sol düyməni çıqqıldadın.
+6. Əgər mətnin importu zamanı mətnin hamısı çərçivəyə sığışmırsa, onda ek -
+rana avtomatik köçürmə funksiyasından istifadə edilib-edilməməsi haqqın-
+da sorğu çıxacaq.  
+İnformasiya bülleteninə lazım olduğu miqdarda mətn sahəsi əlavə etmək
+olar. Belə zərurət yarandıqda:
+1. Proqramın baş pəncərəsinin sol qırağı boyunca yerləşən Objects alətlər
+zo lağında  Text Box düyməsini çıqqıldadın.
+2. Siçanın göstəricisini bülletenin lazım olan yerinə aparın və sol düyməni
+basılı saxlayaraq yeni çərçivə çəkin.
+3. Redaktə rejiminə keçmək üçün mətn çərçivəsinin içərisində istənilən yeri
+çıqqılda dın.
+4. Zərurət varsa, Formatlama alətləri zolağından istifadə etməklə, mətnin üs -
+lu bunu (simvolların şriftini, ölçüsünü və üslubunu) dəyişdirin, sonra isə
+mət ni klaviaturadan daxil etməyə başlayın. 
+Bülletendəki bəzi sahələr sizə gərək olmaya bilər. 
+1. Hər hansı bir mətn çərçivəsini uzaqlaşdırmaq üçün siçanın göstəricisini
+onun üzərinə aparıb sağ düyməni çıqqıldadın. Açılan kontekst menyusun-
+dan Delete Object komandasını seçin. 
+ÇALIŞMA 5. Mətn çərçivələrinin uzaqlaşdırılması
+ÇALIŞMA 4. Yeni mətn çərçivəsinin yaradılması
+70
+2. Bir neçə obyekti uzaqlaşdırmaq üçün həmin obyektləri “lasso” üsulu ilə
+seç dirin. Bunun üçün göstəricini həmin obyektlərdən kənar bir yerə aparın,
+siçanın sol düyməsini basıb saxlamaqla, onu elə hərəkət etdirin ki, bütün
+gərəksiz obyektlər çərçivəyə alınsın. 
+3. Gərəksiz obyektləri uzaqlaşdırmaq üçün <Delete> klavişini basın. Bunu
+siçanın göstəricisini seçdirilmiş obyektlər  qrupunun istənilən yerinə aparıb
+sağ düyməni çıqqıldatmaqla da etmək olar. Açılan kontekst menyusundan
+Delete Object komandasını seçin. 
+1. Publisher proqramının təklif etdiyi maketlərdən istifadə etməklə, ilin sevdiyiniz
+fəsli haqqında informa siya bülleteni hazırlayın.
+2. İstədiyiniz mövzuda informasiya bülleteni yaradın.
+PRAKTİKUM. 
+İNFORMASİYA BUKLETİNİN VƏ VİZİT KARTININ
+YARADILMASI
+• İnformasiya bukleti nədir
+• Publisher proqramında informasiya bukleti necə hazırlanır
+• Vizit kartının hansı növləri var
+• Publisher proqramında vizit kartı necə hazırlanır
+Bukletlər populyar olan kiçik poli qrafiya
+formalarından biridir. “Buklet” fransızca
+“bouclett” sözündən olub, “halqacıq” kimi
+tərcümə olunur. O, paralel qatlamaları olan
+vərəqdir və şirma kimi bükülür. Bu cür
+forma bukletə yığcamlıq verir və onu quru-
+luşca informasiya bloklarına ayırır.
+Bukletlər sərgilər, təqdimatlar, reklam kam-
+paniyaları aparılan yerlərdə insanları məlu -
+matlandırmaq üçün ideal vasitədir. Savadlı tərtib olunmuş bukletdə potensial
+müştəriləri maraqlandıra bilən əsas sualların cavabı verilir. Bunlarla yanaşı, o,
+orijinallığı ilə seçilərsə, onda bukletiniz sizi baş qa larından fərqləndirməyə kömək
+edər. Bukletin dizaynını hazırlamaq üçün, əsasən, aşağıdakı ele mentlərdən isti-
+fadə olunur: loqotip, əlaqə saxlamaq üçün məlumatlar, qrafik materiallar (slayd-
+lar, fotolar, klipartlar) və mətnlər.
+3.3.
+3. NƏŞR MƏHSULLARININ YARADILMASI 71
+1. Microsoft Publisher proqramını başladın.
+2. Ekranın solunda əks olunan New Publication tapşırıqlar panelində nəşr
+növləri siyahısından Publications for Print qrupunu, sonra isə Brochures
+növünü seçin. Bu zaman pəncərənin sağ hissəsində informasiya buk-
+letlərinin müxtəlif şablonları əks olunacaq. 
+3. Lazım olan şablonu seçin. İnformasiya bukletinin yaradılması sehrbazı
+baş ladılacaq.
+4. Sehrbaz ekrana Personal Information dialoq boksunu çıxararsa, Cancel
+düyməsini çıqqıldadın.
+5. Əgər bukleti poçtla göndərməli olacaqsınızsa, Brochures Options tap şı rıq -
+lar panelinin Customer Address bölümündə Include variantını çıqqıldadın.
+6. Əgər bukletə hər hansı bir forma əlavə etmək lazımdırsa, Form
+bölümündəki Order form (Sifariş forması), Response form (Cavab for-
+ması), yaxud Sign-up form (İmza forması) variantlarından birini seçin.
+ÇALIŞMA 6. İnformasiya bukletinin yaradılması
+72
+7. Mətn çərçivələrində olan mətnləri öz mətnlərinizlə əvəzləyin.
+8. Siçanın göstəricisini dəyişdirmək istədiyiniz şəklin üzərinə aparın və sağ
+düyməni çıqqıldadın. Açılan kontekst menyusunda Change Picture bəndi-
+ni, sonra isə bukletə yerləşdirmək istədiyiniz şəkli tapıb qoşa çıqqıldadın.
+9. Bukletin rəng sxemi sizi qane etmirsə, onu dəyişdirə bilərsiniz. Bunun
+üçün Brochures Options tapşırıqlar panelində Color Schemes bəndini
+çıqqıldadın. Bülletendə olduğu kimi, burada da ya təklif olunan rəng
+sxemlərindən birini seçə, yaxud da Custom color scheme sətrinə daxil
+olmaqla, öz rəng sxeminizi yarada bilərsiniz.     
+Hər hansı bir insan və ya təşkilatla əlaqə saxlamaq üçün məlumatlardan ibarət
+olan vizit kartları kağızdan, kartondan, yaxud plastikdən hazırlanır. 
+Vizit kartında, onun sahibinin soyadı, adı, atasının adı, iş yeri və əlaqə saxla-
+maq üçün məlumatları (ünvanı, telefon nömrələri, elektron poçt ünvanı) olur.
+Məcazi mənada işlədilən “nəyinsə vizit kartı” ifadəsi, onun sahibini başqaların-
+dan fərqləndirən və ona geniş populyarlıq qazandıran müsbət keyfiyyəti bildirir.
+Vizit kartlarını şərti olaraq üç növə ayırmaq olar: şəxsi, rəsmi və korporativ.
+Şəxsi vizit kartı fərdi olur və çox zaman qeyri-formal ünsiyyət zamanı isti-
+fadə olunur. Adətən, belə kartda soyad, ad, ata adı və əlaqə saxlamaq üçün
+məlumatlar göstərilir. Şəxsi vizit kartı, onun sahibinin arzusu əsasında, fərdi
+maket üzrə hazırlanır. Bu növ vizit kartı, ilk növbədə, şəxsi imici formalaşdırmaq
+üçün nəzərdə tutulur. 
+Rəsmi (biznes) vizit kartı işgüzar münasibətlərdə olan tərəfdaşların, yaxud
+potensial müştərilərin əlaqə yarada bilməsi üçün lazımdır. Belə kartlarda soyad, ad,
+ata adı, iş yeri, vəzifə və əlaqə saxlamaq üçün məlumatlar göstərilir. Rəsmi vizit kart-
+larında loqotip və şirkətin “simasını” müəyyənləşdirən digər elementlər də ola bilər.
+Korporativ vizit kartında fərd haqqında məlumat olmur. Bu növ kartda
+şirkətin fəaliyyəti və onunla əlaqə haqqında yetərli məlumat, eləcə də reklam
+xarakterli informasiya olur.
+Vizit kartından necə istifadə etməli? Beynəlxalq təcrübədə vizit kartlarından çox
+zaman ölkənin hökumət, diplomatik və ictimai dairələri ilə əlaqələrin qurulması və
+saxlanması üçün istifadə olunur. Lakin vizit kartından, onun sahibinin qiyabi təqdim
+olunması məqsədilə də istifadə oluna bilər. Hər hansı əlamətdar hadisəni – milli, yaxud
+başqa bayramları, ad günlərini, vəzifədə yüksəlməni təbrik edərkən hədiyyəyə vizit kart-
+larını da əlavə etmək olar. 
+Vizit kartlarının ölçüləri çox da böyük olmur (kişilər üçün, adətən, 5×9 sm, qadınlar üçün
+4×8 sm). 
+3. NƏŞR MƏHSULLARININ YARADILMASI 73
+1. New Publication tapşırıqlar panelində nəşr növləri siyahısından
+Publica ti ons for Print növünü, sonra isə Business Cards növünü seçin.
+2. Pəncərənin sağ hissəsində açılan vizit kartları nümunələrindən birini seçin
+və üzərinə çıqqıldadın (şəkil 3.5).
+Şəkil 3.5. Vizit kartının yaradılması
+3. Business Card Options tapşırıqlar panelinin Orientation bölümündə
+Portrait (portret, kitab), yaxud Landscape (mənzərə, albom) variantını seçin.
+4. Əgər vizit kartına loqotip yerləşdirmək istəmirsinizsə, Logo bölümündə
+None variantını göstərin.
+5. Bir vərəqdə vizit kartının bir neçə nüsxəsini çap etmək istəyirsinizsə,
+Copies per sheet bölümündə Multiple variantını seçin. Bu halda Pub -
+lisher proqramı susqunluqla bir vərəqdə 10 nüsxə çap edəcək.
+ÇALIŞMA 7. Birüzlü vizit kartının yaradılması
+74
+6. Rəng və şrift sxemini dəyişdirmək istəyirsinizsə, tapşırıqlar panelindəki
+Color Schemes və Font Schemes bəndindən istifadə edin.
+7. Mətn çərçivələrinə daxil olub, onları özünüzə uyğun şəkildə dəyişdirin.
+Vizit kartının arxa tərəfinə başqa faydalı məlumatlar, məsələn, iş yerinə
+gəlmək üçün sxem əlavə etmək olar. Çox zaman isə arxa tərəfdə, üz tərəfdə
+olan məlumatların başqa dilə tərcüməsi verilir. 
+İkiüzlü vizit kartı yaratmaq üçün:
+1. Insert menyusunda Page bəndini seçin. Insert Page dialoq boksu açıla-
+caq (şəkil 3.6).
+2. After current page variantını və digər başqa lazımi parametrləri seçin.
+Məsələn, əgər vizit kartının arxa tərəfində şirkətin devizi veriləcəksə,
+Create one text box on each page parametrini seçin.
+3. Əgər arxa tərəfdə, üz tərəfdəki mə lumatların başqa dildə tərcüməsi veri -
+ləcəksə, Duplicate all objects on page variantını seçmək olar. Bu zaman
+üz tərəfdəki məlumatlar arxa tərəfə köçürüləcək. 
+Şəkil 3.6. Insert Page dialoq boksu
+ÇALIŞMA 8. İkiüzlü vizit kartının yaradılması
+3. NƏŞR MƏHSULLARININ YARADILMASI 75
+4. Arxa tərəfə başqa lazım bildiyiniz mətni, görüntünü əlavə edin.
+5. Vizit kartının arxa tərəfi istədiyiniz şəkil aldıqda, onu yaddaşda saxlayın.
+1. Calendars növündən istifadə edərək həftəlik təqvim düzəldin.
+2. Business Cards növündən istifadə etməklə, şəxsi vizit kartınızı düzəldin.
+3. Invitation Cards növündən istifadə etməklə, qarşıdan gələn əlamətdar gün üçün
+dəvətnamə hazırlayın.
+PRAKTİKUM. MICROSOFT PUBLISHER PROQRAMINDA
+VEB-SAYTLARIN YARADILMASI 
+• Veb-sayt necə yaradılır
+• Mövcud saytın fonunu necə dəyişdirməli
+• Saytın səslə müşayiətini necə təmin etməli
+Başlanğıcda qeyd olunduğu kimi, Microsoft Publisher proqramında sadə veb-
+saytlar da yaratmaq olar. Lakin məzmunu daim yenilənən mürəkkəb saytların
+yaradılmasında bu proqramdan istifadə olunması məqsədəuyğun deyil. 
+Veb-sayt üzərində iş başa çatmayıbsa, onu Publisher faylı kimi saxlamaq
+lazımdır. Yalnız veb-sayt hazır olandan sonra HTML formatında saxlanılır.
+HTML formatında olan faylları Microsoft Publisher mühitində açmaq və redaktə
+etmək olmur. Lakin bu əməliyyatları mətn redaktorunda, eləcə də HTML redak-
+torunda (mə sələn, xüsusi olaraq veb-saytların yaradılması və onların idarə olun-
+ması üçün nəzərdə tutulmuş Microsoft FrontPage proqramında) yerinə yetirmək
+müm kündür. Microsoft Publisher proqramında yaradılmış veb-saytı Microsoft
+FrontPage proqramına import etmək olar.   
+3.4.
+Vizit kartının təqdim olunması. İşgüzar etiket qaydalarına görə vizit kartı həmsöhbətə
+görüşün başlanğıcında sağ əllə və kartın üz tərəfi yuxarı olmaqla təqdim olunur. Vizit
+kartının işgüzar danışıqların sonunda təqdim olunması qabaqcadan bu danışıqlara və həm-
+söhbətə marağın olmamasına dəlalət edir.
+Vizit kartının alınması. Vizit kartını alan kimi, onu cibinizə, yaxud portfelinizə qoymaz-
+dan öncə diqqətinizi ona cəmləşdirin və orada yazılanları diqqətlə oxuyun. Bununla siz
+qarşınızdakına öz hörmətinizi və marağınızı nümayiş etdirmiş olursunuz. Danışıqlar
+zamanı həmsöhbətinizin adında, yaxud vəzifəsində səhv etməmək üçün vizit kartını
+qarşınıza qoya bilərsiniz.  
+76
+1. Microsoft Publisher proqramını başladın.
+2. Ekranın solunda əks olunan New Publication tapşırıqlar panelində nəşr növ -
+lə ri siyahısından Web Sites and E-mail növünü, sonra isə Web Sites
+növünü seçin. Bu zaman pəncərənin sağ hissəsində veb-saytların müxtəlif
+şablonları əks olunacaq (şəkil 3.7). 
+Şəkil 3.7. Veb-sayt maketinin seçilməsi
+ÇALIŞMA 9. Veb-saytın yaradılması
+Microsoft Publisher proqramı ilə işə başlamazdan öncə gələcək saytın məzmununu və
+strukturunu müəyyənləşdirmək lazımdır. Bu proqram sadə struktura malik olan saytları
+yaratmağa imkan verir. Saytın hər bir səhifəsinin məzmunu haqqında düşünün.
+Strukturunu, səhifələrin adlarını, onların ardıcıllığını, daxili və xarici istinadları göstər-
+məklə, əvvəlcə saytı kağızda əks etdirin. 
+3. NƏŞR MƏHSULLARININ YARADILMASI 77
+3. Lazım olan şablon seçildikdən sonra Easy Web Site Builder (Sadə Veb-
+sayt Qurucusu) başladılır (şəkil 3.8). Burada (Your Site Goals) müəyyən
+təyinatlı səhifələrin siyahısı verilib ki, onlardan istədiyinizi veb-sayta qoş-
+maq olar. Bunun üçün hər bir adın önündəki yoxlama boksunu qeyd edib,
+sonda OK düyməsini çıqqıldadın.
+Şəkil 3.8. Sadə Veb-sayt qurucusu
+Veb-sayta sonradan da yeni səhifə artırmaq olar. Bunun üçün Insert menyusunun Page
+bəndini çıqqıldadın. Açılan Insert Web Page dialoq boksunda artırmaq istədiyiniz
+səhifənin növünü seçin və OK düyməsini çıqqıldadın.
+78
+4. Ekrana Personal Information dialoq boksu çıxarsa, uy ğun sahələri dol durun və
+OK düyməsini çıqqıldadın (şəkil 3.9). Burada özünüz, işiniz, yaxud çalışdığınız
+qurum haqqında məlumatlar toplanıb. Bu məlumatları bir dəfə yazıb saxlasanız,
+onları hər dəfə daxil etməyə lüzum qalmayacaq. 
+Şəkil 3.9. Personal Information dialoq boksu
+Insert menyusunun Personal Information bəndinə daxil olmaqla istədiyiniz fərdi
+məlumatı nəşr məhsuluna əlavə edə bilərsiniz.
+3. NƏŞR MƏHSULLARININ YARADILMASI 79
+5. Proqramın baş pəncərəsinin sol hissəsində yerləşən Web Site Options
+tapşırıqlar paneli veb-saytın yaradılmasına yardım üçün nəzərdə tutulub.
+Naviqasiya sahəsi saytın başqa səhifələrinə hiperistinadı təmin edir. Əgər
+naviqasiya sahəsini solda, əlaqəli səhifələrin başlıqlarını isə hər səhi fə nin
+aşağısında yerləşdirmək lazımdırsa, onda Navigation bar bö lümündə
+Vertical and Bottom variantını seçin. Əgər naviqasiya sahə sinin yalnız sol
+tərəfdə əks olunmasını istəyirsinizsə, onda Vertical Only variantını seçin.
+Bottom Only variantını seçdikdə naviqasiya zolağı yalnız səhifənin
+aşağısında olacaq. Əgər, ümumiyyətlə, naviqasiya sahələrinin olmasını
+istəmirsinizsə, None variantını seçin.
+80
+6. Web Site Options tapşırıqlar panelində Color Schemes bəndini çıqqıl-
+dadın. Bu zaman siz mövcud rəng sxemlərindən birini seçə, yaxud Custom
+color scheme bəndini çıqqıldatmaqla öz rəng sxeminizi yarada bilərsiniz. 
+Yaratmış olduğunuz rəng sxemini sonradan istifadə üçün yazıb saxlaya
+bilərsiniz. Bunun üçün Color Schemes dialoq boksunda (bax şəkil 3.3)
+Save Scheme düyməsini çıqqıldadın, rəng sxeminizə ad verin, sonra iki
+dəfə OK düyməsini çıqqıldadın.
+3. NƏŞR MƏHSULLARININ YARADILMASI 81
+7. Font Schemes bəndini çıqqıldadın. Mövcud şrift sxemlərindən birini se -
+çin, yaxud Styles and Formatting bəndini çıqqıldatmaqla öz sxeminizi
+yaratmaq rejiminə keçin.
+Veb şrift sxemlərindən istifadə etməklə siz öz veb-saytınıza professional
+görünüş vermiş olursunuz. Microsoft Publisher 2003 proqramı 10 şrift
+sxemi təklif edir.
+8. Faylı saxlamaq üçün File menyusunda Save As komandasını seçin.
+9. Fayla ad verib, Save düyməsini çıqqıldadın.
+82
+1. Microsoft Publisher proqramını başladın.
+2. Yazıb saxlamış olduğunuz veb-sayt faylını açın.
+3. Format menyusunda Background komandasını seçin.
+4. Rəng nümunəsini Background tapşırıqlar sahəsinin Apply a backgro und,
+yaxud More colors bölümündə seçin.
+ÇALIŞMA 10. Fon görüntüsünün və fon səsinin əlavə olunması
+3. NƏŞR MƏHSULLARININ YARADILMASI 83
+5. Əgər fon üçün əlavə naxışlardan istifadə etmək istəyirsinizsə, tapşırıqlar
+sahəsinin aşağı hissəsində More backgrounds sətrini çıqqıldadın. Fill
+Effects dialoq boksu açılacaq (şəkil 3.10).
+Şəkil 3.10. Fill Effects dialoq boksu
+6. Dəyişikliklər etdikdən sonra OK düyməsini çıqqıldadın.
+7. Tapşırıqlar sahəsində Background sound bəndini çıqqıldatsanız, siz veb-
+say ta musiqi, yaxud səs effekti əlavə etmək imkanı əldə edəcəksiniz (bax
+şəkil 3.11). 
+Yadda saxlayın ki, səs fayllarının həcmi, adətən, böyük olur və onların yüklənməsi çox vaxt
+apara bilər.  
+84
+Şəkil 3.11. Veb-sayta səsin əlavə edilməsi
+8. Səsi əlavə etmək üçün Browse düyməsini çıqqıldadın. Qoşmaq istədiyiniz
+səs faylını tapın. Həmin faylın adını, sonra isə Open düyməsini çıqqıldadın.
+9. Əgər əlavə olunan səsin kəsilmədən təkrarlanmasını istəyirsinizsə, Loop
+fo rever variantını seçin. Yox, əgər qoşulmuş faylın müəyyən sayda səslən-
+məsini istəyirsinizsə, Loop variantını seçin və mətn boksunda təkrarlan-
+maların sayını göstərin. Sonda OK düyməsini çıqqıldadın. 
+10. Veb-saytı Microsoft Publisher formatında saxlayın. 
+1. Publisher proqramında veb-sayt faylını hansı formatlarda saxlamaq olar?
+2. Veb-sayt üzərində iş başa çatmayıbsa, nə üçün onu Publisher formatında saxla-
+maq lazımdır?
+3. Müxtəlif şablonlardan istifadə etməklə veb-saytlar yaradın. Hansı variantlı səhi -
+fələrin gərəkli olub-olmamasını müəyyənləşdirin.
+Veb-saytlarda səs müşayiəti məqsədilə səs fayllarının populyar .mp3 formatından istifadə
+etmək olmaz. Buna görə də, bu məqsədlə uzantısı .mid, .midi, yaxud .wav olan fayllar
+seçmək lazımdır.
+3. NƏŞR MƏHSULLARININ YARADILMASI 85
+PRAKTİKUM. VEB-SAYT ÜZƏRİNDƏ İŞ
+• Veb-sayta yeni səhifələri necə artırmalı
+• Hiperistinadlar necə yaradılır
+• Qrafik obyekti hiperistinada necə çevirmək olar
+• Veb-saytı HTML formatında necə saxlamalı
+1. Microsoft Publisher proqramını başladın.
+2. Yaddaşda saxlamış olduğunuz veb-sayt fayllarından birini açın.
+3. Insert menyusunda Page komandasını seçin, yaxud Web Site Options
+tap şı rıqlar sahəsinin aşağı hissəsində yerləşən Insert a Page sətrini çıqqıl-
+dadın. Insert Web Page dialoq boksu açılacaq (şəkil 3.12).
+Şəkil 3.12. Insert Web Page dialoq boksu
+ÇALIŞMA 11. Veb-sayta səhifələrin artırılması
+3.5.
+86
+4. Select a page type siyahısından istədiyiniz növ səhifəni seçin. Bu yeni
+sə hifəyə keçid üçün saytın başlanğıc səhifəsində düymə yerləşdirmək istə -
+yirsinizsə, Add hyperlink to navigation bars yoxlama boksunu qeyd
+edib, More düyməsini çıqqıldadın. Insert Page dialoq boksu açılacaq
+(şəkil 3.13). 
+Şəkil 3.13. Insert Page dialoq boksu
+5. Number of new pages sahəsində əlavə olunacaq yeni sə hifələrin sayını
+gös tərin və cari səhifədən əvvəl (Be fo re current page), yaxud cari sə hi -
+fə dən sonra (After cur rent page) variantını seçin.
+6. Options bölümündə Duplicate all objects on page va riantını seçin və
+obyektlərin haradan köçürüləcəyi səhifənin nömrəsini qeyd edin. Əgər yeni
+səhifəyə formatlama elementlərini qoşmağa gərək yoxdursa, yəni boş
+səhifə yaratmaq lazımdırsa, onda Insert blank pages variantını seçin.
+Yox, əgər yeni səhifəyə yalnız mətn sahəsi əlavə etmək istəyirsinizsə,
+Create one text box on each page variantını seçin.
+7. OK düyməsini çıqqıldadın.
+8. Veb-saytı Microsoft Publisher formatında saxlayın. 
+3. NƏŞR MƏHSULLARININ YARADILMASI 87
+Bir səhifədə olan hər hansı mətn blokunu, yaxud görüntünü veb-saytın
+başqa bir səhifəsi ilə əlaqələndirmək olar. 
+1. Başqa səhifə ilə əlaqələndirmək istədiyiniz görüntünü çıqqıldadın, yaxud
+mətn blokunu seçdirin.
+2. Insert menyusunda Hyperlink komandasını seçin, yaxud alətlər zolağında -
+kı Insert Hyperlink düyməsini çıqqıldadın. Uyğun dialoq boksu açı -
+lacaq (şəkil 3.14).
+Şəkil 3.14. Insert Hyperlink dialoq boksu
+3. Insert Hyperlink dialoq boksunun Link to bölümündə Place in This Do -
+cu ment simgəsini çıqqıldadın.
+4. Bu hiperistinadla əlaqələndirmək istədiyiniz səhifəni sağdakı siyahıdan se çin.
+5. OK düyməsini çıqqıldadın.
+6. Veb-saytı Microsoft Publisher formatında saxlayın. 
+Hiperistinad, başqa faylla əlaqəli olan və siçanın çıqqıltısına reaksiya verən seçdirilmiş
+obyektdir. 
+ÇALIŞMA 12. Hiperistinadların yaradılması
+88
+Mətnin hər hansı hissəsi – cümlə, ayrıca söz, hətta bir simvol da hiperisti-
+nad ola bilər. Bəs qrafik görüntünün müəyyən hissəsi də hiperistinad ola
+bilərmi? Bu məqsədlə Hot Spot alətindən istifadə etmək olar. 
+1. Müəyyən bir hissəsinə hiperistinad verəcəyiniz qrafik obyekti çıqqıldadın.
+2. Proqramın baş pəncərəsinin sol qırağı boyunca yerləşmiş Objects alətlər
+zo lağında Hot Spot düyməsini çıqqıldadın.
+3. Siçanın göstəricisini qrafik obyektin istinad verəcəyiniz hissəsinə apa rın və
+sol düyməni basılı saxlayaraq, həmin hissəni əhatə edəcək düzbucaqlı çəkin.
+Insert Hyperlink dialoq boksu açılacaq (bax şəkil 3.14).
+4. Insert Hyperlink dialoq boksunda mövcud fayla, veb-səhifəyə, yaxud yeni
+yaradılan saytın səhifəsinə hiperistinad yaradın.
+5. OK düyməsini çıqqıldadın.
+6. Qrafik obyektin üzərində Hot Spot alətinin çərçivəsi görünəcək.
+7. Əgər çərçivə qrafik obyektin hiperistinad yerləşdirilən hissəsini tam əhatə
+etmirsə, onun ölçülərini və yerini dəyişdirin.
+8. Veb-saytı Microsoft Publisher formatında saxlayın. 
+1. File menyusunda Web Page Preview komandasını seçin. Bu zaman av -
+tomatik olaraq Internet Explorer, yaxud başqa bir brauzer başladılacaq və
+pəncərədə veb-saytın başlanğıc səhifəsi əks olunacaq.
+2. Düzgün işləyib-işləməməsinə əmin olmaq üçün bütün hiperistinadları yox -
+layın.  
+ÇALIŞMA 14. Veb-səhifəyə qabaqcadan baxış
+ÇALIŞMA 13. Qrafik obyektin bir hissəsinin hiperistinada çevrilməsi
+3. NƏŞR MƏHSULLARININ YARADILMASI 89
+Artıq qeyd olunduğu kimi, veb-saytı Internetdə yerləşdirənədək Microsoft
+Publisher formatında saxlamaq lazımdır. Bu format veb-saytı redaktə etməyə
+və ona hər hansı dəyişikliyi əlavə etməyə imkan verir. Veb-sayt üzərində işi
+bitirdikdən sonra onu HTML formatına çevirmək lazımdır, çünki Dünya
+Hörümçək Toru, məhz, bu formatı dəstəkləyir.
+Yaradılmış veb-saytı HTML formatına çevirməmişdən öncə bütün son də -
+yişiklikləri yazıb, Microsoft Publisher formatında saxlamaq lazımdır. Bu çox
+önəmlidir, çünki HTML formatında olan sənədi Microsoft Publisher proqramı
+vasitəsilə redaktə etmək olmur. 
+1. File menyusunda Publish to the Web komandasını seçin. Uyğun dialoq
+boksu açılacaq.
+2. File name sahəsində faylın adının necə yazıldığını yoxlayın. Sizə in -
+dex.htm adı təklif olunacaq. Yaxşı olar ki, bu adı saxlayasınız, çünki
+index.htm, default.htm  və ya home.htm kimi adlar susqunluqla veb-
+sayt ların başlanğıc səhifəsinin adı kimi qəbul edilir.
+3. Save düyməsini çıqqıldadın.
+4. Veb-saytın necə işlədiyini yoxlamaq üçün HTML faylını saxladığınız
+qovluğa keçin və onun adını qoşa çıqqıldadın.   
+1. Hiperisitnad nədir və onu hansı obyeklərə şamil etmək olar?
+2. Mövcud veb-sayta yeni səhifə, həmin səhifəyə isə qrafik obyekt əlavə edin.
+3. Qrafik obyektin bir hissəsindən başqa bir səhifəyə istinad verin.
+ÇALIŞMA 15. Veb-saytın HTML formatında saxlanması
+90
+4
+VEB -
+PROQRAMLAŞDIRMA
+HTML........................................................................................................................................ 92 
+PRAKTİKUM. HTML-FAYLLARIN YARADILMASI VASİTƏLƏRİ ............................................. 97
+VEB-SAYT LAYİHƏSİ ............................................................................................................ 1014.3.
+4.2.
+4.1.
+HTML 
+• HTML dili nə üçün lazımdır
+• Hipermətn nədir və bu, adi mətndən nə ilə fərqlənir
+• HTML-sənəd nəyə oxşayır
+• Ən sadə HTML-sənədlərini yaratmaq üçün hansı teqlərdən istifadə olu nur
+Kompüterlərin qlobal İnternet ilə əlaqəsi çox zaman telefon şə bəkəsi vasi -
+təsilə həyata ke çiri lir. Təəssüf ki, informa siyanın telefon şəbəkəsi ilə ötürülmə
+sürəti o qədər də böyük deyil. Buna görə də, vahid zamanda göndərilən simvol-
+ların miqdarını, başqa sözlə, trafiki azaltmaq üçün sənədin özünü deyil, onun
+xüsusi dildə təsvirini göndərmək qərara alınmışdır.  Veb-səhifələrə baxmaq üçün
+nəzərdə tutulmuş proqram – brauzer aldığı təsvirin əsasında sənədin özünü for-
+malaşdırır.  
+Elektron sənədləri təsvir etmək üçün
+HTML adlanan xüsusi dil işlənib ha -
+zırlanmışdır. Sənədin bu dildə ya zıl -
+mış təsvirini alan brauzer mətni for-
+malaşdırmaqla və illüstrasiyaları uy -
+ğun yerlərə qoymaqla sənədi yenidən yaradır.  
+HTML (HyperText Markup Language, hipermətnin nişanlama dili) – Dünya
+Hörümçək Torunun dilidir. Hər dəfə veb-səhifəni açarkən, əslində, HTML dilində
+yazılmış sənəd açılmış olur. Bütün veb-sənədlər HTML dilinin köməyilə format-
+lanmışdır və sənədin bir səhifəsindən digərinə keçmək üçün nəzərdə tutulmuş
+hiper istinadlar da HTML dilinin vasitəsilə yaradılmışdır. Veb-səhifələrdə rast
+gəlinən rəngli şəkilləri, doldurmaq üçün nəzərdə tutulan müxtəlif formaları və
+qaçan sətirləri də HTML dilinin sayəsində görmək olur. 
+Hipermətn, başqa sənədlərə istinadların olduğu mətndir. Bəs hipermətn
+adi mətndən nə ilə fərqlənir? Ensiklopedik lüğəti yada salın. Hər hansı anlayışı
+izah edən mətndə bu lüğətdə izahı olan hər hansı sözə rast gəlinirsə, onda hə min
+söz seçdirilir; siz həmin sözü tapa və uyğun mətni oxuya bilərsiniz. Belə seç -
+dirilmiş sözə, adətən, istinad deyilir. İstinad seçdirilmiş söz və ya sözlər haqqın-
+da əlavə informasiya almağa imkan verir. Hipermətn də belə təşkil olunub.  
+Adi mətnin oxunma texnikası belədir: bir səhifə oxunduqdan sonra növbəti
+səhifəyə keçilir. Hipermətn texnologiyasında isə heç bir oxuma ardıcıllığı yox-
+Hipermətn 
+İstinad
+Hiperistinad
+S Ö Z L Ü K
+“Hipermətn” terminini ilk dəfə 1969-cu ildə Ted Nelson təsvir edib. Hipermətn şəklində
+hazırlanmış informasiya ilə yalnız kompüterdə işləmək olar. Onun kağız üzərində dəqiq
+surətini almaq mümkün deyil. 
+4.1.
+92
+4. VEB-PROQRAMLAŞDIRMA 93
+dur: hiperistinaddan istifadə etməklə bir səhifədən başqasına asanlıqla keçmək
+mümkündür. 
+Çox zaman istinad mətnin rəngini fərqləndirmək, yaxud altından xətt
+çəkmək lə seçdirilir (şəkil 4.1). Bu halda həmin istinada hiperistinad, yaxud
+hiper əlaqə deyilir.  
+Ayrıca söz, cümlə, yaxud qrafik obyekt hiperistinad ola bilər. Siçanın göstəri-
+cisini hiperistinadın üzərinə apardıqda, o, formasını dəyişir. 
+Şəkil 4.1. Hipermətndə istinadın rəng və altından xətt çəkməklə seçdirilməsi 
+Hiperistinadların köməyilə hipermətn çoxlu sayda sənədi bir-biri ilə bağlayır.
+HTML dilinin köməyilə uzantısı .html, yaxud .htm olan mətn faylı yaradılır.
+Hiperistinad, başqa faylla əlaqəli olan və siçanın çıqqıltısına reaksiya verən seçdirilmiş
+obyektdir. 
+94
+Belə fayla HTML-fayl deyilir. Şəkildə veb-səhifə və ona uyğun HTML-fayl gös -
+tərilmişdir (şəkil 4.2).
+Şəkil 4.2. Veb-səhifə və onun HTML-faylının mətni
+HTML dili baxımından hipermətn, xüsusi nişanlama kodları olan mətndir.
+Adətən, nişanlama kodu əvəzinə teq terminindən istifadə olunur. 
+Teqlər, mətnin brauzerdə əksolunma qaydasını müəyyənləşdirən
+göstərişlərdir. 
+Teq həmişə açan künc mötərizə (< işarəsi) ilə başlayır və bağlayan künc
+mötərizə (> işarəsi) ilə bitir. Teqin yazılışında böyük və kiçik hərflərin fərqi yox-
+dur, yəni <body>, <boDy> və ya <BODY> eyni teqlərdir.
+İndi istifadəsi vacib olan bir neçə teqlə – sənədin HTML-sənəd olduğunu
+göstərən teqlə, başlıq teqi ilə, sənədi məntiqi hissələrə ayıran teqlərlə tanış olaq.
+HTML-faylları yadda saxlayarkən faylın uzantısının .html və ya .htm olması çox önəm-
+lidir. Bu halda sənədin hansı sənəd olmasını asanlıqla müəyyən etmək olar. 
+Veb-brauzerlərdə belə faylları açarkən, brauzer onları adi mətn kimi yox, məhz, veb-
+səhifə kimi tanıyacaq və düzgün əks etdirəcək.
+Müxtəlif veb-brauzerlər HTML-sənədləri həmişə eyni cür əks etdirmir. Onların
+görünüşü şriftlərə, rənglərə, ölçülərə və s. görə fərqlənir. Buna görə də HTML-
+sənədə fiziki deyil, məntiqi sənəd kimi baxmaq lazımdır. Başqa sözlə, sənədin
+görünüşü ona baxılan proqramdan və kompüterin sinfindən asılı olaraq dəyişir. 
+<HTML> teqi. Hər bir HTML-sənədi <HTML> teqi ilə başlayıb, onunla da
+qurtarmalıdır. Bu teqlər sənədin HTML-sənəd olduğunu göstərir. Sənəddə daha
+nələrin verilməsindən asılı olmayaraq, bu teqlər sənədə mütləq daxil edilməlidir.
+<HTML> teq cütlüyündən aşağıdakı kimi istifadə olunur:
+<HTML>
+Mənim ilk HTML-sənədim
+</HTML>
+<HEAD> və <BODY> teqləri. Bütün HTML-sənədlər iki məntiqi hissəyə –
+başlığa və gövdəyə (yəni sənədin özünə)  bölünür. Veb-brauzer sənədi düzgün əks
+etdirmək üçün bu hissələri bir-birindən ayırmalıdır. Ümumiyyətlə, HTML-
+sənədin başlığı sənəd haqqında əsas məlumatı, gövdəsi isə sənədin məzmununu
+əks etdirir. Ona görə də əvvəlki misala başlanğıc və son  <HEAD> teqlərini (teq
+cütlərini) əlavə edək.
+<HTML> <HEAD>  
+burada başlıq yerləşir
+</HEAD>  
+Mənim ilk HTML-sənədim </HTML>
+<HEAD> teq cütlərinin yerləşməsindən göründüyü kimi, müxtəlif teqləri bir
+sətirdə də yazmaq olar. 
+Sənədin məntiqi bölünməsini tamamlamaq üçün onun gövdəsinin başlanğıcı-
+na və sonuna  <BODY>  teqlərini (teqlər cütünü) əlavə etmək lazımdır, çünki
+bütün HTML-sənədlərin başlığı (head) olduğu kimi, gövdəsi (body) də olmalıdır:
+<HTML> <HEAD>  
+burada başlıq yerləşir
+</HEAD> <BODY>
+Mənim ilk HTML-sənədim
+</BODY> </HTML>
+Bütün HTML-sənədlər açan və bağlayan <HTML> teqlərlə (teq-konteynerlə) başlayıb
+qurtarmalıdır. Əgər sənəddə açan və ya bağlayan teqlər buraxılmış olarsa, onda sənədin
+bütün digər teqləri də düzgün qəbul olunmayacaq. 
+Bağlayan teq sağa əyik xətlə (/) başlamalıdır – məhz bu əlamət teqin bağlayan teq oldu -
+ğu nu göstərir.
+4. VEB-PROQRAMLAŞDIRMA 95
+Beləliklə, hər bir HTML-sənəd <HTML> teqi ilə başlayır və </HTML> teqi
+ilə qurtarır. Sənədin başlığı <HEAD> və </HEAD> teq cütləri arasında, gövdəsi
+isə <BODY> və </BODY> teq cütləri arasında yerləşdirilməklə o,  iki məntiqi
+hissəyə bölünür.  
+<TITLE> teqi. İstifadəsi vacib olan sonuncu teq <TITLE> teqidir. İnternetdə
+işləyən zaman, yəqin ki, veb-brauzerin başlıq sətrində baxdığınız HTML-sənədin
+adının əks olunduğunu görmüsünüz. Bu ad HTML-sənədin mətnindəki
+<TITLE> teqinin məzmunundan götürülür. Əgər bu teq sənəddə yoxdursa, onda
+səhifənin adı əvəzinə onun URL-ünvanı göstəriləcək. 
+<HEAD> teqlər cütünün arasında yerləşən bu teq  də cüt şəklində istifadə olu -
+nur və sənədin adını göstərən mətni hər iki tərəfdən əhatəyə alır. Misalımıza bu teqi
+də əlavə etsək, onda tamamlanmış görünüşü olan belə bir HTML-sənəd alınar:
+<HTML> <HEAD> <TITLE> Sənədin adı </TITLE> 
+</HEAD> <BODY>
+Mənim ilk HTML-sənədim
+</BODY> </HTML>
+Sənəd primitiv görünsə də, tərkibində lazım olan bütün teqlər var və ona veb-
+brauzerdə baxmaq olar.
+Redaktorda işləyərkən yaradılmış sənədin yaddaşda saxlanması istənilən
+digər sənədlərin yaddaşda saxlanması kimidir. Unutmaq olmaz ki, sənəd mətn
+formatında saxlanmalıdır. Faylın isə first.html (first.htm) kimi bir adla adlan -
+dırıl ması daha yaxşı olar. 
+1. Səhifələri təsvir etmək üçün niyə xüsusi işarədən istifadə olunur?
+2. HTML-sənəd məntiqi olaraq hansı hissələrdən ibarətdir?
+3. <HTML> və </BODY> teqləri nəyi bildirir?
+Çox vaxt HTML-sənədin adı index.html, default.html və ya home.html olur. Bu adlar
+veb-serverlərin çoxunda istifadə olunur: istifadəçi səhifə yerləşən kataloqa girəndə server
+avtomatik olaraq bu adlardan biri olan faylı axtarır.
+96
+4. VEB-PROQRAMLAŞDIRMA 97
+PRAKTİKUM. HTML-FAYLLARIN YARADILMASI
+VASİTƏLƏRİ
+• Vizual redaktorların hansı üstünlükləri var
+• Teqləri bilmək nəyə lazımdır
+Veb-səhifələr yaratmaq üçün çoxlu alətlər – redaktorlar mövcuddur. Bu
+redaktorları iki qrupa ayırırlar: vizual redaktorlar və mətn redaktorları.  On -
+lar dan hansını seçməyi özünüz müəyyənləşdirməlisiniz. 
+Vizual redaktorlar istifadəçiyə teqin nə olduğunu bilmədən də veb-səhifə ya -
+rada bil mək im kanı verir. Sual oluna bilər: bəs belə olan halda HTML-sənədlər-
+lə işləmək üçün mətn redaktorunda
+“uzun-uzadı” teqlər yazmağa nə ehti -
+yac var? Məsələ ondadır ki, HTML
+dili daim inkişaf edir və yeni imkan-
+larla zənginləşir. Lakin proqram məhsullarında uyğun dəyişikliklər az-az hallar-
+da edilir, yaxud da edilən dəyişikliklər tam olmur. Teqlər haqqında ilkin biliyə
+malik olduqda, xoşunuza gələn veb-səhifələri öyrənmək və təhlil etməklə HTML
+dilinin yeni imkanlarından istifadə edə bilərsiniz. Vizual redaktorlarla işləmək
+üçün öncə HTML-faylları yaratmağı nəzərdə tutan mətn redaktorlarından istifadə
+etməyi öyrənmək lazımdır.
+Veb-sənədlər tərtib etmək üçün çoxlu sayda redaktorlar mövcuddur. Onların
+içərisində HTML Writer, HTML Assistant, WebEdit, HomeSite daha populyardır. 
+HomeSite proqramı professional alətlər sinfinə daxil olsa da, ondan yeni
+başlayan veb-dizaynerlər də asanlıqla istifadə edə bilərlər. Başqa sözlə, HomeSite
+redaktorunda sadə veb-səhifələr yaratmaq üçün NotePad kimi mətn redaktorun-
+da iş bacarıqlarına malik olmaq kifayətdir. Ancaq NotePad proqramından fərqli
+olaraq HomeSite redaktoru HTML dilində əsas sintaktik konstruksiyaları daxil
+etmək üçün, demək olar ki, 90% işi öz üzərinə götürür.  Bundan başqa, yaradılmış
+səhifənin brauzer pəncərəsində necə görünəcəyinə baxmaq üçün, sadəcə, siçanın
+bir çıqqıltısıyla baxış rejiminə keçmək kifayətdir. 
+HomeSite proqramı “redaktor” adlandırılsa da, əslində onun funksional imkan-
+ları bu çərçivəyə sığmır. Onun “veb materiallarının hazırlanması və nəşri üçün alət”
+adlandırılması daha doğru olardı. HomeSite redaktorunun tərkibində olan funk -
+siyalar və utilitlər təkcə ayrı-ayrı səhifələri redaktə etməyə imkan vermir, həmçinin
+veb-saytların yaradılması ilə bağlı çoxlu sayda başqa məsələləri həll edir.
+Vizual redaktorlar
+Mətn redaktorları
+S Ö Z L Ü K
+4.2.
+Havayı yayılan bu proqramları axtarış sistemləri vasitəsilə asanlıqla İnternetdən tapmaq
+olar. HTML-fayllarla işləmək üçün Windows əməliyyat sistemində olan sadə Notepad
+proqramı da istifadə edilə bilər. 
+98
+1. HomeSite və Internet Explorer proqramlarını başladın. 
+2. HomeSite proqramının baş pəncərəsi ilə tanış olun (şəkil 4.3). QuickTab
+pa nelini aktivləşdirin.
+Şəkil 4.3. HomeSite HTML-redaktorunun baş pəncərəsi
+3. FileNew menyu komandasını seçməklə, yaxud alətlər zolağındakı uy -
+ğun düymə vasitəsilə yeni sənəd blankını yaradın.
+4. FileSave as menyu komandasından istifadə edin və fayla ad verməklə
+(məsələn, first.htm), onu istədiyiniz qovluqda saxlayın.
+5. HTML-faylının strukturunu müəyyənləşdirmək üçün QuickStart düy -
+məsini çıqqıldadın. Ekrana dialoq boksu çıxacaq. Heç nəyi dəyişmədən
+onu qapadın. Nəticədə struktur teqlərinin hamısı faylın mətninə daxil
+ediləcək (şəkil 4.4).
+6. HTML-faylının başlığını QuickStart pəncərəsində, yaxud sonradan ver-
+mək olar. Bunun üçün <TITLE> teqindən istifadə edilir. Siçanın göstəri-
+cisini <HEAD> teqinin daxilində çıqqıldadın və Ttl düyməsindən istifadə
+ÇALIŞMA 1. HomeSite redaktorunda veb-səhifənin yaradılması
+edin. Klaviaturada başlığın adını yazın. Bu, veb-səhifənin deyil, HTML-fay -
+lının başlığıdır. Fayla edilmiş dəyişiklikləri yazıb saxlayın.
+Şəkil 4.4. HTML-faylının əsas struktur teqləri
+7. Yaradılmış səhifəyə brauzerdə baxın. Bunun üçün Internet Explorer-də File
+menyusuna daxil olun və Open bəndini seçin. Browse düyməsindən isti-
+fadə etməklə, indicə yaratdığınız faylın saxlanıldığı qovluğa keçin və
+faylın adını çıqqıldadın.
+8. Veb-səhifənin mətnini formatlamağı öyrənin. Bunun üçün QuickTab pane -
+lin dəki Fonts və Lists düymələrindən istifadə edin. 
+9. Faylın mətnini aşağıdakı kimi redaktə edin.
+<HTML>
+<HEAD>
+<TITLE>What is file</TITLE>
+</HEAD>
+<BODY>
+<H2>Fayl nədir</H2><HR>
+Windows’da həm verilənlərə, həm də proqramlara va -
+hid yanaşma var. Orada istifadəçinin rastlaşdığı
+4. VEB-PROQRAMLAŞDIRMA 99
+hər şeyə obyekt kimi baxılır və hər bir obyekt ki -
+mi on lar da parametrlərlə və hərəkətlərlə xa rak te  -
+rizə olu  nur.<HR> 
+Windows sisteminin əsas obyektlərindən biri
+<i>fayldır</i>. <b><i>Fayl </i> diskdə saxlanılan
+hər hansı informasiyadır. </b> Faylda proqram,
+əməliyyat sisteminin özünün bir hissəsi və ümu-
+miyyətlə, hər hansı verilənlər ola bilər. 
+<HR> 
+</BODY>
+<HTML>
+10. Yaradılmış faylın brauzerdə necə göründüyünə baxın (şəkil 4.5). 
+Şəkil 4.5. Yaradılmış veb-səhifənin brauzerdə görünüşü
+1. Veb-sənəd yaratmaq üçün hansı redaktorlardan istifadə edirsiniz?
+2. Dostlarınız haqqında veb-səhifə yaradın.
+3. İstədiyiniz mövzuda veb-səhifə yaradın.
+100
+VEB-SAYT LAYİHƏSİ
+• “Texniki tapşırıq” nədir
+• İnternet saytının səmərəliliyini necə qiymətləndirməli
+• Domen adını necə seçməli
+• “Hostinq” nədir
+Saytın hazırlanmasında müxtəlif
+ix tisaslı insanlar – dizaynerlər, proq -
+ramçılar, me necerlər iştirak edirlər. İri
+şirkətlərdə hər kəs öz işi ilə məş ğul
+olur. İstənilən halda internet-layihə bir
+neçə mərhə lədən ibarətdir.
+1. Layihələndirmə. Bu mərhələni layihənin meneceri həyata keçirir.
+Burada layihə haqqında ətraflı məlumat toplanılır, qarşıya müəy yən
+məqsədlər qoyulur və büdcə planlaşdırılır. Bütövlükdə layihənin
+uğurlu olması, məhz, bu işlərin nə dərəcədə bacarıqla gö rülməsindən
+asılı olur. Bu mərhələnin nəticəsində texniki tap şırıq ha zırlanır.
+2. Dizaynın hazırlanması. Dizayner texniki tapşırıqda irəli sü rül müş
+ide yaları səhifələrin eskizləri şəklində gerçəkləşdirir. Si fa riş çi yə
+gələcək saytın bir neçə (adətən, üç) dizayn variantı təqdim olunur.
+3. Səhifələrin maketlərinin qurulması. Dizayn-maket əsasında
+HTML dilində şablon səhifələrin maketi yaradılır.
+4. Servislərin proqramlaşdırılması. Statik mətn və qrafik informa -
+siya ilə yanaşı, saytda müxtəlif interaktiv servislər – istifa də çi lərin
+qey diyyatı üçün formalar, qonaq kitabları və s. ola bilər. Onların
+yaradılması ilə proqramçı məşğul olur.
+5. Saytın nəşri və onun informasiya ilə doldurulması. Bu mərhə -
+lədə yaradılmış karkas uzaq serverə köçürülür və sayta mətnlər
+da xil edilməyə başlanılır. Bunun üçün professional saytlar məzmu-
+nun idarəolunma sistemləri ilə təchiz olunur. Bu sistemlərin kö -
+məyilə HTML dilində heç nə bilməyənlər də sayta informasiya
+əla və edə bilir.
+6. Layihənin müşayiət olunması. Hər bir sayt təbliğ olunmalıdır,
+yəni onun populyarlığı yüksəldilməlidir. Bu, birdəfəlik deyil,
+planlı iş olmalıdır. Burada sayta daxil olanların sayı izlənilir,
+onların sayt haqqında fikirləri toplanılır, məzmuna dəyişikliklər
+edilir, yeni informasiyalar daxil edilir.      
+Texniki tapşırıq
+Domen adı
+Hostinq 
+FTP
+S Ö Z L Ü K
+4.3.
+4. VEB-PROQRAMLAŞDIRMA 101
+Sual oluna bilər: ümumiyyətlə, sayt nəyə gərəkdir və o, nə üçün yaradılır?
+Səbəblər müxtəlif ola bilər.
+1. Bəzi şirkətlər İnternetə qazanc mənbəyi kimi baxır. Bu gəlir mal -
+ların, xidmətlərin satışından və reklamlardan əldə oluna bilər.
+2. Bir çox şirkətlər internet-layihələrə öz mal və xidmətlərinin rek -
+lam olunmasının bir elementi kimi baxır. Onlar gəliri dolayısı ilə
+əldə etməyi planlaşdırırlar. Belə ki, onlar hesab edirlər ki, insanlar
+sayta daxil olmaqla zəruri informasiyanı alacaq, bundan sonra bir-
+başa şirkətə müraciət edərək sifarişlərini verəcəklər.
+3. Bəzi internet-layihələrin yaradılmasında, ümumiyyətlə, heç bir
+gə lir qazanmaq məqsədi güdülmür. Məsələn, hər hansı futbol klu -
+bu nun fanatlarının saytı.
+Bəs layihə nə haqqında olacaq? Onun yaradılmasından məqsəd nədir? Layihə
+kimlər üçün nəzərdə tutulub? Bu mövzuda hansı saytlar fəaliyyət göstərir?
+Saytda hansı materialların yerləşdirilməsi planlaşdırılır? Sayt hansı bölmələrdən,
+xidmətlərdən ibarət olacaq?
+Bu və digər suallara texniki tapşırıqda cavab verilir. Texniki tapşırıq, layi-
+hənin ətraflı təsvir olunduğu sənəddir.
+Saytın dizaynının özəllikləri. İnternet-saytın dizaynı ilə poliqrafiya məh-
+sullarının dizaynı arasında ortaq cəhətlər çoxdur. Səhifələyicilər kimi, veb-dizay -
+ner də mətn və qrafik informasiya ilə işləyir. Bununla belə, bəzi məqamlar vardır
+ki, onlar internet-saytın dizaynı üçün vacibdir.
+Birincisi, istifadəçi səhifəni oxumur, onu gözdən keçirir. Özü də, bu zaman
+onun baxışları çox xaotik ola bilər. Bu o deməkdir ki, elə bir maket qurmaq
+lazımdır ki, istifadəçi bir baxışda ondan “baş çıxara” bilsin, özü üçün lazım olan
+açar sözləri, görüntüləri tapsın.   
+İkincisi, jurnalın yaradıcı heyəti həmişə üzərində işlədiyi vərəqin ölçülərini
+dəqiq bilir. Sayt isə müxtəlif ölçülü monitorlarda təxminən eyni cür görünməlidir.
+Bu tələbi yerinə yetirmək heç də həmişə asan olmur. 
+Üçüncüsü, yeni jurnalı əlinə götürən kəs bir baxışda informasiyanın həcmini
+müəyyənləşdirə bilər. Tanış olmadığımız sayta daxil olduqda isə biz orada neçə
+səhifənin olduğunu təxmini də olsa deyə bilmirik.
+Dördüncüsü, veb-saytın dizayneri həmişə ziddiyyətli vəziyyətlə qarşılaşır. Bir
+tərəfdən, onun maketinin interfeysi başqa saytlara bənzəməlidir, digər tərəfdən
+isə o, orijinal olmalıdır.  
+102
+Saytın İnternetdə nəşri. İnternet şəbəkəsindəki bütün kompüterlərin unikal
+nömrəsi – IP-ünvanı olur. Hər bir ünvan 32-bitli ikilik ədəddir. Əlverişlilik ba -
+xımından həmin ədəd (IP-ünvan) aralarında nöqtə olan dörd onluq ədəd şəklində
+göstərilir. Bu onluq ədədlərin hər biri isə 0-dan 255-dək qiymət ala bilər.
+Məsələn, 74.125.87.147 IP-ünvanı məşhur google.az axtarış sisteminin yer-
+ləşdiyi serverə məxsusdur.
+Aydındır ki, belə “mənasız” rəqəmlər yığınını yadda saxlamaq çətindir. Buna
+görə də domen adları sistemi – DNS (Domain Name Service) yaradılıb və bu sis-
+tem IP-ünvanların əvəzinə istifadəçi üçün daha anlamlı olan adlardan (məsələn,
+www.edu.gov.az) istifadə etməyə imkan verir. Belə ki, istifadəçi ünvan sa hə -
+sində həmin adı yığdıqda DNS-serverlər avtomatik olaraq onu IP-ünvana çe vi rir.
+Şəbəkədə olan bütün adlar müxtəlif səviyyəli domenlərə bölünüb. Hər bir
+ölkə üçün birinci səviyyəli domen ayrılıb. Məsələn, “.az” domeni Azərbaycana,
+“.de” domeni Almaniyaya, “.ru” domeni Rusiyaya məxsusdur. Ərazi domenləri
+adlanan belə domenlərlə yanaşı, birinci səviyyəli digər domenlər də mövcuddur.
+Məsələn, “.com” domeni kommersiya qurumlarını, “.gov” domeni hökumət təş -
+ki latlarını və s. birləşdirir. Birinci səviyyəli domenlər azdır və yeni domenlər
+nadir hallarda meydana çıxır. Hər bir birinci səviyyəli domen sonsuz sayda daha
+aşağı səviyyəli domeni ünvanlaya bilər.  
+Hər bir domenin sahibi öz domeninin alt-domenlərini (üçüncü, dördüncü və
+s. səviyyəli) yarada bilər. 
+İnternet şəbəkəsində təmsil olunmaq istəyən hər bir hüquqi, yaxud fiziki şəxs
+domen adının seçilməsinə xüsusi diqqət yetirməlidir. Belə ki, domen adları
+müəyyən prinsiplərə cavab verməlidir: 
+• seçilmiş ad saytın mahiyyətinə uy ğun
+gəlməlidir (məsələn, “rabi ta.az”);
+• ad mümkün qədər uzun olmama lı -
+dır (məsələn, “ict.az”);
+• çalışmaq lazımdır ki, domen adı kimi seçilən söz ingilis əlifbasının hərf lə rin -
+dən ibarət olsun (məsələn, “orman” sözü “meşə” sözündən daha uğur lu dur).
+Münasib adın tapılması məsələnin bir tərəfidir: ola bilər ki, sizin seçdiyiniz
+adı kimsə artıq öz adına qeydiyyatdan keçirib. 
+“.az” domenində adların paylanması ilə Azərbaycanda xüsusi şirkət məşğul olur. Orada
+ikinci səviyyəli domenlər qeydiyyatdan keçirilir. Məsələn, azerbaijan.az,
+ict.az, ayna.az belə domenlərdəndir. 
+4. VEB-PROQRAMLAŞDIRMA 103
+Hostinq. Domen adını qeydiyyatdan keçirdikdən sonra siz həmin ada
+hüququnuzu təsdiq edən rəsmi sənəd alırsınız. Lakin ada sahib olmaq hələ kifayət
+deyil: siz öz layihənizi həmişə İnternetə bağlı olan bir serverdə yerləşdirməlisiniz.
+Saytların yerləşdirilməsi və onlara xidmət göstərilməsi ilə çoxsaylı şirkətlər
+məşğul olur. Belə xidmətlərə hostinq deyilir. Hostinq xidməti göstərən şirkət
+təkcə sayt üçün diskdə yer ayırmır, həmçinin bir sıra servislər verir (verilənlər
+bazasının dəstəklənməsi, saytın idarə olunması və s.). Müqavilə imzalandıqdan
+sonra domen adı konkret serverə yönəldilməlidir. Bundan sonra sayta aid bütün
+fayllar həmin serverə göndərilir (köçürülür).
+Ödənişli hostinq xidməti göstərən şirkətlərlə yanaşı, üçüncü səviyyəli domen
+adlarını və disk sahəsini havayı verən çoxlu şirkətlər də mövcuddur. 
+FTP. Faylları uzaq kompüterə köçürmək üçün FTP-protokolunu dəstəkləyən
+istənilən fayl menecerindən istifadə etmək olar. Məsələn, proqramçılar arasında
+FAR proqramı daha populyardır. 
+1. İnternet saytının yaradılması hansı mərhələlərdən ibarətdir?
+2. “Texniki tapşırıq” nədir?
+3. Veb-sayt dizaynı ilə poliqrafiya məhsullarının dizaynı arasında hansı fərqlər var?
+4. Domen adına malikolma hüququnu hansı zamandan sonra uzatmaq lazımdır?
+5. Faylların uzaq serverə köçürülməsi zamanı hansı protokoldan istifadə olunur? 
+104
+5
+İNFORMASİYANIN
+QORUNMASI
+İNFORMASİYA TƏHLÜKƏSİZLİYİ ANLAYIŞI ........................................................................ 106
+ZİYANVERİCİ PROQRAMLAR. KOMPÜTER VİRUSLARI .................................................... 111
+PRAKTİKUM. ANTİVİRUS PROQRAMLARI VASİTƏSİLƏ 
+İN FOR MASİYANIN MÜHAFİZƏSİ ................................................................... 115
+KOMPÜTER CİNAYƏTKARLIĞI ............................................................................................ 120
+KRİPTOQRAFİYA.  RƏQƏMLİ İMZA .................................................................................... 1235.5.
+5.4.
+5.3.
+5.2.
+5.1.
+İNFORMASİYA TƏHLÜKƏSİZLİYİ ANLAYIŞI
+• İnformasiya təhlükəsizliyi hansı yollarla təmin olunur
+• Biometrik mühafizə sistemi nədir
+• İnformasiyanın kompleks mühafizəsi nə deməkdir
+• İnformasiyanın qanunvericiliklə mühafizəsində başlıca məqsədlər
+hansılardır
+İstənilən adamı onun üçün dəyərli bir şeyin itkisi məyus edir. Təsəvvür edin
+ki, mobil telefonunuzu, yaxud dostunuzun ad gününə hədiyyə almaq üçün evdən
+sizə verilmiş pulu itirmisiniz. Belə bir hadisədən məyus olsanız da, bu cür itkinin
+yerini tezliklə doldurmaq olar. 
+İndi, tutaq ki, illərlə sizin üçün vacib
+olan məlumatları qeyd etdiyiniz yazı
+kitabçasını itirmi siniz. Bərpa olunması
+müşkül olan bu itki, yəqin ki, sizi daha
+çox məyus edəcək. Bəs şəxsiyyət
+vəsiqənizi, pasportunuzu, yaxud ali təhsil haqqında diplomunuzu itirsəniz, nə baş
+verə bilər? Bu sənədlərin hər birində yalnız sizin özünüzə məxsus olan mühüm
+informasiyalar vardır. Sənədlərin itirilməsi, yaxud oğurlanması bəzən cinayət
+məsuliyyətinə də səbəb ola bilər.
+Yaşadığımız dövrdə informasiyanın böyük bir hissəsi rəqəmli şəkildə,
+elektron daşıyıcılarda saxlanılır. Bu isə informasiyanın qorunması problemini
+asanlaşdırmır, əksinə, daha da çətinləşdirir. Özü də, bu problem bu gün elə qlobal
+xarakter almışdır ki, müxtəlif ölkələrdə informasiyanın mühafizəsi haqqında
+xüsusi qanunlar qəbul edilir, əvvəllər fəaliyyət göstərməyən yeni özəl və dövlət
+qurum ları yaradılır.
+Hesablama texnikasında təhlükəsizlik anlayışı bir-biriylə sıx əlaqəli olan bir
+sıra məsələləri əhatə edir: kompüterin etibarlı işləməsi təmin olunmalıdır, mühüm
+əhəmiyyət kəsb edən verilənlərin təsadüfən itirilməsi təhlükəsi haqqında
+xəbərdarlıq edilməlidir. Verilənləri icazəsi olmayan şəxslər tərəfindən istifadədən
+İnformasiyanın mühafizəsi 
+Parol
+Biometrik informasiya
+S Ö Z L Ü K
+5.1.
+Azərbaycan Respublikasında ''İnformasiya, informa siya laş dırma və informasiyanın
+mühafizəsi haqqında'' Qanun 1998-ci il aprelin 3-dən qüvvədədir. Bu qanuna görə hər bir
+sənədləşdirilmiş informasiya mühafizə olunmalıdır. Burada sənədləşdirilmiş informasiya
+anlayışı belə təyin olunur:
+Sənədləşdirilmiş informasiya (sənəd ) – maddi daşıyıcıda mətn, səs və ya
+təsvir for ma sın da qeydə alınan və identikləşdirməyə imkan verən istənilən
+rekvizitli informasiya mən bəyindən, saxlanma yerindən, rəsmi statusundan,
+mülkiyyət növün dən, mənsub oldu ğu təşkilat tərəfindən yaradılıb-
+yaradılmadığından asılı olma yaraq sənədləşdirilmiş informasiyadır.
+106
+5. İNFORMASİYANIN QORUNMASI 107
+və müxtəlif dəyişikliklərdən qorumaq lazımdır. Elektron rabi tə vasitələrindən
+istifadə etməklə yazışmalar zamanı sirlərin saxlanması da bu qəbildən olan
+məsələlərdəndir.
+Vətəndaşların və onların əmlaklarının təhlükəsizliyinin keşiyində qanunlar və
+hüquq mühafizə orqanları dayanır. Ancaq bəzi informasiya mübadiləsi
+sistemlərinin hüquqi cəhətdən qorunması hələlik texnologiyaların inkişafından
+geri qalır. Kompüter sistemlərinin qorunması çox zaman özünümüdafiə üsulları
+ilə aparılır. 
+İnformasiyanın qorunmasının iki üsulu vardır: verilənlərə girişin məhdud -
+laşdırılması və verilənləri əks etdirmək üçün zəruri olan informasiya metodlarına
+girişin məhdudlaşdırılması. 
+Verilənləri icazəsiz istifadədən qorumaq üçün, adətən, paroldan istifadə edilir.
+(şəkil 5.1). Parol [password], yalnız verilənlərdən istifadə etmək hüququ olan
+şəxsin bildiyi simvol lar yığınıdır. İstifadəçi verilənlərdən istifadə hüququnu
+təsdiq etmək üçün özünü tanıtmalı və parolunu təqdim etməlidir.
+Şəkil 5.1. İstifadəçinin tanınması üçün dialoq boksu
+Bəzən parol əvəzinə texniki vasitələrdən – elektron açarlardan, smart-kartlar-
+dan və s. istifadə olunur. Biometrik informasiyaya əsaslanan mühafizə sistemləri
+də mövcuddur. Bu sistemlərdə istifadə olunan əlamətlər insanın dəyişməyən
+xüsusiyyətlərinə əsaslanır və ona görə də biometrik informasiya itirilə, yaxud
+saxtalaşdırıla bilməz. İnfor masiyanın biometrik mühafizə sistemlərinə aşağıdakı
+identifikasiya (şəxsin tanınması) sistemləri aiddir:
+• barmaq izlərinə görə identifikasiya;
+108
+• gözün qüzehli qişasının şəklinə görə identifikasiya;
+• nitqin özəlliklərinə görə identifikasiya;
+• üzün təsvirinə görə identifikasiya;
+• ovucun cizgilərinə görə identifikasiya.     
+Barmaq izlərinə görə identifikasiya. Barmaq izlərini oxu yan optik ska -
+nerlər noutbukda, kompüterin siçanında, klaviaturada, fləş-diskdə quraşdırılır,
+həm çinin ayrıca xarici qurğular və terminallar şəklində tətbiq olunur (məsələn,
+aeroportlarda, banklarda və s.).   
+Daranmış (skanerdən keçirilmiş) barmaq izinin naxışı, informasiyadan isti-
+fadəyə icazəsi olan şəxslərin heç birinin barmaq izlərinin naxışı ilə üst-üstə düş -
+mədikdə, informasiya irişilməz olur.
+Şəkil 5.2. Barmaq izinə görə identifikasiya
+Gözün qüzehli qişasının şəklinə görə identifikasiya. Gözün qüzehli qişası
+hər bir insanın nadir  biometrik xüsusiyyətlərindəndir. O, insanda yaşyarımlıqdan
+formalaşır və əslində bütün ömrü boyu dəyişilməz qalır. 
+Gözün təsviri alındıqdan sonra onun üzərinə xüsusi ştrix-kod maskası qoyu-
+lur. Nəticədə hər bir insan üçün fərdi matris alınır. Gözün qü zehli qişasına görə
+identifikasiya etmək üçün xüsusi skanerlərdən istifadə olunur.   
+Nitqin özəlliklərinə görə identifikasiya. İnsanın səsə görə identifikasiyası
+ənənəvi tanınma üsullarından biridir. Telefondakı həmsöhbəti görmədən onu
+asanlıqla tanımaq olur. Hətta, səsinin emosional tonuna görə insanın psixoloji
+109
+durumunu müəyyənləşdirmək mümkündür. Səsə görə identifikasiya nitqin tezlik
+analizinə əsaslanır.  Hər bir insan üçün hər bir səsin (fonemin) fərdi tezlik xarak-
+teristikası vardır.   
+Üzün təsvirinə görə identifikasiya. Şəxsiyyəti müəyyənləşdirmək üçün üzə
+gö rə tanıma texnologiyasından tez-tez istifadə olunur. Bu üsul insanı narahat
+etmir, çünki onun tanınması məsafədən aparılır (insan saxlanılmır, onun hərəkət
+sərbəstliyi məhdudlaşdırılmır).
+Şəkil 5.3. Üzün təsvirinə görə identifikasiya
+İnsanın üzünə görə onun tarixçəsini, simpatiya və antipatiyasını, xəstəlikləri-
+ni, emosional durumunu, ətrafdakılara bəslədiyi hissləri və onlara qarşı məqsəd -
+lərini bil mək olar. Bunların hamısı, məsələn, potensial cinayətkarı aşkara çıxar-
+maq üçün xüsusi maraq kəsb edir.
+İdentifikasiya əlamətləri üzün formasını, rəngini, həmçinin saçın rəngini nə zə -
+rə alır. Mühüm əlamətlər sırasına sifətdə kontrastlığın dəyişildiyi yerlərin (qaş lar,
+gözlər, burun, qulaqlar, ağız və s.) koordinatlarını da aid etmək olar.   
+Hazırda yeni xarici pasportların verilməsinə başlanır ki, onlardakı mikro -
+sxemlərdə pasport sahibinin rəqəmli fotoşəkli saxlanılır.
+Ovucun cizgilərinə görə identifikasiya. Biometrikada identifikasiya məq -
+sədilə əlin ölçülərindən və formasından, eləcə də əlin üstündə barmaq sümük-
+lərinin qatlanma yerlərindən, qan da mar larının yerləşməsindən əmələ gələn na -
+xış lardan və s. isti fadə olunur. 
+Ovuca görə identifikasiya skanerləri bəzi aeroportlarda, banklarda, atom
+elekt rik stansiyalarında quraşdırılır.
+5. İNFORMASİYANIN QORUNMASI
+110
+Bütün ciddi tədbirlər kimi, informasiyanın mühafizəsi də kompleks şəkildə
+həyata keçirilməlidir, yəni yaxşı nəticələr əldə etmək üçün bütün mühafizə
+üsulları birləşdirilməlidir. 
+İnformasiyanın kompleks mühafizə sisteminə aşağıdakılar daxildir:
+• təşkilati mühafizə, yəni müzakirələrdən tutmuş, planların hazır-
+lanmasına və informasiyanın qorunması üzrə qurumların
+yaradılmasına qədər xüsusi tədbirlər;
+• proqram-aparat mühafizəsi, yəni kompüter sistemləri və xüsusi
+proqramların quraşdırılması;
+• mühəndis-texniki mühafizə (video-müşahidə kameraları, kənar
+şəxslərin məxfi otaqlara girişini məhdudlaşdıran intellektual
+qıfıllar və s.);
+• qanunverici mühafizə. 
+1. İnformasiya nə üçün mühafizə olunmalıdır?
+2. Rəqəmli informasiya üçün hansı təhlükələr mövcuddur? 
+3. İnformasiyanı qorumaq üçün hansı biometrik mühafizə üsulları vardır?
+4. Azərbaycan Respublikasının “İnformasiya, informasiyalaşdırma və infor ma si ya -
+nın mühafizəsi haqqında” Qanununu İnternetdən əldə edin və onunla tanış olun.
+Qeyd olunduğu kimi, Azərbaycanda informasiyanın mühafizəsi xüsusi qanunla
+tənzimlənir. Həmin qanuna görə informasiyanın mühafizəsinin başlıca məqsədləri
+bunlardır:
+• informasiyanın məhvinin, itməsinin, saxtalaşdırılmasının qarşısının
+alınması;
+• dövlətin, ictimaiyyətin, vətəndaşların təhlükəsizliyinin təmin edilməsi;
+• informasiyanın məhvi, modifikasiyası, surətinin çıxarılması, təcrid
+edilməsi ilə bağlı sanksiyalaşdırılmamış hərəkətlərin qarşısının alınması;
+• dövlət sirri olan və konfidensial informasiyanın məxfiliyinin qorunması;
+• informasiya proseslərində və informasiya sistemlərinin, texnologiya -
+larının və onların təminat vasitələrinin işlənməsi, istehsalı, tətbiqi zamanı
+fiziki və hüquqi şəxslərin hüquqlarının təmin olunması. 
+ZİYANVERİCİ PROQRAMLAR. KOMPÜTER VİRUSLARI 
+• Kompüter də virusa yoluxa bilər
+• Kompüter viruslarının hansı növləri var və onlar kompüterə düşdükdə
+özlərini necə aparır
+• Kompüterin virusa yoluxmasının hansı nəticələri ola bilər
+• Kompüteri virusa yoluxmadan necə qorumalı
+İnformasiyanın qorunması üçün
+əsas təhlükələrdən biri də kompüterə
+“girmiş” zi yan verici proqramlardır.
+Belə ziyanverici proqramlar verilən-
+lərin tamlığı üçün də təhlükə yarada
+bilər. Kompüterdə sax lanılan verilənlərə
+və proqramlara zərər vuran proqramlara ziyanverici proqramlar deyilir. 
+Ziyanverici proqramların ən geniş yayılmış növü kompüter viruslarıdır.
+Kompüter virusu proqramın, sənədin içərisinə, yaxud verilənlər daşı yı cı sı nın
+müəyyən sahələrinə daxil olan parazit proqram kodudur. Bu kod daxil olduğu
+kompüterdə özü-özünü çoxalda, müxtəlif icazəsiz və ziyanlı işlər görə bilər.
+Özü-özünü çoxaltma qabiliyyəti virus proqramlarının başlıca xüsusiyyətidir.
+Bu proqramlar kompüter və digər daşıyıcıların sahiblərinin xəbəri olmadan öz
+nüsxələrini yaradır. Bir çox virus ziyan vurmaqla – veri lənləri məhv etmək və
+kompüterin normal işini pozmaqla da məşğul olur. Öz bioloji “qardaşıları” kimi,
+kompüter viruslarının arasında da elələri vardır ki, onlar öz-özünə çoxalıb yayılır,
+lakin heç bir ziyan vurmur.
+Kompüterdə virusun “həyat yolu” yoluxdurma və aktivləşmə ilə başlanır.
+Yoluxma təxminən bu cür baş verir: istifadəçi öz kompüterində virus daşıyıcısı
+olan proqramı başladır. Bu proqram İnternetdən də “yüklənə” bilər, tanışlarınız-
+dan köçürüb əldə etdiyiniz proqram da ola bilər. Proqramın yüklənməsindən
+əvvəl, yaxud sonra virus aktivləşərək fəaliyyətə başlayır. Virusun fəaliyyət sse-
+narisi təxminən belədir:
+1. Kompüterdə yoluxdurulması mümkün olan bütün proqramları
+tapmaq.
+2. Özünü proqramın əvvəlinə, yaxud sonuna yazmaq.
+3. Əgər “kritik” gün, başqa sözlə, virusun hücuma keçəcəyi gün
+ye tiş mişsə, dağıdıcı işlər görmək.
+Virus
+Virus hücumu
+Troyalı
+Soxulcan
+S Ö Z L Ü K
+Əksər ölkələrdə ziyanverici proqramların yaradılması, isti fa dəsi və yayılması qanunla
+qadağandır.
+5.2.
+1115. İNFORMASİYANIN QORUNMASI
+4. Əgər həmin tarix yetişməmişsə, hər hansı “xırda” zərər yetir-
+mək; məsələn, kompüterin sərt diskində hər hansı kiçik sahəni
+“şifrləmək”.  
+Bəs kompüterin virusa yoluxmasını necə müəyyən etmək olar? Kompüterə
+ziyanverici proqramların girməsini bildirən bir sıra əlamətlər vardır:
+• ekrana nəzərdə tutulmamış məlumatların və görüntülərin çıxma sı;
+• nəzərdə tutulmamış səs siqnallarının verilməsi;
+• CD/DVD disksürəninin öz-özünə açılması və bağlanması;
+• kompüterdə hər hansı proqramın “özbaşına” başladılması;
+• kompüterin tez-tez sıradan çıxması və “ilişməsi”;
+• proqramlar başladılarkən kompüterin yavaş işləməsi;
+• fayl və qovluqların yoxa çıxması, yaxud dəyişdirilməsi;
+• sərt diskə tez-tez müraciət;
+• brauzerin asılıb qalması, yaxud özünü gözlənilməz aparması
+(mə sələn, proqram pəncərəsini qapatmağın mümkün ol mama sı).
+İnternetin inkişafı virusların da yayılma sürətinə güclü təsir göstərdi. Bundan
+başqa, viruslar “keyfiyyətcə” də dəyişdi. Əgər təxminən 10 il bundan öncə virus
+müəlliflərinin əsas məqsədi kompüteri sıradan çıxarmaq idisə, XXI əsrin əvvəl-
+lərində virusların başlıca fəaliyyəti düşdüyü kompüterdən hər hansı infor-
+masiyanı oğurlamağa və həmin kompüterə kənar şəxslərin daxil olmasını təmin
+etməyə yönəlmişdir. İnformasiyanı oğurlayan virus hər hansı bir şirkətin gizli
+saxlanılan sənədlərini açıqlamaqla, həmin şirkətin nüfuzuna ciddi zərbə vura
+bilər. Əgər belə virus məxfi hərbi sənədlərin, yaxud dövlət sirlərinin olduğu kom-
+püterə düşərsə, nə baş verəcəyini təsəvvür etmək belə çətindir.   
+Dünyanın inkişaf etmiş ölkələrində kompüter viruslarının vurduğu ziyan yüz
+milyon dollarlarla ölçülür.
+“Kompüter virusu” termini ilk
+dəfə 1973-cü ildə “Westworld”
+fantastik filmində istifadə olu -
+nmuşdur. Həmin film də bu söz
+birləşməsi məhz bugünkü an -
+lamda işlə dilmişdir: “Kom pü -
+ter sisteminə geniş yayılmış
+ziyanverici proq ram”.
+112
+113
+Virus proqramlarının ən ziyanlı növlərindən biri Troya proqramlarıdır. Troya
+proqramları istifadəçidən icazəsiz olaraq informasiyaları toplayır və onları “cina -
+yətkara” göndərir, eləcə də həmin informasiyaları dağıdır, yaxud ziyanlı məq -
+sədlər üçün dəyişdirir. Bundan başqa, Troya proqramları kompüterin işini poza
+bilər, yaxud istifadəçidən xəbərsiz olaraq kompüterin resurslarından ziyanlı
+məqsədlər üçün istifadə edə bilər.
+Troya proqramları, adətən, kompüterə şəbəkə soxulcanı kimi girir. Onlar bir-
+birindən öz “əməllərinə” görə fərqlənir. 
+• Uzaqdan idarəetmə utilitləri. Bu qrupa aid proqramlar şə bə kə -
+də olan kompüteri uzaqdan idarə edən utilitlərdir. Belə gizli
+idarəetmə utilitləri faylları qəbul edə, yaxud müxtəlif ünvanlara
+göndərə, onları başlada və məhv edə, kompüteri yenidən yük-
+lədə bilər və s.   
+Troya virusları öz adı nı
+bir tarixi hadisədən
+götürüb. Homerin “İlia da”
+poemasında qə dim yunan-
+lar tərəfindən Troya şəhə -
+rinin mü ha sirəsi (e.ə. təx -
+minən 1250-ci ildə) təs vir
+olu nub. Yunanlar taxtadan
+nəhəng at dü zəl dib, içəri-
+sinə öz dö yüş çü lərini yer -
+ləşdir miş və onu şəhər
+darvazasının qabağında
+qoymuşlar. Heç nədən
+şübhələnməyən troya lı lar
+atı çəkib darvaza dan içə ri
+salmış, ancaq ge cə yunan
+döyüş çüləri atın içəri sin -
+dən çıxıb, şə həri tut-
+muşlar.  
+Ziyanverici proqramların yarandığı dövrlərdə, sadəcə, istifadəçilərin işinə mane olan
+zarafat-viruslar daha populyar idi. Məsələn, bir virus proqramı ekrana belə məlumat
+çıxarırdı: “L + A + M + E + R + F1 + Alt klavişlər kombinasiyasını eyni zamanda basın”.
+İstifadəçi bu “məsləhətə” əməl edən kimi məlumat verilirdi ki, faylların yerləşmə cədvəli
+sərt diskdən silinərək, operativ yaddaşa yazıldı və əgər istifadəçi barmağını hər hansı bir
+klavişin üzərindən götürərsə, o, sərt diskdəki informasiyalarla vidalaşmalı olacaq. Yox,
+əgər düz bir saat bu vəziyyətdə gözləyə bilsə, hər şey əvvəlki vəziyyətinə qayıdacaq. Bir
+saat bu cür vəziyyətdə qaldıqdan sonra məlum olurdu ki, bu bir zarafat imiş.
+5. İNFORMASİYANIN QORUNMASI
+• Casuslar. Bu qrupa aid “troyalılar” elektron casusluqla məşğul
+olur: yoluxmuş kompüterdə istifadəçinin klaviaturadan da xil
+etdiyi informasiya, ekranın şəkli, aktiv proqramların siyahısı və
+istifadəçinin həmin proqramla yerinə yetirdiyi əməllər müəyyən
+fayla yazılır və vaxtaşırı “cinayətkara” göndərilir. Bu tipli Troya
+proq ramlarından çox zaman bank və onlayn ödəmə sistemlə -
+rinin istifadəçiləri haqqında məxfi informasiyaların oğurlanması
+məqsədilə istifadə olunur.
+• Reklam proqramları. Reklam proqramları (ing. Adware: Ad-
+vert isement – reklam və Software – proqram təminatı) hər hansı
+bir proqrama reklam kimi yerləşdirilir və Troya casus proqramı
+funk siyasını yerinə yetirə bilir. Reklam proqramları gizlicə
+kom püterin istifadəçisi haqqında müxtəlif informasiyalar top la -
+ya, sonra onu “cinayətkara” göndərə bilir.  
+Virus hücumlarının təsirini heçə endirməyin ən uğurlu yolu mühüm
+əhəmiyyət kəsb edən verilənlərin ehtiyat üçün surətlərinin saxlanmasıdır. Viruslar
+aparat vasitələrini sıradan çıxara bilmir. Virus hücumlarının əlamətləri aşkar-
+landıqda kompüterin verilənlər daşıyıcılarını büsbütün təmizləmək lazımdır.
+Verilənlərin ehtiyat daşıyıcılardan köçürülməsi kompüter sisteminin normal
+vəziyyətini bərpa etməyə imkan verir.
+Kompüterdə virus əlamətləri aşkarlandıqda nə etməli? İlk addım olaraq
+yerinə yetirdiyimiz işlərin nəticələrini xarici daşıyıcıda (disketdə, CD- və ya
+DVD-diskdə, fləş-kartda və s.) saxlayın. Sonra
+• kompüteri lokal şəbəkədən və İnternetdən ayı rın (əgər qoşulmuş sa);
+• əməliyyat sistemi kompüterə düşmüş virus nəticəsində sərt disk dən
+yüklənmirsə, onda onu CD diskdən yükləməyə çalışın;
+• antivirus proqramını başladın.
+1. Virus proqramlarının başlıca xüsusiyyəti nədir?
+2. Kompüterin virusa yoluxmasının hansı əlamətləri var?
+3. Kompüter virusa yoluxduqda, ilk növbədə, nə etmək lazımdır?
+114
+PRAKTİKUM. ANTİVİRUS PROQRAMLARI VASİTƏSİLƏ
+İNFORMASİYANIN MÜHAFİZƏSİ
+• Kompüterinizə virus düşərsə nə etməli
+• Hansı antivirus proqramına üstünlük verməli
+• Antivirus proqramını necə quraşdırmalı
+• Darama prosesini necə həyata keçirməli
+Kompüter virusunun öz bioloji “qardaşı” ilə daha bir oxşarlığı da əvvəlcədən
+hər ikisinin qarşısının alınmasının (profilaktikasının), yoluxmadan sonrakı müali -
+cəyə nisbətən çox-çox asan olmasıdır.
+Kompüter viruslarından qorunma üç səviyyədə təşkil oluna bilər: 
+Birinci səviyyədə virusların kompüterə girməsinin qarşısı alınır. 
+İkinci səviyyədə virus hücumlarının qarşısı alınır. 
+Üçüncü səviyyədə virus hücumlarının təsiri minimuma endirilir.
+Təhlükəsizlik tədbirləri nəticəsində
+virusların kompüterə düşməsi təh-
+lükəsi azaldılır. Şübhəli mənbələrdən
+əldə olunan proqram təminatlarından
+istifadədən qaçmaq lazımdır. Kom pü -
+te rə kənardan, o cümlədən İnternetdən
+daxil olan proqram ko duna çox ciddi
+nəzarət olunmalıdır.  
+Yoluxma faktını aşkarlamaq, vi -
+rusların çoxalmasına mane olmaq və
+virus hücumlarının qarşısını almaq
+üçün antivirus proqramlarından isti-
+fadə olunur. Verilənlərin mübadiləsi
+zamanı viruslara xas olan baytların
+aşkar edilməsi və viruslar üçün xarak-
+terik hərəkətlərin qeydə alınması on -
+ların axtarışının əsasını təşkil edir.  
+Müqayisə üçün zəruri olan ve -
+rilənlər antivirus proqramının verilənlər bazasında saxlanılır. Antivirus verilənlər
+bazasını daim yeni viruslar haqqında məlumatlarla doldurmaq, başqa sözlə, virus
+bazasını yeniləmək lazımdır. Antivirus proqramlarının uğuru da, məhz, bundan
+asılı olur. 
+Antivirus proqramları
+Darama
+avast!
+S Ö Z L Ü K
+5.3.
+1155. İNFORMASİYANIN QORUNMASI
+Fəaliyyətlərindən asılı olaraq antivirus proqramları bir neçə sinfə ayrılır:
+• Detektorlar hər hansı məlum virusa yoluxmuş faylları aşkarla-
+mağa imkan verir.
+• Doktorlar (faqlar) təkcə yoluxmuş faylları aşkarlamır, həm də
+onları ilkin duruma qaytarmağa çalışır. 
+• Müfəttişlər kompüter hücumları mümkün olan yerlərdəki dəyi -
+şikliklərə nəzarət edir; bu məqsədlə proqramların və disklərin
+sistem sahələrinin ilkin, yoluxmamış hesab edilən durumları
+haqqında məlumat yadda saxlanılır, sonra istifadəçinin müəyyən
+etdiyi vaxtda onları cari vəziyyətlə müqayisə edir.
+• Doktor-müfəttişlər yuxarıda göstərilən iki növ proqramın im -
+kan larını özündə birləşdirir.
+• Süzgəclər virusların çoxalma və zərərvurma məqsədi ilə əmə -
+liy yat sisteminə etdikləri müraciətləri tutur.
+• Vaksinlər, yaxud immunizatorlar iş qabiliyyətlərini saxlamaq -
+la proqramları elə dəyişdirirlər ki, onlar viruslar üçün yoluxmuş
+kimi görünsün. Belə olduqda, viruslar həmin fayllara “ilişmir”.
+Kompüterdə virusların axtarışı verilənlər daşıyıcılarının, yaxud axınının
+daranması [scan] yolu ilə yerinə yetirilir. Darama prosesində operativ yaddaşda,
+daşıyıcılarda virusa yoluxmanın əlamətlərinin olub-olmaması yoxlanılır.
+Aşkarlanmış viruslar deaktivləşdirilir və məhv edilir. Mümkün olduqda də -
+yişdirilmiş (yoluxmuş) faylların ilkin vəziyyəti bərpa olunur.  
+Bu gün Symantec Norton Antivirus, Kasperski antivirusu, Dr. Web, AcAfee
+VirusScan, Panda Titanium Antivirus kimi antivirus proqramları daha çox
+tanınır.
+Göstərilən proqramlar, əsasən, kommersiya məhsuludur, lakin
+fərdi kompüterdə istifadəsi havayı olan antivirus proq ramları da
+mövcuddur. Onların içərisində avast! daha populyardır. Bu proq -
+ramı www.avast.com saytından əldə etmək olar.
+116
+Şəkil 5.4. Avast! proqramının baş pəncərəsi
+1. Quraşdırma faylını (setup*.exe) başladın. Run düyməsini çıqqıl-
+dadan kimi quraşdırma ekranı açılacaq (şəkil 5.5). 
+Şəkil 5.5. Quraşdırma ekranı
+ÇALIŞMA 1. Avast! antivirusunun quraşdırılması 
+1175. İNFORMASİYANIN QORUNMASI
+2. Next düyməsini çıqqıldadın. Öncə sistem üçün gərəkli olan minimal
+tələblərlə, sonra isə Lisenziya anlaşması ilə tanış olun (şəkil 5.6). 
+Şəkil 5.6. Lisenziya anlaşması pəncərəsi
+3. Davam etmək üçün Anlaşmaya razılığınızı bildirin (I agree va-
+ riantını seçin) və Next düyməsini çıqqıldadın.
+4. Proqram fayllarının saxlanacağı qovluğun müəyyən olunması pən -
+cərəsi açılacaq. İstədiyiniz qovluğu göstərə bilərsiniz, ancaq yaxşı
+olar ki, susqunluqla təklif olunan qovluğu qəbul edəsiniz. Next
+düyməsini çıqqıldadın. 
+5. Açılan konfiqurasiya pəncərəsində (şəkil 5.7) əksər istifadəçi üçün
+məq bul olan variant təklif olunacaq. Əgər heç nəyi dəyişmək
+istəmir sinizsə, Next düyməsini çıqqıldadın. 
+118
+Şəkil 5.7. Konfiqurasiya pəncərəsi
+6. Proqram nəyin və harada quraşdırılacağını təsdiq edəcək. Eləcə də
+diskdə tələb olunan boş yer haqqında məlumat verəcək. Next düy -
+məsini çıqqıldadın. 
+7. Daramanın cədvəl üzrə və yüklənmə zamanı köklənməsinin zə ruri
+olub-olmaması haqqında sual veriləcək.
+1195. İNFORMASİYANIN QORUNMASI
+8. Axırda quraşdırmanın uğurla sona çatdığı bildiriləcək və bu zaman
+kompüteri yenidən yükləmək lazım gələcək. Restart variantını
+seçin və Finish düyməsini çıqqıldadın.
+9. Kompüter yenidən yükləndikdən sonra ekranın sağ aşağı küncündə
+göy kürəşəkilli simgə görəcəksiniz.
+Quraşdırma sona çatdı.
+1. Kompüterinizdə hansı antivirus proqramı quraşdırılıb? 
+2. Virus bazasının yenilənməsi nə deməkdir?
+3. Kompüterinizdə antivirus proqramının virus bazasını təzələyin.
+4. Kompüterinizdəki antivirus proqramı vasitəsilə konkret qovluğu darayın.
+KOMPÜTER CİNAYƏTKARLIĞI
+• Kibercinayətkarlıq hansı sahələrdə geniş yayılıb
+• “Hakerlər” kimdir
+• Proqram təminatı piratçılığı nə deməkdir
+• Proqram məhsullarına müəlliflik hüququ necə qorunur
+Bu gün biz qlobal qarşılıqlı əlaqələr dünyasında yaşayırıq. Biz bir an
+içində dünyanın o biri başındakı insanlarla söhbət edə, yaxud böyük
+məbləğdə pul əməliyyatları həyata keçirə bilirik. 
+Fərdi kompüterlərin sayının gö rün -
+məmiş sürətlə artması, İnter netə sər-
+bəst çıxış və yeni kommunikasiya
+qur ğularının sürətli in ki şafı həm
+asudə vaxtın keçirilməsi, həm də
+biznesin aparılması üsullarını də-
+yişdirdi. Eyni zamanda qaraniyyətli insanlar üçün də yeni imkanlar açıldı,
+yeni cinayət üsulları meydana çıxdı. Bəşəriyyət yeni cinayət növü ilə –
+kibercinayətkarlıqla qarşılaşdı (təəssüf ki, həm texnologiya, həm də peşəkar
+kadrların çatışmazlığı səbəbindən əksər hallarda hüquq mühafizə orqanları
+bu cinayətkarlarla “bacara bilmir”).
+Kibercinayətkarlıq dedikdə, İnternet, yaxud başqa kompüter şəbəkə -
+lə rindən istifadə olunmaqla törədilən cinayətlər nəzərdə tutulur. “Kiber -
+cinayətkarların” hücum obyektləri, əsasən, banklar, birjalar, İnternet-mağa -
+Kibercinayətkarlıq
+Haker
+Piratçılıq
+Müəlliflik hüququ
+S Ö Z L Ü K
+5.4.
+120
+zalar olur. Cinayətin həyata keçirilməsində kompüterlər, yaxud şəbəkələrdən
+aşağıdakı kimi istifadə oluna bilər:
+• Kompüter, yaxud şəbəkə cinayət aləti ola bilər, başqa sözlə, cinayətin hə -
+yata keçirilməsində onlardan istifadə oluna bilər.
+• Kompüter, yaxud şəbəkə cinayətin hədəfi (“qurbanı”) ola bilər.
+• Kompüter, yaxud şəbəkə cinayətli məqsədlərə çatmaq üçün yardımçı va -
+sitə ola bilər.
+Hakerlər. Kompüterlər yenicə meydana çıxanda “haker” sözü hörmətlə çək-
+ilirdi. Əməliyyat sisteminin daha yaxşı işləməsi üçün onun nüvə sinin bir hissəsi-
+ni yenidən yazan, yaxud hamının unutduğu administrator paro lunu “ləğv edən”
+kompüter dahilərini belə adlandırırdılar. Qeyri-standart düşünmə qabiliyyətlərinə
+və ən mürəkkəb problemlərin ağıllı həllini tapdıqlarına görə bu, onlara hörmət
+əlaməti idi.
+Lakin zaman ötdükcə bu söz əsl mənasını itirdi, çünki “hakerlərin” heç də
+hamısı öz ənənəvi işləriylə ki fa yət lən mədilər. Onların bəziləri pis mü hafizə olun-
+muş kompüter sistemlərinə girməyə və bununla da “bunun mümkünlüyünü sübut
+etməyə” başladılar. Başqaları isə hər hansı mühüm informasiyanı oğurlamaq
+məqsədilə sistemləri “sındırmaqla” məşğul oldular.
+“Haker” termininin öz mənasını itir di yini görən kompüter
+ictimaiyyəti əlavə terminlər (məsələn, “script kiddie” və
+“cracker”) daxil etdilər. “Script kiddie” (ssenari uşağı)
+termini ilə hakerlik sahəsində o qədər də biliyi olmayan və
+“sındırmaq” üçün digər hakerlərin uti li t lərindən istifadə
+edən adamları adlandırırlar. “Cracker” (kreker) isə bilik səviyyəsinə görə
+“script kiddie” ilə haker arasında olan şəxsə deyilir. O, proqramların üzünün
+çıxarılmaması üçün qoyulmuş müdafiəni “sındıra” bilir, ancaq proqramda yeni
+zəif yerlər tapmaq, yaxud haker utilitləri yazmaq üçün onun biliyi kifayət etmir.
+23 noyabr 2001-ci il tarixində Budapeşt şəhərində Avropa Şurasının “Kibercinayət
+haqqında” Konvensiyası qəbul olunmuşdur. Bu sənəddə kibercinayətlər bir neçə hissəyə
+bölünür:
+• Kompüter verilənlərinin və sistemlərinin məxfiliyinin, tamlığının və
+təhlü kə siz li yinin  əley hinə olan cinayətlər ;
+• Kompüterlərlə bağlı cinayətlər;
+• Məzmunla bağlı hüquq pozuntuları;
+• Müəllif hüququ və əlaqəli hüquqların pozulması ilə bağlı cinayətlər.
+1215. İNFORMASİYANIN QORUNMASI
+Proqram təminatı piratçılığı. Proqram məhsulunun alıcısı əslində yalnız
+həmin proqramın istifadə hüququnu əldə edir. Proqramın özü isə onun mülkiy -
+yəti nə keçmir. Ona görə də proqram məhsulunun üzünün çıxarılıb yayılması
+qanun pozuntusu hesab olunur. Belə hərəkətlərə kompüter piratçılığı, yaxud
+proq ram təminatı piratçılığı deyilir.
+Kompüter piratçılığı proqram təminatı bazarı üçün çox böyük problemdir.
+İstifadədə olan hər bir lisenziyalı (qanuni yolla əldə olunmuş) proqrama ən azı bir lisen-
+ziyasız, yaxud “pirat” nüsxə düşür. Bəzi ölkələrdə isə bu, 1:9 nisbətinə çatır. Piratçılıq
+proqram təminatı istehsalına çox mənfi təsir göstərir, yeniliyin qarşısını alır, proqram
+məhsulunu hazırlayanları və istehsalçıları planlaşdırdıqları gəlirdən məhrum edir. 
+Proqramların üzünün icazəsiz köçürülməsinin qarşısını almaq üçün xüsusi
+vasitələrdən istifadə oluna bilər. Lisenziyalı proqramın distributiv dəstinə daxil
+olan bəzi verilənlər proqramın özünə daxil olmur. Belə proqramın üzü
+çıxarılarkən həmin verilənlər itə bilər ki, bu da mühafizə üsullarından biridir.
+Müəlliflik hüququ. İnformasiya-kommunikasiya texnologiyalarının dinamik
+inkişafı və  kompüterlərin çox sürətlə insanların həyatına daxil olması ilk vaxtlar
+qanunvericilərin buna hazır olmadığını göstərdi. 
+Bir müddət kompüter proqramlarının hüquqi müdafiəsi məsələsi
+açıq qaldı. Lakin getdikcə bu boşluqlar doldurulmağa başlandı. Be -
+lə ki, hazırda kompüter proqramları (kompilyatorlar, redaktorlar,
+verilənlər bazası və s.) əmtəə məhsulu statusu almışdır və onlar da
+intellektual mülkiyyət kimi qorunur.  
+Kompüter proqramlarının müəlliflik hüququnun tanınması üçün onların hər hansı
+qurumda qeydiyyatdan keçirilməsi vacib deyil. Proqrama müəlliflik hüququ
+avtomatik olaraq onun yaradılması zamanı meydana çıxır. Proqramın yaradıcısı
+öz hüquqlarını elan etmək üçün proqramın ilk buraxılışında üç elementdən ibarət
+olan müəlliflik hüququnun qorunması işarəsindən istifadə edə bilər:
+• çevrənin içərisində, yaxud mötərizədə “C” hərfi – ©, (C);
+Rusiyada hakerlər “Qazprom”un kompüter sisteminə daxil ola bilmişdilər. Rusiya Daxili
+İşlər Nazirliyinin məlumatına görə onlar qazın kəmərlərlə nəqlinin idarəolunması sistemi -
+ni nəzarətə ala bilmişdilər.
+ABŞ-ın hökumət və hərbi obyektləri artıq çoxdan bütün dünyadan olan hakerlərin öz
+“peşəkarlıqlarını” nümayiş etdirmək üçün “sevimli fəaliyyət meydanına” çevrilib. ABŞ-ın
+Müdafiə Nazirliyinin kompüter sisteminə ən təhlükəli müdaxilələrdən biri 1987-ci ildə
+baş verib. On yeddi yaşlı haker raketləri idarəetmə sisteminin fayllarınadək gedib çıxa
+bilmişdi. Onu yalnız dəyəri 1.2 milyon dollar olan proqram təminatının üzünü köçürərkən
+aşkarlamaq mümkün olmuşdu.
+122
+• hüquq sahibinin adı;
+• proqramın ilk buraxılış ili. 
+Məsələn, Word mətn redaktoruna müəlliflik hüququnun qorunması işarəsi belə
+göstərilir:
+© 1983-2003 Microsoft Corporation
+Proqramın müəllifi öz proqramını istənilən yolla çoxaltmaq və yaymaq, eləcə də
+dəyişdirmək üçün müstəsna hüquqa malikdir. Proqramın nüsxəsinə qanuni yolla
+sahib olmuş qurum, yaxud istifadəçi proqramın işləməsi üçün istənilən hərəkəti
+edə, o cümlədən onu kompüterin yaddaşına yaza və saxlaya bilər. Bununla belə,
+lisenziyalı proqram təminatının gizli olaraq üzünün çıxarılması və istifadəsini
+qadağan edən qanunları bilmək və onlara əməl etmək lazımdır. Proqramın sahibi
+onun müəlliflik hüququnu pozan qurumlara, yaxud istifadəçilərə qarşı məhkəmə
+iddiası qaldıra və ona dəymiş ziyanın ödənilməsini tələb edə bilər.
+1. Kibercinayətkarlıqda kompüter, yaxud şəbəkə hansı “rol” oynayır?
+2. Haker hücumu nədir və o, kimin üçün təhlükəlidir? 
+3. Proqram təminatı piratçılığının qarşısını necə almaq olar? 
+4. Müəlliflik hüququnun qorunması işarəsi hansı elementlərdən ibarətdir?
+© işarəsindəki çevrənin məcazi mənası nə ola bilər?
+KRİPTOQRAFİYA.  RƏQƏMLİ İMZA
+• Kriptoqrafiya nədir
+• Gizli və açıq açar nədir
+• Rəqəmli imza nə üçün lazımdır
+• Rəqəmli imzanın həqiqiliyi necə müəyyənləşdirilir
+Qeyd olunduğu kimi, haker hücumlarının əsas məqsədi təkcə kom püter də olan
+informasiyanın məhv edil məsi deyil,
+həm də onların ica zəsiz “ələ keçi ril -
+məsi dir”. Əgər bu nun qarşı sını texniki
+vasitə lərin kö mə yilə almaq müm kün
+olmursa, onda şifrləmə sistemindən
+istifadə olunur. Şifrləmə üsulları ilə
+kriptoqrafiya məşğul olur.   
+Kriptoqrafiya
+Rəqəmli imza
+Rəqəmli sertifikat
+Açıq açar
+Gizli açar
+S Ö Z L Ü K
+5.5.
+Azərbaycanda müəlliflik hüququ Azərbaycan Respublikasının “Müəlliflik hüququ və
+əlaqəli hüquqlar haqqında” 8 oktyabr 1996-cı il tarixli qanunu ilə tənzimlənir.
+1235. İNFORMASİYANIN QORUNMASI
+Kompüter texnikasının inkişafı ilə əlaqədar olaraq “əski” kriptoqrafiya yeni -
+dən gündəmə gəldi. 
+Mövcud şifrləmə üsulları iki qrupa ayrılır: gizli (qapalı) açarla şifrləmə və
+açıq açarla şifrləmə. Şifrin açılması (deşifrləmə) alqoritmini açar müəyyən-
+ləşdirir.  
+Gizli açar elə açara deyilir ki, gizli olaraq yazışan iki abonent əvvəlcədən onu
+bir-birlərinə verirlər (bildirirlər). Həm şifrləmə, həm də deşifrləmə bu vahid açar
+vasitəsilə aparılır. Gizli yazışmada əsas məsələ bu açarı üçüncü şəxslərdən gizli
+saxlamaqdır.
+İndi gizli açar vasitəsilə şifrləməyə aid bir misala baxaq. 1 və 32 ədədləri ara -
+sında hər hansı bir k ədədi götürülür. Əlifbanın hərfləri çevrə boyunca saat əqrəbi
+istiqamətində yazılır (belə ki, “a” hərfi “b” və “z” ilə qonşu olur). Sonra şifr-
+lənəcək mətndə hər bir hərf “hərflər çevrəsində” ondan saat əqrəbi istiqamətində
+k sayda hərfdən sonra yerləşən hərflə əvəz olunur. Boşluq və durğu işarələri də-
+yişdirilmir. Belə şifrləməyə sürüşmə üsulu ilə şifrləmə, yaxud Sezar şifri de-yilir.
+Məsələn, k = 3 olduqda Azərbaycan əlifbasında “a” hərfi “ç” ilə, “b” hərfi “d” ilə
+və s. əvəz olunar. Bu cür şifrləmədən istifadə etsək, “KRİPTOQRAFİYA” sözü
+“MTQŞVRNTÇHQBÇ” şəklinə düşəcək.
+“Kriptoqrafiya” iki yunan sözündən
+(κρυπτός – gizli və γράφω – yazı ram)
+ibarət olub, “gizli yazı” mənasını verir.
+Kriptoqrafiyadan istifadə haq qında ilk
+məlumatlar Qədim Misir (e.ə. 1900-cü
+il), Qədim Meso po ta miya (e.ə. 1500-
+cü il) döv rü nə aiddir. Sezar şifri
+adlanan şifrləmə üsulunu Qədim
+Roma imperatoru Yuli Se zar düşünüb
+tapmışdı. 
+İkinci dünya müha ri bə si zamanı Polşa
+və Britaniya mü təxəs sis ləri alman şifr-
+ləmə maşını olan “Eniq ma”nın sirrini
+açmışdılar. Nəticə də almanların çoxlu
+sualtı qa yığı məhv edildi, “Bismark”
+linkoru batı rıldı və Al maniyanın si -
+lahlı qüv vələri bir sıra əmə liy yatlarda
+ağır itkilərə məruz qal dı.
+124
+Aydındır ki, belə şifri açmaq o qədər də çətin deyil. Müasir kriptoqrafiyada
+qat-qat mürəkkəb açarlardan istifadə olunur.
+XX əsrdə kriptoqrafiyaya yeni anlayış – asimmetrik şifrləmə alqoritmləri
+daxil oldu. Asimmetrik alqoritmlər, yaxud açıq açarlı alqoritmlər iki ayrı-ayrı
+açardan – şifrləmə (açıq) və deşifrləmə (gizli) açarından istifadəyə əsaslanır. Açıq
+açarlı alqoritmlərdə əsas tələb odur ki, açıq açara görə gizli açarı hesablayıb tap-
+maq mümkün olmasın. Belə olduqda şifrləmə açarı hər kəsə bildirilə bilər, onsuz
+da şifri açmaq üçün başqa açar gərəkdir. 
+Rəqəmli imza və sertifikat. Kriptoqrafiya üsulları təkcə məlumatları məx-
+filəşdirməyə imkan vermir. Həmçinin, məlumatın tamlığını qorumaq üçün onun
+dəyişdirilməsi, yaxud mətnin başqası ilə əvəz edilməsi faktını, o
+cümlədən, məlumatın mənbəyinin həqiqiliyini aşkarlamağa imkan
+verən üsullar da mövcuddur.
+Son zamanlar rəqəmli imza texnologiyası meydana çıxmışdır ki, bu
+da imzalanmış sənədi ancaq kağız şəklində çatdırmaq zərurətini aradan qaldır-
+mışdır. Rəqəmli imza dedikdə, aydındır ki, söhbət imzanın skaner vasitəsilə
+üzünün çıxarılmasından getmir.
+Azərbaycan Respublikasının “Elektron imza və elektron sənəd haqqında” Qanunu 2004-
+cü il martın 9-dan qüvvədədir. Bu qanunda elektron imza anlayışı belə təyin olunur:
+Elektron imza – digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli
+olan, imza sahibini identikləşdirməyə imkan verən verilənlər.
+Araşdırmalarla sübut olunmuşdur ki, mütləq etibarlı şifrlər olmur. Sadəcə, istənilən şifrin
+açılması zaman və məsələnin həllinə yönəldilən resurslarla bağlıdır.
+1255. İNFORMASİYANIN QORUNMASI
+Rəqəmli imza, yaxud elektron imza şəxsi gizli şifrdir və onun açarı yalnız
+onun sahibinə məlumdur. Rəqəmli imza üsullarında çox zaman asimmetrik şifr-
+ləmə alqoritmlərindən – şifrləmə üçün gizli açardan, deşifrləmə üçün isə açıq
+açardan istifadə olunur.
+Rəqəmli imza məlumatın həqiqiliyinin imza sahibi tərəfindən təsdiq olundu -
+ğunu bildirir. Əgər rəqəmli imza ilə təsdiq olunmuş sənəd almısınızsa, onda sizə
+şifri açmaq üçün imza sahibinin vermiş olduğu açıq açar da lazımdır. Bəs, almış
+olduğunuz açıq açarın sənədi imzalaması tələb olunan şəxsə məxsus ol du ğu na
+necə əmin olmalı? Burada rəqəmli sertifikat köməyə gəlir.
+Rəqəmli sertifikat səlahiyyətli orqan tərəfindən imzalanmış elə məlumatdır
+ki, orada açıq açarın həqiqətən də, imza sahibinə aid olması və deşifrləmə
+məqsədilə istifadə oluna bilməsi təsdiqlənir. Sertifikatlaşmaya səlahiyyəti olan
+orqandan sertifikat almaq üçün həmin orqana ərizəçinin kimliyi ilə bağlı müxtəlif
+sənədlər təqdim olunmalıdır.     
+1. Kriptoqrafiya elmi nəyi öyrənir?
+2. Gizli və açıq açarla şifrləmə bir-birindən nə ilə fərqlənir?
+3. Rəqəmli imza nədən qoruyur? 
+4. Sezar şifri ilə kodlaşdırılmış aşağıdakı atalar sözünü oxuyun:
+BÇOÇPƏKPKP BÇFFÇÜK ROÖÇC
+Məlumdur ki, hər bir hərf özündən sonrakı üçüncü hərflə əvəzlənib.
+5. Aşağıdakı mətnin şifrini açın:
+ESÜYDR TSÇZE IHYLULUGLN DVDİQ,
+GSÖGZUZUGQO ĞBGH YDKYD-YDEDİQ,
+YHRGLUÖHUGH ELVLUHUGLN ODEDİQ,
+ŞÇAR CĞCLE, YSKZPÖDUQR FQUYGDUGQO,
+FSK CĞPHNGHR ÖDT DŞ ODÖD FDYGDUGQO.
+k-nın qiyməti qabaqcadan məlum deyil.
+126
+P R O Q R A M
+İnformatika – X sinif
+(həftədə 1 saat, cəmi 32 saat)
+I. İNTERNET XİDMƏTLƏRİ (3  saat)
+İnternetdə ünsiyyət. Şəbəkə etikası. Uzaqdan təhsil. Elektron təhsil.   
+II. VERİLƏNLƏR BAZASI (14 saat)
+Verilənlər bazası və onun obyektləri. Verilənlər bazasının idarəolunması sis -
+temi. Verilənlər bazası strukturunun yaradılması. Cədvəllərarası əlaqələr.
+Verilənlərin daxil edilməsi və uzaqlaşdırılması. Ve ri lənlərin əks etdirilməsi.
+Formalar. Formaların yaradılması və verilənlərin formaya daxil edilməsi.
+Verilənlərin axtarışı, çe şid lən məsi və süzülməsi. Sorğular. Hesabatlar. Sor -
+ğu ların, hesabatların ya ra dıl ması və redaktəsi.
+III. NƏŞR MƏHSULLARININ YARADILMASI (7 saat)
+MICROSOFT PUBLISHER proqramı ilə tanışlıq. İnformasiya bülleteninə
+mətnin daxil edilməsi. İnformasiya bukletinin və vizit kartının yaradılması.
+MICROSOFT PUBLISHER proqramında veb-saytların yaradılması. 
+IV. VEB-PROQRAMLAŞDIRMA (3 saat)
+HTML. HTML-faylların yaradılması vasitələri. Veb-sayt layihəsi.
+V. İNFORMASİYANIN QORUNMASI  (5 saat)
+İnformasiya təhlükəsizliyi anlayışı. Ziyanverici proqramlar. Kompüter
+virusları. Antivirus proqramları vasitəsilə informasiyanın mühafizəsi. Kom -
+püter cinayətkarlığı. Kriptoqrafiya. Rəqəmli imza.
+1275. İNFORMASİYANIN qorunması
+Иnformatika – 10-cu sinif. Ümуmtяhsil mяktяblяri цчцn dяrslik. 
+Исмайыл Cалал оьлу Sadыqov
+Рамин  Яли Назим оьлу Мащмудзадя
+Nаидя Rизван гызы Иsayeva
+“Bakыnяшr” – Bakы, 2009
+Формат 70 ×1001/16. Oфсет kаьызы №1. Физики чап вяряги 8. 
+Чапа имзаланмышдыр 26.05.2009. Тираж 114 000. Пulsuz.
+128

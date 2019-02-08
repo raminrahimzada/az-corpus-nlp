@@ -1,0 +1,4494 @@
+ 
+Ramin MAHMUDZADƏ 
+İsmayıl SADIQOV 
+Naidə İSAYEVA 
+ 
+İNFORMATİKA 
+ 
+5-ci sinif 
+ 
+Müəllim üçün  
+metodik  
+vəsait 
+ 
+Azərbaycan Respublikası  
+Təhsil Nazirliyinin 
+03.07.2012-ci il tarixli  
+1219 nömrəli əmri ilə  
+təsdiq olunmuşdur. 
+ 
+2012 
+ 
+2
+KİTABIN İÇİNDӘKİLӘR 
+ 
+DӘRSLİK KOMPLEKTİ HAQQINDA ........................................................... 3 
+İNFORMATİKA FӘNN KURİKULUMU ......................................................... 5 
+TӘDRİS PROSESİNDӘ İNFORMASİYA TEXNOLOGİYALARINDAN             
+İSTİFADӘ SӘVİYYӘSİ ............................................................................. 7 
+DӘRSLİK KOMPLEKTİNİN MÖVZULAR ÜZRӘ STRUKTURU ......................... 10 
+FӘNN ÜZRӘ MӘZMUN STANDARTLARININ  REALLAŞMA CӘDVӘLİ                   
+VӘ İLLİK PLANLAŞDIRMA NÜMUNӘSİ ..................................................... 11 
+DӘRSLӘR ÜZRӘ TӘLİM MӘQSӘDLӘRİ  ................................................... 12 
+FӘNLӘRARASI İNTEQRASİYA CӘDVӘLİ ................................................... 14 
+DİFERENSİAL TӘLİM İMKANLARI ............................................................ 14 
+ŞAGİRD NAİLİYYӘTLӘRİNİN QİYMӘTLӘNDİRİLMӘSİ ............................... 16 
+GÜNDӘLİK PLANLAŞDIRMAYA DAİR NÜMUNӘLӘR ................................... 20 
+MÖVZULAR ÜZRӘ TӘLİM MATERİALLARI İLӘ İŞ TEXNOLOGİYASININ ŞӘRHİ 
+I. İNFORMASİYA  ..................................................................................... 31 
+KİÇİK SUMMATİV QİYMӘTLӘNDİRMӘ ..................................................... 41 
+II. KOMPYUTER ........................................................................................ 43 
+KİÇİK SUMMATİV QİYMӘTLӘNDİRMӘ ..................................................... 57 
+BÖYÜK SUMMATİV QİYMӘTLӘNDİRMӘ (1-ci yarımil) ............................... 59 
+III. TӘTBİQİ PROQRAMLAR .................................................................... 61 
+KİÇİK SUMMATİV QİYMӘTLӘNDİRMӘ ..................................................... 72 
+IV. ALQORİTM VӘ PROQRAM .................................................................. 74 
+KİÇİK SUMMATİV QİYMӘTLӘNDİRMӘ ..................................................... 86 
+V. İNTERNET ............................................................................................. 88 
+BÖYÜK SUMMATİV QİYMӘTLӘNDİRMӘ (2-ci yarımil) ............................... 94 
+ 
+MӘNBӘLӘR .............................................................................. 96 
+ 
+ 
+Milli kurikulum əsasında hazırlanmışdır.  
+Ümumtəhsil məktəblərinin 5-ci sinfi üçün  “İnformatika” dərslik komplektinə daxildir:  
+1. Dərslik. 2. Müəllim üçün metodik vəsait.  
+ 
+İnformatika-5. Müəllim üçün metodik vəsait. R.Mahmudzadə, İ.Sadıqov, N.İsayeva.  Bakı, “Bakınəşr”, 2012, 96 səh. 
+www.bakineshr.az 
+ISBN 978-9952-8145-5-2   
+ 
+© Azərbaycan Respublikası Təhsil Nazirliyi, 2012 
+© “Bakı” nəşriyyatı, 2012 
+Format 70 1001/16. Ofset kağızı  №1. Fiziki çap vərəqi 6. Çapa imzalanmışdır 05.08.2012. Tiraj 7330, pulsuz. 
+ 
+ 
+ 
+3
+DƏRSLİK KOMPLEKTİ HAQQINDA 
+ 
+Hörmətli müəllimlər! Təqdim olunan 5-ci siniflər üçün dərslik komplekti dərslik və 
+müəllim üçün metodik vəsaitdən ibarətdir. Aşağıda dərsliyin və bu dərslikdən daha 
+effektiv istifadə üçün nəzərdə tutulan müəllim üçün metodik vəsaitin bəzi xüsusiy-
+yətlərini diqqətinizə çatdırırıq.  
+ 
+DƏRSLİK 
+ Təlim materialları idrak taksonomiyasının mərhələlərinə uyğun olaraq qruplaş-
+dırılmışdır.  
+ Qruplaşdırılmış təlim materialları fəal təlimin mərhələləri üzrə yerləşdirilmişdir 
+və şagirdə müstəqil təlim üçün imkan yaradır. 
+ Təlim materialları kurikulum sənədində informatika fənni üzrə məzmun stan-
+dartlarının reallaşdırılmasını təmin edən fəaliyyət xətlərinə uyğun hazırlanmış-
+dır. 
+ Dərslikdə hər mövzu üzrə təlim materialları aşağıdakı ardıcıllıq və prinsiplə 
+qruplaşdırılmışdır: 
+ 
+ – maraq oyatma (motivasiya). Mövzunun tətbiqləri ilə bağlı maraqlı 
+vəziyyət və hadisələr təsvir edilir, motivasiya yaradılır və suallarla 
+yekunlaşır; 
+ – fəaliyyət üçün tapşırıq. Maraq yaradılan hadisələrin araşdırılmasına, 
+bu hadisələrin səbəb-nəticə əlaqələrinin kəşf edilməsinə yönəlmiş 
+tədqiqat xarakterli tapşırıqlardan ibarətdir. Praktik dərslərdə fəaliy-
+yət tapşırığı alqoritm şəklində verilir və hər bir addımın nəticəsi 
+qeyd olunur;  
+ – yeni terminlər. Mövzuda istifadə olunan mühüm anlayış və terminlər 
+verilir;  
+ 
+4
+ – izahatlar. Fəaliyyət zamanı kəşf etdiyiniz faktlarla bağlı bəzi açıqla-
+malar verilir. Əsas anlayışlar, mövzu ilə bağlı izahatlar, təriflər, 
+qaydalar, düsturlar, bir sözlə, dərsin əsas məzmunu burada verilir; 
+ – biliklərin dərinləşdirilməsi. Əldə edilən bilikləri dərinləşdirmək 
+üçün nümunələr və maraqlı məlumatlar verilir; 
+ 
+ – araşdıraq-öyrənək. Mövzuda öyrənilənləri tamamlamaq, onları də-
+yərləndirmək və onlara münasibət bildirmək məqsədi  ilə verilən tap-
+şırıqlardır; 
+ – sual və tapşırıqlar. Hər mövzunun sonunda öyrənilənləri nümayiş 
+etdirmək üçün nəzərdə tutulub;  
+ – özümüzü qiymətləndirək. Tədris vahidində nələr öyrənildi, onların 
+tətbiqi ilə bağlı ümumiləşdirici sual və tapşırıqlardır. Summativ qiy-
+mətləndirməyə hazırlıq üçün də istifadə oluna bilər. 
+ 
+ 
+MÜƏLLİM ÜÇÜN METODİK VƏSAİT 
+ 
+Müəllim üçün metodik vəsaitdə aşağıdakı materiallar öz əksini tapmışdır: 
+ informatika fənn kurikulumunun tələblərinin reallaşma mexanizmlərinin şərhi və 
+əsaslandırılması;  
+ dərslik komplektinin mövzular üzrə strukturu; 
+ fənn üzrə məzmun standartlarının reallaşma cədvəli və illik planlaşdırma 
+nümunəsi; 
+ fənlərarası inteqrasiya imkanları və digər fənlərin uyğun alt standartları ilə 
+inteqrasiya cədvəli; 
+ şagird nailiyyətlərinin qiymətləndirilmə prinsipləri və formaları;  
+ gündəlik planlaşdırmaya dair nümunələr; 
+ 
+ 
+5
+ hər mövzu üzrə qruplaşdırılmış təlim materiallarının dərslik səhifələrinin kiçildil-
+miş surətləri üzərində sxematik təsviri;  
+ hər mövzuda qruplaşdırılmış təlim materialları üzrə iş texnologiyasının şərhi; 
+ hər bir mövzu üzrə tövsiyələrin əvvəlində dərsin təlim məqsədlərinin reallaşdırıl-
+ması ilə bağlı daha çox diqqət yetirilməli məsələlər; 
+ müəllimlər üçün mövzu üzrə əlavə məlumatlar; 
+ müəllimin istifadə edə biləcəyi mənbələr. 
+Müəllim tövsiyə olunan materiallardan sinfin hazırlıq səviyyəsinə, tədris vaxtına, 
+texniki təchizata və diferensial təlim prinsiplərinə uyğun olaraq lazım bildiyi qədər 
+istifadə edə bilər. 
+Praktik dərslər zamanı isə şagirdlərdə fərdi bacarıqların formalaşdırılması məqsədi 
+ilə, əsasən, fərdi və cütlərlə iş  formasından istifadə edilməsi daha məqsədəuyğun-
+dur. Sinifdəki kompyuterlərin sayı imkan verərsə, hər şagird bir kompyuterin qarşı-
+sında əyləşə bilər. Əgər kompyuterlərin sayı az olarsa, onda sinif cütlərə bölünür və 
+kompyuterdə praktik işlər cütlərlə aparılır. Cütlərdə işləyən şagirdlər praktik tapşı-
+rıqları da birlikdə yerinə yetirirlər. 
+ 
+İNFORMATİKA FƏNN KURİKULUMU 
+ 
+Cəmiyyətin müasir inkişaf mərhələsi yeni təhsil prinsiplərinin yaranmasını tələb 
+edir. Bu prinsiplər insanın inkişafında təhsilin rolu haqqında təsəvvürlərin dəyiş-
+məsinə əsaslanır. Bəşəriyyətin qazandığı bütün bilikləri şagirdlərə mənimsətmək 
+tələbi məktəb üçün artıq çoxdan öz əhəmiyyətini itirmişdir. Müasir insan müəyyən 
+bilik səviyyəsinə malik olmaqla yanaşı, öyrənmək bacarıqlarına da yiyələnməlidir. 
+Başqa sözlə, təlim fəaliyyəti zamanı müxtəlif problemləri həll etməyi bacarmalıdır. 
+Təlim fəaliyyətində yarana biləcək problemlər bunlardır: idrak fəaliyyətinin 
+məqsədlərini aydınlaşdırmaq; qoyulmuş məqsədə nail olmağın optimal yollarını 
+müəyyən etmək; müxtəlif informasiya mənbələrindən istifadə etmək; lazım olan 
+informasiyanı axtarmaq və əldə etmək; qazanılmış nəticələri qiymətləndirmək; öz 
+fəaliyyətini təşkil etmək; digər təhsilalanlarla əməkdaşlıq etmək.   
+Azərbaycan təhsilində yeni prinsiplərin yaradılmasının və aparılan təhsil isla-
+hatlarının əsas istiqamətlərindən biri təhsilin informasiyalaşdırılmasıdır. Çox geniş 
+imkanlara malik olan informasiya-kommunikasiya texnologiyalarının tədris prose-
+sinə tətbiqi və onun effektivliyi təlim iştirakçılarının İKT kompetensiyalarından 
+asılıdır. İKT kompetensiyaları dedikdə təhsilalanların informasiya fəaliyyəti zama-
+nı informatika və İKT sahəsində əldə etdikləri bilik, bacarıq və vərdişlərdən yarar-
+lanma səviyyəsi başa düşülür. İnformasiya fəaliyyəti bunlardır:  
+– informasiyanın əldə olunması (informasiyanı harada və necə axtarmağı bil-
+mək); 
+– informasiyanın emalı (informasiyanın təşkili və təsnifatı üçün  müəyyən sxem-
+lərdən istifadə); 
+– informasiyanın inteqrasiyası (digərləri ilə müqayisə etməklə informasiyanın in-
+terpretasiyası və təqdimolunması); 
+ 
+6
+– informasiyanın qiymətləndirilməsi (onun keyfiyyəti, relevantlığı, faydalılığı və 
+əhəmiyyəti haqqında mülahizə yürütmək); 
+– informasiyanın yaradılması (köhnələri adaptasiya etmək və yeni informasiya 
+yaratmaq).  
+Bu gün çox mühüm həyati kompetensiyalardan sayılan İKT kompetensiyalarını 
+məktəbdə yalnız “İnformatika” fənni formalaşdırır. Bu baxımdan informatika 
+fənnini təhsilin informasiyalaşdırılmasının inkişaf nöqtəsi hesab etmək olar. Milli 
+kurikulum əsasında hazırlanmış informatika fənn kurikulumu əsas təhsil pilləsində 
+aşağıdakı məqsədləri daşıyır:  
+– informasiya və informasiya prosesləri, sistemləri, texnologiyaları və modelləri 
+haqqında elmi təsəvvürlərin əsasını təşkil edən biliklərin mənimsədilməsi; 
+– kompyuter və digər İKT vasitələrindən istifadə etməklə müxtəlif informasiya 
+növləri ilə iş bacarıqlarının formalaşdırılması, şəxsi informasiya fəaliyyətinin 
+təşkili və onun nəticələrinin planlaşdırılması; 
+– İKT vasitələri ilə maraq dairəsinin genişləndirilməsi, intellektual və yaradıcı 
+bacarıqların inkişaf etdirilməsi; 
+– hüquqi və etik aspektlər nəzərə alınmaqla informasiyaya məsuliyyətli münasi-
+bətin tərbiyə edilməsi; 
+– qəbul olunmuş informasiyalardan lazım olanı seçmək bacarıqlarının formalaş-
+dırılması; 
+– gündəlik həyatda, fərdi və kollektiv layihələrin icrasında, təlim fəaliyyətində və 
+sənət öyrənilməsində İKT vasitələrinin tətbiq edilməsi vərdişlərinin formalaşdı-
+rılması. 
+Qeyd etmək lazımdır ki, müasir Azərbaycan məktəblərində İKT-dən istifadə üzrə 
+informatika fənn bacarıqları ümumfənn bacarıqları müstəvisinə keçmək üzrədir. 
+Başqa sözlə, İKT-dən istifadə bacarıqları digər fənlərin mənimsənilməsində bir 
+alət rolunu oynamağa başlamışdır.  
+ “Azərbaycanda informasiya və kommunikasiya texnologiyalarının inkişafı üzrə 
+milli strategiya (2003 – 2012-ci illər)” ölkəmizdə təhsil sisteminə yeni texnologiya-
+ların tətbiqini və onlardan geniş istifadə edilməsini informasiya cəmiyyətinin əsas 
+xüsusiyyətlərindən biri kimi müəyyənləşdirib.  Milli strategiyanın icrası ilə əlaqə-
+dar Azərbaycan Respublikasının Prezidenti cənab İlham Əliyevin 21 oktyabr 2005-
+ci il tarixli sərəncamı ilə qəbul edilmiş “Azərbaycan Respublikasında rabitə və in-
+formasiya texnologiyalarının inkişafı üzrə 2005 – 2008-ci illər üçün dövlət proqra-
+mı (Elektron Azərbaycan)” sənədində də müasir İKT-dən istifadə etməklə keyfiy-
+yətli təhsilə nail olmaq əsas məqsədlər sırasındadır. Bu istiqamətdə  dövlət başçısı-
+nın təsdiq etdiyi “Azərbaycan Respublikasında ümumtəhsil məktəblərinin informa-
+siya və kommunikasiya texnologiyaları ilə təminatı proqramı (2005 – 2007-ci il-
+lər)” təhsil müəssisələrinin kompyuter avadanlığı ilə təchiz edilməsinə ümumres-
+publika miqyasında geniş start verdi, bu proqramın davamı olan “2008 – 2012-ci il-
+lərdə Azərbaycan Respublikasında təhsil sisteminin informasiyalaşdırılması üzrə 
+dövlət proqramı” isə artıq ümummilli səviyyədə vahid elektron təhsil məkanının 
+formalaşdırılmasını əsas vəzifə kimi qarşıya qoydu.  
+ 
+ 
+7
+Ölkəmizdə İKT-nin müasir inkişaf sürəti məktəb informatika kursunun tədrisinə 
+yanaşmanı tamamilə dəyişmişdir. Bu baxımdan informatikanın məktəbdə tədrisi 
+metodikası yeni səviyyəyə keçmişdir. Onun qarşısında duran əsas məqsəd 
+informatika fənnini cəmiyyətin sifarişinə uyğun tədris etmək, nəticədə isə nəinki bu 
+günə, hətta sabahın tələblərinə cavab verən şəxsiyyətləri formalaşdırmaqdır.  
+ 
+İnformatikanın təqdim olunan tədris metodikasının əsas prinsipləri 
+Həyati əhəmiyyətliliyi. Dərsliyə daxil edilmiş təlim materialları məzmun standart-
+larının reallaşdırılmasına xidmət etməklə yanaşı, İKT-nin müasir inkişaf səviy-
+yəsinə uyğun tərtib edilmişdir. Təklif olunan praktik tapşırıqlar həyati bacarıqların 
+formalaşdırılması baxımından böyük əhəmiyyət kəsb edir.  
+Şəxsiyyət yönümlülüyü. Tərtib edilmiş tapşırıqların əksəriyyəti şagirdlərin real 
+həyatda qarşılaşdıqları situasiyalarla birbaşa bağlıdır. Ona görə də verilən bütün 
+təlim materialları şagirdin özündən qaynaqlanır. Nəticədə şagird təlim materialla-
+rını “özününküləşdirir”.  
+Mövzunun “kəşf edilməsi”. Dərslikdə hər mövzunun “Fəaliyyət” hissəsində praktik 
+fəaliyyətə yönəlmiş, mövzu və onun tətbiqi ilə bağlı tapşırıqlar verilmişdir. İn-
+formatikanın əsas anlayışlarının mənimsənilməsi və informasiya texnologiyaların-
+dan istifadə vərdişlərinin formalaşdırılması, əlbəttə, şagird tərəfindən təlim nəticəsi 
+olaraq müəyyən bacarıqların reallaşdırılması ilə həyata keçirilir. Başqa sözlə, şa-
+gird praktik fəaliyyət nəticəsində yeni bilik, bacarıq və vərdişləri özü əldə edir. 
+Dərslikdə müzakirə və diskussiyalar üçün suallar, bilikləri dərinləşdirmək üçün 
+materiallar, yaradıcı tətbiqetməni nəzərdə tutan sual və çalışmalar öz əksini tap-
+mışdır.  
+ 
+TƏDRİS PROSESİNDƏ İNFORMASİYA  
+TEXNOLOGİYALARINDAN İSTİFADƏ SƏVİYYƏSİ 
+Məktəblərin kompyuter, İnternet şəbəkəsi, noutbuk, proyektor və hətta bəzilərinin in-
+teraktiv lövhələrlə təchizatını nəzərə alaraq əksər dərslər İKT-dən istifadəyə əsasla-
+nır. 2-ci fəsil tam olaraq kompyuterdə əməliyyat sistemində iş bacarıqları, onun ele-
+mentləri ilə tanışlığa həsr olunmuşdur. Dərslikdə, əsasən, WINDOWS əməliyyat sis-
+temi nəzərdə tutulsa da, Linux əməliyyat sistemindən də istifadə oluna bilər.  
+3-cü fəsildə qrafik və mətn redaktorlarında işləmək bacarıqlarının formalaşdırılma-
+sı nəzərdə tutulur.   
+Təqdim olunan dərslər rahatlıq üçün ən geniş yayılmış Paint qrafik proqramı üzərin-
+də qurulmuşdur. Lakin müəllim tədris prosesində müxtəlif qrafik redaktorlardan – 
+sərbəst yayılan Paint.net, TuxPaint və digərlərindən istifadə edə bilər. 5-ci sinif şa-
+girdləri üçün çox rahat və geniş imkanlara malik  OO4Kids sərbəst yayılan proqram 
+paketini http://wiki.ooo4kids.org/index.php/Main_Page saytından müxtəlif dillərdə 
+yükləmək olar. Paint.net proqramı isə http://www.getpaint.net ünvanından yüklənə 
+bilər.   
+Mətn redaktorunda iş Microsoft Word və ya Openoffice.org paketinin Writer proq-
+ramları üzərində qurulmuşdur. Müəllim dərslərdə müxtəlif mətn redaktorlarından 
+ 
+8
+istifadə edə bilər. Onlar fərqli olsa da pəncərə elementləri və iş prinsipləri çox ox-
+şardır. Ən geniş yayılmış və şagirdlərin yaş qruplarına uyğun mətn redaktorları 
+Microsoft Word, Openoffice.org paketinin Writer proqramı, Abword proqramla-
+rıdır. Openoffice.org Writer proqramını http://www.getpaint.net ünvanından yüklə-
+mək olar.  5-ci sinifdə NotePad və WordPad proqramlarından istifadə etmək məq-
+sədəuyğun deyil. Çünki onlar sadə olduqlarından imkanları məhduddur.  
+4-cü fəslin son üç dərsi proqramlaşdırmaya həsr olunur və yalnız kompyuter 
+sinfində keçirilməsi nəzərdə tutulur. Məzmun standartlarında tələb olunan  2.2.2, 
+2.2.3 və 2.2.4 standartlarının reallaşdırılması sadə proqram mühitində işləməyi 
+tələb edir. Təxminən yarım əsrdir ki, bütün dünyada kiçikyaşlı məktəblilər proq-
+ramlaşdırmanı, əsasən, LOGO dili vasitəsilə öyrənirlər. Bu il dərslik komplektinə 
+ilk dəfə olaraq LOGO dilinin Azərbaycan versiyası əlavə olunur. ALPLogo adla-
+nan bu proqram müəlliflər tərəfindən hazırlanmışdır və onu www.bakineshr.az, 
+yaxud www.informatik.az saytlarından pulsuz yükləmək olar. Arxiv faylını 
+açdıqdan sonra proqramı kompyuterin C diskinə, sadəcə, köçürmək lazımdır 
+(quraşdırmağa ehtiyac yoxdur). ALPLogo proqramının digər xarici proqramlardan 
+ən mühüm fərqi ondadır ki, bu proqramda komandalar Azərbaycan, ingilis və rus 
+dillərində yazıla bilər. Sistem hər üç dili qəbul edir.  
+5-ci fəsil tam olaraq İnternetə həsr edilmişdir. Artıq məktəblərin əksəriyyətinin 
+İnternetə qoşulduğunu nəzərə alsaq, bu dərslərin keçilməsi heç bir problem yarat-
+mır. Müəllim uşaq və tədris saytları ilə yanaşı, başqa maraqlı saytlardan da istifadə 
+edə bilər. Belə saytların ünvanları mövzular üzrə tövsiyələrdə göstərilmişdir.  
+ 
+V sinif üzrə informatika fənn kurikulumu 
+ 
+V sinfin sonunda şagird:  
+ informasiyaların sadə işarələrlə kodlaşdırılması haqqında biliklərini nümayiş 
+etdirir;  
+ informasiyaların qəbul edilməsi üsulları haqqında biliklərini nümayiş etdirir; 
+ obyektin informasiya  modelinin  növlərinə dair bacarıqlar  nümayiş etdirir; 
+ alqoritmləşdirmə və sadə proqramlaşdırma mühitində  tətbiq bacarıqları nüma-
+yiş etdirir; 
+ kompyuterin əməliyyat sistemlərinə dair bacarıqlar nümayiş etdirir; 
+ mətn və qrafik redaktorda işləmək bacarıqları nümayiş etdirir; 
+ internetdə sadə tapşırıqları icra edir; 
+ informasiya resurslarının əlamətləri və əhəmiyyətinə dair biliklərini nümayiş 
+etdirir. 
+ 
+1. İnformasiya və informasiya prosesləri 
+1.1. İnformasiyaların kodlaşdırılması haqqında biliklərini nümayiş etdirir.  
+1.1.1. İnformasiyaların sadə işarələrlə kodlaşdırılmasını izah edir. 
+1.1.2. İnformasiyaların sadə  işarələrlə  kodlaşdırılmasına aid nümunələr 
+göstərir. 
+1.1.3. İnformasiyaların həcminin ölçülməsini nümunələrlə izah edir. 
+ 
+ 
+9
+ 1.2. İnformasiya və  informasiya emalı haqqında biliklərini nümayiş etdirir. 
+1.2.1. İnformasiyaların qəbul edilməsinin  üsullarını sadalayır. 
+1.2.2. İnformasiyaların qəbul edilməsi  üsullarını fərqləndirir. 
+1.2.3. İnformasiyaların qəbul edilməsi  üsullarını nümunələrlə şərh edir. 
+ 
+2. Formallaşdırma, modelləşdirmə, alqoritmləşdirmə və proqramlaşdırma  
+2.1. Obyektin informasiya  modelinin yaradılmasına dair bacarıqlar nüma-
+yiş etdirir. 
+2.1.1. Obyektin informasiya modelini  izah edir. 
+2.1.2. İnformasiya modelinin növlərini fərqləndirir. 
+2.1.3. Obyektin informasiya modelinin növlərini nümunələrlə şərh edir. 
+2.2. Alqoritmləşdirmə  və proqramlaşdırmanın əsas məsələlərinə yiyələndi-
+yini nümayiş etdirir. 
+2.2.1. Alqoritmin təsviri üsullarını izah edir 
+2.2.2. Sadə proqramlaşdırma mühitində proqramlaşdırma haqqında elementar 
+biliklərini izah  edir. 
+2.2.3. Sadə proqramlaşdırma mühitində “İcraçı”nın hərəkətini idarə edir. 
+2.2.4. Sadə proqramlaşdırma mühitində elementar fiqurlar çəkir. 
+ 
+3. Kompyuter, informasiya-kommunikasiya texnologiyaları və sistemləri 
+3.1. Kompyuterin, sistem proqramlarının ümumi iş prinsiplərinə dair baca-
+rıqlar nümayiş etdirir. 
+3.1.1. Fərdi kompyuterlərin təsnifatını şərh edir. 
+3.1.2. Kompyuterin əməliyyat sistemlərinə dair  sadə anlayışları izah edir. 
+3.1.3. Proqramın icrasına dair bacarıqlar nümayiş etdirir.  
+3.2. Tətbiqi proqramlarla işləmək bacarıqları  nümayiş etdirir. 
+3.2.1. Qrafik redaktorda rəsmlərin fraqmentləri üzərində işləyir.  
+3.2.2. Mətni yadda saxlamaq və çap etmək bacarıqlarını nümayiş etdirir. 
+3.2.3. Şəkilləri mətnə əlavə  edir. 
+3.3. Kommunikasiya texnologiyalarından istifadə bacarıqlarını nümayiş 
+etdirir. 
+3.3.1. İnternet haqqında ilkin biliklərini izah edir. 
+3.3.2. İnternetdə sadə iş bacarıqlarını nümayiş etdirir. 
+ 
+4. Cəmiyyətin informasiyalaşdırılması 
+4.1. İnformasiya cəmiyyətinin formalaşdırılmasına dair biliklər nümayiş 
+etdirir. 
+4.1.1. İnformasiya resurslarını əlamətlərinə görə təsnif edir. 
+4.1.2. İnformasiya resurslarını əsas əlamətlərinə görə qruplaşdırır. 
+4.1.3. Təbiətlə əlaqədar informasiya resurslarının əhəmiyyətini izah edir.
+ 
+10
+1. İNFORMASİYA   
+1.1. İnformasiya nәdir 
+1.2. İnformasiyanın kodlaşdırılması 
+1.3. İnformasiya modeli 
+1.4. İnformasiyanı ölçmәk olarmı? 
+ 
+2. KOMPYUTER 
+2.1. Fәrdi kompyuterlәr 
+2.2. Kompyuter necә işlәyir 
+2.3. İş masası 
+2.4. Menyu 
+2.5. Fayllar vә qovluqlar 
+2.6. Pәncәrә 
+ 
+3. TӘTBİQİ PROQRAMLAR 
+3.1. Kompyuterdә şәkil çәkirәm 
+3.2. Şәklin fraqmenti ilә iş 
+3.3. Fraqmentin әyilmәsi vә döndәrilmәsi 
+3.4. Mәtn redaktoru 
+3.5. Şәkilli mәtnlәr 
+3.6. Mәtn redaktorunda şәkli necә çәkmәk olar 
+ 
+4. ALQORİTM VӘ PROQRAM 
+4.1. Alqoritm 
+4.2. Alqoritmlәri necә tәqdim etmәk olar 
+4.3. Әylәncәli mәsәlәlәr 
+4.4. Proqram nәdir 
+4.5. Bağa işә başlayır 
+4.6. Bağa sadә fiqurlar çәkir 
+ 
+5. İNTERNET 
+5.1. İnformasiya resursları 
+5.2. İnternet  
+5.3. Dünya hörümçәk toru 
+5.4. İnternetdә informasiyanın axtarışı 
+BÖLMӘLӘR MÖVZULAR 
+DƏRSLİK KOMPLEKTİNİN MÖVZULAR ÜZRƏ STRUKTURU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+FƏNN ÜZRƏ MƏZMUN STANDARTLARININ  REALLAŞMA CƏDVƏLİ 
+VƏ İLLİK PLANLAŞDIRMA NÜMUNƏSİ 
+Cədvəldə kurikulumda tələb olunan bacarıqlar əsasında tövsiyə edilən illik planlaşdırma nümunəsi 
+verilmişdir. İş planı həftədə 1 saat olmaqla ildə 32 həftəyə və ya 32 saata nəzərdə tutulmuşdur. 
+Müəllim mövzulara şəxsi münasibətindən asılı olaraq tövsiyə edilən illik planlaşdırılma nümunəsinə 
+müəyyən dəyişikliklər edə bilər. 
+CƏMİ                           32 saat 
+TƏDRİS VAHİDİ, 
+BÖLMƏ VƏ 
+MÖVZULAR 
+Məzmun xətti 1 Məzmun xətti 2 Məzmun xətti 3 M.x.4 
+sa
+at
+la
+r 
+M.st. 1.1 M.st 1.2 
+M.st. 
+ 2.1 
+M.st.  
+2.2 
+M.st.  
+3.1 
+M. st. 
+ 3.2 
+M. st. 
+3.3 
+M.st.   
+4.1 
+1.
+1.
+1 
+1.
+1.
+2 
+1.
+1.
+3 
+1.
+2.
+1 
+1.
+2.
+2 
+1.
+2.
+3 
+2.
+1.
+1 
+2.
+1.
+2 
+2.
+1.
+3 
+2.
+2.
+1 
+2.
+2.
+2 
+2.
+2.
+3 
+2.
+2.
+4 
+3.
+1.
+1 
+3.
+1.
+2 
+3.
+1.
+3 
+3.
+2.
+1 
+3.
+2.
+2 
+3.
+2.
+3 
+3.
+3.
+1 
+3.
+3.
+2 
+4.
+1.
+1 
+4.
+1.
+2 
+4.
+1.
+3 
+1.
+ İN
+FO
+R
+M
+A-
+Sİ
+YA
+ 
+1. İnformasiya nədir    + + +                   1 
+2. İnformasiyanın 
+kodlaşdırılması +
+ +                       1 
+3. İnformasiya modeli        + + +                1 
+4. İnformasiyanı 
+ölçmək olarmı? +
+ + +                      1 
+Kiçik  summativ qiymətləndirmə 1 
+2.
+ K
+O
+M
+PY
+U
+TE
+R
+ 5. Fərdi kompyuterlər               +
+           1 
+6. Kompyuter necə 
+işləyir  
+              +          1 
+7. İş masası               + +         1 
+8. Menyu               +          1 
+9. Fayllar və qovluqlar               + +         1 
+10. Pəncərə               + +         1 
+ Kiçik  summativ qiymətləndirmə 1 
+Böyük  summativ qiymətləndirmə (I yarımil)  1 
+3.
+ T
+Ə
+TB
+İQ
+İ P
+R
+O
+Q
+R
+AM
+LA
+R
+ 11. Kompyuterdə şəkil 
+çəkirəm 
+               +         1 
+12. Şəklin fraqmenti ilə 
+iş 
+               + +        1 
+13. Fraqmentin əyilmə-
+si və döndərilməsi 
+               + +        1 
+14. Mətn redaktoru                +  +       1 
+15. Şəkilli mətnlər                +  + +      1 
+16. Mətn redaktorunda 
+şəkli necə çəkmək 
+olar 
+               +  + +      1 
+Kiçik  summativ qiymətləndirmə 1 
+4.
+ A
+LQ
+O
+R
+İT
+M
+ V
+Ə
+ 
+P
+R
+O
+Q
+R
+A
+M
+ 
+17. Alqoritm           +               1 
+18. Alqoritmləri necə 
+təqdim etmək olar  
+         +               1 
+19. Əyləncəli məsələlər          +               1 
+20. Proqram nədir           + +              1 
+21. Bağa hərəkətə 
+başlayır 
+          + + +            1 
+22.  Bağa sadə fiqurlar 
+çəkir 
+          + + +            1 
+Kiçik  summativ qiymətləndirmə 1 
+5.
+ İN
+TE
+R
+N
+ET
+ 23. İnformasiya 
+resursları 
+                     + + + 1 
+24. İnternet                     +  + + + 1 
+25. Dünya hörümçək 
+toru 
+                   + + + + + 1 
+26. İnternetdə axtarış                    + + + + + 1 
+Böyük  summativ qiymətləndirmə (II yarımil) 1 
+ 
+12
+DƏRSLƏR ÜZRƏ TƏLİM MƏQSƏDLƏRİ  
+ 
+№ Dərs/Mövzu Təlim məqsədləri  
+1 İnformasiya nədir  
+ informasiyanı növlərinə görə fərqləndirmək; 
+ informasiyanın qəbul edilməsi üsullarını nümunələrlə şərh etmək; 
+ informasiyanın qəbul edilməsi üsullarını fərqləndirmək; 
+ informasiyanın qəbulunda alətlərin, cihazların rolunu izah etmək. 
+2 
+İnformasiyanın  
+kodlaşdırılması  
+ 
+ kodlaşdırmanın əhəmiyyətini şərh etmək; 
+ informasiyaların sadə işarələrlə kodlaşdırılmasını izah etmək; 
+ informasiyanın kodlaşdırılmasına nümunələr göstərmək. 
+3 İnformasiya modeli  
+ modellərə sadə nümunələr göstərmək; 
+ obyektin informasiya modelini izah etmək; 
+ maddi modellə informasiya modellərini fərqləndirmək; 
+ obyektin informasiya modelinin növlərinə aid nümunələr göstərmək; 
+ informasiya modelinin növlərini fərqləndirmək. 
+4 
+İnformasiyanı  
+ölçmək olarmı? 
+ 
+ informasiyanın həcmini digər kəmiyyətlərlə müqayisə etmək; 
+ informasiyanın necə ölçüldüyünü misallarla izah etmək; 
+ informasiyanın ölçü vahidlərini söyləmək;  
+ həcminə görə informasiyaları fərqləndirmək; 
+ ölçü vahidini seçməklə verilmiş mətn informasiyalarının həcmini 
+müəyyənləşdirmək. 
+5 Fərdi kompyuterlər  
+ fərdi kompyuterlərin təsnifatını izah etmək; 
+ fərdi kompyuterlərin əsas və əlavə qurğularının vəzifələrini şərh etmək. 
+6 
+Kompyuter necə 
+ işləyir 
+ 
+ fərdi kompyuterlərin “aparat  və proqram təminatı” anlayışını izah etmək; 
+ əməliyyat sisteminin işini şərh etmək; 
+ əməliyyat sistemlərinə dair nümunələr göstərmək. 
+7 İş masası  
+ kompyuterin iş masasını izah etmək; 
+ iş masasının obyektlərini şərh etmək; 
+ siçan vasitəsilə iş masasında simgələrlə müxtəlif əməliyyatlar icra etmək; 
+ siçanın göstəricisini  bəzi düymələrin üzərinə gətirmək. 
+8 Menyu  
+ kompyuterdə “menyu” anlayışını izah etmək; 
+ kompyuterin əsas menyusunu açmaq; 
+ iş masasında  müxtəlif menyuları açıb-bağlamaq;  
+ obyektin kontekst menyusundan istifadə etmək. 
+9 Fayllar və qovluqlar  
+ fayllar və qovluqlar haqqında izahat vermək; 
+ fayl və qovluqlara kompyuterdə nümunələr göstərmək; 
+ iş masasında olan xüsusi qovluqlar haqqında məlumat vermək; 
+ fayl və qovluqlarla sadə əməliyyat aparmaq. 
+10 Pəncərə  
+ əməliyyat sistemində pəncərələri növlərinə görə fərqləndirmək; 
+ pəncərənin düymələrini təyinatı üzrə istifadə etmək; 
+ pəncərə ilə müxtəlif əməliyyatlar aparmaq; 
+ pəncərənin hissələrini adlandırmaq. 
+11 
+Kompyuterdə şəkil 
+çəkirəm 
+  
+ Paint proqramın pəncərəsinin hissələrini tanımaq; 
+ qrafik redaktorun alətlərindən istifadə etmək; 
+ hazırladığı şəkli kompyuterin yaddaşında saxlamaq. 
+12 
+Şəklin fraqmenti 
+ ilə iş 
+ 
+ seçdirmə alətlərini fərqləndirmək; 
+ seçdirmə alətindən istifadə etməklə şəklin lazım olan fraqmentini 
+seçdirmək; 
+ şəklin fraqmentini çoxaltmaq və yerini dəyişmək; 
+ şəklin fraqmentini silmək. 
+ 
+ 
+13
+13 Fraqmentin əyilməsi  və döndərilməsi  
+ şəklin seçdirilmiş fraqmentini müxtəlif dərəcələrdə döndərmək;  
+ şəklin seçdirilmiş fraqmentini əymək. 
+14 Mətn redaktoru  
+ yığılmış mətndə sadə redaktə xarakterli düzəlişlər etmək; 
+ mətni kompyuterin yaddaşında saxlamaq; 
+ kompyuterdə olan mətni çap etmək. 
+15 Şəkilli mətnlər  
+ yığılmış mətnə şəkil əlavə etmək; 
+ şəklin ölçülərini dəyişmək; 
+ sənədi kompyuterin yaddaşında saxlamaq. 
+16 
+Mətn redaktorunda 
+şəkli necə çəkmək 
+olar  
+ mətn redaktorunda sadə fiqurlardan şəkil hazırlamaq; 
+ şəklin ölçülərini dəyişmək; 
+ şənədi kompyuterin yaddaşında saxlamaq. 
+17 Alqoritm 
+ “alqoritm” anlayışını izah etmək; 
+ alqoritmi addımlarla yazmaq; 
+ addımlarla yazılmış alqoritmi icra etmək; 
+ alqoritmi sözlərlə təsvir etmək. 
+18 
+Alqoritmləri necə 
+təqdim etmək olar 
+ alqoritmin təsvirini nümunələrlə izah etmək; 
+ alqoritmin təsvir üsullarını fərqləndirmək; 
+ verilmiş məsələnin həll alqoritmini bir neçə üsulla yazmaq; 
+ alqoritmlərin təsvirində cədvəl və blok-sxemdən istifadə etmək. 
+19 Əyləncəli məsələlər 
+ alqoritmin təsvir üsullarını fərqləndirmək; 
+ alqoritmləri müxtəlif üsullarla təsvir etmək. 
+20 Proqram nədir 
+ proqramlaşdırma haqqında elementar bilikləri izah etmək; 
+ ALPLOGO proqramlaşdırma mühitinin pəncərələrini izah etmək;  
+ Bağa icraçının komandalar sistemini şərh etmək.  
+21 
+Bağa işə 
+başlayır  
+ LOGO dilinin əsas komandalarını şərh etmək; 
+ Bağanın hərəkət istiqamətini komandalarla dəyişmək; 
+ proqramlaşdırma mühitində sınıq xətlər çəkmək. 
+22 Bağa sadə fiqurlar çəkir  
+ proqramlaşdırma mühitində sadə proqram yazmaq;  
+ müəyyən komandalar verməklə proqramlaşdırma mühitində sadə 
+fiqurlar çəkmək; 
+ komandalar verməklə xətlərin rəngini və qalınlığını dəyişmək. 
+23 
+İnformasiya 
+resursları 
+ 
+ “informasiya resursları” anlayışını  şərh etmək; 
+ informasiya resurslarını əlamətlərinə görə təsnif etmək; 
+ informasiya resurslarını əsas əlamətlərə görə qruplaşdırmaq; 
+ təbiətlə əlaqədar informasiya resurslarının əhəmiyyətini izah 
+etmək. 
+24 İnternet  
+ kompyuter şəbəkəsi haqqında ümumi məlumatları izah etdirmək; 
+ İnternetə aid sadə anlayışları izah etmək; 
+ İnternet haqqında sadə bilikləri izah etmək. 
+25 
+Dünya hörümçək 
+ toru 
+ İnternetin imkanlarını şərh etmək; 
+ brauzerdə sadə iş bacarıqları nümayiş etdirmək; 
+ ünvanı yığmaqla veb-səhifəni açmaq. 
+26 İnternetdə informa-siyanın axtarışı 
+ İnternetdə axtarış sistemlərinin ünvanlarını tanımaq; 
+ axtarış sistemi vasitəsilə lazımi informasiyanı tapmaq.  
+ 
+14
+ 
+FƏNLƏRARASI İNTEQRASİYA CƏDVƏLİ  
+A-d. – Azərbaycan dili, Riy. – Riyaziyyat, H-b. – Həyat bilgisi, Tex. – Texnologiya, T-i.–Təsviri in-
+cəsənət, X-d. – Xarici dil, F-t. – Fiziki tərbiyə, Mus. – Musiqi, Az.t. – Azərb. tarixi 
+  
+DİFERENSİAL TƏLİM İMKANLARI 
+ 
+Diferensial təlim əhəmiyyətli hesab olunan, məzmunu müxtəlif öyrənmə və düşüncə 
+tərzinə malik olan şagirdlərə öyrətmək və mənimsəməni təmin etmək üçün tətbiq 
+olunan təlim üsullarıdır. Diferensial təlimi proses kimi başa düşmək lazımdır. Yəni 
+müəllimlər şagirdlərə maksimum səmərəli şərait yaratmaq üçün təlimin diferensial-
+laşması üzərində çalışmalıdır.  
+TƏDRİS VAHİDİ, BÖLMƏ VƏ MÖVZULAR 
+ 
+FƏNNİN ADI VƏ ALT 
+STANDARTLARIN NÖMRƏSİ 
+ 
+1. İNFORMASİYA 
+ 
+ 
+1. İnformasiya nədir Az.t. – 1.2.1, Riy. – 5.1.1 
+2. İnformasiyanın   
+    kodlaşdırılması H-b. –  4.2.2, Mus. – 3.1.1, T.i – 1.1.1 
+3. İnformasiya modeli  H-b. – 4.2.2,  Tex. – 4.2.1, T.i. – 1.1.1, 2.1.1 
+4. İnformasiyanı ölçmək  
+    olarmı? Riy.  – 4.1.1 
+2. KOMPYUTER 
+ 
+5. Fərdi kompyuterlər  Tex. –  2.1.1 
+6. Kompyuter necə işləyir  H.b. – 4.2.1, 4.2.2 
+7. İş masası  
+8. Menyu  
+9. Fayllar və qovluqlar  
+10. Pəncərə  
+ 
+3. TƏTBİQİ 
+PROQRAMLAR 
+ 
+11. Kompyuterdə şəkil     
+çəkirəm T.i. – 2.1.1,  2.1.2 
+12. Şəklin fraqmenti ilə iş T.i. – 2.1.1,  2.1.2 
+13. Fraqmentin əyilməsi və  
+      döndərilməsi T.i. – 2.1.1 
+14. Mətn redaktoru A-d. – 3.1.1, 3.1.2, 3.1.4 
+15. Şəkilli mətnlər A-d. – 3.1.1, 3.1.2, 3.1.4 
+16. Mətn redaktorunda şəkli  
+  necə çəkmək olar T-i. – 2.1.1 
+4. ALQORİTM VƏ 
+PROQRAM 
+17. Alqoritm  Riy. – 2.1.1, Tex.– 3.1.1, F-t.– 1.2.1 
+18. Alqoritmləri necə təqdim  
+      etmək olar  Riy. – 2.1.1 
+19. Əyləncəli məsələlər Riy. – 1.2.1,  1.2.2 
+20. Proqram nədir  Riy. – 1.2.1,  1.2.2 
+21. Bağa işə başlayır Riy. – 1.2.1,  1.2.2 
+22. Bağa sadə fiqurlar çəkir Riy – 3.1.1, 3.2.1 
+5. İNTERNET 
+23. İnformasiya resursları H-b. – 2.3.1 
+24. İnternet  H-b. – 2.2.2 
+25. Dünya hörümçək toru H-b. – 2.2.2, 3.3.1 
+26. İnternetdə informasiyanın 
+      axtarışı H-b. – 2.2.2 
+ 
+ 
+15
+Bildiyiniz kimi, təlim bir-biri ilə sıx əlaqədə olan 4 əsas aspektdən ibarətdir:         
+1) fənlərin məzmunu və gözlənilən nəticələr (standartlar); 2) şagirdlərin ilkin bilik 
+və bacarıqları, inkişaf və hazırlıq səviyyələri, onların xüsusi ehtiyacları; 3) təlim 
+üsulları, tapşırıqlar, əlavə materiallar, əyani vəsaitlər və öyrənməni möhkəmləndir-
+mək üçün ev tapşırıqları və çalışmalar; 4) tətbiq olunan qiymətləndirmənin üsul və 
+növləri. Təlimin diferensiallaşması haqqında düşünərkən təlim prosesinin bütün as-
+pektlərinin diferensiallaşması nəzərə alınmalıdır. Təlimin diferensiallaşması zama-
+nı müəllim bu üsullardan istifadə edə bilər: 1) yeni mövzunu təqdim edərkən həm 
+şifahi üsuldan, həm də əyani vasitələrdən istifadə edə bilər (eyni zamanda danışır 
+və göstərir); 2) kiçik qrup halında şagirdlərlə ayrıca görüşür və onlara təkrar izahat 
+verir (bu üsulun tətbiqinə sinfin güclü şagirdlərini də cəlb etmək olar); 3) oxu üçün 
+nəzərdə tutulan materialı bir mətn şəklində yox, bir neçə mətn şəklində hazırlayır 
+ki, müxtəlif oxu qabiliyyəti olan şagirdlər oxu fəaliyyətinə cəlb oluna bilsinlər;      
+4) şagirdlərin ehtiyaclarından asılı olaraq onlara manipulyativ alətlər verir;            
+5) öyrəndiklərini və bacardıqlarını nümayiş etdirmək üçün müxtəlif yollar təqdim 
+edir, məsələn, süjetli-rollu oyunlar hazırlamağa imkan yaradır, şifahi cavabın əvə-
+zinə məktub yazmağı təklif edir, şagirdlər üçün qrup və ya fərdi qaydada işləmək 
+üçün şərait yaradır; 6) şagirdlərin müxtəlif öyrənmə üslublarını nəzərə alaraq onlar 
+üçün fərdi şəraitin yaradılmasına çalışır: tək oturmağı sevən tək oturur, qrupda işlə-
+məyi xoşlayan qrupda işləyir və daim bu qrupun üzvü olur və s. 
+Diferensial təlim texnologiyaları həm tipik, həm də xüsusi təhsilə ehtiyacları olan 
+şagirdlərin nailiyyətlərinin yüksəldilməsi üçün müasir dövrün ən proqressiv və 
+səmərəli yanaşmalarından hesab olunur. Diferensial təlimin alt komponenti olan in-
+klüziv təlimin əsasını hər bir şagirdə fərdi yanaşma ideyası təşkil edir. İnklüziya – 
+sağlamlıq imkanları məhdud olan uşaqlarda özünə inam yaratmaqla yanaşı, on-
+lara digər yaşıdları ilə eyni məktəbdə təhsil almaq şəraitinin yaradılmasıdır. Bu 
+baxımdan təlimi diferensiallaşdırarkən xüsusi təlimə ehtiyacı olan şagirdlərlə iş 
+texnologiyasının nəzərə alınması mühüm amildir. Tədqiqatlar göstərir ki, xüsusi 
+qayğıya ehtiyacı olan şagirdlərin bir çoxu üçün “eksplisit” təlim metodları olduqca 
+əhəmiyyətlidir. Eksplisit təlim üç mərhələdən ibarətdir: 
+– dərsin mövzularının təqdim edilməsi; 
+– materialın birbaşa öyrədilməsi və dərsin məzmununun modelləşdirilməsi; 
+– şagirdlərə təcrübə toplamaq imkanının yaradılması (istiqamətləndirilmiş 
+praktik iş). 
+Təqdim olunan vəsaitdə diferensial təlimin üç qrup üzrə təşkili nəzərdə tutulmuş-
+dur:  
+1. TNYOŞ – təlim nəticələri yüksək olan şagirdlər. 
+2. TNZOŞ – təlim nəticələri zəif olan şagirdlər. 
+3. SİMOŞ – sağlamlıq imkanları məhdud olan şagirdlər.  
+Dərslərin tədrisi texnologiyalarını şərh edərkən müxtəlif mərhələlərdə hər üç qrupa 
+daxil olan şagirdlərlə işləmək üçün müəllimə təlim materiallarının uyğunlaşdırıl-
+ması istiqamətində tövsiyələr verilmişdir.   
+ 
+ 
+16
+ŞAGİRD NAİLİYYƏTLƏRİNİN QİYMƏTLƏNDİRİLMƏSİ 
+ 
+Müəllim tərəfindən qiymətləndirmə meyarları əsasında müəyyən təlim mərhələsinin əv-
+vəlində və sonunda şagirdin tədris materiallarının mənimsənilməsi üzrə irəliləyiş səviy-
+yəsi və digər nailiyyətləri barədə hesabatlar verilir. Məzmun standartlarının mənim-
+sənilməsi istiqamətində, əsasən, aşağıdakı qiymətləndirmə növlərindən istifadə olunur: 
+1. İlkin səviyyənin qiymətləndirilməsi (diaqnostik qiymətləndirmə). Diaqnostik 
+qiymətləndirmə şagirdin bilik və bacarıqlarının ilkin səviyyəsinin müəyyənləşdiril-
+məsinə və bunun əsasında hər bir şagirdin potensial imkanlarını nəzərə alan təlim 
+strategiyalarının seçilməsinə xidmət edir. 
+Diaqnostik qiymətləndirmə əsasən dərs ilinin, bəhs və ya bölmələrin əvvəlində, şa-
+gird başqa ümumi təhsil müəssisəsindən  gəldikdə, sinfi dəyişdikdə və digər zəruri 
+hallarda onun bilik və bacarıqları haqqında məlumat toplamaq, fərdi yanaşmanı tə-
+min etmək və təlim strategiyasını müəyyənləşdirmək məqsədilə müəllim tərəfindən 
+aparılır. Bu qiymətləndirmənin nəticələri sinif və formativ qiymətləndirmə jur-
+nallarında qeyd olunmur, müəllimin qeyd dəftərində öz əksini tapır.  
+Diaqnostik qiymətləndirmədə aşağıdakı üsul və vasitələrdən istifadə etmək tövsiyə olunur: 
+Üsullar Vasitələr 
+Tapşırıqvermə Çalışmalar 
+Müsahibə (şifahi yoxlama) 
+Müəllimin qeydiyyat vərəqi (şagirdlə, müvafiq hallarda qrup, 
+yaxud siniflə aparılan sifahi yoxlama zamanı müəllimin öy-
+rənmək (diaqnoz qoymaq) istədiyi məsələnin  yazıldığı vərəq) 
+Valideynlərlə və digər fənn 
+müəllimləri ilə əməkdaşlıq 
+Söhbət və müəllimin sorğu vərəqi (şagirdin evdə və ya 
+məktəbdəki fəaliyyəti ilə bağlı suallar yazılmış vərəq) 
+Vəsaitdə 5-ci sinif şagirdlərinin ilkin səviyyələrinin yoxlanmasını ümumi sorğu, 
+müsahibə vasitəsilə aparmaq nəzərdə tutulur.  
+2. İrəliləyişlərin monitorinqi (formativ qiymətləndirmə). Yeni məktəbdaxili 
+qiymətləndirmənin  əsas mahiyyətini  formativ qiymətləndirmə təşkil edir. 
+Yeni və ənənəvi qiymətləndirmə arasında əsas fərq gündəlik rəqəmli qiymətlərin 
+yazılmaması və şagirdin təlim fəaliyyətinin daim izlənməsidir. Bu izləmələr  şagir-
+din təlim nəticələrinə nail olması və nəticədə  summativ qiymətləndirmədə nailiy-
+yət qazanmasına kömək məqsədilə aparılır.  
+Formativ qiymətləndirmə sayəsində şagird gündəlik təlim fəaliyyəti ərzində rəqəm-
+li qiymət  almaq üçün deyil,  yaxşı nəticə göstərmək üçün  çalışır. Formativ qiy-
+mətləndirmə şagirdin qəbul edilmiş standartların reallaşmasına yönəlmiş irəliləmə-
+lərini və geriləmələrini izləmək, bu zaman qarşıya çıxan problemləri aradan qaldır-
+maq və təhsilalanı istiqamətləndirmək məqsədilə aparılır. 
+Formativ qiymətləndirmədə aşağıdakı üsul və vasitələrdən istifadə etmək tövsiyə 
+olunur: 
+Üsullar Vasitələr 
+Müşahidə Müşahidə vərəqləri 
+Şifahi sual-cavab Şifahi nitq bacarıqları  üzrə  qeydiyyat vərəqi 
+Tapşırıqvermə Çalışmalar 
+Valideynlərlə və digər fənn 
+müəllimləri ilə əməkdaşlıq 
+Söhbət, sorğu vərəqi (şagirdin evdə və ya məktəbdəki 
+fəaliyyəti ilə bağlı suallar yazılmış vərəq) 
+ 
+ 
+17
+Oxu Dinləmə üzrə qeydiyyat vərəqi Oxu üzrə  qeydiyyat vərəqi 
+Yazı Yazı bacarıqlarının  inkişafı üzrə  qeydiyyat vərəqi 
+Layihə Şagirdlərin təqdimatı və müəllim tərəfindən müəyyən olunmuş meyar cədvəli 
+Rubrik Nailiyyət səviyyələri üzrə qiymətləndirmə şkalası 
+Şifahi və yazılı təqdimat Meyar cədvəli 
+Test Test tapşırıqları 
+Özünüqiymətləndirmə Özünüqiymətləndirmə vərəqləri 
+ 
+Müəllim üçün metodik vəsaitdə hər bir mövzunun sonunda qiymətləndirmə me-
+yarları müəyyən olunmuşdur. Bu meyarlar hər mövzuda nəzərdə tutulan təlim 
+məqsədlərinə nə dərəcədə nail olunduğunu qiymətləndirmək məqsədilə müəyyən 
+edilir. Bu meyarlar kurikulum sənədinin tərkib hissəsi olan qiymətləndirmə stan-
+dartlarına əsasən hazırlanmışdır. Praktik dərslərdə müəllim qiymətləndirməni 
+aparmaq üçün fəaliyyət tapşırığının nəticəsi olan iş vərəqlərini, yaxud fləş-yaddaşa 
+yazılmış faylı yoxlayır, dərsin digər mərhələlərində də bu meyarlara uyğun olaraq 
+şagirdlərin fəaliyyətini izləyir və qeydlərini cədvəldə yazır.  
+Müəllim hər mövzu üzrə tövsiyə olunan meyarlar üzrə aşağıdakı üsul və 
+formalardan istifadə etməklə qiymətləndirmə apara bilər.  
+Dərəcələr üzrə qiymətləndirmə. Müasir üsullara əsaslanan təlimdə şagird nailiyyət-
+lərini qiymətləndirərkən yaxşı və pis cavabların, sadəcə, cəmi nəzərdə tutulmur. Bu 
+zaman biliyi qiymətləndirmək üçün dərəcələrdən istifadə etmək məqsədəuyğundur. 
+Dərəcələr dedikdə şagirdlərin fəaliyyətini yüksək, orta və aşağı balla qiymətlən-
+dirməyə imkan verən dəqiq ifadə olunmuş qaydalar nəzərdə tutulur. Məsələn, 
+“Fərdi kompyuterlər” mövzusunda qiymətləndirmə meyarlarını aşağıdakı kimi 
+müəyyən etmək olar:  
+1. Fərdi kompyuterlərin təsnifatına dair biliklərini şərh edir. 
+2. Fərdi kompyuterləri bir-birindən fərqləndirir. 
+3. Fərdi kompyuterlərin üstün cəhətlərini söyləyir. 
+ 
+Müşahidəyə görə qiymətləndirmə. Müəllimin ibtidai siniflərdə formativ qiymətlən-
+dirməni öz müşahidəsinə əsasən aparması daha məqsədəuyğundur. Müşahidəyə görə 
+bütün sinif üzrə formativ qiymətləndirmə aparmaq üçün belə cədvəldən istifadə 
+etmək olar: 
+№ 
+Şagirdin soyadı və adı M
+. 1
+ 
+M
+. 2
+ 
+M
+. 3
+ 
+Cəmi Nəticə Müəllimin qeydi 
+1. Məmmədli Azər 2 3 3 8 Yaxşı  
+2. Ağazadə Orxan 2 2 2 6 Orta  
+ 
+№ Şagirdin soyadı və adı 
+Meyarlar Nəticə Müəllimin 
+qeydi 1 2 3 
+1. Məmmədli Azər + + + Yaxşı  
+2. Ağazadə Orxan + + - Orta  
+3. Cəfərli Oqtay + - - Zəif  
+ 
+18
+Burada 1, 2, 3 qiymətləri meyarlar üzrə uyğun olaraq zəif, orta və yaxşı nəticələri 
+göstərir. Ümumi qiyməti çıxarmaq üçün isə intervaldan istifadə etmək daha məqsə-
+dəuyğundur; məsələn: 3–5 arası “Zəif”, 6–7 arası “Orta”,  8–9 arası isə “Yaxşı”. 
+Fərdi özünüqiymətləndirmə. Şagirdlər hər tədris vahidinin sonunda dərslikdə 
+verilmiş “Özümüzü yoxlayaq” səhifəsindəki tapşırıqları yerinə yetirir. Bu, müəlli-
+min şagirdlərə düzgün istiqamət göstərməsi üçün bir vasitədir. Formativ qiymət-
+ləndirmə məqsədilə müəllim müəyyən meyarlar əsasında müxtəlif özünüqiymətlən-
+dirmə formalarını da tərtib edə bilər. 
+Qrup diskussiyaları üçün özünüqiymətləndirmə. Şagirdlər qruplar şəklində işləyər-
+kən dərsin sonunda müəllim tərəfindən onlara öz işlərini qiymətləndirmək üçün 
+vaxt verilir.  
+ 
+№ Meyarlar Həmiş
+ə 
+Adətən Bəzən Heç 
+vaxt 
+1. Diskussiyaya başlamazdan əvvəl biz tapşırığı 
+dəqiqləşdiririk 
+    
+2. Biz verilmiş tapşırıqdan yayınmırıq     
+3. Müzakirədə hamı iştirak edir     
+4. Cavab verməzdən əvvəl həmsöhbətimizi dinləyirik     
+5. Hansısa nəticəyə gəlməzdən əvvəl müəyyən 
+mülahizələr söyləyirik 
+    
+6. Diskussiyanın sonunda vahid rəyə gəlirik     
+7. Söylənilən bütün yaxşı fikirləri birimiz qeydə alır     
+ 
+Qrup və cütlərin fəaliyyətinin qiymətləndirilməsi.  
+Şagirdləri qiymətləndirmək üçün müəllim meyarlar üzrə qrup qiymətləndirməsini 
+həyata keçirə bilər. Qiymətləndirmə ballarını ulduzlardan, müxtəlif işarələrdən, 
+simvollardan (smayliklərdən) istifadə etməklə göstərmək olar. Nəticədə isə hər 
+qrupun topladığı ulduz, simvol (smayliklər) sayılır.  
+ 
+Qrupun 
+№-si 
+Əməkdaşlıq Dinləmə Nizam-
+intizam 
+Çıxış edən qrupun 
+təqdimatına edilən 
+əlavə və düzəlişlər
+İşin düzgün yerinə 
+yetirilməsi və   
+tamamlanması 
+Ümumi 
+nəticə 
+     I       
+     II       
+    III       
+    IV       
+ 
+Şagirdləri cütlərə ayırdıqdan sonra onların işini qiymətləndirmək üçün cədvəl təq-
+dim edilir (vaxt məhdudiyyəti olduqda müəllim bir neçə cütlüyü dinləyir, qalanla-
+rın isə iş vərəqlərini yığıb sonra qiymətləndirir).   
+ 
+ 
+Cütlər üzrə işləyən 
+şagirdlərin adı 
+Meyarlar 
+Əməkdaşlıq Dinləmə Nizam-
+intizam 
+Tapşırığın 
+düzgünlüyü
+Tapşırığın 
+çətinliyi 
+İşin 
+tamlığı 
+Ümumi 
+nəticə 
+Anar və Lalə        
+Alpay və Nigar        
+3. Yekun (summativ) qiymətləndirmə. Summativ qiymətləndirmə kiçik və böyük 
+summativ qiymətləndirmədən ibarətdir.  
+Kiçik və böyük summativ qiymətləndirmə təlim prosesində müəyyən mərhələlərə 
+(bəhs və ya bölmənin, yarımilin sonunda) yekun vurmaqla, müvafiq məzmun 
+ 
+ 
+19
+standartlarına uyğun qiymətləndirmə standartları əsasında hazırlanmış vasitələrlə 
+şagirdin nailiyyət səviyyəsini ölçmək məqsədilə aparılır. 
+Summativ qiymətləndirmənin nəticələri keçirildiyi tarixdə sinif jurnalında qeyd olunur. 
+Summativ qiymətləndirmədə aşağıdakı üsul və vasitələrdən istifadə etmək tövsiyə 
+olunur: 
+Üsullar Vasitələr 
+Yoxlama yazı işləri Yoxlama yazı işləri üzrə  qeydiyyat vərəqi 
+Layihə Şagirdlərin təqdimatı və müəllim tərəfindən müəyyən edilmiş meyar cədvəli 
+Şifahi sorğu Şifahi sorğu üzrə  qeydiyyat vərəqi 
+Test Test  tapşırıqları 
+Tapşırıqvermə Tapşırıq, çalışma və laboratoriya işləri 
+Yaradıcılıq və əl işləri Fənlərə müvafiq olaraq  rəsmlər, hazırlanan məmulatlar və digər əl işləri 
+Metodik vəsaitdə orta məktəblərdə qiymətləndirmə qaydalarına əsasən hər tədris 
+vahidinin sonunda kiçik, hər yarımilin sonunda isə böyük summativ qiymətləndirmə 
+vasitələrinin nümunələri verilmişdir. Təqdim olunan nümunələr tədris vahidləri və 
+yarımillər ərzində reallaşdırılması nəzərdə tutulan bacarıqların qiymətləndirilməsi 
+üçün nəzərdə tutulur. Müəllim bu nümunələr əsasında öz variantlarını da hazırlaya 
+bilər. Şagirdlərin summativ qiymətləndirməyə hazırlıq məqsədi ilə dərslikdə hər təd-
+ris vahidinin  sonunda “Özümüzü yoxlayaq” adı ilə tapşırıqlar verilmişdir. Bu tapşı-
+rıqlar summativ qiymətləndirmədən əvvəlki dərsdə yerinə yetirilə bilər.  
+ 
+Toplum halında qiymətləndirmə (portfolio) 
+Toplum halında qiymətləndirmə şagirdlərin bilik və bacarıqlarını ən obyektiv şəkil-
+də qiymətləndirməyə imkan verir. Lakin bu üsul digər qiymətləndirmə formalarına 
+nisbətən mürəkkəb olduğu üçün daha çox səy tələb edir. Bunun üçün hər şagirdə 
+bir qovluq ayrılır. Qiymətləndiriləcək işlər müəllim və ya şagirdin özü tərəfindən 
+bu qovluğun içinə yığılır. Bu materiallar dərsin mövzuları üzrə çalışma və tapşırıq-
+lardan, müxtəlif testlərdən, layihələrdən, tədqiqat işlərindən, ev tapşırıqlarından, 
+özünüqiymətləndirmə formalarından, dərsdənkənar praktik tapşırıqlardan və s.-dən 
+ibarət ola bilər.  
+İnformatika dərslərində portfolioların başqa bir formasından – elektron portfoli-
+olardan da geniş istifadə edilməsi tövsiyə olunur. Bunun üçün hər bir şagird üçün 
+kompyuterdə öz adı ilə qovluq yaradılır və kompyuterdə icra etdiyi bütün işlər ora 
+yerləşdirilir. Bu portfolionun ən üstün cəhəti ondadır ki, şagird istədiyi zaman onun 
+surətini şəxsi fləş-yaddaşına yazıb evdə işini davam etdirsə, yaxud valideynlərinə 
+göstərə bilər.  
+  
+  
+ 
+20
+GÜNDƏLİK PLANLAŞDIRMAYA DAİR NÜMUNƏLƏR 
+ 
+ 
+Dərs 3 / Mövzu: İNFORMASİYA MODELİ  
+ 
+MOTİVASİYA 
+Müəllim şagirdlərə bir neçə oyuncaq, yaxud kiçik maket göstərib sinfə müraciət edir: 
+                                                   
+– Bunlar hansı əşyalardır? (ekskavator oyuncağı, təyyarə modeli) Onların 
+ətrafımızda oxşarı varmı? Onlar bu əşyalara nə ilə oxşayır və nə ilə fərqlənir? 
+(ölçülərinə görə, hərəkətlərinə görə).  
+Müəllim digər fənlərlə intreqrativ suallar verə bilər: 
+– Qlobus nəyə oxşayır? (Yer kürəsinə). Qlobusu düzəltmək üçün insanlar hansı 
+məlumatlardan istifadə etmişlər? Biz keçmiş zamanlarda yaşamış dinozavrları 
+görməmişik, amma onlar barədə filmlərə baxmışıq, 
+onların şəkillərini seyr etmişik. Sizcə, insanlar dino-
+zavrları görmədikləri halda onların nəhəng olduqlarını, 
+xarici görünüşlərini necə müəyyən etmişlər?    
+Şagirdlərin fikirləri dinlənilir. Lövhədə tədqiqat sualı 
+yazılır və müəllim tərəfindən səsləndirilərək izah olunur. 
+Şagirdlərin fərziyyələri qeyd olunur.  
+Tədqiqat sualı: Obyektləri öyrənmək üçün onları necə təsvir etmək olar? 
+DƏRSİN 
+MƏQSƏDİ 
+ obyektin informasiya modelini izah etmək; 
+ informasiya modelinin növlərini fərqləndirmək; 
+ obyektin informasiya modelinin növlərini nümunələrlə şərh 
+etmək. 
+  
+Əsas 
+ANLAYIŞLAR Model, modelləşdirmə, maddi model, informasiya modeli 
+  
+DƏRSİN TİPİ İnduktiv 
+ 
+ 
+İstifadə olunan 
+İŞ FORMALARI Bütün siniflə iş, qrupla iş 
+ 
+İstifadə olunan 
+ÜSULLAR 
+Beyin həmləsi, kiçik mühazirə, problemin həlli, modelləşdirmə, 
+təqdimat 
+ 
+Fənlərarası 
+İNTEQRASİYA Riy. – 2.1.2,  H-b. – 4.2.2,  Tex.– 4.2.1, T.i. – 1.1.1, 2.1.1 
+  
+TƏCHİZAT İş vərəqləri, kompyuter, proyektor 
+ 
+ 
+21
+TƏDQİQATIN APARILMASI 
+Müəllim tədqiqatı aparmaq üçün şagirdləri kiçik qruplara bölür. O, qrupların hər 
+birinə dərsliyin “Fəaliyyət” hissəsində olan tapşırıqların birini, yaxud alternativ 
+tapşırıqlar verə bilər.  
+Alternativ tapşırıqlar.  
+– Məktəbinizi müxtəlif cür təsvir edin.  
+– Qrupun üzvlərini müxtəlif cür təsvir edin. 
+Diferensial təlim. Sağlamlıq imkanları məhdud olan şagirdlər qrup müzakirələrin-
+də iştirak edə, iş vərəqlərində obyektin şəklini çəkə, yaxud onun haqqında nə isə 
+yaza bilərlər.  
+ 
+MƏLUMAT MÜBADİLƏSİ VƏ MÜZAKİRƏSİ 
+Hər qrupun nümayəndəsi işi təqdim edir. Şagirdlər dərslikdə verilmiş fəaliyyət tap-
+şırığını şəkil çəkməklə, sözlərlə, yaxud sxem çəkməklə yerinə yetirə bilər. 
+Məlumat mübadiləsi baş verir. Müəllim və digər qruplar çıxış edənə suallarla mü-
+raciət edə bilər. 
+I qrupa:  
+– İnformasiyanı hansı formalarda təqdim etdiniz? Futbol meydançasındakı oyun-
+çuların yerini necə göstərmək olar? Futbol meydançasının ölçülərini göstərmək 
+üçün meydançanın özünü çəkməyə ehtiyac varmı?   
+II qrupa: 
+– Keçiləcək dərsləri nə zaman cədvəllə göstərmək əlverişli olur? Əgər valideyni-
+nizi hər gün dərsinizin qurtardığı vaxt maraqlandırırsa, ona gün ərzində keçilən 
+dərsləri sadalamağa ehtiyac varmı? Bu zaman ona informasiyanı necə təqdim 
+etmək olar?  
+III qrupa: 
+– Məktəbdən evə getdiyin yolu dostuna necə başa sala bilərsən? Əgər məktəbdən 
+eviniz görünürsə, onun yerini bildirmək üçün ən münasib forma hansı ola bilər? 
+IV qrupa: 
+– Sevdiyiniz dondurmanı almaq üçün onu satıcıya necə bildirmək olar? Əgər bu 
+dondurmanı özünüz hazırlamaq istəsəniz, sizə onun haqqında hansı informasi-
+yalar daha faydalı ola bilər?  
+ 
+ÜMUMİLƏŞDİRMƏ VƏ NƏTİCƏ  
+Müəllim şagirdlərə sualla müraciət edir: 
+– Siz informasiyaları necə təqdim etdiniz? Təqdim edilmiş formalardan obyekt 
+haqqında bütün məlumatları almaq olardımı?  
+Müəllim şagirdlərin cavablarını ümumiləşdirir və onlarla birlikdə nəticə çıxarır: 
+– Obyektlərin sadələşdirilmiş bənzəri model adlanır. Obyektlərin görünən 
+əlamətlərinin əks olunduğu bu cür modellərə maddi model deyilir. Obyekti öy-
+rənmək ucun maddi model yaratmaq vacib deyil. Maddi modellərdən savayı, 
+informasiya modelləri də var. Əgər obyektin maddi modeli onun fiziki oxşarı-
+dırsa, informasiya modeli onun təsviridir. Modellər obyektin bütün xassələrini 
+yox, yalnız öyrənilən və maraqlı olan xassələrini əks etdirir. Obyekti öyrənmək 
+ 
+22
+üçün maddi model yaratmaq vacib deyil. Özünüz də gördünüz ki, eyni bir ob-
+yekti müxtəlif yollarla təsvir etmək olur. Başqa sözlə, eyni bir obyektin müxtə-
+lif modellərini qurmaq olar. Bu modellərin hər biri obyektin müəyyən 
+xassələrini əks etdirir. Məsələn, bir modeldən obyektin ölçüləri, başqasından 
+onun rəngi və forması, üçüncüsündən isə materialı və hərəkətləri haqqında 
+informasiya almaq olar. Ən çox istifadə edilən informasiya modelləri sözlə, 
+şəkillə, cədvəllə və sxemlə təsvir olunur. 
+Müəllim dərsin əvvəlində irəli sürülən fərziyyələri xatırladır və onları şagirdlərin 
+fəal iştirakı ilə qazanılmış biliklərlə müqayisə edir. 
+ 
+YARADICI TƏTBİQETMƏ  
+Müəllim şagirdlərə eyni bir obyektin müxtəlif informasiya modellərini qurmaq 
+tapşırığı verə bilər.  
+ 
+QİYMƏTLƏNDİRMƏ 
+Müəllim dərs zamanı qrupları qiymətləndirir. Cədvəli doldurur: 
+ 
+№ Əməkdaşlıq Dinləmə Nizam-intizam 
+İşin düzgün 
+yerinə 
+yetirilməsi və 
+tamamlanması 
+Ümumi 
+nəticə 
+I      
+II      
+III      
+IV      
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini müəyyən etmək üçün 
+meyar cədvəli hazırlayır. Dərsin bütün mərhələlərində bu meyarlara uyğun olaraq 
+şagirdlərin fəaliyyətini izləyir və qeydlərini cədvəldə yazır.  
+Meyarlar: 
+1. Obyektin informasiya modelini izah edir. 
+2. İnformasiya modelinin növlərini fərqləndirir. 
+3. Obyektin informasiya modelinin növlərini nümunələrlə şərh edir.  
+ 
+№ Şagirdin soyadı və adı 
+Meyarlar üzrə müəllimin qeydləri 
+1 2 3 
+1.     
+2.     
+...     
+Ev tapşırığı. “Araşdıraq-öyrənək” bölməsindəki tapşırıq verilə bilər.  
+ 
+ 
+23
+Dərs 5 / Mövzu: FƏRDİ KOMPYUTERLƏR  
+ 
+MOTİVASİYA 
+Müəllim  şagirdlərə müraciət edə bilər: 
+– Kompyuter haqqında, yəqin ki, hər birinizin kifayət qədər məlumatı var. 
+Kompyuterlərə harada rast gəlmisiniz?  
+Müəllim şagirdlərin fikirlərini dinləyib problemli situasiya yaradacaq suallar verir: 
+– Sizə lazım olan kompyuteri necə seçmək olar? Onun hansı özəlliklərinə 
+(xüsusiyyətlərinə) fikir vermək lazımdır?  
+Şagirdlərin fikirləri dinlənilir. Lövhədə tədqiqat sualı yazılır və müəllim tərəfindən 
+səsləndirilərək izah olunur. Şagirdlərin fərziyyələri qeyd olunur.  
+Tədqiqat sualı: Kompyuterləri necə fərqləndirmək olar? 
+ 
+TƏDQİQATIN APARILMASI 
+Müəllim tədqiqatı aparmaq üçün şagirdləri kiçik qruplara bölür. O, dərsliyin 
+“Fəaliyyət” hissəsində təsvir olunmuş kompyuterləri iki-iki bölməklə hər qrupa bir 
+cüt kompyuteri müqayisə etməyi tapşırır. Bu zaman şagirdlər kompyuterləri xarici 
+görkəminə, ölçülərinə, hissələrinə görə müqayisə edirlər. Bu kompyuterlər haqqın-
+da məlumatı olan şagirdlər onları başqa cəhətlərinə görə də müqayisə edə bilərlər. 
+Venn diaqramında kompyuterlərin fərqli və oxşar cəhətləri qeyd edilir.  
+ 
+I qrup 
+ 
+DƏRSİN 
+MƏQSƏDİ 
+ fərdi kompyuterləri bir-birindən fərqləndirmək; 
+ fərdi kompyuterlərin təsnifatına dair biliklərini nümayiş 
+etdirmək;  
+ fərdi kompyuterlərin növlərinə görə üstün cəhətlərini 
+söyləmək. 
+  
+Əsas 
+ANLAYIŞLAR 
+Kompyuter, fərdi kompyuter, masaüstü kompyuter, noutbuk, 
+planşet, cib kompyuteri 
+  
+DƏRSİN TİPİ İnduktiv 
+ 
+ 
+İstifadə olunan 
+İŞ FORMALARI Bütün siniflə iş, qruplarla iş 
+ 
+İstifadə olunan 
+ÜSULLAR 
+Beyin həmləsi, kiçik mühazirə, problemin həlli, Venn diaqramı, 
+təqdimat 
+ 
+Fənlərarası 
+İNTEQRASİYA Tex. –  2.1.1 
+  
+TƏCHİZAT İş vərəqləri, kompyuter sinfi 
+ 
+24
+II qrup 
+   
+III qrup 
+     
+IV qrup 
+    
+ 
+MƏLUMAT MÜBADİLƏSİ VƏ MÜZAKİRƏSİ 
+Hər bir qrupun nümayəndəsi işi təqdim edir. Məlumat mübadiləsi baş verir. 
+Müəllim və digər qrup üzvləri suallar verə bilər:  
+– Şəkillərdə göstərilmiş kompyuterləri harada görmüsünüz?  
+– Onların hansı ümumi cəhətləri var? 
+– Bu kompyuterlərdə hansı işləri görmək olar? 
+ 
+ÜMUMİLƏŞDİRMƏ VƏ NƏTİCƏ  
+Müəllim sinfə müraciət edir: 
+– Kompyuterlər bir-birindən necə fərqlənir? 
+– Bütün növ kompyuterlərdə eyni işləri görmək olarmı? 
+– Kompyuterlərin müxtəlif göstəricilərini bilmək nə üçün lazımdır?  
+Müəllim şagirdlərin cavablarını ümumiləşdirir və onlarla birlikdə nəticə çıxarır: 
+– Kompyuterlərə çox yerdə rast gəlmək olar: ofislərdə, zavodlarda, banklarda, 
+məktəblərdə, avtomobillərdə, evlərdə, məişət cihazlarının daxilində. 
+               
+ 
+– Bir nəfərin istifadəsi üçün nəzərdə tutulan kompyuterlər fərdi kompyuterlər 
+adlanır. “Macintosh” adlı ilk fərdi kompyuteri 1984-ci ildə “Apple” firması 
+hazırlamışdır. Əvvəllər kompyuterlər çox iri idi və böyük zallarda yerləşirdi.  
+ 
+ 
+25
+ 
+– Fərdi kompyuterləri ölçülərinə və imkanlarına görə bir neçə növə ayırırlar: 
+masaüstü kompyuterlər, noutbuk kompyuterlər (dizüstü kompyuterlər), planşet 
+kompyuterlər, ovuciçi kompyuterlər (cib kompyuterləri).   
+– Masaüstü kompyuterlər fərdi kompyuterlərin ən geniş yayılmış növüdür.  Həm 
+də onlara stasionar kompyuterlər də deyilir. Onlar, əsasən, sistem bloku, 
+monitor, klaviatura və siçandan ibarət olur. 
+– Noutbukların, yaxud dizüstü kompyuterlərin ölçüləri masaüstü kompyuterlərə 
+nisbətən kiçik olsa da, imkanları, demək olar ki, eynidir. Kiçik və yüngül 
+olduqlarından onları rahat daşımaq olur. Noutbuklar elektrik şəbəkəsi ilə yanaşı, 
+batareya ilə də işləyə bilir. 
+Müəllim dərslikdə adı çəkilən kompyuterlərdən danışa bilər.  
+– Fərqlərinə baxmayaraq bütün fərdi kompyuterləri birləşdirən ümumi cəhət odur 
+ki, onların giriş-çıxış  qurğuları, prosessoru  və yaddaş qurğusu var. 
+Müəllim dərsin əvvəlində irəli sürülən fərziyyələri xatırladır və onları şagirdlərin 
+fəal iştirakı ilə qazanılmış biliklərlə müqayisə edir. 
+ 
+YARADICI TƏTBİQETMƏ  
+Müəllim şagirdlərə “Sual və tapşırıqlar” hissəsində verilmiş 4-cü tapşırığı yerinə 
+yetirməyi təklif edir.  
+ 
+QİYMƏTLƏNDİRMƏ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini müəyyən etmək üçün 
+meyar cədvəli hazırlayır. Dərsin bütün mərhələlərində bu meyarlara uyğun olaraq 
+şagirdlərin fəaliyyətini izləyir və qeydlərini cədvəldə yazır.  
+ 
+Meyarlar: 
+1. Fərdi kompyuterlərin təsnifatına dair biliklərini şərh edir.  
+2. Fərdi kompyuterləri fərqləndirir. 
+3. Fərdi kompyuterlərin üstün cəhətlərini söyləyir. 
+ 
+№ Şagirdin soyadı və adı 
+Meyarlar üzrə müəllimin qeydləri 
+1 2 3 
+1.     
+2.     
+3.     
+...     
+Ev tapşırığı. “Araşdıraq-öyrənək” bölməsindəki tapşırıq verilə bilər.  
+ 
+26
+Dərs 12 / Mövzu: ŞƏKLİN FRAQMENTİ İLƏ İŞ 
+ 
+MOTİVASİYA 
+– Rəsm dərslərində şəkil çəkən zaman bəzən hər hansı bir elementin yerini 
+dəyişmək lazım gəlir. Kağız üzərində çəkilmiş şəklin müəyyən hissəsini 
+böyüdüb-kiçiltmək, yaxud surətini başqa yerə köçürmək lazım gələrsə, bu 
+zaman nə edirsiniz? “Fraqment” sözünün mənasını bilirsinizmi? Fraqment 
+tamın bir hissəsi kimi başa düşülür. 
+Müəllim şagirdlərin aşağı siniflərdə Paint proqramında iş bacarıqlarını yada 
+salmaq üçün bəzi suallar verə bilər: 
+– Qrafik redaktorda işləyərkən şəklin fraqmenti ilə hansı əməliyyatları yerinə 
+yetirmisiniz? Kompyuterdə şəkil çəkəndə onun fraqmenti ilə necə işləmək olar?  
+Şagirdlərin fikirləri dinlənilir.  
+Lövhədə tədqiqat sualı yazılır və müəllim tərəfindən səsləndirilərək izah olunur. 
+Şagirdlərin fərziyyələri qeyd olunur.  
+Tədqiqat sualı: Qrafik redaktorda şəklin fraqmentinin yerini, ölçülərini necə 
+dəyişmək və çoxaltmaq olar? 
+ 
+TƏDQİQATIN APARILMASI 
+Müəllim şagirdləri seçdirmə alətləri ilə, şəklin fraqmentinin çoxaldılması, başqa 
+yerə köçürülməsi, silinməsi ilə tanış edir. Bu zaman o, proyektordan istifadə edərək 
+şagirdlərə izahat verə bilər.  
+Tədqiqatı aparmazdan əvvəl müəllim şagirdlərlə kompyuterdə iş qaydalarını və 
+təhlükəsizlik  texnikası qaydalarını təkrarlayır. Sinif cütlüklərə bölünür. Hər cütlük 
+bir kompyuterin qarşısında əyləşir və onlara dərsliyin “Fəaliyyət” hissəsində olan 
+tapşırıq verilir.  
+Praktik iş zamanı seçdirmə alətləri, şəklin fraqmentinin çoxaldılması, başqa yerə 
+köçürülməsi, silinməsi bacarıqları ilə bağlı şagirdlərdə yaranacaq suallara əyani 
+DƏRSİN 
+MƏQSƏDİ 
+ seçdirmə alətlərini tanımaq; 
+ şəklin fraqmentini çoxaltmaq; 
+ şəkiln fraqmentinin yerini dəyişmək və onu silməyi bacarmaq. 
+  
+Əsas 
+ANLAYIŞLAR 
+Seçdirmə alətləri, şəklin fraqmenti, şəklin seçdirilməsi, fraqmentin 
+çoxaldılması 
+  
+DƏRSİN TİPİ Praktik 
+  
+İstifadə olunan 
+İŞ FORMALARI Bütün siniflə iş, cütlərlə iş 
+ 
+İstifadə olunan 
+ÜSULLAR Beyin həmləsi, kompyuterdə iş 
+ 
+Fənlərarası 
+İNTEQRASİYA T.i. – 2.1.1,  2.1.2 
+  
+TƏCHİZAT İş vərəqləri, proyektor, noutbuk 
+  
+Proqram 
+TƏMİNATI MS Paint proqramı 
+ 
+ 
+27
+olaraq cavab vermək üçün müəllim proyektorda bu işlərin icrasını nümayiş etdirir. 
+Şagirdlər sinifdə çəkdikləri şəkli evdə davam etdirmək istəsələr, müəllim bu işləri 
+fləş-yaddaşa yazıb onlara verə bilər.  
+Diferensial təlim. Təlim nəticələri yüksək olan və qrafik redaktorda işləməyi 
+bacaran şagirdlərə daha mürəkkəb tapşırıqlar vermək olar: məsələn, məktəbinizin 
+binasını çəkmək. Tədqiqat zamanı müəllim xüsusi qayğıya ehtiyacı olan şagirdlərə 
+böyük həssaslıqla yanaşmalıdır. Onlara alma, şar çəkmək və onu çoxaltmaq kimi 
+daha sadə tapşırıqlar vermək olar.  
+ 
+MƏLUMAT MÜBADİLƏSİ VƏ MÜZAKİRƏSİ 
+Müəllim bir neçə cütlüyün işini nümayiş etdirə bilər. Tapşırığın nəticəsi seçdirmə 
+alətindən düzgün istifadə edilməsindən asılıdır. Seçdirmə alətindən düzgün istifadə 
+edə bilməyən şagirdlərin nəticələri də uyğun olaraq səliqəsiz olacaqdır. Müzakirə 
+zamanı müəllim bunu vurğulaya bilər. Məlumat mübadiləsi baş verir. Müəllim 
+suallar verə bilər:  
+– Şəkil hazırlayarkən hansı alətlərdən istifadə etdiniz? Seçdirmə alətindən necə 
+istifadə etdiniz? Seçdirilmiş fraqmenti necə çoxaltdınız? Vərəqdə bu şəkli necə 
+çəkəcəkdiniz?  
+ 
+ÜMUMİLƏŞDİRMƏ VƏ NƏTİCƏ  
+Müəllim sinfə müraciət edir: 
+– Seçdirmə alətləri nə üçündür? 
+– Onlardan necə istifadə etmək olar? 
+Müəllim şagirdlərin cavablarını ümumiləşdirir və onlarla birlikdə nəticə çıxarır: 
+– Bəzən rəsmi çəkərkən bütöv bir fraqmentin yerini dəyişmək, üzünü köçürmək, 
+yaxud uzaqlaşdırmaq lazım gəlir. Bunun üçün seçdirmə alətlərindən istifadə 
+olunur.  
+Dərsliyin “Fəaliyyət” hissəsindən sonra verilən izahat və yeni məlumatlar oxunur. 
+Müəllim oxunan materialları proyektor vasitəsilə əyani olaraq nümayiş etdirir. 
+Seçdirmə alətləri və onlarla iş rejimləri sadalandıqca müəllim onları proyektor va-
+sitəsilə göstərir. Seçdirilmiş fraqmentlərin çoxaldılması və yerinin dəyişdirilməsi 
+dərslikdə verilmiş qayda ilə nümayiş edilir.  Bu zaman şagirdlər müəllimin yerinə 
+yetirdiyi əməliyyatları öz kompyuterlərində təkrar etməklə bu bacarıqlara daha 
+asanlıqla yiyələnə bilər.  
+Müəllim fraqmentin çoxaldılmasını iki üsulla göstərə bilər: 1. Fraqmenti bufer yad-
+daşına yazmaqla (Copy) və sonra iş sahəsinə salmaqla (Paste). 2. Klaviaturada 
+<Ctrl> klavişindən istifadə etməklə.  
+Müəllim dərsin əvvəlində irəli sürülən fərziyyələri xatırladır və onları şagirdlərin 
+fəal iştirakı ilə qazanılmış biliklərlə müqayisə edir. 
+ 
+YARADICI TƏTBİQETMƏ  
+Müəllim dərsin bu mərhələsində şagirdlərə yaradıcı iş təklif edə bilər:  
+– İstədiyiniz fiquru çəkin. Onu çoxaldaraq naxışlar yaradın. İşi kompyuterin 
+yaddaşında saxlayın. 
+ 
+28
+QİYMƏTLƏNDİRMƏ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini müəyyən etmək üçün 
+meyar cədvəli hazırlayır. Dərsin bütün mərhələlərində bu meyarlara uyğun olaraq 
+şagirdlərin fəaliyyətini izləyir və qeydlərini cədvəldə yazır.  
+ 
+Meyarlar: 
+1. Seçdirmə alətlərini tanıyır. 
+2. Şəklin fraqmentini çoxaldır. 
+3. Şəklin fraqmentinin yerini dəyişir, onu silməyi bacarır. 
+ 
+№ Şagirdin soyadı və adı 
+Meyarlar üzrə müəllimin qeydləri 
+1 2 3 
+1.     
+2.     
+3.     
+...     
+Ev tapşırığı. Seçdirmə alətlərindən istifadə edərək rəsm hazırlayın. Onu fləş-
+yaddaşa yazıb sinfə gətirin. 
+ 
+ 
+Dərs 25 / Mövzu: DÜNYA HÖRÜMÇƏK TORU 
+ 
+MOTİVASİYA 
+Müəllim sinfə müraciət edir: 
+– Nə üçün insanlar kompyuterlərlə, telefonlarla  İnternetə qoşulurlar? İnternetdə 
+nə var? İnternet sizə hansı işlərinizdə kömək edə bilər? 
+Şagirdlərin fikirləri dinlənilir.  
+Müəllim soruşur: 
+DƏRSİN 
+MƏQSƏDİ 
+ İnternetin imkanlarını şərh etmək; 
+ brauzerdə sadə iş bacarıqları nümayiş etdirmək; 
+ ünvanı məlum olan veb-səhifəni İnternetdə açmaq. 
+ alqoritmmmmmm 
+Əsas 
+ANLAYIŞLAR 
+İnternet xidmətləri, Dünya hörümçək toru – WWW, istinad, 
+brauzer, veb-sayt,  saytda gəzişmə 
+  
+DƏRSİN TİPİ Praktik 
+ 
+ 
+İstifadə olunan 
+İŞ FORMALARI Bütün siniflə iş, fərdi iş 
+ 
+İstifadə olunan 
+ÜSULLAR Müsahibə, kompyuterdə iş,  
+ 
+Fənlərarası 
+İNTEQRASİYA H-b. – 2.2.2, 3.3.1 
+  
+TƏCHİZAT İş vərəqləri, proyektor, noutbuk 
+ 
+ 
+29
+– İnternetdəki məlumatlar konkret olaraq harada yerləşir? “Məlumat İnternetdə-
+dir” dedikdə nə başa düşülür?  
+ 
+Lövhədə tədqiqat sualı yazılır və müəllim tərəfindən səsləndirilərək izah olunur. 
+Şagirdlərin fərziyyələri qeyd olunur.  
+Tədqiqat sualı: İnternetdə veb-səhifələrə necə baxmaq olar? 
+ 
+TƏDQİQATIN APARILMASI 
+Tədqiqatı aparmazdan əvvəl müəllim şagirdlərlə kompyuterdə iş qaydalarını və 
+təhlükəsizlik  texnikası qaydalarını təkrarlayır. Sinif cütlüklərə bölünür. Hər cütlük 
+bir kompyuterin qarşısında əyləşir və onlara dərsliyin “Fəaliyyət” hissəsində olan 
+tapşırıq verilir. 
+Müəllim işi qruplarla da təşkil edə bilər. Bu zaman hər bir qrupa aşağıdakı saytların 
+birində işləmək tapşırılır:  
+– mektebli.president.az  
+– din.az 
+– eco.preslib.az 
+– uzeyir.musigi-dunya.az 
+Müəllim brauzerlə iş qaydalarını nümayiş etdirə bilər. O, şagirdlərə saytın 
+ünvanının düzgün yığılmasını, hiperistinadlara keçidi və əvvəlki səhifəyə qayıtmaq 
+üçün hansı düymənin basıldığını xatırlada bilər.  
+ 
+MƏLUMAT MÜBADİLƏSİ VƏ MÜZAKİRƏSİ 
+Müəllim suallar verə bilər: 
+– Hansı brauzeri açdınız? 
+– Saytın ünvanını hara daxil etdiniz? 
+– Açılan səhifədə hansı məlumatlarla tanış oldunuz? 
+– Həmin səhifədən yeni səhifəyə necə keçdiniz? 
+– Bu səhifələrdə hansı məlumatlar var?  
+İşin müzakirəsini dərslikdə verilmiş suallarla da davam etdirmək olar.  
+ 
+ÜMUMİLƏŞDİRMƏ VƏ NƏTİCƏ  
+Müəllim sinfə müraciət edir:  
+– İnternetdə istədiyiniz sayta necə baxmaq olar?  
+Müəllim şagirdlərin cavablarını ümumiləşdirir və onlarla birlikdə nəticə çıxarır: 
+– İnternetin ən qiymətli xidmətlərindən biri Dünya hörümçək toru (World Wide 
+Web), yaxud Veb adlanır. O, veb-səhifələr adlanan elektron fayllar yığınından 
+ibarətdir. Veb-səhifələrdə məlumatlar və onları bir-biri ilə əlaqələndirən 
+istinadlar olur. İstinadı çıqqıldatdıqda başqa səhifəyə keçilir. Bir-biri ilə əlaqəli 
+veb-səhifələr seriyası veb-sayt əmələ gətirir. Veb-də yüz milyonlarla veb-sayt 
+fəaliyyət göstərir.  
+ 
+30
+– Veb-saytlara baxmaq üçün kompyuterlərdə xüsusi proqramlardan – 
+brauzerlərdən istifadə olunur. 
+– Veb-səhifəni yükləmək üçün brauzerin ünvan zolağında onun ünvanını yığmaq 
+lazımdır. 
+Müəllim dərsin əvvəlində irəli sürülən fərziyyələri xatırladır və onları şagirdlərin 
+fəal iştirakı ilə qazanılmış biliklərlə müqayisə edir. 
+ 
+YARADICI TƏTBİQETMƏ  
+Şagirdlər veb-brauzeri açdıqdan sonra, onun ünvan zolağında gulzarnene.com, 
+baladili.ws ünvanlarından birini daxil etməklə, açılan saytla tanış ola bilərlər. Onlar 
+bu saytlardan digər saytlara da keçə bilərlər. Müəllim şagirdlərdən saytlarda 
+oxuduqları materiallar haqqında danışmağı tapşırır.  
+ 
+QİYMƏTLƏNDİRMƏ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini müəyyən etmək üçün 
+meyar cədvəli hazırlayır. Dərsin bütün mərhələlərində bu meyarlara uyğun olaraq 
+şagirdlərin fəaliyyətini izləyir və qeydlərini cədvəldə yazır.  
+ 
+Meyarlar: 
+1. İnternetin imkanlarını şərh edir. 
+2. Brauzerdə sadə iş bacarıqları nümayiş etdirir.  
+3. Ünvanı məlum olan veb-səhifəni İnternetdə açır. 
+ 
+№ Şagirdin soyadı və adı 
+Meyarlar üzrə müəllimin qeydləri 
+1 2 3 
+1.     
+2.     
+3.     
+...     
+Ev tapşırığı. İnternetdə ixtiyari sayta girmək, onun səhifələri ilə tanış olmaq və 
+alınan məlumat haqqında məruzə hazırlamaq.   
+ 
+ 
+ 
+31
+MÖVZULAR ÜZRƏ TƏLİM MATERİALLARI İLƏ İŞ 
+TEXNOLOGİYASININ ŞƏRHİ  
+ 
+ 
+ 
+ 
+ 
+ 
+ALT STANDARTLAR ÜZRƏ  
+REALLAŞDIRILACAQ BACARIQLAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TƏDRİS VAHİDİ ÜZRƏ ÜMUMİ SAATLARIN MİQDARI: 4 saat 
+ 
+KİÇİK SUMMATİV QİYMƏTLƏNDİRMƏ:       1 saat 
+TƏDRİS VAHİDİ – 1
+İNFORMASİYA 
+1.1.1. İnformasiyaların sadə işarələrlə kodlaşdırılmasını izah edir. 
+1.1.2. İnformasiyaların sadə işarələrlə kodlaşdırılmasına aid nümunələr 
+göstərir. 
+1.1.3. İnformasiyaların həcminin ölçülməsini nümunələrlə izah edir. 
+1.2.1. İnformasiyaların qəbul edilməsinin üsullarını sadalayır. 
+1.2.2. İnformasiyaların qəbul edilməsi üsullarını fərqləndirir. 
+1.2.3. İnformasiyaların qəbul edilməsi üsullarını nümunələrlə şərh edir. 
+2.1.1. Obyektin informasiya modelini izah edir. 
+2.1.2. İnformasiya modelinin növlərini fərqləndirir. 
+2.1.3. Obyektin informasiya modelinin növlərini nümunələrlə şərh edir. 
+ 
+32
+Dərs 1 / Mövzu: İNFORMASİYA NƏDİR 
+ 
+Tədris ilinin ilk dərsi kimi şagirdləri dərsliyin quruluşu və ondan istifadə qaydaları 
+ilə tanış etmək məqsədəuyğundur. Məzmun standartlarını təhlil edərkən görmək olar 
+ki, “informasiya prosesləri” məzmun xətti 5-ci sinifdən başlayaraq yuxarı siniflərə 
+qədər davam edir və hər sinifdə informasiya proseslərindən birinə daha çox diqqət 
+yetirilir. Müəllim dərsə ümumi diaqnostik qiymətləndirmə ilə başlaya bilər. O, qiy-
+mətləndirməni sual-cavab şəklində, yaxud sadə tapşırıqlarla da keçirə bilər. Keçirilən 
+qiymətləndirmə, eyni zamanda, şagirdlərin aşağı siniflərdən öyrəndikləri bilikləri 
+aktivləşdirməyə xidmət edəcəkdir. Müəllim informasiyanın qəbulunda duyğu üzvlə-
+rinin rolunu gündəlik həyatdan nümunələr göstərməklə şərh edə bilər.  
+ 
+ 
+ 
+  Müəllim mövzuya başlamaq üçün şagirdlərin diqqətini ətrafımızda olan in-
+formasiyalara və onların əhəmiyyətinə yönəldə bilər. Şagirdləri aktivləşdirmək 
+üçün şəkil üzrə iş təşkil etmək mümkündür. Bunun üçün müxtəlif sualların 
+verilməsi faydalı olardı. Müsahibə zamanı müəllim sinfin səviyyəsi barədə ilkin 
+təsəvvürlər yaratmaqla öz fəaliyyətində müəyyən dəyişikliklər edə bilər. “Daha 
+hansı ... ?”, “Nəyə görə ... ?” tipli suallarla müəllim şagirdləri yoxlaya bilər. 
+Adətən, bu cür suallar dialoqu davam etdirməyə kömək göstərir.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırığı yerinə yetirmək üçün 
+araşdırılan sual müzakirə olunur. Bu tapşırıqda məqsəd gündəlik həyatda 
+müxtəlif informasiyaları necə qəbul etməyin mümkünlüyünü araşdırmaqdır. 
+Müəllim tapşırığa yaradıcı yanaşmağı xahiş edir. Bu zaman o xatırlada bilər ki,  
+bir informasiyanı bir neçə üsulla əldə etmək olar. Siyahıda verilən hər bir 
+informasiya bizim bir duyğu üzvümüzə uyğun gəlsə də, izah oluna bilər ki, 
+onları bir neçə duyğu üzvümüz vasitəsilə də əldə edə bilərik; məsələn: krandan 
+gələn suyun qaynar olduğunu toxunmaqla (əlimizlə), görməklə (buxarını) 
+müəyyənləşdirə bilərik. Bu baxımdan tapşırıq aşağıdakı cədvəli doldurmaqla da 
+yerinə yetirilə bilər.  
+ 
+ 
+ 
+33
+  Diferensial təlim. Təlim nəticələri zəif olan və sağlamlıq imkanları məhdud olan 
+şagirdlərin aktiv iştirakını təmin etmək üçün müəllim bu tapşırığı bir qədər sadələş-
+dirə bilər. Məsələn, hər bir informasiya üçün bir duyğu üzvü müəyyən edilir.  
+Tapşırığın müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. İnforma-
+siyanın qəbul edilməsi üsulunun onun növündən asılılığı nümunələrlə izah oluna 
+bilər: məsələn, biz səs informasiyasını gözümüz və ya əlimizlə qəbul edə bilmirik. 
+Amma dərsin qurtardığını saata baxmaqla, yaxud şagirdlərin dəhlizə çıxmaları ilə 
+müəyyənləşdirə bilərik. Şagirdləri müzakirəyə daha fəal cəlb etmək üçün müəllim 
+əlavə suallar da verə bilər. Məsələn, “Əgər pəncərə bağlıdırsa, havanın çiskinliyini 
+necə bilmək olar?”, “Mətbəxə daxil olmadan ananızın qutab bişirdiyini bilmək 
+olarmı?”  
+ Dərslikdə “Fəaliyyət” hissəsindən sonra verilən izahat və yeni məlumatların 
+şagirdlər tərəfindən sinifdə oxunması onlarda yarana biləcək sualları müzakirə 
+etmək üçün faydalıdır. Müəllim optik illüziyalar barədə məlumat verə və bəzi 
+şəkilləri nümayiş etdirə bilər.  
+Adətən, şagirdlər bu mövzuya çox maraq göstərirlər. İllüziyalar insanın duyğu 
+üzvlərinin mükəmməl olmadığını sübut edir.  
+                        
+ 
+Burada insan tərəfindən yaradılan alət, cihaz və qurğular barədə məlumat vermək 
+məqsədəuyğundur. 
+ “Nümunə” hissəsində verilmiş məlumatı şagirdlərdən birinin vasitəsilə də 
+nümayiş etdirmək mümkündür.  
+  “Bu, maraqlıdır” işarəsi ilə verilmiş material şagirdlərdə qəbul olunan informa-
+siyanın üsulları arasında müqayisə aparmaq üçün istifadə edilə bilər. Müəllim bu 
+məlumatı atalar sözünün şərhini verməklə daha da zənginləşdirə bilər. 
+                       NƏ İLƏ ALMAQ OLAR? 
+ 
+ 
+ 
+     İNFORMASİYA G
+ör
+m
+ək
+lə
+ 
+Eş
+itm
+ək
+lə
+ 
+To
+xu
+nm
+aq
+l
+a İy
+lə
+m
+ək
+lə
+ 
+D
+ad
+m
+aq
+la
+ 
+Bayırda hava çiskindir + + +   
+Krandan gələn su qaynardır +  +   
+Yeməyin duzu yoxdur     + 
+Qapı döyülür  +    
+Anam mətbəxdə qutab bişirir +   +  
+ 
+34
+İnformasiyanın qəbul edilməsində cihazların rolundan danışarkən müəllim 4-cü 
+sinifdə texnikada informasiya prosesləri haqqında bilikləri xatırlada bilər.  
+ Diferensial təlim. Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq 
+sinifdə, yaxud evdə yerinə yetirilə bilər. Bunun üçün şəkildə göstərilən heyvanların 
+ov zamanı, yaxud  adi vaxtda hər hansı obyekt haqqında informasiyanı başlıca olaraq 
+hansı duyğu üzvü vasitəsilə  aldıqlarını müəyyənləşdirmək lazımdır. Bu barədə 
+yuxarı sinif “Zoologiya” dərsliyindən, müxtəlif ensiklopediyalardan, kompyuterdə 
+sərbəst işləməyi bacaran şagirdlər isə İnternetdən məlumatlar əldə edə bilər. 
+Mənimsənilən bacarıqları möhkəmləndirmək məqsədi ilə aşağıdakı oyun keçirilə 
+bilər.  
+Rollu oyun. Üç şagird hər hansı bir iş haqqında razılaşmalıdır. Məsələn: saat 
+neçədə və  harada görüşəcəklər. 1-ci şagird görmür (gözləri bağlıdır), 2-ci şagird 
+eşitmir, 3-cü şagird isə danışa bilmir.  
+Müəllim digər üçlüklərə fərqli tapşırıqlar verə bilər. Məsələn: “Ev tapşırıqlarını tez 
+qurtarıb həyətə oynamağa düşək”, “Sinif yoldaşınızın ad günündə hansı hədiyyə 
+almaq?”. 
+ Şagirdlərin özlərini qiymətləndirmələri üçün mövzunun sonunda “Sual və 
+tapşırıqlar” hissəsində verilmiş tapşırıq yerinə yetirilir. 2-ci suala cavab verərkən 
+informasiyanın növlərini yada salmaq tələb olunur. Qəzet oxuyarkən vizual infor-
+masiya, mürəbbə yeyərkən dad informasiyası, mühərrikdən isə səs informasiyası 
+alınır.  Bu informasiyaları uyğun olaraq göz, dil və qulağımızla qəbul edirik. 3-cü 
+tapşırıqda isə sadalanan cihazların təyinatı barədə ümumi müzakirə aparmaq olar. 
+Bu zaman aydın olar ki, göy cisimlərini teleskop vasitəsilə müşahidə edərkən, mik-
+roorqanizmləri mikroskop vasitəsilə öyrənərkən və obyektlərin çəkisini tərəzi ilə 
+çəkərkən biz vizual informasiya alırıq. 4-cü tapşırıqda “Duyğu üzvlərimizin ətraf 
+aləm haqqında bizə verdiyi informasiyalar həmişə düzgün olur” fikri yalandır.  
+Bunu sübut etmək üçün su ilə dolu stəkanda çöpün sınıq görünməsini, aktyorların 
+məşhur insanların səsi ilə danışmasını misal göstərmək olar.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. İnsanda və digər canlılarda duyğu üzvlərinin rolunu izah etmə. 
+2. İnformasiyanın qəbul olunmasını nümunələrlə izah etmə. 
+3. İnformasiyanın qəbul edilməsi üsullarını fərqləndirmə. 
+4. İnformasiyanın qəbulunda texnikanın rolunu izah etmə. 
+5. İnformasiyanın hansı üsulla qəbul olunduğunu müəyyən etmə. 
+ 
+ 
+ 
+35
+Dərs 2 / Mövzu: İNFORMASİYANIN KODLAŞDIRILMASI  
+ 
+İnformasiyanın kodlaşdırılması şagirdlərə aşağı siniflərdən rebus, Sezar kodu, 
+“Bayraq əlifbası” vasitəsi ilə tanışdır. Kodlaşdırma mövzusunun tədrisində əsas 
+məqsəd verilənlərin kompyuterin yaddaşında necə təsvir olunduğunu izah 
+etməkdir. İkilik kodlaşdırma vasitəsilə informasiyanın təsvir olunması yuxarı 
+siniflərdə daha ətraflı şərh ediləcəkdir. 5-ci sinifdə kodlaşdırma ətrafımızdakı sadə 
+nümunələrlə izah oluna bilər. “Kod” anlayışının dərsin əvvəlində deyil, 
+ümumiləşdirmə hissəsində izah olunması daha məqsədəuyğundur. Dərsin əvvəlində 
+aşağı siniflərdən informasiyanın təqdim edilməsinin müxtəlif formalarını yada 
+salmaq olar. Mövzu izah olunarkən kod və şifr anlayışlarını fərqləndirmək 
+lazımdır. Şifrləmə informasiyadan istifadəni məhdudlaşdırmaq məqsədi ilə aparılan 
+əməliyyatdır. Dərsə marağı artırmaq üçün şagirdlərə eyni bir informasiyanı 
+müxtəlif formalarda kodlaşdırmaq tapşırıla bilər.  
+1.1.2 alt standartını küçələrdə, nəqliyyatda, ictimai yerlərdə, kitablarda şagirdlərin 
+rast gəldikləri kodlaşdırılmış informasiya nümunələri əsasında reallaşdırmaq olar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim mövzuya başlamaq üçün şagirdlərin diqqətini ətrafımızda olan infor-
+masiyaların müxtəlif təqdimolunma formalarına yönəldə bilər. Bu zaman evdə, 
+küçədə, məktəbdə rast gəlinən müxtəlif təqdimolunma formalarına dair nümunələr 
+göstərilə bilər; məsələn: yol hərəkəti nişanları, işıqforun siqnalları, müxtəlif yazılar, 
+məktəb zəngi və s. Dərslikdə verilmiş şəklə diqqəti cəlb edərkən müəllim Xəzər 
+dənizi haqqında informasiyanın yazı, şəkil, notlar (işarələr) kimi müxtəlif formala-
+rını sadalaya bilər. Müəllim əlavə suallar da verə bilər: “Azərbaycan dilini 
+bilməyən adam bu misraları başa düşərmi? Bəs rəsmi?” 
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıq informasiyanın müxtəlif for-
+malarda təqdim edilməsinə aiddir. Bu tapşırıqda məqsəd verilmiş informasiyaları 
+ədəd, cədvəl, şəkil, jest, simvol, mətn və s. formalarda təqdim etməklə bu formaları 
+fərqləndirməyi bacarmaqdır. Şagirdlərin yaradıcılığı nəticəsində eyni bir informa-
+siya müxtəlif cür təqdim oluna bilər. Məsələn, sinifdəki oğlan və qızların sayını 
+ədəd, simvol, yazı, cədvəl şəklində təqdim etmək olar. Yağışın yağmasını isə hava 
+proqnozlarında verilən simvollarla, mətnlə göstərmək olar. Beləliklə, şagirdlər kod-
+laşdırma haqqında bilikləri özləri kəşf edirlər.  
+ 
+36
+Diferensial təlim. Təlim nəticələri zəif olan və sağlamlıq imkanları məhdud olan 
+şagirdlər üçün müəllim bir qədər fərqli tapşırıqlar verə bilər. Məsələn:  
+İnformasiyanı  göstərilmiş üsullarla təqdim edin: 
+– Ovqatım yaxşıdır! (işarələrlə, jestlə) 
+– Qışqırmaq qadağandır! (işarələrlə, jestlə) 
+– Üç üstəgəl dörd, bərabərdir yeddiyə. (işarələrlə, şəkillə)  
+İşlərin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin 
+müzakirəyə daha fəal cəlb olunmaları üçün müəllim informasiyanın təqdim 
+edilməsi formalarının hansı situasiyalarda daha anlaşıqlı və əlverişli olduğunu 
+soruşa bilər. Məsələn, avtomobili idarə edən sürücü üçün “Düz getmək 
+qadağandır!” informasiyası hansı formada daha anlaşıqlıdır: mətnlə, yoxsa nişanla? 
+Müəllim izah edə bilər ki, başqa ölkələrdən gələn sürücülər yerli dildə yazılmış 
+mətni başa düşmədiklərindən, yaxud sürətlə getdikdə mətni oxumağa vaxt 
+olmadığından nişanlar daha əlverişlidir. 
+ Dərsin şərhini təqdimat vasitəsilə təşkil etmək yaxşı olardı. Müəllim şagirdlərə 
+ətrafımızda istifadə olunan kodların müxtəlifliyindən söhbət açmaqla yanaşı,  
+kodlaşdırmanın mahiyyətini izah edə bilər. Kodlaşdırmanın tərifini izah edərkən 
+bildirmək olar ki, informasiyanın kodlaşdırılması dedikdə onu saxlamaq, ötürmək, 
+yaxud emal etmək üçün daha əlverişli formada təqdim etmək nəzərdə tutulur. İn-
+formasiyanı kodlaşdırmaq üçün, əsasən, qrafik (şəkillər və ya nişanlar vasitəsilə), 
+ədədi (ədədlər vasitəsilə) və simvol (verilmiş mətni təşkil edən əlifba simvolları 
+vasitəsilə) formalarından istifadə olunur.  
+ “Nümunə” hissəsində verilmiş məlumatı şagirdlərin diqqətinə çatdırmazdan əvvəl, 
+müəllim bu nişanların mənasını altındakı mətni oxumadan soruşa bilər. İkinci və üçün-
+cü nişanlara baxmaqla onların mənasını söyləmək olar. Lakin birinci nişanın mənasını 
+bilmək üçün altındakı yazını oxumaq lazımdır. Müəllim izah edə bilər ki, onun 
+altındakı yazını oxuduqdan sonra mənasını başa düşdük, yəni dekodlaşdırdıq.  
+ “Bu, maraqlıdır” işarəsi ilə məşhur Morze əlifbası vasitəsilə hərf və rəqəmləri 
+necə kodlaşdırmaq haqqında material oxuna bilər. Müəllim məşhur SOS – 
+beynəlxalq qəza siqnalı barədə informasiya verə bilər. SOS (Save Our Souls) – 
+“Bizi xilas edin!” siqnalı Morze əlifbası ilə   • • •  – – –  • • • kimi kodlaşdırılır.  
+Nümunə üçün Brayl əlifbası haqqında da məlumat vermək olar. Bu əlifba ətrafı 
+görməyən insanlar üçün yaradılıb. Brayl əlifbası (bu əlifba çıxıntılar və 
+çöküntülərdən ibarətdir)  əsasında hazırlanmış kitablar, kompyuterlər mövcuddur.  
+     
+ 
+ 
+37
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq sinifdə, yaxud evdə 
+yerinə yetirilə bilər. Burada məşhur alim FARABİ-nin adı kodlaşdırılmışdır.  
+Şagirdlərə araşdırma xarakterli başqa tapşırıq da vermək olar: şagirdlər ştrix-kod 
+barədə informasiya toplamalı və məhsulun Azərbaycana aid olub-olmadığını müəy-
+yən etməlidirlər. Bu tapşırığın evə verilməsi daha məqsədəuyğundur. Azərbaycana 
+məxsus malın ştrix-kodunun ilk 3 rəqəmi – prefiksi 476-dır.  
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mənimsənilən bacarıqları möhkəmləndirmək məqsədi ilə dərslikdə verilmiş, yaxud 
+aşağıdakı oyunlar oynanıla bilər. 
+Oyun. Qarğa dili. Sözləri kodlaşdırmaq üçün bu qaydadan istifadə olunur: sözdə 
+olan hər bir saitdən sonra “b” səsi və həmin saitin özü artırılır; məsələn, “kitab” 
+sözü “kibitabab”, “dəftər” sözü isə “dəbəftəbər” kimi səsləndirilir. 1-ci komanda 
+bir neçə sadə sözdən ibarət cümləni yazmadan şifahi olaraq kodlaşdırıb 
+səsləndirir. 2-ci komanda isə bu cümləni dekodlaşdırıb söyləyir; məsələn: 
+“Habavaba ibistibidibir”. Sonra 2-ci komanda kodlaşdırır, 1-ci komanda isə 
+cümləni bərpa edir.  
+Şagirdlərin özlərini qiymətləndirmələri üçün mövzunun sonunda “Sual və 
+tapşırıqlar” hissəsində verilmiş tapşırıqlar yerinə yetirilə bilər. Sonuncu tapşırıqda 
+Morze əlifbası ilə kodlaşdırılmış söz “kompas”dır.    
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər: 
+1. İnformasiyanın kodlaşdırılmasına dair nümunələr göstərmə. 
+2. İnformasiyanın kodlaşdırılmasını izah etmə. 
+3. İnformasiyanı sadə şəkildə işarələrlə kodlaşdırma. 
+4. Kodlaşdırma qaydasını bilərək informasiyanı dekodlaşdırma.  
+ 
+ 
+Dərs 3 / Mövzu: İNFORMASİYA MODELİ  
+ 
+Modelləşdirmə informatikanın mühüm sahələrindən biridir. Müasir texnologiyala-
+rın inkişafında mühüm sahə olan modelləşdirmə nəzəriyyələrin bir çoxunun əsasını 
+təşkil edir. Bu baxımdan dərsin təlim məqsədlərini reallaşdırarkən şagirdləri 
+əvvəlcə adi “model” anlayışı ilə tanış etmək tövsiyə olunur. İstənilən obyektin mo-
+delini qurmaq üçün əvvəlcə onun əhəmiyyət daşıyan əlamətlərini müəyyənləşdir-
+mək lazımdır. Sonra isə maddi və informasiya modellərinin yaradılması, onlardan 
+ 
+38
+necə istifadə olunmasına dair nümunələr göstərmək və onların fərqini izah etmək 
+olar. İnformasiya modellərinin üstünlükləri, növləri və onlardan necə istifadə 
+edilməsinin izahı üçün gündəlik həyatda rast gəldiyimiz nümunələr göstərilə bilər.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim mövzuya başlamaq üçün şagirdlərin “model” sözü haqqında biliklərini 
+yoxlaya bilər. Uşaqların ən çox tanıdığı modellər, əsasən, maddi modellərdir. 
+Müəllim şagirdlərin informasiya modelləri ilə tanışlıq səviyyəsini sadə nümunələr 
+əsasında yoxlaya bilər; məsələn: o, üçölçülü kompyuter modelləri, bina və evlərin 
+kompyuterdə işlənmiş dizayn layihələrini gördükləri haqqında şagirdlərə suallar 
+verə bilər. Dərslikdə verilmiş şəkillər barədə diskussiya təşkil etmək olar.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıq yerinə yetirilir. Bu tapşırıqda 
+məqsəd verilmiş obyektlərin öyrənilməsindən asılı olaraq onların əhəmiyyətli 
+sayılan əlamətlərinin təsvir edilməsidir. Ona görə də tədqiqat işi ilə bağlı izahat 
+verərkən bildirmək olar ki, futbol meydançasının şəklini çəkmək vacib deyil. Əgər 
+bizi onun eni, uzunluğu və digər ölçüləri maraqlandırırsa, bunu yazı və ya cədvəllə 
+də vermək olar. Əgər meydandakı oyunçuların mövqeyi maraqlandırarsa, bunu 
+sxemlə vermək daha münasibdir. Həftə ərzində keçiləcək dərslərin siyahısını 
+cədvəllə təsvir etmək əlverişlidir. Əgər bizi hər gün neçə dərsin olduğu maraqlandı-
+rarsa, bunu ədədlə də göstərmək mümkündür.  
+ İşlərin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin 
+müzakirəyə daha fəal cəlb olunmaları üçün təqdim edilən formaların üstün və mənfi 
+cəhətlərini soruşmaq olar; məsələn:  
+– Xoşladığınız dondurmanı hazırlamaq üçün onun şəkli kifayət edirmi? Sizin istədi-
+yiniz dadı verən dondurmanı hazırlamaq üçün hansı əlavə məlumatlar lazımdır?  
+ Mövzunun şərhini təqdimat vasitəsilə təşkil etmək məqsədəuyğundur. Müəllim 
+model, maddi və informasiya modellərinə  aid nümunələri şəkillərlə izah edə bilər. 
+İnformasiya modellərinin növləri barədə danışarkən Azərbaycan dili, riyaziyyat, 
+təsviri incəsənət və digər fənlərdə bu növlərin hansından istifadə edildiyini 
+soruşmaq olar.  
+ Dərsliyin “Bu, maraqlıdır” hissəsində verilmiş nümunə maddi və informasiya 
+modellərinin fərqli cəhətlərini izah etmək üçün faydalıdır.  
+Şagirdlərə informasiya modellərinin növlərini müəllimin misallar vasitəsilə izah 
+etməsi faydalı olar.  
+ 
+ 
+39
+ Dərsliyin “Nümunə” hissəsində verilmiş misal isə informasiya modellərinin 
+gündəlik həyatda tətbiqini göstərir. Müəllim şagirdlərdən hər növə aid nümunələrə 
+harada rast gəldiklərini soruşa bilər. 
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq sinifdə, yaxud evdə 
+yerinə yetirilə bilər. Bunun üçün hər bir məqsəd üzrə hansı informasiyanın daha əhə-
+miyyətli olduğu müəyyənləşdirilməlidir. Məsələn, insanın 1 yaşında necə göründü-
+yünü bildirmək üçün ən əlverişli forma onun şəklidir. 2-ci tapşırıqda isə məktəbi də-
+yişdirmək üçün qiymət cədvəli, məktəb rəhbərliyinin fikirləri daha vacibdir. Ona 
+görə də uyğun informasiya modeli qiymət cədvəli və sözlə verilmiş modellər ola 
+bilər. Müəllim əlavə tapşırıq kimi şagirdlərə sinif otağının modelini iki formada – 
+şəkil və sxemlə hazırlamağı təklif edə bilər.  
+ Şagirdlərin özlərini qiymətləndirmələri üçün mövzunun sonunda “Sual və tap-
+şırıqlar” hissəsində verilmiş tapşırıqlar yerinə yetirilə bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər: 
+1. Modellərə aid sadə nümunələr göstərmə. 
+2. Obyektin informasiya modelini nümunələrlə izah etmə. 
+3. Verilmiş informasiya modelinin növünü müəyyən etmə.  
+ 
+ 
+Dərs 4 / Mövzu: İNFORMASİYANI ÖLÇMƏK OLARMI?  
+ 
+İnformasiyanın ölçü vahidlərindən danışarkən əvvəlcə onun ölçülməsinin əhəmiyyətini 
+izah etmək olar. İnformasiya xüsusilə kompyuterdə saxlanarkən onun həcmi böyük 
+əhəmiyyət kəsb edir. 1.1.3 standartında “İnformasiyanın həcminin ölçülməsi” dedikdə 
+onun ikilik kodlarla kompyuterdə tutduğu yer başa düşülür və bu zaman 
+informasiyanın məzmunu nəzərə alınmır. Başqa sözlə, informasiyanın həcmi dedikdə, 
+verilənlərin kompyuterdə tutduğu yer başa düşülür. İnformasiya mətndirsə, onun həcmi 
+mətndə olan simvolların sayı ilə ölçülür. Təlim məqsədlərini reallaşdırarkən  
+informasiyanın müxtəlif ölçü vahidləri haqqında məlumatlar verilə bilər. Şagirdlərdə 
+müxtəlif informasiyaları həcminə görə müqayisə etmək, mətn informasiyalarının 
+həcmini müəyyənləşdirmək və bir ölçü vahidindən digərinə keçmək bacarıqlarını 
+reallaşdırmaq üçün praktik tapşırıqlardan daha geniş istifadə tövsiyə olunur.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40
+ Mövzuya başlamaq üçün dərslikdə verilmiş dialoq üzrə diskussiya təşkil etmək 
+olar. Müzakirə zamanı müəllim şagirdlərdən bəzi kəmiyyətlərin ölçü vahidlərini 
+soruşa bilər: məsafə, zaman, ağırlıq və s.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda məqsəd təqdim olunan  
+mətnin həcminin necə ölçüldüyünü müəyyənləşdirməkdir. Teleqram mətnindəki  
+simvolların sayını 1 qəpiyə vurmaqla onun ümumi dəyəri tapılır. Əgər simvolların 
+sayını 1 bayta vursaq, mətnin tutduğu həcmi müəyyən etmiş olarıq. Yəni bu 
+tapşırıq informasiyanın həcmi barədə şagirdlərdə müəyyən təsəvvürlər yaradır. 
+Mətndə əsas fikri saxlamaqla sözləri ixtisar edib onun həcmini azaltmaq olar.  
+ Tədqiqat işinin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. 
+Şagirdlərin müzakirəyə daha fəal cəlb olunmaları üçün “Teleqram mətninin 
+böyüklüyü onun qiymətinə necə təsir edir? Daha az ödəniş üçün nə etmək 
+lazımdır? Mətndəki informasiyanın miqdarını necə azaltmaq olar?” və başqa  
+suallar verilə bilər.  
+ Dərsin şərhi zamanı dərslikdə olan mətn oxuna bilər. Şəkildə kompyuterdə 
+yazılmış “B” hərfinin ikilik kodu göstərilmişdir. Bu zaman izah etmək olar ki, 
+kompyuterdə hər bir simvol ikilik koda çevrilir. Nümunədə verilmiş misal əsasında 
+müxtəlif mətnlərin həcmi hesablana bilər. İnformasiyanın bir ölçü vahidindən 
+digərinə keçirilməsini daha yaxşı izah etmək üçün şagirdlərə hesablama xarakterli 
+sadə misallar vermək olar.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıqda şagirdlər disketi 
+əldə etməkdə çətinlik çəkə bilərlər. Bu zaman disket haqqında müəllimin məlumat 
+verməsi məqsədəuyğundur.  Müəllim şagirdlərə müxtəlif tapşırıqlar verə bilər: 
+“Dərsliyin şəkilsiz və sxemsiz olan bir səhifəsinin hər hansı bir abzasındakı mətnin 
+informasiya həcmini hesablayın”.  
+ Şagirdlərin özlərini qiymətləndirmələri üçün mövzunun sonunda “Sual və 
+tapşırıqlar” hissəsində verilmiş tapşırıqlar yerinə yetirilə bilər. 1-ci tapşırıq şagird-
+lərin gündəlik həyatda rastlaşdıqları məsələlərlə bağlıdır. İndi, demək olar,  hamı 
+DVD disklərdən istifadə edir. Həcmi 4 Gbayt olan filmi 700 Mbaytlıq disklərə yaz-
+maq üçün 6 disk lazımdır. 4-cü tapşırıqda isə bütün səhifədə 30 x 60 = 1800 simvol 
+olduğunu bildikdən sonra onu bitlərlə belə hesablamaq olar: 1800 x 8 = 14 400  bit. 
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər: 
+1. Həcminə görə informasiyaları fərqləndirmə.   
+2. İnformasiyanın necə ölçüldüyünü misallarla izah etmə. 
+3. İnformasiyanın ölçü vahidlərini sadalama. 
+4. Verilmiş mətn informasiyalarının həcmini müəyyənləşdirmə. 
+5. İnformasiyanın bir ölçü vahidindən digərinə keçmə.  
+ 
+ 
+ 
+ 
+ 
+41
+KİÇİK SUMMATİV QİYMƏTLƏNDİRMƏ  
+ 
+1. İnsan daktil informasiyanı hansı orqanı ilə alır? 
+A) burun  
+B) dəri   
+C) göz 
+D) dil 
+ 
+2. Müəllim dərsi izah edərkən hansı növ informasiya alırsınız? 
+A) daktil        
+B) səs və vizual 
+C) dad    
+D) qoxu 
+ 
+3. İnsanlar televizora baxarkən hansı növ informasiya almırlar? 
+A) vizual 
+B) qoxu  
+C) səs  
+D) dad 
+ 
+4. Vizual informasiyanın qəbul edilməsində bəzi insanlara hansı cihaz kömək 
+edir? 
+A) qulaqcıq   
+B) eynək   
+C) tərəzi 
+ 
+5. Danışıq kağızda hansı formada saxlanılır? 
+A) rəqəmlərlə 
+B) hərflərlə    
+C) notlarla 
+D) düsturlarla 
+ 
+6. Kağızda musiqi necə saxlanılır? 
+A) notlarla 
+B) hərflərlə     
+C) rəqəmlərlə 
+D) şəkillə 
+ 
+7. “Ata” sözü  belə kodlaşdırılmışdır:  • –     –      • –    
+    Hansı koddan istifadə olunmuşdur? 
+A) Sezar 
+B) Morze   
+C) bayraq 
+D) heroqlif 
+ 
+8. “Gözləyin!” komandasını hansı simvolla göstərmək olar? 
+A)        B)     C)       D)  
+ 
+ 
+42
+9. “Burada telefon var” məlumatını necə göstərmək olar? 
+A)    B)      C)     D)  
+ 
+10. Hər bir hərfi əlifbadakı yeri ilə əvəzləməklə öz adını kodlaşdır.  
+_________________________ 
+ 
+11. Nərə balığının hansı informasiya modeli verilib? 
+A) cədvəl         
+B) şəkil    
+C) mətn    
+D) sxem 
+ 
+12. Bu cədvəl hansı obyektin informasiya modelidir? 
+ Adı Təvəllüdü Peşəsi 
+Atam Nadir 1978 mühəndis 
+Anam Sevda 1980 müəllim 
+Mən Fuad 2002 şagird 
+Bacım Səadət 2004 şagird 
+A) ata   
+B) ana   
+C) ailə 
+ 
+13. Bu informasiya modeli ölkənin hansı əlamətlərini 
+əks etdirir? 
+A) ölkənin sərhədlərini   
+B) ölkədə olan məktəblərin sayını  
+C) ölkənin pul ehtiyatlarını  
+ 
+14. “Balaban” sözünün informasiya həcmi nə qədərdir? 
+A) 7 bayt      
+B) 56 bayt    
+C) 7 bit         
+D) 54 bit 
+ 
+15. “Payızda küləklər əsir” cümləsində neçə bit informasiya var? 
+A) 19    
+B) 21    
+C) 168     
+D) 1024 
+ 
+16. Aşağıdakı sözlərdən hansında informasiya həcmi düzgün hesablanmayıb? 
+A) təkər – 5 bayt   
+B) element – 56 bit   
+C) menyu – 40 bit  
+D) üsul – 32 bayt 
+ 
+ 
+43
+ 
+ 
+ 
+ 
+ 
+ALT STANDARTLAR ÜZRƏ  
+REALLAŞDIRILACAQ BACARIQLAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TƏDRİS VAHİDİ ÜZRƏ ÜMUMİ SAATLARIN MİQDARI: 6 saat 
+KİÇİK SUMMATİV  QİYMƏTLƏNDİRMƏ:      1 saat 
+BÖYÜK SUMMATİV QİYMƏTLƏNDİRMƏ:       1 saat 
+KOMPYUTER
+3.1.1. Fərdi kompyuterlərin təsnifatını şərh edir. 
+3.1.2. Kompyuterin əməliyyat sistemlərinə dair  sadə anlayışları izah   
+edir. 
+3.1.3. Proqramın icrasına dair bacarıqlar nümayiş etdirir.  
+ 
+TƏDRİS VAHİDİ – 2
+ 
+44
+KOMPYUTERDƏ PRAKTİK DƏRSLƏRİN TƏŞKİLİ İLƏ BAĞLI  
+ÜMUMİ TÖVSİYƏLƏR 
+ 
+İnformatika dərslərində praktik işlərin kompyuter sinfində keçirilməsi çox vacibdir. 
+Kompyuter sinfində işi düzgün təşkil etmək üçün müəllimə aşağıdakı məsələlərə 
+diqqət yetirmək tövsiyə olunur.  
+Praktik dərslərdə şagirdlərin yerinə yetirəcəkləri tapşırıqların proyektor vasitəsilə 
+şərh edilməsi nəzərdə tutulan bacarıqların reallaşdırılması üçün faydalı ola bilər. 
+Proyektor olmayan siniflərdə lövhədən və plakatlardan istifadə etmək mümkündür. 
+Hər iki halda müəllim zəruri məlumatlar verə və işin yerinə yetirilmə ardıcıllığını 
+izah edə bilər.  
+Şagird işlərinin kompyuterdə saxlanılması çox vacibdir. Yaxşı olar ki, hər bir şagird 
+praktik məşğələlərdə eyni bir kompyuterdə işləsin. Əgər bu, mümkün deyilsə, onda 
+çalışmaq lazımdır ki, şagirdlərin daim istifadə etdikləri işçi qovluqlar şəbəkə 
+vasitəsilə bütün kompyuterlərdən açıla bilsin.  
+Bu məqsədlə müəllim hər bir şagird üçün kompyuterin yaddaşında ayrıca qovluq ya-
+ratmalıdır. Şagirdin bütün işləri öz adı ilə adlanan qovluqda saxlanılır.  
+Şagirdlərdə işlərini kompyuterdə saxlamaq mədəniyyətinin formalaşdırılması çox 
+əhəmiyyətlidir. İşlərin saxlanmasının başqa səbəbi də odur ki, kompyuterdə 
+şagirdlərin hər biri üçün ayrıca portfolio yaradılır. Müasir təhsil qiymətləndirmənin 
+daha uzunmüddətli müşahidələrə əsaslanmasını tələb edir. Bu baxımdan şagirdlərin 
+işlərinin toplanması onların bilik və bacarıqlarının inkişafının izlənməsi üçün böyük 
+əhəmiyyət kəsb edir. Portfolioların surətləri istənilən vaxt şagirdin özünə, yaxud 
+valideyninə verilə bilər.  
+Praktik dərslərdən əvvəl müəllimə bütün kompyuterləri işə salmaq və nasazlıqları 
+mümkün qədər aradan qaldırmaq tövsiyə olunur. Dərsə başlayarkən kompyuterlərin 
+qoşulu vəziyyətdə olması vaxta qənaət etmək baxımından çox əhəmiyyətlidir. Elə bu 
+məqsədlə bütün kompyuterlərin iş masalarına istifadə olunan proqramların (mətn və 
+qrafik redaktor, ALPLogo, müxtəlif brauzerlər və s.) simgələri çıxarıla bilər.   
+Kompyuter sinfində işi düzgün təşkil etmək üçün aşağıdakı məsələlərə diqqət 
+yetirmək lazımdır:  
+ uşaqlar kompyuterdə işə o qədər aludə olurlar ki, uzun müddət ondan əl çəkə 
+bilmirlər. Ekran qarşısında çox oturmaq onların görmə orqanlarına və fiziki 
+sağlamlıqlarına mənfi təsir göstərə bilər;  
+ displeydə bir obyektə uzun müddət baxdıqda uşaq gözünün akkomodasiya qa-
+biliyyəti (fokusun dəyişməsi) xeyli zəifləyir. Buna səbəb odur ki, göz uzun 
+müddət monitordan eyni məsafədə yerləşən nöqtələrə zillənir. Ona görə də gö-
+zü ekrandan çəkəndən sonra yaxında və uzaqda yerləşən obyektlərə fokusun 
+uyğunlaşması dərhal deyil, bir müddətdən sonra və tədricən baş verir; 
+ bütün diqqəti ekranda olan şagird gözlərini daha az qırpır. Bunun nəticəsində 
+göz almasının xarici səthi az islanır. Bu da gözün selikli qişasının qıcıqlanma-
+sına səbəb olur.  
+Sadalanan mənfi halların qarşısını almaq üçün müəllimə aşağıdakılar tövsiyə 
+olunur: 
+ 
+ 
+45
+1. Hər bir praktik dərsə başlayan zaman kompyuter otağında davranış və 
+təhlükəsizlik qaydaları barədə şagirdlərə xatırlatmaq lazımdır. Bu qaydalar 
+dərsliyin son səhifəsində yerləşdirilmişdir.  
+2. Dərsə başlamazdan əvvəl hər bir şagirdə yaxınlaşıb onun monitorunun 
+parlaqlığını və kontrastlığını nizamlayın.  
+3. Kompyuter siniflərində müxtəlif fəaliyyət növlərindən istifadə edilməsinə fi-
+kir verin. Sinifdə kompyuter stolları ilə yanaşı, adi partaların olması digər 
+fəaliyyətlər – kitab və dəftərlə iş, layihələrin işlənməsi və oyunların keçiril-
+məsi üçün faydalı olardı.  
+4. Fikir vermək lazımdır ki, 5-ci sinif şagirdləri kompyuter qarşısında 25 – 30 
+dəqiqədən çox işləməsinlər. Əgər şagirdin gözlə bağlı şikayəti varsa, dərhal 
+onu, kompyuterdən ayırmaq lazımdır.  
+Müəllim praktik dərsləri, əsasən, üç mərhələdə qura bilər: 
+1. Şagirdlərdə maraq oyatmaqla yanaşı, dərsdə formalaşdırılacaq bacarıqlar 
+noutbuk və proyektor vasitəsilə nümayiş etdirilir, lazım olan təlimatlar 
+verilir. 
+2. Şagirdlər kompyuter qarşısında əyləşdirilir və müəllimin nəzarəti ilə yeni 
+bacarıqları formalaşdıracaq tapşırıqları yerinə yetirirlər. 
+3. Şagirdlərin işlərinə baxış keçirilir, onların çətinlik çəkdikləri məqamlar 
+müzakirə olunur və işlər dəyərləndirilir.  
+ 
+____________________________________ 
+ 
+ 
+Dərs 5 / Mövzu: FƏRDİ KOMPYUTERLƏR 
+ 
+Şagirdlər ibtidai siniflərdə masaüstü kompyuterlərdə işləyiblər. Ona görə də onlar 
+kompyuterin yalnız bu növü ilə daha yaxşı tanışdırlar. Bu mövzunu keçərkən mü-
+əllim kompyuterlərin fərqli məqsədlər üçün istifadəsini yada sala və onların dün-
+yada artan rolunu vurğulaya bilər. Kompyuterləri imkanlarına, istifadəçi kontingen-
+tinə, ölçülərinə, daşınabilmə imkanlarına və başqa göstəricilərinə görə fərqlən-
+dirmək olar. Dərslikdə kompyuterlərin sadə təsnifatı verilir. Təlim məqsədlərini 
+reallaşdırarkən müəllim digər təsnifatlara da toxuna bilər.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46
+ Müəllim mövzuya başlamaq üçün şagirdlərdən kompyuter haqqında biliklərini 
+soruşa bilər. Bunun üçün o, BİBÖ üsulundan istifadə edə bilər. Şagirdlər tanıdıqları 
+kompyuterlər haqqında fikirlərini, onları harada gördüklərini vərəqdə yazırlar. 
+Müəllim bu zaman “İstəyirik bilək” sütununa dərslikdə verilmiş, yaxud əlavə ya-
+ranmış sualları daxil edə bilər.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırığın əsas məqsədi şəkildəki 
+kompyuterlərin fərqli və oxşar cəhətlərini müəyyənləşdirməkdir. Tapşırıq şəkillər 
+əsasında yerinə yetirildiyindən şagirdlər kompyuterləri yalnız xarici görünüş və 
+hissələrinə görə müqayisə edə bilərlər. Tapşırığı qruplarla yerinə yetirmək üçün 
+şəkilləri iki-iki qruplara paylamaq olar. Onların fərqli və oxşar cəhətləri Venn 
+diaqramının uyğun hissələrinə yazıla bilər.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diferensial təlim. Evlərində planşet, noutbuk, yaxud ovuciçi kompyuteri olan şa-
+girdlər, təbii ki, bu kompyuterlərlə daha yaxından tanışdırlar. Həmin şagirdlərə bu 
+kompyuterlərin biri haqqında fikirlərini bildirməyi təklif etmək olar.  
+ Müəllim dərsin izahatını kompyuterlərin təsnifatına aid təqdimatla başlaya 
+bilər.  Əgər kompyuter otağında İnternet bağlantısı varsa, uşaqlar üçün virtual 
+kompyuter muzeylərinə “səyahət” təşkil etmək olar (məsələn: 
+http://www.esi.uclm.es/museo/index_en.html, http://www.computer-museum.ru). 
+Şagirdləri ilk fərdi kompyuterlər və ondan əvvəlki elektron hesablama maşınları ilə 
+tanış etmək olar. Planşet və ovuciçi kompyuterləri sinfə gətirmək imkanı varsa, 
+əyanı olaraq bu kompyuterləri nümayiş etdirmək və onların necə işlədiklərini 
+göstərmək faydalı olar. Şagirdlərə izah etmək lazımdır ki, informatika dərsliyinin 
+sonrakı mövzularında kompyuterin tərkib hissələri masaüstü fərdi kompyuterlərin 
+əsasında verilib. Kitabda onlar, sadəcə, “kompyuter” adlandırılır. 
+Müəllim izahatdan sonra şagirdlərə BİBÖ cədvəlinin “İstəyirik bilək” sütunundakı 
+sualların cavablarını “Öyrəndik” sütununda yazmağı təklif edir.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq da Venn diaqramı, 
+yaxud aşağıdakı cədvəli doldurmaqla yerinə yetirilə bilər.  
+ 
+Fərqli hissələr Oxşar hissələr 
+  
+ 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində 
+verilmiş tapşırıqların cavablarını müzakirə edə bilər. 4-cü tapşırıq kompyuterlərin 
+təsnifatının real həyatımıza tətbiqi ilə əlaqədardır. Sualın 1-ci hissəsinin cavabı 
+ 
+ 
+47
+“Masaüstü kompyuter”, 2-ci hissəsinin cavabı “Noutbuk”, 3-cünün cavabı isə  
+“Ovuciçi kompyuter”dir.    
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Kompyuterlərin istifadə sahələrini nümunələrlə şərh etmə. 
+2. Fərdi kompyuterləri müxtəlif əlamətlərinə görə fərqləndirmə. 
+3. Fərdi kompyuterlərin təsnifatına dair biliklərini nümayiş etdirmə.  
+ 
+ 
+Dərs 6 / Mövzu: KOMPYUTER NECƏ İŞLƏYİR 
+ 
+Şagirdlər kompyuterlə ilk tanışlıq dərsi də daxil olmaqla bütün praktik dərslərdə 
+əməliyyat sistemi ilə təmasda olurlar. Əməliyyat sisteminin öyrənilməsi informati-
+ka kursunun mühüm və məsuliyyətli mərhələlərindəndir. Hər bir əməliyyat sistemi-
+nin 3 əsas funksiyası vardır: 1) kompyuterin qurğularının idarə edilməsi; 2) istifa-
+dəçi ilə qarşılıqlı əlaqə; 3) fayllarla iş. 
+İstifadəçi kompyuterdə işləyərkən əvvəlcə hər hansı bir proqramı başlatmalı, orada 
+yerinə yetirilmiş işi (faylı) yaddaşda saxlamalı, sonra isə ehtiyac olarsa, bu faylla 
+müəyyən əməliyyatları icra etməli olur. Əməliyyat sistemində iş texnologiyasını 
+pis bilmək kompyuterdə faylların təsadüfən silinməsinə və proqram təminatının 
+korlanmasına səbəb olur. Ona görə də əməliyyat sistemi ilə ilk tanışlıq dərslərində 
+müəllimə bütün şagirdlərin işini nəzarətdə saxlamaq və onlara lazımi məsləhətlər 
+vermək tövsiyə olunur.  
+Mövzuya başlamaq üçün mürəkkəb obyektlər haqqında bilikləri aktivləşdirmək və 
+bu obyektlərin müxtəlif hissələrdən ibarət olduğunu vurğulamaq olar. Dərsdə 
+əməliyyat sistemlərinin rolundan danışarkən kompyuterin hissələrini göstərmək və 
+onların bir-biri ilə əməliyyat sistemi vasitəsilə əlaqələndirildiyini qeyd etmək olar. 
+Dərs praktik bacarıqları formalaşdırdığı üçün onun kompyuter sinfində keçilməsi 
+məqsədəuyğundur.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim mövzuya başlamaq üçün insanın yaratdığı qurğular barədə məlumat 
+verə bilər. Onların arasında elələri var ki, müdaxilə olmadan bəzi işləri icra edir. 
+Mövzunu kompyuterlərin üzərinə gətirməklə müəllim şagirdlərin aşağı siniflərdə 
+kompyuterdə hansı işlər gördüklərini, onun hissələri haqqında nə bildiklərini 
+ 
+48
+yoxlaya bilər. Şagirdlərin diqqətini dərslikdəki şəklə yönəltmək üçün müəllim şəkil 
+haqqında bir neçə sual verə bilər.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda şagirdlər bəzi obyektlərin 
+hissələri arasında əlaqələri araşdırmalıdırlar. Onlar özləri belə bir nəticəyə 
+gəlməlidirlər ki, mürəkkəb obyektin hissələri bir-biri ilə müəyyən bir sistem 
+vasitəsilə əlaqədə olur. Müəllim saat mexanizmi haqqında sadə formada məlumat 
+verə bilər. Məsələn, saat korpusdan, əqrəblərdən, içərisində olan mexanizmlərdən 
+ibarətdir. Sıxılmış yay açıldıqca saniyə əqrəbi fırlanır. Saniyə əqrəbi tam dövr 
+etdikdən sonra dəqiqə əqrəbi, dəqiqə əqrəbi də tam dövr etdikdən sonra saat əqrəbi 
+hərəkət edir.  
+Avtomobilin hissələrinin də iş prinsipini sadə sözlərlə izah etmək olar. Məsələn, 
+mühərrik fırlandıqca təkərləri fırladır. Təkərlərin istiqaməti sükanla idarə olunur. 
+Müəllim işi qruplarla təşkil etmək istəyərsə, tədqiq olunan obyektlərin sayını artıra 
+bilər.  
+ Müəllim şagirdləri dərsliyin bu hissəsində verilmiş yeni biliklərlə tanış edə 
+bilər. İmkan olarsa, kompyuterin sistem blokunu açıb, içərisini şagirdlərə nümayiş 
+etdirmək faydalı olardı. Bu zaman şagirdlər “sistem bloku”nun nə üçün belə 
+adlandırıldığını daha yaxşı başa düşər. “Aparat təminatı” anlayışını izah edərkən 
+müəllimin şagirdlərə kompyuterin hissələrini, onları bir-birinə bağlayan kabelləri 
+göstərməsi məqsədəuyğundur.  
+Müəllim müxtəlif suallarla mövzuya marağı artıra bilər: – Sizin kompyuterinizdə 
+hansı proqramlar var? Onlardan hansılarla işləmisiniz? Kompyuter necə işləyir? 
+Necə olur ki, o sizi başa düşür və “dediyinizi” yerinə yetirir? Nə üçün masaüstü 
+kompyuterin bu qədər hissələri var?  Əməliyyat sistemi izah edilərkən smartfonla-
+rın əməliyyat sistemlərinin də adı çəkilə bilər.  
+ “Bu, maraqlıdır” hissəsində verilmiş nümunə siniflə müzakirə oluna bilər.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırığın ikinci hissəsi də 
+elə bu zaman müzakirə oluna bilər. Bu tapşırıqda simfonik orkestrlə bağlı sualın 
+cavabı “dirijor”dur.  
+Müəllim şagirdlərdən proqramla işləyən hansı qurğuları tanıdıqları barədə suallar 
+verə bilər. “Robot, paltaryuyan maşın, pult və digər obyektlərin işi proqramlaşdırıl-
+mışdır” dedikdə nə başa düşüldüyü müzakirə edilə bilər.  
+Əgər dərs kompyuter sinfində keçilirsə, onda kompyuteri işə salıb şagirdlərə 
+əməliyyat sisteminin necə yükləndiyini göstərmək olar. Bu zaman müəllim qara 
+ekranda çıxan ağ yazılar haqqında məlumat verə və sistemin bütün qurğuların 
+vəziyyətini yoxladığını söyləyə bilər.  
+Diferensial təlim. Təlim nəticələri yüksək olan şagirdlərə dərsliyin “Araşdıraq-
+öyrənək” hissəsində verilmiş 1-ci tapşırığa bəzi əlavələr etmək olar.  
+– Windows əməliyyat sistemi barədə aşağıdakı məlumatları toplayın:  
+1. Windows əməliyyat sisteminin yaradıcısı kim olmuşdur? 
+2. Windows əməliyyat sisteminin hansı versiyaları var?  
+3. Windows-7 və Windows-8 sistemləri neçənci illərdə hazırlanmışdır?  
+4. Başqa hansı əməliyyat sistemlərini tanıyırsınız? 
+ 
+ 
+49
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində 
+verilmiş tapşırıqların cavablarını müzakirə edə bilər. 
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Fərdi kompyuterlərin aparat və proqram təminatını fərqləndirmə.  
+2. Aparat və proqram təminatına aid misallar göstərmə.  
+3. Kompyuterin əsas hissələrini tanıma və onların vəzifələrini izah etmə.  
+4. Əməliyyat sisteminin işinin nədən ibarət olduğunu şərh etmə. 
+5. Əməliyyat sistemlərinin növlərinə aid nümunələr göstərmə.  
+ 
+ 
+Dərs 7 / Mövzu: İŞ MASASI 
+ 
+Dərsin effektivliyini artırmaq üçün proyektordan istifadə edilə bilər.  Mövzunu 
+şərh edərkən iş masasını proyektor vasitəsilə nümayiş etdirmək faydalı olardı. Bu 
+zaman qeyd etmək lazımdır ki, kompyuteri işə salandan sonra ilkin olaraq 
+əməliyyat sistemi yüklənir. Ekranda açılan ilk pəncərə isə “iş masası” adlanır. 
+Qeyd etmək lazımdır ki, kompyuter yeni formatlandıqda və ona əməliyyat sistemi 
+yenidən yazılanda, adətən, iş masasında cəmi bir neçə simgə olur. Müəllim iş 
+masasını və ora simgələrin necə çıxarıldığını nümayiş etdirə bilər. Şagirdlərə iş 
+masasının funksiyalarını izah etmək üçün onu adi iş masası ilə müqayisə etmək 
+daha məqsədəuyğundur. Kompyuterin iş masasında olan obyektləri sadalamaqla 
+onları adi iş masasının üzərindəki əşyalarla müqayisə etmək olar. Dərs praktik 
+bacarıqları formalaşdırdığı üçün onun kompyuter sinfində keçilməsi məqsədəuy-
+ğundur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Şagirdlər ibtidai siniflərdə kompyuterə aid bəzi mövzularla tanış olmuşlar. 
+Onların biliklərini aktivləşdirmək və bilik səviyyələrini yoxlamaq üçün diaqnostik 
+qiymətləndirmə keçirilməsi məqsədəuyğundur. Bunun üçün müəllim şagirdlərdən 
+ekranda açılan ilkin təsviri adlandırmağı xahiş edə bilər. Bu zaman o, dərslikdə ve-
+rilmiş şəkli şərh edə və şagirdlərə adi iş masasının üzərində hansı əşyaların olduğu 
+barədə suallar verə bilər. Burada məqsəd kompyuterin iş masası ilə analogiya 
+yaratmaqdır. Virtual obyektləri  real obyektlərlə müqayisəli şəkildə izah etmək da-
+ha məqsədəuyğundur. Dərslikdə verilmiş suallarla bağlı müzakirə təşkil etmək olar.  
+ 
+50
+Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırığı yerinə yetirən zaman şagird-
+lər kompyuterin qarşısında cütlərlə əyləşdirilə bilərlər. Bu onlarda informativ-kom-
+munikativ bacarıqların formalaşdırılmasına da kömək edər. Kompyuterlərin sayı 
+imkan verərsə, şagirdlər tək-tək də işləyə bilərlər. Bu tapşırığın məqsədi odur ki, 
+şagirdlər kompyuterin iş masası ilə tanış olsunlar və orada hansı simgələrin 
+olduğunu müəyyən etsinlər. Simgənin seçdirilməsi, yerinin dəyişdirilməsi kimi 
+praktik vərdişlərə yiyələnsinlər. Bu tapşırığı yerinə yetirməzdən əvvəl müəllim 
+sual-cavabla şagirdlərin aşağı siniflərdən uyğun bacarıqları nə dərəcədə mənimsə-
+diklərini yoxlaya bilər. Şagirdlər aşağı siniflərdən “iş masası” və “simgə” 
+anlayışları ilə tanış olduqlarından tapşırığın şərtində bu sözlərdən istifadə olunması 
+heç bir çətinlik yaratmamalıdır. Əks halda müəllim uyğun izahat verə bilər.  
+Diferensial təlim. Aşağı siniflərdən uyğun bacarıqlara yiyələnmiş şagirdlərə daha mü-
+rəkkəb tapşırıq verilə bilər; məsələn: bəzi proqram və qovluqların simgələrini iş ma-
+sasına çıxarmaq, iş masasında bəzi proqramları tapşırıqlar zolağına yerləşdirmək və s. 
+Tapşırığın nəticəsi iş vərəqlərində hər addımın cavabı kimi qeyd edilir. Sonra 
+müəllim bu vərəqləri yığıb qiymətləndirmədə istifadə edə bilər.  
+ Müzakirə dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdləri müza-
+kirəyə daha fəal cəlb etmək üçün müəllim onlara tanış olan simgələri, bu simgələr-
+lə hansı işlərin görüldüyü barədə suallar verə bilər. Müzakirəni iş masasında olan 
+obyektlərə aid suallar üzərində də qurmaq olar. 
+ Dərsliyin “Fəaliyyət” hissəsində sonra verilən izahat və yeni məlumatlar oxuna 
+bilər. Müəllim mövzuya marağı artırmaq üçün şagirdlərə tanış olan proqram 
+simgələri haqqında müxtəlif suallar verə bilər.  
+Dərslikdə verilmiş mətnin oxunuşu zamanı tövsiyə olunur ki, müəllim Computer, 
+Recycle Bin, My Documents simgələri barədə qısaca məlumat versin və onları 
+proyektorda nümayiş etdirsin. Müəllim analogiyadan istifadə etməklə kompyuterin iş 
+masasında, adi iş masasında olduğu kimi, müxtəlif obyektlərin yerini dəyişmək və ya 
+onları tamamilə uzaqlaşdırmaq mümkün olduğunu nümayiş etdirə bilər. Tövsiyə olu-
+nur ki, müəllim iş masasının fonunun necə dəyişdirilməsini  də nümayiş etdirsin.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırığı yerinə yetirərkən şa-
+girdlər bir neçə kompyuteri müqayisə edə bilərlər. Müəllimin kompyuterlərin əmə-
+liyyat sistemlərindən asılı olaraq bəzi simgələrin fərqləndiyini izah etməsi faydalı olar.  
+Diferensial təlim. Müəllim təlim nəticələri yüksək olan şagirdlərə yaradıcı iş təklif 
+edə bilər: hər şagird özü bir simgə fikirləşib hazırlayır və adlandırır.  
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində veril-
+miş tapşırıqların cavablarını müzakirə edə bilər. 
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Kompyuterin iş masası haqqında bilikləri izah etmə.   
+2. İş masasında simgələri göstərmə. 
+3. İş masasında simgələri seçdirmə. 
+4. İş masasında simgələrin yerini dəyişmə.  
+5. Start düyməsini göstərmə. 
+ 
+ 
+51
+Dərs 8 / Mövzu: MENYU 
+ 
+Əməliyyat sisteminin əsas elementlərindən olan menyu ilə iş bacarıqları kompyuter 
+savadlılığının əsasını təşkil edir. Şagirdlər ixtiyari proqram təminatında işləyərkən 
+menyudan istifadə etməli olurlar. Proqramın yerinə yetirəcəyi növbəti komanda 
+menyudan seçilir. Dərsin təlim məqsədlərini reallaşdırarkən müəllim əməliyyat 
+sistemində mövcud olan menyular haqqında izahat verə bilər. Bu zaman kompyute-
+rin idarə edilməsində menyulardan necə istifadə olunduğunu proyektor vasitəsilə 
+nümayiş etdirməsi şagirdlər üçün çox əhəmiyyətlidir. Əməliyyat sistemlərindəki 
+menyulara nümunə olaraq mobil telefonları və onların menyularını misal 
+göstərmək olar.  
+Dərs praktik bacarıqları formalaşdırdığı üçün onun kompyuter sinfində keçilməsi 
+məqsədəuyğundur. 
+ 
+ Müəllim mövzuya başlamaq üçün dərslikdə verilmiş menyu nümunəsinə 
+diqqəti cəlb edib şagirdlərdən menyulara harada rast gəldiklərini soruşa bilər. 
+Dərslikdə verilmiş suallar səsləndirilə və cavabları müzakirə oluna bilər. Şagirdlərə 
+“alt menyu” anlayışını daha əyani izah etmək üçün yeməklər menyusundan, 
+telefonlarda olan menyulardan istifadə etmək olar. Şagirdlərə mobil telefonlarda 
+geniş istifadə edilən menyulara aid istiqamətləndirici suallar da verilə bilər. 
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırığın əsas məqsədi şagirdlərdə 
+menyulardan istifadə bacarıqlarının formalaşdırılmasıdır. Müəllim iş masasının 
+tapşırıqlar zolağında yerləşən klaviatura və saat indikatorlarını nümayiş etdirə və 
+oradakı bəndlərin seçilməsini göstərə bilər. Adətən, uşaqlar alt menyulara 
+keçməkdə çətinlik çəkirlər. Bu zaman müəllim özü alt menyuya keçidi və lazım 
+olan bəndi seçməyi nümayiş etdirə bilər.  
+ Dərsliyin “Fəaliyyət” hissəsindən sonra verilən izahat və yeni məlumatlar 
+oxunur. Müəllimə mövzuda adıçəkilən düymələri basmaqla açılan menyuları 
+proyektor vasitəsilə nümayiş etdirmək tövsiyə olunur. “Start” düyməsini basmaqla 
+açılan baş menyu, alt menyular və kontekst menyusunu əyani olaraq nümayiş 
+etdirdikcə şagirdlər də kompyuterdə bu əməliyyatları paralel olaraq icra edə 
+bilərlər. Bu, şagirdlərdə uyğun bacarıqları düzgün yerinə yetirmələri üçün çox 
+faydalı ola bilər. Beləliklə, müəllim menyularla iş zamanı əsas əməliyyatın çıqqıltı 
+olduğunu vurğulayır və kontekst menyusunu açmaq üçün siçanın sağ düyməsindən 
+istifadə bacarıqlarını göstərir. Şagirdlər iş masasındakı obyektin kontekst menyu-
+sunu açmaqla oradakı bəndlərlə tanış ola bilərlər.  
+ 
+52
+Diferensial təlim. Təlim nəticələri yüksək olan şagirdlər kontekst menyusu vasitə-
+silə iş masasının fonunu, ekran qoruyucusunu və iş masasındakı simgələrin ölçü-
+lərini dəyişmək tapşırığını yerinə yetirə bilərlər.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıqda kontekst menyu-
+sunda olan komandalar tədqiq olunur. Müəllim şagirdlərə hər hansı bir tətbiqi 
+proqramın menyusu ilə də tanış olmağı tapşıra bilər.  
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində veril-
+miş tapşırıqların cavablarını müzakirə edə bilər. 3-cü sualın cavabı “alt menyu”, 4-
+cü sualın cavabı isə “müvafiq komanda seçilmişdir”.  
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. “Menyu” anlayışını izah etmə. 
+2. Kompyuterin Baş menyusunu açma. 
+3. Baş menyudan proqramları başlatma. 
+4. Obyektin kontekst menyusunu açma.  
+5. Klaviaturanın əlifbasını,  saat indikatorunda digər parametrləri dəyişmə.  
+ 
+ 
+Dərs 9 / Mövzu: FAYLLAR VƏ QOVLUQLAR 
+ 
+Əməliyyat sisteminin informasiya obyektləri olan “fayl” və “qovluq” anlayışlarını 
+şagirdlərə real obyektlərlə müqayisədə izah etmək daha məqsədəuyğundur. 
+Dərslikdə verilmiş materiallar da bu sxemlə qurulmuşdur. Sistem mühitinin əsas 
+informasiya obyektləri haqqında danışarkən nəzərə almaq lazımdır ki, bu anlayışlar 
+haqqında tam təsəvvürlər praktik iş nəticəsində formalaşır. Ona görə də dərsin 
+kompyuter sinfində keçilməsi daha məqsədəuyğundur.  
+Qeyd etmək lazımdır ki, kompyuterin qovluqlarına kataloq da deyilir. Əgər 
+kompyuterdə xarici yaddaş virtual disklərə ayrılıbsa, məsələn, C, D və s. bu zaman 
+onları əsas qovluqlar saymaq olar. Bəzi qovluqları əməliyyat sistemi özü yaradır və 
+orada sistemin komponentləri saxlanılır. İstifadəçi də lazım olan qovluqları yarada 
+bilər. Kompyuterdə olan bütün fayl və qovluqların nizamlı strukturu fayl sistemi 
+adlanır. 
+Müəllim təlim nəticələri yüksək olan siniflərdə kompyuterin fayl strukturunu izah 
+etmək üçün belə bir qraf çəkə 
+bilər.  
+Şagirdlərə xatırlatmaq olar ki, 
+onlar əvvəllər iş masasında 
+müxtəlif fayl və qovluqlara rast 
+gəlmişlər və onlardan bəziləri ilə – 
+My Computer, My Documents, 
+Recycle Bin xüsusi qovluqlarının 
+simgələri ilə tanışdırlar. Təlim 
+məqsədlərini reallaşdırarkən fayl 
+və qovluqlarla sadə əməliyyatların 
+ 
+ 
+53
+icra edilməsinə fikir vermək lazımdır. Müəllim reallaşdırılacaq bacarıqları proyek-
+tor vasitəsilə nümayiş etdirə bilər.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim mövzuya başlayarkən fayl və qovluqları real obyektlərlə müqayisə 
+etmək məqsədi ilə vərəqlərin, şəkillərin və digər vacib sənədlərin harada saxlanıldı-
+ğını soruşa bilər.   
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıq yerinə yetirilir. Bu tapşırığın 
+məqsədi şagirdlərdə fayl və qovluqlarla müxtəlif əməliyyatları yerinə yetirmək ba-
+carıqlarını formalaşdırmaqdır. Tapşırıqda göstərişlər qovluqlara aid olsa da, əmə-
+liyyatların bir çoxu eynilə fayllara da şamil edilə bilər. Praktik iş zamanı müəllim 
+şagirdlərə kontekst menyusu, onun açılması ilə bağlı istiqamətləndirici suallar verə 
+bilər. Fəaliyyət vaxtı şagirdlərdə yaranacaq suallara əyani olaraq cavab vermək 
+üçün müəllimə proyektordan istifadə etmək tövsiyə olunur.  
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin təd-
+qiqat işində qazandıqları yeni bacarıqlarla bağlı yaranan sualların və çətinliklərin 
+aşkarlanıb müzakirə edilməsi tövsiyə olunur.  
+Şagirdlər, adətən, qovluğun adını dəyişdirərkən siçanın sağ düyməsini simgənin 
+üstündə deyil, kənarda çıqqıldadırlar. Bu onların kontekst menyusu ilə iş 
+təcrübələrinin az olması ilə əlaqədardır. Müəllimin bu bacarığı bir neçə dəfə nüma-
+yiş etdirməsi şagirdlər üçün faydalı olardı. Qovluğun adının dəyişdirilməsində 
+başqa bir çətinliklə də qarşılaşmaq olar: kontekst menyusundan Rename bəndini  
+çıqqıldatdıqdan sonra qovluğun adı seçdirilmiş olur. Şagirdlər çaşaraq qovluğun 
+adını bir daha seçdirməyə çalışırlar. Bu zaman seçdirmə rejimi adi rejimə keçir. 
+Ona görə də şagirdlərə məsləhət görmək olar ki, Rename bəndini çıqqıldadandan 
+sonra siçana toxunmaq lazım deyil. Sadəcə, istədiyiniz adı yazmaq lazımdır. Qov-
+luğun adını dəyişmək üçün başqa üsul da vardır. Məsələn, siçanın göstəricisini 
+qovluğun simgəsinin üzərinə gətirib iki dəfə (fasilə ilə) çıqqıldatmaqla onun adını 
+dəyişdirmək olar. Lakin indiki mərhələdə bu bacarığın reallaşdırılması tövsiyə 
+olunmur. Çünki şagirdlər iki dəfə (fasilə ilə) çıqqıldatmanı qoşa çıqqıltı ilə 
+qarışdıra bilərlər.  
+ Dərsliyin “Fəaliyyət” hissəsindən sonra verilən izahat və yeni məlumatlar 
+oxuna bilər. Dərslikdə “fayl” anlayışı ilkin təsəvvürlər yaratmaq səviyyəsində 
+ 
+54
+verilmişdir. Müəllim məqsədəuyğun hesab edərsə, lövhədə fayl və qovluğun 
+tərifini yaza bilər. 
+Fayl – kompyuterin xarici yaddaşında verilənlər toplusu şəklində saxlanılan 
+obyektdir. Qovluq – digər qovluqları və faylları özündə qruplaşdıran obyektdir.  
+Müəllim proyektordan istifadə etməklə müxtəlif fayl və qovluqların simgələrini nü-
+mayiş etdirə bilər. Fayl və qovluqların yaradılması, saxlanması, açılıb-qapadılması, 
+adının dəyişdirilməsi, uzaqlaşdırılması, simgəsinin yerinin dəyişdirilməsi və surəti-
+nin çıxarılması əməliyyatlarını proyektor vasitəsilə nümayiş etdirmək çox vacibdir. 
+Bu zaman şagirdlər müəllimin icra etdiyi əməliyyatları öz kompyuterlərində təkrar 
+etməklə bu bacarıqlara daha asanlıqla yiyələnə bilərlər.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırığın müəllimin şərhi 
+ilə yerinə yetirilməsi daha məqsədəuyğundur. Faylları açarkən sistem özü uyğun 
+tətbiqi proqramı başladır. Bunu nümayiş etdirməklə müəllim müvafiq izahatlar 
+verə bilər. Dərsin bu mərhələsində şagirdlərə yaradıcı tapşırıq da təklif etmək olar: 
+hər şagird özü üçün iş masasında qovluq yaradır və onun simgəsini dəyişir. Bunun 
+üçün qovluğun kontekst menyusundan istifadə etmək olar: Properties bəndini 
+seçdikdən sonra Change Icon düyməsini çıqqıldatmaq lazımdır. Müəllim bu 
+tapşırığı şagirdlərlə paralel olaraq icra edə və proyektorda göstərə bilər.  
+Diferensial təlim. Təlim nəticələri yüksək olan şagirdlərə belə bir tapşırıq verilə 
+bilər: vərəqdə aşağıdakı sxemi çəkin və evdəki kompyuterinizin C lokal diskində 
+olan üç ixtiyarı qovluğun adını yazın.  
+ 
+ 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində veril-
+miş tapşırıqların cavablarını müzakirə edə bilər. 
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. “Fayl” və “qovluq” anlayışlarını izah etmə.  
+2. Kompyuterdə fayl və qovluqlara aid nümunələr göstərmə.  
+3. İş masasında olan xüsusi qovluqlar haqqında məlumat vermə  
+4. Qovluqları yaratma və onların adını dəyişmə. 
+5. İş masasında fayl və qovluğun simgəsinin yerini dəyişdirmə.  
+ 
+ 
+Local Disc (C:) 
+ 
+ 
+55
+Dərs 10 / Mövzu: PƏNCƏRƏ 
+ 
+İnformasiya ilə tanış olmaq və onunla işləmək üçün Windows əməliyyat sistemində 
+pəncərələrdən istifadə olunur. Pəncərə əməliyyat sisteminin mühüm elementlərin-
+dən biridir. Windows  sistemində bütün əməliyyatları aparmaq üçün pəncərələrdən 
+istifadə olunur. Hər bir sənəd və ya proqram pəncərələrdə açılır. Eyni zamanda bir 
+neçə pəncərə açmaq mümkündür. Ekranda açılmış pəncərələrin sayı istifadəçinin 
+arzusundan, kompyuterin gücündən və monitorun ölçülərindən asılıdır. Ancaq 
+kompyuterdə elə proqramlar da var ki, onları çalışdıran zaman pəncərələr açılmır 
+və istifadəçi bu cür proqramların işinə müdaxilə edə bilmir. Belə proqramlar sistem 
+proqramlarıdır. Bu dərsdə şagirdlər müxtəlif pəncərələr və onların tərkib hissələri 
+ilə tanış olurlar. Pəncərələrlə tanışlıq kompyuterdə praktik bacarıqlara əsaslanır. 
+Pəncərələrlə müxtəlif əməliyyatların yerinə yetirilməsi üçün dərsin kompyuter 
+sinfində keçilməsi vacibdir.  
+ 
+ 
+ Müəllim mövzuya başlayarkən adi pəncərənin funksiyaları ilə əməliyyat  
+sisteminin pəncərələrini müqayisə edə bilər. Bu zaman dərslikdə sağ və solda veril-
+miş şəkillər təhlil edilə bilər. Əməliyyat sistemində, əsasən, dörd pəncərə növü var: 
+qovluq pəncərəsi, dialoq pəncərəsi,  proqram pəncərəsi, sistemin yardım pəncərəsi. 
+Şagirdlər kompyuterdə konkret proqramlarda işlədikləri üçün ən çox proqram 
+pəncərəsi ilə ünsiyyətdə olurlar. Ona görə də əməliyyat sisteminin pəncərələri ilə 
+tanışlığa proqram pəncərəsindən başlanması daha məqsədəuyğundur.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda əsas məqsəd sadə proqram 
+pəncərəsi, onun hissə və düymələri ilə ilkin tanışlıqdır. Praktik iş zamanı müəllim 
+şagirdlərə aşağı siniflərdən tanış olan müxtəlif proqram pəncərələri ilə bağlı 
+istiqamətləndirici suallar verə bilər.  
+Diferensial təlim. Təlim nəticələri zəif olan şagirdlər iş masasında bir pəncərə 
+açdıqdan sonra onun ölçülərini dəyişdirə və qapada bilərlər. Təlim nəticələri 
+yüksək olan şagirdlər iş masasında bir neçə proqram pəncərəsini açdıqdan sonra  
+onları kaskad formasında və ya yanaşı olaraq müxtəlif formalarda yerləşdirə 
+bilərlər. Elə tapşırıq vermək olar ki, şagirdlər bir pəncərədən digərinə keçməli 
+olsunlar, pəncərələri tapşırıqlar zolağına yığsınlar, lazım olan pəncərəni isə bütün 
+ekrana açsınlar.  
+ 
+ 
+56
+      
+ İşlərin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin 
+tədqiqat işində qazandıqları yeni bacarıqlarla bağlı yaranan suallar və çətinliklər 
+aşkarlanıb müzakirə edilə bilər. Adətən, şagirdlər proqram pəncərəsinin yerini və 
+ölçülərini dəyişməkdə çətinlik çəkirlər. Bu onunla bağlı olur ki, şagirdlər həmin 
+əməliyyatları yerinə yetirən zaman siçanın göstəricisinin necə dəyişdiyinə fikir 
+vermirlər. Müəllim bu bacarıqları proyektordan istifadə etməklə nümayiş etdirə 
+bilər.  
+ Dərsliyin “Fəaliyyət” hissəsindən sonra verilən izahat və yeni məlumatlar 
+oxunur. Müəllimə oxunan materialları proyektor vasitəsilə əyani surətdə nümayiş 
+etdirmək tövsiyə olunur. Pəncərənin hissələri sadalandıqca müəllim onları 
+proyektor vasitəsilə nümayiş etdirə bilər. Şagirdlər artıq aşağı siniflərdən proqram 
+pəncərələri ilə tanışdırlar. Bu dərsdə isə daha geniş bacarıqları formalaşdırmaq 
+üçün müəllim dərslikdə verilmiş materialları əyani olaraq şərh edə bilər. Bu zaman 
+şagirdlər müəllimin yerinə yetirdiyi əməliyyatları öz kompyuterlərində təkrar 
+etməklə bu bacarıqlara daha asanlıqla yiyələnə bilərlər. Sonra müəllim əməliyyat 
+sisteminin digər pəncərələrini də nümayiş etdirə bilər.  
+ Müəllim dərsin bu mərhələsində şagirdlərə proqram pəncərəsi ilə qovluq pən-
+cərələrini müqayisə etmək tapşırığını təklif edə bilər. Bunun üçün hər iki pəncərəni 
+açaraq ölçüsünü kiçiltmək və onları iş masasında yanaşı yerləşdirmək lazımdır. 
+Müəllimin bunu proyektor vasitəsilə nümayiş etdirməsi məqsədəuyğundur. 
+Şagirdlər nəticəni Venn diaqramında, yaxud cədvəldə qeyd edə bilərlər.  
+Oxşar əlamətlər Fərqli əlamətlər 
+  
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində veril-
+miş tapşırıqların cavablarını müzakirə edə bilər. 
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Kompyuter pəncərələrinin növlərini fərqləndirmə.  
+2. İş masasında açılmış bir neçə pəncərədə işləmə.  
+3. Proqram pəncərəsinin elementlərini göstərmə. 
+4. Pəncərə düymələrindən təyinatına görə istifadə etmə.  
+5. Proqram pəncərəsi ilə müxtəlif əməliyyatlar yerinə yetirmə.  
+ 
+ 
+57
+KİÇİK SUMMATİV QİYMƏTLƏNDİRMƏ  
+ 
+1. Kompyuterlərin aşağıdakı növlərindən hansı fərdi kompyuter deyil? 
+A) masaüstü kompyuter 
+B) superkompyuter    
+C) cib kompyuteri   
+D) noutbuk   
+ 
+2.  İnformasiya kompyuterin hansı qurğusunda emal olunur? 
+A) klaviaturada     
+B) yaddaşda 
+C) prosessorda     
+D) monitorda 
+ 
+3. İnformasiya kompyuterə hansı qurğu vasitəsilə daxil edilir? 
+A) monitor       
+B) printer 
+C) klaviatura    
+D) səsucaldan 
+ 
+4. Əməliyyat sistemi nəyə aiddir? 
+A) kompyuterin proqram təminatına 
+B) kompyuterin aparat təminatına    
+C) kompyuterin yaddaş qurğularına 
+D) kompyuterin prosessoruna   
+ 
+5. Bunlardan hansı əməliyyat sistemidir? 
+A) WinRAR   
+B) Windows 7 
+C) Writer 
+D) Window 
+ 
+6. START düyməsini basanda nə açılır? 
+A) proqram pəncərəsi  
+B) qovluq 
+C) kontekst menyusu   
+D) Baş menyu 
+ 
+7. Obyekt üzərində siçanın sağ düyməsini çıqqıldatdıqda nə açılır? 
+A) Baş menyu   
+B) pəncərə  
+C) alt menyu     
+D) kontekst menyusu 
+ 
+ 
+58
+8. Qovluqda nə saxlanıla bilər? 
+A) fayl           
+B) qovluq   
+C) proqram    
+D) hər üçü 
+ 
+9. Pəncərənin bu elementi necə adlanır?  
+ 
+A) başlıq zolağı      
+B) menyu zolağı 
+C) tapşırıqlar zolağı    
+D) Baş menyu 
+ 
+10. Pəncərəni qapatmaq üçün hansı düymədən istifadə olunur? 
+ 
+A)   B)     C)    D)  
+ 
+11. Proqram pəncərəsində  düyməsini çıqqıldatmaqla onu: 
+A) böyütmək olur. 
+B) qapatmaq olur. 
+C) tapşırıqlar zolağına salmaq olur. 
+D) kiçiltmək olur. 
+ 
+12. Pəncərənin ölçülərini dəyişmək üçün siçanın göstəricisini pəncərənin hansı 
+hissəsinə yerləşdirmək lazımdır? 
+A) çərçivəsinə   
+B) başlıq zolağına 
+C) menyu zolağına   
+D) iş sahəsinə 
+ 
+13. Proqramın hansı elementi ekrana sığışmayan obyektlərə baxmağa xidmət 
+edir?  
+A) tapşırıqlar zolağı  
+B) fırlatma zolaqları  
+C) başlıq zolağı 
+D) iş sahəsi 
+ 
+14. Uzaqlaşdırılan obyektlər hansı qovluqda saxlanılır? 
+A)    
+B)     
+C)      
+D)  
+ 
+ 
+59
+BÖYÜK SUMMATİV QİYMƏTLƏNDİRMƏ (I YARIMİL) 
+ 
+1. Sağlam insan ən çox informasiyanı hansı duyğu üzvü vasitəsilə alır? 
+A) qulaq    
+B) göz 
+C) dəri       
+D) burun 
+ 
+2. Şəkil, sxem, xəritə, fotoqrafiya  hansı informasiyalara aiddir?  
+A) ədədi    
+B) mətn 
+C) qrafik    
+D) video 
+ 
+3. İnformasiyanın ən kiçik ölçü vahidi necə adlanır? 
+A) bayt     
+B) hərf 
+C) söz       
+D) bit 
+ 
+4. “Fikir” sözündə neçə bayt informasiya var? ______ 
+ 
+5. Hansı sətirdə informasiyanın ölçü vahidləri artma ardıcıllığı ilə verilib? 
+A) meqabayt, kilobayt, bayt, bit 
+B) kilobayt, meqabayt, bit, bayt 
+C) bit, bayt, kilobayt, meqabayt   
+D) bit, bayt, meqabayt, kilobayt 
+ 
+6 .Hansı sətirdə informasiya rəqəmlərlə kodlaşdırılıb? 
+A)     
+B) 4 56  3  7 89  21 
+C)       
+D) IKNHWUQ 
+ 
+7. Öz əhval-ruhiyyəni göstərmək üçün hansı işarələrdən istifadə edərdiniz? 
+A)        
+B)  
+C)       
+D)      
+ 
+8. Hansı variantda “ŞAHDAĞ” sözü hərflərin yerini dəyişməklə kodlaşdırılıb? 
+A) AHDAĞŞ    
+B) TAŞĞHA 
+C) AĞACDA    
+D) OĞADAH 
+ 
+60
+9. Kompyuterə informasiyanı daxil edən qurğular hansıdır? 
+A) səsucaldanlar, monitor 
+B) klaviatura, skaner 
+C) monitor, printer 
+D) siçan, printer 
+ 
+10. Kompyuterdə informasiyanı emal edən qurğu necə adlanır? 
+A) vinçestr    
+B) prosessor 
+C) monitor    
+D) klaviatura 
+ 
+11. Aşağıdakılardan hansı əməliyyat sisteminin obyekti deyil? 
+A) fayl          
+B) qovluq 
+C) monitor 
+D) pəncərə  
+ 
+12. Kompyuterdə menyu nə üçün lazımdır? 
+A) seçim etmək üçün 
+B) mülahizə söyləmək üçün 
+C) əməliyyat sistemini yükləmək üçün 
+D) müxtəlif yeməkləri seçmək üçün 
+ 
+13. Aşağıdakılardan hansı iş masasında olmur? 
+A)    
+B)    
+C)    
+D)  
+ 
+14. Proqram pəncərələri müvəqqəti olaraq hara yığılır? 
+A) menyu zolağına 
+B) baş menyuya 
+C) tapşırıqlar zolağına 
+D) “My Documents” qovluğuna 
+  
+ 
+ 
+61
+ 
+ 
+ 
+ 
+ 
+ALT STANDARTLAR ÜZRƏ  
+REALLAŞDIRILACAQ BACARIQLAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________________________ 
+ 
+ 
+ 
+Dərs 11 / Mövzu: KOMPYUTERDƏ ŞƏKİL ÇƏKİRƏM 
+ 
+Tətbiqi proqramların öyrənilməsinə qrafik redaktordan başlanması metodiki ba-
+xımdan daha məqsədəuyğundur. Çünki:  
+1. Şəkil çəkmək uşağın ən parlaq özünüifadə vasitəsidir. Bu isə dərsdə 
+yaradıcı atmosferin formalaşmasına kömək edir. 
+2. Qrafik redaktorun alətləri intuitivdir və şagirdlərə uşaq vaxtlarından tanışdır.  
+3. Qrafik redaktorun imkanları dərsin nəzəri və praktik hissələri arasında sıx 
+əlaqə yaratmaqla şagirdlərdə alqoritmik fəaliyyəti inkişaf etdirir.  
+4. Paint proqramı kifayət qədər sadə olduğundan bu proqramda işləmək 
+şagirdlərdə heç bir çətinlik yaratmır. 
+5. Şagirdlər böyük həvəslə işlədikləri üçün texnoloji üsullları da rahat 
+mənimsəyirlər.  
+6. Qrafik redaktorda işləmək bacarıqları digər standart üsulların da mənimsə-
+nilməsinə yardım edir. Demək olar ki, bütün tətbiqi proqramların menyusu, 
+komanda və priyomları eynitiplidir. Ona görə də qrafik redaktorda işləməyi 
+öyrəndikdən sonra başqa proqramlarda işləmək daha asan olur.  
+TƏDRİS VAHİDİ ÜZRƏ ÜMUMİ SAATLARIN MİQDARI: 6 saat 
+KİÇİK SUMMATİV QİYMƏTLƏNDİRMƏ:       1 saat 
+TƏTBİQİ PROQRAMLAR
+3.1.3. Proqramın icrasına dair bacarıqlar nümayiş etdirir.  
+3.2.1. Qrafik redaktorda rəsmlərin fraqmentləri üzərində işləyir. 
+3.2.2. Mətni yadda saxlamaq və çap etmək bacarıqları nümayiş etdirir. 
+3.2.3. Şəkilləri mətnə əlavə edir. 
+TƏDRİS VAHİDİ – 3
+ 
+62
+Təqdim olunan dərslər rahatlıq üçün ən geniş yayılmış Paint proqramı üzərində 
+qurulmuşdur. Lakin müəllim tədris prosesində müxtəlif qrafik redaktorlardan – 
+sərbəst yayılan Paint.net, TuxPaint və digərlərindən istifadə edə bilər. 5-ci sinif 
+şagirdləri üçün çox rahat və geniş imkanlara malik OO4Kids sərbəst yayılan 
+proqram paketini http://wiki.ooo4kids.org/index.php/Main_Page saytından müxtə-
+lif dillərdə yükləmək olar.  
+Praktik işlər zamanı nəticəni müəllim və valideynə nümayiş etdirmək üçün 
+şagirdlərin şəxsi istifadəsi məqsədi ilə 512 Mbayt – 1 Gbayt tutumu olan fləş-
+yaddaşların əldə edilməsi məqsədəuyğundur. Şagirdlər sinifdə yerinə yetirdikləri tap-
+şırıqları evdə davam etdirmək məqsədi ilə faylı fləş-yaddaşa yaza bilərlər. Növbəti 
+dərs isə evdə görülmüş işi fləş-yaddaşda müəllimə təqdim etmək olar.   
+Şagirdlər qrafik redaktorda iş bacarıqları ilə aşağı siniflərdən artıq tanışdırlar. Bu 
+bacarıqların səviyyəsini müəyyənləşdirmək üçün müəllim dərsin əvvəlində 
+diaqnostik qiymətləndirmə apara bilər. Bunu qısa vaxt ərzində sual-cavabla, yaxud 
+sadə praktik tapşırıqlarla həyata keçirmək olar. Qiymətləndirmənin nəticəsindən asılı 
+olaraq müəllim veriləcək tapşırıqların səviyyəsini müəyyənləşdirə bilər.  
+Dərsdən əvvəl müəllim bütün kompyuterlərdə Paint proqram simgəsini iş masasına 
+çıxarır. Təlim məqsədlərini daha effektiv reallaşdırmaq üçün müəllimə tövsiyə olu-
+nur ki, bütün praktik dərslərdə vacib bacarıqlar proyektorla nümayiş etdirilsin.  
+Müəllim şagirdlərlə aşağı siniflərdən qrafik redaktorda iş bacarıqlarını yoxlamaq 
+üçün müxtəlif üsullarla diaqnostik qiymətləndirmə apara bilər. Bununla da müəllim 
+qiymətləndirmənin nəticəsindən asılı olaraq şagirdlərə veriləcək praktik tapşırıqların 
+səviyyəsini müəyyənləşdirmək imkanı əldə edir. 
+ 
+ Müəllim mövzuya başlayarkən aşağı siniflərdə şagirdlərin qrafik redaktorda 
+hansı işlər gördüklərini soruşa bilər. Kompyuterdə çəkilmiş şəkli sonradan istifadə 
+etmək üçün yaddaşda saxlamağın vacibliyi barədə suallar vermək olar.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırığın əsas məqsədi şagirdlərin 
+qrafik redaktorda iş bacarıqlarını yada salmaq və onları dərinləşdirməkdir. Tapşırıq 
+iki mərhələdən ibarətdir: əvvəlcə Paint proqramında şəkil çəkilir, sonra isə 
+çəkilmiş şəkil yaddaşda saxlanılır. Bunun üçün şagirdlər Paint proqramının iş 
+masasında olan simgəsini seçdirir və proqramı başladırlar. Müəllim Paint qrafik 
+redaktorunda şəkil çəkmək üçün seçiləcək alətlər barədə istiqamətləndirici suallar 
+verə bilər. Məsələn: “Karandaş və Fırça alətlərinin oxşar və fərqli cəhətləri nədir?”  
+Müəllim faylın saxlanması ilə əlaqədar yaranan suallara proyektor vasitəsilə izahat 
+verə bilər. Kompyuterin yaddaşında saxlanılan şəkil sonrakı dərslərdə istifadə olu-
+ 
+ 
+63
+nacaqdır. Ona görə də faylın hansı qovluqda saxlanılmasını şagirdlərə dəqiq göstər-
+mək lazımdır.  
+Diferensial təlim. Sağlamlıq imkanları məhdud olan şagirdlər istədiyi şəkli çəkə 
+və onu müəllimin köməyi ilə kompyuterin yaddaşında saxlaya bilərlər.  
+Müəllim tapşırığın nəticəsini qiymətləndirmək üçün alternativ variantdan da istifadə edə 
+bilər: əgər şagirdin fləş-yaddaşı varsa, onda işin nəticəsi kompyuterdə saxlanıldıqdan 
+sonra fləş-yaddaşda da saxlanılıb müəllimə təqdim oluna bilər. Bu, adətən, ev tapşırıqları 
+üçün daha faydalı üsuldur. İş zamanı şagirdlərdə yaranan suallara əyani şəkildə cavab 
+vermək üçün müəllimə proyektordan istifadə etmək tövsiyə olunur.  
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin 
+fəaliyyət tapşırığını yerinə yetirən zaman qarşılaşdıqları çətinliklər aşkarlanıb mü-
+zakirə edilə bilər. Müəllimin fləş-yaddaşda saxlanılan bir neçə işi proyektor 
+vasitəsilə nümayiş etdirməsi daha yaxşı olardı. Adətən, şagirdlər çəkdikləri şəkli 
+yaddaşda saxlayarkən qovluğun və faylın adının yazılmasında çətinlik çəkirlər. Bu 
+onların hələ ki uyğun pəncərələrlə iş təcrübəsinin azlığı ilə bağlıdır və tədricən 
+aradan qalxacaq. Lakin müəllim proyektor vasitəsilə bəzi bacarıqları nümayiş 
+etdirməklə şagirdlərin çətinliklərinin qarşısını ala bilər.  
+ Dərsliyin “Fəaliyyət” hissəsindən sonra verilən izahat və yeni məlumatlar 
+oxunur. Oxunan materialları proyektor vasitəsilə əyani şəkildə nümayiş etdirmək 
+faydalıdır. Paint proqram pəncərəsinin hissələri sadalandıqca müəllim onları 
+proyektor vasitəsilə nümayiş etdirə bilər. Şagirdlər artıq aşağı siniflərdə qrafik 
+redaktorun imkanları ilə tanışdırlar. Bu dərsdə isə bacarıqları dərinləşdirmək üçün 
+müəllim dərslikdə verilmiş materialları əyani şəkildə şərh edə bilər. Məsələn, 
+müəllim <Shift> klavişindən istifadə etməklə düz xəttin necə çəkildiyini göstərə 
+bilər. Bu zaman şagirdlər müəllimin yerinə yetirdiyi əməliyyatları öz kompyuter-
+lərində təkrarlamaqla bu bacarıqlara daha asanlıqla yiyələnə bilərlər.  
+ “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq sinifdə, yaxud evdə yerinə ye-
+tirilə bilər. Bunun üçün şagirdlərin kompyuterlərinə Paint.Net proqramını yükləmək 
+lazımdır. Bu proqramı http://www.getpaint.net ünvanından yükləmək olar.   
+Diferensial təlim. Təlim nəticələri yüksək olan şagirdlərə belə bir yarış təklif etmək olar: 
+kim qrafik redaktorun daha çox alətindən istifadə etməklə şəkil çəkərsə, o, qalib elan 
+olunur. Sinifdə başlanmış tapşırığı şagirdlər evdə də davam etdirə bilərlər. 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində 
+verilmiş tapşırıqların cavablarını müzakirə edə bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Qrafik redaktorun simgəsini müəyyən etmə və proqramı başlatma.  
+2. Paint proqramının menyusundan istifadə etmə. 
+3. Qrafik redaktorun alətlərinin təyinatını izah etmə.  
+4. Qrafik redaktorda şəkli çəkmə.  
+5. Çəkdiyi şəkli kompyuterin yaddaşında saxlama.  
+ 
+ 
+64
+Dərs 12 / Mövzu: ŞƏKLİN FRAQMENTİ İLƏ İŞ 
+ 
+Qrafik redaktorda sərbəst işləmək üçün şəklin fraqmenti ilə iş bacarıqlarının böyük 
+əhəmiyyəti vardır. Təlim məqsədlərini reallaşdırarkən seçdirmə alətindən düzgün 
+istifadə edilməsinə fikir vermək lazımdır. Bu dərsdə reallaşdırılması nəzərdə tu-
+tulan bütün bacarıqlar seçdirmə alətindən düzgün istifadəyə əsaslanır. Şagirdlər 
+fraqmentlərlə işləyərkən bəzən seçdirmə alətlərindən düzgün istifadə edə bilmirlər. 
+Düzbucaqlı və ixtiyari sahənin seçdirmə alətlərinin fərqləndirilməsi,  bu zaman şəf-
+faf, yaxud qeyri-şəffaf fondan düzgün istifadə edilməsi şagirdlərin tədricən 
+təcrübədə qazanacaqları bacarıqlardır. Seçdirilmiş fraqmentlərin çoxaldılması və 
+onların yerinin dəyişdirilməsi şagirdlərdə siçan və klaviaturadan düzgün istifadə 
+vərdişlərini tələb edir. Bu bacarıqları zəif mənimsəmiş şagirdlər tapşırıqların yerinə 
+yetirilməsində çətinlik çəkə bilərlər. Çalışmaq lazımdır ki, şagirdlər fraqmentin ço-
+xaldılmasını iki üsulla həyata keçirsinlər: 1) fraqmenti bufer yaddaşına yazıb iş sa-
+həsinə salmaqla (Copy→Paste); 2) <Ctrl> klavişindən istifadə etməklə. Şagirdlə-
+rə izah olunmalıdır ki, əgər bu fraqment digər rəsmlərdə istifadə olunmayacaqsa, 
+onda <Ctrl> klavişi daha münasibdir. Əgər seçdirilmiş fraqmenti başqa rəsmlərdə 
+istifadə etmək istəyirsinizsə, onda Copy→Paste komandalarından və ya 
+<Ctrl>+<C> və <Ctrl>+<V> kombinasiyalarından istifadə etmək olar.  
+ 
+ Müəllim mövzuya başlamaq üçün “şəklin fraqmenti” anlayışı barədə izahat 
+verə bilər. Kağız üzərində çəkilmiş şəkillə kompyuterdə çəkilmiş şəkillərin fraq-
+mentləri ilə iş texnologiyaları müqayisə oluna bilər. Bununla bağlı aşağı siniflərdən 
+şagirdlərin mənimsədikləri bacarıqları müəyyənləşdirmək üçün müxtəlif suallar 
+verilə bilər.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda əsas məqsəd şagirdlərdə 
+qrafik redaktorda şəklin fraqmenti ilə bəzi iş bacarıqlarının formalaşdırılmasıdır. 
+Aşağı siniflərdə bu bacarıqlarla tanış olan şagirdlərə biliklərini aktivləşdirmək üçün 
+istiqamətləndirici suallar verilə bilər.  
+Diferensial təlim. Qrafik redaktorda iş bacarıqları yüksək olan şagirdlərə müəllim 
+fərdi olaraq daha mürəkkəb tapşırıqlar verə bilər.  
+Praktik iş zamanı seçdirmə alətləri, şəklin fraqmentinin çoxaldılması, digər yerə 
+köçürülməsi, silinməsi bacarıqları ilə bağlı şagirdlərdə yaranacaq suallara əyani 
+şəkildə cavab vermək üçün müəllimə proyektordan istifadə etmək tövsiyə olunur. 
+ 
+ 
+65
+Şagirdlər sinifdə çəkdikləri şəkli evdə davam etdirmək istəsələr, müəllim bu işləri 
+fləş-yaddaşa yazıb onlara verə bilər.  
+ İşlərin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlər 
+tapşırığı yerinə yetirərkən onlarda yaranan sual və çətinlikləri aşkarlamaq məqsədi 
+ilə yaxşı olar ki, müəllim bir neçə işi nümayiş etdirsin. Tapşırığın nəticəsi seçdirmə 
+alətindən düzgün istifadə olunmasından asılıdır. Müəllim işləri müzakirə edərkən 
+seçdirmə alətindən daha yaxşı istifadə üsulunu göstərə bilər.  
+ Dərsliyin bu  hissəsində izahat və mövzuya aid yeni məlumatlar yerləşdirilib. 
+Müəllim seçdirmə alətləri və onlarla iş rejimlərini proyektor vasitəsilə nümayiş 
+etdirə bilər. Seçdirilmiş fraqmentlərin çoxaldılması və yerinin dəyişdirilməsi 
+dərslikdə verilmiş qaydada nümayiş olunur.  Bu zaman şagirdlər müəllimin yerinə 
+yetirdiyi əməliyyatları öz kompyuterlərində təkrarlamaqla bu bacarıqlara daha 
+asanlıqla yiyələnə bilərlər.  
+ Müəllim dərsin bu mərhələsində şagirdlərə yaradıcı iş təklif edə bilər:  
+– İstədiyiniz fiquru çəkin. Onu çoxaldaraq maraqlı fiqurlar alın. İşi kompyuterin 
+yaddaşında, yaxud fləş-yaddaşda saxlayın. 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində 
+verilmiş tapşırıqların cavablarını müzakirə edə bilər. 2-ci sualın cavabı A) variantı-
+dır. 3-cü sualda verilmiş şəkli çəkmək üçün əvvəlcə çoxbucaqlı alətindən istifadə 
+etməklə üçbucaq çəkilir. Sonra isə seçdirmə aləti vasitəsilə çoxaldılır. Ona görə də 
+cavab B) variantıdır. 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Seçdirmə alətlərini fərqləndirmə.  
+2. Şəklin fraqmentini seçdirmə.  
+3. Seçdirmə alətlərinin fonlu və fonsuz rejimləri ilə işləmə. 
+4. Şəklin fraqmentini çoxaltma. 
+5. Seçdirilmiş fraqmentin yerini dəyişmə. 
+6. Seçdirilmiş hissəni silmə. 
+ 
+ 
+Dərs 13 / Mövzu: FRAQMENTİN ƏYİLMƏSİ VƏ DÖNDƏRİLMƏSİ 
+ 
+Bu dərsdə şəklin fraqmenti ilə bağlı bir neçə yeni bacarıq formalaşdırılır. Çox vaxt 
+hər hansı bir şəklin fraqmentini əymək, yaxud  müxtəlif istiqamətlərdə döndərmək 
+lazım gəlir. Şagirdlərə Paint proqramında bu əməliyyatların necə yerinə yetirildi-
+yini bir neçə nümunə əsasında göstərmək olar.   
+ 
+66
+ 
+ Müəllim mövzuya başlamaq üçün dərslikdə verilmiş şəkli şərh edə, yaxud özü 
+digər misallar göstərə bilər. Məqsəd çəkilmiş şəkillərdə fraqmentlərin döndərilmə-
+si, əyilməsi nümunələrini şagirdlərin diqqətinə çatdırmaqdır. Şagirdlərin biliklərini 
+aktivləşdirmək üçün dərslikdə verilmiş, yaxud digər suallardan istifadə etmək olar.  
+Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda əsas məqsəd şagirdlərin 
+qrafik redaktorda şəklin fraqmentinin əyilməsi və döndərilməsi bacarıqlarının for-
+malaşdırılmasıdır. Image → Flip and Rotate və Image → Stretch and Skew  
+komandaları vasitəsilə uyğun pəncərələrin açılması və bu pəncərələrdə iş, həmçinin 
+əymə və döndərmə bucaqlarının göstərilməsi şagirdlərə izah olunur və proyektor 
+vasitəsilə nümayiş etdirilir.  
+Bu zaman şagirdlər müəllimin yerinə yetirdiyi əməliyyatları öz kompyuterlərində 
+təkrarlamaqla bu bacarıqlara daha asanlıqla yiyələnə bilərlər. 
+Aşağı siniflərdə bu bacarıqlarla tanış olan şagirdlərə köhnə bilikləri aktivləşdirmək 
+üçün istiqamətləndirici suallar verilə bilər.  
+Diferensial təlim. Təlim nəticələri yüksək olan şagirdlərə daha mürəkkəb tapşırıq-
+ların verilməsi məqsədəuyğundur.  
+ İşlərin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin 
+tədqiqat işində qazandıqları yeni bacarıqlarla bağlı yaranan suallar və 
+çətinliklər aşkarlanıb müzakirə edilə bilər. Müəllimin bir neçə işi 
+proyektor vasitəsilə nümayiş etdirməsi səhvlərin aşkarlanması baxı-
+mından daha münasib olardı.  
+ Dərsliyin bu hissəsində  Image menyusunun iki komandasının 
+pəncərələri təsvir olunmuşdur. Müəllim şagirdlərə yaradıcı iş təklif edə bilər: 
+“İstədiyiniz şəkli çəkin və orada fraqmentin əyilməsindən və döndərilməsindən 
+istifadə edin”. 
+Seçdirmə alətlərindən istifadə edərək üzüm salxımının çəkilməsi tapşırığı evə də verilə 
+bilər. Bu zaman şagirdlərə şəkli fləş-yaddaşa yazıb sinfə gətirmək tapşırıla bilər.  
+ Müəllim şagirdlərlə birlikdə mövzunun sonunda verilmiş tapşırıqların cavab-
+larını müzakirə edə bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Şəklin fraqmentini seçdirmə. 
+2. Seçdirilmiş fraqmenti əymə.  
+3. Seçdirilmiş fraqmenti müəyyən bucaq qədər döndərmə. 
+ 
+ 
+67
+Dərs 14 / Mövzu: MƏTN REDAKTORU 
+ 
+Mətn redaktorlarında iş bacarıqlarının reallaşdırılması, adətən, artıq suallar yarat-
+mır. Mətn prosessorunda iş texnologiyasının tədrisi yollarını bir çox hallarda müəl-
+lim özü müəyyənləşdirir. Bununla yanaşı, müəllimlərə bu mövzu ilə bağlı bəzi töv-
+siyələr verilə bilər. Tədris saatları məhdud olduğundan müəllim şagirdlərə mətnin 
+necə yığıldığını və klaviaturadan necə istifadə edildiyini öyrətməyə çalışmamalıdır. 
+Bu bacarıqlar aşağı siniflərdən şagirdlərə tanışdır. Evdə kompyuterdə işləmək 
+imkanı olan şagirdlər üçün müəllim ev tapşırıqlarını düzgün seçməklə onların iş 
+bacarıqlarındakı boşluqları aradan qaldıra bilər. Praktik tapşırıqlar hər şagirdin 
+fərdi bacarıqları nəzərə alınmaqla və onun marağına uyğun mövzuda seçilə bilər. 
+Bu zaman tapşırıqlar fənlərarası və fəndaxili əlaqələri təmin etməlidir.  
+Mövzunun tədrisinə başlamazdan əvvəl şagirdlərin aşağı siniflərdə mətn redakto-
+runda necə işlədiklərini yoxlamaq tövsiyə olunur. Bunun üçün müəllim sinfə 
+suallar verməklə diaqnostik qiymətləndirmə apara bilər. Bu qiymətləndirmənin nə-
+ticəsindən asılı olaraq müəllim şagirdlərlə iş strategiyasını müəyyənləşdirir.  
+Müəllim dərsdə müxtəlif mətn redaktorlarından (daha doğrusu, mətn prosessorla-
+rından) istifadə edə bilər. Onlar fərqli olsa da, pəncərə elementləri və iş prinsipləri 
+çox oxşardır. Ən geniş yayılmış və şagirdlərin yaş qruplarına uyğun mətn proses-
+sorları Microsoft Word, OpenOffice.org paketinin Writer proqramı, Abword proq-
+ramlarıdır. OpenOffice.org writer proqramını http://www.getpaint.net ünvanından 
+yükləmək olar.  5-ci sinifdə NotePad və WordPad proqramlarından istifadə etmək 
+məqsədəuyğun deyil. Çünki onlar sadə olduqlarından imkanları məhduddur.  
+Şagirdlərə verilən ev tapşırıqlarını düzgün qiymətləndirmək üçün onlara öz işlərini 
+fləş-yaddaşda saxlamaq məsləhət görülür.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim mövzuya başlayarkən aşağı siniflərdən şagirdlərə tanış olan mətn re-
+daktorunda onların hansı işlər gördükləri barədə suallar verə bilər. Müasir texnolo-
+giyalarla əlaqələndirmək üçün mobil telefonlarda olan mətn redaktorlarından 
+söhbət açmaq olar. Bu zaman telefonla savadlı mesaj göndərmək üçün mətni yaz-
+maq və düzəlişlər etmək kimi bacarıqların əhəmiyyətini vurğulamaq məqsədəuy-
+ğundur.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıq şagirdlərin aşağı siniflərdə 
+mətn redaktorunda iş təcrübələrinə əsaslanır. Burada əsas məqsəd şagirdlərin mətn 
+ 
+68
+redaktorunda yığdıqları mətni kompyuterin yaddaşında saxlamaqdır. Onu çapa 
+göndərmək bacarığı isə dərsin sonrakı mərhələlərində formalaşdırılır. Tapşırığın 3-
+cü addımında mətn yığmaq göstərişi verilsə də, dərsin məqsədi şagirdlərə mətn 
+yığmağı öyrətmək deyil. Ona görə də müəllim dərsin vaxtına qənaət məqsədi ilə 
+daha kiçik mətndən istifadə edə bilər. Lakin şagirdlərə yığdıqları mətndə səhvlərin 
+aşkarlanması və onların düzəldilməsi ilə bağlı tövsiyələr verilə bilər.  
+Tapşırıq yerinə yetirilərkən müəllim şagirdlərə mətn redaktorunda iş bacarıqlarını 
+yada salmaq üçün  istiqamətləndirici suallar verə bilər.  
+Diferensial təlim. Görmə problemləri olan şagirdlərə daha qısa mətn verməklə 
+kompyuterlərində şriftin ölçüsünü böyütmək olar. 
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında təşkil oluna bilər. Şagirdlə-
+rin qazandıqları yeni bacarıqlarla bağlı yaranan sual və çətinliklər aşkarlanıb mü-
+zakirə edilə bilər. Müəllimin bir neçə işi proyektor vasitəsilə nümayiş etdirməsi 
+daha yaxşı olardı. Adətən, şagirdlər yığdıqları mətni yaddaşda saxlayarkən 
+qovluğun və faylın adının yazılmasında çətinlik çəkirlər. Tapşırıqdakı göstərişlərə 
+əsasən, şagird yeni faylı əvvəl yaratdığı qovluqda saxlamalıdır. Əgər əvvəlki 
+dərslərdə kompyuterin yaddaşında şəxsi qovluq yaradılmayıbsa, müəllim şagirdlərə 
+bunu proyektor vasitəsilə nümayiş etdirə bilər.  
+ Dərsliyin “Fəaliyyət” hissəsindən sonra verilən izahat və yeni məlumatlar 
+oxunur. Müəllimə tövsiyə olunur ki, oxunan materialları proyektor vasitəsilə əyani 
+şəkildə nümayiş etdirsin. Mətn redaktorunda sənədin hazırlanması dedikdə nəyin 
+başa düşüldüyü əyani şəkildə nümayiş oluna bilər. Sonra müəllim sənədi çapa gön-
+dərməzdən əvvəl onun vərəqdə görünüşünü yoxlamağı xatırladır. Bunun üçün 
+File→Print Preview komandalarından necə istifadə edildiyini göstərir. Sənədi 
+çapa göndərmək qaydasını yada salır və sənədi çap edir.  
+ “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq sinifdə, yaxud evdə yerinə ye-
+tirilə bilər. Bunun üçün şagirdlərin kompyuterlərinə OpenOffice.org Writer proqra-
+mını yükləmək lazımdır. Bu proqramı http://www.openoffice.org/ ünvanından 
+yükləmək olar.   
+Müəllim dərsin bu mərhələsində şagirdlərə yaradıcı tapşırıq verə bilər: şagirdlər 
+Novruz bayramı haqqında 3 – 4 cümlə yığır və onu redaktə edir. Mətnin hərflərinin 
+rəngi, başlığın şrifti, düzləndirilməsi ilə bağlı tövsiyələr verilir. Şagirdlər onu 
+“Novruz” adı ilə kompyuterin yaddaşında və fləş-yaddaşda saxlaya bilərlər.  
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində veril-
+miş tapşırıqların cavablarını müzakirə edə bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Klaviaturanın əsas klavişlərinin təyinatını izah etmə. 
+2. Yığılmış mətndə sadə redaktə xarakterli düzəlişlər etmə.   
+3. Mətni formatlama. 
+4. Mətni kompyuterin yaddaşında saxlama. 
+5. Kompyuterdə olan mətni çap etmə.  
+ 
+ 
+69
+Dərs 15 / Mövzu: ŞƏKİLLİ MƏTNLƏR 
+ 
+Şagirdlər mətnə şəkilləri əlavə etmək bacarığı ilə aşağı siniflərdən tanışdırlar. 
+Dərsin təlim məqsədlərini reallaşdırarkən şagirdlərin əvvəlki biliklərini aktivləşdir-
+mək və hər bir şagirdə bacarıq səviyyəsinə uyğun tapşırıqlar vermək tövsiyə olu-
+nur. Təlim nəticələri yüksək olan şagirdlərə mətnə şəkil əlavə etməklə yanaşı, onu 
+formatlamağı da tapşırmaq olar. Dərslikdə verilmiş mətnə əvvəlki dərslərdə 
+yaradılmış şəkillərin yerləşdirilməsi nəzərdə tutulmuşdur. Bunun üçün dərsə 
+başlamazdan əvvəl kompyuterlərdə uyğun şəkillərin saxlanıldığını yoxlamaq 
+lazımdır. Amma müəllim şagirdlərə fərqli tapşırıqlar da verə bilər. Məsələn, 
+“Azərbaycan”, “Neft buruqları”, “Novruz bayramı”, “Azərbaycan yeməkləri”, 
+“İdman” mövzularında mətn yığmaq və uyğun şəkillər yerləşdirmək tapşırıla bilər. 
+Bu şəkillərin kompyuterlərin yaddaşında əvvəlcədən, uyğun qovluqlarda yerləşdi-
+rilməsi tövsiyə olunur.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim dərsin əvvəlində kitab və digər çap məhsullarında illüstrasiyaların 
+vacibliyi haqqında müzakirə təşkil edə bilər.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda əsas məqsəd mətnin lazım 
+olan yerinə uyğun şəklin yerləşdirilməsidir. Şagirdlər aşağı siniflərdən bu bacarıqla 
+tanış olsalar da, onlar WordPad  proqramında daha sadə üsulla – şəkli mətnə bufer 
+yaddaşından istifadə etməklə yerləşdirmişdilər. WordPad proqramı mətnə şəkli 
+yerləşdirmək üçün OLE texnologiyasından istifadəni tələb edir. Bu, şagirdlərdə bir 
+qədər narahatlıq yarada bilər. Writer və MS Word proqramlarında isə şəkli 
+yaddaşın istənilən yerindən daxil etmək mümkündür. Proyektordan istifadə edən 
+müəllim, şagirdlərə mətnə şəklin daxil olunması alqoritmini nümayiş etdirir. 
+Tapşırıqda yığılmış mətnə qrafik redaktora aid birinci dərsdə çəkilmiş şəklin 
+yerləşdirilməsi nəzərdə tutulur. Ona görə də şagirdlərin kompyuterlərində uyğun 
+şəklin olduğunu qabaqcadan yoxlamaq lazımdır. Lazım olan şəklin kompyuterin 
+yaddaşından tapılması şagirddən bir neçə bacarıq tələb edir. Bu bacarıqların yada 
+salınması üçün müəllim onları nümayiş etdirə bilər. 
+Diferensial təlim. Sağlamlıq imkanları məhdud olan şagirdlər istədiyi mətni yığıb 
+ona şəkil əlavə edə bilərlər. Praktik iş zamanı belə şagirdlər daha çox diqqət tələb 
+edir. Təlim nəticələri yüksək olan şagirdlər isə mətni yığdıqdan sonra kompyuterin 
+yaddaşından ona uyğun bir neçə şəkil əlavə edə bilərlər.  
+ 
+70
+ Şagirdlərin qazandıqları yeni bacarıqlarla bağlı yaranan sual və çətinliklər 
+aşkarlanıb müzakirə edilə bilər. Adətən, şagirdlər qoyulacaq şəklin yerini 
+müəyyənləşdirməkdə çətinlik çəkirlər. Sadəlik üçün şəklin yerini müəyyən 
+etdikdən sonra <ENTER> klavişinin basılması məqsədəuyğundur. Yerləşdirilmiş 
+şəklin ölçülərinin dəyişdirilməsi sadə bacarıq olsa da, bəzən şagirdlər seçdirilmiş 
+şəklin tutacaqları ilə işləməkdə səhvlərə yol verirlər.  
+ Dərsliyin bu hissəsində verilən məlumat şəklin ölçülərinin dəyişdirilməsinə 
+aiddir. Bu bacarığı müəllim proyektor vasitəsilə əyani olaraq nümayiş etdirə bilər.  
+Müəllim dərsin bu mərhələsində şagirdlərə yaradıcı tapşırıq verə bilər: 
+“İstədiyiniz mövzuya uyğun bir neçə cümlə yığın və ona uyğun şəkillər əlavə 
+edin”. Mövzular idman, kulinariya, mənim ölkəm, təbiət və s.-yə aid ola bilər. 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində 
+verilmiş tapşırıqların cavablarını müzakirə edə bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Şəkli kompyuterin yaddaşından mətnə əlavə etmə. 
+2. Şəklin ölçülərini dəyişmə. 
+3. Sənədi yaddaşda saxlama.  
+ 
+ 
+Dərs 16 / Mövzu: MƏTN REDAKTORUNDA ŞƏKLİ 
+     NECƏ ÇƏKMƏK OLAR 
+ 
+Mətn redaktorunda işləyərkən bəzən mətnə sadə fiqurlardan ibarət şəkil əlavə 
+etmək tələb olunur. Bunun sadə yolu elə mətn redaktorunun özündə şəklin 
+çəkilməsidir. Bu, ilk baxışdan şagirdlərə qəribə görünə bilər. Ancaq təcrübə 
+göstərir ki, şagirdlər mətn redaktorunda çox həvəslə şəkillər yaradırlar. Şagirdlərin 
+yaradıcı fantaziyaları mətn redaktorunda maraqlı rəsmlər yaratmağa imkan verir. 
+Dərsə başlamazdan əvvəl mətn redaktorunun rəsm alətlərinin əsas pəncərəyə 
+çıxarılması tövsiyə olunur. Dərsin təlim məqsədləri həm Microsoft Word, həm də 
+ona oxşar olan OpenOffice.org Writer proqramında reallaşdırıla bilər. Bəzən avto-
+fiqurlardan (Autoshapes) istifadə edərkən rəsm sahəsi çərçivədə açılır və ilk vaxt-
+larda şagirdlər üçün narahatlıq yaradır. Bu çərçivəni yığışdırmaq üçün 
+Tools→Options menyu komandasından General səhifəsini açmaq və 
+Automatically create drawing canvas when inserting AutoShapes boksundan 
+qeydi ləğv etmək lazımdır.  
+Bəzən mətn redaktorunda müxtəlif fiqurlardan ibarət şəkil yaradarkən bu fiqurları 
+qruplaşdırmaq lazım gəlir. 5-ci sinif şagirdləri üçün bu bacarıq bir qədər mürəkkəb 
+ola bilər. Ona görə də dərsdə mətn redaktorunda yalnız müxtəlif sadə şəkillərin 
+yaradılması bacarığı formalaşdırılır. Dərsin əvvəlində müəllim şagirdlərə mətn və 
+qrafik redaktorlarda şəkil çəkməyin çox oxşar olduğunu vurğulaya bilər. Bunun 
+üçün hər iki redaktorun bir neçə oxşar alətini nümayiş etdirmək olar.  
+ 
+ 
+71
+ 
+ Müəllim mövzuya başlayarkən mətn redaktorunun imkanları barədə şagirdlərə 
+suallar verir. Mətn redaktorunda şəkil çəkmək tələb olunan bir neçə sadə nümunə 
+nümayiş etdirmək olar.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda əsas məqsəd şagirdləri 
+mətn redaktorunda sadə şəkillərin çəkilmə imkanları ilə tanış etməkdir. Bunun 
+üçün müəllim proyektor vasitəsilə mətn redaktorunun pəncərəsində rəsm zolağını 
+göstərir. Sadə fiqurların çəkilməsi və onların rənglənməsini nümayiş etdirmək 
+məqsədəuyğundur.  
+ Şagirdlərin praktik işdə qazandıqları yeni bacarıqlarla bağlı yaranan suallar və 
+çətinliklər aşkarlanıb müzakirə edilə bilər. Adətən, şagirdlər sadə fiqurları 
+(düzbucaqlı və dairə) çəkmək üçün rəsm alətləri zolağından uyğun fiquru seçəndən 
+sonra siçanı iş sahəsində çıqqıldadırlar. Müəllim onlara bu alətdən qrafik 
+redaktorda olduğu kimi, siçanın sol düyməsini basılı saxlayıb onu hərəkət 
+etdirməyi izah edir. Yaranan fiqurun ölçülərini  dəyişmək üçün onun tutacaqların-
+dan istifadə olunmalıdır. Fiquru rəngləmək üçün qrafik redaktordan tanış olan boya 
+alətindən istifadə etmək daha məqsədəuyğundur. Çünki kontekst menyusundan 
+istifadə etmək 5-ci sinif şagirdləri üçün bir qədər mürəkkəb ola bilər. Ay və ulduz 
+fiqurları isə avtofiqurlardan seçilir.  
+ Müəllim dərsliyin bu hissəsində verilən məlumatı proyektorda göstərməklə 
+şərh edə bilər. Sadə fiqurlar çəkmək üçün rəsm zolağındakı alətlərdən necə istifadə 
+olunduğunu və boya aləti vasitəsilə fiqurların rəngləndiyini nümayiş etdirmək olar.  
+Diferensial təlim. Təlim nəticələri yüksək olan şagirdlərə müəllim yaradıcı iş 
+təklif edə bilər: “Mətn redaktorunun rəsm imkanlarından isti-
+fadə etməklə, istədiyiniz şəkli, yaxud belə bir şəkli çəkin”.  
+Təlim nəticələri zəif olan şagirdlərə mətn redaktorunun rəsm 
+zolağından istifadə etməklə, istədikləri şəkli çəkmək təklif 
+oluna bilər. 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində 
+verilmiş tapşırıqların cavablarını müzakirə edə bilər.  
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Mətn redaktorunda yığılmış mətnə uyğun şəkli müəyyən etmə. 
+2. Rəsm zolağından istifadə etməklə, sadə fiqurlar çəkmə. 
+3. Çəkilmiş fiqurun ölçülərini dəyişmə. 
+4. Hazır sənədi kompyuterin yaddaşında saxlama.  
+ 
+72
+KİÇİK SUMMATİV QİYMƏTLƏNDİRMƏ 
+ 
+1. Aşağıdakı proqramların hansında şəkil çəkmək olur? 
+A) NotePad        
+B) Paint 
+C) Calculator     
+D) PowerPoint 
+ 
+2. Bu şəkil qrafik redaktorun hansı elementidir? 
+A) menyu zolağı    
+B) palitra 
+C) alətlər qutusu    
+D) iş sahəsi 
+ 
+3.   aləti şəklin hansı formalı fraqmentini seçməyə imkan verir? 
+A) ixtiyari          
+B) düzbucaqlı 
+C) şəffaf fonlu   
+D) qeyri-şəffaf fonlu 
+ 
+4. Seçdirmə aləti vasitəsilə şəklin fraqmenti ilə hansı əməliyyatı aparmaq olmur? 
+A) çoxaltmaq   
+B) köçürmək 
+C) pozmaq       
+D) çap etmək 
+ 
+5. Şəklin fraqmentini çoxaltmaq üçün siçanın sol düyməsini sıxıb hərəkət etdirən 
+zaman hansı klavişi basılı saxlamaq lazımdır? 
+A) <Shift>    
+B) <Alt> 
+C) <Ctrl>      
+D) <Caps Lock> 
+ 
+6. Şəklin fraqmentini döndərmək  üçün menyu zolağından hansı komanda 
+seçilməlidir? 
+A) EditCopy   
+B) ImageClear  
+C) EditPaste   
+D) ImageFlip and Rotate 
+ 
+7. Şəklin fraqmentini əymək üçün menyu zolağından hansı komanda 
+seçilməlidir? 
+A) ImageFlip/Rotate 
+B) ImageStretch and Skew   
+C) ImageClear 
+D) FilePage Setup 
+ 
+ 
+ 
+73
+8. Bunlardan hansı mətn redaktoru deyil? 
+A) OpenOffice.org Writer 
+B) MS Word 
+C) WordPad 
+D) Microsoft Paint 
+ 
+9. Mətni böyük hərflərlə yazmaq üçün hansı klavişi basmaq lazımdır? 
+A) <Enter>           
+B) <Alt> 
+C) <Caps Lock>   
+D) <Esc> 
+ 
+10. Mətndə kursordan sağda olan simvolu silmək üçün hansı klavişi basmaq  
+      lazımdır? 
+A) <Delete>    
+B) <Backspace> 
+C) <Shift>       
+D) <Ctrl> 
+ 
+11. Mətndə şriftin ölçüsünü dəyişmək üçün hansı düymədən istifadə etmək    
+      lazımdır?  
+A)            
+B)    
+C)     
+D)    
+ 
+12. Sənədi çap etmək üçün menyu zolağından hansı komandalar verilməlidir? 
+A) FilePage Setup 
+B) EditCopy 
+C) FilePrint 
+D) EditUndo 
+ 
+13. Mətn sənədini yaddaşda saxlamaq üçün hansı düymədən istifadə etmək olar? 
+A)    
+B)    
+C)    
+D)  
+ 
+14. Mətnə şəkil əlavə etmək üçün menyu zolağından hansı komanda seçilməlidir?   
+A) InsertFile     
+B) InsertPicture 
+C) FileOpen      
+D) InsertMove 
+ 
+74
+ 
+ 
+ 
+ 
+ 
+ 
+ALT STANDARTLAR ÜZRƏ  
+REALLAŞDIRILACAQ BACARIQLAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TƏDRİS VAHİDİ ÜZRƏ ÜMUMİ SAATLARIN MİQDARI: 6 saat 
+KİÇİK SUMMATİV QİYMƏTLƏNDİRMƏ:  1 saat 
+ALQORİTM VƏ PROQRAM
+2.2.1. Alqoritmin təsviri üsullarını izah edir. 
+2.2.2. Sadə proqramlaşdırma mühitində proqramlaşdırma haqqında 
+elementar biliklərini izah edir. 
+2.2.3. Sadə proqramlaşdırma mühitində "İcraçı"nın hərəkətini idarə 
+edir. 
+2.2.4. Sadə proqramlaşdırma mühitində elementar fiqurlar çəkir. 
+TƏDRİS VAHİDİ – 4
+ 
+ 
+75
+Dərs 17 / Mövzu: ALQORİTM 
+ 
+Şagirdlər “Alqoritm” bölməsini çox həvəslə öyrənirlər. Gündəlik işləri sistemləşdi-
+rərək addımlarla təsvir etmək, sadə və maraqlı alqoritmləri icra etmək onlar üçün 
+əyləncə və oyun təəssüratı yaradır. Bundan əvvəlki fəsildə şagirdlər tətbiqi proq-
+ramlarda iş alqoritmlərini icra edirdilərsə, bu fəsildə onlar artıq özləri bəzi sadə 
+alqoritmləri qurmağı öyrənəcəklər. Şagirdlər bu fəslin son üç dərsində proqramlaş-
+dırma ilə tanış olacaqlar. Fəslin alqoritmlərə aid olan ilk üç mövzusu, əslində, 
+proqramlaşdırma dərslərinə hazırlıq xarakteri daşıyır. Tətbiqi proqramlardan 
+alqoritmlərə əlaqəli keçidi təmin etmək üçün dərsin “Fəaliyyət” hissəsində əvvəlki 
+dərslərdə icra olunmuş alqoritmlərə oxşar alqoritmin qurulması nəzərdə tutulur. 
+Müəllim alqoritmlərin əhəmiyyətini şərh edərkən əvvəlki dərslərdə “Fəaliyyət” 
+tapşırıqlarını misal göstərə bilər. Dərsin təlim məqsədlərinin reallaşdırılması 
+şagirdlərdə alqoritmik təfəkkürün inkişafına yardım edir, onlarda təhliletmə, 
+mühakiməyürütmə və planlaşdırma kimi idraki bacarıqların formalaşdırılmasına 
+əsaslanır.  
+ 
+ Müəllim şagirdləri aktivləşdirmək üçün dərslikdəki şəkil üzrə suallar verə və ya 
+şagirdlərdən nəticəyə gətirib çıxaran hərəkətlər ardıcıllığına misallar göstərməyi 
+xahiş edə bilər. Əgər şagirdlər ibtidai siniflərdə alqoritmləşdirməni zəif 
+mənimsəmişlərsə, bu zaman uşaqlara kömək məqsədilə konkret sual və ya tapşırıq 
+vermək olar. Məsələn, “Telefonla danışmaq üçün hansı hərəkətlər ardıcıllığını 
+yerinə yetirmək lazımdır”, “Yolu keçmək üçün hərəkətlər ardıcıllığını söyləyin”.  
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda məqsəd alqoritm haqqında 
+bilikləri yada salmaq, hər hansı bir nəticəyə nail olmaq üçün lazım olan işi alqoritm 
+şəklində yazmaq bacarığını formalaşdırmaqdır. Tapşırıqda əvvəlki dərslərdə icra 
+edilən alqoritmlərə bənzər alqoritmin yazılması nəzərdə tutulur. Əvvəlki dərslərdə 
+şagirdlər verilmiş alqoritmləri icra edirdilərsə, bu dərsdə onlar daha mürəkkəb 
+bacarığın formalaşdırılmasına çalışırlar.  
+DT: Təlim nəticələri zəif, yaxud sağlamlıq imkanları məhdud olan şagirdlərə daha 
+sadə tapşırıqlar təklif oluna bilər. Məsələn, “Buterbrodun hazırlanması”, “Çantanın 
+yığışdırılması” və s.  
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Yazılmış alqo-
+ritmlərin düzgünlüyünü yoxlamaq üçün müəllim şagirdlərin yazdıqları alqoritmlə-
+ 
+76
+rin bir neçəsini Paint proqramında icra edə və bunu proyektorla göstərə  bilər. 
+Müəllim fərqli alqoritmləri yazan şagirdlərin işlərini yoxlamağı şagirdlərin özlərinə 
+həvalə edə bilər. Yəni şagirdlər yoldaşlarının yazdığı alqoritmi icra edə və 
+nəticədən asılı olaraq onun düzgünlüyünü qiymətləndirə bilərlər.  
+ Bu hissədə verilən izahat və yeni məlumatlar oxunur. Müəllim “alqoritm” 
+anlayışını ətrafımızda və müxtəlif sahələrdə olan alqoritmlərə nümunə göstərməklə 
+şərh edə bilər. Bunun üçün “Nümunə” hissəsindən istifadə etmək faydalı olardı. 
+“Alqoritm” sözünün mənşəyini “Bu, maraqlıdır” hissəsində verilmiş məlumatla 
+izah etmək olar. 
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırığı yerinə yetirərkən 
+müəllim başqa fənlərdə icra edilən alqoritmlərin başqa icraçılar üçün deyil, yalnız 
+şagirdlər üçün nəzərdə tutulduğunu vurğulaya bilər.  
+Rollu oyun. Bu oyunu “Robot”, yaxud “Komandir – əsgər” kimi də adlandırmaq 
+olar. Şagirdlərdən biri “komandir”, digəri isə “əsgər” olur. Müəllim qarşıya 
+müəyyən bir məqsəd qoyur. Məsələn, “Yazı lövhəsini təmizləmək”, “Birinci parta-
+dan kitabı götürmək” və s. 
+Komandir əsgərə bu işləri görmək üçün dəqiq komandalar verməlidir. 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində veril-
+miş tapşırıqların cavablarını müzakirə edə bilər. 3-cü tapşırığın cavabı B) bəndidir.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. “Alqoritm” anlayışını izah etmə.   
+2. Sadə alqoritmi addımlarla söyləmə.   
+3. Addımlarla yazılmış alqoritmi icra etmə.  
+ 
+ 
+ 
+ 
+77
+Dərs 18 / Mövzu: ALQORİTMİ NECƏ TƏQDİM ETMƏK OLAR 
+ 
+Təlim məqsədlərini reallaşdırarkən çalışmaq lazımdır ki, şagirdlər müxtəlif 
+məsələlərin həll alqoritmlərini fərqli üsullarla göstərsinlər. Artıq 4-cü sinifdə onlar 
+alqoritmlərin təqdimolunma üsulları ilə tanış olmuşlar. Müəllim çalışmalıdır ki, 
+şagirdlər özləri belə bir nəticəyə gəlsinlər: məqsəddən asılı olaraq eyni bir 
+alqoritmi müxtəlif formalarda təqdim etmək olar. Bu zaman yada salmaq olar ki, 
+alqoritmin təqdimolunma forması həm də onun icraçısından və onun komandalar 
+sistemindən asılıdır. Alqoritm icraçının başa düşəcəyi formada və icra edə biləcəyi 
+komandalarla yazılır.  
+ 
+ 
+ Müəllim mövzuya bir neçə sadə alqoritmi təqdim etməklə başlaya bilər. 
+Sözlə, sxemlə, şəkillə təqdim olunan alqoritmlərə misallar göstərmək üçün 
+suallar vermək olar. Müəllim dərslikdə verilmiş şəkil üzrə iş təşkil edə bilər.  
+ Dərsliyin “Fəaliyyət” hissəsində şagirdlər verilmiş məsələni əvvəlcə həll 
+etməli, sonra isə həlli müxtəlif üsullarla göstərməlidirlər. Həll alqoritmini 
+şəkillərlə də göstərmək olar.  
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin 
+bir neçəsinin işinin müzakirə edilməsi alqoritmi başa düşmək üçün faydalı 
+olardı. Bu zaman bir şagirdin tərtib etdiyi alqoritmi digərinə yerinə yetirmək 
+üçün vermək olar. Tapşırığın alqoritmini sözlərlə, şəkillə, cədvəllə göstərmək 
+mümkündür. Məsələn, onu cədvəllə belə göstərmək olar:  
+Addımlar Su qabları 
+6 litrlik 4 litrlik 3 litrlik 
+Başlanğıc 6 0 0 
+1 2 4 0 
+2 2 1 3 
+3 5 1 0 
+ 
+Məsələnin həllini sözlə belə təsvir etmək olar: 
+1. 6 litrlik balonda olan su ilə 4 litrlik balonu  doldur (6 litrlik balonda 2 litr 
+su qaldı).  
+2. 4 litrlik balonda olan suyu 3 litrlik balona boşalt.  
+ 
+78
+3. 3 litrlik balonu 6 litrlik balona boşalt. 
+Orada olan 2 litr suyun üzərinə 3 litr su tökəndə 6 litrlik balonda 5 litr su alınır.  
+ Bu hissədə verilən izahat və yeni məlumatlar oxunur. Alqoritmin təsvirinin 
+müxtəlif üsullarını izah edərkən bu üsulların icraçıdan asılı olaraq seçildiyi 
+vurğulana bilər. Müəllim lövhədə sadə bir alqoritmin blok-sxemini çəkib göstərə 
+bilər. Xətti və budaqlanan alqoritmlərə aid sadə nümunələr göstərmək faydalı 
+olardı.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq sinifdə, yaxud evdə 
+yerinə yetirilə bilər.  
+Şagirdlərə hər hansı bir məsələnin alqoritmini blok-sxemlə qurmağı təklif etmək 
+olar. Bu zaman sadə məsələ vermək lazımdır ki, onun həlli çox vaxt aparmasın. Bu 
+işi lövhədə icra etmək daha məqsədəuyğundur. Məsələn, tərəfləri a və b olan  
+düzbucaqlının sahəsinin hesablanması alqoritmini blok-sxemlə qurmaq olar.  
+ Dərsliyin “Nümunə” hissəsində kotletin qızardılması haqqında məsələni birgə 
+həll etmək olar. 
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində veril-
+miş tapşırıqların cavablarını müzakirə edə bilər. 6-cı tapşırığın cavabı C) bəndidir.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Alqoritmin təsvirini nümunələrlə izah etmə.  
+2. Alqoritmin təqdimolunma üsullarını fərqləndirmə. 
+3. Verilmiş məsələnin həll alqoritmini bir neçə üsulla göstərmə.  
+4. Alqoritmlərin təqdim olunmasında cədvəl və blok-sxemdən istifadə etmə. 
+ 
+ 
+ 
+ 
+79
+Dərs 19 / Mövzu: ƏYLƏNCƏLİ MƏSƏLƏLƏR  
+Bu dərs əvvəlki dərsin davamıdır və biliklərin dərinləşdirilməsinə xidmət edir. 
+Şagirdlər verilmiş məsələlərin həllini müxtəlif formalarda göstərməyi öyrənirlər. 
+Dərsin əsas məqsədi şagirdlərin alqoritmik təfəkkürünün inkişaf etdirilməsidir. 
+Məntiqi məsələlərin həlli şagirdlərdə mühakiməyürütmə, təhliletmə və modelləşdir-
+mə kimi idraki bacarıqların reallaşdırılmasına yardım göstərir. Məsələlərin həlli za-
+manı müzakirə və diskussiyaların təşkili tövsiyə olunur. Bu zaman şagirdlərin diq-
+qətini həllin daha münasib formada təqdim edilməsinə yönəltmək məqsədəuyğundur.  
+ 
+ “Fəaliyyət” tapşırığında əsas məqsəd siçanın hərəkət alqoritmini oxlarla yaz-
+maqdır. Bu bacarıq növbəti dərsdə Cizgiçinin, sonra da LOGO mühitində Bağanın  
+hərəkət alqoritmini yazmağa kömək edəcəkdir. Bu tapşırıqda alqoritm oxlarla yazı-
+lırsa, növbəti dərsdə oxlar sözlərlə – komandalarla  əvəz olunacaqdır. Bu məsələnin 
+çoxlu sayda həll variantları vardır. Məsələn,  
+↑1 →1  ↓1  →3  ↑2  ←2 ↑1  ↑1 →1 
+ Nəticənin müzakirəsi üçün şagird işlərinin bir neçəsini yoxlamaq olar. 
+Alqoritmin icrasını rollu oyunla göstərmək faydalı olardı. Bu zaman şagirdlərdən 
+biri “siçan”, qalanlar isə “buğda dənələri” olur. Damalar isə partalarla əvəzlənə 
+bilər. Dərslikdə verilmiş tapşırığın alqoritmini isə oxlardan başqa, söz və şəkillə – 
+sxematik olaraq göstərmək mümkündür.  
+Nümunələrin şagirdlərlə birlikdə həll edilməsi daha məqsədəuyğundur. Müəllim 
+nümunə kimi başqa məsələlərdən də istifadə edə bilər. 
+Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş məsələlər nümunələrdə 
+verilmiş məsələlərin bir qədər mürəkkəb variantlarıdır.  
+Məsələ 1.  27 dəmir pulu hərəsində 9 pul olmaqla 3 hissəyə bölmək olar. Bir dəfə 
+çəkməklə saxta pulun hansı doqquzluqda olduğu müəyyən edilir. 9 pulun içindən 2 dəfə 
+çəkməklə saxta pulun tapılması alqoritmi isə dərslikdə olan nümunədə verilmişdir.  
+Məsələ 2.  
+Addımlar 
+Su qabları 
+4 litrlik 3 litrlik 
+Başlanğıc 0 0 
+1 0 3 
+2 3 0 
+3 3 3 
+4 4 2 
+ 
+80
+Bu məsələnin çoxlu sayda həlləri ola bilər. Müəllim bu tapşırığın həllinə müsabiqə 
+elan edə bilər: məsələni ən az sayda addımlarla həll edən şagird qalib gəlir. Təbii 
+ki, bir neçə şagird qalib ola bilər.  
+ Müəllim şagirdlərlə birlikdə mövzunun “Sual və tapşırıqlar” hissəsində 
+verilmiş tapşırıqların cavablarını müzakirə edə bilər. Bu məsələnin çoxlu sayda həll 
+variantları vardır. Məsələn,  
+→4 ↑1←3↑1→3 ↑2←1←1↓1
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Sadə məsələlərin alqoritmini qurma.  
+2. Alqoritmi müxtəlif üsullarla təsvir etmə.  
+3. Müxtəlif üsullarla təsvir olunmuş alqoritmi icra etmə.  
+ 
+ 
+Dərs 20 / Mövzu: PROQRAM NƏDİR 
+ 
+Şagirdlərin əvvəlki dərslərdə mənimsədikləri alqoritmləşdirmə bacarıqları proq-
+ramlaşdırma mühitində praktik işlərlə möhkəmləndirilməlidir. Proqramlaşdırma 
+prosesində toplanılan təcrübə şagirdlərin alqoritmik və məntiqi təfəkkürünün  
+inkişafına kömək edəcəkdir. Bu təcrübə şagirdləri inandırmalıdır ki, istənilən prob-
+lem və məsələnin həll alqoritmini düzgün tərtib etməklə onun həllinə nail olmaq 
+mümkündür. Dərsin kompyuter sinfində keçilməsi məqsədəuyğundur.  
+Mövzunu  “proqramlaşdırma” anlayışı ilə və şagirdlər üçün ilk proqramlaşdırma 
+dili olan LOGO ilə tanışlıq kimi də adlandırmaq olar. Dərsin əsas məqsədlərindən 
+biri “alqoritm” və “proqram” anlayışlarını izah etməkdir. Proqram alqoritmin təq-
+dimolunma üsullarından biridir. Proqramlar proqramlaşdırma dillərində yazılır. 
+Proqramın icraçısı kompyuterdir. Yaxşı olar ki, müəllim proyektor vasitəsilə şa-
+girdləri ALPLogo proqramlaşdırma mühiti, onun icraçısı olan Bağa və dilin ko-
+mandaları ilə tanış etsin. Dərsdə şagirdlərə Logo dilinin yaradılması tarixindən də 
+danışmaq olar.  
+LOGO adı qədim yunan sözü “logos”dan götürülüb, “fikir”, “söz” mənasını verir. 
+LOGO dili 1967-ci ildə Massaçusets Texnologiya İnstitutunda (ABŞ) professor 
+Seymur Papert tərəfindən yaradılıb. İlk kompyuter oyunları və hakerlər hərəkatı 
+da bu universitetdən başlanıb. Logo dilində proqram yazmaq dünyanın bir çox öl-
+kələrində yaşayan uşaqların ən sevimli məşğuliyyətinə çevrilmişdir. Azərbaycanda 
+ilk dəfə olaraq ALPlogo proqramlaşdırma mühiti dərslik müəllifləri tərəfindən 
+yaradılmış və dərslik komplektinə pulsuz olaraq əlavə edilmişdir. Bu proqramı 
+www.bakineshr.az, yaxud www.informatik.az saytlarından yükləmək və kompyu-
+terin C diskinə, sadəcə, köçürmək lazımdır (quraşdırmağa ehtiyac yoxdur). 
+ALPLogo proqramının digər proqramlardan ən mühüm fərqi ondadır ki, bu proq-
+ramda komandalar Azərbaycan, ingilis və rus dillərində yazıla bilər. Sistem hər üç 
+dili qəbul edir.  
+ 
+ 
+81
+Müəllim izah edə bilər ki, kompyuterin ekranında proqramın icrasını görmək üçün virtual 
+icraçıdan – Bağadan istifadə olunur. Əslində, bütün komandaları kompyuter icra edir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim mövzuya “İcraçı”, “İcraçının komandalar sistemi” haqqında aşağı 
+siniflərdən şagirdlərin bildikləri məlumatları təkrarlamaqla başlaya bilər.  
+Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda məqsəd icraçıya düzgün 
+komandalar verməklə lazım olan şəklin çəkilməsidir. Logo proqramlaşdırma 
+mühitində işləməyə başlayarkən əvvəlcə kağız üzərində Cizgiçi icraçısı üçün sadə 
+alqoritmlərin yazılması çox faydalıdır. Bu tapşırığın alqoritmini oxlar və sözlərlə 
+belə yazmaq olar: 
+Oxlarla 
+I variant: 
+1 ▼ 4  2  2  1  2  1  2  2 ▲ 
+II variant: 
+1  4 2 4 2 2 12 1 ▲ 
+ 
+ Müəllim “proqram” anlayışını izah etdikdən sonra 
+şagirdləri ALPLogo proqramlaşdırma mühitinin icraçısı 
+olan Bağa ilə tanış edə bilər. Bu zaman bağanın 
+monitorda xətt çəkməsini qum üzərində hərəkəti zamanı 
+qoyduğu izlə müqayisə etmək faydalı olardı. Proyektor 
+vasitəsilə müəllim şagirdləri ALPLogo proqram mühiti 
+ilə tanış edə bilər. Bu interfeys WINDOWS tətbiqi proqramlarının standart 
+interfeysinə malikdir. Qrafik və mətn redaktorlarında iş təcrübəsi bu proqramın 
+menyusunu tez qavramağa yardım edir.  
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Proqramlaşdırma haqqında elementar bilikləri izah etmə. 
+2. Alqoritm və proqramı fərqləndirmə. 
+3. Oxlar və sözlərlə Cizgiçi üçün sadə proqramlar yazma. 
+ 
+ 
+SÖZLƏRLƏ 
+AŞAĞI SAĞA 1 
+QƏLƏMİ ENDİR 
+SAĞA 4 
+AŞAĞI 2 
+SOLA 2 
+AŞAĞI SAĞA 1 
+SOLA 2 
+YUXARI SAĞA 1 
+SOLA 2 
+YUXARI 2 
+QƏLƏMİ QALDIR 
+ 
+82
+Dərs 21 / Mövzu: BAĞA İŞƏ BAŞLAYIR  
+ 
+Bu dərsdə müəllim proyektor vasitəsilə şagirdləri ALPLogo proqramlaşdırma 
+dilinin bəzi komandaları ilə tanış edir. Nümunə üçün müəllim kod bölümündə sadə 
+komandalar yazır və bu komandaların Bağa tərəfindən necə icra olunduğunu  
+proyektorla nümayiş etdirir. Dərsin kompyuter sinfində keçilməsi nəzərdə tutulur.  
+Proqram barədə məlumat: ALPLogo proqramlaşdırma mühitinin interfeysi 3 his-
+sədən ibarətdir: əsas menyu, alətlər zolağı və pəncərələr.  
+Əsas menyuda istifadəçinin müxtəlif əməliyyatları icra etmək imkanı vardır.  
+Alətlər zolağında müxtəlif əməliyyatlar üçün düymələr yerləşdirilmişdir.  
+Pəncərələr hissəsi 3 pəncərədən ibarətdir:  
+1. Kod bölümü – Bağanın hərəkəti üçün proqram burada yazılır. 
+2. Mesaj bölümü – komandaların düzgün yazılışı ilə bağlı məlumatları sistem  
+bu pəncərəyə çıxarır. 
+3. Qrafika bölümü – bura icraçının iş sahəsidir. Bu pəncərədə Bağa ona 
+verilən komandaları icra edir.  
+Proqramlaşdırma mühiti Azərbaycan, ingilis və rus dillərində yazılmış komandaları 
+qəbul edir. ALPLogo proqramının komandalar sistemi geniş olsa da, 5-ci sinif 
+şagirdləri ilə iş üçün siyahıda verilmiş komandalarla kifayətlənmək olar.   
+№ Komanda Komandanın formatı 
+1 irəli
+forward 
+вперед 
+ 
+irəli N 
+ 
+2 geri 
+backward 
+назад 
+geri N 
+ 
+3 sağa 
+right 
+направо 
+ 
+sağa N 
+ 
+4 sola 
+left 
+налево 
+ 
+sola N 
+ 
+5 qələmiendir
+pendown  
+пероопусти 
+qələmiendir
+ 
+6 qələmiqaldır
+penup 
+пероподними 
+qələmiqaldır
+ 
+7 qələminrəngi 
+pencolor 
+цветпера 
+qələminrəngi N 
+8 qələmineni
+penwidth 
+толщинапера 
+qələmineni N
+ 
+ 
+83
+9 sil  
+clean 
+очистить  
+sil
+ 
+10 ilkinvəziyyət
+home 
+домой 
+ilkinvəziyyət
+ 
+11 get  
+go 
+иди  
+get x, y
+12 yaz  
+write 
+пиши 
+yaz N
+ 
+Müəllim komandaların yazılış qaydasını izah edə bilər.  
+Komandanın yazılış qaydası: əvvəlcə komanda özü, sonra isə parametri yazılır.  
+Komandanın parametri: komandanı dəqiqləşdirən ədəd, söz və ya ifadə ola bilər.  
+Mühitlə ilk ünsiyyətə hazır proqramlarla başlamaq daha məqsədəuyğundur. 
+Şagirdlər bu proqramlara oyun kimi baxır və onların bəzi komandalarında 
+dəyişiklik etməklə müstəqil olaraq işləməyə başlayırlar. Komandanın yazılışında 
+səhv varsa, uyğun pəncərədə bu barədə məlumat çıxır. Bu səhvlərin səbəbini 
+şagirdlərlə birgə araşdırmaq  lazımdır.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Müəllim mövzuya başlamaq üçün əvvəlki dərsdə şagirdlərin monitor çəkmək 
+üçün yazdıqları alqoritmi proqram kimi yazıb ALPLogo mühitində icra edə bilər.   
+ Şagirdlər dərsliyin “Fəaliyyət” hissəsində olan tapşırığı yerinə yetirmək üçün 
+ALPLogo proqramını başladır və proqramın kod bölümündə verilmiş komandaları 
+daxil edirlər. Sonra isə “Çalışdır” düyməsini basmalıdırlar. Proqramın nəticəsi 
+iş sahəsində Bağanın çəkdiyi xətlər olacaq.  
+ Müəllim sonrakı mərhələlərdə komandaların düzgün yazılışını göstərməklə 
+izah edə bilər. Şagirdlər riyaziyyat dərsində “bucaq” anlayışı ilə artıq  tanış 
+olmuşlar. Bağanın dönmə bucağını riyaziyyatla inteqrativ olaraq izah etmək 
+məqsədəuyğundur. Bu zaman hərəkət istiqamətini dəyişmək və sınıq xətlər çəkmək 
+üçün müxtəlif komandalar yazmaqla Bağanın hərəkətini nümayiş etdirmək olar. 
+Dərslikdə verilmiş kiçik və sadə proqramları şagirdlərlə paralel şəkildə çalışdırmaq 
+faydalı olardı. Dərsdə, əsasən, sadə xətlər çəkmək və Bağanı iş sahəsində hərəkət 
+ 
+84
+etdirmək üçün sadə proqramların düzgün yazılmasına diqqət yetirmək tövsiyə olu-
+nur.  
+ Diferensial təlim. Təlim nəticələri yüksək olan şagirdlərə dərsliyin “Araşdıraq-
+öyrənək” hissəsində verilmiş proqramı yığıldıqdan sonra çalışdırmağı təklif etmək 
+olar. Təlim nəticələri zəif olan şagirdlər həmin proqramın daha yüngül variantını 
+yığıb icra edə bilər. Məsələn: 
+qələmiendir 
+irəli 100 
+sağa 80 
+irəli 100  
+sağa 80  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Proqramlaşdırma haqqında elementar bilikləri izah etmə. 
+2. ALPLogo proqramlaşdrma mühitinin elementlərini şərh etmə.  
+3. ALPLogo mühitində sadə komandaları düzgün yazma. 
+4. ALPLogo mühitində Bağanın hərəkət istiqamətini dəyişmə. 
+5. ALPLogo mühitində sadə fiqurlar çəkmə. 
+ 
+ 
+Dərs 22 / Mövzu: BAĞA SADƏ FİQURLAR ÇƏKİR 
+ 
+Dərsin əsas məqsədi şagirdləri ALPLogo mühitinin daha geniş imkanları ilə tanış 
+etməkdir. Dərsdə çalışmaq lazımdır ki, şagirdlərin fantaziyalarına şərait yaradılsın. 
+Şagirdlər müxtəlif fiqurlar çəkməklə və Bağanı hərəkət etdirməklə proqramlaşdırma-
+ya daha çox maraq göstərməyə başlayırlar. ALPLogo proqramında çəkilən fiqurların 
+rəngini və qələmin qalınlığını dəyişdirməklə müxtəlif effektlər almaq mümkündür. 
+Yazılmış proqramların şagirdlərin şəxsi qovluqlarında saxlanmasına nəzarət etmək 
+lazımdır. Proqramlaşdırmaya maraq göstərən şagirdlər ALPLogo mühitinin başqa 
+imkanlarından da istifadə edə bilərlər. Dövr operatoru və prosedurlarla iş mürəkkəb 
+olsa da, adətən, şagirdlər rəngarəng fiqurlar yaratmaq üçün bu imkanları öyrənməyə 
+də həvəs göstərirlər. Dərsin kompyuter sinfində keçilməsi nəzərdə tutulur.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+85
+ Dərsliyin “Fəaliyyət” blokunda verilmiş tapşırığın əsas məqsədi şagirdlərə 
+ALPLogo mühitində kvadrat çəkməklə sadə fiqurların çəkilməsini öyrətməkdir. 
+Şagirdlər verilmiş alqoritmi yerinə yetirdikdən sonra Bağa kvadrat çəkmiş olur. 
+Müəllim bu tapşırığı proyektor vasitəsilə paralel olaraq yerinə yetirməklə 
+şagirdlərə kömək göstərə bilər.  
+ Nümunədə paralel xətlərin və üçbucağın çəkilməsi üçün yazılmış proqramları 
+müəllim əvvəlcədən yazıb şagirdlərin kompyuterlərində saxlaya bilər. “Aç” 
+düyməsindən istifadə etməklə şagirdlərə həmin proqramları açıb çalışdırmağı 
+tapşırmaq olar. Rahatlıq üçün müəllim özü proyektor vasitəsilə bu prosesi nümayiş 
+etdirə bilər. Şagirdlərə hazır proqramlarda müxtəlif parametrləri dəyişib nəticəsini 
+yoxlamaq tapşırıla bilər. Bununla şagirdlər özləri hər parametrin mahiyyətini başa 
+düşəcəklər.  
+Rəngin və qələmin qalınlıqlarının dəyişdirilməsi nümunələri də eyni qayda ilə 
+göstərilə bilər. Müəllim rənglərin kodlarını müəyyənləşdirməyi şagirdlərin özlərinə 
+bir tapşırıq kimi də verə bilər.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq rənglərlə iş 
+bacarıqlarına əsaslanır. Bağanın iş sahəsi ağ rəngdə olduğundan ağ rənglə çəkilmiş 
+fiqurlar görünmür. Ona görə də suala cavab verərkən Bağanın ağ rəngdən istifadə 
+etməsi qeyd oluna bilər. 
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Proqramlaşdırma mühitində sadə proqram yazma. 
+2. Proqramlaşdırma mühitində sadə fiqurlar çəkmə.  
+3. Komandalar verməklə xətlərin rəngini və qalınlığını dəyişmə. 
+ 
+ 
+ 
+ 
+ 
+86
+KİÇİK SUMMATİV QİYMƏTLƏNDİRMƏ 
+ 
+1. Düzgün ardıcıllıqla nömrələyin: 
+ şagird evə qayıdır. 
+ şagird dərsdə iştirak edir. 
+ şagird məktəbə gedir. 
+ 
+2. Alqoritmin təqdimolunma formasını müəyyən edin: 
+“Bir addım irəli get, sağa dön, düz get, sola dön.” 
+A) şəkil              
+B) söz 
+C) blok-sxem     
+D) cədvəl 
+ 
+3. Alqoritmin növünü müəyyən edin. 
+2 1 3 1 1 2 
+ 
+A) dövri            
+B) xətti 
+C) budaqlanan   
+D) heç biri 
+ 
+4. Bunlardan hansı alqoritmin icraçısı ola bilməz? 
+A) insan     
+B) ağac 
+C) it           
+D) robot 
+ 
+5. Siçanın bütün buğdaları yığması üçün alqoritmi oxlarla yazın. 
+ 
+    
+ *   
+   *
+ * *  
+s    
+ 
+6. Addımları həndəsi fiqurlarla göstərilmiş alqoritmin təqdimolunma formasına 
+nə deyilir? 
+A) blok-sxem   
+B) qraf 
+C) ağac             
+D) həndəsə 
+ 
+ 
+ 
+87
+7. Proqramlaşdırma mühitində icraçı hərəkət etdikcə iz qoyması üçün hansı 
+komandanı vermək lazımdır? 
+A) qələmiqaldır 
+B) qələmineni 
+C) qələmiendir   
+D) qələminrəngi 
+ 
+8. İcraçıya belə komandalar verilib: 
+ 
+qələmiendir 
+irəli 20 
+sola 90 
+irəli 20 
+ 
+O, iş sahəsində hansı fiquru çəkəcək? 
+ 
+   A)          B)          C)         D) 
+ 
+9. Verilmiş təsviri almaq üçün sağ tərəfdə icraçıya 
+veriləcək komandaları yazın.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. İş sahəsində aşağıdakı fiqur çəkilib. Sağ tərəfdəki proqramda hansı komanda 
+düzgün göstərilməyib? Onu çərçivəyə alın və düzəldin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sağa 90
+qələmiendir 
+__________________ 
+__________________ 
+__________________ 
+__________________ 
+__________________ 
+qələmiendir 
+sağa 90 
+irəli 40 
+sağa 90 
+irəli 40 
+sağa 90 
+irəli 40 
+ 
+88
+ 
+ 
+ 
+ 
+ 
+ 
+ALT STANDARTLAR ÜZRƏ  
+REALLAŞDIRILACAQ BACARIQLAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TƏDRİS VAHİDİ ÜZRƏ ÜMUMİ SAATLARIN MİQDARI: 4 saat 
+BÖYÜK SUMMATİV QİYMƏTLƏNDİRMƏ:       1 saat 
+İNTERNET  
+3.3.1. İnternet haqqında ilkin biliklərini izah edir. 
+3.3.2. İnternetdə sadə iş bacarıqlarını nümayiş etdirir. 
+4.1.1. İnformasiya  resurslarını əlamətlərinə görə təsnif edir. 
+4.1.2. İnformasiya  resurslarını əsas  əlamətlərinə görə qruplaşdırır. 
+4.1.3. Təbiətlə əlaqədar informasiya resurslarının əhəmiyyətini izah 
+edir.
+TƏDRİS VAHİDİ – 5
+ 
+ 
+89
+Dərs 23 / Mövzu: İNFORMASİYA RESURSLARI 
+ 
+Müəllim “resurs” sözünü izah edərkən vurğulaya bilər ki, resurs – vəsait, ehtiyat  
+deməkdir. Müxtəlif resurslar var – maddi, əmək, maliyyə, enerji, xammal 
+resursları. Şagirdlərə izah etmək olar ki, informasiya resurslarını insan yaradır və 
+bu resurslar nəsildən-nəslə ötürülür. Ötürmək üçün insanlar bu resursları müəyyən 
+formalarda və müxtəlif daşıyıcılarda saxlayırlar. Müasir cəmiyyətdə informasiya 
+resurslarının bir qismi İnternet saytlarında yerləşdirilir. Kağızda saxlanılan 
+resurslar da  elektron formaya çevrilir və onların sayı günü-gündən artır. Buna 
+misal olaraq  elektron jurnalları, qəzetləri, www.youtube.com saytında yerləşdirilən 
+filmləri və nəhayət, son vaxtlar İnternet televiziya kanallarını göstərmək olar. 
+İnformasiya resurslarının təsnifatını müxtəlif cür aparmaq olar. 5-ci sinif şagirdləri-
+nə onların təsnifatını sadə şəkildə vermək məqsədəuyğundur.  
+ 
+ 
+ Müəllim mövzuya başlayarkən resurslar haqqında ümumi məlumat verə bilər. 
+O, informasiya resurslarının toplanması və gələcək nəslə ötürülməsində arxivlər, 
+kitabxanalar və muzeylərin rolundan danışa bilər.  Aşağıdakı mövzuda diskussiya 
+təşkil etmək olar: “Siz məktəbdə, evdə informasiya almaq üçün hansı resurslardan 
+istifadə edirsiniz?”.  
+Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda məqsəd informasiyaları 
+mövzulara görə qruplaşdırmaqdır. Bu tapşırığın yerinə yetirilməsi şagirdlərdə 
+qruplaşdırma və müqayisəetmə kimi idraki bacarıqların inkişaf etdirilməsinə 
+əsaslanır. Tapşırıqda koordinat şəbəkəsi və simmetriya həm riyaziyyata, həm də 
+informatikaya aid edilə bilər.  
+Diferensial təlim. Təlim nəticələri zəif olan şagirdlər qruplaşdırmanı şifahi də 
+apara bilər. Müəllim onlara kömək məqsədilə yönəldici suallar verə bilər. 
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Cədvəllərin  
+düzgünlüyünü yoxlamaq üçün müəllim uyğun informasiyalarla hansı dərslərdə 
+tanış olduqlarını soruşa bilər.  
+ Bu hissədə verilən izahat və yeni məlumatlar oxunur. Müəllim resursların 
+təsnifatını izah edərkən sxematik olaraq lövhədə çəkə bilər. Bu zaman müxtəlif 
+nümunələrdən istifadə etmək olar. Fənlər üzrə yazılmış dərslikləri mövzular üzrə 
+qruplaşdırılmış informasiya resurslarına sadə misal kimi göstərmək olar.  
+ 
+90
+ Dərsliyin “Araşdıraq-öyrənək” hissəsində verilmiş tapşırıq layihə xarakterlidir. 
+Bu tapşırıq evə verilə bilər. Müəllim “Davamlı inkişaf konsepsiyası” (rusca – 
+“Kонцепция устойчивого развития”, ingiliscə – “Sustainable development”) 
+haqqında məlumat toplamağı şagirdlərə də həvalə edə bilər. Ətraf mühitə qayğıkeş 
+münasibət, təbii sərvətlərdən səmərəli istifadə etmək kimi keyfiyyətlərin əhəmiyyəti 
+araşdırıla bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. İnformasiyaları əlamətlərinə görə təsnif etmə.  
+2. İnformasiya resurslarına nümunələr göstərmə.  
+3. İnformasiya  resurslarını əlamətlərinə görə qruplaşdırma.  
+4. Təbiətlə əlaqədar informasiya resurslarının əhəmiyyətinə dair nümunələr göstərmə. 
+ 
+ 
+Dərs 24 / Mövzu: İNTERNET  
+ 
+İnformasiya resurslarının əksəriyyəti bu gün İnternetdə yerləşir. İnternet qlobal 
+şəbəkədir. İnternet bəşəriyyətin bu günə kimi qazandığı ictimai biliklərə sərbəst 
+istifadə imkanı verən bir mühitdir. Müəllim şagirdlərə İnternetdə lazım olan 
+məlumatın axtarılmasını, onun xidmətlərindən düzgün istifadə etməyin vacibliyini 
+izah edə bilər. Müəllimə “İnternet” mövzusuna aid təqdimat hazırlamaq tövsiyə 
+olunur.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda məqsəd şagirdlərin İnternet 
+haqqında ilkin biliklərini müəyyənləşdirməkdir. Bunun üçün BİBÖ üsulundan 
+istifadə etmək olar. Dərsdə çalışmaq lazımdır ki, şagirdlər özləri İnternet haqqında 
+bildiklərini danışsınlar.  
+ Bu hissədə verilən izahat və yeni məlumatlar oxunur. Müəllimin hazırladığı təq-
+dimatı nümayiş etdirməsi faydalı olardı. Əgər dərs İnternetə bağlantısı olan otaqda 
+keçilirsə, müəllim İnternetin bəzi imkanlarını şagirdlərə nümayiş etdirə  bilər.  
+ Dərsin sonunda şagirdlər “Fəaliyyət” bölməsində verilən tapşırığın sonuncu 
+sütununu qısa tezislərlə doldura bilərlər.  
+ 
+ 
+ 
+91
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. Kompyuter şəbəkəsi haqqında bilikləri nümayiş etdirmə. 
+2. İnternetə aid sadə anlayışları izah etmə. 
+3. İnternet haqqında ilkin biliklərini izah etmə. 
+ 
+ 
+Dərs 25 / Mövzu: DÜNYA HÖRÜMÇƏK TORU 
+ 
+Dərsi müəllimin kompyuter sinfində keçməsi məqsədəuyğundur. Əsas məqsəd 
+şagirdləri İnternetin xidmətlərindən biri olan WWW – Dünya hörümçək toru ilə 
+tanış etməkdir. Şagirdlərə izah olunmalıdır ki, informasiyanın İnternetdə olması o 
+deməkdir ki, bu informasiya hər hansı bir veb-səhifədə saxlanılır. Yaxşı olar ki, 
+şagirdlər veb-brauzerin pəncərəsi ilə tanış olsunlar, ünvan sətrində hər hansı bir 
+saytın ünvanını yazsınlar və açılmış saytla tanış olsunlar. Dərsin İnternet bağlantısı 
+olan kompyuter sinfində keçilməsi nəzərdə tutulmuşdur.  
+ 
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda məqsəd şagirdlərin ilkin 
+olaraq İnternet saytlarını açmaq bacarıqlarının formalaşdırılmasıdır. Bunun üçün 
+müəllim proyektor vasitəsilə tapşırıqda yazılmış alqoritmi şagirdlərlə paralel icra 
+edə bilər. Bu zaman şagirdlər müəllimin yerinə yetirdiyi əməliyyatları öz kompyu-
+terlərində təkrarlamaqla bu bacarıqlara daha asanlıqla yiyələnə bilərlər. Dərslikdə 
+verilmiş saytlar ətraf mühitə qayğıkeş münasibətin, təbii sərvətlərdən səmərəli isti-
+fadə, ictimai və milli-mənəvi dəyərlərin təbliği baxımından çox əhəmiyyətlidir.   
+Diferensial təlim. Təlim nəticələri zəif olan şagirdlər saytla tanış olmaqla kifa-
+yətlənə bilərlər.  
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlər brau-
+zerlərdə iş bacarıqlarını bölüşə bilərlər. Şagirdlərin çətinlik çəkdikləri bacarıqlar 
+təhlil oluna bilər.  
+ Hər şagird veb-brauzerlərin simgələrini tanımalıdır. İnternetdəki saytlara baxış 
+keçirmək üçün ixtiyari brauzerdən istifadə etmək olar. Şagirdlər, adətən, ünvan 
+zolağında saytın ünvanını düzgün yazmırlar. Bu zaman müəllim qeyd edə bilər ki, 
+ünvanda bir simvolda səhv olarsa, lazım olan sayt açılmır. Ona görə də ünvan 
+düzgün yazılmalıdır.  
+ 
+92
+ Nümunədə Təhsil Nazirliyinin rəsmi saytına baxış nəzərdə tutulur. http:// 
+önlüyünü çox vaxt yığmaq lazım gəlmir. Ona görə də şagirdlərə izah etmək olar ki, 
+ünvan yazanda bu önlüyü yazmamaq olar.  
+ Dərslikdə “Araşdıraq-öyrənək” tapşırığını yerinə yetirmək üçün müəllim şagird-
+lərə saytlarda olan mətn və şəkilləri kompyuterdə necə saxlamağı izah edə bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. İnternetin imkanlarını şərh etmə. 
+2. Brauzerdə sadə iş bacarıqları nümayiş etdirmə.  
+3. Ünvanı məlum olan veb-səhifəni İnternetdə açma. 
+ 
+ 
+Dərs 26 / Mövzu: İNTERNETDƏ İNFORMASİYANIN                              
+AXTARIŞI 
+ 
+Bu dərs İnternetin xidmətlərindən birinə  axtarış xidmətinə həsr olunub. Dərsin 
+İnternet bağlantısı olan kompyuter sinfində keçilməsi məqsədəuyğundur. İnternetdə 
+düzgün axtarış aparmaq bacarığı müasir dövrdə ən vacib bacarıqlardan biridir. 
+Əgər şagird lazım olan informasiyanı İnternetdə tapa bilirsə, onda o, yeni biliklərə 
+daha sürətlə yiyələnəcək. Ona görə də İnternetdə lazımi məlumatı tapmaq üçün 
+şagirdlər axtarışı savadlı aparmağı öyrənməlidirlər. Bu səbəbdən də ilkin olaraq 
+şagirdə axtarış sistemləri barədə məlumat verməklə yanaşı, onların ünvanlarını gös-
+tərmək lazımdır. Adətən, axtarış üçün ən çox www.google.com (www.google.az), 
+www.yandex.ru, www.arama.com, www.rambler.ru  saytlarından istifadə olunur.  
+ 
+ Dərsliyin “Fəaliyyət” hissəsində verilmiş tapşırıqda məqsəd şagirdləri İnter-
+netin axtarış imkanları ilə tanış etməkdir. Bunun üçün müəllimə tapşırıqda yazılmış 
+alqoritmin icrasını proyektor vasitəsilə nümayiş etdirmək tövsiyə olunur. Şagirdlər 
+müəllimin yerinə yetirdiyi əməliyyatları öz kompyuterlərində təkrarlamaqla bu 
+bacarıqlara daha asanlıqla yiyələnmək imkanı əldə edirlər. Onlar müəllimin 
+məsləhəti ilə müxtəlif  mövzular üzrə axtarış apara bilərlər.  Şagirdlərin diqqətini 
+saytların təhlükəsizliyinə  yönəltmək olar. Axtarış zamanı müəyyən sayta keçərkən 
+ 
+ 
+93
+belə bir məlumat çıxa bilər: “Bu sayt təhlükəlidir. O, virus hücumuna məruz qalıb”. 
+Bu halda belə saytı açmaq məqsədəuyğun deyil. 
+ İşin müzakirəsi dərslikdə yazılmış suallar əsasında qurula bilər. Şagirdlərin bir 
+neçəsinin işinin müzakirə edilməsi alqoritmi başa düşmək üçün faydalı olardı. Şa-
+girdlərin çətinlik çəkdikləri bacarıqlar təhlil edilə bilər. Şagirdlər, adətən, axtarış 
+sistemində axtarılan mövzuların adlarını yazmaqda, açılan siyahdan özlərinə lazım 
+olan məlumatların seçilməsində çətinlik çəkirlər. Müəllim bir neçə mövzu üzrə ax-
+tarış nümunəsini göstərə bilər. Bu zaman müxtəlif axtarış sistemlərini nümayiş et-
+dirmək məqsədəuyğun olardı: www.google.az, www.arama.com, www.google.com, 
+www.yandex.ru və s.  
+ Dərsliyin “Araşdıraq-öyrənək” hissəsindəki tapşırığı yerinə yetirərkən şagirdlər 
+müəllimin məsləhəti ilə müxtəlif mövzular üzrə də araşdırma apara bilərlər. Bu za-
+man onlar, sadəcə, yeni məlumatları şifahi olaraq təqdim edə bilərlər.  
+Müəllim şagirdlərə müxtəlif milli və xarici saytların ünvanlarını da verə bilər: 
+http://www.edu.az, http://bebe.az, http://www.gulzarnene.com, http://www.baladili.ws  
+və digər saytları nümunə göstərə bilər.  
+ 
+Müəllim dərsin təlim məqsədlərinə nail olmaq dərəcəsini aşağıdakı meyarlar üzrə 
+qiymətləndirə bilər:  
+1. İnternetdə axtarış sistemlərini sadalama.  
+2. İnternetdə müəyyən mövzu üzrə axtarış aparma.  
+ 
+94
+BÖYÜK SUMMATİV QİYMƏTLƏNDİRMƏ (II YARIMİL)  
+ 
+1. Ana uşağına “Yolu keçmə” qaydalarını hansı formada izah edə bilər? 
+A) cədvəllə     
+B) sxemlə 
+C) sözlə          
+D) şəkillə 
+ 
+2. Hansı alqoritm üzrə hərəkət etsə Robot qırmızı xanaya çata bilər?  
+ 
+     
+     
+     
+ R     
+     
+ 
+3. İş sahəsində iz qoymamaqla hərəkət etmək üçün Cizgiçiyə hansı komanda 
+verilməlidir? 
+A) qələmineni        
+B) qələmiendir 
+C) qələmiqaldır   
+D) irəli 
+ 
+4. Hansı komanda Cizgiçi üçün düzgün yazılmayıb? 
+A) irəli 100   
+B) sağa  
+C) geri 50    
+D) sola 30 
+ 
+5. Mətn redaktorunda sənədi çapa vermək üçün hansı düymədən istifadə olunur? 
+A)               B)                  C)                   D)  
+ 
+6. İş sahəsində Cizgiçi xətlər çəkib. Verilən təsvirə hansı proqram uyğundur? 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A) 4 2 
+B) 3 1 
+C) 3 2 
+D) 2 3
+qələmiendir 
+sağa 90 
+irəli 20 
+qələmiqaldır 
+irəli 10 
+sola 90 
+qələmiendir 
+irəli 10 
+qələmiendir 
+sağa 90 
+irəli 20 
+irəli 10 
+sola 90 
+qələmiendir 
+irəli 10 
+qələmiendir 
+sağa 90 
+irəli 20 
+qələmiqaldır 
+irəli 10 
+sağa 90 
+qələmiendir 
+irəli 10 
+A) B) C) 
+ 
+ 
+95
+7. Qrafik redaktorda şəklin seçdirilmiş fraqmenti üçün əməliyyatı uyğun menyu 
+komandası, yaxud klavişlə birləşdirin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Veb-səhifələrə baxmaq üçün proqram necə adlanır? 
+A) mətn redaktoru      
+B) modem 
+C) brauzer                   
+D) sayt 
+ 
+9. Bunlardan hansı axtarış sistemidir? 
+A) gun.az       
+B) google.az 
+C) lent.az       
+D) edu.az 
+ 
+10. Bunlardan hansı informasiya resursudur? 
+A) neft yataqları 
+B) rəssamların işləri 
+C) zavodun işçiləri 
+D) insanların banklardakı pulları  
+ 
+11. Bunlardan hansı informasiya resursunun musiqi növünə aiddir? 
+A) bəstəkarların adları 
+B) xalq mahnıları 
+C) musiqi alətləri 
+D) müğənnilər 
+ 
+12. Hansı informasiya resursu sizə məxsus deyil? 
+A) gündəliyinizdəki qiymətlər 
+B) dəftərinizdəki yazılar 
+C) sinif jurnalında yazılar 
+D) çəkdiyiniz şəkil 
+ 
+ 
+Silmək 
+<Delete>
+Döndərmək <Ctrl> 
+Çoxaltmaq
+Əymək ImageFlip/Rotate
+ImageStretch and Skew  
+ 
+96
+MƏNBƏLƏR 
+ 
+1. A.Əhmədov, Ə.Abbasov. Ümumtəhsil məktəblərinin I–IV sinifləri üçün fənn kurikulumları, 
+2008. 
+2. Q.Hüseynov və b. İnklüziv təhsil (ibtidai təhsil pilləsi üçün), 2010.  
+3. Информатика в начальном образовании, 2000. (ЮНЕСКО) 
+4. Information and communication technology. The Nat. Curr. for England 
+5. С.Н.Тур, Т.П.Бокучава. Методическое пособие по информатике для учителей 5 
+классов   общеобразовательных школ, БХВ-Петербург, Санкт-Петербург, 2007. 
+6. Ю.А.Аверкин, Н.В.Матвеева, Т.А.Рудченко. Дидактические материалы для 
+организации темaтического контроля по информатике в начальной школе. 
+Бином, Москва, 2004. 
+7. Джени Стил, Керт Мередис, Чарльз Темпл. Основы развития критического 
+мышления, Фонд Сорос-Кыргызстан, Бишкек, 1998. 
+8. В.В. Малеев. Общая методика преподавания информатики, Воронеж, 2005. 
+9. Е.В. Петрушинский. Игры для интенсивного обучения, Прометей, Москва, 1991. 
+10. А.А.Дуванов. Работаем с информацией. Книга для учителя. Санкт-Петербург, 
+БХВ-Петербург, 2004. 
+11. Е. Я. Яковенко. Компьютер для школьника. Москва, АСТ, 2007. 
+12. Большая детская энциклопедия в вопросах и ответах. Минск, Харвест, 2009. 
+13. PC CD-ROM/ İNFO-KO. 
+14. PC CD-ROM/ Учимся анализировать. Новый диск. 
+15. PC CD-ROM/ Учимся мыслить логически. Новый диск. 
+16. PC CD-ROM/ Учимся думать. Новый диск. 
+17. http://edu.gov.az 
+18. http://kurikulum.az 
+19. http://informatik.az 
+20. http://www.pixart.ws/infoko 
+21. http://stamina.ru 
+22. http://soft-free.ru/content/view/1845 /118/ 
+23. http://www.curriculumonline.gov.uk 
+24. http://www.curriculum.edu.au 
+25. http://www.curriculum.org 
+26. http://www.meb.gov.tr 
+27. http://pedsovet.intergu.ru/ 
+28. http://www.websib.ru/ 
+29. http://www.piter.com/project/informatika/ 
+30. http://education.alberta.ca/ 
+31. http://ergo.human.cornell.edu/ 
+32. http://www.informatika.ru 
+33. http://www.rusedu.info 
+34. http://www.pedsovet.org 
+35. http://gcompris.net/-ru 

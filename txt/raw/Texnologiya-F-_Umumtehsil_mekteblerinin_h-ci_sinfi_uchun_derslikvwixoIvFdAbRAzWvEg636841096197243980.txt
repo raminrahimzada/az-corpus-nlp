@@ -1,0 +1,790 @@
+
+
+
+NATİQ	AXUNDOV,	HÜMEYİR	ƏHMƏDOV,	
+SVETLANA	YAHYAYEVA
+TEXNOLOGİYA
+Ümumtəhsil	məktəblərinin	2-ci	sinfi	üçün	
+«Texnologiya»	fənni	üzrə
+DƏRSLİK
+Azərbaycan	Respublikası	Təhsil	Nazirliyinin	
+19.06.2009-cu	il	tarixli	734	№-li	əmri	ilə	təsdiq	edilmişdir.
+«ASPOLİQRAF»	
+BAKI	-	2016
+Axundov	N.,	Əhmədov	H.,	Yahyayeva	S.
+A95	Texnologiya.	Ümumtəhsil	məktəblərinin	2-ci	sinfi	üçün
+«Texnologiya»	fənni	üzrə	dərslik.	Bakı,	«Aspoliqraf»,	2016,	64	səh.
+Müəlliflik	hüquqları	qorunur.	Xüsusi	icazə	olmadan	bu	nəşri	və	yaxud
+onun	hər	hansı	hissəsini	yenidən	çap	etdirmək,	surətini	çıxarmaq,
+elektron	informasiya	vasitələri	ilə	yaymaq	qanuna	ziddir.
+Dərsliklə	bağlı	rəy,	irad	və	təkliflərin	aspoligraf.ltd@gmail.com	və
+derslik@edu.gov.az	elektron	ünvanlara	göndərilməsi	xahiş	olunur.
+Əməkdaşlığınız	üçün	əvvəlcədən	təşəkkür	edirik!
+© Azərbaycan	Respublikası	
+Təhsil	Nazirliyi,	2016
+Natiq	Lütviq	oğlu	Axundov	
+Hümeyir	Hüseyn	oğlu	Əhmədov	
+Svetlana	İslam	qızı	Yahyayeva	
+TEXNOLOGİYA	
+(Ümumtəhsil	məktəblərinin	2-ci	sinfi	üçün	
+«Texnologiya»	fənni	üzrə	dərslik)	
+Bakı,	«Aspoliqraf»,	2016.
+Redaktoru	Sevinc	Nuruqızı	
+Bədii	və	texniki	redaktoru	Abdulla	Ələkbərov	
+Rəssamları	Nailə	Zülfüqarova,	Gündüz	Ağayev	
+Kompüter	tərtibatçıları	Aqil	Əmrahov,	Təhmasib	Mehdiyev	
+Korrektoru	Ülkər	Şahmuradova
+Kağız	formatı	57x82	 / .	
+Ofset	çapı.	Ofset	kağızı.	Məktəb	qarnituru.	Fiziki	çap	vərəqi	8,0.	
+Uçot	nəşr	vərəqi	7,3.	Sifariş	4.	Tiraj	64100.	Pulsuz.
+«Aspoliqraf	LTD»	MMC	
+Bakı,	AZ	1052,	F.Xoyski	küç.,	121
+1
+8
+B
+
+ƏZİZ	MƏKTƏBLİLƏR,	MÜƏLLİMLƏR,	
+VALİDEYNLƏR!
+Ümumtəhsil	məktəblərinin	II	sinif	şagirdləri	üçün	ilk	dəfə	hazırlanmış
+bu	dərslik	Təhsil	sektorunun	İnkişafı	Layihəsi	üzrə	«Azərbaycan
+Respublikasında	ümumi	təhsilin	Konsepsiyası	(Milli	Kurikulumu)»
+sənədinin	prinsiplərinə	və	«Azərbaycan	Respublikasının	ümumtəhsil
+məktəbləri	üçün	texnologiya	kurikulumu	(I-IV	siniflər)»	sənədinin
+məzmununa	əsaslanmışdır.
+II	sinif	üçün	məzmun	standartlarının	reallaşmasına	istiqamətlənərək
+hazırlanmış	materiallarda	şagirdlərin	idraki,	informativ	-
+kommunikativ,	psixomotor	fəaliyyətlərinin	inkişafı	və	ən	zəruri
+texnoloji	bacarıqlara	yiyələnmələri	diqqət	mərkəzində	saxlanılmışdır.
+Aşağıda	göstərilən	nişanlar	tapşırıqların	yerinə	
+yetirilməsində	yanaşmaları	ifadə	edir
+
+MƏİŞƏT	MƏDƏNİYYƏTİ
+Dərs	1 	
+EMAL
+TEXNOLOGİYALARI,	
+MATERİALLARI	VƏ
+VASİTƏLƏRİ
+	
+Material	dedikdə	nə	başa	düşürsünüz?
+Emal	vasitəsi	dedikdə	nə	başa	düşürsünüz?
+Emal	texnologiyası	nədir?
+Tablo	1
+
+	 ÖZÜNƏXİDMƏT
+QAYDALARI
+Dərs	2 	
+Özünəxidmət	qaydalarını	izah	edin.
+Tablo	2
+
+SANİTARİYA-GİGİYENA	QAYDALARI
+Sanitariya-gigiyena	qaydalarını	
+izah	edin.
+Tablo	3
+
+	 BİTKİLƏRƏ	QULLUQ
+QAYDALARI
+Dərs	3 	
+Bitkilərə	qulluq
+edərkən	hansı
+vasitələrdən	istifadə
+edilir?	
+Şəkildə	təsvir	olunan	vasitələrdən	hansı	məqsədlərlə	istifadə	edilir?
+Tablo	4
+	 	 	
+
+Dərs	4 	
+YEMƏK	MASASI
+ARXASINDA	
+DAVRANIŞ	QAYDALARI
+	
+Yemək	masası
+arxasında	davranış
+qaydalarına	nə
+daxildir?	
+Yemək	masası	arxasında	istifadə	olunan	ləvazimatları	sadalayın	və
+onlardan	istifadə	qaydalarını	söyləyin.
+Tablo	5
+1.	Masa
+arxasında
+düzgün
+oturmaq,
+çəngəl,
+bıçaq	və
+qaşıqdan
+lazımi	qaydada	istifadə	etmək	yemək	bacarığı	və	mədəni
+davranışın	əsasıdır.
+2.	Hamı	masa	arxasında	eyni	vaxtda	oturmalıdır.
+3.	Söykənəcəyinə	yüngülcə	toxunmaqla	stulun	oturacağını	tam
+tutmağa	çalışmaq	lazımdır.
+4.	Əyləşən	zaman	stulu	səssiz	çəkmək,	oturduqdan	sonra	onu	iki
+əllə	lazımi	məsafəyə	yaxınlaşdırmaq	lazımdır.
+5.	Masa	arxasında	düz	oturmaq,	dirsəkləri	bədənə	sıxaraq
+bükmək,	əlləri	masanın	üzərinə	qoymaq	lazımdır.
+6.	Qidanı	ağzıaçıq	halda	çeynəmək,	yemək	vaxtı	danışmaq	olmaz.
+7.	Yemək	zamanı	qurtum-qurtum	içərək	səs	çıxarmaq,	isti	xörəyə
+üfürmək,	boşqabı	qaşıqla	taqqıldatmaq	olmaz.	Masaya	qoyulmuş
+ümumi	yeməkdən	ən	yaxında	olan	parçanı	(tikəni)	götürürlər.
+	 	 	
+Əgər	yemək	masaya	az	miqdarda	verilibsə,	onun	masa	arxasında
+oturanlara	da	çatması	üçün	bir	qədər	az	götürmək	lazımdır.
+Qaşıq	yumruqda	sıxılmadan	sağ	əldə,	çəngəl	isə	dişləri	aşağı
+olmaqla	sol	əldə	tutulur.	Bıçaq	sağ	əldə	tutulur.
+Salfetlə	ancaq	ağız	və	əlləri	silmək	lazımdır.	Kağız	salfetlər	istifadə
+edildikdən	sonra	nimçəyə	və	ya	digər	qaba,	parçadan	olan
+salfetlər	isə	bükülmədən	nimçənin	sağ	tərəfinə	qoyulmalıdır.
+Əlləri	batırmayan	bütün	ərzaqlar	(çörək,	peçenye,	suxarı,
+meyvələr	və	s.)	süfrədən	əllə	götürülür.	Qaşığı	stəkana	və	ya
+fincana	toxundurub	taqqıldatmadan	çayı	səssiz	qarışdırmaq
+lazımdır.	Masa	arxasından	hamının	eyni	zamanda	qalxması	qəbul
+olunmuşdur.	Əgər	başqalarından	əvvəl	qalxmaq	vacibdirsə,
+böyüklərdən	icazə	alaraq	qalxmaq	olar.	Masa	arxasından	stulu
+yerinə	səssiz	qoyaraq,	yeməyə	görə	təşəkkür	edərək	qalxmaq
+lazımdır.
+	 YEMƏK	SÜFRƏSİNİN
+ATRİBUTLARI
+Dərs	5 	
+Yemək	süfrəsinin
+atributlarını	sadalayın.
+Tablo	6
+Səhər	süfrəsi
+	 	 	
+Nahar	süfrəsi
+Dərs	6 	 PLASTİLİNLƏ	YAPMA
+İŞLƏRİ
+	
+PLASTİLİNDƏN	KASANIN	YAPILMASI
+Çox	qədim	zamanlarda	insanlar	müşahidə	etmişlər	ki,	gil*	islandıqda
+yumşalır	və	ondan	müxtəlif	əşyalar	yapmaq	mümkün	olur.
+İnsan	gili	xəmir	kimi	yayıb	onun	kənarlarını	qatlamış,	qurudub
+bərkidərək	öz	birinci	qabını	(kasanı)	hazırlamışdır.	O	zamanlar	gildən
+uzun	bağ	hazırlayıb	onu	spiralvarı	yapmaqla	da	qab	hazırlayırdılar.
+Dulusçu**	dəzgahı	və	gili	bişirmək	üçün	soba	kəşf	edildikdən	sonra
+qablar	daha	möhkəm	oldu.	Bişirdikdən	sonra	müxtəlif	boyalarla
+qabların	üzərini	də	bəzəyirdilər.
+Gil	təbii	materialdır,	plastilin	isə	insanın	hazırladığı	süni	yapma
+materialıdır.
+Sizcə,	bu	qabları	nə	üçün	düzəldirdilər?	Gildən	daha	hansı	qabları
+hazırlamaq	olar?
+*Gil
+—
+xırdalanmış	daş	süxurudur,	su	qatıldıqda	xəmirə	oxşar	kütlə	yaranır,
+dulusçuluq	məmulatlarında,	tikinti	və	heykəltəraşlıqda	tətbiq	edilir.
+**Dulusçu	—	saxsı	qab	hazırlayan	usta
+Plastilindən	yelkənli	qayığın	yapılması
+Siz	yelkənli	qayıq	və	ya	gəmi	görmüsünüzmü?	Onları	plastilindən
+yapa	bilərsinizmi?
+Qayığın	gövdəsini
+nədən	hazırlamaq	olar?
+Qayığın	dor	ağacını*	nədən	hazırlamaq	olar?
+1.	Qəhvəyi	plastilindən
+kürəcik	düzəltmək.	(I	və	II)
+2.	Sonra	baş	barmaqla	kürəciyin
+ortasını	sıxaraq	onu	müstəvi
+üzərində	dairə	şəklində	yaymaq.	(III
+və	IV)	
+3.	Yayılmış	dairənin	kənarlarını
+qatlayaraq	kasanı	hazırlamaq.
+Şəkildəki	yelkənli	qayıq	hansı
+hissələrdən	ibarətdir?	
+Diqqət	yetirin,	yelkəni	necə
+hazırlamaq	lazımdır?
+*Dor	ağacı	—	yelkənli	qayıqda	yelkəni	bərkitmək	üçün	şaquli	dirək
+Quraşdırma	üsulu	ilə	aşağıdakı	məmulatları	yapa
+bilərsinizmi?
+Dərs	7 	 PLASTİLİNDƏN	YAPMA
+BƏZƏKLƏR
+	
+KÜRƏCİKLƏR,	KONUŞLAR,	YARPAQLAR
+Bu	fiqurları	necə	yapmaq	olar?	Bu	naxışlarla	hansı
+məmulatları	bəzəmək	olar?
+PLASTİLİNDƏN	BURUMLAR
+Hansı	plastilin	bağdan*	burum**	yaxşı	alınar?
+*Plastilin	bağ	—	silindr	formasında	uzun	və	nazik	plastilindən	işçi
+materialdır.
+**Burum	—	burulmuş	plastilin	bağ
+PLASTİLİNDƏN	QIZILGÜLÜN	YAPILMASI
+	 DARTMA	ÜSULU	İLƏ
+YAPMA
+Dərs	8 	
+Filin	xortumu	necə	olur?	Timsahın	quyruğu	necə	olur?	Fikirləşin,
+dəvəquşunun	boynu	və	ayaqları,	zürafənin	boynu	necə	olur?	Siz
+piton	ilanı	barədə	eşitmisinizmi?	Piton	ilanı	necə	olur?
+Bu	səhifədəki	şəkillərdə	plastilini	dartma	üsulu	ilə	hazırlanmış
+fiqurları	göstərin.
+Pişik	fiqurunun	hazırlanmasında	hansı	yapma
+bəzəklərdən	istifadə	edilib?
+Pişiklər	hansı	rəngdə	olur?	Siz	plastilindən	pişik
+fiqurunu	hazırlasanız,	hansı	rənglərdən	istifadə
+edərdiniz?
+Pişik	fiqurunu	hazırlayarkən	onun	baş	və	bədən
+hissəsini	başqa	cür	necə	bəzəyərdiniz?
+Qoyun	və	kirpi	fiqurunu	yaparkən	hansı	yapma
+bəzəklərdən	istifadə	etmək	olar?
+Bu	fiqurların	hazırlanmasında	sizə	məlum	olan	daha	hansı	üsullardan
+(müxtəlif	hissələrdən	quraşdırma,	kəsmə,	yapma	bəzəklər)	istifadə
+olunub?
+Dərs	9 	
+PLASTİLİNDƏN
+QURAŞDIRMA	
+İŞLƏRİ
+	
+Kəsmə,	yayma,	dartma	emal	növlərindən	və	bəzəklərdən	istifadə
+edərək	müxtəlif	heyvan	fiqurlarını	hazırlamaq	olar.	Aşağıdakı
+şəkillərdə	göstərilən	heyvan	fiqurlarını	müxtəlif	rəngdə	plastilinlərdən
+istifadə	edərək	yapmaq	mümkündür.
+Əjdaha	fiquru İt	fiquru
+Qurbağa	fiquru
+Xoruz	fiquru
+APLİKASİYA
+APLİKASİYANIN	TARİXİNDƏN
+Aplikasiya	bəzəyin	təmələ	yapışdırılması	və	ya	tikilməsidir.	Bu,
+incəsənətin	çox	qədim	növüdür.	İnsanlar	qədim	zamanlardan
+paltarların	bəzədilməsində	aplikasiyadan	istifadə	edirlər.
+Aplikasiyadan	istifadə	edərək	yol	çantalarını,	pəncərə	şüşələrini
+(şəbəkə)	və	digər	məmulatları	da	bəzəmək	olar.
+	
+KAĞIZI	CIRMA
+ÜSULU	
+İLƏ	APLİKASİYA
+Dərs	10 	
+Kağızı	kontur	boyunca	cırdıqda	cırma	aplikasiyası	əldə	edilir.
+Onu	hansı	materiallardan	istifadə	edərək	yerinə	yetirmək
+olar?	Parçadan?	Folqadan?	Gəlin	yoxlayaq.
+Sizcə,	cırmanın	çəkilmiş	xətt	boyunca
+getməsi	üçün	barmaqları	necə
+saxlamaq	lazımdır?
+Müxtəlif	istiqamətlərdə	kağızın	çəkilmiş	xətt	boyunca	cırılmasını
+izləyin.
+Budaq	necə	hazırlanır?	
+Cırma	aplikasiya	necə	əldə	edilir?
+Yarpaqların	və	ləçəklərin	daha	yaxşı	alınması	üçün	onların	üzərində
+səliqəli	şırımlar	açmaq	olar.
+DƏNİZ	APLİKASİYASI
+Küləkdə,	tufanda	dəniz	necə
+görünür?
+Siz	hər	hansı	dəniz	görüntüsünü,	məsələn,
+çimərlik,	üzən	gəmi,	qayalı	sahil	təsvir	edə
+bilərsinizmi?
+Kağız	qat-qat	yapışdırıldıqda	cırma	üsulu
+ilə	hazırlanan	aplikasiya	hansı	təsviri
+effektləri	əldə	etməyə	imkan	verir?
+Bu	iki	işdə	ümumi	olan	nədir?	
+Bu	aplikasiyaları	hansı	ardıcıllıqla
+yapışdıracaqsınız	?
+Təməl	üçün	karton	və	ya	rəngli	kağızlardan
+istifadə	etmək	olar.
+Kağızı	cırma	üsulundan	istifadə	edərək	ağacqurdu	aplikasiyasını
+hazırlamaq	olar.
+Kalka	kağızından	və	ya	köçürmə	(cızdıqda	əksi	düşən)
+kağızdan	istifadə	edərək	detalları	başqa	vərəqə	köçürün	və
+cırma	üsulundan	istifadə	edərək	hindu	aplikasiyasını
+hazırlayın.
+MÖCÜZƏLİ
+AĞAC
+TOZAĞACI
+Tozağacında	hansı	detalları
+görürsünüz?	Ağacda	neçə	göbələk
+və	yarpaq	var?
+Göbələkləri	və	ağacın	üzərindəki
+naxışları	hansı	üsulla	hazırlamaq
+olar?
+Təməl	üçün	karton	və	ya	rəngli	kağızlardan
+istifadə	etmək	olar.
+Şəkildəki	ağaca	diqqət	yetirin.
+Möcüzəli	ağacda	olan	çiçəklər
+hansı	üsullarla	hazırlanmışdır?
+Ağacın	hazırlanmasında	neçə
+rəngdə	kağızdan	istifadə
+edilmişdir?
+Dərs	11 	 KARTON	ÜZƏRİNDƏ	
+PARÇADAN	APLİKASİYA
+	
+Sıx	toxunmamış	parça	qırıntılarını	seçin.	
+Aplikasiyanın	yerinə	yetirilmə	üsuluna	diqqət	yetirin.
+Rəqs	edən	siçan	balasının	geyimini	və	təməl	üçün	rəngi
+özünüz	seçin.	Kəsilmiş	detalları	karton	üzərinə	düzün.	
+Onları	yapıidırmaq	haqqqında	düşünün.
+Yapışdırılacaq	yerləri	qələmlə	nişanlayın.	Siçan	balasının	konturunu
+çəkin.
+Şam	ağacının	aplikasiyasının	yerinə	yetirilməsi	hansı	cəhəti
+ilə	fərqlənir?
+
+	 HƏCMLİ	APLİKASİYA Dərs	12 	
+Həcmli	aplikasiyanın	ancaq	bir	hissəsi	kartona	yapışdırılır.
+BURULMUŞ	KAĞIZDAN	APLİKASİYA
+Şəkildə	pişik	fiqurunun	necə	hazırlanmasına	diqqət	yetirin.
+Bu	məmulatda	neçə	detal	vardır?
+İşə	başlayanda	kağız	salfeti	4	yerə	bölüb	bir	hissəsini
+götürün	və	borucuq	hazırlayın	(1).	Nə	üçün	bu	işdə
+kağız	salfetdən	istifadə	edilib?	Onu	nə	ilə	əvəz	etmək
+olar?	Barmaqlarınızı	bərk	sıxaraq	kağız	salfetdən	bağ
+bükün	(2).	Sonra	bağı	buraraq	bir	tərəfinə	yapışqan
+çəkib	kartona	yapışdırın.
+İçərisində	gül	olan	dibçəyə	diqqətlə	baxın.	Güllər	hansı
+üsulla	düzəldilib?	
+Dibçəyi	necə	hazırlamaq	olar?
+Yapışdırılmış	gülləri	rəngli	flomasterlərlə	rəngləmək	olar.
+RƏNGLİ	KAĞIZDAN	HƏCMLİ
+APLİKASİYANIN	
+HAZIRLANMASI	ÜSULLARI
+Əvvəl	ucunu	(gülün	orta	hissəsini),	sonra	isə	spiralı	buraraq
+yapışdırın.	Qabarıq	və	əyilmiş	formalı	gülləri	belə
+hazırlamaq	olar.
+Kəsilmiş	detalları	əvvəlcə	əyirlər,	sonra	hissə-hissə
+yapışdırırlar.	Əksinə	etmək	olarmı?
+QIZIL	BALIĞIN	APLİKASİYASI
+Balığın	quyruğu	və	üzgəcləri	kəsilir	və	burulur.	Onları	nəyin
+köməyi	ilə	yaxşı	burmaq	olar?
+MƏN	BƏRBƏRƏM
+Siz,	yəqin	ki,	bərbərxanada	olmusunuz.	Bərbərin	necə
+işlədiyini	yadınıza	salın.
+O	hansı	alətlərdən	istifadə	edir?
+Əvvəlcə	kağızdan	«saç»	düzəltmək	üçün	eyni
+qalınlıqda	zolaqlar	kəsin.	Şəklə	baxaraq	detallar	(göz
+və	ağız)	kəsin	və	onları	yapışdırın.	Sonra	saçları
+qatlayın.
+İNƏK	BAŞININ	APLİKASİYASI
+Şəklə	diqqət	yetirin.	İnək	başının	aplikasiyası	necə
+hazırlanıb?
+İnək	başının	detallarını	kəsin.	Sonra	nə	etmək	lazımdır?
+Şəkildəki	inəyin	əhvali-ruhiyyəsi	necədir?
+Detalların	yerini	dəyişməklə	inəyin	əhvali-ruhiyyəsini	başqa	cür	də
+təsvir	edə	bilərsiniz.	İnəyin	ən	çox	xoşunuza	gələn	təsvirini	hazırlayın.
+XORUZ
+Şəklə	diqqət	yetirin.	Xoruz	nə	edir?
+Buğda	dənləyən	xoruzun	aplikasiyasını	hazırlamağa	çalışın.	Fikirləşin,
+elə	etmək	olarmı	ki,	xoruz	ancaq	dayanmasın,	həm	də	hərəkət	etsin
+—	boğazını	uzadıb	qanadlarını	çırparaq	addımlasın	və	ya	qaçsın?
+QU	QUŞLARI
+Qu	quşlarını	hazırlamaq	üçün	neçə	ülgüdən*	istifadə
+ediləcək?
+*Ülgü	—	kağızı	və	ya	parçanı	biçmək	üçün	şablon
+Quş	lələklərindən	çox	maraqlı	aplikasiyalar	hazırlamaq	olar.
+Hansı	heyvan	və	ya	quşun	aplikasiyasını	hazırlayacağınızı
+fikirləşin.	Kitablarda	və	fotolarda	onların	xarici	görünüşünə
+diqqət	yetirin.	Lazım	olan	rənglərdə	lələklər	seçin.
+Əvvəlcə	quşun	konturunu	çəkin.
+Lələklərin	necə	yapışdırılmasına	diqqət	yetirin.	Onlar	nə
+üçün	belə	yapışdırılır?	Quşun	dimdiyini	və	ayaqlarını
+flomasterlə	rəngləmək	olar.
+	
+Bunlar	hansı	canlıların	təsviridir?	
+Şəkildə	gördüklərinizin	xüsusiyyətləri	haqqında	nə
+deyə	bilərsiniz?
+Gözlərinizi	yumub	lələklərə	toxunun	və	nə	hiss	etdiyinizi	söyləyin.	Bu
+zaman	yadınıza	hansı	heyvanlar	düşür?	Onları	hazırlamaq	olarmı?
+Nə	üçün	küçük	aplikasiyası	bu	rəngdə	karton	üzərində	hazırlanıb?
+Şəkildəki	dalğaların	necə	çəkilməsinə	diqqət	yetirin.	Onların
+belə	çəkilməsi	nəyi	göstərir?
+İşə	başlamaq	üçün	hansı	lələkləri	hazırlamısınız?	Bu	lələklər
+hansı	heyvana	uyğun	gələr?	Bəlkə,	onlardan	gül,	yaxud
+mənzərə	—ağaclar,	dağlar,	və	s.	hazırlamaq	olar.	Onları
+hazırlayın.
+Dərs	13 	 MOZAİKA 	
+CIRILMIŞ	KAĞIZ	
+QIRINTILARINDAN	MOZAİKA
+Mozaika	bir	və	ya	bir	neçə	material	hissələrindən	hazırlanmış	təsvir
+və	ya	bəzəkdir.
+Qədim	Asiyada	aparılan	qazıntılar	zamanı	balıqqulağından
+hazırlanmış	hərbi	yürüşləri	təsvir	edən	mozaikalar	tapılmışdır.	Onların
+4600	illik	tarixi	var.
+Qədim	Romada	yaşayan	varlı	adamlar	öz	evlərinin	döşəmələrini	və
+divarlarını	rəngli	daş	lövhələrlə	bəzəyirdilər.
+Ecazkar	gözəlliyə	malik	mozaikalar	qədim	Bizansda	da	yaradılmışdır.
+Şəkillər	müxtəlif	rəngli	şüşə	qırıntılarından	düzəldilirdi.	Müxtəlif
+formalı	qırıntılar	hamar	olmayan	səthlər	yaradırdı.	Bu	səthə	işıq
+şüaları	düşəndə	qırıntılar	bərq	vururdu.
+İÇƏRİSİNDƏ	GÜL	OLAN	GÜLDAN
+Necə	güldan	hazırlamaq	istəyirsiniz?	Bəyəndiyiniz	güldanı
+seçin.
+Güldanın	formasını,	onun	enini	və	hündürlüyünü	təyin	edin.
+Hündürlük	güldana	qoyacağınız	gülün	yarısından	çox
+olmamalıdır.
+Seçdiyiniz	güldanın	konturunu	ağ	və	ya	rəngli	kağıza	köçürərək	kəsin.
+Kəsdiyiniz	güldanı	qalın	kağıza	köçürün.	Bu,	sizin	güldanınızın	təməli
+olacaq.	Konturu	təmələ,	güldanı	isə	kontura	yapışdırın.
+İlin	müxtəlif	fəsillərində	güldana	hansı	gülləri	qoyacaqsınız?
+Yuxarıdakı	şəklə	diqqət	yetirin,	bu	mozaika	nədən
+hazırlanıb?
+Mozaikanı	necə	hazırlamaq	yaxşıdır	—	hissələri	bir-bir	yapışdırmaqla,
+yoxsa	təməlin	bütöv	hissəsinə	yapışqan	sürtərək	yapışdırmaqla?
+Fikirləşin,	təqdim	olunan	materialları	nə	ilə	əvəz	etmək	olar?
+	
+KAĞIZ	BÜZMƏDƏN
+HƏCMLİ	
+MOZAİKA
+Dərs	14
+BUDAQDA	BAYQUŞ
+Bayquş	mozaikasına	diqqətlə	baxın.	O	nədən	və	necə
+hazırlanıb?
+İşi	yerinə	yetirmək	üçün	hansı	rəngdə	kağız	seçəcəksiniz?
+Çoxlu	sayda	eyni	lələyi	tez	necə	kəsmək	olar?
+
+Budaq	üçün	detal	Qaşlar	və	dimdik	üçün	detal
+Budağın	hissələrini	kəsmək	yox,	əllə	qoparmaq	yaxşıdır.	Nə
+üçün?
+Əvvəlcə	budağın	hissələrini	yapışdırın.	Sonra	bayquşun
+bədənini,	aşağıdan	yuxarıya	doğru	baş	və	göz	ətrafındakı
+lələkləri,	qaşları	və	dimdiyi	yapışdırın.	Sinəyə	lələkləri
+qabarıq	səthi	yuxarı,	qanadlara	və	başa	isə	qabarıq	səthi
+aşağı	halda	yapışdırın.
+Sizcə,	detalları	nə	üçün	məhz	bu	qaydada	yapışdırmaq
+lazımdır?
+Diqqət	yetirin,	növbəti	sırada	yapışdırılacaq	lələklər	əvvəlki
+sıradakılardan	hansı	məsafədə	yapışdırılmalıdır?
+Lələklər	və	budaq	üçün	götürülmüş	detalların	forması	sizə
+nəyi	xatırladır?	Bu	detallardan	hansı	fiquru	düzəltmisiniz?
+KARANDAŞ	YONQARLARINDAN	MOZAİKA
+Karandaş	yonmaq	üçün	karandaşyonanı	götürün.	Səthi	düz
+və	tilli	karandaşları	seçin.	Bu	karandaşların	yonqarı	bir-
+birindən	nə	ilə	fərqlənir?
+Aşağıdakı	təsvirdə	karnaval	geyimində	hansı	rəngdə
+karandaş	yonqarlarından	istifadə	edildiyini
+müəyyənləşdirin.
+Uzun	və	eyni	cür	yonqarlar	almağa	çalışın.
+Karandaş	yonqarlarından	istifadə	edərək	mozaikasını
+hazırlaya	biləcəyiniz	fiquru	seçin:	qurbağa,	fil,	küknar	ağacı,
+kəpənək,	evcik	və	s.
+Əvvəlki	dərslərdən	əldə	etdiyiniz	təcrübə	əsasında	karandaş
+yonqarlarından	çəmənlikdə	güllər	mozaikasını	hazırlayın.
+Dərs	15 	 YUMURTA	QABIĞINDAN	
+HƏCMLİ	MOZAİKA
+	
+XORUZ
+Bu	mozaikanı	düzəltmək	üçün	sizə	ağ	və	açıq-qəhvəyi	rəngli	üç-dörd
+yumurtanın	qabığı,	açıq	rəngli	plastilin	lazım	olacaq.
+
+Təməl	üçün	yoğurt	stəkanını	götürmək	olar.	Plastilini	yoğurt
+stəkanına	yapın.	Yumurta	qabığını	qabarıq	tərəfi	yuxarıda	olmaqla
+təmələ	yapışdırın.
+Akvariumda	balıqlar
+Üzərinə	plastilin	yaxılmış	müstəvi	təməldə	də	mozaika	hazırlamaq
+olar.	Yumurta	qabığını	nəzərdə	tutulmuş	şəkil	boyu	kartona
+yapışdıraraq	onu	quaşla	rəngləmək	olar.	Akvariumda	balıqlar
+mozaikası	bu	üsulla	hazırlanır.
+	
+ƏZİLMİŞ	QƏZET
+HİSSƏLƏRİNDƏN	
+HƏCMLİ	MOZAİKA
+Dərs	16
+QOYUN
+Şəkildəki	hansı	heyvandır?	
+O	şəndir,	yoxsa	qəmgindir?	
+O	nədən	və	necə	hazırlanıb?
+Köhnə	qəzetdən	hissələr	kəsin.	Onların	hansı	ölçüdə
+olacağını	müəyyənləşdirin.
+Rəngli	büzmə	kağızdan,	parçadan,	kağız	salfetdən,	folqadan
+əzilmiş	hissələr	hazırlayın.	Onlardan	hansı	məmulatların
+hazırlanmasında	istifadə	etmək	olar?
+POROLON 	HİSSƏLƏRİNDƏN	MOZAİKA
+MORUQ
+Təməl	olaraq	şokoladlı	yumurtanın	(kinderin)	plastik	qutusundan	-
+futlyarından	istifadə	edin.
+Qutunun	hissələrini	birləşdirin.	Üzərinə	plastilin	yaxın	və
+porolon	qırıqlarını	onun	üzərinə	möhkəm	sıxın.
+Bu	texnologiyadan	istifadə	edərək	başqa	oyuncaqlar,
+*
+məsələn,	cücə	oyuncağını	hazırlamaq	üzərində	fikirləşin.
+*	Porolon	—	süni	elastik	material
+KAĞIZQATLAMA,	HÖRMƏ,	TİKMƏ	VƏ	
+NAXIŞTİKMƏ
+KAĞIZQATLAMANIN	TARİXİNDƏN
+Kağızqatlamanın	tarixi	kağızın	kəşfindən	başlayır.	Bu,	1800	il	bundan
+əvvəl	Çində	baş	vermişdir.	Kağızın	qatlanmasından	pər	dələr,
+yelpiklər	yaranmışdır.
+Kağızı	qatlamaqla	bədii	məmulatları	ilk	dəfə
+Yaponiyada	hazırlamağa	başladılar.	Kağız	fiqurlar
+bu	ölkədə	indi	də	çox	yayılmışdır.	Onlardan
+bayramlarda	və	gündəlik	həyatda	geniş	istifadə
+edilir.
+Yaponiyada	«Qızlar	günü»ndə	(Kukla	bayramı	—
+3	mart)	imperatorun,	«Oğlanlar	günü»ndə	isə	(5
+may)	karp	balığının	kağız	fiquru	gücün	və
+qəhrəmanlığın	simvolu	kimi	nümayiş	etdirilir.
+Kağızdan
+imperator	
+fiquru
+Kağızdan	karp	
+balığının	fiquru
+Kağızdan	durna	
+fiquru
+QATLAMADA	İSTİFADƏ	OLUNAN	ŞƏRTİ
+İŞARƏLƏR
+«Dərə»	qatlaması
+«Bükmə»	qatlaması
+Daxilə	qatlama
+«Dağ»	qatlaması
+Digər	tərəfə	çevirmə
+Xaricə	qatlama
+Qatlama	üsulundan	istifadə	edərək	çoxlu
+fiqurlar	hazırlamaq	olar.
+Məsələn,	kvadratı	aşağıdakı	üsulla
+qatlayaraq	«Su	qurbağası»	adlanan
+formanı	əldə	etmək	olar.
+	 KAĞIZDAN	BÜZMƏNİN
+QATLANMASI
+Dərs	17
+KƏPƏNƏK
+Şəkildəki	kəpənəklərə	diqqətlə	baxın.	Xarici	görünüşlərində
+oxşar	və	fərqli	cəhətləri	müəyyənləşdirin.
+Müxtəlif	həndəsi	fiqurları	qatlayaraq	büzmə	hazırlayın.
+Qatlamanın	hansı	formada	yerinə	yetirilməsi	oxlarla
+göstərilmişdir.
+Kəpənək	fiqurlarının	hazırlanmasına	diqqət	yetirin.
+Onları	hansı	kağızdan	hazırlamaq	olar?	Kvadratı	(yuxarıda)
+və	dairəni	(aşağıda)	birləşdirsək,	belə	bir	kəpənək	alınar.
+Kəpənəklərin	detallarının	necə	birləşdirilməsinə	diqqət
+yetirin.	Sizcə,	şəkildəki	kəpənəklərdə	hansı	fiqurlar	(hissələr)
+birləşdirilib?
+İki	eyni	fiquru	da	birləşdirmək	olar.
+Kəpənəklərdən	başqa,	bu	üsulla	daha	nə	hazırlamaq	olar?
+	 KVADRAT	KAĞIZDAN
+BALIQ	FİQURU
+Dərs	18 	
+Kvadratın	qatlanma	üsullarına	baxın.	Onu	necə
+qatlamaq	olar?
+
+Bu	forma	əvvəlkindən	fərqlidirmi?
+Həmin	formadan	qurbağa	hazırlamağa	çalışın.	İş	qaydası
+əvvəlki	kimidir.
+Əgər	qurbağa	fiqurunu	arxası	üstə	çevirsək,	nə	fiquru
+alarıq?
+«Su	qurbağası»	fiqurunun	hazırlanma	qaydası	ilə	başqa
+fiqurlar	düzəltməyə	çalışın.
+
+	 KVADRAT	KAĞIZDAN
+TUTUQUŞU	FİQURU
+Dərs	19 	
+Sizcə,	aşağıda	gördüyünüz	hansı	quşun	fiqurudur?	
+Əgər	tutuquşudursa,	onda	açıq	rəngli	kağız	seçin.	
+Tutuquşuların	hansı	növlərini	tanıyırsınız?
+
+HÖRMƏ
+Hörmə	insanların	ən	qədim	kəşflərindən	biridir.	Şəkillərdəki	əşyalara
+diqqət	yetirin	və	onların	adını	söyləyin.
+Evinizdə	hörmə	məmulatlarının	olub-olmamasına	diqqət
+edin.
+Onların	adını	müəyyənləşdirin.
+	
+ÇƏPİNƏ
+DÖRDSIRALI
+HÖRMƏ
+Dərs	20 	
+Dörd	müxtəlif	rəngli	ipi	aşağıdakı	şəkildə	bağlayın	və	onları
+yapışqanlı	lentlə	(skotçla)	təmələ	bərkidin.
+Şəkildə	hansı	hörüklərin	kəsişdiyini	söyləyin.	Sağ	hörüyün
+həmişə	harada	yerləşməsinə	diqqət	yetirin.	Kəsişmə	zamanı
+sağ	hörük	üstə	düşməlidir.
+TOXUNMA	İNSAN	FİQURU
+İnsan	fiquruna	diqqət	edin.	O	necə	hazırlanıb?	Hörükcükləri
+hansı	ölçüdə	hörmək	lazımdır?
+Necə	bilirsiniz,	insan	fiqurunu	hansı	materiallardan	hörmək
+olar?	Onun	geyimini	nədən	düzəltmək	olar?
+
+Dərs	21 	 KAĞIZ	ZOLAQLARINDAN	
+DÜZÜNƏ	HÖRMƏ
+	
+Nişanlamanı	düzünə	və	çəpinə	aparmaq	olar.	Onun	necə
+aparılmasına	və	nə	ilə	fərqləndiyinə	baxaq.
+Kağız	zolaqlarının	necə	hörülməsinə	diqqət	edin.
+Belə	hörmə	şahmat	hörməsi	adlanır.	Nə	üçün?	
+Bu	işi	hansı	kağızla	yerinə	yetirmək	olar?
+Bundan	başqa,	zolaq,	düzbucaqlı,	kvadrat	naxışlar	hörmək	olar.
+Naxışın	təkrarlanan	fraqmenti	motiv	adlanır.
+Bu	numünələrdə	motivləri	tapın.	Təməlin	enini	və
+uzununu	nəzərə	alın.
+Nişanlamanı	necə	aparmaq	haqqında	fikirləşin.
+HÖRMƏ	ŞƏKİLLƏR
+Dairəvi	və	oval	formalı	təməllərin	necə	nişanlanması
+haqqında	düşünün.	Seçdiyiniz	şəkil	üçün	lazım	olan
+qədər	zolaq	hazırlayın.	Diqqət	edin	ki,	bütün	zolaqlar
+eyni	ölçüdə	olsun.	Sonra	zolaqların	arxa	tərəfini
+təmələ	yapışdırın.
+
+HASAR	FİQURUNUN	HÖRÜLMƏSİ
+Həyət	evlərinin	ətrafında	hasarlar	hörülür.	Hasarı	hörərkən
+əsas	material	kimi	nədən	istifadə	edilir?
+Müasir	zamanda	evlərin	ətrafına	çəkilən	hasarları	daşlardan
+hörürlər.	Hörmə	üsulu	ilə	hasarların	fiqurlarını	kağızdan	da
+düzəltmək	mümkündür.
+Aşağıdakı	şəkillərə	diqqət	yetirin,	hörmə	üçün	təməlin	necə
+hazırlandığını	söyləyin.	Nə	üçün	zolaqların	yuxarı	hissəsi	bu
+cür	kəsilir?
+Sarı	zolaqlarda	böyük	olmayan	arakəsmələr	qoyaraq
+kağızdan	hasarı	hörün.
+Adətən,	hasarın	dibində	hansı	bitkilər	əkilir?
+Hasarı	daşdan	başqa	daha	hansı	materialdan
+hörmək	olar?	Hasarın	dibinə	hansı	bitkinin	əkilməsi
+məsləhətdir?
+TİKMƏ	VƏ	NAXIŞSALMA
+Qədim	insanlar	soyuqdan	qorunmaq	üçün	sümük	iynələrin	köməyi
+ilə	özlərinə	vəhşi	heyvan	dərilərindən	geyim	əşyaları	tikirdilər.	Sap
+əvəzinə	heyvanların	damarlarından	istifadə	edirdilər.
+Sonralar	geyimin	bəzədilməsi	üçün	naxışsalma	meydana	gəldi.
+Şəkildəki	iynələrdən	nə	məqsədlə	istifadə
+edilir?
+Yunu	əyirmək	və
+burmaqla	sap	əldə
+edirdilər.
+Saplardan	xüsusi	dəzgahlarda	parça
+toxuyurdular.
+
+TİKMƏ	VƏ	NAXIŞTİKMƏ	LƏVAZİMATI.	
+PARÇALARIN	ALINMASI
+Şəkildəki	hər	bir	əşya	nə	üçün	istifadə	edilir?
+Heyvan	və	bitki	mənşəli	təbii	liflərdən	alınan	parçalar	üçün	saplar
+istehsal	olunur.
+
+Dərs	22 	 DÜZ	XƏTT	BOYUNCA
+TİKMƏ
+	
+Nə	etmək	lazımdır?
+1.	 Xətkeş	vasitəsilə	tikişlərin	uzunluğunu	parça	üzərində
+nişanlamaq	və	iynəni	saplamaq.
+2.	 İynəqabağı	tikmə	üsulu	ilə	nişanlanmış	nöqtələr	boyunca	tikmək.
+3.	 Parça	arxasında	sapı	bərkitmək.
+4.	 Məmulatı	saçaqlarla	bəzəmək.
+Fikirləşin,	nə	üçün	bu	tikiş	belə	adlanır?
+
+Parçada	zolaqları	almaq	üçün	iynəni	sapa	keçirin	və	sapı
+dartın.
+İynəqabağı	tikişdən	istifadə	edərək	parça	üzərinə	gözəl	naxış	salmaq
+olar.
+Şəkildə	göstərilən	tikişləri	yerinə	yetirin.
+Qoşa	iynəqabağı	tikmə
+
+Dərs	23 	 ƏYRİ	XƏTLƏR	BOYUNCA	
+NAXIŞTİKMƏ
+	
+Yığdığınız	parça	hissələrinə	nəzər	yetirin.	Onlarda	əyrixətli
+təsvirlər	varmı?	Parçaya	uyğun	hansı	saplardan	istifadə
+edəcəyinizi	dəqiqləşdirin.
+Aşağıdakı	təsvirlərin	konturlarını	parça	üzərinə	hansı
+üsulla	köçürmək	olar?	Parçadan	necə	istifadə	etmək
+lazımdır?
+Naxışlar	bir	neçə	sıra	tikişlə	salınır.	
+Necə	düşünürsünüz,	ikinci	və	üçüncü	sıra	tikişlər	konturun
+hansı	hissəsində	—	daxili,	yoxsa	xarici	hissəsində	salınır?
+Şəkli	kəsərkən	parça	nə	üçün	ikiqat	qatlanır?	Bu
+üsulla	hansı	fiqurları	kəsmək	olar?
+Fon	üçün	seçilmiş	parça	haqqında	nə	demək	olar?
+Şəklin	kənarından	məsafə	buraxaraq	naxışsalmanı	yerinə
+yetirin.	Bu	məsafə	nə	
+üçün	qoyulur?
+Şəkillərdəki	naxışlarla	hədiyyə	torbacıqlarını,
+iynəqabını	bəzəmək	olar.	Daha	nəyi	bəzəmək	olar?
+
+DÜYMƏ	TİKİRİK
+Köynəyinin	düyməsi	qopan	adam	nə	etməlidir?
+Siz	düymə	tikə	bilirsinizmi?	Bunun	üçün	nə	lazımdır?
+Düyməni	tikmək	üçün	necə	sap	seçmək	lazımdır	və	nə
+üçün?	Şəkildə	gördüyünüz	düymələrdən	hansılarını
+tanıyırsınız?	Onlar	bir-birindən	nə	ilə	fərqlənir?
+4.	Sonra	kibrit	çöpünü	çıxarrn	və	sapı	düymənin	arxasında	fırladıb
+Müasir	düymələr
+Bu	düymələrdən
+bəylərin,	xanların
+geyimlərim	bəzəmək
+üçün	istifadə	olunurdu.
+1.	Sapı	ikiqat
+edib	ucunu
+düyünləyin.
+2.	Düyməni	tikməyə
+başlayın.
+3.	Sapdan	ayaqcıq
+qoymaq	üçün
+düymə	ilə	köynək
+arasına	kibrit	çöpü
+qoyun	və	düyməni
+sonadək	tikin.
+4.	Sonra	kibrit	çöpünü	çıxarrn	və	sapı	düymənin	arxasında	fırladıb
+bərkidin.
+Üç	dəliyi	olan	düyməni	necə	tikirsiniz?
+ÇİÇƏKLİ	ÇƏMƏNLİK
+Yaşıl	rəngli	parçadan	təməl	(çəmənlik)	kəsin.	Müxtəlif
+rəngdə	parçalardan	gül	fiqurları	kəsərək	ortasına	düymələr
+qoyub,	sapla	təmələ	bərkidin	(tikin).
+Gülləriniz	çəmənlikdə	necə	görünür?
+Rəngli	kağızlardan	da	istifadə	edərək	çiçəkli	çəmən	hazırlamaq	olar.
+ZƏNBİL
+Əvvəlki	mövzularda	öyrəndiklərinizi	yadınıza	salın.
+Şəkildəki	zənbilin	dəstəyini	nədən	hazırlamaq	olar?
+Onu	necə	bərkitmək	lazımdır?
+Göbələk	və	güllər	parçaya	necə	bərkidilib?	
+Göbələk Yağış
+Hazırladığınız	işlər	üçün	çərçivə	düzəldin.
+MODELLƏŞDİRMƏ
+	
+TEXNOLOJİ	MAŞINLAR
+VƏ	
+VASİTƏLƏR,	MƏİŞƏT
+TEXNİKASI
+Dərs	24
+Texnoloji	vasitə
+dedikdə	nə	başa
+düşürsünüz?	
+Şəkillərdə	hansı
+texnoloji	maşınlar	öz	əksini	tapıb?	
+Məişətdə	hansı	texnika	növlərindən	istifadə	edilir?
+Tablo	7
+	 	 	
+
+Dərs	25 	 BƏDİİ	OBRAZLARIN	
+MODELLƏŞDİRİLMƏSİ
+	
+CANAVAR	FİQURU
+Şəkildəki	canavar	oyuncağını	hazırlamaq	üçün	iki	ədəd
+uyğun	karton	qutu	seçin.
+Gördüyünüz	oyuncağı	düzəltmək	üçün	bu
+qutulardan	necə	istifadə	olunması	haqqında
+düşünün.	Canavar	necə	heyvandır?	Siz
+canavar	haqqında	nə	bilirsiniz?
+	 KAĞIZDAN	HƏCMLİ	
+MODELLƏŞDİRMƏ
+Dərs	26 	
+DOVŞAN	FİQURU
+Uzunluğu	30	sm,	eni	2	sm	olan	kağız	zolağı	kəsin.
+Şəklə	diqqətlə	baxın	və	ona	uyğun	qaydada	bütün	əyrilikləri
+ardıcıllıqla	qatlayaraq	sancaqlarla	birləşdirin.	Dovşanın
+formasını	aldıqdan	sonra	sancaqları	bir-bir	çıxarın	və
+birləşmə	yerlərini	yapışqanla	yapışdırın.	Dovşanın	sifətini
+flomasterlə	çəkin,	qulaqlarında	və	ayaqlarında	qayçı	ilə
+yarıqlar	kəsin.
+Pişik	və	ya	tülkünü	də	həmin	üsulla
+hazırlaya	bilərsinizmi?	Onlar	nə	ilə
+fərqlənəcək?
+Zolağı	əymədən	onu	qatlamaqla	da
+fiqurlar	hazırlamaq	olar.	
+Uzunluğu	30	sm,	eni	3	sm	olan	kağız
+zolağı	hazırlayın.	Zolağı	üç	hissəyə
+bərabər	bölməklə	hər	hissəni	yarıdan
+qatlayın.	Zolaq	8	hissəyə	bölünəcək.
+Fiqurun	qatlanmasına	diqqət	yetirin.
+Siz	hansı	fiquru	hazırladınız?
+Bu	üsullarla	başqa	hansı	fiquru	hazırlaya	bilərsiniz?
+Siz	şəkildəki	personajları	tanıyırsınızmı?	
+Onları	harada	görmüsünüz?
+Gördüyünüz	məmulatları	hazırlamaq	üçün	hansı
+qutulardan	istifadə	etmək	olar?
+Bu	personajlara	nağıllarda	və	ya	cizgi	filmlərində	rast
+gəlmisinizmi?	
+Onların	adını	söyləyin.
+	
+MİNİK
+AVTOMOBİLİNİN	
+MAKETİ
+Dərs	27 	
+5.	Maket	və	model	hansı	cəhətlərinə	görə	bir-birindən
+fərqlənir?
+1.	Təyinatına	görə
+avtomobillər	neçə	cür	olur?
+2.	Hansı	markalı	minik
+avtomobillərini	tanıyırsınız?
+3.	Şəklə	diqqət	yetirin,
+avtomobil	hansı	əsas
+hissələrdən	ibarətdir?
+4.	Minik	avtomobilinin
+ülgüsünü	kəsərək	onu
+hazırlayın.
+Hazırladığınız	maketdir,	yoxsa	model?	Nəyə	görə?
+

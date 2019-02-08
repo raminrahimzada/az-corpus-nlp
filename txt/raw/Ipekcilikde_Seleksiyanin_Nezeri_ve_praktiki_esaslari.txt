@@ -1,0 +1,4206 @@
+B.H.ABBASOV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+İPƏKÇİLİKDƏ  SELEKSİYANIN 
+NƏZƏRİ  VƏ  PRAKTİKİ 
+ƏSASLARI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GƏNCƏ   2009 
+ 
+ 2 
+ 
+R.A.Hüseynov adına Azərbayjan Elmi-Tədqiqat İpəkçilik İnstitutunun 
+Elmi Şurasının qərarı ilə (protokol № 10 , 07 dekabr 2009-ju il)  nəşr 
+olunur 
+ 
+ 
+ 
+Elmi redaktor: k.-t. elmləri doktoru, professor  Q.Q.Abdullayev 
+ 
+ 
+Rəyçilər: biologiya elmləri doktoru, professor B.B.Xəlilov 
+ 
+   biologiya elmləri namizədi, dosent A.J.Qulubəyova 
+ 
+ 
+ 
+UOT 638.22:575.1 
+ 
+ 
+ABBASOV B.H. İpəkçilikdə seleksiyanın nəzəri və praktiki 
+əsasları. Gənjə:  İlkin MMJ, 2009, 277 s. 
+ 
+Kitabda tut ipəkqurdu seleksiyasının müasir nəzəri əsaslarından və 
+metodlarından, o jümlədən klassik və xüsusi genetik metodlarından, seçmənin və 
+heterozisin genetik əsaslarından, seleksiya proqramlarının optimallaşdırıl-masından, 
+ipəkçilikdə seleksiyanın əsas istiqamətlərindən və Azərbayjanda əl-də  olunmuş 
+seleksiya nailiyyətlərindən ətraflı bəhs edilir. 
+Kitab seleksiyaçılar, elmi işçilər, doktorantlar və damazlıq mütəxəs-sisləri 
+üçün nəzərdə tutulmuşdur. Kitabdan zootexniklər, entomoloqlar, bio-loqlar və 
+genetiklər də istifadə edə bilərlər. 
+ 
+ 
+ 
+İSBN  978-9952-29-041-3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+MÜNDƏRİJAT 
+ 
+ 
+GİRİŞ…………………………………………………………. 5 
+I  FƏSİL.  İPƏKÇİLİKDƏ SELEKSİYA METODLARI………….  8 
+ 1. Tut ipəkqurdunun seleksiya obyekti kimi bəzi spesifik  
+    bioloci xüsusiyyətləri………………………………………………..   8 
+2. Tut ipəkqurdunun yetişdirilmə (çoxaldılma) metodları…………. 12 
+   2.1. Jinsdaxili çoxaldılma (inbridinq, autbridinq)……………………….  13 
+   2.2. Jinsarası çoxaldılma (çarpazlaşdırma)………………........................ 21 
+3. Analitik və sintetik seleksiya ………………………………………25  
+    3.1. Analitik  seleksiya ……………………………………………………..26 
+    3.2. Sintetik seleksiya ………………………………………………………35 
+II  FƏSİL. SELEKSİYANIN VƏ  ÇOXALDILMANIN   
+  XÜSUSİ GENETİK  METODLARI………………………………48 
+1. Süni  partenogenez………………………………………………… 49 
+2. Süni  ginogenez…………………………………………………….  57 
+3.  Süni  androgenez………………………………………………….. 60 
+4. Ekspeimental  poliploidiya………………………………………..  62 
+5. Klonlaşdırma………………………………………………………..67 
+III  FƏSİL. İPƏKÇİLİKDƏ  SEÇMƏNİN  GENETİK         
+ƏSASLARI………………………………………………………… …74 
+1.  Seçmənin  forma  və  metodları……………………………………75 
+2. Tut ipəkqurdunun təsərrüfat dəyərli seçmə əlamətləri…………..  83 
+   2.1. Keyfiyyət əlamətləri……………………………………………………  84 
+   2.2. Kəmiyyət əlamətləri………………………………….........................   88 
+3. Seçmənin genetik parametrləri……………………....................... 93 
+   3.1. Tut ipəkqurdunun təsərrüfat dəyərli seçmə əlamətlərinin 
+           fenotipik dəyişkənliyi…………………………………………………..95 
+   3.2. Tut ipəkqurdunun təsərrüfat dəyərli seçmə əlamətlərinin  
+          irsən keçməsi…………………………………………………………..114 
+   3.3. Tut ipəkqurdunun təsərrüfat dəyərli seçmə əlamətləri arasında 
+           fenotipik və genetik  korrelyasiyalar………………………………..125 
+IV FƏSİL.  İPƏKÇİLİKDƏ  HİBRİDLƏŞDİRMƏ  VƏ                  
+HETEROZİS……………………………………….........................136 
+1. Heterozisin genetik əsasları ………………………………………138 
+2. Tut ipəkqurdu hibridlərində heterozis effektinin öyrənilməsi…..140 
+V. FƏSİL. İPƏKÇİLİKDƏ SELEKSİYANIN ƏSAS  
+ İSTİQAMƏTLƏRİ………………………………………………….146 
+1. Seleksiyanın  ənənəvi  istiqamətləri……………………………….147 
+ 4 
+   1.1. Yaşama qabiliyyətinə görə seleksiya…………………………………147 
+   1.2. Baramanın bioloci və texnoloci əlamətlərinə görə seleksiya…………149 
+   1.3. Xəstəliklərə dözümlülüyə görə seleksiya…………………………….  152 
+   1.4. Yemin ödənilməsinə görə seleksiya…………………………………...154                    
+   1.5. Jinsiyyətin genetik nişanələnməsinə görə seleksiya………………….155 
+2. Seleksiyanın yeni istiqaməti – adaptiv seleksiya………………… 159 
+    2.1. Tut ipəkqurdunun adaptiv seleksiyasının elmi-metodiki əsasları…. 161 
+    2.2. Tut ipəkqurdunun adaptiv seleksiya metodları…………………….  171 
+VI  FƏSİL. İPƏKÇİLİKDƏ  SELEKSİYA PROQRAMLARININ  
+  OPTİMALLAŞDIRILMASI………………………………………180 
+1. Tut ipəkqurdu jinslərinin və hibridlərinin optimal hipotetik 
+     modeli……………………………………………………………... 181   
+2. Seleksiya populyasiyasının və nümunələrin həjminin qabaqjadan  
+    planlaşdırılması…………………………………………………….184                           
+    2.1. Məsələnin ümumi qoyuluşu…………………………………………  185 
+    2.2. Ailələrdən nümunə üçün götürülən baramaların zəruri minimal 
+          miqdarının təyin olunması……………………………………….........188 
+    2.3. Seleksiya materialında ailələrin zəruri minimal miqdarının təyin   
+          olunması………………………………………………………………. 193 
+3. Ailələrin və fərdlərin genotipinə görə qiymətləndirilməsi və 
+    seçilməsi metodikası………………………………………………197 
+   3.1. Metodikanın  ilkin  şərtləri…………………………………………...198 
+   3.2. Metodikanın ümumi müddəaları…………………………………....199 
+   3.3. Genotipin qiymətləndirilməsində istifadə olunan parametrlərin 
+          hesablanma alqoritmi………………………………………………...201   
+   3.4. Ailələrin  genotipinin qiymətləndirilməsi və seçilməsi alqoritmi…..204 
+   3.5. Fərdlərin  genotipinin qiymətləndirilməsi və seçilməsi alqoritmi …206 
+4. Tut ipəkqurdu jinslərinin və hibridlərinin kompleks  
+     qiymətləndirilməsi metodları…………………………………….207 
+4.1. Tut ipəkqurdu jinslərinin və hibridlərinin ekoloci dözümlülüyü   
+      nəzərə alınmaqla kompleks qiymətləndirilməsi………………………..215  
+5. Yeni tut ipəkqurdu jinslərinin və hibridlərinin 
+      iqtisadi səmərəliliyinin təyin olunması metodikası…………….221 
+VII FƏSİL.  AZƏRBAYJANDA  TUT  İPƏKQURDU  
+SELEKSİYASININ  NAİLİYYƏTLƏRİ………………………… 227 
+1. 1946-1970-ji illərdə yaradılmış jinslər……………………………231 
+2. 1971-1990-jı illərdə yaradılmış jinslər……………………………234 
+3. 1991-2009-ju illərdə yaradılmış jinslər…………………………...244 
+ƏLAVƏ ……………………………………………………………….249 
+ƏDƏBİYYAT………………………………………………………...250 
+MÜƏLLİF  HAQQINDA MƏLUMAT……………………………274 
+ 
+ 5 
+ 
+  
+    Görkəmli  ipəkçi alim, istedadlı seleksiyaçı və  
+                                              pedaqoq  prof.   R.A.Hüseynovun  unudulmaz   
+                                             xatirəsinə ithaf olunur. 
+ 
+ 
+G İ R İ Ş 
+ 
+ İpəkçilik 5 min il bundan əvvəl, qədim Çində vəhşi 
+ipəkqurdunun baramasından ipək sap almağın mümkünlü-yü 
+aşkar olunduqdan sonra yaranmış və sonalar dünyanın bir çox 
+ölkələrinə yayılmışdır. Tut ipəkqurdu Azərbayjana eramızın V 
+əsrində gətirilmişdir [47, s. 14]. Beləliklə, insan-lar, çox qədim 
+zamanlardan, təbii ipəkdən qiymətli toxuçuluq materialı kimi, 
+müxtəlif geyimlər, yatajaq və digər məişət əşyalarının 
+hazırlanmasında istifadə etməyə başlamışlar.  
+ Müasir dövrdə isə təbii ipəkdən, bir sıra qiymətli və 
+əvəzedilməz xüsusiyyətlərinə (gigiyenikliyi, elastikliyi, izolə-
+edijiliyi, möhkəmliyi, oda davamlılığı və s.) görə, təkjə to-
+xujuluq sənayesində deyil, həm də radiotexnika və elektro-
+texnikada, musiqi alətləri, dəqiq jihazlar və kabel istehsa-lında, 
+aviasiya və kosmonavtikada, kinematoqrafiyada, jərrahiyyədə, 
+o jümlədən göz jərrahiyyəsində geniş istifadə olunur. Bu isə 
+dünya bazarında təbii ipəyə olan tələbatı durmadan artırır. 
+Buna görə də, ənənəvi ipəkçilik ölkələri ilə yanaşı dünyanın 
+bir sıra yeni ölkələrində də ipəkçiliyi inkişaf etdirməyə 
+çalışırlar [191]. 
+ Kənd təsərrüfatı istehsalının dünya praktikası göstər-
+mişdir ki, bitkiçiliyin, heyvandarlığın və ipəkçiliyin davamlı 
+inkişafında və məhsul istehsalının intensiv yolla artırılmasında 
+seleksiya vasitəsilə yaradılan sortların, jinslərin və hibridlərin 
+məhsuldarlığı çox mühüm rol oynayır. Odur ki, bütün ipəkçilik 
+ölkələrində tut ipəkqurdu seleksiyasının elmi əsaslarının 
+inkişaf etdirilməsi aktual bir problem kimi daim diqqət 
+mərkəzində saxlanılır. 
+ 6 
+ İnsanlar mədəni bitkilərin və ev heyvanlarının yaxşılaş-
+dırılması (seleksiyası) ilə çox qədim zamanlardan məşğul 
+olublar. Lakin, seleksiyanın elmi əsasları yalnız XIX əsrin 
+ikinji yarısında, görkəmli ingilis alimi Ç.Darvinin fundamental 
+əsərləri [99, 100] sayəsində yarandı. Bir çox ölkələrin 
+çoxəsrlik bitkiçilik və heyvandarlıq praktikasında toplanmış 
+faktların dərin analizi və ümumiləşdirilməsi əsasında özünün 
+məşhur təkamül nəzəriyyəsini 3 əsas prinsip – dəyişkənlik, 
+irsiyyət və seçmə üzərində yaradan Darvin belə bir mühüm 
+nətijəyə gəldi ki, ev heyvanlarının və mədəni bitkilərin 
+yaxşılaşdırılmasının əsas hərəkətveriji qüvvəsi süni seçmədir. 
+Bununla yanaşı o, seçmənin yeni formalar yaratmasında irsi 
+dəyişkənliyin və çarpazlaşdırmanın müs-təsna rolunu da açıb 
+göstərdi. Beləliklə, Darvin ilk dəfə ola-raq seleksiyanı jiddi 
+elmi əsaslar üzərinə qoydu. 
+ Seleksiya elminin sonrakı inkişafına ötən əsrin əvvə-
+lində genetikanın yaranması və inkişafı çox güjlü təkan verdi. 
+Mendelin irsiyyət qanunlarının yenidən kəşfindən sonra 
+heyvanların keyfiyyət əlamətlərinin genetikasının inkişafı bir 
+çox heyvan növləri (məs.: qaragül qoyunlar, xəz dərili 
+heyvanlar və s.) üzərində keyfiyyət əlamətlərinə görə seleksiya 
+uğurlarının qazanılmasına, o jümlədən tut ipəkqurdunun rəngli 
+barama sarıyan köhnə jinslərinin əvəzinə yeni ağbaramalı 
+jinslərin yaradılmasına imkan verdi. 
+ Ötən əsrin birinji yarısı ərzində populyasiyalar 
+genetikasının əldə etdiyi nailiyyətlər, o jümlədən riyazi sta-
+tistikadan istifadə olunmaqla işlənib hazırlanmış genetik-riyazi 
+analiz metodları kəmiyyət əlamətlərinin genetikasının öyrə-
+nilməsində və seleksiyanın genetik əsaslarının yaranmasında 
+mühüm rol oynadılar. Məhz bu metodlar yaradıldıqdan sonra 
+seçmə, taylaşdırma və çarpazlaşdırma kimi klassik seleksiya 
+metodlarının genetik mahiyyətini, onların heyvan 
+populyasiyalarında tətbiqi zamanı baş verən genetik prosesləri 
+izah etmək mümkün oldu. 
+ 7 
+ Hal-hazırda da heyvanların seleksiyasının nəzəri və 
+praktiki əsasları başlıja olaraq seçmənin, taylaşdırmanın və 
+çarpazlaşdırmanın genetik qanunauyğunluqlarının, habelə mü-
+hit şəraitinin genotiplərə təsirinin və genotiplərin dəyişən 
+mühit şəraitinə reaksiyasının, yəni adaptivliyinin ekoloci-
+genetik qanunauyğunluqlarının genetikriyazi metodlar 
+vasitəsilə daha dərindən öyrənilməsi əsasında inkişaf etdi-rilir 
+[82, 84, 111, 114, 120, 170].   
+ Son 2-3 onillikdə ipəkçilikdə də bu istiqamətdə bir çox 
+ölkələrdə, o jümlədən Azərbayjanda, intensiv tədqiqatlar 
+aparılmış, tut ipəkqurdu seleksiyasının nəzəriyyəsini və 
+praktikasını zənginləşdirən bir sıra yeni mühüm elmi nə-tijələr 
+əldə olunmuşdur [177, 178, 190, 191, 211, 240]. Bu nətijələrin 
+mütəxəssislərə çatdırılması və onlar tərəfindən praktiki 
+seleksiya işlərində istifadə olunması, ölkəmizdə ye-ni tut 
+ipəkqurdu jinslərinin və hibridlərinin yaradılması sa-həsində 
+əldə olunmuş müvəffəqiyyətlərin daha da artırıl-masına 
+əhəmiyyətli dərəjədə təsir edə bilər. 
+ Bunları nəzərə alaraq, müəllif şəxsi tədqiqatlarının 
+nətijələri və ədəbiyyat məlumatlarının analizi əsasında 
+ümumiləşdirmələr  və sistemləşdirmə apararaq tut ipəkqurdu 
+seleksiyasının müasir nəzəri və praktiki əsasları haqqında 
+azərbayjan dilində ilk elmi monoqrafiyanı yazıb çapa hazır-
+lamışdır. 
+Kitab seleksiyaçılar, elmi işçilər, damazlıq mütə-
+xəssisləri və doktorantlar üçün nəzərdə tutulmuşdur. Kitabdan 
+zootexniklər, entomoloqlar, bioloqlar və genetiklər də istifadə 
+edə bilərlər. 
+Hörmətli oxujular bu kitab haqqında öz fikir və 
+mülahizələrini, rəylərini, irad və təkliflərini aşağıdakı elek-tron 
+ünvana göndərə bilərlər:        abbasovb @ mail. ru 
+ 
+ 
+ 
+ 8 
+ 
+I  FƏSİL.  İPƏKÇİLİKDƏ  SELEKSİYA 
+METODLARI 
+ 
+Seleksiya – heyvan jinslərinin və bitki sortlarının 
+yaradılmasının və təkmilləşdirilməsinin nəzəriyyəsini və 
+metodlarını işləyib hazırlayan elmdir [165, s. 5].  
+Seleksiyanın son məqsədi müəyyən iqtisadi-təsərrü-fat 
+tələblərinə javab verən bitki sortlarının və heyvan jins-lərinin, 
+o jümlədən tut ipəkqurdu jinslərinin və hibridlə-rinin 
+yaradılmasıdır. Əslində, mahiyyətinə görə seleksiya – insan 
+tərəfindən məqsədyönlü şəkildə həyata keçirilən təka-müldür.  
+Seleksiyanın nəzəri əsaslarını genetikanın, xüsusən də 
+kəmiyyət və populyasiyalar genetikalarının müasir müddəaları 
+və bilgiləri təşkil edir. Seleksiyaçının bu bilgilərə yiyələnməsi 
+ona, seleksiya işlərini daha optimal təşkil etməyə, ən səmərəli 
+seleksiya metodlarından istifadə etməyə və seleksiyanın 
+nətijələrini proqnozlaşdırmağa imkan verir. Bu bir həqiqətdir 
+ki, seleksiyanın nəzəri və praktiki əsaslarını, o jümlədən 
+yetişdirilmə obyektinin genetik və bioloci xüsusiyyətlərini 
+mükəmməl bilmədən seleksiyada uğur qazanmaq qeyri – 
+mümkündür. 
+ 
+1. Tut ipəkqurdunun seleksiya obyekti kimi bəzi  
+spesifik bioloci xüsusiyyətləri  
+ 
+Tut ipəkqurdu, onu bir seleksiya obyekti kimi digər 
+heyvan növlərindən fərqləndirən bir çox spesifik bioloci 
+xüsusiyyətlərə malikdir [26, 124, 140]. Bu xüsusiyyətlərdən ən 
+əhəmiyyətliləri barədə, qısaja da olsa, məlumat verməyi zəruri 
+hesab edirik. Bunlar aşağıdakılardır: 
+ 1) Bir çox digər həşəratlar kimi, tut ipəkqurdu da 
+özünün ontogenetik inkişafı ərzində 4 bioloci mərhələ – qrena 
+(yumurta), qurd (tırtıl), pup və kəpənək mərhələləri keçirir. 
+ 9 
+Hər bir mərhələdə özünəməxsus əlamətlər, o jüm-lədən 
+təsərrüfat dəyərli seleksiya əlamətləri təzahür edir. Bu isə tut 
+ipəkqurdu üzərində aparılan seleksiya prosesində ardıjıl, pilləli 
+və erkən seçmə metodlarının tətbiqinə əlveriş-li şərait yaradır. 
+Onu da qeyd etməliyik ki, tut ipəkqurdu yalnız qurd 
+mərhələsində qidalanır, digər mərhələlərdə isə qurd dövründə 
+topladığı ehtiyat qida maddələrinin hesa-bına yaşayır; 
+ 2) Bütün tut ipəkqurdu jinsləri öz voltinliyinə görə 
+(volta – italyan sözü olub, mənası dönüş, dəfə deməkdir), 
+başqa sözlə desək bir ildə verdiyi nəsllərin sayına görə 3 qrupa 
+– monovoltin, bivoltin və polivoltin jinslər qrupuna ayrılır. 
+Təbii halda monovoltin jinslər ildə bir nəsl, bivoltin jinslər 2 
+nəsl, polivoltin jinslər isə 3-7 nəsl verirlər. Voltinlik irsi 
+xüsusiyyət olmasına baxmayaraq bir sıra abiotik faktorların, o 
+jümlədən temperaturun, nəmliyin, işığın və duz turşusunun 
+təsiri altında dəyişə bilir. Məsələn, bivoltin jinsin ana nəsl 
+qrenasının inkubasiyasını 15-16
+0
+ istilikdə, 60-70 % nisbi 
+nəmlikdə və qaranlıqda apardıqda, hər dəfə dişi kəpənək 
+qışlamayan, özüdirilən qrena verir, yəni biovoltin jins özünü 
+polivoltin jins kimi aparır. Əksinə, belə jinsin ana nəsl 
+qrenasının inkubasiyasını 25-26
+0 
+istilikdə, 80-85 % nisbi 
+nəmlikdə və gündüz işığına əlavə olaraq 6-8 saat süni 
+işıqlandırma şəraitində apardıqda dişi kəpənək qışlayan, 
+özüdirilməyən qrena verir, yəni özünü monovoltin jins kimi 
+aparır. Qeyd edək ki, monovoltin jinslərdən də bir ildə 3 və 
+daha artıq nəsl almaq mümkündür. Belə ki, monovoltin jinsin 
+dişi kəpənəyi qrenasını tökdükdən 24-48 saat sonra, həmin 
+qrenaya duz turşusu (HJl) ilə müvafiq qaydada təsir etdikdə 
+qrena süni sürətdə dirilir [124]. 
+ Beləliklə, irsi voltinliyindən asılı olmayaraq, istənilən 
+tut ipəkqurdu jinsindən və hibridindən bir ildə, iqlim şəraiti tut 
+ipəkqurdunu il boyu təzə tut yarpağı ilə yemlən-dirməyə 
+imkan verən ölkələrdə (Çində, Yaponiyada, Kore-yada, 
+Hindistanda və s.) 7-8 nəsl, bizim ölkəmizdə və ox-şar iqlimə 
+ 10 
+malik olan bir sıra digər olkələrdə (Ukrayna, Gürjüstan, 
+Özbəkistan, Bolqarıstan, Rumıniya və s.) isə 3-4 nəsl almaq 
+mümkün olur ki, bu da tut ipəkqurdu üzərində aparılan 
+seleksiya işlərini xeyli sürətləndirməyə imkan verir; 
+3) Monovoltin, bivoltin və polivoltin jinslər bir-birin-
+dən təkjə voltinliyə görə deyil, həm də bir sıra morfoloci, 
+fizioloci və genetik xüsusiyyətlərinə görə də fərqlənir-
+lər.Monovoltin  jinslərin yemləmə  müddəti (qurd mərhələsi) 
+nisbətən uzun olur. Bu jinslərin baramasının bütün bioloci və 
+texnoloci göstərijiləri, habelə barama və xam ipək 
+məhsuldarlığı bivoltin və polivoltin jinələrə nisbətən xeyli 
+yüksək olur. Monovoltin jinslərin ən zəif jəhəti – onların, 
+əlverişsiz mühit şəraitinə və yoluxuju xəstəliklərə dözümsüz 
+olmalarıdır. 
+ Polivoltin jinslər öz tezyetişkənlikləri və yüksək 
+yaşama qabiliyyətləri ilə fərqlənirlər. Lakin, onların baramaları 
+çox xırda və az ipəkli, texnoloci göstərijiləri isə çox pis olur. 
+Bu jinslərin barama və xam ipək məhsuldarlığı da çox aşağı 
+olur. 
+ Bivoltin jinslər əksər bioloci, texnoloci və məhsuldarlıq 
+göstərijilərinə görə monovoltin və polivoltin jinslərə nəzərən 
+aralıq mövqe tuturlar, yəni monovoltin jinslərdən geri qalırlar, 
+polivoltin jinslərdən isə üstün olurlar. 
+ Bivoltin  və polivoltin jinslərin ən qiymətli xüsusiy-yəti 
+– onların, yoluxuju xəstəliklərə və əlverişsiz mühit şə-raitinə, 
+xüsusən də yüksək istiliyə çox dözümlü olmalarıdır. Məhz bu 
+xüsusiyyətə görə bivoltin və polivoltin jinslərdən tut 
+ipəkqurdunun seleksiyasında ilk material kimi geniş istifadə 
+olunur;  
+ 4) Zooloci təsnifata görə tut ipəkqurdu, yəni Bom-byx    
+mori L.  növü həşəratlar (Gusejta) sinfinin puljuqluqanadlılar 
+(Lepidoptera) dəstəsinin həqiqi ipəkqurdları (Bombyjidea) 
+ailəsinə daxildir. Bu ailəyə 70-ə yaxın ipəkqurdu növü daxil 
+olmasına baxmayaraq tut ipəkqurdunu onlardan heç biri ilə 
+ 11 
+çarpazlaşdırmaq və növarası hibridlər almaq mümkün deyildir. 
+Bunun səbəbi tut ipəkqurdunun dişi və erkək kəpənəklərinin 
+jinsiyyət orqanlarının spesifik formada, quruluşda və ölçüdə 
+olmasındadır [140,  s. 100]; 
+ 5) Tut ipəkqurdu kəpənəyinin ömrü çox qısadır (təxmi-
+nən 10-20 gün) və eyni dişi kəpənəkdən bir neçə dəfə nəsl 
+almaq mümkün olmur. Buna görə də, tut ipəkqurdunun 
+seleksiyasında valideyin fərdlərin genotipinin övlad nəslə görə 
+sınanılması və qiymətləndirilməsi metodunu tətbiq etmək 
+mümkün olmur; 
+ 6) Tut ipəkqurdunun bir dişi kəpənəyi təxminən 600-
+900 ədəd qrena verir. Bu isə tut ipəkqurdunun seleksiyasında 
+fərdlərin genotipinin yan qohumlara, xüsusən də tam sibslərə 
+və yarımsibslərə (doğma və ögey bajı-qardaşlara) görə 
+sınanılması və qiymətləndirilməsi metodunun müxtəlif 
+variantlarda tətbiqinə əlverişli imkanlar yaradır; 
+ 7) Tut ipəkqurdu monofaq həşəratdır, yəni yalnız tut 
+bitkisinin yarpağı ilə qidalanır. Müəyyən edilmişdir ki, tut 
+yarpağının qidalılığı həm müxtəlif sortlarda, həm də ey-ni  sort 
+daxilində bir sıra aqroekoloci və fizioloci amillərdən asılı 
+olaraq xeyli dəyişir. Bu isə öz növbəsində ayrı-ayrı tut 
+ipəkqurdu jinslərinin və hibridlərinin bioloci və texnoloci 
+göstərijilərinə müxtəlif dərəjədə təsir edir. Odur ki, tut 
+yarpağının kəmiyyət və keyfiyyət dəyişkənliyi tut ipək-
+qurdunun seleksiyasında mühüm rol oynayır; 
+ 8) Bütün həşəratlar kimi tut ipəkqurdu da poykilo-term 
+janlılar qrupuna aiddir, yəni onun sabit bədən tem-peraturu 
+yoxdur. Buna görə də, kümxanada (ipəkqurdunun bəslənildiyi 
+otaqda) havanın temperaturu onun bütün həyat fəaliyyətinə, o 
+jümlədən orqanizmində gedən metabolik proseslərə bilavasitə 
+təsir göstərir; 
+ 9) Tut ipəkqurdunda jinsiyyət dimorfizmi mövjuddur, 
+yəni dişi baramalar erkək baramalardan orta hesabla təxminən 
+0,5 q ağır olurlar. Bunun nətijəsində baramaların ipəkliliyi və 
+ 12 
+bir çox texnoloci göstərijiləri dişi və erkək fərdlərdə bir-
+birindən əhəmiyyətli dərəjədə fərqlənirlər. Odur ki, tut 
+ipəkqurdunun seleksiyasında baramaların bioloci və texnoloci 
+göstərijiləri jinsiyyətinə görə ayrılıqda təyin olunmalıdır. 
+Bioloci və texnoloci göstərijilərin müəyyən sayda erkək və dişi 
+baramalardan ibarət nümunə əsasında təyin olunduğu hallarda, 
+nümunədə erkək və dişi baramaların sayı bərabər 
+götürülməlidir; 
+ 10) Tut ipəkqurdunun kəpənəkləri 5 min illik do-
+mestikasiya (əhlilləşdirmə) nətijəsində özlərinin uçmaq qabi-
+liyyətini və hərəkət aktivliyini itirərək, əvəzində nisbi sa-kit və 
+passiv həyat tərzi qazanmışlar ki, bu da müsbət bir xüsusiyyət 
+olmaqla seleksiyaçıların işini xeyli asanlaşdırır; 
+ 11) Tut ipəkqurdunun  jins tərkibi çox zəngindir. Belə 
+ki, 2005-ji ilə olan son məlumata görə [191] tut ipəkqurdunun 
+dünya genofonduna müxtəlif voltinli 4427 jins daxildir. Bu da 
+öz növbəsində, müxtəlif istiqamətli seleksiya proqramları 
+əsasında yeni, müxtəlif dəyərli xüsusiyyətlərə malik olan, 
+yüksək  məhsuldar  tut ipəkqurdu jinslərinin və hibridlərinin 
+yaradılması üçün seleksiyaçılara çox geniş imkanlar yaradır. 
+ Beləliklə, tut ipəkqurdunun bir seleksiya obyekti kimi 
+bəzi spesifik bioloci xüsusiyyətləri haqqında yuxarıda 
+verdiyimiz qısa məlumatlardan aydın olur ki, tut ipəkqurdu 
+seleksiyasının bir sıra məsələlərinin həlli üçün heyvanların 
+seleksiyasından fərqli, spesifik yanaşma tələb olunur. Bununla 
+belə, heyvanların seleksiyasında istifadə olunan metodların 
+böyük əksəriyyəti, o jümlədən jinsdaxili inbred və autbred 
+çoxaldılma, jinsarası çoxaldılma (çarpazlaşdırma) və seçmə 
+metodları tut ipəkqurdunun seleksiyasında da geniş istifadə 
+olunur. 
+ 
+2. Tut ipəkqurdunun yetişdirilmə (çoxaldılma) 
+ metodları 
+ 
+ 13 
+ «Yetişdirilmə» termini məxsusi olaraq heyvandarlıqda 
+[126], o jümlədən balıqçılıqda [116] və ipəkçilikdə [124, 140] 
+istifadə olunur. Bu söz mütəxəssislər tərəfindən dar və geniş 
+mənada işlədilir. Bir çox görkəmli alimlərin geniş mənada 
+yetişdirilmə haqqında fikirlərini ümumiləşdi-rərək 
+N.Kravçenko ona belə tərif verir: «Kənd təsərrüfatı heyvan-
+larının yetişdirilməsi – heyvanların daha çox və yüksək 
+keyfiyyətli məhsul vermə qabiliyyətinin inkişafı və iqtisadi 
+jəhətdən daha sərfəli olması istiqamətində sürülərin və jins-
+lərin yaxşılaşdırılmasının, praktika meyarından keçmiş, nə-
+zəriyyəsidir» [126, s. 5]. Daha sonra, müəllif qeyd edir ki, 
+müasir dövrdə yetişdirilmənin sinonimi kimi «seleksiya» ter-
+minindən daha çox istifadə olunur. Sözün dar mənasında 
+yetişdirilmə dedikdə isə heyvanların, insanın nəzarəti altında 
+həyata keçirilən çoxaldılması nəzərdə tutulur. 
+ Tut ipəkqurdunun jinsi çoxaldılmasının 2 əsas metodu 
+mövjuddur: jinsdaxili və jinsarası (çarpazlaşdırma və ya 
+hibridləşdirmə) [124, 140]. 
+ 
+2.1. Jinsdaxili çoxaldılma (inbridinq, autbridinq) 
+ 
+ Tut ipəkqurdunun jinsdaxili və ya təmiz jins 
+çoxaldılması törədijilərin qohumluq əlaqəsindən asılı olaraq 
+qohum (inbridinq) və qeyri-qohum (autbridinq) çoxaldılmaya 
+bölünür. 
+ İnbridinq. Bir-birilə qohumluq əlaqəsi olan fərdlərin 
+jütləşdirilməsi yolu ilə nəsil alınmasına inbridiq deyilir. Jüt-
+ləşdirilən fərdlərin qohumluq dərəjəsi onların ümumi əjdadına 
+qədər olan nəsllərin sayı ilə müəyyənləşdirilir. Birinji nəsldə 
+ümumi valideyinə malik olan fərdlərin jütləşdirilməsinə sıx 
+inbridinq və ya yaxın qohum çoxaldılması deyilir. Buraya 
+doğma «qardaş x bajı», ata bir, ana ayrı  və ana bir ata ayrı 
+«qardaş x bajı» tipli jütləşdirmələr, başqa sözlə desək tam 
+sibslərin və yarımsibslərin jütləşdirilməsi tipləri, habelə «ata x 
+qız», «ana x oğul» tipli jütləşdirmələr aiddir. Lakin, sonunju 2 
+ 14 
+tip jütləşdirmələr tu ipəkqurdu üzərində  mümkün deyildir. 
+Odur ki, tut ipəkqurdunun sıx inbred çoxaldılması yalnız tam 
+sibslərin və yarımsibslərin jütləşdirilmə tiplərini ehtiva edir. 
+«Əmiqızı x əmioğlu», «xalaqızı x xalaoğlu», «dayıqızı x 
+bibioğlu» və «bibiqızı x dayıoğlu» tipli jütləşdirilmələrdən 
+başlayaraq, daha uzaq qohumluq əlaqəsi olan fərdlərin 
+jütləşdirilməsinə isə mötədil inbridinq və ya mötədil qohum 
+çoxaldılması deyilir. 
+ İnbridinq, yetişdirilmə metodu kimi, bir çox kənd 
+təsərrüfatı heyvanlarının seleksiyasında geniş istifadə olu-nur. 
+Xüsusən də, görkəmli göstərijilərə malik olan qiymətli 
+fərdlərin irsi xüsusiyyətlərinin övlad nəsildə qorunub saxla-
+nılması və möhkəmləndirilməsi üçün inbridinq ən kəsərli 
+seleksiya metodu hesab olunur [116, 124, 126, 140]. Mötədil 
+inbridinq isə jinsin, xüsusən də yeni yaradılmış jinsin 
+sabitləşməsi (yekjinsləşməsi) prosesini sürətləndirir. 
+ İnbridinqin sıxlıq dərəjəsi inbridinq əmsalı ilə ifadə 
+olunur. Genetik məzmununa görə inbridinq əmsalı 
+populyasiyada inbred çoxaldılma nətijəsində, ilkin vəziyyətlə 
+müqayisədə, homoziqot lokusların sayının nə qədər artmasını 
+və əksinə, heteroziqot lokusların sayının nə qədər azalmasını 
+göstərir. Məsələn, fərz edək ki, ilkin populyasiyada bütün 
+lokusların hamısı (100 %) heteroziqot vəziyyətdə olmuşdur. 
+Bu zaman inbridinq əmsalı, tutaq ki, 0,25 olarsa, bu onu 
+göstərir ki, heteroziqot lokusların sayı 25 % azalaraq 75 % 
+təşkil edəjək, eyni zamanda homoziqot lokusların sayı artaraq 
+25 %-ə çatajaq. Lakin, nəzərdə saxlamaq lazımdır ki, bunlar 
+yalnız nəzəri gözlənilən kəmiyyətlərdir. Praktiki seleksiya 
+vəziyyətlərində homoziqot-laşma dərəjəsinin artmasına, 
+xüsusən də mötədil inbridinq zamanı, bir sıra amillər, o 
+jümlədən təbii və süni seçmə əhəmiyyətli dərəjədə mane  ola 
+bilərlər. 
+Müxtəlif növ heyvanların yetişdirilməsində inbridinq 
+əmsalı nəsil almaq üçün istifadə olunan törədijilərin sayı 
+ 15 
+əsasında təyin olunur. Jütləşdirilən dişi və erkək fərdlərin 
+nisbəti təxminən 1:1 olduqda bir nəsil ərzində inbridinq əmsalı 
+(Fx) aşağıdakı düsturla təyin olunur [116, 173]: 
+ 
+Fx = 
+N2
+1
+                                                  (1.1) 
+          
+burada       N - nəsil almaq üçün istifadə olunmuş     
+                          törədijilərin sayıdır. 
+ 
+     Bir neçə nəsil qohum jütləşdirilməsindən sonra inbridinq 
+əmsalı (Ft) aşağıdakı düsturla təyin olunur [116, 173]:  
+   
+                    Ft = 1 – (1 - Fx)
+t
+                                        (1.2) 
+ 
+burada       t - nəsillərin sayıdır. 
+ Yuxarıda göstərilən düsturlarda qohum jütləşməsinin 
+tipini nəzərə almaq mümkün olmadığı üçün, onlar təxmini 
+xarakter daşıyırlar. Doğrudur, mötədil inbridinq zamanı bu 
+düsturlar kifayət qədər qənaətbəxş nətijələr verirlər, lakin sıx 
+inbridinq zamanı bu düsturlarla təyin olunan inbridinq 
+əmsalının qiyməti əhəmiyyətli dərəjədə təhrif olunur. Tut 
+ipəkqurdunun sıx inbridinqi, irəlidə qeyd etdiyimiz kimi, tam 
+sibslərin və yarımsibslərin jütləşdirilməsi tiplərini ehtiva edir. 
+Hər iki tip inbred jütləşdirmə zamanı istənilən inbred nəsildə 
+inbridinq əmsalını dəqiq təyin etmək üçün müvafiq olaraq 
+aşağıdakı düsturlardan istifadə olunmalıdır [154]:                                         
+                             
+tam sibslər üçün   2121
+4
+1
+  ttt FFF                          (1.3)                            
+yarımsibslər üçün    2161
+8
+1
+  ttt FFF                        (1.4) 
+                    
+ 16 
+Müxtəlif tipli yaxın qohum jütləşdirmələri zamanı 
+nəsillər üzrə inbridinq əmsallarının müvafiq düsturlarla 
+hesablanmış qiymətləri 1-ji jədvəldə verilmişdir. 
+Bir qayda olaraq, qohum çoxaldılması bir sıra əlamət-
+lərin pisləşməsinə – inbred depressiyasına gətirib çıxarır. 
+İnbred depressiyasının əsas səbəbi zərərli resessiv genlərin 
+homoziqot vəziyyətə keçməsi və fenotipdə təzahür etməsidir. 
+Bu zaman tarazlaşmış polimorfizm sistemlərinin pozulması da 
+mühüm rol oynayır. 
+İnbred depressiyası zamanı fərdlərin yaşama və nəsil 
+vermə (törədijilik) qabiliyyəti kəskin aşağı düşür, bəzi hallarda 
+isə yaxın qohum jütləşməsi seleksiya materialının tam 
+məhvinə səbəb olur. Buna görə də, yüksək inbredləşdirilmiş 
+xəttlərin yaradılması zamanı, adətən çoxlu sayda inbred 
+qrupların təməli qoyulur və sonralar bunların çox jüzi hissəsi 
+uzunmüddətli inbridinqə dözərək salamat qalır. 
+İnbred depressiyası əvvəllər inbridinqə məruz qalmış 
+po-pulyasiyalarda daha güjlü təzahür edir. Yaxın qohum 
+jütləşməsinin  ilk  nəsillərində depressiya dərəjəsi getdikjə 
+artır, sonradan sabitləşir və hətta, populyasiyada zərərli gen-
+lərin təsirini tarazlaşdıran genetik faktorlar kompleksinin 
+toplanması və seçmə sayəsində, bir qədər azala da bilər. 
+ İnbred depressiyasının dərəjəsi inbridinq əmsalının 
+artma sürətindən asılıdır. Mötədil qohum jütləşdirilmələrin  
+köməyi ilə heyvanların yaşama qabiliyyətini və məhsul-
+darlığını əhəmiyyətli dərəjədə azaltmadan inbridiq əmsalının 
+nisbətən yüksək qiymətlərinə (30-40 % jivarında) nail olmaq 
+mümkündür. Bu halda homoziqotluq yalnız ayrı-ayrı genlərə 
+görə artır, ən mühüm lokuslara görə tarazlaşmış polimorfizm 
+isə qorunub saxlanılır. 
+ İnbred depressiyasının təzahür dərəjəsi seçmənin 
+intensivliyindən və istiqamətindən də  güjlü asılıdır. İnbred 
+depressiysına daha çox məruz qalan əlamətlərə (nəsil vermə, 
+yaşama qabiliyyəti, böyümə tempi və s.) görə inten-siv 
+ 17 
+seleksiya zamanı heteroziqotların avtomatik seçilməsi gedir. 
+Bu isə ən mühüm genetik sistemlərin polimorfizm-inin  qorun-
+masına  kömək  edir  və  bununlada  inbridinqin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+                                                                                    Jədvəl 1                                                                             
+Müxtəlif tipli yaxın jütləşdirmələr zamanı inbridinq 
+əmsallarının nəsillər üzrə dəyişməsi 
+      (P.F.Rokitskidən [154] götürülmüşdür) 
+ 
+Nəsillər, t 
+İnbridinq əmsalının (Fx) qiyməti 
+Öz-özünə mayalanma 
+Tam sibslər x tam 
+sibslər 
+Yarımsibslər x 
+yarımsibslər 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+0 
+0,500 
+0,750 
+0,875 
+0,938 
+0,969 
+0,984 
+0,992 
+0,996 
+0,998 
+0,999 
+ 
+0 
+0,250 
+0,375 
+0,500 
+0,594 
+0,672 
+0,734 
+0,785 
+0,826 
+0,859 
+0,886 
+0,908 
+0,926 
+0,940 
+0,951 
+0,961 
+0,968 
+0,974 
+0,979 
+0,983 
+0,986 
+0 
+0,125 
+0,219 
+0,305 
+0,381 
+0,449 
+0,509 
+0,563 
+0,611 
+0,54 
+0,691 
+0,725 
+0,755 
+0,782 
+0,806 
+0,827 
+0,846 
+0,863 
+0,878 
+0,891 
+0,903 
+ 
+ 
+mənfi təsirini qismən və ya tamamilə neytrallaşdırır. 
+ 18 
+ Tut ipəkqurdunda inbridinq bir çox tədqiqatçılar tə-
+rəfindən, o jümlədən Azərbayjanda prof. R.Hüseynov [94] və 
+Q.Məmmədov [46], Özbəkistanda S.Nəsriddinova [148], 
+Türkmənistanda B.Məmmətquliyev [137] tərəfindən öy-
+rənilmişdir. 
+ R.Hüseynov [94] göstərir ki, sıx inbridinqin müntəzəm 
+tətbiqi zamanı qurdların inkişaf tempi, yaşama qabiliyyəti və 
+xariji mühitin təsirinə dözümlülüyü azalır, yemin istifadəsi 
+pisləşir, kəpənəklərin nəsil vermə qabiliyyəti aşağı düşür, 
+jütləşməyə qabil olmayan anormal kəpənəklər əmələ gəlir, 
+mayalanmış, lakin dirilməmiş qrenaların faizi yüksəlir. 
+Bununla yanaşı, müəllif qeyd edir ki, inbred xəttlərin bəzi 
+düzümlərində (ailələrində) qrenaların dirilməsinin, qurdların 
+inkişafının kütləviliyinin və seleksiya materialının 
+(baramaların) yekjinsliyinin artması müşahidə olunur. Prof. 
+R.Hüseynov [94] yeni jinslərin yaradılması zamanı 
+çarpazlaşdırma və seçmə nətijəsində əldə olunmuş effektin 
+nəsildə möhkəmləndirilməsi üçün mötədil inbridinqdən 
+istifadə olunmasını məqsədəuyğun və faydalı hesab edir. 
+ Q.Məmmədov [46] göstərir ki, tut ipəkqurdunun selek-
+siya-damazlıq işlərində inbridinqin I-IV nəsillərindən səmərəli 
+istifadə olunması məqsədəuyğundur. B.Məmmətquliyev [137] 
+göstərir ki, yaxın qohum («bajı x qardaş») jütləşdirilməsindən 
+yalnız 1-2 nəsil ərzində istifadə olunması səmərəli olur, 
+sonrakı nəsillərdə istifadəsi isə seleksiya materialının yaşama 
+qabiliyyətinin pisləşməsinə səbəb olur. O, daha sonra qeyd 
+edir ki, yeni jinslərin yaradılması zamanı diri baramanın 
+kütləsi, ipəkliliyi, yekjinsliyi və tex-noloci göstərijiləri kimi 
+təsərrüfat dəyərli əlamətlərin yüksək səviyyəsinin nəsildə 
+möhkəmləndirilməsi üçün 1-2 nəsil ərzində yaxın qohum 
+jütləşdirilməsindən istifadə olunması nəinki lazımdır, hətta 
+zəruridir. 
+ S.Nəsriddinovanın da inbridinqə dair aldığı nətijələr 
+[148] tut ipəkqurdunun seleksiyası üçün maraqlıdır. O, 
+ 19 
+müəyyən etmişdir ki, 6 nəsil ərzində xətti (inbred) çoxaldılma-
+nın qurdun yaşama qabiliyyətinə və baramanın kütləsi-nə görə 
+intensiv seçmə ilə uzlaşdırılması nətijəsində inbred 
+depressiyası son inbred nəsillərdə praktiki olaraq aradan 
+qalxır. Odur ki, müəllif, sənaye hibridləşdirilməsi üçün 
+nəzərdə tutulmuş inbred xəttlərin yaradılmasında qurdların 
+yaşama qabiliyyətinə və baramanın kütləsinə görə seçmə ilə 
+uzlaşdırılmış sıx inbridinqdən istifadə olunmasını tövsiyə edir. 
+ Beləliklə, inbridinq bəzi mənfi jəhətlərinə baxmayaraq, 
+bütün seleksiyaçılar, o jümlədən ipəkçi seleksiyaçılar 
+tərəfindən gərəkli, bəzi hallarda isə əvəzolunmaz seleksiya 
+metodu kimi qəbul olunur və lazım gələn hallarda praktiki 
+seleksiya işlərində istifadə olunur. 
+ Autbridinq. Eyni bir jinsə mənsub olan, bir-birilə 
+qohum-luq əlaqəsi olmayan fərdlərin jütləşdirilməsi yolu ilə 
+nəsil alınmasına autbridinq deyilir. Lakin, bu tərifi heç bir 
+qeyd-şərtsiz qəbul etmək düzgün olmaz.  Çünki, bu tərifdə 
+işlədilmiş «… bir-birilə qohumluq əlaqəsi olmayan fərdlər…» 
+ifadəsi dəqiqləşdirmə tələb edir. Yaxşı məlumdur ki, hər bir 
+fərdin mənşəinin, daha dəqiq desək nəsil şəjərəsinin birinji 
+sırasında 2
+1
+, yəni 2 əjdad (ata və ana), ikinji sırasında 2
+2
+, yəni 
+4 əjdad (2 baba və 2 nənə), üçünjü sırasında 2
+3
+, yəni 8 əjdad (4 
+ulu baba və 4 ulu nənə) olur. Bu minvalla, nəsil şəjərəsinin hər 
+növbəti sırasında (qeyd edək ki, nəsil sırası seleksiya 
+prosesində irəliyə doğru hesablandığı halda, şəjərədə geriyə 
+doğru hesablanır) əjdadların sayı 2 dəfə artır. Ümumi halda, n 
+nəsil ərzində əjdadların sayı 2
+n
+ qədər olur. İndi isə, fərz edək 
+ki, hər hansı bir A jinsinin 11-ji nəslində qohum olmayan 2 
+fərdi jütləşdirməliyik. Bunların bir-birilə heç bir qohumluq 
+əlaqəsinin olmaması üçün nəsil şəjərəsinin 10-ju sırasında, 
+yəni jinsin 1-ji nəslində onların hər birinin 2
+10
+, yəni 1024 
+əjdadı olmalıdır. Bu isə o deməkdir ki, jinsin 1-ji nəslində azı 
+2048 fərd (əjdad) seçilib jütləşdirilməlidir. Əgər biz, 11-ji 
+nəsildə iki yox, daha artıq, məsələn 20 fərdi autbred jüt-
+ 20 
+ləşdirmək istəsək, onda əjdadların ümumi sayı da 10 dəfə art-
+malıdır. Lakin, yaxşı məlumdur ki, seleksiya praktikasında 
+istənilən jinsin istənilən nəslində, o jümlədən 1-ji nəslində 
+jütləşdirmə üçün seçilən fərdlərin sayı yuxarıda 
+göstərildiyindən dəfələrlə az olur ki, bu da müəyyən vaxtdan 
+sonra eyni jinsin fərdləri arasında qohumluq əlaqələrinin 
+yaranmasını qaçılmaz edir. Bu fakt elmə çoxdan məlumdur. 
+Odur ki, müxtəlif heyvan növlərinin seleksiyasında qəbul 
+olunmuş qaydaya görə, elə fərdlər qohum olmayan fərdlər 
+hesab olunurlar ki, onların mənşəinin birinji 5 nəslində ümumi 
+əjdadları olmur [115, 173]. Bu qayda tut ipəkqurdunun 
+seleksiyasında da qəbul olunmuşdur [140]. 
+ Bunları nəzərə alaraq, biz, autbridinqin tərifinin 
+aşağıdakı redaktədə verilməsini daha düzgün hesab edirik: 
+«Eyni bir jinsə mənsub olan, mənşəinin yaxın 5 nəslində 
+ümumi əjdadı olmayan fərdlərin jütləşdirilməsi yolu il nəsil 
+alınmasına autbridinq deyilir». 
+ Autbridinq jinslərin və seleksiya populyasiyalarının 
+yüksək heteroziqotluğunu qoruyub saxlayır ki, bunun da 
+sayəsində övlad nəslin yaşama qabiliyyətinin və digər qiymətli 
+xüsusiyyətlərinin yüksək səviyyədə saxlanılması təmin olunur. 
+Odur ki, autbred çoxaldılma metodu kənd təsərrüfatı 
+heyvanlarının yetişdirilməsinin əsas metodu sayılır. 
+ Bu  metod  ipəkçilikdə də geniş  təşəkkül  tapmışdır. 
+Tut ipəkqurdunun damazlıq işləri bütünlüklə seçmə və autvred 
+çoxaldılma sisteminə əsaslanır ki, bu da rayonlaşdırılmış 
+jinslərin yaşama qabiliyyətinin və digər təsərrüfat dəyərli 
+əlamətlərinin yüksək səviyyəsinin qorunub saxlanılmasını və 
+jinsin damazlıq yaxşılaşdırılmasını təmin edir. 
+ Bu çoxaldılma metodundan yeni tut ipəkqurdu 
+jinslərinin yaradılmasında da geniş istifadə olunur. Məsələn, 
+Azərbayjan seleksiyaçıları R.Hüseynov və əməkdaşları [42, 
+44, 45, 97], N.Bədəlov və əməkdaşları [29, 30, 33, 74, 78], 
+Ə.Əliyev və əməkdaşları [66, 67], Z.Hajıyeva [36, 90] yeni tut 
+ 21 
+ipəkqurdu jinslərinin yaradılmasında autbred çoxaldılmadan 
+istifadə ediblər. Müəllifi olduğumuz Mayak-1, Mayak-2 [51] 
+və Mayak-3, Mayak-4 [9] jinsləri-ni yaradarkən, biz də, bu 
+çoxaldılma metodundan istifadə etmişik. Bu metod Özbəkistan 
+[164], Türkmənistan [137], Ukrayna [63], Gürjüstan [104, 
+105] və Bolqarıstan [226] seleksiyaçıları tərəfindən də geniş 
+istifadə olunur. 
+ 
+2.2. Jinsarası çoxaldılma (çarpazlaşdırma) 
+ 
+ Hələ Ç.Davin, çoxəsrlik bitkiçilik və xüsusən də 
+heyvandarlıq praktikasında toplanmış məlumatları ümu-
+miləşdirərək, belə bir mühüm nətijəyə gəlmişdi ki, bir sıra 
+nəsillərdə jiddi metodiki seçmə ilə müşayiət olunan çar-
+pazlaşdırma mövjud bitki və heyvan formalarının dəyiş-
+dirilməsinin (yaxşılaşdırılmasının) və yeni formaların yara-
+dılmasının ən qüdrətli vasitəsidir [100]. O zamandan bəri, 150 
+ilə yaxın vaxt ərzində aparılmış çoxsaylı tədqiqatlarda və 
+praktiki seleksiya işlərində bu nətijənin doğruluğu dəfələrlə 
+təsdiq olunmuşdur. 
+ Çarpazlaşdırma prosesində ilkin jinslərin və ya 
+formaların irsiyyətinin rekombinasiyası baş verir, irsi 
+dəyişkənliyin gizli ehtiyatları üzə çıxır, alınmış nəslin irsiy-
+yəti zənginləşir və heteroziqotluğu yüksəlir ki, bu da bir çox 
+hallarda «heterozis» adlandırılan bioloci hadisə  ilə müşa-yiət 
+olunur [96, 115, 126, 131, 149]. Bunlar isə seleksiya üçün 
+geniş imkanlar açır. 
+ Seleksiyada istifadə məqsədlərinə görə çarpazlaş-dırma 
+metodları 2 qrupa bölünür: sənaye və dəyişdiriji 
+çarpazlaşdırma metodları [126, 173]. Sənaye  çapazlaşdır-ma 
+metodlarından əmtəəlik məhsul istehsalının heterozis effekti 
+vasitəsilə artırılmasında, dəyişdiriji çarpazlaşdırma 
+metodlarından isə yeni jinslərin yaradılmasında istifadə 
+olunur. Sənaye çarpazlaşdırma metodları və onların ipək-
+çilikdə istifadəsi haqqında 4-jü fəsildə danışajayıq. Burada isə 
+ 22 
+dəyişdiriji çarpazlaşdırma metodlarını nəzərdən keçirək. 
+Lakin, mətləbə keçməzdən önjə, terminlərə aid bir məsələni 
+vurğulamaq lazımdır. Heyvandarlıqda eyni növün müxtəlif 
+jinslərinə mənsub olan heyvanların jütləşdirilməsinə 
+çarpazlaşdırma, alınan nəslə mələz deyilir. Müxtəlif növlərə və 
+daha yüksək taksonomik kateqoriyalara mənsub olan 
+heyvanların jütləşdirilməsinə uzaq  çarpazlaşdırma və ya 
+hibridləşdirmə, alınan nəslə hibrid deyilir [126]. İpəkçilikdə 
+isə, irəlidə qeyd etdiyimiz kimi, tut ipəkqurdu (Bombyx mori 
+L.) növünün kəpənəklərini digər ipəkqurdu növlərinin 
+kəpənəkləri ilə jütləşdirmək mümkün deyildir. Görünür, elə 
+buna görə də, ipəkçilikdə tut ipəkqurdunun müxtəlif jinslərinə 
+mənsub olan fərdlərin (kəpənəklərin) jütləş-dirilməsinə bəzən 
+çarpazlaşdırma, əksər hallarda isə hibrid-ləşdirmə, alınan nəslə 
+isə hibrid deyilir [26, 140]. Beləliklə, ipəkçilikdə 
+«çarpazlaşdırma» və «hibridləşdirmə» termin-ləri sinonim 
+hesab olunurlar və ixtiyari qaydada işlədilirlər. Bizim 
+fikrimizjə, bu terminlərin jinsarası jütləşdirmənin təyinatından 
+(və ya məqsədindən) asılı olaraq işlədilməsi daha faydalı 
+olardı. Belə ki, jinsarası jütləşdirmədən yeni xəttlərin və 
+jinslərin yaradılması məqsədilə istifadə olun-duğu hallarda 
+«çarpazlaşdırma» termininin, yüksək hete-rozisli hibridlərin 
+yaradılması məqsədilə istifadə olunduğu hallarda isə 
+«hibridləşdirmə» termininin işlədilməsi əlavə izahata ehtiyaj 
+olmadan, söhbətin nədən getdiyini daha dəqiq və aydın ifadə 
+edə bilər. 
+ İndi isə dəyişdiriji çarpazlaşdırmanın metodlarını və 
+onların mahiyyətini nəzərdən keçirək. Dəyişdiriji çarpaz-
+laşdırmanın  3 əsas metodu mövjuddur (şək. 1): 1) törədiji və 
+ya hasilediji çarpazlaşdırma; 2) daxilediji çarpazlaş-dırma 
+(buna bəzən «qanjalama» da deyilir); 3) uduju çarpazlaşdırma. 
+ Törədiji çarpazlaşdırma – müxtəlif jinslərə mənsub 
+olan fərdlərin bir dəfə çarpazlaşdırılmasına deyilir. Belə 
+çarpazlaşdırma sadə və mürəkkəb ola bilir. Sadə çarpazlaş-
+ 23 
+dırma zamanı iki müxtəlif jinsə mənsub olan fərdlər çar-
+pazlaşdırılır, alınmış hibrid nəsil sonradan öz daxilində jütləş-
+dirilməklə çoxaldılır. Bu zaman, çoxaldılma, seleksiyanın 
+məqsədlərinə uyğun istiqamətdə aparılan intensiv seçmə ilə 
+müşayiət olunur. Lakin, bəzən, sadə çarpaz-laşdırma yolu ilə 
+alınmış hibrid nəsil bir və ya bir neçə göstərijiyə görə 
+qoyulmuş tələbi ödəmir. Bu zaman onu üçünjü bir jinslə və ya 
+digər 2 jinsin çarpazlaşdırılmasından alınmış hibridlə 
+çarpazlaşdırırlar ki, buna da mürəkkəb çarpazlaşdırma deyilir. 
+Buna əyani bir misal olaraq bu yaxınlarda başladığımız 
+seleksiya işini göstərə bilərik. Məqsədimiz yüksək texnoloci 
+göstərijilərə malik olan yeni jinsin yaradılması idi. Bunun 
+üçün başlanğıj seleksiya materialı kimi Yaponiyadan aldığımız 
+Şunrey x Şoqetsu hibridindən istifadə etmək qərarına 
+gəlmişdik. Lakin, həmin hibridin seleksiya yemləməsi başa 
+çatdıqdan sonra bioloci və texnoloci göstərijiləri təyin 
+olunarkən aydın oldu ki, onun bütün göstərijiləri yüksək 
+səviyyədə olsa da, ipək telinin metrik nömrəsi qoyduğumuz 
+limitdən (3300-3500 m/q) xeyli aşağıdır (3030 m/q). Odur ki, 
+biz, həmin hibridi, Gürjüstandan aldığımız, ipək telinin 
+uzunluğu (2170 m) və metrik nömrəsi (4341 m/q) çox yüksək 
+olan Mziuri-1 jinsi ilə çarpazlaşdırdıq. Nətijədə mürəkkəb 
+çarpazlaşdırma yolu ilə əldə etdiyimiz başlanğıj seleksiya 
+materialında digər seleksiya əlamətlərinin yüksək səviyyədə 
+qalması ilə  
+yanaşı, ipək telinin metrik nömrəsi xeyli yüksələrək 3577 m/q-
+a çatdı. 
+ Sadə və mürəkkəb törədiji çarpazlaşdırmadan həm yeni 
+heyvan jinslərinin [149, 173], həm də yeni tut ipəkqurdu 
+jinslə-rinin [1, 26, 45, 51, 78, 90] yaradılmasında çox geniş 
+istifadə olu-nur. 
+ Daxilediji  çarpazlaşdırma  hər hansı bir mövjud jinsin 
+hansısa 1-2 əlamətini yaxşılaşdırmaq lazım gəldikdə istifadə 
+olunur. Bunun üçün həmin jins (buna yaxşılaşdırılan jins 
+ 24 
+deyilir), yaxşılaşdırılajaq əlamətə və ya əlamətlərə görə yüksək 
+göstərijilərə malik olan digər bir jinslə 
+ 
+ 
+            A   
+            1,0   0                                                                            ...         2 
+            0,9 -- 0,1                                                                      F3b   
+0,8  -- 0,2                                         Fb         F2b                          
+0,7 --  0,3                                      
+0,6 --  0,4                                       F2                            F3                             F4 
+0,5 --  0,5              F1                                                                                  . . .         1 
+ 0,4 -- 0,6                  
+ 0,3 -- 0,7                                 Fb  
+ 0,2 -- 0,8                                                 F2b 
+ 0,1 -- 0,9                                                             F3b…       3 
+   0                                   
+        B            1               2                3                4      
+                                                                  Seleksiya nəsilləri   
+  
+ Şəkil 1.  Dəyişdiriji çarpazlaşdırmanın əsas metodları: 
+ 1 – törədiji; 2 – daxilediji; 3 – uduju; A – yaxşılaşdırılan jins; B – 
+yaxşılaşdırıjı jins. Kəsik xəttlərlə hibridlərin A (yuxarıda) və B (aşağıda)   
+jinsləri ilə qaytarıjı çarpazlaşdırmaları göstərilmişdir.  
+ 
+ (buna yaxşılaşdırıjı jins deyilir) bir dəfə çarpazlaşdırılır. Alın-
+mış hibrid nəsil yenidən yaxşılaşdırılan jinslə çarpazlaşdırılır 
+ki, buna da qaytarıjı çarpazlaşdırma deyilir. Bu proses, yəni 
+qaytarıjı çarpazlaşdırma, yaxşılaşdırılan əlamət tələb olunan 
+səviyyəyə çatanadək bir və ya bir neçə dəfə təkrarlanır (bax: 
+şək. 1). Bundan sonra yaxşılaşdırılmış jins öz daxilində 
+jütləşdirilməklə çoxaldılır. 
+ Bu metoddan heyvandarlıqda, tələbatı əsasən ödəyən 
+yerli jinsin və ya populyasiyanın bir və ya bir neçə əlamətini 
+yaxşılaşdırmaq məqsədilə istifadə olunur. İpəkçilikdə 
+daxilediji çarpazlaşdırmadan, ötən əsrin birinji yarısında, ayrı-
+ayrı jinslərin yaxşılaşdırılmasında nisbətən geniş istifadə 
+olunurdu [140]. Hal-hazırda isə bu metoddan nadir hallarda, 
+yeni tut ipəkqurdu jinsinin yaradılması prosesində seleksiya 
+İr
+si
+y
+y
+ət
+in
+ p
+ay
+ı 
+(q
+is
+m
+i)
+ 
+ 25 
+materialının hansısa bir əlamətini seçmə vasitəsilə 
+yaxşılaşdırmaq mümkün olmadığı hallarda, istifadə olunur. 
+ Uduju  çarpazlaşdırma – hər hansı bir yaxşılaşdırılan 
+jinsin başqa bir yaxşılaşdırıjı jinslə çarpazlaşdırılmasından 
+alınmış hibrid nəslin yaxşılaşdırıjı jinslə çoxdəfəli təkrar 
+çarpazlaşdırılmasına deyilir. Həm də, bu zaman əvvəljə 
+yaxşılaşdırılan jinsin, sonra isə hər dəfə alınmış hibrid nəslin 
+dişi fərdləri yaxşılaşdırıjı jinsin erkək fərdləri ilə 
+çarpazlaşdırılır. 
+ Heyvandarlıqda bu metoddan yerli jinsin sürülərinin, 
+tədrijən daha qiymətli damazlıq materialla əvəz edilməsində 
+istifadə olunur [126, 173]. İpəkçilikdə isə uduju 
+çarpazlaşdırma metodundan əsasən qurd və qrena dövründə 
+jinsiyyəti genetik nişanəli tut ipəkqurdu jinslərinin 
+yaradılmasında geniş istifadə olunur [162, 164, 226, 232]. 
+Azərbayjanda da bu istiqamətdə N.Bədəlov və Z.Hajıyeva 
+tərəfindən [31, 75]  seleksiya işləri aparılmışdır. Uduju 
+çarpazlaşdırma vasitəsilə jinsiyyəti genetik nişanəli tut 
+ipəkqurdu jinslərinin yaradılması barədə V fəsildə daha ətraflı 
+məlumat verilir. 
+ 
+3. Analitik və sintetik seleksiya 
+ 
+ Ötən əsrin 30-ju illərinə qədər keçmiş Sovet 
+ipəkçiliyində təkjinslilik hökm sürürdü. Əsas barama və xam 
+ipək istehsalçıları olan Orta Asiya və Zaqafqaziya 
+respublikalarının ipəkçilik təsərrüfatlarında əsasən Bağdad 
+jinsindən istifadə olunurdu. Bu isə, eyni bir jinsin müxtəlif 
+bölgələrin birbirindən kəskin fərqlənən torpaq-iqlim və 
+aqroekoloci şəraitinə eyni dərəjədə yaxşı uyğunlaşa bilməməsi 
+səbəbindən, bütün bölgələrdə eyni dərəjədə yük-sək barama 
+məhsulunun alınmasını, habelə ipək sənayesinin məhsulun 
+keyfiyyətinə qoyduğu tələblərin ödəNilməsini təmin edə 
+bilmirdi. Müqayisə üçün deyək ki, o dövrdə, dünyanın qabaqjıl 
+ipəkçilik ölkəsi olan Yaponiyanın sənaye yaz yemləmələrində  
+ 26 
+23 hibrid kombinasiyasından, yay və payız yemləmələrində isə   
+15 hibrid kombinasiyasından istifadə olunurdu [140]. 
+ Odur ki, Sovet Hökumətinin Özbəkistanda ipəkçiliyin 
+yüksəldilməsinə dair 1940-jı ildə verdiyi qərarda Orta Asiya 
+Elmi-Tədqiqat İpəkçilik İnstitutuna bir vəzifə olaraq mövjud 
+tut ipəkqurdu jinslərinin yaxşılaşdırılması və yeni jinslərin 
+yaradılması tapşırıldı [140]. Nətijədə, Böyük Vətən 
+müharibəsindən sonrakı dövrdə tut ipəkqurdu seleksiyasının 
+elmi əsasları inkişaf etməyə başladı və təkjə Özbəkistanda 
+deyil, bir sıra digər sovet respublikalarında, o jümlədən 
+Azərbayjanda da bir çox yeni tut ipəkqurdu jinsləri yaradıldı. 
+ Yeni tut ipəkqurdu jinslərinin yaradılması əsasən 
+analitik və sintetik seleksiya vasitəsilə həyata keçirilir. 
+ 
+3.1. Analitik  seleksiya 
+ 
+ İndiyə qədər tut ipəkqurdunun analitik seleksiyasının 
+elmi tərifi verilməmişdir. İpəkçiliyə  dair  ədəbiyyatda  verilən  
+izahata görə «analitik seleksiya bir jinsin daxilində aparılır və 
+başlıja olaraq həmin jinsin yaxşılaşdırılması məqsədini güdür. 
+Lakin, bəzi hallarda seleksiya materialı yaxşılığa doğru o 
+qədər dəyişir ki, artıq onu yaxşılaşdırılmış yox, yeni jins hesab 
+edirlər» [26, 124]. Analitik seleksiyanın belə izahı və ya 
+yozumu onun əhə-miyyətini, mahiyyətini və xüsusən də, 
+təyinatını tam və düzgün ifadə etmir. Əvvəla, hər hansı bir 
+mövjud jinsin yaxşılaşdırılması təkjə analitik seleksiya 
+vasitəsilə deyil,  həm də, yuxarıda qeyd etdiyimiz kimi, 
+daxilediji çarpazlaşdırma vasitəsilə, özü də analitik 
+seleksiyaya nisbətən daha tez və asan həyata keçirilə bilər. 
+İkinjisi, seleksiyanın əsas məqsədi və funksiyası kimi, ön 
+planda mövjud jinsin yaxşılaşdırılması deyil, yeni jinsin 
+yaradılması durmalıdır. Doğrudur, ötən əsrin ortalarına qədər, 
+seleksiyanın elmi əsaslarının hələ zəif olduğu bir dövrdə, 
+analitik seleksiyadan əsasən mövjud jinslərin 
+yaxşılaşdırılmasında istifadə olunurdu. Lakin, ötən əsrin 50-ji 
+ 27 
+illərindən etibarən seleksiyanın elmi əsaslarının getdikjə 
+inkişaf etməsi, xüsusən də 70-ji illərdən başlayaraq tut 
+ipəkqurdunun təsərrüfat dəyərli kəmiyyət əlamətlərinin 
+genetik parametrlərinin öyrənilməsi analitik seleksiyanın 
+səmərəliliyini xeyli artırmağa imkan verərək onu, yeni tut 
+ipəkqurdu jinslərinin yaradılmasının planlı və məqsədyönlü 
+şəkildə istifadə olunan əsas metodlarından birinə çevirib. Buna 
+görə də analitik seleksiyaya elmi tərif verilməlidir. Belə hesab 
+edirik ki, analitik seleksiyanın əsasında duran mühüm 
+seleksiya elementləri nəzərə alınmaqla onun elmi tərifi aşağı-
+dakı kimi ifadə oluna bilər: «Başlanğıj seleksiya materialı 
+qismində hər hansı bir mövjud jins götürməklə, onun təsərrüfat 
+dəyərli seleksiya əlamətlərinin dəyiş-kənliyinin analizi 
+əsasında müxtəlif seçmə və jinsdaxili çoxaldılma 
+metodlarından istifadə etməklə yeni tut ipəkqurdu jinsinin 
+yaradılmasına analitik seleksiya deyilir. Analitik seleksiyadan 
+mövjud jinslərin yaxşılaşdırılmasında da istifadə oluna bilər». 
+Analitik seleksiyanın uğurlu olması seleksiya proqra-
+mının əhatə etdiyi bir sıra məsələlərin düzgün həll olunma-
+sından asılıdır. Bunlardan ən mühümləri aşağıdakılardır: 
+1) başlanğıj seleksiya materialı qismində ilkin 
+valideyin jinsin seçilməsi. Bunun üçün ən yaxşı yol axtarılan 
+jinsin, tut ipəkqurdu genofondunun janlı kolleksiyasında 
+saxlanılan jinslər arasından, müvafiq qiymət-ləndirmə əsasında 
+seçilməsidir. Lazım gəldiyi halda yerli seleksiyaçılar 
+tərəfindən yaradılmış və ya xariji ölkələrdən gətirilmiş hər 
+hansı bir qiymətli jinsdən də bu məqsədilə istifadə oluna bilər. 
+İstənilən halda, başlanğıj seleksiya materialı qismində elə jins 
+seçilməlidir ki, onun yalnız təsərrüfat dəyərli bioloci və 
+texnoloci əlamətlərinin orta qiymətləri deyil, həm də əsas 
+seleksiya əlamətlərinin dəyişkənliyi də yüksək olsun; 
+2) aparıjı seleksiya əlamətinin müəyyənləşdirilməsi. Bu 
+məsələnin düzgün həlli üçün başlanğıj seleksiya materialı kimi 
+götürülmüş jinsin əsas seleksiya  əlamətlərinin genetik 
+ 28 
+parametrləri (fenotipik və genetik variansalar, irsən keçmə 
+əmsalı, fenotipik və genetik korrelyasiya əmsalları və s.) təyin 
+olunmalı və təhlil edilməlidir. Aparıjı seleksiya əlaməti kimi 
+elə əlamət götürülməlidir ki, həmin əlamətə görə seçmə 
+aparıldıqda, növbəti nəsildə həmin əlamətin özünün genetik 
+yaxşılaşması ilə yanaşı digər seleksiya əlamətlərinin də bu və 
+ya digər dərəjədə yaxşılaşması yaxud da, ən azı, pisləşməməsi 
+təmin olunsun. Deməli, elə əlamət seçilməlidir ki, onun həm 
+irsən keçmə əmsalı nisbətən yüksək olsun, həm də digər 
+seleksiya əlamətlərindən daha çoxu ilə müsbət fenotipik və 
+xüsusən də genetik korrelyativ əlaqələrə malik olsun; 
+3) seçmə metodunun müəyyənləşdirilməsi. Bu məq-
+sədlə fərdi və ya kütləvi seçmədən, yaxud da ailə seçmə-
+sindən istifadə oluna bilər. Hər hansı bir əlamətə görə seç-
+mənin səmərəliliyi onun irsən keçmə əmsalından düzünə asılı-
+dır. Odur ki, aparıjı seleksiya əlamətinin irsən keçmə əmsalı 
+yüksək olduqda kütləvi seçmədən, orta və ya aşağı olduqda isə 
+ailə və ya fərdi seçmədən istifadə olunması daha 
+məqsədəuyğundur. Fərdi seçmədən istifadə olunajağı təqdirdə, 
+həm də, seçilməli olan fərdlərin genotipinin hansı metodla 
+(özünün şəxsi fenotipinə və ya yan qohumlarının fenotipinə 
+görə) qiymətləndiriləjəyi də dəqiqləşdirilməli-dir; 
+4) seleksiya materialının həjminin və seçmə 
+intensivliyinin müəyyənləşdirilməsi. Seleksiya materialının 
+həjmi istər analitik, istərsədə sintetik seleksiyanın uğurlu 
+olmasında mühüm rol oynayır. Belə ki, seleksiya materialının 
+həjmi və ya başqa sözlə desək, onu təşkil edən ailələrin sayı nə 
+qədər çox olarsa seçməni də bir o qədər intensiv aparmaq və 
+nətijədə bir o qədər yüksək genetik yaxşılaşma əldə etmək 
+olar. Lakin,praktikada, bir sıra obyektiv və subyektiv amillər, 
+xüsusən də maddi-texniki təminatın azlığı, seleksiya 
+materialının həjmini xeyli məhdudlaşdırır. Bu zaman, çalışmaq 
+lazımdır ki, seleksiya materialının həjmi, seleksiya işlərinin 
+gedişində həyata keçirilən qiymətləndirmə, seçmə və digər 
+ 29 
+seleksiya tədbirlərinin statistik mötəbərliyini və son nətijədə 
+seleksiya işlərinin uğurla başa çatdırılmasını təmin edə biləjək 
+zəruri minimal həjmdən az olmasın. Seleksiya materialının 
+zəruri minimal həjmini təyin etmək üçün seleksiyaçılar, 
+tərəfimizdən işlənib hazırlanmış xüsusi metodikadan və 
+jədvəldən [8] istifadə edə bilərlər. Bu metodika kitabın V1 fəs-
+lində ətraflı şərh olunur. 
+Seçmənin intensivliyinin müəyyənləşdirilməsi selek-
+siya materialının həjmindən asılıdır. Seleksiya materialının 
+həjmi ən aşağı, yəni zəruri minimal həddə olarsa seçiləjək 
+ailələrin miqdarı 25 %-dən, hər ailədən seçiləjək fərdlərin 
+miqdarı isə 10 %-dən çox olmamalıdır; 
+5) materialın çoxaldılması metodunun müəy-
+yənləşdirilməsi. Seçilmiş damazlıq materialın çoxaldılması 
+üçün jinsdaxili inbred və ya autbred jütləşdirmə metodundan 
+istifadə oluna bilər. Bu metodların hansından istifadə olunması 
+seleksiyanın konkret məqsəd və vəzifələrindən, habelə 
+seleksiya materialında yaranmış konkret genetik vəziyyətdən 
+asılıdır. Əgər, seleksiya materialında əsas  seleksiya 
+əlamətlərinin  səviyyəsi  kifayət qədər yüksəlibsə və artıq 
+onların yaxşılaşdırılması deyil, nəsildə möhkəmləndirilməsi 
+tələb olunursa inbred jütləşdirmələrdən istifadə olunması daha 
+məqsədəuyğundur. Əsas seleksiya əlamətlərinin səviyyəsinin 
+yaxşılaşdırılması tələb olunduğu hallarda isə autbred 
+jütləşdirmələrdən istifadə olunması daha səmərəlidir. 
+ Beləliklə, biz, yuxarıda, analitik seleksiyanın uğurlu 
+olma-sını təmin edən ən mühüm seleksiya elementlərini və 
+onların nejə müəyyənləşdirilməsini aydınlaşdırdıq. İndi isə 
+həmin elementlərin praktiki seleksiya prosesində tətbiqini və 
+verdiyi nətijələri Mayak-3 və Mayak-4 jinslərinin [9] 
+yaradılması məqsədilə apardığımız analitik seleksiyanın 
+faktiki materialları əsasında nəzərdən keçirək. 
+ Respublikamızda rayonlaşdırılmış və uzun illər 
+istehsalat-da geniş yayılmış Şəki-1 və Şəki-2 jinsləri yüksək 
+ 30 
+barama məhsuldarlığına malik olsalar da, onların 
+baramalarının texnoloci göstərijiləri ipək sənayesinin tələb-
+lərini tam ödəyə bilmirdi. Odur ki, biz həmin jinslərdən ilk 
+material kimi istifadə etməklə, daha yüksək texnoloci 
+göstərijilərə malik olan 2 jins yaratmağı planlaşdırdıq. Bu 
+məqsədlə hər iki jinsdən şərti olaraq Ş-1 və Ş-2 adlandırdığı-
+mız başlanğıj seleksiya populyasiyaları tərtib olundu. 1981-ji 
+ilin yaz və yay mövsümlərində hər iki seleksiya 
+populyasiyalarının F0 və F1 nəsillərinin ailə yemləməsi apa-
+rıldı. Əldə edilmiş ədədi materiallar əsasında hər iki 
+populyasiyanın 5 texnoloci əlamətinin – havada quru bara-
+manın ipəkliliyinin (QBİ), havada quru baramadan xam ipək 
+çıxımının (XİÇ), barama pərdəsinin açılmasının (BPA), bir 
+baramadan açılan ipək telinin ümumi uzunluğunun (İTU) və 
+metrik nömrəsinin (İTMN) bir sıra seleksion-genetik 
+parametrləri, o jümlədən irsən keçmə əmsalları (jədv. 2) və bu 
+əlamətlər arasındakı fenotipik və genetik korrelyasiya 
+əmsalları (jədv. 3) təyin olundu. 
+ Aparıjı seleksiya əlamətini düzgün müəyyənləşdirmək 
+üçün irsən keçmə və genetik korrelyasiya əmsallarının təyin 
+etdiyimiz eksperimental qiymətlərindən və müvafiq 
+genetikriyazi modellərdən istifadə etməklə nəzəri hesab-
+lamalar apararaq öyrəndiyimiz texnoloci əlamətlərdən hər 
+birinə görə seçmə aparılajağı təqdirdə növbəti nəsildə həmin 
+əlamətin özünün  birbaşa  seçmənin  təsiri hesabına və yerdə 
+qalan digər 4 texnoloci əlamətin korrelyativ əlaqələr hesabına 
+nəzəri jəhətdən nejə və nə dərəjədə dəyişəjəyini təyin etdik. 
+Alınmış nətijələrin müqa- 
+Jədvəl 2 
+Ş-1 və Ş-2 populyasiyalarında texnoloci əlamətlərin 
+irsən keçmə əmsalları (h
+2
+) 
+Texnoloci  
+əlamətlər 
+Ş-1 populyasiyası Ş-2 populyasiyası 
+F0 
+yaz, 1981 
+F1 
+yay, 1981 
+F0 
+yaz, 1981 
+F1 
+yay, 1981 
+Quru baramanın ipəkliliyi 0,533 0,490 0,579 0,539 
+ 31 
+Xam ipək çıxımı 
+Barama pərdəsinin açılması 
+İpək telinin ümumi uzunluğu 
+İpək telinin metrik nömrəsi 
+0,490 
+0,262 
+0,445 
+0,428 
+0,334 
+0,137 
+0,262 
+0,302 
+0,430 
+0,203 
+0,424 
+0,428 
+0,356 
+0,182 
+0,262 
+0,314 
+ 
+yisəli təhlili göstərdi ki, texnoloci əlamətlərin kompleks 
+yaxşılaşdırılması baxımından xam ipək çıxımına görə seçmə, 
+digər texnoloci əlamətlərə görə seçmə ilə müqayisədə daha 
+səmərəlidir. Odur ki, xam ipək çıxımı aparıjı seleksiya əlaməti 
+kimi qəbul olundu. Nəzəri təhlil onu da göstərdi ki, probandın 
+(qiymətləndirilən fərdin) genotipinin tam sibslərin fenotipinə 
+görə qiymətləndirilməsi daha səmərə-lidir. Buna görə də, 
+seleksiya prosesində tam sibslərin fenotipinə görə 
+qiymətləndirmə və seçmə metodundan istifadə etməyi qərara 
+aldıq. Seçiləjək ailələrin miqdarını 25 % (i = 1,2748) 
+səviyyəsində planlaşdırdıq. Hər iki seleksiya populyasiyasında 
+5 texnoloci əlamətdən dördünün yüksək irsən keçmə əmsalına, 
+yəni yüksək heteroziqotluğa malik olduğunu nəzərə alaraq 
+seçilmiş damazlıq materialın çoxaldılması üçün autbred 
+(ailələrarası) jütləşdirmələrdən istifadə etməyi qərarlaşdırdıq. 
+Seleksiya işləri 1981-ji ildən başlayaraq, birinji 3 il ərzində 
+yaz və yay mövsümlərində aparılaraq 1984-jü ilin yaz 
+mövsümündə başa çatdırıldı.      Beləliklə, analitik 
+seleksiya proqramının ən mühüm elementlərinin nəzəri və 
+genetik müddəalar əsasında optimallaşdırılması və düzgün 
+həyata keçirilməsi, çox qısa bir vaxtda, hər iki seleksiya 
+populyasiyasının demək olar ki, bütün texnoloci əlamətlərinin 
+əhəmiyyətli dərəjədə yaxşılaşdırılmasına və 2 yeni jinsin 
+yaradılmasına  imkan  verdi.  
+                                                                             Jədvəl 3 
+Seleksiya populyasiyalarının  texnoloci əlamətləri 
+arasında fenotipik (rp) və genetik (rp) korrelyasiya 
+əmsalları 
+Korrelyasiya edən 
+əlamətlər jütü 
+rp rg 
+F0  yaz, 
+1981 
+F1  yay, 
+1981 
+F0  yaz, 
+1981 
+F1  yay, 
+1981 
+ 32 
+ 
+Ş-1 populyasiyası 
+ 
+QBİ – XİÇ 
+QBİ – BPA 
+QBİ – İTU 
+QBİ – İTMN  
+XİÇ – BPA  
+XİÇ – İTU  
+XİÇ – İTMN  
+BPA – İTU  
+BPA – İTMN  
+İTU – İTMN   
++ 0,678 
+– 0,093 
++ 0,141 
+– 0,117 
++ 0,666 
++ 0,350 
+– 0,099 
++ 0,334 
++ 0,016 
++ 0,623 
++ 0,574 
+– 0,036 
++ 0,084 
++ 0,066 
++ 0,801 
++ 0,556 
+– 0,051 
++ 0,594 
++ 0,003 
++ 0,352 
++ 0,860 
+– 0,152 
++ 0,256 
+– 0,364 
++ 0,631 
++ 0,230 
+– 0,520 
++ 0,202 
+– 0,484 
++ 0,400 
++ 0,905 
++ 0,263 
++ 0,102 
+– 0,146 
++ 0,723 
++ 0,386 
+– 0,227 
++ 0,551 
+– 0,235 
++ 0,299 
+ 
+Ş-2 populyasiyası 
+ 
+QBİ – XİÇ  
+QBİ – BPA 
+QBİ – İTU   
+QBİ – İTMN  
+XİÇ – BPA  
+XİÇ – İTU   
+XİÇ – İTMN  
+BPA – İTU  
+BPA – İTMN  
+İTU – İTMN  
++ 0,790 
+– 0,025 
++ 0,216 
+– 0,078 
++ 0,584 
++ 0,356 
+ – 0,085 
++ 0,314 
+– 0,019 
++ 0,674 
++ 0,714 
++ 0,036 
++ 0,344 
+– 0,036 
++ 0,698 
++ 0,590 
++ 0,018 
++ 0,512 
++ 0,046 
++ 0,506 
++ 0,904 
+– 0,138 
++ 0,394 
+– 0,353 
++ 0,295 
++ 0,281 
+– 0,273 
++ 0,214 
+– 0,350 
++ 0,844 
++ 0,723 
++ 0,176 
++ 0,088 
+– 0,223 
++ 0,698 
++ 0,356 
+– 0,234 
++ 0,506 
+– 0,301 
++ 0,300 
+ 
+ 
+Bunu hər iki seleksiya populyasiyanın başlanğıj (F0) və 
+sonunju (F6) seleksiya nəsillərinin bioloci və texnoloci 
+göstərijilərinin müqayisəsi də aydın göstərir (jədv. 4). Önəmli 
+haldır ki, hər iki populyasiyada texnoloci göstəriji- 
+                                                                   Jədvəl  4 
+    Ş-1 və  Ş-2  populyasiyalarının  ilk (F0) və  son (F6)   
+seleksiya nəsillərində bioloci və texnoloci göstərijilərin 
+müqayisəsi 
+Bioloci və 
+texnoloci 
+göstərijilər 
+Ş-1 Ş-2 
+F0 
+yaz, 
+F6 
+yay, 
+F0-a 
+nisbə-
+F0 
+yaz, 
+F6 
+yay, 
+F0-a 
+nisbə-
+ 33 
+1981 1981 tən, 
+%-lə 
+1981 1981 tən, 
+%-lə 
+Qurdun yaşama qabiliyyəti, % 
+Diri baram. orta kütləsi, q 
+Barama pərdəsinin kütləsi, mq 
+Diri baramanın ipəkliliyi, % 
+Quru baramanın ipəkliliyi, % 
+Xam ipək çıxımı, % 
+Barama pərdəsinin açılması, % 
+İpək telinin ümumi uzunluğu, m 
+İpək telinin metrik nömrəsi, m/q 
+95,3 
+2,12 
+443 
+20,9 
+48,2 
+42,8 
+88,8 
+1192 
+3084 
+95,8 
+2,16 
+464 
+21,5 
+50,2 
+45,2 
+90,0 
+1348 
+3264 
+100,5 
+101,9 
+104,7 
+102,9 
+104,1 
+105,6 
+101,4 
+113,8 
+105,8 
+94,8 
+2,04 
+432 
+21,2 
+49,4 
+42,8 
+86,6 
+1124 
+3036 
+95,5 
+2,22 
+475 
+21,4 
+49,8 
+44,8 
+90,0 
+1291 
+3045 
+100,7 
+108,8 
+109,9 
+100,9 
+100,8 
+104,7 
+103,9 
+114,8 
+100,3 
+ 
+ 
+lərlə yanaşı bəzi bioloci göstərijilər də qismən yaxşılaşmışdır. 
+Bunları  nəzərə  alaraq  AzETİİ-nin Elmi  Şurası 
+ Ş-1 və Ş-2 populyasiyalarının yeni jins olduğuna və onların 
+müvafiq olaraq Mayak-3 və Mayak-4 jinsi adlandırılmasına 
+qərar verdi  (protokol  № 14, 21 dekabr 1984-jü il). Sonrakı 3 
+il (1985-1987-ji illər) ərzində aparılmış stansiya sınağının 
+nətijələri yeni yaradılmış Mayak-3 və Mayak-4 jinslərinin öz 
+valideyin jinslərindən, yəni o dövrdə istehsalatda geniş 
+yayılmış nəzarət Şəki-1 və Şəki-2 jinslərindən bioloci, 
+texnoloci və məhsuldarlıq göstərijilərinin böyük əksəriyyətinə 
+görə  xeyli  üstün olduqlarını göstərdi (jədv. 5).  Beləliklə, 
+apardığımız analitik seleksiyanın uğurlu nətijələri bu metodun 
+kifayət qədər yararlı olmasına dəlalət edir. Analitik seleksiya 
+metodundan həm Azərbayjanda [77, 93, 95], həm də digər 
+ipəkçilik ölkələrində [87, 226, 240] seleksiyaçılar tərəfindən 
+yeni tut ipəkqurdu jinslərinin yaradılmasında müvəffəqiyyətlə 
+istifadə olunur. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Jə
+d
+v
+əl
+  
+5
+ 
+Y
+en
+i 
+v
+ə 
+n
+əz
+ar
+ət
+  
+ji
+n
+sl
+ər
+in
+ 
+b
+io
+lo
+ci
+, 
+te
+x
+n
+o
+lo
+ci
+ v
+ə 
+m
+əh
+su
+ld
+ar
+lı
+q
+ g
+ö
+st
+ər
+ij
+il
+ər
+in
+in
+ 
+m
+ü
+q
+ay
+is
+əs
+i 
+ 
+(3
+ i
+ld
+ən
+ o
+rt
+a)
+ 
+  
+N
+əz
+ar
+ət
+ə 
+n
+is
+b
+ət
+ən
+, 
+  
+%
+-l
+ə 
+  
+N
+əz
+ar
+ət
+ə 
+n
+is
+b
+ət
+ən
+, 
+ 
+%
+-l
+ə 
+1
+0
+1
+,2
+ 
+1
+0
+0
+,3
+ 
+1
+0
+0
+,4
+ 
+1
+1
+2
+,7
+ 
+1
+1
+1
+,6
+ 
+1
+0
+4
+,0
+ 
+1
+0
+5
+,9
+ 
+1
+0
+7
+,0
+ 
+1
+0
+1
+,2
+ 
+1
+1
+2
+,7
+ 
+ 
+1
+0
+9
+,0
+ 
+1
+0
+0
+,6
+ 
+ 
+1
+0
+1
+,9
+ 
+1
+0
+5
+,6
+ 
+1
+1
+2
+,9
+ 
+  
+M
+ay
+ak
+-4
+ 
+9
+6
+,6
+ 
+9
+6
+,0
+ 
+2
+,2
+4
+ 
+4
+9
+8
+ 
+2
+2
+,1
+ 
+9
+4
+6
+ 
+5
+0
+,5
+ 
+4
+4
+,3
+ ±
+ 
+0
+,3
+3
+ 
+8
+7
+,7
+ 
+1
+3
+1
+6
+ 
+ 
+1
+1
+6
+7
+ 
+3
+1
+3
+5
+ 
+  
+5
+,3
+7
+ ±
+ 
+0
+,0
+6
+ 
+2
+,2
+7
+ ±
+ 
+0
+,0
+3
+ 
+1
+0
+0
+4
+ ±
+ 8
+ 
+ 34 
+Ş
+ək
+i-
+2
+ 
+(n
+əz
+.)
+ 
+9
+5
+,4
+ 
+9
+5
+,7
+ 
+2
+,2
+3
+ 
+4
+4
+2
+ 
+1
+9
+,8
+ 
+9
+1
+0
+ 
+4
+7
+,7
+ 
+4
+1
+,4
+ ±
+ 0
+,3
+4
+ 
+8
+6
+,7
+ 
+1
+1
+6
+8
+ 
+ 
+1
+0
+7
+1
+ 
+3
+1
+1
+5
+ 
+ 
+5
+,2
+7
+ ±
+ 0
+,0
+5
+ 
+2
+,1
+5
+ ±
+ 0
+,0
+2
+ 
+8
+8
+9
+ ±
+ 1
+0
+ 
+ 
+N
+əz
+ar
+ət
+ə 
+n
+is
+b
+ət
+ən
+, 
+  
+%
+-l
+ə 1
+0
+0
+,6
+ 
+1
+0
+0
+,2
+ 
+1
+0
+3
+,6
+ 
+1
+0
+8
+,4
+ 
+1
+0
+4
+,8
+ 
+1
+0
+3
+,6
+ 
+1
+0
+5
+,9
+ 
+1
+0
+6
+,3
+ 
+1
+0
+0
+,6
+ 
+1
+2
+1
+,6
+ 
+ 
+1
+2
+1
+,4
+ 
+1
+1
+0
+,1
+ 
+ 
+1
+0
+6
+,6
+ 
+1
+0
+7
+,2
+ 
+1
+1
+3
+,7
+ 
+M
+ay
+ak
+-3
+ 
+9
+6
+,5
+ 
+9
+6
+,0
+ 
+2
+,2
+7
+ 
+4
+9
+2
+ 
+2
+1
+,7
+ 
+9
+6
+1
+ 
+5
+0
+,0
+ 
+4
+4
+,0
+ ±
+ 0
+,4
+7
+ 
+8
+8
+,1
+ 
+  
+  
+  
+1
+4
+2
+8
+ 
+ 
+1
+2
+8
+8
+ 
+3
+3
+6
+7
+ 
+ 
+5
+,6
+1
+ ±
+ 0
+,0
+5
+ 
+2
+,3
+8
+ ±
+ 0
+,0
+2
+ 
+1
+0
+4
+5
+ ±
+ 1
+0
+ 
+   
+Ş
+ək
+i-
+1
+ 
+(n
+əz
+.)
+ 
+9
+5
+,9
+ 
+9
+5
+,8
+ 
+2
+,1
+9
+ 
+4
+5
+4
+ 
+2
+0
+,7
+ 
+9
+2
+8
+ 
+4
+7
+,2
+ 
+4
+1
+,4
+ ±
+ 0
+, 
+3
+2
+ 
+8
+7
+,6
+ 
+1
+1
+7
+4
+ 
+ 
+1
+0
+6
+1
+ 
+3
+0
+5
+8
+ 
+ 
+5
+,2
+6
+ ±
+ 0
+,0
+6
+ 
+2
+,2
+2
+ ±
+ 0
+,0
+1
+ 
+9
+1
+9
+ ±
+ 9
+ 
+   
+G
+ö
+st
+ər
+ij
+il
+ər
+ 
+  
+ Q
+re
+n
+an
+ın
+ d
+ir
+il
+m
+əs
+i,
+ %
+ 
+  
+ Q
+u
+rd
+u
+n
+ y
+aş
+am
+a 
+q
+ab
+il
+iy
+y
+ət
+i,
+%
+ 
+  
+ D
+ir
+i 
+b
+ar
+am
+an
+ın
+ k
+ü
+tl
+əs
+i,
+ q
+ 
+  
+ B
+ar
+am
+a 
+p
+ər
+d
+əs
+in
+in
+ k
+ü
+tl
+əs
+i,
+ m
+q
+ 
+  
+ D
+ir
+i 
+b
+ar
+am
+an
+ın
+ i
+p
+ək
+li
+li
+y
+i,
+%
+  
+  
+ Q
+u
+ru
+ b
+ar
+am
+an
+ın
+ k
+ü
+tl
+əs
+i,
+ m
+q
+ 
+  
+ Q
+u
+ru
+ b
+ar
+am
+an
+ın
+ i
+p
+ək
+li
+li
+y
+i,
+ %
+ 
+  
+ X
+am
+ i
+p
+ək
+ ç
+ıx
+ım
+ı,
+ %
+ 
+  
+ B
+ar
+am
+a 
+p
+ər
+d
+əs
+in
+in
+ a
+çı
+lm
+as
+ı,
+ %
+ 
+  
+ İ
+p
+ək
+ t
+el
+in
+ ü
+m
+u
+m
+i 
+u
+zu
+n
+lu
+ğ
+u
+, 
+m
+ 
+  
+ İ
+p
+ək
+ t
+el
+in
+ q
+ır
+ıl
+m
+ad
+an
+ a
+çı
+la
+n
+ 
+  
+ u
+zu
+n
+lu
+ğ
+u
+, 
+m
+  
+  
+ İ
+p
+ək
+ t
+el
+in
+ m
+et
+ri
+k
+ n
+ö
+m
+rə
+si
+, 
+m
+/q
+ 
+  
+ B
+ir
+ q
+ra
+m
+ q
+u
+rd
+d
+an
+ m
+əh
+su
+l:
+ 
+  
+  
+  
+  
+  
+  
+  
+- 
+d
+ir
+i 
+b
+ar
+am
+a 
+k
+q
+ 
+  
+  
+  
+  
+  
+  
+  
+- 
+q
+u
+ru
+ b
+ar
+am
+a,
+ k
+q
+ 
+  
+  
+  
+  
+  
+  
+  
+- 
+x
+am
+ i
+p
+ək
+, 
+%
+ 
+ 
+3.2. Sintetik seleksiya 
+ 
+ Jinsarası çarpazlaşdırma və istiqamətli seçmə vasitəsilə 
+yeni tut ipəkqurdu jinslərinin yaradılmasına sintetik seleksiya 
+deyilir. 
+ İrəlidə qeyd etdik ki, çarpazlaşdırma zamanı ilkin 
+jinslərin irsiyyəti rekombinasiya olunur, nətijədə irsi 
+ 35 
+dəyişkənlik artır, alınmış hibrid nəslin irsiyyəti zənginləşir və 
+heteroziqotluğu yüksəlir ki, bu da seleksiya üçün çox əlverişli 
+imkanlar yaradır. Odur ki, yeni tut ipəkqurdu jinslərinin 
+yaradılmasında sintetik seleksiya metodundan çox geniş 
+istifadə olunur. Respublikamızın ipəkçi seleksiyaçılarından 
+R.Hüseynov [93], R.Hüseynov, S.Eminbəyli [44], 
+R.Hüseynov, N.Bədəlov, Q.Qədimova [42], R.Hüseynov və 
+əməkdaşları [45, 97, 98], Ə.Əliyev və əməkdaşları [66, 67], 
+N.Bədəlov, Z.Hajıyeva [29, 30], N.Bədəlov, S.Verdiyeva [74], 
+N.Bədəlov, Q.Məmmədov, E.Hüseynova [33], N.Bədəlov, 
+M.İsgəndərova, Q.Qədimova [78], Z.Hajıyeva [90], 
+B.Abbasov [1, 51] və digər seleksiyaçılarımız məhz sintetik 
+seleksiya metodundan istifadə etməklə yüksək məhsuldar, 
+xəstəliyə dözümlü, yemi yüksək ödəyən, texniki ipəyin 
+tələblərinə javab verən, yüksək texnoloci göstərijilərə və sair 
+qiymətli xüsusiyyətlərə malik olan bir çox yeni tut ipəkqurdu  
+jinsləri  yaratmışlar. Digər ölkələrin seleksiyaçıları da yeni tut 
+ipəkqurdu jinslərinin yaradılmasında sintetik seleksiyadan 
+geniş istifadə edirlər [63, 104, 105, 137, 164, 183, 226, 240]. 
+ Sintetik seleksiya zamanı dəyişdiriji çarpazlaşdırmanın 
+irəlidə göstərdiyimiz hər 3 metodundan – törədiji, daxilediji və 
+uduju çarpazlaşdırmalardan istifadə olunur. Sonunju iki 
+çarpazlaşdırma metodundan yeni tut ipəkqurdu jinslərinin 
+yaradılmasında ötən əsrin ortalarına qədər daha çox istifadə 
+olunurdu. Buna misal olaraq [140]-dan iqtibas olunmuş bəzi 
+seleksiya işlərini göstərmək olar. A.Emmanilov SANİİŞ-3 
+jinsini yaxşılaşdırılan, SANİİŞ-13 jinsini isə yaxşılaşdırıjı jins 
+kimi götürməklə uduju çarpazlaşdırma apararaq SANİİŞ-15 
+jinsini yaratmışdır (şək. 2). M.Valiullina isə Bağdad və 
+Ağbaramalı-5 jinslərindən istifadə edərək uduju çarpazlaşdır-
+ma vasitəsilə yeni SANİİŞ-19 jinsini yaradıb (şək. 3). 
+N.Şurşikova və A.Emmanuilov isə törədiji çarpazlaşdırma 
+vasitəsilə apardıqları seleksiya işlərində həm də daxilediji 
+çarpazlaşdırmadan istifadə ediblər. Belə ki, N.Şurşikova 
+ 36 
+Slonim və Çin-13 jinslərinin törədiji çarpazlaşdırılmasından 
+aldığı hibrid material üzərində 5-ji nəslədək seleksiya aparmış, 
+lakin istədiyi nətijəni ala bilmədiyi üçün, 5-ji nəsildə həmin 
+materialın Ağbaramalı-3 jinsi ilə daxilediji çarpazlaşdırmasını 
+apararaq SANİİŞ-9 jinsini yaratmışdır (şək. 4). A.Emmanuilov 
+isə Askoli və bivoltin SANİİŞ-111 jinslərini çarpazlaşdıraraq 
+aldığı hibrid material üzərində 9-ju nəslə qədər seçmə aparmış, 
+lakin baramanın ipəkliliyini tələb olunan səviyyəyə çatdıra 
+bilmədiyi üçün 9-ju nəsildə daxilediji çarpazlaşdırma aparmış 
+və bundan sonra SANİİŞ-EI  
+    
+        SANİİŞ-3                                    Bağdad                                                            
+                             SANİİŞ-13                                                        Ağbaramalı-5         
+                                         
+             F1                                       SANİİŞ-13                                              Ağbaramalı-5 
+                                                                F1               
+             F2                          SANİİŞ-13                                              Ağbaramalı-5                              
+                                                                          F2                            
+                                                                               
+                   
+                              SANİİŞ-15                                       SANİİŞ-19  
+Şəkil 2. Uduju çarpazlaşdırma                Şəkil 3. Uduju çarpazlaşdırma                                                                                                
+ vasitəsilə SANİİŞ-15  jinsinin                vasitəsilə SANİİŞ-19.jinsinin      
+yaradılması sxemi                                     yaradılması sxemi  
+  ([140]-dan götürülüb)                             ([140]-dan  götürülüb).                                                                                           
+                                                                               
+ 
+  
+                Slonim                       Çin-13                             Askoli                           SANİİŞ-111                                   
+                                                                                                         
+ 
+                   F1                                                       F1                                                                                   
+                                  
+ 37 
+                   F2                                                                                  F2     
+                                      Ağbaramalı-3                                   SANİİŞ-6                                                      
+                   F5                                                                                                                                     F9 
+  
+ 
+                                SANİİŞ-9                                            SANİİŞ-EI   
+ 
+Şəkil 4. SANİİŞ-15  jinsinin yaradıl-          Şəkil 5. SANİİŞ-EI jinsinin 
+ması sxemi ([140]-dan götürülüb).            yaradılması sxemi ( [140]-  dan 
+                                                                           götürülüb).                                                                            
+jinsini yaratmışdır (şək. 5). Sonunju 2 misal göstərir ki, hər  iki  
+seleksiya  işində törədiji çarpazlaşdırma üçün ilkin valideyin 
+jinslər düzgün seçilməmiş, hibrid material üzərin-də aparılan 
+seçmə isə kifayət qədər səmərəli olmamışdır. Bu hal, o dövrdə 
+aparılan əksər sintetik seleksiya işləri üçün xarakterik idi. 
+Çünki,  o dövrdə keçmiş SSRİ-də genetikanın yasaq olunması 
+ilə əlaqədar, tut ipəkqurdu jinslərinin və onların seleksiya 
+əlamətlərinin bir çox genetik xüsusiyyətləri, o jümlədən 
+jinslərin genetik kombinasiya qabiliyyəti və seçmə 
+əlamətlərinin genetik parametr-ləri haqqında ipəkçi 
+seleksiyaçıların təsəvvürləri çox az idi. Bu isə sintetik 
+seleksiya zamanı çarpazlaşdırma üçün ilkin valideyin jinslərin 
+düzgün seçilməsini və seleksiya materialı üzərində aparılan 
+seçmənin yüksək səmərəliliyini heç də həmişə təmin edə 
+bilmirdi. Sonrakı dövrdə, genetikanın inkişafı və yuxarıda gös-
+tərilənməsələlərin getdikjə daha ətraflı öyrənilməsi vəziyyəti 
+tədrijən dəyişərək törədiji çarpazlaşdırmanı və istiqamətli 
+seçməni sintetik seleksiyanın əsas metodlarına çevirdi. 
+ Sintetik seleksiyada istifadə olunan törədiji çarpaz-
+laşdırma iştirakçı jinslərin sayından asılı olaraq sadə (2 jins) və 
+mürəkkəb (3 və daha çox jins) ola bilər. Mürəkkəb 
+çarpazlaşdırmaya nümunə kimi prof. R.Hüseynov tərəfindən 
+Azərbayjan jinsinin yaradılması sxemini göstərmək olar (şək. 
+6). 
+ 38 
+ İpəkçilikdə müasir sintetik seleksiya proqramı aşa-
+ğıdakı  ən mühüm komponentlərdən ibarətdir: 
+ 1) yaradılajaq yeni jinsin modelinin (standartın və ya 
+limitlərin) müəyyənləşdirilməsi; 
+ 2) çarpazlaşdırma üçün ilk materialın, yəni ilkin vali-
+deyin jinslərin seçilməsi; 
+3) seçilmiş valideyin jinslərin çarpazlaşdırılması, 
+alınmış hibridlərin qiymətləndirilməsi və ən yaxşı hibridin 
+başlanğıj seleksiya populyasiyası qismində seçilməsi; 
+4) seçmə prosesinin planlaşdırılması: 
+   a) başlanğıj seleksiya populyasiyasının həjminin 
+(neçə ailədən ibarət olajağının) və hər ailədən analiz üçün 
+götürüləjək nümunələrdə baramaların miqdarının müəy-
+yənləşdirilməsi; 
+   b) aparıjı (əsas) və köməkçi seleksiya əlamətlərinin 
+müəyyənləşdirilməsi; 
+   j) ailələrin və fərdlərin genotipinə görə qiymətlən-
+dirilməsi və  seçilməsi metodunun müəyyənləşdirilməsi;                                                       
+      ç) seçmə intensivliyinin, yəni seçiləjək ailələrin və 
+fərdlərin qisminin  (%-nin)  müəyyənləşdirilməsi; 
+    d)  seçilmiş  damazlıq  materialın çoxaldılması  
+metodunun müəyyənləşdirilməsi;       
+ 5)  seleksiya proqramının reallaşdırılması və yeni jinsin 
+yaradılması. 
+ Sintetik seleksiya vasitəsilə yeni tut ipəkqurdu jins-
+lərinin yaradılmasının nətijələri seleksiya proqramının yu-
+xarıda  göstərdiyimiz komponentlərinin  düzgün  müəyyən- 
+ 
+                                                        ləşdirilməsindən  asılıdır.                  
+      Ağbaramalı-1       Ağbaramalı-2         Bu məsələnin  praktiki selek- 
+                                       siyaçılar üçün vajibliyini nə- 
+                        Ağbaramalı-3                  zərə alaraq, aşağıda həmin 
+                             F1                                                                                       komponentlərdən hər birinin 
+                                                   düzgün  müəyyənləşdiril- 
+                     F2                  Bağdad  məsinin əsas prinsiplərini   
+ 39 
+                                                   aydınlaşdırmağa çalışmışıq                                                                                                                                                                                                                                                                                                                    
+   .                 
+                                           Azərbayjan 
+ 
+Şəkil 6. Azərbayjan jinsinin                Sintetik seleksiya proqramı- 
+              yaradılması sxemi             nın ən birinji məsələsi (kompo-             
+nenti) yeni yaradılajaq jinsin optimal modelinin müəy-
+yənləşdirilməsi və ya işlənib hazırlanmasıdır. Tut ipəkqurdu 
+jinsinin optimal modeli dedikdə elə bir etalon və ya standart 
+nəzərdə tutulur ki, onun parametrləri tut ipəkqurdunun 
+təsərrüfat dəyərli seleksiya  əlamətlərinin müəyyən dövr 
+ərzində optimal (və  ya  ideal) hesab olunan qiymətlərini 
+(limitlərini) əks etdirsin və seleksiyaçı yeni yaradajağı jinsin 
+müvafiq göstərijilərini həmin limitlərə çatdırmağa və ya 
+yaxınlaşdırmağa çalışsın. Jinsin optimal modeli elə 
+hazırlanmalıdır ki, onun parametrləri tarazlaşdırılmış olsun, 
+yəni seleksiya əlamətlərinin limit qiymətləri bir-birinə uyğun 
+gəlsin. Bu məsələnin həllində seleksiyaçılara praktiki kömək 
+məqsədilə tərəfimizdən jinsin optimal modeli işlənib 
+hazırlanmışdır [6]. Bu model tut ipəkqurdunun baramasının 
+bütün bioloci və texnoloci göstərijilərinin hazırki dövr üçün 
+mütərəqqi sayılan optimal limit qiymətlərini özündə əks 
+etdirir. Seleksiyaçılar bu modellə və onun nejə işlənib 
+hazırlanması ilə kitabın VI fəslində ətraflı tanış ola bilərlər. 
+ Sintetik seleksiyanın ikinji mühüm məsələsi ilk 
+materialın, yəni çarpazlaşdırma üçün ilkin valideyin jinslərin 
+seçilməsidir. Bu msələnin həlli üçün variantlar çoxdur. Lakin, 
+ən düzgün və optimal variant genetik ehtiyatlardan, yəni tut 
+ipəkqurdunun genofondundan istifadə olunmasıdır. Yeni tut 
+ipəkqurdu jinslərinin yaradılmasında genofondun rolu 
+əvəzsizdir. Buna görə də, Milli tut ipəkqurdu genofondlarının 
+yaradılmasına, qorunub saxlanılmasına və praktiki seleksiyada 
+istifadə məqsədilə öyrənilməsinə bir çox ipəkçilik ölkələrində, 
+o jümlədən Hindistanda [181, 196, 229], Yunanıstanda [195], 
+Çində [199], Ukraynada [202], Rumıniyada [204], 
+ 40 
+Bolqarıstanda [224], Özbəkistanda [239], Taylandda [230] və  
+Koreyada [227] xüsusi  fikir  verilir. Azərbayjanda  Milli tut 
+ipəkqurdu genofondu ötən əsrin 50-ji illərində Azərbayjan 
+Elmi-Tədqiqat İpəkçilik İnstitutunda yaradılmış, bu günə 
+qədər qorunub saxlanılmış və xeyli zənginləşdirilmişdir. 
+Azərbayjan Respublikasının Prezidenti H.Ə.Əliyevin «Bioloci 
+müxtəlifliyin genetik ehtiyatları üzrə  Dövlət Komissiyasının 
+yaradılması haqqında» 22 dekabr 2001-ji il tarixli 
+sərənjamından sonra respublikamızda bütün bitki və heyvan 
+növlərinin, o jümlədən tutun və tut ipəkqurdunun genetik 
+ehtiyatlarına diqqət daha da güjləndirilmişdir. AzETİİ-də 
+saxlanılan tut ipəkqurdu genofondunun öyrənilməsinə dair 
+tədqiqat işləri də xeyli genişləndirilmişdir [19, 20, 21, 22, 
+179]. Beləliklə, zəngin tut ipəkqurdu genofondunun 
+mövjudluğu çarpazlaşdırma üçün valideyin jinslərin tapılıb 
+seçilməsini xeyli asanlaşdırır. Aydın məsələdir ki, jinslərin 
+seçilməsi üçün onlar hər hansı bir qaydada 
+qiymətləndirilməlidir. Bunun üçün, mümkün variantlardan biri 
+kimi, seçilməsi nəzərdə tutulan hər bir jinsin müvafiq 
+göstərijilərini yuxarıda haqqında söhbət açdığımız optimal 
+modelin limitləri ilə müqayisə edərək bu limitlərə daha çox 
+yaxınlaşan və ya çatan jinsləri seçmək olar. 
+ Bundan sonra, növbəti mühüm məsələ ilkin olaraq 
+seçilmiş jinslərin arasından, çarpazlaşdırma yolu lə keyfiyyətli 
+başlanğıj seleksiya populyasiyası əldə etmək üçün, daha 
+yararlı olan konkret valideyin jinslərin müəy-
+yənləşdirilməsidir. Bu məsələnin həlli üçün müxtəlif yanaşma 
+tərzi mövjuddur. Birinji və ənənəvi yanaşma ondan ibarətdir 
+ki, ilkin seçilmiş jinslər çarpazlaşdırılır, alınmış hibridlər 
+eksperimental bəslənilir, onların lazım olan təsərrüfat dəyərli 
+əlamətlərinin fenotipik qiymətləri təyin olunur, bu qiymətlər 
+əsasında ən yaxşı hesab olunan hibrid seçilərək başlanğıj 
+seleksiya populyasiyası qismində istifadə olunur. Lakin, 
+başlanğıj seleksiya populyasiyasının belə qaydada seçilməsi 
+ 41 
+onun üzərində aparılajaq sonrakı seleksiya işlərinin səmərəli 
+olajağına heç bir təminat vermir. Çünki, belə seçmə zamanı nə 
+başlanğıj seleksiya populyasiyası, nə də onun valideyin jinsləri 
+haqqında heç bir genetik informasiya əldə olunmur. Bu isə 
+seçilmiş materialın fenotipi və genotipi arasında nə dərəjədə 
+uyğunluq olduğu-nu müəyyənləşdirməyə imkan vermir. 
+ Bu məsələnin həlli üçün bəizi seleksiyaçılar riyazi 
+proqnozlaşdırmadan və seleksiya indekslərindən istifadə 
+edirlər [61, 222]. İlkin seçilmiş jinslərin çarpazlaşdırılma-
+sından alına biləjək hər bir gələjək hibridin seleksiya indeksi 
+(İ) aşağıdakı düsturla hesablanır [61]: 
+  
+İ=
+
+
+
+
+
+
+
+
+
+
+
+opt
+n hx 2
+1
+ 
+ 
+burada   x    - gələjək hibridin seleksiya əlamətinin 
+proqnozlaşdı- 
+                        rılmış qiyməti; 
+               xopt – həmin əlamət üçün limit qiyməti (seleksiyaçı    
+                         tərəfindən müəyyənləşdirilir); 
+    h
+2
+    -  həmin əlamətin irsən keçmə əmsalı; 
+    ∑     -  jəm işarəsi 
+      n    -  indeksə daxil edilmiş əlamətlərin sayı. 
+Yuxarıdakı düsturdan aydın olur ki, seleksiya indeksinə 
+gələjək hibridin 2 və daha çox əlaməti daxil  edilə bilər. 
+Gələjək hibridin hər bir əlamətinin proqnozlaşdırılmış qiyməti 
+onun valideyin jinslərinin müvafiq əlamətinin faktiki 
+(eksperimental) orta qiymətləri əsasında xətti reqressiya 
+tənlikləri vasitəsilə təyin olunur. Məsələn, müəlliflər [61] 
+hibridin seleksiya indeksinin tərkibinə daxil etdikləri 2 
+əlamətin – diri baramanın ipəkliliyinin və kütləsinin proq-
+nozlaşdırılan qiymətlərini aşağıdakı reqressiya tənlikləri ilə 
+təyin ediblər: 
+ 
+ 42 
+     y1 = 0,601 x1 + 10,9;   y2 = 0,911 x2 + 0,408 
+ 
+burada y1, y2 - hibridin diri baramasının ipəkliliyinin və   
+                          kütləsinin proqnozlaşdırılan qiymətləri; 
+            x1, x2 - hibridin valideyin  jinslərinin müvafiq            
+                        əlamətlərinin faktiki orta qiymətləri. 
+Buradan aydın olur ki, göstərilən yanaşmadan istifadə 
+olunajağı təqdirdə, hibridin seleksiya indeksinin tərkibinə 
+daxil ediləjək hər bir əlamətin qiymətinin proqnozlaşdırılması 
+üçün ümumi halda  ixyyi xbay  şəklində ifadə olunan xətti 
+reqressiya tənliyinin bütün parametrləri eksperimental 
+verilənlər əsasında təyin olunmalıdır. 
+ Nəzərdən keçirdiyimiz  məsələnin həllinin üçünjü yolu 
+valideyin jinslərin genetik kombinasiya qabiliyyətinin təyin 
+olunmasına əsaslanır. Bitki və heyvan seleksiyasının çoxillik 
+praktikası göstərmişdir ki, valideyin sortların və ya jinslərin 
+kombinasiya qabiliyyəti əsasında seçilməsi məsələnin ən 
+düzgün, səmərəli və elmi jəhətdən əsaslandırılmış yoludur 
+[115, 131, 139, 154]. Odur ki, bu yanaşmadan tut ipək-
+qurdunun sintetik seleksiyasında getdikjə daha geniş istifadə 
+olunur [50, 60, 86, 180, 214, 234, 235]. 
+ Kombinasiya qabiliyyəti ümumi və spesifik olur. 
+Ümumi kombinasiya qabiliyyəti (ÜKQ) jinsin müxtəlif hibrid 
+kombinasiyalarda orta genetik dəyərini ifadə edir və həmin 
+jinsin iştirak etdiyi hibridlərin orta qiymətinin bütün 
+hibridlərin orta qiymətindən fərqi ilə ölçülür. Spesifik kom-
+binasiya qabiliyyəti (SKQ) hər bir konkret hibrid kom-
+binasiyanın onun hər iki valideyninin orta  ÜKQ-si əsasında 
+gözlənilən səviyyədən nə dərəjədə yaxşı və ya pis olduğunu 
+səjiyyələndirir. ÜKQ  genlərin additif təsirini, SKQ  isə 
+genlərin qeyri-additiv, yəni dominant və epistatik təsirini əks 
+etdirir [131, 139, 154]. Kombinasiya qabiliyyətinin öyrənil-
+məsi üçün müxtəlif çarpazlaşdırma metodlarından – diallel 
+çarpazlaşdırmadan, topkrosslardan, polikrosslardan və s. 
+ 43 
+istifadə olunur. ÜKQ və  SKQ haqqında daha dolğun 
+informasiya diallel çarpazlaşdırmadan istifadə etdikdə alınır. 
+Diallel çarpazlaşdırma zamanı ÜKQ və  SKQ-nin 
+genetikriyazi analiz yolu ilə təyin olunması üçün B.Qriffinq 
+tərəfindən təklif olunmuş və analizə jəlb olunan eksperimental 
+materialın həjminə görə bir-birindən fərqlənən aşağıdakı 4 
+metoddan (sxemdən) istifadə olunur [139]: 1) analizə düzünə 
+və tərsinə hibrid kombinasiyalar, habelə valideyin jinslər, jəmi 
+p
+2
+ sayda (p - valideyin jins-lərin sayıdır) kombinasiya daxil 
+edilir; 2) analizə valideyin jinslər və düzüna hibridlər, jəmi  p 
+(p + 1) ∙0,5 sayda kombinasiya daxil edilir; 3) analizə düzünə 
+və tərsinə hibridlər, jəmi p (p - 1) sayda kombinasiya daxil 
+edilir; 4) analizə yalnız düzünə hibridlər, jəmi  p (p - 1) ∙0,5 
+sayda kombinasiya daxil edilir. 
+ Başlanğıj seleksiya populyasiyasının valideyin jinslərin 
+kombinasiya qabiliyyəti əsasında qiymətləndirilməsinin və 
+seçilməsinin tut ipəkqurdunun seleksiyasında praktiki tətbiqini 
+özümüzün apardığımız sintetik seleksiyanın eksperimental 
+materialları əsasında nəzərdən keçirək. 
+ 1981-ji ildə bizə, müxtəlif joğrafi mənşəli jinslərdən 
+istifadə etməklə, sintetik seleksiya vasitəsilə, yüksək ipəkliliyə 
+malik olan 2 yeni jins yaratmaq tapşırığı verilmişdi. Başlanğıj 
+seleksiya populyasiyası əldə etmək üçün valideyin qismində 
+ilkin olaraq 5 jins – Şəki-1 və Şəki-2 (Azərbayjan), 
+Taşkentskaya-13 (Özbəkistan), Ukrainskaya fibroinovaya və 
+Ukrainskaya novaya (Ukrayna) jinsləri götürüldü (aşağıda 
+mətndə və jədvəllərdə bu jinslərin adı qısaldılmış şəkildə, 
+müvafiq olaraq Ş-1, Ş-2, T-13, UF, UN kimi göstərilmişdir). 
+1981-ji ilin yaz mövsümündə bu jinslərin ailə yemləməsi 
+aparıldı. Yemləmənin sonunda jinslər arasında B.Qriffinqin IV 
+sxemi [139] əsasında çarpazlaşdırma aparılaraq aşağıdakı 10 
+hibridin qrenası hazırlandı:    Ş-1 x Ş-2, Ş-1 x T-13, Ş-1 x UF, 
+Ş-1 x UN, Ş-2 x T-13, Ş-2 x UF, Ş-2 x UN, T-13 x UF,  T-13 
+x UN və UF x UN. Bu hibridlərin qrenası süni dirildilərək 
+ 44 
+həmin ilin yay mövsümündə hər hibridin, təkrarda 150 qurd 
+olmaqla, 4 təkrarda yemləməsi aparıldı. Yemləmənin sonunda 
+hibridlərin bütün bioloci və texnoloci göstərijiləri təyin 
+olundu. İşin məqsədini (yüksək ipəkli jinslərin yaradılmasını) 
+nəzərə alaraq aparıjı (əsas) seleksiya əlaməti kimi diri 
+baramanın ipəkliliyini, köməkçi seleksiya əlaməti kimi isə 
+barama pərdəsinin kütləsini seçdik. Hibridlərin hər iki 
+seleksiya əlamə-tinin yay mövsümündə təyin olunmuş orta 
+qiymətləri jədv. 6-da verilmişdir. Hər iki əlamətə görə ümumi 
+və spesifik kombinasiya qabiliyyətinin B.Qriffinqin IV metodu 
+[139] əsasında təyin olunmuş genetik parametrləri, yəni SKQ 
+effekti (Ŝic), SKQ variansası (
+2ˆ
+is
+ ) və ÜKQ variansası ( 2ˆ
+ig
+ ) 
+jədv.7 və jədv. 8-də verilmişdir. Jədv. 7-də verilənlərdən aydın 
+olur ki, diri baramanın ipəkliliyinə görə yüksək ÜKQ-yə Ş-1 
+(ĝ1=0,246), T-13 (ĝ3=0,326) və UF (ĝ4=0,226) jinsləri, aşağı 
+ÜKQ-yə isə Ş-2 (ĝ2=-0,204) və UN (ĝ5= -0,594) jinsləri 
+malikdir. Ş-2 jinsi ( 2
+2
+ˆ
+s =0,130) yüksək, T-13 (
+2
+3
+ˆ
+s =0,110), UF 
+( 2
+4
+ˆ
+s  =0,116) və UN (
+2
+5
+ˆ
+s  =0,078) jinsləri orta, Ş-1 (
+2
+1
+ˆ
+s = -
+0,037) jinsi isə aşağı SKQ-yə malikdirlər. Barama pərdəsinin 
+kütləsinə görə (jədv. 8) yüksək ÜKQ-yə Ş-1 (ĝ1=3,75),   T-13 
+(ĝ3=12,07) və UF (ĝ4=2,73) jinsləri, aşağı ÜKQ-yə isə Ş-2 
+(ĝ2= -1,60) və UN  (ĝ5=-16,93) jinsləri malikdirlər. Yüksək 
+SKQ Ş-1 ( 2
+1
+ˆ
+s =118,69) və Ş-2 (
+2
+2
+ˆ
+s =116,37) jinslərində, orta 
+SKQ T-13 ( 2
+3
+ˆ
+s = 89,02) və UF (
+2
+4
+ˆ
+s = 85,25) jinslərində, aşağı 
+SKQ isə UN ( 2
+5
+ˆ
+s = 5,20) jinsində müşahidə olunur. 
+Apardığımız genetik anali-zin nətijələri göstərir ki, hər iki 
+əlamətə görə yüksək ümumi  
+                                                                                                                                                                                          
+Jədvəl 6 
+Diri baramanın ipəkliliyinin (diaqonaldan yuxarıda) və barama 
+pərdəsinin kütləsinin (diaqonaldan aşağıda) 
+ hibridlər üzrə orta qiymətləri (yay, 1981-ji il) 
+ 45 
+ 
+Jinslər Ş-1 Ş-2 T-13 UF UN 
+Ş-1 
+Ş-1 
+T-13 
+UF 
+UN 
+- 
+360 
+347 
+349 
+330 
+21,06 
+- 
+355 
+333 
+322 
+21,42 
+20,68 
+- 
+369 
+340 
+21,32 
+20,51 
+22,00 
+- 
+332 
+20,41 
+20,61 
+20,35 
+20,32 
+- 
+ 
+ 
+                                                                                 Jədvəl 7 
+Diri baramanın ipəkliliyinə görə jinslərin ümumi  
+və spesifik kombinasiya qabiliyyətinin parametrləri 
+ 
+Jinslər 
+Ŝic ĝi 
+2ˆ
+ig
+  2ˆ
+s
+  
+Ş-1 Ş-2 T-13 UF UN 
+Ş-1 
+Ş-1 
+T-13 
+UF 
+UN 
+- 0,15 
+- 
+-0,02 
+-0,31* 
+- 
+ 
+-0,02 
+-0,38* 
+0,58* 
+- 
+-0,11 
+   0,54* 
+ -0,25 
+ -0,18 
+- 
+0,246* 
+  -0,204 
+0,326* 
+0,226* 
+-0,594* 
+0,049 
+0,031 
+0,095 
+0,040 
+0,342 
+-0,037 
+0,130 
+0,110 
+0,116 
+0,078 
+                               *ƏKMF0,05 Ŝic = 0,029;       *ƏKMF0,05 ĝi = 0,210       
+                                                                                              
+                                                                                             
+Jədvəl 8 
+    Barama pərdəsinin kütləsinə  görə  jinslərin ümumi  
+və spesifik kombinasiya qabiliyyətinin parametrləri 
+                      
+Ji
+n
+sl
+ər
+ 
+Ŝic 
+ĝi 
+2ˆ
+ig
+  
+ 
+2ˆ
+s
+  
+ 
+Ş-1 Ş-2 T-13 UF UN 
+Ş-1 
+Ş-1 
+T-13 
+UF 
+UN 
+- 14,16* 
+- 
+-12,50* 
+0,83 
+- 
+ 
+  -1,17* 
+-11,84 
+10,50* 
+- 
+-0,50 
+-3,17* 
+1,16* 
+2,50* 
+- 
+ 3,75** 
+-1,60** 
+12,07** 
+  2,73** 
+-16,93* 
+13,54 
+2,40 
+146,26 
+7,14 
+285,46 
+118,69 
+116,37 
+89,02 
+85,25 
+5,20 
+                               *ƏKMF0,05 Ŝic = 1,08;       **ƏKMF0,01 ĝi = 1,06       
+ 
+ 46 
+və orta spesifik kombinasiya  qabiliyyətinə  malik  olan Ş-1,   
+T-13 və UF jinsləri sintetik seleksiya populyasiyalarının 
+yaradılması üçün daha yararlıdırlar. Odur ki. biz iki başlanğıj 
+seleksiya populyasiyası qismində həmin jinslərin hibrid 
+kombinasiyalarını, daha dəqiq desək T-13 x UF və Ş-1 x T-13 
+hibridlərini seçdik.  
+ Jinslərin kombinasiya qabiliyyətinin genetik-riyazi 
+analizi sayəsində, çox qısa bir vaxtda, təkrar çarpazlaşdırmalar 
+aparmadan yüksək genetik keyfiyyətli 2 başlanğıj seleksiya 
+populyasiyası əldə olundu. Bu populyasiyaların yüksək 
+yararlılığını sonrakı seleksiya işləri də təsdiq etdi. Belə ki, hər 
+iki populyasiya üzərində aparılan seleksiya iş-ləri 8-ji nəsildə 
+yüksək ipəkliliyə və texnoloci göstərijilərə malik olan yeni 
+Mayak-1 və Mayak-2 jinslərinin yaradıl-ması ilə nətijələndi.  
+ Beləliklə, yuxarıda şərh etdiklərimizdən aydın olur ki, 
+sintetik seleksiya zamanı keyfiyyətli başlanğıj seleksiya 
+materialı əldə etmək üçün daha yararlı valideyin jinslərin 
+seçilməsi, onların kombinasiya qabiliyyətinin genetik-riyazi 
+təhlilinə əsaslanmalı və bu məqsədlə yüksək ümumi 
+kombinasiya qabiliyyətinə malik olan jinslər seçilməlidir. 
+ Sintetik seleksiyanın ən mühüm məsələlərindən biri də 
+seçmə prosesinin planlaşdırılmasıdır. Ümumiyyətlə, istər 
+sintetik, istərsə də analitik seleksiya zamanı yeni jinsin yara-
+dılmasında istiqamətli seçmə həllediji rol oynayır. Odur ki, 
+seçmə prosesinin düzgün planlaşdırılması se-leksiya effektini 
+əhəmiyyətli dərəjədə yüksəltməyə və nətijə etibarilə yeni 
+jinsin yaradılmasnı daha qısa müddətdə və keyfiyyətlə başa 
+çatdırmağa imkan verir. Seçmə prosesinin düzgün 
+planlaşdırılması üçün, onun səmərəliliyinə təsir edən ən 
+mühüm seleksiya elementləri (seleksiya popul-yasiyasının 
+həjmi,aparıjı və köməkçi seleksiya əlamətləri, seçmə metodu, 
+seçmə intensivliyi və s.) düzgün müəyyənləşdirilməlidir. Bu 
+elementlər və onların nejə müəyyən-ləşdirilməsi barədə 
+irəlidə, analitik seleksiyadan bəhs edər-kən məlumat vermişik. 
+ 47 
+Odur ki, burada yalnız mühüm bir məsələ üzərində dayanmağı 
+lazım bilirik. Söhbət tut ipək-qurdunun seleksiyasında geniş 
+istifadə olunan pilləli seçmədən – ailə və fərdi seçmə 
+metodlarının uzlaşdırılma-sından gedir. Bu zaman əvvəljə 
+ailələr qiymətləndirilir və ən yaxşı ailələr seçilir, sonra isə 
+seçilmiş ailələrdəki fərdlər qiymətləndirilir və ən yaxşıları 
+damazlıq material qismində seçilir. Pilləli seçmənin praktiki 
+tətbiqi zamanı yol verilən əsas nöqsan, ailələrin və fərdlərin 
+genotipinə görə deyil, fenotipinə görə qiymətləndirilməsi və 
+seçilməsidir ki, bu da seçmənin səmərəliliyini xeyli azalda 
+bilir. Çünki, obyektin (ailənin və ya fərdin) yaxşı fenotipə 
+malik olması hələ heç də onun yaxşı genotipə malik olmasına 
+dəlalət etmir. Bunu nəzərə alaraq biz, tut ipəkqurdu ailələrinin 
+və fərdlərinin genotipinə görə qiymətləndirilməsi və seçilməsi 
+metodi-kasını işləyib hazırlamışıq və pilləli seçmə aparmaq 
+üçün bu metodikadan istifadə olunmasını tövsiyə edirik. 
+Metodi-kanın mahiyyəti, istifadə qaydaları və alqoritmləri 
+kitabın VI fəslində müfəssəl şərh olunur. 
+ 
+ 
+II  FƏSİL.  SELEKSİYANIN VƏ  ÇOXALDILMANIN     
+       XÜSUSİ  GENETİK  METODLARI 
+ 
+ Tut ipəkqurdu üzərində arası kəsilmədən aparılan 
+genetik tədqiqatlar sayəsində bir çox mühüm genetik məsələlər 
+ətraflı öyrənilmiş, o jümlədən qametlərin yetişməsi və 
+mayalanma kimi intim proseslərin gedişinə müdaxilə etmək 
+üçün metodlar işlənib hazırlanmışdır. Nətijədə, müxtəlif 
+təsirlərin köməyi ilə bu proseslərin sitogenetik mexanizmini 
+kökündən dəyişdirmək və bununla da əlamətlərin, o jümlədən 
+jinsiyyətin nəslə keçməsini radikal şəkildə dəyişdirmək və 
+tənzimləmək mümkün olmuşdur. Söhbət süni 
+partenogenezdən, ginogenezdən, androge-nezdən, 
+poliploidiyadan və bunların sayəsində mümkün olan 
+klonlaşdırmadan gedir. Bu məsələlər barədə verə-jəyimiz 
+ 48 
+məlumatların anlaşıqlı olması üçün tut ipəkqurdunda 
+jinsiyyətin genetikasına dair qısa izahat verməyi lazım bilirik. 
+ Tut ipəkqurdu jinsi yolla çoxalır. Onun 28 jüt xromo-
+somu var, bunlardan bir jütü, yəni Z və W xromosomları 
+jinsiyyət xromosomlarıdır. Ziqotada ZZ xromosomlarının 
+olması erkək fərdin inkişafını, ZW xromosom-larının olması 
+isə dişi fərdin inkişafını şərtləndirir. W xromosomu, genomda 
+iştirak edən Z xromosomların sayından asılı olmayaraq, dişi 
+jinsiyyəti determinə edir. Qameto-genez və jinsiyyət 
+hüjeyrələrinin yetişməsi, mayalanma və erkən embriogenez 
+kəpənəklər üçün tipikdir. Erkəklərdə meyoz qurd (tırtıl) 
+dövründə tam başa çatır. Mayalanmaya hazır olan oositlərdə 
+yetişmə bölünməsi I metafaza mərhələsində qapanmış olur. 
+Krossinqover (homoloci xromo-somlar arasında gen 
+mübadiləsi) yalnız homoqamet erkək-lərdə baş verir, dişilərdə 
+isə olmur. Yetişmə bölünməsinin qapanması yumurtaya 
+spermatozoidlər daxil olduqdan dərhal sonra aradan qalxır. Tut 
+ipəkqurdunda təbii poli-spermiya mövjuddur: yumurtaya 2-
+dən 5-ə qədər spermi daxil olur. Yumrtaların 
+mayalanmasından 1 saat sonra birinji (reduksion) yetişmə 
+bölünməsi, 2 saat sonra isə ikinji (ekvasion) bölünmə başa 
+çatır, nətijədə 4 haploid nüvə əmələ gəlir. Bunlardan üçü qütb 
+jisimjiyinə çevrilir, biri isə pronukleusa çevrilərək yumurtanın 
+dərinliyinə çəkilir. Yumurtaların mayalanmasından 2,5-3,5 
+saat sonra dişi və erkək pronukleuslar qovuşaraq diploid 
+parçalanma nüvəsi əmələ gətirirlər. 
+ 
+1. Süni  partenogenez 
+ 
+Partenogenez  və ya bakirə çoxalma dişi jinsiyyət 
+hüjeyrəsinin mayalanmadan inkişaf etməsinə deyilir. 
+Partenogenez təbii və süni olur. 
+Tut ipəkqurdu üzərində süni partenogenez ilk dəfə 
+görkəmli rus zooloqu, prof. A.Tixomirov tərəfindən 1885-ji 
+ildə kəşf olunmuşdur [162]. O, tut ipəkqurdunun ma-
+ 49 
+yalanmamış qrenasına güjlü turşu (HJl və H2SO4) məhlulları 
+ilə, habelə şotku ilə sürtməklə təsir göstərərək qrenanı 
+partenogenetik inkişafa aktivləşdirmişdir. Lakin, başlamış 
+partenogenetik inkişaf embriogenez mərhələsindən o yana 
+getməmişdir. Belə ki, A.Tixomirov partenogenetik in-kişaf 
+edən qrenadan qurdun dirilməsini müşahidə etmə-mişdir. Bu 
+işdən sonra süni partenogenezə dair tədqiqatlar joşqun inkişaf 
+etməyə başladı. Lakin, tədqiqatlar tut ipək-qurdu üzərində 
+deyil, soxuljanlar, mollyusklar, amfibiyalar və s. üzərində 
+aparılırdı. Bu təjrübələrdə də partenogenetik inkişafı 
+stimullaşdırmaq mümkün olmuş, lakin inkişaf baş-lıja olaraq 
+embriogenezin ilkin mərhələlərindən o yana get-məmiş və 
+yalnız nadir hallarda partenogenetik fərdin doğulması 
+müşahidə olunmuşdur. 
+Ötən əsrin 20-ji illərində yenidən tut ipəkqurdu 
+üzərində süni partenogenezə dair tədqiqatlar aparılmağa 
+başlanır. Bu tədqiqatların nətijələri barədə B.Astaurov [71] 
+geniş və tam məlumat vermişdir. Onlardan bəzi mühümləri 
+üzərində dayanmaq istəyirik. 
+Y.Vermel  [88, 89] kəpənək tərəfindən təbii tökül-müş, 
+habelə kəpənəyin bədənindən (ovarioldan) çıxarılmış 
+mayalanmamış qrenaya müxtəlif qatılıqda duz və sirkə tur-
+şuları ilə, hidrogen peroksidi, ammonyak, oksigen, diafe-nolla, 
+aşağı temperaturlarla, müxtəlif elektrolit məhlullarda dəyişən 
+jərəyanla təsir etmişdir. Duz və sirkə turşuları ilə aparılmış 
+təjrübələrdə partenogenetik inkişafa başlamış yumurtaların 
+sayı 70 %-ə çatmışdır. Lakin, inkişaf, bir qayda olaraq, erkən 
+dayanmış və bütün təjrübələrdə jəmi 18 qurd dirilmişdir. 
+N.Koltsov [125] monovoltin jinslərin mayalanmamış 
+qrenasına yüksək temperaturun, müxtəlif üzvi və qeyri-üzvi 
+turşuların, qələvilərin, narkotiklərin, oksidləşdi-rijilərin, yodun 
+və bəzi təsbitediji məhlulların təsirini öyrənmişdir. Yüksək 
+temperatur, isidilmiş duz turşusu və yod aktivləşdiriji kimi 
+daha yaxşı təsir göstərmişlər. Bu faktorlarla aparılan 
+ 50 
+təjrübələrdə partenogenetik inkişaf edən qrenaların faizi 
+yüksək olmuş, lakin  onlardan yalnız 15 qurd dirilmişdir. 
+ Ümumilikdə, müxtəlif süni aktivləşdirijilərdən istifadə 
+olunmaqla aparılmış bütün təjübələrdə, mayalan-mamış 
+qrenalardan jəmi 255 qurd əldə olunmuşdur ki, bu da, həmin 
+dövrdə problemin həllinin o qədər də uğurlu olmadığını 
+göstərir. 
+ Qeyd etməliyik ki, partenogenezin 2 tipi var: ameyotik 
+və meyotik partenogenez. Yumurta hüjeyrəsi meyozda 
+reduksion bölünmə keçirmədən başlayan partenogenezə 
+ameyotik partenogenez, hər iki (reduksion və ekvasion) 
+bölünməni keçirdikdən sonra başlayan partenogenezə meyotik 
+partenogenez deyilir. Ameyotik partenogenez zamanı alınan 
+övlad nəsil ananın genotipini təkrarlayan dişi fərdlərdən, 
+meyotik partenogenez zamanı alınan övlad nəsil isə tam 
+homoziot erkəklərdən ibarət olur. 
+ Ameyotik partenogenez.  Süni partenogenezə dair 
+yuxarıda göstərdiyimiz tədqiqatların metodiki xüsusiyyətləri 
+və nətijələri ilə yaxından tanış olduqdan sonra akad. 
+B.Astaurov 1932-ji ildən bu istiqamətdə geniş və hərtərəfli 
+tədqiqatlar aparmağa başladı. Nətijədə, mayalanmamış qre-
+naların ameyotik tipli tam partenogenetik inkişafa aktiv-
+ləşdirilməsinin yüksək səmərəli metodu işlənib hazırlandı. 
+B.Astaurovun özünün və digər tədqiqatçıların təjrübələrində 
+bu metodla milyonlarla yaşama qabiliyyətli partenogenetik 
+qurd alınmışdır. B.Astaurovun bu tədqiqatlarının nətijələri 
+ədəbiyyatda dərj olunmuşdur [71, 72]. 
+ B.Astaurov, özünün geniş  təjrübələrində hər şeydən 
+əvvəl mayalanmamış yumurtaların partenogenetik inkişafa 
+aktivləşdirilməsinin əsas müddəalarını aydınlaşdırmışdır. O, 
+müəyyən etmişdir ki, tədqiqat üçün  ovariollardan çıxarılmış 
+mayalanmamış qrenalardan istifadə olunması daha münasibdir, 
+lakin, onları çıxarıldıqdan 12 saat sonra aktivləşdirmək 
+lazımdır. Çünki, bu müddətdən əvvəl onlar, hansısa müəyyən 
+ 51 
+olunmamış səbəbdən, aktivləşdirməyə reaksiya göstərmirlər. 
+Ovarioldan  çıxarılmış yumurtalar, təbii tökülmüş 
+yumurtalardan fərqli olaraq, təbii partenogenezə qabil 
+deyildirlər. Odur ki, aktivləşdiriji təsirdən sonra yumurtaların 
+piqmentləşməsi səhvsiz olaraq onların süni partenogenetik 
+inkişafa başladığını göstərir. Onun heç də az əhəmiyyətli 
+olmayan digər nətijəsi ondan ibarətdir ki, isidilmiş duz 
+turşusundan istifadə olunmuş uğurlu təjrübələrdə yumurtaların 
+aktivləşdirilməsində əsas rolu turşu yox, yüksək istilik 
+oynayır. Bununla əlaqədar olaraq onun sonrakı təjrübələri 
+yüksək temperaturların aktivləşdiriji təsirinin öyrənilməsinə 
+yönəldilmişdir. Çoxsaylı eksperimentlərdən alınmış nətijələrin 
+analizi əsasında, ovarioldan çıxarılmış mayalanmamış 
+qrenaların aktivləşdirilməsi üçün 12 saat yaşında olan qrenanı 
+46
+o
+J istiliyi olan suda18 dəq ərzində saxlamaq ən yaxşı variant 
+hesab olunmuşdur. Qrenaların yaşı 12 saatdan ötdükdə onların 
+reaktivlik qabiliyyəti proqressiv surətdə azalır. Yeri gəlmişkən, 
+bundan sonra da mətndə dəfələrlə işlədəjəyimiz «qrenanın 
+yaşı» anlayışı haqqında qısa izahat versək, yerinə düşər. 
+«Qrenanın yaşı» dedikdə mayalanmamış qrenanın kəpənək 
+tərəfindən təbii töküldüyü və ya ovarioldan çıxarıldığı andan, 
+ona aktivləşdiriji təsir olunan ana qədər keçən vaxt (saniyə, 
+dəqiqə, saat və ya sutka) nəzərdə tutulur. B.Astaurovun aşkar 
+etdiyi daha bir mühüm məqam: yuxarıda göstərilən metodla 
+aktivləşdirmə yalnız o zaman uğurlu olur ki, yumurtalar 
+isidildikdən dərhal sonra otaq temperaturuna malik suda 
+soyudulur. Yumurtaların havada tədrijən soyudulması 
+aktivləşdirmənin nətijələrini əhəmiyyətli dərəjədə pisləşdirir. 
+ Tam partenogenez almaq üçün mühüm əhəmiyyət kəsb 
+edən digər bir məsələ ondan ibarətdir ki, aktivləşdirilmiş 
+qrenalar 3 sutka ərzində 16
+o
+J temperatura və 95-100 % nisbi 
+nəmliyə malik olan mühitdə saxlanılmalıdır. Bundan sonra 
+partenogenetik qrenalar, adi qrenalar kimi 23-25
+o
+J istilikdə 
+saxlanıla bilər. 
+ 52 
+ Yuxarıda göstərdiyimiz şərtlərə əməl olunması 
+sayəsində tam partenogenezin tezliyi genetik jəhətdən fərqli 
+jinslərin düzümlərində 0-dan 50 %-dək tərəddüd etməklə orta 
+hesabla 15 %-ə çatmışdır. 
+ Aparılmış tədqiqatların yalnız əvvəlində minlərlə dişi 
+fərd arasında bir neçə erkək fərd müşahidə olunmuşdur. 
+Sonrakı təjrübələrdə isə praktiki olaraq bütün partenogenetik 
+övlad nəsil ananın genotipini təkrarlayan diploid dişilərdən 
+ibarət olmuşdur. Diploid dişilər arasında müntəzəm olaraq 
+tetraploid  (4n) və miksoploid (4n + 2n) dişilər də müşahidə 
+olunur ki, bunların da tezliyi  5-6 %-ə  çatır. Bu məsələ barədə 
+bir qədər sonra ətraflı danışajayıq. Partenogenetik dişilərin 
+yaşama qabiliyyəti bir qədər aşağı olsa da, nəsil vermə 
+qabiliyyəti yaxşı olur. 
+ Partenogenetik  nəsildə ananın genotipinin təkrarlan-
+ması partenogenezə stimullaşdırılmış yumurtaların yetişməsi 
+zamanı reduksion bölünmənin aradan çıxmasına (getmədiyinə) 
+dəlalət edir. Deməli, B.Astaurovun metodu ilə (46
+o
+J, 18 dəq.) 
+alınan partenogenez ameyotik tipə aiddir. Bu metodla aktivl-
+əşdirilmiş mayalanmamış qrenaların sitoloci tədqiqi 
+göstərilmişdir ki, temperaturun təsiri nətijəsində meyotik iy 
+dağılır və homoloci xromosomların dekonyuqasiyası baş verir. 
+Sonra yumurta hüjeyrəsində yeni metafaza lövhəli iy yaranır 
+ki, bunun da elementləri artıq konyuqasiya etmirlər və yalnız 
+bir ekvasion bölünmə keçirirlər. Nətijədə, yalnız diploid qütb 
+jisimjiyi və diploid pronukleus əmələ gəlir ki, bu da özünün 
+gen və xromosom dəstinə görə ananın diploid kompleksinə 
+tam identik olur. Yumurtanın partenogenetik inkişafı da bu 
+pronukleusun iştirakı ilə gedir. 
+ Ananın genotipinin onun partenogenetik qızları 
+tərəfindən təkrarlanması partenogenetik, həmişə izogen klonlar 
+əldə etməyə imkan vermişdir. B.Astaurovun səyləri sayəsində 
+elə klonlar yaratmaq mümkün olmuşdur ki, onlarda tam 
+ 53 
+partenogenezin tezliyi 40-50 %-ə çatır. Bu klonlar yaşama 
+qabiliyyətinə görə adi jinslərdən bir qədər geri  qalırlar. 
+ Akad. B.Astaurovun ameyrtik partenogenezə dair təd-
+qiqatları sonradan SSRİ EA-nın İnkişafın biologiyası institu-
+tunun akad. V.Strunnikovun rəhbərlik etdiyi «İnkişafın 
+sitogenetikası və jinsiyyətin tənzimlənməsi» laboratoriyasında 
+davam etdirilmişdir. Burada aparılmış tədqiqatların əsas 
+nətijələrini [161,162] qısaja nəzərdən keçirək. Müəyyən 
+olunmuşdur ki, mayalanmamış qrenaya soyuq (mənfi) 
+temperaturla təsir etdikdə də ameyotik partenogenez almaq 
+mümkündür. Belə ki, qrenaları -11
+o
+J soyuqda 300 dəq. ərzində 
+saxladıqda 60-70 % tam partenogenez alınmışdır. Nəzarətdə 
+(46
+o
+J, 18 dəq.) tam partenogenez 80-90 % olmuşdur. 
+ Soyuq və isti temperaturların kombinə edilmiş təsiri də 
+öyrənilmiş və maraqlı nətijələr alınmışdır. Mayalan-mamış 
+qrenaları – 11
+0
+J soyuqda 150 dəq. saxladıqdan sonra isti suda 
+(46
+o
+J) 12 dəq. saxladıqda partenogenetik qrenaların dirilməsi 
+bir qədər yaxşılaşmışdır. Lakin, burada başlıja jəhət ondan 
+ibarətdir ki, soyuq və isti temperaturların kombinə edilmiş 
+təsiri 1 sutkadan 5 sutkayadək yaşı olan qrenaları eyni 
+dərəjədə uğurla (90 %) aktivləşdirmək mümkün olur. Halbuki, 
+5 sutkalıq qrenanı 46
+o
+J istilikdə 18 dəq ərzində saxladıqda 
+yalnız 9 % halda tam par-tenogenez  alınır. 
+Mayalanmamış qrenaların diri kəpənəyin bədənində 
+aktivləşdirilməsi də öyrənilmişdir [163]. Bu məqsədlə istifadə 
+olunmuş isti (40
+o
+ və yuxarı) temperaturlar və tələb olunan 
+ekspozisiyalar bütün hallarda kəpənəklər üçün öldürüjü 
+olmuşdur. Kəpənəklərin -6
+o
+J soyuqda 6-12 saat saxlanılması 
+isə qrenaları aktivləşdirir və kəpənəklərin kütləvi ölümü ilə 
+müşayiət olunmur. Soyudulmadan sonra yumurtalar kəpənəyin 
+bədənində bir neçə sutka qala bilir. Bu onların yaşama 
+qabiliyyətinə təsir etmir. Bu yolla aktiv-ləşdirilmiş qrenalardan 
+40-50 % partenogenetik qurdlar alınır. 
+ 54 
+Bəzi tədqiqatçıların kəşfiyyat xarakterli təjrübələrinin 
+nətijələrini nəzərə alaraq V.Strunnikov [162] belə hesab edir 
+ki, mayalanmamış qrenanın aktivləşdirilməsi üçün ultrasəs, 
+yüksək tezlikli jərəyan, maqnit sahəsi və digər nüfuzediji 
+agentlər perspektivli ola bilər. 
+Meyotik partenogenez. Bütün genlərə görə ho-moziqot 
+olan diploidlərin alınması tədqiqatçıların diqqətini çoxdan jəlb 
+edir. Homoziqot xəttlərin yaradılması seleksi-yanın bir sıra 
+nəzəri və praktiki məsələlərini həll etməyə imkan verə bilər. 
+Odur ki, uzun illər ərzində meyotik par-tenogenezin 
+alınmasına dair çoxlu tədqiqatlar aparılmışdır. Biz, bu 
+tədqiqatların tam təfsilatına və bütün injəliklərinə varmadan, 
+aşağıda yalnız əsas metodiki məqamları və ən yaxşı nətijə 
+vermiş metodları nəzərdən keçirəjəyik. 
+Meyotik partenogenezə dair tədqiqatlarda maya-
+lanmamış qrenaların aktivləşdiriji faktoru kimi əsasən soyuq 
+(mənfi) və isti temperaturlardan, JO2 qazından və elektrik 
+şokundan istifadə olunmuşdur. Bu faktorların hər birinin 
+müxtəlif təsir dozaları və ekspozisiyaları sınaqdan 
+keçirilmişdir. 
+Təjrübələrin aparılmasında istifadə olunan bioloci 
+mate-rialda heteroziqot vəziyyətdə olan hər hansı bir ressesiv 
+markyor genin (buna başqa sözlə nişanə geni və ya siqnal gen 
+də demək olar) olması da mühüm metodiki əhəmiyyət kəsb 
+edir. Çünki, bu halda, alınmış partenogenezin tipini, yəni 
+ameyotik və ya meyotik olmasını müəyyənləşdirmək xeyli 
+asanlaşır. Belə ki, ameyotik partenogenezdə ressesiv markyor 
+gen bütün partenogenetik övladlarda (dişilərdə) heteroziqot 
+vəziyyətdə qalır və deməli, fenotipdə təzahür etmir. Meyotik 
+partenogenezdə isə haploid pronukleusa 50 % halda dominant 
+allel, digər 50 %-də isə ressesiv allel düşür. Diploidlik bərpa 
+olunduqdan sonra övladların bir yarısı dominant genə görə, 
+digər yarısı isə ressesiv genə görə homoziqot olur. Beləliklə, 
+dominant və ressesiv əlamətə malik övladlar təxminən bərabər 
+ 55 
+miqdarda alınır. V.Strunnikov öz təjrübələrində [162] material 
+kimi əsasən B.Astaurov tərəfindən yaradılmış Partenoklon 29-
+dan (PK-29) istifadə etmişdir. Bu partenoklon heteroziqot 
+vəziyyətdə olan ressesiv jh geninə malikdir. Bu gen I yaş 
+qurdların qırmızımtıl-sarı (kürən) rəngdə olmasını şərtlən-dirir 
+(norma – tünd qonur rəngli qurdlar). Bunun sayəsində 
+dirilmədən dərhal sonra jh/jh genotipli kürən qurdlar jh/+ və 
++/+ genotipli tünd qonur qurdlardan səhvsiz olaraq asanlıqla 
+seçilir. 
+Partenogenetik qurdların erkək jinsiyyətə mənsub 
+olması da onların meyotik mənşəli olmasına dəlalət edir. 
+Meyotik inkişaf zamanı 50 % halda haploid pronukleusa W 
+xromosomu düşür. İki haploid nüvənin qovuşması yolu ilə 
+diploidlik bərpa olunduqda yaşamağa qabil olmayan WW, 
+27AA genotipi əmələ gəlir. Beləliklə, potensial yaşama 
+qabiliyyətinə yumurtaların yerdə qalan 50 %-i malik olur. 
+Bunların haploid pronukleusuna Z xromosomu düşür və 
+diploidlik bərpa olunduqda erkək jinsiyyətli normal ZZ, 27AA 
+genotipi əmələ gəlir. 
+ Qrenanın soyudulma vasitəsilə aktivləşdirilməsinə dair 
+təjrübələrdə -5, -8, -11, -14 və -17
+o
+J temperaturlar, habelə 10 
+dəq.-dən 360 dəq.-dək olan müxtəlif ekspozisiyalar ətraflı 
+öyrənilmişdir [162]. Göstərilən mənfi temperaturların hər biri 
+üçün kritik ekspozisiya olduğu müəyyənləşdirilmişdir. Məlum 
+olmuşdur ki, bu temperaturların hər birində qrenaların kritik 
+səviyyədən aşağı ekspozisiyalarda soyudulması onları meyotik 
+partenogenezə, kritik səviyyədən yuxarı ekspozisiyalarda 
+soyudulması isə ameyotik partenogenezə aktivləşdirir. Ən 
+yaxşı nətijə mayalanmamış qrenaların -11
+o
+J temperaturda 30 
+dəq. ərzində soyudulması zamanı alınmışdır. Texniki jəhətdən 
+çox sadə olan bu metod orta hesabla 3 %-dən 5 %-ə qədər 
+meyotik qurd çıxımı əldə etməyə imkan verir. 
+ Mayalanmamış qrenaların isti temperatur, JO2 qazı və 
+elektrik jərəyanı ilə meyotik partenogenezə aktivləş-dirilməsi 
+ 56 
+də ətraflı öyrənilmiş və müsbət nətijələr alınmış-dır. Lakin, bu 
+faktorlarla aktivləşdirmə zamanı meyotik qurd  çıxımı 
+yuxarıda  göstərdiyimiz  soyudulma metoduna 
+ (-11
+o
+J, 30 dəq.) nisbətən az olmuşdur. 
+ Mayalanmamış qrenaların diri kəpənəyin bədənində 
+meyotik partenogenezə aktivləşdirilməsi də böyük maraq kəsb 
+edir. Müəyyən olunmuşdur ki, diri kəpənəkləri -6
+o
+J tem-
+peraturda 60 dəq. saxladıqda onların bədənində olan qrenaların 
+praktiki olaraq hamısı meyotik inkişafa başlayır [163]. 
+Kəpənəklər soyudulduqdan 60 dəq. sonra yumurtaların 
+meyotik inkişafı o qədər uzağa gedir ki, belə yumurtalara 
+spermatozoidlərin daxil olması onun gedişinə heç bir təsir 
+göstərə bilmir. Bu zaman artıq erkək nüvələr dişi nüvələrlə 
+birləşə bilmirlər və inkişaf sona qədər partenogenetik yolla 
+gedir. Bu çox mühüm hadisədir. Çünki, soyudulmuş dişi 
+kəpənəkləri erkək kəpənəklərlə jütləşdirməyə və bununla da, 
+partenogenetik inkişaf edən yumurtaların dişi kəpənək 
+tərəfindən normal tökülməsini stimullaşdırmağa imkan verir. 
+Bu yolla tökülmüş yumurtalardan 5 %-ə qədər meyotik tipli 
+partenogenetik nəsil alınır. Bu üsul partenogenetik nəsil 
+alınmasının texnikasını əhəmiyyətli dərəjədə sadələşdirir. 
+ Tam homoziqotluq bir çox ardıjıl nəsillərdə sıx inb-
+ridinq vasitəsilə çoxaldılmadan sonra belə çətin əldə olunan 
+unikal bir hadisədir. Odur ki, meyotik partenogenez metodları 
+ilə jəmi bir nəsildə ananın heteroziqot genotipinin onun 
+oğullarının tam homoziqot genotipinə çevrilməsi çox böyük 
+əhəmiyyətə malikdir. Bu yolla genom analizi, erkəklərin 
+genotipinin ardıjıl nəsillərdə qorunub saxlanılması və yüksək 
+kombinasiya qabiliyyətinə malik formaların alınması  kimi  
+çətin  məsələlər artıq  həll  olunmuşdur [162]. 
+ 
+2. Süni  ginogenez 
+ 
+Ginogenez – partenogenetik inkişafın xüsusi növüdür 
+və yumurtaya karioqamiyaya qabil olmayan spermatozoidlərin 
+ 57 
+daxil olması nətijəsində baş verir. Sümüklü balıqlarda, 
+amfibiyaların, planarilərin və nematodların bəzi növlərində 
+təbii ginogenez zamanı yumurtanın aktivləşməsini növün 
+özünün mayalanma qabiliyyəti olmayan spermatozoidləri, 
+yaxud da xromosomları rüşeymin əmələ gəlməsində iştirak 
+edə bilməyən özgə növün spermatozoidləri yerinə yetirir [122, 
+182]. 
+Süni ginogenezin alınması üçün də ya özgə növün 
+spermatozoidləri ilə, ya da növün özünün genetik inaktiv-
+ləşdirilmiş (aktivsizləşdirilmiş) spermatozoidləri ilə maya-
+landırmadan istifadə olunur. Spermatozoidlər ionlaşdırıjı 
+şüalarla və ya nüvə bölünməsinin spesifik indibitorları ilə 
+inaktivləşdirilir. Belə spermatozoidlər yumurtaya daxil olaraq 
+onu inkişafa sövq edir, özləri isə parçalanma nüvəsinin əmələ 
+gəlməsində iştirak etmirlər.  
+Tut ipəkqurdunda süni partenogenezə və androgenezə 
+dair əhəmiyyətli uğurlar qazanılmasına baxmayaraq uzun 
+müddət süni ginogenezin alınması üsulu işlənib 
+hazırlanmışdır. Yapon alimi Kavaquçi (1936) mayalanmış qre-
+naları sentrifuqada fırlamaqla jəmi  bir neçə  ədəd diploid 
+ginogenetik qurd ala bilmişdir.  
+Digər yapon tədqiqatçıları Tazima və Onuma (1967) 50 
+dəq. yaşında qrenaya 60 dəq. ərzində JO2 qazı ilə təsir etdikdə 
+yumurtaların 10 %-ində ginogenetik inkişaf başla-mışdır. Bu 
+inkişaf seroz pərdəsinin piqmentləşməsi mərhələsinə qədər 
+izlənilmişdir. Lakin, müəlliflər ginogenetik qurdların dirilməsi 
+barədə məlumat verməyiblər ([162]-yə istinad olunur). 
+B.Astaurov tərəfindən tut ipəkqurdu sper-matozoidlərinin X- 
+şüalarla böyük dozalarda şüalandırıl-ması onları 
+inaktivləşdirməmişdir: şüalandırılmış spermatozoidlər 
+yumurtaları mayalandıraraq yaşama qabiliyyəti olmayan 
+ziqotalar əmələ gətirmişlər [70]. 
+ Süni ginogenezə dair V.Strunnikovun [162] apardığı 
+təjrübələr nisbətən uğurlu nətijələr vermişdir. Qeyd etmək 
+ 58 
+lazımdır ki, V.Strunnikov bu məsələnin öyrənilməsinə me-to-
+diki jəhətdən daha düzgün yanaşmış və təjrübələrin aparılması 
+üçün material kimi əsasən markyor genə malik olan 106 və 
+128 №-li partenoklonlardan istifadə etmişdir. Bu 
+partenoklonlar 1-ji yaş qurdun kürən rəngli olmasını 
+şərtləndirən ressesiv jh geninə görə homoziqotdurlar. Bu 
+partenoklonların dişi kəpənəkləri ilə çarpazlaşdırılan erkək 
+kəpənəklər isə homo və heteroziot vəziyyətlərdə qurdun tünd 
+qonur rəngini sürətləndirən +
+jh
+ dominant allelə görə 
+homoziqotdurlar. Beləliklə, göstərilən çarpazlaşdırmadan 
+normal diploid nəsil əmələ gələrsə onlar təxminən bərabər 
+miqdarda tünd qonur rəngli dişi və erkək qurdlarla təmsil  
+olunmalıdır. Reduksiya olunmamış diploid dişi nüvəsi (Z/W 
+jh/jh) haploid erkək nüvə (Z +
+jh
+) ilə birləşərsə onda tünd qonur 
+triploid dişi (ZZW +
+jh
+/ jh/ jh) yaranmalıdır. Yalnız diploid 
+ginogenetik nəsil ananın genotipini təkrarlayan kürən rəngli 
+dişi qurdlardan ibarət olmalıdır.  
+ İsidilmə vasitəsilə aparılan təjrübələrdə müəyyən 
+olunmuşdur ki, yaşı 0-0,5 dəq olan qrenaları 46
+o
+J temperaturda 
+18 dəq ərzində istitdikdə dirilmiş qurdların 66,1 %-i kürən, 
+33,9 %-i isə tünd qonur olmuşdur. Kürən qurdlar hamısı dişi 
+olmuş və ananın əlamətlərini tam təkrarlamışlar ki, bu da 
+onların ginogenetik mənşəli olmasına dəlalət edir. İsidilən 
+qrenaların yaşının artması nətijəsində ginogenezin tezliyi 
+kəskin şəkildə azalır. Yaşı   7-10 dəqdən yuxarı olan 
+qrenalardan isə yalnız adi mənşəli diploid dişi və erkək qurdlar 
+dirilməyə başlayır. Ən yüksək ginogenez, yaşı 7,5 san.-dən 
+22,5 san.-dək olan qrenaları isitdikdə (46
+o
+J, 18 dəq) alınır. Bu 
+zaman dirilmiş qurdların 72,8 %-i kürən rəngli ginogenetik 
+dişi, 27,2 %-i isə tünd qonur rəngli triploid dişi olur. 
+Ginogenetik qurd çıxımı işlənmiş yumurtaların ümumi 
+miqdarının 42 %-ni təşkil edir [162].                                      
+ Soyudulma vasitəsilə aparılan təjrübələrdə müəyyən 
+olunmuşdur ki, yaşı 0-30 san  olan  mayalanmış  qrenaların 
+ 59 
+ -11
+o
+J temperaturda 150-210 dəq ərzində soyudulması onların 
+75-90 %-nin ginogenetik inkişafına səbəb olur [162]. 
+Soyudulmanın optimal ekspozisiyaları isidilməyə 
+nisbətən daha geniş diapazona malikdirlər. Bunun sayəsin-də 
+10 dəq ərzində kəpənək tərəfindən tökülən qrenaları dər-hal 
+(0-30 san ərzində) yığıb soyuq (-11
+o
+J) temperatura 
+yerləşdirmək və 210 dəq keçdikdən sonra qrenaların hamısını 
+eyni vaxtda normal temperatur şəraitinə çıxarmaq olar. Belə 
+halda müxtəlif qrenalar üçün soyudulma ekspozisiyası orta 
+ekspozisiyadan jəmi  ±5 dəq fərqlənəjək ki, bu da gi-
+nogenezin uğurlu olmasına praktiki olaraq heç bir mənfi təsir 
+göstərmir. 
+ 
+ 
+3.  Süni  androgenez 
+ 
+ Androgenez – ooplazmanın və erkək jinsiyyət nü-
+vəsinin iştirakı ilə baş verən partenogenetik çoxalma növüdür. 
+Belə çoxalma zamanı nəsildə yalnız erkəklər alınır. 
+ Tut ipəkqurdunda androgenezi ilk dəfə yapon alimi 
+H.Ha-simoto [192] həyata keçirmişdir. O, öz təjrübələrində 
++
+jh
+/+
+jh
+ ge-notipli dişi kəpənəkləri jh/jh genotipli erkək 
+kəpənəklərlə mayalandırdıqdan sonra dişi kəpənəklərin 
+tökdüyü qrenaları  hava mühitində 40
+o
+J temperaturla 1 saat 
+ərzində isitmişdir. Nətijədə, az miqdarda kürən rəngli (jh/jh) 
+erkək qurdlar dirilmişdir ki, bu da onların androgenetik 
+mənşəli olmasına dəlalət etmişdir. 
+ B.Astaurov [70] böyük dozalarda X-şüalarla oositlərin 
+nüvəsini parçalamağa çalışmışdır. Bu məqsədlə +
+jh
+/+
+jh
+ 
+genotipli mayalanmamış dişi kəpənəklər şüalandırılmış, sonra 
+isə jh/jh genotipli şüalandırılmamış erkək kəpənəyin 
+spermatozoidləri ilə mayalandırılmışdır. Lakin, şüalandırma 
+androgenetik  nəslin  alınmasına səbəb olmamışdır: 
+zədələnmiş dişi nüvə özündən pronukleus ayırmışdır ki, bu da 
+erkək pronukleusla birləşərək yaşama qabiliyyəti aşağı olan 
+ 60 
+ziqota əmələ gətirmişdir. Anjaq, belə yumurtaların 46
+o
+J 
+temperaturda 18 dəq ərzində isidilməsi nətijəsində jüzi 
+miqdarda (faizin qismi qədər) androgenetik qurdlar (jh/jh) 
+dirilmişdir. Şüalandırılmamış qrenaların isidilməsi nətijəsində 
+də eyni tezliklə androgenetik qurdların dirilməsi müşahidə 
+olunmuşdur. Deməli, bu təjrübələrdə, X – şüalar dişi nüvəni 
+tam inaktivləşdirə bilməmişdir. 
+ Sitoloci tədqiqatlar göstərmişdir ki, uzun müddət 
+isidilmiş yumurtalarda iy tellərinin strukturu o qədər güjlü po-
+zulur ki, sonrakı yetişmə mümkün olmur, qütb jisimjiyinə və 
+pronukleusa bölünə bilməyən nüvə yumurtanın səthində, 
+adətən qütb jisimjiyinin durduğu yerdə qalır. Haploid erkək 
+nüvələr isə, əksinə, termorezistent (istiyə dözümlü) olurlar və 
+inkişaf qabiliyyətlərini itirmirlər. Odur ki, mayalanma 
+nətijəsində aktivləşmiş və isidilmə nətijəsində androgenetik 
+inkişafa başlamış yumurtaya bir neçə spermatozoid daxil 
+olaraq pronukleusa çevrilirlər ki, bunlardan da ikisi qovuşaraq 
+diploid parçalanma nüvəsi əmələ gətirirlər. Androgenezin 
+dispermikliyi H.Hasimoto tərəfindən genetik metodlarla sübut 
+olunmuşdur [192]. 
+    Androgenetik nəslin alınması üçün mayalanmış 
+qrenalara ultrabənövşəyi (UB) şüaların,  -şüaların, isidilmə 
+və soyudulmanın təsiri eksperimental yolla öyrənilmişdir 
+[162]. 
+ Yaşı 2-30 dəq olan mayalanmış qrenaların UB – 
+şüalarla 0,5-2,0 dəq ərzində işıqlandırılması (2 dəfə artıq 
+işıqlandırma yumurtaların ölümünə səbəb olur) zamanı 
+androgenez alınmamışdır. Lakin, belə şüalandırmadan sonra, 
+yaşı 2-4 saat olan qrenanı 46
+o
+J istilikdə suda 18 dəq ərzində 
+saxladıqda qrenaların ümumi sayının 1-1,5 %-i qədər 
+androgenetik qurdlar dirilmişdir. 
+ Sonrakı təjrübələrdə UB – şüaların yüksək temperatur-
+larla əvəz olunmasının mümkünlüyü müəyyənləşdirilmiş və 
+bununla əlaqədar olaraq tədqiqatlar yüksək temperaturlardan 
+ 61 
+istifadə olunmasının öyrənilməsinə yönəldilmişdir. Çoxsaylı 
+təjrübələr əsasında müəyyən olunmuşdur ki, mayalanmış 
+qrenaları kəpənək tərəfindən töküldükdən təxminən 60-80 dəq 
+sonra əvvəljə 60 dəq ərzində 40
+o
+J istilikdə, bundan dərhal 
+sonra 145 dəq ərzində 36
+o
+J istilikdə saxladıqda yüksək 
+androgenetik qurd çıxımı əldə etmək mümkün olur. Fasiləsiz 
+olaraq bir-birinin ardınja aparılan hər iki isitmə hava 
+mühitində həyata keçirilir. Bu zaman androgenetik qurd çıxımı 
+isidilmiş qrenaların ümumi sayının 8-10 %-nə çatır. 
+ Androgenezin alınmasın üçün mənfi temperaturlardan 
+istifadə olunması da yaxşı nətijələr vermişdir. Müəyyən 
+olunmuşdur ki, mayalanmış qrenaları -11
+o
+J temperaturda 48 
+saat saxladıqda androgenetik qurd çıxımı 7-8 %-ə çatır. 
+ Androgenezin alınmasında  - şüaların və yüksək 
+temperaturun kombina edilmiş təsiri daha səmərəli nətijələr 
+vermişdir. Ən  yüksək (18 % -dən  çox) androgenetik qurd  
+çıxımı  göstərilən faktorlarla aşağıdakı qaydada təsir etdikdə 
+alınır: əvvəljə mayalanmamış dişi kəpənəklər  - şüalarla 80 
+kR dozada şüalandırılır və sonra normal erkək kəpənəklərlə 
+jütləşdirilir. Dişi kəpənəyin tökdüyü mayalanmış qrenalar 
+fasiləsiz olaraq əvvəljə 40 dəq ərzində 40
+ o
+J istilikdə, bunun 
+ardınja 145 dəq ərzində 36
+o
+J istilikdə saxlanılır. 
+ Artıq qeyd etdiyimiz kimi, androgenez, özünün genetik 
+nətijələrinə görə heyvanlar aləmində öz-özünə mayalanmaya 
+uyğun gələn çoxalma növüdür. Homoziqotluğun çox tez 
+yüksəlməsi ilə müşayiət olunan bu hadisə tut ipəkqurdunun 
+seleksiyası üçün mühüm əhəmiyyət kəsb edir. 
+ Androgenez, partenogenezlə birgə jinsiyyətin tən-
+zimlənməsi problemini həll etməklə yanaşı, həm də tut ipək-
+qurdunun erkək hibridlərinin alınmasının sənaye üsulunu 
+işləyib hazırlamağa imkan vermişdir. Bu məsələ iki mərhələdə 
+həll olunmuşdur. Əvvəljə ikiatalı androgenetik fərdlərin 
+alınması üsulu işlənib hazırlanmış, sonra isə bunun əsasında 
+jinsiyyətlə ilişikli ressesiv letallar tarazlaşdırılmışdır ki, bunun 
+ 62 
+da nətijəsində hibridləşdirmə zamanı dişi rüşeymli qrenalar 
+ölür, erkək rüşeymli qrenalar isə normal yaşama qabiliyyətinə 
+malik olurlar [162].  
+  
+4. Ekspeimental  poliploidiya 
+ 
+ Jinsi yolla çoxalan adi tut ipəkqurdu jinslərində 
+poliploidiya  praktiki  olaraq  spontan  baş  vermir. Poliploidi-
+yanın  süni yolla alınması üçün göstərilmiş ilk jəhdlər o qədər 
+də uğurlu olmamışdır. Yapon tədqiqatçılarının təjrübələrində 
+([162]-yə istinadən) mayalanmış qrenalara JO2 qazı və 
+sentrifuqada mərkəzdən qaçma qüvvəsi ilə təsir olunması, 
+habelə 40
+o
+J temperaturda  1 saat ərzində isidilməsi və -10
+o
+J 
+temperaturla 24 saat ərzində soyudulması nətijəində tək-tək 
+triploid və tetraploid fərdlər alınmışdır. 
+ Partenogenetik klonlarda isə heç bir əlavə süni təsir 
+olmadan müntəzəm surətdə az miqdarda poliploidlərin əmələ 
+gəlməsi, daha çox qanunauyğun xarakter daşıyır. Tut 
+ipəkqurdu ilə yanaşı, partenogenezlə çoxalan müxtəlif heyvan 
+növləri də, bir qayda olaraq, diploid və poliploid formalarla 
+təmsil olunurlar. Bu, onunla izah olunur ki, əvvəla, 
+partenogenetik inkişafa başlamış yumurtada genom asanlıqla 
+ikiqat artır, ikinjisi, ameyotik partenogenez zamanı 
+poliploidlər yaşama qabiliyyətini itirmirlər. Çünki, onlarda 
+reduksion bölünmə söndürülmüş olur və deməli, reduksion 
+bölünmədə olduğu kimi, tarazlaşdırılmamış sayda 
+xromosomlara malik qametlər yaranmır.  
+ B.Astaurov [71] diploid partenoklonun adi ölçülü qre-
+naları arasında 1 %-ə qədər daha böyük ölçülü iri qrenalar 
+aşkar etmişdir. Onların sitoloci və genetik analizi göstərmişdir 
+ki, iri qrenalar tetraploid (112 xromosom), normal qrenalar isə 
+diploiddirlər. Onlardan müvafiq olaraq tetraploid və diploid 
+dişilər inkişaf edirlər. Birinjilər  yenidən  iri  qrenalar  hasil  
+edirlər. Əgər, tetraploid dişilərin mayalanmamış qrenaları 46
+o
+J 
+ 63 
+temperaturda 18 dəq ərzin-də isidilsə, onlar ameyotik 
+partenogenezə vadar olunur ki, bunun da nətijəsində yenidən, 
+ananın genotipini təkrar-layan, tetraploid dişilər əmələ gəlir. 
+Bu, diploid formaların ameyotik partenogenezində olduğu 
+kimi, eyni sitogenetik mexanizm əsasında baş verir, yəni 
+reduksion bölünməsi aradan qaldırılmış yumurtada tetraploid 
+nüvə tam saxla-nılır və parçalanma nüvəsinin funksiyasını öz 
+üzərinə gö-türür. Bu qayda ilə bir sıra izogen tetraploid klonlar 
+yara-dılmışdır ki, bunlardan da 4n22 və 4n17 klonları onlarla 
+nəsil ərzində partenogenetik çoxaldılmış və hal-hazırda da 
+təmiz halda saxlanılırlar [162]. 
+ Tetraploidlərdə ameyotik partenogenez, adətən, ilkin 
+diploid partenoklona nisbətən daha az uğurla gedir. Tetraploid 
+dişilər diploid erkəklərlə jütləşdirildikdə triploid nəsil verirlər 
+ki, bunlarda da jinsiyyətin nisbəti 4♀ : 1♂ nisbətinə yaxın 
+olur. Jinsiyyət xromosomlarına görə dişi-lərin genotipi ZZW, 
+erkəklərin genotipi isə ZZZ olur. Hər iki jinsiyyət dölsüz olur. 
+Bunun səbəbi onların hasil etdik-ləri qametlərdə 
+xromosomların kəskin qeyri-tarazlaşması-dır. Anjaq, 
+mayalanmamış triploid yumurtaların ameyotik partenogenezə 
+aktivləşdirilməsi (46
+o
+J, 18 dəq) uğurlu ol-muşdur – 
+aktivləşdirilmiş yumurtalardan ananın genotipini təkrarlayan 
+triploid dişilər inkişaf etmişdir [72]. Bu qayda ilə əsası 
+qoyulmuş izogen triploid klonlar 15-20 % parteno-genetik 
+qurd çıxımı verməklə 30 nəsldən artıqdır ki, çoxal-dılır. 
+Yüksək partenogenez qabiliyyətinə malik diploid klonlardan 
+alınmış triploid klonlar isə daha yüksək (60 %) partenogenetik 
+qurd çıxımı ilə fərqlənirlər. 
+ Autotetraploidləri soyudulma vasitəsilə də almaq 
+mümkündür. Bunun üçün mayalanmamış diploid qrenalar 
+ameyotik partenogenezə aktivləşdirildikdən  (46
+o
+J, 18 dəq) 5-
+10 saat sonra -11
+o
+J temperaturda 3-12 saat soyudulma-lıdır. 
+Belə qrnaların embrional yaşama qabiliyyəti 25 %-ə yaxın 
+olur. Dirilmiş qudlar da təxminən eyni yaşama qabi-liyyətinə 
+ 64 
+malik olurlar. Nətijədə, jəmi 3-4 % tetraploid dişi kəpənəklər 
+əldə etmək mümkün olur. Genetik və seleksiya tədqiqatlarının 
+aparılması üçün bu miqdar tamamilə kifa-yət edir. 
+ Qrenaların diri kəpənəyin bədənində soyudulma vasi-
+təsilə aktivləşdirilməsi də poliploid formaların alınmasına 
+imkan verir. Belə ki, dişi kəpənəklərin soyudulma 
+qurtardıqdan 1,5 saat keçməmiş mayalandırılması normal dip-
+loid ziqotaların, 1,5-2 saat sonra mayalandırılması isə 
+poliploid ziqotaların  əmələ gəlməsinə səbəb olur. Alınmış 
+poliploid formaların genetik analizi göstərmişdir ki, onların 
+81,4 %-i triploid və 18,6 %-i tetraploid dişilərdir. Təjrübə 
+materialında bir neçə markyor genin olması sayəsində 
+müəyyyən edilmişdir ki, tetraploidlər 4 haploid nüvənin - dişi 
+pronukleusun, ona homoloci və qeyri-homoloci qütb jisim-
+jiklərinin və erkək pronukleusun - birləşməsi nətijəsində əmələ 
+gəlmişlər.                                                     
+ Tut ipəkqurdunda, yuxarıda haqqında söhbət açdığımız 
+autopoliploid formalarla yanaşı, heyvanlar aləmində ilk dəfə 
+olaraq, allopoliploid forma da alınmışdır. Məlumdur ki, eyni 
+növün haploid xromosom dəstinin (genomunun) bir neçə qat 
+artması nətijəsində yaranan poliploidlərə autopoliploid, 
+müxtəlif növlərin çarpazlaşdırılmasın-dan yaranan və iki 
+valideyin növün genomunu özündə bir-ləşdirən poliploidlərə 
+isə allopoliploid deyilir [132]. B.Asta-urov və əməkdaşları tut 
+ipəkqurdu (Bombyx mori L.) növünü onun vəhşi əjdadı hesab 
+olunan Bombyx mandarina Moore növü  (və ya yarımnövü) ilə 
+çarpazlaşdırmaqla və süni partenogenezdən istifadə etməklə 
+xüsusi sxem əsa-sında (şək. 7) ipəkqurdunun yeni, 
+allotetraploid formasını yaratmışlar [132]. 
+ Qeyd etmək lazımdır ki, tut ipəkqurdu üzərində apa-
+rılmış genetik tədqiqatlar əsasında eksperimental polip-
+loidləşdirmə ilə yanaşı, həm də əks hadisənin, yəni depo-
+liploidləşdirmənin (4n  2n) də mümkünlüyü aşkar olunmuş-
+dur [162]. Müəyyən olunmuşdur ki, tetraploid qrenaları 
+ 65 
+soyudulma vasitəsilə (-11
+o
+J, 30 dəq) meyotik partenogenezə 
+aktivləşdirdikdə depoliploidləşmə baş verir. Bu istiqamətdə 
+aparılmış təjrübələrdə alınmış partenogenetik övladların 
+sitoloci və genetik analizi göstərmişdir ki, onların 95 %-i 
+diploid dişilərdən ibarətdir. Digər bir təjrübədə tetraploid 
+qrenaların 4 dəq ərzində 46
+o
+J istilikdə suda saxlanılması da 
+depoliploidləşməyə səbəb olmuşdur. Alınmış partenogenetik 
+övladların hamısı diploid  dişi  fərdlər olmuşdur. Bu isə,  
+meyozda  jinsiyyət  xromosomla- 
+ 
+     
+ 
+♀  
+ Bombyx mori 
+ Süni 
+                            partenogenez 
+ 
+                         
+               ♀                      X           ♂  
+                     
+                B. mori                        B. mandarina 
+       (autotetraploid)  
+    
+                    ♀                B. mori 2n + B. mandarina 1n 
+                                                                (allotriploid)  
+                                                  Süni 
+                                            partenogenez  
+       
+                               
+                                 ♀                          X       ♂   
+         
+B. mori 4n + B. mandarina 2n                B. mandarina 
+   (alloheksaploid) 
+ 
+                                                 
+                                                ♀                ♂     
+                                           
+                                      B. mori 2 n + B. mandarina 2n 
+                                           (allotetraploid) 
+2н  
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                    
+Ъ. 
+гц
+тб 
+г. 
+4н  
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                    
+Ъ. 
+гц
+тб 
+г. 
+2н  
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                    
+Ъ. 
+гц
+тб 
+г. 
+3н  
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                    
+Ъ. 
+гц
+тб 
+г. 
+6н  
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                   
+Ъ. 
+гц
+тб 
+г. 
+2н  
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                    
+Ъ. 
+гц
+тб 
+г. 
+4н    
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                    
+4н  
+                                             
+ 
+ 
+Ъ.
+м
+цл
+ай
+и
+м 
+г. 
+ 
+                    
+ 66 
+ 
+ Şəkil 7. İpəkqurdunda allotetraploidin alınması  sxemi 
+                                                   ([132]-dən götürülüb). 
+ 
+ 
+ 
+ 
+rının seçiji paylanmasına aşağı və yüksək temperaturların 
+oxşar təsir göstərdiyinə dəlalət edir. 
+ Onu da qeyd etməliyik ki, poliploidləşdirmə və 
+depoliploidləşdirmə (2n4n2n) vasitəsilə alınan nəsil 
+inbridinq, androgenez və ameyotik partenogenez yolu ilə 
+çoxaldılmadan alınan nəsillərə nisbətən depressiyaya daha az 
+uğrayır. Belə çoxaldılmadan müxtəlif seleksion-genetik tədq-
+iqatlarda, o jümlədən ameyotik partenoklonların selek-
+siyasında istifadə etmək mümkündür. 
+ 
+5. Klonlaşdırma 
+ 
+Dişilərin klonlaşdırılması. Tut ipəkqurdunun 
+klonlaşdırılması yarım əsrdən çoxdur ki, tədqiqatçıların 
+diqqətini jəlb edir. B.Astaurov tərəfindən ameyotik par-
+tenogenez metodikasının işlənib hazırlanması tut ipəkqurdu 
+dişilərinin klonlaşdırılması problemini əslində həll etmişdir. 
+Dişilərin genotipinin onların ameyotik tipli partenogenetik 
+qızları tərəfindən tam təkrarlanması seleksiya üçün yeni 
+imkanlar yaradır. Yüksək ipəkliliyə malik olan bir sıra 
+partenoklonların mövjudluğu seleksiyanın səmərəliliyini xeyli 
+artırmağa və eyni zamanda seleksiya işlərinin həjmini 
+əhəmiyyətli dərəjədə azaltmağa imkan  verir. Bunu 
+aydınlaşdırmaq üçün hesab edək ki, hər hansı bir əlamətə, 
+məsələn ipəkliliyə görə ən yaxşı genotipə malik  
+olan dişi və erkək fərdlərə hər 100 fərddən bir, yəni 0,01 
+tezliklə (ehtimalla) rast gəlinir. Bu halda ən yaxşı genotipə 
+malik olan dişi və erkək fərdin görüşmə ehtimalı 0,0001 olur. 
+Bu isə o deməkdir ki, ən yaxşı genotipə malik olan dişi və 
+ 67 
+erkək fərdin jütləşdirilməsindən alınmış  bir ailəni  aşkar 
+etmək üçün  azı 10 min ailə bəslənilməlidir. Aydın məsələdir 
+ki, bu həjm bir seleksiyaçının imkanlarından 100-200 dəfə 
+artıqdır. Genotipi məlum olmayan həmin erkəkləri yüksək 
+genetik ipəkliliyə malik olan parteno-klonun dişiləri ilə 
+jütləşdirdikdə isə işin həjmi azı 100 dəfə azalaraq seleksiya 
+praktikasında mümkün olan səviyyəyə enir. 
+ Yeni partenoklonların yaradılması bir sıra təsərrüfat 
+dəyərli əlamətlərə görə yüksək fenotipik qiymətlərə malik olan 
+çoxlu sayda dişilərin seçilməsindən başlayır. Seçilmiş dişilərin 
+mayalanmamış qrenaları ayrı-ayrılıqda ameyotik 
+partenogenezə aktivləşdirilir və çoxlu sayda partenoklonlar 
+əldə edilir. Bu klonlar əsas seleksiya əlamətlərinə görə yox-
+lanılır və ən yaxşıları seleksiyada istifadə məqsədilə seçilir. 
+Ümumiyyətlə, seleksiyaçının sərənjamında onlarla müxtəlif, 
+lakin dəqiq məlum olan stabil xüsusiyyətlərə malik klonlar ola 
+bilər və qarşıya qoyulmuş seleksiya məqsədlərindən asılı 
+olaraq onlardan bu və ya digəri ilk material qismində istifadə 
+oluna bilər. 
+ Partenoklonun hər iki jinsiyyətə görə aparılan seleksiya 
+prosesinə daxil edilməsi üçün onun partenogenetik dişiləri 
+həmin və ya digər bir jinsin fenotipinə görə seçilmiş ən yaxşı 
+erkəkləri ilə jütləşdirilir. Alınmış ailələr arasından ən yaxşıları 
+seçilir və onların autbred nəsli sonrakı seleksiyada istifadə 
+olunur. Göstərilən bu sadə sxem artıq tut ipəkqurdunun 
+ipəkliliyə, yaşama qabiliyyətinə və tam ameyotik 
+partenogenezə meyllilik qabiliyyətinə görə seleksiyasında 
+istifadə olunur. 
+ İzogen dişi partenoklonlar yalnız, yuxarıda 
+göstərdiyimiz kimi, yeni jinslərin yaradılmasında deyil, həm 
+də tut ipəkqurdunun sənaye hibridləşdirilməsində ana jins 
+qismində istifadə olunur. Partenoklonların jinsarası 
+hibridləşdirmədə istifadə olunmasının üstünlükləri aşağı-
+dakılardır [162]: 
+ 68 
+ 1. Partenoklonun dişilərinin adi jinsin erkəkləri ilə 
+çarpaz-laşdırılmasından alınan F1 hibridlər adi hibridlərdən 
+daha yüksək dözümlülüyü və bütün əlamətlərinə görə yek-
+jinsliyi ilə fərqlənirlər. Bu onunla şərtləndirilir ki, 
+çarpazlaşdırmada iştirak edən dişilər bir-birinin genetik identik 
+oxşarlarıdır. Ana jinsin (partenoklonun) genotipi nəsillər üzrə 
+dəyişmir. Ona görə də, sənaye hibridləri ildən-ilə özlərinin 
+həm təsərrüfat dəyərli əlamətlərinin, həm də heterozis 
+effektinin konstantlığını (sabitliyini) qoruyub saxlamalıdır.  
+ 2. Partenoklonun dişilərinin genetik konstantlığı 
+elmitədqiqat müəssisələrində və damazlıq ipəkçilik stan-
+siyalarında aparılan damazlıq işlərini aradan qaldırmağa imkan 
+verir. Bununla yanaşı, dişilərin genetik yekjinsliyi ümumi 
+kütlədən damazlıq üçün seçilən baramaların həjmini də 
+əhəmiyyətli dərəjədə artırmağa imkan verir. 
+ 3. Partenoklonların yalnız dişilərdən ibarət olması da 
+istehsalat üçün faydalıdır, çünki, təmiz jinsin qrenası ilə zibil-
+lənməmiş, 100 %-lik hibrid qrena istehsal etməyə imkan verir. 
+Həm də, bu  zaman  baramaların  jinsiyyətinə görə ayrılması 
+kimi çətin və qeyri-dəqiq texnoloci proses aradan qalxır. 
+ Qeyd etmək lazımdır ki, sənaye hibridləşdirilməsi üçün 
+klonların yaradılması, seleksiya üçün klonların yaradılmasına 
+nisbətən daha mürəkkəb bir işdir. Məsələ bundadır ki, belə 
+partenoklonlar eyni zamanda bir neçə tələbə javab 
+verməlidirlər: yüksək yaşama qabiliyyətinə, ipəkliliyə, 
+texnoloci göstərijilərə və kombinasiya qabiliyyətinə malik 
+olmaqla yanaşı, həm də yüksək partenogenez qabi-liyyətinə 
+(PQ) malik olmalıdırlar. 
+ Hal-hazırda mövjud partenoklonların sənaye çar-
+pazlaşdırılmasında istifadə məqsədilə yaxşılaşdırılması əsa-sən 
+iki metodla həyata keçirilir. 
+ Birinji metoda əsasən ilkin partenoklondan eyni za-
+manda ameyotik dişilər və meyotik erkəklər alırlar. Sonun-
+juları özlərinin ameyotik bajıları ilə və ya qohum olmayan 
+ 69 
+digər partenoklonun dişiləri ilə çarpazlaşdırırlar. Belə çar-
+pazlaşdırmadan alınan nəslin partenogenez qabiliyyəti ilkin 
+partenoklonlarla müqayisədə pisləşmir. Bununla yanaşı, jinsi 
+çoxalmada olduğu kimi, müxtəlif genotipli fərdlər ya-ranır ki, 
+bunların da arasından tələb olunan göstərijilərə malik ən yaxşı 
+dişilər seçilir və onların genotipi ameyotik partenogenezlə 
+möhkəmləndirilir. 
+ İkinji metod poliploidləşdirməyə və depoliploidləş-
+dirməyə əsaslanır. Bunun üçün ilkin diploid partenoklon 
+əvvəljə autotetraploid vəziyyətə gətirilir. Sonra isə tetra-ploid  
+qrenaları  meyotik   partenogenezə  aktivləşdirməklə 
+ (-11
+o
+J, 30 dəq)  depoliploidləşdirirlər. Nətijədə, bir ananın 
+genotipindən istənilən sayda yeni, təkrarolunmaz genotipə 
+malik olan dişi övladlar alınır və seleksiya əlamətlərinin 
+dəyişkənliyi xeyli artır. Bunun sayəsində ilkin partenoklona 
+nisbətən daha yüksək göstərijilərə malik olan formaların 
+seçilməsinə geniş imkan yaranır. Bu formaların, yuxarıda 
+göstərdiyimiz kimi, inbridinq, androgenez və ameyotik par-
+tenogenez yolu ilə alınmış nəsillərə nisbətən depressiyaya 
+daha az uğraması da onların böyük metodiki üstünlü-yüdür. 
+ Sənaye hibridləşdirilməsində partenoklonların ana jins 
+qismində istifadə olunması yalnız eksperimental şəraitdə deyil, 
+həm də istehsalat şəraitində sınaqdan çıxarılmışdır. 1982-ji 
+ildə Fərqanə damazlıq ipəkçilik stansiyasında SANNİŞ-30 
+jinsindən alınmış partenoklonun dişilərini Sovetskaya-5 
+(nişanəli) jinsinin erkəkləri ilə çarpaz-laşdırmaqla 72 qutu 
+hibrid qrena hazırlanmış və istehsalat şəraitində bəslənilmişdir. 
+Bir qutu qrenadan barama məh-sulu nəzarət Tetrahibrid-3 
+hibridində 64,5 kq olduğu halda, yeni hibriddə 74 kq 
+olmuşdur. Beləliklə, dünya ipəkçi-liyinin tarixində ilk dəfə 
+olaraq istehsalat sınağı nətijəsində partenoklonlardan istifadə 
+etməklə hibrid qrena hazırlan-masının mümkünlüyü və alınmış 
+hibridin yüksək məhsul-darlığa malik olması sübuta yetirildi. 
+ 70 
+Homoziot erkəklərin klonlaşdırılması.Tut  ipəkqurdu 
+erkəklərinin genetik identik oxşarlarının (kopiyalarının) 
+alınmasının  prinsipjə  mümkünlüyü  vaxtilə  B.Astaurov  [71]  
+tərəfindən göstərilmişdir. O, belə hesab edirdi ki, gələ-jəkdə 
+tam homoziqot partenogenetik  erkəkləri androge-netik yolla 
+çoxaltmaq, sonra isə alınmış androgenetik klonu qaytarıjı 
+çarpazlaşdırmalar vasitəsilə ikijinsiyyətli xəttə çevirmək 
+mümkün olajaqdır. Bu ideyanı o dövrdə reallaşdırmaq çox 
+çətin idi, çünki partenogenetik erkəklərin süni alınması üsulları 
+yox idi, androgenez metodu isə hələlik kamil deyildi. Bu 
+məsələnin həyata keçirilməsi yalnız kifayət qədər səmərəli 
+meyotik partenogenez və androgenez metodları işlənib hazır-
+landıqdan sonra müm-kün oldu. 
+ Bu metodlar əsasında ilk dəfə 1974-jü ildə homo-ziqot 
+erkəklərdən androgenetik nəsil almaq mümkün ol-muşdur. Hər 
+bir homoziqot partenogenetik erkək genetik jəhətdən identik 
+spermatozoid verdiyi üçün, ziqotanın iki spermatozoidin 
+haploid nüvəsinin birləşməsi nətijəsində əmələ gəlməsinə 
+baxmayaraq, onun androgenetik nəsli bir-birinə və atalarına 
+identik olan tam homoziqot erkəklərdən ibarət olur.  
+ Sonradan tut ipəkqurdu erkəklərinin genetik oxşar-
+larının alınmasına dair daha geniş və müfəssəl təjrübələr 
+yüksək partenogenez qabiliyyətinə malik olan Partenoklon-29 
+üzərində aparılmışdır. Bu klondan alınmış bir neçə tam 
+homoziot partenogenetik erkəklərin ikisindən əsası qoyulmuş 
+4 və 32 saylı androgenetik klonlar bir çox nəsillərdir ki, 
+çoxaldılır və onların hər birindən ümumi hesabda on minlərlə 
+övlad nəsil alınmışdır. Bu klonların homoziqot erkəklərində 
+tam androgenezin tezliyi nəsillər üzrə  5,2 %-dən 17,6 %-dək 
+( х  ≈ 10,6 %), postembrional yaşama qabi-liyyəti isə 13,0 %-
+dən 63,7 %-dək ( х ≈ 41,24 %) tərəddüd edir [162]. 
+ Partenogenetik homoziqot erkəklərdən alınmış 
+androklonlarda yaşama qabiliyyətinin tərəddüd etməsi ardıjıl 
+androgenetik nəsillərin sayından deyil, mühit şəraitindən asılı 
+ 71 
+olur. Adi, qeyri-homoziqot erkəklərdən alınmış androklonlarda 
+isə androgenetik nəsillərin sayı artdıqja yaşama qabiliyyətinin 
+proqressiv azalması baş verir. Bu onunla əlaqədardır ki, 
+androgenetik nəsillərin sayı artdıqja homoziqot vəziyyətə 
+keçən letal və yarımletal genlərin tezliyi çoxalır. Əksinə, 
+partenogenetik homoziqot erkəkdən alınmış androklon 
+yarandığı andan faydalı və zərərli genlərin tarazlaşmış olduğu 
+homoziqot genotipə malik olur ki, bu da hər növbəti 
+androgenetik nəslə dəyişilməz halda ötürülür. 
+ Homoziqot erkəklərdən alınmış androklonların yaşama 
+qabiliyyətinin nisbətən yüksək olmasına yaraq onların kütləvi 
+çoxaldılması texniki jəhətdən çətinlik törədir. Bununla 
+əlaqədar olaraq androgenetik izogen klonları bir neçə qaytarıjı 
+çarpazlaşdırma aparmaqla başlanğıj erkək qədər homoziqot 
+olan ikijinsiyyətli xəttə çeviriblər. Bu zaman, ananın 
+xromosomlarının donoratanın xromosomları ilə çox tez əvəz 
+olunması tut ipəkqurdunun dişilərində krossinqover 
+hadisəsinin getməməsi sayəsində mümkün olmuşdur [162]. 
+ Tam homoziqot dişi və erkək formaların  mövjud-luğu 
+sayəsində tut ipəkqurdunda ilk dəfə olaraq onların 
+çarpazlaşdırılması yolu ilə genetik jəhətdən bir-birinin eyni 
+(oxşarı) olan, təbii ki, valideyinlərdən heç birinin genotipini 
+təkrarlamayan dişi və erkək jinsiyyətli sibslər (bajı-qardaş-lar) 
+alınmışdır. Genetik jəhətdən uzaq, tam homoziqot for-maların 
+çarpazlaşdırılmasından alınan hibrid oxşarlar xüsusi maraq 
+kəsb edir. Bu hibridlər izogen dişi parteno-klonlardan və 
+homoziqot erkəklərin izogen androklon-larından fərqli olaraq 
+nə süni çoxaldılmanın, nə də homo-ziqot vəziyyətə keçmiş 
+yarımletal genlərin depressiv təsirini hiss etmirlər. Buna görə 
+də onlar güjlü heterozis nümayiş etdirirlər ki, bunun da 
+izogenliklə (genetik eyniliklə) uzlaş-ması sayəsində fərdlərin 
+(sibslərin) yalnız keyfiyyət əlamət-lərinə görə deyil, həm də 
+kəmiyyət əlamətlərinə görə, indi-yədək tut ipəkqurdunda 
+görünməmiş yekjinslik müşahidə olunur. Məsələn, diri 
+ 72 
+baramanın kütləsinin variasiya əmsalı izogen partenoklonlarda 
+və adi heterogen hibridlərdə mü-vafiq olaraq 7,4 % və 8,6 % 
+olduğu halda, izogen hibrid sibslərdə 3,6 % təşkil edir. İzogen 
+sibslərin kəmiyyət əla-mətlərinə görə yüksək yekjinsliyi çox 
+böyük praktiki və metodiki əhəmiyyət kəsb edir. 
+ Ümumiyyətlə, eksperimental partenogenezdən, gino-
+genezdən, androgenezdən və poliploidiyadan tut ipəkqurdu 
+seleksiyasının ən müxtəlif genetik məsələlərinin həllində 
+istifadə olunur. Onların hamısı barədə ətraflı danışmağa imkan 
+olmadığı üçün bu məsələlərlə maraqlananlara akad  
+V.Strunnikovun monoqrafiyası [162] ilə tanış olmağı məsləhət 
+görürük. 
+ Onu da qeyd etməliyik ki, son zamanlarda bir çox 
+ölkələrdə (Bolqarıstanda, Gürjüstanda, Ukraynada və s.) tut 
+ipəkqurdunun klonlaşdırılmasına, klonların seleksiyada və 
+sənaye hibridləşdirilməsində istifadəsinə dair tədqiqatlar 
+getdikjə genişləndirilir [184, 226, 233, 240].   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 73 
+ 
+ 
+ 

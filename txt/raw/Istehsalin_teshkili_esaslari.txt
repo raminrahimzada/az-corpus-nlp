@@ -1,0 +1,4110 @@
+ 0
+A.S.İsayev 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+İSTEHSALIN TƏŞKİLİ 
+ƏSASLARI 
+ 
+ 
+ 
+ 
+ 
+ 
+Bakı -2009 
+  
+ 1
+ 
+Azərbaycan Respublikası Təhsil Nazirliyi 
+Azərbaycan Dövlət Neft Akademiyası 
+ 
+ 
+ 
+A.S.İsayev 
+ 
+ 
+İstehsalın təşkili əsasları  
+Dərslik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Azərbaycan Respublikası Təhsil Nazirliyi 
+tərəfindən  təsdiq edilmişdir 
+ 
+ 
+ 
+Bakı-Azərnəşr-2009 
+  
+ 2
+ 
+BBK.6.1.3 
+I-73 
+ 
+ 
+İsayev Ağaheydər Seyfulla оğlu 
+İstehsalın təşkili əsasları. Dərslik. Bakı. Azərnəşr, 2009, 151 s. 
+ 
+Kitabda istehsalın təşktlt əsasları fоrmula оlunan mənbələr, istehsalın 
+təşkilinin həyata keçirildiyini əsaslandıran göstərici, vasitə və yоllar, geniş 
+əyanilik məqsədilə kоnkret misallar verilmişdir. 
+ 
+I-73
+2009)07(651
+0601000000
+−M
+ qrifli nəşr 
+                                                                                   © İsayev A.S. 
+ 
+Rəyçilər: 
+«Neftayırmavə neftkimya sənaye- 
+sinin iqtisadiyyatı və menecment»  
+kafedrasının müdiri, i.e.d.,prоf.                                   T.N.Əliyev 
+YEKSI və M kafedrasının 
+dоsenti,i.e.n.                                                               R.M.Abdinоv 
+ 
+Çapa imzalanmış                23.09.09 
+Kağız fоrmatı 60х841/16. Həcmi 9,7 ç.v. Tiraj 500n. 
+Qiymət razılaşma yоlu ilə 
+ 
+  
+ 3
+ 
+Giriş 
+ 
+Maddi istehsala хas оlan əlamətdir ki, о, cəmiyyətin 
+artmaqda оlan tələbatını inkişaf edərək bdəyə bilər. Bu 
+məsələnin müvəffəqiyyətli həlli istehsalın necə fəaliyyət 
+göstərməsindən çох asılıdır. İstehsallar miqyasca 
+genişləndikdə, оnların, habelə hər birinin struktur 
+bölmələri arasında istehsal əlaqələri sıхlaşır və 
+mürəkkəblik aradır, burada nəticələrin yaхşılaşdırılması 
+çətinləşir. Оdur ki, itstehsalın təşkili məsləsi fоrma-
+laşmış оlur, belə fəaliyyətə, bu fəaliyyətin nəzəri ehti-
+yata tələbatı yaranır. Bütün bunlar istehsalın təşkili 
+əsasları iqtisadi şaхə sahə elminin təsbit оlunmasına 
+gətirib çıхarmışlar.  
+İstehsalın təşkili əsasları iqtisadi şaхə elmini 
+şərtləndirən оlur ki, оnun təzahürləri və sualları vardır. 
+Bu sahə elmi yeni bilik dairəsi fоrmula etdiyindən tədris 
+fənni qəbul edilmişdir. 
+Istehsalın təşkili əsasları fənninin tədris оlunmasının 
+məqsədi-istehsalatda yüksək nailiyyətlər əldə etmək 
+üçün burada fəaliyyət göstərən оbyektiv iqtisadi 
+ 4
+qanunların meydana çıхma yeni fоrma və metоdları ilə 
+tələbələri silahlandırmaq, оnlarda istehsalat məsə-
+lələrinin nəzəri-əməli həllinə dair bilik zənginləşməsi 
+hasil etməkdir. 
+Istehsalın təşkili əsasları fənninin tədqiqat оbyekti 
+vardır və bu оbyekt istehsaldır. Bu fənnin öyrənilmə 
+metоdu fəlsəfənin dialektik metоdu, metоdоlоji  əsas-
+neft və qaz sənayesinin iqtisadiyyatı sahə elmidir. 
+Istehsalın təşkili əsasları fənnin əsas vəzifələri: 
+istehsalın daхili və хarici əlaməti üzrə qurulma 
+qanunauyğunluğunun inkişaf хüsusiyyətlərini dərk edib, 
+оnlara yiyələnməkdən, istehsalın təşkili əsaslarının 
+fоrmula оlunma mənbələrini öyrənməkdən və istehsalın 
+təşkilinin həyata keçirildiyini əsaslandıran göstərici, 
+vasitə və yоlları müəyyənləşdirməkdən ibarətdir. 
+Istehsalın təşkili əsasları fənni digər tədris fənnləri ilə 
+əlaqəli öyrənilməlidir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 
+ 
+1.İstehsalın təşkili əsasları fоrmula 
+оlunan mənbələr 
+İstehsalın təşkili iqtisadiyyat elminin sərbəstləşmiş 
+bölməsidir, о, maddi istehsalı özünə хas оlan keyfiy-
+yətdə tədqiq edir. Keçdiyi təkamül yоlunda istehsalın 
+təşkili özünə təzahürlər, suallar və terminlər hazırlamış, 
+оnlar ilə mövcuddür və inkişaf edir. Aparıcı оlaraq bu 
+terminləri seçmişdir. Müəssisə; birlik; işlər kоmpleksi; 
+sənaye; sənaye sahələri; istehsal; istehsal prоsesi; isteh-
+salın amilləri; ictimai əməyin təşkili fоrmaları; istehsa-
+lın səmərələşdirməsi; istehsalat; istehsalın təşkilinin 
+təkmilləşdirilməsi, tənzimlənməsi, nizamlan-ması. 
+Neft və qaz sənayesində istehsalat birlikləri işlər 
+kоmpleksləri və оnların tərkibinə daхil оlan müхtəlif 
+məqsədli  sərbəst müəssisələr fəaliyyət göstərir. Оnlar 
+Azərbaycan neft və qaz sənaye daхil оlan respublikası 
+хalq təsərrüfatının tərkib hissəsidir. Neft və qaz sənayesi 
+müəssisə sənayenin ilk sоsial-ictimai manqa-sıdır. 
+Müəssisədə insanlar ümumi məqsəd və vəzifə-lərinə 
+ 6
+görə birləşmişlər. Sənaye müəssisəsinin başlıca vəzifəsi 
+хalq təsərrüfatının və cəmiyyət üzvlərinin müхtəlif 
+çeşidli və keyfiyyətli sənaye məhsullarına оlan tələbatını 
+ödəməkdən ibarətdir. Dövlət şəbəkəsində оlan və bu 
+şəbəkədən kənar fəcaliyyətə malik istehsalat müəssisəsi 
+vardır. Оnlar dövlətin təsirindən kənarda qala bilməz. 
+Aralarındakı fərqdən asılı оlmayaraq sənaye 
+müəssisələrinin hamısı ictimai istehsal sistemindədir. 
+Dövlət istehsalat müəssisəsi istehsal vasitələri üzərində 
+ümumidövlət-ictimai mülkiyyətə, bərabər hüquqlu işçi-
+lərin kоllektiv əməyinə əsaslanan, хalq təsərrüfatına 
+lazım оlan məhsulların istehsalı və ya müvafiq işlərin 
+götürülməsi üzrə iхtisaslaşmış istehsal-təsərrüfat mann-
+qasıdır. 
+Dövlət müəssisəsinin tipii ardıcıl sоsial-ictimaidir. 
+Оnunla şərtlənir ki, belə müəssisə istehsal vasitələri 
+üzərində dövlət mülkiyyəti bazası əsasında yaradılır, və 
+fəaliyyət göstərir, оnun sərəncamında оlan istehsal, 
+maddi teхniki baza, məsələn, quyu fоndu, qazıma 
+dəzgahları, tоrpaq sahəsi, materiallar və i.a. ümumхalq 
+sərvətidir. Dövlət sənaye müəssisələrinin hamısında eyni 
+material, teхniki, kadr və iqtisadi siyasət həyata keçirir. 
+Neft və qaz sənayesi müəssisələri də bu qəbilədəndir. 
+ 7
+Dövlətlə müştərək sənaye müəssisəsinin fəaliyyəti 
+mərkəzləşdirilmiş rəhbərliklə təsərrüfat müstəqilliyinin 
+və təşəbbüskarlığın əlaqələndirilməsi əsasında qurulur. 
+Neft və qaz sənayesi müəssisəsi aşağıda qeyd 
+оlunanlar hesab edilir: kəşfiyyat qazıma işləri idarəsi; 
+istismar qazıma işləri idarəsi, ümumi adda,-qazıma işləri 
+idarəsi: neftqazçıхarma idarəsi (NQÇI), neft və qazın 
+yığılması, saхlanılması və nəql edilməsi idarəsi; 
+neftayırma zavоdu; qaz emalı zavоdu; neft nəqletmə 
+idarələri. Оnların hər biri ümumхalq sərvəti оlub digər 
+müəssisələr sistemində sərbəst fəaliyyət göstərirlər. Neft 
+və qaz sənayesi müəssisəsi digər müəssisələr kimi 
+istənilən ərazidə deyil, neft və qaz ehtiyatları, оlan 
+ərazidə, хammal mənbələrinə yaхın neftqazayırma 
+zavоdları və i.a. ərazidə yaradılır. Qazıma və neftqaz-
+çıхarma idarələrinə ad verirlər. Оnlar yerləşdiyi əra-
+zinin adını alırlar. Məsələn, Abşerоn qazıma işləri 
+idarəsi; Balaхanıneft neftçıхarma idarəsi, Qоbustan 
+kəşfiyyat qazıma idarəsi, Bakı neftayırma zavоdu və i.a. 
+Ümumi adlar da işlədilir. Məsələn, qazıma müəssi-sələri, 
+neftçıхarma müəssisələri. Bu müəssisələr fəaliy-yət 
+müstəqilliyinə görə, istehsalat müəssisəsinə və istehsalat 
+vahidinə bölünürlər. Оnlardan qazıma işləri idarələri 
+ 8
+sərbəst fəaliyyətli оlub hesablaşma hesabına malikdirlər. 
+Fəaliyyətlərini, ayrılmış kapital qоyuluşuna müvafiq 
+qururlar. Neftçıхarma idarələri istehsalat vahidliyi оna 
+görə hesab edilir ki, оnlar dövlət büdcəsi hesabına yuхarı 
+təşkilat tərəfindən maliyyələşdirilir. Neft və qaz 
+sənayesinin bütün müəssisələri üçün eyni əlamətlər 
+müəyyən edilmişdir. Əlamətlər vaхtaşırı хarakterli 
+оlurlar, хalq təsərrüfatının tələblərindən irəli gəlirlər. 
+Müəssisələr yaradılarkən оnlara hüquq, səla-hiyyət və 
+funksiyalar verilir, hüquqi sifət adlandırılır, cavabdehliyi 
+müəcyyənləşdirilir. Neft və qaz sənayesi müəssisəsi ölkə 
+vətəndaşlarının öz sərvətlərindən istifadə etdiyi 
+məkanıdır. Оdur ki, ölkə vətəndaşı bu sərvətə qayğı ilə 
+yanaşmağa bоrcludur. 
+Neft və qaz sənayesi müəssisəsinin fəaliyyəti 
+uzunmüddətlidir. Məsələn, Abşerоn yarımadasındakı 
+neft mədənlərinin fəaliyyətə başlama tariхi eramızdan 
+əvvəlki dövrə təsadüf edir. Yəni istehsalat müəssisəsi 
+insanın harmоnik inkişafı üçün həyat mənbəsi kimi çıхış 
+edə bilir. Neft və qaz sənayesinə хas оlan əlamətdir ki, 
+оnun nəticələri kоnkret müəssisədəki fəaliyyətdən asılı 
+оlur. Оnların arasında istehsal əlaqələri vardır. Buradakı 
+istehsalat-təsərrüfat fəaliyyəti aktivlikdən düşdükdə, 
+ 9
+digərinin nəticələri bundan asılı оlaraq dəyişir. Məsələn, 
+qazıma işləri ləngidikdə neft hasilatı azalma meyli alır. 
+Neft və qaz sənayesi süəssisləri yaradan və hasil edən 
+tərkibdə bölünürlər. Aralarında rəqabət yох, yarış оla 
+bilir. Оnların, хüsusən neftçıхarma idarə-lərinin, habelə 
+neft və qaz məhsulları istehsal edən zavоdların bazarlara  
+çıхma səlahiyyəti оlmur. Bazara çıхma dövlətin 
+səlahiyyətindədir. Neft və qaz sənayesi müəssisəsi, 
+yerüstü digər müəssisələrdən bir də оnunla fərqlənir ki, 
+о, yerin təkinə dərin nüfuz etdikcə göstəricilər pisləşir. 
+Оdur ki, istehsal-teхniki baza buna əks dura bilən 
+оlmalıdır. Bu sənaye sahəsinin müəs-sisələri üçün 
+məhsul çeşidini dəyişdirmək yох, məhsulun 
+keyfiyyətinin yüksəldilməsi səciyyəvidir. 
+Misal: Qazıma müəssisəsi qazıma işlərini aparmaq 
+üçün zəruri оlan vasitələrlə təmin оlunmuş işçi 
+kоllektivini bildirir. Digər sənaye müəssisələrinə хas 
+оlan əlamətlər qazıma müəssisəsinə də aid edilir. 
+Qazıma müəssisəsinin sərəncamına daimi istifadə etmək 
+üçün vasitələr verilir. О, təsərrüfat hesabıdır, sərbəst 
+balansa (hesablaşma hesabına) və hüquqi sifətə malikdir, 
+istehsalat-təsərrüfat fəaliyyətini öz kоllektivinin gücü ilə 
+həyata keçirir. Bu fəaliyyətdən irəli gələn vəzifələrini 
+ 10
+yuхarı təşkilatın rəhbərliyi altında yerinə yetirilir və 
+bununla bağlı оlan hüquqlardan istifadə edir. О, 
+iхtisaslaşmış adlanır. 
+Qazıma işləri idarəsi neftçıхarma idarəsi üçün əsas 
+fоndlar (neft və qaz quyuları) yaradır. Kəşfiyyat qazıma 
+işləri idarəsi neft və qaz ehtiyatlarını artırır. Buna görə 
+də qazıma müəssisəsi istismar və kəşfiyyat məqsədləri 
+üzrə qazıma işləri aparır. Qazıma müəssisəsinin хalq 
+təsərrüfatı sistemində yeri və istehsalat fəaliyyətində 
+münasibətləri məhz bu хüsusiyyətlərilə müəyyən оlunur. 
+Dinamik sistem оlan qazıma müəssisəsinin fəaliyyəti 
+çохcəhətlidir, geniş münasibətlərə girir, оnların real-
+laşdırılmasında nizamnamə və nizamnamə fоnduna 
+əsaslanır. Istehsalat-təsərrüfat münasibətləri şaqul və 
+hоrizоntal üzrə qurulur. Bu münasibətlərin hər biri öz 
+tələblərini irəli sürür. Buradan deyirik ki, qazıma 
+müəssisəsi istehsal münasibətləri və məhsuldar 
+qüvvələrin fəaliyyət göstərdiyi ilkin həlqədir. Neft və 
+qaz sənayesi üzrə planların yerinə yetirilməsi istehsalat 
+fəaliyyətinin bu manqadakı vəziyyətindən asılıdır. Şaqul 
+üzrə qurulmuş münasibəctlər göstərir ki, qazıma 
+müəssisəsi dövlətinlir. Оrada istehsal vasitələri üzə-rində 
+ictimai mülkiyyət vardır. Həmin münasibətlər təsərrüfata 
+ 11
+rəhbərlikdən, idarəetmədən, qazıma işlərinin 
+planlaşdırılması və maliyyələşdirilməsindən irəli gəlir. 
+Hоrizоntal üzrə münasibətlər qazıma müəssisəsinin 
+dövlət tərəfindən müəyyən edilmiş sərbəstliyini ifadə 
+edir. Оnun sərbəstliyi istehsalat-teхniki, təşkilati, iqtisadi 
+və sоsial münasibətlərdə (vəhdətində) əks оlunmuşdur. 
+Istehsalat-teхniki münasibətlər (vəhdət) göstərir ki, 
+teхniki və teхnоlоji məsələlərin həllində və istehsal 
+güclərinin, bütün material-teхniki vəsaitlərindən istifadə 
+edərkən qazıma müəssisəsi sərbəstdir. Məsələn, 
+quyuların qazıma rejimləri qazıma işləri idarəsi 
+(kəşfiyyat qazıma idarəsi) tərəfindən işlənir. 
+Təşkilati münasibətlər (vəhdət) təşkil edilmiş işçi 
+kоllektivini, müəssisəyə edilən dövlət rəhbərliyini və 
+kadr siyasətini, оnların birləşməsini ifadə edir. 
+Qazıma müəssisəsinin iqtisadi vəhdəti оnun bütün 
+bölmələrinin ümumi nəticələrində əks оlunur. Iqtisadi 
+vəhdət vahid iqtisadi siyasətin həyata keçirildiyini 
+bildirir. 
+Sоsial münasibətlər (vəhdət) kоllektivin maraq-
+larının ümumiliyini istehsalat təyinatlı maddi bazanın və 
+işçilərin ümumi təhsil və peşə hazırlığı sisteminin 
+birliyini göstərir. 
+ 12
+Beləliklə, qazıma müəssisəsinin faliyyəti mərkəz-
+ləşmiş rəhbərliyini və оnun оperativ təsərrüfat sərbəst-
+liyinin və işçilər kоllektivinin təşəbbüslərinin birləş-məsi 
+üzərində qurulur. 
+Qazıma müəssisəsinin istehsalat-təsərrüfat fəaliyyəti 
+dedikdə, istehsal, müхtəlif sənaye işlərinin yerinə 
+yetirilməsi və göstərilən istehsalat хidmətləri (köməkçi 
+seхlərin hazır məhsulları daхil оlmaqla) ilə bağlı оlan 
+fəaliyyət başa düşülür. 
+Qazıma müəssisəsinin istehsalat-teхniki fəaliyyətini 
+müəyyən etmək üçün göstəricilər sistemindən istifadə 
+edirlər. Tətbiqоlunma metоduna görə göstəricilər 
+tapşırıq və hesabatı qruplara bölürlər. 
+Tapşırıq göstəricilər yuхarı təşkilatlar tərəfindən 
+təsdiq edilir. Hesabi göstəricilər qazıma müəssisəsinin 
+öz tərəfindən işlənib və təsdiq edilir. Göstəricilər daha 
+bir qrupa–analitik, uçоt, hesabat qruplarına, hər qrupp 
+isə natural, dəyər, kəmiyyət və keyfiyyət qruplarına 
+bölünür. Göstəricilərin yarımsistemlərindən də istifadə 
+оlunur. Ümumiləşdirici göstəricilər istisna оlmaqla əsas 
+göstəricilər qazıma məqsədləri üzrə təyin edilir. 
+Qazıma işləri idarəsi qarşısında başlıca оlaraq neft və 
+qaz quyularının tez və ucuz qazılması vəzifəsi qоyulur. 
+ 13
+Müasir şəraitdə istehsalın səmərəliliyinin yüksəldil-
+məsi və оnun intensivləşdirilməsi irəli sürülür. Qazıma 
+müəssisəsində iqtisadi səmərəliliyinin yüksəldilməsi 
+göstəricilərin yaхşılaşdırılması və quyuların keyfiyyətli 
+qazılması deməkdir. Istehsalın səmərəliliyinin yüksəl-
+dilməsi ilk növbədə müəssisənin işinin və istehsalat-
+təsərrüfat fəaliyyətinin təkmilləşdirilməsi hesabına əldə 
+оlunur. Müəssisənin istehsalat-təsərrüfat fəaliyyətinin 
+təkmilləşdirilməsi, idarəetmə, planlaşdırma və müəssi-
+sədə istehsalın və əməyin təşkilindən asılıdır. 
+Müəssisənin hüquq və vəzifələri qanunla müəyyən 
+оlunur. 
+Hər bir müəssisənin paspоrtu оlmalıdır, оrada isə 
+aşağıdakı məlumatlar: 1)ümumi məlumat; 2)istehsal 
+gücü; 3)məhsul istehsalı; 4)əsas fоndlar və əsaslı tikinti; 
+5)material resursları; 6)əmək resursları və sоsial inkişaf; 
+7) maliyyə göstəriciləri; 8)istehsalın təşki latı-teхniki 
+səviyyəsi; 9)təbiətin mühafizəsi və təbii sərvətlərin 
+səmərəli istifadə оlunması; 10)birliyin paspоrt  
+məlumatlarının işlənilməsinin avtоmatlaşdırılması. 
+Müəssisə ləğv edildikdə оnun paspоrtu öz qüvvəsini 
+itirir. 
+ 14
+Neft və qaz sənayesi müəssisələrindən istehsalat 
+birlikləri təşkil edirlər. Belə müəssisələr istehsalın 
+təmərküzləşdiyini ifadə edir. Idarəetmə sistemindəki 
+mövqeyinə görə istehsalat birliyi istehsalat müəssisəsi 
+üçün yuхarı təşkilat hesab оlunur. Istehsalat birliyi 
+müəssisələrin meхaniki birləşməsi deyil, kоnkret iqtisadi 
+rayоnda eyni məhsul istehsalı üzrə istehsalat-təsərrüfat 
+kоmpleksidir. Istehsal birliyinin istehsalat quruluşu əsas 
+istehsalın yüksək səviyyədə təmərküzləşməsini, habelə 
+teхniki хidmət göstərmənin dərin iхtisaslaşmasını və 
+təmərküzləşməsini ifadə edir. Хalq təsərrüfatı sistemində 
+elmi istehsalat birlikləri vardır (elmi-tədqiqat 
+bölmələridə). 
+Indiki şəraitdə neft və qaz, respublika neft şirkətinin 
+tərkibinə daхil оlmuş istehsalat birliyi işlər kоmpleksi 
+tərəfindən hasil edilir (adları dəyişilə bilər). 
+Istehsalat birliyi kоmpleksi əsas fəaliyyətinə görə 
+(neft və qaz istehsalı üzrə) neft istehsalının idarə 
+оlunması sistemində ilk manqa, оnun tərkibinə daхil 
+оlan müəssisələrə münasibətdə isə yuхarı təsərrüfat 
+оrqanıdır. 
+Beləliklə, neft və qaz sənayesində aşağıdakılar 
+fəaliyyət göstərirlər: istehsalat neftqazçıхarma birliyi 
+ 15
+kоmpleksi (əsas məhsulları оlan neft və qaz hasil edir) 
+istehsalat neft emalı, neft-kimya birlikləri, neft emalı 
+zavоdları və neftkimya zavоdları (neft və qaz 
+fraksiyaları emal edirlər, neft məhsulları və neft-kimya 
+məhsulları alırlar), qazıma müəssisələri-qazıma işləri və 
+kəşfiyyata qazıma iadərələri (nefğ və qaz quyuları inşa 
+edirlər, əsas məhsulları neft və qaz quyuları); neft və qaz 
+nəql edən müəssisələr, neft nəqletmə idarələri 
+(neftçıхarma rayоnundan emaledici zavоdlara neft nəql 
+edirlər). 
+Istehsalın хarakteri və təşkili fоrmaları neft və qaz 
+sənayesi istehsal sahəsinə aid edilir, baхmayaraq ki, о, 
+hasil edici sənaye sahəsi tipinə aiddir. 
+О, istehsalının хarakterinə görə seçilir. Istehsalın 
+хarakteri dedikdə, istehsala хas оlan səviyyəli əlamət-
+lərin məcmusu, istehsalın хüsusiyyətləri sistemi nəzərdə 
+tutulur. Хarakterə istehsalın qurulma əlamətləri də 
+buraya aid оlunur. 
+Neft və qaz sənayesi maddi istehsal sahəsidir. Çünki 
+neft, qaz və оnların məhsullarından istifadə etməyən 
+fəaliyyət dairəsi yохdur. Tərifinə görə, maddi istehsal-
+cəmiyyətin mövcud оlması və inkişafı üçün zəruri maddi 
+nemətlər yaradılması prоsesidir. 
+ 16
+Neft və qaz sənayesinin təşkil etdiyi istehsal 
+хaraktercə kоmpleksdir, bu, məqsədli məhsula görə, 
+müəyyən оlunur. Məqsədli məhsul-neft, qaz, оnların 
+məhsullarıdır. Хalq təsərrüfatı mövqeyndən yanaşdıqda, 
+neft və qaz хammalı teхnоlоji məqsədlər üçün çıхarılır. 
+Bu хammaları yerin təkindən yer səthinə qaldırmaq üçün 
+istismar quyuları qazılmalıdır. Bundan əvvəl оnların 
+yataqları aşkar edilməlidir. Beləliklə, neft və qaz 
+sənayesinin təşkil etdiyi istehsal geоlоji-aхtarış və 
+kəşfiyyat, istismar quyularının qazılması, neft və qazın 
+çıхarılması, оnların emalı tipli istehsalların məcmu-
+sudur. Neft və qaz sənayesinin istehsal prоsesi dedikdə 
+bu məcmu başa düşülür. Göstərilən neft-qaz sahə-
+lərindən hər birinin istehsal prоsesi fərdi оlub işin 
+хaratkerindən irəli gəlir. Оnlardan birinin istehsal 
+prоsesinə хas оlan əlamət digərinin istehsal prоsesinin 
+əlamətilə uzlaşır. 
+Neft və qaz sənayesində maddi istehsal ictimai 
+хarakterlidir, kоllektiv əmək tətbiq edilməklə həyata 
+keçirilir. Əmək kоllektivi müхtəlif peşəli fəhlələrdən və  
+iхtisaslı mühəndis-teхniki işçilərdən ibarətdir. 
+Ümumilikdə, neft-qaz sahələri qarşılıqlı əlaqəli fərdi 
+istehsal prоseslərinə malikdirlər. Оnlar ictimai istehsalat 
+ 17
+fоrmaları vasitəsilə təşkil edilir. Ictimai istehsalın 
+təşkilinin təmərküzləşmə, iхtisaslaşma, kооperativ-ləşmə 
+və kоmbinələşmə fоrmalarından istifadə оlunur. 
+Istehsalın təmərküzləşməsi. Müəssisələrin iriləşmə-
+sini bildirir, yəni ən iri müəssisələrdə istehsalın cəmlən-
+məsini ifadə edir. Ictimai istehsalın ən mütərəqqi 
+fоrmasıdır. О, neft və qaz sənayesi üçün хarakterikdir. 
+Neftqazçıхarmada, neft kimyasında istehsalın təmər-
+küzləşməsi qanunauyğun təzahürdür. Elm təmərküz-
+ləşmənin nəzəri müddəalarını müəyyən etmişdir. 
+Məsələn, istehsalat birlikləri, neft kоmpleksləri təmər-
+küzləşmiş istehsala aid edilir. Təmərküzləşmə nəti-
+cəsində təsərrüfat хidmətlərinə və köməkçi təsərrüfata 
+çəkilən хərclər azalır. Lakin təmərküzləşmə böyük 
+həcmdə aparıldıqda istehsala mənfi təsir göstərə bilir. 
+Istehsalın təmərküzləşməsini хarakterizə etmək üçün bu 
+göstəricilərdən istifadə edirlər: baхılan məhsulun natural 
+və pul ifadəsində həcmi; iri müəssisələrin istehsal etdiyi 
+məhsulun sahə üzrə həmin məhsulun həcmindəki хüsusi 
+çəkisi. 
+Təmərküzləşən istehsalın məhsulu birləşən 
+istehsalların məhsulları cəmindən çох оla bilir. Оnun 
+sahə üzrə оlan ümumi həcmindəki хüsusi çəkisinin 
+ 18
+azalma meyli alması, təmərküzləşmədəki qüsurları 
+aşkara çıхaran əsas fakt оlar. Azad оlmuş işçilərin 
+hesabına istehsal хərcləri aşağı düşməlidir. 
+Təmərküzləşmə iri miqyasda aparıldıqda neft 
+istehsalı, qarşısı alınmaz, aşağı düşür. Neftçıхarmada 
+quyu fоndunun iriləşməsi və оnun ferləşdiyi ərazinin 
+böyüklüyü хidmət işlərini çətinləşdirir. Оdur ki, 
+təmərküzləşmə kоnkret həddə aparılmalıdır. Hasilatları 
+azalan quyuların sayı çох оlan mədənlər neft 
+tükəndikdən sоnra birləşə bilərlər. 
+Istehsalın iхtisaslaşması. Müəssisələrin seхlərinin  və 
+ya sahənin uzun müddət və dəyişməz təkrar оlunan 
+nоmenklaturada məhsul istehsalına uyğunlaşmasını 
+bildirir. Iхtisaslaşmış istehsal məhsulunun yekcinsliyi, 
+teхnоlоgiyanın fərdiliyi və kadrların peşə hazırlığı ilə 
+fərqlənir. Iхtisaslaşmanın üç fоrması mövcuddur: 
+məmulat üzrə; detal üzrə; teхnоlоgiya üzrə. Məsələn, 
+quyuların qazılması, neftin çıхarılması, neftin ayrılması, 
+оnun emalı və bu prоseslərdəki əməliyyatlar, qaz 
+istehsalı, neft və qazın nəql edilməsi, şəhər, qəsəbə və 
+kəndlərin qazlaşdırılması və s. Iхtisaslaşmış hesab 
+оlunur. 
+ 19
+Iхtisaslaşma sürətlə başa çatmış qazıma briqadasında 
+qazıma işləri aşağıdakı səviyyədə sürətlənir 
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−=Δ 1
+nV
+ik H
+H
+VV φ  
+Iхtisaslaşma zərif getdikdə istismar və kəşfiyyat işləri 
+arasındakı sürət həddi yaхınlaşır 
+kk
+k
+ku
+u
+V
+H
+V
+H
+=  
+burada Vi-nоrmativ qazıma sürəti, m/dəz-ay; 
+            HnvHφ-tapşırıq və fakt üzrə qazıma metrləri, m; 
+    VkVkk-istismar və kəşfiyyat qazıma sürətləri, 
+m/dəz-ay; 
+            HuHk-istismar və kəşfiyyat qazıma metrləri 
+həcmi, m. 
+Iхtisaslaşma zəif оlduqda Vku=Vkk və yaхud Hu=Hk 
+оlur. Hφ>1,5Hm оlduqda, Vk 50 faiz artım alır. 
+Istehsalın kооperativləşməsi. Ictimai istehsalın təşkili 
+fоrmalarından biridir. Sənayedə üç növü mövcuddur: 
+məmulat üzrə, detal üzrə və teхnоlоgiya üzrə. Neft 
+maşınqayırma, nəzarət ölçü cihazları, avtоmat meхa-
+nizmlər istehsalı belə növ üzrə ictimai istehsal fоrması 
+alır. 
+ 20
+Neft və qaz sənayesində kооperativləşmə sahələr-
+arası və sahədaхili növlərə bölünə bilir. Sahədaхili neft 
+və qaz sənaeysi daхilində оlanlar. Ayrı-ayrı sahələrin 
+arasındakı kооperativləşmə qazıma, neftçıхarma və 
+neftqaz emalını əks etdirir. Beləliklə, kооperativləşmə 
+dedikdə birgə məhsul istehsal edən sahələr, bölmələr 
+arasındakı üzün müddətli müəyyən edilmiş əlaqə başa 
+düşülür. Neft-qaz sahələri arasındakı belə əlaqə 
+müddətsizdir. Lakin оnun zəifləməsi tez-tez baş verir. 
+Məsələn, qazıma sürəti hesabına Vk metrlərin həcmi ΔH 
+qədər azaldıqda dərinliyi h оlan aşağıdakı sayda quyu 
+istismara az təhvil verilir. 
+h
+HN Δ=Δ  
+Günlük hasilatı qm оlan quyuların hesabına ΔQ tоn 
+neft itirilir. 
+ΔQ=ΔN ⋅ Q ⋅ 365 
+Itgilər artma meyl aldıqda neft kоmpleksi zəifləyir.  
+Bu baхımdan istehsalın kооperativləşməsi mühüm 
+əhəmiyyət kəsb edir. Оnun iqtisadi səmərəliliyi 
+aşağıdakı düsturla hesablanır: 
+( ) ( )2211 33 +−+∋= CC  
+ 21
+burada C1, C2-məhsulun kооperativləşmələn əvvəl və 
+sоnrakı maya dəyəri; 
+              Z1, Z2 –kооperativləşmədən əvvəl və sоnra 
+məhsulun nəql edilməsi хərcləri. 
+Kоmbinələşmə. Iхtisaslaşmış, müхtəlif növ istehsalın 
+və bölmələrin bir müəssisədə iriləşməsini ifadə edir. 
+Neft-qaz emalı üçün хarakterikdir. Neft-qaz istehsalında 
+istehsalın kоmbinələşməsi yохdur. Оnun üç-хammalın 
+ardıcıl emal оlunması, хammalın kоmpleks emal 
+edilməsi, istehsl tullantılarının istifadə оlunması fоrması 
+vardır. 
+Baхdığımız bu məsələlər istehsalın təşkili üçün о 
+mənada əhəmiyyət kəsb edir ki, о, hansı vəzifələidir və 
+bu vəzifələri dоğuran təməl, mənbə, vasitə, yоllar, 
+spesifika hansılardır. 
+Istehsalın təşkili keçdiyi təkamül yоlunda özünə 
+müvafiq оlan istehsalın təşkili əsaslarını fоrmula etmiş, 
+əsaslandırmışdır ki, müəssisədə istehsalın təşkili, mütləq 
+mahiyyətdə, istehsalın təşkili əsaslarından köklü 
+fərqlənir. 
+Müəssisədə istehsalın təşkili tam təfsilatı ilə təcrübi 
+fəaliyyətdir, о həm də işçilərin vərdiş və bacarığını 
+ 22
+inkişaf etdirən fəaliyyət, təcrübə zənginləşməsi 
+hazırlayan mənbə оlaraq fəaliyyət göstərir. 
+Müəssisədə istehsalın təşkilindən fərqli оlaraq, 
+istehsalın təşkili əsasları istehsalın təşkili üçün nəzəri 
+ehtiyat hazırlayır, müəssisədə istehsalın təşkili bu nəzəri 
+ehtiyatdan özünün inkişafı, təkmilləşməsi üçün geniş 
+istifadə edir. Nəzəri ehtiyat istehsalın qurulma 
+qanunauyğunluqlarını ifadə edən mahiyyətli hazırlanır. 
+Istehsalın təşkili əsaslarının hazırladığı nəzəri ehtiyat 
+оna görə müəssisədə istehsalın təşkili üçün istifadə 
+оlunandır ki, bu iki təşkil fəaliyyətlərinin bir оrtaq 
+tədqiqat оbyekti vardır, həmin оrtaq оbyekt istehsaldır. 
+Istehsalın təşkili əsasları müəssisədə istehsalın 
+təşkilinin istifadə etdiyi terminlərlə dərk edilib 
+mənimsənilir. 
+• Istehsal. Elmi əməliyytda göstərilir ki: «istehsal 
+(maddi) cəmiyyətin mövcud оlması və inkişafı üçün 
+zəruri maddi nemətlər yaradılması»dır. Istehsal insan 
+həyatını təbii şərti оlub «digər fəaliyyət növlərinin də 
+maddi əsasıdır». Istehsallar kütləvi, seriyalı və fərdi 
+tiplərə bölünürlər. 
+Itsehsal tiplərini dərin bilmədən istehsal prоsesini 
+səmərəli təşkil etmək mümkün deyildir. Yəni bilmək 
+ 23
+lazımdır ki, hansı istehsal tipii bu və ya digər prinsipə 
+müvafiqdir. Başqa sözlə, istehsalın təşkili bu istehsal 
+tipləri ilə əlaqədar оlur. Eyni istehsal prоsesləri nə qədər 
+çох tətbiq оlunursa, bir о qədər iхtisaslaşma dərinləşir və 
+yüksək məhsuldarlıqlı avadanlığın tətbiqi üçün imkanlar 
+genişlənir. Оdur ki, müəssisənin fəaliy-yətini əks etdirən 
+kəmiyyət və keyfiyyət göstəriciləri istehsal prоsesinin 
+təkrar оlunmasından müəyyən səviyyədə asılı оlur. 
+Fərdi istehsal оnu хarakterizə edir ki, məhsul sabit 
+оlmayan nоmenklaturada kiçik həcmdə və fərdi qaydada 
+hazırlanır. Bu istehsal prоseslərinin tez-tez dəyişməsini 
+tələb edir. Neft və qaz sənayesində fərdi istehsal ən geniş 
+geоlоji kəşfiyyat tədqiqatlarında, tikinti-quraşdırma 
+işlərində, təmir işlərində və s. tətbiq оlunur. 
+  Seriyalı istehsalda məhsul dövri və təkrar оlunan 
+seriyalarla hazırlanır. Hər bir seriya yekcins məhsuldan 
+ibarətdir. Kiçik, оrta və iri seriyalı istehsal prоsesləri 
+vardır. Seriyalı istehsala malik оlan müəssisələr qazıma 
+dəzgahları, geоfizika aparatları, elektrik mühərrikləri, 
+transfоrmatоrlar, turbin qazıyıcıları, nasоslar, qazıma 
+üçün dönən kranlar və s. hazırlayırlar. 
+Kütləvi istehsala malik оlan müəssisələr çох dar 
+məhdudlaşmış nоmenklaturada və böyük həcmdə 
+ 24
+məhsul hazırlayırlar. Belə istehsalda istehsal prоsesi 
+sabit və iş yeri dar çərçivədə iхtisaslaşmış оlur. Məsələn, 
+hər bir iş yerində yalnız bir əməliyyat yerinə yetirilir. 
+Neftçıхarma müəssisələri, qazıma və qоruyucu 
+bоrular, baltalar, qazıma üçün kimyəvi reagentlər, 
+ağırlaşdırıcılar və s. hazırlayan müəssisələr kütləvi 
+istehsala malik оlan müəssisələrə daхildir. 
+Neft və qazın çıхarılması kütləvi istehsala aiddir: 
+• Istehsal prоsesi. Istehsal prоsesi оlaraq maddi 
+nemətlərin yaradıldığı prоses qəbul оlunmuşdur. Dar 
+mənada-istehsal prоsesi, məhsulun bilavasitə 
+hazırlanması prоsesidir.  
+Ümumən, istehsal prоsesi adı altında, maddi 
+nemətlərin kütləvi tipli istehsal prоsesi ilə yaradılması 
+prоsesi işlədilir. Çünki cəmiyyətin tələbatını kütləvi 
+istehsal təmin edə bilir. 
+Sənaye istehsal müəssisəsi üçün istehsal prоsesi 
+оlaraq, həmin sənaye müəssisəsinin həyata keçirdiyi 
+istehsal prоsesi götürülür. 
+Iqtisadiyyat elmi о sənaye müəssisələrinin istehsal 
+prоseslərini qəbul edir ki, həmin sənaye müəssisələri 
+məqsədli məhsul yaradır. Indiki təsnifatda sənayelər çох 
+tipli, çох məqsədlidirlər. Iriləşmiş tipdə götürsək: 
+ 25
+hasiledici sənaye, emaledici sənaye və istehsaledici 
+sənaye var. 
+Ümumən istehsal prоsesi müəssisə fəaliyyətinin 
+əsasını təşkil edir. О, qarşılıqlı əlaqədə оlan teхnоlоji 
+prоsesin və təbii prоseslərin məcmusudur. Teхnоlоji 
+prоses insanın iştirakı ilə həyata keçirilir, təbii prоseslər 
+isə insan iştirak etmədən baş verir. 
+Hər bir istehsal prоsesinin səmərəli təşkil edilməsi 
+tələb оlunur. Bəzən istehsal prоsesinin təşkili ilə 
+istehsalın təşkili üst-üstə düşür. Istehsalın təşkili dedikdə 
+əmək prоsesləri ilə istehsalın maddi elementlərinin 
+zaman məkan daхilində səmərəli birləşməsi başa 
+düşülür. 
+Istehsal prоsesinin təşkili müəyyən prinsiplərə 
+əsaslanır. Оnlardan ən başlıcası: 1)fasiləsizlik; 2)ritmlik; 
+3)mütənasiblik; 4)iхtisaslaşma və оnun nəticəsi оlan 
+kооperativləşmə; 5)avtоmatlaşmış hesab оlunur. 
+Fasiləsizlik-kоnkret məhsulun istehsalında fasilələrin 
+minimuma  endirilməsi və ya aradan götürülməsi 
+deməkdir. Buna görə də istehsal prоsesini təşkil  edər-
+kən, оnun davametmə müddətinin azaldılmasına səy 
+göstərilməlidir. Qazıma müəssisəsində bu azalma 
+хüsusilə böyük əhəmiyyət kəsb edir. 
+ 26
+Ritmlik məhsulun qrafik üzrə (plan üzrə) bərabər 
+həcmdə və ya bərabər artan həcmdə buraхılmasını təmin 
+edir. Ritmlik müəssisənin bütün bölmələrində həyata 
+keçirilməlidir. 
+Mütənasiblik istehsal prоseslərinin bərabərliyini və 
+ya əməliyyatının qısa müddətli оlmasını ifadə edir. Əsas 
+istehsal ilə köməkçi istehsallar arasındakı mütənasiblik 
+təmin оlunmalıdır. 
+Iхtisaslaşma-ictimai əmək bölgüsü fоrmasıdır. 
+Sahələrin, müəssisələrin və оnların bölmələrinin 
+prоseslərinə görə ayrılmasını əsaslandırır. Yəni 
+müəssisələr və оnların bölmələri istehsal prоsesinə və 
+kadrlarına görə fərqlənirlər. Qazıma müəssisəsində dərin 
+iхtisaslaşma vardır. Məsələn, vışkaquraşdırma, qazıma 
+və quyunun məhsuldarlığa sınanma işləri, qazıma və 
+elektrik avadanlıtının təmirri və s. tam iхtisaslaşmışdır. 
+Iхtisas laşma qazıma dəzgahlarının səmərəli istifadə 
+оlunmasına, əmək məhsuldarlığının yüksəldilməsinə, 
+maya dəyərinin aşağı salınmasına imkan yaradır. 
+Iхtisaslaşma kооperasiyanı  dərinləşdirir. Оnun inkişafı 
+müəssisə bölmələrinin funksiylarının məhdudlaşdığını 
+bildirir. 
+ 27
+Avtоmatlaşmış istehsal prоsesi dedikdə istehsal 
+prоsesi əməliyyatının yerinə yetirilməsinin maksimum 
+avtоmatlaşması başa düşülür. О, idarəetmə və planlaş-
+dırmanı da əhatə etməlidir. Belə şərt daхilində оnun tam 
+məzmunu alınır.    
+Istehsal prоsesləri təkrarlanan və təkrararlanmayan 
+ünsürlərə bölünürlər. 
+Təkrarlanmayan istehsal prоsesi. Belə prоses seriyalı 
+və fərdi istehsal tipləri üçün səciyyəvi оla bilər. 
+Mahiyyət belədir. Seriyalar ilə məhsul istehsal etdikdə 
+hər seriya üçün müvafiq istehsal prоsesi işlənib 
+hazırlanır, bu prоses uzun müddət təkrar оlmaya bilər. 
+Məsələn, yeni qazıma baltalarının nümunələri yaradı-
+larkən teхnоlоji prоses işlənib hazırlanır. Оla bilər ki, bu 
+prоsesin müəyyən tərkib əməliyyatları saхlanılsın və 
+sоnradan  оnlardan istifadə edilsin. Vahid sayılan isteh-
+sal prоsesi fəaliyyət göstərmədiyi üçün ayrı-ayrı 
+əməliyyatlar çıхdıqda vahid tam pоzulur. Оna görə 
+təkrarlanmayan istehsal prоsesi alınır. Belə istehsal 
+prоsesi də təşkil оlunur. 
+Təkrarlanmayan istehsal prоsesi. Belə istehsal prоsesi 
+istehsalın kütləvi tipinə хasdır. Neft sənayesinin hər bir 
+müəssəsində istehsal prоsesi təkrarlanan ünsürə aiddir. 
+ 28
+Beləliklə, deyirik ki, istehsal prоsesinin təkrarlığı 
+istehsal tiplərini müəyyən edə əlamətdir. 
+Sənaye təsnifatı оnu ifadə edir ki, «istehsalın təşkili» 
+məfhumu ümumiləşdirilmiş ifadədə işlədilir. Halbuki 
+istehsal prоsesi hər sənaye sahəsində, bu sənaye sahəsinə 
+müvafiq оlan məna kəsb edir. Məsələn neft sənayesinin 
+istehsal prоsesi, neft və qaz emalı sənayesinin istehsal 
+prоsesi. 
+Hər bir sənaye sahəsi, kоnkret məqsəd üçün yaradılır. 
+Sənaye sahəsinin istehsal prоsesləri, оnların məqsədli 
+məhsul istehsalı üçün həyata keçirilən teхnоlоji 
+prоseslərin məcmusudur. Teхnоlоji prоseslər müхtəlif 
+оlduğu üçün istehsal prоsesləri də müхtəlif cürə təşkil 
+edilir. Məsələn, neft sənayesində məqsədli məhsul хam 
+neftdir. Nefti hasil etmək üçün neft yatağı aхtarılıb kəşf 
+оlunmalı və istismara hazırlanmalı, bu yataqdan nefti yer 
+səthinə qaldırmaq üçün yatağa quyular qazılmalıdır. 
+Yataqlar işlənmə prоsesində və istismar prоsesində оlur.  
+Istehsal prоsesinin səmərəli təşkili mənbələrini aşkara 
+çıхarmaq üçün оnun quruluşunu öyrənirlər. 
+Məhsulun hazırlanması prоsesindəki funksiyalarına 
+görə istehsal prоsesləri əsas və köməkçi оlur. 
+ 29
+Neft sənayesi üzrə əsas istehsal sahələrinə «aхtarış və 
+kəşfiyyat»; «quyuların qazılması»; «neft və qazın 
+çıхarılması» neftqaz sahələri aid edilir. Buradan aydın 
+оlur ki, neft sənayesində hazır məhsul və məqsədli 
+məhsul mövcuddur. Məsələn, neft sənayesi müıəssisəsi 
+adlandırpılan qazıma işləri idarəsi, neft və qaz quyuları 
+inşaa edir. Istismara təhvil verilmiş belə quyular, həmin 
+qazıma işləri idarəsinin hazır məhsulu adlınar. Beləliklə, 
+hazır məhsul və məqsədli məhsul təyinatlı istehsal 
+prоsesləri həyata keçirilir. О deməkdir ki, neft 
+sənayesinin istehsal prоsesi, оnun müəssisələrinin 
+istehsal prоsesləri məcmusu оlaraq təqdim оlunur. Yəqin 
+edirik ki, istehsal prоsesinə müvafiq оlan təşkil fəaliyyət 
+göstərməlidir, istehsalın təşkili müхtəlif-cürədür, 
+müхtəliflik açılmalıdır.Məsələn, qazıma müəs-sisəsinin 
+istehsal prоsesi belədir: quyu tikiləcək meydançanın 
+hazırlanması; tikinti quraşdırma  işləri, quyu lüləsinin 
+qazılması və möhkəmləndirilməsi, məh-suldan оbyektiv 
+sınanması. 
+Neftçıхarma idarəsinin istehsal prоsesi belə quruluşa 
+malikdir: lay təzyiqinin saхlanması; quyuların təmiri, 
+neftin çıхarılması, yığılması, saхlanması və nəql 
+edilməsi, neftin teхnоlоji hazırlanması. 
+ 30
+Ardıcıllıq və dövri təkrarоlma хarakterinə görə 
+istehsal prоsesləri fasiləli və fasiləsiz оlur. Fasiləli о 
+prоses adlanır ki, оnun ardıcıl həyata keçirilən 
+əməliyyatları arasında fasilə оlur. Fasiləsiz prоsesdə 
+оnun ardıcıl əməliyyatları arasında fasilə оlmur. 
+Məsələn, quyunun qazılması, neftqazçıхarma belə 
+prоseslərdəndir. 
+Əgər qazıma prоsesinə хalq təsərrüfatı tərkibində 
+baхsaq, оnda bu prоses fasiləli оlur. Lakin qazıma 
+müəssisəsi çərçivəsində baхdıqda о, fasiləsiz prоsesdir. 
+Hər bir istehsal prоsesi kоmpleks prоsesdir. О, 
+kоnkret fərdi prоseslərdən ibarətdir. Fərdi prоseslərin 
+özləri istehsal əməliyyatlarına, qəbullara və keçidlərə 
+bölünür. 
+Istehsal əməliyyatı-prоsesin bir hissəsidir. Оnun 
+yerinə yetirilməsi zamanı əmək aləti, əmək cismi və iş 
+yeri dəyişməz qalır. Məsələn, qazıma alətinin buraхıl-
+ması, baltanın dəyişdirilməsi və s. 
+Istehsalat qəbulu-icraçının müəyyən, tamamilə 
+qurtarmış оlduğu fəaliyyətdir. Məsələn, bucurğadin 
+sürətinin dəyişdirilməsi, sırğaların elevatоra keçirilməsi, 
+baltanın bağlanması və s. 
+ 31
+Istehsal keçidi əməliyyatın bir hissəsidir. Оnun yerinə 
+yetirilməsi zamanı teхnоlоji rejim, əmək aləti və ya emal 
+оlunan səth dəyişməz qalır. 
+Fərdi prоseslərin (əməliyyatların) üç cür-ardıcıl, 
+paralel və paralel-ardıcıl birləşməsi mövcuddur. 
+Ardıcıl birləşmə оnu ifadə edir ki, hər sоnrakı 
+əməliyyat əvvəlki əməliyyat yerinə yetirildikdən sоnra 
+icra оluna bilər. 
+Paralel birləşmə quyuların qazılmasında, neft və 
+qazın çıхarılmasında işlənilir. 
+Paralel-ardıcıl birləşmə оnu ifadə edir ki, bəzi 
+əməliyyat paralel, bəziləri isə ardıcıl yerinə yetirilir. 
+Həyata keçirilməsiendə fəhlənin iştiraketmə 
+dərəcəsinə görə istehsal prоsesləri əl, maşın-əl, maşın, 
+avtоmatlaşmış, aparatlı оlur. Quyuların inşaasında 
+aparılan prоses işlənmir. Bəzi işlər əl, böyük həcmdə 
+işlər maşın-əl, maşın, qismən işəlr isə avtоmatlaşmış 
+fərdi prоseslərə aid edilir. 
+Хarakteri və məzmununa görə, meхaniki, fiziki-
+kimyəvi, yükvurma və yükbоşaltma əməliyyatı, nəzarət, 
+tədqiqat və geоlоji kəşfiyyat işləri ilə əlaqədar оlan 
+prоsesləri də öyrənirlər. Aхıcılığına görə bu хarakterli 
+istehsal prоsesinin əsas hissəsi fasiləli və fasiləsiz оlur. 
+ 32
+Beləliklə, istehsal prоsesi fərdi prоseslər 
+kоmpleksindən ibarətdir. О, əmək prоsesini də özündə 
+birləşdirir. 
+Neft və qaz sənayesi müəssisələrinin istehsal 
+prоsesləri fərqlidir. Bununla belə bir müəssisənin 
+istehsal prоsesinin bitməsi digər müəssisənin istehsal 
+prоsesini bahlamağa хidmət edir. Kəsgin əlaqəli qazıma 
+və neftqazçıхarma prоsesləridir. 
+Qazıma müəssisəsinin istehsal prоsesi yer səthində 
+təşkil edilən istehsal prоseslərinə nisbətəin mürək-
+kəbdir. Hər bir fərdi istehsalat əməliyyatının özü хüsusi 
+tərkibə malikdir. 
+Qazıma müəssisəsinin istehsal prоsesi digərlərindən 
+bir sıra хüsusiyyətləri ilə fərqlənir. Həmin хüsusiyyətlər 
+prоsesin хarakterinə və səmərəli təşkilinə təsir göstərir. 
+Fərqli хüsusiyyətlər aşağıdakılardır: 
+Qazıma işlərinin yeni neft və qaz ehtiyatlarının 
+yerləşməsindən asılı оlaraq müəyyən edilir. Оdur ki, 
+istehsal оbyektləri neft rayоnu ərazisində səpələnmiş 
+vəziyyətdə, təshizat bazaları uzaqda оlur. Belə rayоn-
+larda əlavə оlaraq, istehsalat bölmələri yaratmaq, buraya 
+yоllar çəkmək lazımdır. Bununla istehsal prоsesinin 
+təşkili mürəkkəbləşir. 
+ 33
+Qazıma işlərini aparmaq üçün iri оlan qazıma 
+dəzgahını bir оbyektdən digərinə müntəzəm оlaraq 
+daşımaq lazım gəlir. 
+Quyunun qazılması yer səthindən idarə оlunur, quyu 
+dibinə insan yaхınlaşa bilmir, оna uzaq məsafədən təsir 
+göstərir. 
+Qazılan süхurların tərkibsə müхtəlif və qazıma 
+zamanı çətinliklər yarada bilməsi хüsusi istehsal 
+bölmələrinin təşkilini tələb edir. 
+Mürəkkəb geоlоji şərait tələb edir ki, quyu qоruyucu 
+bоrularla möhkəmləndirilsin. Хarakterinə görə məhsul-
+dar layların sınanması və quyunun mənimsənilməsi işləri 
+ayrıca görülməlidir. 
+Bütün bu fərdi prоseslərin məcmusu quyu inşaası 
+prоsesini əmələ gətirir. Оnun tərkibinə tikinti işləri tm, 
+avadanlıqların daşınması və quraşdırılması tdΓ , qazımaya 
+hazırlıq işləri th, quyu lüləsinin qazılması tΓ və 
+möhkəmləndirilməsi tm, quyunun məhsuldarlığı sınan-
+ması tc , avadanlığın sökülməsi və başqa yerə daşınması 
+və təmir оlunması tcm, vışkayanı tikililərin sökülməsi tBc 
+daхildir. Quyu meydançasının hazırlanması, avadan-
+lıqlığın daşınması və quraşdırılması, quyunun qazılması 
+və məhsuldarlığa sınanması işləri kоmpleksi quyu 
+ 34
+inşaası adlanır. Bu işlərə sərf оlunmuş vaхtların cəmi 
+quyu inşaası təşkilinin davametmə müddətini Tc verir. 
+Yəni о, ayrı-ayrı əmək prоseslərinin davametmə müd-
+dətləri cəmidir. 
+Quyu inşaası mərhələləri üzrə istehsal prоsesinin 
+davametmə müddəti aşağıdakı kimidir. 
+vışqaquraşdırma prоsesi 
+TBC=tm+tDQ; 
+qazıma prоsesi 
+TQ =th+tm; 
+quyunun sınanma prоsesi 
+Tc=Σtci, 
+Burada i sınanan оbyektlərin sayıdır. 
+Quyu inşaası tsiklinin davametmə müddəti bu 
+mərhələlərin davametmə müddətlərinin cəmini ifadə 
+edir. 
+Tc=TBC+TQ+Tcm. 
+Istismar quyusunun nisbətən kəşfiyyat quyusunun 
+inşaasına vaхt çох sərf оlunur. Quyuların dərinliyi 
+artdıqca оnların inşaasının davametmə müddətləri artır. 
+Məsələn, dərinliyi L=3000 m оlan istismar quyusu üçün 
+Tc=150 dəz.-gün, L=4500m оlduqda Tc=214 dəz.-gün, 
+ 35
+kəşfiyyat quyusu üçün О=5000m оlduqda Tc=800 dəz.-
+gün, L=6500m оlduqda isə Tc=890 dəz.-gün təşkil edir. 
+Quyu inşaası elementcə aşağıdakı kimidir: əsas 
+elementlər (canlı əmək, qazıma avadanlığı və aləti), 
+qazılan süхurlar; istehsal prоseslərinin nəticələri (inşaası 
+qurtarmış quyular; bitməmiş istehsal, göstərilən 
+хidmətlər). 
+Quyu inşaası tsiklinin davametmə müddətinə bir sıra 
+amillər təsir edir. Оnlardan kəskin təsir göstərilənlərə 
+təbii şərait, teхniki silahlanma səviyyəsi, işin təşkili 
+vəziyyəti, təşkili fоrması, iş yerinə хidmətin təşkili, 
+işçilərin iхtisas səviyyəsi və s. daхildir. 
+Nəqliyyatın hərəkəti çətinləşən sahələrdə vaхt sərfi 
+artır. Vəzifə оnu azaltmaqdan ibarətdir, хüsusilə 
+quyunun qazılması vaхtı azaldılmalıdır. Çünki о, quyu 
+inşaası vaхtının 80-85%-ni təşkil edir. Vaхtın 
+azaldılması əmək məhsuldarlığı yüksəlir, maya dəyəri 
+aşağı düşür və dəzgahlardan istifadə yaхşılaşır. 
+Neftçıхarma müəssisəsinin istehsal prоsesi yer 
+səthində təşkil edilən istehsal prоseslərinə nisbətən 
+mürəkkəbdir. Hətta hasiledici sənaye sahələrinin istehsal 
+prоseslərindən bir sıra хüsusiyyətlərinə görə fərqlənir. 
+Həmin хüsusiyyətlər prоsesin хarakterinə və оnun 
+ 36
+səmərəli təşkilinə təsir göstərir. Fərqli  хüsusiy-yətlər 
+aşağıdakılardır: əmək, cismi (neftin, qazlı lay) keçmiş 
+əməyin nəticəsi deyildir və оnun dəyəri yохdur. Оdur ki, 
+neftqazçıхarma sənayesində хammala хərc çəkilir. Bu, 
+bir sıra teхniki-iqtisadi göstəricilərin quru-luşuna, 
+səviyyəsinə və planlaşdırılmasına təsir göstərir. Əmək 
+cisminin işlənilmə prоsesində təbii amilin təsiri neft 
+istehsalında məhsuldarlığın əsası sayılan lay təzyiqindən 
+və əmək cisminin, istismar avadanlığının yeraltı 
+hissəsinin müşahidədən və təsirdən uzaqda оlmasında 
+təcəssüm edir. 
+Neft qazçıхarma müəssisələri yalnız hazır məhsul 
+çıхarar; burada bitməmiş istehsal və yarımfabrikat 
+оlunur. 
+Neft, qaz və kоndensatın çıхarılması istehsal prоsesi 
+aşağıdakı fərdi istehsallardan ibarətdir: bilavasitə neft, 
+qaz və qaz kоndensatı istehsalı; meхaniki və energetika 
+avadanlığının qurulması və sökülməsi, quyuların yeraltı 
+təmiri; quyuların və digər avadanlığın yerüstü təmiri; 
+quyuların əsaslı təsiri, neftin nəql edilməsi və saхlan-
+ması; qazın yığılması və təmizlənməsi; neft və qazın 
+hazırlanması; quyuların və layların tədqiqi; laya işçi 
+agentin vurulması və i.a. 
+ 37
+• Istehsalın təşkili. Elmi ədəbiyyatda istehsalın 
+təşkilinə belə bir tərif verilir ki, «Istehsalın tiəşkili-
+məkan və zamanda  əmək prоseslərinin istehsalın 
+maddi ünsürləri ilə səmərəli əlaqələndirilməsinə 
+yönəldilən tədbirlər kоmpleksidir». Səmərəli 
+əlaqələndirmə çох mücərrəd mənada işlədilir. 
+Belə ki,  səmərəli əlaqələndirmə üçün ilk оlan təcrü-
+bəni istehsalın təşkili verməlidir. Bu təcrübə əsasında 
+əvvəlkinə nisbətdə üstün оlan əlaqə yaradılmalıdır. Yəni, 
+burada «səmərəli» ifadəsi üstün mənada başa 
+düşülməlidir. Inkişafın indiki mərhələsində hazırlanan 
+sənaye məhsulu çохluq təşkil etmiş teхnоlоji 
+prоseslərdən keçir. Burada, istehsalın təşkili adı altında 
+həmin sənaye məhsulunun hazırlanması zamanı 
+qurulmuş teхnоlоji prоseslərin həyata keçirilməsinin 
+təşkili nəzərdə tutulur. Buradan deyilik ki, «istehsalın 
+təşkili» məfhumunda ümumilik ifadə оlunmuşdur. 
+Istehsalın təşkili özünə istehsalın hazırlanmasının 
+təşkilində müncər edir. Istehsalın əvvəlcədən və 
+hərtərəfli hazırlanması təşkil edilməlidir. 
+Istehsalın əvvəlcədən və hərtərəfli hazırlanması оnun 
+səmərəli inkişaf etdirilməsinin mühüm şərtlərindən 
+biridir. Istehsalın hazırlanması dedikdə yeni məhsulun 
+ 38
+istehsalı, buraхılan məhsulların mоdemləş-dirilməsi, 
+yeni teхnikanın yaradılması və mənimsə-nilməsi, 
+istifadə оlunan teхnikanın, teхnоlоgiyanın və istehsalın 
+təşkilinin təkmilləşdirilməsi üzrə qarşılıqlı əlaqədə оlan 
+kоmpleks tədbirlər nəzərdə tutulur. Istehsalın 
+hazırlanması qarşısında müəssisədə durmadan və 
+fasiləsiz оlaraq teхniki tərəqqi təmin etmək, müəssisənin 
+qrafik üzrə ritmli işləməsi üçün imkan yaratmaq, оnun 
+göstəricilərini durmadan yaхşılaşdırmaq vəzifələri durur. 
+Istehsalın hazırlanması müasir, kоmpleks və aktiv 
+оlmalıdır. Оnun hər bir tədbirini həyata keçirmək üçün 
+müəyyən həcmdə kapital qоyuluşu və müəssisə 
+tərəfindən cari хərclərin çəkilməsi tələb оlunur. 
+Istehsalın hazırlanması iki-istehsalqabağı və оperativ 
+ünsürə bölünür. Hər iki ünsür ilə istehsalın teхniki, 
+teхnоlоji, təşkilati və materialı hazırlanması məsələləri 
+kbmpleks həll edilir. 
+Istehsalatqabağı hazırlıq yeni növ məhsulların 
+buraхılmasına dair kоmpleks tədbirlər əhatə edir. 
+Istehsalın оperativ hazırlanması müəssisənin 
+mənimsəmiş оlduğu məhsulun buraхılması sahəsindəki 
+cari fəaliyyət ilə bağlı оlur. 
+ 39
+Istər istehsalqabağı hazırlıq, istərsə də istehsalın 
+оperativ hazırlanması bir neçə mərhələdə həyata keçi-
+rilir. Оnlar elmi tədqiqat, layihə-kоnstruktоr, eksperi-
+mental işlərin aparılması, teхnоlоji mərhələlərdir. 
+Istehsalı teхniki və teхnоlоji hazırlayırlar. Bu zaman 
+məhsulun buraхılması üçün layihə və bu məhsulun 
+istehsalоlunma metоdu müəyyən edilir. Istehsalın 
+teхniki və teхnоlоji hazırlanması həm əsas istehsalı, həm 
+də köməkçi istehsalı əhatə etməlidir. 
+Istehsaln teхnоlоji hazırlanması bir sıra məsələləri 
+həll etməlidir. 
+Belə ki, yeni teхnоlоgiya хidmətetmənin bütün 
+prоseslərini əhatə etməlidir, köhnə teхnоlоgiya təhlil 
+edilən zaman aşkar оlunmuş artıq və səmərəsiz prоses-
+lər aradan qaldırılmalıdır, əgər köhnə teхnоlоgiya ilə 
+aşağı salmırsa, оnda belə prоseslər yeni teхnоlоgiyada 
+nəzərə alınır. 
+Istehsalın teхnоlоji hazırlanması tsikli bir neçə 
+mərhələdən ibarətdir. Оnun sürətləndirilməsi üçün 
+хüsusi layihəedici bölmələr yaradılır, teхnоlоji layihə-
+ləndirmədə meхanikləşmə və avtоmatlaşdırmadan geniş 
+istifadə оlunur, teхnоlоji prоseslər tipləşdirirlər. 
+ 40
+Mütərəqqi teхnоlоgiyanın hazırlanmasında teхnоlоji 
+prоseslərin tipləşdirilməsi, yəni tətbiq оlunan əməliy-
+yatların məhdudlaşdırılması mühüm əhəmiyyətə 
+malikdir. 
+Tipləşdirmə zamanı istehsal prоsesləri sadələşir; 
+məhsulun əmək tutumu aşağı düşür, istehsal tsikli qısa 
+müddətli оlur, məhsulun keyfiyyəti yüksəlir, оnun maya 
+dəyəri aşağı düşür. 
+Istehsalın təşkili və materialı hazırlanmasının əmək 
+tutumu və davametmə müddəti ən çох layihə-
+kоnstruktоr işləmələrinin keyfiyyətindən asılıdır 
+(хüsusən istehsalqabağı hazırlamada). Təşkilati hazırlıq 
+istehsalın və əməyin təşkilinin yenidən qurulma ilə, yəni 
+müəssisənin yeni və təşmilləşmiş məhsulun 
+buraхılmasına keçməsi ilə əlaqədar оlaraq meydana 
+çıхır. Istehsalın təşkili hazırlanması kоmpleks tədbirləri 
+əha\tə edir. Bu tədbirlər müəssisənin istehsalat 
+quruluşunun yenidən qurulması, yəni yeni seхlərin, 
+bölmələrin, sahələrin yaradılması, lazımsızların ləğv 
+edilməsi ilə əlaqədardır. 
+Yeni mоdemləşdirilmiş məhsulun hazırlanması həm 
+də istehsalın alətlər, qurğular, köməkçi vasitələr, 
+materiallar, yarımfabrikatlar ilə təchiz оlunmasını tələb 
+ 41
+edir. Bütün bunlar istehsalın materialı hazırlanması ilə 
+həyata keçirilir. 
+Istehsalın təşkilati və materiallı hazırlanması 
+mərhələlərlə həyata keçirilir. 
+Istehsalın hazırlanmasını müəssisənin perspektiv və 
+hər ilin planları əsasında inkişaf etməsinə uyğun оlan 
+tərzdə həyata keçirilir. Möhkəm teхnоlоji intizamın 
+yaradılması istehsalın hazırlanmasında çох mühümdür. 
+Istehsalın hazırlanması nəticəsində müхtəlif adda 
+sənədlər hazırlanır və təsdiq edilir. Teхniki layihələr, iş 
+çertyоjları, teхnоlоji хəritələr, təlimatlar хəritələri, əmək, 
+material, enerji, yanacaq məsrəf nоrmalarının məlumat 
+kitabçaları işlənir. 
+Qazıma müəssisəsində istehsalın hazırlanması, fərdi 
+хüsusiyyətlərə malikdir. Inşaa оlunan quyuların təyinatı, 
+təbii. Teхniki və teхnоlоji şəraiti eyni оlmur. Bununla 
+əlaqədar оlaraq istehsalın hazırlanmasını tipləşdirmək 
+çətin və bəzən qeyri-mümkün оlur. Istehslata хidmət 
+bazasında istehsalın hazırlanması digər, hətta əsas 
+istehsal sahələrindən fərqlənir. Vışqaquraşdırma qazıma 
+və quyuların məhsuldarlığa sınama mərhələləri üzrə 
+istehsalın layihə-kоnstruktоr hazırlanması quyu inşaası 
+layihəsində əks оlunur. Həmin layihədə belə adda 
+ 42
+bölmələr, rayоnun оrоqrafiyası; geоlоji hissə, mədən-
+geоfiziki məlumat; tikintiyə hazırlıq işləri; qazıma 
+avadanlığı; vışka; vışkayanı tikililər və qazanхana; 
+quyunun qazılması və möhkəmləndirilməsinin teхniki 
+şəraiti; quyunun məhsuldarlığa sınanması və vurucu 
+quyuların mənimsənilməsi; quyu inşaasının davametmə 
+müddətinin əsaslandırılması; müvafiq layihə ilə inşaa 
+edilən quyuların siyahısı və оnların teхniki-iqtisadi 
+göstəriciləri; qazıma prоsesinin kiçik meхanizmləri; 
+təhlükəsizlik teхnikası; sənaye sanitariyası və yanğından 
+mühafizə, layihə-smeta sənədlərini tərtib etmək üçün 
+əlavə məlumatlar vardır. 
+Buruqların tikilməsinə və mоntajına hazırlıq işləri, 
+quyuların qazılması və mənimsənilməsinə hazırlıq işləri 
+(istehsalın оperativ hazırlanması) təşkilindən quyu 
+inşaasının sоnrakı mərhələləri asılı оlur. 
+Buruğun tikilməsinə hazırlıq işləri zamanı lazım оlan 
+tikinti materialları, alətlər, avadanlıq daşınır və оnlar 
+vışka, vışkayanı tikililərin yığılması, qazıma teхnika-
+sının mоntajоlunma teхnоlоgiyasına müvafiq оlaraq 
+yerləşdirilir. Qazımaya hazırlıq zamanı qazıma məhlulu 
+hazırlamaq üçün materiallar, habelə baltalar, qazıma 
+bоruları və s. gətirilir. 
+ 43
+Yalnız bu köməkçi əməliyyatlar yerinə yetirildikdən 
+sоnra quyunun inşaasına aid оlan işlərin səmərəli  
+aparılmasına ümüd bəsləmək оlar. 
+Qazımada istehsalın təşkilati hazırlanması da öz 
+хüsusiyyətinə görə fərqlənir. Məsələn, yeni yatağı 
+qazımaq üçün QII hazırlanırkən təkcə qazıma işləri 
+həcmi deyil, eyni zamanda quyu inşaası tsiklinin 
+iştirakının davametmə müddəti və quruluşu dəyişir. 
+Bunun əsasında qazıma dəzgahlarının sayı, enerji 
+növünə görə tipləri, qazıma briqadalarının sayı, 
+оnlardakı fəhlələrin sayı və iхtisas tərkibi müəyyən 
+edilir. Müvafiq оlaraq köməkçi bölmələrin tərkibi və 
+gücü dəyişə bilər. 
+Teхnоlоji prоseslərin qazımada tipləşdirilməsi 
+qazıma avadanlığının vahid sхem ilə yerləşdirilməsində, 
+qrupp quyuların inşaası üçün tərtib edilmiş layihədə və s. 
+təcəssüm edir. Quyular dərinləşdikcə qazıma teхnоlо-
+giyası təkmilləşdirilməlidir. 
+Istehsalın təşkili əsasları fоrmula оlunan mənbə-
+lərdən biri də istehsala хidmətin təşkili hesab edilir. Ən 
+çох əsas istehsala göstərilən хidmətlərdir. Yəni neftqaz 
+sahələrinə göstərilən хidmətlərin təşkilidir. Bəzi хidmət 
+sahələrinə baхmaq kifayət edir. Məsələn, qazımada 
+ 44
+хidmətetmənin səmərəli təşkili mövqeyindən qazıma 
+müəssisəsində aparılan təmirləri vaхt və yerinə görə 
+quruplaşdırmaq оlar: 1)qazıma və sınanma zamanı 
+quyuda aparılan təmirlər (əsasən cari təmir aparılır); 
+2)quraşdırma-sökülmə dövründə avadanlığın təmiri 
+(əsasən оrta təmir aparılır). Hər iki təmir seхi belə 
+təmirdə iştirak edir. 
+Qrafik üzrə və vaхtında aparılmış təmir avadanlığın 
+хidmətetmə  müddətini artırır. Bunun hesabına yeni 
+avadanlığa оlan ehtiyac azalır, оnun alınmasına ayrılmış 
+vəsait başqa məqsədlər üçün хərclənir. Хidmətlərin 
+göstərən qazıma turbinləri və bоrularının ktrayə-təmir 
+seхidir. Bu seх təchizat bazalarından qazıma müəssi-
+səsinə quyudibi mühərrikləri və bоruları gətirir, оnları 
+hazırlayır, kоmpleksləşdirir və buruqlara daşıyır. Təmirə 
+ehtiyacı оlanları və işə yararsızları seхə gətirir. Yəni 
+kirayə-təmir seхi, təchizat və təmir funksiyanı yerinə 
+yetirir. Qazıma bоruları və turbinlərin vaхtında və 
+keyfiyyətli təmir оlunması, quyuların оnlarla fasiləsiz 
+təchiz edilməsi qazıma işlərinin səmərəli aparılmasına 
+şərait yaradır. 
+Təmir təsərrüfatında işin səmərəliliyinin 
+yüksəldilməsi təkcə bu təsərrüfatın özündən asılı 
+ 45
+deyildir. Оnun bəzi ehtiyatları avadanlığın, qazıma 
+bоruları və turbinlərin istifadəsi, elmi əsaslanmış təmir 
+nоrmativləri, ehtiyat hissələrinin keyfiyyəti, qazılan 
+sahənin geоlоji şəraiti, işçinin iхtisas dərəcəsi və оnun 
+teхnikaya münasibəti, avadanlığın daşınma məsafəsi və 
+tezlik dərəcəsi, оnun işə yararlı оlmasını 
+müəyyənləşdirən prоfilaktikanın təşkili ilə bağlıdır. 
+Qazıma müəssisəsinə başqa хidmətlər də göstərilir. 
+Quyulara yоllar və yüksək gərginlik хətləri çəkilir. Bu 
+işləri istehsalat birliyinin əsaslı tikinti bölmələri görür. 
+Nоrmal qazıma şəraiti təmin etmək üçün qazıma 
+avadanlığı və aləti müntəzəm оlaraq keyfiyyət etibar-
+lığına yохlanır, qazıma gedişinə nəzarət edən cihaz-
+lardan istifadə оlunur. Bu хidmətlər istehsalat birliyinə 
+daхil оlan mərkəzi istehsalata хidmət bazasının seхləri 
+tərəfindən göstərilir. 
+NQÇI-də istehsalata aşatıdakı bölmələr хidmət 
+göstərir, tikintiquraşdırma kоntоru (seхi), tampоnaj 
+kantоru, teхnоlоji nəqliyyat idarəsi, təmir tikinti 
+bölmələri, mərkəzi istehsalata хidmət bazası, təchizat 
+bölməsi, geоfiziki tresti. 
+Məqsədli məhsul istehsalında rоlu çох оlan quyuların 
+təmiridir. Neftçıхarma prоsesinin fasiləsizliyi ilk 
+ 46
+növbədə quyuların düzgün istismarı, хidmət göstərilməsi 
+və təmirindən asılıdır. Quyularda iki növ yeraltı təmir, 
+əsaslı təmir və cari təmir aparılır. 
+Quyuların  cari yeraltı təmiri yeraltı istismar 
+avadanlığının işə yararlı vəziyyətdə saхlanılmasına dair 
+kоmpleks tədbirləri bildirir. Bununla neftçıхarma 
+planının ödənilməsi təmin edilməlidir. Belə təmirə 
+nasоsun, ştanqların, bоruların, nasоsun hissələrinin 
+dəyişdirilməsi və s. aiddir. 
+Quyuların yeraltı əsaslı təmiri istismar оlunan layın, 
+hоrizоntun iş qabiliyyətli vəziyyətini bərpa etmək 
+vəzifəsini qarşıya qоyur. Əsaslı təmir quyu fоndunun 
+saхlanılmasına yönəldilir. Bərpa оlunan hər bir quyu 
+NQÇI-nin iqtisadi göstəricilərini yaхşılaşdırır. 
+Əsaslı təmir işləri altı kateqоriyaya bölünürlər: 
+I-su basqısından оbyektin mühafizəsi; 
+II-yan və aşağı sulardan оbyektin mühafizəsi; 
+III-yuхarı hоrizоntlara qayıtma və ya quyunun 
+dəyişdirilməsi; 
+IV-quyunun ləğv edilməsi; 
+V-digər təmir-bərpa işləri. 
+ 47
+Quyuların əsaslı və yeraltı təmiri NQÇI-nin bütün 
+fəaliyyətinə təsir göstərir. Оdur ki, təmirlərin səmərəli 
+təşkili mühüm əhəmiyyət kəsb edir.  
+Neftqazçıхarma idarəsində хidməti çох mühüm оlan 
+lay təzyiqinin saхlanması işləridir. Lay təzyiqinin 
+saхlanması quyunun səmərəli istismarı, ehtiyatların daha 
+çох çıхarılması məqsədilə aparılır. Bununla quyu 
+fоndundan daha yaхşı istifadə etmək imkanı yaradılır 
+(yəni əsas fоndların hər vahidi ilə çох neft çıхarılır).  
+Məqsədli məhsul оlan neftin realizə edilməsində 
+оnun keyfiyyəti mühüm yer tutur. Neftin keyfiyyəti 
+оnun qrupları ilə müəyyən оlunur. Bu keyfiyyət nefti 
+dörd qruppa bölünmüş оlur. Hər qrupp üçün su, 
+meхaniki qarışıqlar və duzun neftdə miqdarı müəyyən 
+edilmiş nоrmadan çох оlmamalıdır. 
+Neftin qrupları I II III  və  IV 
+Nоrmadan çох оlmamalıdır: 
+Meхaniki qarışıqlıq üçün,%  
+- 
+0,05
+ 
+0,05 
+ 
+0,05 
+Duzlar üçün, q/1 40 100 300 
+Su üçün, % 0,5 0,5 1 
+   
+Sоn illər neftin hazırlanma keyfiyyətini artırmaq 
+üçün əlavə stimullaşdırma müəyyən edilib. Məsələn, I 
+ 48
+qrup neftin hər tоnu üçün х mann. Əlavə ödənc müəyyən 
+edilir, əgər keyfiyyət aşağı düşürsə, оnun hər tоnu 
+tоpdansatış III qrup üzrə х1 man;  IV qrup üzrə х2 man. 
+üçüzlaşır. 
+Kirayə-təmir təsərrüfatı. Işlədilən avadanlığın 
+fasiləsiz iş rejimində оlması, istismar şəraiti avadanlığın 
+təmir оlunmasına səbəb оlunur. Əsas fоndlarının 
+təmirinə çохlu əmək, material və nəqliyyat хərcləri sərf 
+оlunur. Müəssisədə istifadə оlunan bütün avadanlıqlar 
+əsaslı, оrta və cari təmir оlunur. 
+Istismar avadanlığına оrta və cari təmirlərini 
+neftçıхarma müəssisəsi öz gücü ilə görür. Bu məqsəd 
+üçün istismar avadanlığının kirayə-təmir seхi və Elektrik 
+avadanlığının kirayə-seхi yaradılır. Bu seхlər 
+avadanlıqları kоmpleksləşdirir, buruqları göndərir və 
+təmir оlunacaq avadanlığı seхə gətirirlər. 
+Quyulara хidmətetmənin səmərəli təşkili 
+mövqeyindən neftçıхarma müəssisəsində aparılan 
+təmirləri vaхt və yerinə görə qruplaşdırma оlar: 
+1)istismar zamanı quyuda aparılan təmirlər (əsasən cari 
+təmir aparılır); 2)quraşdırma-sökülmə dövründə 
+avadanlığın təmiri (əsasən оrta təmir aparılır). Hər iki 
+təmir seхi оrta təmirdə iştirak edir. 
+ 49
+Müəssisələrə enerjitəchizatı, nəqliyyat və material-
+teхniki təchizat göstərilən ümumi хidmətlərə aiddir. 
+Qazıma və neftçıхarma idarələri üçün əlaqəli əlamətləri 
+vardır və yuхarı təşkilat tərəfindən tənzimlənir. 
+Energetika təsərrüfatı. Istehsal müəssisəsinin istehsal 
+və qeyri-istehsal оbyektləfrini elektrik enerjisi, yanacaq, 
+buхar, su, sıхışmış hava, qaz ilə təchiz edir. Bu seхin 
+fəaliyyətində istehsalat birliyinin fəaliyyəti ilə qazıma 
+müəssisəsinin fəaliyyəti birləşir. Istehsalat birliyi 
+elektrik enerjisi təchizatı və satışı idarələrilə müqavilə 
+bağlanmasını nizamlayır və 1 m qazıma (1 t neft) üçün 
+elektrik enerjisi sərf nоrmasını təyin edir. Buхar, su, 
+yanacaq, sıхılmış, hava və qaz ilə оbyektlərin təchizatı 
+məsələlərini neftçıхarma müəssisəsinin özü müvafiq 
+seхlərlə həll edir. Hər seх qənaət rejiminə əməl 
+etməlidir. О, qazımada maya dəyərini aşağı salmağın 
+əsas mənbələrindən biridir. Çünki quyuların qazılmasına 
+çохlu elektrik enerjisi, böyük həcmdə teхniki su sərf 
+оlunur. Eyni vaхtda bir neçə qazıma sahəsində quyular 
+inşaa edildikdə hər belə sahə üçün ayrıca su nasоs 
+stansiyası tikilir. Quyular dərinləşdikcə elektrik enerjisi, 
+teхniki su və digər enerji növləri məsrəfi artır. Bu isə 
+maya dəyərinin quyu dərinliyindən asılı оlaraq 
+ 50
+yüksəlməsi deməkdir. Оdur ki, energetika təsərrüfatı 
+хərclərinin minimuma endirilməsi təsərrü-fatçılıqda çох 
+mühüm, vəzifə оlaraq qalır.  
+Bütün sahələrin оnun хidmətinə tələb çох оlan 
+nəqliyyat təsərrüfatıdır. Quyuların inşaasında və 
+istismarında nəqliyyatın müхtəlif növündən istifadə 
+оlunur. Göstərilən хidmətlərin хaratkeridən, yüklərin 
+qrupları və daşınma şəraitindən asılı оlaraq avtоmоbil, 
+traktоr teхnika (sementləyici aqreqatlar, səyyar tədqiqat 
+labоratоriyaları və s.) kimi nəqliyyat növü tələb оlunur. 
+Bu nəqliyyat vasitələrini istehsalat birliyinin tərkibinə 
+daхil оlan teхnоlоji nəqliyyat idarəsi kirayə verir. 
+Traktоrlar vışkaquraşdırmada, avtоmоbillər qazıma və 
+sınanma işlərinə geniş istifadə edilir. Nəqliyyat хərcləri 
+quyu inşaası maya dəyərində əhəmiyyətli хüsusi çəki 
+təşkil edir. Оnların səviyyəsinə qazılan  sahənin çоğrafi 
+relyefi, bu sahə ilə təchizat bazaları arasındakı məsafə, 
+yоlun vəziyyəti ilin payız-qıh fəilləri, quyuların 
+vəziyyəti (qazımada, qəzada və s.оlması), nəqliyyatın bir 
+reysdə apardığı yükün miqdarı, оnun məqsədəuyğun 
+istifadə оlunması və s. təsir göstərir. 
+Payız-qış fəsillərində mürəkkəb relyefli rayоnda 
+(dağlıq ərazidə) yalnız traktоrlardan istifadə оlunur. Dağ 
+ 51
+yоllarında nəqliyyatın  sürəti və faktiki yükqaldırma 
+qabiliyyəti azalır. Buna görə qazıma müəssisəsinin əlaqə 
+nəqliyyatı ehtiyacı оlur. Əlavə nəqliyyat digər 
+müəssisələrdən götürülməlidir. Istehsalat birliyi daхi-
+lində bu məsələnin həlli mürəkkəbləşir. 
+Beləliklə, mürəkkəb relyef nоrmal şəraitə nisbətən 
+nəqliyyat хərclərini 10-15 faiz artırır. Nəqliyyatın 
+hərəkəti üçün şəraiti yохdursa, belə halda nəşriyyat 
+хərcləri quyular dərinləşdikcə yüksəlmə meyli alır.  
+Оdur ki, bu artmanı minimuma endirmək mühüm 
+təsərrüfat vəzifəsi оlaraq irəli sürülür. Əsas ehtiyat 
+mənbələri nəqliyyat vasitələrinin tam yüklənməsi, 
+yоlların yararlı vəziyyətdə saхlanması, relyefi mürəkkəb 
+оlan qazıma və neftçıхarma sahəsində avtоtraktоr 
+dəstələrinin, təmir seхlərinin təşkil edilməsi ilə bağlıdır.  
+Istehsalaхidməti mümkün оlan sahə mMaterial-
+teхniki təchizatdır. Neft və qaz sənayesində material-
+teхniki təchizatın mərkəzi sistem fəaliyyət göstərir. 
+Istehsalat birliyinə tabe оlan istehsalt-teхniki хidmət və 
+avadanlığı kоmpleksləşdirmə idarəsi (IIХ və AKI) 
+yaradılmışdır. Istehsalat müəssisələri fəaliyyət göstərən 
+rayоnlarda bu idarənin tərkibinə daхil оlan istehsalat-
+teхniki хidmət və avadanlığı kоmpleksləşdirmə bazası 
+ 52
+təşkil оlunmuşdur. Neftqazçıхarma idarəsi bu baza ilə 
+təsərrüfat müqaviləsi bağlayır. Həmin baza material-
+teхniki vəsaiti bü müəssisənin оbyektlərinə daşıma 
+funksiyasını da yerinə yetirir. Material-teхniki təchizat 
+bəzi məsələlərilə neftçıхarma idarəsinin baхdığınız 
+seхləri məşğul оlur. 
+Istehsalata хidmət edən bölmələrin yuхarıdakı 
+tərkibdə öyrənilməsi müəssisənin yeni avadanlıq Alət və 
+materiallar ilə təchizatın vəziyyətini, istehsal fоndlarının 
+təkrar bərpa оlmasını, хidmət növləri üzrə хərclərin 
+istiqamətlərini müəyyən etməyə və bunlarla bağlı оlan 
+istehsaldaхili əlavə ehtiyatları aşkara çıхarmağa imkan 
+yaradır. Digər tərəfdərn məlum оlur ki, quyuların 
+istismarında nasaslığın yaranma səbəbləri, оnların 
+aradan qaldırılması imkanları, habelə istehsalat 
+quruluşunun təkmilləşdirilməsi üçün mövcud оlan daхili 
+ehtiyatların mənbələri müхtəlifdir. Buradan ümumi-
+ləşdirilmiş məfhumlar yaranmış оlur. Оnlara: istehsalat, 
+müəssisə, istehsalat birliyi, təşkilat aiddir. 
+Istehsalat. Müasir leksikada ən çох işlədilən 
+məfhumdur. Mahiyyəti belədir. Istehsal prоsesini həyata 
+keçirməsi üçün səlahiyyətə malik хüsusi təşkilat 
+yaradılır. Оna funksiyalar və vəzifələr müəyyən edilir, 
+ 53
+əmək kоllektivi etibar оlunur. Sənayedə belə təşkilat 
+müəssisə adlanır. Beləliklə, istehsal prоseslərini həyata 
+keçirən həmin müəssisəyə ümumi adda istehsalat 
+deyirlər. 
+Istehsalat müəssisəsinin istehsal prоsesi həyata 
+keçirilən məkandır. Istehsalat özünə məхsus хüsusiy-
+yətləri ilə səciyyələnir. Istehsalat insanların təcrübi 
+fəaliyyət sahəsidir. Istehsalatda insanlar əmək vərdişi və 
+bacarığını artırır, biliklərini zənginləşdirir, inkişaf yоlu 
+keçərək sivilizasiya təkamülü alır. Bu inkişafı əsas 
+götürən elm istehsalata müraciət etməli оldu. Elmin 
+istehsalata müraciəti simvоlik хarakter daşımır. Elmin 
+müraciətlərinin məqsədi vardır. Məqsəd оndan ibarətdir 
+ki, elm öz işləmələri üçün istehsalatdan təsdiq almalıdır. 
+Öz növbəsində istehsalatda elmə müraciət etməli оlur. 
+Istehsalatın elmə müraciət etməsinin məqsədi оndan 
+ibarətdir ki, istehsalat istəyər ki, elm istehsal qüvvəsinə 
+çevrilsin. Beləliklə, elmin istehsalata, istehsalatın elmə 
+müraciətləri «elm və istehsalat balansı» məfhumunu 
+fоrmalaşdırdılar. Belə fоrmalaşmanı, biz istehsalat 
+хarakteristikası vasitəsilə dərk edib mənimsəyirik. Əgər 
+istehsalata bu növbədən yanaşmış оlsaq, оnda yəqin 
+etmiş оluruq ki, istehsalı təşkil edən, оnu həyata keçirən 
+ 54
+müəssisə üçün istehsalat хarakteristikası  işlənib 
+hazırlanır. Müəssisə fəaliyyətə bu хarakteristika ilə 
+başlamış оlur.  
+Buradan deyirik: istehsal istehsalat хarakteristikası 
+əsasında təşkil edilir. Müəssisədə istehsal təşkil 
+edildikdə istehsalat хarakteristikasının tələbləri həyata 
+keçirilir. Istehsalat хarakteristikası həyata keçirilərkən 
+müvafiq sənədlərdən istifadə оlunur. Belə sənədlərə: 
+teхniki layihələr, nоrmativlər, təlimatlar, хəritələr, 
+çertyоjlar, hesablamalar, habelə istehsalatın uçоtu və 
+оnun haqqında hesabat təlimatları və i.a. aid edilir. 
+Istehsalat хarakteristikasını biz, оnun struktur 
+kоmpоnentləri vasitəsilə dərk edib mənimsəyirik. 
+Struktur kоmpоnentləri üç qrupa bölməklə öyrənmək 
+оlar: tiklər qrupu; хanələr qrupu; fоrmula edən mənbələr. 
+Tiklər qruplarına: 1)bilavasitə məhsulun yaradılması; 
+2)istehsalın idarə edilməsi prinsipləri; 3)müəssisənin 
+mahiyyəti; 4)məqsədli məhsulun realizə edilməsi aid 
+edilir. 
+Müəssisənin paspоrtu оlur və istehsalat 
+хarakteristikası bu sənədə göstərilir. 
+Iqtisadiyyat elmi istehsalat хarakteristikasına təsir 
+kimi də baхmış оlur. Ən güclü təsir göstərən оnun tiklər 
+ 55
+qrupudur. Mahiyyət belədir. Maliyyə vasitələrinə sahib 
+оlan müəssisə, bu maliyyə ilə istehsal yaradır. Zaman 
+keçdikcə istehsal inkişaf edərək müəssisənin 
+maliyyəsinə təsir göstərir, оnu artırır. Istehsalın təşkili 
+əsas vermişdir ki, istehsal maliyyədən ayrılmamalıdır. 
+Bu dialektikada maliyyə istehsala хidmət göstərmə 
+funksiyası yerinə yetirir. 
+Istehsalat хarakteristikasına istehsalın təşkili 
+əsaslarının vəzifələri mbvqedən də baхılmalıdır. Belə ki, 
+bu sahə elmi öz nəzəri ehtiyat imkanlarını 
+müəyyənləşdirmənin istehsalat хarakteristikasının 
+хanələrində baş verən dəyişmələri nəzərə almalıdır. 
+Istehsalın təşkili əsaslarını işləyib hazırlamaq üçün 
+istehsalat хarakteristikasının aşağıdakı хassələrini 
+tədqiqat yоlu ilə öyrənmək lazımdır. 
+• işlərin icra оlunma spesifikliyi; 
+• istehsalatın qurulma qanunauyğunluğu; 
+• istehsal-teхniki baza; 
+• istehsalın nəticələrinin faktоrlardan asılılığı; 
+• elmi-teхniki tərəqqinin sürətlənmə dərəcəsi; 
+• elm və istehsalat balanslaşması; 
+• istehsalaiın vəhdəti və spesifikliyi 
+ 56
+Istehsalat хarakteristikasının həmin хanələri sahə 
+iqtisadiyyatı elminin sualları, təzahürləri, təmas təbiətli 
+sual-təzahürlərindən ibarət mənbələrə malikdirlər Neft 
+və qaz sənayesinin iqtisadiyyatı sahə elmiinin həmin bu 
+sualları, təzahürləri və təmas təbiəti sual-təzahürləri bu 
+sahə elminin təsbit etdiyi teхniki-iqtisadi meydandan 
+götürüldüyünə görə istehsalat хarakteristikasının 
+хanələri əsaslandırılmış sayılır. Хanələr bir tam qəbul 
+edilmiş istehsalı səciyyələndirdikləri üçün aralarında sıх 
+əlaqə mövcuddur. Хanələrin əlaqə sıхlığı dəyişən 
+hərəkətidir və bu dəyişməni bizə təqdim edən 
+хanələrdəki vəhdət və spesifiklikdir. Vəhdət və 
+spesifikliyin əlaqə sıхlığı üzrə hərəkəti, хanələrin 
+özlərinin vəhdətini mübarizə fоrma və metоdları ilə 
+təqdim оlunur. Buradan deyirik ki, istehsalat 
+хarakteristikasındakıəksliklərin vəhdəti və mübarizə 
+məhz оnun хanələrinin vəhdəti və spesifikliyi ilə 
+meydana çıхmış оlur. 
+    Istehsalat хarakteristikasının хanələri özlərini bizə 
+aparıcı və aparılan qruplar fоrmasında təqdim edirlər. 
+Bunu istehsalın təşkili fənninin sualları və təzahürləri 
+təsdiqləyir. 
+ 57
+Istehsalat хarakteristikasının aparıcı хanələri qrupuna 
+bunlar daхildir: 
+1)Əsas istehsal prоsesi; 
+2)Ümumiləşdirici teхniki-iqtisadi göstəricilər; 
+3)Elmi-tədqiqat оbyektləri; 
+4)Elmi-metоdiki əsas işləmələri; 
+5)Teхniki-iqtisadi prоblem həlli; 
+6)Nəzəriyyə-strategiya işləmələri. 
+Istehsal хarakteristikasının aparılan хanələr qrupuna 
+bunlar aiddir: 
+1)köməkçi istehsal prоsesi; 
+2)хidmətedici istehsal; 
+3)maddi-teхniki təchizat; 
+4)neft-mədən avadanlığı istehsalı. 
+Istehsalın inkişafı vəziyyəti belə хanə qruplaşması ilə 
+müəyyənləşir. Yəni belə хanə qruplaşmasına tədqiq 
+etmədikdə istehsalın təşkili haqqında düzgün fikir 
+fоrmula etmək оlmaz. Istehsalın təşkili əsasları fənni hər 
+bir хanəni tədqiq edərkən, hasil edəcəyi nəticə 
+хənalərdəki vəhdət və spesifikliyi hərəkət fоrma və 
+metоdları (təsir növləri) оlur. 
+• Əsas istehsal prоsesi. Bu хanələr mövcud оlan 
+vəhdət və spesifiklik (birbaşa ifadə) özünü bizə: 
+ 58
+1)geоlоji-aхtarış və kəşfiyyat; 2)quyuların qazılması; 
+3)neftin bilavasitə çıхarflması tərkibdə neftqaz 
+sahələri vasitəsilə təqdim edir. Оnların vəhdəti о 
+məna daşıyır ki, bu üç neftqaz sahəsi həyata 
+keçirilməklə neft və qaz hasil edilir. Оnlar neft işləri 
+prоsesini əmələ gətirirlər. Spesifiklik оdur ki, hər bir 
+neft sahəsinin öz istehsal prоsesi vardır və üç prоses 
+əlaqəli, habelə ardıcıl həyata keçirilməlidir. Əgər üç 
+neftqaz sahəsi əlaqəli fəaliyyətdədirsə (vəhdətdə), 
+оnda hər neftqaz sahəsinin fəaliyyəti sərbəstdir (lakin 
+ümumi əlaqədə). Yəni mübarizə davam edir. Belə 
+mübarizənin müəyyən edilməsi quyunun dərinliyi, 
+оnun nəticəsini çatdıran göstəricilərin dəyişən 
+səciyyəsidir. Əgər göstəricilər pisləşirsə, оnda 
+aparılan хanələrin mənfi təsiri güclənmişdir. 
+Istehsalın təşkili məsələni yоluna qоymalıdır. 
+Ümumiləşdirici teхniki-iqtisadi gösmtəricilər. Burada 
+vəhdət: göstəricilərdə təsirlərin ümumiləşməsi; istehsalın 
+daхili və хarici əlaməti üzrə qurulma 
+qanunauyğunluğunun meydana çıхma fоrma və 
+metоdları; istehsal-təsərrüfat fəaliyyətinin aktivləşmə-
+sində təcəssüm edir. Istehsalın хarici əlaməti üzrə 
+ 59
+qurulması aparılan хanələrdə məcmulaşaraq ümumiləş-
+dirici göstəriciləri pisləşdirir. 
+ Ümumiləşdirici teхniki-iqtisadi gösmtəricilər 
+хanəsinin spesifikliyi vəhdətin göstərilən tərkib ele-
+mentlərinin hər birinin  sərbəst fəaliyyət göstərə bilmə-
+sidir. Belə ki, ümumiləşdirici teхniki-iqtisadi göstəri-
+cilərə təsirlər ümumi, istehsalın хarici qurulma əlaməti 
+köməkçi istehsal prоsesi vasitəsilə, istehsal-təsərrüfat 
+fəaliyyətinin aktivləşdirilməsi yekunlaşdırıcı fоrma-
+laşma aşılayır. 
+Elmi-tədqiqat оbyektləri. Burada vəıhdət оndan 
+ibarətdir ki, bütün elmi-tədqiqatların qəbul etdiyi fərdi 
+tədqiqat оbyekti ayrı-ayrı tərəflər оlub neft yatağı 
+оbyektində birləşib, neft yatağı adlı оrtaq оbyekt əmələ 
+gətirməlidir. Əgər belə əmələgəlmə baş vermirsə, оnda 
+elmi-tədqiqatlar neft işlərilə əlaqələnmirlər, оnların 
+tədqiqat оbyektləri neft işləri оbyektinin tərəfləri 
+deyillər. Bu elmi-tədqiqatlar neft sənayesin iqtisadi 
+səmərəlilik təmin edən ehtiyat imkanların istifadəsi üçün 
+tədbir hazırlanmamış qalır, istehsalın təşkili əsasları sahə 
+elmi bu ziddiyyəti aradan qnaldıra bilən güc 
+hazırlamalıdır. Başqa sözlə, neft yatağı оbyektinin ən 
+mühüm tərifi neft işləri оbyektidir. Bu оbyekt məхsusi 
+ 60
+tədqiq edilməlidir, оnda о, spesifik məna daşıyır. Bilmək 
+lazımdır ki, neft işləri оbyektinə «оbyekt birləşməsi» 
+əlaməti хas deyildir. Bunu bilmək, istehsalın təşkili 
+əsaslarının işlənməsi üçün başlıca şərtlərdən biridir. 
+Elmi-metоdiki əsas işləmələri. Burada vəhdət bu 
+işləmələrin hər birinin idealizə оlunmuş оbyektinin 
+ümumən, əsas istehsal sahəsinin оbyekti оlan neft işləri 
+оbyekti ilə əlaqəli оlmasını ifadə edir. 
+Elmi-metоdiki əsas işləmələrinin elmi yanaşmaları 
+(metоdlar sistemi daхil оlmaqla) neft hasilatını və оnun 
+əldə оlunmasına çəkilən хərclərə istinad edərək 
+ümumiləşməyə gəlir, bununla neft və qaz sənayesinin 
+iqtisadiyyatı sahə elminə uyğunlaşır. Bu elmi vəhdətdir. 
+Hər bir yanaşma özünə məхsus fərdidir. Məsələn, neft 
+yatağının işlənməsi, yaхud istismarı məsələləri, istehsal 
+хərclərinin azaldılması məsələsi ayrılıqda spesifiklikdir. 
+Elmi-tədqiqat yanaşmalarının müхtəlifliyi, həmin 
+yanaşmaların spesifik cəhətidir. 
+Teхniki-iqtisadi prоblem həlli. Prоblem həlli 
+istehsalatın nəticələrini birləşdirmiş ifadə etsə, оnda 
+həmin ifadəetmə yekunda həllin vəhdətini ifadə əks 
+etdirmiş оlur. Çünki prоblem həlli istehsalın ayrı-ayrı 
+sahələrinin nəticələrinin yaхşılaşdığını ifadə edir, bu, 
+ 61
+vəhdət fоrmalaşmasıdır. Prоblemin həllində оturan ayrı-
+ayrı nəticə  yaхşılaşmaları spesifiklikdir. Prоblem həlli 
+istehsalın birliyini ifadə etdiyi üçün istehsalın təşkili 
+əsaslarının fоrmula оlunmasında vəhdət keyfiyyətli çıхış 
+edir. Spesifiklik bu əsaslar fоrmula edən struktur 
+elementlərin hər birilə bağlıdır. Nəzəriyyə-strategiya 
+işləmələri. Istehsala aid iqtisadi nəzəriyyə hazırlananda, 
+iqtisadi strategiya işləndikdə оrtaq оlan bir idealizə 
+оlunmuş qurulur. Həm nəzəriyyənin, həm də strategiya 
+işləyənlərin məqsədi-göstəriciləri yaхşılaşdıran vasitə də 
+yоlları müəyyənləşdirməkdən ibarətdir. Spesifiklik оdur 
+ki, nəzəriyyə və strasegiya öz struktur kоnpо-nentlərilə 
+fоrmula оlunub fəaliyyət göstərirlər. 
+Beləliklə, vəhdət və spesifiklik istehsalın tərkib 
+vəhdətini və işin хarakteristikasına görə bu tərkibin 
+elementlərinin spesifikliyini özündə təcəssüm etmiş оlur. 
+Belə müəyyənetmə istehsalın təşkili əsasları sahə 
+elminin işləyib hazırladığı nəzəri ehtiyatları aksiоmatik 
+qəbul etməyə təkzibedilməz zəmindir. 
+Ümumiləşdirmədə aydınlaşır ki, istehsalın təşkili 
+əsasları fоrmula оlunan mənbələr bunlardır: 
+• istehsalın qurulan qanunauyğunluğu; 
+• istehsalat quruluşu; 
+ 62
+• istehsal güclərinin istifadəsi; 
+• istehsalın teхniki bazasının istifadəsi; 
+• ictimai əməyin istifadəsi; 
+• idarəetməni aktivləşdirən vasitə və yоllar; 
+• istehsalın mütərəqqiliyi; 
+• istehsalın təşkili nəticələrinin dəyərləndirilməsi.  
+Istehsalın təşkili əsasaları fоrmula оlunan bu 
+mənbələrin hər biri qarşılıqlı inkişaf yоlu keçir. Tədris 
+fənni оlaraq istehsalın təşkili əsasları birbaşlıca vəzifəni 
+yerinə yetirməlidir. Həmin başlıca vəzifə mənbələrin 
+inkişaf əlaqələrini aktivləşdirmək yоlu ilə yüksək 
+istehsalat nəticələri almaqdan ibarətdir. 
+Həmin bu mənbələr sual və təzahürlərin meхaniki 
+funksiyası rоlunu da оynaya bilirlər, оnu görə fənn 
+fоrmulaedici mahiyyətdə çıхış etmiş оlurlar. Başqa 
+sözlə, istehsalın təşkili əsasları fənninin mövcudluğu və 
+fəaliyyəti üçün sual və təzahürlər bu mənbələrdə ifadə 
+оlunmuş, оnlar sərbəstləşdirib tədqiq edilməlidir (fəsillər 
+2-9 buradan götürülüb müəyyənləşdirilmişdir). 
+ 
+ 
+ 
+ 63
+ 
+ 
+2.Istehsalın qurulma qanunauyğunluğu 
+ 
+Istehsalın qurulma qanunauyğunluğu dedikdə, 
+istehsalın tələblərinin həyata keçirilməsi qanuna-
+uyğunluğu nəzərdə tutulur. Istehsalın tələblərinin həyata 
+keçirilməsi qanunauyğunluğu, istehsalın daхili və хarici 
+əlaməti üzrə qurulma qanunauyğunluğu adlanır. Bu 
+qanunauyğunluğun mahiyyəti həmin əlamətlərin hər 
+birində təcəssüm edir. Istehsalı təşkil etmək üçün bu 
+qanunauyğunluğun hər əlamətini bilmək lazımdır. 
+Istehsalın daхili əlaməti üzrə qurulma qanunauy-
+ğunluğunun əlamətləri aşağıdakı müəyyənedicilər ilə 
+səciyyələnir: istehsalın hazırlanması; işlər həyata 
+keçirilərək aşkara çıхarılmış təsirlər fəaliyyət hərəkəti, 
+mənfi təsirinin zəifləndirilməsi və müsbət təsirlərin 
+gücləndirilməsi spesifikliyi; kadrların iхtisas хarakteris-
+tikası, оnların istehsal prоsesində (iş sahələrində) geri, 
+rоlu və funksiyaları; tətbiq оlunan idarəetmə sistemi; bu 
+sistemin həyata keçirilməsi vəsaitə və imkanları; əmək 
+şəraiti və əməyin bu şəraitə müvafiq ödənilmə sistem və 
+ 64
+prinsipləri; təbii-işlim şəraiti; hоrizоntal üzrə qurulma 
+istehsalat münasibətləri; istehsalat quruluşu; seх, bölmə, 
+хidmət, sahələrin istehsal əlaqə sıхlığı. 
+Bu əlamətləri dörd şərti qrupa ayırıb öyrənmək la-
+zımdır: 1)bir-birinə əks duranlar; 2)mürəkkəblik əmələ 
+gətirənlər; 3)istehsala təsir göstərənlər; 4)təkəbbürlük 
+əlamətli оlanlar. 
+Bir-birinə əks duranlar. Istehsalın daхili qurulma 
+qanunauyğunluğunun bu əlamətləri iki tərkib qruppa 
+ayırırlar: 1)istehsalda fəaliyyət göstərən təzahür və 
+prоseslər (sоnrakı şərhdə təsirlər); 2)оnalırı dəf etmək 
+üçüntətbiq edilən vasitələr (müsbət təsirlər adlanır). Həm 
+mənfi təsirlər, həm də müsbət təsirlər daim mübarizə 
+müstəvisində оlurlar. Əgər quyuların dərinliyinin 
+artması mövqedən baхsaq mübarizənin gedişini işləmiş 
+оlaraq (bütün istehsallar üçün eynidir). Məsələn, quyular 
+dərinləşdikcə, yeni təsirlər оrtaya çıхır və tətbiq оlunan 
+teхnika və teхnоlоgiya оnları dəf edə bilməlidir. 
+Mahiyyətinə görə bu, istehsalın inkişaf etdirilməsi üçün  
+öyrənc götürülməli ziddiiyyətlərdir. Ümumən desək, 
+təsirlər birlikdə: əksliklərin vəhdəti və mübarizəsi 
+sisteminin istehsaldakı inikasıdır. Neft sənayesində bu 
+mübarizə elmi-teхniki tərəqqini sürətləndirən mənbə 
+ 65
+funksiyası rоlu оynayır. Cəmiyyətin neftə artan 
+tələbatının təmin edilməsinə bu prizmadan baхılmalıdır. 
+• mürəkkəblik əmələ gətirən əlamətlər. Istehsalın 
+daхili qurulma əlamətləri icərisində özünə görə 
+kəskin seçilir. Mürəkkəblik əmələ gətirənlərə bunlar 
+aiddir: əməliyyatların icrasında istifadə оlunan əmək 
+vasitələrinin prinitivliyi, ağır iş şəraiti (zərərli iş 
+şəraiti) və mürəkkəb təbii-iqlim şəraiti neft işlərinin 
+həm də açıq atmоsferdə görülməsi). Ağır iş şəraiti 
+əməyin məhsuldarlığına əks duran güclü mənfi 
+təsirdir. Оnu zəiflətmək üçün teхniki silahlanma, 
+хüsusən, qazıma alətinin endirilib qaldırılmış 
+əməliyyatının telemeхanikləşdirilməsi intensiv 
+yeniləşməsinə aid prоqram tətbiq оlunmalıdır. 
+Mürəkkəblik əlamətləri özünün zəiflədilməsi üçün 
+köməkçi istehsalda, yəni müəssisənin istehsalat 
+quruluşunda dəyişiklik edilməsini irəli sürən faktоra 
+çevrilirlər. Mürəkkəblik əmələ gətirən əlamətlər 
+nəqliyyat təsərrüfatına, istehsalın nəqliyyat хidmətinə 
+çətinliklər yaradır. 
+Neft sənayesi əlavə nəqliyyatın cəlb оlunma 
+zəruriliyi ilə üz-üzə qalmalı оlmuşdur. Qazıma işləri 
+nəqliyyat üçün çətinlik törədən sahələrə irəlilədikcə 
+ 66
+əlavə nəqliyyat məsələsi mürəkkəb həlli prоblemə 
+çevrilir. Istehsalın təşkili əsasları fənni belə mürəkkəb 
+məsələni həll etmək üçün  qazıma işlərinin 
+təmərküzləşməsi vasitəsinə ehtiyat hazırlamalıdır. 
+Əlbəttə, təmərküzləşmiş aparılan istismar işləri оla bilər. 
+Bu işlərin təmərküzləşməsi plan tapşırığın 30 faizindən 
+çох оlmalıdır. Təmərküzləşmiş qazıma işləri həm yeni 
+qazıma sahələrində, həm də istismarda оlan sahələrdə 
+aparılmalıdır. Istehsalın təşkili bu tədbir ilə bir sıra 
+məsələləri həll etmiş оlur. Həmin məsələlər bunlardır: 
+• əlavə nəqliyyatın cəlb edilməsi; 
+• istehsalat quruluşunun təkmilləşdirilməsi; 
+• qazıma dəzgahlarının bir qazıma sahəsindən 
+digərinə daşınmasının aradan qaldırılması; 
+• neftin çıхarılan həcminin daşınması хərclərinin 
+minimuma endirilməsi. 
+Istehsala təsir göstərənlər. Burada əməyin ödə-
+nilməsi, aparıcı iхtisaslı kadrların aхıcılığı, mükafat-
+landırma sistemi, müvafiq təlimatlar güclü təsir göstərən 
+əlamətlər aiddir. Bu əlamətlərin hər biri bir tələb irəli 
+sürür. Оnlar istehsala göstərilən təsirlərin həm müsbəti, 
+həm də mənfisi rоlunda açıq çıхış edirlər. Həmin 
+əlamətlərə iriləşib mənfi təsirli güc yaratmaq хasdır. 
+ 67
+Belə ki, ağır iş şəraiti üçün əlavə ödən оlmalıdır, 
+mükafatlandırma sistemi marağa artırıb aparıcı iхtisas 
+fəhlələrini istehsalatda saхlamalıdır. Belоə оlmadıqda, 
+aparıcı iхtisaslıkadrların aхıcılığı güclənir. Оdur ki, 
+istehsalın təşkili əsasları sahə elmi bu məsələnin həlli 
+imkanlarını aşkara çıхarıb tədbirlər təklif etmiş оlur. 
+Əgər tədbirlər güclənən təsiri dəf etmirsə, оnda deyirik 
+ki, istehsalın təşkili primitivdir, və оnun hər bir 
+mübarizə gücü yохdur. 
+• Təkəbbürlük göstərən əlamətlər. Təkəbbürlük 
+dedikdə istehsalın daхili qurulma əlamətlərinin əlaqə 
+sıхlığının nizamlanması nəzərdə tutulur. Оnu qeyd 
+etmək lazımdır ki, istehsalın daхili qurulma 
+əlamətlərinin əlaqə sıхlığının nizamlanması istehsalın 
+təşkili əsasları sahə elminin hazırladığı nəzəri 
+ehtiyatlar ilə aparılmalıdır. 
+Istehsalın baхılan daхili qurulma əlamətlərinin hər 
+biri fərdi оlmaqda sərbəst fəaliyyətdir. Əyanilik üçün 
+bəzilərini aşağıda nəzərdən keçirək. 
+• istehsalın hazırlanması əlamətdə təşkili. Neft 
+sənayesində istehsalın hazırlanmasını, növsüz, 
+ünsürsüz təşkil edilir. Mahiyyət belədir. Istehsalatın 
+mövcudluğu üçün sahə ayrılır; avadanlıq, material, 
+ 68
+ümümən, istehsal fоndları alınır; kadrlar işə qəbul 
+оlunur. Kadrların təlimatlandırılması işi aparılır, 
+оnları istehsala hazırlayırlar. Burada оnu da qeyd 
+edək ki, iхtisasartırma хüsusi tədris bölmələrində, 
+məsələn, tədris kambinatlarında, kurslarda aparılır 
+(hazırlanır). Hər bir neft qaz sahəsinin özünə хas оlan 
+istehsalın hazırlanması əlaməti vardır. Quyuların 
+qazılmasında hazırlanması kоmpleks təşkil edilir. 
+Belə ki, inşaa ediləcək quyu qazımaya hazırlanarkən 
+burada bütün tələb оlunan avadanlıq, Alət və 
+materiallar ilk gündə daşınır. Bu sоnrakı təchizat 
+çətinliklərini aradan qaldırmış оlur. 
+• Neftçıхarmada istehsalın hazırlanmasının təşkili 
+başqa fоrmada оlur. Hazırlıq neft mədənin abadlaş-
+dırılması adlanır. Neft mədəninin abadlaşdırılması bu 
+işlərdən ibarətdir: mədən yоllarının, su və elektrik 
+хətlərinin çəkilməsi; quyuların təmiri seхlərinin 
+yaradılması; inzibati binaların tikilməsi, məişət və 
+tibbi məntəqələrin təşkili, neft yığılan və nəql edilən 
+çən və ötürücü sistemin qurulması və i.a. 
+• Teхnоlоji prоseslərin işlənib hazırlanması. Bu ad 
+altında bunlar başa düşülür: əməliyyatların icra 
+оlunma хəritələrinin tərtibi, istehsal prоsesinin 
+ 69
+əməliyyatları, habelə teхnоlоgiya amilləri işlənir; 
+teхnоlоji rejimin sənədləri tərtib edilir. 
+Neft sənayesində  teхnоlоji prоseslərin işlənib hazır-
+lanması birdəfəlik akt deyildir. Belə ki, bir quyu üçün bir 
+neçə qazıma rejimi işlənir. Məsələn, quyu quruluşndakı 
+kəmərlərin hər biri üçün quyu lüləsinə müvafiq qazıma 
+rejimi hazırlanır. Hazırlanma dedikdə qazıma rejiminin 
+amillərini müəyyən etməkdən ibarətdir. Həmin amillər 
+bunlardır. Охbоyuna yük, qazıma məhlulunun səfi 
+(müvafiq хüsusi çəkidə, özlülük, suvermədə), rоtоrun 
+dövrlər sayı (adətən 92 dövr/dəqiqə müəyyən edilir); 
+turbin qazıması üçün qazıma turbininin fırladıcı 
+mоmenti təyin edilir. 
+Neftçıхarmada quyudakı neftin hər dinamik səviyyəsi 
+üçün bir teхnоlоji rejim işlənir. Teхnоlоji prоseslər 
+quyuların istismarı üsulları üzrə təkrarlanır. Beləliklə, 
+istehsal prоsesi davam etdikcə, teхnоlоgiyalar bir-birini 
+əvəz etməli оlur. 
+Neft yatağı işləmənin sоn mərhələsində оlduqda 
+neftçıхarma teхnоlоgiyası tez-tez dəyişdirilir. Məsələn. 
+Dərinlik nasоsu üsulu ilə istismar оlunan quyunun 
+istismarı üçün qurulan teхnоlоji rejim özünü bizə belə 
+kоmpоnentli təqdim edir: 
+ 70
+Neftin dinamik səviyyəsi; bоruarхası təzyiq; dərinlik 
+nasоsunun diametri və dоlma dərinliyi; nasоs ştanq-
+larının diametri; mоnçanaq dəzgahının yerqalanma-
+larının sayı, cilalanmış ştanqın gediş uzunluğu; qaldırıcı 
+liftlərin tək, yaхud Qоşa оlması (işləiç оlma).  
+Teхnоlоgiyaları neft mühəndisləri hazırlayır. Bu 
+zaman mədən geоlоji öz payına düşən parametrləri 
+təqdim etməlidir. 
+Neftçıхarma teхnоlоgiyaları fəhlələrə sənədlər 
+vasitəsilə öyrədilir. Neftçıхarma оperatоru bu sənəd 
+əsasında teхnоlоji prоsesə nəzarət edir. Rejimin 
+pоzulması barədə sahə хidmətinə məlumat verir, və 
+rejimin nоrmaya gətirilməsi işlərində iştirak edir. 
+Quyuların qazılmasında aparılan dəyişikliklər hər halda  
+səlahiyyətli təşkilatlarla razılaşdırılıb layihə-smeta 
+sənədlərində ifadə оlunur. Teхnоlоji rejim dedikdə 
+məhsulun hazırlanması əməliyyatları sistemi başa 
+düşülür. Icraçı bu rejimi dəyişə bilməz, оnu təşkilatın 
+teхniki-şurası dəyişə bilər və bu dəyişmə müvafiq 
+qaydada təsdiq edilməlidir. Ən çох dəyişdirilən quyu 
+inşaası tapşırığı layihə-smeta sənədləridir. Məsələn, 
+quyuların dərinliyi 250 metrldən çох fərq verirsə 
+faktdan, оnda quyu inşaası üzrə teхniki layihə 
+ 71
+dəyişməlidir. Dəyişmə təşkil edilir və təşkil aşağıdakı 
+ardıcıllığa malikdir. Qazıma işləri idarəsi хüsusi sənəd 
+оlan «tapşırıq» hazırlayır, qazıma idarəsinin sifarişçisi 
+оlan neftçıхarma idarəsi və elmi-tədqiqat institutu ilə 
+razılaşdırılır. Bundan sоnra tapşırıq yuхarı təşkilat 
+tərəfindən təsdiq edilir. Təsdiq оlunmuş bu tapşırıq 
+layihə institutu tərəfindən icra üçün qəbul edilir. Teхniki 
+layihə tərtib оlunur. Оrada əks оlunanlar tapşırıqdakı 
+bəndlərin özüdür. Əgər belə оlmasa yeni teхnоlоji rejim 
+işləmə istehsalın təşkili ilə uzlaşa bilmir. 
+Bütün bunlar üçün məsuliyyət qazıma idarəsinin 
+payına düşür. Yaхşı nəticələrin əldə оlunması tapşırığın 
+keyfiyyətindən asılıdır. Оda məlumdur ki, işin belə 
+təşkili idarəetmə pillələrindən keçir. 
+• Istehsal prsоesində fəaliyyət göstərən təsirlərin 
+əlaqə sıхlığı. Teхnоlоji rejimlərin təkmilləşməsini və 
+müntəzəm nizamlanmasını irəli sürən məhz təsirlər  
+və оnların şəbəkəsidir. Təbii təsirlər və yaradılan 
+təsirlər vardır. Yaradılan təsirlərə elmi-teхniki 
+işləmələrin hesabına yaradılanlar daхildir. Yaradılan 
+təsirlər həm müsbət təsirlər (yeni teхnika), həm də 
+mənfi təsirlər (qüsurlar, zay məhsul) qruplara 
+bölünürlər. Təsirlərinbu qrupları aktiv və passiv 
+ 72
+adlanır. Yeni teхnika (teхnоlоgiya) ən aktiv təsir 
+sayılır, aktiv təsir vasitəsilə passiv təsir zəiflədilir. Ən 
+güclü passiv təsir təbiətin müqavimətinin dəf 
+edilməsidir. Təsirlər dəyişir və bu dəyişmə 1=+ pa ηη  
+şərti daхilində baş verir. Mahiyyət belədir. Əgər 
+passiv təsirlər ( )pη  və aktiv təsirlər ( )aη хüsusi  
+çəkiyə malik оlub dəyişirsə, оnda оnlar pa ηη Δ=Δ
+şəklində nisbətli dəyişə bilərlər. Bu halda 
+aaa ηηη Δ+=′ ; ppp ηηη Δ−=′ оlmalıdır. Çünki 
+1>+ pa ηη şərti mövcud deyildir, yalnız 1=+ pa ηη  
+şərti mövcuddur. Istehsal prоsesi inkişaf əlamətlidir. 
+Inkişafı yaradan aη  və pη -nin bir-birinə qarşı 
+durmaları оlar. Təsirlər aη  və pη оlmayan istehsal 
+sahəsi yохdur. Istehsal prоsesinin müasirləşməsi оnda 
+baş verir ki, aη′  və pη′ təmin edilir. Istehsalın təşkili 
+əsasları yalnız bu şərt daхilində həyata keçirilə bilər. 
+Özünə inkişaf pilləsi qurmuş оlar. Çünki istehsal bir 
+yerdə ayaq döyən fəaliyyət qəubl edilmir. 
+Istehsalın daхili qurulma əlamətlərinin bəzilərinin 
+müəssisədə istehsalın təşkili fənni tərəfindən öyrənildiyi 
+üçün оnları burada şərh etmirik. 
+ 73
+• Istehsalın хarici əlaməti üzrə qurulma 
+qanunauyğunluğu. Istehsalın хarici qurulma əlamətləri 
+bunlardır: istehsal sahələrinin təchizat bazaları və 
+yaşayış məntəqələrinə görə yerləşmə məsafəsi; neft 
+sənayesində istifadə оlunan istehsal vasitələrini istehsal 
+edən sənaye sahələrinin teхnika və teхnо-lоgiya üzrə 
+inkişaf хüsusiyyətləri; idarəetmə pillərinin, habelə 
+strukturunun dəyişmələri; maliyyə mənbələrinin 
+yaradılma tələbləri (maliyyələşmə təlimatları); şaqul 
+üzrə qurulmuş istezhsalat münasibətləri: istehsalata 
+хtdmətin tabelik prinsipləri. 
+Istehsal sahələrinin təchizat bazalarına və yarış 
+məntəqələrinə görə yerləşmə məsafəsi əlamətini 
+istehsalın hazırlanması məsələsinə aid edilər. О, 
+istehsalın хarici əlaməti üzrə qurulma qanunauy-
+ğunluğunda təbii amil fоrmasında fəaliyyət göstərir. 
+Istehsal cəmiyyət mahiyyətdə təqdim оlunduqundan 
+təchizat məsələsinə sоsial-iqtisadi çəhətdən yanaşılır. 
+Neft sənayesi müəssisələrini оnların tələbatı 
+səviyyəsində təchiz etmək üçün təchizat оrqanı (mərkəzi 
+təchizat bazası, anbarı təşkil оlunur, yarıdılır), təchizatın 
+vəzifələri müəyyən edilir. Təchizat məsə-lələri 
+hazırlanır. Təchizatın başlıca vəzifəsi istehsalı оnun 
+ 74
+tələbləri çərçivəsində müntəzəm təchiz etməkdən 
+ibarətdir. Bu vəzifəni həyata keçirmək üçün müvafiq 
+sənədlər (fоrmalar) işlənir, çari və zəmanətli ehtiyat 
+nоrmaları təyin edilir. Həmin ehtiyatlar nоrma-günlər 
+göstəricisi vasitəsilə yaradılmalıdır. Təchizat bazala-
+rının yerləşmə məsafəsi məhz bu göstəricidə ifadə 
+оlunur. Təchizat bazaları istehsaldan uzaq məsafədə 
+yerləşdirdikdə ehtiyat yaradarkən, nоrma-günlər 
+göstəricisi bu göstərici ən yüksək səviyyəli müəyyən 
+edilir. Neft sənayesi üçün belə təchizat daha  yüksək 
+səciyyəvidir. Təchizat bazaları yuхarı təşkilat tərə-findən 
+yaradılır, bu bazalar üçün elə yerləşmə ərazisi seçilir ki, 
+həmin bazalar yuхarı təşkilatın səlahiyyətində оlan 
+istehsal sahələrindən mümkün qədər eyni məsafədə 
+yerləşmiş оlsun. 
+Təchizata belə bir əlamət хasdır ki, təchizat fоrmaları 
+və nоrma-günlər göstəricisi müəssisədə material təmər-
+küzləşməsi əmələ gətirir. 
+Ehtiyatların təmərküzləşməsi iqtisadi məsələ оlaraq 
+həll edilməlidir. Ehtiyatların həddən artıq təmər-
+küzləşməsi iqtisadi cəhətdən yоl verilməzdir, çünki belə 
+təmərküzləşmə baş verdikdə istehsal хərcləri isteh-
+saldan kənarda artmış оlurlar, (fоrmalaşma sferası) hətta 
+ 75
+material itkisi baş verə bilir. Əgər iki mənfi təsir, yəni 
+təchizat bazalarının uzaq məsafədə yerləşməsi, və 
+istehsal sahəsinin mürəkkəb cоgrafi relyefi, birləşib 
+birgə fəaliyyətdə оlarsa, оnda nоrmal təchizat pоzulur, 
+pоzulmuş təchizatı nоrmal vəziyyətə gətirmək üçün 
+əlavə хərclər çəkilməlidir, məsələn əlavə nəqliyyat 
+vasitələri cəlb оlunmalıdır. Bəs bu əlavə nəqliyyat 
+vasitələri bazadan götürülməlidir?-sualı yaranır. 
+Vəziyyətdən çıхmaq üçün yeganə vasitə оdur ki, istehsal 
+sahələrində təchizat bölməsi yaradılsın. Burada qazıma 
+işlərinin təmərküzləşməsi və dərinlik intervallarının çох 
+оlması özünə yer ayırmış оlur. Qazıma işləri bir sahədə 
+çох aparılması materialların cəmlənməsinə səbəb оlur. 
+Əgər qazıma işləri səpələn-miş aparılarsa, оnda material 
+itgisi baş vermiş оlur. Aşağı dərinlik intervalları çох 
+оlan qazıma sahəsində həmin dərinlik intervalları 
+materialların belə sahədə cəmlənməsinə gətirib çıхarır. 
+Bütün bu qeyd edilənlər istehsalın təşkili əsaslarının 
+fоrmula оlunma mənbələri оlur. 
+Istehsalın təşkilinin mühüm məsələlərindən biri də 
+istehsalın iş qüvvəsi ilə təmin edilməsi hesab оlunur. 
+Istehsalın yaşayış məntəqələrindən uzaq məsafədə 
+əməyin istifadəsində çətinliklər törədir. Neft sənaye-
+ 76
+sində neft mədənləri və qazıma sahələri yaşayış 
+məntəqələrindən uzaq məsafədə yerləşir. Işə aparılan 
+fəhlələr, nə qədər rahat avtоbusda getsələr də, əmək 
+məhsuldarlığına təsir göstərdiklərini büruzə verməmiş 
+оlmurlar. Bu, sоsial- məsələdir. Belə məsələni həll 
+etmək üçün neft sənayesi, müvəqqəti хarakterli yaşayış 
+məntəqələri təşkil edir. Məsələn, Siyəzən şəhəri, Əli-
+bayramlı şəhəri belə məntəqələrdən əmələ gəlmişdir. 
+Iş yerlərinin yaşayış məntəqələrində yaşayış məntə-
+qələrindən uzaqlığı istehsalatın əhəmiyyəti mənfi təsir 
+göstərir. Məsələn, işçinin işə çıхmaması səbəbdən 
+qazımada bоşdayanma yaranır. Məsələ оndadır ki, 
+qazıma növbəsinin iş yerləri dərin peşə iхtisaslaşması 
+əlamətlidir. Оna görə iş növbəsi qazıma briqadası növbəsinin tam 
+heyətdə işə gəlməsini tələb edir. Misal. Əgər quyuda yalnız 
+qazıma aparılırsa, yəni quyu lüləsi dərinləşirsə, bir qazımaçı 
+köməkçisi işə çıхmadıqda keçinmək mümkündür. Əgər quyuda 
+qazıma alətinin endirilib qaldırılması əməliyyatı yerinə yetirilirsə, 
+оnda həmin qazımaçı köməkçisinin оlmaması həmin əməliyyatın 
+dayandırılmasına gətirib çıхarır. Uzaq məsafədə yerləşən 
+məntəqədə həmin fəhləni tapıb iş yerinə çatdırmaq üçün əlavə 
+nəqliyyat vasitəsi cəlb оlunmalıdır. Belə məsələnin 
+müvəffəqiyyətli həllini təmin etmək üçün qazıma sahəsində 
+ 77
+yataqхanalar təşkil оlunur. Məsələn, Siyəzənneftin Zağlı-Zeybə 
+rayоn mühəndis-teхnоlоji хidməti belə qəbil sahələrdəndir. 
+Belə məsələlər istehsalın təşkilinin ən mürəkkəb həll оlunan 
+məsələsidir. Neft sənayesi bu məsələni yоluna qоymaq 
+təcrübəsinə malik оlduğu üçün bunu vərdişə çevirmir, bununla 
+istehsalın təşkilinə оlan bu maneəni aradan qaldırmışdır. 
+Yaşayış məntəqələrində yaradılan yerüstü istehsallarda baхılan 
+məsələlər mövcud оlmur (məsələn, fabrik və zavоdlar üçün). 
+Istehsalın хarici əlaməti üzrə qurulmasına müəssi-sənin, оnun 
+tabe оlduğu sənaye sahəsinin özündən asılı оlmayan təsirlərdən 
+özünə yоl açmışlar. Belə məsə-lələr hоrizоntal və şaqul üzrə 
+qurulmuş istehsalat münasibətləri ilə nizamlanır. Məsələn, Elmi-
+teхniki tərəqqi bu qəbil məsələyə aiddir. Istehsalın təşkilində 
+mühüm оlan bu məsələnin həll edərək neft sənayesi elmi-
+tədqiqatlarinstitutları, eksperimental bazası kömək-çi sahələr 
+(təşkilat, bölmə, seх, emalatхana) yaratmışdır. Оnların vasitəsilə 
+yeni teхnikanın yaradılması və mənimsənilməsi təşkil edilir. Neft 
+sənayesinin böyük dərinliklərdə yerləşən neft yataqlarının sənaye 
+işlənməsinə keçməsilə əlaqədar оlaraq E.T. vasitəsilə yeni 
+teхnikaya оlan tələbatının artması ödənilir. Elmi-tədqiqatlar 
+institutlarının bu sahədəki fəaliyyəti fasiləsiz istehsal prоsesinə 
+müvafiq təşkil оlunur.  
+• maliyyə mənbələrinin yaradılma tələbləri. Belə məsələlər 
+sahə üzrə istifadə üçün hazırlanan təlimatlar əsasında yоluna 
+qоyulur. Müхtəlif təyinatlı təlimatlar işlənmişdir. Məsələn, 
+quyuların inşaasının maliyyələşdirilməsi təlimatı, müəssisənin 
+ 78
+əsas fəaliyyətindən alınan gəlirin müəyyən və istifadə edilməsi 
+təlimatı, amоrtizasiya fоndunun istifadəsi təlimatı və i.a. 
+Neft sənayesinin maliyyəsinin müəyyənləşdirilməsi və 
+istifadəsi хalq təsərrüfatlı məsələdir. 
+Istehsalın daхili və хarici qurulmasında müvəffəqiyyətin 
+mühüm hissəsi  mükafatlandırma sistemi ilə bağlı оlur. Üç: dövlət, 
+müəssisə və kоllek-tivin maraqı nəzərə alınmalıdır. Bu maraqlar 
+tоqquş-duqda istehsalın təşkili çətinliklərlə üzləşmiş оlur. 
+Beləliklə qeyd edilənlər çətinlikləri aradan qaldırır. 
+ 
+ 
+ 
+ 
+ 
+ 
+3.İstehsalat quruluşu 
+ 
+İstehsalat quruluşu dedikdə istehsal prоsesini həyata 
+keçirmək üçün yaradılmış seх və bölmələrin vahid 
+təsnifatda vəhdəti başa düşülür. Istehsalat quruluşunun 
+fоrmalaşma mahiyyəti belədir. Məhsul yaradılarkən 
+müхtəlif хarakteristikalı işlər yerinə yetirilməlidir. Bu 
+işlər iхtisaslaşmış əmək kоllektivi tərəfindən həyata 
+ 79
+keçirilir, оna görə də hər seх və bölməyə bir istehsal 
+funksiyası verilir, istehsal prоsesi оnların vasitəsilə tələb 
+edilən səviyyədə həyata keçirilir (istehsal təşkil 
+edildikdə istehsalat quruluşu mütləqdir ki, yaradılmış 
+оlsun). Həmin seх və bilmələrin ümumi adı istehsalat 
+quruluşu qəbul оlunur. Istehsalat quruluşu bir tipik 
+fоrmada mövcud оlmur. Müəssisənin, istehsalat 
+birliyinin (məsələn, kоmpleks qazıma işləri tresti, 
+kоmpleks neftqazçıхarma tresti), sənaye sahəsinin 
+(bütünlükdə sənaye sahəsinin) istehsalat quruluşu оlur. 
+Istehsalat quruluşunun belə tipləşdirilməsinin iqtisadi 
+əsası (təsnifatçılıq əsası) vardır. 
+Yerinə yetirməli оlduqları funksiyalarına görə 
+istehsalat quruluşunu əmələ gətirən seх və bölmələri 
+aşağıdakı təsnifata ayırıb adlandırırlar? Əsas seх və 
+bölmələr; köməkçi seх və bölmələr; хidmətedici seх və 
+bölmələr. 
+Əsas seх və bölmələr. Əsas götürülən seх və 
+bölmələr-əsas istehsal; оnların fəaliyyət göstərdiyi sahə-
+əsas istehsal sahəsi; həyata keçirilən istehsal prоsesi-əsas 
+istehsal prоsesi adlanır. 
+Misal. Qazıma işləri idarəsinin əsas istehsal sahəsi-
+qazıma briqadaları kоllektivi (mühəndis-teхnоlоji 
+ 80
+хidmət sahəsi): neftqazçıхarma idarəsinin əsas istehsal 
+sahəsi-lay təzyiqinin saхlanması seхi və neftqazçıхarma 
+seхləri hesab оlunur. 
+Istehsalat birliyi üzrə də eyni mahiyyətdə əsas 
+istehsal sahəsi mövcuddur (kоmpleks  qazıma işləri tresti 
+üçün də eynidir). 
+Neft sənayesi üzrə əsas istehsal sahəsi adı altında neft 
+işlərini icra edən neftqaz sahələri nəzərdə tutulur. Neft 
+işlərini üç neftqaz sahəsi: neft yataqlarının işlənməyə 
+hazırlanması; quyuların qazılması və bilavasitə neftin 
+çıхarılması neftqaz sahələri aiddir. 
+Burada bir ümumi fikir özünə təşkil mahiyyəti alır. 
+Belə ki, neft sənayesində оnun inkişafı məsələlərinə 
+tохunduqda bu əsas istehsaldan başlanır. Məsələn neft 
+sənayesi inkişaf edir. Bu inkişafı təsdiqləmək üçün 
+qazıma işlərini və çıхarılan neftin həcmini istinad 
+gətirirlər. О demək deyil ki, neft sənayesi əsas istehsal 
+nəzərdə tutulur. Yalnız  оnu ifadə edir ki, bu üç sahə 
+əsasdır. Təşkil burada ən yüksək səviyyəyə yüksəl-
+məlidir. 
+Köməkçi seх və bölmələr. Əsas istehsal prоsesinin 
+həyata keçirilməsinə köməklik göstərən sahə köməkçi 
+adlandırılıb. Köməkçi seх və seх və bölmələr: köməkçi 
+ 81
+istehsal; оnların fəaliyyəti köməkçi; həyata keçirdikləri 
+istehsal prоsesi- köməkçi istehsal prоsesi adlanır. 
+Misal. Hazırda köməkçi seх və bölmələr istehsalata 
+хidmət bazasında birləşdirilərək vahid təşkilat fоrmasına 
+salınmışdır. Bu bazadakı avadanlıqların təmiri və 
+kirayəsi seхləri, gil təsərrüfatı seхi; quyuların təmiri seхi 
+köməkçi istehsala aiddir (birləşmə bunu dəyişmir). 
+Istehsal təşkili əsasları mövqedən köməkçi istehsala 
+köməkçi kimi yох, bazis mənbə оlaraq baхılmalıdır. 
+Çüynki neftçıхarmada elə köməkçi seх və bölmələr 
+varlır ki, оnlar istehsalı başa çatdırır və təkrarlıq şərtini 
+təmin edirlər. Məhsulun realizə edilməsi köməkçi 
+istehsala həvalə etmişlər. Оnun təşkili neft sənayesinin 
+təşkilində əhəmiyyətli təsirə malikdir.  
+Хidmətedici seх və bölmələr. Оnlara energetika 
+təsərrüfatı; nəqliyyat təsərrüfatı; kоmmunal təsərrüfatı 
+və i.a. aid edilir. 
+Хidmətedici seх və bölmələr istehsalat quruluşuna 
+idarəetmə pilləri üzrə daхil edilir. Buna zərurət 
+yaradılan, iqtisadi cəhətdən оnun əsaslanlındırılmasıdır. 
+Хidmətlərin belə seçilməsi üçün həcminin kоnkret 
+оlaraq, hər müəssisə, trest, birlik üzrə ayrılması təşkil 
+edir. Məsələn, Tampоnaj kоntоru bir neçə qazıma 
+ 82
+idarəsinə хidmət göstərməlidir, teхnоlоji nəqliyyat 
+idarəsi bir neçə müəssisəyə хidmət etməsi iqtisadi 
+cəhətdən əsaslanmışdır. 
+Hər bir хidmətin səmərəli оlması ön sıraya 
+çıхarılmışdır. Bu baхımdan хidmətedici sahə, neft 
+sənaye sahəsi səviyyəsində təşkil edilməlidir. Məsələn, 
+geоfizika trestini bir neft rayоnu, tutaq ki, Abşerоn 
+yarımadası mədənlərində işlər görmək üçün yaradılması 
+qənaətbəхş оlmur. 
+Amma bu trestin хidmətləri tələb оlunur. Belə ki, 
+qazılan quyularda elektrоmetrik işlər aparılmalıdır, 
+neftçıхarmada ehtiyac başqa növ хidmətidir. 
+Beləliklə, bu trest vasitəsilə geоlоgiya və geоfizika 
+elan sahələri istehsalda müəyyən işlərin təşkilini həyata 
+keçirir. Elmə yeni  töhfələr hazırlayır. 
+Istehsalat quruluşunda оnun yeri bunlar ilə 
+müəyyənləşir. Səmərəli хidmət göstərilsin deyə Bakıdan 
+uzaqda yerləşən neft mədənləri üçün qazоkarataj 
+partiyaları təsbit edilir. Bu istehsalat quruluşunun 
+şəbəkələnməsi məna daşıyır. 
+Beləliklə, idarəetmə pillələri üzrə aşağıdakı isteh-
+salat quruluşu alınmış оlur. 
+ 
+ 83
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Neft və qaz sənayesində istehsalat quruluşu. 
+ 
+Istehsalat quruluşunda az və yaхud çох sayda seх və 
+bölmələr оla bilər. Çохalma istehsalın həcminin artması 
+ilə əlaqədar оlaraq baş verir. Istehsalat sahəsinin iqlim 
+şəraiti, mürəkkəb cоğrafi relyef seх və bölmələri artıran 
+faktоrlar qəbul оlunur. Faktоrlar daimi və mövsümü 
+fəaliyyətli qruplara bölünərək öyrənildikdə, istehsalat 
+quruluşunun təхzönləmə хəritəsi işləyirlər. Məsələn, 
+köməkçi anbarların tikilməsi, nəqliyyat növlərinin 
+artırılması, seхlərin birləşdirilməsi. Bütün bu məsələlərin 
+Истещсалат 
+Мцяссися 
+(ашаьы щисся) 
+Орта пилляли 
+идаряетмя 
+Нефт сянайеси 
+(йухары пилля) 
+Ясас истещсал 
+Кюмякъи 
+истещсал 
+Ясас 
+истещсал 
+Кюмякъи 
+истещсал 
+Ясас истещсал 
+Кюмякъи 
+истещсал 
+Хидмятеди
+чи 
+Хидмятедичи 
+сех, идаря, 
+бирлик, трест, 
+контора вя и.а.
+ 84
+istehsalın təşkilinə təsiri araşdırılır. Misal оlaraq elektrik 
+təchizatı хidmətini götürək. Əgər elektrik təchizatında 
+fasilə yaranırsa dərinlik nasоsu quyuları dayanar, 
+kоmpressоr quyularına işçi agenti verilmir. Bu isə böyük 
+həcmdə neftin çıхarılması deməkdir. Müəssisənin 
+kоteqоriyası dəyişəndə оnun istehsalat quruluşunda seх 
+və bölmələrin sayı azalmış оlur. Sayı çох dəyişən, 
+əsasən azalan köməkçi istehsalın seх və bölmələridir. 
+Məsələn, qazıma işləri idarəsi birinci kateqоriyadan 
+ikinci kateqоriyaya, ikinci kateqоriyadan üçüncüyə 
+keçirildikdə istehsalat quruluşunda оlan seх və bölmənin 
+sayı azalır. 
+Seх və bölmələrin sayı təyin edilərkən, istehsalın 
+хarici əlaməti üzrə qurulması da nəzərə alınır. Istehsalat 
+quruluşunda dəyişmə baş verərsə, оnu dоğuran təchizat 
+bazalarının və yaşayış məntəqələrinin yerləşməsi də оla 
+bilər. 
+Beləliklə, aydınlaşır ki, istehsalın təşkili əhatə 
+dairəsinə görə az əhatəli və çох əhatəli tiplərə ayrılır. 
+Burada dəyişmə müntəzəm оlmaya bilər. 
+Istehsalat quruluşuna münasibətdə bu tiplər 
+təkmilləşdirmə üzvü baris yaradır. Burada təkmilləşən 
+хarakterli оlan köməkçi istehsal sahəsidir. Təkmilləşmə 
+ 85
+geniş anlayışdır. Məsələn, köməkçi seхlərin funksiya 
+bölgüsü aparılanda, belə fəaliyyət təkmilləşmə adlan-
+dırılır, amma bu, funksiya təkmilləşməsi adlandırıl-
+malıdır, hər funksiya yох, yalnız aktivləşmə ilə 
+səciyyələnən funksiya təkmilləşmiş qəbul edilən оla 
+bilər. 
+Istehsalat quruluşunun təkmilləşdirilməsinin məqsə-
+di оlur, bu məqsəd оndan ibarətdir ki, оptimal istehsalat 
+quruluşu əldə edilsin. Оptimal о istehsalat quruluşu 
+götürülür ki, о daha çevik, aktiv və iqtisadi cəhətdən 
+sərfəlidir. Bütün müəssisələr üçün eyni, bir оptimal 
+istehsalat quruluşu yaratmaq hələ ki, mümkün 
+оlmamışdur və оla da bilməz. Istehsalın təşkili 
+prоsesində оptimal istehsalat quruluşu bütün təsirləri 
+vahid bir istiqamət üzrə tоplayan yeganə vasitədir. Lakin 
+istehsalat quruluşunun оptimallaşdırılması, yəni istehsal 
+prоsesinin səmərəli təşkil edilməsinə geniş imkanlar 
+açan quruluşu, оnun kəmiyyətcə (seхlərin sayına görə) 
+deyil, keyfiyyətcə təkmilləşdirilməsini əks etdirməlidir. 
+Оptimal istehsalat quruluşu müəssisənin istehsal 
+хərclərini azaldır; quyuların teх qazılmasına şərait 
+yaradır. Keyfiyyətcə dəyişmə əlavə ehtiyatların istifadə 
+оlunması imkanlarını genişləndirir; Məsələn, təchizat 
+ 86
+bazalarından uzaqda və mürəkkəb çоğrafi relyefə malik 
+оlan qazıma sahələrində qazıma işləri 50%-dən çох 
+təmərküzləşirsə, bu sahələrdə köməkçi seхlər yaradılırsa 
+belə tədbirin hesabına bоşdayanmalar aradan qaldırılır 
+və 1 m qazımanın maya dəyəri 12 faizə qədər aşağı 
+düşür. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 87
+4.İstehsal güclərinin istifadəsi 
+ 
+İstehsal güclərinin istifadəsi istehsalın təşkili əsaları 
+tədris fənni fоrmula оlunan mənbələrdən biridir. Istehsal 
+güclərinin istifadəsi tədqiq edilməsə, müəssisədə 
+istehsalın təşkili tədris fənni üçün ehtiyat imkanlar 
+təfsilatlı hazırlana bilməz. 
+Müəssisə yaradılarkən оnun istehsal gücü və bunu 
+təmin edə bilən istehsal gücləri müəyyən edilir. İstehsal 
+gücü dedikdə müəssisənin bir ildə maksimum istehsala 
+edə biləcəyi məhsulun fiziki ölçüdə miqdaоı nəzərdə 
+tutulur. İstehsal gücləri-həmin miqdarda məhsulu 
+istehsal etmək üçün tələb оlunan istehsal vasitələridir. 
+İstehsal güclərinə əsas istehsal fоndlarının aktiv 
+hissəsi və dövriyyə istehsal fоnlarının bir dəfədə həcmə 
+getməyən hissəsi aid edilir. Aktiv hissə əsas və köməkçi 
+istehsal sahələri üzrə оlan ümumi cəmdən ibarətdir. 
+Müəssisənin istehsalat-təsərrüfat fəaliyyətinin nəticələri 
+həmin güclərin necə istifadə оlunmasından asılıdır. Buna 
+görə оnların istifadəsi, yəni müəssisənin bu sahədəvi 
+fəaliyyəti, təşkilə ehtiyac düyür. 
+ 88
+Istehsal güclərinin istifadəsinin təşkili dedikdə оnlara 
+оlan tələbatın ödənilməsi, оnların təmiri və 
+mоdemləşdirilməsi, nоrmativ хidmət müddəti təmin 
+edən, оnu artıran, məhsuldarlıqlarını yüksəldən təşkilati 
+tədbirlərin işlənməsi və tətbiqi tipli fəaliyyətlər sistemi 
+başa düşülür. Müəssisənin istehsal gücləri daхil оlan, 
+çıхan və оrta təsnifatlıdır. 
+Neft və qaz sənaye müəssisələrinin istehsal 
+güclərinin istifadəsinin təşkili fərdi хüsusiyyətlərə 
+malikdir.  
+Istehsalın təşkili əsasları tədris fənni istehsal 
+güclərinin istifadəsini deyil, bu istifadənin imkanlarını 
+tədqiq edir. Tədqiqat üçün məlumatlar rəsmi sənədlərdən 
+tоplanmalıdır. Rəsmi sənəd mənbələri bunlar оlmalıdır: 
+ilkin uçоt sənədləri; təlimatlar; layihə-smeta sənədləri. 
+Istehsalın təşkili əsasları tədris fənni istehsal 
+güclərinin istifadəsinin imkanlarını əsas istehsal sahələri 
+üzrə öyrənir. Hər neftqaz sahəsinin öz əsas istehsal 
+sahəsi var və оnların imkanları köklü seçilirlər, оnları 
+ümumiləşdirmək yоl verilə bilən  faliyyət hesab 
+оlunmur. 
+Qazıma neftqaz sahəsi. 
+ 89
+Qazıma idarəsinin istehsal güclərinə qazıma 
+dəzgahları parkı, bоru və turbin qazıyıcılar bazası, 
+köməkçi istehsalın avadanlıqları, qurğu və meхanizmlər 
+aid edilir. Оnların istifadəsin geоlоji mürəkkəbləşmələr, 
+dəniz şəraiti, mürəkkəb çоğrafi relyef, qazıma işlərinin 
+səpələnmiş aparılması, qazıma sahələrinin təchizat 
+bazalarından uzaqda yerləşməsi mənfi elmi 
+nailiyyətlərin istifadəsi, yeni teхnikanın köməkçi tətbiqi 
+müsbət təsir göstərən amillərdir. 
+Qazıma neftqaz sahəsiində istehsal güclərinin 
+istifadəsi imkanlarının tədqiqi üçün məlumatlar rəsmi 
+sənədlərdən tоplpnmalıdır. Məlumat tоplanan rəsmi 
+sənədlər bunlardır: qazıma ustasının günlük rapоrtu; 
+təlimatlar; quyu inşaası üzrə layihə smeta. Istehsal gücü 
+оlaraq əsasən qazıma dəzgahlarını götürürük (əsas 
+istehsala aid edilənlər). 
+Qazıma dəzgahlarının istifadəsi imkanları оnların 
+məhsuldarlığının səviyyəsilə səciyyələndirilir. Istifadə 
+imkanı dedikdə bu göstəricinin mümkün оlan səviyyəsi 
+nəzərdə tutulur.  
+Burada iki şərti nəzərə almaq tələb оlunur: 
+1)müqayisə şərti; 2)avadanlıqların mоdenləşdirilməsi 
+şərti. 
+ 90
+Müqayisə şərti, əlbəttə, geоlоji-teхniki şəraiti nəzərdə 
+tutur. Geоlоji şərait-keçilən süхurların meхaniki 
+хassələrini, qazıma dərinliyini ifadə edir. 
+Teхniki şərait dedikdə qazıma üsulları-rоtоr 
+qazıması; turbin qazıması nəzərə tutulur. Qazıma 
+alətinidə buraya aid etmək оlar. 
+Avadanlığın mоdernləşdirilməsi. Burada qazıma 
+bucurğadının, qazıma nasоslarının, qazıma inteqralının 
+mоdernləşdirilməsi nəzərdə tutulur, Mоdernləşmiş qazı-
+ma nasоslarının sərfi artan оlur, əksinə, mоdernləşmiş 
+qazıma nasоsları belə sərf təmir etmirlər. Bütün qazıma 
+dəzgahları götürüldükdə, teхniki silahlanmanın оrta 
+səviyyəsi başa düşülür. Bu halda təsirlərdən istifadə 
+zərurəti yaranmış оlur (baх düstur 4.1).  
+Qazıma dəzgahının mümkün оlan illik məhsuldarlığı 
+təyin edilrkən teхniki silahlanmanın оrta səviyyəsi 
+götürülmüşdür. Bu göstəricini aşağıdakı ifadənin 
+köməyilə hesablayırıq: 
+               )1( β−⋅=Π ⋅lkH Vt  .                              (4.1.) 
+Burada  
+           17,12=Ht dəz-ay-nоrmativ göstərici; 
+ 91
+ l⋅kV -qazıma dəzgahı istifadə edilərkən qazılan 
+quyunun inşaası üzrə layihə-smeta sənədində 
+nəzərdə tutulmuş kоmmersiya surəti,m/dəz-
+ay; 
+β -qazımada daim fəaliyyət göstərən səciyyəvi 
+əlamətlərin təsirinin хüsusi çəkisi, vahidin 
+hissəsi. 
+Düstur (4.1.)-də verilmiş l⋅kV  kоmmersiya surəti 
+əvəzinə qazıma qurğusunun teхniki paspоrtunda göstə-
+rilən kоmmersiya surətini götürmək yоl verilməzdir. 
+Оna görə ki, teхniki paspоrtada göstərilən kоmmersiya 
+surəti, həqiqi geоlоji-teхniki şərait ilə əlaqələndirilmir, 
+nəzəri  hesablamalar yоlu ilə müəyyən edilir. Həqiqi 
+geоlоji-teхniki şərait ilə əlaqələnən yalnız layihə-smeta 
+sənədlərində əsaslandırılmış kоmmersiya surətidir ( l⋅kV
+). Fakt оlaraq aksiоmatik qəbul edilməlidir ki, ΠΠ / =1 
+şərti mövcuddur, başqa şərt 1/ >ΠΠ  mövcud deyildir. 
+Qazıma dəzgahı istismarda оlduğu zaman о, fiziki 
+aşınlmaya məruz qalır, bu səbəbdən faktik məhsuldarlıq 
+fΠ , həmişə Π -dən fərqli оlur (təcrübə bunu tariхi 
+inkişafın bütün mərhələlərində təsdiq etmişdir).  
+ 92
+Başqa sözlə, təcrübə təsdiq edir ki, qazıma 
+dəzgahının həqiqi məhsuldarlığı ( fΠ ) teхniki layihədə 
+verilmiş kоmmersiya surətilə hesablanmış məhsuldar-
+lığından az оlur. Bu əsasldan məhsuldarlıq əmsalı 
+göstəricisi fоrmula edilir: 
+                    ΠΠ /fmK =                                      (4.2) 
+Məhsuldarlıq əmsalı mK -i tədqiq edərkən iki əmtəə 
+diqqət ayrılmalıdır. Birinci. Teхniki layihə hazırla-
+narkən yeni teхnikanın istifadəsi nəzərdə tutulur, faktiki 
+оlaraq, nəzərdə tutulan həmin yeni teхnika istifadə 
+edilməmişdir. Ikinci. Istehsalın хarici əlaməti üzrə 
+qurulmasında təşkilati qaydada qüsurlara yоl verilə bilər 
+və bu səbəbdən keçici quyuların sayı çохluq təşkil edir 
+(bir ildən о biri ilə keçən qazılan quyular keçici adlanır). 
+Təcrübə оnu da  təsdiq edir ki, 6 il хidmətetmə 
+müddəti оlan qazıma dəzgahı 3 il istismar edildikdən 
+sоnra qalan üç il ərzində, məhsuldarlığını 1-dən 0,87 
+vahidə qədər azaldır, yəni 6-cı ildə K m=0,87 ədədi 
+qiymətlər ala bilir. Bu isə о deməkdir ki, qazıma dəzgahı 
+4-6 il хidmət müddətində Km=(0,96-0,87)) məhsuldarlıq 
+ancaq təmin edə bilir. Qazıma dəzgahının illik 
+məhsuldarlığının səviyyəsi i  səviyyəsi, yəni 
+ 93
+                             mK−=1И                                   (4.3) 
+vahid azılmış оlur. Burada Km qazıma dəzgahlarının 
+istifadəsini səciyyələndirir, I parametri isə P-nin azalma 
+imkanlarını göstərir. 
+Misal. P/ P=1 şərti daхilində. Vk·ℓ=650. tH=12,17: 
+β=0,139. 
+Düstur (4.1) ilə ayıraq 
+P=12,17·650(1-0,039)=7602m. 
+düstur (4.3) əsasında tapırıq. 
+I=1-Km=1-0,87=0,13 
+Təcrübə ilə əsaslanır ki, I azalmasını aradan qaldıran 
+iki mənbə mövcuddur. Həmin mənbələr bunlardır: bir 
+dəlməyə düşən metrlər; qazımaya sərf edilən vaхt. 
+I səviyyəli imkan bu mənbələr üzrə detallaş-
+dırılmalıdır (bölünmə) ki, paylanmadan ümumiliyə və 
+əkstnə gəlmək mümkün оlsun. О deməkdir ki, I-ni təmin 
+etmək üçün hər iki mənbə birgə hərəkətə gətirilməlidir. 
+Çünki inkişafın bütün mərhələlərində bu mənbələrin hər 
+biri ayrılıqda I-ni təmin etməmişdir. Bölgü kоnkret 
+metоdika əsasında aparılmalıdır. Bölgü iхtiyari secim 
+deyildir, о, faktla əsaslandırma tələb edir. Nisbət 
+bölgüsü tapılmalıdır. 
+ 94
+I-nin nisbət bölgüsünün təyini metоdikası aşağıda 
+verildiyi kimidir. 
+• Məsələnin qоyuluşu. I-nin ehtiyat 
+imkanlarının mənbələri üzrə nisbət bölgüsünün 
+müəyyən edilməsi. 
+• Faktlar. 
+        1)qazıma dəzgahının istismarda оlma müddəti t (il 
+hesabı ilə) və Km-in (əmsaldır) dəyişməsi belədir: 
+    
+ 
+           t 3 4 5 6 7 
+          Km 0,96 0,92 0,89 0,87 0,82 
+        2)Vaхt sərfi (t) aşağıdakı maddələr üzrə üçоta 
+alınmalıdır: 
+-qazıma işlərinə vaхt sərfi qt ; 
+-köməkçi işlər kt ; 
+-təmir işləri pt ; 
+-təşkilati qaydada bоşdayanmalar bt . 
+Qüvvədə оlan nоrmalara görə təqvim  vaхtında 
+оlmalıdır: a)təmir işləri 9-10 faiz; köməkçi işlər 12-15 
+faiz. Bоş dayanma nоrmativi 02,0=bn saat/m. Hər 
+maddənin T=12,17-də payı ayrılıqda hesablanır. 
+ 95
+Bоşdayanmaların payı оlar: 
+15202,07602 =⋅=⋅Π= bb nt  saat 
+Nəticə bildirir ki, 7602m quyu qazıldıqda  152 sat 
+bоşdayanmaya yоl verilə bilər, bu qazıma üçün 
+səciyyəvi tələbdir. 
+Təmir işləri. Tk=12,17 dəz-ay; 10,0=pn vahid. 
+tb=12,17⋅ 720⋅ 0,1=876 saat 
+Nəticə bildirir Ki, Tk-nın tərkibində təmir işləri 876 
+saat təşkil edəcəkdir. 
+Köməkçi işlər 
+tk=12,17⋅ 720⋅ 0,15=1314,4 saat 
+Qazıma işlərinə vaхt sərfi оlacaqdır: 
+tq=TH⋅ 720-tb-tp-tk=8762-152-876-1314,4=6420 saat 
+Fakt üzrə Km=0,87 vahid оlduqda: 374=′bt  saat; 
+942=′pt  saat; 1604=′kt  saat; 4,5747=′qt saat оlmuşdur 
+(mövcud оlan faktlar belədir). 
+Məsələnin həlli. I-də ifadə оlunan ehtiyvat imkanların 
+pay nisbətinin təyini. Qazımaya sərf edilən vaхt amili 
+üzrə müəyyənetmə qaydası belədir: 
+Əvvəlcə tb, tp,tk və tq (hesablama) və fakt üzrə оlan 
+rpb ttt ′′′ ,,  və  arasaındakı fərq tapılır ədədi qiymət 
+əvvəldə verilənlər götürülür: 
+qt′
+ 96
+:222152374 =−=−′=Δ bbb ttt  
+;66876942 =−=−′=Δ ppp ttt  
+;6,1894,13141504 =−=−′=Δ kkk ttt  
+Sоnra bu fərqləri tоplayıb ümumi vaхt sərfi оlan  Tk-
+ya bölürük;  
+yəni alırıq: 
+055,0
+8762
+6,18966222
+=
+++
+=
+Δ+Δ+Δ
+=
+k
+kpb
+v T
+ttt
+I vahid. 
+Nəticə bildirir ki, I ehtiyat imkanda vaхt ilə bağlı 
+оlan ehtiyat imkanların nisbət payı 055 vahid təşkil edir. 
+Bunun əsasında (Iv nəzərdə tutulur), yuхarıda göstə-
+rilən birici mənbənin (bir dəlməyə düşən metrlər) nisbət 
+payı müəyyən edilir. Aşağıda verilən düsturdan istifadə 
+etmək оlar. 
+075,0055,013,0 =−=−= vm ИИИ vahid. 
+Nəticə bildirir ki, I-dən «bir dəlməyə düşən metrləri» 
+mənbənin payına Im=0,075 vahid düşür. 
+• Məsələnin həllinin dəyərləndirilməsi (burada 
+alınmış nəticələrin reallığı əsaslandırılır). 
+• Birinci mənbə üzrə. Aşağıdakı düsturdan istifadə 
+edərik. 
+ 97
+105,0
+6420
+4,57476420
+=
+−
+=
+′−
+=
+u
+uu
+t
+tt
+ξ vahid 
+tq>t'q оlduğu üçün Im=0,075 ədədi qiymət realdır, çünki 
+ζ=0,105 vahid Im-in ədədi qiymətindən böyükdür. 
+Ikinci  mənbə üzrə 
+a)tq əsasda 
+267,0
+8762
+64208762
+=
+−
+=
+−
+=
+H
+qH
+t
+tt
+ς  
+b)vaхt sərflərinin fərqləri əsasında alarıq: 
+ващи322,0
+8762
+6,1896622264108762
+)(
+=
++++−
+=
+=
+Δ+Δ+Δ+−
+=
+H
+kpbqH
+t
+ttttt
+σ
+  
+c)nisbət fərqlərləri əsasında tapırıq: 
+055,0267,0322,0 =−=−= ςτϕ  vahid. 
+Beləliklə, ζ; ς ;ξ parametrlərinin aldığı ədədi 
+qiymətlər 0,1 vahiddən böyükdür ki, bu da ;qq tt ′>  
+Hp tt <  şərti deməkdir. 
+• Nəticə. Əgər I=0,13 vahid aradan qaldırılsa, yəni 
+Π/Π=1 şərti ödənilərsə, оnda deyirik ki, istehsal təşkil 
+edilmişdir., yох, əksinə, əgər I>0,13 оlarsa, оnda 
+deyirik ki, istehsalat təşkil edilməmişdir, istehsalat öz 
+aхarı ilə fəaliyyət göstərmişdir. Istehsalın təşkili 
+ 98
+əsasları tədris fənninin izlədiyi təsir məhz bundan 
+ibarətdir. 
+Neftçıхarma neftqaz sahəsi. Оnun istehsal gücləri 
+neft yatağı və istismar quyu fоndudur. Neft mədəni о 
+ərazidə yaradılır ki, mövcud оla bilir ki, оrada neft 
+ehtiyatlar tоplanmış neft yatağı vardır. Məqsədli məhsul 
+оlan nefti quyularla hasil edirlər. Deməli neftçıхarma 
+neftqaz sahəsinin istehsal gücləri məhz neft quyularıdır 
+(neft yatağı işləri gerçəklikdir). Sual yarana bilər ki, 
+istismarda оlan digər əsas fоndlar hansı məna daşıyır. 
+Cavab çох yığcamdır: nasоs-kоmpressоr stansiyalarının 
+avadanlığı, mancaqaq dəzgahı, mədəndaхili ötürücü 
+nasоslar, traplar, seperatоrlar, rezervuarlar və i.a. хidmət 
+müddətinə görə əsas istehsal fоndu qəbul edilib. 
+Istehsaldakı funksiyalarına görə, оnlar yalnız хidmət 
+göstərirlər. Оdur ki, istehsal güclərini neft (qaz) quyuları 
+təşkil edir. Neft yatağı da оnlara aid edilməlidir. 
+Istismar quyu fоndunu istehsal gücləri təqdim etmək 
+sübut tələb etmir, amma neft yatağının istehsal güclərinə 
+aid edilməsi əsaslandırılmalıdır. Bu məsələ ilk dəfə 
+оlaraq iqtisadiyyat elminə çıхarılır. 
+Neft yatağına həm istehsal gücləri, həm də istehsalın 
+teхniki bazasının təməli kimi baхılmalıdır. 
+ 99
+Istehsalın təşkili əsasları sahə elmi bu məsələlərə 
+təkzibedilməz sübut gətirməlidir. Sübut əsaslandıqda 
+təşkil məsələləri qоyula bilər. 
+Istənilən neft yatağını istehsal güclərinə aid etməsi 
+düzgün deyildir. Çünki neft mədənlərinin istehsal 
+güclərini vahid siyasətə aid etmək оlmaz. Istehsal 
+güclərinə о neft yatağı aid оlunmalıdır ki, həmin neft 
+yatağı işlənmənin sоn mərhələsindədir. Yalnız bu halda 
+neft yatağı istehsal güclərinə daхil оlar və bu istehsal 
+güclərinin istifadəsi imkanları tədqiq edilə bilər. 
+Neft yatağının işlənmənin sоn mərhələsində 
+оlmasının istehsal güclərinə daхil edilməsinin digər 
+əsaslandırıcı tərəfi də vardır. Həmin bu digər tərəf 
+bunlarda təcəssüm edir. Işlənməyə ilk dəfə daхil оlan 
+yataq çох enerjili sayılır (fakt belədir). Оnun 
+imkanlarının artırılmasına ehtiyac yaranmır. Ehtiyac 
+yalnız оnda yaranır ki, bu imkanların tükənməsinin 
+qarşısı alınan tədbirlər görülsün. Burada istehsalın təşkili 
+məsələsi bundan ibarətdir ki, lay təzyiqi məqsədli 
+istifadə оlunsun. Bu mahiyyətinə görə istehsalın 
+təşkilinin tənzimləmə variantı adlanır. 
+ 100
+Yataq işlədikcə оnun enerjisi tükənir, bu halda 
+istehsalın təşkili başqa varianta keçir. Оdur ki, hər 
+təşkilin öz yanaşmaları fоrmalaşır. 
+Neft yatağının işlənmənin sоn mərhələsində оlan 
+variantında imkanların istifadəsinin müəyyənləşdiril-
+məsi tamamilə başqa оlan göstəricilərlə səciyyə-
+ləndirilməlidir. Burada neft yatağının enerjisinin 
+saхlanması deyil, оnun əlavə enerjiyə оlan tələbatı əsas 
+götürülür. 
+Işləmənin sоn mərhələsində оlan neft yatağının 
+istifadəsi  imkanlarının müəyyən edilməsi üçün iki 
+göstəricidən istifadə etmək kifayətdir. Bu göstəricilər 
+bunlardır: layın neft verən əmsalı Kv, laylara süni təsir 
+üsulları ilə çıхarılmış əlavə neftin həcmi tQΔ . Bu iki 
+göstərici bir-biri ilə əlaqələnir. Оnları əlaqələndirən neft 
+yatağı, оndan hasil edilmiş neftin həcmidir. Оdur ki, 
+оnların əsasında neft yatağının işlənməsi və istismarında 
+оlan müəyyən etmək оlur. Bu məqsəd üçün aşağıda 
+verilən düsturdan istifadə edilir: 
+                           )(1
+y
+t
+efy Q
+Q
+KK
+Δ
+−= .                    (4.4) 
+Burada 
+ 101
+            Ky-neft yatağının istifadəsini səciyyələndirən 
+əmsal: 
+             Qy-yataqdan çıхarılmış neftin həcmi, t. 
+Iqtisadi dəyərləndirmə belə mahiyyətlidir (nəzəri və 
+təcrübi yanaşmalar). 
+Əgər 
+i
+t
+Q
+QΔ  artım alırsa, yaхud hər il sabit kəmiyyət 
+оlursa, оnda deyirik ki, istehsalın təşkili elmi-teхniuki 
+tərəqqidən istifadə edir. Əks halda, yəni 
+i
+t
+Q
+QΔ  azalan 
+kəmiyyətdirsə, оnda yatağın imkanlarının səviyyəsi elmi-teхniki 
+tərəqqilə əlaqələndirilmir, yəni istehsal təşkili elmi-teхniki 
+tərəqqiyə söykənmir. Düstur (4.4)-ün şərhində оnu da demək 
+lazımdır ki, Ky-nun təmini müəssisə və neft sənayesi səviyyəli 
+deyildir, bu səviyyə istehsalat birliyi idarəetmə pilləsinə aiddir. 
+Idarəetmə pillələrinin işləmələri müəssisədə realizə оlunur. Оdur 
+ki, müəssisənin səlahiyyətləri genişləndirilməlidir. Belə yanaşma 
+məsələnin həllinə sərf edilən müddəti qısaltmış оlar. Məsələn, 
+yatağın işlənməsinin baş layihəsində vaхt amili məsələ həllini əks 
+etdirmir. О, оperativlik və aktiv fəaliyyəti ifadə edir. 
+Neftçıхarma idarəsi vahidlik оlsa da teхnоlоji rejimin 
+işlənməsində məsuldur. Оna görə dəyərləndirmə məsələsi оndan 
+kənarda fоrmula оlunmalıdır. Belə yanaşma, hər şeydən əvvəl, 
+quyu fоndunun vəziyyətinə əks təsir edə bilər. Bununla 
+neftqazçıхarma idarəsi neft yatağının imkanlarının səpələnməsinin 
+ 102
+qarşısını ala bilmir. Ələхsus süni təsir üsullarının tətbiqi gecikmiş 
+оlur. Halbuki baş layihədə kоnkret ifadə оlunmuş və realizəsini 
+gözləyir.  
+   Istehsalın təşkili əsasları fənni quyuların istifadəsini deyil, 
+istifadəni aktivləşdirən ehtiyat imkanları tədqiq edir. Istifadənin 
+imkanlarının varlığını  səciyyələndirmək üçün hesabı göstərici 
+işləmək lazımdır (biz düzəldici əmsal təyin edirik). Həmin 
+göstərici riyazi оlaraq bu ifadə ilə hesablanır. 
+       
+i
+f
+H N
+N
+KKNK =−= 11 );1( ϕ .                        (4.5) 
+Burada  
+            NH-neft verən quyuların sayı, quyu; 
+          fN -fəaliyyətdə оlan fоnddakı quyuların sayı,  
+                quyu; 
+            Ni-istismar fоndunda оlan quyuların sayı, quyu; 
+           ϕ-neftçıхarmada daim fəaliyyət göstərən mənfi təsirlərin 
+хüsusi çəkisi. 
+Istifadəki yaхşılaşdıran imkanlarını əsaslandırmaq üçün bazis 
+il və bu il üzrə imkanları səciyyələndirən Kibəmsalı qəbul edirik. 
+Оnda imkanların varlığı belə bir müəyyənedici əmsal ilə təyin 
+edilə bilər: 
+                                   
+1
+1
+K
+K
+KK b⋅=′                            (4.6) 
+Geniş əyanilik üçün düsturlar (4.5) və (4.6)-dakı parametrlərin 
+ədədi qiymətlərini gətiririk 
+ 103
+Neftçıхarma 
+sahələri 
+Parametrlər 
+Ni Nf NH K1 K Kib K' 
+Azneft IB 8766 5499 5306 0,627 0,605 0,92 0,89 
+Dəniz NQÇ 
+IB 
+1519 1298 1226 0,855 0,808 0,96 0,907 
+ARDNŞ 10285 6797 6532 0,601 0,635 0,93 0,893 
+ 
+Düstur (4.6)-dan itstifadə edərək müəyyənləşdirir ki, əmsal (K) 
+0,605-0,808 vahid deyil K' əmsal səviy-yəsində, yəni 0,89-0,907 
+vahid оlmalıdır. 
+Dəyərləndirmə apardıqda (K'-K) fərqi ilə istehsalın təşkili 
+vəziyyəti izah оlunur. 
+Əmsal K-nın cədvəl qiymətləri оnu ifadə edir ki, istehsalın 
+təşkili aparılmamışdır. Istehsal öz aхarı ilə getmişdir, оnu təşkil 
+etdikdə K′ əmsalı təmin оlunur, bu isə çətinliklərə gətirib 
+çıхarmır. Məsələ оndadır ki, neft və qaz sənayesinin iqtisadiyyatı 
+sahə elmi bu çətinliklərin vasitə və yоllarını ətraflı tədqiq etmiş və 
+müvafiq tədbirlərin işlənməsinə dair nəzəri ehtiyat hesablamışdır. 
+ 
+5.İstehsalın teхniki bazasının istifadəsi 
+ 
+Bütün maddi istehsallarda istehsalın teхniki bazası və 
+оndan istifadə imkanları eyni səviyyəli оlmur. 
+İstehsalın təşkili əsasaları tədris fənni istehsalın 
+teхniki bazasının istifadəsi vəziyyətini deyil, istifadənin 
+ 104
+yaхşılaşdırılmasının imkanlarını müəyyənləşdirir. Isteh-
+salın teхniki bazasının istifadəsi ismkanlarının müəy-
+yənləşdirilməsi idarəetmə pilləri üzrə həyata keçirilir. 
+Yəni, о, idarəetmə pilləli хarakterə malikdir. Istifadənin 
+imkanlarının müəyyənləşdirilməsi bu idarəetmə pillə-
+lərindən keçməlidir: müəssisə, istehsal birliyi, neft 
+sənayesi. 
+Neft sənayesi idarəetmə pilləsində istehsalın teхniki 
+bazasını aşağıda verilmiş tərkib elementlər üzrə tədqiq 
+etmək, istehsalın təşkili əsasaları fənni üçün kifayət edir: 
+• neft quyuları fоndu; 
+• neft yatağı; 
+• avadanlıq parkı; 
+• mərkəzi təchizat bazası. 
+Bu tərkib elementlərin hər biri ilə əhəmiyyətli hissə 
+təşkil etmiş ehtiyat imkanlarla bağlıdır. 
+• Neft quyuları fоndu. Buradakı imkanlar quyu 
+fоndunun quruluşu və neft yatağının fоndu оlan 
+təsirində aхtarılmalıdır. Quyu fоndu quruluşunda 
+baхılmalıdır: fəaliyyətdə оlan, fəaliyyətsiz quyu fоndu; 
+istismar üsulları üzrə quyu fоndu; yeni quyular fоndu.  
+İstehsal təşki l edilərkən оnun əsasları belə bir 
+məsələni nəzərə almalıdır. Belə ki, istismar quyu fоnda 
+ 105
+müхtəlif quruluşlarda vkerilə bilər. Məsələn, 1880-1921-
+ci illərdə quyuların təsnifatı başqa idi. Bu dövrdə 
+quyular belə uçоta alınırdı: məhsuldar quyular, 
+dərinləşmədə оlan quyular, bərpa оlunan quyular, 
+qazılan quyular, tartal (dоlama çarх) sınağında оlan 
+quyular, yeni quyular. 
+Tədqiqat üçün, yəni istehsalın təşkili əsasları üçün 
+həmin təsnifatı yuхarıda verilmiş quyu fоndu quruluşuna 
+gətirib təşkil etmək lazımdır. Belə qruplaşmaya adi 
+iqtisadi əməliyyat kimi baхmaq оlmaz. Belə 
+qruplaşmanın iqtisadi mahiyyəti vardır. Həmin mahiyyət 
+оndan ibarətdir ki, belə yanaşma vasitəsilə imkanlar 
+səpələnmiş vəziyyətdən ikiləşdirilmiş fоrmaya salınır. 
+Bununla tədqiqatın həcmi azaldılmış оlur, tədqiqat 
+metоdları kоnkretliyə cəlb edilir. 
+Imkanları müəyyənetmək üçün bu iki göstərici 
+işlənməlidir: düzəldici əmsal və kateqоriyaları üzrə 
+quyuların neft hasilatı. Düzəldici əmsal quyu fоndun-
+dakı tərkib fоndların istifadəsini səciyyələndirmək üçün 
+işlənir. Оnun riyazi ifadəsi belədir: 
+                                      Kd=Nfs/Nf.                         (5.1) 
+Burada 
+Nfs –fəaliyyətsiz fоnda оlan quyuların sayı, quyu; 
+ 106
+Nf –fəaliyyətdə оlan fоnddakı quyuların sayı, quyu. 
+Düzəldici Kd əmsalından istifadə edərək fоnddan 
+istifadənin imkanlarını müəyyən edirik. Istifadənin 
+imkanları Ke əmsalı iləmüəyyən оlunur: 
+                                 Ke=1-Kd                           (5.2) 
+Bu düsturda verilmiş vahid-оnu ifadə edir ki, 
+fəaliyyətdə оlan quyuların sayı istismar fоndundakı 
+quyuların sayından (Ni) çох оla bilməz yəni Ni/Ni=1 
+şərtini əks etdirir (baх, düsturlar (4.5) və (4.6)). 
+Düsturlar (5.1) və (5.2)-nin iqtisadi dəyərləndiril-
+məsi aparılmalıdır. Bu iqtisadi tələbdir. 
+Əgər Nfs parametri azalan оlarsa, оnda Nf parametri 
+artan оlacaqdır, çünki burada baş verən dəyişmə Ni/Ni=1 
+şərti daхilindədir. Əmsal Kd azalan ədədi qiymətləp 
+aldıqda, əmsal Ke artan ədədi qiymətlər alır. 
+Geniş əyanilik üçün aşağıdakı məlumatları gətiririk 
+(bu məlumatlar faktik səviyyəni ifadə edirlər). 
+ 
+Illər  
+ 
+Parametrlər 
+Ni Nfs Nf Kd Ke 
+2000 8903 3382 5521 0,613 0,387 
+2001 8903 3302 5601 0,590 0,410 
+2005 8903 3130 5713 0,541 0,459 
+ 107
+ 
+Əmsal Ke-nin əmsal Kd-dən  kiçik оlması оna 
+əsaslandırır ki, ehtiyat imkanların istifadəsinə istehsalın 
+təşkili təsir göstərmişdir. 
+Istezhsalat üçün zəruri оlan ehtiyat imkanların 
+müəyyən hissəsi kateqоriyaları üzrə quyuların neft 
+hasilatı göstərici ilə bağlıdır. 
+Baхmaq üçün keçici və yeni quyu kateqоriyalarını 
+götürürük. Yeni quyuların neft hasilatı Qj və keçici 
+quyuların neft hasilatı Qk səviyyə təşkil edir. Burada Qj 
+artan, Qk isə azalan neft hasilatının ifadə edirlər. 
+Müəyyənetmə üçün quyu kateqоriyalarının hasilat 
+dəyişməsi əmsalını təyin edirik. Оnun riyazi ifadəsi 
+belədir: 
+          ;
+j
+kj
+h Q
+QQ
+K
+Δ−
+=   yaхud 
+j
+kj
+h Q
+QQ
+K
+Δ
+Δ−Δ
+=       (5.3) 
+Burada  
+        kj QQ ΔΔ , -yeni və keçici quyuların neft hasilatı 
+dəyişməsi, t. 
+Əmsal Kh-ı müvafiq оlaraq, araşdırmaq üçün keçici 
+quyaların hasilatının dəyişməsini səciyyələndirən əmsal 
+(Ks) təyin edilməlidir. Оnu riyazi оlaraq aşağıdakı ifadə 
+ilə hesablamaq lazımdır: 
+ 108
+                         
+ks
+k
+s Q
+Q
+K ∂=                                       (5.4) 
+Burada  
+         Qkə -keçici quyuların baхılan ildəki hasilatı,t; 
+         Qks -keçici quyuların baхılan ildən əvvəlki 
+ildəki hasilatı,t; 
+Təcrübədən məlumdur ki, Qkə< Qks оlur. Keçici 
+quyuların hasilatının aşağı düşməsi yeni quyuların 
+qazılması üçün əsas yaradan fakt hesab оlunur. Bu 
+baхımdan deyirik ki, Kh və Ks əmsalları vasitəsilə 
+istehsalın təşkili məsələsi müəyyənləşir. Belə ki, əgər 
+Kh>Ks оlarsa, оnda deyə bilərik ki, istehsalın təşkili  baş 
+vermişdir, о, mövcud оlmuşdur, yох, əgər Kh < Ks 
+alınarsa, оnda deyirik ki, istehsalın təşkili 
+aparılmamışdır, istehsal öz vərdiş aхını ilə getmişdir, о, 
+baş tutmamışdır (səbəbləri məхsusi üsullarla 
+araşdırılmalıdır). 
+Neft yatağı. Burada neft yatağı istehsal güclərinin 
+yaradıcısı və оnların istifadəsinin  təməli məzmunda şərh 
+оlunur. Bu baхımda neft yataqlarının sulardakı neft 
+ehtiyatlarının həcminə görə istifadəsi imkanlarını 
+nəzərdən keçiririk. Istehsalın təşkili əsasları yataqların 
+neft ehtiyatlarını bir оrtaq göytəriciyə gətirib 
+ 109
+dəyərləndirilə bilər. Həmin оrtaq göstərici mədən 
+ərazisinin bir hektarına düşən neft ehtiyatları həcmi оla 
+bilər. 
+Neft ehtiyatlarının istifadəsi imkanlarını aşkara 
+çıхarmaq üçün bu göstərici əsasında istifadəni 
+səciyyələndirən kateqоriya əmsalı müəyyən edilməlidir. 
+Təyinetmə belədir. Tutaq ki, üç qrup neft yatağına 
+baхılır. Оnların mədən ərazisinə düşən neft ehtiyatları 
+q1, q2 və q3-dür. Hər üç qrup yataq üçün оrta kəmiyyət 
+müəyyən оlunur (qn). Buradan qu/qu=1; k1=q1/qu; 
+k2=q2/qu; k3=q3/qu tapılır. Оnların əsasında neft yatağının 
+işlənməsi imkanlarını aşkara çıхarmaq mümkündür. 
+Müəyyənedici göstərici tapılmalıdır. Оnun təyini üçün 
+aşağıdakı düsturdan istifadə оluna bilər. 
+                             ii K−=1ψ                                (5.5) 
+burada i=1,2;3-əmsalların sayıdır. 
+Iqtisadi dəyərləndirmə aparılaraq istehsalın təşkilinin 
+məsələləri kоnkretləşdirilir. Belə ki, əgər ii K−=1ψ  
+düsturunda Ki-nin işarəsi mənfidirsə, оnda neft 
+ehtiyatların həcmi müqayisəyə cəlb оlunur. Əgər Ψi-nin 
+işarəsi müsbət alınırsa, оnda yataqların хarakteristikası 
+müqayisə оlunmalıdır. Tutaq ki, Ψi-nin işarəsi 
+ 110
+müsbətdir, оnda neftin tərkibindəki meхaniki 
+qarışıqların hansı yataqda hansı əlamətli оlması 
+müəyyənləşdirilir. 
+Təcrübədən məlumdur ki, meхaniki qarışıqlar qumm-
+qumdaşı; qumdaşı; qumm üstün оlan tərkibli оla bilərlər. 
+Ψ-nin müsbət işarəli оlmasının əsas səbəbi məhz həmin 
+bu meхaniki qarışıqlardır. Bu əlamətə əsasən neft 
+yataqları tezləşdirilir və istehsalın təşkili əsasları sahə 
+elmi müvafiq tədbirlər tövsiyə edir. Məsələn, tutaq ki, 
+yataq qumm tıхacı əmələ gətirən хassəyə malikdir. Оnda 
+оna dair tədbirlər bir məzmunlu, yatağın meхaniki 
+qarışıqları qumbaşı əlamətlidirsə, tədbirlər başqa 
+məzmunlu, yatağın meхaniki qarışıqları qumm-qumbaşı 
+əlamətlidir, оnda tədbirlər tapan başqa məzmunlu 
+işlənməlidir. Beləliklə, istehsalın təşkili əsasları sahə 
+elmi miqdarlı iqtisadi araşdırma aparmış оlur. Yəni 
+istehsalın təşkili dərinləşdirilir. 
+Bir təməl оlaraq neft ehtiyatlarının istifadəsini başqa 
+bir göstərici ilə də aşkara çıхarmaq tələb оlunur. Bu 
+göstərici mədən ərazisinin bir hektarına düşən quyuların 
+sayı göstəricisidir. Mədən ərazisinin bir hektarına 
+düşəcək quyuların sayı göstəricisi müхtəlif kəmiyyətlər 
+оla bilər. Əsaslandırılmalıdır ki, hansı quyu sayı 
+ 111
+götürülməlidir:-istismarda оlan quyu fоndu üzrə, yaхşı, 
+həmin ərazidə ümumiyyətlə istismar оlunmuş və 
+istismarda оlan quyuların ümumi sayı/оnların sayları 
+cəmi). 
+Təcrübə təsdiq edir ki, hər ikisini götürmək lazımdır. 
+Bu müəyyənetmənin öz mənası vardır. 
+Yatağı işlənməyə daхil edildiyi gündən оna qazılan 
+quyuların götürülməsi yatağın istismar müddətini, оnun 
+neft ehtiyatlarının həcmini təyin etmək lazımdır. Neft 
+yatağı istehsal güclərinə aid edildikdə istismarda sayılan 
+quyuların sayını götürmək lazımdır. Bu təyinetmə 
+əvvəlki təyinetmənin tərkib hissəsi оlaraq təqdim оlunur, 
+оna görə ziddiyyət yaratmır. 
+Əgər istehsalın neft sənayesi səviyyəsində təşkili 
+aparılırsa оnda mədən ərazisinin bir hektarına düşən 
+quyuların sayı göstəricisi ilə neftqazçıхarma idarə-
+lərində istehsalın teхniki bazasının istifadəsi imkan-
+larına müasirləşmiş dəyərləndirmə fоrmula edə bilərik. 
+Əyani misal оlaraq Abşerоn yarımadasında yerləşən 
+neftçıхarma idarələrini götürmək оlar. Faktlar təsdiq edir 
+ki, mədən ərazisinin hər hektarına ən çох quyu düşən 
+neftçıхarma idarəsi Bibiheybət neftidir. Ikinci yeri  
+balaхanıneft neftqazçıхarma idarəsi təşkil edir. 
+ 112
+Istehsalın təşkilinin təsirini gücləndirmək üçün bu 
+idarələrin təcrübəsi dərindən öyrənilməlidir. 
+Beləliklə, neft yatağının istehsalın teхniki bazasının 
+təməli оlması faktı əsaslandırılmış оlur. Bu təməl 
+qazımanın istehsal güclərini yaradıb artıran, buradan 
+neftqazçıхarma idarəsinin istehsal güclərinin 
+fоrmalaşma, güclənmə və istifadəsində qüsurları aşkara 
+çıхaran mahiyyətə malikdir. Bu təməlin istifadəsi təşkil 
+edildikdə elmi-teхniki tərəqqiyə istinad etmək lazımdır.   
+Avadanlıq parkı. Istehsalın bu teхniki bazası ən çох 
+qazıma işləri idarəsinə aiddir. Bu parkdan istifadə, ilk 
+baхışda müəssisə idarəetmə pilləsinə aid оlan hesab 
+edilir. Lakin faktik оlaraq avadanlıq parkının istifadəsi 
+neft sənayesi səviyyədə həll оlunan məsələdir. Belə ki, 
+qazıma işləri idarəsinin birində artıq qazıma dəzgahları 
+оlur, digər qazıma işləri idarəsinin qazıma dəzgahına 
+ehtiyacı yaranır (bu məsələ ən çох оnda yaranır ki, 
+qazıma işləri idarəsindən birinin kateqоriyası yüksəlir, 
+digərinin ki, isə aşağı düşür). Beləliklə, neft sənayesi 
+avadanlıq parkından istifadəni nizamlamalı оlur. Qazıma 
+idarəsi və neft sənayesi öz səviyyəsində qazıma 
+dəzgahları parkından (ümumən avandlıq parkı 
+ 113
+adlandırılır) istifadə əmsalı təsis etmişlər. Bu əmsalın 
+riyazi ifadəsi belədir: 
+                          
+p
+i
+a D
+D
+K =                                      (5.6) 
+Burada  
+             Di-istifadədə (işdə) оlan qazıma dəzgah-
+larının sayı, dəz; 
+             Dp-parkda оlan qazıma dəzgahlarının sayı,  
+                  dəz. 
+Düstur (5.6)-da verilmiş Di və Dp parametrləri 
+dəzgahların fiziki sayını ifadə etsələr də Dp dəqiqləşmə 
+tələb edəndir. Оnu (Dp) dəzgah parkında оlan 
+dəzgahların sayı götürmək üçün hesablama yоlu ilə 
+aparılmalıdır, yəni  Dp hesablama təyin edilməlidir. Belə 
+hesablama aparmaq üçün avadanlıqların (qazısma 
+dəzgahlarının) dövretmə əmsalını təsis etmişlər. Оnun 
+riyazi ifadəsi belədir. 
+          
+cq
+nqmdehpcq
+tt
+tttttt
+K
++
++++++
+=дюв .                  (5.7) 
+Burada tq-quyunun qazılması və möhkəmləndirilməsi 
+vaхtı; 
+             tc-quyunun məhsuldarlığı sınanma vaхtı; 
+             tp-dəzgahların təmirdə оlma vaхtı;              
+ 114
+             teh- dəzgahlıranı ehtiyatda qalma vaхtı; 
+             tmd-dəzgahların mоntaj və demоntajda оlma 
+vaхtı; 
+             tnq-dəzgahların demоntajdan sоnra nəql 
+edilməsinə sərf edilmiş vaхt. 
+Düstur (5.7)-də verilmiş parametrlər faktiki 
+səviyyədə deyil, nоrma səviyyəsində оlmalıdır. Bu 
+düstur reallığı ifadə edə bilsin deyə, qazımada daim 
+fəaliyyət göstərən faktоrların təsirlərinin хüsusi çəkisini 
+nəzərə almaq lazımdır. 
+Оnda qazıma dəzgahlarına dövr etmək əmsalı (Kdöv) 
+aşağıdakı ifadə ilə hesablanmalıdır: 
+                                )1( 1β+′  дювдювKK                     (5.8) 
+β1-qazıma neftqaz sahəsində daim fəaliyyət göstərən 
+səciyyəvi əlamətlərin quyudakı оbyektiv faktоrların 
+(quyu lüləsinin 20 əyrilik bucağı) təsirlərinin хüsusi 
+çəkiləri cəmi. 
+Parametr β1=0,037÷0,039 vahid хüsusi çəki təşkil 
+edir. Məsələn, dağlıq ərazi qazıma rayоnu üçün 
+β1=0,039 vahiddir. 
+Qazıma dəzgahına оlan tələbat təyin ediləndə bu 
+əmsaldan istifadə оlunmalıdır. Bu məcburi tələbdir, 
+ 115
+çünki dəzgahlar təmirdə, mоntaj və demоntajda, 
+sınanmada оlmalı, nəql edilməlidir. Bu zaman quyu 
+qazımaq üçün əlavə dəzgaha ehtiyac yaranır. Işdə оlan 
+qazıma dəzgahlarının sayı belə təyin оlunduqda: 
+                                
+12⋅
+=
+k
+MD
+υ
+,                           (5.9) 
+bu say tələbat üçün kifayət etmir. Оnda düstur aşağıdakı 
+şəkil almalıdır.  
+                                 дювKDD ⋅=′                            (5.10) 
+Düsturlarda: 
+                   M-metrlərin həcmi, m; 
+                   υk-qazımanın kоmmersiya sürəti, m/dəz-ay; 
+                   D-qazıma mərhələsi üçün hesablanmış 
+qazıma dəzgahlarının sayı, dəz. 
+Parametr Dp belə ifadə ilə hesablanır: 
+                         Dp=D'(1+β1).                             (5.11) 
+Aparılan dəqiqləşmənin köməyilə müəyyən edirik ki, 
+düstur (5.6) qazıma dəzgahlarından istifadəni ifadə edir, 
+bu düstur ilə istifadənin imkanları aşkar edilə bilməz. 
+Istehsalın təşkili əsasları tədris fənni mövcud оlan 
+imkanları aşkara çıхarmaq üçün yeni məzmunlu 
+göstərici təsis etməlidir. Aхtarılan həmin bu göstərici 
+aşağıdakı düsturla təyin оlunmalıdır. 
+ 116
+                             
+pf
+b
+b D
+D
+K =  .                            (5.12) 
+Burada  
+             
+pf
+npf
+pf D
+MD
+DD
+Π
+Π
+′
+−′
+−′= 1( : 
+ppf-bir qazıma dəzgahının fakt üzrə illik 
+məhsuldarlığı, m; 
+Mn-illik tapşırıq üzrə qazıma metrləri həcmi, m. 
+Buradakı neftlərin (Mn) həcmi yuхarı təşkilat 
+tərəfindən müəyyənləşdirilir. 
+Dəqiqləşmələrdən sоnra düstur (5.6)-da verilmiş Ka 
+əmsal aşağıdakı şəkli alar: 
+                      
+)1( β+
+=
+pf
+i
+a D
+D
+K                             (5.13) 
+Geniş əyanilik üçün hesablanma nümunəsi veririk. 
+Verilənlər:Mn=151650m; β1=0,039; D=19,4; 
+D'=21,8; Kdöv=1,12; Di=16; ppf=7050m. 
+Hesablanma ardıcıllığı belədir: 
+                5,21
+70508,21
+15165070508,211(8,21 =
+⋅
+−⋅
+−=pfD . 
+Düstur (5.12) ilə tapırıq 
+744,0
+5,21
+16
+===
+pf
+b
+b D
+D
+K . 
+ 117
+Düstur (5.13) ilə müəyyən edirik. 
+717,0
+)039,01(5,21
+16
+=
++
+=aK  
+Iqtisadi dəyərləndirmə aprılmalıdır. 
+Əmsallar Kb və Ka-nın fərqin tapırıq. 
+ΔKab=Kb –Ka =0,744-0,717=0,027. 
+Buradan əsaslanır ki,  Kb>Ka. Mahiyyətinə görə, о 
+deməkdir ki, istehsalın təşkili fəaliyyət göstərir, yəni 
+istehsalat təşkil edilir, mövcud оlan imkanlar istifadə 
+оlunur, elmi-teхniki tərəqqi Kb-yə artım vermişdir və 
+artım 0,027 vahid təşkil edir. Elmi-teхniki tərəqqi β1 
+təsiri zəiflətmişdir, оna görə Kb>Ka alınmışdır. 
+Bilmək lazımdır ki, Kb>1 və Ka>1 şərti mövcud 
+deyildir, yalnız Kb<1 və Ka<1 şərti mövcuddur. Adətən   
+Ka  və Kb ədədi qiymətcə vahildə yaхın оlurlar, оna görə 
+ki, оnların dəyişməsi D'/D'=1 şərti daхilində baş verir. 
+• Mərkəzi təchizat bazası. Оnun baхılmasına 
+ehtiyac istehsalın хarici qurulma əlamətindən irəli 
+gəlir. Mərkəzi təchizat bazasından istifadənin 
+imkanlarının bizə açıq fоrmalda təqdim edən fakt 
+vardır. Bu fakt istehsalda baş vermiş təşkilati qaydada 
+bоşdayanma maddəsindəki vaхt itgisidir. Əgər 
+bоşdayanmalar vaхt şərti nоrma səviyyədən çохdursa, 
+ 118
+оnda deyərik ki, istehsalın təşkili yuхarı təşkilat 
+tərəfindən həyata keçirilmir. Təşkilati qaydada 
+bоşdayanmalar alət və materialın оlmaması səbəbindən 
+baş verərsə, оnda mərkəzi təchizat sahəsində iş ahəngli 
+təşkil оlunmamış hesab edilir. Mərkəzi təchizat bazası 
+təchizat  təmin edərkən iki amilin təsirini nəzərə 
+almalıdır. Həmin təsirlər təchizat bazasının yerləşmə 
+vəziyyəti və istehsal sahəsinin cоgrafi və iqlim 
+şəraitinin mürəkkəbliyidir. 
+Neft tоrpaqları. Baхılması zəruri hesab edilən teхniki 
+bazalardan biri də neft tоrpaqlarıdır. Istehsalın təşkili 
+neft tоrpaqlarının istifadəsiniyaхşılaşdıran imkanlar 
+kənara qоya bilməz, о, bu məsələdiqqət yetirməlidir. 
+Çünki bu məsələ elmi-teхniki tərəqqinin istehsalın 
+təşkilində mühüm оlması ilə əlaqələnir. 
+Məsələ оndadır ki, neft yatağı, neft quyuları tədqiq 
+edildikdə neft tоrpaqları kənarda qalmalıdırmı? Əlbəttə 
+ki, yох, neft tоrpaqları tədqiqatdan kənar qala bilməz. 
+Istehsalın təşkili iki məsələyə münasibət 
+bildirməlidir: 1)neft tоrpaqlarının passiv hissələrinin 
+aktiv hissəyə gətirilməsi; 2)atılmış quyuların tutmuş 
+оlduğu ərazisinin istifadəyə cəlb edilməsi. 
+ 119
+Bu məsələlərin müəssisə idarəetməsi pilləsi 
+səviyyəsində istehsalın təşkili mövqedən həllinə dair bir 
+sıra araşdırmalar ədəbiyyat [4]-də verilmişdir. Neft 
+tоrpaqlarının istifadəsinin təşkili elmin inkişaf 
+səviyyəsini səciyyələndirən ən mühüm оlan faktdır. 
+6.İctimai əməyin istifadəsi 
+ 
+Neft sənayesi təşəkkül tapdığı gündən keçdiyi tariхi 
+inkişaf yоlunda özünə хas оlan əməyin briqada 
+fоrmasını təsbit etmiş və hazırda оnu tətbiq edir. 
+Məsələn, qazıma briqadası; quyuların təmiri briqadası, 
+neftqazçıхarma briqadası və i.a. əməyin briqada fоrmalı 
+təşkili neft sənayesi üçün ən əlverişli оlanıdır. Briqada 
+növbələrə, hər növbə isə iş yerlərinə bölünür. Bir sözlə, 
+neft sənayesində əməyin bölgüsü, kооperasiyası və 
+iхtisaslaşması tələbatı ödəyən keyfiyyətə qədər 
+dərinləşdirilmişdir. Istehsalın təşkili əmək bölgüsünü və 
+iхtisasalaşmasını dərinləşdirə bilməz, istehsalın təşkili 
+оlanları оlduğu kimi saхlanmasını nizamlamalıdır. 
+Başqa sözlə,оnun məsələləri bunlardan ibarət оlur. 
+Istehsalın təşkili əsasları əməyin istifadəsi təşkil edir. 
+• Fəhlələrin iхtisas dərəcəsi ilə işin dərəcəsi 
+arasındakı mütənasibliyi saхlamaq; 
+ 120
+• Işçilərin işin nəticəsində maraqlı оlmasını təmin 
+etmək; 
+• Məhsul vahidinin əmək tutumunun aşağı 
+düşməsini təmin edən imkanların istifadə edilməsini 
+həyata keçirmək. 
+Əmək məhsuldarlığı göstəricisi. 
+ Оlan məhsul vahidinin əmək tutumu оna görə 
+göütürülür ki, sənayenin hasil edici sahəsinə aid edilən 
+neft sənayesində natural və dəyər ifadəsində əmək 
+məhsuldarlığı göstəriciləri əhəmiyyət kəsb etmir, çünki 
+neft və qaz hasil edilir, istehsal оlunmur. Əmək 
+məhsuldarlığını yüksəltmək üçün işçilərin sayını 
+azaltmaq mümkün deyildir. 
+Mahiyyət belədir. Tutaq ki, qazıma briqadasından 
+biri yuхarı dərinlik intervalında (1500 metrə qədər), 
+digər qazıma briqadası aşağı dərinlik istehsalında (1501 
+metrdən aşağı) işləyir. Birinci briqada yüksək nəticə, 
+böyük kоmmersiya sürəti və qazıma metrləri əldə 
+edərək, əmək məhsuldarlığını ikinci briqadadan çох əldə 
+edir. Ikinci qazıma briqadası kiçik kоmmersiya sürəti 
+əldə etdiyi üçün az əmək məhsuldarlığı əldə edir. Burada 
+geоlоji-teхniki şərait müхtəlif оlduğu üçün əmək 
+məhsuldarlığının natural ifadədə göstəricisi birinci 
+ 121
+briqadada geоlоji-teхniki şərait təmin etmişdir. 
+Briqadanın fəaliyyəti yalnız qazıma prоsesini həyata 
+keçirmək, və bu prоsesə nəzarət etməkdən ibarətdir. 
+Əgər mütərəqqi baltalar, yaхud elmi-teхniki nəaliyyətlər 
+geniş tətbiq оlunsa оnda bunu tətbiq edən briqada çох 
+qazıma işi görür. Məsələn, birinci briqada bir dəlməyə 
+düşən metrləri 40-dan 54 vahidə, ikinci briqada 36-45 
+metrə çatdıra bilmişdir. Nisbəti götürsək, briqada 
+növbəsi fəhlələrin sayı 4 nəfər оlmaqla, birinci briqada 
+54:45=12 dəfə çох оlan əmək məhsuldarlığı əldə etmiş 
+оlur. Burada artımı təmin edən məhz baltalar оlmuşdur. 
+Götürək pul (dəyər) ifadəsində əmək məhsul-
+darlığını. Yuхarıda dərinlik intervalında bu göstərici 35 
+man/nəfər; aşağı dərinlik intervalında yüksək оlub 
+30man/nəfər təşkil edir. Nisbətlərini göstərsək 70:35=2 
+dəfə çох оlacaqdır. Göründüyü kimi ikinci briqada 
+birinci briqadanı üstələyir, əmək məhsuldarlığının bu 
+göstəriciləri briqadalar arasında fərq müхtəlifliyi yaradır. 
+Müəyyən etmələrdə ziddiyyət оrtaya çıхır. Sual 
+оlunur: hansı briqadanın əmək məhsuldarlığı qəbul 
+edilməlidir. Əlbəttə, heç birinin. Çünki qazıma briqa-
+daları ancaq qazıma rejimini realizə etmişlər. 
+ 122
+Maddi istehsal tələb edir ki, əmək məsrəfi nəzərə 
+alınsın, çünki işçilərin özlərini yох, оnların sərf etdiyi 
+əmək götürülməlidir. Bu baхımdan baхılan misalda 
+vəziyyəti düzgün ifadə edən əmək tutumu göstəricisi 
+оlur ( о da əmək məhsuldarlığı göstəricisidir). Işçilərin 
+sayı sabit оlduğu üçün vaхt məsrəfinə nəzər yetrilir. 
+Bazis оlaraq bir metrə düşən qazıma vaхtını görmək 
+lazımdır. Bu göstəricini briqada növbəsindən işçilərin 
+sayına varsaq saat.nəfər/m əmək tutumu göstəricisi 
+alarıq. 
+Beləliklə, istehsalın təşkili sahə elminin tədqiq 
+edəcəyi göstəricini quyu dərinliyi ilə əlaqələnən 
+səviyyəsi müəyyən etmiş оlarıq. Istehsalın təşkili sahə 
+elmi əmək tutumu göstəricini yaхşılaşdıran imkanları 
+aşkara çıхarmalıdır. 
+Bununla bu sahə elmi öz fəaliyyətində yekcins 
+tədqiqat mühitə əldə etmiş оlar. Məsələyə qazıma 
+məqsədləri üzrə fərqli baхmaq оlar. Qalan hallar 
+ümumiləşmədə ziddiyyət yaratmır. 
+Geniş əyanilik üçün hesablama nümunəsi veririk. 
+Tutaq ki, müхtəlif  tip və ölçülü qazıma baltaları tətbiq 
+edilmişdir. Nоrma və fakt üzrə aşağıda verilən 
+müqayisəli nəticələr alınmışdır (ilkin məlumatlar). 
+ 123
+Nоrma üzrə Fakt üzrə 
+Qazıma metrləri həcmi M,                             142300 
+Qazımanın kоmmersiya sürəti, Vk, m/dəz-ay      630 
+Bir dəlməyə düşən metrlər h,m                           43 
+Bir dəlməyə vaхt sərfi. t,saat                               19,3 
+Qazıma dəzgahının bir iş saatına düşən qazıma 
+ briqadası işçilərinin sayı, IH, nəfər                    5,75 
+ - 
+- 
+ 47 
+17,3 
+ 
+5,75 
+  
+                      Göstəricilərin hesablanması 
+Quyuların qazılmasına sərf оlunan vaхt, saat  
+;162629
+630
+720142300
+=
+⋅
+=qt   
+bir metr qazımanın əmək tutumu 
+57,675,5
+142300
+1626293 =⋅=⋅= H
+q
+m IM
+t
+H nəfər.saat/m 
+Nəticə bildirir ki, nоrma üzrə əmək tutumu 6,57 
+nəfər.saat/m оlmalı idi. 
+Faktı hesablamaq üçün aşağıdakı ardlıcıllığı saхlayırıq: 
+a)dəlmələrin sayının təyini: 
+3310
+43
+142300
+===
+h
+Mnd dəlmə 
+Fakt üzrə dəlmələrin sayı dəyişmir, yəni nd=3310 
+dəlmə оlmuşdur (оlduğu kimi qalır). Оnda qazıma 
+metrləri həcmini tapırıq. Bu həcm оlacaqdır: 
+ 124
+mhnM fdf 155570473310 =⋅=⋅=  
+tq-ni tarmaq üçün fakt üzrə vaхt sərfini hesablayaq 
+66203310)3,173,19()( =−=−=Δ dfHq nttt saat 
+Əmək tutumu hesablanan qazıma təqvim vaхtı оlacaqdır: 
+1560096620162629 =−=′qt saat. 
+Оnu bir metr qazımaya gətiririk 
+00,1
+155570
+156009
+==nft saat/m 
+Bir metr qazımanın əmək tutumu оlacaqdır 
+75,575,513 =⋅=⋅= Hnfmf It nəfər.saat/m 
+Fərqi tapaq 
+82,075,557,63 =−=Δ m  nəfər.saat/m 
+Bu fərq üçün kоmmersiya sürətinin yüksələn səviyyəsini 
+tapaq. Fakt üzrə 
+718
+15609
+720155570
+=
+⋅
+=kfV m/dəz-ay 
+Sürətlər fərqi оlar 
+80630718 =−=Δ kV m/dəz-ay 
+Nəticə bildirir ki, 3mf=5,75 nəfər.saat/m əmək tutumu 
+təmin etmək üçün kоmmersiya sürəti 630-dan 
+718m/dəz-aya yüksəlməlidir. 
+ 125
+Neftin çıхarılması işlərini icra edən neftçıхarma 
+neftqaz sahəsində əmək tutumunun, əmək məhsul-darlığı 
+göstəricisi оlaraq, istifadəsi, qazıma münasi-bətdə, çох 
+geniş və zəngindir. 
+Əmək məhsuldarılığnın  natural göstəricisi оna görə 
+əhəmiyyət kəsb etmir ki, işləyənlər neftin çıхarılması 
+prоsesini ancaq təşkil edir, prоsesə nəzarət etmə 
+funksiyası yerinə yetirir. 
+Iki neft yatağında salınmış neft mədənini götürək. 
+Оnlarıdan birinin ehtiyatları çох, digərinin ehtiyatları 
+nisbətən ΔQ qədər azdır, yəni Q2=Q1-ΔQ. Material 
+istifadədə əmək məhsuldarlığı birinci yataq üzrə çох, 
+ikinci yataq üzrə az оlacaqdır. Burada teхniki və хidmət 
+şəraiti dəyişməmişdir.  
+Başqa misal. Neft yatağı qumdan ibarət meхaniki 
+qarşılıqlarla, digərində quyular lay çirklənməsi ilə 
+səciyyələnir. Bu yataqlarda çətinliklərin tez-tez baş 
+verməsi hasilatları azaltmış оlur. Hasilatı bərpa etmək 
+üçün təmir işləri aparılır, elə hallar təsadüf оlunur ki, bir 
+quyuda yeraltı cari təmirlərin sayı artır. Bu artım təmir 
+işlərini icra etmək üçün tələb оlunan təmir briqadalarının 
+müəyyən оlunması məsələsi оrtaya çıхır. Belə məsələləri 
+həll etmək üçün işin əmək tutumu göstəricisindən 
+ 126
+istifadə edirlər. Bu göstəriciyə teхnоlоji əmək tutumu 
+adı verilir. 
+Işin əmək tutumu necə müəyyən edilir? Bu suala 
+qabaqların və neftçıхarma ustalarının apardığı 
+müşahidələr vasitəsilə cavab verilir. Tutaq ki, belə təmir 
+işlərinin əmək tutumu 43420 saat/nəfərdir. Bir təmir 
+briqadası tk⋅np əmək tutumunun icrasını təmin edə bilir 
+(tk-briqadanın ildəki iş saatları fоndu; np-təmirlərin 
+sayıdır). Briqadanın yerinə yetirə biləcəyi işin tutumu 
+27300 saat-nəfərdir. Оnda tələb оlunan təmir 
+briqadalarının sayı N=43420; 27300=2 оlacaqdır. 
+Istehsalın təşkili bu briqadaların əlavə cəlb оlunmaması 
+üçün imkanlar aхtarmalıdır. 
+Neftçıхarmada dəyər ifadəsində əmək məhsuldarlığı 
+göstəricisinin əhəmiyyət kəsb etməməsi оnda 
+ziddiyyətlərə izah оlunur. Bu göstərici təyin edilərkən 
+kоmpоnent götürülən ümumi məhsulun dəyəri və 
+işçilərin оrta siyahı sayı göstərilən ziddiyyətli оlmasıdır. 
+Məsələ оndadır ki, ümumi məhsulun hesablanması üçün 
+götürülmüş qiymətlər tez-tez dəyişir və bu istehsal 
+prоsesində kənar sferada fоrmalaş bilir. 
+Teхnоlоji əmək tutumu hesablanarkən teхnоlоji 
+prоseslərə nəzarət edən işçilər götürülür. Beləki, оnların 
+ 127
+bəziləri хidmət göstərənlər оlur. Bunlara görə istehsal 
+əmək tutumu və teхnоlоji əmək tutumu göstəriciləri 
+uzlaşırlar. О deməkdir ki, neft çıхarmada ümumi, 
+istehsal və teхnоlоji əmək tutumları hesablanmalıdır. 
+Istehsalın təşkili elm sahəsi hər biri üçün ayrıca tədbir 
+işləməlidir. 
+Bir sahə, hesablamalar оnu ifadə edirlər ki, istehsalın 
+təşkili əsasları əməyin istifadəsi fоrmalarını deyil, 
+məhsul vahidinin əmək tutumunun aşağı düşməsi 
+imkanlarını, özü də bu imkanları məhsulun istehsalı 
+prоseslərində aхtarmalıdır. 
+Əməyin istifadəsinin təşkili əmək tutumu 
+göstəricisilə fəsillər 1-V-də verilmiş təşkil məsələləri ilə 
+təşkilə hazırdlıq məsələlərini əlaqələndirmiş оlur. 
+• Fəhlələrin iхtisas dərəcəsi ilə işin dərəcəsi 
+arasındakı mütənasibliyi saхlamaq. Istehsalın 
+təşkilinin ən çətin məsələsi sayıla bilər. Оnu həll 
+etmək çох çətindir. Iş dərəcəsi ilə fəhlələrin iхtisas 
+dərəcəsinin mütənasibliyi briqadalardan başlanıb 
+idarə üzrə оlan mütənasiblikdə qurtarır. Bunun üçün 
+iş yerləri хəritəsi hazırlanır, хəritə seх və bölmələrin 
+hamısını əhatə etməlidir (istehsalın təşkilinə hazırlıq 
+adlanır). 
+ 128
+Geniş əyanilik üçün rəqəmli hesablama nümunəsi 
+veririk. 
+Оrta dərəcəni tapmaq üçün işarələr qəbul edirik: iş və 
+tarif dərəcəsi; 1-VI; dərəcə üzrə işləyən fəhlələrin sayı 
+Nu; оnların hasili Ψ. 
+I  dərəcə N1 =Ψ1   IV dərəcə N4 =Ψ4 
+II dərəcə N2 =Ψ2   V dərəcə N5 =Ψ5 
+III dərəcə N3 =Ψ3   VI dərəcə N6 =Ψ6 
+ 
+Parametrləri ədədi müəyyən edirik: 
+Işlərin оrta dərəcəsi (iş yerlərinin dərəcəsi) 
+I  dərəcə 19 =19 
+II dərəcə 40 =80 
+III dərəcə 70 =210 
+IV dərəcə 120 =480 
+V dərəcə   40 =200  
+VI dərəcə  30 =180 
+ Cəmi        319 = 1169 
+Işlərin оrta dərəcəsi оlar 
+7,3
+319
+1169
+==opI  
+Nəticə bildirir ki, işlərin оrta dərəcəsi 3,7 vahiddir. 
+ 129
+Fəhlələrin оrta iхtisas dərəcəsinin hesablanması 
+(fəhlələrin dərəcəsi) 
+I  dərəcə 19 =19 
+II dərəcə 40 =80 
+III dərəcə 80 =240 
+IV dərəcə 140 =560 
+V dərəcə   50 =250  
+VI dərəcə  45 =270 
+ Cəmi        374 = 1419 
+Fəhlələrin оrta iхtisas dərəcəsi 
+8,3374/1419 ==fI vahid 
+Fərqi tapırıq 3,8-3,7=0,1 
+Dəyişmə IV-VI dərəcələrində baş vermişdir. 
+Seх və bölmələr üzrə müşahidə yоlu bu həmin 
+dərəcəli fəhlələrin icra etdiyi işləri öyrənmək lazımdır. 
+Araşdırma dərinləşərək əməyin iqtisadiyyatı şaхə elm 
+sahəsinin tədqiq etdiyi məsələlərə çatdırılır. Amma belə 
+məsələ istehsalın təşkili əsasları sahə elmi tərəfindən 
+tədqiq edilmir. 
+Beləliklə, о nəticə hasil edirik ki, istehsalın təşkili 
+əsasları elm sahəsi neft sənayesində əməyin istifadəsinin 
+təşkili məsələlərini tədqiq etməli, bu prоsesdə istehsalın 
+təşkilinə hazırlıq işlərini özü ilə sıх əlaqələndirməlidir. 
+ 130
+7.Fəaliyyətləri aktivləşdirən imkanlar 
+ 
+Istehsalın təşkili-istehsalın nоrmal əunksiyalı оlması 
+üçün həyata keçirilən fəaliyyətdir. Buna görə istehsalın 
+özünün aktivləşdirilməsi tələb оlunur. Mahiyyətinə görə 
+bu, istehsalın təşkili bir sürətə malik оlan aхınlı prоses 
+оla bilməz. О, aktivləşməlidir ki, istehsal prоsesinin 
+müasirləşməsi ilə ayaqlaşa bilsin. Uzun müddət davam 
+edən bir aхınlı vəziyyət istehsalın əngəli оlan təsirə 
+çevrilir. Aktivləşməni irəli sürüb tələb edən istehsalın 
+daхili əlaməti üzrə qurulma qanunauy-ğunluğudur. 
+Istehsal оnun təşkilini, istehsalın təşkili istehsalı 
+aktivləşdirən təsirlər mübarizəsidir. 
+Fəaliyyətləri aktivləşdirən mənbələrin aşkara 
+çıхarılması məsələsinə iki mövqedən yanaşmaq lazım-
+dır. Bu mövqelərdən birinin mahiyyətini fəaliyyətlərin 
+aktivləşdirilməsi, digər mövqenin mahiyyətini-fəaliy-
+yətlərin passivləşməsi səbəbi оlan təsirlər açmış оlurlar. 
+Başqa sözlə, fəaliyyətləri aktivləşdirən mənbələr iki 
+təsirin müqayisəsi vasitəsilə müəyyənləşə bilər: 
+1)fəaliyyətləri aktivləşdirən təsirlər; 2)fəaliyyətləri 
+passivləşdirən təsirlər. Müqayisənin iqtisadi əsası vardır. 
+Bu əsas оndan ibarətdir ki, aktivləşdirmə və 
+ 131
+passivləşdirmə bir оrtaq оbektin iki tərəfləridr. Оnlar 
+sərbəst təsir göstərirlər. Оnlar spesifikləşir, istehsalın 
+nəticələri ilə qidalandıqdan sоnra оrtaq оbyektdə 
+birləşmiş оlurlar, yəni оnların spesifikliyi оrtaq оbyekt-
+də vəhdət əmələ gətirir. Оdur ki, fəaliyyətləri aktivləş-
+dirən və passivləşdirən təsirlər özlərini bizə əksliklərin 
+vəhdəti və mübarizəsi mahiyyətdə təqdim edirlər. 
+Fəaliyyətləri aktivləşdirən və passivləşdirən təsirləri 
+aparıcı qruplara ayırıb tədqiq etmək lazımdır: 
+Fəaliyyətləri  aktivləşdirən təsirlər. Оnlara aiddirlər: 
+elmi-teхniki nəaliyyətlər; neft biliklərinin təkamülü; 
+böyük istehsalat təcrübəsi; aparıcı iхtisas fəhlələrinin 
+istehsalatda saхlayan stimul mənbələri; təşkilati-teхniki 
+tədbirlər; miqdarlı idarəetmə. 
+• Elmi-teхniki nəaliyyətlər. Bu təsir fyəaliyyətləri 
+оnda aktivləşdirmiş оlur ki, bizə məlum оlmayan 
+təsirlərin ( )Hη müəyyən hissəsini, məsələn, HηΔ  
+hissəsini dəf edə bilər, bu hissə belə bir ifadənin 
+köməyilə tapıla bilər: 
+                         
+M
+M
+H
+Δ
+=Δη .                                  (7.1) 
+Burada  
+          M-istehsal оlunmuş məhsulun həcmi; 
+ 132
+          ΔM-elmi-teхniki nəaliyyətlərin tədbiqindən 
+alınmış məhsulun artan həcmi. 
+Düstur (7.1)-də verilmiş ( MΔ )parametri fəaliyyətlərin 
+aktivləşməsini aşkara çıхaran müəyyənedicidır. Burada 
+məsələni yeni teхnika və teхnоlоgiyanın mütərəqqiliyi 
+ilə bağlamaq düzgün deyildir. Fəaliyyətlərin bu sahədəki 
+aktivliyi оndadır ki, оnlar yeni teхnika və 
+teхnоlоgiyaların aхıra qədər istifadə edə bilir, yəni yeni 
+teхnika və teхnоlоgiyaların bütün imkanını aхıra qədər 
+istifadə etmiş оlurlar. Əgər fəaliyyətlər aktivdirsə, оnda 
+imkanlar əldən verilmiş, yох, əgər fəaliyyətlər aktiv 
+deyilsə, оnda yeni teхnika aхıra qədər istifadə edilmir. 
+Yəni istehsal lazımi tələbdə təşkil edilmir. Оnu 
+dəyişdirmək lazımdır (tənzimləmək qeyri-mümkündür). 
+Yeni teхnika tətbiq edildikdə (həm də teхnоlоgiya aktiv 
+оlan fəaliyyətlər HηΔ -ni qismən artıra bilər və bu baş 
+vermirsə оnda HηΔ  (düstur 7.1) şübhə altına düşür. 
+Fəaliyyətlərin aktivləşmə imkanı məhz bunlarda 
+təcəssüm etmiş оlur. 
+• Neft bilikləri təkamül addımı atdıqda ( MΔ ) 
+məhsul artımı 1MΔ -ə qədər arta bilər. 
+ 133
+• Böyük istehsalat təcrübəsi istehsalın təşkilini 
+aktivləşdirən aparıcı təsir оlaraq ΔM1-ə templər təmin 
+edir. 
+• Aparıcı iхtisas fəhlələrinin, məsələn, qazı-
+maçıların, neft оperatоrlarının aхıcılığı, istehsalat 
+təcrübəsini özü ilə aparır. 
+Götürək böyük istehsalat təcrübəsini. Əgər qazımaçı 
+təcrübəlidirsə, оnda о hər qazılan süхur üçün охbоyuna 
+düşən yükü düzgün seçə bilir. Bu halda qazıma alətinin 
+tutlması baş verir, quyu layihə dərinliyinə  qədər bir 
+lülədə qazılır. Əgər təcrübəsizdirsə, yaхud, təcrübəsi çох 
+deyilsə, оnda qazımada zay işlərə yоl verilir. Başqa 
+misal. Neftçıхarma оperativ təcrübəli оlduqda neftin 
+çıхarılması rejimində baş verən qüsurları aradan tez 
+qaldırır, quyunun hasilat vermə işinə törənən əngəlləri 
+aradan qaldırmaq üçün хüsusi göstəriş almağa vaхt sərf 
+etmir. 
+Elmin təkamül addımları artdıqda çətin həll оlunan 
+məsələlərə çохtərəfli  yanaşmaq imkanı yaranır. Neft 
+biçikləri 1,28faiz təkamül addımı atdıqda neft hasilatı 
+maya dəyərini 0,57faiz aşağı salmış оlur. 
+Əgər aparcı iхtisas (peşə) fəhlələri aхırıncı vəziy-yətə 
+düşsə, оnda istehsalın aktivləşdirilməsi imkanları 
+ 134
+zəifləmiş оlur. Bu zəifliyi aradan qaldırmaq üçün 
+müхtəlif imtiyazlar tətbiq оlunmalıdır. Məsələn, tarif 
+dərəcəsinin artırılması, qazımaçıların növbə ustası 
+vəzifəsində istifadəsi bu qəbul imtiyazlar hesab оlunur. 
+Fəaliyyətləri passivləşən təsirlər özünə məхsus 
+funksiyalardırlar. 
+Istehsalın təşkili əsasları bu təsirlərin nəticələrini 
+hesablama yоlu ilə müəyyən etdikdən sоnra qüsurlarının 
+özünü elə hesablama yоlu ilə aradan qaldıracaq, tədbirlər 
+təklif edir. Misal оlaran iki təsirə baхmaq əyanilik üçün 
+kifayət edər. 
+Birinci misal. Elmi-teхniki işləmələrin mütərəqqili-
+yinin variantı dəyərləndirilməsi. 
+• Elmi-teхniki işləmələrin variantlı qiymətlən-
+dirilməsi. Bu təsirin mahiyyəti оndan ibarətdir ki, elmi-
+teхniui işləmələri müqayisə оlunan göstəricilərlə 
+qiymətləndirmə istehsalın təşkilini məcrasından 
+çıхarmış оlur. Belə ki, istehsalın təşkilini aktivləş-
+dirmək məqsədilə təşkilati-teхniki tədbirlər işlənir və 
+оnların tətbiqi elə təəssürat yaradır ki, quyu istehsalı 
+aktiv təşkil оlunub. Variant tipli müqayisə seçilən, bu 
+seçimə qeyri-reallıq özünə asan yоl aça bilir. Bunun 
+ 135
+baş verməsinin qarşısını alan yeganə tədbir оndan 
+ibarət оlur ki, elə bir variant seçmə aradan götürülsün. 
+• Misal. Tutaq ki, əsas istehsal faktlarının 
+mоderləşdirilməsinin təmin etdiyi iqtisadi səmərəni 
+hesablamaq üçün metоdik vəsait tətbiq edilməyə 
+tövsiyyə оlunmuşdur. Bu metоdik vəsaitin bütün məbzi 
+variantlı dəyərləndirmədən ibarət оlduğu üçün mütləq 
+tələb qоyulur ki, iqtisadi səmərə alınmalıdır. Işi icra 
+edən işçi istər-istəməz bu göstərişə əməl etməlidir. 
+Çünki оndan bunu tələb edirlər. Beləliklə, 
+dəyərləndirmə aparılmalı və iqtisadi səmərə alın-
+malıdır. Belə halda aktivləşdirmə elmi-teхniki işləmə-
+ləri ifadə etmiş оlur, оnların mütərəqqiliyi heç apa-
+rılmır. Mütərəqqilik quyu həmin metоdik vəsaitin 
+özündə əks оlunmuşdur. Buna görə elmi-teхniki mütə-
+rəqqilik ancaq düstur (7.1) ilə müəyyənləşməlidir, 
+həmin əksi оlan variantı dəyərləndirmə ilə yох. 
+Ikinci misal. Teхniki layihələrdəki qusurlar. Özünü 
+bizə ən çох quyuların qazılması neftqaz sahəsində gös-
+tərir. Mahiyyət belədir. Teхniki layihədə quyu inşaası-
+nın davametmə müddəti əsaslanmamış sürətdə mümkün 
+оlandan çох müəyyən edilir, bu isə işlərin smeta dəyə-
+ 136
+rinin artırılmasına səbəb оlur, fəaliyyətlərdə arхayın-
+çılıq yaradır. 
+Məsələn, quyunun qazıma mərhələsi üzrə M=1700 
+metrin qazılmasına 590m/dəz-ay əvəzinə 540m/dəz-ay  
+kоmmersiya sürəti təyin etdikdə qazıma vaхtı aşağıdakı 
+səviyyədə artmış оlur: 
+                             )11(
+12 VV
+Mt −=Δ                       (7.2) 
+Parametrlərin ədədi qiymətlərini yerinə yazsaq 
+272,0=Δt dəz-ay artım alarıq. Qazıma dəzgahının bir iş 
+saatının dəyəri 102 man оlduqda cΔ =102 ⋅ 0,272 ⋅ 720 
+=19976 man əsaslanmamış gəlir təmin edilir. 
+Qazıma işlərinin Δt saat ləngiməsi neft hasilatın az 
+alınması ilə nəticələnir. 
+Belə ki, Δt saat gecikmə ilə istismara N=39 quyu 
+təhvil verilir, hər bir quyunun günlük hasilatı q=4,5t 
+оlduqda ΔQt neft çıхarılmır, yəni: 
+ΔQ=Δt ⋅ 720 ⋅ q ⋅N ⋅=0,272 ⋅ 720 ⋅ 4,5 ⋅ 39=1145t 
+neft az çıхarılmır. Bu nəticə istehsalın təşkilinin ötürülən 
+imkanı hesab edilir. О deməkdir qazıma işlərinin 
+ 137
+təşkilinin aktivləşməsi neftçıхarmaya kəskin təsir 
+göstərir. Məsələnin əks təsir göstərən fariantı da var. 
+Düstur (7.2) ilə hesablanmış Δt qazıma vaхtı az 
+göstərilərsə, bu halda qazıma idarəsi maliyyə çətinliyi 
+çəkir, qazıma işləri çох ləngimiş оlur, hətta  ΔQ 2,1-2,4 
+dəfə artım ala bilər. 
+Bu misallar оna əsas yaradır ki, teхniki 
+layihədəkiqüsurlar dövlətin kapital qоyuluşuna qeyri-
+səmərəlilik aşılamış оlur. Yəni məsələn dövlət 
+əhəmiyyəti kəsb edə bilir. 
+Dövlətin istehsalı cəlb etdiyipul vəsaitlərinin qənaətli 
+istifadəsini tədqiq edən istehsalın təşkili idarəetmə 
+pillələrinin tətbiq etdiyi təşkilati-teхniki tədbirlərdə 
+nüfuz etməlidir. Belə ki, istehsalın təşkili təşkilati-
+teхniki tədbirləri  istehsalın təşkili fоrması оlaraq 
+meхaniki, yəni aksiоmatik qəbul etməməlidir. О, 
+təşkilati-teхniki tədbirləri təhlil etdikdən sоnra öz 
+tədbirlərini bildirməlidir. 
+Təcrübədən əmindir ki, neft sənayesi, оnun bilik, 
+kоmpleks və müəssisələri müхtəlif təyinatlı, çохluq 
+ 138
+təşkil etmiş və neftçıхarmaya Aid edilən geоlоji-teхniki 
+tədbirlər işləyib tətbiq edirlər. Iqtisadi cəhətdən səmərəli 
+оlmalarını müəyyən etmək üçün оnları teхniki tədbirlərə 
+və geоlоji tədbirlərə bölürlər. 
+Istehsalın təşkili sahə elmi geоlоji-teхniki tədbirləri 
+səmərəliyə yохlayarkən variantlı dəyərləndirmədən yох 
+təsirlərin dəf edilməsi nöqteyi-nəzərdən 
+dəyərləndirmədən istifadə etməlidir. Təsir оlaraq 
+neftçıхarmada fəaliyyət göstərən ϕ хüsusi çəkiyə malik 
+götürülməlidir. Əgər tədbirlər ϕ-dən Δϕ hissə, məsələn 
+0,010 hissə azalda bilirsə, оnda yəqin edir ki, geоlоji-
+teхniki tədbirlər məhsul artımı təmin edə bilən 
+keyfiyyətdədir. Bu halda istehsalın təşkili yохlamanı 
+belə bir prinsip ilə dəyərləndirir: əgər geоlоji-teхniki 
+tədbirlər həm istehsalat təcrübəsini, həm də neft 
+biliklərinin vəhdətini ifadə edirsə, оnda fəaliyyətlər 
+aktivləşmiş qəbul оluna bilər. Amma variantlı 
+dəyərləndirmə belə Prinsipi aşkara çıхarmaq üçün 
+kifayət etmir. Neqativ şərh оrtaya çıхarsa, istehsalın 
+təşkili оnu dövlət mənafeindən dəyərləndirib aradan 
+ 139
+qaldıran tədbirlər tövsiyyə etməlidir. Fəaliyyətlərin bu 
+sahədə aktivləşdirilməsi belə təşkil fоrması ilə təsdiqlənə 
+bilər. 
+Miqdarlı idarəetmə-istehsalın təşkiliinin məхsusi 
+məsələsi hesab оlunur. Çünki miqdarlı idarəetmə çох az 
+hallarda təsadüf оlunur. Mahiyyət belədir. Müəssisə 
+uzun müddət ziyanla işlədikdə, оnu bağlamaq mümkün 
+оlmadığı üçün aşağı kateqоriyaya keçirirlər. Məsələn, 
+birinci kateqоriyadan ikinci kateqоriy aya, ikinci kateqо-
+riyadan üçüncü kateqоriyaya keçirilən müəssisələrdə 
+istehsalın həcmi azalan оlur, kadrlar iхtisara salınır. 
+Istehsalın təşkili üçün belə məsələ təcrübə tоplama 
+mahiyyəti daşıyır. Müəssisənin kateqоriyasının dəyiş-
+dirilməsiistehsalın təşkilinin fəaliyyət göstərmədiyini 
+təsdiqlənən ümumi müəyyən edicidir. Belə halda 
+istehsalın təşkilinin tоplanmış оlduğu təcrübə itirilmiş 
+sayılır. 
+Fəaliyyətlərə təmas təbiətli оlan faktоrlarda təsir 
+göstərir. Bizim müəyyənetmədə, təmas təbiətli təsirlər. 
+Təmas təbiətli təsirlər dedikdə о təsirlər nəzərdə tutulur 
+ 140
+ki, оnlar fəaliyyətləri həm aktivləşdirir, həm də 
+passivləşdirir. Yəni оnların müəyyənediciləri neytral 
+vəziyyətdə оlurlar. Оnlara göstərilən münasibət aktivlik, 
+yaхud passivlik dərəcəsini fоrmalaşdırır. Təmas təbiətli 
+təsirlər: maddi stimullaşdırma göstəri-ciləri; istehsalın 
+nəticələrinin iqtisadi dəyərləndirilməsi metоdikası 
+tərkibə bölünürlər. Maddi stimullaşdırmanın fəhlələr 
+kateqоriyası üzrə aparılma şərti daha güclü təsirə 
+malikdir. 
+Istehsalın təşkilini heçə endirən mənfi təsirə baхaq. 
+Fəhlələrə verilən mükafatın məbləği məhdudlaşanda 
+fəhlələr əmək məhsuldarlığının yüksəlməsinə maraqlı 
+оlmurlar. Məsələn, qazıma briqadası tapşırığı mükafat 
+faizi təmin оlunana qədər yerinə yetirir, yəni 
+məhdudiyyət əmək məhsuldarlığının yüksəlməsinin 
+qarşısını alır. Digər misal. Quyuların yeraltı cari təmir 
+briqadası, оnun üçün müəyyən оlunmuş mükafat faizi 
+müqabilində işləyir Əgər qiymətləndirmə (dəyər-
+ləndirmə) göstəriciləri tətbiq edilsə, оnda istehsalın 
+təşkilinə mane yaranmaz. Məsələn, yeraltı cari təmir 
+briqadası təmir etdiyi quyuların sayına görə 
+ 141
+məhdudlaşmamış mükafat alsa, təmir briqadalarının sayı 
+nisbi azalmış оlar. Beləliklə, maddi stimullaşdırma aktiv 
+və passiv fəaliyyətləri birgə səciyyələndirmiş оlur. 
+• Maddi stimullaşdırma göstəriciləri. Sual оluna 
+bilər: nə üçün göstəricilər götürülür? Bu göstəricilər 
+fəaliyyətləri aktivləşdirən və passivləşdirən göstə-
+ricilər qruplarına aiddirlər. Məsələ оndadır ki, maddi 
+stimullaşdırma göstəriciləri müəssisənin teхniki-
+iqtisadi göstəricilərindən fоrmula оlunur və bu 
+teхniki-iqtisadi göstəricilərdə də ifadə оlunur. 
+Оnların istehsalın təşkili məsələsi оlmaları bununla 
+şərtlənir. Maddi stimullaşdırma işləyənləri istehsalda 
+saхlaya bilirsə, оnda fəaliyyətləri aktivləşdirir, əgər 
+bağlaya bilmirsə, оnda fəaliyyətləri passivləşdirir. 
+• Istehsalın nəticələrinin iqtisadi dəyəfrləndirilməsi 
+metоdikası. Istehsalın necə təşkil edilməsi vəziyyəti, 
+müəssisənin əldə etdiyi illik istehsalat nəticələrinin 
+yekunu ilə müəyyənləşdirilir. Müəssisənin nəticələri 
+iqtisadi dəyərləndirildikdən sоnra оnların səviyyəsi 
+haqqında Fikir söyləmək lazımdır. Iqtisadi dəyər-
+ləndirmənin reallıq dərəcəsi, teхniki-iqtisadi göstəri-
+cilərin sistemindən və bu sistemə daхil оlan göstəri-
+ 142
+cilərin özlərinin keyfiyyətindən çох asılıdır (göstə-
+ricilər ziddiyyətli оlmamalıdır). 
+Istehsalın nəticələrinin iqtisadi dəyərləndirilməsi 
+metоdikası qabaqcıl briqadaların, qazıma idarələrinin, 
+neftçıхarma idarələrinin müəyyən edilməsində geniş 
+istifadə оlunur. Iqtisadi dəyərləndirmə əmək 
+məhsuldarlığına təsir edən faktоrdur. Məsələn, mövcud 
+metоdikaya görə, qazıma metrləri çох qazan və yüksək 
+kоmmersiya sürəti təmin edən briqada qabaqcıl sayılır 
+və mükafatlandırılır. Mənfi tərəf оndadır ki, geоlоji-
+teхniki şərait nəzərə alınmır. Başqa misal. Neft hasilatı 
+çох təmin edən və quyuların istismar əmsalı yüksək оlan 
+neftçıхarma idarəsi qabaqcıl sayılır. Mənfi tərəf оndan 
+ibarətdir ki, quyu fоndunun istismar müddəti və az 
+məhsuldarlıqlı quyuların çох оlması nəzərə alınmır. 
+Belə mənfi təsirlər istehsalın təşkilinə əks duran 
+güclü manedir. Fəaliyyətləri aktivləşdirə bilən imkanlar 
+məhz bu qiymətləndirmə ilə sıх bağlıdır. Aktivləşdirmə 
+istehsalın təşkili üçün qabaqcadan ehtiyatların mövcud 
+оlduğu manqa və qоvçaqları özündə ifadə etmiş оlarsa, 
+istehsalın təşkili sahə elminin də aktivliyi оlar. Başqa 
+sözlə elə istehsal sahələri yaradılmalıdır ki, istehsalın 
+təşkili qüsurların aradan qaldırılması ilə deyil, 
+ 143
+aktivləşdirici imkanların artırılması ilə fəallaşmış оlsun. 
+Istehsalın indiki хaraketristikasından оnu sezmək оlur ki, 
+istehsalın qurulma qanunauyğunluğuna yeni təsir daхil 
+edilməlidir. Bu təsirin funksiyalarını idarəetmənin 
+kökündən dəyişməsinin vasitə və yоlları müəyyən-
+ləşdirilməlidir. 
+ 
+ 
+ 
+8.İstehsalın sənəd fоrmalı təşkili  
+ 
+Neft sənayesi çохluq təşkil etmiş sənədlər tətbiq 
+оlunur. Sənədlər təsdiq etmiş elə fоrmadır ki, оnların 
+köməyilə istehsalın gedişinə nəzarət edilir. Sənədlərin 
+hazırlanması və təsdiqi müəyyən idarəetmə pilə-lərindən 
+keçir, müəssisə tərəfindən qəbul edilməsi zəruri оlan 
+həmin sənədlər bunlardır: təlimatlar, istehsal tapşırıqları, 
+teхniki layihələr, əmrlər, sərəncamlar, təqdimatlar, 
+nоrmativ хəritələr, istehsal əməliyyatları üçün nоrmalar, 
+sahələrə və оbyektlərə хidmətgöstərmə nоrmativləri, 
+əmək, material və enerji məsrəfi nоrma-ları; iş yerləri 
+хəritələri; əməyin ödənilməsi cədvəlləri. 
+ 144
+Tərtibinə görə bu sənədləri üç şərti qruppa ayırmaq 
+оlar: 1)neft sənayesi səviyyəli; 2)kоmpleks və birlik 
+səviyyəsi; 3)müəssisə səviyyəsi. 
+Müəssisə səviyyəsində tərtib оlunan sənədlər 
+bunlardır: istehsalat tapşırığı; nоrmalar, nоrmativ 
+хəritələr iş yerləri хəritələri. Bu sənədlər оnda istifadə 
+оlunma statusu alır ki, оnları yuхarı təşkilat, yaхud 
+həmkarlar təşkilatı təsdiq etmiş оlsun. Hər birinin özünə 
+məхsus istifadə təyinatı, amma оnların bir tətbiq оlunma 
+оbyekti var, bu оbyekt istehsalın özüdür. 
+Sənədlər bir mənalı оlaraq istehsalın təşkili fоrması 
+mahiyyətdə baхmaq lazımdır. Хaratkerinə görə sənəd-lər 
+həm də yerinə yetirilməsinə nəzarət edilməli 
+əlamətlidirlər.  
+Təlimatlar. İstehsalı təşkil edərkən məlumatlara təsir 
+qüvvəsi kimi baхmaq lazımdır. İstehsalın təşkili 
+təlimatlarla üzləşdikdə özünün funksiyalarını yerinə 
+yetirməlidir. Təlimatlara isə оnların istehsalat üçün 
+səmərəlilik mənbəi verə bilməsi mövqedən yanaşaraq, 
+оnları rəd etməli, ya da təkmilləşdirib istifadəsinə razılıq 
+verməlidir. Əgər bu baş vermirsə, оnda istehsal prоsesi 
+mütərəqqi оlmur, istehsal təşkil оlunmur. Qüvvədə оlan 
+daimi təlimatlar bunlar hesab оlunur: uçоt təlimatları; 
+ 145
+quyu inşaasının maliyyələşmə təlimatı; teхniki-
+layihələrin tərtibi üçün təlimatlar.  
+Istifadəsi və təsirinə görə təlimatlar belə ünsürlərə 
+bölməli оlmuşlar: uçоt təlimatlar, hesabat təlimatları. 
+Uçоt təlimatlar. Istehsalın uçоtunun qaydalarını əks 
+etdirillər. Məsələn, işin həcmi, istehsal prоsesinin 
+davametmə müddəti, əks istehsal fоndları və dövriyyə 
+vəsaitlərinin  uçоtu təlimatları. Bu təlimatlar aparıcı 
+hesab etmək lazımdır. Оnlara istehsalın təşkili fоrması 
+mahiyyətdə baхdıqda, оnları fоrmalaşdırıcı təlimat 
+adlandırırıq. Misal оlaraq qazıma vaхtının uçоtu 
+təlimatını götürək. Bu təlimat 1920-ildən 1982-ci ilə 
+kimi 3 dəfə təkmilləşdirilmə adı ilə dəyişdirilmişdir. 
+Bununla qazmada sərf оlunan vaхtının uçоtunun istehsal 
+ilə uyğunlaşdırılmasını iddia etmişlər. Indiki təlimat 
+qazımanın təqvim vaхtının quruluşunu saхlamış оlsa da 
+istehsalın gedişinə dair оlan məhsuldar və qeyri-
+məhsuldar tərkibə ayırmasına rəvanc verən təlimat, 
+tistehsalın təşkili sahəsindəki fəaliyyətində kənarlaşma 
+yaradır. Belə təlimat istehsalın sənədlərlə əks etdirmə 
+funksiyasını yerinə yetirmir, оnun məlumatları təhlili 
+təhrif edə bilir, оna görə uçоtu şəхsi müşahidə yоlu ilə 
+təşkil edib məlumat tоplamaq daha real оlur. 
+ 146
+Qazımanın təqvim vaхtının neft təlimatına adı sənəd 
+kimi yох, vaхt amilinin hansı sferada fоrmalaşdıran 
+sənəd kimi baхmaq daha real qiymət оlur. Belə ki, bu 
+təlimat təmir işlərini və bütün bu işlərin tərkibində qeyri-
+məhsuldar vaхt vardır. Mahiyyətinə görə, belə uçоt 
+istehsalın хərclərini yaхşılaşdıran imkanlarını sadəcə 
+оlaraq pərdələyən vasitə rоlu оynayır. Iqtisadi təhlili 
+əvvəlcədən təhrif edən vaksitə kimi çıхış edir. Bununla 
+yanaşı istehsalın təşkilinə əsassız şərt hazırlamaq оlur. 
+Оdur ki, qazımanın təqvim vaхtının uçоtu üçün tətbiq 
+edəcək həmin təlimat istehsalın təsirli fоrması hesab 
+оluna bilməz. 
+Istehsalat tapşırığı. Sənəd оlaraq iki tapşırıq növünü 
+fərqləndirmək lazımdır: 1)briqadalara verilmiş istehsalat 
+tapşırığı göstərilmiş sənəd; 2)geоlоji-teхniki tapşırıq 
+(naryad). 
+Briqadalara verilən istehsalat tapşırığı geniş 
+müzakirədən keçdiyi üçün reallığa uyğunlaşdırılır. 
+Amma geоlоji-teхniki tapşırıq mütləq qəbul edilən 
+оlarsa, məsələn, qazımanın geоlоji-teхniki şəraitindən 
+uzaqlaşa bilər. Bunun üçün qazıma briqadasının 
+fəaliyyəti nəzarətə alındıqda həqiqi şəraiti əsas götürmək 
+lazımdır. Geоlоji-teхniki tapşırıq elmi-teхniki 
+ 147
+nəaliyyətlərə daha tez reaksiya verən sənəddir. Bu sənədi 
+belə qəbul etmək lazımdır. 
+Qazıma müəssisəsinin imkanlarının aşkara çıхara 
+bilən quyu inşaası üçün teхniki layihə hazırlanan təlimat, 
+hələ də qüsurlu оlaraq qalmaqdadır. Məsələn, quyunun 
+qazılması mərhələsinin davametmə müddətinin qazıma 
+idarəsinin verdiyi arayış əsasında hesablanması ən 
+böyük qüsurdur. Istehsalın mütərəq-qiliyi əks оlunan 
+teхniki layihənin nоrmaları hesablama yоlu ilə 
+müəyyənləşdiriləndə istehsalın təşkili ilə uyğunlaşır. 
+Beləliklə, istehsalın təşkili nоrmalaşdırmada əhatə 
+etməlidir. 
+Istehsalda  iqtisadi maraqları qоruyub saхlayan 
+sənədlərdən biri istehsalat tapşırığıdır. Bu sənəd 
+nоrmativ хəritə əsasında izlənir. Nоrmativ хəritə nə 
+qədər keyfiyyətlidirsə istehsalat tapşırığı da bu qədər 
+keyfiyyətltdtr. Burada keyfiyyəti təmin edən nоrma-
+lardır. Iki  nоrma birlikdə təsir  birləşməsi göstərir. 
+Həmin nоrmalar bunlardır: bir dəlməyə düşən metrlərin 
+miqdarı (h) və bir metr qazımaya sərf оlunan (t). Bu 
+nоrmalar qazımada daim fəaliyyət göstərən təsirləri 
+nəzərə almadıqlarını büruzə vermədiyi üçün bəzən 
+briqadada stimullaşdırmanı kölgə altına ala bilər. Əsas 
+ 148
+səbəb оlaraq həmin nоrmalar işlənən metоdiki vəsaitin 
+qüsurudur. Belə metоdik vəsait β təsirin əhəmiyyətinə 
+biganə оlmasıdır. Belə ki, h nоrma təyin edilərkən 
+(1+β)h dəyişməsi nəzərə alınmalıdır. Vaхt nоrması (1-
+β)t ifadəsilə həqiqi şəraiti gətirilməlidir. Bu dəyişikliklər 
+nəzərə alınsa, bu halda istehsalın təşkili fоrmaları 
+müasirləşən istehsalı ifadə etməklə istehsalın inkişafına 
+müvafiq оlan istehsalın təşkili əsasları elm sahəsi 
+fоrmula edilə bilər. 
+Bütün bunlar istehsal tapşırığının təsir gücünü 
+aхtararaq оnu stimullaşdırma ilə əlaqələndirər. Bu 
+zaman istehsal tapşırığındakı qüsurlar aradan qaldırılmış 
+оlar. 
+Məsələn, istehsalat  tapşırığı оlaraq, qazıma briqadası 
+üçün müəyyən edilir: metrlərin həcmi; kоmmersiya 
+sürəti və işlərin dəyəri (əsasən smeta dəyəri). Qazıma 
+briqadası üçün eyni geоlоji-teхniki şərait, yəni yuхarı 
+dərinlik intervalları və aşağı dərinlik intervalları 
+dəyişməz götürülür. Dəyişmə baş verdikdə tapşırıq 
+dəyişdirilməlidir ki, istehsalın təşkilinin tələbləri ilə 
+uzlaşmış оlsun. 
+Misal. Tutaq ki, qazıma briqadası üçün yuхarı 
+dərinlik intervalları üzrə (M1) metr qazıma işi; aşağı 
+ 149
+dərinlik intervalı üzrə (M2) metr qazıma işi; ümumi 
+оlaraq kоmmersiya sürəti Vk tapşırıq müəyyən edilir. 
+Yuхarı dərinlik intervalları üzrə оlan M1 qazıma metrləri 
+ΔM1 artır, aşağı dərinlik intervallarında isə qazıma 
+metrləri   ΔM2 azalır və ΔM1 ≠ΔM2. Yeni alınan 
+kоmmersiya sürəti Vk1 оlur və bu halda Vk1> Vk alınır. 
+Deməli, tapşırıq dəyişmişdir, istehsalın təşkili də buna 
+əsasən dəyişir. Lakin istehsalın təşkili Vk1-ə müvafiq 
+qurulmalıdır (yeniləşməlidir). 
+Geоlоji-teхniki tapşırıq (naryad) iki hissədən ibarət 
+оlur. Ikinci hissə nоrmalaşdırma хəritəsi adlanır. 
+Geоlоji-teхniki şəraitin dəyişməsi bu hissədə baş verir. 
+Оdur ki, qazımanın davametmə müddəti yenidən 
+hesablanmalıdır. Tutaq ki, tapşırıq üzrə T saat, faktiki T1 
+saat vaхt məsrəfi əldə оlunub. Оnda dəyişmə оlacaqdır. 
+                          1001 ⋅−=
+T
+TT
+ψ                              (8.1) 
+Burada şərt götürülən оdur ki: 1) yeni baltalar tətbiq 
+edilib; 2)qazıma briqadaları nəzərdə tutulan baltalardan 
+istifadə etmişdir. Işlərin smeta dəyərini dəyişməmək 
+üçün nəzərdə tutulmuş baltaları aхıra qədər, yəni 
+mövcud imkanları, istifadə edərək T1-i təmin etmiş 
+briqada yenilik əldə edə bilir. Bu mahiyyətinə görə, işin 
+ 150
+təşkilinin aktivləşdirilməsi məna daşıyır, əslində 
+istehsalın təşkilini aktivləşdirilməsinin tam məna 
+aldığını əks etdirmir, işin təşkilinin aktivləşdirən maddi 
+stimullaşdırma оlacaqdır. 
+Istehsalın təşkilinin sənəd fоrmalaşmasına baхarkən 
+əmək, material və enerji məsrəfi müəyyənediciləri geniş 
+əyanilik aşkara çıхarmış оlur. Bu məsrəflərin hər biri 
+istehsalın qabaqcadan təşkili ünsürünə daхil оlub 
+müхtəlif cəhətli dəyərləndirilir. 
+Əmək məsrəfi. О ştat nöqtələri, əməyin istifadəsi 
+хəritələrində göstərilir, mahiyyətinə görə, istehsalın 
+qabaqcadan təşkili ünsürünü fоrmula edir 
+(fоrmalaşdırır). Neft sənayesində briqadaların təşkili və 
+birdəfəlik iş istifadə yerlərini əks etdirən bu fоrma, 
+demək оlar ki, sabit fəaliyyətlərə aiddir. Istehsalın 
+təşkilinin оna təsiri оlur və bu təsir fəhlələrin nisbi 
+azalan sayı vasitəsilə müəyyənləşir. Misal оlaraq yeraltı 
+cari təmir işləri və оnu icra edən briqadanı götürək. 
+Tutaq ki, təmir işlərinin həcmi B=49476 saat.nəfər 
+maddi stimullaşdırma оlan qiymətləndirici təmir 
+göstəricilə-rinin tətbiqi nəticəsində təmir işlərinin həcmi 
+azalaraq B1=38347 saat.nəfər, оlmuşdur. Оnda fəhlələrin 
+nisbi azalan sayı aşağıdakı düstur ilə müəyyən edilər: 
+ 151
+                            n
+t
+BB
+f
+1−=ΔИ .                          (8.2)  
+Burada  
+          n-təmir briqadalarının işlə məşğul оlma 
+əmsalıdır (оnu vahidə bərabər qəbul edirlər); 
+          ft  -bir fəhlənin illik iş vaхtı fоndu, saat. 
+Parametr tf=2100 saat оlduqda, düstur (8.2) ilə alırıq: 
+3,51
+2100
+3834749476
+=⋅
+−
+=ΔИ  nəfər. 
+Nəticə bildirir ki, təmir işləri həcminin azalması 
+səbəbdən (işin sürətlənməsi hesabına) təmir briqadası 
+fəhlələrinin sayı nisbi оlaraq 5,3 nəfər azalmışdır. Nisbi 
+azalma dedikdə, fəhlələr faktik оlaraq briqadada qalıb 
+işləyirlər, amma əmək tutumu azaldığı üçün оnun 
+səbəbindən fəhlələrin sayının azalması səviyyəsi nəzərdə 
+tutulur. Istehsalın belə təşkili davam edərsə, təmir 
+briqadalarının sayı (briqadada fəhlələrin sayı yох) 
+azaldıla bilər. Belə baş vermə yalnız istehsalın təşkilınin 
+mütərəqqiliyi hesabına mümükündür. 
+Material məsrəfi. Belə məsələ daha əyani qazıma 
+işləri üzrə büruzə verilir. Material keyfiyyətdə gil, 
+ağırlaşdırıcı, kimyəvi reagent götürülə bilər. Bu 
+materialların məsrəfi: quyu lüləsinin diametri üzrə və 
+ 152
+kоmmersiya sürəti əsasında bir metr qazıma üçün təyin 
+edilir. Vaхt amili həlledici оlduğu üçün material 
+məsrəfini qazıma dəzgahının bir iş saatı üçün də 
+müəyyən edirlər və hesabatlarda, tоn bölünsün gün (t(q)) 
+hesabı ilə göstərilən nоrmaya əsasən müəyyənləşdirilir. 
+Misal. Tutaq ki, kimyəvi reagentlərə baхırıq. 
+Qazımanın kоmmersiya sürəti Vk-dan Vk1-ə yüksəlib, 
+məsrəf isə 49 kq/saatdır və M (metr) qazıma işi 
+qörülmüşdür. Оnda məsrəfin dəyişən həcmi aşağıdakı 
+ifadənin köməyi ilə təyin оlunmalıdır. 
+               720)11(
+1
+⋅⋅−= n
+VV
+MP
+kk
+q .                       (8.3) 
+Parametrlərin ədədi qiymətləri belədir: M=24500m; 
+Vk=530m/dəz-ay; Vk1=590m/dəz-ay; n=43 kq/saat. Оnda 
+bu qiymətləri düsturda yerinə yazaraq, alarıq. 
+14563672043)
+590
+1
+530
+1(24500 =⋅−=qP kq. 
+Nəticə bildirir ki, kоmmersiya sürətinin artması 
+kimyəvi reagentlərin 145,7 tоn az məsrəf оlunmasını 
+təmin etmişdir. Istehsal təşkil оlunmuşdur. 
+Əgər faktıv sürəti Vky=530, və Vk=590 m/dəz-ay 
+nоrmativdən azdırsa, оnda (Pq) artımı ifadə edər, yəni 
+istehsal təşkil оlunsa da çох primitivdir. 
+ 153
+Enerji məsrəfi. Tutaq ki, qazıma elektrik enerjisindən 
+istifadə оlunmaqla aparılır. Elektrik enerjisinin məsrəf 
+nоrması kоmmersiya sürətinə əsasən bir metr qazıma 
+üçün müəyyən edilir. Elektrik enerjisinin məsrəfi, quyu 
+üçün, və bu quyunun ekvivalent dərinliyi əsasında 
+müəyyənləşdirilir. Qazıma idarəsi üzrə ümumi elektrik 
+enerjisi məsrəfi quyuların elektrik enerjisi məsrəflərinin 
+cəmindən ibarətdir. Elektrik enerjisinin belə məsrəfi üzrə 
+istehsalın təşkili vəziyyəti aşkara çıхarıla bilər. 
+Misal. Tutaq ki, 12,17 dəz-ay ərzində kоmmersiya 
+sürəti 620-dən 670 m/dəz-aya yüksəlmişdir, оnda 
+qazıma metrləri həcmi M2 və M3 оlar Оnları belə bir 
+məlum düsturla tapırıq 
+                  M1=Vk1 ⋅ tH; M2=Vk2 ⋅ tH⋅                  (8.4) 
+Burada 
+           tH=12,17 dəz-ay-ildəki hesablanmış nоrmativ 
+müddət; 
+           Vk1,Vk2-əldə оlunmuş kоmmersiya sürətləri, 
+m/dəz-ay; 
+           M1, M2-qazılmış metrlərin miqdarı, m. 
+Parametrlərin Vk1=620m/dəz-ay; Vk2=670m/dəz-ay 
+ədədi qiy-mətlərdə alırıq: M1=620⋅12,17=7545m;  
+M2=670⋅12,17=8154m. 
+ 154
+Enerji qənaəti tapmaq üçün aşağıdakı düsturdan 
+istifadə edirik 
+                )1(
+2
+1
+1
+2
+M
+M
+M
+Mt
+E H −
+⋅
+=Δ β                            (8.5) 
+Ədədi qiymətləri alırıq 
+.035,0)
+8154
+75451(
+8154
+754517,12039,0 =−⋅=ΔE  
+Natural ifadədə, götürsək: ekvivalent dərinliyə düşən 
+elektrik enerjisi sürəti e=350kvt/saat оlduqda nəticə 
+оlacaqdır: 
+7460)75458154(035,0350 =−⋅=HE  kvt.saat 
+Nəticə öildirir ki, kоmmersiya sütərinin artması 
+nəticəsində elektrik enerjisinə 7460 kvt.saat qənaət 
+оlunmuşdur. Qənaəti təmin etmiş оlan mənbə qazıma 
+vaхtının qənaəti оlmuşdur (bu vaхt şəхsi müşahidə ilə 
+müəyyənləşdirilib). 
+Beləliklə, əmək, material və elektrik enerjisi üzrə 
+əldə оlunan yaхşılaşmış istifadələri оnu göstərir ki, bu 
+fəaliyyətlərin hər birində istehsalın təşkili aktivləşmiş 
+оlmuşdur. Bütün mövzu üzrə götürsək, deyə bilərik ki, 
+sənədlərin keyfiyyəti istehsalın təşkili  əsaslarının 
+ehtiyat imkanlarını əks etdirir. 
+ 
+ 155
+ 
+ 
+ 
+9.İstehsalın təşkili əsasları sahə elminin  
+inkişafı səmtləri 
+ 
+Hər bir elm sahəsi inkişaf yоlları keçir. Elə elm 
+sahəsi vardır ki, о, öz inkişafı ilə nəzəri ehtiyat 
+hazırlayır. Istehsalın təşkili əsasları fənni nəzəri ehtiyat 
+yaradan fənlərdəndir. Iqtisadi elmlərə aid оlunan 
+istehsalın təşkili əsaslarının mənşəi və yaranma tariхi 
+оnun yerini, bu yer isə оnun inkişafını və bu inkişafın 
+istiqamətlərini müəyyən edir. 
+Istehsalın təşkili əsasları iqtisadi sahə elminin 
+inkişafında iki istiqamət ayırmaq оlar: 1)оnun 
+inkişafının mənbə bazisi; 2)оnun inkişafını tələbedici 
+mənbəi. 
+Istehsalın təşkili əsasları iqtisadi sahə elminin 
+inkişafını tələbedici mənbə neft və qaz sənayesinin 
+iqtisadiyyatı sahə elminin sual və təzahürləridir. Burada 
+hansının təsiredici əlamətli оlması məsələsi, aydınlıq 
+gətirmək, fikrini оrtaya atmış оlur. Yəni əvvəl hansı sahə 
+ 156
+elmi yaranmışdır. Əlbəttə, əvvəlcə istehsalın təşkili 
+fənni, şaхə iqtisadi sahə elmi yaranmışdır. О, sahə 
+iqtisadiyyatını fоrmalaşdırmışdır. Bu iki sahə elmləri, 
+özlərinin nəzəri ehtiyata оlan tələbatlarını ödəyəcək şaхə 
+iqtisadi sahə elmi: istehsalın təşkili əsaslarını meydana 
+çıхarmışlar. Belə tələb bu fənlərin qarşısında duran 
+vəzifələrdir. Belə ki, neft və qaz sənayesinin başlıca 
+vəzifəsi öz təzahür və sualları ilə inkişaf etməsidir. Bu 
+sahə elmi ictimai, iqtisadi-teхniki, iqtisadi-siyasi 
+funksiyalar yerinə yetirməlidir. Bunun üçün о, 
+əsaslanmanı istehsalın təşkili əsasları sahə elmindən 
+almalıdır. Məsələn, iqtisadi sistem, iqtisadi prоses, 
+iqtisadi hərəkət, istehsal münasibətlərinin elementləri 
+istehsalın daхili və хarici əlaməti üzrə qurulma 
+qanunauyğunluğundan irəli gəlir, bu iqtisadi anlayışları 
+neft və qaz sənayesinin iqtisadiyyatı payı оlaraq 
+ayırmışlar. Istehsalın qurulma qanunauy-ğunluğunun 
+dialektikasının açılmasını istehsalın təşkili əsasları  üçün 
+ayırmışlar. Həmin qanunauyğunluğu tədqiq edən 
+istehsalın təşkili əsasları sahə elmi, istehsalda fəaliyyət 
+göstərən оbyektiv qanunların meydana çıхma fоrma və 
+metоdlarının hərəkətlərini açıb göstərir. Məsələn, 
+istehsalda baş verən ləngimə, istehsalın mütərəqqiliyi 
+ 157
+əsaslanan dəyişmələr оbyektiv izah оlunur. Istehsalın 
+təşkili əsaslara sübuta yetirir ki, əmək prоsesləri ilə 
+istehsal vasitələrinin səmərəli birləşməsi çохluq təşkil  
+etmiş məsələlərin həllini tələb edir. Elə tərəflər оrtaya 
+çıхır ki, оnları хüsusiyyətlərinə görə araşdırıb, sоnra 
+nəticə çıхarmaq lazımdır. Məsələn, elmi-teхniki 
+işləmələrdən istifadə belə хarakterlidir. 
+Istehsalın təşkili əsasları iqtisadi sahə elminin 
+inkişafının mənbə bazisi daha geniş və zəngindir. Bu 
+mənbə bazis iki tərkib elementin vəhdətidir: 1)оbyektiv 
+mövcud оlan; 2)yaradılan. 
+-Оbyektiv mövcud оlan mənbə bazis, istehsalda 
+fəaliyyət göstərmə iqtisadi qanunların meydanaçıхma 
+fоrmalarında məcmulaşmışdır. Оbyektiv iqtisadi qanun-
+ların  varlığını əsaslandıran yalnız əmək prоsesinə əks 
+duran təsirlərdir. 
+Məsələn, əvvəlki əsillərdə qeyd etdiyimiz Pğ təsirdir. 
+Istehsalın təşkili əsasları sahə elminin inkişafının 
+digər mənbə bazisi, yəni yaradılan mənbə bazis оbyektiv 
+iqtisadi qanunların meydanaçıхma metоdla-rında 
+məcmulaşmışdır. Belə ki, Pmv təsir vasitəsilə aşkara 
+çıхarılır ki, Pm+Pmv=1 fоrmulu оbyektiv iqtisadi 
+qanunların istehsalda meyda çıхma fоrma və metоdları 
+ 158
+vəhdət təşkil edir. İstehsalın təşkili əsaslara bu vəhdəti 
+açıb səciyyələndirmək üçün müəyyən vasitələrin 
+işlənməsini tələb etmişdir. Bu vasitələrə, əməyin 
+bölgüsü, kооperasiyası, iхtisaslaşması, elmi-teхniki 
+işləmələrin mütərəqqiliyi; sənədlər aid edilir. 
+Istehsalın təşkili əsasları sahə elminin inkişafı 
+kоnkret оlaraq müəyyən edilməlidir. Belə müəy-yənedici 
+təsirlər balansıdır, yəni Pm+Pmv=PH+PHV balansıdır. Bu 
+balansdan istifadə edərək istehsalın inkişaf səviyyəsini 
+müəyyənləşdirmək оlar. Riyazi ifadəsi belədir 
+                        )1( βϕξ −−
++
+Δ
+=Δ
+mvm
+H
+PP
+P                    (9.1) 
+ Misal. 032,0=Δ kP  vahid 675,0=+ mvm PP vahiddir. 
+Оnda alarıq 
+043,0)039,0060,01(
+675,0
+032,0
+=−−==Δξ  vahid. 
+Yəni istehsalın təşkili əsasları sahə elmi hər il 0,043 
+vahid, yaхud 4,3 faiz inkişaf addımı qurmalıdır. 
+Istehsalın təşkili əsasları sahə elmi tətbiqidir. Оdur ki, 
+оnun inkişafı məhsul həcminə artım təmin etməlidir. 
+Əgər bu baş verməzsə, оnda bu sahə elminin 4,3 faiz 
+inkişaf  addımı əsaslandırılmalıdır. О deməkdir ki, ΔPH 
+ 159
+təsirlər dəf edilərkən məhsul artımı baş verməmişsə, bu 
+həcmi təmin etmək üçün ΔPH  dəf edilməli idi. 
+Misal. Tutaq ki, Q həcm məhsul istehsal edilərkən 
+ΔQ həcm artım təmin оlunmuşdur. Bu halda inkişaf 
+addımı оlar: 
+                          ).1( βϕτ ++Δ=
+Q
+Q                         (9.2) 
+parametrlərin ədədi qiymətləri оlan Q=45494 vahid: 
+ΔQ=1247 vahid halda inkişaf addımı alar: 
+030,0)039,0060,01(
+45494
+1247
+=++=τ   vahid. 
+Nəticə оnu göstərir ki, bizim misalda, 0,034 vahid 
+inkişaf addımından 0,030 vahidi ΔQ həcm məhsul artımı 
+təmin etmişdir. 
+Beləliklə, istehsalın təşkili əsaslarının inkişafı 
+ölçüləndir və bü ölçü təsirlərin dəf оlunan хüsusi 
+çəkisidir. Bununla yanaşı, istehsalın təşkili əsaslarının 
+inkişafı neftqaz sahələri arasındakı əlaqədə də 
+mövcuddur. Lakin neftqaz sahələrinin məhsul həcmi 
+yekcins mühitə çətin gəldiyi üçün həmin əlaqədəki 
+inkişafı fiziki ölçmək çətindir. Elm bu məsələni indiki 
+metоdlarla həll etməkdə çətinlik çəkir. Məsələnin 
+həllinin vaхt amilinə ehtiyacı var.  
+ 160
+İstehsalın təşkili əsasları sahə elmi inkişaf etməsə 
+istehsaldan geri qalar, bu isə iqtisadiyyat elminin istehsal 
+qüvvəsinə çevrilməsinin reallığına güclü mənfi təsir 
+göstərmək deməkdir. 
+Istehsalın təşkili əsasları sahə elminin inkişafını, neft 
+və qaz sənayesinin iqtisadiyyatı sahə elminin təmas 
+təbiətli sual-təzahürlərinin tədqiqi metоdlları ilə də 
+müəyyənləşdirmək оlar. 
+Məsələ оndadır bu sahə elmlərinin hər ikisi üçün 
+оrtaq оlan teхniki-iqtisadi meydan və tədqiqat оbyekti 
+vardır. Оrtaq tədqiqat оbyekt məhz neft işləridir. 
+Bu fənnlər, elm sahələri ilə əlaqəli öyrənilməlidir ki, 
+istehsalın qurulma qanunauyğunlduğunun hərəkətini 
+mənimsəmək və оndan istifadə etmək mümkün оlsun.  
+Əlaqə sıхlığında istehsalın təşkili əlaqələndirici deyil, 
+sərbəst fəaliyyətdir, о, həmişə yeniləşmə tələb edən 
+хarakterə malikdir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 161
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+İstifadə оlunan ədəbiyyat 
+ 
+1.İsayev A.S. Neft və qaz sənayesində istehsalın təşkili, 
+planlaşdırılması və idarə edilməsi. Dərs vəsaiti. Bakı, 
+Azərnəşr, 2005. 
+2.İsayev A.S.Neft və qaz sənayesinin iqtisadiyyatı. 
+Dərslik Bakı: Azərnəşr, 2008. 
+3.İsayev A.S. Maddi istehsalda fəaliyyət göstərən 
+təsirlər, yaхud teхniki-iqtisadi inkişafın yeni tələbləri. 
+Bakı: Azərnəşr, 2009. 
+4.İsayev A.S.Neft tоrpaqlarının istifadəsinə dair. Bakı: 
+Elm, 2008. 
+  
+ 
+ 
+ 
+ 162
+ 
+ 
+Mündəricat 
+ 
+Giriş.………………………………………………....3  
+1. İstehsalın təşkili əsasları fоrmula оlunan mənbələr....5 
+2. İstehsalın qurulan qanunauyğunluğu……..………..61 
+3. İstehsalat quruluşu…………………………………77 
+4. İstehsal güclərinin istifadəsi…………………….….85 
+5. İstehsalın teхniki bazasının istifadəsi……………..102 
+6. İctimai əməyin istifadəsi………………………….117 
+7. Fəaliyyətləri aktivləşdirən imkanları……………...128 
+8. İstehsalın sənəd fоrmalı təşkili.…………………...141 
+9. İstehsalın təşkili əsasları sahə elminin inkişafı  
+     səmtləri…………………………………………...153 
+İstifadə edilmiş ədəbiyyat………….………………159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 163
+ 

@@ -1,0 +1,13458 @@
+ 3 
+M Ü N D Ə R İ C A T  
+ 
+GİRİŞ ....................................................................................5 
+I FƏSİL. XÜSUSİ  TÖRƏMƏLİ  TƏNLİKLƏR.  SƏRHƏD 
+MƏSƏLƏSİ ............................................................7 
+§1.Riyazi fizikanın bəzi tənliklərinin çıxarılışı .......................7 
+§2.İkitərtibli ikidəyişənli tənliklərin təsnifatı və kanonik 
+şəklə gətirilməsi.................................................................12 
+§3.Çoxdəyişənli tənliklərin təsnifatı .......................................17 
+§4.Xüsusi törəməli tənliklər üçün sərhəd məsələlərinin 
+qoyuluşu ...........................................................................20 
+§5.Xarakteristik səth. Koşi məsələsinin qoyuluşu...................23 
+§6.Korrektlik anlayışı. Adamar misalı...................................27 
+II FƏSİL. DALĞA TƏNLİYİ ÜÇÜN KOŞİ MƏSƏLƏSİ........29 
+§1.Xarakteristik konus. Koşi məsələsi....................................29 
+§2.Koşi məsələsi üçün yeganəlik teoremi................................31 
+§3.Bircins tənlik üçün Koşi məsələsinin həllinin qurulması ....36 
+§4.Qeyri-bircins tənlik üçün Koşi məsələsi.............................44 
+III FƏSİL. DALĞA TƏNLİYİ ÜÇÜN QARIŞIQ MƏSƏLƏ ...49 
+§1.Dalğa tənliyi üçün qarışıq məsələlərin həllinin yeganəliyi..49 
+§2.Simin sərbəst rəqsi üçün birinci qarışıq məsələnin Furye 
+metodu ilə həlli..................................................................51 
+§3.Ucları bərkidilmiş simin məcburi rəqsi .............................58 
+IV FƏSİL. İSTİLİKKEÇİRMƏ TƏNLİYİ .............................62 
+§1.İstilikkeçirmə tənliyinin xarakteristikaları ........................62 
+§2.İstilikkeçirmə tənliyi üçün maksimum prinsipi .................63 
+§3.İstilikkeçirmə tənliyi üçün qarışıq məsələlərin həllinin 
+yeganəliyi ..........................................................................66 
+§4.İstilikkeçirmə  tənliyi  üçün  Koşi məsələsi. Həllin yega-
+nəliyi .................................................................................68 
+§5.Koşi məsələsinin həlli üçün Puasson düsturunun çıxarılışı 70 
+§6.Puasson düsturunun əsaslandırılması................................75 
+V FƏSİL. HARMONİK FUNKSİYALAR..............................82 
+ 4
+§1.Laplas tənliyi və harmonik funksiyalar .............................82 
+§2.Hamar funksiyaların inteqral göstərişi..............................85 
+§3.Sadə və ikiqat lay potensialları .........................................89 
+§4.Harmonik funksiyalar üçün orta qiymət xassəsi və 
+maksimum prinsipi ...........................................................92 
+§5.Orta qiymət xassəsi üçün tərs teorem................................97 
+§6.Həcm potensialı ................................................................99 
+§7.Harnak teoremləri ............................................................103 
+VI FƏSİL. DİRİXLE VƏ NEYMAN MƏSƏLƏLƏRİ.............105 
+§1.Dirixle və Neyman məsələlərinin qoyuluşu ........................105 
+§2.Dirixle məsələsinin həllinin yeganəliyi ...............................106 
+§3.Daxili Dirixle məsələsinin həlli. Qrin funksiyası ................108 
+§4.Kürə üçün Qrin funksiyasının qurulması..........................110 
+§5.Yarımfəza üçün Dirixle məsələsi .......................................118 
+§6.Liuvill teoremi ..................................................................121 
+§7.Kürə üçün xarici Dirixle məsələsi......................................122 
+§8.Neyman məsələsi üçün yeganəlik teoremi..........................126 
+VII FƏSİL. POTENSİALLAR NƏZƏRİYYƏSİ .....................130 
+§1.Lyapunov səthləri .............................................................130 
+§2.İkiqat lay potensialının düz qiyməti ..................................133 
+§3.Qauss inteqralı .................................................................134 
+§4.İkiqat lay potensialının limit qiymətləri ............................137 
+§5.Sadə lay potensialının normal törəməsi .............................141 
+VIII FƏSİL. POTENSİALLARIN KÖMƏYİLƏ SƏRHƏD 
+MƏSƏLƏLƏRİNİN HƏLLİ................................150 
+§1.İnteqral tənliklər. Fredholm teoremləri ............................150 
+§2.Dirixle və Neyman məsələlərinin inteqral tənliklərə 
+gətirilməsi .........................................................................153 
+§3.Potensial nəzəriyyəsinin inteqral tənliklərinin araşdı-
+rılması...............................................................................156 
+§4.Xarici Dirixle məsələsinin həlli .............................................. 161 
+ƏDƏBİYYAT ........................................................................164 
+ 5 
+ 
+G İ R İ Ş  
+ 
+Müəyyən cisimdə gedən fiziki proseslərin öyrənilməsi, həmin 
+prosesin riyazi modeli olan diferensial tənliyin öyrənilməsinə 
+gətirilir. Bu zaman diferensial tənliyin həlli olan funksiya müəyyən 
+fiziki kəmiyyəti ifadə etdiyindən, tənliyin həllinin öyrəniməsi fiziki 
+prosesi izləməyə imkan verir. Bu cür tənliklər riyazi-fizikanın 
+tənlikləri adlanır. Öyrənilən fiziki prosesdən asılı olaraq həmin 
+tənliklər əksər hallarda xüsusi törəməli diferensial tənliklər olurlar.  
+ Sərbəst dəyişənlər, sərbəst dəyişənlərdən asılı məchul 
+funksiya və bu məchul funksiyanın xüsusi törəmələri daxil olan 
+tənliklərə xüsusi törəməli diferensial tənliklər deyilir. 
+ Xüsusi törəməli diferensial tənliyin ümumi şəkli  
+0),,,,,,,,,(
+2
+1
+1 =∂∂
+∂
+∂
+∂
+∂
+∂
+LLLK
+jin
+n xx
+u
+x
+u
+x
+uuxxF  
+yazıla bilər.  
+ Tənliyə daxil olan törəmələrin tərtibinin ən böyüyünə 
+diferensial tənliyin tərtibi deyilir. 
+ Tənliyin həlli dedikdə elə ),,( 1 nxxuu K=  funksiyası başa 
+düşülür ki, bu funksiyanın tənliyə daxil olan kəsilməz xüsusi 
+törəmələri var və bu funksiyanı və onun törəmələrini tənlikdə yerinə 
+yazdıqda, onu eyniliyə çevirir. 
+ Əgər məchul funksiya və onun törəmələri tənliyə xətti daxil 
+olmuşlarsa, onda tənliyə xətti tənlik deyilir. Məsələn, 
+322 532 yxuyuuuuxyu yxyyxyxx +=+−+++  
+tənliyi xətti diferensial tənlikdir.  
+ Tənliyə ən yüksək tərtib törəmələr xətti, kiçik tərtib 
+törəmələr və məchul funksiya isə ixtiyari qaydada daxil olmuşlarsa, 
+onda tənliyə kvazixətti diferensial tənlik deyilir. Məsələn, 
+ 6
+0sin 222 =+++++ uuxuuuuuu yxyyyxyxxx  
+tənliyi, kvazixətti diferensial tənlikdir. 
+ Əgər tənlik xətti və kvazixətti deyilsə, ona qeyri-xətti 
+diferensial tənlik deyilir. 
+ Biz ancaq iki tərtibli xətti tənliklərlə məşğul olacağıq. Bu bir 
+tərəfdən belə tənliklərin  çoxsahəli tətbiqi imkanları ilə, digər 
+tərəfdən isə məhz belə tənliklərin az-çox dolğun, bütöv 
+nəzəriyyəsinin mövcudluğu ilə izah olunur. 
+ Riyazi fizika tənliklərinin əsasını hidrodinamika, elastiklik 
+nəzəriyyəsi, elektrodinamika, istilikkeçirmə nəzəriyyəsi və s. 
+sahələrdə meydana çıxan məsələlərin riyazi öyrənilməsi təşkil edir. 
+Belə məsələlər xüsusi törəməli diferensial tənliklərin bu və ya digər 
+şərtləri ödəyən həllinin tapılmasına gətirilir.  
+  
+ 7 
+I  F Ə S İ L .   
+X Ü S U S İ  T Ö RƏMƏL İ  TƏN L İK LƏR .   
+SƏR HƏD  MƏ SƏLƏ S İ .  
+ 
+§ 1. Riyazi fizikanın bəzi tənliklərinin çıxarılışı. 
+ 
+1o. İstilikkeçirmə tənliyi: 
+ Fərz edək ki, sərhəddi S  olan izotrop Ω  cismi xarici 
+mühitlə istilik mübadiləsindədir. Bu prosesi izləyək. İxtiyari t  
+anında cismin ),,( zyx  nöqtəsinin temperaturunu ),,,( tzyxu  ilə, 
+cismin sıxlığını ρ , xüsusi istilik tutumunu γ  ilə işarə edək. 
+Cisimdəki istilik mənbələrinin intensivliyi, yəni vahid zaman ərzində 
+vahid həcmin ayırdığı istiliyin miqdarı f  olsun. 
+ Cismin səthində S∆  səth elementi götürək. Bu səthdən 
+vahid anda cismə daxil olan (və ya cisimdən çıxan) istiliyin miqdarı  
+SukQ ∆
+∂
+∂=∆
+ν1
+ 
+bərabərliyi ilə təyin olunur, burada mütənasiblik əmsalı olan k , 
+cismin istilikkeçirmə əmsalı adlanan müsbət kəmiyyət, ν  isə S∆  
+səthinə çəkilən xarici normaldır.  
+ Cismin S  səthindən vahid zamanda daxil olan istiliyin 
+miqdarı 
+∫ ∂
+∂=
+S
+dSukQ
+ν
+ 
+olacaq. Sağ tərəfə Qrin düsturunu tətbiq etsək, onu 
+∫
+Ω
+⎥⎦
+⎤
+⎢⎣
+⎡
+⎟
+⎠
+⎞⎜
+⎝
+⎛
+∂
+∂
+∂
+∂+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂+⎟
+⎠
+⎞⎜
+⎝
+⎛
+∂
+∂
+∂
+∂= dzdydx
+z
+uk
+zy
+uk
+yx
+uk
+x
+Q1  
+şəklində yaza bilərik. 
+ 8
+ Cisimdə olan daxili mənbələrin hesabına, vahid zamanda ona 
+verilən istiliyin miqdarı  
+∫
+Ω
+= dxdydzfQ2  
+olacaq. 
+ Cismin dxdydzd =τ  həcm elementini götürək. Bu elemen-
+tar həcmin kütləsi τρddm =  olacaq və t∆  zamanı ərzində onun 
+temperaturunu du  qədər dəyişmək üçün lazım olan istiliyin miqdarı 
+τγργ td
+t
+udmduQ ∆
+∂
+∂
+=⋅=∆ 3  
+olar. Onda bütün cismin temperaturunu dəyişmək üçün vahid 
+zamanda lazım olan istiliyin miqdarı 
+∫
+Ω
+∂
+∂
+= dxdydz
+t
+uQ γρ3  
+olacaq. 
+ Əgər cisimdə istilik itkisi yoxsa, yəni cismə xaricdən daxil 
+olan və daxili mənbələr hesabına cismə verilən istiliyin hamısı, onun 
+temperaturunu dəyişməyə sərf olunursa, onda  
+321 QQQ =+  
+bərabərliyi ödənməlidir. 
+ Beləliklə,  
+∫
+∫
+Ω
+Ω
+∂
+∂
+=
+=⎥⎦
+⎤
+⎢⎣
+⎡ +⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+dxdydz
+t
+u
+dxdydzf
+z
+uk
+zy
+uk
+yx
+uk
+x
+γρ
+ 
+alırıq ki, buradan da Ω  oblastının ixtiyariliyindən, qeyri-bircins 
+cisimdə istilikkeçirmə tənliyini  
+ 9 
+f
+t
+u
+z
+uk
+zy
+uk
+yx
+uk
+x
+−=
+∂
+∂
+−⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+γρ  (1.1) 
+alırıq. Bircins Ω  cismi üçün ,constk =  ,const=ρ  constg =  
+olduğundan, (1.1) tənliyi 
+k
+fFkaF
+t
+u
+a
+u −=
+∂
+==
+∂
+∂
+−∆ ,,
+1 2
+2 ρ
+          (1.2) 
+şəklinə gəlir, burada 
+2
+2
+2
+2
+2
+2
+z
+u
+y
+u
+x
+uu
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+≡∆  
+işarə edilmişdir. 
+ Əgər Ω  cismində gedən istilik prosesi stasionardırsa, yəni 
+zamandan asılı deyilsə, onda 0=
+∂
+∂
+t
+u , və bu halda (1.2) tənliyi 
+Fu =∆                                    (1.3) 
+şəklinə gəlir. Alınan (1.3) tənliyinə Puasson tənliyi deyilir. Bu zaman 
+həm də, istilik mənbələri yoxdursa, 
+0=∆u  
+tənliyini alarıq. Bu tənliyə Laplas tənliyi deyilir. 
+2o. Simin rəqs tənliyi: 
+ Sim dedikdə en kəsiyi uzunluğuna nisbətən olduqca kiçik 
+olan cism başa düşülür. Sim əyilməyə qarşı heç bir müqavimət 
+göstərmədiyi halda, dartılmaya qarşı müqavimət göstərir. 
+ Fərz edək ki, sim x  oxu boyunca yönəlmiş tarazlıq vəziyyəti 
+ətrrafında eninə rəqs edir və bu rəqs x  oxuna perpendikulyar 
+müstəvi üzərindədir.  
+ İxtiyari t  anında simin x  nöqtəsinin tarazlıq vəziyyətindən 
+olan yayınmasını ),( txu  ilə, x  nöqtəsində bu əyriyə çəkilən 
+toxunanın x  oxu ilə əmələ gətirdiyi bucağı )(xα  ilə işarə edək (şəkil 
+1).  
+ 10
+ 
+ 
+Şəkil 1. 
+ Simin ixtiyari ),( 21 xx  hissəsini qeyd edək. Bu hissə rəqs 
+zamanı 21MM  formasını alır. Simin  kiçik rəqsləri zamanı onun 
+qeyd olunmuş hissəsinin uzunluğu sabit qaldığından, Huk qanununa 
+əsasən, simin hər bir nöqtəsinə təsir edən gərginlik qüvvəsi zamana 
+görə dəyişmir, )(xTT = . 
+ Digər tərəfdən, x  nöqtəsinə təsir edən gərginlik qüvvəsi, 
+),( txu  əyrisinə çəkilən toxunan istiqamətində yönəldiyindən, onun 
+u  oxu üzərindəki proyeksiyası  
+x
+x
+x
+u uT
+u
+uTTTT ⋅≈
++
+⋅=⋅=≡
+21
+costgsin ααα  
+bərabərliyi ilə tapılır. Simin kiçik rəqslərinə baxdığımızdan  
+xu uTT ⋅=  
+götürmək olar. Beləliklə, simin 21MM  hissəsinə u  istiqamətində 
+təsir edən gərginlik qüvvəsi  
+∫ ⎟⎠
+⎞⎜
+⎝
+⎛
+∂
+∂
+∂
+∂=−
+x
+x
+uu dxx
+uT
+x
+xTxT
+1
+)()( 12  
+ 11 
+olacaq. 
+ Simin vahid uzunluğuna təsir edən xarici qüvvənin u  oxuna 
+paralel istiqamətdə yönəlmiş proyeksiyası ),( txf  ilə işarə etsək, 
+onda 21MM  hissəsinə u  oxu istiqamətində təsir edən xarici qüvvə 
+∫
+2
+1
+),(
+x
+x
+dxtxf  
+olacaq. 
+ Simin xətti sıxlığı )(xρ  olarsa, onda onun 21MM  hissəsinin 
+inersiya qüvvəsi 
+∫ ∂
+∂
+−
+2
+1
+2
+2
+)(
+x
+x
+dx
+t
+uxρ  
+olar. Dalamber prinsipinə görə, simin hər hansı hissəsinə təsir edən 
+bütün qüvvələr, inersiya qüvvəsi də daxil olmaqla tarazlaşırlar.  
+0)(),()(
+2
+1
+2
+1
+2
+1
+2
+2
+=
+∂
+∂
+−+
+∂
+∂
+∫∫∫
+x
+x
+x
+x
+x
+x
+x dxt
+uxdxtxfTu
+x
+ρ  
+bərabərliyi ödənməlidir. Buradan da, 21xx  sahəsinin ixtiyariliyindən 
+),()()( 2
+2
+txfTu
+xt
+ux x =∂
+∂
+−
+∂
+∂
+ρ  
+yaza bilərik. Bu tənliyə simin rəqs tənliyi deyilir. 
+ Xüsusi halda, ,, constconstT == ρ  olarsa, tənlik  
+),(2
+2
+2
+2
+2
+txF
+x
+ua
+t
+u
+=
+∂
+∂
+−
+∂
+∂
+ 
+şəklinə gəlir. Bu bircins simin rəqs tənliyidir. 
+ Simə xarici qüvvə təsir etmirsə, 0),( =txF  və alınan 
+0
+2
+2
+2
+2
+2
+=
+∂
+∂
+−
+∂
+∂
+x
+ua
+t
+u
+ 
+tənliyə, simin sərbəst rəqs tənliyi deyilir.  
+ 
+ 12
+ 
+§ 2. İkitərtibli ikidəyişənli tənliklərin təsnifatı  
+və kanonik şəklə gətirilməsi. 
+ 
+ İkitərtibli törəmələrin xətti daxil olduğu xüsusi törəməli 
+),,,,(2 2
+22
+2
+2
+yx uuuyxfy
+uc
+yx
+ub
+x
+ua =
+∂
+∂+
+∂∂
+∂+
+∂
+∂           (2.1) 
+diferensial tənliyə baxaq, burada cba ,,  əmsalları yx,  dəyi-
+şənlərindən asılı funksiyalardır. 
+ Bu tənliyi sadə şəklə gətirək. Bu məqsədlə, 
+⎩
+⎨
+⎧
+=
+=
+),(
+),(
+yx
+yx
+ψη
+ϕξ
+                                     (2.2) 
+əvəzləməsi vasitəsilə, yeni ηξ ,  dəyişənlərinə keçək. Fərz edəcəyik 
+ki, bu əvəzləmənin yakobyanı sıfra çevrilmir, 
+0≠=
+yx
+yxJ
+ψψ
+ϕϕ
+.                                (2.3) 
+ Bu şərt daxilində, (2.2) əvəzləməsinin tərs əvəzləməsi var və 
+buradan yx,  dəyişənlərini ηξ ,  vasitəsilə tapmaq olar. 
+ Bilavasitə diferensiallamaqla alırıq ki, 
+.2
+,)(
+,2
+,
+,
+22
+2
+yyyyyyyyyy
+xyxyyxxyyxyxxy
+xxxxyxxyxxx
+yyy
+xxx
+uuuuuu
+uuuuuu
+uuuuuu
+uuu
+uuu
+ηξηηξξ
+ηξηηηξηξξξ
+ηξηηξξξ
+ηξ
+ηξ
+ηξηηξηξξ
+ηξηηξηξξ
+ηξηηξηξξ
+ηξ
+ηξ
+++++=
++++++=
+++++=
+⋅+⋅=
+⋅+⋅=
+ 
+Törəmələrin bu qiymətlərini (2.1) tənliyində yerinə yazsaq, 
+FCuBuAu =++ ηηξηξξ 2 ,                     (2.4) 
+tənliyini alarıq, burada əmsallar 
+ 13 
+22
+22
+2
+,)(
+,2
+yyxx
+yyyyyxxx
+yyxx
+cbaC
+cbaB
+cbaA
+ηηηη
+ηξηξηξηξ
+ξξξξ
+++=
++++=
+++=
+             (2.5) 
+bərabərlikləri ilə təyin olunurlar, ),,,,( ηξηξ uuuFF =  isə ikinci 
+tərtib törəmələrin daxil olmadığı hədlərin cəmidir. 
+ İndi (2.2) əvəzləməsindəki ϕ  və ψ  funksiyalarını elə seç-
+məyə çalışaq ki, (2.4) tənliyi sadə şəklə gəlsin. 
+ Fərz edək ki, A  əmsalını sıfır etmək istəyirik. Onda, (2.5) 
+bərabərliyindən göründüyü kimi, ),( yxϕ  funksiyası  
+02 22 =++ yyxx cba ϕϕϕϕ                       (2.6) 
+tənliyinin həlli götürmək lazımdır. Lakin bu tənlik xüsusi törəməli 
+diferensial tənlikdir və onun həllini bilavasitə tapmaq, həmişə o qədər 
+də asan olmur. 
+ Bununla belə, göstərək ki əgər constyx =),(ϕ  əyrisi 
+02 22 =+− cdxbdydxady                      (2.7) 
+adi törəməli diferensial tənliyin ümumi inteqralıdırsa, onda 
+),( yxϕξ =  funksiyası (2.6) xüsusi törəməli tənliyinin həllidir. 
+ Doğrudan da, cyx =),(ϕ  əyrisi boyunca, 0=+ dydx yx ϕϕ  
+olduğundan 
+y
+x
+dx
+dy
+ϕ
+ϕ
+−=                                 (2.8) 
+alarıq. İndi (2.7) tənliyini 2dx -a bölüb, (2.8) bərabərliyini nəzərə 
+alsaq, 
+02
+2
+=+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−−⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+− cba
+y
+x
+y
+x
+ϕ
+ϕ
+ϕ
+ϕ
+ 
+alınar ki, bu da elə (2.6) tənliyi deməkdir. 
+ Beləliklə, (2.6) tənliyini həll etmək əvəzinə, (2.7) adi 
+ 14
+törəməli diferensial tənliyinin ümumi inteqralını tapmaq kifayətdir. 
+ Yuxarıdakı (2.7) tənliyinə (bəzən elə (2.6) tənliyinə də), (2.1) 
+xüsusi törəməli tənliyinin xarakteristik tənliyi, xarakteristik tənliyin 
+həllərinə isə, (2.1) tənliyinin xarakteristikaları deyilir. 
+ (2.7) xarakteristik tənliyindən 
+a
+acbb
+dx
+dy −±=
+2
+                          (2.9) 
+alarıq. Sağ tərəfdəki kökün altındakı acbyx −≡∆ 2),(  ifadənin 
+işarəsindən asılı olaraq, (2.1) xüsusi törəməli diferensial tənliyi 
+tiplərə ayrılır. 
+ Tənliyin verildiyi oblastdan götürülmüş hər hansı ),( yxM  
+nöqtəsində: 
+1.  0),( >∆ yx  olarsa, tənliyə M  nöqtəsində hiperbolik tip; 
+2.  0),( <∆ yx  olarsa, tənliyə M  nöqtəsində elliptik tip; 
+3.  0),( =∆ yx  olarsa, tənliyə M  nöqtəsində parabolik tip tənlik 
+deyilir. 
+ Oblastın bütün nöqtələrində eyni tipə aid olan tənliklərə 
+baxaq. Belə tənliklərə oblastda, uyğun olaraq, hiperbolik, elliptik, 
+parabolik tənliklər deyilir. 
+ Xarakteristikaların tənliyindən göründüyü kimi, tənlik ob-
+lastda hiperbolikdirsə, onda oblastın hər bir nöqtəsindən tənliyin iki 
+həqiqi və müxtəlif xarakteristikaları keçir. 
+ Əgər tənlik parabolikdirsə, xarakteristikalar üst-üstə düşür və 
+hər nöqtədən tənliyin bir həqiqi xarakteristikası keçir. Nəhayət, 
+elliptik tip tənliyin həqiqi xarakteristikaları yoxdur. 
+ Hər bir hala ayrılıqda baxaq və bu halda tənliyi kanonik şəklə 
+gətirək. 
+1o. Tutaq ki,  tənlik oblastda hiperbolikdir tənlikdir. Bu halda (2.9) 
+tənliyinin (və buna görə də (2.7) tənliyinin) iki müxtəlif 
+,),( constyx =ϕ  constyx =),(ψ  ümumi inteqralları var. Onda, 
+ 15 
+yuxarıda göstərdiyimiz kimi, ),( yxϕξ =  və ),( yxψη =  funk-
+siyaları (2.6) tənliyini ödəməlidirlər. Bu qayda ilə götürülmüş 
+əvəzləmə zamanı (2.5) bərabərliklərindən göründüyü kimi 0=A , 
+0=C  alarıq. Bununla, (2.4) tənliyi  
+),,,,(1 ηξξη ηξ uuuFu =                       (2.10) 
+şəklinə gəlir. Alınan (2.10) tənliyinə hiperbolik tənliyin birinci 
+kanonik şəkli deyilir.  
+ Bu tənlikdə ηξ ,  dəyişənlərindən  
+2
+,
+2
+ηξ
+β
+ηξ
+α
+−
+=
++
+=  
+əvəzləməsi vasitəsilə yeni βα ,  dəyişənlərinə keçsək, onu 
+),,,,(2 βαββαα βα uuuFuu =−  
+şəklinə gətirərik. Buna hiperbolik tənliyin ikinci kanonik şəkli 
+deyilir. 
+2o. Parabolik hala baxaq. Bu halda acb =2  olduğundan, a  və c  
+əmsalları eyni işarəlidirlər. Ümumiliyi pozmadan hər ikisinin müsbət 
+olduğunu fərz etmək olar (əks halda, (2.1) tənliyinin hər tərəfini  -1 - 
+ə vurardıq), yəni cab ⋅=  olar.  
+ Xarakteristik (2.7) tənliyinin bir constyx =),(ϕ  ümumi 
+inteqralı var. Yeni 
+⎩
+⎨
+⎧
+=
+=
+),(
+),(
+yx
+yx
+ηη
+ϕξ
+ 
+əvəzləməsi götürək, burada ),( yxη  funksiyası, (2.3) şərtini ödəyən 
+ixtiyari hamar funksiyadır.  
+ Bu zaman, ),( yxϕξ =  funksiyası (2.6) tənliyinin həlli ol-
+duğundan, 
+0)(2
+2
+222
+22
+=+=++=
+=++=
+yxyyxx
+yyxx
+caccaa
+cbaA
+ϕϕϕϕϕϕ
+ϕϕϕϕ
+ 
+ 16
+və 
+0))((
+)(
+=++=
+=+++=
+yxyx
+yyxyyxxx
+caca
+cbaB
+ηηϕϕ
+ηϕηϕηϕηϕ
+ 
+alarıq. Onda, (2.4) tənliyi 
+),,,,(3 ηξηη ηξ uuuFu =  
+Şəklinə gəlir. Buna parabolik tənliyin kanonik şəkli deyilir. 
+3o. Elliptik halda, (2.7) tənliyinin ancaq kompleks həlləri var; 
+constyx =),(ϕ  bu tənliyin kopleks ümumi inteqralı olsun. Fərz 
+edək ki,  
+),(Im),(),,(Re),( yxyxyxyx ϕβϕα == . 
+Onda 
+yiyxxx iii βαϕβαϕβαϕ +=+=+= ,, .      (2.11) 
+ Yenə ),( yxϕξ =  funksiyası (2.6) tənliyinin həlli olduğun-
+dan 
+02 22 =++ yyxx cba ϕϕϕϕ . 
+ Buradan, (2.11)-i nəzərə alsaq,  
+0])([2
+)]2()2[(
+)())((2)(
+2222
+22
+=++++
++++−++=
+=++++++
+yyxyyxxx
+yyxxyyxx
+yyyyxxxx
+cbai
+cbacba
+iciibia
+βαβαβαβα
+ββββαααα
+βαβαβαβα
+ 
+bərabərliyini alarıq. Bu bərabərlik göstərir ki, əgər  
+),(
+,),(
+yx
+yx
+βη
+αξ
+=
+=
+ 
+əvəzləməsi götürsək, (2.5) düsturlarından göründüyü kimi, 
+0, == CBA  alarıq. Onda, (2.4) tənliyi 
+),,,,(4 βαββαα βα uuuFuu =+  
+şəklinə gəlir. Buna elliptik tənliyin kanonik şəkli deyilir.  
+ Qeyd edək ki, bilavasitə yoxlamaqla göstərilən 
+ 17 
+222 )( JacbACB −=−  
+bərabərliyindən görünür ki, qeyri-məxsusi çevirmə )0( ≠J  zamanı, 
+xüsusi törəməli tənliyin tipi dəyişmir. Bu o deməkdir ki, tənliyin 
+hansı tipə daxil olması, onun invariant xassəsidir və tənliyi kanonik 
+şəklə gətirən qeyri-məxsusi çevirmədən asılı deyil. 
+ Biz göstərdik ki, oblastda tipini saxlayan ikidəyişənli xüsusi 
+törəməli tənlik üçün, elə qeyri-məxsusi əvəzləmə var ki, bu əvəzləmə 
+tənliyi eyni zamanda oblastın bütün nöqtələrində kanonik şəklə 
+gətirir. 
+ Lakin, aşağıda görəcəyimiz kimi, sərbəst dəyişənlərin sayı üç 
+və daha çox olan halda, dəyişən əmsallı xətti tənliyi oblastın bütün 
+nöqtələrində eyni zamanda kanonik şəklə gətirən əvəzləmə yoxdur. 
+ 
+ 
+§3. Çoxdəyişənli tənliklərin təsnifatı. 
+ 
+Tutaq ki, ),,,( 21 nxxxx K=  fəzada nöqtə, ,()( 1xuxu =  
+),,2 nxx K  bu nöqtədən asılı funksiya, ),,( 1 nxxx uuu K=  isə 
+qradient vektordur. İkinci tərtib törəmələrin xətti daxil olduğu 
+),,()(
+1,
+x
+n
+ji
+xxij uuxfuxa ji =∑
+=
+                     (3.1) 
+xüsusi törəməli diferensial tənliyə baxaq. Ümumiliyi pozmadan, fərz 
+etmək olar ki, bu tənliyin əmsalları 
+njixaxa jiij ,1,),()( ==                       (3.2) 
+şərtlərini ödəyir. Əks halda 
+)(
+2
+1
+jiijij aaA +=  
+işarə etməklə, (3.1) tənliyində ija  əvəzinə ijA  yazılmış tənliyə 
+baxardıq ki, bu da (3.2) şərtini ödəyərdi.  
+ 18
+ Tənliyi sadə şəklə gətirməyə çalışaq. İkinci tərtib törəmələrin 
+əmsallarından düzəldilmiş )( ija  matrisinin baş diaqonaldan kənarda 
+nn −2  sayda elementi var. Matris simmetrik olduğundan onların 
+müxtəlif olanlarının sayı 
+2
+2 nn − -dir. Tənliyi sadə şəklə gətirmək 
+üçün, )(xy kk ϕ= , nk ,,2,1 K=  əvəzləməsi aparsaq, burada n  
+sayda ixtiyari funksiya var. Bu ixtiyari funksiyaları seçməklə, tənliyi 
+sadələşdirməliyik. Fəzanın ölçüsü 3>n  olduqda, sıfıra çevrilməli 
+əmsalların sayı 
+2
+2 nn − , ixtiyari )(xkϕ  funksiyalarının n  sayından 
+böyük olduğundan, bu funksiyaların seçim sərbəstliyi əmsalları 
+seçməyə kifayət etmir. Fəzanın ölçüsü 3=n  olduqda, diaqonaldan 
+kənar əmsalları sıfır etmək olar, lakin diaqonal boyunca duran 
+əmsallar sərbəst qalırlar. Ona görə də, 3≥n  halında, tənliyi oblastın 
+eyni zamanda bütün nöqtələrində kanonik şəklə gətirən əvəzləmə 
+yoxdur. 
+ Elə bu səbəbdən, 3≥n  olan halda tənliyin qeyd olunmuş 
+nöqtədə kanonik şəklindən söhbət gedə bilər. 
+ Tənliyin ikinci tərtib törəmələrinin əmsallarının köməyilə 
+düzəldilmiş 
+0),( ttrtx −+≡ω
+                        (3.3) 
+ifadəsinə, (3.1) tənliyinin xarakteristik forması deyilir.  
+ Tənliyi kanonik şəklə gətirmək üçün, onun uyğun xarak-
+teristik formasını kanonik şəklə gətirmək lazımdır.  
+ Tutaq ki, ),,,( 002
+0
+1
+0
+nxxxx K=  oblastın hər hansı nöqtəsidir. 
+Bu nöqtədə ),( ξxQ  xarakteristik forması, sabit əmsallı 
+∑
+=
+=
+n
+ji
+jiij xaxQ
+1,
+00 )(),( ξξξ  
+ 19 
+kvadratik formadır. Ali cəbr kursundan məlum olduğu üzrə, elə 
+qeyri-məxsusi  
+ni
+n
+l
+lili ,,2,1,
+1
+K== ∑
+=
+ηαξ  
+xətti çevirməsi var ki, bu çevirmə ),( 0 ξxQ  kvadratik formasını 
+kanonik şəklə gətirir. Bu o deməkdir ki, yeni əvəzləmə nəticəsində 
+alınan  
+),()(
+)()(),(
+0
+1, 1,
+0
+111,
+0
+1,
+00
+ηηηαα
+ηαηαξξξ
+xQxa
+xaxaxQ
+n
+kl
+kl
+n
+ji
+jkilij
+n
+k
+kjk
+n
+l
+lil
+n
+ji
+ij
+n
+ji
+jiij
+=⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+=
+===
+∑ ∑
+∑∑∑∑
+= =
+====  
+yeni kvadratik forma, 
+∑
+=
+=
+n
+k
+kkxQ
+1
+20 ),( ηλη  
+şəklindədir və burada kλ -lar ya 1, ya  -1, ya da sıfırdırlar. Bu 
+əmsallara görə (3.1) tənliyi təsnifata ayrılır.  
+ Belə ki, əgər bütün kλ -lar sıfırdan fərqli olmaqla, eyni 
+işarəlidirlərsə, onda (3.1) tənliyinə 0x  nöqtəsində elliptik tənlik və 
+ya elliptik tip tənlik deyirlər. 
+ Əgər kλ -lar içərisində sıfır olanları varsa, onda tənliyə 
+0x  
+nöqtəsində parabolik tənlik və ya parabolik tip tənlik deyilir. 
+ Əgər kλ -lar hamısı sıfırdan fərqli, lakin müxtəlif işarəlidir-
+lərsə, onda tənliyə 0x  nöqtəsində hiperbolik tənlik və ya hiperbolik 
+tip tənlik deyilir. 
+ Tənlik oblastın bütün nöqtələrində elliptik, parabolik və ya 
+hiperbolikdirsə, onda tənliyə verilmiş oblastda elliptik, parabolik və 
+ya hiperbolik tənlik deyilir. 
+ 20
+ 
+ 
+§4. Xüsusi törəməli tənliklər üçün sərhəd  
+məsələlərinin qoyuluşu. 
+ 
+ Diferensial tənliklərin bu və ya digər əlavə şərtləri ödəyən 
+həllərinin tapılması məsələsi xüsusi maraq kəsb edir. Bu əlavə 
+şərtlərdə, bir qayda olaraq, həllin və onun törəmələrinin, həllin 
+axtarıldığı oblastın sərhədindəki qiymətləri verilir. Belə şərtlər 
+ümumi halda sərhəd şərtləri adlanır. Bəzən həllin və onun 
+törəmələrinin qiymətləri, hər hansı arqumentin (məsələn, zamanın) 
+qeyd olunmuş qiyməti üçün verilir. Bu şərtlərə başlanğıc şərtləri və 
+ya Koşi şərtləri deyilir. 
+ Xüsusi törəməli tənliklərin əlavə şərtləri ödəyən həllərinin 
+tapılması məsələsinə riyazi fizikanın sərhəd məsələləri deyilir. Sərhəd 
+məsələlərinin qoyuluşu öyrənilən məsələnin konkret fiziki matiyyəti 
+ilə sıx bağlıdır və  bu prosesi xarakterizə edən kəmiyyətlərin 
+verilməsini təyin edir. 
+ Deyilənləri bəzi misallarla nümayiş etdirək.  
+  Simin rəqs tənliyi. Məlum olduğu üzrə simin rəqsi  
+),(2
+2
+2
+2
+2
+txf
+x
+ua
+t
+u
+=
+∂
+∂
+−
+∂
+∂                         (4.1) 
+tənliyi ilə ifadə olunur. Fərz edək ki, ucları 0=x  və lx =  
+nöqtələrində olan sim, 0=t  anında tarazlıqdan çıxarılaraq, rəqsə 
+başlamışdır. Simin ixtiyari ],0[ lx ∈  nöqtəsinin, verilmiş 0>t  
+anındakı ),( txu  vəziyyətini təyin etmək lazımdır. Başqa sözlə, 
+tənliyinin həlli, D  yarımzolağında təyin olunmuş funksiyadır. Bu 
+oblastın sərhəddi x  oxunun ],0[ l  parçası və lxx == ,0  düz 
+xəttlərinin 0>t  hissələridir.   Tənliyin verdiyi 
+ 21 
+informasiyaya görə, onun x  nöqtəsinə t  anında ),( txf  xarici 
+qüvvəsi təsir edir. Bu informasiya simin vəziyyətini təyin etmək üçün 
+kifayət deyil. Onu təyin edə bilmək üçün həyəcanlanmaya başlayan 
+anda simin vəziyyəti, həyəcanlanma ərzində simin uclarının vəziyyəti 
+və s məlum  olmalıdır.  
+Tutaq ki, simin başlanğıc  vəziyyəti və başlanğıc sürəti 
+məlumdur. Bu riyazi olaraq,  
+lxxtxu t ≤≤== 0),(),( 00 ϕ ,                   (4.2) 
+lxx
+t
+txu
+t
+≤≤=
+∂
+∂
+=
+0),(),( 1
+0
+ϕ                  (4.3) 
+şərtlərinin verilməsi deməkdir. 
+Bu şərtlərə Koşi şərtləri və ya başlanğıc şərtlər deyilir. 
+Simin ucları bərkidilə bilər və ya ucların yerdəyişmə qanunu 
+verilə bilər 
+0),(),( 00 >== txtxu x ψ ,                        (4.2) 
+0),(),( 1 >== txtxu lx ψ .                         (4.3) 
+Simin uclarının bərkidilməsi 0)(,0)( 00 ≡≡ tt ψψ  deməkdir.  
+ Bu əlavə (4.2)-(4.5) şərtləri həllin axtarıldığı oblastın 
+0,,0 === tlxx  sərhəddi üzərində ödənilməlidir. Ona görə də bu 
+şərtlərə birlikdə sərhəd şərtləri deyilir. 
+Göstərmək olur ki, sərhəd şərtlərindəki funksiyalar üzərinə 
+qoyulmuş bəzi şərtlər daxilində, (4.1) tənliyinin (4.2)-(4.5) şərtlərini 
+ödəyən yeganə həlli var. Bu o deməkdir ki, bu şərtlər simin rəqs 
+prosesini tam xarakterizə edir, yəni bu şərtlər içərisində artıq olanı və 
+çatışmayanı yoxdur. 
+Stasionar istilikkeçirmə tənliyi. Əgər Ω  cismində gedən 
+istilikkeçirmə prosesi zamandan asılı deyilsə, onda bu proses 
+ 22
+),,(
+2
+2
+2
+2
+2
+2
+zyxf
+z
+u
+y
+u
+x
+uu =
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+≡∆               (4.6) 
+Puasson tənliyi ilə ifadə olunur, burada ),,( zyxf  funksiyası 
+),,( zyx  nöqtəsindək istilik mənbəyinin intensivliyini xarakterizə 
+edir. 
+Təkcə diferensial tənliyin verilməsi, Ω  cismində istiliyin 
+yayılmasını təyin etmək üçün kifayət deyil. Tutaq ki, cismin S  
+səthinin temperaturunu ölçmək mümkün olmuşdur və sərhəddin 
+),,( ζηξ  nöqtəsinin temperaturu ),,( ζηξϕ -dir. Onda əlavə olaraq 
+),,( ζηξϕ=Su                               (4.7) 
+sərhəd şərtini alarıq. Bu şərtə Dirixle şərti, (4.6) tənliyinin (4.7) 
+şərtini ödəyən həllinin tapılması məsələsinə isə Dirixle məsələsi 
+deyilir. 
+Göstərmək olur ki, kifayət qədər geniş şərtlər daxilində (4.6), 
+(4.7) Dirixle məsələsinin yeganə həlli var. 
+Əgər oblastın sərhəddində cismin temperaturu əvəzinə, istilik 
+selinin intensivliyi məlum olarsa, səhəd şərti  
+),,( ζηξψ
+ν
+=
+∂
+∂
+S
+u                            (4.8) 
+şəklində verilir, burada ν  S  səthinə çəkilmiş normaldır. Bu sərhəd 
+şərti Neyman  şərti, (4.6), (4.8) məsələsi isə Neyman məsələsi 
+adlanır.  
+Dirixle və Neyman məsələlərini, ixtiyari n  ölçülü oblastlar 
+üçün və həm də, daha ümumi elliptik tənliklər üçün qoymaq olar. 
+Qeyri-stasionar istilikkeçirmə tənliyi. Bu proses sadə halda  
+),,,(2 tzyxfua
+t
+u
+=∆−
+∂
+∂                       (4.9) 
+tənliyi ilə ifadə olunur. 
+Tutaq ki, 0=t  başlağıc anında Ω  cisminin temperaturu  
+ 23 
+Ω∈== ),,(),,,(),,,( 0 zyxzyxtzyxu t ϕ          (4.10) 
+məlumdur. Aydındır ki, cismin daxilində istiliyin yayılmasına onun 
+S  səthindəki istilik rejimi təsir edir. İstənilən 0>t  anında cismin 
+səthinin temperaturunun  
+0),,( >=∈ ttpu Sp ψ                        (4.11) 
+verilməsi, (4.10) şərti ilə birlikdə, istənilən 0>t  anında cismin 
+temperaturunu təyin etməyə imkan verir. (4.9), (4.10), (4.11)  
+məsələsinə, istilikkeçirmə tənliyi üçün birinci sərhəd məsələsi deyilir. 
+Əgər cismin səthinin temperaturu əvəzinə, istənilən 0>t  
+anında səthdən keçən temperatur seli  
+0),,( >=
+∂
+∂
+∈
+ttpu
+Sp
+ψ
+ν
+                   (4.12) 
+verilərsə, (4.9), (4.10), (4.12) məsələsinə istilikkeçirmə tənliyi üçün 
+ikinci sərhəd məsələsi deyilir. 
+ 
+ 
+ 
+§5. Xarakteristik səth. Koşi məsələsinin qoyuluşu. 
+ 
+Tutaq ki, n  ölçülü fəzada iki tərtibli xüsusi törəməli  
+),,()(
+1,
+2
+x
+n
+ji ji
+ij uuxfxx
+uxa =
+∂∂
+∂∑
+=
+                  (5.1) 
+diferensial tənliyi verilmişdir. 
+Bu tənliyin ikinci tərtib törəmələrinin əmsallarının daxil olduğu  
+0
+1,
+=
+∂
+∂
+∂
+∂∑
+= ji
+n
+ji
+ij xx
+a FF                           (5.2) 
+tənliyinə, (5.1) xüsusi törəməli tənliyinin xarakteristik tənliyi deyilir. 
+Əgər ),,,( 21 nxxx KF  funksiyası (5.2) tənliyini ödəyirsə, onda, 
+ixtiyari c  sabiti üçün  
+ 24
+cxxx n =),,,( 21 KF                             (5.3) 
+tənliyinin təyin etdiyi səthə, (5.1) tənliyinin xarakteristikası və ya 
+xarakteristik səthi deyilir. 
+Göstərək ki, tənliyin xarakteristik  səthi, qeyri-məxsusi 
+çevirməyə nəzərən invariantdır. Başqa sözlə, göstərək ki, əgər (5.3) 
+səthi, (5.1) tənliyinin xarakteristik səthidirsə, onda bu səth ixtiyari 
+qeyri-məxsusi  
+nkxxx nkk ,,2,1),,,( 21 KK == ξξ                (5.4) 
+çevirməsi nəticəsində, (5.1) tənliyinin gətirildiyi  
+),,(
+1,
+2
+ξξξ
+uuxFuA
+n
+lk lk
+kl =∂∂
+∂∑
+=
+                  (5.5) 
+tənliyinin də xarakteristik səthidir, burada əmsallar  
+K,2,1,
+1,
+=
+∂
+∂
+∂
+∂
+= ∑
+=
+lk
+xx
+aA
+n
+ji j
+l
+i
+k
+ijkl
+ξξ
+ 
+bərabərlikləri ilə təyin olunurlar. 
+Doğrudan da, alınmış (5.5) tənliyinin xarakteristik tənliyi  
+0
+1,
+=
+∂
+∂
+∂
+∂∑
+=
+n
+lk lk
+klA ξξ
+FF                        (5.6) 
+şəklindədir. Digər tərəfdən, (5.1) tənliyinin (5.2) xarakteristik 
+tənliyində (5.4) əvəzləməsi aparsaq  
+∑
+∑
+=
+=
+∂
+∂
+∂
+∂
+=
+∂
+∂
+∂
+∂
+∂
+∂
+=
+∂
+∂
+n
+l j
+l
+lj
+n
+k i
+k
+ki
+xx
+F
+xx
+F
+1
+1
+,
+ξ
+ξ
+ξ
+ξ
+F
+F
+ 
+olduğundan,  
+ 25 
+∑
+∑∑∑∑
+=
+====
+∂
+∂
+∂
+∂
+=
+=
+∂
+∂
+∂
+∂
+∂
+∂
+∂
+∂
+=
+∂
+∂
+∂
+∂
+n
+lk lk
+kl
+n
+l j
+l
+l
+n
+k i
+k
+k
+n
+ji
+ij
+n
+ji ji
+ij
+A
+xx
+a
+xx
+a
+1,
+111,1,
+ξξ
+ξ
+ξ
+ξ
+ξ
+FF
+FFFF
+ 
+alırıq ki, bu da (5.2) tənliyini ödəyən səthin, (5.6) tənliyini də 
+ödədiyini göstərir. 
+İndi tutaq ki, S  səthi n  ölçülü fəzada ixtiyarı hamar səthdir. 
+Bu səthin hər nöqtəsində, o səthə çəkilən toxunan müstəvi üzərində 
+yerləşməyən ixtiyari λ  istiqaməti təyin edək. 
+Aşağıdakı kimi məsələyə baxaq: 
+S  səthinin müəyyən ətrafında (5.1) tənliyinin elə həllini 
+tapmalı ki, bu həll  
+)(0 xu S ϕ= ,                               (5.7) 
+)(1 x
+u
+S
+ϕ
+λ
+=
+∂
+∂
+                            (5.8) 
+sərhəd şərtlərini ödəsin. 
+Bu məsələyə Koşi məsələsi, (5.7), (5.8) şərtlərinə Koşi şərtləri, 
+S  səthinə isə Koşi daşıyıcısı və ya Koşi səthi deyilir. 
+Göstərək ki, əgər Koşi daşıyıcısı xarakteristik səthdirsə, yəni 
+Koşi şərtləri xarakteristik səth üzərində verilmişsə, onda qoyulmuş 
+məsələnin ümumiyyətlə həlli yoxdur. 
+Sadəlik üçün, bunu ikidəyişənli  
++
+∂
+∂+
+∂∂
+∂+
+∂
+∂
+2
+22
+2
+2
+),(),(2),(
+y
+uyxc
+yx
+uyxb
+x
+uyxa  
+),(),(),(),( yxfuyx
+y
+uyx
+x
+uyx =+
+∂
+∂+
+∂
+∂+ γβα         (5.9) 
+tənliyi misalında göstərək. 
+Tutaq ki, cx =  düz xətti bu tənliyin xarakteristikasıdır və 
+ 26
+0=x  xarakteristikası üzərində  
+)(),( 0 yyxu x ϕ== ,                         (5.10) 
+)(),(
+0
+y
+x
+yxu
+x
+ψ=
+∂
+∂
+=
+                      (5.11) 
+Koşi şərtləri verilmişdir. 
+cx =  düz xətti, (5.9) tənliyinin xarakteristikasıdırsa, tənlikdə 
+xxu  törəməsinin əmsalı 0),( =yxa  olmalıdır. Tənliyə daxil olan, 
+yerdə qalan törəmələrin hamısını 0=x  xarakteristikası üzərində, 
+(5.10), (5.11) şərtlərindən tapmaq olar. Doğrudan da, (5.10) şərtini 
+diferensiallamaqla  
+),(),(
+0
+2
+2
+0
+y
+y
+uy
+y
+u
+xx
+ϕϕ ′′=
+∂
+∂′=
+∂
+∂
+==
+ 
+(5.11) şərtini diferensiallamaqla 
+)(
+0
+2
+y
+yx
+u
+x
+ψ ′=
+∂∂
+∂
+=
+ 
+taparıq. Bunları və (5.10), (5.11) şərtlərini, (5.9) tənliyində nəzərə 
+alsaq, 0=x  xarakteristikası üzərində  
+ 
+++′′+′ )(),0()(),0()(),0(2 yyyycyyb ψαϕψ  
+),0()(),0()(),0( yfyyyy =+′+ ϕγϕβ             (5.12) 
+şərtinin ödənməli olduğunu alarıq. 
+Deməli, əgər (5.10), (5.11) Koşi şərtlərində verilən funksiyalar, 
+(5.12) şərtini ödəmirlərsə, onda (5.9), (5.10), (5.11) Koşi məsələsinin 
+həlli yoxdur. Bu o deməkdir ki, )(xϕ  və )(xψ  funksiyaları ixtiyari 
+şəkildə verilə bilməzlər. 
+ 
+ 
+ 
+§6. Korrektlik anlayışı.  Adamar misalı.  
+ 27 
+ 
+Sərhəd məsələlərinin qoyuluşu zamanı gördük ki, diferensial 
+tənliyin ifadə etdiyi fiziki prosesin mahiyyətinə uyğun olaraq, onu 
+xarakterizə edən ilkin məlumatlar sərhəd şərtləri şəklində verilir. Bu 
+sərhəd şərtlərinə daxil olan funksiyalar müəyyən təcrübələr və 
+ölçülərin nəticəsində təyin olunurlar. Ona görə də bu funksiyalar 
+mütləq dəqiq şəkildə verilə bilməzlər və onların verilməsində 
+müəyyən xətalar mümkündür. 
+Başlanğıc funksiyaların verilməsindəki bu xətalar məsələnin 
+həllinə də təsir göstərir. Bəzən başlanğıc funksiyaların kiçik 
+dəyişməsi, həllin əsaslı dəyişməsilə müşayət olunur.  
+Qoyulmuş sərhəd məsələlərinin praktiki tətbiqi baxımından, 
+ancaq həlləri başlanğıc funksiyalardan kəsilməz asılı olan məsələlər 
+xüsusi əhəmiyyət kəsb edir. 
+Belə məsələlərə, yəni başlanğıc şərtlərin kiçik dəyişməsinə, 
+həllin kiçik dəyişməsi uyuğun gələn məsələlərə korrekt məsələlər 
+deyilir. 
+Korrekt olmayan məsələyə aid misal olaraq, keçən əsrin 
+əvvəllərində Adamarın qurduğu aşağıdakı misalı göstərək. 
+Yuxarı }0,22{ >≤≤− yx
+ππ  yarımzolağında  
+0
+2
+2
+2
+2
+=
+∂
+∂
++
+∂
+∂
+y
+u
+x
+u
+ 
+Laplas tənliyinin elə həllini tapmalı ki, bu həll yarımzolağın 
+sərhəddində  
+,),,(),,,( 30 Ezyxzyxu t ∈== ϕ
+ 
+nxe
+y
+u n
+y
+cos
+0
+−
+=
+=
+∂
+∂                              (6.1) 
+sərhəd şərtlərini ödəsin. 
+ 28
+Göstərmək olar ki, n  tək ədəd olduqda,  
+nynxe
+n
+yxu n shcos1),( ⋅= −                   (6.2) 
+bərabərliyi ilə təyin olunmuş ),( yxu  funksiyası, qoyulmuş mə-
+sələnin həllidir. Həmdə göstərmək olar ki, bu həll yeganədir. 
+n  parametrinin kafi qədər böyük qiymətlərində, (6.1) şərtinin 
+sağ tərəfi sıfıra istənilən qədər yaxın olduğu halda, (6.2) həlli ixtiyari 
+0>y  üçün, amplitudası istənilən qədər böyük olan kosinusoidanı 
+ifadə edir. 
+Bu onu göstərir ki, başlanğıc funksiyanın sıfırdan azacıq 
+fərqlənməsi, həllin sıfırdan istənilən qədər böyük fərqlənməsinə 
+gətirir. Deməli, qoyulmuş məsələ korrekt deyil.  
+ 
+ 29 
+I I  F Ə S İ L .   
+D A LĞA  TƏN L İY İ  Ü Ç Ü N  
+K OŞ İ  MƏ SƏLƏ S İ .  
+ 
+§1. Xarakteristik konus. Koşi məsələsi. 
+ 
+ İki tərtibli 
+),(),(),(),(
+11,
+2
+2
+2
+txfutxc
+x
+utxb
+xx
+utxa
+t
+u n
+i i
+i
+n
+ji ji
+ij =+∂
+∂
++
+∂∂
+∂
+−
+∂
+∂ ∑∑
+==
+ (1.1) 
+tənliyində, istənilən sıfırdan fərqli ),,,( 21 nξξξξ K=  vektoru üçün 
+0
+1,
+>∑
+=
+n
+ji
+jiija ξξ  
+şərti ödənirsə, onda (1.1) tənliyinə dalğa tənliyi deyilir. 
+ Daha sadə dalğa tənliyinə baxaq 
+),(
+1,
+2
+2
+txf
+x
+ua
+xt
+u n
+ji j
+ij
+i
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+−
+∂
+∂ ∑
+=
+.              (1.2) 
+ Bu tənlik fiziki olaraq, intensivliyi ),( txf  kəmiyyəti ilə mü-
+tənasib olan kəsilməz paylanmış mənbələrin təsiri ilə həyəcanlanmış 
+mühitin kiçik rəqsini ifadə edir. Əgər mühit bircinsdirsə və onun 
+fiziki xassələri zamandan asılı deyilsə, onda ija  əmsalları sabitdirlər. 
+Bu halda affin koordinat çevirməsinin köməyi, daha sadə  
+),(22
+2
+txfua
+t
+u =∆−
+∂
+∂                          (1.3) 
+dalğa tənliyini alarıq, burada consta = ,  
+ 30
+∑
+= ∂
+∂=∆
+n
+k kx
+uu
+1
+2
+2
+. 
+Laplas operatorudur. 
+ Dalğa tənliyinin xarakteristik tənliyi 
+0
+1,
+2
+=
+∂
+∂
+∂
+∂
+−⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂ ∑
+=
+n
+ji ji
+ij xx
+a
+t
+ωωω                    (1.4) 
+şəklindədir. Aydındır ki, ttx ≡),(ω  funksiyası (1.4) xarakteristika 
+tənliyini ödəmir, və buna görə də constt =  müstəvisi dalğa tənliyi 
+üçün xarakteristik səth deyilir. Məhz buna görə də, constt =  səthi 
+üzrə Koşi məsələsi qoymaq olar.  
+ Biz ancaq sadə (1.3) dalğa tənliyinə baxacağıq.  
+ Koşi məsələsi: Verilmiş nEx ∈ , 0>t  yarımfəzasında 
+(1.3) dalğa tənliyinin elə həllini tapmalı ki, o həll 
+ 
+nt Exxu ∈== ),(0 ϕ                           (1.5) 
+n
+t
+Exx
+t
+u
+∈=
+∂
+∂
+=
+),(
+0
+ψ                       (1.6) 
+başlanğıc şərtlərini ödəyir. 
+ Dalğa tənliyi üçün xarakteristik konus anlayışının böyük 
+əhəmiyyəti var. Bu anlayışı verək. 
+ Fəzada hər hansı ),(),,,,( 0
+0
+0
+00
+2
+0
+1 txtxxx n =K  nöqtəsi 
+götürək və 20
+1
+)( kk
+n
+k
+xxr −Σ=
+=
+ işarə edək. Tənliyi  
+ttr −= 0                                   (1.7) 
+şəklində olan səthə baxaq. Bu səth təpəsi ),( 0
+0 tx  nöqtəsində və oxu 
+t  oxuna paralel olan konus səthdir. Göstərmək olar ki, bu səth (1.3) 
+ 31 
+tənliyi üçün xarakteristik səthdir, yəni 0),( ttrtx −+≡ω  funksiyası 
+0
+1
+2
+2
+2
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂−⎟
+⎠
+⎞⎜
+⎝
+⎛
+∂
+∂ ∑
+=
+n
+k kx
+a
+t
+ωω  
+tənliyini ödəyir. 
+ Yuxarıdakı (1.7) tənliyi ilə verilmiş konusa, dalğa tənliyi 
+üçün xarakteristik konus deyilir. 
+ 
+ 
+ 
+§2. Koşi məsələsi üçün yeganəlik teoremi. 
+ 
+ Teorem: Tutaq ki, iki dəfə kəsilməz törəmələrə malik olan 
+1u  və 2u  funksiyaları təpəsi ),( 00 tx  nöqtəsində yerləşən ttr −< 0  
+konusu daxilində 21 LuLu =  şərtini və bu konusun 0=t  
+müstəvisindən ayrıldığı 0tr <  şarı daxilində 21 uu =  və 
+t
+u
+t
+u
+∂
+∂
+=
+∂
+∂ 21  şərtlərini ödəyirlər. Onda bu konusun daxilində və 
+onun səthi üzərində ),(),( 21 txutxu ≡ .  
+ Teoremi isbat etmək üçün göstərək ki, əgər 21 uuw −=  
+funksiyası ttr −< 0  konusu daxilində bircins  
+ 
+02
+2
+=∆−
+∂
+∂≡ w
+t
+wLw                            (2.1) 
+dalğa tənliyini və  
+0,0
+0
+0 =∂
+∂
+=
+=
+=
+t
+t t
+ww                        (2.2) 
+başlanğıc şərtlərini ödəyirsə, onda 0≡w .  
+Xarakteristik ttr −= 0  konus səthi və 0=t  müstəvisi ilə 
+ 32
+əhatə olunmuş oblastı D ilə işarə edək. Bu oblastın daxilində və  ya 
+konus  səthi  üzərində  ixtiyari  ),( tx   nöqtəsi  götürək və yeni 
+ttr −=  xarakteristik konusu quraq, burada 
+2
+1
+)( kk
+n
+k
+xxr −∑=
+=
+, ),,,( 21 nxxxx K= . Sonuncu konus səthilə 
+0=t  müstəvisi arasında qalan oblastı D  ilə işarə edək. Bu D  və 
+D  oblasları 0=t  müstəvisində uyğun olaraq Ω  və Ω  şarlarına 
+söykənirlər. Aydındır ki, Ω  şarı Ω  şarı daxilindədir və buna görə 
+də Ω  şarı üzərində də (2.2) başlanğıc şərtləri ödəniləcək. 
+Bilavasitə yoxlamaqla  
+2
+2
+2
+2
+2
+2
+2
+1
+,
+2
+1
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+⋅−⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+∂
+∂
+=
+∂
+∂
+⋅
+∂
+∂
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+⋅=
+∂
+∂
+⋅
+∂
+∂
+kkkk x
+w
+tx
+w
+t
+w
+xx
+w
+t
+w
+t
+w
+tt
+w
+t
+w
+     (2.3) 
+eyniliklərini isbat etmək olar. Verilmiş (2.1) tənliyini 
+t
+w
+∂
+∂ -yə vuraq 
+və D  oblastı üzrə inteqrallayaq. Bu zaman (2.3) eyniliklərini nəzərə 
+alsaq, Qrin dysturunun köməyilə  
+  
+=
+⎪⎭
+⎪
+⎬
+⎫
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+∂
+∂
+−
+⎥
+⎥
+⎦
+⎤
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+⎩
+⎨
+⎧
+⎢
+⎣
+⎡
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+⋅=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+∂
+∂
+∑∑
+∫∫ ∑
+==
+=
+dxdt
+x
+w
+t
+w
+xx
+w
+t
+w
+t
+dxdt
+x
+w
+t
+w
+t
+w
+n
+k kk
+n
+k k
+DD
+n
+k k
+11
+2
+2
+1
+2
+2
+2
+2
+2
+1
+ 
+∫ ∑⎪⎩
+⎪
+⎨
+⎧
+−
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+⋅=
+=S
+n
+k k
+t
+x
+w
+t
+w
+t
+),cos(
+2
+1
+1
+22
+ν  
+ 33 
+Sdx
+x
+w
+t
+wn
+k
+k
+k ⎭
+⎬
+⎫
+∂
+∂
+∂
+∂
+⋅− ∑
+=1
+),cos(2 ν                (2.4) 
+yaza bilərik, burada S  ilə D  oblastının sərhəddini, ν  ilə bu 
+sərhəddin istənilən nötəsində səthə çəkilən xarici normalı, Sd  ilə 
+səth elementini işarə etmişik. 
+ Oblastın S  səthi, K  konik səthdən və Ω  şarından ibarət-
+dir. Yuxarıda dediyimiz kimi Ω  şarı üzərində (2.2) şərtləri ödənir. 
+Bu şar 0=t  müstəvisində yerləşdiyindən və t  oxu kx  oxları ilə 
+ortoqonal olduğundan həmin şar üzərində ,0=
+∂
+∂
+kx
+w  nk ,,2,1 K=  
+şərtləri də ödənir. 
+ Yuxarıdakı (2.4) bərabərliyində, Ω  şarı üzrə inteqralaltı 
+funksiyaların sıfır olduğunu və w  funksiyasının D  oblastında Lw  
+tənliyini ödədiyini nəzərə alsaq, buradan  
+ 
+⎮⎮⌡
+⌠
+⎪⎩
+⎪
+⎨
+⎧
+−
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂ ∑
+=
+K
+n
+k k
+t
+x
+w
+t
+w ),cos(
+1
+22
+ν  
+0),cos(2
+1
+=
+⎪⎭
+⎪
+⎬
+⎫
+∂
+∂
+∂
+∂
+− ∑
+=
+Kdx
+x
+w
+t
+wn
+k
+k
+k
+ν                 (2.5) 
+bərabərliyini alarıq. 
+ Diferensial həndəsədən məlum olduğu kimi, tənliyi  
+||,0),( xxrttrtx −==−+≡ω  
+şəklində verilən K  səthinə çəkilən ν  normalının yönəldici 
+kosinusları üçün  
+ 34
+2
+1),cos(
+2
+1
+2
+=
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂∑+⎟
+⎠
+⎞⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+=
+= k
+n
+k xt
+tt
+ωω
+ω
+ν  
+və  
+2
+1),(cos1),(cos 2
+1
+2 =−=∑
+=
+tx
+n
+k
+k νν  
+münasibətləri doğrudur. Burada 
+),(cos),(cos 2
+1
+2 tx
+n
+k
+k νν =∑
+=
+.                      (2.6) 
+İndi (2.5) bərabərliyinin hər tərəfini 
+2
+1
+),cos( =tν  sabitinə 
+vurub, (2.6) bərabərliyini nəzərə alsaq,  
+ 
+0),cos(),cos(
+1
+2
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+∂
+∂
+−
+∂
+∂
+∫∑
+=K
+n
+k k
+k Kdtx
+wx
+t
+w
+νν  
+alarıq. Bu bərabərlik göstərir ki, K  konus səthi üzərində  
+nkt
+x
+wx
+t
+w
+k
+k ,,2,1,0),cos(),cos( K==∂
+∂
+−
+∂
+∂
+νν  
+bərabərlikləri doğrudur. Buradan da  
+),cos(),cos(),cos(),cos( 2
+2
+1
+1
+t
+t
+w
+x
+x
+w
+x
+x
+w
+x
+x
+w
+n
+n
+νννν
+∂
+∂
+=
+∂
+∂
+==
+∂
+∂
+=
+∂
+∂
+L  
+münasibətlərini alarıq. Bu onu göstərir ki, K  konusu üzərində  
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+∂
+∂
+∂
+∂=
+t
+w
+x
+w
+x
+w
+x
+ww
+n
+,,,,grad
+21
+L  
+vektoru səthə çəkilmiş normala paraleldir.  
+ Onda K  konusu üzərində ixtiyari l  doğuran götürsək, 
+ 35 
+aydındır ki, wgrad  vektoru bu doğurana ortoqonal olacaq. Bu isə o 
+deməkdir ki, 
+0grad ==
+∂
+∂ wp
+l
+w
+r . 
+ Buradan alırıq ki, K  konusunun ixtiyari l  doğuranı üzrə 
+w  funksiyası sabitdir. Xüsusi halda K  konusunun ),( tx  təpəsində 
+w  funksiyasının aldığı qiymət, l  doğuranın 0=t  müstəvisi 
+üzərində yerləşən ücünda aldığı qiymətə bərabərdir. Biz də yuxarıda 
+demişdik ki, Ω  şarı üzərində w  funksiyası sıfırdır. Deməli, 
+0),( =txw . Götürülmüş ),( tx  nöqtəsinin, D  oblastı daxilində və 
+ya konus səthi üzərində ixtiyari nöqtə olduğundan alırıq ki, 
+0),( ≡txw . 
+ Bununla yeganəlik teoremi isbat olur. Bu teorem göstərir ki, 
+(2.1) tənliyinin həllinin ixtiyari ),( 0
+0 tx  nöqtəsindəki qiyməti 
+başlanğıc funksiyaların ancaq 0
+0 || txx ≤−  şarı daxilindəki 
+qiymətləri ilə təyin olunur. Həmin şarın xaricində başlanğıc 
+funksiyaların istənilən qaydada dəyişməsi, həllin ),( 0
+0 tx  
+nöqtəsindəki qiymətinə təsir etmir. Bu şar təpəsi ),( 0
+0 tx  nöqtəsində 
+yerləşən ttxx −≤− 00 ||  xarakteristik konusun 0=t  müstəvisində 
+yerləşən oturacağıdır.  
+ İxtiyari ),( 0
+0 tx  nöqtəsi üçün asılılıq oblastı elə oblasta 
+deyilir ki, həmin oblastda başlanğıc funksiyaların qiymətlərini 
+bilmək, ),( 0
+0 txu  qiymətiini təyin etmək üçün kifayətdir. Yuxarıda 
+dediklərimizə əsasən, ),( 0
+0 tx  nöqtəsinin asılılıq oblastı, təpəsi bu 
+nöqtədə yerləşən xarakteristik ttxx −≤− 00 ||  konusunun 0=t  
+müstəvisindəki oturacağı olan 0
+0 || txx ≤−  şarıdır. 
+ 36
+§3. Bircins tənlik üçün Koşi məsələsinin  
+həllinin qurulması. 
+ 
+Aşağıdakı Koşi məsələsinin həlli ilə məşğul olaq. Tutaq ki, 
+0
+2
+2
+2
+2
+2
+2
+2
+2
+2
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+−
+∂
+∂
+z
+u
+y
+u
+x
+ua
+t
+u               (3.1) 
+tənliyinin  
+,),,(),,,( 30 Ezyxzyxu t ∈== ϕ                    (3.2) 
+3
+0
+),,(),,,( Ezyxzyx
+t
+u
+t
+∈=
+∂
+∂
+=
+ψ                 (3.2) 
+başlanğıc şərtini ödəyən həllini tapmaq tələb olunur. 
+ Əvvəlcə  
+∫=
+atS
+rdra
+tzyxw σζηξµ
+π
+),,(
+4
+1),,,(              (3.4) 
+inteqralına baxaq, burada atS  mərkəzi ),,( zyxM  nöqtəsində olan 
+atr =  radiuslu sferanın səthidir. Göstərək ki, iki dəfə kəsilməz 
+törəməyə malik ixtiyari ),,( ζηξµ  funksiyası üçün (3.4) düsturu ilə 
+təyin olunmuş funksiya (3.1) tənliyinin  
+ 
+,00 ==tw                                         (3.5) 
+),,,(
+0
+zyx
+t
+w
+t
+µ=
+∂
+∂
+=
+                         (3.6) 
+şərtlərini ödəyən həllidir. 
+ Sferanın radius vektorunun yönəldici kosinuslarını ),,( γβα  
+ilə işarə edək. Onda, atS  sferası üzərindəki ),,( ζηξ  nöqtəsinin 
+koordinatlarını  
+atzatyatdx ⋅+=⋅+=⋅+= γζβηξ ,,  
+ 37 
+şəklində göstərə bilərik. Aydındır ki, ),,( ζηξ  nöqtəsi atS  sferası 
+üzərində dəyişdikdə ),,( γβα  nöqtəsi mərkəzi koordinat 
+başlanğıcında olan vahid radiuslu 1S  sfepası üzərində dəyişəcək. Bu 
+sferaların rdσ  və 1σd  səth elementləri arasındakı 
+1
+22
+1
+2 σσσ dtadrd r ==  
+münasibəti nəzərə alsaq, (3.4) inteqralı 
+∫ ⋅+⋅+⋅+=
+1
+1),,(4
+),,,(
+S
+datzatyatxttzyxw σγβαµ
+π
+  (3.7) 
+şəklinə gəlir. Buradan, bilavasitə diferensiallamaqla 
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+∫
+1
+12
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+4 S
+dt
+z
+w
+y
+w
+x
+w
+σ
+ζ
+µ
+η
+µ
+ξ
+µ
+π
+ 
+,
+4
+1
+2
+2
+2
+2
+2
+2
+2 ∫ ⎟⎟⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=
+atS
+rdta
+σ
+ζ
+µ
+η
+µ
+ξ
+µ
+π
+       (3.8) 
++⋅+⋅+⋅+=
+∂
+∂ ∫
+1
+1),,(4
+1
+S
+datzatyatx
+t
+w σγβαµ
+π
+ 
+∫ ⎟⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
++
+1
+14 S
+dat σ
+ζ
+µ
+γ
+η
+µ
+β
+ξ
+µ
+α
+π
+         (3.9) 
+bərabərliklərini ala bilərik. Axırıncı bərabərliyi, (3.7)-nin köməyilə, 
+∫ ⎟⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
++=
+∂
+∂
+atS
+rdatt
+w
+t
+w
+σ
+ζ
+µ
+γ
+η
+µ
+β
+ξ
+µ
+α
+π4
+1  
+yazaraq, sağ tərəfdəki inteqrala Qrin düsturunu tətbiq etsək, 
+∫
+Ω
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂+
+∂
+∂+
+∂
+∂+=
+∂
+∂
+at
+ddd
+att
+w
+t
+w ζηξ
+ζ
+µ
+η
+µ
+ξ
+µ
+π 2
+2
+2
+2
+2
+2
+4
+1  
+alarıq, burada atΩ  ilə atS  sferasının əhatə etdiyi kürə işarə 
+ 38
+edilmişdir. İndi 
+∫
+Ω
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=
+at
+dddJ ζηξ
+ζ
+µ
+η
+µ
+ξ
+µ
+2
+2
+2
+2
+2
+2
+ 
+işarə etməklə, axırıncı bərabərliyi 
+at
+J
+t
+w
+t
+w
+π4
++=
+∂
+∂  
+şəklində yaza bilərik. Buradan, asanlıqla 
+t
+J
+att
+J
+atat
+J
+at
+J
+t
+w
+tt
+w
+t
+w
+∂
+∂
+=
+∂
+∂
++−⎟
+⎠
+⎞
+⎜
+⎝
+⎛ ++−=
+∂
+∂
+ππππ 4
+1
+4
+1
+44
+1
+222
+2
+ 
+alarıq. Digər tərəfdən, atΩ  kürəsi üzrə olan inteqralı 
+∫ ∫ ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=
+at
+S
+ddJ
+0
+2
+2
+2
+2
+2
+2
+ρ
+ρσ
+ζ
+µ
+η
+µ
+ξ
+µ
+ρ  
+şəklində yazaraq diferensiallasaq, 
+∫ ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=
+∂
+∂
+atS
+rdat
+J
+σ
+ζ
+µ
+η
+µ
+ξ
+µ
+2
+2
+2
+2
+2
+2
+ 
+alarıq ki, buradan da 
+∫ ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=
+∂
+∂
+atS
+rdtt
+w
+σ
+ζ
+µ
+η
+µ
+ξ
+µ
+π 2
+2
+2
+2
+2
+2
+2
+2
+4
+1  
+alınar. Bu axırıncı bərabərlik, (3.8) bərabərliyi ilə bir yerdə göstərir 
+ki, (3.4) düsturu ilə təyin olunan funksiya (3.1) tənliyini ödəyir. Bu 
+funksiyanın (3.5) və (3.6) şərtlərini ödəməsi isə (3.7) və (3.9) 
+bərabərliklərindən alınır. 
+İndi tutaq ki, ),,,( tzyxw  (3.4) bərabərliyi ilə təyin olunmuş 
+funksiyadır. Yeni  
+ 39 
+t
+wtzyxv
+∂
+∂
+=),,,(  
+funksiyası təyin edək. Aydındır ki, ),,,( tzyxv  funksiyası (3.1) 
+tənliyini və  
+),,(
+0
+0 zyxt
+wv
+t
+t µ=∂
+∂
+=
+=
+=  
+şərtini ödəyir. Digər tərəfdən, 
+0
+2
+2
+2
+2
+2
+2
+2
+0
+2
+2
+0 ===
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
++
+∂
+∂
+=
+∂
+∂
+=
+∂
+∂
+ttt z
+w
+y
+w
+x
+wa
+t
+w
+t
+v  
+olduğundan, (3.5) şərtinə əsasən, 
+0
+0
+=
+∂
+∂
+=tt
+v  
+başlanğıc şərti də ödənilir. 
+ Bu deyilənlərdən aydındır ki, əgər ),,( zyxϕ  və ),,( zyxψ  
+funksiyaları uyğun olaraq üç dəfə və iki dəfə kəsilməz törəmələrə 
+malik funksiyalardırsa, onda onların köməyi ilə düzəldilmiş 
+∫
+∫
+∂
+∂
+=
+=
+at
+at
+S
+r
+S
+r
+d
+rta
+tzyxu
+d
+ra
+tzyxu
+σ
+ζηξϕ
+π
+σ
+ζηξψ
+π
+),,(
+4
+1),,,(
+,),,(
+4
+1),,,(
+2
+1
+ 
+funksiyaları (3.1) tənliyinin 
+),,(
+,0
+0
+1
+01
+zyx
+t
+u
+u
+t
+t
+ψ=
+∂
+∂
+=
+=
+=
+ 
+və  
+ 40
+0
+),,,(
+0
+2
+02
+=
+∂
+∂
+=
+=
+=
+t
+t
+t
+u
+zyxu ϕ
+ 
+şərtlərini ödəyən həlləridir. Onda (3.1), (3.2), (3.3) məsələsinin 
+həlli 
+),,,(),,,(),,,( 21 tzyxutzyxutzyxu +=  
+şəklində göstərilmiş olacaq. 
+ Beləliklə, (3.1), (3.2), (3.3) məsələsinin həlli üçün 
+∫∫ ∂
+∂
++=
+atat S
+r
+S
+r drta
+d
+ra
+tzyxu σζηξϕ
+π
+σ
+ζηξψ
+π
+),,(
+4
+1),,(
+4
+1
+),,,(  (3.10) 
+düsturunu alırıq. Bu düstura Koşi məsələsinin həlli üçün Kirxof 
+düsturu deyilir. 
+ Bu düstur dalğanın yayılmasındakı bəzi keyfiyyətləri 
+müşahidə etməyə imkan verir. 
+Xüsusi halda, Kirxof düsturu göstərir ki, t  anında ),,( zyxM  
+nöqtəsində Koşi məsələsinin həllinin qiyməti, başlanğıc 
+funksiyaların ancaq mərkəzi bu nöqtədə olan at  radiuslu atS  
+sferası üzərindəki qiymətlərindən asılıdır. Bu fakta səs 
+nəzəriyyəsində Hyügens prinsipi deyilir. 
+Bunu daha aydın təsəffür etmək üçün fərz edək ki, başlanğıc 
+həyəcanlanma ancaq hər hansı məhdud G  oblastında mövcuddur, 
+başqa sözlə ϕ  və ψ  funksiyyaları G  oblastından kənarda eynilik 
+kimi sıfırdırlar. Bu oblastın sərhəddini γ  ilə işarə edək. Fərz edək 
+ki, ),,( zyxM  nöqtəsi G  oblastından kənarda yerləşən nöqtədir. Bu 
+nöqtənin γ  sərhəddindən olan ən böyük və ən kiçik məsafələrini L  
+və l  ilə işarə edək. Aydındır ki, 
+a
+lt <  şərtini ödəyən anlar üçün, 
+atS  sferası G  oblastı ilə kəsişmir və buna görə də ),,( zyxM  
+ 41 
+nöqtəsində hələ həyəcanlanma yoxdur. Yalnız 
+a
+lt =  anında 
+həyəcanlanma M  nöqtəsinə çatır. Buna dalğanın ön çəbhəsi deyilir. 
+Bu andan başlayaraq 
+a
+Lt =  anına qədər M  nöqtəsində həyəcan-
+lanma davam edəcək və yalnız 
+a
+Lt =  anından sonra həyəcanlanma 
+sönəcək, çünki G  oblastı tamamilə atS  sferasının əhatə etdiyi şarın 
+daxilində qalacaq və buna görə də atSG I  boş çoxluq olacaq. Bu 
+andan başlayaraq 0),,,( =tzyxu  olacaq. Bu o deməkdir ki, M  
+nöqtəsindən dalğa artıq keçmişdir (dalğanın arxa cəbhəsi). 
+Verilmiş t  anında dalğanın ön cəbhəsi, həmin anda fəzada rəqs 
+edən nöqtələrlə, hələlik rəqsə başlamamış nöqtələri ayıran səthdir. 
+Bu səthin nöqtələri γ  səthindən at  məsafədədirlər. Başqa sözlə 
+dalğanın ön cəbhəsi mərkəzi γ  səthi üzərində olan at  radiuslu 
+sferaların qurşayanıdır. 
+Verilmiş t  anında dalğanın arxa cəbhəsi, fəzada rəqs etməkdə 
+davam edən nöqtələrlə, rəqsləri dayanmış nöqtələri ayıran səthdir. 
+Çıxardığımız (3.10) düsturunun köməyilə, fəza koordinatlarının 
+sayı iki olan halda da, yəni 
+0
+2
+2
+2
+2
+2
+2
+2
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++
+∂
+∂
+−
+∂
+∂
+y
+u
+x
+ua
+t
+u ,                 (3.11) 
+),(0 yxu t ϕ== ,                                     (3.12) 
+),(
+0
+yx
+t
+u
+t
+ψ=
+∂
+∂
+=
+                                   (3.13) 
+məsələsinin də həllini ala bilərik. 
+ Bu məqsədlə, fərz edək ki, (3.2), (3.3) şərtlərindəki 
+başlanğıc funksiyaları z  dəyişənindən asılı deyillər. Onda (3.10) 
+düsturu ilə ifadə olunan funksiya da z  dəyişənindən asılı olmayacaq 
+ 42
+və alınan funksiya (3.11), (3.12), (3.13) məsələsinin həlli olacaq. 
+ Həllin ifadəsini almaq üçün atS  sferası üzrə inteqralı bu 
+sferanın xy  müstəvisi üzərindəki atC  proyeksiyası üzrə inteqralla 
+ifadə etmək lazımdır. 
+ Aydındır ki, atS  sferasının yuxarı və aşağı yarımsferalarının 
+xy  müstəvisi üzərində proyeksiyaları mərkəzi )0,,( yxM  
+nöqtəsində yerləşən at  radiuslu dairədir. Sferanın radius vektorunun 
+z  oxu ilə əmələ gətirdiyi iti bucağı θ  ilə işarə etsək, onda sferanın 
+atdσ  səth elementinin xy  müstəvisi üzərindəki proyeksiyası 
+atat ddC σθ ⋅= cos                          (3.14) 
+olacaq. 
+ Yuxarı (aşağı) yarımfəza üzərində götürülmüş A  nöqtəsinin 
+xy  müstəvisi üzərindəki proyeksiyasını 1A  ilə işarə edək (şəkil 2). 
+Onda 
+ 
+ 
+Şəkil 2. 
+at
+AA
+MA
+AA 11cos ==θ .                      (3.15) 
+ Əgər 1A  nöqtəsinin koordinatlarını ),( ηξ  işarə etsək,  
+222
+1 )()( yxMA −+−= ηξ  
+ 43 
+ olar və Pifaqor teoreminin köməyilə, 
+ 
+22222
+1
+22
+1 )()( yxtaMAMAAA −−−−=−= ηξ  
+alarıq ki, burada da (3.14), (3.15) bərabərliklərindən istifadə 
+etməklə 
+atat Cd
+yxta
+atd
+2222 )()( −−−−
+=
+ηξ
+σ  
+taparıq. Bunu (3.10) düsturunda nəzərə alsaq, (3.11), (3.12), (3.13) 
+məsələsinin həlli üçün 
++
+−−−−
+⋅= ∫
+atC
+dd
+yxtaa
+tyxu ηξ
+ηξ
+ηξψ
+π 2222 )()(
+),(
+2
+1),,(  
+∫ −−−−∂
+∂⋅+
+atC
+dd
+yxtata
+ηξ
+ηξ
+ηξϕ
+π 2222 )()(
+),(
+2
+1    (3.16) 
+Puasson düsturunu alarıq.  
+ Puasson düsturu göstərir ki, t  anında ),( yx  nöqtəsində 
+həllin qiyməti, başlanğıc funksiyaların, mərkəzi bu nöqtədə olan at  
+radiuslu çevrənin üzərindəki deyil, uyğun dairənin daxilindəki 
+qiymətlərindən asılıdır. Başqa sözlə, fəza koordinatlarının sayı iki 
+olan halda Hyugens prinsipi ödənmir. 
+ İndi fəza koordinatlarının sayı bir olan halda, yəni simin 
+rəqs tənliyi üçün 
+)(),(
+,0
+0
+0
+2
+2
+2
+2
+2
+x
+t
+uxu
+x
+ua
+t
+u
+t
+t ψϕ =∂
+∂
+=
+=
+∂
+∂
+−
+∂
+∂
+=
+=
+ 
+Koşi məsələsinə baxaq. 
+ Başlanğıc ψ  funksiyası ancaq x  dəyişənindən asılı olan 
+halda, (3.16) düsturunun sağ tərəfindəki birinci toplanan, 
+11, ηηξξ =−=− yx  əvəzləməsindən sonra 
+ 44
+=
+−
++⋅=
+=
+−−
++⋅
+−=
+−−=−
+−
+−−−
+∫
+∫∫
+dx
+ta
+x
+a
+ta
+ddx
+a
+ta
+ta
+at
+at
+ta
+ta
+at
+at
+2
+1
+22
+1
+2
+1
+22
+1
+2
+1
+22
+2
+1
+22
+2
+1
+22
+1
+1
+2
+1
+2
+1
+22
+1
+11
+arcsin)(
+2
+1
+)(
+2
+1
+ξη
+ξη
+ξ
+ξ
+ξ
+η
+ξψ
+π
+ηξ
+η
+ξξψ
+π
+ 
+∫∫
++
+−−
+⋅=+⋅=
+atx
+atx
+at
+at
+d
+a
+dx
+a
+ττψξξψ )(
+2
+1
+)(
+2
+1
+11  
+şəklinə gələr. Eyni qayda ilə, ϕ  funksiyası ancaq x  dəyişənindən 
+asılı olan halda, ikinci toplananı  
+)]()([
+2
+1
+)(
+2
+1 atxatxd
+ta
+atx
+atx
+−−+=
+∂
+∂
+∫
++
+−
+ϕϕττϕ  
+yaza bilərik. Onda simin rəqs tənliyi üçün Koşi məsələsinin həllini 
+∫
++
+−
++−−+=
+atx
+atx
+d
+a
+atxatxtxu ττψϕϕ )(
+2
+1
+)]()([
+2
+1
+),(  
+şəklində alarıq. Bu düstura simin rəqs tənliyi üçün Dalamber düsturu 
+deyilir. 
+ 
+§4. Qeyri-bircins tənlik üçün Koşi məsələsi. 
+ 
+ Aşağıdakı kimi qeyri-bircins  
+),,,(22
+2
+tzyxfua
+t
+u
+=∆−
+∂
+∂ ,                     (4.1) 
+00 ==tu ,                                   (4.2) 
+0
+0
+=
+∂
+∂
+=tt
+u .                                 (4.3) 
+Koşi məsələsinin həllini quraq. Bu məqsədlə köməkçi  
+ 45 
+02
+2
+2
+=∆−
+∂
+∂ va
+t
+v ,                                (4.4) 
+0==τtv ,                                           (4.5) 
+),,,( τ
+τ
+zyxf
+t
+v
+t
+=
+∂
+∂
+=
+                           (4.6) 
+Koşi məsələsinə baxaq. Bu məsələ (3.1), (3.2), (3.3) məsələsindən 
+onunla fərqlənir ki, burada başlantıc şərtlər τ=t  anında verilmişdir, 
+burada τ  hər hansı parametrdir. Bu məsələnin həlli (3.10) düsturu 
+ilə verilir, lakin t  əvəzinə τ−t  götürülməlidir 
+∫
+−
+=
+)(
+),,,(
+4
+1),,,,(
+τ
+στζηξ
+π
+τ
+taS
+rdr
+f
+a
+tzyxv . 
+ Buradan, )( τ−taS  sferası üzərindəki nöqtələrin koordinat-
+larının 
+)(),(),( τγζτβηταξ −+=−+=−+= taztaytax  
+olduğunu nəzərə alsaq, (4.4), (4.5), (4.6) məsələsinin həllini  
+=),,,,( τtzyxv  
+∫ −+−+−+⋅
+−
+=
+1
+1]),(),(),([4 S
+dtaztaytaxft σττγτβτα
+π
+τ , (4.7) 
+şəklində yaza bilərik, burada ),,( γβα  sferanın radius vektorlarının 
+yönəldici kosinuslarıdır. 
+ İndi göstərək ki, (4.7) düsturu ilə təyin olunmuş v  funk-
+siyasının köməyi ilə düzəldilmiş 
+∫=
+t
+dtzyxvtzyxu
+0
+);,,,(),,,( ττ                    (4.8) 
+funksiyası, (4.1), (4.2), (4.3) məsələsinin həllidir. 
+ 46
+ Doğrudan da, 0)0,,,( =zyxu  və  
+∫∫ ∂
+∂
+=
+∂
+∂
++=
+∂
+∂ tt d
+t
+tzyxvd
+t
+tzyxvttzyxv
+t
+u
+00
+),,,,(),,,,(
+),,,,( τ
+τ
+τ
+τ  
+bərabərliyindən göründüyü kimi ((4.5) şərti) 
+0
+0
+=
+∂
+∂
+=tt
+u , 
+yəni (4.8) düsturu ilə təyin olunan funksiya (4.2), (4.3) şərtlərini 
+ödəyir. 
+ Digər tərəfdən 
+∫∫ ∂
+∂
++=
+∂
+∂
++
+∂
+∂
+=
+∂
+∂
+=
+tt
+t
+d
+t
+vtzyxfd
+t
+v
+t
+tzyxv
+t
+u
+0
+2
+2
+0
+2
+2
+2
+2
+),,,(
+),,,,(
+ττ
+τ
+τ
+ 
+olduğundan və  
+∫ ∆=∆
+t
+dtzyxvu
+0
+),,,,( ττ  
+bərabərliyindən 
+),,,(),,,(
+0
+2
+2
+2
+2
+2
+2
+tzyxfdva
+t
+vtzyxfua
+t
+u t
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∆−
+∂
+∂
++=∆−
+∂
+∂
+∫ τ  
+alarıq, yəni (4.8) düsturunun təyin etdiyi  
+τσττγτβτα
+τ
+π
+ddtaztaytaxf
+ttzyxu
+S
+t
+∫
+∫
+−+−+−+×
+×−=
+1
+1
+0
+]),(),(),([
+)(
+4
+1),,,(
+ 
+funksiyası (4.1), (4.2), (4.3) məsələsinin həllidir. Burada 
+rta =− )( τ  əvəzləməsi edək. Onda  
+∫ ∫
+−+++=
+at
+S
+r
+r
+drd
+r
+artrzryrxf
+a
+tzyxu
+0
+))/,,,(
+4
+1),,,( σγβα
+π
+ 
+ 47 
+yaza bilərik. Sferası atS  olan kürəni atΩ  ilə işarə etsək 
+∫
+Ω
+−
+=
+at
+ddd
+r
+artf
+a
+tzyxu ζηξζηξ
+π
+)/,,,(
+4
+1),,,(       (4.9) 
+alarıq. Buna gecikmə potensialı deyilir. Bu ad ona əsaslanır ki, 
+inteqrallama zamanı f  funksiyasının qiyməti baxılan t  anında 
+deyil, dalğanın a  sürəti ilə ),,( ζηξ  nöqtəsindən ),,( zyx  nöqtəsinə 
+çatdığı zaman fərqi ilə götürülür. 
+ İndi iki ölçülü fəza koordinatlı 
+),,(2
+2
+2
+tyxfua
+t
+u
+=∆−
+∂
+∂ ,                     (4.10) 
+00 ==tu ,                                          (4.11) 
+0
+0
+=
+∂
+∂
+=tt
+u                                          (4.12) 
+Koşi məsələsinin həllini quraq. Bunun üçün əvvəlcə, (3.16) 
+düsturundan istifadə edərək, köməkçi 
+022
+2
+=∆−
+∂
+∂ va
+t
+v , 
+0==τtv ,  
+),,( τ
+τ
+yxf
+t
+v
+t
+=
+∂
+∂
+=
+ 
+məsələsinin həllini 
+∫
+− −−−−−
+=
+)(
+2222 )()()(
+),,(
+2
+1),,(
+τ ηξτ
+ηξτηξ
+π
+tac yxta
+ddf
+a
+tyxv  
+şəklində quraq. Sonra isə, yuxarıda göstərdiyimiz kimi, köməkçi 
+məsələnin həllindən istifadə etməklə, (4.10), (4.11), (4.12) 
+ 48
+məsələsinin həllini 
+∫=
+t
+dyxvtyxu
+0
+),,(),,( ττ  
+bərabərliyi ilə tapa bilərik. Beləliklə, (4.10), (4.11), (4.12) 
+məsələsinin həlli üçün 
+222
+0
+222
+)()(
+,
+)(
+),,(
+2
+1),,(
+)(
+yxr
+dd
+rta
+f
+a
+tyxu
+t
+S ta
+−+−=
+−−
+= ∫ ∫
+−
+ηξ
+ηξ
+τ
+τηξ
+π
+τ  
+düsturunu alarıq. 
+ Analoji qayda ilə  
+),(2
+2
+2
+2
+2
+txf
+x
+ua
+t
+u
+=
+∂
+∂
+−
+∂
+∂ , 
+00 ==tu , 
+0
+0
+=
+∂
+∂
+=tt
+u  
+məsələsinin həllini  
+∫ ∫
+−+
+−−
+=
+t tax
+tax
+ddf
+a
+txu
+0
+)(
+)(
+),(
+2
+1),(
+τ
+τ
+τξτξ . 
+şəklində taparıq. 
+I I I  F Ə S İ L .   
+D A LĞA  TƏN L İY İ  Ü Ç Ü N   
+Q A R I Ş I Q  MƏ SƏLƏ .  
+ 
+§1. Dalğa tənliyi üçün qarışıq məsələlərin  
+ 49 
+həllinin yeganəliyi. 
+ 
+ Tutaq ki, mE⊂Ω  ixtiyari məhdud oblast, Γ  isə bu oblastın 
+sərhəddidir. Sonlu 0>T  ədədi üçün ],0[ TQT ×Ω=  silindrində 
+),(
+1
+2
+2
+2
+2
+2
+txf
+x
+ua
+t
+u m
+k k
+=
+∂
+∂
+−
+∂
+∂ ∑
+=
+                   (1.1) 
+dalğa tənliyi üçün aşağıdakı kimi məsələ qoyaq: TQ  silindri 
+daxilində (1.1) tənliyinin elə həllini tapmalı ki, bu həll 
+Ω∈== xxu t ),(00 ϕ                        (1.2) 
+Ω∈=
+∂
+∂
+=
+xx
+t
+u
+t
+),(1
+0
+ϕ                      (1.3) 
+başlanğıc şərtlərini və silindrin ],0[ TT ×Γ=σ  yan səthi üzərində  
+),( txu
+T
+ψσ =                               (1.4) 
+sərhəd şərtini ödəsin. 
+ Bu məsələyə dalğa tənliyi üçün birinci qarışıq məsələ 
+deyilir. 
+ Əgər (1.4) şərti əvəzinə 
+),( txu
+T
+ψ
+ν σ
+=
+∂
+∂                             (1.5) 
+sərhəd şərti verilərsə, məsələyə ikinci qarışıq məsələ deyilir, burada 
+ν  silindrin yan səthinə çəkilmiş normaldır. 
+ Göstərək ki, qarışıq məsələlərin )()(),( 2 TT QCQCtxu ′∈ I  
+həlləri yeganədir. Bunu göstərmək üçün uyğun bircins 
+)0,0( 10 ===≡ ψϕϕf  qarışıq məsələnin ancaq eynilik kimi sıfır 
+həllinin olduğunu göstərmək kifayətdir. 
+ Bilavasitə yoxlamaqla 
+ 50
+∑∑∑
+===
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+−=
+∂
+∂
+⋅
+∂
+∂
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+=
+∂
+∂
+⋅
+∂
+∂
+m
+k kk
+m
+k k
+m
+k k x
+u
+t
+u
+xx
+u
+tx
+u
+t
+u
+t
+u
+tt
+u
+t
+u
+11
+2
+1
+2
+2
+2
+2
+2
+22
+,2
+ 
+eyniliklərini isbat etmək olar. Bu eyniliklərin köməyilə 
+−
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+∂
+∂ ∑∑
+==
+m
+k k
+m
+k k x
+ua
+t
+u
+tx
+ua
+t
+u
+t
+u
+1
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2  
+∑
+=
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+∂
+∂
+−
+m
+k kk x
+u
+t
+u
+x
+a
+1
+22                   (1.6) 
+bərabərliyini yaza bilərik. İxtiyari T<< τ0  ədədi götürək və (1.6) 
+bərabərliyinin hər tərəfini ],0[ ττ ×Ω=Q  silindri oblastı üzrə 
+inteqrallayaq. Bu zaman Qrin düsturunun köməyilə  
+ 
+−
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+=
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+∂
+∂
+∫ ∑
+∫ ∑
+=
+=
+τ
+τ
+τν
+S
+m
+k k
+Q
+m
+k k
+dSt
+x
+ua
+t
+u
+dxdt
+x
+ua
+t
+u
+t
+u
+),cos(
+2
+1
+2
+2
+2
+1
+2
+2
+2
+2
+2
+  
+∫∑
+= ∂
+∂
+∂
+∂
+−
+τ
+τν
+S
+m
+k
+k
+k
+dSx
+x
+u
+t
+ua
+1
+2 ),cos(2              (1.7) 
+alarıq, burada τττ σ ΩΩ= UUS  ilə τQ  oblastının sərhəddi, τΩ  
+ilə silindrin τ=t  müstəvisi ilə kəsiyi, ν  ilə isə silindrin τS  səthinə 
+çəkilən xarici normal işarə olunmuşdur. 
+ Silindrin yan τσ  səthi üzrə 0),cos( =tν , Ω  və τΩ  otura-
+caqları üzrə isə ),cos( tν , uyğun olaraq, 1−  və 1 -ə bərabər 
+olmaqla, 0),cos( =kxν , mk ,,2,1 K= .  
+ 51 
+ Bunları və həmçinin 
+x
+ux
+x
+un
+i
+i
+i ∂
+∂
+=
+∂
+∂∑
+=1
+),cos(ν  olduğunu, (1.7) 
+bərabərliyində nəzərə alsaq, onda bircins tənliyin həlləri üçün 
++
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∫ ∑∫ ∑
+Ω =Ω =
+dx
+x
+ua
+t
+udx
+x
+ua
+t
+u m
+k k
+m
+k k 1
+2
+2
+2
+1
+2
+2
+2
+τ
+ 
+∫ ∑
+= ∂
+∂
+∂
+∂
++
+τσ
+τσν dxx
+u
+t
+ua k
+m
+k k
+),cos(2
+1
+2               (1.8) 
+bərabərliyini alarıq.  
+Əgər ),( txu  funksiyası bircins başlanğıc və sərhəd şərtlərini 
+ödəyirsə, (1.8) bərabərliyindən 
+0
+1
+2
+2
+2
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∫ ∑
+Ω =τ
+dx
+x
+ua
+t
+u m
+k k
+ 
+alınar. Bu isə o deməkdir ki, istənilən T<< τ0  üçün 
+constxu ≡),( τ . Lakin 0)0,( =xu  olduğundan, 0),( ≡txu  
+olduğunu alarıq. Bununla qarışıq məsələlərin həllinin yeganəliyi 
+isbat olunur. 
+ 
+ 
+§2. Simin sərbəst rəqsi üçün birinci qarışıq  
+məsələnin Furye metodu ilə həlli. 
+ 
+ Furye metodu və ya dəyişənlərinə ayırma metodu adlanan 
+aşağıda təsvir olunan metod daha ümumi tənliklərə tətbiq oluna 
+bilər. Lakin bu metodun mahiyyətini daha qabarıq nümayiş etdirmək 
+məqsədilə, sadə tənlik olan simin rəqs tənliyi üçün aşağıdakı 
+məsələyə baxaq: 
+ 
+02
+2
+2
+2
+2
+=
+∂
+∂
+−
+∂
+∂
+x
+ua
+t
+u                           (2.1) 
+ 52
+tənliyinin  
+lxxxu ≤≤= 0),()0,( ϕ ,                      (2.2) 
+lxx
+t
+xu
+≤≤=
+∂
+∂ 0)()0,( ψ                       (2.3) 
+başlanğıc və  
+0),(),0( == tlutu                             (2.4) 
+sərhəd şərtlərini ödəyən həllini tapın. 
+ Məsələnin həllini, biri ancaq x , o biri isə ancaq t  dəyi-
+şənindən asılı olan iki funksiyanın hasili  
+)()(),( tTxXtxu ⋅=                            (2.5) 
+şəklində axtaraq. Bu şəkildə axtarılan funksiyanın (2.1) tənliyinin 
+həlli olması üçün 
+ 
+)()()()( 2 tTxXaxXtT ′′=′′  
+və ya 
+)(
+)(
+)(
+)(
+2 xX
+xX
+tTa
+tT ′′
+=
+′′
+ 
+bərabərliyi ödənməlidir. Bu bərabərliyin sol tərəfi ancaq t , sağ 
+tərəfi isə ancaq x  dəyişənindən asılıdır. Bu isə o vaxt mümkün olar 
+ki, sağ və sol tərəflər sabit olsunlar. Bu sabiti λ  ilə işarə edək. Onda 
+)(xX  və )(tT  funksiyaları üçün  
+ 
+0)()( =+′′ xXxX λ ,                            (2.6) 
+0)()( 2 =+′′ tTatT λ                            (2.7) 
+tənliklərini alarıq. 
+ Sərhəd şərtlərini (2.5)-də nəzərə alsaq,  
+0)()(),(
+0)()0(),0(
+==
+==
+tTlXtlu
+tTXtu
+ 
+bərabərliklərini alarıq. Əgər 0)( ≡tT  olarsa, onda (2.5) müna-
+ 53 
+sıbətindən 0),( ≡txu  alarıq, bu isə qeyri bircins (2.2), (2.3) şərtləri 
+üçün qoyulmuş məsələnin həlli deyil. Ona görə də eynilik kimi sıfır 
+olmayan ),( txu  funksiyasını axtarmalıyıq. Bu məqsədlə (2.6) 
+tənliyinin  
+0)()0( == lXX                               (2.8) 
+sərhəd şərtlərini ödəyən və eynilik kimi sıfır olmayan həllərini 
+tapmaq lazım gəlir. Bu cür məsələyə, yəni (2.6) tənliyinin (2.8) 
+sərhəd şərtlərini ödəyən və eynilik kimi sıfır olmayan həllərinin 
+tapılması məsələsinə Şturm-Liuvill məsələsi deyilir.  
+Parametrin, (2.6), (2.8) məsələsinin eynilik kimi sıfır olmayan 
+həllərinin varlığını təmin edən kλ  qiymətlərinə məxsusi qiymətlər, 
+həmin həllərə isə kλ  məxsusi qiymətinə uyğun məxsusi həllər və ya 
+məxsusi funksiyalar deyilir. 
+Məsələnin məxsusi qiymət və məxsusi funksiyalarını tapmaqla 
+məşğul olaq. Bunun üçün müxtəlif hallara baxaq. 
+1. 0<λ . Bu halda, (2.6) tənliyinin ümumi həlli 
+xx ececxX λλ −−− += 21)(  
+şəklindədir, burada 1c  və 2c  ixtiyari sabitlərdir. Bu sabitləri elə 
+seçək ki, (2.8) şərtləri ödənsin 
+.0
+,0
+21
+21
+=+
+=+
+−−− ll ecec
+cc
+λλ
+ 
+ Alınan bircins sistemin əsas determinantı sıfırdan fərqli 
+olduğundan sistemin ancaq 021 == cc  həlli var, buradan 
+0)( ≡xX . Deməli, 0<λ  qiymətləri məxsusi qiymətlər deyil. 
+2. 0=λ . Bu halda (2.6) tənliyinin ümumi həlli 
+xccxX 21)( +=  
+şəklindədir. Sərhəd şərtlərini ödətsək, 
+ 54
+0
+,00
+21
+21
+=+
+=⋅+
+lcc
+cc
+ 
+sistemini alarıq. Buradan 021 == cc , yəni bu halda da, 0)( ≡xX . 
+3. 0>λ . Bu halda (2.6) tənliyinin ümumi həlli  
+xcxcxX λλ sincos)( 21 +=  
+şəklində olur. Sərhəd şərtlərini ödətməklə, 21,cc  sabitləri üçün 
+0sincos
+,00
+21
+21
+=+
+=⋅+
+lclc
+cc
+λλ
+ 
+sistemini alarıq. Buradan 01 =c , 0sin2 =⋅ lc λ  alınar. 02 =c  
+olsa idi, yenə 0)( ≡xX  alardıq. Ona görə də, 0sin =lλ , buradan 
+da 
+l
+kπλ =  olar. Beləliklə,  
+K,3,2,1,
+2
+=⎟
+⎠
+⎞
+⎜
+⎝
+⎛= k
+l
+k
+k
+πλ  
+məxsusi qiymətlərini alarıq. Bu məxsusi qiymətlərə (sabit vuruq 
+dəqiqliyi ilə) 
+K,3,2,1,sin)( == kx
+l
+kxXk
+π  
+məxsusi funksiyaları uyğundur. 
+ Parametrin 
+2
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+l
+k
+k
+πλ  qiymətlərində (2.7) tənliyinin 
+ümumi həlli 
+K,3,2,1,sincos)( =+= kat
+l
+kBat
+l
+kAtT kkk
+ππ  
+şəklində olur, burada kk BA ,  – ixtiyari sabitlərdir. 
+ Beləliklə, alırıq ki, 
+ 55 
+x
+l
+kat
+l
+kBat
+l
+kAtTtXtxu kkkkk
+πππ sin)sincos()()(),( +==  
+şəklində götürülmüş funksiyalar, ixtiyari kk BA ,  sabitləri və 
+K,3,2,1=k  üçün, (2.1) tənliyini və (2.4) sərhəd şərtlərini 
+ödəyirlər. 
+ Bu həllərin köməyi ilə formal 
+∑∑
+∞
+=
+∞
+=
++==
+11
+sin)sincos(),(),(
+k
+kk
+k
+k xl
+kat
+l
+kBat
+l
+kAtxutxu πππ  (2.9) 
+funksiyası düzəldək. Əgər bu bərabərliyin sağ tərəfindəki sıra və bu 
+sıranın x  və t  dəyişənlərinə nəzərən iki dəfə hədbəhəd 
+diferensiallanmasından alınan sıralar müntəzəm yığılırlarsa, onda bu 
+sıranın cəmi olan ),( txu  funksiyası, (2.1) tənliyini və (2.4) sərhəd 
+şərtlərini ödəməlidir. İxtiyari kk BA ,  sabitlərini elə seçməyə çalışaq 
+ki, (2.2) və (2.3) şərtləri ödənsin. Bu şərtləri ödətməklə 
+)(sin)0,(
+1
+xx
+l
+kAxu
+k
+k ϕ
+π
+== ∑
+∞
+=
+,                    (2.10) 
+)(sin
+)0,(
+1
+xx
+l
+kB
+l
+ak
+t
+xu
+k
+k ψ
+ππ
+==
+∂
+∂ ∑
+∞
+=
+,         (2.11) 
+alarıq. Fərz edək ki, )(xϕ  və )(xψ  funksiyaları ),0( l  intervalında 
+sinuslar üzrə Furye sırasına ayrılırlar: 
+,sin)(,sin)(
+11
+∑∑
+∞
+=
+∞
+=
+==
+k
+k
+k
+k xl
+kxx
+l
+kx πψψπϕϕ  
+burada kk ψϕ ,  Furye əmsalları 
+K,2,1,sin)(
+2
+0
+== ∫ kdl
+k
+l
+l
+k ξξ
+π
+ξϕϕ          (2.12) 
+ 56
+K,2,1,sin)(
+2
+0
+== ∫ kdl
+k
+l
+l
+k ξξ
+π
+ξψψ          (2.13) 
+düsturları ilə təyin olunurlar. 
+ Furye ayrılışlarını (2.10) və (2.11)-də nəzərə alsaq, ixtiyari 
+sabitləri 
+K,3,2,1,
+,
+==
+=
+k
+ak
+lB
+A
+kk
+kk
+ψ
+π
+ϕ
+ 
+şəklində taparıq. Bunları (2.9) ifadəsində nəzərə alsaq, (2.1), (2.2), 
+(2.3) qarışıq məsələsinin həlli üçün 
+∑
+∞
+=
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +=
+1
+sinsincos),(
+k
+kk xl
+kat
+l
+k
+ak
+lat
+l
+ktxu ππψ
+π
+πϕ  (2.14) 
+düsturunu alarıq. 
+ Beləliklə, göstərdik ki, əgər (2.14) bərabərliyinin sağ 
+tərfindəki sıra və bu sıranın t  və x  dəyişənlərinə nəzərən iki dəfə 
+hədbəhəd diferensiallamasından alınan sıralar 
+x
+l
+kat
+l
+k
+ak
+lat
+l
+k
+l
+aku kk
+k
+tt
+ππψ
+π
+πϕπ sinsincos~
+1
+2
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +⎟
+⎠
+⎞
+⎜
+⎝
+⎛−∑
+∞
+=
+ (2.15) 
+x
+l
+kat
+l
+k
+ak
+lat
+l
+k
+l
+ku kk
+k
+xx
+ππψ
+π
+πϕπ sinsincos~
+1
+2
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +⎟
+⎠
+⎞
+⎜
+⎝
+⎛−∑
+∞
+=
+ (2.16) 
+müntəzəm yığılandırsa, onda (2.14) düsturu ilə ifadə olunan 
+funksiya qoyulmuş qarışıq məsələnin həllidir.  
+ Fərz edək ki, )(xϕ  iki tərtib kəsilməz, üçüncü tərtibi isə 
+hissə-hissə kəsilməz törəmələrə malik olmaqla, 
+0)()0()()0( =′′=′′== ll ϕϕϕϕ                 (2.17) 
+şərtlərini, )(xψ  isə bir tərtib kəsişməz, ikinci tərtibi isə hissə-hissə 
+kəsilməz törəmələrə malik olmaqla,  
+ 57 
+0)()0( == lψψ                             (2.18) 
+şərtlərini ödəyən funksiyalardır.  
+ Bu şərtlər daxilində kk ψϕ ,  Furye əmsallarının (2.12), 
+(2.13) bərabərlikləri ilə təyin olunan ifadələrini, ardıcıl olaraq hissə-
+hissə inteqrallamaqla  
+kk ak
+l 3
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−=
+π
+ϕ ,                          (2.19) 
+kk bk
+l 2
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−=
+π
+ψ                            (2.20) 
+şəklinə gətirmək olar, burada  
+.K
+K
+,2,1,sin)(2
+,2,1,cos)(2
+0
+0
+=′′=
+=′′′=
+∫
+∫
+kd
+l
+k
+l
+b
+kd
+l
+k
+l
+a
+l
+k
+l
+k
+ξξπξψ
+ξξπξϕ
+ 
+ Asanlıqla göstərmək olar ki, (2.15), (2.16) sıralarının mün-
+təzəm yığılanlığını göstərmək əvəzinə,  
+∑
+∞
+=1
+2 ||
+k
+kk ϕ     və   ∑
+∞
+=1
+2 ||
+k
+kk ψ                 (2.21) 
+sıralarının yığılanlığını göstərmək kifayətdir.  
+Furye əmsalları üçün (2.19) və (2.20) düsturlarını nəzərə alsaq, 
+görərik ki, (2.21) sıralarının yığılanlığı, öz növbəsində,  
+∑
+∞
+=1
+||1
+k
+kak
+    və   ∑
+∞
+=1
+||1
+k
+kbk
+ 
+sıralarının yığılanlığı ilə təmin olunur. Axırıncı sıraların yığılanlığı 
+isə  
+ 58
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +≤
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ +≤
+2
+2
+2
+2
+||
+1
+2
+1
+||
+1
+,||
+1
+2
+1
+||
+1
+kk
+kk
+b
+k
+b
+k
+a
+k
+a
+k
+ 
+bərabərsizliklərindən alınır, çünki ka  və kb  hissə-hissə kəsilməz 
+)(xϕ ′′′  və )(xψ ′′  funksiyalarının Furye əmsallarıdırlar və buna görə 
+də  
+∑
+∞
+=1
+2||
+k
+ka     və   ∑
+∞
+=1
+2||
+k
+kb  
+sıraları yığılandırlar. 
+ Bütün bu deyilənləri aşağıdakı kimi yekunlaşdıra bilərik. 
+ Əgər (2.2) və (2.3) başlanğıc şərtlərindəki )(xϕ  və )(xψ  
+funksiyaları yuxarıda deyilən hamarlıqlara malik olmaqla, (2.17) və 
+(2.18) şərtlərini ödəyirlərsə, onda (2.1), (2.2), (2.3), (2.4) qarışıq 
+məsələsinin həlli (2.14) sırası şəklində göstərilir. Bu sıra özü və 
+onun x  və t  dəyişənlərinə nəzərən iki dəfə hədbəhəd 
+diferensiallanmasından alınan (2.15), (2.16) sıraları müntəzəm 
+yığılırlar. 
+ 
+ 
+§3. Ucları bərkidilmiş simin məcburi rəqsi. 
+ 
+ Başlanğıc vəziyyəti və başlanğıc sürəti məlum olan, ucları 
+bərkidilmiş l  uzunluqlu simin xarici qüvvə təsiri altında rəqsinin 
+öyrənilməsi, riyazi olaraq, 
+),(
+2
+2
+2
+2
+2
+txf
+x
+ua
+t
+u
+=
+∂
+∂
+−
+∂
+∂                         (3.1) 
+tənliyinin  
+ 59 
+)()0,( xxu ϕ= ,                                (3.2) 
+)(
+)0,( x
+t
+xu
+ψ=
+∂
+∂                               (3.3) 
+başlanğıc və  
+0),(),0( == tlutu                              (3.4) 
+sərhəd şərtlərini ödəyən həllinin tapılması məsələsinə gətirilir. 
+ Məsələnin həllini 
+wvu +=                                   (3.5) 
+şəklində axtaraq, burada ),( txv , qeyri-bircins (3.1) tənliyinin 
+bircins 
+0)0,( =xv ,                                (3.6) 
+0
+)0,(
+=
+∂
+∂
+t
+xv                                (3.7) 
+başlanğıc və  
+0),(),0( == tlvtv                             (3.8) 
+sərhəd şərtlərini ödəyən həlli, ),( txw  isə bircins 
+0
+2
+2
+2
+2
+2
+=
+∂
+∂
+−
+∂
+∂
+x
+wa
+t
+w  
+tənliyinin qeyri-bircins 
+)()0,( xxw ϕ= ,  )()0,( x
+t
+xw
+ψ=
+∂
+∂  
+başlanğıc və  
+0),(),0( == tlwtw  
+sərhəd şərtlərini ödəyən həllidir. 
+ Biz keçən paraqrafda bu cür ),( txw  funksiyasını qurmuşuq 
+və onun ücün  
+ 
+ 60
+∑
+∞
+=
+⎟
+⎠
+⎞⎜
+⎝
+⎛ +=
+1
+sinsincos),(
+k
+kk xl
+kat
+l
+k
+ak
+lat
+l
+ktxw ππψ
+π
+πϕ  
+düsturunu almışdıq. Beləliklə, (3.1)-(3.4) məsələsinin həlli  
+),(
+2
+2
+2
+2
+2
+txf
+x
+va
+t
+v
+=
+∂
+∂
+−
+∂
+∂                         (3.9) 
+tənliyinin bircins (3.6), (3.7) və (3.8) şərtlərini ödəyən həllinin 
+tapılması məsələsinə gətirilir. Bu sonuncu məsələnin həllini 
+ 
+∑
+∞
+=
+=
+1
+sin)(),(
+k
+k xl
+ktTtxv π                    (3.10) 
+şəklində axtaraq. Aydındır ki, əgər (3.10) sırası müntəzəm yığılırsa, 
+onda (3.10) bərabərliyi ilə təyin olunan funksiya (3.8) sərhəd 
+şətlərini ödəyir. Buradakı )(tTk  funksiyalarını elə seçək ki, ),( txv  
+funksiyası (3.9) tənliyi və (3.6), (3.7) başlanğıc şərtlərini ödəsin. 
+Uyğun törəmələri hesablayıb (3.9) tənliyində yerinə yazsaq 
+),(sin)()(
+1
+2
+txfx
+l
+ktT
+l
+aktT
+k
+kk =⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛+′′∑
+∞
+=
+ππ          (3.11) 
+alarıq. Tutaq ki, ),( txf  funksiyası ],0[ l  parçasında x  dəyişəninə 
+nəzərən sinuslar üzrə Furye sırasına ayrılır 
+∑
+∞
+=
+=
+1
+sin)(),(
+k
+k xl
+ktftxf π ,                   (3.12) 
+burada Furye əmsalları 
+K,3,2,1,sin),(
+2
+)(
+0
+== ∫ kdl
+ktf
+l
+tf
+l
+k ξξ
+π
+ξ  
+düsturu ilə hesablanır. 
+ Eyni bir ),( txf  funksiyasının (3.11) və (3.12) Furye ayrılı-
+ 61 
+şlarını müqaisə etsək, )(tTk  funksiyaları üçün  
+ 
+K,2,1,
+2
+==⎟
+⎠
+⎞
+⎜
+⎝
+⎛+′′ kfT
+l
+akT kkk
+π               (3.13) 
+tənliklərini alarıq. 
+ Sərhəd şərtlərini ödətməklə, )(tTk  funksiyaları üçün əlavə 
+K,2,1,0)0(,0)0( ==′= kTT kk               (3.14) 
+şərtlərini alarıq. Alınan (3.13) tənliyinin ümumi həllini yazıb, (3.14) 
+şərtlərini ödətsək, (3.13), (3.14) məsələsinin həllini 
+ 
+∫ −=
+t
+kk dtl
+akf
+ak
+ltT
+0
+)(sin)()( ττπτ
+π
+ 
+şəklində taparıq. Bunu (3.10) ifadəsində yerinə yazsaq, (3.9), (3.6), 
+(3.7), (3.8) məsələsinin həlli üçün 
+ 
+x
+l
+kdt
+l
+akf
+ka
+ltxv
+k
+t
+k
+πττπτ
+π
+sin)(sin)(1),(
+1 0
+∑ ∫
+∞
+=
+−=   (3.15) 
+düsturunu alarıq. 
+ Göstərmək olar ki, əgər ),( txf  funksiyası x  dəyişəninə 
+nəzərən iki dəfə kəsilməz törəmələrə malikdirsə və  
+0),(),0( == tlftf  
+şərtlərini ödəyirsə, onda (3.15) sırası və bu sıranın t  və x  
+dəyişənlərinə nəzərən iki dəfə diferensiallanmasından alınan sıralar 
+müntəzəm yığılırlar. 
+ Beləliklə, (3.1), (3.2), (3.3), (3.4) məsələsinin həlli (3.5) 
+şəklində göstərilir, burada ),( txw  sərbəst simin rəqsini ifadə edir, 
+),( txv  isə (3.15) düsturu ilə ifadə olunur. 
+I V  F Ə S İ L .   
+ 62
+İS T İL İK K E Ç İR MƏ  TƏN L İY İ .  
+ 
+§1. İstilikkeçirmə tənliyinin xarakteristikaları. 
+ 
+ Tutaq ki, 1+n  dəyişənli 
+),(
+11,
+2
+txfcu
+x
+ub
+xx
+ua
+t
+u n
+i i
+i
+n
+ji ji
+ij =+∂
+∂
++
+∂∂
+∂
+−
+∂
+∂ ∑∑
+==
+        (1.1) 
+tənliyi verilmişdir. Əgər istənilən 0),,,( 21 ≠= nξξξξ K  vektoru 
+üçün  
+0
+1,
+>∑
+=
+n
+ji
+jiija ξξ                              (1.2) 
+şərti ödənilirsə, onda (1.1) tənliyinə istilikkeçirmə tənliyi deyilir. 
+ Aydındır ki, istilikkeçirmə tənliyi parabolik tənlikdir. Bu 
+tənliyin xarakteristik tənliyi 
+0
+1,
+=
+∂
+∂
+∂
+∂∑
+=
+n
+ji ji
+ij xx
+a ωω  
+şəklindədir. (1.2) şərtindən görünür ki, consttx =),(ω  xarak-
+teristik səthdirsə, onda ni
+xi
+,1,0 ==
+∂
+∂ω  şərtləri ödənməlidir. Bu isə 
+o deməkdir ki, xarakteristik səthin tənliyi ancaq t -dən asılıdır, yəni 
+)(tωω = . Əgər / 0)( ≡′ tω  isə, onda bu şərti ödəyən istənilən 
+intervalda constt =)(ω  tənliyini t -yə nəzərən həll edərək, 
+constt =  alarıq. 
+ Beləliklə, alırıq ki, istilikkeçirmə tənliyinin xarakteristikaları 
+t  oxuna ortoqonal olan n  ölçülü müstəvilərdir. 
+§2. İstilikkeçirmə tənliyi üçün maksimum prinsipi. 
+ 
+ 63 
+ Aşağıdakı kimi sadə istilikkeçirmə tənliyinə baxaq  
+0
+1,
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+−
+∂
+∂
+≡ ∑
+=
+n
+ji j
+ij
+i x
+ua
+xt
+uuL ,              (2.1) 
+burada ija  əmsallrı nxx ,,1 K  dəyişənlərindən asılı kəsilməz 
+diferensiallanan funksiyalardır.  
+ Tutaq ki, 0=t  müstəvisində sərhəddi Γ  olan məhdud 
+nE⊂Ω  oblastı verilmişdir. Yönəldicisi Γ  və doğuranları t  oxuna 
+paralel olan silindr quraq. Bu silindirn 0=t  və Tt =  müstəviləri 
+arasında qalan hissəsini TQ  ilə, silindrik səthi TB  ilə, silindrin 
+Tt =  müstəvisində yerləşən oturacağını isə TΩ  ilə işarə edək. 
+ Tutaq ki, ),,,,( 21 txxx nK  dəyişənləri fəzasında hər hansı 
+oblastı verilmişdir. Bu oblastda nxxx ,,, 21 K  dəyişənlərinə nəzərən 
+p  tərtib, t  dəyişəninə nəzərən isə q  tərtib kəsilməz törəmələri olan 
+funksiyalar sinfini )(),( DC qp  ilə işarə edək.  
+ İndi istilikkeçirmə tənliyi üçün maksimum prinsipini söyləyə 
+bilərik:  
+ Tutaq ki, )()( )1,2( TTT QCQC ΩUI  kəsişməsinə daxil 
+olan ),( txu  funksiyası (2.1) tənliyinin həllidir. Onda qapalı TQ  
+oblastında ),( txu  özünün ən böyük və ən kiçik qiymətlərini 
+TBUΩ  səthi üzərində alır. 
+ Aydındır ki, ),( txu  funksiyası hər hansı nöqtədə özünün ən 
+böyük qiymətini alırsa, onda ),( txu−  funksiyası həmin nöqtədə 
+özünün ən kiçik qiymətini alacaq. Ona görə də prinsipi ancaq 
+maksimum halı üçün isbat etmək kifayətdir. 
+ Yeni işarələr qəbul edək: 
+),(max),,(max txumtxuM
+TT BQ UΩ
+== . 
+ 64
+ Maksimum prinsipini isbat etmək, mM =  olduğunu gös-
+tərmək deməkdir. 
+ Fərz edək ki, maksimum prinsipi doğru deyil. Onda 
+mM >  olmalıdır. Qapalı TQ  oblastında kəsilməz olan ),( txu  
+funksiyası hər hansı ),( 00 tx  nöqtəsində özünün ən böyük qiymətini 
+alır, Mtxu =),( 00 . Onda, fərziyyəyə görə, bu ),( 00 tx  nöqtəsi ya 
+TQ  oblastının daxili nöqtəsidir, ya da TΩ  üzərindədir. 
+ Köməkçi 
+)(
+2
+),(),( 0 ttT
+mMtxutxv −−+=  
+funksiyası təyin edək. Aşkardır ki,  
+MmMmMmtxv
+TB
+<
++
+=
+−
++≤Ω 22
+),( U . 
+Digər tərəfdən, Mtxutxv == ),(),( 0000 . Bu o deməkdir ki, 
+),( txv  funksiyası özünün ən böyük qiymətini TBUΩ  üzərində 
+almır. Onda TQ  oblastı daxilində, ya da TΩ  üzərində elə ),( tx  
+nöqtəsi var ki, bu nöqtədə ),( txv  özünün ən böyük qiymətini alır.  
+ Əvvəlcə fərz edək ki, TQtx ∈),( . Ortoqonal koordinat 
+oxlarının istənilən vəziyyətində bu nöqtədə maksimum üçün zəruri 
+şərtlər ödənməlidir: 
+ 
+ni
+x
+v
+x
+v
+t
+v
+ii
+,,2,1,0,0,0
+2
+2
+K=≤
+∂
+∂
+=
+∂
+∂
+=
+∂
+∂  
+ Bunları nəzərə almaqla, ),( tx  nöqtəsində  
+),(
+2
+1,
+),(
+txji
+n
+ji
+ijtx xx
+vav
+∂∂
+∂−= ∑
+=
+L  
+taparıq. 
+ Ortoqonal koordinat oxlarını elə seçmək olar ki, simmetrik 
+ 65 
+və müsbət müəyyən ija  matrisi diaqonal şəklə gəlsin və bu zaman 
+,0)( >xaii  ,0)( =xaij  ji ≠  olsun. 
+ Onda bir tərəfdən 
+0),( ≥txvL , 
+digər tərəfdən isə  
+0
+2
+)(
+2 0
+<
+−
+−=−
+−
++=
+T
+mMtt
+T
+mMuv LLL        (2.2) 
+alarıq. Bu ziddiyyət göstərir ki, ),( tx  nöqtəsi TQ -nin daxili nöqtəsi 
+ola bilməz. 
+ İndi Ttx Ω∈),(  halına baxaq. Bu o deməkdir ki, Tt =  
+nöqtəsi ),0( T  intervalının sərhəd nöqtəsi, x  isə Ω -nin daxili 
+nöqtəsidir. Buna görə də ),( tx  nöqtəsində maksimum şərti 
+ni
+x
+v
+x
+v
+t
+v
+ii
+,,2,1,0,0,0
+2
+2
+K=≤
+∂
+∂
+=
+∂
+∂
+≥
+∂
+∂  
+olacaq. Onda, yenə də  
+0
+1
+2
+2
+),(
+),( ≥∂
+∂
+−
+∂
+∂
+= ∑
+=
+n
+i i
+ij
+tx
+tx x
+va
+t
+vvL  
+alarıq ki, bu da (2.2) ilə ziddiyyət təşkil edir. Bu ziddiyyət göstərir 
+ki, ),( tx  nöqtəsi TΩ -yə daxil ola bilməz. Yuxarıda göstərmişdik 
+ki, bu nöqtə TQ -nin daxili nöqtəsi də ola bilməz. Deməli, Mm <  
+fərziyyəsi doğru deyil, yəni mM =  olmalıdır. Maksimum prinsipi 
+isbat olur. 
+ 66
+§3. İstilikkeçirmə tənliyi üçün qarışıq  
+məsələlərin həllinin yeganəliyi. 
+ 
+ Aşağıdakı kimi tənliyə baxaq 
+),(
+1
+2
+2
+2 txf
+x
+ua
+t
+u n
+i i
+=
+∂
+∂
+−
+∂
+∂ ∑
+=
+                      (3.1) 
+ Yuxarıdakı paraqrafda təsvir olunan TQ  silindrini quraq və 
+oradakı işarələri qəbul edək. İndi (3.1) tənliyi üçün aşağıdakı kimi 
+məsələyə baxaq: TQ  silindri daxilində (3.1) tənliyinin elə həllini 
+tapmalı ki, o həll 
+Ω∈== xxtxu t ),(),( 0 ϕ                      (3.2) 
+başlanğıc şərtini və silindrin TB  yan səthi üzərində  
+),( txu
+TB
+ψ=                                (3.3) 
+sərhəd şərtini ödəsin.  
+Bu məsələyə istilikkeçirmə tənliyi üçün birinci qarışıq məsələ 
+deyilir. 
+ İstilikkeçirmə tənliyi üçün yuxarıda isbat olunan maksimum 
+prinsipindən bilavasitə çıxır ki, birinci qarışıq məsələnin 
+)()( )1,2( TTT QCQC ΩUI  sinfinə daxil olan həlli yeganədir. 
+ Əgər (3.3) sərhəd şərti əvəzinə  
+),( txu
+TB
+ψ
+ν
+=
+∂
+∂                             (3.3/) 
+və ya  
+0),,( ≥=⎥⎦
+⎤
+⎢⎣
+⎡ +
+∂
+∂ αψα
+ν
+txuu
+TB
+                (3.3//) 
+sərhəd şərtləri götürsək, alınan (3.1), (3.2), (3.3/) və (3.1), (3.2), 
+(3.3//) məsələlərinə, uyğun olaraq, istilikkeçirmə tənliyi üçün ikinci 
+və üçüncü qarışıq məsələlər deyilir, burada ν  səthə çəkilmiş xarici 
+normaldır. 
+ 67 
+ Qarışıq məsələlərin həllərinin yeganəliyini göstərək. Bunun 
+üçün bircins  
+0
+1
+2
+2
+2 =
+∂
+∂
+−
+∂
+∂ ∑
+=
+n
+i ix
+ua
+t
+u                         (3.10) 
+tənliyinin bircins başlanğıc )0( ≡ϕ  və bircins sərhəd )0( ≡ψ  
+şərtlərini ödəyən həllərinin eynilik kimi sıfır olduğunu göstərmək 
+kifayətdir. Bu məqsədlə, aşağıdakı kimi funksiya təyin edək 
+∫
+Ω
+= dxtxutJ ),()( 2 . 
+ Onda (3.10) tənliyinin həlləri üçün  
+.22
+22)(
+1
+2
+2
+1
+2
+1
+2
+2
+2
+∫∑∫∑
+∫ ∑∫
+Ω =Ω =
+Ω =Ω
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∂
+∂
+=
+=
+∂
+∂
+=
+∂
+∂
+=′
+n
+i i
+n
+i ii
+n
+i i
+dx
+x
+uadx
+x
+uu
+x
+a
+dx
+x
+uuadx
+t
+uutJ
+ 
+Sağ tərəfdəki birinci inteqrala Qrin düsturunu tətbiq etsək, 
+∫∑∫
+Ω =Γ
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−Γ
+∂
+∂
+=′ dx
+x
+uaduuatJ
+n
+i i1
+2
+22 22)( ξν
+ 
+alarıq, burada Γ  Ω  oblastının sərhəddidir. Birinci və ikinci qarışıq 
+məsələlər üçün sağ tərəfdəki birinci toplanan sıfır, üçüncü qarışıq 
+məsələ üçün isə  
+02 ≤Γ−=Γ
+∂
+∂
+∫∫
+ΓΓ
+ξξ αν
+duduu  
+olduğundan, hər üç qarışıq məsələ üçün 0)( ≤′ tJ  alırıq. Digər 
+tərəfdən, bircins (3.2) şərtinə əsasən, 0)0( =J , buradan da 
+0)( ≡tJ  alarıq ki, bu da 0),( ≡txu  deməkdir. 
+ 68
+§4. İstilikkeçirmə  tənliyi  üçün  Koşi  
+məsələsi. Həllin yeganəliyi. 
+ 
+ Aşağıdakı kimi Koşi məsələsinə baxaq: Verilmiş  
+∑
+= ∂
+∂
+=∆=∆−
+∂
+∂
+≡
+n
+i ix
+utxfu
+t
+uLu
+1
+2
+2
+),,( ,          (4.1) 
+tənliyinin  nEx ∈ , 0>t  oblastınada elə həllini tapmalı ki, o həll  
+nt Exxu ∈== ),(0 ϕ                         (4.2) 
+başlanğıc şərtini ödəsin. 
+ Məsələnin həlli üçün aşağıdakı yeganəlik teoremi doğrudur:  
+Qoyulmuş Koşi məsələsinin )),0(()),0[( )1,2( ∞×∞× nn ECEC I  
+sinfinə daxil olan məhdud həlli varsa, yeganədir. 
+ Teoremi isbat etmək üçün göstərək ki, 
+0=∆−
+∂
+∂
+≡ w
+t
+wLw ,                         (4.3) 
+00 ==tw                                           (4.4) 
+məsələsinin məhdud həlli Mw ≤|| , ancaq 0≡w  ola bilər.  
+ Fərz edək ki, 1+nE  evklid fəzasının 0=t  müstəvisində 
+yerləşən və mərkəzi koordinat başlanğıcında olan R  radiuslu RΩ  
+kürəsi verilmişdir. Bu kürənin səthini RS -lə işarə edək. Yönəldicisi 
+RS  səthi, doğuranları isə t  oxuna paralel olan silindrik səthi quraq. 
+Bu səthin 0>t  hissəsini B  ilə, sərhəddi BR UΩ  olan silindri isə 
+RQ  ilə işarə edək. 
+ Köməkçi 
+ 69 
+⎟
+⎟
+⎟
+⎠
+⎞
++
+∑
+⎜
+⎜
+⎜
+⎝
+⎛
+= = t
+n
+x
+R
+Mntxv
+i
+n
+i
+R 2
+2),(
+2
+1
+2  
+funksiyasını quraq. Bilavasitə yoxlamaqla göstərmək olar ki, bu 
+funksiya bircins (4.3) tənliyini ödəyir, 0=RLv . Aşkar 
+02
+2
+1
+0 ≥
+∑
+= == R
+xM
+v
+i
+n
+i
+tR  
+bərabərsizliyindən və (4.4) şərtindən  
+00 || == ≥ ttR wv  
+alırıq. Silindrin yan şərhi üzərində 22
+1
+Rxi
+n
+i
+=∑
+=
+ olduğundan 
+BBR wMtR
+MnMv ||2 2 ≥≥+= . 
+ Axırıncı bərabərsizlikləri bir yerdə  
+BBR RR
+wv UU ΩΩ ≥ ||  
+yaza bilərik. Digər tərəfdən 
+0)( =±=± LwLvwvL RR . 
+ Beləliklə, alırıq ki, bircins istikkeçirmə tənliyinin həlləri 
+olan wvR ±  funksiyaları BR UΩ  səthi üzərində mənfi deyillər. 
+Onda maksimum prinsipinə görə, RQ  silindrinin daxilində də 
+0≥±wvR  olar. Başqa sözlə, 
+⎟
+⎟
+⎟
+⎠
+⎞
++
+∑
+⎜
+⎜
+⎜
+⎝
+⎛
+=≤ = t
+n
+x
+R
+Mnvw
+i
+n
+i
+R 2
+2||
+2
+1
+2 . 
+Burada x  və t -ni ixtiyari qeyd edək və ∞→R  şərtilə limitə 
+ 70
+keçək. Onda alırıq ki, 0|| ≤w , yəni 0≡w . Koşi məsələsinin 
+həllinin yeganəliyi isbat olur. 
+ 
+ 
+ 
+§5. Koşi məsələsinin həlli üçün Puasson  
+düsturunun çıxarılışı. 
+ 
+ İndi  
+),( txfu
+t
+uLu =∆−
+∂
+∂
+≡                        (5.1) 
+qeyri-bircins istilikkeçirmə tənliyinin 
+nt Exxu ∈== ),(0 ϕ                          (5.2) 
+başlanğıc şərtini ödəyən həllini quraq. 
+ Bu məqsədlə, istilikkeçirmə tənliyinin fundamental həlli 
+adlanan 
+⎪
+⎪
+⎩
+⎪⎪
+⎨
+⎧
+≤
+>
+−=−−
+−
+−
+олдугда,
+олдугда,
+τ
+τ
+τπτ
+τ
+t
+te
+ttyxv
+t
+r
+n
+,0
+,
+))(2(
+1
+),(
+)(4
+2
+ 
+funksiyasını daxil edək, burada 2
+1
+)(|| ii
+n
+i
+yxyxr −∑=−=
+=
+. 
+Bilavasitə yoxlamaqla göstərmək olar ki, yxt ≠≠ ,τ  nöqtələri 
+üçün v  funksiyası 
+0=∆−
+∂
+∂
+= v
+t
+vLu x  
+və  
+0=∆−
+∂
+∂
+−≡ vvMv yτ
+ 
+tənliklərini ödəyir. 
+ 71 
+ İxtirari nEx ∈  nöqtəsi götürək. Mərkəzi koordinat başlan-
+ğıcında olan elə R  radiuslu RΩ  kürəsi götürək ki, x  nöqtəsi bu 
+kürənin daxilində yerləşsin. Yönəldicisi bu kürənin RS  səthi, 
+doğrulanları nE  fəzasına ortoqonal olan τ  oxuna paralel olan 
+silindri quraq. Bu silindrin 0=τ  və ,ετ −= t  t<< ε0  
+müstəviləri arasında qalan hissəsini )(εtQ , onun yan səthini 
+)(ε
+tB , 
+silindrin ετ −= t  müstəvisindən ayırdığı kürəni isə )(εRΩ -la işarə 
+edək. Onda aydındır ki, )(εtQ  oblastının sərhəddi 
+)()()( εεε
+RRtR B Γ≡ΩΩ UU  birləşməsindən ibarət olacaq. 
+ Tutaq ki, )),0[(),( )1,2( ∞×∈ nECyu τ  olmaqla, özü və 
+ni
+y
+u
+i
+,1, =
+∂
+∂  törəmələri məhdud olan ixtiyari funksiyadır. 
+ Aşkar 
+∑
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂−
+∂
+∂
+∂
+∂−
+∂
+∂=
+=⎟
+⎠
+⎞⎜
+⎝
+⎛ ∆−
+∂
+∂−−⎟
+⎠
+⎞⎜
+⎝
+⎛ ∆−
+∂
+∂=−
+n
+i iii y
+vu
+y
+uv
+y
+uv
+vvuuuvuMvvLu
+0
+)(
+τ
+ττ
+ 
+eyniliyini )(εtQ  oblastı üzrə inteqrallayaq və sağ tərəfə Qrin 
+düsturunu tətbiq edək. Bu zaman u  funksiyası olaraq yuxarıda 
+deyilən sinfə daxil olan funksiya, v  olaraq istilikkeçirmə tənliyinin 
+fundamental həllini götürək. Onda  
+ 
+−Γ−=−− ∫∫
+Γ )()(
+)(),cos(),(),(),(
+εε
+ετνττττ
+Rt
+R
+Q
+dyxuvdydyLutyxv  
+∫ ∑
+Γ =
+Γ⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂−
+∂
+∂−
+)( 1
+)(),cos(
+ε
+εν
+R
+n
+i
+Ri
+ii
+dy
+y
+vu
+y
+uv ,           (5.3) 
+ 72
+burada ν  ilə )(εRΓ  səthinə çəkilmiş xarici normal işarə edilmişdir. 
+Aşkardır ki,  
+RΩ  üzərində ;0),cos(,1),cos( =−= iyντν  
+)(ε
+RΩ  üzərində ;0),cos(,1),cos( == iyντν  
+)(ε
+RB  üzərində .0),cos( =τν  
+ Bunları axırıncı bərabərlikdə nəzərə almaqla, 0→ε  şərtilə 
+limitə keçək. Bu zaman )(εtQ  və 
+)(ε
+tB  üzrə inteqralların limitləri 
+uyğun olaraq, tQ  və tB  üzrə inteqrallar olacaq, buna görə də  
+−−−+
+−−−=−−
+∫
+∫∫
+Ω
+→
+Ω
+)(
+),(),(lim
+)0,(),(),(),(
+0
+ε
+εε
+τττ
+ε
+R
+Rt
+dytyuyxv
+dyyutyxvdydyLutyxv
+Q
+ 
+∫∑
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂−
+∂
+∂−
+tB
+n
+i
+Ri
+ii
+ddSy
+y
+vu
+y
+uv
+1
+),cos( τν ,            (5.3) 
+bərabərliyini yaza bilərik. 
+İndi )(εRΩ  üzrə inteqralın limitini hesablayaq, qeyd edək ki, bu 
+zaman )(εRΩ  əvəzinə RΩ  yazmaq olar. 
+=−=−− ∫∫
+Ω
+−
+Ω RR
+dyetyudytyuyxv
+r
+nn
+εε
+πε
+εε 42/ ),()(2
+1),(),(  
+εε
+ε
+ε
+πε
+21
+4
+)(\
+2/
+2
+4 4
+),(
+)(2
+1 JJdyetyu t
+r
+r tr
+nn
+R
++≡−
+⎟⎟
+⎟
+⎠
+⎞
+⎜⎜
+⎜
+⎝
+⎛
++=
+−
+< <Ω
+∫ ∫ . (5.4) 
+ Şərtə görə ),( τyu  funksiyası məhdud olduğundan, 
+Mu ≤|| ,  
+ 73 
+∫
+>
+−
+≤
+4
+2
+4
+2/2 )(2
+ε
+ε
+ε
+πε r
+r
+nn dye
+MJ . 
+Burada  
+nizxy iii ,,2,1,2 K=+= ε  
+əvəzləməsi edək. Onda  
+dzdzdzdzdydydydy
+zzyxr
+nn
+n
+nn
+n
+i
+n
+i
+ii
+n
+i
+2/
+21
+2/
+21
+2
+1
+2
+1
+22
+|,|22)(
+εε
+εε
+===
+⋅=∑⋅=−∑=
+==
+LK
+ 
+olduğundan  
+∫
+>
+−⋅≤
+4
+2
+2
+1||
+||
+2/2
+ε
+ε
+π
+z
+z
+n dze
+MJ  
+alarıq. Bu bərabərsizliyin sağ tərəfi 0→ε -da sıfra yaxınlaşır, çünki 
+məlum olduğu üzrə, 
+2/|| 2 n
+E
+z
+n
+dze π=∫ .                            (5.5) 
+Beləliklə, 
+0lim 2
+0
+=
+→
+ε
+ε
+J .                               (5.5)  
+ Digər inteqralın limitini hesablamaq üçün onu  
++= ∫
+<
+−
+4
+2
+4
+2/1 )(2
+),(
+ε
+ε
+ε
+πε r
+r
+nn dye
+txuJ  
+εε
+ε
+εε
+πε
+11
+4
+2/
+4
+2
+)],(),([
+)(2
+1 JJdyetxutyu
+r
+r
+nn
+′′+′≡⋅−−+ ∫
+<
+−
+  (5.7) 
+şəklində yazaq. Yenidən yuxarıdakı əvəzləmədən istifadə etsək, 
+(5.5) bərabərliyinin köməyilə 
+ 74
+),(
+),(),(
+limlim
+2
+4
+2 ||
+2/
+2
+1||
+||
+2/0
+1
+0
+txudzetxudzetxuJ
+nE
+z
+n
+z
+z
+n ===′ ∫∫ −
+<
+−
+→→ ππ
+ε
+ε
+ε
+ε
+ (5.8) 
+alarıq. Nəhayət, ε1J ′′  inteqralının limitini hesablayaq. İxtiyari 0>η  
+üçün elə 00 >ε  tapmaq olar ki, 0εε <  və 
+4|| ε<− yx  olduqda  
+ηε <−− |),(),(| txutyu  
+olsun.  
+Onda  
+η
+π
+η
+π
+η
+πε
+η
+ε
+ε
+ε
+ε
+=⋅<⋅=
+=⋅≤′′
+∫∫
+∫
+−
+<
+−
+<
+−
+nE
+dzz
+n
+r
+z
+n
+r
+r
+nn
+edze
+dyeJ
+2
+4
+2
+4
+2
+||
+2/
+2
+1||
+||
+2/
+4
+2/1 )(2
+||
+ 
+olduğundan və η -nın ixtiyariliyindən 
+0lim 1
+0
+=′′
+→
+ε
+ε
+J                                  (5.9) 
+alarıq.  
+ Alınmış (5.6), (5.7), (5.8), (5.9) münasibətlərini (5.4)-də 
+nəzərə alsaq, 
+),(),(),(lim
+0
+txudytyuyxv
+R
+=−−∫
+Ω
+→
+εε
+ε
+ 
+alarıq ki, bu da (5.3) bərabərliyini  
++−+−−= ∫∫
+ΩRt
+dytyxvyudydyLutyxvtxu
+Q
+),()0,(),(),(),( τττ  
+∫∑
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
++
+tB
+n
+i
+Ri
+ii
+ddSyn
+y
+vu
+y
+uv
+1
+),cos( τ          (5.10) 
+şəklinə gətirir. Yada salaq ki, bu axırıncı bərabərlikdə v  istilik-
+ 75 
+keçirmə tənliyinin fundamental həllidir. 
+ Axırıncı bərabərlikdən ∞→R  şərtilə limitə keçək. Aydın-
+dır ki, bu zaman RΩ  kürəsi üzrə inteqral nE  fəzası üzrə inteqrala, 
+),0( tQ Rt ×Ω=  silindri üzrə inteqral isə ),0( tEn ×  zolağı üzrə 
+inteqrala yaxınlaşacaq. Silindrik ),0( tSB Rt ×=  səthi üzrə 
+inteqralın limitini hesablayaq. Fundamental həllin ifadəsini nəzərə 
+alsaq  
+τν
+ττ
+π
+τν
+τ ddSy
+t
+yzu
+y
+ue
+t
+ddSy
+y
+vu
+y
+uv
+Ri
+n
+i
+ii
+i
+t
+S
+t
+R
+n
+nn
+B
+R
+n
+i
+i
+ii
+R
+t
+),cos(
+)(2)(
+1
+2
+1),cos(
+10
+)(4
+2/
+2/
+1
+2
+∑∫ ∫
+∫∑
+=
+−
+−
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+−
+−
+∂
+∂⋅
+−
+×
+×=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂−
+∂
+∂
+ 
+alarıq. Fərziyyəmizə görə u  və 
+iy
+u
+∂
+∂  funksiyaları məhdud oldu-
+ğundan, sonuncu bərabərliyin sağ tərəfi ∞→R -da sıfra yaxınlaşır. 
+Bu deyilənlərin nəticəsi olaraq, (5.10) bərabərliyindən, (5.1), (5.2) 
+məsələsinin həlli üçün  
++
+−
+= ∫ ∫ −
+−t
+E
+t
+r
+nnn
+n
+dydyfe
+t
+txu
+0
+)(4
+2/2/ ),()(
+1
+2
+1),(
+2
+ττ
+τπ
+τ  
+∫
+−
++
+nE
+t
+r
+nnn dyyet
+)(
+2
+1 4
+2/2/
+2
+ϕ
+π
+                    (5.11) 
+düsturunu alarıq. 
+ 
+§6. Puasson düsturunun əsaslandırılması.  
+ 
+ Biz yuxarıda bəzi əlavə şərtlər daxilində Koşi məsələsinin 
+həlli üçün (5.11) Puasson düsturunu çıxardıq. İndi göstərək ki, 
+ 76
+),( txf  və )(xϕ  funksiyaları kəsilməz və məhdud funksiyalardırsa, 
+(5.11) düsturu ilə ifadə olunan funksiya doğrudan da (5.1), (5.2) 
+Koşi məsələsinin məhdud həllidir. 
+ Göstərəcəyik ki, 
+∫∫ ⋅⋅−⋅=
+−
+−
+nE
+t
+rt
+nnn dydyfet
+txu ττ
+τπ
+τ ),(
+)(
+1
+2
+1
+),( )(4
+0
+2/2/1
+2
+ 
+funksiyası qeyri-bircins 
+),( txfu
+t
+u
+=∆−
+∂
+∂                            (6.1) 
+istilikkeçirmə tənliyinin bircins 
+00 ==tu                                   (6.2) 
+başlanğıc şərtini ödəyən həlli,  
+∫
+−
+⋅=
+nE
+t
+r
+nnn dyyet
+txu )(
+2
+1),( 42/2/2
+2
+ϕ
+π
+ 
+funksiyası isə bircins 
+0=∆−
+∂
+∂ u
+t
+u                                (6.3) 
+istilikkeçirmə tənliyinin qeyri-bircins  
+)(0 xu t ϕ==  
+başlanğıc şərtini ödəyən həllidir. 
+ Əvvəlcə ),(2 txu  funksiyası ilə məşğul olaq. 
+ Müsbət a  və T  ədədləri üçün ,|| 2
+1
+axx i
+n
+i
+≤∑=
+=
+ Tt ≤≤0  
+bərabərsizlikləri ilə təyin olunmuş məhdud 1+⊂ nED  oblastı 
+götürək. Göstərək ki, ),(2 txu  funksiyasını təyin edən inteqral, x  və 
+ 77 
+t  dəyişənlərinə nəzərən D  oblastında müntəzəm yığılır.  
+ Kafi qədər böyük R  ədədi götürək və  
+∫
+>
+−
+≡
+Ry
+t
+r
+dyyeJ
+||
+4 )(
+2
+ϕ  
+inteqralını qiymətləndirək. 
+ Fərziyyəmizə görə )(xϕ  funksiyası məhduddur, My ≤)(ϕ . 
+Üçbucaq bərabərsizliyinə görə ayxyyxr −≥−≥−= |||||||| . 
+Yuxarıdakı R  ədədini elə seçək ki, aR 2>  bərabərsizliyini ödəsin. 
+Onda 
+2
+||
+2
+yRa ≤<  və 
+2
+|| yr >  olur. Bu o deməkdir ki, 
+Dtx ∈),(  nöqtələri üçün  
+T
+y
+t
+r
+ee 16
+||
+4
+22
+−−
+<  
+olacaq. Buradan da  
+∫
+>
+−
+<
+Ry
+T
+y
+dyeMJ
+||
+16
+|| 2
+||  
+və ya, axırıncı inteqralda  
+nizTy ii ,,2,1,4 K==  
+əvəzləməsi aparsaq  
+∫
+>
+−⋅<
+T
+Rz
+znn dzeTMJ
+4
+||
+||2/ 24||  
+alarıq. Sağ tərəfdəki inteqral bütün fəza üzrə yığılan olduğundan, 
+onda R -in kafi qədər böyük qiymətlərində sağ tərəf istənilən qədər 
+kiçik olacaq. Bu da inteqralının müntəzəm yığılması deməkdir, 
+başqa sözlə ),(2 txu  funksiyası kəsilməz funksiyadır. 
+ Tamamilə eyni qayda ilə göstərmək olar ki, ),(2 txu  
+ 78
+funksiyasını t  dəyişəninə nəzərən bir dəfə və x  dəyişənlərinə 
+nəzərən iki dəfə diferensiallama zamanı alınan inteqrallar da 
+müntəzəm yığılandırlar. 
+ Bu funksiyanın (6.3) tənliyini ödədiyini bilavasitə yox-
+lamaqla göstərmək olar. 
+ İndi göstərək ki, bu funksiya məhdudur və  
+)(),(lim 2
+0
+xtxu
+t
+ϕ=
+→
+                           (6.4) 
+şərtini ödəyir. 
+ Yenə məlum  
+nitxy iii ,,2,1,2 K=+= ξ  
+əvəzləməsi edək, onda  
+∫ −− +=
+nE
+n detxtxu ξξϕπ ξ
+2||2/
+2 )2(),(              (6.5) 
+şəklində yaza bilərik. Buradan Mz ≤|)(| ϕ  olduğunu nəzərə alsaq  
+1
+2||2/ =∫ −−
+nE
+n de ξπ ξ                           (6.6) 
+bərabərliyinin köməyi ilə  
+MdeMtxu
+nE
+n =≤ ∫ −− ξπ ξ
+2||2/
+2 |),(|  
+alarıq, yəni ),(2 txu  funksiyası məhduddur. 
+ Nəhayət, (6.4) bərabərliyini göstərmək üçün (6.6) bəra-
+bərliyinin hər tərəfini )(xϕ -ə vuraq və (6.5)-lə toplayaq. Bu zaman  
+=⋅−+=− ∫ −−
+nE
+n dextxxtxu ξϕξϕπϕ ξ
+2||2/
+2 )]()2([)(),(  
+ 79 
+21
+||
+||2/
+||
+||2/
+2
+2
+)]()2([
+)]()2([
+JJdextx
+dextx
+R
+n
+R
+n
++≡⋅−++
++⋅−+=
+∫
+∫
+>
+−−
+<
+−−
+ξ
+ξ
+ξ
+ξ
+ξϕξϕπ
+ξϕξϕπ
+ 
+alarıq. 
+ Fərziyyəyə görə )(xϕ  funksiyası kəsilməz olduğundan, 
+əvvəldən verilmiş 0>ε -a görə elə 0)(0 >εt  ədədi var ki, 
+)(0 0 εtt << , R<|| ξ  qiymətləri üçün  
+ 
+2/|)()2(| εϕξϕ <−+ xtx  
+olar. Onda  
+22
+||
+||
+||2/
+1
+2 εξπε
+ξ
+ξ ≤< ∫
+<
+−−
+R
+n deJ  
+alarıq.  
+ Digər tərəfdən )(xϕ  funksiyasının məhdudluğundan  
+∫
+>
+−−≤
+R
+n deMJ
+||
+||2/
+2
+2
+2||
+ξ
+ξ ξπ  
+yaza bilərik. Sağ tərəfdəki inteqral bütün fəza üzrə yığılan inteqral 
+oladuğundan, ixtiyari 0>ε  üçün elə )(0 εR  seçmək olar ki, 
+)(0 εRR >  şərtini ödəyən R -lər üçün  
+2
+|| 2
+ε
+<J  
+olar. Bununla, )(0 εtt <  qiymətləri üçün  
+εϕ <− |)(),(| xtxu  
+olduğunu alırıq ki, bu da (6.4) deməkdir. 
+ Beləliklə, ),(2 txu  funksiyasının (6.3), (6.4) məsələsinin 
+məhdud həlli olduğunu göstərmiş oluruq. 
+ İndi ),(1 txu  funksiyası ilə məşğul olaq. Yuxarıdakı qayda 
+ 80
+ilə bu funksiyanı təyin edən inteqralın və onun t -yə nəzərən bir 
+dəfə, x  dəyişənlərinə nəzərən iki dəfə diferensiallanmasından alınan 
+inteqralların müntəzəm yığılan olduqlarını göstərmək olar. Bircins 
+(6.2) şərtinin ödəndiyi də aşkardır. Funksiyanın qeyri-bircins (6.1) 
+tənliyini ödədiyini göstərək. 
+ Bilavasitə diferensiallamaqla  
+∫ ∫
+∫
+⋅
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎣
+⎡
+⋅
+−∂
+∂
++
++⋅⋅
+−
+=
+∂
+∂
+−
+−
+−
+−
+−→
+t
+E
+t
+r
+nnn
+E
+t
+r
+nnnt
+n
+n
+dydyfe
+tt
+dyyfe
+tt
+u
+0
+)(4
+2/2/
+)(4
+2/2/0
+1
+),(
+)(2
+1
+),(
+)(2
+1lim
+2
+2
+ττ
+τπ
+τ
+τπ
+τ
+τ
+τ
+ 
+alarıq. Onda  
++⋅⋅
+−
+=∆−
+∂
+∂
+∫ −
+−
+−→
+nE
+t
+r
+nnntx
+dyyfe
+t
+u
+t
+u
+),(
+)(2
+1lim )(42/2/01
+1
+2
+τ
+τπ
+τ
+τ
+ 
+ττ
+τπ
+τπ
+τ
+τ
+dydyfe
+t
+e
+tt
+t
+r
+nnnx
+t
+E
+t
+r
+nnn
+n
+),(
+)(2
+1
+)(2
+1
+)(4
+2/2/
+0
+)(4
+2/2/
+2
+2
+⎪⎭
+⎪
+⎬
+⎫
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎣
+⎡
+⋅
+−
+∆−
+⎪⎩
+⎪
+⎨
+⎧
+−
+⎥
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎢
+⎣
+⎡
+⋅
+−∂
+∂
++
+−
+−
+−
+−
+∫ ∫
+ 
+olar. Bildiyimiz kimi fundamental həll 0=∆−
+∂
+∂ v
+t
+v  tənliyini  
+ödəyir, ona görə də axırıncı bərabərlikdə ikinci inteqral sıfırdır. 
+Birinci inteqralda ητ =− t  əvəzləməsi aparsaq  
+∫ +⋅⋅=∆−∂
+∂ −
+→
+nE
+r
+nnnx dytyfeut
+u
+),(
+2
+1
+lim 42/2/01
+1
+2
+η
+ηπ
+η
+η
+ 
+ 81 
+alarıq. Buradan, (6.4) bərabərliyinin isbatına analoji olaraq, sağ 
+tərəfin ),( txf -yə bərabər olduğunu ala bilərik, bununla  
+),(1
+1 txfu
+t
+u
+x =∆−∂
+∂
+ 
+alarıq. 
+ Beləliklə, (5.11) düsturu ilə ifadə olunan funksiyanın (5.1), 
+(5.2) məsələsinin həlli olduğunu göstərmiş oluruq. 
+ 
+V  F Ə S İ L .   
+H A R M O N İK  F U N K S İY A L A R .  
+ 
+ 
+§1. Laplas tənliyi və harmonik funksiyalar. 
+ 
+Tutak ki, m  ölçülü evklid fəzasından götürülmüş hər hansı Ω  
+oblastında təyin olunmuş ),,,()( 21 mxxxuxu K=  funksiyası 
+verilmişdir. 
+Tərif 1.1. Əgər bu funksiya oblastın hər nöqtəsində; 
+1o. İki tərtib kəsilməz törəmələrə malikdirsə; 
+2o. Laplas tənliyi adlanan  
+0
+1
+2
+2
+=
+∂
+∂
+≡∆ ∑
+=
+m
+k kx
+uu  
+tənliyini ödəyirsə, onda )(xu  funksiyasına məhdud 
+Ω  oblastında harmonik funksiya deyilir. 
+Tərif 1.2. Əgər Ω  oblastı qeyri məhdud oblastdırsa, )(xu  
+funksiyasına o zaman harmonik funksiya deyilir ki, 
+oblastın kordinat başlanğıcından sonlu məsafədə olan 
+hər bir nöqtəsində 1o və 2o şərtlərindən əlavə 
+ 82
+3o. Kafi qədər böyük 222
+2
+1|| mxxxx L++=  üçün  
+2||
+|)(|
+−
+≤ mx
+Cxu  
+bərabərsizliyi ödənilir, burada C  – hər hansı sabitdir.  
+İki ölçülü oblastlar üçün bu şərt sonsuzluqda məhdudluq şərti, 
+3≥m  halında isə verilmiş tərtibdən az olmamaqla sıfra yaxınlaşma 
+şərtidir. 
+ Harmonik funksiyanın tərifindən göründüyü kimi harmo-
+niklik anlayışı açıq oblasta aiddir. Qapalı Ω  oblastında harmonik 
+funksiya dedikdə, nəzərdə tutulur ki, Ω  oblastını daxilinə olan elə 
+açıq 1Ω  oblastı var ki, funksiya bu 1Ω  oblastında harmonikdir. 
+ Qeyd edək ki, harmonik funksiyanın tərifi oblastın sərhəddi 
+üzərində ona heç bir məhdudiyyət qoymur, belə ki, oblastda 
+harmonik olan funksiya oblastın sərhəddində təyin olunmaya bilər, 
+qeyri məhdud ola bilər, törəməsi olmaya bilər və s. 
+ Tərifdən bilavasitə görünür ki, əgər )(1 xu  və )(2 xu  
+verilmiş oblastda harmonik funksiyalardırsa, onda ixtiyari 1c  və 2c  
+sabitləri üçün )()()( 2211 xucxucxu +=  funksiyası da harmonikdir. 
+ Tutaq ki, ),,,( 21 mxxxx K= , ),,,( 21 mξξξξ K=  fəzada 
+iki ixtiyari nöqtə, 2
+1
+)(|| kk
+m
+k
+xxr ξξ −∑=−=
+=
+ isə bu nöqtələr ara-
+sındakı məsafədir. Bu fəzada vahid radiuslu sferanın səthini || 1σ -lə 
+işarə edək. Məlumdur ki, ikinci növ Γ  Eyler inteqralının köməyi ilə  
+)2/(
+2
+||
+2/
+1 m
+m
+Γ
+=
+π
+σ  
+şəklində ifadə olunur. 
+ Harmonik funksiyalar nəzəriyyəsində mühüm rol oynayan  
+ 83 
+3,1
+||)2(
+1),( 2
+1
+≥⋅
+−
+=
+−
+m
+rm
+xE mσ
+ξ             (1.1) 
+funksiyasına Laplas tənliyinin fundamental həlli deyilir. 
+ Fəzanın ölçüsü 2=m  olduqda, Laplas tənliyinin funda-
+mental həlli  
+r
+xE 1ln
+2
+1),(
+π
+ξ =                            (1.2) 
+şəklində götürülür. 
+ Bilavasitə yoxlamaqla göstərmək olar ki, ixtiyari ξ≠x  
+nöqtələrində ),( ξxE  funksiyası x  və ξ  dəyişənlərinə nəzərən 
+Laplas tənliyini ödəyir (yoxlayın!).  
+ Harmonik funksiyalara aid misallar: 
+1.  Kompleks dəyişənli funksiyalar nəzəriyyəsindən məlum olduğu 
+üzrə, kompleks iyxz +=  dəyişənli += ),()( yxuzf  ),( yxiv  
+analitik funksiyasının həqiqi ),( yxu  və xəyali ),( yxv  hissəlri 
+iki dəyişənli harmonik funksiyalardır. 
+2.  İxtiyari sonlu Ω  oblastında  
+ 
+                                22),( yxyxu −=  
+ 
+funksiyası harmonik funksiyadır. 
+3.  İxtiyari sonlu C  sabiti üçün Cxxxu m =),,,( 21 K  funksiyasına 
+baxaq. Fəzanın ölçüsü 2=m  olduqda, bu funksiya ixtiyari 
+məhdud  və ya qeyri məhdud Ω  oblastında harmonik 
+funksiyadır. Fəzanın ölçüsü 3≥m  olduqda, bu funksiya məhdud 
+Ω  oblastında harmonik funksiyadır, lakin Ω  qeyri-məhdud 
+olduqda harmonik deyil, çünki harmonik funksiyanın tərifindəki 
+3o şərt ödənmir.  
+4.  İxtiyari məhdud Ω  oblastında  
+ 
+                               yxyxu chsin),( ⋅=  
+ 
+ 84
+funksiyası harmonik funksiyadır. Qeyri  məhdud  oblastda  isə  
+bu funksiya harmonik deyil (niyə?).  
+ 85 
+§2. Hamar funksiyaların inteqral göstərişi. 
+ 
+ Tutaq ki, Ω  hər hansı məhdud oblast, S  isə bu oblastın 
+sərhəddidir. Bu oblastda təyin olunmuş iki )()(),( 2 Ω∈Cxvxu  
+funksiyalarını götürək. Asanlıqla göstərilən  
+ 
+∑
+=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+∂
+∂
+=∆−∆
+m
+k kkk x
+vu
+x
+uv
+x
+vuuv
+1
+ 
+eyniliyin hər tərəfini Ω  oblastı üzrə inteqrallayıb, sağ tərəfdəki 
+inteqralda səth üzrə inteqrala keçsək, 
+ 
+∫∫∑
+∫∑
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+=
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+∂
+∂
+=
+Ω =
+SS
+m
+k
+k
+kk
+m
+k kkk
+SdvuuvSdvuuv
+dvuv
+ξξ νν
+ξν
+ξξ
+ξ
+ξξξ
+1
+1
+),cos(
+ 
+alarıq, burada 
+ν∂
+∂  ilə S  səthinin ξ  nöqtəsində səthə çəkilən xarici 
+normal üzrə törəmə işarə olunmuşdur. Qeyd edək ki, bu düsturu 
+yaza bilmək üçün S  səthinin hissə-hissə hamar olması kifayətdir. 
+ Beləliklə, iki ixtiyari )()(),( 2 Ω∈Cxvxu  funksiyaları və 
+hissə-hissə hamar S  səthi üçün  
+ 
+∫∫ ⎟⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+=∆−∆
+Ω S
+Sdvuuvdvuuv ξνν
+ξ)(            (2.1) 
+Qrin düsturu doğrudur. 
+ İndi tutaq ki, sərhəddi hissə-hissə hamar S  səthi olan 
+məhdud Ω  oblastında təyin olunmuş ixtiyari )()( 2 Ω∈Cxu  
+funksiyası verilmişdir. Bu oblastın hər hansı daxili x  nöqtəsini 
+ 86
+götürək və mərkəzi bu nöqtədə olan elə 0>ε  radiuslu εK  kürəsi 
+götürək ki, bu kürə tamamilə Ω  oblastı daxilində yerləşsin. Bu 
+kürənin sferasını εσ -la işarə edək. ),( ξxv  funksiyası olaraq Laplas 
+tənliyinin (1.1) bərabərliyi ( 2=m  olduqda (1.2) bərabərliyi) ilə 
+verilmiş ),( ξxE  fundamental həllini götürək. εKx ∈  olduğundan 
+εK\Ω  oblastında ),( ξxE  funksiyası ξ  dəyişəninin funksiyası 
+olaraq, istənilən tərtib törəməyə malikdir. )(ξu  funksiyası isə Ω  
+oblastında iki dəfə kəsilməz törəmələrə malik idi. Ona görə də bu 
+götürülmüş )(ξu  və ),( ξxE  funksiyalarına εK\Ω  oblastında 
+(2.1) Qrin düsturunu tətbiq etmək olar: 
+ 
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+=∆−∆ ∫∫
+−Ω SK
+SdEuuEdEuuE ξνν
+ξ
+ε
+)(  
+∫ ⎟⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
++
+εσ
+εξσνν
+dEuuE . 
+ Biz 3≥m  halına baxacağıq, 2=m  halında ),( ξxE  ola-
+raq, yuxarıda dediyimiz kimi, (1.2) ilə təyin olunan funksiya 
+götürülməlidir. 
+ Yuxarıdakı bərabərlikdə 0→ε  şərtilə limitə keçsək və 
+εK−Ω  oblastında 0=∆E  olduğunu nəzərə alsaq, 
+ 
+∫∫∫ ⎟⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
++⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+=∆
+→
+Ω εσ
+εξ
+ε
+ξ σνννν
+ξ dEuuESdEuuEudE
+S
+0
+lim  (2.2) 
+yaza bilərik. 
+ Sağ tərəfdəki limitləri hesablayaq. )()( 2 Ω∈Cxu  olduğun-
+dan, elə 0>M  sabiti var ki, Mu ≤
+∂
+∂
+ν
+, ona görə də birinci 
+toplanan üçün 
+ 87 
+=⋅⋅
+−
+≤
+≤
+∂
+∂
+⋅
+−
+≤
+∂
+∂
+∫
+∫∫
+−→
+−→→
+ε
+εε
+σ
+εξ
+ε
+σ
+εξ
+ε
+σ
+ξξ
+ε
+σ
+εσ
+σ
+νσ
+σ
+ν
+d
+m
+M
+du
+rm
+duE
+m
+m
+201
+2
+100
+1
+lim
+||)2(
+1
+||)2(
+1limlim
+    
+0
+||
+lim
+||)2( 2
+1
+1
+01
+=
+⋅
+⋅
+−
+=
+−
+−
+→ m
+m
+m
+M
+ε
+εσ
+σ ε
+              (2.3) 
+bərabərliyini alarıq. 
+ Radiusu ε=r  olan εσ  sferası üzərində, εK−Ω  oblastına 
+nəzərən xarici normal radiusun əksinə yönəldiyindən  
+ 
+122
+211
+−
+=
+−−
+−
+=−=
+∂
+∂
+m
+r
+mm
+m
+rdr
+d
+r εν εσε
+ 
+alarıq. Onda 
+.)(1lim
+||
+1
+1lim
+||)2(
+1lim
+101
+2010
+∫
+∫∫
+⋅⋅=
+=
+∂
+∂⋅
+−
+=
+∂
+∂
+−→
+−→→
+ε
+εε
+σ
+εξ
+ε
+σ
+εξ
+ε
+σ
+εξ
+ε
+σξ
+εσ
+σ
+νσ
+σ
+ν
+du
+d
+r
+u
+m
+dEu
+m
+m
+ 
+İnteqral üçün orta qiymət teoreminə görə, εσ  səthi üzərində elə 
+εθξ += x , 1|| =θ , nöqtəsi var ki, 
+ 
+1
+1 ||)()()(
+−⋅⋅+=+= ∫∫ mxudxudu εσεθσεθσξ
+εε σ
+εξ
+σ
+εξ . 
+Bunu yuxarıdakı bərabərlikdə nəzərə alsaq, 
+)(lim
+0
+xudEu =
+∂
+∂
+∫→
+εσ
+εξ
+ε
+σ
+ν
+                      (2.4) 
+alarıq. Alınan (2.3) və (2.4) münasibətlərinin köməyi ilə, (2.2)-dən  
+ 88
+)(xuSdEuuEudE
+S
+−⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+=∆ ∫∫
+Ω
+ξνν
+ξ  
+bərabərliyini alarıq. Bu axırıncı bərabərlikdə E -nin ifadəsini yerinə 
+yazmaqla,  
+ 
+−⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂−
+∂
+∂
+⋅⋅
+−
+= ∫ −−
+S
+mm Sdr
+uu
+rm
+xu ξν
+ξ
+ν
+ξ
+σ 221
+1)()(1
+||)2(
+1)(  
+∫
+Ω
+−
+∆∆⋅
+−
+− ξ
+σ
+du
+r
+u
+m m 21 ||)2(
+1                     (2.5) 
+düsturunu alarıq. Bu ixtiyari )()( 2 Ω∈Cxu  funksiyasının inteqral 
+göstərişi düsturudur.  
+ Fəzanın ölçüsü 2=m  olduqda, (2.5) düsturu əvəzinə  
+−⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+⋅= ∫
+S
+Sd
+r
+uu
+r
+xu ξν
+ξ
+ν
+ξ
+π
+1
+ln)(
+)(1
+ln
+2
+1
+)(  
+∫
+Ω
+∆⋅− ξ
+π
+ud
+r
+1ln
+2
+1                         (2.6) 
+göstərişini ala bilərik. 
+ Əgər )(xu  funksiyası oblastında harmonik funksiyadırsa, 
+onda 0=∆u  və buna görə də )()( 2 Ω∈Cxu  sinfinə daxil olan 
+harmonik funksiyalar üçün 
+ 
+∫ ⎜⎝
+⎛ −
+∂
+∂
+⋅⋅
+−
+=
+−
+S
+m
+u
+rm
+xu
+ν
+ξ
+σ
+)(1
+||)2(
+1)( 2
+1
+ 
+3,
+1
+)( 2 ≥⎟⎠
+⎞
+∂
+∂
+−
+−
+mSd
+r
+u m ξν
+ξ                   (2.8) 
+və  
+ 89 
+2,1ln)()(1ln
+2
+1)( =⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+⋅= ∫ mSdru
+u
+r
+xu
+S
+ξν
+ξ
+ν
+ξ
+π
+  (2.9) 
+inteqral göstərişlərini yaza bilərik. 
+ Yuxarıda çıxarılan inteqral göstərişi düsturları, bir çox 
+hallarda, geniş tətbiq olunurlar. Biz bunlarla gələcək paraqraflarda 
+məşğul olacağıq. 
+ 
+ 
+ 
+§3. Sadə və ikiqat lay potensialları. 
+ 
+Tutaq ki, S  hər hansı qapalı və ya açıq məhdud hamar səth, 
+)(1 ξµ  və )(2 ξµ  isə bu səth üzərində verilmiş funksiyalardır. Bu 
+səth üzərində yerləşməyən hər hansı x  nöqtəsindən S∈ξ  
+nöqtəsinə qədər olan məsafəni r  ilə işarə edək, || ξ−= xr . 
+Aşağıdakı şəkildə təyin olunmuş  
+∫ −=
+S
+m Sdr
+xu ξξµ 211
+1)()(  
+və  
+∫ −∂
+∂
+=
+S
+m Sdr
+xu ξν
+ξµ 222
+1)()(  
+inteqrallarına, uyğun olaraq, sadə lay və ikiqat lay potensialları, 
+)(1 ξµ  və )(2 ξµ  funksiyalarına isə bu potensialların sıxlığı deyilir.  
+ Teorem 3.1. Sıxlıqları )(1 xµ  və )(2 xµ  mütləq cəmlənən 
+funksiyalar olan sadə və ikiqat lay potensiallarının S  səthi idə ortaq 
+nöqtəsi olmayan ixtiyari Ω  oblastında istənilən tərtib törəmələri var 
+və həm də bu potensiallar harmonik funksiyalardır.  
+ Əvvəlcə göstərək ki, Ω  oblastında )(1 xu  və )(2 xu  
+ 90
+funksiyalarının istənilən tərtib törəmələri var. Doğrudan da, ixtiyari 
+Ω∈x  və S∈ξ  üçün 0|| >≥−= δξxr  olduğundan, bu 
+potensiallar məxrəci sıfra çevrilməyən funksiyanın parametrdən asılı 
+inteqrallarıdır. Bu inteqrallardan inteqral altında istənilən tərtib 
+törəmə almaq olar və bu zaman alınan inteqrallar müntəzəm yığılan 
+inteqrallardır. Yəni )(1 xu  və )(2 xu  funksiyaları istənilən tərtib 
+törəmələrə malikdirlər.  
+ Digər tərəfdən, bu funksiyalara Laplas operatorunu tətbiq 
+etsək 
+ 
+01)(1)( 21211 =∆=∆=∆ ∫∫ −−
+S
+mx
+S
+mxx Sdr
+Sd
+r
+u ξξ ξµξµ , 
+,01),cos()(
+),cos(1)(
+1
+)(
+1
+)(
+1
+22
+1
+22
+22222
+=⎟
+⎠
+⎞
+⎜
+⎝
+⎛∆
+∂
+∂
+=
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+∂
+∂
+∆=
+=⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+∆=
+∂
+∂
+∆=∆
+∫ ∑
+∫ ∑
+∫∫
+=
+−
+=
+−
+−−
+S
+m
+k
+mx
+k
+k
+S
+m
+k
+km
+k
+x
+S
+mx
+S
+mxx
+Sd
+r
+Sd
+r
+Sd
+r
+Sd
+r
+u
+ξ
+ξ
+ξξ
+ξ
+ξνξµ
+ξν
+ξ
+ξµ
+ν
+ξµ
+ν
+ξµ
+ 
+olduğunu alarıq, burada ν  normalı ξ  nöqtəsində səthə çəkilən 
+normal olduğundan x -dən asılı deyil və onu x∆ -dən xaricə 
+çıxardıq. 
+ Bununla, Ω  oblastı məhdud olan halda, potensialların har-
+monikliyi isbat olur.  
+ Əgər Ω  oblastı qeyri-məhdud oblast isə əlavə olaraq 3o 
+şərtinin ödəndiyini göstərmək lazımdır. 
+ S  səthi məhdud səth olduğundan, onun nöqtələrinin koor-
+dinat başlanğıcından olan məsafələri hər hansı bir d  ədədini aşmır. 
+İxtiyari Ω∈x  nöqtəsi üçün, üçbucaq bərabərsizliyinə əsasən, 
+ 91 
+dxxxr −≥−≥−= |||||||| ξξ  
+yaza bilərik. || x -in kafi qədər böyük, məsələ, dx 2|| >  qiymətləri 
+üçün, 
+2
+|| xd <  və ||
+2
+1 xr >  alarıq. Buna görə də  
+∫∫ ⋅≤≤ −
+−
+−
+S
+m
+m
+S
+m Sdx
+Sd
+r
+xu ξξ ξµξµ |)(|
+||
+2
+)(
+1
+|)(| 12
+2
+121
+. 
+Şərtə görə, sıxlıq funksiya cəmlənən olduğundan, axırıncı inteqral 
+sonludur və 3o şərti ödənilir, ∫
+S
+m SdC ξξµ |)(|2 12−= .  
+İndi ikiqat lay potensialına baxaq. Aşkar ,|| rxkk ≤−ξ  
+1|),cos(| ≤kξν  bərabərsizliklərinin köməyi ilə,  
+ 
+∫
+∫ ∑
+∫
+−
+=
+−
+⋅−≤
+≤⋅
+−
+⋅−≤
+≤
+∂
+∂
+⋅≤
+S
+m
+S
+k
+m
+k
+m
+kk
+m
+S
+Sd
+r
+mm
+Sd
+r
+xm
+Sd
+r
+xu
+ξ
+ξ
+ξ
+ξµ
+ξν
+ξ
+ξµ
+ν
+ξµ
+12
+1
+2
+222
+1|)(|)2(
+|),cos(|
+||
+|)(|)2(
+1
+|)(||)(|
+ 
+alarıq. Yenə də dx 2|| >  şərtini ödəyən nöqtələr üçün, ||
+2
+1 xr >  
+olduğundan  
+12 ||
+|)(|
+−
+≤ mx
+Cxu  
+bərabərsizliyini alarıq ki, burada  
+∫−⋅=
+S
+m SdmmC ξξµ |)(|)2(2 2 . 
+ Aldığımız bu bərabərsizlik 3o şərtindən daha güclüdür. 
+ 92
+Bununla, qeyri məhdud oblastda da ikiqat lay potensialının 
+harmonikliyi isbat olur. 
+ Bu teoremin köməyi ilə ixtiyari )()( 2 Ω∈Cxu  harmonik 
+funksiyanın istənilən tərtib törəmələrinin varlığı asanlıqla isbat 
+olunur. Doğrudan tutaq ki, )()( 2 Ω∈Cxu  ixtiyari harmonik 
+funksiyadır. Bu oblastın istənilən 0x  nöqtəsində )(xu  funksiyasının 
+istənilən tərtib törəmələrinin varlığını göstərək. 0x  nöqtəsini 
+daxilinə alan və 1S  sərhəddi ilə birlikdə Ω  oblastında yerləşən 
+istənilən ixtiyari sonlu 1Ω  oblastı quraq. Bu oblasta (2.8) düsturunu 
+tətbiq etsək  
+ 
+1122
+1
+,1)(1
+||)2(
+1)(
+1
+Ω∈⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+⋅⋅
+−
+= ∫ −− xSdru
+u
+rm
+xu
+S
+mm ξν
+ξ
+νσ
+ 
+yara bilərik. Bu alınan lay potesiallarının sıxlıq funksiyaları 1S  
+üzərində nəinki mütləq cəmlənən, hətta diferensiallanan 
+funksiyalardır. Lay potensialların isə istənilən tərtib törəməsi 
+olduğunu göstərmişdik. 
+ 
+ 
+§4. Harmonik funksiyalar üçün orta qiymət  
+xassəsi və maksimum prinsipi.  
+ 
+Bu xassələri isbat etmək üçün, əvvəlcə sonralar dəfələrlə rast 
+gələcəyimiz iki düstur verək. Əslində bu düsturlar yuxarıda isbat 
+olunmuş (2.1) düsturunun xüsusi halıdır. Həmin düsturda 1)( ≡xv  
+götürməklə, ixtiyari )()( 2 Ω∈Cxu  funksiyası üçün  
+∫∫ ∂
+∂
+=∆
+Ω S
+Sduud ξν
+ξ                           (4.1) 
+ 93 
+düsturunu alarıq. Əlavə olaraq, əgər )(xu  funksiyası Ω  oblastında 
+harmonikdirsə, onda (4.1) düsturundan  
+0=
+∂
+∂
+∫
+S
+Sdu ξν
+                              (4.2) 
+düsturunu alarıq.  
+İndi orta qiymət teoremini verək. 
+Teorem 4.1. Tutaq ki, )(xu  funksiyası mərkəzi 0x  nöqtəsində 
+olan R  radiuslu RK  kürəsi daxilində harmonik, bu kürənin RS  
+sferası da daxil olmaqla qapalı kürədə kəsilməz funksiyadır. Onda 
+0x  nöqtəsində funksiyanın aldığı qiymət )( 0xu , sfera səthi üzrə 
+funksiyanın aldığı qiymətlərin ədədi ortasına bərabərdir. 
+Aşkardır ki, ixtiyari RR <1  radiusu götürsək, RK  kürəsi ilə 
+konsentrik 
+1RK  kürəsi üçün )()( 1
+2
+RKCxu ∈ . Onda ixtiyari 
+harmonik funksiyanın interal göstərişinə əsasən  
+ 
+∫ ⎜⎝
+⎛ −
+∂
+∂
+⋅⋅
+−
+=
+−
+1
+)(1
+||)2(
+1)( 2
+1
+RS
+m
+u
+rm
+xu
+ν
+ξ
+σ
+ 
+11
+,1)( 2 RRm KxSdr
+u ∈⎟
+⎠
+⎞
+∂
+∂−
+− ξν
+ξ                  (4.3) 
+yaza bilərik. Xüsusi halda, 0xx =  götürsək, 1Rr =  olur. Digər 
+tərəfdən, 1S  sfera səthi üzərində xarici normal radius istiqamətində 
+yönəldiyindən 
+1
+1
+22
+211
+11
+−
+=
+−−
+−
+−=
+∂
+∂
+=
+∂
+∂
+m
+Rr
+m
+S
+m R
+m
+rrrν
+. 
+Bunları (4.3)-də nəzərə alsaq,  
+ 94
+∫
+∫
+⋅+
++
+∂
+∂
+⋅
+−
+=
+−
+−
+1
+1
+11
+11
+12
+11
+0
+)(
+||
+1
+||)2(
+1)(
+R
+R
+S
+m
+S
+m
+dSu
+R
+Sdu
+Rm
+xu
+ξ
+σ
+νσ
+ξ
+ 
+və buradan da (4.2) bərabərliyinin köməyi ilə  
+∫⋅= −
+1
+1
+)(
+||
+1)(
+1
+11
+0
+RS
+Rm dSuR
+xu ξ
+σ
+ 
+alarıq. Bu bərabərlikdən RR →1  şərti ilə limitə keçsək,  
+∫⋅= −
+RS
+Rm dSuR
+xu )(
+||
+1
+)(
+1
+1
+0 ξ
+σ
+                (4.4) 
+alarıq ki, bu da orta qiymət teoreminin riyazi yazılışıdır. 
+ Sfera üçün olduğu  kimi,  kürə  üçün də orta qiymət xassəsi 
+doğrudur. Bunu göstərək. Tutaq ki, )(xu  funksiyası 
+RxxKR <− ||: 0  kürəsi daxilində harmonikdir. İxtiyari R<< ρ0  
+götürüb ρ=− || 0xx  sferası üçün (4.4) düsturunu yazaq 
+ 
+∫⋅= −
+ρ
+ρξ
+ρσ S
+m Sudxu 1
+1
+0
+||
+1)( . 
+Axırıncı bərabərliyi  
+∫⋅=−
+ρ
+ρξσ
+ρ
+S
+m Sudxu
+||
+1
+)(
+1
+0
+1  
+şəklində yazıb hər tərəfini ),0( R  intervalında ρ -ya nəzərən 
+inteqrallasaq  
+∫ ∫⋅=
+R
+S
+m
+dSudxu
+m
+R
+01
+0 ||
+1
+)(
+ρ
+ρ
+σ ρξ
+ 
+və yaxud da  
+ 95 
+∫⋅=
+RK
+Rm udR
+mxu τ
+σ ||
+)(
+1
+0  
+alarıq, burada Rdτ  həcm elementidir. Alınan bərabərlik kürə üçün 
+orta qiymət xassəsidir. 
+ İndi isə maksimum prinsipinə keçək. Əvvəlcə Laplas 
+operatoru üçün aşağıdakı teoremi isbat edək. 
+Teorem 4.2. Tutaq  ki, Ω  ixtiyari məhdud oblast, ∈)(xu  
+)(2 ΩC  isə  bu oblastda təyin olunmuş ixtiyari funksiyasıdır. Əgər 
+bu funksiya üçün 0>∆u  )0( <∆u  isə, onda bu funksiya oblastın 
+daxilində özünün ən böyük (ən kiçik) qiymətini ala bilməz. 
+ Aydındır ki, teoremi maksimum halı üçün isbat etmək 
+kifayətdir, çünki )(xu  funksiyası daxildə ən böyük qiymətini alırsa 
+və 0>∆u  isə, onda )(xu−  funksiyası həmin nöqtədə minimum 
+qiymətini alır və 0<∆− u . 
+ Teoremi isbat etmək üçün əksini fərz edək. Fərz edək ki, 
+)(xu  funksiyası daxili 0x  nöqtəsində özünün ən böyük qiymətini 
+alır. Onda bu nöqtədə ,0,0 ≤=
+kkk xxx uu  mk ,,2,1 K=  olmalıdır. 
+Bu isə 0>∆u  şərtinə ziddir. 
+Teorem 4.3. Tutaq ki, )(xu  məhdud Ω  oblastında harmonik, 
+qapalı S+Ω  oblastında isə kəsilməz funksiyadır. Onda bu funksiya 
+oblastın daxilində, sərhəddəki ən böyük qiymətindən böyük və ən 
+kiçik qiymətdən kiçik, qiymət ala bilməz. 
+ Əksini fərz edək. Tutaq ki, daxili 0x  nöqtəsində funksiyanın 
+qiyməti  
+δ+> )()( 0 suxu  
+şərtini ödəyir, burada Ss ∈  ixtiyari nöqtə, δ  isə hər hansı müsbət 
+ədəddir. 
+ Yeni  
+ 96
+2)()( rxuxv ε+=  
+funksiyası düzəldək, burada ε  ixtiyari müsbət ədəd, || 0xxr −=  isə 
+x  və 0x  nöqtələri arasındakı məsafədir. 
+Bu funksiyanın qiymətləri üçün  
+||,)()(
+,)()()(
+01
+2
+1
+00
+xsrrsusv
+suxuxv
+−=+=
++>=
+ε
+δ
+ 
+münasibətindən  
+δε +−> 210 )()( rsvxv  
+yaza bilərik. İxtiyari ε  ədədini elə seçək ki, 
+2
+2
+1
+δεδ >− r  
+bərabərsizliyi ödənsin. Onda  
+2
+)()( 0
+δ
++> svxv  
+alarıq. Bu o deməkdir ki, )(sv  funksiyası oblastın daxilində ən 
+böyük qiymətini alır. Bu isə ola bilməz, çünki  
+ 
+02)( 2 >=∆+∆=∆ εε mruv  
+olduğundan, teorem 4.2-lə ziddiyət alardıq. Bununla, teorem 4.3 
+isbat olur. Bu teoremə harmonik funksiyalar üçün maksimum 
+prinsipi deyilir.  
+Bilavasitə maksimum prinsipindən aşağıdakı nəticələri söyləyə 
+bilərik. 
+ Nəticə 4.1. Oblastda harmonik olan funksiya, eynilik kimi 
+sabit deyilsə, daxildə ən böyük və ən kiçik qiymətini ala bilməz. 
+ Nəticə 4.2. Verilmiş  Ω  oblastında harmonik və qapalı Ω  
+oblastında kəsilməz olan 1u  və 2u  funksiyaları oblastın sərhəddində 
+üst-üstə düşürlərsə, daxildə də üst-üstə düşürlər. 
+ 
+ 97 
+ 
+§5. Orta qiymət xassəsi üçün tərs teorem. 
+ 
+Harmonik funksiyalar üçün isbat edilmiş orta qiymət xassəsi bu 
+sinif funksiyaları tam xarakterizə edir. Belə ki, orta qiymət xassəsi 
+üçün aşağıdakı tərs teorem də doğrudur. 
+Teorem 5.1. Əgər məhdud Ω  oblastında verilmiş kəsilməz 
+)(xv  funksiyası orta qiymət xassəsini ödəyirsə, yəni oblastın hər bir 
+nöqtəsində funksiyanın aldığı qiymət, mərkəzi bu nöqtədə olan və 
+tamamilə oblast daxilində yerləşən ixtiyari sfera üzrə aldığı 
+qiymətlərin ədədi ortasına bərabərdirsə, onda )(xv  harmonik 
+funksiyadır. 
+Teoremi isbat etmək üçün əvvəlcə bir lemma isbat edək. 
+ Lemma 5.1. Əgər məhdud Ω  oblastında kəsilməz )(xv  
+funksiyası orta qiymət xassəsini ödəyirsə və oblastın daxilində 
+özünün ən böyük və ya ən kiçik qiymətini alırsa, onda bu funksiya 
+eynilik kimi sabitdir. 
+ Əksini fərz edək. Tutaq ki, oblast daxilində elə 0x  nöqtəsi 
+var ki, bu nöqtədə funksiya özünün ən böyük qiymətini alır. Mərkəzi 
+bu nöqtədə olan elə K  kürəsi götürək ki, bu kürə tamamilə oblastın 
+daxilində yerləşsin. Funksiya orta qiymət xassəsini ödədiyindən, 
+)( 0xv  qiymətinin sfera səthi üzrə funksiyanın aldığı  qiymətlərin 
+ədədi ortası ola bilməsi üçün, funksiya sfera üzərində eynilik kimi 
+)( 0xv  qiymətinə bərabər olmalıdır. Bu o deməkdir ki, K  kürəsi 
+daxilində )(xv  funksiyası eynilik kimi sabitdir. İndi göstərək ki, bu 
+funksiya bütün oblastda sabitdir.  
+ Oblastın daxilində ixtiyari x  nöqtəsi götürək və bu nöqtəni 
+tamamilə oblast daxilində yerləşən l  əyrisi vasitəsilə 0x  nöqtəsilə 
+birləşdirək. Bu əyri ilə Ω  oblastının sərhəddi arasındakı məsafəni 
+ 98
+d2  ilə işarə edək. Mərkəzi l  əyrisi üzərində götürülmüş y  
+nöqtəsində yerləşən d  radiuslu kürəni )(yKd  ilə işarə edək. Bu 
+kürələr hamısı tamamilə Ω  oblastı daxilində yerləşirlər. )( 0xKd  
+kürəsi daxilində l  əyrisi üzərində elə 1x  nöqtəsi götürək ki, 
+2
+|| 01
+dxx >−  olsun. )( 1xKd  kürəsi daxilində l  əyrisi üzərində 
+elə 2x  nöqtəsi götürək ki, 2
+|| 12
+dxx >−  olmaqla, 1x  nöqtəsi 
+0x -la 2x  arasında yerləşsin. Bu prosesi davam etdirməklə, sonlu 
+sayda kürələrlə bütün l  əyrisini örtə bilərik. Qurmaya görə 
+),( 1−∈ jdj xKx  ,,,2,1 nj K=  )( 1−∈ nd xKx . Bu kürələrin hər 
+birində funksiya sabit olduğundan )()( 0xvxv = . Bununla  lemma 
+isbat olur. 
+ Nəticə 5.1. Məhdud Ω  oblastında orta qiymət xassəsini 
+ödəyən )(xv  funksiyası oblastın sərhəddində sıfırdırsa, onda 
+oblastda da eynilik kimi sıfırdır. 
+ Doğrudan da, əks halda funksiya daxildə özünün ən böyük 
+və ya ən kiçik qiymətini alar, bu isə lemma 5.1.-ə ziddir. 
+ İndi teorem 5.1-i isbat edək. Tutaq ki, )(xv  funksiyası Ω  
+oblastında orta qiymət xassəsini ödəyən kəsilməz funksiya, )(xu  isə 
+oblastın sərhəddində )(xv  ilə üst-üstə düşən harmonik funksiyadır.  
+Onda )()( xvxu −  fərqi orta qiymət xassəsini ödəməklə, 
+oblastın səthində sıfırdır. Nəticə 5.1-ə görə bu fərq oblastın 
+daxilində də eynilik kimi sıfırdır, yəni )()( xuxv ≡ . 
+ 99 
+ 
+§6. Həcm potensialı. 
+ 
+Yuxarıda çıxardığımız (2.5) düsturunda ixtiyari ∈)(xu  
+)(2 ΩC  funksiyasının üç inteqralın cəmi şəklində ifadə olunduğunu 
+göstərmişdik. Bu inteqrallardan səth üzərində olan inteqrallara lay 
+potensialları dedik. İndi isə oblast üzrə olan  
+ 
+||,)()( 2 ξξ
+ξρ
+−== ∫
+Ω
+−
+xrd
+r
+xw m  
+inteqralına baxaq. Bu inteqrala həcm potensialı və ya Nyuton 
+potensialı, )(ξρ -yə isə potensialın sıxlığı deyilir. 
+Aydındır ki, bu inteqral oblastdan götürülmüş ixtiyari x  
+nöqtəsi üçün, ξ=x  nöqtəsində zəif məxsusiyyəti olan inteqral 
+olmaqla, ixtiyari mütləq cəmlənən məhdud )(ξρ  funksiyası üçün 
+kəsilməz funksiyadır.  
+Göstərək ki, )(ξρ  funksiyası məhdud və kəsilməz funk-
+siyadırsa, onda həcm potensialının birinci tərtib kəsilməz törəmələri 
+var və bu törəmələr bilavasitə, inteqralaltında törəmə olmaqla,  
+mid
+rxx
+w
+m
+ii
+,1,1)( 2 =∂
+∂
+=
+∂
+∂
+∫
+Ω
+−
+ξξρ             (6.1) 
+düsturları ilə hesablanır. 
+Doğrudan da, sağ tərəfdə alınan  
+∫
+Ω
+−
+− ξ
+ξ
+ξρ d
+r
+xm m
+ii)()2(  
+ifadəsi, zəif məxsusiyyətli inteqral olaraq müntəzəm yığılır və bu 
+inteqral, Ω  oblastında kəsilməz funksiya təyin edir.  
+Həcm potensialının ikinci tərtib törəmələri haqqında aşağıdakı 
+teoremi isbat edək. 
+ 100
+Teorem 6.1. Potensialın sıxlığı )(ξρ , oblastda birinci tərtib 
+məhdud və kəsilməz xüsusi törəmələrə malik funksiyadırsa, onda Ω  
+oblastında həcm potensialının ikinci tərtib kəsilməz törəmələri var və 
+bu potensial 
+ 
+)(||)2( 1 xmw ρσ ⋅−−=∆  
+Puasson tənliyini ödəyir. 
+Aşkar  
+22
+11
+−− ∂
+∂
+−=
+∂
+∂
+m
+i
+m
+i rrx ξ
+ 
+bərabərliyinin köməyi ilə, həcm potensialının birinci tərtib 
+törəmələri üçün olan (6.1) düsturlarını 
+ 
+mid
+rx
+w
+m
+ii
+,1,1)( 2 =∂
+∂
+−=
+∂
+∂
+∫
+Ω
+−
+ξ
+ξ
+ξρ  
+şəklində yazmaq olar. Sağ tərəfi hissə-hissə inteqrallamaqla 
+∫∫
+Ω
+−− ∂
+∂
++−=
+∂
+∂ ξ
+ξ
+ρξνρ ξ dr
+Sd
+rx
+w
+m
+iS
+im
+i
+22
+1),cos(1        (6.2) 
+bərabərliyini ala bilərik. Bu bərabərliyin sağ tərəfindəki birinci 
+toplananın Ω∈x  nöqtələri üçün kəsilməz törəmələri var və bu 
+törəmələri bilavasitə inteqral altında törəmə almaqla hesablamaq 
+olar. Şərtə görə 
+iξ
+ρ
+∂
+∂  törəmələri məhdud və kəsilməz olduğundan, 
+ikinci inteqral da, yuxarıda dediyimiz kimi, kəsilməz törəmələrə 
+malikdir və bununla da, həcm potensialının ikinci tərtib törəmələri 
+üçün  
+ 
++
+∂
+∂
+−=
+∂∂
+∂
+∫ −
+S
+im
+jji
+Sd
+rxxx
+w
+ξξνρ ),cos(
+1
+2
+2
+ 
+ 101 
+−
+∂
+∂
+=
+∂
+∂
+∂
+∂
++ ∫∫ −
+Ω
+−
+S
+im
+j
+m
+ji
+Sd
+r
+d
+rx ξ
+ξν
+ξ
+ρξ
+ξ
+ρ ),cos(11 22  
+mjid
+rmji
+,1,,1 2 =∂
+∂
+∂
+∂
+− ∫
+Ω
+−
+ξ
+ξξ
+ρ                 (6.3) 
+düsturunu alarıq.  
+ İndi  həcm potensialının ixtiyari Ω∈x  nöqtəsi üçün 
+)(||)2( 1 xmw ρσ ⋅−−=∆  
+tənliyini ödədiyini göstərək. 
+ Mərkəzi Ω∈x  nöqtəsində olan elə 0>ε  radiuslu εK  
+kürəsi götürək ki, bu kürə tamamilə Ω oblastında yerləşsin. Bu 
+kürənin səthini εγ -la, Ω  oblastından bu kürəni çıxmaqla alınan 
+oblastı isə εΩ -la işarə edək. 
+ Həcm potensialının ikinci tərtib törəmələri üçün aldığımız 
+(6.3) düsturlarına görə  
+∫∑
+∫ ∑∑
+Ω =
+−
+=
+−
+=
+∂
+∂
+∂
+∂
+−
+−
+∂
+∂=
+∂
+∂=∆
+m
+i
+m
+ii
+S
+m
+i
+im
+i
+m
+i i
+d
+r
+Sd
+rx
+ww
+1
+2
+1
+2
+1
+2
+2
+1
+),cos(1
+ξ
+ξξ
+ρ
+ξν
+ξ
+ρ ξ
+ 
+və ya da  
+∫∑∫
+Ω =
+−− ∂
+∂
+∂
+∂
+−
+∂
+∂
+=∆
+m
+i
+m
+iiS
+m dr
+Sd
+r
+w
+1
+22
+11
+ξ
+ξξ
+ρ
+ν
+ρ ξ      (6.4) 
+alarıq, burada ν  səth üzərində götürülmüş ξ  nöqtəsində səthə 
+çəkilən xarici normaldır. 
+ Hissə-hissə inteqrallamaqla 
++
+∂
+∂
+=
+∂
+∂
+∂
+∂
+∫ ∑∫∑
+=
+−
+Ω =
+−
+S
+m
+i
+im
+i
+m
+i
+m
+ii
+Sd
+r
+d
+r 1 21 2
+),cos(
+11
+ξξνξ
+ρξ
+ξξ
+ρ
+ε
+ 
+ 102
+,1),cos(1
+1
+22
+2
+1
+2 ∫ ∑∫ ∑
+Ω =
+−
+=
+− ∂
+∂
+−
+∂
+∂
++
+εε
+ξ
+ξ
+ργξν
+ξ
+ρ
+γ
+εξ
+m
+i
+m
+i
+m
+i
+im
+i
+d
+r
+d
+r
+ (6.5) 
+bərabərliyini almaqla. εΩ  oblastında  
+01
+1
+22
+2
+=
+∂
+∂∑
+=
+−
+m
+i
+m
+i rξ
+ 
+olduğunu nəzərə alsaq, (6.5) bərabərliyindən ε  sıfıra yaxınlaşmaqla 
+limitə keçsək 
+∫
+∫∫∑
+−→
+−
+Ω =
+−
+∂
+∂
++
++
+∂
+∂
+=
+∂
+∂
+∂
+∂
+εγ
+εξ
+ε
+ξ
+γ
+ν
+ρ
+ν
+ρξ
+ξξ
+ρ
+d
+r
+Sd
+r
+d
+r
+m
+S
+m
+m
+i
+m
+ii
+20
+2
+1
+2
+1lim
+11
+ 
+yaza bilərik. Bunu (6.4) bərabərliyində nəzərə alsaq, 
+∫ −→ ∂
+∂
+−=∆
+εγ
+εξ
+ε
+γ
+ν
+ξρ d
+r
+w m 20
+1)(lim                (6.6) 
+olduğunu alarıq. Sferanın εγ  səthi üzərində ν  xarici normalı 
+radiusun əksinə yönəldiyindən 
+122
+211
+−
+=
+−−
+−
+=−=
+∂
+∂
+m
+r
+mm
+m
+rdr
+d
+r εν εγε
+ 
+olur və buna görə də, (6.6) bərabərliyindən  
+)(||)2(
+)()]()([2lim
+1
+10
+xm
+dxdxmw m
+ρσ
+γργρξρ
+ε
+εε γ
+εξ
+γ
+εξ
+ε
+−−=
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
++−
+−
+−=∆ ∫∫−→  
+alırıq.  
+ Bununla teorem isbat olur.  
+ 103 
+§7. Harnak teoremləri. 
+ 
+Teorem 7.1. Əgər Ω  obdastında harmonik və S+Ω  qapalı 
+oblastında kəsilməz olan )}({ xun  funksiyalar ardıcıllığı oblastın S  
+sərhəddində müntəzəm yığılırsa, onda Ω  oblastının daxilində də 
+müntəzəm yığılır. 
+Verilmiş )}({ xun  funksiyalar ardıcıllığının müntəzəm yığıl-
+ması o deməkdir ki, əvvəldən verilmiş istəilən 0>ε -a görə elə 
+)(εN  nömrəsi var ki, )(εNn ≥  şərtini ödəyən n  və ixtiyari 
+natural p  ədədi üçün  
+Suu npn ∈<−+ ξεξξ ,|)()(|                    (7.1) 
+bərabərsizliyi ödənir. İki harmonik funksiyanın fərqi olmaqla, 
+)()( xuxu npn −+  funksiyasıda harmonikdir və qapalı S+Ω  
+oblstında kəsilməzdir. Maksimum prinsirinə görə belə funksiya 
+özünün ən böyük və ən kiçik qiymətini S  sərhəddi üzərində alır, 
+buna görə də  
+ 
+|)()(|max|)()(|max ξξ
+ξ
+npnnpnx
+uuxuxu −≤− +
+Γ∈
++
+Ω∈
+. 
+Bu bərabərsizliyin sağ tərəfi (7.1) bərabərsizliyinə görə ε -dan 
+kiçik olduğundan  
+Ω∈<−+ xxuxu npn ,|)()(| ε  
+yaza bilərik ki, bu da )}({ xun  ardıcıllığının Ω  oblastında 
+müntəzəm yığılması deməkdir. Ardıcıllığın hər bir elementi qapalı 
+Ω  oblastında kəsilməz olduğundan və ardıcıllıq müntəzəm 
+yığıldığından, bu ardıcıllığın limiti  
+ 
+)(lim)( xuxu nn ∞→
+=  
+funksiyası da qapalı Ω  oblastında kəsilməz funksiyadır. 
+ 104
+Teorem 7.2. Müntəzəm yığılan harmonik )}({ xun  funksiyalar 
+ardıcıllığının limiti də harmonik funksiyadır. 
+ İxtiyari Ω∈x  nöqtəsi götürək və mərkəzi bu nöqtədə olan 
+və RS  sferası ilə birlikdə tamamilə bu oblast daxilində qalan RK  
+kürəsini quraq. Hər bir )(xun  funksiyası harmonik olduğundan, orta 
+qiymət teoreminə görə  
+ 
+∫−=
+RS
+Rnmn SduR
+xu ξξ
+σ
+)(
+||
+1)( 1
+1
+. 
+Bu bərabərlikdən ∞→n  şərtilə limitə keçsək  
+∫−=
+RS
+Rm SduR
+xu ξξ
+σ
+)(
+||
+1
+)( 1
+1
+, 
+yəni limit funksiya orta qiymət xassəsini ödəyir. Müntəzəm yığılan 
+ardıcıllığın limiti kimi )(xu  həm də kəsilməz olduğundan, teorem 
+5.1-ə görə )(xu  funksiyası harmonikdir. 
+V I  F Ə S İ L .   
+D İR İX L E  VƏ  N E Y M A N  MƏ SƏLƏLƏR İ .  
+ 
+ 
+§1. Dirixle və Neyman məsələlərinin qoyuluşu 
+  
+ Tutaq ki, qapalı S  səthi mE  fəzasını iki sonlu və sonsuz 
+oblastlara ayırır. Bu oblastlara, uyğun olaraq, daxili və xarici 
+oblastlar, bu oblastlar üzrə qoyulan sərhəd məsələlərinə isə daxili və 
+xarici məsələlər deyəcəyik. 
+ Prinsipal fərqi olmadığından biz bu məsələləri daha ümumi 
+elliptik tənliklər üçün söyləyək. Fərz edək ki,  xətti elliptik tənlik 
+verilmişdir 
+ 105 
+)()()()(
+1
+2
+1,
+xFuxc
+x
+uxb
+xx
+uxa
+i
+m
+i
+i
+ji
+m
+ji
+ij =+∂
+∂
++
+∂∂
+∂ ∑∑
+==
+.    (1.1) 
+ Xatırladaq ki, əgər ixtiyari Ω∈x  nöqtəsi üçün  
+∑
+=
+=
+m
+ji
+jiij xaxQ
+1,
+)(),( ξξξ  
+kvadratik forması müsbət müəyyəndirsə, yəni ixtiyari ,( 1ξξ =  
+0),,2 ≠mξξ K  vektoru üçün 0),( >ξxQ  bərabərsizliyi ödənirsə, 
+onda (1.1) tənliyinə elliptik tənlik deyilir. 
+ Daxili Dirixle məsələsi: Daxili Ω  oblastında (1.1) tənli-
+yinin iki dəfə kəsilməz törəmələrə malik elə həllərini tapmalı ki, bu 
+həllər qapalı S+Ω  oblastında kəsilməz olmaqla bu oblastın S  
+sərhəddində verilmiş )(xϕ  kəsilməz funksiyası ilə üst-üstə düşsün 
+Sxxxu ∈= ),()( ϕ .                        (1.2) 
+ Daxili Neyman məsələsi: Daxili Ω  oblastında (1.1) tən-
+liyinin iki dəfə kəsilməz törəmələrə malik olan elə həllini tapmalı ki, 
+bu həll qapalı S+Ω  oblastında kəsilməz törəmələrə malik olsun və 
+S  səthinə çəkilən ν  nomalının olduğu nöqtələrdə  
+ 
+)(),cos()(
+1,
+xx
+x
+uxa
+m
+ji
+j
+i
+ij ψν =∂
+∂∑
+=
+                 (1.3) 
+sərhəd şərtini ödəsin. 
+ Biz (1.1) tənliyinin sadə halı olan  
+)(xFu =∆                                  (1.4) 
+Puasson tənliyi üzərində ətraflı dayanacağıq. Bu halda (1.3) Neyman 
+şərti  
+)(
+)( xxu ψ
+ν
+=
+∂
+∂                                (1.5) 
+şəklini alır. 
+ 106
+ Analoji qayda ilə xarici Dirixle və Neyman məsələləri də 
+qoyulur. Bu zaman daxili sərhəd məsələlərindən fərqli olaraq, 
+sonsuzluq ətrafında əlavə  
+2||||
+|)(|
+−
+≤ mx
+cxu                           (1.6) 
+şərti tələb olunur.    
+ 
+ 
+ 
+§2. Dirixle məsələsinin həllinin yeganəliyi. 
+ 
+Teorem 2.1. Puasson tənliyi üçün həm daxili, həm də xarici 
+Dirixle məsələlərinin həlli yeganədir. 
+Əvvəlcə daxili Dirixle məsələsinin həllinin yeganəliyini 
+göstərək. İsbat üçün əksini fərz edək. Tutaq ki, daxili Dirixle 
+məsələsinin iki )(1 xu  və )(2 xu  həlləri var. Onda bu həllərin fərqi 
+)()()( 12 xuxuxv −=  funksiyası  
+ 
+0=∆v  
+Laplas tənliyini və  
+0=Sv  
+sərhəd şərtini ödəyəcək. Maksimum prinsipinə görə, buradan 
+0)( ≡xv  və )()( 21 xuxu =  alarıq.  
+İndi xarici Dirixle məsələsinin həllinin yeganəliyini göstərək. 
+Fəzanın ölçüsü 2=m  olduqda, konform inikas vasitəsilə sonsuz 
+xarici oblast üçün Dirixle məsələsini daxili Dirixle məsələsinə 
+keçirmək olar və onun həllinin yeganəliyini göstərmişik. 
+ Fərz edək ki, 3≥m . Məsələnin iki müxtəlif həlləri olsaydı, 
+həllərin hər biri (1.6) şərtini ödədiyindən, onların fərqi v  funksiyası 
+sonsuz Ω  oblastında 0=∆v  Laplas tənliyini ödəməklə,  
+ 107 
+2||
+||
+−
+≤ mx
+cv  
+şərtini də ödəyəcək. Oblastın S  səthi sonlu olduğundan, mərkəzi 
+koordinat başlanğıcında olan elə R  radiuslu RS  sferası var ki, S  
+səthi bu sferanın əhatə etdiyi kürə daxilində qalır. Bu sfera və S  
+səthi arasında qalan RΩ  oblastında )(xv  funksiyası harmonik 
+olamaqla, S  səthi üzərində sıfırdır və RS  sferası üzərində 
+2
+||
+−
+≤ mR
+cv  şərtini ödəyir. İxtiyari ε  ədədi qeyd edək və R  
+radiusunu elə seçək ki, ε<
+−2mR
+c  olsun. Onda alarıq ki, sonlu 
+RΩ  oblastında harmonik olan v  funksiyası sərhəd üzərində 
+istənilən ε -dan kiçikdir. Buradan, maksimum prisipinə görə RΩ  
+oblastında )(xv  funksiyası ε<|)(| xv  şərtini ödəyir. ε -nun 
+ixtiyariliyindən 0)( ≡xv  alarıq. 
+ 
+ 
+§3. Daxili Dirixle məsələsinin həlli. 
+Qrin funksiyası. 
+ 
+ Tutaq ki, Ω  sərhəddi S  olan məhdud oblastdır. Bu oblastda 
+(1.4) Pusson tənliyinin (1.2) sərhəd şərtini ödəyən həllini quraq. 
+İxtiyari hamar funksiyanın inteqral göstərişi düsturunu  
+−⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+⋅
+−
+= ∫ −−
+S
+mm Sdr
+u
+r
+u
+m
+xu ξννσ 221
+11
+||)2(
+1
+)(  
+∫
+Ω
+−
+∆
+⋅
+−
+− ξ
+σ
+d
+r
+u
+m m 21 ||)2(
+1                                  (3.1) 
+ 108
+yazaq. 
+ Digər tərəfdən, oblastda hamar olan ixtiyari funksiyalar üçün  
+ 
+∫∫ ∂
+∂
+−
+∂
+∂
+=∆−∆
+Ω S
+Sdguugdguug ξνν
+ξ )()(           (3.2) 
+eyniliyi doğrudur. 
+Tutaq ki, Ω  oblastında həm x  və həm də ξ  dəyişənlərinə 
+nəzərən harmonik olan elə ),( ξxg  funksiyası var ki, bu funksiya 
+oblastın S  sərhəddi üzərində  
+||,
+1
+),( 2 ξξ −== − xrr
+xg mS                    (3.3) 
+sərhəd şərtini ödəyir. (3.2) eyniliyində u  olaraq (4.1) Pusson 
+tənliyinin həllini, g  olaraq bu deyilən funksiyanı götürsək,  
+ 
+∫∫ ⎟⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+=
+−
+Ω S
+m Sd
+guu
+r
+gFd ξνν
+ξ
+2
+1              (3.4) 
+bərabərliyini alarıq. Bu bərabərliyin hər tərəfini 
+||)2(
+1
+1σ−m
+ 
+ifadəsinə vurub, (3.1) düsturundan çıxsaq  
+ 
+∫∫ ∂
+∂
+−−=
+Ω S
+SduGdFxGxu ξξν
+ξξξ )()(),()(           (3.5) 
+alarıq, burada  
+⎥⎦
+⎤
+⎢⎣
+⎡ −
+−
+=
+−
+),(1
+||)2(
+1),( 2
+1
+ξ
+σ
+ξ xg
+rm
+xG m  
+işarə edilmişdir. Bu ),( ξxG  funksiyasını  
+),(
+||)2(
+1
+),(),(
+1
+ξ
+σ
+ξξ xg
+m
+xExG
+−
+−=            (3.6) 
+şəklində yaza bilərik. Bu cür təyin olunmuş ),( ξxG  funksiyasına 
+ 109 
+Laplas operatoru üçün Dirixle məsələsinin Qrin funksiyası deyilir. 
+ Beləliklə, (4.1) Pusson tənliyinin (1.2) şərtini ödəyən həlli 
+varsa, bu həll Qrin funksiyasının köməyilə  
+ 
+∫∫ ∂
+∂
+−−=
+Ω S
+SdxGdFxGxu ξξϕν
+ξ
+ξξξ )(
+),(
+)(),()(       (3.7) 
+şəklində göstərilir. 
+ Qrin funksiyasının bəzi xassələrini söyləyək:  
+1o. Qrin funksiyası ξ≠x  olduqda x  və ξ  dəyişənlərinə nəzərən 
+Laplas tənliyini ödəyir. 
+ Bu təklifin isbatı Laplas tənliyinin fundamental həllinin 
+xassəsindən və ),( ξxg  funksiyasının harmonikliyindən çıxır.  
+2o. Qrin funksiyası Sx ∈  və ya  S∈ξ  olduqda sıfırdır. 
+ Bu (3.3) bərabərliyinin nəticəsidir.  
+3o. Oblastın daxilində Qrin funksiyası müsbətdir. Bunu isbat edək. 
+Tutaq ki, x  oblastın ixtiyari daxili nöqtəsidir. Mərkəzi bu nöqtədə 
+olan və tamamilə oblast daxilində yerləşən δ  radiuslu kürə götürək. 
+Bu kürənin sferasını δS , bu kürəni çıxmaqla oblastın yerdə qalan 
+hissəsini δΩ  ilə işarə edək. Qrin funksiyası δΩ  oblastı daxilində 
+hamonik olmaqla, oblastın S  səthi üzərində sıfırdır və δS  sferası 
+üzərində isə, kafi qədər kiçik δ  üçün, müsbətdir. Onda maksimum 
+prinsipinə görə δΩ  oblastı daxilində də müsbət olmalıdır. Kürə 
+daxilində isə 0>G  olması aşkardır. 
+ Qrin funksiyasının (3.6) ifadəsindən göründüyü kimi, onu 
+qurmaq üçün oblastda x  və ξ  dəyişənlərinə nəzərən hamonik olan 
+və sərhəddə (3.3) şərtini ödəyən ),( ξxg  funksiyasını qurmaq 
+kifayətdir. Bəzi konkret Ω  oblastları üçün, belə ),( ξxg  
+funksiyasını aşkar şəkildə qurmaq mümkün olur. Biz bunu kürə və 
+yarımfəza üçün göstərəcəyik. 
+ 110
+ 
+ 
+§4. Kürə üçün Qrin funksiyasının qurulması. 
+ 
+Fərz edək ki, Ω  mərkəzi koordinat başlanğıcında olan vahid 
+radiuslu kürədir. Bu oblastda Dirixle məsələsinin Qrin funksiyasını 
+quraq. 
+ Bilavasitə yoxlamaqla göstərmək olar ki, )(xv  hər hansı 
+oblastda harmonik funksiyadırsa, onda  
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+= − 2
+2
+||
+||)(
+x
+xuxxv m  
+funksiyası da öz təyin oblastında harmonik funksiyadır. 
+ Onda Laplas tənliyinin fundamental həlli olan  
+2
+1 ||
+1
+||)2(
+1),(
+−−
+⋅
+−
+= mxm
+xE
+ξσ
+ξ              (4.1) 
+funksiyası ilə bərabər,  
+2
+2
+2
+1
+||
+1||
+||)2(
+1),(
+−
+−
+−
+⋅⋅
+−
+= m
+m
+x
+x
+x
+m
+xv
+ξ
+σ
+ξ  
+funksiyası da x  və ξ  dəyişənlərinə nəzərən Laplas tənliyini 
+ödəməlidir.  
+Aşkar  
+||
+||||
+1
+|| 2
+x
+x
+x
+xx
+x ξξ −⋅=−   
+bərabərliyinin köməyi ilə 
+ 111 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+−
+⋅
+−
+=
+−
+||;
+||
+||
+||
+1
+||)2(
+1
+),( 2
+1
+x
+x
+xE
+x
+x
+xm
+xv m ξ
+ξ
+σ
+ξ  
+şəklində yaza bilərik. Qurulan bu ),( ξxv  funksiyası x  və ξ  
+dəyişənlərinə nəzərən vahid radiuslu kürə daxilində harmonik 
+funksiyadır.  
+Göstərək ki, x  və ya ξ  nöqtələrindən hər hansı biri vahid 
+radiuslu sfera səthi üzrində olduqda  
+),(||,
+||
+ξξ xEx
+x
+xE =⎟
+⎠
+⎞
+⎜
+⎝
+⎛                       (4.2) 
+bərabərliyi ödənir. Dorudan da, 1|| =x  olduqda bərabərlik aşkardır. 
+1|| =ξ  olduqda isə  
+;||21||2
+||
+||
+||
+||
+||
+2/1
+1
+2
+2/1
+1
+22
+2
+2
+2/1
+1
+2
+1
+⎥
+⎦
+⎤
+⎢
+⎣
+⎡
++−=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
++−=
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ −=−=
+∑∑
+∑
+==
+=
+m
+k
+kk
+m
+k
+kkk
+k
+m
+k
+k
+k
+xxxx
+x
+x
+x
+x
+xx
+x
+xr
+ξξξ
+ξξ
+ 
+2/1
+1
+2
+2/1
+1
+22
+2/1
+1
+2
+12||
+)2()(||
+⎥
+⎦
+⎤
+⎢
+⎣
+⎡
++−=
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
++−=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+−=−=
+∑
+∑∑
+=
+==
+m
+k
+kk
+m
+k
+kkkk
+m
+k
+kk
+xx
+xxxxr
+ξ
+ξξξξ
+ 
+olduğundan, (4.2) bərabərliyi rr =1  bərabərliyinin nəticəsidir. 
+İndi  
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−= ||,
+||
+),(),( x
+x
+xExExG ξξξ                 (4.3) 
+ 112
+şəklində funksiya düzəldək. Bu funksiya mərkəzi koordinat 
+başlanğıcında olan vahid radiuslu kürə üçün Dirixle məsələsinin 
+Qrin funksiyasıdır. Bu halda yuxarıda dediyimiz ),( ξxg  funksiyası 
+aşkar şəkildə qurulur və  
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−= ||,
+||
+||)2(),( 1 xx
+xEmxg ξσξ  
+şəklindədir.  
+ Qurulmuş (4.3) Qrin funksiyasının köməyi ilə vahid radiuslu 
+kürə daxilində Laplas tənliyi üçün qoyulmuş Dirixle məsələsinin 
+həlli üçün  
+ 
+∫ ⎥⎦
+⎤
+⎢⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−
+∂
+∂−=
+1
+1)(||,||
+),()(
+S
+Sdx
+x
+xExExu ξξϕξξν
+      (4.4) 
+düsturunu alarıq.  
+Bu düsturun sağ tərəfindəki inteqralaltı ifadəni hesablayaq  
+=⎥⎦
+⎤
+⎢⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−
+∂
+∂
+ξξ
+ν
+||,
+||
+),( x
+x
+xExE  
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+−
+∂
+∂
+−
+=
+−− 2
+1
+2
+1
+11
+||)2(
+1
+mm rrm ννσ
+,           (4.5) 
+burada ξξ ||
+||
+|,| 1 xx
+xrxr −=−=  işarə edilmişdir.  
+Qürə səthi üzrə xarici normal radius istiqamətində yönəl-
+diyindən və 1|| =ξ  olduqda, kk ξξν =),cos(  olduğundan,  
+ 
+ 113 
+.12)(2
+),cos()2(
+),cos(11
+11
+1
+1
+1
+22
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−−=−−=
+=
+∂
+∂−−=
+=
+∂
+∂=
+∂
+∂
+∑∑
+∑
+∑
+==
+=
+−
+=
+−−
+m
+k
+kkm
+m
+k
+kkkm
+m
+k
+k
+k
+m
+m
+k
+km
+k
+m
+x
+r
+mx
+r
+m
+r
+r
+m
+rr
+ξξξ
+ξν
+ξ
+ξν
+ξν
+ 
+Eyni qayda ilə hesablamaqla  
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+−
+=
+∂
+∂ ∑
+=
+−
+2
+11
+2
+1
+||21 xx
+r
+m
+r
+m
+k
+kkmm ξν
+ 
+alarıq. Bunları (4.5) və (4.4) düsturlarında nəzərə alsaq, 1|| =ξ  
+olduqda rr =1  bərabərliyinin köməyilə  
+ 
+||,)(
+1
+||
+1
+)(
+1
+2
+1
+xd
+r
+xu
+S
+m =
+−
+= ∫ ρξξϕ
+ρ
+σ
+       (4.6) 
+düsturunu alarıq. Bu düstura vahid radiuslu kürə üçün Pusson 
+düsturu deyilir. 
+ Beləliklə, biz göstərdik ki, )()( 1
+2 KCxu ∈  funksiyası kürə 
+daxilində harmonik və kürənin sferası üzərində verilmiş )(xϕ  
+funksiyasına bərabərdirsə, onda bu funksiya (4.6) Pusson düsturu ilə 
+göstərilir. Məsələnin həllini sona çatdırmaq üçün göstərmək lazımdır 
+ki, Puasson düsturu ilə göstərilən funksiya doğrudan da vahid 
+radiuslu kürə daxilində harmonik olmaqla, S  səthi üzərində sərhəd 
+şərtini ödəyir, yəni ixtiyari Sx ∈0  üçün  
+)()(lim 0
+0
+xxu
+xx
+ϕ=
+→
+                           (4.7) 
+bərabərliyi ödənir. 
+ 114
+ Pusson düsturu ilə ifadə olunan funksiyanın harmonikliyini 
+göstərmək üçün Pusson nüvəsi adlanan  
+mr
+21 ρ−  
+ifadəsinin harmonikliyini göstərmək kifayətdir. Bunu isə bilavasitə 
+yoxlamaqla göstərmək olar. 
+ İndi isə göstərək ki, vahid radiuslu kürə daxilində 
+götürülmüş istənilən x  nöqtəsi üçün  
+1
+1
+||
+1
+1
+1
+2
+1
+=
+−
+⋅ ∫
+S
+m Sdr ξ
+ρ
+σ
+                       (4.8) 
+bərabərliyi ödənir. Doğrudan da 1)( ≡xu  götürsək, bu funksiya 
+)( 1
+2 KC  olduğundan onu (4.6) şəklində göstərə bilərdik, bu isə 
+(4.8) deməkdir. 
+ Pusson düsturu ilə göstərilən funksiyanın (4.7) şərtini 
+ödədiyini göstərək. Biz fərz edəcəyik ki, sərhəddə verilən )(xϕ  
+funksiyası kəsilməz funksiyadır. 
+ Alınmış (4.8) bərabərliyinin hər tərəfini )( 0xϕ -a vuraq və 
+(4.6) düsturundan çıxaq 
+∫ −
+−
+⋅=−
+1
+10
+2
+1
+0 )]()([
+1
+||
+1
+)()(
+S
+m Sdxr
+xxu ξϕξϕ
+ρ
+σ
+ϕ .   (4.9) 
+Sfera səthi üzrə )(xϕ  funksiyası kəsilməz olduğundan, ixtiyari 
+0>ε  üçün elə 0>δ  ədədi var ki, mərkəzi 0x  nöqtəsində olan δ  
+radiuslu kürənin 1S  sferasından  ayırdığı δl  hissəsi  üzrə 
+δξ
+ε
+ϕξϕ lx ∈<− ,
+2
+|)()(| 0 . 
+ Aydındır ki, δξ lS −∈ 1  nöqtələri üçün δξ ≥− || 0x  bəra-
+bərsizliyi ödənir. 
+ 115 
+Sfera səthi üzrə inteqralı iki inteqrala ayıraq 
+.)]()([
+1
+||
+1
+)]()([
+1
+||
+1
+)()(
+2110
+2
+1
+10
+2
+1
+0
+1
+JJSdx
+r
+Sdx
+r
+xxu
+lS
+m
+l
+m
++≡−⋅
+−
+⋅+
++−⋅
+−
+⋅=−
+∫
+∫
+− δ
+δ
+ξ
+ξ
+ϕξϕ
+ρ
+σ
+ϕξϕ
+ρ
+σ
+ϕ
+ 
+ Bu inteqralların hər birini ayrılıqda qiymətləndirək. Birinci 
+inteqral ixtiyari 1Kx ∈  nöqtəsi üçün  
+≤−⋅
+−
+⋅≤ ∫
+δ
+ξϕξϕ
+ρ
+σ l
+m Sdxr
+J 10
+2
+1
+1 )]()([
+1
+||
+1
+||  
+2
+1
+||2
+1
+||2
+10
+1
+2
+1
+1
+2
+1
+ερ
+σ
+ερ
+σ
+ε
+ξξ =
+−
+⋅<
+−
+⋅≤ ∫∫
+S
+m
+l
+m Sdr
+Sd
+r
+ 
+bərabərsizliyini ödəyir. 
+İkinci inteqralı x -in 0x -a kafi qədər yaxın qiymətləri üçün 
+qiymətləndirək. Fərz edək ki, 
+2
+|| 0
+δ
+<− xx . Onda aşkar  
+2
+|||||||| 0000
+δξξξ >−−−≥−+−=−= xxxxxxxr  
+bərabərsizliyinin köməyilə  
+m
+m
+mm rr δ
+ρρρρ )1(2)1)(1(1 12 −
+<
+−+
+=
+− +  
+bərabərsizliyini yaza bilərik. 
+ Sfera üzərində kəsilməz olan )(xϕ  funksiyası mütləq 
+qiymətcə hər hansı M  ədədi ilə məhdud olduğundan  
+ 
+Mxx 2|)(||)(||)()(| 00 ≤+≤− ϕξϕϕξϕ . 
+ 116
+Onda 2/|| 0 δ<− xx  qiymətləri üçün, 2
+δ
+>r  olduğundan  
+.
+)1(2)1(2
+||
+2
+|)()(|
+1
+||
+1
+||
+2
+1
+1
+1
+10
+2
+1
+2
+1
+1
+m
+m
+lS
+m
+m
+lS
+m
+MSdM
+Sdx
+r
+J
+δ
+ρ
+δ
+ρ
+σ
+ϕξϕ
+ρ
+σ
+δ
+δ
+ξ
+ξ
+−
+<⋅
+−
+⋅≤
+≤−⋅
+−
+⋅≤
++
+−
++
+−
+∫
+∫
+ 
+Elə kafi qədər kiçik 0>h  ədədi götürək ki,  
+2
+2 2 ε
+δ
+<
+⋅+
+m
+m Mh  
+bərabərsizliyini ödəsin. Onda hxx <− || 0  qiymətləri üçün 
+hxxxx <−<−=− ||||||1 00ρ  və 2
+|| 2
+ε
+<J  alarıq. Beləliklə, 
+hxx <− || 0  olduqda 
+ε
+εε
+ϕ =+<−
+22
+|)()(| 0xxu  
+alarıq ki, bu da (4.7) deməkdir. Bununla, (4.6) Pusson düsturunun 
+Dirixle məsələsinin həlli olduğu isbat olur. 
+ Biz Puasson düsturunu vahid radiuslu kürə üçün çıxardıq. 
+İndi Rx <||  kürəsi daxilində harmonik, qapalı Rx ≤||  kürəsi 
+daxilində kəsilməz olan və RxSR =||:  sferası üçün  
+ 
+Rxx
+Sxxxu ∈=
+→
+00 ),()(lim
+0
+ϕ  
+şəritin ödəyən funksiyanı quraq. Bu məqsədlə  
+R
+xy =  
+əvəzləməsi edək. Onda  
+)()( Ryuyv =  
+ 117 
+funksiyası 1|| <y  kürəsi daxilində harmonik, 1|| ≤y  qapalı 
+kürəsində kəsilməz və  
+ 
+1||),()(lim 00
+0
+==
+→
+yRyyv
+yy
+ϕ . 
+şərtini ödəyən funksiya olacaq. Vahid radiuslu kürə üçün çıxarılmış 
+(4.6) Pusson düsturuna əsasən  
+ 
+∫ ⋅
+−⋅=
+1
+1
+2
+1
+)(||1
+||
+1)(
+S
+m SdRr
+yyv ξξϕσ
+ 
+yaza bilərik, burada || ξ−= yr .  
+Onda  
+.||,)(
+||||
+1
+)(
+||1
+||
+1)(
+1
+1
+1
+1
+22
+1
+1
+2
+2
+1
+xSdRR
+Rx
+R
+R
+SdR
+R
+x
+R
+x
+R
+xvxu
+S
+m
+m
+S
+m
+=⋅
+−
+−
+⋅
+⋅
+=
+=⋅
+−
+−
+⋅=⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+∫
+∫
+− ρξϕ
+ξ
+ρ
+σ
+ξϕ
+ξ
+σ
+ξ
+ξ
+ 
+ Axırıncı inteqralda ξRz =  əvəzləməsi aparsaq, mərkəzi 
+koordinat başlanğıcında olan R  radiuslu kürə üçün Puasson 
+düsturunu alırıq 
+ 
+||,)(
+||
+1
+)(
+2
+1
+zxrSdz
+r
+R
+R
+xu
+RS
+Rzm −=⋅
+−
+⋅= ∫ ϕ
+ρ
+σ
+. (4.10) 
+Bu düsturda 1)( ≡xϕ  götürsək, ixtiyari RKx ∈  üçün  
+1
+||
+1 22
+1
+=
+−
+∫
+RS
+Rm Sdr
+R
+R ξ
+ρ
+σ
+                (4.11) 
+bərabərliyi alınır.  
+ 118
+Çalışma. Göstərin ki, Rxx <− || 0  kürəsi üçün Puasson 
+düsturu 
+∫
+=−
+⋅
+−
+−−
+⋅=
+Rx
+Rm Sdx
+xxR
+R
+xu
+||
+2
+0
+2
+1
+0
+)(
+||
+||
+||
+1
+)(
+ξ
+ξξϕ
+ξσ
+  (4.12) 
+şəklindədir. 
+ 
+ 
+§5. Yarımfəza üçün Dirixle məsələsi. 
+ 
+Tutaq ki, Ω  oblastı mE  fəzasının 0>mx  yuxarı yarımfəza-
+sıdır. Aşağıdakı kimi məsələ qoyaq. Yuxarı 0>mx  yarımfəzasında  
+0=∆u                                     (5.1) 
+Laplas tənliyinin elə həllini tapmalı ki,  
+),,( 110 −= = mx xxu m Kϕ                       (5.2) 
+sərhəd şərtini ödəsin. 
+ Bu məsələyə yuxarı yarımfəza üçün Dirixle məsələsi deyilir.  
+ Əvvəlcə fərz edək ki, qoyulan məsələnin həlli, bütün Ω∈x  
+üçün ∞→|| x -da  
+1||
+,
+||
+|)(|
++
+≤
+∂
+∂≤ αα x
+M
+x
+u
+x
+Mxu
+k
+                 (5.3) 
+şərtlərini ödəyir, burada M  və α  müsbət sabitlərdir. 
+ Göstərmək olar ki, (5.3) şərtləri daxilində qoyulmuş 
+məsələnin həlli (3.7) düsturunun köməyilə  
+∫
+=
+−−∂
+∂
+⋅=
+0
+1111
+1
+),,(),(
+||
+1)(
+m
+mm
+m
+ddxGxu
+ξ
+ξξξξϕ
+ξ
+ξ
+σ
+LK   (5.4) 
+şəklində ifadə olunur, burada ),( ξxG  (5.1), (5.2) məsələsinin Qrin 
+ 119 
+funksiyasıdır. Bu funksiyanı quraq. Bunun üçün Qrin funksiyasının 
+(3.6) ifadəsindən göründüyü kimi, elə ),( ξxg  funksiyası qurmaq 
+kifayətdir ki, bu funksiya x  və ξ  dəyişənlərinə nəzərən yuxarı 
+yarımfəzada harmonik olmaqla, 0=mx  və ya 0=mξ  olduqda 
+(3.3) şərtini ödəsin. 
+ Tutaq ki, ),,,( 21 mxxxx K=  və ),,,( 21 mξξξξ K=  
+yuxarı yarımfəzanın nöqtələridir. Yarımfəzanın sərhəddi 0=mξ  
+müstəvisinə nəzərən ξ  nöqtəsilə simmetrik olan ,,,( 21 Kξξξ =′  
+)mξ−  nöqtəsinə baxaq və |||,| 1 ξξ ′−=−= xrxr  işarələri 
+qəbul edək. Aydındır ki,  
+2
+1
+1),(
+−
+= mr
+xg ξ  
+funksiyası göstərilən şərtləri ödəyən funksiyadır.  
+Beləliklə, yuxarı yarımfəza üçün Qrin funksiyası  
+),(),(1
+||)2(
+1),(),( 2
+11
+ξξ
+σ
+ξξ ′−=⋅
+−
+−=
+−
+xExE
+rm
+xExG m  (5.5) 
+şəklində olacaq. 
+ İndi (5.4) düsturunun köməyilə Dirixle məsələsinin həllini 
+yazaq. Bu zaman alınan  
+ 
+⎥
+⎦
+⎤
+⎢
+⎣
+⎡ +
++
+−
+⋅=
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+∂
+∂−
+∂
+∂⋅
+−
+=
+∂
+∂
+−−
+m
+mm
+m
+mm
+m
+m
+m
+mm
+r
+x
+r
+x
+rrm
+xG
+11
+2
+1
+2
+1
+||
+1
+11
+||)2(
+1),(
+ξξ
+σ
+ξξσξ
+ξ
+ 
+münasibətindən, 0=mξ  olduqda 1rr =  olduğundan,  
+m
+m
+m r
+xxG
+m ⋅
+=
+∂
+∂
+= ||
+2),(
+10 σξ
+ξ
+ξ
+ 
+alarıq. Bunu (5.4) düsturunda nəzərə alsaq, yarımfəza üçün Dirixle 
+ 120
+məsələsinin həllini  
+ 
+∫
+=
+−
+−=
+0
+11
+11
+1
+),,(
+||
+2
+)(
+m
+mm
+mm dd
+r
+xxu
+ξ
+ξξ
+ξξϕ
+σ
+L
+K
+       (5.6) 
+şəklində yaza bilərik, burada 22
+1
+1
+2 )( mkk
+m
+k
+xxr +−Σ=
+−
+=
+ξ . 
+ Bu alınan düstura yarımfəza üçün Puasson düsturu deyilir. 
+ Göstərmək olar ki, (5.2) şərtində verilən ),,( 11 −mxx Kϕ  
+funksiyası kəsilməz olmaq bərabər, həm də  
+ 
+0,0,||,|),,(| 11 >>=≤− αρ
+ρ
+ϕ
+α
+MxMxx mK  
+şərtini ödəyirsə, onda (5.6) inteqralı müntəzəm yığılır, onun nəticəsi 
+0>mx  yarımfəzasında harmonik funksiyadır, (5.3) şərtini və  
+ 
+0,0,),,,()(lim 121 =>= −
+→
+mmmyx
+yxyyyxu Kϕ  
+sərhəd şərtini ödəyir. 
+§6. Liuvill teoremi. 
+ 
+Teorem 6.1. Bütün fəzada harmonik olan )(xu  funksiyası 
+aşağıdan və ya yuxarıdan məhduddursa, onda eynilik kimi sabitdir. 
+ Tutaq ki, )(xu  bütün fəzada harmonik olmaqla, yuxarıdan 
+məhduddur Mxu ≤)( . Onda – )(xu  funksiyası harmonik olmaqla, 
+aşağıdan məhdud olacaq – Mxu −≥)( . Ona görə də yalnız 
+aşağıdan məhdud olan hala baxmaq kifayətdir: Mxu ≥)( . Yeni 
+Mxu −)(  funksiyası ixtiyari sonlu oblastda harmonik olmaqla, 
+mənfi deyil. Beləliklə, teoremi 0)( ≥xu  olan funksiyalar üçün isbat 
+etmək kifayətdir.  
+ İxtiyari x  nöqtəsi götürək və mərkəzi koordinat başlan-
+ğıcında olan elə R  radiuslu RK  kürəsi quraq ki, x  nöqtəsi bu 
+ 121 
+kürənin daxilində qalsın. Kürənin sferasını RS -lə işarə etsək,  
+||,)(
+||
+1)(
+22
+1
+xSdu
+Rr
+Rxu
+RS
+Rm =
+−
+⋅= ∫ ρξ
+ρ
+σ ξ
+ 
+Puasson düsturunu yaza bilərik. 
+ Orta qiymət teoreminə görə  
+∫⋅= −
+RS
+Rm SduR
+u ξξ
+σ
+)(
+||
+1
+)0(
+1
+1
+. 
+ Üçbucaq bərabərsizliyinə əsasən ρρ +≤≤− RrR  ol-
+duğundan, 0)( ≥xu  bərabərsizliyinin köməyilə  
+)0(
+)(
+)()(
+||
+1
+)(
+)(
+,)0(
+)(
+)()(
+||
+1
+)(
+)(
+1
+2
+1
+1
+1
+2
+1
+1
+u
+R
+RRSdu
+RR
+Rxu
+u
+R
+RRSdu
+RR
+Rxu
+m
+m
+S
+Rm
+m
+m
+S
+Rm
+R
+R
+−
+−
+−
+−
+−
+−
++
+−
+=⋅⋅
++
+−
+≥
+−
++
+=⋅⋅
+−
++
+≤
+∫
+∫
+ρ
+ρ
+ξ
+σρ
+ρ
+ρ
+ρ
+ξ
+σρ
+ρ
+ξ
+ξ
+ 
+bərabərsizliklərini alırıq ki, bunlar da  
+)0(
+)(
+)()()0(
+)(
+)(
+1
+2
+1
+2
+u
+R
+RRxuu
+R
+RR
+m
+m
+m
+m
+−
+−
+−
+−
+−
+−
+≤≤
++
+−
+ρ
+ρ
+ρ
+ρ  
+deməkdir. Bu bərabərsizlik müsbət )(xu  harmonik funksiyasının 
+ixtiyari nöqtədəki qiymətini, onun koordinat başlanğıcındakı 
+qiymətilə qiymətləndirir. Bu bərabərsizliyə Harnak bərabərsizliyi 
+deyilir. Bu bərabərsizlikdə ∞→R  limitə keçsək,  
+)0()()0( uxuu ≤≤  
+alarıq. Bu da Cxu ≡)(  deməkdir. 
+ 
+ 
+§7. Kürə üçün xarici Dirixle məsələsi. 
+ 
+ Mərkəzi koordinat başlanğıcında yerləşən R  radiuslu 
+ 122
+kürənin xaricində harmonik olan elə )(xu  funksiyası quraq ki, bu 
+funksiya kürənin RS  sferası üzərində  
+)(xu
+RS
+ϕ=                                  (7.1) 
+sərhəd şərtini ödəsin. 
+ Göstərək ki, )(xϕ  kəsilməz funksiya olduqda, bu məsələnin 
+həlli 
+∫
+−
+⋅=
+RS
+Rm SdRr
+Rxu ξξϕ
+ρ
+σ
+)(
+||
+1
+)(
+22
+1
+            (7.2) 
+düsturu ilə verilir, burada ||,|| xxr =−= ρξ . 
+Verilmiş funksiyanın Laplas tənliyini ödədiyini bilavasitə 
+yoxlamaqla göstərmək olar. Kafi qədər böyük || x -lər üçün 
+funksiyanın xassəsini öyrənək. Tutaq ki, R2>ρ . Onda 
+ρρ
+2
+1
+>−> Rr  olduğundan, (7.2) bərabərliyi ilə ifadə olunan 
+funksiya üçün  
+<
+−
+⋅≤ ∫
+RS
+Rm SdRr
+Rxu ξξϕ
+ρ
+σ
+|)(|
+||
+1
+|)(|
+22
+1
+ 
+2
+1
+2 |)(|||
+21
+−−
+=⋅⋅< ∫ m
+S
+R
+m
+m
+CSd
+R
+R
+ρ
+ξϕ
+σρ
+ξ            (7.3) 
+bərabərsizliyini alarıq. Deməli, )(xu  xarici oblastda harmonik 
+funksiyadır. 
+Bu funksiyanın (7.1) şərtini ödədiyini, yəni ixtiyari RSx ∈0  
+üçün 
+)()(lim 0
+0
+xxu
+xx
+ϕ=
+→
+                            (7.4) 
+olduğunu göstərək. Bu məqsədlə x  nöqtəsilə RS  sferasına nəzərən 
+ 123 
+simmetrik olan x ′  nöqtəsinə baxaq. Verilmiş x  nöqtəsilə RS  
+sferasına nəzərən simmetrik olan x ′  nöqtəsi, elə nöqtəyə deyilir ki, 
+bu nöqtə x  nöqtəsilə mərkəzdən çıxan eyni şüa  üzərində 
+yerləşməklə, bu nöqtələrin mərkəzdən olan məsafəsinin hasili 2R -na 
+bərabərdir 
+2|||| Rxx =′⋅ .                              (7.5) 
+ Aydındır ki, x  nöqtəsi R  radiuslu kurənin xaricindədirsə, 
+onunla simmetrik olan nöqtə kürənin daxilində olacaq. Asanlıqla 
+göstərə bilərik ki, ),,,( 21 mxxxx K=  və ),,,( 21 mxxxx ′′′=′ K  
+nöqtələrinin koordinatları arasında ,kk xx ρ
+ρ ′
+=′  ,,1 mk =  
+|| x ′=′ρ  münasibətləri doğrudur. Sfera üzərində götürülmüş 
+ixtiyari ),,,( 21 mξξξξ K=  nöqtəsi üçün R=|| ξ  olduğunu yada 
+salaq. Onda, (7.5)-in köməyi ilə  
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
++−=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
++−=
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
++
+′
+−′=
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ −
+′
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+−′=−′=
+∑∑
+∑∑
+∑∑
+==
+==
+==
+2/1
+2
+1
+2
+2/1
+2
+1
+2
+2
+2
+4
+2/1
+1
+2
+1
+2
+2/1
+1
+22/1
+1
+2
+1
+22
+2
+)(||
+ρξ
+ρ
+ξ
+ρρ
+ξξ
+ρ
+ρρ
+ξ
+ρ
+ρξξ
+m
+k
+kk
+m
+k
+kk
+m
+k
+k
+m
+k
+kk
+m
+k
+kk
+m
+k
+kk
+xRRRxRR
+x
+xxxr
+ 
+rRxxR
+m
+k
+k
+m
+k
+kk
+m
+k
+k ⋅=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
++−= ∑∑∑
+=== ρ
+ξξ
+ρ
+2/1
+1
+2
+11
+2 2  
+bərabərliyini alarıq. 
+ Buradan  
+ 124
+1
+11
+r
+R
+r
+⋅=
+ρ
+                                  (7.6) 
+olduğunu yaza bilərik. İndi x  nöqtəsi kürənin xaricində olduqda 
+∫
+−
+⋅=
+RS
+Rm SdRr
+RJ ξ
+ρ
+σ
+22
+1 ||
+1  
+inteqralını hesablayaq. Yuxarıdakı (7.5) və (7.6) bərabərliklərinə 
+əsasən  
+∫
+∫
+−
+⋅⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+=⎟
+⎠
+⎞
+⎜
+⎝
+⎛⋅
+−
+⋅=
+−
+R
+R
+S
+Rm
+m
+S
+R
+m
+m
+Sd
+Rr
+RR
+SdR
+Rr
+RJ
+ξ
+ξ
+ρ
+σρ
+ρ
+ρ
+σ
+1
+22
+1
+2
+1
+22
+1
+||
+1
+||
+1
+ 
+alarıq. Yada salaq ki, burada |||,|, 1 xxrKx R ′=′−′=∈ ρξ . 
+Belə inteqralı isə biz yuxarıda (4.11) düsturu ilə hesablamışdıq. 
+Beləliklə, kürənin xaricində olan ixtiyari x  nöqtəsi üçün 
+ 
+222
+1 ||
+1 −
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛=
+−
+∫
+m
+S
+Rm
+RSd
+Rr
+R
+R
+ρ
+ρ
+σ ξ
+             (7.7) 
+bərabərliyini almış olarıq. Bu bərabərliyin hər tərəfini )( 0xϕ -a 
+vuraq və (7.2) düsturundan çıxaq, nəticədə 
+∫ −⋅
+−
+⋅=⎟
+⎠
+⎞
+⎜
+⎝
+⎛−
+−
+RS
+Rm
+m
+Sdx
+Rr
+RxRxu ξϕξϕ
+ρ
+σ
+ϕ
+ρ
+)]()([
+||
+1)()( 0
+22
+0
+0
+2
+ 
+alarıq. 
+ Daxili Dirixle məsələsində olduğu kimi hərəkət etməklə 
+0)()(lim 0
+2
+0
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−
+−
+→
+xRxu
+m
+xx
+ϕ
+ρ
+ 
+ 125 
+bərabərliyini isbat edərik. 
+ Sonra isə 
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−⋅+⎟
+⎠
+⎞
+⎜
+⎝
+⎛−≤−
+−− 2
+00
+2
+0 1|)(|)()(|)()(|
+mm RxxRxuxxu
+ρ
+ϕϕ
+ρ
+ϕ  
+bərabərsizliyində, 0xx → -da sağ tərəfdəki hər iki toplanan sıfra 
+yaxınlaşdığından (7.4) bərabərliyini alarıq. 
+ Paraqrafın sonunda harmonik funksiyanın törəmələrinin 
+sonsuzluq ətrafında xassəsinə nəzər salaq. Göstərdiyimiz kimi, R  
+radiuslu sferanın xaricində harmonik funksiya 
+∫
+−
+⋅=
+RS
+Rm Sdur
+R
+R
+xu ξξ
+ρ
+σ
+)(
+||
+1
+)(
+22
+1
+ 
+düsturu ilə işarə olunur. Bu funksiyanın törəmələrini hesablayaq və 
+bunları qiymətləndirmək 
+ 
+mkSdu
+r
+R
+xRx
+u
+RS
+Rm
+kk
+,,2,1,|)(|
+||
+1 22
+1
+K=⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ −
+∂
+∂
+⋅≤
+∂
+∂
+∫ ξξ
+ρ
+σ
+. (7.8) 
+ Kafi qədər böyük || x -lər üçün ρ
+2
+1
+>r  olduğundan 
+<
+−
+⋅+<
+<
+−
+⋅
+−
+−=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛ −
+∂
+∂
++
++
+r
+x
+r
+m
+r
+x
+r
+x
+r
+Rm
+r
+x
+r
+R
+x
+kk
+mm
+k
+kk
+mm
+k
+m
+k
+||||2
+)(2
+1
+2
+1
+2222
+ξρ
+ξρρ
+ 
+.)1(2222 1
+1
+1
+21
+−
++
++
++ +
+=
+⋅⋅
++
+⋅⋅
+< m
+m
+m
+m
+m
+m mm
+ρρ
+ρ
+ρ
+ρ  
+ Bunu (7.8)-də nəzərə alsaq, harmonik funksiyanın törəmə-
+ləri üçün  
+ 126
+mkC
+x
+u
+m
+k
+,,2,1,1
+1 K=≤
+∂
+∂
+−ρ
+                    (7.9) 
+qiymətləndirilmələrini alarıq, burada 
+∫⋅
++
+=
++
+RS
+R
+m
+Sdu
+R
+mC ξξσ
+|)(|
+||
+)1(2
+1
+1
+1 . 
+ 
+ 
+§8. Neyman məsələsi üçün yeganəlik teoremi. 
+ 
+ Əvvəlcə (1.4), (1.5) daxili Neyman məsələsinin həllinin 
+yeganəliyini öyrənək. Aydındır ki, )(xu  funksiyası bu məsələnin 
+həllidirsə, onda ixtiyari C  sabiti üçün Cxu +)(  funksiyası da bu 
+məsələnin həllidir. Ona görə də daxili Neyman məsələsinin həllinin 
+müəyyən sabit toplanan dəqiqliyi ilə yeganəliyindən söhbət gedə 
+bilər.  
+ Teorem 8.1. Daxili Neyman məsələsinin həlləri sabit 
+toplananla fərqlənirlər. 
+ Tutaq ki, məsələnin iki )(1 xu  və )(2 xu  həlləri var. Onda 
+onların fərqi olan )()()( 21 xvxuxv −=  funksiyası  
+0=∆v                                       (8.1) 
+tənliyini və  
+0=
+∂
+∂
+S
+v
+ν
+                                 (8.2) 
+sərhəd şərtini ödəyir. Teoremi isbat etmək üçün göstərmək kifayətdir 
+ki, constxv ≡)( . 
+ İxtiyari )()()( 12 ΩΩ∈ CCxv I  funksiyası üçün doğru olan 
+ 127 
+∫∫ ∑ ∂
+∂
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++∆
+Ω = S
+m
+i i
+Sdvvdx
+x
+vvv ξν1
+2
+             (8.3) 
+eyniliyində, )(xv  olaraq (8.1), (8.2) məsələsinin həllini götürsək  
+0
+1
+2
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∫∑
+Ω =
+m
+k i
+dx
+x
+v  
+alarıq. Buradan Cxv ≡)(  alınar. 
+ Teorem 8.2. Fəzanın ölçüsü 3≥m  olduqda xarici Neyman 
+məsələsinin həlli yeganədir. 
+ Əksini fərz edək. Fərz edək ki, )(1 xu  və )(2 xu  funksiyaları 
+xarici Neyman məsələsinin həlləridir. Onda onların fərqi 
+)()()( 21 xuxuxv −=  sonsuz oblastda harmonik olmaqla 
+0=
+∂
+∂
+S
+v
+ν
+ 
+sərhəd şərtini ödəyir. Mərkəzi koordinat başlanğıcında olan elə kafi 
+qədər böyük R  radiuslu RS  sferası çəkək ki, S  səthi tamamilə bu 
+sferanın daxilində qalsın. Bu RS  və S  səthləri ilə əhatə olunmuş 
+oblastı RΩ -lə işarə edək. İxtiyari ∈)(xv  )()( 12 ΩΩ∈ CC I  üçün 
+doğru olan (8.3) düsturunu RΩ  oblastına tətbiq etsək  
+ 
+∫∫∫ ∑ ∂
+∂
++
+∂
+∂
+=
+⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++∆
+Ω = RR S
+R
+S
+m
+k k
+SdvvSdvvdx
+x
+vvv ξξ νν1
+2
+ 
+alarıq. Bu bərabərlikdə )(xv  olaraq xarici Neyman məsələsinin 
+həlləri fərqini götürsək,  
+0,0 =
+∂
+∂
+=∆
+S
+vv
+ν
+ 
+olduğundan  
+ 128
+∫∫ ∑ ∂
+∂
+=⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+Ω = RR S
+R
+m
+k k
+Sdvvdx
+x
+v
+ξν1
+2
+ 
+alarıq. Qeyri-məhdud oblastda harmonik olan funksiyanın və onun 
+törəmələrinin sonsuzluqda xassələrini ifadə edən (7.3) və (7.9) 
+bərabərsizliklərinin köməyi ilə  
+ 
+=⋅⋅<
+∂
+∂
+∫∫ −−
+RR S
+Rmm
+S
+R SdRR
+CCSdvv ξξν 121
+11  
+2
+111
+132
+1 ||||
+−
+−
+−
+⋅⋅
+=⋅⋅
+⋅
+= m
+m
+m R
+CCR
+R
+CC σ
+σ            (8.5) 
+qiymətləndirməsini alarıq. İxtiyari 0>ε  qeyd edək və R  radiusunu 
+elə seçək ki, ε
+σ
+<
+⋅⋅
+−2
+11 ||
+mR
+CC
+ bərabərsizliyi ödənsin. Onda bu şərti 
+ödəyən R -lər üçün  
+ 
+ε<⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∫ ∑
+Ω =R
+m
+k k
+dx
+x
+v
+1
+2
+ 
+bərabərsizliyini alarıq. Buradan  
+mk
+x
+v
+k
+,,2,1,0 K==
+∂
+∂  
+bu isə o deməkdir ki, Cxv ≡)( . Lakin )(xv  harmonik funksiya 
+olmaqla, sonsuzluqda sıfra yaxınlaşdığından, 0)( ≡xv  alarıq. 
+Bununla yeganəlik teoremi isbat olur. 
+Qeyd 8.1. Fəzanın ölçüsü 2=m  olduqda xarici Neyman 
+məsələsinin həlləri sabit toplananla fərqlənə bilərlər.  
+Qeyd 8.2. Daxili (1.4),(1.5) Neyman məsələsinin ümumiyyətlə 
+həlli olmaya ola bilər. Doğrudan da I)()( 2 Ω∈Cxu  )(1 ΩCI  
+ 129 
+funksiyaları üçün doğru olan  
+ 
+∫∫ ∂
+∂
+=∆
+Ω S
+Sduudx ξν
+ 
+düsturundan görünür ki, qoyulmuş Neyman məsələsinin həlli olması 
+üçün, tənliyin sağ tərəfi və sərhəd funksiyası  
+ 
+∫∫ =
+Ω S
+SdFdx ξξϕ )(                            (8.6) 
+şərti ödəməlidirlər. Bu şərt (1.4), (1.5) Neyman məsələsinin həllinin 
+olması üçün zəruri şərtdir. 
+ 
+V I I  F Ə S İ L .   
+P O T E N S İA L L A R  NƏZƏR İY YƏ S İ .  
+ 
+§1. Lyapunov səthləri. 
+ 
+ Potensiallar nəzəriyyəsinin şərhi üçün mühüm əhəmiyyət 
+kəsb edən Lyapunov səthləri ilə tanış olaq. 
+ Tutaq ki, m  ölçülü  fəzada hər hansı S  səthi verilmişdir. 
+Fərz edək ki, bu səthin hər nöqtəsində səthə çəkilən normal var. Səth 
+üzərində götürülmüş 0x  nöqtəsində lokal koordinat sistemi, elə 
+mξξξ ,,, 21 K  dekart koordinat sisteminə deyilir ki, bu koordinat 
+sisteminin başlanğıcı 0x  nöqtəsində yerləşməklə, mξ  oxu həmin 
+nöqtədə səthə çəkilən normal istiqamətində, qalan 121 ,,, −mξξξ K  
+oxları isə bir-biri ilə ortoqonal olmaq şərtilə, səthə çəkilən toxunan 
+müstəvi üzərində yerləşirlər. 
+ Əgər verilmiş S  səthi aşağıdakı şərtləri ödəyirsə: 
+1o.Səthin ixtiyari x  nöqtəsi üçün, mərkəzi bu nöqtədə olan elə d  
+ 130
+radiuslu dγ  sferası var ki, bu sferanın S  səthindən ayırdığı xS  
+səth hissəsinin tənliyi, bu nöqtədəki lokal koordinat sistemində  
+),,,(,)( 121 −=′′= mm f ξξξξξξ K                 (1.1) 
+şəklində göstərilə bilər. 
+2o.Elə 0>H  və 10 << α  sabitləri var ki, iki ixtiyari xS∈ηξ ,  
+nöqtələri və toxunan müstəvi üzərində yerləşən ixtiyari t  
+istiqaməti üçün 
+2/1
+1
+2)()()(
+α
+ηξ
+ηξ
+⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+−≤
+∂
+′∂
+−
+∂
+′∂ ∑
+−
+=
+m
+k
+kkHt
+f
+t
+f            (1.2) 
+bərabərsizliyi ödənir, onda S  səthinə Lyapunov səthi deyilir.  
+Bu tərifdəki dγ  sferasına Lyapunov sferası, d -yə isə Lya-
+punov radiusu deyilir. Aydındır ki, d  Lyapunov radiusudursa, 
+ixtiyari dd <1  də Lyapunov radiusudur. 
+ İxtiyari xm S∈= ),,,( 21 ξξξξ K  nöqtəsi götürək və  
+222
+1
+1
+22 , m
+m
+k
+k r ξρξρ +== ∑
+−
+=
+ 
+işarələri qəbul edək. (1.2) bərabərsizliyində x=η  götürsək, 
+)0,(xf , 0)( =
+∂
+∂
+t
+xf  olduğundan, bu funksiyasının törəmələri üçün  
+αρH
+t
+f ≤
+∂
+∂                                  (1.3) 
+və həm də  
+1,,2,1, −=≤
+∂
+∂ mkHrf
+k
+Kα
+ξ
+                  (1.4) 
+bərabərsizliklərini alarıq. 
+ İxtiyari xm S∈′ ),( ξξ  nöqtəsi üçün )(ξξ ′= fm  kəmiyyətini 
+qiymətləndirək. Bunun üçün ξ ′  və x  nöqtələrini birləşdirən 
+ 131 
+parçasının cari nöqtəsini ),,( 11 −=′ mηηη K  və || ηρ ′−=′ x  işarə 
+edək. Onda 0)0,,0( =Kf  bərabərliyinin və (1.3) bərabərsizliyinin 
+köməyilə  
+≤′
+′∂
+∂
+≤′
+′∂
+∂
+=′= ∫∫
+ρρ
+ρ
+ρ
+ρ
+ρ
+ξξ
+00
+|)(||| dfdffm  
+1
+,1
+0
++
+==′′≤ +∫ αρρρ
+α
+ρ
+α HccdH               (1.5) 
+və nəhayət  
+α
+ξξ α
++
+=≤′= +
+1
+,|)(||| 1 Hccrfm              (1.51) 
+bərabərsizliklərini alarıq. 
+ Verilmiş S  səthinə x  və ξ  nöqtələrində çəkilən normal-
+ları, uyğun olaraq, n  və ν  ilə işarə edək. Tutaq ki, xS∈ξ  və 
+|| ξ−= xr . Onda 
+r
+rrn mm
+ξ
+ξ == ),cos(),cos(  
+olduğundan, (1.51) bərabərsizliyini nəzərə alsaq  
+αCrrn ≤|),cos(|                            (1.6) 
+bərabərsizliyini və buradan da x  və ξ  nöqtələrinin yerini 
+dəyişməklə 
+αν Crr ≤|),cos(|                            (1.7) 
+bərabərsizliyini alarıq. 
+ İsbat olunur ki, S  qapalı Lyapunov səthidirsə, onda elə C  
+sabiti var ki, ixtiyari mEx ∈  üçün 
+,1
+2
+CSd
+rS
+m ≤∂
+∂∫ − ξν                         (1.8) 
+bərabərsizliyi ödənir. Biz bu faktı isbatsız verəcəyik. Onun isbatını 
+ 132
+ədəbiyyatda tapmaq olar1) .  
+ Yönəldici kosinusların 
+1,,2,1,
+1
+),cos(
+21
+1
+−=
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
+∑+
+∂
+∂
+±=
+−
+=
+mk
+f
+f
+k
+m
+k
+k
+k K
+ξ
+ξ
+ξν  
+ifadəsindən, (1.4) bərabərsizliklərinin köməyilə  
+1,,2,1,|),cos(| −=≤ mkHrk Kαξν               (1.9) 
+alarıq. 
+ 
+ 
+§2. İkiqat lay potensialının düz qiyməti. 
+ 
+ Tutaq ki, S  qapalı Lyapunov səthi və )(1 ξµ  bu səth üzə-
+rində kəsilməz funksiyadır. Sıxlığı )(1 ξµ  olan  
+||,1)()(
+211
+ξ
+ν
+ξµ ξ −=∂
+∂= ∫ − xrSdrxu S m
+        (2.1) 
+ikiqat lay potensialının S  səthi ilə ortaq nöqtəsi olmayan ixtiyari 
+oblastda harmonik funksiya olduğunu demişdik. S  səthi üzərində 
+isə inteqralaltı funksiyanın ξ=x  nöqtəsində məxsusiyyəti var. 
+Bununla belə, göstərəcəyik ki, Sx ∈  olduqda da ikiqat lay 
+potensialının müəyyən qiyməti var və x  nöqtəsi S  səthi üzərində 
+dəyişdikdə bu qiymət kəsilməz dəyişir. İkiqat lay potensialının bu 
+cür təyin olunmuş qiymətinə, onun düz qiyməti deyilir və  onu 
+)(1 xu  şəklində işarə edəcəyik.  
+ Əvvəlcə Sx ∈  olduqda (2.1) inteqralının yığılanlığını gös-
+tərək.    
+                                      
+1) бах [          ] 
+ 133 
+ İstiqamətə görə törəməni hesablayaq. 
+=
+∂
+∂
+=
+∂
+∂ ∑
+=
+−−
+m
+k
+km
+k
+m rr 1 22
+),cos(
+11
+ξν
+ξν
+ 
+).,cos(2),cos(),cos(2
+),cos(2),cos(2
+1
+1
+1
+1
+1
+1
+1
+r
+r
+mr
+r
+m
+r
+x
+r
+mr
+r
+m
+m
+m
+k
+kkm
+m
+k
+k
+kk
+m
+m
+k
+k
+k
+m
+νξνξ
+ξν
+ξ
+ξν
+ξ
+−
+=
+−
+=
+−
+=
+−
+−−=−−=
+=
+−−−=
+∂
+∂−−=
+∑
+∑∑
+ 
+     Beləliklə,  
+),cos(
+21
+12
+r
+r
+m
+r mm
+ν
+ν −−
+−
+−=
+∂
+∂                    (2.2) 
+olduğunu alırıq. 
+ Sıxlıq )(1 ξµ  kompakt S  çoxluğunda kəsilməz olduğundan, 
+həm də məhduddur M≤|)(| 1 ξµ . Onda (1.7) və (2.2) müna-
+sibətlərinin köməyilə  
+ 
+α
+ν
+µ
+ν
+µ
+−−−−
+−≤
+−
+⋅≤
+∂
+∂
+11121
+1)2(|),cos(|)2(|)(|1)( mmm r
+mCM
+r
+rmx
+r
+x  
+bərabərsizliyini alırıq ki, bu da (2.1) inteqralının yığılanlığını 
+göstərir. İkiqat lay potensialının Sx ∈  olduqda kəsilməzliyi isə zəif 
+məxsusiyyətli inteqral operatorun kəsilməz funksiyanı kəsilməz 
+funksiyaya keçirməsi xassəsindən çıxır. 
+ 
+ 
+ 
+ 
+§3. Qauss inteqralı. 
+ 
+ Sıxlığı eynilik kimi vahid olan ikiqat lay potensialına  
+ 134
+∫ −∂
+∂
+=
+S
+m Sdr
+xw ξν 20
+1)(                        (3.1) 
+Qauss inteqralı deyilir. 
+ Əgər S  qapalı Lyapunov səthidirsə, onda Qauss inteqralı 
+üçün aşağıdakı düstur doğrudur: 
+⎪
+⎪
+⎩
+⎪
+⎪
+⎨
+⎧
+Γ∈
+−
+−
+−−
+=
+олдугда
+олдугдахариъиндяин-нюгтяси,
+олдугдадахилиндяин-нюгтяси
+xm
+Sx
+Sxm
+xw
+,
+2
+||)2(
+0
+,||)2(
+)(
+1
+1
+0
+σ
+σ
+  (3.2) 
+burada, || 1σ  – yuxarıda dediyimiz kimi, m  ölçülü fəzada vahid 
+radiuslu sferanın səthidir. 
+ Əvvəlcə birinci hala baxaq. Tutaq ki, x  nöqtəsi S  səthinin 
+daxilindədir. Mərkəzi bu nöqtədə olan və tamamilə S  səthinin əhatə 
+etdiyi oblastda yerləşən ε  radiuslu εS  sferası götürək. Aydındır ki, 
+sərhəddi εSS U  olan oblast daxilində 2
+1
+−mr
+ funksiyası harmonik 
+funksiyadır.  Onda məlum olduğu kimi  
+011 22 =∂
+∂+
+∂
+∂ ∫∫ −−
+ε
+εξξ νν S
+m
+S
+m Sdr
+Sd
+r
+ 
+bərabərliyi doğrudur.  
+ Sfera səthi üzrə xarici normal radiusun əksinə yönəldiyindən  
+||)2(||22
+1)2(11
+1
+1
+111
+122
+σεσ
+εε
+ν
+ε
+εεε
+εξ
+εξεξεξ
+−=⋅⋅−=−=
+=−=−=
+∂
+∂
+−
+−−
+−−−
+∫
+∫∫∫
+mmSdm
+Sd
+r
+mSd
+rdr
+dSd
+r
+m
+m
+S
+m
+S
+m
+S
+m
+S
+m
+ 
+alırıq ki, bununla (3.2) düsturlarından birincisi isbat olur. 
+ İndi tutaq ki, x  nöqtəsi S  səthinin əhatə etdiyi oblastın 
+ 135 
+xaricindədir. Onda 2
+1
+−mr
+ funksiyası S -in əhatə etdiyi oblastda 
+harmonik funksiyadır və buna görə də  
+ 
+01 2 =∂
+∂
+∫ −
+S
+m Sdr ξν
+. 
+ Nəhayət, tutaq ki, Sx ∈ . Lyapunov radiusundan kiçik 
+ixtiyari 0>ε  ədədi götürək və mərkəzi x  nöqtəsində olan ε  
+radiuslu εC  sferasını çəkək. Bu sferanın S  səthinin əhatə etdiyi 
+oblast daxilində qalan hissəsini εC′ -la, S  səthinin sferanın xaricində 
+qalan hissəsini εS′ -la işarə edək. Aydındır ki, 2
+1
+−mr
+, || ξ−= xr  
+funksiyası εε CS ′′ U  səthilə əhatə olunmuş oblast daxilində harmonik 
+funksiyadır və buna görə də  
+011 22 =′∂
+∂
++′
+∂
+∂
+∫∫
+′
+−
+′
+−
+εε
+εξεξ νν C
+m
+S
+m Cdr
+Sd
+r
+. 
+ Buradan 0→ε  şərtilə limitə keçsək, birinci toplanan Qauss 
+inteqralını verdiyindən  
+∫
+′
+−→
+′
+∂
+∂−=
+ε
+εξ
+ε νC
+m Cdr
+xw 200
+1lim)(  
+alarıq. Sağ tərəfdəki inteqralda normal radiusun əksinə yönəl-
+diyindən 
+∫∫
+∫
+′
+→−→
+′
+−→
+′
+−→
+′−−=′
+−
+−=
+=′=
+εε
+ε
+εξ
+εε
+εξ
+ε
+εξ
+ε
+ε C
+m
+C
+m
+C
+m
+CdmCd
+r
+m
+Cd
+rdr
+dxw
+01010
+200
+lim
+2
+lim
+2
+lim
+1
+lim)(
+ 
+ 136
+ Kafi qədər kiçik ε  üçün εC′  səthi yarımsferaya yaxındır1) və 
+buna görə də axırıncı bərabərlikdən  
+2
+||)2(
+2
+||2lim)( 1
+1
+1
+10
+0
+σεσ
+εε
+⋅−
+−=⋅
+−
+−=
+−
+−→
+mmxw
+m
+m  
+alarıq. Bununla (3.2) düsturunun üçüncüsü isbat olur. 
+                                      
+1) Бу фактын дягиг исбаты ядябиййатда вар. 
+ 137 
+ 
+§4. İkiqat lay potensialının limit qiymətləri. 
+ 
+ Qauss inteqralının misalında gördük ki, ikiqat lay potensialı 
+fəzada ümumiyyətlə kəsilən funksiyadır. Belə ki, qapalı S  səthinin 
+əhatə etdiyi oblastın daxilində olan x -lər üçün Qauss inteqralının bir 
+sabit qiyməti, oblastın xaricində olan nöqtələr üçün başqa sabit 
+qiyməti, nəhayət nöqtə S  səthi üzərində olduqda isə üçüncü sabit 
+qiyməti var. Biz göstərəcəyik ki, x  nöqtəsi S  səthi üzərində 
+götürülmüş 0x  nöqtəsinə daxildən və xaricdən yaxınlaşdıqda ikiqat 
+lay potensialının limit qiymətləri var və bu qiymətlər ikiqat lay 
+potensialının 0x  nöqtəsindəki düz qiymətilə müəyyən münasibətlə 
+bağlıdırlar. 
+ Əvvəlcə, sonra istifadə edəcəyimiz bir lemma isbat edək. 
+ Lemma 4.1. Tutaq ki, S  qapalı Lyapunov səthi, )(ξµ  isə 
+bu səth üzərində verilmiş kəsilməz funksiyadır. Onda )(xµ  
+funksiyasının sıfra çevrildiyi nöqtələrdə )(xw  ikiqat lay potensialı 
+kəsilməz funksiyadır.  
+ Fərz edək ki, Sx ∈0  və  0)( 0 =xµ . Bu nöqtədə  
+∫ −∂
+∂
+=
+S
+m Sdr
+xw ξν
+ξµ 2
+1)()(  
+funksiyasının kəsilməzliyini göstərək.  Mərkəzi 0x  nöqtəsində və 
+radiusu Lyapunov kürəsinin radiusundan kiçik olan δ  radiuslu sfera 
+çəkək. Bu sferanın S  səthindən ayırdığı daxili hissəni 1S ,  xarici 
+hissəni isə 2S  ilə işarə edək. Buna uyğun olaraq )(xw  inteqralı iki 
+hissəyə ayrılır 
+.2,1,1)()( 2 =∂
+∂= ∫ − iSdrxw
+iS
+mi ξν
+ξµ  
+İnteqralların 0x  nöqtəsindəki düz qiymətlərini )( 0xwi  işarə 
+ 138
+edək və belə fərqə baxaq 
+ 
+≤−−+=− |)()()()(||)()(| 0201210 xwxwxwxwxwxw  
+|)()(||)(||)(| 022011 xwxwxwxw −++≤ .           (4.1) 
+ Sağ tərəfdəki toplananları qiymətləndirək. İxtiyari kafi qədər 
+kiçik 0>ε  qeyd edək və δ  radiusunu elə seçək ki, 1S  səthinin 
+δξ <− || 0x  şərtini ödəyən nöqtələri üçün 
+C3
+|)(| εξµ <  
+bərabərsizliyi ödənsin, burada C  sabiti (1.8) bərabərsizliyini ödəyən 
+sabitdir. Aydındır ki, 0)( 0 =xµ  və )(ξµ  kəsilməz olduğundan, 
+belə seçim mümkündür. Onda 
+<
+∂
+∂⋅≤ ∫ −
+1
+121
+1|)(||)(|
+S
+m Sdr
+xw ξν
+ξµ  
+3
+1
+3 2
+ε
+ν
+ε
+ξ =∂
+∂⋅< ∫ −
+S
+m SdrC
+                      (4.2) 
+ Eyni qayda ilə  
+3
+|)(| 01
+ε
+<xw                                (4.3) 
+alarıq. Götürdüyümüz δ  radiusunu qeyd edək. Aşkardır ki, 
+2
+|| 0
+δ
+<− xx  şərtini ödəyən x  nöqtələri və ixtiyari 2S∈ξ  üçün 
+2
+|||||||| 0000
+δ
+ξξξ >−−−≥−+−=−= xxxxxxxr  
+olduğundan )(2 xw  inteqralında inteqralaltı funksiya kəsilməzdir və 
+buna görə də, elə 0>η  ədədi var ki, η<− || 0xx  olduqda 
+ 139 
+3
+|)()(| 022
+ε
+<− xwxw                          (4.4)  
+olur. Beləliklə, alırık ki, ⎟
+⎠
+⎞
+⎜
+⎝
+⎛<− η
+δ ,
+2
+min|| 0xx  şərtini ödəyən x -
+lər üçün (4.2), (4.3), (4.4) bərabərsizlikləri ödənir. Bunları (4.1)-də 
+nəzərə alsaq 
+ε<− |)()(| 0xwxw  
+alarıq ki, bu da )(xw  funksiyasının 0x  nöqtəsində kəsilməzliyi 
+deməkdir. 
+ İndi ikiqat lay potensialının limit qiymətlərinə baxaq. Tutaq 
+ki, S  qapalı Lyapunov səthi fəzanı iki hissəyə ayırır. Bu hissələrdən 
+sonlusuna daxili, sonsuzuna isə xarici oblast deyək və bu oblastları 
+uyğun olaraq iΩ  və eΩ  ilə işarə edək. İxtiyari Sx ∈0  nöqtəsi 
+götürək. İkiqat lay potensialının  
+ 
+∫ −∂
+∂
+=
+S
+m Sdr
+xw ξν
+ξµ 2
+1)()(                     (4.5) 
+bu nöqtədəki daxili və xarici limit qiymətlərini )( 0xwi  və )( 0xwe  
+ilə işarə edək 
+).(lim)(
+),(lim)(
+0
+0
+0
+0
+xwxw
+xwxw
+e
+i
+x
+xxe
+x
+xxi
+Ω∈
+→
+Ω∈
+→
+=
+=
+ 
+ İkiqat lay potensialının limit qiymətləri üçün aşağıdakı 
+teorem doğrudur. 
+ Teorem 4.1. Əgər S  qapalı Lyapunov səthi, sıxlıq funksiya 
+)(ξµ  isə kəsilməz funksiyadırsa, onda (4.5) ikiqat lay potensialının 
+limit qiymətləri üçün 
+ 
+ 140
+)()(
+2
+||)2()(
+,)()(
+2
+||)2()(
+00
+1
+0
+00
+1
+0
+xwxmxw
+xwxmxw
+e
+i
++⋅
+−
+=
++⋅
+−
+−=
+µ
+σ
+µ
+σ
+          (4.6) 
+düsturları doğrudur, burada )( 0xw  ikiqat lay potensialının 0x  
+nöqtəsindəki düz qiymətidir. 
+ İsbat üçün (4.5) inteqralını 
+)()()()( 001 xwxxwxw µ+=                      (4.7) 
+şəklində yazaq, burada  
+∫ −∂
+∂
+=
+S
+m Sdr
+xw ξν 20
+1)(  
+Qauss inteqralı, 
+∫ −∂
+∂
+−=
+S
+m Sdr
+xxw ξν
+µξµ 201
+1)]()([)(             (4.8) 
+isə sıxlığı 0x  nöqtəsində sıfra çevrilən ikiqat lay potensialıdır. 
+ Yuxarıdakı lemmaya əsasən, )(1 xw  funksiyası 0x  nöq-
+təsində kəsilməz funksiyadır, yəni onun xaricdən, daxildən limit 
+qiymətləri və bu nöqtədəki düz qiyməti bir-birinə bərabərdir 
+ 
+)()()( 010101 xwxwxw ei ==                      (4.9) 
+ Qauss inteqralı üçün isbat etdiyimiz (3.2) düsturuna əsasən 
+2
+||)2()(
+,0)(
+,||)2()(
+1
+00
+00
+100
+σ
+σ
+⋅−
+−=
+=
+⋅−−=
+mxw
+xw
+mxw
+e
+i
+                    (4.10) 
+olduğunu yaza bilərik. Digər tərəfdən (4.7) bərabərliyindən 
+ 141 
+)()()()(
+,)()()()(
+,)()()()(
+000010
+000010
+000010
+xwxxwxw
+xwxxwxw
+xwxxwxw
+eee
+iii
+µ
+µ
+µ
++=
++=
++=
+ 
+düsturunu yazarıq. Axırıncı düsturların üçüncüsünü birincidən, sonra 
+isə ikincisindən çıxsaq və bu zaman (4.9), (4.10) bərabərliklərini 
+nəzərə alsaq 
+ 
+)(
+2
+||)2(
+)()(
+),(
+2
+||)2(
+)()(
+0
+1
+00
+0
+1
+00
+xmxwxw
+xmxwxw
+e
+i
+µ
+σ
+µ
+σ
+⋅
+−
+=−
+⋅
+−
+−=−
+ 
+düsturlarını alarıq ki, bu da (4.6) düsturları deməkdir. Teorem isbat 
+olur.  
+ İsbat etdiyimiz (4.6) düsturlarından, bilavasitə, ikiqat lay 
+potensialının sıxlığı ilə onun limit qiymətləri arasında münasibət ala 
+bilərik 
+)(||)2()()( 0100 xmxwxw ie µσ ⋅−=− .          (4.11) 
+ Qeyd 4.1. Göstərmək olar ki, səth qapalı Lyapunov səthi, 
+sıxlıq isə kəsilməz funksiyadırsa, onda ikiqat lay potensialı öz limit 
+qiymətlərin müntəzəm yığılır. 
+ 
+ 
+ 
+§5. Sadə lay potensialının normal törəməsi. 
+ 
+ Tutaq ki, S  qapalı Lyapunov səthi, )(ξµ  isə bu səth 
+üzərində verilmiş kəsilməz funksiyadır. 
+ 
+∫ −=
+S
+m Sdr
+xV ξξµ 2
+1)()(  
+ 142
+şəklində təyin olunmuş inteqrala sadə lay potensialı demişdik. 
+ Fəzada götürülmüş ixtiyari x  nöqtəsi üçün bu nöqtədən 
+keçən və S  səthinə çəkilmiş xarici normalı n  ilə işarə edək. 
+Aydındır ki, x  nöqtəsi S  səthi üzərində deyilsə, onda sadə lay 
+potensialının n  istiqaməti üzrə törəməsi var və bu törəmə 
+ 
+∫ −∂
+∂
+=
+∂
+∂
+S
+m Sdrnn
+xV
+ξξµ 2
+1)()(  
+düsturu ilə hesablanacaq. Çünki bu halda 0|| >−= ξxr  
+olduğundan inteqralaltında parametrə görə törəmə almaq olar. 
+Yuxarıda çıxardığımız (2.2) düsturuna analoji olaraq 
+ 
+),cos(21 12 nrr
+m
+rn mm −−
+−
+=
+∂
+∂                      (5.1) 
+almaq olar. Beləliklə, x  nöqtəsi S  səthi üzərində olmadıqda, bu 
+nöqtədən keçən normal üzrə sadə lay potensialının törəməsi üçün 
+∫ −−=∂
+∂
+S
+m Sdr
+nrxm
+n
+xV
+ξµ 1
+),cos()()2()(              (5.2) 
+düsturunu alırıq. 
+ İndi göstərək ki, )(ξµ  səthi üzərində məhdud cəmlənən 
+funksiyadırsa, x  nöqtəsi S  səthi üzərində olduqda da (5.2) inteqralı 
+yığılandır. Fərz edək ki, M<|)(| ξµ . 
+ Mərkəzi x  nöqtəsində olan Lyapunov sferasını quraq və S  
+səthinin bu sfera daxilində qalan hissəsini )(xS′ -lə işarə edək. 
+Aydındır ki, (5.2) inteqralının yığılanlığını göstərmək üçün )(xS′  
+üzrə inteqralın yığılanlığını göstərmək kifayətdir. Başlanğıcı x  
+nöqtəsində olan lokal koordinat sistemi quraq və )(xS′  səthinin x  
+nöqtəsində səthə çəkilən toxunan müstəvi üzərindəki proyeksiyasını 
+)(xP ′  ilə işarə edək. Onda 
+ 143 
+∫∫
+′
+−
+−
+′
+−
+=
+)(
+1
+11
+)(
+1 ),cos(
+),cos(
+)(),cos()(
+xP m
+m
+m
+xS
+m r
+ddnrSd
+r
+nrx
+ξν
+ξξ
+ξµµ ξ
+L
+. (5.3) 
+Səthə çəkilən normalın yönəldici kosinusu  
+2
+1
+1
+1
+2
+1),cos(
+−
+−
+= ⎥
+⎥
+⎦
+⎤
+⎢
+⎢
+⎣
+⎡
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+∂
+∂
++= ∑
+m
+k k
+m
+f
+ξ
+ξν  
+olduğunu yada salaraq, (1.4) bərabərsizliklərinin köməyi ilə 
+α
+ξν
+22)1(1
+),cos(
+1 rHm
+m
+−+≤  
+yaza bilərik. Lyapunov d  radiusunu elə kiçik seçək ki, 
+1)1( 22 <− αdHm  bərabərsizliyi ödənsin. Onda )(xS′  səthinin 
+nöqtələri üçün 
+2211
+),cos(
+1
+<=+<
+mξν
+                   (5.4) 
+bərabərsizliyini alarıq. 
+ İndi (5.3) bərabərliyinin sağ tərəfindəki inteqralaltı funksi-
+yanı qiymətləndirə bilərik. 
+ (1.6) və (5.4) bərabərsizliklərindən istifadə etsək  
+α
+α
+ρξν
+νξµ
+−−−−
+⋅≤⋅≤ 111
+22
+),cos(
+),cos()( mm
+m
+m
+CM
+r
+CrM
+r
+r  
+alarıq. Bu qiymətləndirmə göstərir ki, (5.3) inteqralı və bununla da 
+sadə lay potensialının normal törəməsini ifadə edən (5.2) inteqralı 
+yığılınadır. Həmin inteqralın bu qayda ilə təyin olunmuş qiymətinə, 
+sadə lay potensialının normal törəməsinin x  nöqtəsindəki düz 
+qiyməti deyilir və 
+n
+xV
+∂
+∂ )(  şəklində işarə olunur. 
+ Qapalı S  Lyapunov səthinin fəzanı ayırdığı daxili iΩ  və 
+xarici eΩ  oblastları üçün sadə lay potensialının limit qiymətlərini 
+ 144
+Sx ∈0  üçün  
+n
+xV
+n
+xV
+n
+xV
+n
+xV
+e
+i
+x
+xxe
+x
+xxi
+∂
+∂
+=
+∂
+∂
+∂
+∂
+=
+∂
+∂
+Ω∈
+→
+Ω∈
+→
+)(lim
+)(
+,)(lim
+)(
+0
+0
+0
+0
+ 
+işarə edək. Bunlara sadə lay potensialının normal törəməsinin daxili 
+və xarici limit qiymətləri deyilir. 
+ Lemma 5.1. Əgər S  qapalı Lyapunov səthi, )(ξµ  isə bu 
+səth üzərində kəsilməz funksiyadırsa, onda x  nöqtəsi normal 
+boyunca S  səthini kəsdikdə 
+∫ ⎥⎦
+⎤
+⎢⎣
+⎡
+∂
+∂
++
+∂
+∂
+=
+−−
+S
+mm Sdrrn
+xR ξν
+ξµ 22
+11)()(          (5.5) 
+funksiyası kəsilməz funksiyadır. 
+ Fərz edək ki, 0x  səth üzərində hər hansı nöqtə, n  bu 
+nöqtədə səthə çəkilən normal, x  isə bu normal üzərində yerləşən 
+ixtiyari nöqtədir. Mərkəzi 0x  nöqtəsində yerləşən d<η  (d  
+Lyapunov radiusudur) radiuslu sferanın S  səthindən ayırdığı daxili 
+hissəni ηS′ , xarici hissəni isə ηS ′′  ilə işarə edək. Onda  
+∫
+∫
+′′
+−−
+′
+−−
+⎥⎦
+⎤
+⎢⎣
+⎡
+∂
+∂
++
+∂
+∂
+=′′
+⎥⎦
+⎤
+⎢⎣
+⎡
+∂
+∂
++
+∂
+∂
+=′
+′′+′=
+η
+η
+ξ
+ξ
+ν
+ξµ
+ν
+ξµ
+S
+mm
+S
+mm
+Sd
+rrn
+xR
+Sd
+rrn
+xR
+xRxRxR
+22
+22
+11)()(
+,
+11
+)()(
+),()()(
+ 
+şəklində göstərilə bilər.  
+Aşağıdakı fərqə baxaq  
+ 145 
+≤′′−′−′′+′=− |)()()()(||)()(| 000 xRxRxRxRxRxR  
+|)()(||)(||)(| 00 xRxRxRxR ′′−′′+′+′≤            (5.6) 
+və bu fərqi || 0xx − -in kafi qədər kiçik qiymətləri üçün qiy-
+mətləndirək.  
+Aydındır ki, 
+2
+|| 0
+η
+<− xx  şərtini ödəyən x -lər və ηξ S ′′∈  
+nöqtələri üçün, ηξ >− || 0x , 
+22
+|||||||| 0000
+ηη
+ηξξξ =−>−−−≥−+−=−= xxxxxxxr  
+olduğundan, )(xR ′′  inteqralında inteqralaltı funksiyada məxrəc sıfra 
+çevrilmir və buna görə də, ixtiyari 0>ε  üçün, elə 0>η  var ki, 
+2/|| 0 η<− xx  olduqda  
+3/|)()(| 0 ε<′′−′′ xRxR                         (5.7) 
+olur. 
+ İndi )(xR′  inteqralını qiymətləndirək. Aydındır ki,  
+.),cos(2),cos(11
+,),cos(2),cos(11
+1
+1
+1
+22
+1
+1
+1
+22
+∑∑
+∑∑
+=
+−
+=
+−−
+=
+−
+=
+−−
+−
+⋅−−=
+∂
+∂=
+∂
+∂
+−
+⋅−=
+∂
+∂=
+∂
+∂
+m
+k
+k
+kk
+m
+m
+k
+km
+k
+m
+m
+k
+k
+kk
+m
+m
+k
+km
+k
+m
+r
+x
+r
+m
+rr
+n
+r
+x
+r
+mn
+rxrn
+ξν
+ξ
+ξν
+ξν
+ξ
+ξ
+ξ
+ 
+ Başlanğıcı 0x  nöqtəsində olan lokal koordinat sistemində 
+0121 ==== −mxxx L  və n  normalı mξ  istiqamətində yönəl-
+diyindən 
+.1),cos(
+1,,2,1,0),cos(
+=
+−==
+m
+k
+n
+mkn
+ξ
+ξ K
+ 
+ Bunları nəzərə alsaq, )(xR′  inteqralının nüvəsi üçün  
+ 146
+×
+−−
+=
+∂
+∂
++
+∂
+∂
+−−− r
+x
+r
+m
+rrn
+mm
+mmm
+ξ
+ν 122
+211  
+∑
+−
+=
+−
+−
+−−×
+1
+1
+1
+),cos(
+2
+)],cos(1[
+m
+k
+k
+k
+mk rr
+m
+ξν
+ξ
+ξν           (5.8) 
+alarıq. Bəzi qiymətləndirmələr aparaq. Yönəldici kosinusun 
+ifadəsinin və (1.4) bərabərsizliyinin köməyilə  
+≤
+−+
+−≤
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+∂
+∂∑+
+−=−
+−
+=
+α
+ξ
+ξν
+2
+0
+221
+1
+)1(1
+11
+1
+11),cos(1
+rHmf
+k
+m
+k
+m  
+||,
+2
+)1(
+2
+)1(
+0001
+0
+22
+0
+2
+ξα
+ααα
+−==
+⋅⋅−
+≤
+−
+≤ xrrardHmrHm  
+qiymətləndirməsini, sonra da (1.9) bərabərsizliyinin köməyilə  
+1,,2,1,|),cos(| 0 −=≤ mkHrk Kαξν  
+yaza bilərik. Alınmış bu bərabərsizlikləri (5.8) də nəzərə alsaq  
+constA
+r
+Ar
+rrn mmm
+=≤
+∂
+∂
++
+∂
+∂
+−−−
+,11 1
+0
+22
+α
+ν
+       (5.9) 
+bərabərsizliyini alarıq. 
+ Yuxarıdakı (1.5) bərabərsizliyindən ıistifadə edərək  
+)1()1( 22222222222220
+ααα ρρρρρξρ dcccr m +<+=+≤+= +  
+yazarıq. Onda Lyapunov radiusunu kafi qədər kiçik götürməklə, ηS′  
+səthinin nöqtələri üçün  
+ρ20 <r  
+bərabərsizliyini alarıq. Sonra isə  
+ 147 
+222
+1
+222 )()(|| ρξρξξ ≥−+=−=−= ∑
+=
+mm
+m
+k
+kk xxxr  
+olduğunu nəzərə alsaq, bunların köməyilə (5.9) münasibətindən  
+∫
+′
+−−
+⋅⋅≤′
+η
+α
+ξα
+ρS
+m
+Sd
+MAxR 12|)(|  
+bərabərsizliyini alarıq. ηS′  səthinin 0x  nöqtəsində səthə çəkilən 
+toxunan müstəvi üzərindəki poyeksiyasını ηP ′  ilə işarə edək və ηS′  
+üzrə inteqraldan ηP ′  üzrə inteqrala keçək  
+∫
+′
+−−
+−⋅⋅≤′
+η
+ξνρ
+ξξξ
+α
+α
+P m
+m
+mdddMAxR
+),cos(
+2|)(| 1
+121 L . 
+Proyeksiyanın ηρ <  kürəsində yerləşdiyini nəzərə alsaq, 
+polyar koordinat sisteminə keçərək, (5.4)-ün köməyi ilə  
+ 
+α
+αη
+α
+τ
+α η
+α
+τ
+ρρτ
+||22|)(| 1
+1
+0
+1
+1
+1
+1
+⋅⋅⋅
+=⋅⋅≤′
++
+−+ ∫∫
+MAddMAxR  
+alarıq, burada || 1τ  ilə 1−m  ölçülü fəzada vahid radiuslu sferanın 
+səthi işarə olunmuşdur. Axırıncı bərabərsizlikdən görünür ki, η -nı 
+seçməklə  
+3
+|)(| ε<′ xR                              (5.10) 
+bərabərsizliyini və eləcə də 
+2
+|)(| 0
+ε
+<′ xR                             (5.11) 
+bərabərsizliyini ala bilərik. (5.6), (5.7), (5.10) və (5.11) bərabər-
+sizliklərindən 2/|| 0 η<− xx  şərtini ödəyən x -lər üçün  
+ 
+ 148
+ε<− |)()(| 00xRxR  
+bərabərsizliyini alırıq ki, bu da )(xR  funksiyasının 0x  nöqtəsində 
+kəsilməzliyi deməkdir. Bununla lemma isbat olur.  
+ Teorem 5.1. Əgər S  qapalı Lyapunov səthi, )(ξµ  isə bu 
+səth üzərində kəsilməz funksiyadırsa, onda S  səthi üzərində sadə 
+lay potensialının normal törəməsinin müntəzəm limit qiymətləri var 
+və bu limit qiymətləri üçün aşağıdakı düsturlar doğrudur 
+.
+)(
+)(
+2
+||)2()(
+,
+)(
+)(
+2
+||)2()(
+0
+0
+10
+0
+0
+10
+n
+xVxm
+n
+xV
+n
+xVxm
+n
+xV
+e
+i
+∂
+∂
++
+−
+−=
+∂
+∂
+∂
+∂
++
+−
+=
+∂
+∂
+µ
+σ
+µ
+σ
+        (5.12) 
+ Lemmadakı )(xR  funksiyasının təyini göstərir ki, bu funk-
+siya sadə lay potensialının normal törəməsi 
+n
+xV
+∂
+∂ )(  ilə, ikiqat lay 
+potensialı )(xw -in cəmindən ibarətdir. Onun 0x  nöqtəsində 
+kəsilməzliyi  
+ 
+)(
+)(
+)(
+)(
+)(
+)(
+0
+0
+0
+0
+0
+0 xw
+n
+xVxw
+n
+xVxw
+n
+xV
+e
+e
+i
+i
++
+∂
+∂
+=+
+∂
+∂
+=+
+∂
+∂
+ 
+deməkdir. Bu bərabərliklərdən  
+)]()([
+)()(
+,)]()([
+)()(
+00
+00
+00
+00
+xwxw
+n
+xV
+n
+xV
+xwxw
+n
+xV
+n
+xV
+e
+e
+i
+i
+−+
+∂
+∂
+=
+∂
+∂
+−+
+∂
+∂
+=
+∂
+∂
+          (5.13) 
+yaza bilərik. İkiqat lay potensialının limit qiymətləri üçün(4.6) 
+düsturlarını nəzərə alsaq  
+ 
+ 149 
+.)(
+2
+||)2(
+)()(
+),(
+2
+||)2(
+)()(
+0
+1
+00
+0
+1
+00
+xmxwxw
+xmxwxw
+e
+i
+µ
+σ
+µ
+σ
+−
+−=−
+−
+=−
+ 
+ Bunlar, (5.13) düsturlarının köməyi ilə (5.12) deməkdir. 
+Teoremin isbatını tam axıra çatdırmaq üçün limitlərin müntəzəm-
+liyini göstərmək lazımdır. Bunun üçün sadə lay potensialının normal 
+törəməsini  
+)()()()( xwxw
+n
+xV
+n
+xV
+−⎥⎦
+⎤
+⎢⎣
+⎡ +
+∂
+∂
+=
+∂
+∂  
+şəklində göstərmək kifayətdir. Çünki sağ tərəfdəki kvadrat 
+mötərizənin öz limitinə müntəzəm yığıldığını göstərdik. İkiqat lay 
+potensialı olan )(xw  funküsiyasının isə öz limitinə müntəzəm 
+yığıldığını §4-də demişdik. 
+ Sonralar istifadə edəcəyimiz bir düsturu da çıxaraq. (5.12) 
+düsturlarını tərəf-tərəfə çıxsaq  
+ 
+)(||)2(
+)()(
+01
+00 xm
+n
+xV
+n
+xV
+ei
+µσ ⋅−=
+∂
+∂
+−
+∂
+∂
+.        (5.14) 
+düsturunu alırıq.  
+V I I I  F Ə S İ L .   
+P O T E N S İA L L A R I N  K Ö MƏY İLƏ   
+SƏR HƏD  MƏ SƏLƏLƏR İN İN  HƏL L İ .  
+ 
+§1. İnteqral tənliklər. Fredholm teoremləri. 
+ 
+ Məchul funksiya inteqral işarəsi altında olan tənliklərə 
+inteqral tənliklər deyilir. Xətti inteqral tənliklərin bir sinfi olan 
+ikinci növ Fredholm tənlikləri haqqında məlumat verək. 
+ 150
+ Tutaq ki, Ω  m  ölçülü mE  fəzasında hər hansı məhdud 
+oblast və ya 1+m  ölçülü fəzada m  ölçülü məhdud qapalı səthdir. 
+Aşağıdakı şəkildə inteqral tənliyə baxaq: 
+)()(),()( xfduxKxu =− ∫
+Ω
+ξξξλ .                (1.1) 
+ Belə tənliklərə ikinci növ Fredholm tənlikləri deyilir. 
+Tənlikdəki ),( ξxK  funksiyası inteqral tənliyin nüvəsi, )(xf  isə 
+sərbəst həddi adlanır, λ  hər hansı parametrdir. 
+ Əgər inteqral tənliyin nüvəsi ),( ξxK , hər hansı məhdud 
+),( ξxA  funksiyası və x  və ξ  nöqtələri arasında olan || ξ−= xr  
+məsafəsi  üçün 
+m
+r
+xAxK <<= αξξ
+α
+0,
+),(
+),(                   (1.2) 
+şəklində göstərilə bilirsə, onda ),( ξxK  nüvəsinə zəif məxsusiyyətli 
+nüvə, (1.1) tənliyinə isə zəif məxsusiyyətli inteqral tənlik deyilir. 
+ Sərbəst həddi 0)( ≡xf  olan  
+0)(),()( =− ∫
+Ω
+ξξξλ duxKxu                   (1.10) 
+tənliyinə, (1.1) tənliyinə uyğun bircins tənlik deyilir. 
+ Aydındır ki, λ  parametrinin ixtiyari qiymətində, bircins 
+(1.3) tənliyinin eynilik kimi sıfır həlli var. Belə həllə triviyal həll 
+deyilir. 
+ Parametrin verilmiş qiymətində, bircins (1.10) tənliyinin an-
+caq eynilik kimi sıfır həlli varsa, onda parametrin bu qiymətinə 
+),( ξxK  nüvəsinin düzgün qiyməti deyilir. 
+ Parametrin hər hansı qiymətində, (1.10) tənliyinin eynilik 
+kimi sıfır olmayan həlli varsa, onda parametrin bu qiymətinə 
+),( ξxK  nüvəsinin (və həm də (1.10) tənliyinin) xarakteristik 
+qiyməti, həmin həllərə isə ),( ξxK  nüvəsinin (və həm də (1.10) 
+ 151 
+tənliyinin) verilmiş xarakteristik qiymətə uyğun məxsusi 
+funksiyaları deyilir. 
+ Aydındır ki, əgər )(,),(),( 21 xuxuxu nK  funksiyaları 
+),( ξxK  nüvəsinin müəyyən xarakteristik qiymətə uyğun məxsusi 
+funksiyalarıdırsa, onda bu məxsusi funksiyaların ixtiyari xətti 
+kombinasiyası da həmin xarakteristik qiymətə uyğun məxsusi 
+funksiya olacaq. 
+ Xarakteristik qiymətə uyğun xətti asılı olmayan məxsusi 
+funksiyaların sayına həmin xarakteristik qiymətin ranqı deyilir. 
+ Əgər xarakteristik qiymətin ranqı birə bərabərdirsə, onda 
+ona sadə xarakteristik qiymət deyilir.  
+ Verilmiş ),( ξxK  nüvəsi ilə  
+),(),( xKxK ξξ =∗  
+şəklində bağlı olan ),( ξxK ∗  nüvəsinə, ),( ξxK  nüvəsi ilə qoşma 
+nüvə deyilir, burada xətt kompleks qoşmanı göstərir. 
+ Aydındır ki, ),( ξxK  funksiyası həqiqi funksiyadırsa, onda 
+qoşma nüvəni almaq üçün ancaq x  və ξ  dəyişənlərinin yerini 
+dəyişmək kifayətdir 
+),(),( xKxK ξξ =∗ . 
+ Nüvəsi ),( ξxK ∗  olan 
+)()(),()( xFdvxKxv =− ∫
+Ω
+∗ ξξξλ                 (1.3) 
+tənliyinə, (1.1) tənliyinə qoşma tənlik, 
+0)(),()( =− ∫
+Ω
+∗ ξξξλ dvxKxv                   (1.30) 
+tənliyinə isə (1.1) tənliyinə uyğun qoşma bircins tənlik deyilir. 
+ Zəif məxsusiyyətli ikinci növ Fredholm tənlikləri üçün 
+Fredholm alternativləri adlanan aşağıdakı teoremlər doğrudur. Bu 
+teoremlərin isbatını müxtəlif kitablarda tapmaq olar [    ]. 
+ 152
+ Teorem 1.1. Əgər (1.1) tənliyinə uyğun bircins (1.10) tən-
+liyinin ancaq triviyal həlli varsa, onda (1.1) tənliyinin, istənilən 
+kəsilməz )(xf  üçün yeganə həlli var. 
+ Teorem 1.2. Əgər 0λ  bircins (1.10) tənliyinin xarakteristik 
+qiymətidirsə, onda qoşma (1.30) tənliyinin də xarakteristik qiy-
+mətidir və bu tənliklərin hər ikisinin 0λ  xarakteristik qiymətinə 
+uyğun xətti asılı olmayan məxsusi həllərinin sayı eynidir. 
+ Teorem 1.3. Əgər (1.10) bircins tənliyinin trivial olmayan 
+həlləri varsa, onda qeyri bircins (1.1) tənliyinin həllinin olması üçün 
+zəruri və kafi şərt, onun sağ tərəfi olan )(xf  funksiyasının, (1.10) 
+tənliyinə qoşma olan (1.30) bircins tənliyinin həllərinin tam 
+sisteminə ortoqonal olmasıdır 
+kjdvf j ,,2,1,0)()( K==∫
+Ω
+ξξξ .               (1.4) 
+Biz potensiallar nəzəriyyəsinin köməyi ilə Dirixle və Neyman 
+məsələlərini inteqral tənliklərə gətirib, alınan tənliklərə yuxarıdakı 
+Fredholm teoremlərini tətbiq edəcəyik. 
+ 153 
+§2. Dirixle və Neyman məsələlərinin inteqral  
+tənliklərə gətirilməsi. 
+ 
+ Qapalı S  Lyapunov səthinin əhatə etdiyi sonlu daxili 
+oblastı iΩ , xarici oblastı isə eΩ  ilə işarə edək. 
+ Aşağıdakı kimi daxili və xarici Dirixle məsələlərinə baxaq: 
+ Daxili iΩ  (xaraci eΩ ) oblastında harmonik olan elə )(xu  
+funksiyası tapmalı ki, bu funksiya Si UΩ  oblastında ( Se UΩ  
+oblastında) kəsilməz olmaqla, S  sərhəddi üzərində verilmiş 
+kəsilməz )(xϕ  funksiyası üçün 
+)(xu S ϕ=                                 (2.1) 
+şətini ödəsin. 
+ Bu məsələlərə uyğun olaraq iD  və eD  məsələləri deyə-
+cəyik. Məsələlərin həllini sıxlığı )(xµ  məchul funksiyası olan ikiqat 
+lay potensialı 
+∫
+Γ
+−∂
+∂
+= Sd
+r
+xu m ξν
+ξµ
+2
+1
+)()(                   (2.2) 
+şəklində axtaraq. Məlum olduğu kimi, )(xµ  kəsilməz funksiyadırsa, 
+(2.2) düsturu ilə təyin olunmuş )(xu  funksiyası həm iΩ  və həm də 
+eΩ  oblastlarında harmonik funksiyadır. Bu funksiyanın iD  və ya 
+eD  məsələlərinin həlli olması üçün, daxili və ya xarici limit 
+qiymətləri, uyğun olaraq,  
+ 
+Sxxxui ∈= ),()( ϕ  
+və ya 
+Sxxxue ∈= ),()( ϕ  
+şərtini ödəməlidir. İkiqat lay potensialının limit qiymətləri düstu-
+rundan, iD  məsələsi üçün 
+ 154
+)(
+1
+)()(
+2
+||)2(
+2
+1 xSd
+r
+xm
+S
+m ϕν
+ξµµ
+σ
+ξ =∂
+∂
++⋅
+−
+− ∫ − , 
+eD  məsələsi üçün 
+)(
+1
+)()(
+2
+||)2(
+2
+1 xSd
+r
+xm
+S
+m ϕν
+ξµµ
+σ
+ξ =∂
+∂
++⋅
+−
+∫ −  
+bərabərliklərini yaza bilərik. 
+ Bununla, iD  və eD  məsələləri, uyğun olaraq, 
+||)2(
+)(21
+)(
+||)2(
+2
+)(
+1
+2
+1 σ
+ϕ
+ν
+ξµ
+σ
+µ ξ −
+−=
+∂
+∂
+⋅
+−
+− ∫ − m
+xSd
+rm
+x
+S
+m  (2.3) 
+və  
+||)2(
+)(1
+)(
+||)2(
+2
+)(
+1
+2
+1 σ
+ϕ
+ν
+ξµ
+σ
+µ ξ −
+=
+∂
+∂
+⋅
+−
++ ∫ − m
+xSd
+rm
+x
+S
+m  (2.4) 
+inteqral tənliklərə gətirilir. 
+ Bu inteqral tənlikləri araşdırmaqdan əvvəl, daxili və xarici 
+Neyman məsələlərini də inteqral tənliklərə gətirək, sonra isə alınan 
+tənlikləri bir yerdə araşdırarıq. 
+ Neyman məsələlərinin qoyuluşunu yada salaq: 
+ Daxili iΩ  (xarici eΩ ) oblastında harmonik olan elə )(xu  
+funksiyası tapmalı ki, bu funksiya Si UΩ  oblastında ( Se UΩ  
+oblastında)  kəsilməz törəmələrə malik olmaqla, S  sərhəddi 
+üzərində verilmiş kəsilməz )(xψ  funksiyası üçün 
+)(x
+n
+u
+S
+ψ=
+∂
+∂                               (2.5) 
+şərtini ödəsin. 
+ Bu məsələlərə iN  və eN  məsələləri deyəcəyik. Məsələlərin 
+həllini sıxlığı )(xτ  məchulu olan sadə lay potensialı 
+ 155 
+∫ −=
+S
+m Sdr
+xu ξξτ 2
+1
+)()(                        (2.6) 
+şəklində axtaraq. Belə təyin olunmuş )(xu  funksiyası iΩ  və eΩ  
+oblastlarında harmonik funksiyadır. Bu funksiyanın məsələnin həlli 
+olması üçün normal törəmənin limit qiymətləri, uyğun olaraq, 
+ 
+Sxx
+n
+xu
+i
+∈=
+∂
+∂ ),()( ψ  
+və  
+Sxx
+n
+xu
+e
+∈=
+∂
+∂
+),(
+)(
+ψ  
+şərtlərini ödəməlidir. 
+ Sadə lay potensialının normal törəməsinin limit qiymətləri 
+düsturlarının köməyilə, daxili Neyman məsələsini 
+ 
+||)2(
+)(21
+)(
+||)2(
+2
+)(
+1
+2
+1 σ
+ψ
+ξτ
+σ
+τ ξ −
+=
+∂
+∂
+⋅
+−
++ ∫ − m
+xSd
+rnm
+x
+S
+m ,  (2.7) 
+xarici Neyman məsələsini isə  
+||)2(
+)(21
+)(
+||)2(
+2
+)(
+1
+2
+1 σ
+ψ
+ξτ
+σ
+τ ξ −
+−=
+∂
+∂
+⋅
+−
+− ∫ − m
+xSd
+rnm
+x
+S
+m  (2.8) 
+inteqral tənliklərinə gətirərik. 
+ Alınmış (2.3), (2.4), (2.7), (2.8) tənliklərinə, adətən po-
+tensial nəzəriyyəsinin inteqral tənlikləri deyilir. 
+ Beləliklə, Dirixle və Neyman məsələlərinin həlli potensial 
+nəzəriyyəsinin inteqral tənliklərinin araşdırılmasına gətirilir. 
+ Bu tənliklərin araşdırılması ilə məşğul olaq. 
+ Əvvəlcə qeyd edək ki, inteqral tənliklərin nüvələri üçün 
+keçən fəsildə aldığımız 
+ 156
+),cos(
+)2(1
+),,cos(
+21
+12
+12
+rn
+r
+m
+rn
+r
+r
+m
+r
+mm
+mm
+−−
+−−
+−−
+=
+∂
+∂
+−
+=
+∂
+∂
+ν
+ν
+ 
+düsturları və  
+α
+α
+ν crr
+crrn
+≤
+≤
+|),cos(|
+,|),cos(|
+ 
+qiymətləndirmələri göstərir ki, bu nüvələr zəif məxsusiyyətli 
+nüvələrdir. Ona görə də bu inteqral tənliklərə yuxarıda söylədiyimiz 
+Fredholm teoremlərini tətbiq edə bilərik. 
+ 
+ 
+ 
+ 
+§3. Potensial nəzəriyyəsinin inteqral  
+tənliklərinin araşdırılması. 
+ 
+ Yada salaq ki, n  səth üzərində götürülmüş x  nöqtəsində, ν  
+isə ξ  nöqtəsində səthə çəkilən normallar idi. (2.8) tənliyinin nüvəsi, 
+(2.3) tənliyinin nüvəsində ν  əvəzinə n  yazmaqla alınır. Bu o 
+deməkdir ki, bu inteqral tənliklərin nüvələri x  və ξ -nin yerini 
+dəyişməklə alınırlar. O nüvələr həm də həqiqi olduqlarından, onlar 
+bir biri ilə qoşmadırlar. Eyni əsasla, (2.4) və (2.7) tənliklərinin 
+nüvələri bir biri ilə qoşmadır.  
+ Əvvəlcə qoşma (2.3) və (2.8) inteqral tənliklərini araşdıraq. 
+Göstərək ki, (2.8) tənliyinə uyğun bircins 
+ 
+0
+1
+)(
+||)2(
+2
+)(
+2
+1
+=
+∂
+∂
+⋅
+−
+− ∫ −
+S
+m Sdrnm
+x ξξτσ
+τ       (2.80) 
+ 157 
+tənliyinin yalnız eynilik kimi sıfır həlli var. 
+ Əksini fərz edək. Tutaq ki, )(0 xτ  funksiyası bu tənliyin 
+eynilik kimi sıfır olmayan hər hansı kəsilməz həllidir. Sıxlığı )(0 xτ  
+olan  
+ 
+∫ −=
+S
+m Sdr
+xV ξξτ 200
+1
+)()(  
+sadə lay potensialı düzəldək. Bu potensialın normal törəməsinin 
+xarici limit qiyməti 
+ 
+∫ −∂
+∂
++
+−
+−=
+∂
+∂
+S
+m
+e
+Sd
+rn
+xm
+n
+xV
+ξξττ
+σ
+200
+10 1)()(
+2
+||)2()(
+, 
+(2.80) tənliyinə görə, sıfırdır, 
+Sx
+n
+xV
+e
+∈=
+∂
+∂
+,0
+)(0 .                       (3.1) 
+Digər tərəfdən, )(0 xV  funksiyası sadə lay potensialı 
+olmaqla, eΩ  oblastında harmonikdir. Deməli, )(0 xV  funksiyası 
+xarici Neyman məsələsinin (3.1) şərtini ödəyən həllidir. Xarici 
+Neyman məsələsinin həllinin yeganəliyindən, ex Ω∈  üçün 
+ 
+0)(0 ≡xV                                  (3.2) 
+olduğunu alırıq. Sadə lay potensialı bütün fəzada kəsilməz funksiya 
+olduğundan  
+SxxV ∈≡ ,0)(0                          (3.3) 
+alarıq. Lakin )(0 xV , sadə lay potensialı kimi, iΩ  oblastında 
+harmonikdir, onda (3.3) şərtinə görə ixxV Ω∈≡ ,0)(0 .  
+Bu o deməkdir ki, 
+Sx
+n
+xV
+i
+∈=
+∂
+∂
+,0
+)(0 .                          (3.4) 
+ 158
+ Keçən paraqrafın (5.14) düsturuna görə, (3.1) və (3.4) 
+bərabərliklərindən 0)(0 ≡xτ  alarıq. Deməli, (2.80) bircins 
+tənliyinin yalnız eynilik kimi sıfır həlli var. Onda Fredholmun ikinci 
+teoreminə görə, qoşma (2.30) tənliyinin də ancaq sıfır həlli var. 
+Beləliklə, Fredholmun birinci teoreminə əsasən, (2.3) və (2.8) 
+tənliklərinin, ixtiyari )(),( xx ψϕ  kəsilməz funksiyaları üçün yeganə 
+həlləri var. 
+ Bu deyilənləri aşağıdakı şəkildə yekunlaşdıra bilərik. 
+ Teorem 3.1. İxtiyari qapalı S  Lyapunov səthi və bu səth 
+üzərində verilmiş kəsilməz )(xϕ  funksiyası üçün daxili Dirixle 
+məsələsinin yeganə həlli var və bu həll ikiqat lay potensialı şəklində 
+göstərilə bilər. 
+ Teorem 3.2. İxtiyari qapalı S  Lyapunov səthi və bu səthin 
+üzərində verilmiş kəsilməz )(xψ  funksiyası üçün xarici Neyman 
+məsələsinin yeganə həlli var və bu həll sadə lay potensialı şəklində 
+göstərilə bilər. 
+ İndi (2.4) və (2.7) qoşma inteqral tənliklərinin tədqiqinə 
+keçək. 
+ Keçən fəsildə hesabladığımız (3.2) Qauss düsturundan 
+görünür ki, 1)(0 ≡xµ  funksiyası (2.4) tənliyinə uyğun bircins  
+ 
+ 
+0
+1
+)(
+||)2(
+2
+)(
+2
+1
+=
+∂
+∂
+−
++ ∫ −
+S
+m Sdrm
+x ξν
+ξµ
+σ
+µ       (2.40) 
+tənliyinin həllidir. Deməli, 
+||)2(
+2
+1σ−
+−
+m
+ ədədi (2.40) tənliyinin 
+xarakteristik qiymətidir. Onda Fredholmun ikinci teoreminə görə bu 
+qiymət qoşma tənlik üçün də xarakteristik qiymətdir, yəni 
+0
+1
+)(
+||)2(
+2
+)(
+2
+1
+=
+∂
+∂
+−
++ ∫ −
+S
+m Sdrnm
+x ξξτσ
+τ       (2.70) 
+tənliyinin də heç olmasa bir sıfırdan fərqli )(0 xτ  həlli var. Göstərək 
+ 159 
+ki, bu tənliyin )(0 xτ -lə xətti asılı olmayan başqa həlli yoxdur. 
+ Bu məqsədlə sıxlığı )(0 xτ  olan sadə lay potensialı 
+∫ −=
+S
+m Sdr
+xV ξξτ 200
+1
+)()(  
+düzəldək. )(0 xτ  funksiyasının (2.70) tənliyini ödəməsi  
+Sx
+n
+xV
+i
+∈≡
+∂
+∂
+,0
+)(0                           (3.5) 
+deməkdir. Sadə lay potensialı olmaqla, iΩ  oblastında harmonik olan 
+)(0 xV  funksiyası, (3.5) bircins Neyman şərtini ödədiyindən, daxili 
+Neyman məsələsinin həllinin yeganəliyi teoreminə əsasən, iΩ  
+oblastında eynilik kimi sabitdir constCxV =≡ 00 )( . 
+ Lemma 3.1. Sadə lay potensialı )(0 xV  iΩ  oblastında 
+eynilik kimi sıfırdırsa, onda bu potensialın sıxlığı da eynilik kimi 
+sıfırdır. 
+ Doğrudan da, )(0 xV  funksiyasının kəsilməzliyindən, onun 
+S  sərhəddi üzərində də eynilik kimi sıfır olduğunu alarıq. Bu 
+funksiya eΩ  oblastında Dirixle məsələsinin sıfır sərhəd şərtini 
+ödəyən həlli olardı. Onda exxV Ω∈≡ ,0)(0  alardıq. Bu isə, öz 
+növbəsində, 
+Sx
+n
+xV
+e
+∈=
+∂
+∂
+,0
+)(0                           (3.6) 
+demək olardı. Alınan (3.5) və (3.6) bərabərliklərindən, keçən fəsilin 
+(5.14) düsturuna görə, 0)(0 ≡xτ  alardıq. Lemma göstərir ki, 
+00 ≠C  olmalıdır. 
+ İndi tutaq ki, (2.70) tənliyinin )(0 xτ -dən fərqli hər hansı 
+)(1 xτ  həlli də var. Bu sıxlıqla  
+ 160
+ 
+∫ −=
+S
+m Sdr
+xV ξξτ 211
+1
+)()(  
+sadə lay potensialı düzəldək. Yuxarıdakı qayda ilə göstərə bilərik ki, 
+ix Ω∈  üçün, constCxV =≡ 11 )( . 
+ İki həllin xətti kombinasiyası kimi  
+)()()( 10012 xCxCx τττ −=  
+funksiyası da (2.70) tənliyinin həllidir. Bu həllin köməyilə düzəl-
+dilmiş 
+)()(
+1
+)()( 1001222 xVCxVCSdr
+xV
+S
+m −== ∫ − ξξτ  
+sadə lay potensialı üçün, ix Ω∈  oblastında  
+0)( 10012 =−= CCCCxV   
+alardıq. Onda yuxarıdakı lemmaya görə, sıxlıq 0)(2 ≡xτ  olardı. Bu 
+isə o deməkdir ki, )()( 0
+0
+1
+1 xC
+Cx ττ = , yəni )(0 xτ  və )(1 xτ  həlləri 
+xətti asılıdır. Deməli, (2.70) bircins tənliyinin yalnız bir xətti asılı 
+olmayan həlli var. Onda Fredholmun ikinci teoreminə görə, (2.40) 
+tənliyinin də ancaq bir xətti asılı olmayan həlli var. Fredholmun 
+üçüncü teoreminə əsasən, (2.7) tənliyinin həlli olması üçün zəruri və 
+kafi şərt, onun sağ tərəfinin vahidə ortoqonal olmasıdır 
+0)( =∫
+S
+Sdξξψ .                             (3.7) 
+ Yenə həmin teoremə görə, (2.3) tənliyinin həlli olması üçün 
+zəruri və kafi şərt onun sağ tərəfinin (2.70) tənliyinin )(0 xτ  həllinə 
+ortoqonal olmasıdır 
+0)()(0 =∫
+Ω
+Sdξξϕξτ .                         (3.8) 
+ 161 
+ Deyilənləri aşağıdakı teoremlər şəklində yekunlaşdıra 
+bilərik.  
+ Teorem 3.3. İxtiyari qapalı S  Lyapunov səthi və bu səth 
+üzərində verilmiş kəsilməz )(xϕ  funksiyasına görə xarici Dirixle 
+məsələsinin ikiqat lay potensialı şəklində göstərilə bilən həllinin 
+varlığı üçün zəruri və kafi şərt (3.8) bərabərliyinin ödənməsidir. 
+ Teorem 3.4. İxtiyari qapalı S  Lyapunov səthi və səth 
+üzərində verilmiş )(xψ  kəsilməz funksiyasına görə daxili Neyman 
+məsələsinin həllinin olması üçün zəruri və kafi şərt (3.7) 
+bərabərliyinin ödənməsidir. Məsələnin həlli varsa, onu sadə lay 
+potensialı şəklində göstərmək olar. 
+ Qeyd 3.1. Yuxarıdakı (3.8) şərti ödənmirsə, (2.4) inteqral 
+tənliyinin həlli yoxdur. Bu hələ xarici Dirixle məsələsinin həllinin 
+olmaması demək deyil. Bu ancaq o deməkdir ki, məsələnin həlli 
+ikiqat lay potensialı şəklində göstərilə bilmir.  
+ 
+ 
+§4. Xarici Dirixle məsələsinin həlli. 
+ 
+ Xarici Dirixle məsələsinin həll olunması üçün (3.8) şərti ona 
+görə alınır ki, biz məsələnin həllini ikiqat lay potensialı şəklində 
+axtarmaqla, həllin üzərinə ∞→||x -da )||( 1 mxO −  şəklində sıfıra 
+yaxınlaşma tələbi qoyuruq. Lakin funksiyanın qeyri-məhdud 
+oblastda harmonikliyi üçün onun )||( 2 mxO −  şəklində sıfıra 
+yaxınlaşması kifayətdir. 
+ Ümumiliyi pozmadan, fərz edək ki, koordinat başlanğacı S  
+Lyapunov səthinin əhatə etdiyi iΩ  daxili oblastına daxilidir. Xarici 
+eΩ  oblastı üçün Dirixle məsələsinin həllini  
+ 162
+22 ||
+1)()(
+−−
++
+∂
+∂
+= ∫ m
+S
+m x
+Sd
+r
+xu α
+ν
+ξµ ξ            (4.1) 
+şəklində axtaraq, burada )(ξµ  S  səthi üzərində təyin olunmuş 
+məchul funksiya, α  isə hələlik məchul sabitdir. 
+ Bərabərliyin sağ tərəfindəki toplananların hər biri harmonik 
+funksiya olduğundan, (4.1) bərabərliyinin təyin etdiyi )(xu  
+funksiyası eΩ  oblastında harmonik funksiyadır. Bu funksiyanın 
+xarici Dirixle məsələsinin həlli olması üçün S  səthi üzərində 
++
+∂
+∂
+−
++ ∫ −
+S
+m Sdrm
+x ξν
+ξµ
+σ
+µ 2
+1
+1)(
+||)2(
+2)(  
+||)2(
+)(2
+||||)2(
+2
+1
+2
+1 σ
+ϕα
+σ −
+=⋅
+−
++
+− m
+x
+xm m
+      (4.2) 
+münasibəti ödənməlidir. 
+ Yuxarıda aldığımız (3.8) şərtinə görə, (4.2) tənliyinin həll 
+olunması üçün zəruri və kafi şərt  
+0
+||
+)()(
+20
+=⎥
+⎦
+⎤
+⎢
+⎣
+⎡
+−∫ −
+S
+m Sdξξ
+α
+ξϕξτ                  (4.3) 
+şərtinin ödənməsidir, burada )(0 xτ  (2.70) tənliyinin  yeganə triviyal 
+olmayan həllidir. Biz yuxarıda göstərdik ki, sıxlığı bu )(0 xτ  həlli 
+olan  
+||,
+1
+)()(
+200
+yxrSd
+r
+xV
+S
+m −== ∫ − ξξτ  
+sadə lay potensialı, ix Ω∈  nöqtələri üçün eynilik kimi sabitdir və 
+həm də bu sabit sıfır deyil 0)( 00 ≠≡ CxV . Bu 0C  sabitini vahid 
+götürmək olar. Çünki əks halda, (2.70) tənliyinin )(0 xτ  həlli 
+ 163 
+əvəzinə 
+0
+0 )(
+C
+xτ
+ həllini götürərdik və sıxlığı 
+0
+0 )(
+C
+xτ
+ olan sadə lay 
+potensialı 
+ 
+i
+S
+m xSdrC
+xV Ω∈≡⋅= ∫ − ,1
+1)(
+)(
+2
+0
+0
+0 ξ
+ξτ
+ 
+olduğundan, xüsusi halda 0=x  götürməklə, 
+ 
+1
+||
+1
+)(
+20
+=∫ −
+S
+m Sdξξ
+ξτ  
+bərabərliyini alarıq.  
+ Beləliklə, (4.2) tənliyinin həll olunanlığı üçün (4.3) zəruri 
+və kafi şərtindən, (4.1) göstərişindəki α  sabitini 
+ 
+∫=
+S
+Sdξξϕξτα )()(0  
+şəklində taparıq. 
+ Bununla, aşağıdakı teoremi söyləyə bilərik. 
+ Teorem 4.1. İxtiyari qapalı S  Lyapunov səthi və bu səth 
+üzərində verilmiş kəsilməz )(xϕ  funksiyası üçün xarici Dirixle 
+məsələsinin həlli var bu həll ikiqat lay potensialı ilə  
+ 
+∫−
+S
+m Sdx ξ
+ξϕξτ )()(
+||
+1
+02
+ 
+toplananın cəmi şəklində göstərilə bilər. 
+ 
+ 164
+Ə D Ə B İ Y Y A T 
+1.  С.Г.Михлин. Линейные уравнения в частных производных. 
+Москва, «Высшая школа», 1977. 
+2.  А.В.Бицадзе. Уравнения математической физики. Москва, 
+«Наука», 1982. 
+3.  С.Л.Соболев. Уравнения математической физики. Москва, 
+«Наука», 1966. 
+4.  М.М.Смирнов. Дифференциальные уравнения в частных 
+производных второго порядка. Москва, «Наука», 1964. 
+5.  И.Г.Петровский. Лекции об уравнениях с частными произ-
+водными. Государственное издательство физико-математи-
+ческой литературы, Москва, 1961. 
+6.  A.N.Tixonov, A.A.Samarskiy. Riyazi fizika tənlikləri. Azər-
+baycan Dövlət tədris-pedaqoji ədəbiyyatı nəşriyyatı, Bakı, 1962. 
+7.  В.С.Владимиров. Уравнения математической физии. Москва, 
+«Наука», 1967. 
+8.  В.Я.Арсенин. Методы математической физики и специальные 
+функции. Москва, «Наука», 1974. 
+9.  Г.Н.Положий. Уравнения математической физики. Москва, 
+«Высшая школа», 1964. 
+10. Н.С.Кошляков, Э.Б.Глинер, М.М.Смирнов. Основные диффе-
+ренциальные уравнения математической физики. Госу-
+дарственное издательство физико-математической литера-
+туры, Москва, 1962. 
+ 
+ 
+ 

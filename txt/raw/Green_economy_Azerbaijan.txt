@@ -1,0 +1,3523 @@
+1
+2 
+Copyright © United Nations Environment Programme, 2012
+This publication may be reproduced in whole or in part and in any form 
+for educational or non-profit purposes without special permission from 
+the copyright holder, provided acknowledgement of the source is made. 
+UNEP would appreciate receiving a copy of any publication that uses this 
+publication as a source.
+No use of this publication may be made for resale or for any other 
+commercial purpose whatsoever without prior permission in writing from 
+UNEP.
+Citation: UNEP, 2012, Green Economy Scoping Study – Azerbaijan
+The designations employed and the presentation of the material in this 
+publication do not imply the expression of any opinion whatsoever on the 
+part of the United Nations Environment Programme concerning the legal 
+status of any country, territory, city or area or of its authorities, or concerning 
+delimitation of its frontiers or boundaries. Moreover, the views expressed 
+do not necessarily represent the decision or the stated policy of the United 
+Nations Environment Programme, nor does citing of trade names or 
+commercial processes constitute endorsement.
+UNEP promotes 
+environmentally sound 
+practices globally and in its 
+own activities.  This publication is 
+printed using eco-friendly practices.  
+Our distribution policy aims to reduce 
+UNEP’s carbon footprint.
+Photo credits:  Government of Azerbaijan
+Map credits:  UNEP/GRID-Arendal
+ 
+3
+List of acronyms iv
+List of figures iv
+List of tables iv
+Acknowledgements  v
+Executive summary  2 
+1 Introduction  6 
+2	 Macro-economic	profile	and	overarching	challenges	to	the	economy	 	8	
+  
+  2.1 Environment footprint 10
+  2.2 Social and economic profile 10 
+  2.3 Policy landscape 11 
+3	 Key	sectors	identified	for	greening	the	economy	 14	
+ 
+  3.1 Energy production 14 
+  3.2 Agriculture 19 
+  3.3 Transport 22 
+4	 Enabling	conditions	 26	
+  4.1 Regulations and standards 26 
+  4.2 Fiscal policy instruments 28 
+  4.3 Institutional and policy processes to support reform  29 
+  4.4 Financing a green transition 31 
+5	 Key	findings	 32	
+6	 Conclusions	 34	
+Annexes   36 
+Notes    47
+References 51 
+Contents
+4 iv
+List of tables
+Table 1 GDP sectoral breakdown
+Table 2  List of state programmes, 
+strategies and actions plans
+Table 3  Development dynamics of 
+agricultural indicators 
+List of figures
+Figure 1 GDP of Azerbaijan – real growth 
+rate 1999-2010 
+Figure 2 GDP per capita (PPP) 1999-2010 
+Figure 3 Export and import levels (in US$ 
+millions) 
+Figure 4 Current account balance to GDP, 
+2004-2009
+Figure 5 Azerbaijan’s natural gas 
+production and consumption, 
+2001-2009 
+Figure 6  Azerbaijan’s oil production and 
+consumption, 1999-2009
+Figure 7 Environmental and pollution 
+issues in Azerbaijan
+Figure 8 Air emissions trends – 1000 t/y, 
+2000-2009 
+List of annexes
+Annex 1 Total emission of pollutants into 
+the air, 2000-2009
+Annex 2 Emissions of individually-listed 
+pollutants from stationary sources, 
+2000-2009
+Annex 3 Rate of abated emissions, 2000-
+2009
+Annex 4  Selected economic and 
+environmental indicators
+List of acronyms
+ADB Asian Development Bank 
+AZN Azerbaijani manat
+BAU  Business-as-usual
+CDM Clean Development Mechanism
+CIA Central Intelligence Agency
+EBRD European Bank for Reconstruction 
+and Development 
+EIA Energy Information Administration 
+FAO Food and Agriculture Organization 
+of the United Nations
+GEF Global Environment Facility
+GER Green Economy Report
+GHGs Greenhouse gas emissions
+GSI Global Subsidies Initiative 
+IEA International Energy Agency 
+IISD International Institute for 
+Sustainable Development
+ITF International Transport Forum
+NAMAs Nationally Appropriate Mitigation 
+Actions 
+NEAP National Environmental Action 
+Plan 
+NRDC Natural Resources Defense 
+Council. 
+PRC People’s Republic of China 
+R&D Research and development
+ROA Republic of Azerbaijan 
+RPS Renewable Performance 
+Standards
+SCP Sustainable Consumption and 
+Production 
+SOCAR State Oil Company of Azerbaijan 
+Republic 
+SPPRSD  State Program on Poverty 
+  Reduction and Economic
+  Development 
+SPSED State Program on Social-
+Economic Development of 
+Regions 
+TCF Trillion cubic feet
+TRACECA Transport Corridor Europe
+    Caucasus Asia
+UNFCCC  United Nations Framework
+    Convention on Climate Change
+US EPA United States Environmental 
+Protection Agency
+UNEP United Nations Environment 
+Programme
+UNECE United Nations Economic 
+Commission for Europe
+WHO World Health Organization
+5iii
+Acknowledgements
+This report would not have been possible without a coordinated effort of the 
+team of national experts under the leadership of the National Academy of 
+Sciences of Azerbaijan and its president, Academician Mahmud Kerimov.
+The UNEP coordination team was led by Mahir Aliyev, Moustapha Kamal 
+Gueye and Rie Tsutsumi under the guidance of Jan Dusik and Steven Stone. 
+Technical input was provided by Luc Reuter and research support was provided 
+b Dipankar Aich.  Editing and layout was prepared by Diwata Hunziker. 
+Special thanks to the International Institute for Sustainable Development for 
+their analytical work and drafting of the final report in English, and in particular 
+to Philip Gass, Jason Dion and David Sawyer. 
+UNEP would like to thank the Government of Norway for their generous 
+financial support towards the production of this report.
+8 
+9
+2 
+Azerbaijan has made significant strides in 
+improving its economy over the past decade, 
+as it embarked on a market-based economy 
+and recovered from a significant downturn 
+following the breakup of the Soviet Union. 
+As a result, the government is now looking to 
+implement a policy that will bring about the 
+country’s transition to a low-carbon, resource 
+efficient and socially inclusive economy. This 
+study presents an assessment of Azerbaijan’s 
+economy, looking at ways that will foster its 
+transition to a green economy.
+Many of Azerbaijan’s current challenges are 
+rooted in the break-up of the former Soviet 
+Union which caused a significant downturn 
+in the early 1990s. With a growing population 
+of 8.78 million, the country faces challenges 
+in terms of its poverty rate, currently at 9.1 
+per cent. However, it has made great gains in 
+this regard with a strong downward trajectory 
+since 2001 when 49 per cent of the population 
+were considered poor. The rate is expected 
+to continue to fall due to the government’s 
+focused action and an improved economy. 
+This puts Azerbaijan on track to achieve its 
+Millennium Development Goals (MDG) of 
+bringing down poverty rates to 6.7 per cent of 
+the population by 2015. 
+Unemployment is also an issue, and like 
+poverty a significant improvement has been 
+observed since early 2000.  Its rate has been 
+falling from a high of 10.7 per cent in 2003 to 
+its current level of approximately 6 per cent. 
+Nevertheless, regional disparities still exist.  
+Azerbaijan has one of the fastest growing 
+economies in the world, largely due to its 
+oil production.  The country is well endowed 
+with fossil fuel resources, and oil production 
+has expanded dramatically in Azerbaijan’s 
+recent history. Between 1997 and 2008, 
+oil production increased almost five-fold – 
+85 per cent of which was exported, giving 
+the country a favourable current account 
+balance and fiscal position.  The expansion 
+of oil production has produced remarkable 
+growth rates in Azerbaijan, averaging 17 
+per cent between 1999 and 2009 (see Figures 
+Executive summary 
+Figure 1.  GDP of Azerbaijan – real growth rate 1999-2010 (Source: United States Central 
+Intelligence Agency. The World Factbook: Azerbaijan. CIA, 2011)
+3
+1 and 2).  Oil revenues have made it possible 
+for the government to embark upon a highly 
+expansionary fiscal policy to combat poverty 
+and support growth while remaining in fiscal 
+surplus. In addition, oil revenues have kept the 
+country’s trade balance in significant surplus.  
+The country faces challenges related to its 
+fossil fuels, which are considered a finite1 
+resource and are expected to eventually 
+reach its peak. This, coupled with a legacy of 
+aging Soviet-era infrastructure and a history 
+of environmental degradation associated with 
+fossil fuel development, is a concern. For these 
+reasons, Azerbaijan is seeking to diversify its 
+economy, looking at other economic sectors 
+beyond oil. The combination of these factors 
+is providing the impetus for Azerbaijan to 
+look at ways to diversify its economy through 
+a transition to a green economy that would 
+allow for long-term economic stability and 
+the creation of new economic assets while 
+addressing environmental and social concerns 
+as part of the economic structure.  
+In the interest of exploring the opportunities 
+that a green economy presents for Azerbaijan, 
+this study examined three key economic 
+sectors – energy, agriculture and transport – 
+and their related challenges in order to offer 
+suggestions on how to ensure such a transition. 
+The analysis revealed a few key priority areas 
+for intervention which are summarised below:
+Energy:
+• Increase efficiency and renewable energy 
+capacity;
+• Provide subsidy and incentive reform in 
+energy production; and
+• Facilitate transition away from fossil fuels.
+• 
+Agriculture:
+• Promote stronger supply chains;
+• Enhance public-private partnerships with 
+agri-business;
+• Support education and capacity building; 
+and
+• Enforce regulation on agricultural inputs 
+and outputs.
+Figure 2.  GDP per capita (PPP) 1999-2010 (Source: United States Central Intelligence 
+Agency. The World Factbook: Azerbaijan. CIA, 2011)
+4 
+Transport:
+• Increase investment in public transit 
+options;
+• Enhance regulatory oversight; and
+• Promote investment in clean vehicle 
+technology.
+In order to achieve these actions and enable the 
+transition to a green economy, the Government 
+of Azerbaijan will have to put in place enabling 
+conditions for a more sustainable consumption 
+and production, and encourage green actions 
+and decision-making from both consumers 
+and the private sector alike.  Some of the 
+enabling conditions Azerbaijan could consider 
+implementing in the interest of encouraging 
+sustainable development and a shift to a green 
+economy policy framework include: 
+Public procurement plans across all 
+sectors, all sectors, with the goal of fostering 
+implementation of new technologies, and 
+signalling that the government is leading by 
+example.
+For example: Mandating clean technology 
+procurement for government owned vehicles 
+(i.e. plug-in hybrid, very high fuel efficiency 
+models).
+Strong regulatory systems designed to 
+mandate change, increase environmental 
+controls and restore market confidence.
+For example:  Implementing a Renewable 
+Performance Standard for major energy-
+producers that would require them to certify that 
+a certain percentage of electricity production is 
+derived from clean or renewable sources, and 
+raising this percentage over time.
+Subsidy	 and	 fiscal	 instrument	 reform, 
+which includes eliminating perverse subsidies 
+and reforming inefficient ones. Other fiscal 
+instruments such as carbon taxes, cap-
+and-trade and loan guarantees should also 
+be considered.  Examination of potential 
+investment partnerships with green private 
+sector-businesses can also support the 
+transition to a low-carbon development.
+For example: Subsidies for sustainable 
+farming practices or investments in diffusion 
+of sustainable farming technology and 
+knowledge.
+Global	 financing, using Azerbaijan’s 
+experience in accessing international funding 
+sources to fund projects that promote a green 
+economy or some of its aspects.  Developing a 
+list of Nationally Appropriate Mitigation Actions 
+(NAMAs) may also be worth considering.
+A clear, stable and predictable approach 
+to putting in place enabling conditions or 
+undertaking market interventions by the 
+government is essential to sustain market 
+confidence and minimize unintended side-
+effects.  As a country transitions to a green 
+economy, it is also important to consider 
+potential negative short-term impacts on 
+traditional ‘brown’ sectors, e.g., decline in 
+production and additional costs related to 
+the internalisation of externalities, as well as 
+possible ways to offset such impacts through 
+the development of and investment in green 
+sectors and long-term economic planning.
+Finally, it is important to highlight the potential 
+role of Azerbaijan’s oil revenues as a funding 
+source for the transition to a green economy, 
+either directly, or through different market 
+mechanisms, such as the development of cap-
+and-trade.  In this regard, Azerbaijan may have 
+a critical advantage over most other countries. 
+Having such an abundant funding base could 
+offer the country a key opportunity to scale-
+up investment in new, dynamic, employment-
+intensive and resource-efficient sectors and 
+activities. These domestic funds can also be 
+used to leverage international funding, private 
+capital and donor financing.  Using these 
+fossil fuel revenues to fund a transition to a 
+more sustainable and environment-friendly 
+long-term economic framework is a unique 
+opportunity that must be seized.
+5
+Figure 3.  Export and import levels (in US$ millions) (Source: The World Bank. Azerbaijan 
+at a Glance. 2011.)16
+Figure	4.	Current	account	balance	to	GDP,	2004-200916
+6 
+The first step in scoping a green economy 
+plan for Azerbaijan is to analyse the concept. 
+The given definition of the green economy 
+from UNEP is based on the idea of decoupling 
+resource use and environmental impacts 
+from economic growth. Policy reforms and 
+investments are made in sectors that promote 
+both economic growth and environmental 
+sustainability. The result of these investments 
+is a transition from traditional brown economic 
+sectors to more environmentally sustainable, 
+resource efficient green practices that 
+offer long-term economic growth, reducing 
+emissions, improving social conditions, 
+creating jobs and reducing waste. Developing 
+new green sectors that are based on these 
+economic principles is also a major focus in 
+addition to tranforming existing ones. 
+There is no generic model for a green economy; 
+each country has unique opportunities, 
+strengths and challenges.  Investment in the 
+green economy can occur at the sectoral level 
+where opportunities, or needs, call for green 
+transition. The transition to a green economy 
+requires partnership from both the public 
+and private sectors. The public sector puts 
+enabling conditions and policies in place, and 
+then the green economy emerges from actions 
+of the private sector and consumers to act in a 
+sustainable manner.
+The specific case of Azerbaijan is no less 
+unique. The country has seen a great deal of 
+economic development while transitioning to a 
+market-based economy, in large part because 
+of the development of oil and gas reserves. 
+Since the breakup of the Soviet Union, industry, 
+in particular energy, has increased significantly 
+making up 50 per cent of GDP, while oil 
+production has quadrupled from 1999 to 2009, 
+when it surpassed 1 million bpd.2 Despite 
+its economic development, the government 
+realizes that there is a need to plan for a future 
+that will be less reliant on fossil fuel production 
+and ensure that financial flows are directed to 
+other economic sectors. Undertaking a green 
+economy transition now allows the country to 
+take advantage of current growing oil revenues 
+and invest in the development of non-oil 
+sectors, thus facilitating its transition to more 
+efficient economic processes and sustainable 
+consumption and production. 
+The objective of this study is to provide a 
+scoping exercise for the Republic of Azerbaijan 
+(ROA) on how it can transition its key sectors 
+of energy, agriculture and transportation onto 
+a green economy pathway. These sectors are 
+chosen because of their central importance to 
+the Azerbaijan’s economy, their contribution to 
+greenhouse gas emissions and the importance 
+of their long-term viability for the protection of 
+social and environmental needs of the country. 
+The scoping study can be used as a tool by 
+the ROA in formulating policy development in 
+these sectors and in enabling the continued 
+transition of the country’s economy.
+The basis of this report consists of a study 
+conducted by the National Academy of 
+Sciences and several research contributions 
+by UNEP and other independent research 
+institutions.  The International Institute for 
+Sustainable Development (IISD) provided 
+research assistance, relying on UNEP 
+publications, including the Green Economy 
+Report.
+1 Introduction
+7
+UNEP defines a green economy as one 
+that results in improved human well-being 
+and social equity, while significantly 
+reducing environmental risks and 
+ecological scarcities.
+8 
+Azerbaijan has one of the fastest growing 
+economies in the world.  Net exports (see 
+Figure 3), fuelled by substantial new oil and gas 
+production, are the major drivers of growth,3 
+and this growth would not have been possible 
+without the substantial investment that has 
+occurred in the oil and gas sectors in the past 
+two decades. Growth rates, while negative 
+in the turbulent 1990s, averaged 17 per cent 
+between 1999 and 2009.  But as a result of 
+the global financial crisis, the country’s growth 
+rates have slowed down - from 5 per cent in 
+20104 to below 1 per cent in 2011.5
+The production and refining of oil and gas 
+form the bedrock of Azerbaijan’s economy.6 
+Extractive industries constituted 80 per cent 
+of Azerbaijan’s industrial output in 2008, and 
+earnings from the sale of hydrocarbons made 
+up 90 to 95 per cent of export revenue.7  This is 
+helping to create a two-track economy, where a 
+fast-growing international hydrocarbon sector 
+accounts for most of the country’s investments 
+and export income, contrasted with a non-
+oil-related inefficient internal economy sector 
+that cannot compete with imports or generate 
+exports.8
+Table 1.  GDP sectoral breakdown9
+Sectors %
+Industry 50.0
+Social and informal services 11.7
+Transport and communications 8.6
+Trade 8.0
+Other 7.6
+Construction 7.4
+Agriculture 6.7
+Table 1 provides a sectoral breakdown of 
+Azerbaijan’s economy.  It shows that industry, 
+at 50 per cent, makes up a major component of 
+GDP, while agriculture, which is less developed 
+and despite its importance in employment, 
+makes up a relatively small share of GDP at 
+6.7 per cent.  
+According to official statistical data provided 
+by the National Academy of Sciences, the 
+agriculture, transport, services and non-oil-
+related construction sectors are all projected 
+to make up an increasing share of GDP in the 
+near future, with agriculture and construction 
+both rising in the short-term to 13 per cent 
+of GDP, and services to 21.5 per cent. Much 
+of the growth in the service sector comes 
+from tourism.  Additionally, strong growth is 
+anticipated in communication and information 
+technology sectors in the short-term.  Growth 
+in these sectors is expected to significantly 
+decrease the share of industry in GDP in 
+the future, despite growth in the mining and 
+manufacturing components.  It is important to 
+note that the bulk of the growth in these sectors 
+will come from private sector components, 
+even though growing government spending 
+and investment will support growth.10
+Fiscal policy has been highly expansionary in 
+Azerbaijan due to government efforts to support 
+growth and combat poverty.11  Oil revenues have 
+made this possible without the country having 
+to assume a large debt burden. In fact, these 
+revenues, which increased eight-fold between 
+2001 and 2008, have given Azerbaijan’s 
+government budget a significant surplus, 
+allowing the country to enjoy a comfortable net 
+creditor position.12 Azerbaijan’s external debt is 
+low, at 4 per cent of GDP, and only about one-
+fifth of it is short-term debt.13 
+2 Macroeconomic profile and
+ overarching challenges to the
+ economy
+9
+The country’s trade balance has been largely in 
+surplus since 2005, which is almost entirely due 
+to oil revenues (see Figure 3).  Exports greatly 
+exceed imports by a factor of approximately 
+3.5.14  In 2009, these contracted sharply due 
+to the global financial crisis and subsequent 
+recession, but are already showing signs of 
+strong recovery. In 2009, the current account 
+surplus fell to around 24 per cent of GDP before 
+recovering to nearly 31 per cent of GDP in 
+2010 (see Figure 4).15  While this strong current 
+account position is an asset to Azerbaijan’s 
+economy, the country’s high dependence 
+on fossil fuel exports makes it vulnerable to 
+possible market fluctuations.
+Azerbaijan has relatively low resource-efficiency. 
+Current modes of capture, distribution and use 
+of natural resources are highly wasteful (e.g., 
+the practice of flaring natural gas) and have 
+led to significant environmental degradation, 
+as outlined in Figure 7. The country needs to 
+address these issues of production efficiency 
+in order to proceed with meaningful green 
+economy reform. and to move toward modes of 
+sustainable consumption and production (SCP) 
+to ensure natural resources efficiency.  
+SCP entails comprehensive changes in 
+production and consumption patterns that 
+require changes to how products and services 
+are designed, produced, used and disposed of, 
+as well as to the type and nature of products that 
+are produced and consumed. SCP considers 
+the entire lifecycle of a product, rather than 
+merely its production stage.  And while the low 
+resource-efficiency in Azerbaijan highlights 
+the need for SCP, addressing resource use in 
+isolation will not be sufficient in the move to a 
+green economy, since it does not include the all-
+important systems view necessary to overcome 
+environmental challenges. Fortunately, the 
+country is in an economic position to carry out 
+the needed investment. It is projected that the 
+country’s sound fiscal position will remain in the 
+foreseeable, and therefore, the country is in 
+an advantageous position because it can use 
+its revenues from fossil fuel resources to shift 
+to a green economy. Furthermore, additional 
+economic benefits are expected as a result of 
+more efficient production, such as the capture 
+and use of flared natural gas17 for energy and 
+the capture of vented carbon dioxide for use in 
+enhanced oil recovery.
+Imports
+Exports
+Figure 3. Export and import levels (in US$ millions) (Source: The World Bank. Azerbaijan at 
+a Glance. 2011.)
+10 
+2.1 Environmental footprint
+In terms of resource endowments, Azerbaijan 
+holds substantial offshore hydrocarbon 
+resources (found under the Caspian Sea) that 
+are estimated to constitute 0.6 per cent of world 
+oil reserves and 0.7 per cent of global natural 
+gas reserves.18  While these resources are 
+an important contributor to economic growth, 
+they generate just a little over 1 per cent of 
+total employment.19  Azerbaijan is also well-
+endowed with alternative energy resources, 
+but these remain underdeveloped.20  Like many 
+other resource-exporting former Soviet Union 
+countries, Azerbaijan uses its energy resources 
+by flaring off natural gas, using heavy oil for 
+electricity generation, and general inefficiency 
+of energy-using equipment among the principal 
+factors.21
+Industrial emissions in Azerbaijan are mostly 
+concentrated in Baku and Sumgayit, and 
+associated with the oil industry. But the most 
+important environmental problems the country 
+faces involve pollution caused in the past.  The 
+long history of oil exploitation in the country 
+has left Azerbaijan with a massive legacy of oil 
+and other chemical pollution, both land-based 
+and offshore.22 The Absheron Peninsula (which 
+includes Baku and Sumqayit) and the Caspian 
+Sea are considered to be one of the ecologically 
+most devastated areas in the world because of 
+severe air, soil and water pollution.23   Air pollution 
+has to some extent dropped since 1991, but this 
+has been caused by industrial contraction rather 
+than conscious mitigation. The same industrial 
+contraction has reduced the ability of industry 
+to take on some of the burden of past pollution. 
+This, coupled with serious curtailment of 
+investment in public infrastructure, including its 
+environmental components (water, wastewater 
+treatment, and waste management)24 has left 
+a legacy of many environmental problems. 
+However, there is growing recognition of the 
+issue at the state level, and investment in 
+environmental protection has significantly 
+increased in recent years.
+2.2 Social and economic
+ profile
+Azerbaijan has a population of 9.49 million 
+people, the largest among the countries of the 
+South Caucasus, with significant changes in 
+demographic factors observed in the last ten 
+years.  The fertility rate is rising and since 2002 
+the birth rate has increased by 28 per cent.25 
+While there is a negative migration rate, the 
+population is growing gradually every year.26
+The agricultural sector is one of the biggest 
+employers in Azerbaijan, with over one-third of 
+the labour force working in the sector, despite 
+its relatively low share of GDP. There are 
+significant regional disparities in unemployment 
+rates, and recently many people have migrated 
+Figure	4.	Current	account	balance	to	GDP,	2004-200916
+11
+to the Absheron Peninsula in search for jobs and 
+opportunities.27 Unemployment in Azerbaijan 
+has been falling steadily since 2003, from 10.7 
+per cent, to its current level of approximately 6 
+per cent.28 
+Despite impressive economic growth in 
+the past 15 years, poverty has become a 
+significant problem in Azerbaijan.  As the Asian 
+Development Bank (ADB) indicates, it says a 
+lot about the difficulties of the transition process 
+that despite its oil wealth, Azerbaijan is plagued 
+by poverty, much of it new poverty.29 However, 
+progress has been made in recent years.  The 
+poverty rate has declined dramatically from 50 
+per cent in 200130 to approximately 9.1 per cent 
+in 2010,31 which means Azerbaijan in on track 
+to meet its Millennium Development Goal of 6.7 
+per cent poverty by 2015.  Similarly, significant 
+regional disparities still exist in unemployment, 
+with rural poverty being particularly pronounced. 
+Azerbaijan is a fairly unequal society in terms 
+of income distribution, with a Gini index of 36.5 
+per cent.32
+A move to green economy could significantly 
+contribute to poverty reduction. The link 
+between ecological scarcity and poverty is well-
+established.33    At the very least, a green economy 
+approach could prevent the further erosion of 
+natural capital stocks as a way of combating 
+poverty.  However, the links between green 
+economy and poverty are more beneficial34 than 
+it appears as a number of sectors with green 
+economic potential are particularly important 
+for the poor, such as agriculture, forestry, 
+fishery and water management.  In Azerbaijan, 
+in particular, the importance of agriculture is 
+clearly understood, as well as the ways in 
+which the energy sector can negatively impact 
+natural resources. Considering that these two 
+sectors are closely linked, a green economic 
+outlook would recognize the importance of an 
+energy sector protecting soil and water quality 
+within the energy sector to be beneficial to 
+the agricultural sector. Investing in greening 
+these sectors, including through scaling up 
+microfinance, is likely to benefit the poor in 
+terms of not only jobs but also in their livelihoods 
+that are predominantly based on ecosystem 
+services (i.e. agriculture).35  However, the report 
+also stresses that a shift to green economy 
+does not in itself assure desirable outcomes 
+in poverty reduction,36 and recommends that 
+green economy initiatives be crafted so as to 
+be “pro-poor” themselves, or to complement 
+existing initiatives seeking to address poverty.37
+2.3 Policy landscape 
+Azerbaijan’s National Environmental Action 
+Plan (NEAP) of 1997 identifies issues requiring 
+urgent action, including:
+• pollution caused by industries;
+• decrease of the sturgeon stock triggered 
+by pollution, over-fishing and a loss of 
+reproductive capacity;
+• deteriorating water quality, especially of 
+drinking water, both in rural and in urban 
+areas;
+• loss of fertile agricultural land from erosion, 
+salinization, pollution with heavy metals 
+and chemicals, and deteriorating irrigation 
+systems;
+• threats to protected areas leading to losses 
+in biodiversity;
+• loss of forest cover, mainly in areas affected 
+by the ongoing conflict between Armenia 
+and Azerbaijan;
+• damage to the Caspian coastal zone 
+caused by flooding from a rise in sea level 
+and pollution; and
+• deterioration of cultural heritage, due to 
+natural causes, aggravated by modern 
+environmental problems such as acid rain 
+and uncontrolled development.38
+12 
+No. State programme/strategy/action plan Implementation period (years)
+Main implementation 
+agency?
+Date/No. of 
+approved document
+Economic and regional development
+1
+State Program on Socio-Economic Develop-
+ment of the Regions of the Republic of Azer-
+baijan, 2009-2013
+2009-2013 Ministry of Economic 
+Development
+Presidential Degree 
+No. 80
+14 April 2009
+2
+State Programme of the Azerbaijan 
+Republic on Poverty Reduction and 
+Sustainable Development, 2008-2015
+2008-2015
+Ministry of Economic 
+Development
+Presidential Degree 
+No. 3043
+16 September 2008
+Energy supply
+3
+State Programme on Alternative and 
+Renewable Energy Resources in Azerbaijan 
+Republic
+2004–2013
+Ministry of Industry and 
+Energy
+Presidential Degree 
+No. 462
+21 October 2004
+4
+Governmental Programme on the 
+Developmenf the Fuel-Energy Complex in 
+Azerbaijan Republic
+2005–2015 Ministry of Industry and 
+Energy
+Presidential Degree 
+No. 635 
+of 14 February 
+Transport
+5
+Amendment to the Action Plan for 2008-
+2013 on Improving the Transport System 
+in Baku
+2008-2013
+Ministry of Transport
+Presidential Degree 
+No. 2930
+8 July 2008
+Employment
+6 Employment Strategy of Azerbaijan Republic
+2006-2015 Ministry of Labour and 
+Social Protection of 
+Population 
+Presidential Degree 
+No. 1068 
+16 October 2005
+7
+State Programme on Implementing 
+Employment Strategies in Azerbaijan 
+Republic
+2007-2010
+Ministry of Labour and 
+Social Protection of 
+Population
+Presidential Degree 
+No. 2167
+15 May 2007
+Environmental protection
+8
+National Programme on Environmentally 
+Sound Social-Economic Development in the 
+Republic of Azerbaijan
+2003–2010 Ministry of Ecology and 
+Natural Resources
+Presidential Degree  
+No. 1152
+18 February 2003
+9
+Additional Measures Associated with 
+Implementation of International Conventions 
+in the Field of Environmental Protection and 
+Biodiversity Conservation
+2006-2010 Ministry of Ecology and 
+Natural Resources
+Presidential Degree 
+No. 1396
+ 30 March 2006
+10
+Complex Action Plan for the Improvement 
+of the Ecological Situation in the Republic of 
+Azerbaijan
+2006-2010 Ministry of Ecology and 
+Natural Resources
+Presidential Degree 
+No. 1697 28 
+September 2006
+11
+State Programme on the Development and 
+Rational Use of the Natural Gas Fields in 
+the Absheron Peninsula 
+2003-2006 Ministry of Ecology and 
+Natural Resources
+Presidential Degree 
+No. 1242
+13 June 2003
+12
+State Programme on the Rational Use of 
+Summer-Winter Pastures and the Fight 
+againstCombating Deforestation 
+2004-2010 Ministry of Ecology and Natural Resources
+Presidential Degree 
+No. 222
+22 May 2004
+13 National Programme on Restoration and Expansion of Forests in Azerbaijan Republic
+Ministry of Ecology and 
+Natural Resources
+Presidential Degree 
+No. 1152
+ 18 February 2003
+14
+National Strategy and Action Plan for 
+Biodiversity Conservation and Sustainable 
+Development in Azerbaijan Republic 
+2006-2009 Ministry of Ecology and 
+Natural Resources
+Presidential Degree 
+No. 1368
+24 March 2006
+15
+Additional Measures Aimed at Fulfilling 
+the Obligations Specified in International 
+Conventions and Agreements to which 
+Azerbaijan is Party 
+Ministry of Ecology and 
+Natural Resources
+Presidential Degree 
+No. 1396
+30 March 2006 
+Table 2.  List of state programmes, strategies and action plans
+13
+The 1999 Law on Environmental Protection 
+establishes that environmental protection is 
+based on principles such as:
+• Solutions to social, economic, moral and 
+aesthetic problems; 
+• Effective use and rehabilitation of 
+ecosystems; 
+• Ensuring protection of biodiversity; 
+• Legal responsibility (polluter-pays) for 
+damages; 
+• Prevention of damages; 
+• Public participation in environmental 
+protection; and 
+• International co-operation.39 
+Strategic documents, such as the State 
+Programme on Poverty Reduction and Economic 
+Development (SPPRSD)40 and the State 
+Programmme on Social-Economic Development 
+of Regions (SPSED),41 outline environmental 
+priorities and set out policy goals.
+The Ministry of Ecology and Natural Resources, 
+established in 2001, is the key state actor in 
+the country’s development.42 Some primary 
+characteristics of state programmes and 
+policies, such as the SPSED, include the 
+development of the non-oil sector, infrastructure 
+growth, economic development and investment 
+in poverty reduction and employment.43 
+While most relevant planning documents do 
+not mention green economy, many of their 
+provisions are compatible with green economy 
+principles, and efforts are underway to make the 
+green economy more central to environmental 
+policy planning.  
+Potential environmental policy interventions 
+have been identified by Bloomington Energy 
+and Environmental Intelligence. In a report to 
+the  Ministry of Ecology and Natural Resources, 
+they proposed the following: reforming of 
+environmental, legal and regulatory institutions; 
+strengthening environmental monitoring and 
+its uses; raising public awareness and public 
+participation; engaging in recruiting and training; 
+and addressing the cleanup of oil pollution.44 
+The ADB also proposed a number of specific 
+policy interventions, and asserts that a second 
+NEAP is probably required to address the 
+shortcomings of the first, noting that this task is 
+made more difficult by the paucity of fresh data 
+in some instances.45
+Table 2 shows a list of state programmes, 
+strategies and actions plans that are determined 
+to have an influence on a green economy 
+transition. Many set out policies and targets for 
+future development of specific sectors, outlining 
+the context under which future transition will 
+occur.
+14 
+The sectors of energy production, agriculture 
+and transport have significant potential for 
+greening the economy.  In addition, the transition 
+of each sector will have important impacts on 
+the economy as a whole.  Each of these three 
+key sectors is discussed in more detail below.
+3.1 Energy 
+The sectors of energy production, agriculture 
+and transport have significant potential for 
+greening the economy.  In addition, the transition 
+of each sector will have important impacts on 
+the economy as a whole.  Each of these three 
+key sectors is discussed in more detail below. 
+With its considerable hydrocarbon resources, 
+Azerbaijan has been able to supply its domestic 
+needs while contributing to global energy 
+needs through export.  As mentioned in the 
+introduction, oil and gas production are a major 
+component of the Azerbaijani economy.  As of 
+January 2010, oil reserves were projected at 
+7 billion barrels.46  Operations are run by the 
+State Oil Company of Azerbaijan Republic 
+(SOCAR), which is responsible for refining, 
+pipelines, and imports/exports, and the 
+Azerbaijan International Operating Company 
+(AIOC), which is a consortium of 10 companies 
+that have signed extraction contracts with the 
+Republic of Azerbaijan.  Exports of oil reached 
+approximately 876 000 bpd in 2009 primarily 
+via pipeline and shipping routes to markets in 
+Europe and elsewhere.
+Azerbaijan has proven reserves of roughly 30 
+trillion cubic feet (Tcf) of natural gas (see Figure 
+5 in billion cubic feet) as of January 2010.47 
+Natural gas processing, transport, distribution 
+and storage are managed by Azerigaz (a 
+subsidiary of SOCAR) in the domestic market, 
+and Azneft (another subsidiary) is responsible 
+for exploration, development and production. 
+Only recently, since 2007, has the country 
+become an exporter of natural gas, mainly via 
+the South Caucasus Pipeline.  
+While oil production has increased significantly, 
+consumption has remained relatively constant 
+3     Key sectors identified for 
+   greening the economy 
+Figure 5.  Azerbaijan’s natural gas production and consumption, 2001-200952 
+(Source: U.S. Energy Information Administration)
+15
+(see Figure 6).  This has allowed the vast 
+majority of new production to be used for 
+export, generating a significant revenue stream 
+for the country.  Oil and gas resources make 
+up roughly 90 per cent of exports.  Largely 
+thanks to its oil and gas exports, Azerbaijan had 
+a positive current account balance of nearly 
+US$ 2 416 billion in 2011.48 
+Given its large reserves, the country’s energy 
+needs are met entirely with the country’s gas 
+and oil resources. Moreover, the country also 
+produces hydroelectricity power that accounts 
+for 1.7 per cent of the economy’s energy 
+supply.49 50  Electricity production totalled 18.96 
+billion kWh in 200751 with nearly all of this 
+being consumed domestically.  All generating 
+stations are state-owned, with transmission 
+and distribution managed by state company 
+Azerenergy.  The energy supply in Baku is 
+managed by “Bakielectrikshebeke”, an open 
+joint stock company. Azerbaijan produces 
+enough electricity to meet domestic needs, but 
+due to transmission and distribution limitations, 
+it has to rely on imports to meet the needs of 
+certain regions.
+Azerbaijan’s history of energy development 
+has left it with a number of challenges, both in 
+terms of infrastructure and environmental.  An 
+aging, obsolete infrastructure from the Soviet 
+era has led to rolling blackouts in some areas 
+of the country,53 despite the fact that the country 
+is producing a surplus of energy to meet its 
+domestic needs.  The lack of an effective 
+transmission network is also a major hurdle 
+to energy security and reliability.  Finally, the 
+country’s abundance of energy resources has 
+also led to relatively high energy intensity, the 
+highest in the Caucasus,54 which also means 
+that energy efficiency was formerly considered 
+to be a low priority. 
+On the environmental side, UNEP research 
+has shown a significant level of pollution 
+caused by fossil fuel development, including 
+significant areas of coastline contaminated by 
+oil, soil and water resource degradation from 
+manufacturing, mining and energy generation. 
+Compounding this problem is the risk of sea level 
+rise, which threatens Soviet-era oil production 
+platforms in the Caspian Sea.  Human health 
+impacts from pollution are also a major concern 
+in the country’s intensive energy development55 
+and emissions are intensified by inefficient use 
+of energy resources, including the flaring of 
+natural gas (see Figures 7 and 8).56
+These issues present opportune areas for 
+green economy investment and, to a certain 
+extent, the country is already making some 
+strides.  High energy intensity suggests that 
+there is opportunity for efficiency improvements. 
+Azerenergy has noted a small decline in energy 
+consumption in the country in the past year 
+due to efforts it has made to improve efficiency. 
+Figure 6.  Azerbaijan’s oil production and consumption, 1999-200952
+16 
+Figure 7.  Environmental and pollution issues in Azerbaijan57
+17
+Improvements in natural gas supply and the 
+introduction of electricity meters across the 
+country are prime examples of measures that 
+have improved efficiency, while also addressing 
+access and security. Less energy waste 
+decreases the frequency of blackouts, and has 
+the economic spinoff of potentially freeing up 
+electricity for export.
+The government has also indicated an interest 
+in energy management through modernizing 
+and improving the production and transmission 
+of energy in the country.  An ADB project, the 
+Power Distribution Development Investment 
+programme,58 aims to assist the country 
+with its fuel and energy sector development 
+by providing assistance to Azerenergy in 
+improving the reliability of power supply, 
+reducing energy losses, enhancing efficiency 
+and improving financial performance. This 
+project is an effective example of green 
+economic action already underway, as it aims 
+to provide economic benefits while modernizing 
+and greening the electricity sector.  
+Another issue that should be examined is the 
+extent of subsidies for energy production, in 
+particulary fossil fuel production, and how these 
+affect a shift to a green economy.  Fossil fuel 
+subsidies artificially lower the price of these fuel 
+sources, stacking the deck against renewable 
+energy production and lowering demand for 
+sustainable solutions. Subsidies also work 
+against efficiency measures as they keep 
+energy prices low, a situation that can lead to 
+inefficiency and waste.  In Azerbaijan, there 
+are subsidies in place for gasoline and diesel 
+that reduce the price of fuels below what the 
+international market would dictate.59 
+Prior to the year 2000, the country had the 
+highest domestic oil subsidies in the world at 
+16.6 per cent of GDP.60  Following a peak of 
+22 per cent of GDP in 2000, subsidies have 
+gradually declined. The country has shown 
+some progress in addressing this issue,61 
+partially at the behest of the International 
+Monetary Fund (IMF).62  While subsidies as 
+a share of GDP have fallen significantly,63 
+the average subsidization rate remains 21.7 
+per cent of the cost, with natural gas being the 
+highest recipient64 at approximately 60 per cent 
+of the reference price.65 In addition to its efforts 
+to reduce direct subsidies,66 the government 
+has recently also indicated its desire to address 
+indirect subsidies as well.  Raising domestic 
+prices through elimination of subsidies can 
+create difficult socio-economic conditions for 
+citizens, so subsidies have to be carefully 
+reallocated to poverty reduction measures or 
+Figure	8.		Air	emissions	trends	–	1000	t/y,	2000-2009	(Source: State Statistical Committee, 
+Statistical	Yearbook	2008,	Environment	in	Azerbaijan	2009)
+18 
+to increased renewable energy sources to offset 
+rising energy prices.
+If properly reformed, a subsidy system can 
+retain the social benefits of the current system, 
+while avoiding the promotion of inefficient fossil 
+fuel usage and environmental degradation that 
+fossil fuel subsidy systems can entail. Promoting 
+clean energy development offsets fossil fuel 
+usage, and having market prices prevail in fossil 
+fuels increases natural efficiency measures so 
+that funds that have been previously directed 
+at subsidies for fossil fuel production can be 
+redirected for social benefit (e.g., lower taxes, 
+direct social programmes, income assistance).
+The prevalence of state-owned companies in the 
+energy sector has positive and negative effects 
+with respect to investment in a green economy. 
+On the one hand, state-owned-industries, 
+beholden to state oversight, can at times have 
+difficulty making quick transitions. On the other 
+hand, state oversight could be a useful tool in 
+developing a vision for green investment and 
+produce a system where the sector and the 
+government can work together on the country’s 
+transition to a green economy.  Policy enabling 
+conditions for green investment are discussed in 
+detail in Section 4.
+With respect to the specific application of green 
+economic transition in the area of energy, 
+there are some easily identifiable opportunities 
+in Azerbaijan that address pressing needs, 
+including:
+•	 Increased energy capacity.  As the 
+economy grows, so too will the need for 
+energy capacity, which can be met through a 
+combination of efficiency improvements and 
+increased clean energy capacity.  Increasing 
+efficiency through initiatives, such as 
+improving efficiency of production, demand 
+side management programmes for industry 
+and consumers and capacity expansion, and 
+through increased investment in renewables 
+and cleaner energy sources will probably 
+both be necessary. At present, investment in 
+these areas67 have been insignificant.  A shift 
+to renewable energy sources can also bring 
+significant new employment opportunities, 
+as much as a 15 per cent increase in energy-
+sector employment globally, compared to 
+BAU.68
+•	 Financing infrastructure improvements. 
+The energy production and transmission 
+system in Azerbaijan is in serious need of 
+upgrade.  With increasing revenues from 
+fossil fuel generation, the country can fund 
+development in renewables either directly, 
+or through actions, such as subsidies or 
+public-private partnerships. Initiatives, such 
+as feed-in-tariffs, subsidies, tax credits, 
+grants and conditional funding structures,69 
+can bolster energy production and supply 
+as well as provide incentive to local/rural 
+power generation, lessening reliance on 
+long transmission networks and antiquated 
+infrastructure. Implementing local renewable 
+power generation can also reduce 
+disruptions and provide a more stable and 
+reliable supply of energy to consumers,70 
+and reduce energy poverty in rural areas of 
+Azerbaijan.  Improvements to transmission 
+networks can reduce energy losses and 
+boost reliability and security.  Investment 
+in new, more efficient infrastructure 
+infrastructure also carries economic benefits 
+such as job creation, which can contribute 
+to the significant reduction of emissions, 
+thereby improving air quality.
+•	 Fossil fuel transition.  One of the most 
+effective ways to ensure a transition from 
+fossil fuels to lower carbon options is 
+to rebalance the foundation in favour of 
+renewables by phasing out any subsidies 
+that may exist in the fossil fuel sector, and 
+redirecting efforts into the development of 
+renewables.  Investments in technology, both 
+in terms of implementation and research and 
+development (R&D), can also kick-start a 
+green transition.  It is a fact that Azerbaijan 
+19
+will continue to rely on fossil fuel production 
+and consumption for the immediate future, 
+but an attempt to diversify energy sources 
+can help reduce the fossil fuel-to-clean 
+energy supply ratio, and start the transition 
+to greener energy sources that the country 
+will eventually have to undertake.
+• Energy (including electricity) is a key 
+sector that must be addressed in the global 
+response to climate change. The Climate 
+Group has estimated that energy-related 
+carbon emissions will need to be reduced 
+by 48 Gt CO2 by 2050.
+71  Addressing this 
+need in a pro-active green economy shift 
+can help to create the necessary mitigation, 
+while investing at the same time in economic 
+and social improvement.
+3.2 Agriculture
+While energy production has been the quickest 
+growing sector of the Azerbaijan economy in 
+the last decade, agriculture is also a major 
+economic contributor and continues to be a 
+prominent driver of the labour market in the 
+country. Over 38 per cent of the population 
+employed in the sector72, 73 and 48 per cent 
+of the population live in rural areas.74 The 
+growth and importance of the sector must be 
+considered in the context of its near collapse75 
+following the breakup of the Soviet Union. 
+Since then, agriculture has made great strides 
+to recover. Production includes grains and 
+crops such as cotton, grapes and vegetables 
+(see Table 3). 
+The agriculture sector has seen significant 
+growth in cultivated areas in the past decade 
+as well as an increase in livestock production 
+(recovering steadily since its collapse in 1994).76 
+In addition to increased areas under cultivation, 
+productivity has also increased. These increases 
+have allowed the country to meet its domestic 
+needs and to become an export market.77 
+Several government programmes have 
+been developed in recent years to stimulate 
+the growth of the agricultural sector.  The 
+SPPRSD79 2008-2015 includes reference to 
+potential measures such as exemption from 
+taxes for agricultural producers, improved 
+access to finance/credit, capacity building 
+for agricultural experts, support for the 
+development of the agro-service sector  and 
+improved insurance mechanisms.80
+The SPSED81 2009-2013 also addresses 
+agriculture, providing reference to a series 
+of actions undertaken, with key goals for 
+development of the agriculture sector, including:
+Table 3. Development dynamics of agricultural indicators78 
+Unit of 
+measurement 
+Year
+2000 2005 2009
+Cultivated area under agricultural 
+crops
+thousand 
+hectares 1 041.5 1 327.9 1 705.4
+Cultivated area under cereals thousand hectares 648.2 802.3 1 125.5
+Livestock: cattle thousand heads 2 021.6 2 380.0 2 610.8
+Livestock: sheep and goats thousand heads 6 085.7 7 698.7 8 409.9
+Livestock: poultry million heads 14.7 19.0 22.0
+Wheat production thousand tonnes 1 540.1 2 126.7 2 988.3
+Per capita wheat production kg/person 189.8 248.6 333.2
+20 
+• improve the legal and regulatory framework, 
+the scientific and methodical basis and the 
+HR preparation system in the agrarian 
+sector;
+• connectedly develop the areas ofraw 
+material production and processing 
+of raw materials, as well as stimulate 
+competitiveness in the agricultural sector;
+• increase the financial support to the 
+agrarian sector;
+• strengthen the material and technical basis 
+of the agrarian sector;
+• support new structures that will serve 
+the agrarian sector to operate on market 
+principles;
+• improve irrigation and amelioration works in 
+agriculture; and
+• ensure the efficient use of land and water 
+resources.82
+Great amounts of state funding have been 
+invested in the agricultural sector, including 
+offsets of significant amounts of farming costs 
+with public funds.83
+Increased use of non-organic fertilizers 
+and pesticides is a means to increase crop 
+productivity but must be considered carefully if 
+the desire is to promote a green economy.  Use 
+of such products must be properly regulated 
+and monitored to ensure that any potentially 
+damaging environmental side effects are 
+avoided, such as contamination of drinking 
+water.  Toxic pesticides, in particular, can have 
+devastating impacts both on the ecosystem 
+and human health, and consequently present 
+a major risk.84  As in other sectors, the benefits 
+of increased economic output in a given green 
+sector must be carefully weighed against the 
+environmental and social costs of a specific 
+strategy or action. Alternatives to such 
+substances can also be found, and should be 
+encouraged in a green economy framework.
+Another environmental concern with the 
+growth of the agricultural sector is the growing 
+amounts of land under cultivation and livestock 
+production that result in increased GHGs, 
+particularly methane, which has a global 
+warming potential 56 times that of CO2.
+85    
+The significance of the agricultural sector in the 
+transition to a green economy is also related to 
+its social importance, given the need for strong 
+domestic food security.  The importance of this 
+aspect is noted in the SPPRSD,86 as better 
+domestic production lessens the exposure of 
+Azerbaijan to risks from food price spikes and 
+import restrictions.  The chapter on agriculture 
+in the Green Economy Report addresses the 
+issue of poverty directly, highlighting that for 
+every 10 per cent increase in farm yields, there 
+has been a 7 per cent reduction in poverty 
+in Africa; and more than 5 per cent in Asia.87 
+Azerbaijan ranks relatively low in prevalence 
+of undernourishment, but it has also seen its 
+percentage of food consumption expenditure 
+rise as its economy has grown in the past 
+decade, a development that will have to be 
+carefully watched so that rising food prices do 
+not create access problems for residents.88
+With the goals of the SPSED in mind, there are 
+several ways in which Azerbaijan can attempt 
+to develop a green economy in its agriculture 
+sector, respect domestic needs and create 
+more robust economic performance.  UNEP’s 
+Green Economy Report points to research that 
+estimates that green farming practices can 
+increase yields between 54 and 17989 per cent 
+while simultaneously restoring and maintaining 
+soil fertility, reducing emissions and increasing 
+water use efficiency.
+Several opportunities for green economy 
+investment are presented in the Green 
+Economy Report, including investments in 
+R&D, partnerships with leading private agri-
+businesses, strengthening supply chains 
+for green products and farm inputs, farm 
+mechanization and post-harvest storage, 
+plant and animal health management, and 
+diversification of crops and livestock, and soil 
+and water management.
+21
+Measures with regard to food storage and 
+improved resource management help to reduce 
+losses, produce higher returns, and ensure long-
+term resource sustainability and soil fertility.
+Moreover, there are a fewsome targeted 
+measures and policy enabling actions that 
+Azerbaijan can take at the national level to 
+encourage a green transition in the agricultural 
+sector.  These include:
+•	 Public procurement of sustainably 
+produced food, coupled with stronger 
+supply chains.  As with the energy sector, 
+public procurement is an important tool 
+to encourage demand for sustainable 
+goods and offer fiscal investment in green 
+agricultural production.  Public procurement 
+schemes also allow the government to lead 
+by example, assisting directly in achieving 
+its own policy goals.  Strengthening supply 
+chains also goes hand-in-hand with getting 
+farm inputs into farmers’ getting sustainably 
+produced green products to the consumer 
+market.
+•	 Public-private partnerships. The goal 
+of both investment in R&D development 
+and partnerships with leading private 
+agribusiness is to “develop, deploy and 
+diffuse”90 technologies and inputs that 
+are resource efficient, and alternatives 
+to traditional practices, technologies and 
+inputs.  Partnering with agri-business and 
+encouraging farm mechanization promotes 
+early adoption of technologies, assists in 
+getting them to farmers and increases farm 
+productivity.91
+•	 Education, training and capacity 
+building.   Providing farmers with training 
+and capacity-building in sustainable farm 
+management practices is an essential 
+part of the effort to bring together 
+green and traditional farming practices. 
+Communicating the benefits of sustainable 
+management practices, such as zero-
+tillage, precision application systems, 
+advanced irrigation and post-harvest crop 
+and resource management, are integral 
+to initiating a shift. Many farmers naturally 
+consider themselves stewards of land and 
+water resources given their livelihood and 
+would gladly take advantage of opportunities 
+to increase productivity, while at the same 
+time ensuring the long-term sustainability 
+of the environment from which they make 
+their living. 
+22 
+•	 Fiscal instruments/regulations. Fiscal 
+instruments can work both ways, including 
+negative measures such as taxes or 
+reduced subsidies on fossil fuel use, toxic 
+pesticides and herbicides, and penalties 
+on emissions and pollution from harmful 
+practices.  Positive incentives such as tax 
+exemptions and subsidies for investment 
+in clean technology and organic pest 
+management can also be used as an 
+incentive to a transition.92  Strategic targeting 
+of investments and subsidies to specific 
+crops that are important to the social and 
+health pillars of sustainability93 is also worth 
+considering. Effective regulatory systems 
+can also ensure that proper oversight and 
+controls on unsustainable practices are in 
+place and over time helps farmers to shift 
+to more sustainable practices.  
+With agriculture as the main source of 
+employment in Azerbaijan, its transition to a 
+green economy framework is essential for 
+an economy-wide transition. Any measures 
+that could affect employment should be 
+carefully examined for potential unintended 
+consequences and side effects, with a long-
+term economic planning outlook.
+3.3 Transport
+The transport sector has changed dramatically 
+as a  result of Azerbaijan’s impressive economic 
+growth in the last 15 years.  The country has a 
+transport network consisting of 22 000 km of 
+roads, 2 000 km of railroads, 5 international and 
+2 local airports, as well as the largest Caspian 
+seaport.94 In 2010, 120 million tonnes of cargo 
+was moved by pipelines, 100 million by road, 
+22 million by railway and 11 million by sea.95 
+Air transportation makes up a much smaller 
+share, at 40 000 tonnes.  In terms of cargo, 
+the Europe-Caucasus-Asia corridor sees a 
+significant flow of traffic, especially in oil and 
+gas.  With regard to all passenger transport, 1.1 
+billion people were transported by automobile, 
+206 million by metro and bus, 6.4 million by 
+railway and 941 000 by air.96 Azerbaijan has a 
+relatively high vehicle per person ratio, at 0.51 
+motor vehicles per person, placing it 41st out of 
+120 countries examined.97
+Transport forms an important part of 
+Azerbaijan’s economy. Along, with 
+communications, it constituted 8.6 per cent of 
+GDP in 2010. In the first two months of 2011 
+alone, economic entities engaged in transport 
+in Azerbaijan provided AZN 612 million in 
+services, a 14.9 per cent rise compared to 
+the same period in the previous year, while 
+oil shipments accounted for 61.6 per cent of 
+cargo transported in this period. This implies 
+that other goods represent only 38.4 per cent 
+of shipped cargo.98  
+The transportation sector is also a key sector 
+because of the employment it generates in 
+the manufacturing of vehicles, refining of 
+fuels, management of transport services, 
+and the development and maintenance of 
+infrastructure.99  In addition, due to its proximity 
+to the Silk Road,100 Azerbaijan offers the most 
+feasible passage connecting Central Asia and 
+the People’s Republic of China (PRC) with 
+Europe.101  The rapid growth of the oil and gas 
+sector has changed the needs of Azerbaijan’s 
+transportation network and created increased 
+and different demands.102  The government 
+sees the development of the sector as an 
+important step in boosting private sector 
+development and in linking rural communities 
+with other centers in an effort to reduce poverty 
+and improve living standards.  
+Transportation is also a substantial emitter of 
+greenhouse gases: globally, the sector emits 
+one-quarter of global energy-related CO2.
+103 
+In Azerbaijan, the transport sector (in terms of 
+fossil fuel combustion) was responsible for 3.6 
+Mt of CO2 emissions in 2007, making up 13 
+per cent of the economy-wide total of 27.6 Mt 
+from fossil fuel combustion.104  The sector also 
+presents substantial cost to the environment, the 
+23
+economy and society in the forms of congestion 
+(and associated losses in productivity of urban 
+areas); resource depletion and land grab; 
+degradation of human health (through air 
+pollution, noise or vibration); reduction in human 
+security (through traffic accidents); reduction of 
+accessibility; and loss of biodiversity.105  A WHO 
+study also highlighted the issue of the increasing 
+number of traffic accident fatalities, where 
+Azerbaijan was among the top 10 countries in 
+the world with the highest ratio of fatal to non-
+fatal traffic accidents.106
+The current pattern of transportation, primarily 
+based on gasoline and diesel-fuelled vehicles, 
+is highly unsustainable and will generate serious 
+environmental, social and economic damage 
+if its growth is not checked and its nature and 
+patterns not transformed.  According to the 
+Green Economy Report, BAU will significantly 
+enlarge vehicle fleets and exacerbate their 
+costs to society.107 Change in the sector is 
+absolutely vital to the promotion and creation of 
+a green economy.
+Moreover, there is a benefit to a green 
+transportation sector beyond cost avoidance. 
+There are significant opportunities in terms 
+of employment, enhanced economic activity 
+and enhanced natural environments.  Indeed, 
+the Green Economy Report observes that 
+investment in public transportation and vehicle 
+efficiency improvements generates exceptional 
+economic returns and that several scenarios 
+show that a green, low carbon, transport sector 
+can reduce greenhouse gas emissions by 70 
+per cent without major additional investment. 
+It also notes that studies suggest a strong link 
+between green jobs and the transport sector.108
+In a green economy, “transport-sector jobs 
+would increasingly be those that are generated 
+through investment in green transport 
+infrastructure and vehicles, alternative fuels and 
+telecommunication and other technologies.109 
+While there is significant room for private sector 
+initiative in transport, there is a great need for 
+the state to play a leading role in determining 
+the future of the sector.
+The government of Azerbaijan needs to take the 
+lead in terms of shaping the investment strategy 
+as well as providing the enabling conditions.  As 
+UNEP’s maintains, a three-pronged investment 
+strategy is needed to transform the sector: 
+promote access instead of mobility, shift to less 
+harmful modes of transportation, and improve 
+vehicles towards lower carbon intensity and 
+pollution.110
+Azerbaijan has undertaken several projects 
+in the transportation sector, including one to 
+develop a 10-year sector strategy111, 112 that will 
+cover all forms of transportation.  Linking the 
+development of the transportation sector to the 
+country’s poverty strategy includes upgrading 
+of road infrastructure, linking rural populations 
+to larger markets, and improving conditions 
+for private sector investment leading to job 
+opportunities.113  Significant domestic funding 
+has been directed to the development of the 
+sector, including US$ 8.5 billion in 2008114 and 
+another US$ 2 billion in 2010,115 the majority of 
+which went into the development of highway 
+infrastructure.
+Azerbaijan has also started to see a rise in fuel 
+prices, bringing these prices more in line with 
+the minimum for a non-subsidized nation,116 as it 
+moves to reducing fossil fuel subsidies.  Diesel 
+and gasoline prices that are more in line with 
+international market rates will be a great driver 
+of a green economy transition through vehicle 
+efficiency, reduced greenhouse gas emissions, 
+and perhaps a shift to more public transport 
+use by citizens.  On the other hand, rises in fuel 
+prices can affect poverty negatively, and thus, 
+as stated before, subsidies must be offset with 
+programmes directed at assisting residents 
+with low-income levels.  
+24 
+25
+Taking into account both the local needs and 
+the guidance provided by the Green Economy 
+Report, some suggestions for actions and 
+policies that can be adopted in the sector to 
+spur Azerbaijan’s transition to a green economy 
+include:
+•	 Shifting	 financing	 priorities	 towards	
+public transport and non-motorised 
+transport.  Azerbaijan faces the problems 
+of an aging transport infrastructure and 
+an increasing number of vehicles on 
+the road, as the economy continues to 
+grow.  Investments in public transportation 
+infrastructure can increase public ridership, 
+reduce vehicles on the road, reduce 
+transportation sector emissions, and 
+assist low income residents in accessing 
+transportation options.  This can be coupled 
+with increased charges for private motor 
+vehicle use including disincentives, such 
+as increased penalties for traffic violations 
+(which could also increase safety, another 
+important issue of this sector), charges for 
+use of particular transportation links (toll 
+roads) or increased charges for vehicle 
+registry or fuels.   
+•	 Regulation of fuel and vehicles. 
+The growing demand on Azerbaijan’s 
+transportation network is an on-
+going concern.  Increased use of the 
+transportation network for the shipping of 
+goods, coupled with increased light duty 
+vehicles creates concerns for safety as well 
+as increased emissions.  In addition, as of 
+2009, Azerbaijan does not have vehicle 
+standards in place for fuel consumption or 
+seat-belt installation.117  Regulation of fuel 
+emissions intensity can reduce emissions, 
+while more stringent regulation of vehicle 
+efficiency and safety can reduce emissions, 
+accidents and fatalities.  More stringent 
+enforcement of road transportation rules 
+and regulation goes hand-in-hand with the 
+development of these rules.
+•	 Development and comprehensive 
+application of a green transport 
+technology.   Similarly to the agriculture 
+and energy sectors, supporting research 
+and development and partnering with the 
+private sector for the development and 
+distribution of green technologies can speed 
+up implementation and reduce emissions. 
+Public procurement can be an important 
+part of this strategy, as can incentives 
+(such as for fuel efficient vehicles) and 
+public-private partnerships.  Building the 
+capacity of public institutions to foster and 
+promote green transportation options can 
+also assist in encouraging public adoption.
+The government of Azerbaijan is already 
+making an important effort to move the sector 
+forward.  It is carrying out substantial efforts 
+to increase the efficiency, organization and 
+safety of cargo and passenger transportation, 
+making significant investment in public 
+transportation, especially in its metro system,118 
+and conducting an amendment to its Action 
+Plan for 2008-2013 to improve the transport 
+system in Baku.  However, there is much more 
+that can be done to ensure its overall policy for 
+the sector is providing a clear articulation of the 
+green economy principles.
+26 
+NA  Not available    
+NB  Since data are not gathered nationally on 
+the basis of BioTrade sectors or biodiversity-related values  proxies are 
+used to assist with the comparability of data. Therefore, the conclusions are indicated to 
+have low to moderate certainty  the best possible with current available information. 
+* USD 9.26 billion (est.)  
+**Cf section 3 
+*** Sources
+For a green economy framework to succeed 
+anywhere, the framework must be able to 
+successfully transition the jurisdiction in question 
+from traditional economic development to a 
+more sustainable path, and maintain a level of 
+strength within the economy.  Negative side-
+effects from such a transition must be mitigated 
+so that the green economic shift becomes an 
+enduring economic model, rather than gradually 
+sliding back into the traditional economic growth 
+framework of the past. An economic framework 
+that is not resilient to growing pains and other 
+market shocks and stresses in the face of 
+hardships is unsustainable in any framework, 
+whether it is green or not.  Market shocks can 
+produce instability in a green economy, in much 
+the same way they can in the traditional economy. 
+In addition, while the majority of investment will 
+have to come from private sources, the public 
+sector will have to make strategic investments to 
+trigger action.119  For these reasons, the enabling 
+conditions that the government puts in place 
+must be carefully considered, with a long-term 
+outlook to maximizing return on actions taken.120
+The following is an examination of instruments 
+and actions that can be used for any government 
+to enable a green economy transition. The 
+actions per se do not impose a green economy, 
+but rather set out the conditions for the 
+economy to undertake a natural transition led 
+by consumer and private sector actions.  The 
+role of regulations and standards, economic 
+and fiscal policy instruments, international 
+financing and institutional and policy processes 
+are examined, as well a description of the 
+Azerbaijan’s specific context providing 
+examples for each key sector examined.
+4.1 Regulations and 
+ standards 
+Actions, such as regulations and standards, 
+are direct ways for governments to prepare the 
+conditions for a transition to a green economy 
+in targeted sectors.  They can serve to 
+encourage a transition through the placement 
+of stringencies on environmental performance 
+(i.e. energy intensity or emissions limitations) 
+and reduction of regulatory and business risk, 
+leading to increased confidence in markets.121  
+Standards and regulations, like any other 
+mechanism, are only as effective as their 
+stringency. If set too low, they will be met, but 
+will not encourage a long-term transition to 
+more effective technologies.  The goal of the 
+standards and regulations is to mandate a 
+shift to cleaner technologies. For example, a 
+regulation that requires coal generation to meet 
+the same emissions intensity as cleaner fuels 
+could encourage a switch to cleaner fuels, an 
+implementation of carbon capture and storage, 
+or an increased reliance on renewables.
+Standards, such as renewable performance 
+standards (RPS),122 also encourage a transition 
+from a mandated requirement. An RPS system 
+encourages increased renewable energy 
+development by specifying a minimum amount 
+of energy that an electricity utility must generate 
+from renewable energy sources.  This mandated 
+minimum stimulates renewable energy 
+development and technological advancement 
+in renewables. The goal, over time, is to ensure 
+that renewable energies are economically 
+competitive with traditional sources, assisting 
+4 Enabling conditions
+27
+NA  Not available    
+NB  Since data are not gathered nationally on 
+the basis of BioTrade sectors or biodiversity-related values  proxies are 
+used to assist with the comparability of data. Therefore, the conclusions are indicated to 
+have low to moderate certainty  the best possible with current available information. 
+* USD 9.26 billion (est.)  
+**Cf section 3 
+*** Sources
+in perpetuating a long-term transition to clean 
+energy generation.
+These direct instruments do not account 
+for flexibility amongst the entities facing the 
+mandated shift, and care must be taken to 
+ensure that standards do not place unnecessary 
+strain on small and medium-size enterprises. 
+Regulations and standards in their purest 
+form simply require improvements to be 
+made within a certain timeframe.  While this 
+is a very direct form of instituting a transition, 
+economic actors might face limited flexibility 
+to transform, and negative economic impacts 
+may occur unless properly taken into account. 
+One flexibility mechanism is time, where a long 
+lead for regulatory compliance can allow the 
+regulated community to align scheduled capital 
+investments with mandated compliance.  At the 
+same time, the avoidance of flexibility can make 
+for a much more straightforward system and 
+ensure confidence that the desired effect (for 
+instance, intensity improvements or emissions 
+reductions) will result from the plan.
+In the context of Azerbaijan’s transport sector, 
+lack of regulation has created safety and 
+efficiency problems.  A way for the government 
+to address this is the creation of a regulatory 
+system that mandates changes to these areas, 
+e.g., a mandatory seat-belt use would have 
+significant impacts on safety and address the 
+high rate of traffic fatalities within the country. 
+Similarly, a regulatory system regulating fuel 
+consumption by light-duty vehicles would have 
+significant spinoffs, including reduced fossil 
+fuel emissions, energy efficiency and reduced 
+transportation fuel costs for citizens.
+In the energy sector, Azerbaijan may wish to 
+look at the implementation of an RPS system. 
+There has been a minimal trend in increasing 
+hydro-production offsetting thermal capacity,123 
+but an RPS system would mandate further 
+transition away from fossil fuel to more 
+renewable sources.  Currently, hydro-electricity 
+is the only significant non-fossil fuel electricity 
+source, which represents only around 10 
+per cent of its generation capacity.  Clearly, this 
+is an area where progress is needed for a green 
+economy transition.  Prior to putting in place a 
+standard and a target, a detailed examination 
+of the country’s renewable resources capacity 
+would have to take place to ensure that the 
+implementation of an RPS system would be 
+achievable, and that it could be implemented 
+in a measured transition to prevent undue price 
+shocks to rate-payers.  As such, a mandated 
+renewable energy target could signal a desire 
+to transition to renewable energy, and give 
+confidence to private sector interests that may 
+look to invest in renewable energy technologies 
+(essentially by securing a market for their 
+implementation).  Regulation could also play 
+an important role in the promoting an energy-
+efficient sector, particularly with respect to 
+production efficiency, by ensuring that energy 
+producers meet certain performance standards 
+on efficiency and addressing a major concern 
+related to sustainable production.
+In the agricultural sector, efficient use of land 
+and water resources and improved irrigation 
+are key stated goals of the SPSED.  One way to 
+ensure this is tight regulatory oversight of farm 
+inputs and outputs to ensure that resources 
+are not being depleted (i.e. through regulations
+28 
+on water use for irrigation) nor contaminated 
+(i.e. regulatory oversight of non-organic 
+fertilizers and pesticides that have potential to 
+contaminate natural resources).  In addition, 
+as the sector is the primary labour source of 
+the Azerbaijan economy, it is also essential 
+to ensure that labour standards are in place 
+to prevent mistreatment of workers as the 
+sector moves to a more decentralized private-
+ownership structure. Ensuring food safety and 
+supply is essential to improve social conditions, 
+as well as ensuring the safety of the workforce
+4.2 Fiscal policy instruments 
+As opposed to regulations and standards which 
+are a very direct method of bringing about 
+transition, using economic and fiscal policy 
+instruments, either in the form of taxation or 
+market mechanisms, can also be used to 
+encourage the transition to a green economy, 
+but with a wider degree of market reliance and 
+flexibility.  On the other hand, price distortions 
+can discourage green investments or failure to 
+scale-up investments.124
+Azerbaijan possesses an advantage with regard 
+to financing the transition to a green economy 
+as a result of its recent strong growth in fossil 
+fuel revenues. These revenues present a 
+readily available funding source for investment 
+in enabling conditions to spur the transition to 
+the green economy.  Used directly or indirectly, 
+through methods, such as those described 
+below, these funds can be a significant source 
+for green economy investments in the sectors 
+discussed, and a unique opportunity for 
+Azerbaijan’s current economic situation.
+Carbon taxes are a relatively straightforward 
+instrument to encourage emission reductions. 
+In this case, compliance costs include 
+payments of the tax on emissions (a rate on 
+absolute emissions or emissions intensity) 
+and payments for mitigation to avoid the tax 
+on emissions.  The funds raised from carbon 
+taxes can then be earmarked for any purpose, 
+but if the goal is the development of a green 
+economy, its most effective use is to fund 
+initiatives that promote this transition, e.g., 
+renewable energy implementation, technology 
+research and development, or investments, in 
+areas such as adaptation to climate change.
+A major thrust of a green economy is the 
+removal of perverse subsidies on fossil 
+fuels and other unsustainable practices and 
+resources.  Subsidies that enable and promote 
+environmentally damaging practices serve as a 
+disincentive to a green transition and undermine 
+efforts to put the world economy on a path 
+toward sustainable development.125 As the 
+Global Subsidies Initiative argues, even where 
+subsidies are in place for legitimate purposes, 
+their efficiency must be demonstrated to 
+ensure that they do not lead to unforeseen or 
+unintended consequences, overwhelming the 
+potential benefits.126
+Direct financing subsidies, when properly 
+designed, and incentives can serve to promote a 
+green economy transition, and when combined 
+with an initiative, such as a carbon tax, they can 
+provide a funding source readily available and 
+does not draw public funds away from other 
+priorities.  These subsidies can take the form of 
+direct financing (or similar measures, such as 
+feed-in-tariffs), loan guarantees or other fiscal 
+incentives. 
+A market-based mechanism, such as cap-and-
+trade, can be complex to implement, but can 
+offer a degree of compliance flexibility through 
+trading or investment in offsets in sectors 
+uncovered by the policy.  While the  cost is 
+uncertain, since abatement costs are not 
+known when the cap on emissions is set, added 
+flexibility in offsets and safety values (price 
+ceiling on allowance process) can mitigate 
+cost concerns.  Investment in offsets, or other 
+‘payments’ for providing ecosystem services, 
+29
+also allow other sectors to access revenue 
+streams and encourage sustainable land use 
+decisions and economic outcomes.127  However, 
+there is a caveat with respect to dealing with any 
+sort of market mechanism – the government 
+needs to be stable and predictable. Changes 
+to markets must encourage confidence, such 
+as in the phase of feed-in tariffs or a cap-
+and-trade system. Moreover, there must also 
+be proper review and limitation of market 
+intervention to ensure that the measures are 
+attaining the proper goals without creating 
+unnecessary side effects.  Caps and limitations 
+on pollution/emissions must also be stringent 
+enough to provide incentive to change. 
+Otherwise, the intended outcome of improved 
+environmental performance will be lost.
+In the case of Azerbaijan, one of the 
+fundamental topics in the energy sector is the 
+role of subsidies in fossil fuel energy production. 
+For the country to shift away from fossil fuel 
+dependence to a more sustainable energy 
+sector, the first measure to be undertaken is the 
+review of existing fossil fuel subsidies. While 
+the government should be praised for the work 
+done to date to reduce subsidies, such as the 
+dramatic decrease in the relation of subsidies 
+to GDP, fossil fuel subsidies are still in place, 
+and as long as they are, they will continue to 
+work as a suppressant to renewable energy 
+development.  Once fossil fuel subsidies are 
+identified and measures are undertaken to 
+remove them, the government must take care 
+to offset negative impacts from the potential 
+rise in energy prices, which includes redirection 
+of subsidies to renewable energy development, 
+investment in social programmes to assist 
+low-income residents and energy-efficiency 
+measures.
+In the transport sector, fiscal measures to reduce 
+emissions could include the implementation of 
+carbon taxes on fuels, or congestion charges in 
+urban areas, coupled with positive incentives, 
+such as investment in public transit options and 
+clean transport technology.  These measures 
+are taken in the context of Azerbaijan’s  growing 
+number of vehicles, which lead to increased 
+emissions as well as rising safety concerns 
+(high fatality rate) and infrastructure challenges 
+(the need for road investments).  The revenues 
+from fuel taxes and congestion charges could 
+then be invested in much needed infrastructure 
+improvements, as well as in public transport 
+and clean technology development.
+Addressing subsidies in energy and 
+transport can have side effects in the area of 
+agriculture, raising input costs for farmers and 
+reducing profits.  For this reason, subsidies 
+in the agricultural sector have to be carefully 
+considered and implemented to ensure that 
+they do not promote fossil fuel inefficiencies or 
+the use of harmful farming inputs.  Subsidies for 
+sustainable farming practices or investments 
+in clean technology, development and/or 
+sustainable management practices could 
+ensure that this sector, which is a labour force 
+driver, is not unduly harmed by efforts to reduce 
+emissions and inhibit Azerbaijan’s move to 
+green economy practices in other sectors. 
+Sustainable subsidies in the areas of technology 
+and management could also address the goal 
+of the SPSED to increase financial assistance 
+to the agriculture sector, while improving its 
+material and technical bases.
+4.3 Institutional and policy 
+processes to support 
+reform 
+One of the most effective and direct ways that 
+a government can support the initial transition 
+to green economics is through its own public 
+procurement.  Procurement schemes signal 
+buy-in from the government for a particular 
+technological advance, help encourage early 
+adoption and also serves to help bridge the 
+implementation phase for new technologies as 
+they enter the market.
+30 
+As a process, stakeholder engagement can 
+also be integral to the success of a policy 
+shift or transition.  Involving industry and the 
+public early in such a process can help build 
+a positive public case for change, encourage 
+inclusiveness in the policy process and help 
+smooth the transition in its early stages. 
+Stakeholder engagement could also build 
+support for the implementation of new policies 
+or technological solutions in areas where there 
+is a lack of public knowledge or concerns about 
+potential impacts. Support for an initiative can 
+be raised by bringing stakeholders into the 
+fold, explaining the reasons for and benefits of 
+the shift to a green economy, and taking their 
+concerns and ideas into consideration.
+In Azerbaijan, public procurement has been 
+recommended across all sectors, but could also 
+be particularly effective and easily implemented 
+in the transportation sector.  For example, 
+the government can easily mandate that all 
+government vehicles purchased be stronger 
+than a fixed efficiency threshold (i.e. g/km CO2 or 
+litres/km fuel efficiency), or alternatively that they 
+use a clean energy technology, such as electric, 
+hybrid or clean-fuel vehicles.  Initial costs 
+may be slightly higher, and certain exceptions 
+may have to be implemented (such as heavy 
+duty construction vehicles), but procurement 
+measures serve as an early signal that the 
+government supports a move to improved fuel 
+efficiency, and in the long run may actually 
+reduce operational costs through less fuel 
+usage.  In this manner, public procurement could 
+also serve as a signal of confidence for private 
+sector investment in clean transport technology.
+Within the agriculture sector, an important 
+way to support reform is through education 
+of farmers on sustainable land use practices, 
+improving the technical basis of the sector, 
+which is a policy goal included in the SPSED. 
+Government officials, or outside consultants, 
+can conduct studies and international reviews 
+into sustainable farm management practices, the 
+environmental benefits of sustainable farming 
+inputs, and ways to sustainably increase crop 
+and livestock production. The results of these 
+studies can then be passed along to farmers 
+through public education and capacity building 
+campaigns.  Farmers may not have the capacity 
+or ability to conduct these studies, but, enabled 
+by the findings of government research, they 
+may be more willing to make the transition to 
+more sustainable practices.
+It has been mentioned that efforts on energy 
+efficiency (production and consumption) have 
+been historically low, and only recently have 
+measures been taken to increase efficiency, 
+such as the installation of meters.  The first 
+step in a process to transition from reliance 
+on fossil fuels must be a concerted effort 
+in efficiency. One way to achieve this is to 
+encourage efficiency on the demand side.
+With a history of low energy prices and only 
+a recent introduction of metering there is a 
+lack of incentive for demand side measures 
+to reduce energy consumption. Government 
+education campaigns about the benefits of fuel 
+efficiency (most notably lower energy bills) and 
+measures that can be undertaken to invest in 
+efficiency (such as support for improved home 
+31
+insulation) can provide and incentive to reduce 
+energy waste. These education measures 
+can also be paired with fiscal measures, such 
+as low-interest loans, or tax breaks for home 
+efficiency retrofits that reduce the upfront 
+cost of demand side efficiency improvements.
+4.4 Financing the transition to 
+a green economy
+In addition to the domestic financing methods 
+mentioned above, there are also significant 
+opportunities to access international funding 
+sources for green transition. Azerbaijan has 
+already demonstrated an ability to mobilise 
+international funding sources in the past and 
+the recent growth in domestic revenues through 
+fossil fuel exports can be used to leverage 
+additional international funding sources 
+and donor capital. Projects exist across the 
+sectors of energy, transport and agriculture 
+with organizations like the European Bank 
+for Reconstruction and Development,128 the 
+ADB,129 the World Bank130 and the Global 
+Environment Fund (GEF).131  
+Furthermore, Azerbaijan has also developed 
+renewable energy projects through the Clean 
+Development Mechanism (CDM).132  Clearly, 
+the country has is practical experience 
+in accessing international funding for 
+development and climate change initiatives, 
+which provides a basis to support economic 
+and social development goals that embrace a 
+green economy approach. 
+Another option that Azerbaijan has not yet 
+taken advantage of is the development of 
+a list of Nationally Appropriate Mitigation 
+Actions (NAMAs). Originally included as 
+an appendix to the Copenhagen Accord,133 
+NAMAs have become an effective way for 
+developing countries to express potential 
+mitigation projects undertaken voluntarily 
+with international support.  The development 
+of a list of NAMAs with projects focused in 
+areas that would increase renewable energy, 
+encourage sustainable transport or enhance 
+sustainable land management practices would 
+act as an exercise for Azerbaijan to identify 
+other areas of priority to transition to a green 
+economy, as well as highlight projects to the 
+international community where investment 
+would be effective in reducing emissions.
+In this regard, applications for international 
+funding could be made for projects in all sectors 
+and Azerbaijan should consider using domestic 
+fossil fuel revenues as leverage in appropriate 
+situations.  Some of the considerations to design 
+its proposals for a green economy transition 
+could are how each project contributes to the 
+pillars of a green economy, including their 
+potential social, environmental and economic 
+implications, and how each project proposal fits 
+into Azerbaijan’s aspiration to move to a green 
+economy framework. Individual sector profiles 
+of NAMA options would give the government a 
+starting point in developing international project 
+proposal, as well as help visualize an economy-
+wide transition through a series of actions in in 
+each sector.
+32 
+5 Key findings 
+The structure of a green economy is based on 
+the pillars of environmental sustainability as 
+well as development, employment and equity. 
+This study has identified some specific enabling 
+conditions for consider in Azerbaijan’s transition 
+to a green economy in Azerbaijan.  These 
+enabling conditions include:
+Public procurement.  Across practically every 
+sector, public procurement plans are a quick 
+and relatively easy way for Azerbaijan to show 
+leadership as it shifts to a green economy.  It 
+could also serve as an indirect funding source 
+for green and sustainable technology and 
+product development, as well as a means to 
+encourage early adoption.  Implementation is 
+often a difficult phase in the transition to a new 
+technology, and a public sector boost during 
+this phase can help overcome hurdles.
+Strong regulatory systems.  Such regulatory 
+systems reduce risk and uncertainty within 
+sectors, and build confidence in markets.  As 
+previously discussed, regulatory systems could 
+assist in this transition by placing stringencies 
+on environmental performance and regulating 
+or curtailing use of unsustainable or unsafe 
+products, practices or inputs.  However, the 
+design of regulatory systems must be carefully 
+considered, with a long-term outlook on how 
+they will impact on the economy, ensuring that 
+any potential economic or job losses are either 
+mitigated or offset with economic development 
+and job creation in new green sectors.
+Subsidy	reform	and	other	fiscal	instruments.	
+One of the major first steps that must take 
+place in the transition to a green economy is an 
+examination of current subsidy plans in order 
+to determine whether unsustainable practices 
+are currently being subsidised and whether 
+they contribute to environmental degradation. 
+Perverse subsidies should be eliminated, and 
+inefficient subsidies reformed.  In addition, 
+subsidies should be targeted at developing new 
+green technologies and sectors.  Furthermore, 
+consideration of other positive and negative 
+fiscal instruments, such as carbon taxes, cap-
+and-trade, direct financing, insurance plans, 
+loan guarantees and feed-in tariffs, should 
+be undertaken where appropriate to drive the 
+transition of green economic sectors. 
+Exploration	of	global	financing.	 	Azerbaijan 
+has already shown its ability to access 
+international financing sources to assist in 
+meeting its development and environmental 
+needs, and to position itself for a transition to 
+a green economy.  Several funding sources are 
+mentioned, all of which Azerbaijan has explored 
+and should continue to do, using domestic 
+sources as leverage, where appropriate.  The 
+key will be projecting green economy principles 
+in projects proposed for international funding. 
+The government may also choose to look 
+into the development of a set of NAMAs as a 
+way to combine action on mitigation towards 
+a green economy transition (i.e. renewable 
+energy development), while presenting a list 
+of preferred funding initiatives to international 
+funders
+One of the most important caveats related 
+to enabling conditions, including market 
+interventions, is that government action must be 
+stable and predictable for the market to retain 
+confidence.  This includes regular review of 
+government intervention to ensure that desired 
+goals are being achieved and that negative 
+side effects are mitigated.  Any targets set 
+must also be measurable and transparent, and 
+accompanied by regular reporting to ensure 
+accountability and credibility.  Measuring 
+progress against targets over time also enables 
+the government to identify early successes and 
+enact corrections to policies in sectors that 
+are lagging behind in their transition, or facing 
+unexpected consequences.
+33
+34 
+6 Conclusions 
+Azerbaijan has shown remarkable progress 
+in transitioning to a market economy, and 
+rebounding from a major economic downturn 
+since the collapse of the Soviet Union.  In 
+the early 1990s, the country was facing an 
+aging infrastructure, inefficiencies in energy 
+generation and supply, as well as downturns 
+in agricultural exports.  It was also left with a 
+legacy of fossil fuel energy production that 
+has been a double-edged sword.  On the one 
+hand, fossil-fuel energy production has enabled 
+the economy to rebound quite well from a 
+fiscal standpoint, but on the other it has led to 
+degradation of some of its natural resources.
+Today,  Azerbaijan realizes the importance of 
+low-carbon development and is now looking 
+to foster the development of a green economy 
+and shift away from its reliance on fossil fuels. 
+To this end, the government has used domestic 
+and international funding to develop projects 
+and enact policies in several key sectors, 
+including energy, agriculture and transportation. 
+These actions have already achieved some 
+positive results.  With that in mind, this study 
+is intended to offer suggestions on general and 
+sector-specific actions to continue to foster a 
+transition that has already begun.
+Within the sectors of energy, agriculture 
+and transport, specific actions are proposed 
+that would assist in the transition to a green 
+economy model, including:
+•	 Energy: Increased energy efficiency 
+measures (production and consumption) 
+and renewable energy capacity; subsidy 
+and incentive reform in energy production; 
+shift away from fossil fuels.
+•	 Agriculture: Stricter supply chains; public-
+private partnerships with agri-business for 
+technology development/implementation; 
+education and capacity.building; stronger 
+regulation on agricultural inputs and 
+outputs.
+•	 Transport: Investment in public transit 
+options; stronger regulatory oversight; 
+investment in clean vehicle technology, 
+public procurement of zero/low carbon 
+transportation technologies and fuels.
+In order to ensure that these actions are 
+successful, the government will have to put 
+in place several green economy enabling 
+conditions, including:
+•	 Public procurement plans across 
+all sectors, with the goal of fostering 
+implementation of new technologies and 
+signalling that the government is leading by 
+example.
+•	 Strong regulatory systems designed to 
+mandate change, increase environmental 
+stringencies, and remove uncertainty to 
+provide confidence for the market.
+35
+•	 Subsidy	 and	 fiscal	 instrument	 reform, 
+including eliminating perverse subsidies 
+and reforming inefficient ones.  Other fiscal 
+instruments, such as carbon taxes, cap-
+and-trade and loan guarantees, should also 
+be considered.  Examination of potentiaal 
+investment partnerships with green private 
+sector-businesses can also support 
+transition to low carbon development.
+•	 Global	 financing. Using Azerbaijan’s 
+experience in accessing international 
+funding sources to target funds to projects 
+with green economy aspects; developing 
+a list of NAMAs may also be worth 
+considering.
+While several ideas have been expressed, it is 
+important that care and consideration goes into 
+all green economy transition planning, and thus 
+the implementation of these expressed ideas 
+should proceed with caution.  Some traditional 
+sectors could face negative economic impacts 
+and potential job reductions as a result of a green 
+transition.  The Government of Azerbaijan must 
+therefore advance in a way that is stable and 
+predictable, inspiring confidence and buy-in for 
+the transition to a green economy.  Measures 
+must be taken to offset economic slowdowns 
+in ‘brown’ sectors with the development of new 
+green sectors, and to ensure that employment 
+challenges are addressed for transitioning 
+workers.  Some degree of difficulty could 
+be expected as the country shifts to a green 
+economy, but maintaining a long-term outlook 
+for the development of a robust economy that 
+takes environmental, social and economic 
+sustainability into account will be in the best 
+interest of Azerbaijan and its citizens.
+Finally, Azerbaijan’s oil revenue can serve as 
+a vital funding source for the development of a 
+green economy within the country.  These funds, 
+used directly or indirectly through measures, 
+such as cap-and-trade, can be a way to kick-
+start the transition and serve as a leverage 
+mechanism for more international funding 
+support.  Using current strong financial flows 
+from fossil fuel development to fund a transition 
+to a more sustainable and environmental 
+friendly, long-term economic framework, and 
+one that Azerbaijan’s that  seized.
+36 
+Annex 1.  Total emission of pollutants into the air, 2000-2009
+Annex 2.  Emissions of individually-listed pollutants from stationary sources, 2000-2009
+Annex 3.  Rate abated emissions, 2000-2009
+ 
+Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Total emissions 908.1 1 000.0 620.7 837.9 975.3 1 054.3 875.1 969.9 922.7 -
+Stationary sources 515.4 577.0 217.4 425.9 539.8 557.9 544.2 385.9 280.7 300.0
+Precentage in total 57.0 58.0 35.0 51.0 55 53.0 39.0 40.0 30.0 -
+Mobile sources 392.7 423.0 403.2 412.0 435.5 496.4 530.9 584.0 642.0 -
+Percentagle in Total 43.0 42.0 65.0 49.0 45.0 47.0 61.0 60.0 70.0 -
+GDP per capita 
+(US$)
+665.0 714.0 774.0 897.0 1 060.0 1 600.0 2 509.0 3 906.0 5 404.0 4 874.0
+Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Dust 19.2 28.3 29.4 34.1 43.5 28.2 23.7 28.4 31.3 19.8
+SO2 35.1 14.7 13.6 15.5 13.2 13.8 12.4 9.2 8.0 4.3
+NOx 24.2 27.1 26.3 24.2 25.2 25.8 29.3 23.1 36.3 24.2
+CO 26.3 27.9 18.2 25.4 42.5 26.1 16.0 25.3 37.4 27.6
+Others 410.6 479.1 129.9 326.7 415.4 464.0 262.8 299.9 181.8 224.1
+ 
+Year 2000 2002 2003 2004 2005 2006 2007 2008 2009
+Pollutants generated 627.0 459.0 713.0 829.0 1,781.0 715.0 765.0 646.0 -
+Pollutants emitted 515.4 217.4 425.9 539.8 557.9 344.2 385.9 280.7 300.0
+Percentage abated 16.0 53.0 40.0 35.0 69.0 52.0 50.0 57.0 -
+37
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Indicator
+Air pollution 
+Emissions of SO2           
+- Total (t) 35 100.0 2 600.0 13 600.0 15 500.0 13 200.0 13 800.0 12 400.0 9 200.0 7 200.0  
+-  by sector (t)           
+    Energy     10 302.0 11 600.0 9 600.0 6 500.0 3 484.0 1 705.0
+    Industry     1 704.0 1 900.0 2 560.0 2 400.0 3 500.0 2 381.2
+    Transport     269.8 101.3 53.6 49.4 51.4 53.4
+    Other     924.2 198.7 186.4 250.6 164.6 -4139.6
+- per capita (kg/capita) 4.0 2.0 2.0 2.0 2.0 2.0 1.0 1.0 1.0 1.0
+- per unit of GDP (kg/
+1 000 National currency 
+units)
+          
+Emissions of NOx 
+(converted to NO2)
+          
+- Total (t) 24 200.0 27 100.0 26 300.0 24 200.0 25 200.0 25 800.0 29 300.0 23 100.0 28 700.0 24 184.0
+- by sector (t)           
+    Energy      19 800.0 22 800.0 17 400.0 15 100.0 13 267.0
+    Industry      5 500.0 6 000.0 5 300.0 13 100.0 10 510.0
+    Transport      130.0 150.0 200.0  182.8
+    Other      370.0 350.0 200.0 500.0 224.2
+- per capita (kg/capita) 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0
+ - per unit of GDP (kg/
+1 000 National currency 
+units)
+          
+Emissions of Ammonnia 
+NH3
+          
+- Total (t) 15.8 8.0 10.4 6.2 6.3 4.5 7.4 7.5 8.3 7.0
+- by sector (t) 24 200.0 24 000.0 26 300.0 24 200.0 25 200.0 25 800.0 29 300.0 23 100.0 28 700.0  
+    Energy           
+    Industry         7.8  
+    Transport           
+    Other           
+Emissions of total 
+suspended particles 
+(TSP)
+       19 802.0   
+- Total (t) 19 200.0 25 000.0 29 400.0 34 100.0 43 500.0 28 200.0 23 700.0 28 400.0 31 300.0  
+- by sector (t)           
+    Energy     660.5 706.0 600.0 500.0 300.0 225.5
+    Industry     39 787.0 25 700.0 21 600.0 26 800.0 30 200.0 19 128.0
+    Transport     51.0 36.1 23.8 23.1 27.4 24.3
+    Other     3 001.5 1 757.9 1 476.2 1 0769.9 772.6 424.2
+Annex 4.  Selected economic and environmental indicators (Source: Ministry of Environment and Natural Resources)
+38 
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Air pollution (continued)
+Emissions of non-
+methane volatile organic 
+compounds (NMVOC)
+          
+- Total (t) 185.0 194.0 143.0 139.0 172.0 130.0 130.0 127.0 127.0  
+- by sector (t)           
+    Energy 32.0 41.0 24.0 29.0 29.0 45.0 45.0 43.0 43.0  
+    Industry 153.0 153.0 119.0 110.0 143.0 85.0 84.0 84.0   
+    Transport     125.0 138.3 106.0 152.0 131.0 62.8
+    Other     -125.0 -138.3 -105.0 -152.0 -47.0 -62.8
+Emissions of persistent 
+organic pollutants 
+          
+(PCBs, dioxin/furan and 
+PAH)
+          
+- Total (t)    56.4 56.4 57.0 57.0 57.0 57.0  
+- by sector (t)           
+    Energy    45.2 45.2 45.2 46.0 46.0 46.0  
+    Industry    11.2 11.2 11.4 11.0 11.0 11.0  
+    Transport           
+    Other           
+Emissions of heavy 
+metals
+          
+- Total cadmium (t)           
+- Total lead (t)           
+- Total mercury (t)           
+Greenhouse gas 
+emission (total of CO2 
+CH4 N2, CFC, etc.)
+ expressed in CO2           
+- Total (t) 40 987 000.0 41 710 000.0 41 584 000.0 44 297 000.0 46 524 000.0 50 635 000.0 4 933 100.0 45 014 000.0 45 014 000.0  
+- by sector (t)           
+    Energy 33 734 000.0 34 002 000.0 33 513 000.0 36 147 000.0 38 063 000.0 41 003 000.0 41 030 000.0 36 714 000.0 36 714 000.0  
+    Industry 143  000.0 247 000.0 366 000.0 403 000.0 468 000.0 839 000.0 1 187 000.0 1 187 000.0 1 187 000.0  
+    Transport 2 279 000.0 2 472 000.0 2 562 000.0 2 921 000.0 3 432 000.0 3 632 000.0 3 978 000.0 1 187 000.0 1 187 000.0  
+    Agriculture 311 000.0 261 000.0 204 000.0 191 000.0 270 000.0 330 000.0 5 187 000.0 5 187 000.0 5 187 000.0  
+    Waste 2 641 000.0 2 788 000.0 2 809 000.0 2 704 000.0 2 914 000.0 3 607 000.0 1 596 000.0 1 906 000.0 1 906  000.0  
+    Other           
+Annex 4 (continued)
+39
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Air pollution (continued)
+Emissions of CO2           
+- Total (t) 29 274 000.0 28 842 000.0 28 703 000.0 31 347 000.0 33 280 000.0 35 845 000.0 35 006 000.0 31 957 000.0 31 957 000.0  
+- by sector (t)           
+    Energy 29 132 000.0 28 596 000.0 28 338 000.0 3 094 500.0 32 813 000.0 35 007 000.0 30 771 000.0 30 771 000.0 30 771 000.0  
+    Industry 142 000.0 246 000.0 365 000.0 402 000.0 467 000.0 838 000.0 1 187 000.0 187 000.0 1 187 000.0  
+    Transport     506.1 401.0 489.0 400.0 700.0 720.0
+    Agriculture     73.5 47.3 24.3 16.0 10.0 9.2
+    Waste           
+    Other 3.0 3.0 2.0 3.0 5.0 3.0 2.0 3.0 4.0 3.0
+- per capita (kg/capita)           
+-  per unit of GDP 
+(kg/1 000 national 
+currency units)
+          
+Urban population 
+exposed to air quality 
+exceedances
+          
+- Number of 
+exceedances of 
+maximum allowable 
+concentration 
+          
+   (MAC) (times/year)           
+- Air pollution index (% of 
+population affected)
+          
+- Consumption of ozone-
+depleting substances 
+(ODS) (t)
+37.3 36.5 87.2 76.4 109.2 64.4 50.0 2.7 2.5  
+Water
+Accessible freshwater 
+resources
+          
+Total (million m3)           
+- Surface water 
+(million m3)
+28 019.7 27 622.1 35 241.1 38 209.7 35 803.8 29 390.6 35 864.6 33 430.3 30 011.6 32 000.0
+- Groundwater 
+(million m3)
+9.0 9.0 9.0 9.0 9.0 9.0 9.0 9.0 9.0 9.0
+Water abstraction           
+Total abstraction 
+(million m3/year) )
+11 110.0 10 012.0 10 075.0 10 772.0 11 440.0 12 050.0 12 360.0 12 270.0 11 735.0 11 425.0
+Intensity of water usage           
+ (Water abstraction/
+accessible resources)
+          
+Annex 4 (continued)
+40 
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Water (continued)
+Total water consumption 
+by sectors (million m3)
+6 588.0 6 414.0 6 754.0 7 370.0 8 019.0 8 607.0 8 865.0 8 371.0 7 886.0 7 639.0
+- Households 449.0 408.0 503.0 512.0 498.0 521.0 523.0 360.0 348.0 383.0
+- Industry 2 316.0 2 273.0 1 977.0 2 264.0 2 264.0 2 360.0 2 508.0 2 157.0 2 042.0 1 638.0
+of which water used for 
+cooling
+1 875.0 1 863.0 1 704.0 2 236.0 2 173.0 2 284.0 2 198.0 2 078.0 2 485.0 1 991.0
+- Agriculture 3 819.0 3 709.0 4 248.0 4 579.0 5 240.0 5 710.0 5 817.0 5 837.0 5 474.0 5 577.0
+Household water 
+consumption index (l/
+capita/day)
+183.0 175.0 175.0 181.0 179.0 166.0 160.0 105.0 100.0  
+Nutrient and organic 
+water pollution 
+discharged into rivers 
+(thousand t)
+          
+- Suspended solids           
+- Biological oxygen 
+demand (BOD)
+          
+- Ammonium           
+- Nitrates           
+- Phosphates           
+Wastewater treatment 
+(average removal rate 
+in %)
+          
+- Suspended solids 96.5 96.0 97.1 97.1 96.8 95.2 97.2 95.2 94.1 93.2
+- Biological oxygen 
+demand (BOD)
+97.2 97.1 97.2 96.7 97.1 97.1 96.7 95.7 93.2 94.5
+- Ammonium 66.7 67.8 65.8 66.2 66.5 67.1 69.3 67.4 66.1 66.0
+- Nitrates 39.1 35.2 35.2 34.3 34.2 33.8 32.9 33.8 34.0 35.9
+- Phosphates 70.1 70.0 69.2 69.5 69.7 69.9 70.0 68.9 68.9 67.7
+Accidental and illegal 
+discharges of oil at sea 
+(t)
+          
+Biodiversity and living resources
+Protected areas           
+- Total Area (km2)           
+- Total Area (% of 
+national territory)
+          
+Protected Area IUCN 
+Categories (% of national 
+territory)
+          
+Ia Strict Nature Reserve           
+Ib Wilderness Area           
+II National Park           
+III Natural Monument           
+IV Habitat/ Species 
+Management Area
+          
+V Protected Landscape / 
+Seascape
+          
+Annex 4 (continued)
+41
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Biodiversity and living resources (continued)
+VI Managed Resource 
+Protected Area
+          
+- Total area (km2)           
+- Naturalness           
+Undisturbed by man 
+(1 000 ha)
+          
+Semi-natural (1 000 ha)           
+Plantation (1 000 ha)           
+- volume of the wood 
+(thousand m3)
+          
+- harvesting intensity 
+(harvest/growth)
+          
+Number of endangered 
+species (IUCN 
+categories)
+          
+- Critically endangered           
+- Endangered           
+- Vulnerable           
+Industrial fish catch (t)           
+- From fish farming (t)           
+- From natural water 
+bodies (t)
+          
+Land resources and soil
+Arable land (thousand 
+ha)
+1 825.6 1 835.7 1 837.2 1 838.5 1 840.7 1 843.2 1 841.3 1 854.0 1 860.2  
+Cultivated land 
+(thousand ha)
+1 041.5 1 162.3 1 222.9 1 219.5 1 293.8 1 327.9 1 326.3 1 323.9 1 499.9  
+Soil erosion           
+- % of total land 41.8 41.8 41.8 41.8 41.8 41.8 41.8 41.8 41.8 41.8
+- % of agricultural land 43.7 43.6 43.6 43.6 43.6 43.6 43.6 43.6 43.6 43.6
+Fertiliser use per ha of 
+cultivated land
+          
+- Mineral fertilizers (kg/
+ha)
+          
+- Organic fertilizers (t/ha)           
+Pesticide use (kg/ha)           
+Energy
+Total primary energy 
+supply (TPES) (Mtoe)
+       13.5 15.1 13.4
+Total final energy 
+consumption (TFC) 
+(Mtoe)
+       7.6 8.8 7.3
+- By fuel           
+Coal        0.0 0.0 0.0
+Petroleum products        2.8 3.2 2.9
+Gas        3.0 3.7 2.8
+Electricity        1.4 1.4 1.1
+Heat        0.4 0.4 0.3
+Annex 4 (continued)
+42 
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Energy (continued)
+Other         0.1 0.2
+- By sector           
+Industry        1.7 2.0 1.7
+Transport        1.9 2.2 1.8
+Agriculture        0.2 0.3 0.2
+Other        3.8 4.3 3.6
+Energy intensity TPES/
+GDP (PPP) (toe/
+thousand US$ (2000) 
+PPP)
+          
+Energy productivity GDP 
+(PPP)/TPES (thousand 
+US$ (2000) PPP/toe)
+          
+TPES/Population (toe 
+per capita)
+       1.57 1.74 1.52
+Transportation
+Number of transport 
+accidents (land, air and 
+maritime)
+1 987.0 1 985.0 2 196.0 2 311.0 2 388.0 3 179.0 3 197.0 3 104.0 2 970.0 2 792.0
+In which           
+- Died 596.0 559.0 642.0 724.0 811.0 1 065.0 1 027.0 1 107.0 1 052.0 930.0
+- Injured 2 199.0 2 228.0 2 486.0 2 691.0 2 766.0 3 668.0 3 606.0 3 432.0 3 232.0 3 044
+Size and composition 
+of motor vehicle fleet (1 
+000)
+440 626.0 451 642.0 457 442.0 511 460.0 554 031.0 612 069.0 690 012.0 773 318.0 860 047.0 925 866.0
+Freight vehicle fleet           
+- Trucks 78 566.0 77 142.0 76 928.0 79 019.0 80 918.0 90 852.0 97 395.0 110 391.0 113 088.0 117 378.0
+Passenger vehicle fleet           
+- Buses (including 
+passenger vans)
+16 756.0 17 275.0 17 422.0 18 781.0 20 991.0 26 735.0 27 474.0 28 092.0 29 340.0 29 985.0
+- Cars 332 026.0 342 958.0 350 559.0 400 439.0 438 964.0 479 447.0 548 979.0 616 853.0 700 080.0 759 203.0
+Passenger transportation 
+(milllion passenger 
+kilometres)
+11 367.0 11 741.0 11 968.0 12 588.0 13 814.0 14 746.0 15 956.0 17 657.0 18 981.0 19 745.0
+Freight transportation 
+(million ton kilometres)
+15 948.0 18 447.0 20 277.0 22 291.0 23 283.0 26 534.0 43 294.0 78 007.0 88 607.0 97 704.0
+Waste
+Generation of waste           
+- Total waste generation 
+(t)
+          
+- Hazardous waste (if 
+available, by class of 
+hazard) (t)
+26 556.0 16 437.0 9 777.0 26 861.0 11 183.0 12 831.0 29 518.0 10 381.0 24 255.0  
+ - Industrial waste (t)  23 922.6 44 243.9 60 452.5 63 031.9 64 139.5 61 999.6 31 688.5 48 469.8  
+ - Municipal waste (t)  5 300 000.0 7 724 200.0 7 868 800.0 7 431 700.0 7 321 500.0 6 600 000.0 6 797 700.0 6 160 000.0  
+Annex 4 (continued)
+43
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Waste (continued)
+- Radioactive (nuclear) 
+waste (t)           
+Transboundary 
+movements of hazardous 
+waste (t)
+189 950.0 31 680.0 15 320.0 18 350.0 14 630.0 9 753.0 2 220.9 2 901.0 8 080.0  
+Waste intensity (total 
+waste generated per unit 
+of GDP)
+(t/ 1 000 National 
+currency units) 26 600.0 16 400.0 9 800.0 26 800.0 11 200.0 12 800.0 29 500.0 10 400.0 24 200.0  
+Waste recycling and 
+reuse (t) 2 210.0 6 900.0 4 300.0 3 700.0 10 420.0 15 500.0 14 860.0 16 400.0 4 800.0  
+Health and democracy
+Drinking water quality           
+- Samples failing the 
+standards on sanitary-
+chemical indicators (%)
+20.0 20.0 15.0 28.0 22.0 16.0 19.0 18.0 18.0 15.0
+- Samples failing 
+the standards on 
+microbiological 
+indicators (%)
+13.0 12.0 9.0 20.0 11.0 10.0 8.0 9.0 11.0 10.0
+Population with access 
+to safe drinking water 
+(%)
+      78% accordingto research data  
+Population with access 
+to improved sanitation 
+(%)
+      80% accordingto research data (2006)  
+Incidence of typhoid, 
+paratyphoid infection
+(per 100 000 population) 0.2 0.3 0.1 0.2 0.1 0.1 0.1 0.1 0.4 0.0
+Salmonella infections 
+(per 100 000 population) 6.9 8.2 7.2 5.3 6.6 6.9 6.0 5.0 4.8 4.0
+Active tuberculosis 
+incidence rate (per 100 
+000 population)
+64.5 61.0 54.5 48.3 44.9 44.3 43.6 43.9 49.7 49.9
+Viral hepatitis incidence 
+rate, including 
+vaccination cases
+(per 100 000 population) 30.0 25.2 21.7 16.6 14.5 20.4 33.2 26.3 27.6 21.1
+Health expenditure (% 
+of GDP) 0.9 0.8 0.7 0.8 0.9 0.9 0.9 0.9 0.9 1.2
+Birth rate (per 1 000) 14.8 13.8 13.8 14.0 16.1 17.2 17.8 18.0 17.8 17.2
+Total fertility rate 2.0 1.8 1.8 1.9 2.1 2.3 2.3 2.3 2.3  
+Mortality rate (per 1 000) 5.9 5.7 5.8 6.0 6.1 6.3 6.2 6.3 6.2 5.9
+Infant mortality rate 
+(deaths/1000 live births) 16.4 16.6 16.7 15.5 14.4 12.7 11.9 12.1 11.4 11.3
+Female life expectancy 
+at birth (years) 75.1 75.2 75.0 75.1 75.2 75.1 75.1 75.8 76.1 76.1
+Annex 4 (continued)
+44 
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Health and democracy (continued)
+Male life expectancy at 
+birth (years) 68.6 68.6 69.4 69.5 69.6 69.6 69.6 70.1 70.8 70.9
+Life expectancy at birth 
+(years) 71.8 71.9 72.2 72.3 72.4 72.4 72.4 73.0 73.4 73.5
+Population aged 0-14 
+years (%) 29.8 28.6 27.5 26.4 25.4 24.5 23.8 23.2 22.6 22.6
+Population aged 65 or 
+over (%) 5.1 5.3 5.5 5.8 6.1 6.3 6.6 6.7 6.8 6.8
+Ageing index
+(Number of persons 
+65 years or over per 
+hundred persons under 
+age of 15)
+17.3 18.6 20.2 21.9 24.0 25.9 27.6 28.9 30.1 29.8
+Total population (million 
+inhabitants) 8 114.3 8 191.3 8 269.1 8 349 8 447 8 553 8 665.9 8 779.8 8 896.9 8 997.4
+- % change (annual) 0.8 0.8 0.8 0.8 1.0 1.1 1.1 1.1 1.2 1.1
+- Population density 
+(inhabitants/km2) 94.0 95.0 95.0 96.0 98.0 99.0 100.0 101.0 103.0 104.0
+Social and economic issues
+GDP           
+- change (2000=100) 100.0 109.9 121.5 135.2 149.0 188.3 253.3 316.6 350.8 383.4
+- change over previous 
+years (%) 111.1 109.9 110.6 111.2 110.2 126.4 134.5 125.0 110.8 109.3
+ - in current prices 
+(million National 
+currency)
+4 718.1 5 315.6 6 062.5 7 146.5 8 530.2 12 522.4 18 764.2 28 360.5 40 137.2 34 578.7
+- in current prices (million 
+US$) 5 272.8 5 707.7 6 235.9 7 276.0 8 680.4 13 238.7 20 983.0 33 050.3 48 852.5 43 024.4
+- per capita (US$) 662.9 710.5 768.9 888.5 1 048.5 1 579.8 2 471.6 3 841.7 5 603.3 4 874.1
+- per capita (US$ PPP 
+per capita)           
+Industrial output (annual 
+2000=100) 100.0 105.1 108.9 115.5 122.1 163.1 62.3 62.9 63.0 63.3
+Industrial output (% 
+change over previous 
+year)
+106.9 105.1 103.6 106.1 105.7 133.5 136.6 124.0 106.0 108.6
+Agricultural output (% 
+change over previous 
+year)
+112.1 111.1 106.4 105.6 104.6 107.5 100.9 104.0 106.1 103.5
+Share of agriculture in 
+GDP (%) 15.9 14.7 13.8 12.3 10.8 8.6 6.7 6.4 5.3 6.4
+Labour productivity in 
+industry (% change over 
+previous year)
+          
+Consumer price index 
+(CPI)
+(% Change over 
+preceding year, annual 
+average)
+101.8 101.5 102.8 102.2 106.7 109.6 108.3 116.7 120.8 101.5
+Annex 4 (continued)
+45
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Social and economic issues (continued)
+Producer price index 
+(PPI)
+ (% Change over the 
+preceding year, annual 
+average)
+127.4 101.8 97.7 116.1 112.9 118.9 117.7 108.0 111.6 80.8
+Registered 
+unemployment (% of 
+labour force, end of 
+period)
+          
+Labour force 
+participation rate (% of 
+15-64 year old)
+          
+Employment in 
+agriculture (%)           
+Current account balance           
+- Total (million US$) -167.8 -51.7 768.4 -2 020.5 -2 589.3 167.3 3 707.6 9 018.9 16 453.5 10 172.8
+- (As % of GDP) 3.2 0.9 12.3 27.8 29.8 1.2 17.6 27.2 33.7 23.6
+Balance of trade in 
+goods and services 
+(million US$)
+94.7 238.8 -454.0 -1516.4 -2077.2 1 329.1 5 821.9 13 093.2 20 669.1 12 970.3
+Net foreign direct 
+investment (FDI) 
+(million US$)
+29.2 220.1 1 066.9 2 293.1 2 329.7 458.2 -1306.4 -5102.7 -545.0 146.2
+Net foreign direct 
+investment (FDI) (as % 
+of GDP)
+0.6 3.8 17.1 31.5 26.8 3.4 6.2 15.4 1.1 0.3
+Cumulative FDI 
+(million US$)    3 948.7 4 697.5 4 475.3 4 468.9 4 291.1 3 982.4 2 899
+Foreign exchange 
+reserves           
+- Total reserves 
+(million US$)           
+- Total reserves as 
+months of imports           
+Export of goods 
+(million US$) 1 858.3 2 078.9 2 304.8 2 624.5 3 742.9 7 648.9 13 014.6 21 269.3 30 586.4 21 096.8
+Imports of goods 
+(million US$) 1 539.0 1 465.0 1 823.3 2 722.7 3 581.6 4 349.8 5 269.4 6 045.0 7 574.6 6 513.8
+Net external debt 
+(million US$) 1 158.0 1 162.0 1 385.0 1 575.0 1 588.0 1 650.0 1 972.0 2 441.9 3 001.1 3 421.8
+Ratio of net debt to 
+exports (%) 62.3 55.9 60.1 60.0 42.4 21.6 15.2 11.5 9.8 16.2
+Ratio of net debt to GDP 
+(%) 22.0 20.4 22.2 21.6 18.3 12.5 9.4 7.4 6.1 8.0
+Exchange rate, annual 
+averages (National 
+currency unit/US$)
+0.895 0.931 0.972 0.982 0.983 0.946 0.893 0.858 0.822 0.804
+Income and poverty
+GDP per capita 
+(1 000 US$/capita) 0.7 0.7 0.8 0.9 1.0 1.6 2.5 3.8 5.6 4.9
+Annex 4 (continued)
+46 
+ Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Social and economic issues (continued)
+Poverty  49.0 46.7 44.7 40.2 29.3 20.8 15.8 13.2 10.9
+- Population living below 
+50% of median income 
+(%)
+          
+Income inequality (Gini 
+coefficient)           
+Minimum to median 
+wages (minimum wage 
+as a percentage of 
+median wage)
+          
+Communications
+Telephone lines per 100 
+population 10.0 10.7 11.4 11.5 12.2 13.0 14.0 14.5 15.1 15.9
+Cellular subscribers per 
+100 population 5.3 7.9 9.7 12.8 17.4 26.8 39.0 52.4 69.9 87.8
+Personal computer in 
+use per 100 population      2.3 3.1 3.7 4.4  
+Internet users per 100 
+population      8.0 10.0 11.0 17.0  
+Education
+Literacy rate (%) 98.9 99.0 99.0 99.1 99.2 99.3 99.4 99.5 99.6 99.6
+Education expenditure 
+(% of the GDP) 3.9 3.5 3.1 3.3 3.4 3.0 2.5 2.5 2.4 3.3
+Annex 4 (continued)
+47
+1 According to the International Energy Agency’s World 
+Energy Outlook 2010, oil production in Azerbaijan is 
+expected to “level off by around 2014 and start to fall 
+gradually after 2020”.  See: IEA. (2010). World Energy 
+Outlook 2010. (p. 500)
+2 EIA. (2010). Country Analysis Briefs: Azerbaijan. 
+Energy Information Administration. 
+3 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+4 The World Bank. (2011). Azerbaijan at a 
+Glance. 
+5 The World Bank database; CIA The World Fact Book 
+2012.
+6 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+7 Ibid.
+8 UNECE. (2010). Environmental Performance Reviews: 
+Azerbaijan, Second Review. United Nations. United 
+Nations Economic Commission for Europe. 
+9 Figures courtesy of the National Academy of Science 
+of Azerbaijan. 
+10 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+11 Rabobank Economic Research Department. (2011). 
+Country Report – Azerbaijan. 
+12 Ibid.
+13 Ibid.
+14 Ibid.
+15 Ibid.
+16 The World Bank. (2011). Azerbaijan at a Glance. 
+17 Azerbaijan Business Center. World Bank supports gas 
+flaring reduction in Azerbaijan. News.az, 3 December 
+2009
+18 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+19 ADB. (2005). Country Environmental Analysis: 
+Azerbaijan.
+20 UNECE. (2010). Environmental Performance Reviews: 
+Azerbaijan, Second Review. United Nations. United 
+Nations Economic Commission for Europe.  
+21 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+22 ADB. (2005). Country Environmental Analysis: 
+Azerbaijan.
+23 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+24 ADB. (2005). Country Environmental Analysis: 
+Azerbaijan.
+25 UNECE. (2009). United Nations. UNECE Statistical 
+Database: Unemployment Rate. United Nations 
+Economic Commission for Europe.
+26 The World Bank. (2011). World Development 
+Indicators. Accessed 29 October 2012 from http://
+data.worldbank.org/data-catalog/world-development-
+indicators?cid=GPD_WDI
+27 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+28 UNECE. (2010). Environmental Performance Reviews: 
+Azerbaijan, Second Review. United Nations. United 
+Nations Economic Commission for Europe. 
+29 The World Bank. (2011). World Development Indicators.
+30 ADB. (2005). Country Environmental Analysis: 
+Azerbaijan.
+31 The World Bank. (2010). Azerbaijan: Living Conditions 
+Assessment Report.
+32 Israfilov, Vugar. Azerbaijan reports poverty rate 
+declining to 13.2%. Azeri-Press Agency, 13 March 
+2009; and CIA.(2011). The World Factbook: Azerbaijan. 
+United States. Central Intelligence Agency.
+33 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+34 UNEP. (2011). Towards a Green Economy. United 
+Nations. United Nations Environment Programme.
+35 Ibid.
+36 Ibid.
+37 For example, an end to fossil fuel subsidies could 
+lead to higher energy prices for citizens, and therefore 
+green economy moves like subsidy reform have to be 
+carefully considered for potential poverty impacts, and 
+these impacts must be offset by actions like investment 
+in social assistance programs (a pro-poor”initiative).
+38 UNEP. (2011). Towards a Green Economy. United 
+Nations. United Nations Environment Programme.
+39 Republic of Azerbaijan. Administrative Department of 
+the President of the Republic of Azerbaijan. (1997). 
+National Environment Action Plan (NEAP).
+40 Republic of Azerbaijan. President of the Republic 
+of Azerbaijan. (1999). The Law of the Republic of 
+Azerbaijan on the Protection of the Environment. 
+41 Republic of Azerbaijan. President of the Republic 
+of Azerbaijan. (2008). State Program on Poverty 
+Reduction and Sustainable Development in the 
+Republic of Azerbaijan for 2008-2015. 
+Notes
+48 
+42 Republic of Azerbaijan. President of the Republic of 
+Azerbaijan. (2009). State Program on Socio-Economic 
+Development of Regions of the Republic of Azerbaijan 
+for 2009-2013 Years. 
+43 ADB. (2005). Country Environmental Analysis: 
+Azerbaijan. 
+44 Republic of Azerbaijan. President of the Republic of 
+Azerbaijan. (2009). State Program on Socio-Economic 
+Development of Regions of the Republic of Azerbaijan 
+for 2009-2013 Years.
+45 Bloomington Energy and Environmental Intelligence. 
+(2009). Environmental Policy and Institutional Reform 
+in Azerbaijan: Report for the Ministry of Ecology and 
+Natural Resources, Government of Azerbaijan.
+46 ADB. (2005). Country Environmental Analysis: 
+Azerbaijan.
+47 EIA. (2010). Country Analysis Briefs: Azerbaijan. 
+Energy Information Administration.
+48 Ibid.
+49 World Bank database.  databank.worldbank.org/data/
+home.aspx 
+50 IEA. (2010). Share of Total Primary Energy Supply in 
+2008: Azerbaijan. International Energy Agency.
+51 IEA. (2010). Share of Total Primary Energy Supply in 
+2008: Azerbaijan. International Energy Agency.
+52 World Bank database.  databank.worldbank.org/data/
+home.aspxUnited
+53 EIA. (2010). Country Analysis Briefs: Azerbaijan. 
+Energy Information Administration.
+54 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+55 IFC. (2008). Energy Efficiency: A New Resource for 
+Sustainable Growth. International Finance Corporation.
+56 UNEP. (2011). Green Economy Report: Renewable 
+Energy. United Nations. United Nations Environment 
+Programme.  (p. 207209)
+57 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+58 ADB. (2008). ADB Projects - Power Distribution 
+Development Investment Program. Asian Development 
+Bank.Menecon Consulting. (2007). Energy Subsidies: 
+Their Magnitude, How they Affect Energy Investment 
+and Greenhouse Gas Emissions, and Prospects for 
+Reform. UNFCCC Secretariat Financial and Technical 
+Support Programme.
+59 Ibid.
+60 IMF. (2005). IMF Country Report - Azerbaijan: Selected 
+Issues. International Monetary Fund.
+61 Ismailzade, Fariz. Azerbaijan Making Tough Decisions 
+Under IMF Watch. Eurasia.net, 20 November 2002.
+62 Sources differ on the exact percentage, possibly 
+depending on definition of “subsidy” but IEA reports 1.6 
+percent in 2009, while OECD reports 5.25 percent in 
+2008:
+63 EA. (2010). World Energy Outlook 2010 - Fossil Fuel 
+consumption subsidy rates as a proportion of the full 
+cost of supply, 2009. International Energy Agency; 
+and Burniaux, J.M., J. Chateau. (2011). Mitigation 
+potential of Removing Fossil Fuel Subsidies: A General 
+Equlibrium Assessment. OECD Economic Department. 
+64 IEA. (2010). World Energy Outlook 2010 - Fossil Fuel 
+consumption subsidy rates as a proportion of the full 
+cost of supply, 2009. International Energy Agency.
+65 IEA. (2010). World Energy Outlook 2010. International 
+Energy Agency. (p. 470)
+66 Azerbaijan gets through with indirect energy subsidies. 
+ABC.az, 24 August 2010.  
+67 IEA. (2010). World Energy Outlook 2010. International 
+Energy Agency. (p. 480)
+68 UNEP. (2011). Green Economy Report: Renewable 
+Energy. United Nations. United Nations Environment 
+Programme.  (p. 205)
+69 Ibid., pp. 226-232. 
+70 Ibid., p. 204.
+71 The Climate Group. (2009). Breaking the Climate 
+Deadlock: Technology for a Low Carbon Future. 
+72 databank.worldbank.org/data/home.aspx
+73 Economic Research Center. Oxfam. (2009). The 
+Research on Agricultural Input Market in Azerbaijan. 
+74 Republic of Azerbaijan. President of the Republic 
+of Azerbaijan. (2008). State Program on Poverty 
+Reduction and Sustainable Development in the 
+Republic of Azerbaijan for 2008-2015. 
+75 UNEP. (2009). Energy Efficiency and Energy Intensity 
+in the Republic of Azerbaijan (draft paper). United 
+Nations. United Nations Environment Programme.
+76 Trading Economics. (2011). Livestock Production Index 
+(1999-2001 = 100) in Azerbaijan.
+77 Economic Research Center. Oxfam. (2009). The 
+Research on Agricultural Input Market in Azerbaijan.
+78 Figures courtesy of the National Academy of Science 
+of Azerbaijan. 
+Notes (continued)
+49
+79 Republic of Azerbaijan. President of the Republic 
+of Azerbaijan. (2008). State Program on Poverty 
+Reduction and Sustainable Development in the 
+Republic of Azerbaijan for 2008-2015.
+80 Ibid.
+81 Republic of Azerbaijan. President of the Republic of 
+Azerbaijan. (2009). State Program on Socio-Economic 
+Development of Regions of the Republic of Azerbaijan 
+for 2009-2013 Years. 
+82 Ibid.
+83 Economic Research Center. Oxfam. (2009). The 
+Research on Agricultural Input Market in Azerbaijan.
+84 NRDC. (1998). Trouble on the Farm: Growing Up 
+with Pesticides in Agricultural Communities. Natural 
+Resources Defence Council.
+85 UNFCCC. Global Warming Potentials. United Nations. 
+United Nations Framework Convention on Climate 
+Change.
+86 Republic of Azerbaijan. President of the Republic 
+of Azerbaijan. (2008). State Program on Poverty 
+Reduction and Sustainable Development in the 
+Republic of Azerbaijan for 2008-2015. 
+87 UNEP. (2011). Green Economy Report: Agriculture. 
+United Nations. United Nations Environment 
+Programme. (p. 36)
+88 FAO. (2011). Food Security Data and Definitions. Food 
+and Agriculture Organization of the United Nations.
+89 UNEP. (2011). Green Economy Report: Agriculture. 
+United Nations. United Nations Environment 
+Programme. (p. 36) 
+90 Ibid. (p. 51)
+91 GER notes that increases in farm mechanization 
+may have negative impacts on on-farm employment, 
+and therefore should be coupled with investment in 
+off-farm employment measures.  As in any sector, 
+traditional sector jobs may be affected by a  shift to a 
+green economy. Thus, plans must be in place to assist 
+workers in their transition to green employment (p. 54)
+92 UNEP. (2011). Green Economy Report: Agriculture. 
+United Nations. United Nations Environment 
+Programme. (p. 63)
+93 Oxfam suggests funding, as a generic example, to assist 
+farmers grow wheat instead of tobacco (Economic 
+Research Center. Oxfam. (2009). The Research on 
+Agricultural Input Market in Azerbaijan. 
+94 Republic of Azerbaijan. Embassy of the Republic of 
+Azerbaijan to the United States of America. (2011). 
+Transport.
+95 Republic of Azerbaijan. The State Statistical Committee 
+of the Republic of Azerbaijan. (2011). Azerbaijan in 
+Figures – Transport. 
+96  Figures courtesy of the National Academy of Science 
+of Azerbaijan. 
+97 CIA. (2011). The World Factbook: Azerbaijan. United 
+States. Central Intelligence Agency.
+98 Azeri-Press Agency. Azerbaijan sees 15 per cent rise in 
+transport sector. News.az, 21 March 2011.
+99 United Nations. United Nations Environment 
+Programme. Towards a Green Economy. UNEP, 2011. 
+(p. 390)
+100 The initiative for the revitalization of the former silk road 
+is called the Transport Corridor Europe Caucasus Asia 
+(TRACECA), and has gotten a great deal of government 
+support in the Caucasus.  A substantial amount of 
+Azerbaijan funding for transport is directed to this 
+initiative.  More information on TRACECA is available 
+at: http://www.traceca-org.org/en/home/ 
+101 ADB. (2005). Technical Assistance to the Republic of 
+Azerbaijan for Transport Sector Development Strategy. 
+Asian Development Bank.
+102 Ibid. 
+103 UNEP. (2011). Towards a Green Economy. 
+United Nations. United Nations Environment 
+Programme. 
+104 ITF. (2010). Reducing Transport Greenhouse Gas 
+Emissions - Trends & Data. International Transport 
+Forum.
+105 UNEP. (2011). Towards a Green Economy. 
+United Nations. United Nations Environment 
+Programme. 
+106 WHO. (2009). Global Status Report on Road Safety - 
+Time for Action. World Health Organization.
+107 UNEP. (2011). Towards a Green Economy. United 
+Nations. United Nations Environment Programme. (p. 
+380)
+108 Ibid. (p. 380-390)
+109 Ibid. (p. 390)
+110 Ibid. (p. 380)
+111 ADB. (2005). ADB TA to Develop Transport Sector 
+Strategy for Azerbaijan. Asian Development Bank.
+112 ADB. (2006). Overview of the Azerbaijan Transport 
+System & Transport Sector Development Strategy.
+113 ADB. (2005). ADB TA to Develop Transport Sector 
+Strategy for Azerbaijan. Asian Development Bank.
+114 Mustafayev, Nijat. $8.5 billion to be invested in 
+transportation sector in Azerbaijan. Azeri-Press Agency, 
+29 April 2008.  
+Notes (continued)
+50 
+115 $2bn invested in Azerbaijan’s transport sector. News.
+az, 18 March 2010.
+116 gtz. (2009). International Fuel Prices 2009 - 6th Edition. 
+(p. 35)
+117 WHO. (2009). Global Status Report on Road Safety - 
+Time for Action. World Health Organization.
+118 Public transport a priority, says Azerbaijani leader. 
+News.az, 30 June 2011.  
+119 UNEP. (2011). Towards a Green Economy. United 
+Nations. United Nations Environment Programme. (p. 
+546)
+120 A more detailed examination of enabling conditions 
+is available in the UNEP Green Economy 
+Report. 
+121 UNEP. (2011). Towards a Green Economy. United 
+Nations. United Nations Environment Programme. (p. 
+547)
+122 US EPA. (2010). Renewable Portfolio Standards Fact 
+Sheet. United States. United States Environmental 
+Protection Agency.
+123 INOGATE. (2010). Azerbaijan - Energy Sector Review. 
+124 UNEP. (2011). Towards a Green Economy. United 
+Nations. United Nations Environment Programme. (p. 
+546)
+125 GSI. (2008). About the GSI. Global Subsidies Initiative. 
+International institute for Sustainable Development.
+126 Ibid.  
+127 UNEP. (2011). Towards a Green Economy. 
+United Nations. United Nations Environment 
+Programme. 
+128 EBRD. (2010). Azerbaijan Strategy. European Bank for 
+Reconstruction and Development. 
+129 ADB. (2011). Azerbaijan: Projects - Recently Updated 
+Projects. Asian Development Bank. 
+130 The World Bank. (2011). Azerbaijan: Projects & 
+Operations. 
+131  GEF. (2010). GEF Projects for Azerbaijan. The Global 
+Environment Facility. 
+132  UNFCC. (2011). Clean Development Mechanism 
+(CDM) - Project 4822: Yeni Yashma Wind Farm. United 
+Nations. United Nations Framework Convention on 
+Climate Change.
+133  UNFCC. (2011). Appendix II - Nationally Appropriate 
+Mitigation Actions of Developing Country Parties. 
+United Nations. United Nations Framework Convention 
+on Climate Change.
+51
+References
+$2bn invested in Azerbaijan’s transport sector. News.az, 
+18 March 2010. Accessed 29 October 2012 from http://
+www.news.az/articles/11807 
+ADB. (2008). ADB Projects - Power Distribution 
+Development Investment Program. Asian Development 
+Bank. Accessed 29 October 2012 from http://pid.adb.org/
+pid/TaView.htm?projNo=42401&seqNo=01&typeCd=2 
+ADB. (2005). ADB TA to Develop Transport Sector Strategy 
+for Azerbaijan. Asian Development Bank. 
+Accessed 29 October 2012 from http://beta.adb.org/news/
+adb-ta-develop-transport-sector-strategy-azerbaijan 
+ADB. (2011). Azerbaijan: Projects - Recently Updated 
+Projects. Asian Development Bank. Accessed 29 October 
+2012 from: http://www.adb.org/Azerbaijan/projects.asp
+ADB. (2005). Country Environmental Analysis: Azerbaijan. 
+Asian Development Bank. Accessed 29 October 2012 
+from http://www.adb.org/Documents/Studies/Ctry-
+Environmental-Analysis/2005/AZE/aze-cea.pdf 
+ADB. (2006). Overview of the Azerbaijan Transport System 
+& Transport Sector Development Strategy. 
+Asian Development Bank. Accessed 29 October 2012 
+ h t t p : / / w w w . a d b . o r g / D o c u m e n t s / R e p o r t s /
+Consultant/39030-AZE/39030-AZE-TACR.pdf 
+ADB. (2005). Technical Assistance to the Republic of 
+Azerbaijan for Transport Sector Development Strategy. 
+Asian Development Bank. Accessed 29 October 2012
+ ht tp : / /www.adb.org/Documents /TARs/AZE/ tar -
+aze-39030.pdf 
+Azerbaijan Business Center. World Bank supports gas 
+flaring reduction in Azerbaijan. News.az, 3 December 
+2009 at: http://test.news.az/articles/economy/3796
+Azerbaijan gets through with indirect energy subsidies. ABC.
+az, 24 August 2010.  Accessed 29 October 2012 from 
+http://abc.az/eng/news/47441.html 
+Azeri-Press Agency. Azerbaijan sees 15 per cent rise in 
+transport sector. News.az, 21 March 2011. Accessed 
+29 October 2012 from http://www.news.az/articles/
+economy/33269 
+Bloomington Energy and Environmental Intelligence. 
+(2009). Environmental Policy and Institutional Reform 
+in Azerbaijan: Report for the Ministry of Ecology 
+and Natural Resources, Government of Azerbaijan. 
+Accessed 29 October 2012 from http://bloomingtoneei.
+com/PDFs/Environmental%20Policy%20Reform%20
+Azerbaijan per cent20Policy% per cent20Reform% per 
+cent20Azerbaijan.pdf 
+Burniaux, J.M., J. Chateau. (2011). Mitigation potential of 
+Removing Fossil Fuel Subsidies: A General Equlibrium 
+Assessment. OECD Economic Department. 
+CIA. (2011). The World Factbook: Azerbaijan. United States. 
+Central Intelligence Agency. Accessed 29 October 2012 
+from http://www.nationmaster.com/country/aj-azerbaijan/
+tra-transportation 
+CIA. (2010). The World Factbook: Current Account Balance. 
+United States. Central Intelligence Agency.
+Accessed 29 October 2012 from https://www.cia.gov/library/
+publications/the-world-factbook/rankorder/2187rank.htm
+l?countryName=Azerbaijan&countryCode=aj&regionCo
+de=mde&rank=19#aj 
+Economic Research Center. Oxfam. (2009). The Research 
+on Agricultural Input Market in Azerbaijan. 
+at: http://www.erc-az.org/new/uploads/file/Research20 per 
+cent20_project_Azerbaijan_ERC.pdf
+EIA. (2010). Country Analysis Briefs: Azerbaijan. Energy 
+Information Administration. Accessed 29 October 2012 
+from http://www.eia.gov/cabs/azerbaijan/pdf.pdf 
+EBRD. (2010). Azerbaijan Strategy. European Bank for 
+Reconstruction and Development. 
+Accessed 29 October 2012 from http://www.ebrd.com/
+pages/country/azerbaijan/strategy.shtml 
+FAO. (2011). Food Security Data and Definitions. Food and 
+Agriculture Organization of the United Nations. Accessed 
+29 October 2012 from http://www.fao.org/economic/ess/
+ess-fs/fs-data/ess-fadata/en/ 
+GEF. (2010). GEF Projects for Azerbaijan. The Global 
+Environment Facility. http://www.thegef.org/gef/gef_
+country_prg/AZ
+GSI. (2008). About the GSI. Global Subsidies Initiative. 
+International institute for Sustainable Development at: 
+http://www.globalsubsidies.org/general/about-gsi
+gtz. (2009). International Fuel Prices 2009 - 6th Edition at: 
+http://www.gtz.de/de/dokumente/gtz2009-en-ifp-full-
+version.pdf
+INOGATE. (2010). Azerbaijan - Energy Sector Review. 
+Accessed 29 October 2012 from http://www.inogate.org/
+index.php?option=com_inogate&view=countrysector&id
+=12&Itemid=63&lang=en 
+IEA. (2010). Share of Total Primary Energy Supply in 2008: 
+Azerbaijan. International Energy Agency. 
+Accessed 29 October 2012 from http://www.iea.org/stats/
+pdf_graphs/AZTPESPI.pdf 
+IEA. (2010). World Energy Outlook 2010. International 
+Energy Agency. 
+IEA. (2010). World Energy Outlook 2010 - Fossil Fuel 
+consumption subsidy rates as a proportion of the full cost 
+of supply, 2009. International Energy Agency. Accessed 
+29 October 2012 from http://www.iea.org/subsidy/index.
+html 
+52 
+IFC. (2008). Energy Efficiency: A New Resource 
+for Sustainable Growth. International Finance 
+Corporation. Accessed 29 October 2012 from http://
+www.ifc.org/i fcext/ueep.nsf/AttachmentsByTit le/
+AzerbaijanEEsurvey/$FILE/AzerbaijanEEsurveyEN.pdf 
+IMF. (2003). Back to Basics. International Monetary Fund. 
+Accessed 29 October 2012 from http://www.imf.org/
+external/pubs/ft/fandd/2003/03/ebra.htm 
+IMF. (2005). IMF Country Report - Azerbaijan: Selected 
+Issues. International Monetary Fund. Accessed 29 
+October 2012 from http://www.imf.org/external/pubs/ft/
+scr/2005/cr0517.pdf 
+ITF. (2010). Reducing Transport Greenhouse Gas 
+Emissions - Trends & Data. International Transport 
+Forum. Accessed 29 October 2012 from http://www.
+internationaltransportforum.org/Pub/pdf/10GHGTrends.
+pdf 
+Ismailzade, Fariz. Azerbaijan Making Tough Decisions Under 
+IMF Watch. Eurasia.net, 20 November 2002. Accessed 
+29 October 2012 from http://www.eurasianet.org/
+departments/business/articles/eav112102.shtml 
+Israfilov, Vugar. Azerbaijan reports poverty rate declining to 
+13.2%. Azeri-Press Agency, 13 March 2009. Accessed 29 
+October 2012 from http://en.apa.az/news.php?id=98813 
+Menecon Consulting. (2007). Energy Subsidies: Their 
+Magnitude, How they Affect Energy Investment and 
+Greenhouse Gas Emissions, and Prospects for Reform. 
+UNFCCC Secretariat Financial and Technical Support 
+Programme. Accessed 29 October 2012 from http://
+unfccc.int/files/cooperation_and_support/financial_
+mechanism/application/pdf/morgan_pdf.pdf 
+Mustafayev, Nijat. $8.5 billion to be invested in transportation 
+sector in Azerbaijan. Azeri-Press Agency, 29 April 2008. 
+Accessed 29 October 2012 from http://en.apa.az/news.
+php?id=47932 
+NAS. (2011). Green Economy in Azerbaijan: Present Status 
+and Future Perspectives. The National Academy of 
+Science of Azerbaijan.
+NRDC. (1998). Trouble on the Farm: Growing Up with 
+Pesticides in Agricultural Communities. Natural 
+Resources Defence Council. Accessed 29 October 2012 
+from http://www.nrdc.org/health/kids/farm/chap1.asp 
+Public transport a priority, says Azerbaijani leader. News.az, 
+30 June 2011.  Accessed 29 October 2012 from http://
+www.news.az/articles/society/39508 
+Radobank. Economic Research Department. (2011). 
+Country Report – Azerbaijan. at: http://www.rabobank.
+com/content/images/Azerbaijan-201101_tcm43-105872.
+pdf
+Republic of Azerbaijan. Embassy of the Republic of 
+Azerbaijan to the United States of America. (2011). 
+Transport. Accessed 29 October 2012 from http://www.
+azembassy.us/4/46.html 
+Republic of Azerbaijan. Ministry of Environment and 
+Natural Resources. (2010). Selected Environmental and 
+Economic Indicators. 
+Republic of Azerbaijan. Administrative Department of the 
+President of the Republic of Azerbaijan. (1997). National 
+Environment Action Plan (NEAP). Accessed 29 October 
+2012 from http://files.preslib.az/projects/azereco/en/eco_
+m4_1.pdf 
+Republic of Azerbaijan. President of the Republic of 
+Azerbaijan. (1999). The Law of the Republic of Azerbaijan 
+on the Protection of the Environment. http://www.cawater-
+info.net/library/eng/az_prot_env.pdf
+Republic of Azerbaijan. President of the Republic of 
+Azerbaijan. (2008). State Program on Poverty Reduction 
+and Sustainable Development in the Republic of 
+Azerbaijan for 2008-2015. 
+Republic of Azerbaijan. President of the Republic of 
+Azerbaijan. (2009). State Program on Socio-Economic 
+Development of Regions of the Republic of Azerbaijan 
+for 2009-2013 Years. 
+Republic of Azerbaijan. State Statistical Committee of the 
+Republic of Azerbaijan. (2007). Azerbaijan in Figures 
+2007.  http://www.azstat.org/publications/azfigures/2007/
+en/001.shtml#t1_2
+Republic of Azerbaijan. The State Statistical Committee of 
+the Republic of Azerbaijan. (2011). Azerbaijan in Figures 
+– Transport. Accessed 29 October 2012 from http://www.
+azstat.org/publications/azfigures/2011/en/015.shtml 
+The Climate Group. (2009). Breaking the Climate Deadlock: 
+Technology for a Low Carbon Future. 
+GEF, 2010. Available at: http://www.thegef.org/gef/gef_
+country_prg/AZ
+The World Bank. (2010). Azerbaijan: Living Conditions 
+Assessment Report. Accessed 29 October 2012 from 
+http://go.worldbank.org/Y4NHUYRF10 
+The World Bank. (2011). Azerbaijan: Projects & 
+Operations. Accessed 29 October 2012 from http://
+web.worldbank.org/external/projects/main?pagePK=2
+17672&piPK=95916&theSitePK=40941&menuPK=22
+3661&category=regcountries&regioncode=5&country
+code=AZ&pagenumber=1&pagesize=10&sortby=BOA-
+RDSORTDATE&sortorder=DESC 
+The World Bank. (2011). Azerbaijan at a Glance. Accessed 
+29 October 2012 from http://devdata.worldbank.org/AAG/
+aze_aag.pdf 
+53
+The World Bank. (2002). Going Informal: Benefits and Costs. 
+The World Bank. (2011). World Development Indicators. 
+Accessed 29 October 2012 from http://data.
+worldbank.org/data-catalog/world-development-
+indicators?cid=GPD_WDI 
+Trading Economics. (2011). Livestock Production Index 
+(1999-2001 = 100) in Azerbaijan. Accessed 29 October 
+2012 from http://www.tradingeconomics.com/azerbaijan/
+livestock-production-index-1999-2001--100-wb-data.html 
+UNDP. (2007). Azerbaijan’s Q1 Inflation Rate 16.6%, per 
+cent, National Bank Chief Says. United Nations. United 
+Nations Environment Programme. UNDP Azerbaijan 
+Development Bulletin. Accessed 29 October 2012 from 
+http://www.un-az.org/undp/bulnews48/e3.php   
+UNECE. (2010). Environmental Performance Reviews: 
+Azerbaijan, Second Review. United Nations. United 
+Nations Economic Commission for Europe. 
+UNECE. (2009). United Nations. UNECE Statistical 
+Database: Unemployment Rate. United Nations 
+Economic Commission for Europe. Accessed 29 October 
+2012 from http://w3.unece.org/pxweb/quickstatistics/
+readtable.asp?qs_id=43 
+UNEP. (2009). Background Paper for the Ministerial 
+Consultations. United Nations. Governing Council of 
+the United Nations Environment Programme. Eleventh 
+special session of the Governing Council/Global 
+Ministerial Environment Forum. 
+UNEP. (2009). Energy Efficiency and Energy Intensity in 
+the Republic of Azerbaijan (draft paper). United Nations. 
+UNECE, 2009. Available at: http://w3.unece.org/pxweb/
+quickstatistics/readtable.asp?qs_id=43
+UNEP. (2011). Enabling Conditions: Supporting the Transition 
+to a Global Green Economy. 
+United Nations. United Nations Environment Programme. 
+Accessed 29 October 2012 from http://www.unep.org/
+greeneconomy/Portals/88/documents/ger/GER_14_
+EnablingConditions.pdf 
+UNEP. (2011). Green Economy Report: Agriculture. United 
+Nations. United Nations Environment Programme. 
+Accessed 29 October 2012 from http://www.unep.org/
+greeneconomy/Portals/88/documents/ger/GER_2_
+Agriculture.pdf  
+UNEP. (2011). Green Economy Report: Renewable Energy. 
+United Nations. United Nations Environment Programme. 
+Accessed 29 October 2012 from http://www.unep.org/
+greeneconomy/Portals/88/documents/ger/GER_6_
+RenewableEnergy.pdf 
+UNEP. (2011). Towards a Green Economy. United Nations. 
+United Nations Environment Programme. 
+Accessed 29 October 2012 from http://www.unep.org/
+greeneconomy/GreenEconomyReport/tabid/29846/
+Default.aspx 
+UNFCC. (2011). Appendix II - Nationally Appropriate 
+Mitigation Actions of Developing Country Parties. 
+United Nations. United Nations Framework Convention 
+on Climate Change. Accessed 29 October 2012 from 
+http://unfccc.int/meetings/cop_15/copenhagen_accord/
+items/5265.php 
+UNFCC. (2011). Clean Development Mechanism (CDM) - 
+Project 4822: Yeni Yashma Wind Farm. United Nations. 
+United Nations Framework Convention on Climate 
+Change. Accessed 29 October 2012 from http://cdm.
+unfccc.int/Projects/DB/DNV-CUK1305694911.36/view 
+UNFCCC. Global Warming Potentials. United Nations. 
+United Nations Framework Convention on Climate 
+Change. Accessed 29 October 2012 from http://unfccc.
+int/ghg_data/items/3825.php 
+US EPA. (2010). Renewable Portfolio Standards Fact Sheet. 
+Available at: https://www.cia.gov/library/publications/the-
+world-factbook/rankorder/2187rank.html?countryName=
+Azerbaijan&countryCode=aj&regionCode=mde&rank=1
+9#aj
+United States Environmental Protection Agency. Accessed 
+29 October 2012 from http://www.epa.gov/chp/state-
+policy/renewable_fs.html 
+WHO. (2009). Global Status Report on Road Safety - Time 
+for Action. World Health Organization.  http://whqlibdoc.
+who.int/publications/2009/9789241563840_eng.pdf 
+Accessed 29 October 2012
+54 
+Azerbaijan National Academy of Science For more information, contact:
+UNEP DTIE
+Economics and Trade Branch
+chemin des Anémones 11-13
+1219 Châtelaine/Geneva
+Switzerland
+T:  +41 (0)22 917 82 43
+F:  +41 (0)22 917 80 76
+www.unep.org/greeneconomy

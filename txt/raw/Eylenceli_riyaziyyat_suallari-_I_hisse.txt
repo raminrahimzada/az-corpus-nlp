@@ -1,0 +1,1147 @@
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat 
+Sualları 
+1-ci hissə 
+ 
+ 
+ 
+2013 
+Tərlan Nəzərov  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları 
+1-ci hissə 
+ 
+Müəllif: 
+Tərlan Nəzərov 
+Hazırlanma tarixi: 
+Oktyabr 2013 
+ 
+Web-səhifə: 
+diqqetriyaziyyat.wordpress.com 
+ 
+https://www.facebook.com/DiqqetRiyaziyyat  
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 4 - 
+ 
+1. Ardıcıl Rəqəmlər 
+                       
+Xanalardakı  rəqəmlərin yerlərini elə dəyişdirin ki, heç bir iki ardıcıl ədəd bir-
+birinə qonşu xanalarda  olmasın (yəni, ardıcıl rəqəmlər nə vertikal, nə horizontal, 
+nə də ki diaqonal istiqamətdə qonşu olmasınlar). 
+ 
+ 
+ 
+2. Spiral 
+ 
+35 sayda karandaş şəkildə təsvir olunduğu kimi spiral şəklində düzülmüşdür. Dörd 
+karandaşın yerini elə dəyişdirin ki, 3 ədəd kvadrat alınsın. 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 5 - 
+ 
+3. Səyyar Tacir 
+ 
+Şəkildə hər 64 kvadrat bir şəhəri, kvadratları birləşdirən xəttlər isə şəhərlər 
+arasındakı yolları təsvir edir(Xəttin olmaması yolun olmadığını bildirir).Səyyar 
+tacir qara xana ilə işarə olunmuş şəhərdən başlayaraq 64 şəhərin hamısına səyahət 
+edib alqı-satqı etməlidir.Amma bir şərt var: Tacir hər şəhərdən yalnız və yalnız bir 
+dəfə keçə bilər və cəmi 14 dəfə sağa və ya sola dönə bilər.Səyahəti istənilən 
+şəhərdə bitirmək olar, yəni tacir səyahətin axırında, başladığı şəhərə dönmək 
+məcburiyyətində deyil. Tacir bu səyahəti necə edə bilər? 
+ 
+ 
+4. Toy məclisi 
+ 
+Toydakı masaların birində 6 adam oturmuşdur. Sübut edin ki, ya bu 6 adamdan ən 
+azı üçü bir-birini tanıyır, ya da ki ən azı üçü bir-birlərini tanımır. 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 6 - 
+ 
+5. Bərabərlik 
+ 
+Yalnız bir kibrit çöpünün yerini dəyişməklə, doğru bərabərlik əldə edə 
+bilərsinizmi? 
+ 
+ 
+ 
+6. Sirli Saat 
+ 
+Şəkildəki 6-bucaqlı formasındakı saata diqqət yetirin.Saatdakı rəqəmlərin yerini elə 
+dəyişə bilərsinizmi ki, istənilən 6 tərəfdəki  rəqəmlərin cəmi 17-yə bərabər olsun? 
+(Hal-hazırda bu belə deyil, çünki 1+2+3<17, 3+4+5<17,9+10+11>17 və s.) 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 7 - 
+ 
+ 
+7. Təbaşir çubuqları 
+ 
+Təsəvvür edin ki, sizə şəkildə təsvir olunan 7 silindr formalı təbaşir çubuğu verilib. 
+Bu çubuqları elə yerləşdirə bilərsinizmi ki, çubuqların hər biri digərlərinin 
+hamısına toxunsun? 
+ 
+ 
+ 
+8. Bərabərliklər 
+ 
+Xanaları 1-dən 9-a qədər rəqəmlərin hər birindən yalnız bir dəfə istifadə etməklə 
+elə doldurun ki, hər iki bərabərlik doğru olsun. 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 8 - 
+ 
+9. Zəif Bənd 
+ 
+Sual işarəsinin yerində hansı ədəd olmalıdır? 
+ 
+ 
+ 
+ 
+ 
+10. Tanış adamlar 
+Zalda bir neçə(azı 2) adam var. Bu adamlardan bəziləri tanışdır, bəziləri isə tanış 
+deyil.Sübut edin ki, zaldakı adamlardan hansısa ikisinin həmin zalda eyni sayda 
+tanışı var. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 9 - 
+ 
+11. Üç kəsrin cəmi 
+ 
+Tənlikdəki xanaları 1-dən 9-a qədər rəqəmlərin hər birindən yalnız bir dəfə istifadə 
+etməklə elə doldurun ki, kəsrlərin cəmi vahidə bərabər olsun. (Yanaşı xanalar iki 
+rəqəmli ədədi təsvir edir.) 
+ 
+ 
+ 
+ 
+12. Lövhədəki Rəqəmlər 
+ 
+Lövhədə 1-dən 2013-ə kimi bütün ədədlər yazılmışdır. Hər gedişdə bu ədədlərdən 
+ikisini lövhədən silib, yerinə onların fərqini yazmağa icazə var. Göstərin ki, bu 
+gedişdən nə qədər istifadə etsək də, lövhədə yalnız sıfırların qalmasına nail ola 
+bilmərik. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 10 - 
+ 
+13. Bilyard Kürələri 
+ 
+15 kürəli bilyard oyunu ilə yəqin ki, tanışsınız. Üzərində 1-dən 15-ə qədər rəqəmlər 
+yazılmış bu kürələri üçbucaq şəklində elə yerləşdirin ki, iki qonşu daşdakı 
+rəqəmlərin müsbət fərqi(yəni fərqin modulu) onların aşağısında olan və ikisinə də 
+toxunan daşdakı rəqəmə bərabər olsun. Nümunə üçün ilk üç düzülüşə diqqət edin. 
+ 
+14. Qarışqa yuvası 
+ 
+Şəkildə təsvir olunmuş qarışqa yuvanın daxilindədir, yoxsa xaricində? Bunu asan 
+yolla necə tapmaq olar? 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 11 - 
+ 
+15. Dörd velosipedçi 
+ 
+Şəkildə təsvir olunmuş velosipedçilərdən hər biri, mərkəzdən eyni anda başlayıb 
+çevrə üzrə hərəkət edir. Onlardan biri saatda 6km, biri saatda 9 km, biri saatda 12 
+km və sonuncusu isə saatda 15 km sürətlə hərəkət edirlər. Onlar mərkəzdən eyni 
+vaxtda sürməyə başlamamış razılaşırlar ki, 4-ü də eyni anda mərkəzdə görüşənə 
+kimi sürsünlər.Çevrələrin dördünün də uzunluğu 1/3 km-dirsə, bu hadisə neçə 
+dəqiqəyə baş verəcək? 
+ 
+ 
+16. Pul hədiyyəsi 
+ 
+Bir ata öz oğluna 150 manat hədiyyə verdi,  digər bir ata isə öz oğluna 100 manat 
+hədiyyə verdi. Ancaq məlum oldu ki, iki oğlun pullarının cəmi yalnız 150 manat 
+artıb.Bunu necə izah etmək olar? 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 12 - 
+ 
+17. Altı Çevrə 
+ 
+Təsvir olunan 6 çevrədən hər biri 8 qara nöqtələrin dördündən keçirlər.1-dən 8-ə 
+qədər rəqəmləri qara nöqtələrdə elə yerləşdirin ki, hər bir çevrədəki dörd rəqəmin 
+cəmi bərabər olsun. 
+ 
+ 
+18. At nalı 
+ 
+Şəkildə təsvir olunmuş at nalını yalnız iki düz xəttin köməyi ilə 6 hissəyə bölə 
+bilərsinizmi? 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 13 - 
+ 
+19. Musiqi Notları 
+ 
+Bu sualda, rəqəmlər hərflər ilə (yəni ədədlər notlar ilə) əvəz olunub. Eyni hərflər 
+bərabər rəqəmləri göstərir. Notlar  hansı ədədlərə bərabər olmalıdır ki, hər üç 
+bərabərlik doğru olsun?   
+ 
+ 
+ 
+20. Məhkum qaçışda 
+ 
+Təqdim olunan diaqramda P-polisi, M isə məhkumu təsvir edir. Onların hər ikisi 
+bir gedişə qonşu dairəyə keçə bilərlər. İlk gedişi polis edir. Məhkum da həmişə 
+polisdən qaçmaq məqsədilə elə dairəyə gedir ki, tutulmasın. Polis ən azı neçə gediş 
+etməlidir ki,  məhkumu yaxalasın ? 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 14 - 
+ 
+21. Üçbucaqların sayı 
+ 
+ 
+Şəkildə təsvir olunmuş fiqurda neçə fərqli üçbucaq var? 
+ 
+22. Pərdədəki milçəklər 
+ 
+Şəkildə təsvir olunduğu kimi, pərdəyə 9 milçək qonub. Onlar təsadüfən elə 
+yerləşiblər ki, hər hansı iki milçək eyni sətir və ya sütunda deyil. Bir dəqiqədən 
+sonra 9 milçəkdən 3-ü yerlərini dəyişərək qonşu boş xanalara keçirlər, digər 6-sı 
+isə olduqları xanada qalırlar. Lakin məlum olur ki, 3 milçək yerini dəyişsə də, 
+yenidən heç bir iki milçək eyni sətir və sütunda deyil. Bunu bilərək tapa 
+bilərsinizmi ki, hansı 3 milçək yerini dəyişib və onlar hansı xanaya keçiblər?    
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 15 - 
+ 
+23. Konsentrik çevrələr 
+ 
+1-dən 33-ə qədər ədədləri kiçik dairəciklərə elə yerləşdirin ki, diametrlərdəki və 
+çevrələrdəki(mərkəzi də daxil olmaqla) ədədlərin cəmi, eyni olsun. 
+ 
+ 
+24. Bərabərsizliklər 
+ 
+Xanalara 1-dən 9-a qədər rəqəmləri elə yerləşdirin ki, bütün bərabərsizliklər 
+qorunsun. 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 16 - 
+ 
+25. Səkkiz dama daşı 
+ 
+Şaşki daşlarını rəsmdəki xətlərin üzərində elə yerləşdirin ki, 4 çevrənin və 4 düz 
+xəttin hər birində yalnız 2 dama daşı olsun.   
+ 
+ 
+26. Atom 
+ 
+Şəkildəki nəticənin doğru olması üçün ATOM nəyə bərabər olmalıdır? Hər bir hərf 
+fərqli bir rəqəmi işarə edir. 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 17 - 
+ 
+27. Arı pətəyi 
+ 
+ 
+Şəkildəki ədədlərin yerini elə dəyişdirin ki, heç bir iki ardıcıl ədəd və heç bir rəqəm 
+öz iki qatı ilə(1 xaric olmaqla), qonşu xanalarda olmasınlar.(Məsələn şəkildə 4 ilə 
+8, 1 ilə 2 qonşu xanalardadırlar) 
+ 
+28. Qəribə kvadrat 
+ 
+Şəkildə 1 vahidlik xanası çatışmayan 3×3 xanalı kvadrat təsvir olunub.Bu fiquru 3 
+hissəyə bölüb, əldə olunan hissələri necə yerləşdirmək olar ki, tam(bütöv) bir 
+kvadrat alınsın? 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 18 - 
+ 
+29. Klas-klas 
+ 
+Klas oyunu ilə çoxumuz tanışıq. Qələmi vərəqdən götürmədən və eyni xətt üzrə iki 
+dəfə getmədən, şəkildəki klas rəsmini bir dəfəyə çəkə bilərsinizmi? Yəni hansısa 
+nöqtədən başlayıb qələmi vərəqdən ayırmadan bütün rəsmi çəkə bilərsinizmi? 
+ 
+ 
+ 
+30. Qladiator və şir 
+ 
+Qladiator və şir dairəvi bir meydandadırlar. Aydın məsələdir ki, qladiator nəyin 
+bahasına olur olsun şirə yem olmaq istəmir. Əgər qladiator və şirin ikisinin də 
+maksimum sürəti eynidirsə, qladiator meydan daxilində qaça-qaça şirə yem 
+olmaqdan həmişə qurtula bilərmi ? 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 19 - 
+ 
+31. Çatışmayan iki cəm 
+ 
+Təqdim olunan 4×4-lük cədvəldə hər simvol fərqli bir rəqəmi göstərir . 3 sətir və 3 
+sütun üçün, simvolların cəmi verilmişdir. Çatışmayan iki cəm nəyə bərabərdir? 
+ 
+ 
+32. Dəyirman 
+ 
+1-dən 19-a qədər ədədləri dairələrə elə yerləşdirin ki, hər bir düz xətdə yerləşən 3 
+ədədin cəmi 30 olsun. 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 20 - 
+ 
+33. Xüsusi üçbucaq 
+ 
+Üç tərəfi və hündürlüyünün uzunluğu 4 ardıcıl tam ədədə bərabər olan bir 
+üçbucağın sahəsi nəyə bərabərdir? 
+ 
+ 
+ 
+34. Yolların sayı 
+ 
+ 
+Yalnız yuxarı və sağa gedəbilmək şərtiylə, A nöqtəsindən C nöqtəsinə neçə fərqli 
+yolla getmək olar? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 21 - 
+ 
+35. Ulduz 
+ 
+1-dən 12-yə kimi ədədləri ulduzdakı dairəciklərə elə yerləşdirin ki, (dörd 
+dairəcikli) 6 düz xəttin hamısında, ədədlərin cəmi 26-ya bərabər olsun. 
+ 
+ 
+36. Optimal yol 
+ 
+S nöqtəsində dayanan bir adam dənizin düz yanına gəlib oradan da T nöqtəsinə 
+getmək fikrindədir. Bu adam dənizdə hansı nöqtəyə(X) yaxınlaşmalıdır ki, ümumi 
+getdiyi yol ən qısa yol olsun? (SX+XT cəmi ən kiçik olsun) 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 22 - 
+ 
+37. Sirli rebus 
+ 
+2 , 3 , 5 , 7 rəqəmlərini ulduzların yerinə elə yerləşdirin ki, vurma əməliyyatı doğru 
+olsun. 
+ 
+ 
+ 
+38. Rəngarəng toplar 
+ 
+Sizə 5 qırmızı, 5 sarı, və 5 yaşıl top verilmişdir. Bu topları üçbucaq formasındakı 
+çərçivənin daxilinə elə yerləşdirin ki, eyni rəngli toplar bir-birinə 
+toxunmasınlar(yanaşı olmasınlar). 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 23 - 
+ 
+39. Yeddi Hərf 
+ 
+Yuxarıdakı vurma əməliyyatında hər bir hərf fərqli bir rəqəmi(0,1,2,3,4,5,6,7,8,9) 
+göstərir. G hərfi hansı rəqəmi göstərir? 
+ 
+ 
+40. Maraqlı bölgü 
+ 
+Şəkildəki lövhəni dörd təmamilə eyni hissəyə elə bölün ki, hər hissədə üç ədəd 
+dairə olsun (kəsilməmiş, bütöv şəkildə). 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 24 - 
+ 
+41. Yeddi körpü 
+ 
+Şəkildə bir şəhərin planı təsvir olunmuşdur. Yeddi körpünün hər birindən yalnız bir 
+dəfə keçmək şərtilə şəhəri gəzmək mümkündürmü? (bütün körpülərdən keçərək, 
+lakin yalnız və yalnız bir dəfə) Gəzintiyə istənilən yerdən başlamaq olar. 
+ 
+ 
+ 
+42. Olimpiada bayrağı 
+ 
+1-dən 9-a qədər rəqəmlər şəkildə gördüyünüz kimi düzülmüşdür. Çevrələrdəki 
+rəqəmləri toplasaq görərik ki, onların hamısında rəqəmlərin cəmi 11-ə bərabərdir. 
+Rəqəmlərin yerini elə dəyişdirin ki, çevrələrin hər birində rəqəmlərin cəmi 14-ə 
+bərabər olsun. 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 25 - 
+ 
+43. Dedi-qodu 
+ 
+6  bacı hər bazar günü telefonla zəngləşib son xəbərləri bölüşürlər.Hansısa iki bacı 
+zəngləşəndə bir-birləri haqda bütün son xəbərləri, eləcə də həmin gün olan əvvəlki 
+zənglərdən digər bacıları haqda əldə etdikləri bütün məlumatları bölüşürlər. Ən azı 
+neçə telefon zəngi baş verməlidir ki, 6 bacının hamısı bir-birləri haqda bütün 
+məlumatları bilsinlər? 
+ 
+ 
+44. In və Yan 
+ 
+Şəkildəki fiquru yalnız bir dəfə kəsməklə, təmamilə eyni forma və sahəyə malik 
+olan 4 bərabər hissəyə bölün.(Hal-hazırda fiqur iki hissəyə bölünmüşdür) 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 26 - 
+ 
+45. İnək sürüsü 
+ 
+Sürüdə 101 inək var. Məlumdur ki, bu inəklərdən istənilən birisini sürüdən ayırsaq, 
+ geridə qalan inəkləri hər birində 50 inək olmaqla iki qrupa elə bölmək olar ki, hər 
+iki qrupdakı inəklərin toplam çəkisi bərabər olsun. O halda, göstərin ki, bütün 
+inəklər eyni ağırlıqdadır. (İnəklərin çəkiləri tam ədədlərə bərabərdir.) 
+ 
+ 
+ 
+46. Düşmən ördəklər 
+ 
+Fermada, kvadrat hasarın daxilində 9 ördək var. Fermanın sahibi iki ədəd əlavə 
+kvadrat hasar çəkərək ördəklərin hamısını bir-birindən ayırmaq istəyir.Fermer bunu 
+necə edə bilər?   
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 27 - 
+ 
+47. Avtobus 
+ 
+Şəkildə təsvir olunmuş avtobus hansı istiqamətdə hərəkət edir? A yoxsa B? 
+ 
+ 
+ 
+48. Rəqəmlər və kvadratlar 
+ 
+Dairələrə 1-dən 9-a qədər bütün rəqəmləri elə yerləşdirin ki, bütün kvadratların 
+(toplam 6)  təpə nöqtələrindəki rəqəmlərin cəmi bərabər olsun. 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 28 - 
+ 
+49. Dörd böcək 
+ 
+Masada bir-birlərindən 10 sm məsafədə 4 böcək oturmuşdur. Böcəklərin hamısı 
+eyni anda qabaqlarında oturan böcəyə doğru(A-da oturan B-də oturana, B-də 
+oturan C-də oturana və s.) eyni və sabit sürətlə hərəkət etməyə başlayırlar. 
+Böcəklər hamısı bir nöqtədə görüşənə qədər hansı məsafəni qət etmiş olarlar? 
+ 
+50. On üç kibrit çöpü 
+ 
+Şəkildə təsvir olunduğu kimi, bir qəpiyin ətrafına 13 kibrit çöpü yerləşdirilmişdir. 
+Hansısa kibrit çöpünü götürdükdən sonra, saat əqrəbi istiqamətində(sağa doğru) 
+hərəkət edərək hər 13-cü kibrit çöpünü götürmək olar.  Bu qaydaya uymaq şərtiylə, 
+ilk dəfə hansı kibrit çöpünü götürmək lazımdır ki, baş hissəsi qəpiyə tərəf olan 
+kibritdən başqa bütün kibritlər götürülmüş olsun? (Ən sona baş hissəsi qəpiyə tərəf 
+olan kibrit qalsın.) 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 29 - 
+ 
+51. Naməlum ardıcıllıq 
+ 
+Sual işarəsinin yerinə hansı rəqəm ardıcıllığı uyğun gəlir? 
+ 
+ 
+ 
+ 
+52. Üç qutu 
+Stolun üstündə üç qutu var. Bu qutuların birində yalnız limonlu karamellər, birində 
+yalnız nanəli karamellər, birində isə həm nanəli həm də limonlu karamellər var. 
+Qutuların üzərində nanəli, limonlu və qarışıq yazılıb. Lakin məlumdur ki, qutuların 
+hamısı səhv işarələnib. Qutulardan ən azı neçə karamel götürüb dadına baxmalıyıq 
+ki, hansı qutuda nanəli, hansında limonlu və hansında qarışıq karamellərin 
+olduğunu dəqiqləşdirək? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 30 - 
+ 
+53. Saat 
+ 
+Saat cihazında 5 və 9 ilə 3 və 8 şəkildə təsvir olunduğu kimi düz xətt vasitəsilə 
+birləşdirilib. Bu iki düz xətt arasındakı iti bucaq nəyə bərabərdir? 
+ 
+54. Tərəzi 
+ 
+Şəkildəki ilk üç tərəzidə 4 fiqur: silindr, kürə, kub, konus arasındakı müxtəlif çəki 
+tarazlıqları nümayiş etdirilmişdir. Sonuncu tərəzinin sağ qoluna 4 fiqurdan ən azı 
+neçəsini yerləşdirməliyik ki , sol qoldakı 4 konus ilə tarazlıq yaransın? 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 31 - 
+ 
+55. Lövhədə məsələ 
+ 
+Lövhədəki məsələni, ABCDE*4=EDCBA, həll edin. Burada A, B, C, D və E  
+0-dan 9-a qədər, bir-birlərindən fərqli rəqəmlərdirlər. 
+ 
+ 
+ 
+56. Saat və bucaqlar 
+ 
+Bir gün Qəhrəman evdə boş-bekar oturarkən saata baxır, və dəqiqə və saat 
+əqrəbləri arasındakı bucağı hesablayır. 20 dəqiqə keçdikdən sonra Qəhrəman yenə 
+saata baxır və dəqiqə ilə saat əqrəbləri arasındakı bucağı hesablayanda görür ki, 
+yenə də ilk dəfə(20 dəqiqə əvvəl) hesabladığı bucaq alınır. Bu bucaq neçə 
+dərəcədir?    
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 32 - 
+ 
+57. Trapesiyanın sahəsi 
+ 
+Trapesiyanın diaqonalları onu dörd üçbucağa bölür. Yaşıl rənglənmiş üçbucaqların 
+sahələri A və B-yə bərabərdirsə , trapesiyanın sahəsi nəyə bərabərdir? (A və B-dən 
+asılı) 
+ 
+58. Kvadratların sayı 
+ 
+Şəkildə neçə kvadrat var? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 33 - 
+ 
+59. 28 Qəpik 
+ 
+28 ədəd eyni ölçülü qəpik şəkildə təsvir olunduğu kimi üçbucaq şəklində 
+düzülmüşdür. Məlumdur ki, bir-birlərinə toxunan(üçbucaq şəklində) istənilən üç 
+qəpiyin toplam çəkisi 10 qrama bərabərdir. Üçbucağın sərhədində yerləşən 18 
+qəpiyin toplam çəkisini tapın. 
+ 
+ 
+ 
+60. 11 dişli çarx 
+ 
+Müstəvidə bir-birlərinə zəncirvari qoşulmuş 11 dişli çarx təsvir edilib. Bu çarxların 
+hamısı eyni anda (bir yerdə) dövr edə bilərlərmi? Cavabı izah edin. 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 34 - 
+ 
+61. Piksel 
+ 
+ 
+Ekranda yalnız və yalnız bir dənə piksel(xırda yaşıl nöqtə) əlavə etməklə və ya 
+silməklə bərabərliyin doğru olmasını təmin edin. 
+ 
+ 
+ 
+ 
+62. Üç bərabər kvadrat 
+ 
+Altı kibritdən ikisi, şəkildə təsvir olunduğu kimi iki yerə bölünmüşdür. Bu 8 
+hissədən, üç bərabər(eyni) kvadratı necə düzəltmək olar? 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 35 - 
+ 
+63. Avtobus dayanacağı 
+ 
+ 
+Şəkildəki yol planında əsas şosse(ana yol) və ondan ətraf kəndlərə A, B, C, D, E 
+nöqtələrində ayrılan yollar təsvir olunmuşdur. Avtobus dayanacağı şossenin 
+harasında tikilməlidir ki, dayanacaqdan kəndlərə olan yolların(şosse və yan yollar 
+üzrə) uzunluqlarının cəmi minimum olsun? 
+ 
+64. Kubun diaqonalları 
+ 
+Bir kubun iki səth diaqonalları( AB və BC) çəkilmişdir. Onlar arasındakı ABC 
+bucağı nəyə bərabərdir? 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 36 - 
+ 
+65. Yeddilər 
+ 
+Şəkildəki əməliyyatda ulduzların yerinə hansı rəqəmlər yazılmalıdır ki, bölmə 
+əməliyyatı doğru olsun? (Qalıqda 0 qalmalıdır) 
+ 
+ 
+66. Şahmat taxtası 
+ 
+Standart ölçülü 8×8 şahmat taxtasında, toplam neçə ədəd kvadrat var? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 37 - 
+ 
+67. Saxta Zər 
+ 
+Şəkildə təsvir olunmuş görünüşlərdən üçü eyni zərə aiddir, biri isə yox. Uyğun 
+olmayan görünüşü tapın. 
+ 
+ 
+ 
+68. Boş xanalar 
+ 
+Şəkildə təsvir olunmuş ədədlər müəyyən bir qanunauyğunluğa görə düzülmüşdür. 
+Boş xanalara hansı ədədləri yazmalıyıq ki, bu qanunauyğunluq qorunsun? 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 38 - 
+ 
+69. Ornament 
+ 
+Şəkildəki dairəciklərə 1-dən 15-ə qədər ədədləri (hər birindən yalnız bir dəfə 
+istifadə etməklə) elə yerləşdirin ki, 5 çevrənin hər birində və ulduzun təpə 
+nöqtələrində, rəqəmlərin cəmi 40-a bərabər olsun. 
+ 
+ 
+70. Bucaqların cəmi 
+ 
+A, B, C, D  və E bucaqlarının cəmi nəyə bərabərdir? 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 39 - 
+ 
+71. 4 hissəli çevrə 
+ 
+Çevrəni, üç eyni uzunluqda olan xəttin köməyi ilə 4 bərabər hissəyə necə bölmək 
+olar? 
+ 
+ 
+ 
+72. Həblər 
+ 
+Həkim xəstə qocaya 2 dənə X həbindən , 2 dənə də Y həbindən verir və növbəti iki 
+gündə hər gün bu həblərin hərəsindən yalnız 1 dənə qəbul etməsini tapşırır. Lakin 
+qoca evə gələndə görür ki, həkimin verdiyi həbləri bir qaba qoyaraq qarışdırıb və X 
+ilə Y həbləri eyni rəng və formada olduğu üçün onları ayırd edə bilmir. Müdrik 
+qoca necə eləsin ki, həkimin tapşırdığını yerinə yetirə bilsin? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 40 - 
+ 
+73. KUB və TOP 
+ 
+KUB ədədi hansısa bir natural ədədin kubuna bərabərdir. O zaman göstərin ki, 
+TOP heç bir ədədin kubu ola bilməz. Yəni, göstərin ki, KUB kubdursa, onda TOP 
+kub deyil.(Burada KUB və TOP üç rəqəmli ədədlərdir, fərqli hərflər fərqli 
+rəqəmləri göstərir) 
+ 
+ 
+ 
+74. Ağaclar 
+ 
+İşə yeni təyin olunmuş bağbana belə bir tapşırıq verilir: 9 ağacı elə ək ki, bu 
+ağaclar hərəsində 3 ağac olmaqla 10 düz sıra əmələ gətirsinlər. Bağban bunu necə 
+edə bilər? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 41 - 
+ 
+75. Saatın səthi 
+ 
+Saatın səthini(çiferblatını) 2 düz xətt vasitəsilə üç yerə elə bölün ki, hər 3 hissədə 
+olan ədədlərin cəmi bərabər olsun. 
+ 
+ 
+ 
+76. İki şam 
+ 
+Novruz axşamında evdə iki şam yandırılır. Bu şamlardan biri digərindən 1 sm 
+uzundur. Uzun olan şam 5-in yarısı(saat 16.30-da) , qısa olanı isə saat 6–da 
+yandırılır. 8.30-da onların ikisi də eyni uzunluqda olurlar. Və nəhayət qısa olan 
+şam gecə saat 10.00-da, uzunu isə 10.30-da yanıb qurtarır. Bu şamların 
+uzunluqlarını tapın. 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 42 - 
+ 
+77. Yüz yaşa 
+ 
+Nadir kişinin və onun 3 oğlunun yaşlarını toplayanda düz 100 edir. Həmçinin 
+məlumdur ki, Nadir kişi ən böyük oğlundan iki dəfə böyükdür. Ən böyük oğul da 
+ortancıldan iki dəfə, ortancıl oğul isə ən kiçik qardaşdan iki dəfə böyükdür. Nadir 
+kişi və onun oğullarının hər birinin neçə yaşı var? 
+ 
+ 
+ 
+78. Üçbucağın sahəsi 
+ 
+Üçbucağın tərəfləri dörd bərabər hissəyə bölünmüş və təpə nöqtələri şəkildə təsvir 
+olunduğu kimi qarşı tərəfi bölən nöqtələrdən biri ilə birləşdirilmişdir.Mərkəzdəki 
+üçbucağın sahəsi ilkin üçbucağın sahəsinin hansı hissəsinə bərabərdir? 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 43 - 
+ 
+79. Xüsusi çoxbucaqlı 
+ 
+Qabarıq çoxbucaqlının diaqonallarının sayı onun tərəflərinin sayından 2 dəfə 
+böyükdür. Bu çoxbucaqlının tərəflərinin sayını tapın. 
+ 
+80. Labirintdə top 
+ 
+Şəkildə təsvir olunmuş labirintə bir rezin top düşür və aşağı diyirlənməyə başlayır. 
+Məlumdur ki, top hər yol ayrıcına(rəqəmlərlə işarələnib) yaxınlaşanda bu və ya 
+digər yolla diyirlənməyə davam etmə şansı eynidir(50-50yə). Topun A çıxışına 
+gedib çıxma ehtimalı neçə faizdir? 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 44 - 
+ 
+81. 64 hissəli kub 
+ 
+Tərəfi 4 sm olan kub şəkildə təsvir olunduğu kimi tərəfi 1 sm olan 64 bərabər 
+balaca kuba bölünmüşdür. Sonra isə kubun bütün səthləri yaşıl 
+rənglənmişdir.Göstərin ki , heç bir üzü rəngli olmayan kublarla yalnız üç səthi yaşıl 
+olan kubların sayı eynidir. 
+ 
+ 
+82. Ulduzun bucaqları 
+ 
+A, B , C , D və E bucaqlarının cəmi neçə dərəcədir? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 45 - 
+ 
+83. Siqaret kötükləri 
+ 
+İcra hakimiyyəti iməcilik günündə hər 4 siqaret kötüyü gətirən şəxsə 1 təzə siqaret 
+verəcəyini vəd edir. 100 ədəd siqaret kötüyü toplamış siqaret həvəskarı ən çoxu 
+neçə təzə siqaret əldə edə bilər? 
+ 
+ 
+84. Ulduzlar 
+ 
+Şəkildəki çərçivədə olan ulduzların hamısını bir-birindən ayırmaq üçün neçə düz 
+xətt çəkmək lazımdır? Onları çəkin. 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 46 - 
+ 
+85. Elektrik xətləri 
+ 
+Şəkildə təsvir olunmuş 5 elektrik stansiyasından 5 evə elektrik xətti çəkmək tələb 
+olunur. Hər evə yalnız onun öz nömrəsini daşıyan stansiyadan xətt çəkilməlidir və 
+bu beş xəttin heç biri bir-biriylə kəsişməməlidir. Bunu necə etmək olar? 
+ 
+ 
+ 
+86. 5 rəqəmli ədəd 
+ 
+ABCDE beş rəqəmli bir ədədi göstərir. Bu ədədin qabağına 1 yazıb, alınan ədədi 3-
+ə vuranda ABCDE1 ədədi alınır. ABCDE ədədini tapın.Burada fərqli hərflər fərqli 
+rəqəmləri göstərir. 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 47 - 
+ 
+87. Dəyirmi masa 
+ 
+Dəyirmi masada 9 deputat oturub. Onlardan bəziləri həmişə ancaq doğru danışır, 
+düzünü deyir, bəziləri isə həmişə yalan danışırlar. Efir vaxtında onların hər biri 
+deyir: Mənim qonşularımdan biri doğru danışan, biri isə yalançıdır. Dəyirmi 
+masada oturan bu 9 deputatdan neçəsinin yalançı olduğunu tapın. 
+ 
+ 
+ 
+88. Tərsinə üçbucaq 
+ 
+Şəkildəki üçbucaq 10 qəpikdən ibarətdir. Ən azı neçə qəpiyin yerini dəyişməliyik 
+ki, üçbucaq aşağı doğru, tərsinə çevrilmiş olsun? 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 48 - 
+ 
+89. Güzgü 
+ 
+Güzgünün uzunluğu ən azı nə qədər olmalıdır ki, boyu 2m olan insan bu güzgüdə 
+öz əksini təmamilə görə bilsin? 
+ 
+90. Sehrli altıbucaqlı 
+ 
+1-dən 19-a qədər olan bütün ədədləri altıbucaqlının hüceyrələrinə elə yerləşdirin ki, 
+3 istiqamətdə olan 15 cəmin hamısı bir-birlərinə bərabər olsun. 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 49 - 
+ 
+ 
+91. Kotlet 
+Elşən şam yeməyi üçün 5 kotlet bişirmək istəyir. Onun tavasına eyni anda yalnız 
+iki kotlet yerləşir. Kotletlərin hər iki üzünü bir dəfə bişirmək lazımdır. Kotletin bir 
+üzünü bişirmək düz 1 dəqiqə vaxt aparır. Elşən kotletlərin hamısını ən tez neçə 
+dəqiqəyə bişirib qurtara bilər? 
+ 
+ 
+ 
+92. Xalça 
+ 
+Bahalı köhnə xalçanın iki kənar hissəsi üçbucaq şəklində kəsilib 
+atılmışdır(ştrixlənmiş sahə)  və beləliklə xalça öz düzbucaqlı formasını itirmişdir. 
+Xalçanın geridə qalan hissəsini iki hissəyə hansı şəkildə bölmək lazımdır ki, o iki 
+hissəni birləşdirəndə xalçanın naxışlarındakı ahəngi pozmadan və heç bir itki 
+olmadan düzbucaqlı formasında yeni kiçik xalça əldə edə bilək ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 50 - 
+ 
+93. Balıq ovu 
+ 
+Beş balıqçı beş balığı beş dəqiqəyə tuta bilirsə, 50 balıqçı 50 balığı neçə dəqiqəyə 
+tuta biləcək? 
+ 
+ 
+ 
+94. Pişik 
+ 
+Şəkildəki pişik təsvirində cəmi neçə üçbucaq var? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 51 - 
+ 
+95. Qəpiklərin yerdəyişməsi 
+ 
+Qara və ağ daşlar şəkildə təsvir olunduğu kimi 2,3,4 və 5,6,7 zonalarına 
+yerləşdirilmişdir.Hər gedişdə hansısa bir daşı bir zonadan o birinə qara düz xəttin 
+üstü ilə sürüşdürüb yerləşdirməyə icazə var.Daşı yalnız boş bir zonaya keçirtmək 
+olar.(Iki daş eyni zonada ola bilməz) Cəmi 7 gedişə ağ və qara daşların yerlərini 
+necə dəyişdirmək olar? 
+ 
+96. Stəkanda qəpiklər 
+ 
+On qəpiyi 3 stəkana necə yerləşdirmək olar ki, hər stəkanda tək sayda qəpik olsun? 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 52 - 
+ 
+97. İç-içə kvadratlar 
+ 
+Çəhrayı rəngli kvadratın sahəsi 1 kvadrat sm-dirsə, sarı rəngli ABCD kvadratının 
+sahəsi neçə kvadrat sm-dir? 
+ 
+ 
+ 
+98. Mehriban ailə 
+ 
+Bir ailədəki oğlanlardan biri deyir: Mənim eyni sayda qardaş və bacım var.Oğlanın 
+bacısı isə deyir:  Mənim qardaşlarımın sayı bacılarımın sayından iki dəfə çoxdur. 
+Bu ailədə neçə oğlan, neçə qız var? 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 53 - 
+ 
+99. İkinin qüvvəsi 
+ 
+Aşağıdakı ifadələrdən hansı böyükdür, A yoxsa B ? Böyük olan ifadə ilə kiçik olan 
+arasındakı fərq nə qədərdir? 
+ 
+ 
+ 
+100. Satıcının itkisi 
+ 
+İsti yay günündə səhər tezdən, bir satıcı mağazasının önünə 200 kq xiyar 
+yerləşdirir. Həmin anda xiyarların 99 faizinin sudan ibarət olduğu bilinir. Satıcı 
+axşama kimi bir dənə də xiyar sata bilmir və hava da çox isti olduğundan xiyarlar 
+biraz quruyur və günün sonunda onların 98 faizi sudan ibarət olur. Günün sonunda 
+satıcının neçə kq xiyarı qalır? 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 54 - 
+ 
+101. Restoranda görüşlər 
+ 
+Emin ilə Leyla və dörd başqa evli cütlük restoranda şam yeməyinə yığışırlar. 
+Restoranda müəyyən sayda salamlaşıb görüşmələr olur. Şam yeməyi sona 
+yaxınlaşanda, Emin, Leyla da daxil olmaqla hamıdan neçə adamla salamlaşdığını 
+soruşur və hamıdan müxtəlif (fərqli) bir rəqəm eşidir. Bunu bilərək Leylanın həmin 
+axşam neçə nəfərlə salamlaşdığını tapın. (Heç kim özü və ya həyat yoldaşı ilə 
+salamlaşmayıb, iki adam arasında salamlaşma maksimum bir dəfə baş tutub) 
+ 
+ 
+ 
+102. Aldadıcı sürət 
+ 
+Fuad öz avtomobiliylə İsmayıllıya yollanır.O, məsafənin yarısını 120km/saat sabit 
+sürəti ilə , məsafənin digər yarısını isə 80km/saat sabit sürəti ilə qət edir. Fuadın, 
+bu səyahətdə orta sürəti neçə km/saatdır? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 55 - 
+ 
+103. Altı bakal 
+ 
+Altı ədəd bakal şəkildəki kimi üzü yuxarı yerləşdirilib. Hər gedişdə istənilən 5 
+bakalın duruşunu bir yerdə dəyişdirməyə icazə verilir (üzü yuxarı baxanları üzü 
+aşağı çevirmək, və üzü aşağı baxanları üzü yuxarı çevirməyə) Ən azı neçə belə 
+gedişlə bütün bakalları üzü aşağı çevirmək olar? 
+ 
+104. Açar seçimi 
+ 
+Şəkildə bir sarayın planı təsvir olunmuşdur. Göründüyü kimi, istənilən iki otaq 
+arasında 4 cüt qapı var və bu qapılardan hər biri yalnız onun nömrəsini daşıyan 
+açarla açılır. Məqsəd günəşlə işarələnmiş sağ aşağı otaqdan , sol yuxarı otağa 
+getməkdir. Özünüzlə ən çoxu üç açar götürə bilərsiniz. Hansıları götürməlisiniz? 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 56 - 
+ 
+105. Göy sahə 
+ 
+Şəkildəki kvadratın sahəsi 25 kvadrat sm-dirsə, göy rəngli hissənin sahəsi nə 
+qədərdir ? 
+ 
+ 
+ 
+106. Əlifba 
+ 
+Azərbaycan əlifbasının ilk 31 hərfi müəyyən bir qaydaya görə iki qrupa 
+ayrılmışdır. Son hərf Z hansı qrupa aiddir: yuxarıdakına yoxsa aşağıdakına? Niyə? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 57 - 
+ 
+107. Riyazi simvol 
+ 
+2 və 3 rəqəmlərinin arasına nöqtə/vergüldən başqa elə bir riyazi simvol yerləşdirin 
+ki, alınan ədəd 2-dən böyük, 3-dən kiçik olsun. 
+ 
+ 
+108. Eskalator 
+ 
+Tural metrodakı aşağıya gedən eskalatorla hər dəfəyə bir pillə aşağı düşərək, 50 
+pillədən sonra aşağı çatır. Sonra isə o eyni eskalatorla pillə-pillə yuxarı qaçır və 
+125 pillədən sonra yuxarı çatır. Turalın yuxarı çıxandakı sürəti aşağıya düşəndəki 
+sürətindən 5 dəfə tez idiysə(aşağı 1 pillə düşəndəki vaxta, yuxarı gedəndə 5 pillə 
+qaçıbsa) , nəzarətçi eskalatoru dayandıranda eskalatorun toplam neçə pilləsi 
+görünər? 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 58 - 
+ 
+109. Qaçış 
+ 
+Qaçış üzrə olimpiadanın finalında, Elnur siyahının tən ortasındakı yeri tutdu. İmran 
+Elnurdan sonra finişə çatdı və 10-cu yeri tutdu. Əli isə 16-cı yeri tutdu. Yarışda 
+neçə adam iştirak etmişdi? 
+ 
+ 
+ 
+110. Səkkiz hissə 
+ 
+Şəkildəki fiquru səkkiz təmamilə eyni hissəyə necə bölmək olar? 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 59 - 
+ 
+111. X və Y 
+ 
+Cədvəldəki qanunauyğunluğu aşkarlayıb, X və Y-i tapın. 
+ 
+ 
+ 
+112. Muzeyin mühafizəsi 
+ 
+Yeni incəsənət muzeyinin 20 divarı var.Muzeyin divarları bir-birlərinə 90 dərəcədə 
+birləşirlər.Yəni, hər divar bitişdiyi divar(lar)ın hər biriylə 90 dərəcə əmələ gətirir. 
+Ən azı neçə mühafizəçi lazımdır ki, muzeyin bütün divarları nəzarət altında olsun? 
+(Muzeyin dəqiq dizaynı bilinmir) 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 60 - 
+ 
+113. Ardıcıl qələbə 
+ 
+Ata, ana və oğul tez-tez şahmat oynayırlar.Bir gün ata oğula deyir ki: Mən və 
+ananla sırayla toplam üç oyun oyna. Əgər ardıcıl(dalbadal) iki oyunda qalib gəlsən 
+10 manat hədiyyə qazanacaqsan.Oyunlardan ya ikisini mənimlə birini anan ilə, ya 
+da ki birini mənimlə ikisini isə ananla oynaya bilərsən. Oğul bilir ki, atası şahmatda 
+anasından xeyli güclüdür. O necə oynamalıdır ki, 10 manatı qazanma şansı 
+maksimum olsun, ATA-ANA-ATA yoxsa ANA-ATA-ANA ? 
+ 
+ 
+114. Benzin qabları 
+ 
+Yanacaq doldurma məntəqəsinə 6 qab benzin gətirdilər. Hər qabın üzərində onun 
+içində neçə litr benzin olduğu rəqəmlə göstərilmişdir. Həmin gün məntəqəyə iki 
+müştəri gəlir: birincisi qablardan ikisini alıb aparır, ikincisi isə üçünü. Məlumdur 
+ki, ikinci müştəri birincidən iki dəfə çox benzin almış olur. Bu iki müştəri 
+gedəndən sonra mağazada hansı qab qalır? 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 61 - 
+ 
+115. Səkkiz kvadrat 
+ 
+2-dən 9-a qədər rəqəmlərin kvadratını (4,9,16,25,36,49,64,81) boş xanalara elə 
+yerləşdirin ki, kvadratın hər bir tərəfindəki 4 ədədin cəmi 102 olsun. 
+ 
+ 
+116. Dəxildəki corablar 
+ 
+Qap-qaranlıq otaqdakı dəxildə 20 corab var: 5 cüt qara, 3 cüt boz və iki cüt ağ 
+corab. Siz bu dəxildən corab götürəndə ən azı neçə corab götürməlisiniz ki, 
+sonradan bu corabların içində heç olmazsa bir cüt eyni rəngdə corab olsun? (Qeyd: 
+Otaq qaranlıq olduğu üçün corabların rənglərini ayırd etmək olmur). 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 62 - 
+ 
+117. Şəbəkə 
+ 
+Şəkildə təsvir olunmuş şəbəkədə, 10 çevrə 19 xətt vasitəsilə birləşdirilmişdir. Bu 
+xətlərdən ən azı neçəsini silmək lazımdır ki, hər bir çevrədən cüt sayda xətt çıxmış 
+olsun? 
+ 
+ 
+ 
+118. Sonsuz silsilə 
+ 
+Yuxarıdakı sonsuz cəm nəyə bərabərdir? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Əyləncəli Riyaziyyat Sualları – Tərlan Nəzərov  - 63 - 
+ 
+119. Cücələr 
+ 
+Böyük cücə fermasının sahibi Əziz baba, bir gün oturub ehtiyatdakı cücə yeminin 
+neçə gün bəs eləyəcəyini hesablayır. O görür ki, cücələrin 75-ni satsa, geriyə qalan 
+cücələri hazırda əlində olan yemlə 20 gün artıq yedirə bilər.Həmçinin hesablayır ki, 
+100 dənə əlavə cücə alsa, əlində olan yem 15 gün tez qurtaracaq. Əziz babanın 
+fermasında neçə cücə var? 
+ 
+ 
+ 
+120. İlk baxış 
+ 
+İlk baxışdan tapın görək hansı böyükdür: soldakı ədədlərin cəmi yoxsa sağdakı 
+ədədlərin cəmi? 
+ 
+ 
+SON 

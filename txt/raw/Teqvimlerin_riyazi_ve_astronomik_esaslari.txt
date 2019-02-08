@@ -1,0 +1,5622 @@
+C.M.QULUZADƏ 
+R.Q.SƏRTİPZADƏ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Təqvimlərin  
+riyazi və astronomik  
+əsasları 
+ 
+Bakı 2013 
+ 2
+ 
+C.M.QULUZADƏ 
+R.Q.SƏRTİPZADƏ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Təqvimlərin  
+riyazi və astronomik  
+əsasları 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bakı 2013 
+ 3
+ 
+ 
+Elmi redaktor:    Ə.S. Quliyev 
+          
+ AMEA- nın müxbir üzvi, fizika- 
+ riyaziyyat elmləri doktoru 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C.M. Quluzadə, R.Q.Sərtipzadə 
+ 
+Təqvimlərin riyazi və astronomik əsasları 
+Dərs vəsaiti, 2013,180 səh 
+ 
+ 
+ 
+ 
+ 4
+Ön söz 
+ 
+ Təqvimlərin tarixi çox böyükdür. Hələ 5000 il 
+bundan əvvəl ilk təqvimlər tərtib olunmuşdur. 
+ Təqvimlərin meydana gəlməsi insanların həyat 
+zəruriyyətləri ilə bağlıdır. İnsanlar əkin, biçin, məhsul 
+yığımı vaxtlarını əvvəlcədən bilməli və onlara 
+əvvəlcədən hazır olmalı idi. Bu da təqvim tələb edirdi. 
+ Təqvimlərin tarixinin böyük olmasına 
+baxmayaraq indiyə qədər tam dəqiq təqvim tərtib 
+olunmayıb. Bu da onunla əlaqədardır ki, nə Ay 
+təqvimlərinin əsasını təşkil edən sinodik Ay, nə də 
+Günəş təqvimlərinin əsasını təşkil edən tropik il tam 
+sayda günlərdən ibarət deyil. Təqvim ili isə tam sayda 
+günlərdən ibarət olmalıdır. 
+ Ona görə həm Günəş təqvimləri, həm də Ay 
+təqvimləri müəyyən yaxınlaşma üçün tərtip olunur. Bu 
+zaman çalışılır ki, müəyyən dövr üçün təqvim ilinin 
+orta uzunluğu astronomik ilin orta uzunluğuna 
+mümkün qədər yaxın olsun. Buna nail olmaq üçün 
+visokos (uzun il) sistemindən istifadə olunur. 
+ Azərbaycan dilində təqvimlərin riyazi və 
+astronomik əsasları haqqında heç bir vəsait yoxdur. 
+Xüsusilə şərqdə istifadə olunan islam təqvimi haqqında 
+məlumat yoxdur. Bunu nəzərə alaraq təqvimlər və 
+onların riyazi və astronomik əsasları haqqında bir 
+vəsaitin yazılmasını vacib bildik.  
+ Vəsaitdə miladi tarixdən hicri tarixə və hicri 
+tarixdən miladi tarixə keçidə xüsusi yer verilir. 
+Vəsaitdən istifadə edən hər kəs verilmiş miladi tarixin 
+ 5
+hansi hicri tarixə (il, ay, gün) və əksinə, verilmiş hicri 
+tarixin hansı miladi tarixə uyğun gəldiyini hesablaya 
+bilər. 
+ Kitabın əlyazmasının hazırlanmasında yaxından 
+göstərdikləri köməyə görə dossent T.H. Əliyevaya və 
+S.N. Güləhmədovaya öz dərin minnətdarlığımı 
+bildirirəm. 
+ Vəsait Azərbaycan dilində ilk dəfə yazıldığından 
+şübhəsiz ki, müəyyən xətalardan azad deyil. Vəsaiti 
+oxuyan hər kəsin öz iradlarını məmuniyyətlə qəbul 
+edəcəyik.  
+ İradları Bakı, Bakı Dövlət Universiteti, 
+Astrofizika kafedrası, Z. Xəlilov 23, otaq 309- a 
+göndərmək olar. 
+Telefonlar: iş 012-538-04-46, mob 050-312-58-63 
+Prof. C.M. Quluzadə  
+  
+ 6
+GİRİŞ 
+ 
+Zaman materiyanın varlıq formalarından biridir. 
+Materiyanı məkansız təsəvvür etmək mümkün 
+olmadığı kimi, zamansız da  təsəvvür etmək olmaz. 
+Kainatda hər şey hərəkətdədir, hər şey dəyişir, heç şey 
+sabit qalmır. Bunların hamısı məkanda və zamanda baş 
+verir. Təbiətdə baş verən hadisələrin hamısı zaman və 
+məkanla bağlıdır. 
+Verilmiş hadisə nə vaxt baş vermişdir? O 
+hadisədən indiyə kimi nə qədər vaxt keçmişdir? Bu 
+sualllara cavab vermək üçün müəyyən zaman vahidləri 
+(etalonları) və müəyyən vaxtölçmə sistemləri qəbul 
+etmək lazımdır. 
+İnsan cəmiyyətinin bütün əməli fəaliyyəti də 
+zamanda baş verir, zamanla bağlıdır. Bizim həyatımız 
+və əmək fəaliyyətimiz Günəşin doğub batması, gecə ilə 
+gündüzün bir-birini əvəz etməsi, fəsillərin dəyişməsi 
+və s. ilə bağlıdır. Bunların hamısı zamanda baş verir. 
+Deməli, insan cəmiyyətinin həyatı və əməli fəaliyyəti 
+də müəyyən zaman vahidləri və vaxtölçmə sistemləri 
+tələb edir. 
+Uzun zaman fasilələrinin hesablanma və saxlanma 
+sistemlərinə təqvim deyilir. Təqvimlər insan 
+cəmiyyətinin həyati tələbləri ilə əlaqədar olaraq 
+yaranmış, inkişaf etmiş və təkmilləşmişdir. 
+Təqvimlərin tarixi çox qədimdir. Hələ beş min il 
+bundan əvvəl Misirdə vaxtın tələblərinə cavab verə 
+bilən ilk təqvim olmuşdur. Sonralar müxtəlif təqvim 
+sistemləri tərtib olunmuş və onlar uzun illər ərzində 
+ 7
+dəqiqləşdirilmiş və mükəmməlləşdirilmişdir. 
+Bəs təqvimlərin tərtibində hansı zaman 
+vahidlərindən (və ya etalonlarından) istifadə olunur? 
+Hələ qədim insanlar belə etalonların təbiətin özündən 
+götürülməsinin daha məqsədəuyğun olduğunu hiss 
+etmişlər. Bu etalonlar aşağıdakılardır: 
+1. Gün −Yerin öz oxu ətrafında fırlanma dövrü və 
+ya Yerin Günəş ətraında bir tam dövr etməsi üçün 
+lazım olan vaxt; 
+2. Sinodik ay−Ayın iki ardıcıl eyni adlı fazası 
+arasında keçən vaxt; 
+3. Tropik il−Günəş diski mərkəzinin yaz 
+bərabərliyi nöqtəsindən iki ardıcıl keçmə anları 
+arasındakı vaxt; 
+Təqvimin tarixi beş min ildən çox olmasına 
+baxmayaraq, bu günə qədər tam dəqiq təqvim tərtib 
+etmək mümkün olmamışdır. Bu onunla əlaqədardır ki, 
+təqvimlərdə istifadə olunan üç zaman vahidi−orta 
+günəş günü, sinodik ay və tropik il bir-biri ilə dəqiq 
+ifadə olunmur. Nə sinodik ay, nə də tropik il tam sayda 
+günlərdən ibarət deyil. Beləliklə, təqvimlərin tərtibində 
+biz bir-biri ilə tam ifadə olunmayan üç zaman etalonu 
+ilə rastlaşırıq. 
+Təbiidir ki, təqvim ili və təqvim ayı yalnız tam 
+sayda günlərdən ibarət olmalıdır. Tropik il və sinodik 
+ay isə tam sayda günlərdən ibarət deyil. Ona görə hər 
+bir təqvim sistemi müəyyən yaxınlaşma üçün 
+hesablanır və təqribidir. Bu zaman çalışmaq lazımdır 
+ki, təqvim ili və təqvim ayı uyğun olaraq tropik ilə və 
+sinodik aya  mümkün qədər yaxın olsun. 
+ 8
+Hər bir təqvim özünün daxili və xarici quruluşu ilə 
+xarakterizə olunur. Təqvimin daxili quruluşunu 
+təqvimdəki ayların, kvartalların və həftənin günlərinin 
+ayın tarixi ilə uyğunluğu təşkil edir. Təqvimin xarici 
+quruluşunu isə təqvim ilinin uzunluğunun tropik ilin 
+(Ay təqvimlərində ay ilinin) uzunluğu ilə uyğunluğu 
+təşkil edir. Bu da təqvimdə uzun illərin daxil edilməsi 
+qaydası ilə, başqa sözlə «visokos» qaydası ilə təmin 
+olunur. 
+Astronomiya təqvimləri üç sinfə ayrılır: 
+1. Günəş təqvimləri; 
+2. Ay təqvimləri; 
+3. Ay−Günəş təqvimləri. 
+Bu təqvimlərdən ən geniş yayılanı Günəş 
+təqvimləridir. Hazırda dünyanın əksər ölkələrində  
+Günəş təqvimlərindən istifadə olunur.  Bu təbiidir, 
+çünki insan cəmiyyətinin əməli fəaliyyəti və yaşamı  
+bilavasitə Günəşlə, Günəşin doğub−batması ilə, 
+Günəşin illik zahiri hərəkəti və fəsillərin əvəz 
+olunması ilə bağlıdır. 
+Ay təqvimləri əsasən şərq ölkələrində yaranmışdır. 
+Bu təqvimlər bə'zi müsəlman ölkələrində indi də geniş 
+istifadə olunur. Ay−Günəş təqvimləri çox 
+mürəkkəbdir. Bu təqvimlər yəhudi  dinində geniş 
+istifadə olunur. Günümüzdə Ay−Günəş təqvimi yalnız 
+İsraildə işlədilməkdədir. 
+Təqvimlərin əsas nöqsanları : 
+1. Ayın tarixi həftənin günləri ilə uzlaşmır. 
+2. Yarımilliklərin, kvartalların və ayların uzunluğu 
+eyni deyil. 
+ 9
+ 3. Həftənin dəyişməsi ayın dəyişməsi ilə 
+uyğunlaşmır, bəzən eyni həftə iki aya bölünür. 
+4. Ayların başlanğıcı həftənin müxtəlif günlərinə 
+düşür. Bu da ildən ilə dəyişir. 
+ 10
+ 
+ 
+ 
+ 
+ 
+ 
+I FƏSİL 
+YER GÖY CİSMİ KİMİ 
+ 
+Elm öyrənmək Allahın izzətli  
+və cəlallı yolundakı namaz,  
+oruc və cəhaddan üstündür. 
+Məhəmməd Peyğəmbər 
+ 
+ 11
+ § 1.1. Yer haqqında qısa məlumat 
+ 
+Yer adi göy cismi olub Günəş sisteminin 8 böyük 
+planetindən biridir. O, Günəş sisteminin üçüncü 
+planetidir. Yerdən baxdıqda Venera, Mars, Yupiter və 
+s. planetlər  parlaq ulduz kimi görünürlər. Lakin 
+onların özü işıq şüalandırmayır, yalnız Çünəş işığını 
+əks etdirir və ona görə parlaq görünür. Əgər Marsdan 
+Yerə baxsaq o da adi parlaq bir ulduz kimi görünər. 
+Təbiidir ki, Yer bizim doğma planetimiz, daha 
+doğrusu doğma evimiz olduğundan digər planetlərdən 
+daha mükəmməl öyrənilib. O Günəşdən olan 
+məsafəsinə görə Merkuri və Veneradan sonra üçüncü 
+planetdir. 
+Yerin orta radiusu 
+kmR 032.6371=⊕  
+kütləsi 
+tonkqqM 212427 1087.51087.51087.5 ⋅=⋅=⋅=⊕ . 
+Bu Günəşin kütləsinin M
+☼ təxminən milyonda 
+birinə bərabərdir. Daha doğrusu 
+MM 6103 −⊕ ⋅=  ` 
+Yerin orta sıxlığı 
+3
+3
+/574.5
+3
+4
+smq
+R
+M
+==
+⊕
+⊕
+⊕
+π
+ρ , 
+yəni, Günəşin orta sıxlığından təxminən 4 dəfə 
+böyükdür. 
+Yerin Günəş ətrafında orta orbital sürəti 
+saatkmskmorb /000100/765.29. ==υ , 
+ 12
+Yerdə parabolik sürət (böhran sürəti) υp=11.2 
+km/s. Bu o deməkdir ki, Yer səthində sürəti υ≥υp=11.2 
+km/s  olan cismlər Yeri tərk edər. 
+Yer səthində ağırlıq qüvvəsinin təcili (qravitasiya 
+təcili) 
+2
+2 /616.980 ssmR
+GM
+gR ==
+⊕
+⊕
+⊕
+ -dır. 
+Burada G – qravitasiya sabitidir. 
+ 
+ § 1.2. Yerin forma və ölçüləri 
+ 
+Yerin kürə şəklində olması haqqında ilk fikirlər 
+qədim yunan filosofları Pifaqor və Platon tərəfindən 
+söylənilmişdir. Aristotel də Yeri kürə hesab edirdi. O, 
+Yerin kürə şəklində olmasını Ay tutulmaları zamanı 
+Ay diskində Yerin  kölgəsinin dairəvi kənara malik 
+olması ilə izah edirdi. Ümumdünya cazibə 
+nəzəriyyəsinə görə də öz oxu ətrafında fırlanan böyük 
+kütləli cisimlər kürə şəklini almalıdır. 
+Yerin kürə şəklində olması XVI əsrin əvvəlində 
+Magellanın yerətrafı səyahəti ilə təsdiq olundu. Yerin 
+süni peykləri və geodezik raketlərdən alınmış 
+fotoşəkilləri də onun kürə şəklində olmasını təsdiq 
+edir. 
+Yerin radiusu ilk dəfə yeni eradan əvvəl III əsrdə 
+İskəndəriyyə astronomu Eratosfen tərəfindən çox sadə 
+bir üsulla təyin olunmuşdur. Bu üsulun mahiyyəti 
+aşağıdakından ibarətdir. Yerin eyni coğrafi 
+meridianında bir-birindən kifayət qədər aralı olan iki 
+ 13
+1M  və 2M məntəqəsi götürək. Əgər 21MM  meridian 
+qövsünün uzunluğunu l  ilə, onun dərəcələrlə ifadə 
+olunmuş bucaq ölçüsünü isə on  ilə işarə etsək 
+meridianın bir dərəcəsinə uyğun gələn qövsün 
+uzunluğu üçün yaza bilərik ki, 
+oo n
+ll = .    (1.1) 
+Onda meridian üzrə bütün dairənin uzunluğunu 
+o
+o
+n
+lRL 3602 == ⊕π    (1.2) 
+kimi yaza bilərik. Burada ⊕R  Yerin radiusudur. 
+Aydındır ki, (1.2) -dən Yerin radiusu 
+o
+o
+o
+o
+l
+n
+lR
+ππ
+180180
+==⊕   (1.3) 
+olar. 
+ 
+ 
+Şəkil 1.1. Yerin radiusunun təyininə dair 
+ 14
+Məlumdur ki, 1M  və 2M  məntəqələri arasındakı 
+meridian qövsünün dərəcələrlə ifadə olunan uzunluğu 
+həmin məntəqələrin coğrafi enliklərinin fərqi kimi 
+asanlıqla ölçülə bilər, yəni, 
+21 MM
+on ϕϕ −=   (1.4) 
+olar. Lakin Yer səthində dağların, dənizlərin, çayların 
+maneçiliyi ucundan 21MM  meridian qövsünün xətti 
+uzunluğu il − -  birbaşa dəqiq təyin etmək mümkün 
+deyil. Ona görə 21MM  qövsünün uzunluğu 
+trianqulyasiya üsulu ilə təyin olunur. Bu üsul birinci 
+dəfə Hollandiyada Snellus tərəfindən istifadə 
+edilmişdir. 
+Çoxsaylı ölçmələr göstərmişdir ki, meridian üzrə o1  
+-lik qövsün uzunluğu Yer ekvatoru 
+yaxınlığında kml 6.110=o , Yerin qütbləri yaxınlığında 
+isə km7.111  olur. Bu o deməkdir ki, qütblər 
+yaxınlığında Yer səthinin əyriliyi ekvator 
+yaxınlığındakından azdır, başqa sözlə Yerin forması 
+kürədən fərqlidir. 
+Çoxsaylı ölçmələr nəticəsində müəyyən 
+olunmuşdur ki, Yerin həqiqi forması qütblərdən basıq 
+olub, sferoidə (fırlanma ellipsoidinə) yaxındır. 
+1964-cü ildə Beynəlxalq Astronomiya İttifaqı 
+Yerin ekvatorial və qütb radiusları üçün aşağıdakı 
+qiymətləri qəbul etmişdir: 
+,16.6378 kmRekv =⊕     
+.78.6356 kmRqutb =⊕     
+Onda Yerin basıqlığı 
+ 15
+00335.026.298:1 ≈=−=
+a
+bae   ` 
+olar. 
+Yerin ölçüləri və forması süni peyklər vasitəsilə 
+daha dəqiq öyrənilmişdir. Hətta müəyyən olunmuşdur 
+ki, Yerin şimal və cənub qütb radiusları da bir qədər 
+fərqlidir. 
+Nəhayət, qeyd edək ki, səthi dağlar, okeanlar və 
+çökəkliklərlə əhatə olunmuş Yerin əsl forması 
+sferoiddən də fərqlidir və heç bir həndəsi fiqurla təsvir 
+olunmur. Ona görə hazırda Yerin forması dedikdə 
+geoid nəzərdə tutulur. 
+Bütün nöqtələrində ona çəkilmiş normallar 
+şaquli xətlə üst-üstə düşən səthlərə səviyyə səthləri  
+və ya tarazlıq səthləri deyilir. Açıq okeanda sakit 
+suyun səthi ilə üst-üstə düşən tarazlıq səviyyəsinə 
+geoid deyilir. 
+Quru yerlərdə (qitələrdə) geoidin səviyyəsi 
+sferoidin səviyyəsindən yuxarıda, okeanlarda isə 
+aşağıda olur. 
+ 
+ § 1.3. Coğrafi koordinatlar 
+ 
+Yer formaca kürəyə çox yaxındır və əksər hallarda 
+onu bircins kürə hesab etmək olar. O, diametrlərindən 
+biri ətrafında fırlanır. Bu diametrə Yerin fırlanma oxu 
+deyilir. 
+Yerin fırlanma oxu SN pp  onun kütlə mərkəzindən 
+keçir və iki nöqtədə Yer səthini kəsir. Bu kəsişmə 
+ 16
+nöqtələri Yerin coğrafi qütbləri adlanır. Şərti olaraq 
+Yerin o qütbü şimal qütbü adlanır ki, ona kənardan 
+baxdıqda Yerin fırlanması saat əqrəbinin əksi 
+istiqamətində baş verir. Şəkil 1.1-də Np Yerin şimal 
+qütbü, Sp  isə cənub qütbüdür. 
+Müstəvisi Yerin fırlanma oxuna perpendikulyar 
+olan böyük Yer dairəsinə Yer ekvatoru deyilir. 
+Aydındır ki, Yerin ekvator müstəvisi Yerin 
+mərkəzindən keçir və Yerin  səthini  təpəsində şimal 
+qütbü olan şimal yarımkürəsinə və təpəsində cənub 
+qütbü olan cənub yarımkürəsinə ayırır. 
+Müstəvisi Yerin ekvator müstəvisinə paralel 
+olan kiçik Yer dairələri Yerin coğrafi paralelləri 
+adlanır. 
+Yerin coğrafi qütblərindən və Yer səthindəki 
+ixtiyari M nöqtəsindən keçən böyük SN pMp  Yer 
+yarımdairəsinə M  nöqtəsinin coğrafi meridianı 
+deyilir. 
+İngiltərənin Qrinviç rəsədxanasından keçən  
+SN pGp  meridianına başlanğıc və ya sıfırıncı 
+meridian deyilir. 
+Başlanğıc meridian və ondan 180o fərqlənən 
+meridian Yer səthini şərq və qərb yarımkürələrinə 
+ayırır.  
+Yer səthinin istənilən nöqtəsində ağırlıq qüvvəsi 
+Yerin kütlə mərkəzinə yönəlib. Bu istiqamətdə 
+çəkilən xətlər (məsələn, MT xətti) şaquli xətlər 
+adlanır. 
+Yer səthindəki hər bir nöqtənin vəziyyəti iki 
+ 17
+koordinatla: coğrafi enlik ϕ  və coğrafi uzunluq λ  
+ilə təyin olunur. 
+Meridian dairəsi boyunca ekvatordan M  
+nöqtəsinə qədər olan MK  qövsünün uzunluğuna və 
+ya onun qarşısındakı MTK bucağına M  nöqtəsinin 
+coğrafi enliyi deyilir.  
+ 
+ 
+ 
+Şəkil 1.2. Coğrafi koordinatlar 
+ 
+Yəni, 
+ MTKM ∠=ϕ  və ya KM∪ . 
+ 
+Coğrafi enlik o0  ilə o90±  arasında dəyişə bilər. 
+Yerin şimal yarımkürəsində coğrafi enlik müsbət, 
+cənub yarımkürəsində isə mənfidir. Ekvator boyunca 
+Qrinviç meridianından M  nöqtəsinin meridianına 
+ 18
+qədər olan KG′ qövsünün uzunluğuna və ya onun 
+qarşısındakı TKG′  ikiüzlü bucağa M  nöqtəsinin 
+coğrafi uzunluğu λ  deyilir. Yəni, 
+TKGM ′∠=λ  və ya KG′∪     
+ 
+Coğrafi uzunluq Yerin fırlanması istiqamətində, 
+yəni, Qrinviç meridianından şərqə doğru ölçülür və o0  
+ilə o360  arasında qiymətlər alır. 
+Biz indiyə qədər Yeri kürə şəklində qəbul etdik. 
+Əslində Yer daha sonralar dəqiq öyrənəcəyimiz kimi, 
+kürə yox, kütləsi bircins paylanmayan sferoid 
+(fırlanma ellipsoidi) şəklindədir. 
+Sferoidin verilmiş nöqtəsində ona cəkilən şaquli 
+xətt və normal üst-üstə düşməz və sferoidin 
+mərkəzindən keçməz. Şəkil 1.3-də sferoidin səthindəki  
+Шякил 1.3. Astronomik, geosentrik və 
+geodezik enlik 
+ 19
+M nöqtəsində ona çəkilmiş şaquli xətt 1MT , normal 
+2MT  və radius vektor r  göstərilmişdir. 
+M  nöqtəsində sferoidə çəkilmiş şaquli xətlə 
+ekvator müstəvisi arasındakı qMT1  bucağına M  
+nöqtəsinin astronomik enliyi deyilir. 
+M nöqtəsində sferoidə cəkilən MT2 normalla 
+ekvator mustəvisi arasındakı qMT2 bucağına M  
+nöqtəsinin geodezik enliyi deyilir. M  nöqtəsinin radius 
+vektoru ilə ekvator müstəvisi arasındakı MTq  bucağına 
+M  nöqtəsinin geosentrik enliyi deyilir. 
+Astronomik və geodezik enlik bir-birindən cəmi 3 ′′  
+fərqlənir və onu çox zaman nəzərə almamaq olar. 
+Geosentrik və astronomik enlik isə bir-birindən 21 ′  
+fərqlənir. 
+ 
+ §1.4. Yerin iqlim qurşaqları 
+ 
+Yerin şəkil müstəvisinə proyeksiyasına baxaq 
+(şəkil 1.4). 
+Coğrafi enliyi 5.3366 ′±= oϕ olan nöqtələrindən 
+keçən coğrafi paralellərə şimal ( aa′ ) və cənub ( dd ′ ) 
+qütb dairələri deyilir. 
+ 20
+ 
+ 
+Şəkil 1.4. Yerin iqlim qurşaqları. 
+ 
+Coğrafi enliyi 5.3366 ′±= oϕ  olan nöqtələrindən 
+keçən coğrafi paralellərə şimal ( bb′ ) və cənub ( cc′ ) 
+tropikləri deyilir. Şimal ( bb′ ) və cənub ( cc′ )  tropikləri 
+arasındakı qurşağa isti və ya tropik qurşaq deyilir 
+Şimal qütb dairəsi ( aa′ ) ilə şimal tropiki ( bb′ ) 
+arasındakı qurşağa şimal mülayim qurşaq, cənub 
+qütb dairəsi )( dd ′  ilə cənub tropiki ( cc′ ) arasındakı 
+qurşağa isə cənub mülayim qurşaq deyilir.  
+Şimal qütb dairəsindən ( aa′ ) Yerin şimal qütbünə 
+)( Np  qədər olan qurşağa şimal soyuq qurşaq, cənub 
+qütb dairəsindən ( dd ′ ) Yerin cənub qütbünə ( Sp ) 
+qədər olan qurşağa isə cənub soyuq qurşaq deyilir. 
+ 21
+ 
+ 
+ 
+ 
+ 
+ 
+II FƏSİL 
+GÖY SFERİ 
+ 
+Bir elm öyrənmək istədikdə sən 
+Çalış ki, hər şeyi kamil biləsən. 
+ 
+Nizami Gəncəvi 
+ 
+ 
+ 22
+ § 2.1. Göy sferinin əsas elementləri 
+ 
+Əgər ulduz göyünə nəzər salsaq, bizə elə gələr ki, 
+başımızın üstündə böyük bir qübbə və ya yarımsfer var 
+və bütün ulduzlar, Ay, Günəş, planetlər və s. bu  
+yarımsferin daxili səthində yerləşmişlər. Özü də Yer 
+səthinin istənilən nöqtəsində olan müşahidəçiyə elə 
+gəlir ki, o, bu sferin mərkəzində yerləşmişdir. 
+Mərkəzi müşahidəçinin gözündə yerləşən  bu 
+ixtiyari radiuslu sferə  göy sferi deyilir. Göy sferi 
+xəyali bir ox ətrafında fırlanır və gündə bir dövr edir. 
+Ona görə bu fırlanma göy sferinin günlük 
+fırlanması adlanır. Göy sferinin xəyali PP ′  fırlanma 
+oxuna dünya oxu deyilir. 
+Şəkil 2.1. Göy sferinin əsas elementləri 
+ 
+Əvvəlcədən qeyd edək ki, göy sferinin günlük 
+fırlanması həqiqi olmayıb zahiri və ya görünən 
+hərəkətdir. Əslində Yer kürəsi öz oxu ətrafında 
+ 23
+qərbdən şərqə doğru fırlanır, Yer kürəsindəki 
+müşahidəçiyə isə elə gəlir göy sferi bütün göy cisimləri 
+ilə birlikdə əks istiqaimətdə - şərqdən qərbə doğru 
+fırlanır. 
+Dünya oxu iki nöqtədə göy sferi ilə kəsişir. Bu 
+kəsişmə nöqtələri dünyanın qütbləri ( P -şimal qütbü və 
+P′ -cənub qütbü) adlanır. Aydındır ki, göy sferinin 
+fırlanma oxu (dünya oxu) Yerin fırlanma oxuna  
+paralel olacaqdır. Əgər Yerin ölçülərini nəzərə 
+almasaq, Yerin fırlanma oxu dünya oxu ilə üst-üstə 
+düşər. 
+Beləliklə, dünyanın şimal və cənub qütbləri uyğun 
+olaraq Yerin şimal və cənub qütbləri istiqamətində 
+olacaqdır. Əgər Yerin  fırlanma oxunu xəyalən göy 
+sferi ilə kəsişənə qədər uzatsaq, o dünyanın 
+qütblərindən keçər. Şərti olaraq dünyanın şimal qütbü  
+olaraq o qütb götürülür ki, kənardan ona baxdıqda 
+dünyanın fırlanması saat əqrəbi istiqamətində olsun. 
+Göy sferinin mərkəzindən keçən və dünya oxuna 
+perpendikulyar olan müstəviyə ekvator müstəvisi 
+deyilir. Bu müstəvinin göy sferi ilə kəsişdiyi böyük 
+göy dairəsinə göy ekvatoru )( QQ ′ deyilir. Aydındır ki, 
+göy ekvatoru Yer ekvatoruna paralel olacaqdır. 
+Göy ekvatoru göy sferini (və ya dünyanı ) iki 
+yarımkürəyə−şimal qütbü yerləşən şimal 
+yarımkürəsinə və cənub qütbü yerləşən cənub 
+yarımkürəsinə ayırır. 
+Göy sferinin günlük fırlanması nəticəsində hər bir 
+göy cismi gun ərzində müstəvisi ekvator müstəvisinə 
+paralel olan kiçik göy dairələri cızır. Bu dairələrə 
+ 24
+günlük paralellər deyilir. Onlar haqqında sonrakı 
+paraqrafda danışılacaqdır. 
+Göy sferində əsəs istiqamət olaraq şaquli xəttin  
+istiqaməti (ağırlıq qüvvəsinin istiqaməti) götürülür. 
+Şaquli xətt göy sferini iki nöqtədə - başımızın üstündə 
+və ona əks nöqtədə kəsir. Bu kəsişmə nöqtələri uyğun 
+olaraq zenit )(Z  və nadir Z ′  adlanır. 
+Göy sferinin mərkəzindən keçən və şaquli xəttə 
+perpendikulyar olan müstəviyə üfüq müstəvisi deyilir. 
+Bu müstəvinin göy sferi ilə kəsişdiyi böyük göy dairəsi 
+)(NESWN  riyazi və ya həqiqi üfüq  adlanır. Riyazi 
+üfüq göy sferini iki yarımkürəyə bölür: təpəsində zenit 
+olan görünən yarımkürə və təpəsində nadir olan 
+görünməyən yarımkürə. 
+Göy sferində göy ekvatoru ilə riyazi üfüq iki 
+nöqtədə kəsişir. Bu kəsişmə nöqtələri şərq )(E  və qərb 
+)(W adlanır. 
+Dünyanın qütblərindən; zenitdən və nadirdən 
+keçən )( NPFZPPZFS ′′′  böyük göy dairəsinə göy 
+meridianı deyilir. Aydındır ki, göy meridianının 
+müstəvisi dünya oxundan və şaquli xətdən keçir. Göy 
+meridianı göy sferini iki yarımkürəyə ayırır: şərq 
+nöqtəsi yerləşən şərq yarımkürəsinə və qərb nöqtəsi 
+yerləşən qərb yarımkürəsinə. Göy meridianı iki 
+nöqtədə riyazi üfüqlə kəsişir. Bu kəsişmə 
+nöqtələrindən dünyanın şimal qütbünə yaxın olanı 
+şimal )(N  nöqtəsi, dünyanın cənub qütbünə yaxın 
+olanı isə cənub )(S  nöqtəsi adlanır. Göy meridianı 
+müstəvisinin riyazi üfüq müstə-visi ilə kəsişmə xətti 
+ 25
+NS  günorta xətti adlanır. 
+Göy sferində M  ixtiyari göy cismi götürək. 
+Zenitdən )(Z , nadirdən )(Z ′  və M  göy cismindən 
+keçən ZZM ′  böyük göy yarımdairəsinə şaquli dairə və 
+ya hündürlük dairəsi deyilir. 
+Dünyanın qütblərindən ( P  və P′ )və M  göy 
+cismindən keçən PPM ′ böyük göy yarımdairəsinə meyl 
+dairəsi və ya saat dairəsi deyilir. 
+ 
+ § 2.2. Göy sferinin fırlanması 
+ 
+Yuxarıda dediyimiz kimi Yer öz oxu ətrafında 
+fırlandığından Yer səthindəki müşahidəçiyə elə gəlir 
+ki,  göy sferi günlük dövrlə Yerin fırlanmasının əks 
+istiqamətində fırlanır. 
+Qütbün üfüqdən hündürlüyü məhəllin coğrafi 
+enliyinə )(ϕ  bərabər olduğundan  Yer səthində müxtəlif 
+coğrafi enliklərdə göy sferinin zahiri günlük fırlanma 
+mənzərəsi müxtəlif olacaqdır. Burada üç xarakterik 
+hala baxaq: 
+1) Yerin şimal qütbündə )90( o+=ϕ   
+Bu halda (şəkil 2.2) zenitlə dünyanın  şimal qütbü, 
+nadirlə isə dünyanın cənub qütbü üst-üstə düşür. 
+Bundan başqa ekvatorla riyazi üfüq üst-üstə düşür. 
+Göy cisimlərinin günlük paralelləri riyazi üfüqə paralel 
+olur. Aydındır ki, üfüqdən yuxarıda göy cismləri olan 
+görünəcək, üfüqdən aşağıda olduqda isə 
+görünməyəcək.  Ona görə Yerin şimal qütbündəki 
+müşahidəçi üçün dünyanın şimal yarımkürəsində olan 
+ 26
+Шякил 2.2. Йерин шимал гцтбцндя 
+(ϕ=+90o)эюй сферини фырланмасы 
+göy cisimləri heç vaxt batmır və gün ərzində üfüqə 
+paralel dairələr cızır. Dünyanın cənub yarımkürəsində 
+olan, göy cisimləri isə  heç vaxt doğmur. Yerin cənub 
+qütbündəki müşahidəçi isə yalnız dünyanın cənub 
+yarımkürəsini seyr edə bilər. Beləliklə, Yerin 
+qütblərində olan müşahidəçi göy sferinin yalnız 
+yarısını seyr edə bilər. 
+2).Yer ekvatorunda )0( o=ϕ  
+Bu halda (şəkil 2.3) ekvator müstəvisi üfüq 
+müstəvisinə perpendikulyar olur, dünya oxu da günorta 
+xəttinin üzərinə düşür. Göy cisimlərinin günlük 
+paralelləri riyazi üfüqə perpendikulyar olar. Ona görə 
+bütün göy cisimləri sutkanın düz yarısını üfüqdən 
+yuxarıda olur (görünür), qalan yarısını isə üfüqdən 
+aşağıda olur (görünmür). Günəş də göy cisimlərindən 
+biri olduğundan, Yer ekvatorunda həmişə gecə 
+ 27
+Шякил 2.3. Йер екваторунда(ϕ=+0o) 
+эюй сферинин фырланмасы
+gündüzə bərabər olur. Ona görə ki, Günəş günün 
+yarısını üfüqdən yuxarıda (gündüz), yarısını isə 
+üfüqdən aşağıda (gecə) olur.). 
+ 
+3) Orta coğrafi enliklərdə )900( o≤≤ ϕ  
+ 
+Шякил 2.4. Orta coğrafi enliklərdə ( 0 ≤ ϕ ≤ 900 )  
+эюй сферинин фырланмасы 
+ 28
+ 
+Bu hal (şəkil 2.4) ümumi haldır. Bu halda göy 
+cisimlərinin  günlük paralelləri riyazi üfüqlə o900 << ϕ  
+şərtini ödəyən bucaq əmələ gətirir. Ona görə bə’zi göy 
+cisimləri həm doğur, həm də batır, bə’ziləri batmır, 
+bəziləri isə doğmur. 
+ 
+ 29
+ 
+ 
+ 
+ 
+ 
+ 
+III FƏSİL 
+ASTRONOMİK KOORDİNAT 
+SİSTEMLƏRİ 
+ 
+Bilik üçün üç şey lazımdır: 
+Təbii qabiliyyətlər, çalışma və vaxt. 
+ 
+Demokrit 
+ 
+ 30
+ § 3.1. Üfüqi koordinat sistemi 
+ 
+Bu koordinat sistemində əsas müstəvi olaraq üfüq 
+müstəvisi götürülür. 
+Şəkil 3.1- də göstərildiyi kimi göy sferində ixtiyari  
+M göy cismi götürək. Bu  göy cismindən keçən ZZM ′  
+hündürlük dairəsi çəkək. Şəkildən göründüyü kimi M  
+göy cisminin göy sferində vəziyyətini iki koordinatla 
+bir qiymətli təyin etmək olar. 
+ 
+ 
+Şəkil 3.1. Üfüqi koordinat sistemi 
+ 
+Bu koordinatlardan biri hündürlük dairəsi boyunca 
+üfüq müstəvisindən M  göy cisminə qədər olan 
+KM qövsü və ya KOM bucağıdır. Bu koordinata göy 
+cisminin hündürlüyü  deyilir və h  ilə işarə olunur. 
+Müxtəlif göy cisimləri üçün hündürlük  o0 ilə o90  
+arasında qiymətlər ala bilər. Yə’ni  
+ 31
+oo 900 ±÷=h . 
+Göy cismi üfüqdən yuxarıda olduqda hündürlük 
+müsbət )0( >h , aşağıda olduqda isə mənfi )0( <h olur. 
+Göy cisminin göy sferində vəziyyətini təyin edən 
+ikinci koordinat göy cisminin azimutudur. Azimut )(A , 
+zenitdə meridianla hündürlük dairəsi arasındakı 
+bucaqdır. Aydındır ki, azimut riyazi üfüq boyunca göy 
+sferinin fırlanma istiqamətində S  cənub nöqtəsindən 
+göy cisminin hündürlük dairəsinə qədər olan SK  
+qövsünə bərabər olacaqdır. Bəzənhündürlük əvəzinə 
+göy cisminin zenit məsafəsi işlədilir. Hündürlük 
+dairəsi boyunca zenitdən göy cisminə qədər olan 
+ZM qövsünə və ya onun qarşısındakı ZOM  bucağına 
+M göy cisminin zenit məsafəsi deyilir. 
+ZOMZ ∠= və ya ZM∪ .   
+Zenit məsafəsi o0  ilə o180  arasında dəyişə bilər. 
+Aydındır ki, həmişə 
+o90=+ hz      
+olar. 
+Müxtəlif göy cisimləri üçün azimut )(A o0  ilə o360  
+arasında qiymətlər ala bilər, yə’ni 
+oo 3600 ÷=A      
+ Nəhayət qeyd edək ki, göy sferinin günlük 
+fırlanması nəticəsində üfüqü koordinatların hər ikisi 
+gün ərzində kəsilmədən dəyişir. Bunu gün ərzində 
+Günəşin hündürlüyünün  dəyişməsində daha əyani 
+görmək olar. Ona görə müşahidədən tə’yin olunmuş 
+üfüqi koordinatlar yalnız  müşahidə  olunan an  
+üçündür. Üfüqi sistemin üstünlüyü onun sadəliyində və 
+ 32
+əyaniliyindədir. Bu sistem yalnız göy cisimlərinin göy 
+sferindəki vəziyyətlərinin birbaşa təyini üçün istifadə 
+oluna bilər. 
+ 
+§ 3.2. Ekvatorial koordinat sistemi 
+ 
+Astronomiyada iki ekvatorial koordinat 
+sistemindən istifadə olunur. Onların hər ikisində əsas 
+müstəvi olaraq ekvator müstəvisi götürülür. 
+ 
+ 
+Şəkil 3.2. Ekvatorial koordinat sistemi 
+ 
+1. Birinci ekvatorial koordinat sistemi 
+Şəkil 3.2 - dən  göründüyü kimi M  göy cisminin 
+göy sferində vəziyyətini  iki koordinatla təyin etmək  
+olar. Bunlardan biri göy cisminin meyli, digəri isə göy 
+cisminin saat bucağı adlanır. 
+Meyl dairəsi boyunca ekvator müstəvisindən 
+ 33
+verilmiş M  göy cisminə qədər olan qövsün KM  
+uzunluğuna və ya onun qarşısındakı KOM bucağına 
+M  göy cisminin meyli deyilir, yəni 
+KOM∠=δ  və ya KM∪     
+Ekvator müstəvisindən dünyanın şimal qütbünə 
+doğru meyl müsbət, cənub qütbünə doğru isə mənfi 
+olur. Beləliklə, müxtəlif göy cisimləri üçün meyl δ 00 
+ilə ± 900 arasında dəyişə bilər, yə’ni 
+δ = 0° ÷ ± 90°     
+Ekvator boyunca ekvatorun yuxarı Q  nöqtəsindən 
+göy cisminin PMP′ meyl dairəsinə qədər olan QK  
+qövsünə və ya qütbdə PKQ′  sferik bucağına göy 
+cisminin saat bucağı deyilir. Saat bucağı t , Q  
+nöqtəsindən qərbə tərəf ölçülür və 00 ilə 3600 (və yə0h 
+ilə 24h) arasında dəyişə bilər, yə’ni 
+)240(3600 hht ÷÷= oo     
+Bəzən meyl əvəzinə göy cisminin qütb məsafəsi P  
+işlədilir. 
+Meyl dairəsi boyunca dünyanın şimal qütbündən 
+göy cisminə qədər olan PM  qövsünə və ya onun 
+qarşısındakı POM  bucağına M  göy cisminin qütb 
+məsafəsi deyilir. 
+POMP ∠=  və ya .PM∪     
+Qütb məsafəsi P , o0  ilə o180  arasında dəyişə bilər. 
+Aydındır ki, həmişə 
+o90=+ hP      
+     
+olar.Birinci ekvatorial koordinat sistemində gün 
+ 34
+ərzində δ  dəyişmir, t  isə kəsilmədən dəyişir. Bu da 
+uyğunsuzluq yaradır. 
+2. İkinci ekvatorial koordinat sistemi 
+ 
+Bu koordinat sistemində də koordinatlardan biri  
+göy cisminin meylidir. İkinci koordinat isə göy 
+cisminin düz doğuşu adlanır. Göy cisminin düz 
+doğuşu α  göy cisminin PPM ′  meyl dairəsi müstəvisi 
+ilə yaz bərabərliyi nöqtəsinin meyl dairəsi /PPγ  
+müstəvisi arasındakı ikiüzlü bucağa deyilir. Göy 
+cisminin düz doğuşu α ekvator boyunca yaz 
+bərabərliyi nöqtəsindən şərqə tərəf ölçülür və müxtəlif 
+göy cisimləri üçün o0  ilə 3600 (və ya h0  ilə h24 ) 
+arasında dəyişə bilir: 
+)240(3600 hh ÷÷= ooα     
+Verilmiş göy cismi üçün bu koordinatların heç biri 
+gün ərzində dəyişmir. Ona görə də 2-ci ekvatorial 
+koordinat sistemi astronomiyada əsas koordinat sistemi 
+kimi qəbul olunur. Ulduz kataloqları yalnız bu 
+koordinat sistemində verilir. 
+ 
+§ 3.3. Göy cisimlərinin doğması və batması 
+ 
+Yuxarıda dediyimiz kimi, bütün göy cisimləri göy 
+sferinin günlük fırlanması nəticəsində müstəvisi 
+ekvator müstəvisinə paralel olan kiçik dairələr (günlük 
+paralellər) cızır. Məhəllin coğrafi enliyindən və göy 
+cisminin meylindən asılı olaraq günlük paralellər ya 
+bütövlüklə riyazi üfüqdən yuxarıda qala bilər, ya 
+ 35
+Шякил 3.3. Эюй эисимляринин доьмасы 
+вя батмасы
+bütövlükdə riyazi üfüqdən aşağıda qala bilər, ya da 
+qismən üfüqdən yuxarıda, qismən də aşağıda ola bilər. 
+Bu zaman göy cisminin günlük paralelli gün ərzində 
+iki dəfə riyazi üfüqü kəsir. Göy cisminin riyazi üfüqü 
+onun şərq tərəfində kəsdiyi nöqtə doğma nöqtəsi, qərb 
+tərəfində kəsdiyi nöqtə isə batma nöqtəsi adlanır. 
+Göy ekvatorunda olan göy cismi )0( =δ  E  şərq 
+nöqtəsində doğur, W  qərb nöqtəsində isə batır. 
+Əgər göy cisminin meyli 0>δ  olarsa, o, şimal-
+şərqdə doğar, şimal-qərbdə isə batar. 
+Əgər göy cisminin meyli 0<δ  olarsa, o, cənub-
+şərqdə doğar, cənub-qərbdə isə batar. 
+Göstərmək olar ki, verilmiş ϕ  coğrafi enlikdə 
+verilmiş göy cisminin doğmayan olması üçün onun 
+meylinin mütləq qiyməti  
+ 36
+Şякил 3.6. Эюй ъисимляринин кулминасийасы
+o90−≤ ϕδ    (1.1) 
+şərtini, batmayan olması üçün isə 
+δ o90−≥ ϕ    (1.2) 
+şərtini ödəməlidir. 
+Yer ekvatorunda )0( =ϕ  bütün göy cisimləri həm 
+doğur, həm də batır, hər bir göy cismi, o cümlədən də 
+Günəş, 12 saat üfüqdən yuxarıda olur (görünür), 12 
+saat isə üfüqdən aşağıda olur (görünmür). 
+ 
+§ 3.4. Göy cisimlərinin kulminasiyası 
+ 
+Göy cisimlərinin göy meridianı kəsmə hadisəsinə 
+göy cisimlərinin kulminasiyası deyilir. Hər bir göy 
+cismi özünün görünən günlük hərəkəti zamanı gündə 
+ 37
+iki dəfə göy meridianı kəsir. Göy cisminin maksimal 
+hündürlüyünə uyğun gələn kulminasiya yuxarı 
+kulminasiya, minimal hündürlüyünə uyğun gələn 
+kulminasiya isə aşağı kulminasiya adlanır. 
+Şəkil 3.6 -da M  cisminin yuxarı )( 1M  və aşağı 
+)( 2M  kulminasiyası göstərilmişdir. 
+Şəkildən göründüyü kimi yuxarı kulminasiya 
+zamanı göy cismi göy meridianının zenit nöqtəsi 
+yerləşən yuxarı hissəsini kəsir, aşağı kulminasiya 
+zamanı isə nadir yerləşən aşağı hissəsini kəsir. 
+ 
+ 
+ 
+ 38
+ 
+ 
+ 
+ 
+ 
+ 
+IV FƏSİL 
+GÜNƏŞİN HƏRƏKƏTİ 
+ 
+Savadlı və savadsız adamlar  
+arasındakı fərq canlılar və ölülər 
+ arasındakı  fərq kimidir. 
+Aristotel 
+ 
+ 39
+§ 4.1. Günəş haqqında ümumi məlumat 
+ 
+Günəş bizim yaşadığımız Yer planetinin də daxil 
+olduğu Günəş sisteminin mərkəzi cismidir. Yeri və 
+digər planetləri istilik və işıqla təmin edən yalnız 
+Günəşdir. Günəş yerdəki bütün canlı həyatın 
+mənbəyidir. Təsadüfi deyil ki, çox qədimdən xalqımız 
+Günəşi müqəddəs saymış və bu ənənə bu gün də 
+davam etməkdədir. 
+ Günəş Bizim Qalaktikamıza daxil olan 
+milyardlarla ulduzlardan biridir. O, Yerə ən yaxın 
+ulduzdur. Günəş disk şəklində müşahidə olunan və 
+gündüz görünən yeganə ulduzdur. Gündüz görünən 
+yeganə ulduz oldugundan ona bəzən gündüz ulduzu da 
+deyilir.  
+ Bu fəsildə Günəşin günlük və illik zahiri 
+hərəkətindən bəhs edəcəyik. 
+Yerdən Günəşə qədər orta məsafə astronomiyada 
+uzunluq vahidi kimi qəbul olunur və 1 astronomik 
+vahid (a.v.) adlanır. 
+1 a.v.= 149 600 000 km.   
+Saniyədə təximinən km000300  yol gedən işıq 
+şüaları Günəşdən Yerə təxminən 8.3 dəqiqəyə çatır. 
+Günəşin radiusu 
+kmR 000696= ,    
+kütləsi 
+tonkqqM 273033 1021099.11099.1 ⋅≈⋅=⋅=  
+orta sıxlığı 
+ 40
+ρ =
+3
+3
+4 R
+M
+π
+≈1.41 q/sm3, 
+fotosfer qatının temperaturu 
+KT o5800≈ ,     
+görünən bucaq diametri 
+23 ′≈r ,      
+işıqlılığı (1saniyədə bütün kosmik fəzaya şüalandırdığı 
+elektromaqnit enerjisi) 
+sanerqL /109.3 33×=     
+və Günəş sabiti (Yer atmosferindən kənarda Yerlə 
+Günəş arasındakı orta məsafədə işıq şüalarına 
+perpendikulyar qoyulmuş 21sm  səthə 1 dəqiqədə bütün 
+dalğa uzunluqlarında düşən tam Günəş enerjisi) 
+./95.1 2 deqsmkals =    
+ 
+§ 4.2. Günəşin günlük hərəkəti 
+ 
+Günəş bütün digər göy cisimləri kimi göy sferinin 
+günlük fırlanmasında iştirak edir. O şərqdə doğur və 
+qərbdə batır. Günəşin doğması ilə gündüz,  batması ilə 
+isə gecə başlayır. Orta enliklərdə Günəş hər gün doğur 
+və batır. Daha sonra görəcəyimiz kimi bəzi coğrafi 
+enliklərdə Günəş bəzən doğmur, digərlərində isə bəzən 
+batmır. 
+Günəş gün ərzində iki dəfə göy meridianından 
+keçir (kulminasiya edir). Onun yuxarı kulminasiyası 
+günorta (saat 1200), aşağı kulminasiyası isə gecəyarısı 
+(saat oo24 ) adlanır. Əvvəlcədən qeyd edək ki, bir çox 
+ 41
+ölkələrdə saatlar bəzən 1, bəzən isə 2 saat qabağa 
+çəkilmişdir. Ona görə Azərbaycanda yay vaxtı günorta 
+saat 1400-a, qış vaxtı isə saat 1300-a uyğun gəlir. 
+Günəşin günlük hərəkəti Yerin öz oxu ətrafında 
+fırlanmasının təzahürü olub, həqiqi yox, zahiri 
+hərəkətdir. 
+ 
+ § 4.3. Günəşin illik hərəkəti 
+ 
+Müşahidələrlə müəyyən olunmuşdur ki, Günəş 
+günlük hərəkətindən başqa illik hərəkətə də malikdir. 
+Özü də Günəşin illik hərəkəti onun günlük hərəkətinin 
+əksinə - yəni, qərbdən şərqə doğru yönəlmişdir. 
+Günəşin zahiri  illik hərəkəti Yerin Günəş ətrafında 
+illik hərəkətinin təzahürüdür. 
+ 
+Şəkil 4.1. Günəşin illik hərəkəti 
+ 
+ 42
+Günəşin illik zahiri hərəkəti zamanı göy sferində 
+cızdığı böyük göy dairəsinə ekliptika deyilir. Ekliptika 
+(yunanca eklipsus) tutulma deməkdir. Ekliptika 
+müstəvisi ekvator müstəvisi ilə 23o26´.5-lik bucaq 
+əmələ gətirir. Bu bucağa ekliptikanın meyli deyilir. 
+Günəşin ekliptika üzrə illik zahiri hərəkəti şəkil 4.1-də 
+göstərilmişdir. 
+Günəş illik zahiri hərəkəti zamanı 12 ulduz 
+bürcündən keçir. Bu bürclərə zodiak bürcləri, onların 
+əhatə etdiyi göy zolağına isə zodiak deyilir. Zodiak 
+yunanca "heyvanlar dairəsi" deməkdir. 
+Zodiak bürcləri aşağıdakılardır: Qoç, Buğa, 
+Əkizlər, Xərçəng, Şir, Qız, Tərəzi, Əqrəb, Oxatan, 
+Oğlaq, Dolça və Balıqlar. 
+Şəkil 4.2- də Günəşin zodiak bürcləri üzrə zahiri 
+yerdəyişməsi təsvir olunur. Göründüyü kimi, mart 
+ayında Yerdən baxdıqda Günəş Qoç bürcündə görünür. 
+Yer III (mart) vəziyyətdən IV (aprel) vəziyyətinə 
+keçdikdə Günəş Qoç bürcündən Buğa bürcünə keçir. 
+Bir aydan sonra Yer IV vəziyyətdən V (may) 
+vəziyyətinə keçdikdə Günəş Buğa bürcündən Əkizlər 
+bürcünə keçir və s. Beləliklə, Yer Günəş ətrafında bir 
+dövr etdikdə Günəş göy sferində böyük göy dairəsi 
+(ekliptika) cızaraq yenidən ulduzlar arasındakı əvvəlki 
+yerinə qayıdır. Şəkildən göründüyü kimi yazda Günəş 
+Qoç, Buğa və Əkizlər bürclərində; yayda Xərçəng, Şir 
+və Qız bürclərində; payızda Tərəzi, Əqrəb və Oxatan 
+bürclərində; qışda isə Oğlaq,  Dolça və Balıqlar 
+bürclərində olur. 
+Günəşin ekliptika boyunca zahiri illik hərəkətində 
+ 43
+4 səciyyəvi nöqtə və ona uyğun 4 səciyyəvi an vardır: 
+1. Yaz bərabərliyi (ϒ) 
+Burada Günəş martın 21-də olur və Qoç bürcünə 
+uyğun gəlir. Həmin gün Günəş göy ekvatorunu kəsərək 
+dünyanın cənub yarımkürəsindən şimal yarımkürəsinə 
+keçir. Bu gün Yerin şimal yarımkürəsində astronomik 
+baharın başlanğıcıdır, gecə gündüzə bərabərdir. 
+Şəkil 4.1-dən göründüyü kimi yaz bərabərliyi günü 
+Günəşin ekvatorial koordinatları aşağıdakı kimi olur: 
+α =0o (0h), 
+δ =0o. 
+Yəni, martın 21-də, yaz bərabərliyi günü Günəş 
+Øÿêèë 4.2. Ýöíÿøèí çîäèàê 
+öçðÿ èëëèê ùÿðÿêÿòè
+ 44
+koordinat başlanğıcında olur. 
+2. Yay günəşduruşu ( ) 
+Burada Günəş iyunun 22-də olur və Xərçəng bürcünə 
+uyğun gəlir. Həmin gün Yerin şimal yarımkürəsində 
+astronomik yayın başlanğıcıdır; ən uzun gündüzlər, ən 
+qısa gecələr olur. Yay günəşduruşunda Günəşin 
+ekvatorial koordinatları aşağıdakı kimi olur: 
+α =90o (6h),     
+δ =+ε  (+23o26´.5).    
+3. Payız bərabərliyi ( ) 
+Burada Günəş sentyabrın 23-də olur və Tərəzi bürcünə 
+uyğun gəlir. Həmin gün Günəş göy ekvatorunu kəsərək 
+dünyanın şimal yarımkürəsindən cənub yarımkürəsinə 
+keçir, yenidən gecə ilə gündüz bərabərləşir; Yerin 
+şimal yarımkürəsində astronomik payızın 
+başlanğıcıdır. Günəşin ekvatorial koordinatları 
+α
+☼
+= 180° (12h) ,    
+δ
+☼
+=0°      
+olur.  
+4. Qış günəşduruşu ( ) 
+Burada Günəş dekabrın 22-də olur və Oğlaq 
+bürcünə uyğun gəlir; Yerin şimal yarımkürəsində 
+astronomik qışın başlanğıcıdır; ən uzun gecələr və ən 
+qısa gündüzlər olur. Qış günəşduruşunda Günəşin 
+ekvatorial koordinatları 
+α
+☼
+=270° (18h),    
+δ
+☼
+= - ε (-23°26´.5)    
+olur. 
+Günəşin yaz bərabərliyi nöqtəsindən iki ardıcıl 
+ 45
+keçməsi arasındakı zaman fasiləsinə tropik il deyilir. 
+Tropik ilin uzunluğu 365 gün 5 saat 48 dəqiqə 46 
+saniyədir.Başqa sözlə, 
+ Tropik il=365.2422 orta Günəş günü = 
+365d05h48m46s. 
+Onda aydındır ki, Günəşin ekliptika üzrə günlük 
+yerdəyişməsi 
+oo
+o
+on 19856.0
+2422.365
+360
+≈==     
+olar. 
+Günəşin illik zahiri hərəkəti zamanı göy sferində 
+ulduzlar arasında öz yerinə qayıtmasına sərf olunan 
+zamana ulduz ili və ya siderik il deyilir. 
+Ulduz ili = 365.2564 orta Günəş günü. 
+Göründüyü kimi tropik il ulduz ilindən 20m24s 
+qısadır. Bu da sonralar taniş olacagımız presessiya 
+hadisəsi ilə əlaqədardır. Presessiya nəticəsində yaz 
+bərabərliyi nöqtəsti Günəşin qarşısına doğru 
+sürüşdüyündən Günəş hər dəfə yaz bərabərliyi 
+nöqtəsinə 20m 24s  tez daxil olur. 
+Yuxarıdakılardan göründüyü kimi il ərzində 
+Günəşin meyli -23o26´.5 ilə   +23° 26´.5 arasında 
+dəyişir. Ekliptikanın Günəşin maksimal meylinə uyğyn 
+gələn nöqtəsi (δ
+☼
+=+23o26´.5) yay günəşduruşu, 
+minimal meylinə (δ
+☼
+=-23o26´.5) uyğyn gələn nöqtəsi 
+isə qış günəşduruşu adlanır. Bu nöqtələr uyğun olaraq 
+ (Xərçəng bürcünün işarəsi) və   (Oğlaq bürcünün 
+işarəsi ) ilə işarə olunur. 
+ 
+ 46
+§ 4.4. Günəşin illik hərəkətinin bərabərsürətli 
+olmaması 
+ 
+Şəkil 3.1-dən göründüyü kimi Günəşin ekliptika 
+boyunca illik hərəkətində onun → →  və  
+→ →   yolunun hər biri 180o  təşkil edir, yəni 
+∪ =180o,    
+∪ =180o.    
+Lakin hesablamalar göstərir ki, Günəş 
+→ →  yoluna təxminən 186 gün, 
+→ →  yoluna isə 179 gün sərf edir. Deməli, 
+Günəşin ekliptika boyunca illik hərəkəti bərabərsürətli 
+hərəkət deyil. Yazda və yayda Günəş payız və 
+qışdakından yavaş hərəkət edir. 
+Günəşin ekliptika üzrə illik hərəkəti zahiri hərəkət 
+olub, Yerin Günəş ətrafında dolanmasının təzahürü 
+olduğundan Günəşin illik hərəkətinin bərabərsürətli 
+olmaması Yerin Günəş ətrafında dolanmasının 
+bərabərsürətli olmaması ilə bağlıdır. Sonralar 
+görəcəyimiz kimi Yerin Günəş ətrafında hərəkət yolu 
+ellips olduğundan onun orbit üzrə hərəkət sürəti 
+müntəzəm olaraq dəyişir. Qışda, Yer Günəşə ən yaxın 
+olduqda, yəni orbitinin perihelisində (1-3 yanvar) 
+olduqda onun  orbit boyunca sürəti maksimal, yayda, 
+orbitinin afelisində (2-4 iyul) olduqda isə sürəti 
+minimal olur. 
+Yaz və yayda Günəşin orta günlük yerdəyişməsi 
+968.0
+186
+180
+1
+o
+o
+o ==n ,    
+ 47
+payız və qışda isə 
+006.1
+179
+180
+2
+o
+o
+o ==n     
+olar. Yanvarın əvvəllərində Günəşin günlük 
+yerdəyişməsi 1o01', iyulun əvvəllərində isə 0o57' təşkil 
+edir. 
+ 
+§ 4.5. Müxtəlif en dairələrində Günəşin hərəkəti 
+ 
+Müxtəlif coğrafi enliklərdə Günəşin  hərəkətinə 
+baxaq: 
+1. Yerin şimal qütbündə (ϕ=+90o) 
+ Verilmiş coğrafi enlikdə meyli δ olan göy 
+cisminin batmayan olması üçün (2.23) şərtindən 
+δ ≥ 90o - ϕ     
+olmalıdır. Yerin şimal qütbü üçün ϕ=90o olduğundan 
+yuxarıdakı şərtdən alarıq ki, verilmiş coğrafi enlikdə 
+göy cisminin batmayan olması üçün onun meyli 
+δ ≥ 0 
+şərtini ödəməlidir. Deməli, Yerin şimal qütbündə göy 
+cisminin batmayan olması üçün onun meyli müsbət 
+olmalıdır. Bildiyimiz kimi, Günəşin meyli martın 21-
+dən sentyabrın 23-nə kimi müsbət olur. Beləliklə, 
+Yerin şimal qütbündə Günəş martın 21-də doğur, 6 ay 
+ardarda gündüz olur və yalnız sentyabrın 23-də batır. 
+Göy cisimlərinin verilmiş coğrafi enlikdə 
+doğmayan olması üçün (2.21) şərti ödənməlidir. Bu 
+şərtə görə göy cisminin verilmiş coğrafi enlikdə 
+doğmayan olması üçün 
+ 48
+δ ≤ ϕ - 90o 
+olmalıdır. Yerin şimal qütbündə   ϕ =+ 90o olduğundan 
+bu şərt 
+0≤δ       
+kimi yazıla bilər. Məlumdur ki, sentyabrın 23-dən 
+martın 21-nə kimi Günəşin meyli 
+0≤δ      
+Beləlikə, Yerin şimal qütbündə Günəş sentyabrın 
+23-də batır və yalnız yarım ildən sonra, yəni martın 21-
+də doğur. 
+Aydındır ki, Yerin cənub qütbündə bunun əksi 
+müşahidə olunacaqdır. Yəni, Günəş sentyabrın 23-də 
+doğur və yalnız yarım ildən sonra, martın 21-də batır. 
+2. Yerin şimal qütb dairəsində (ϕ= 66o34′) 
+ Bu halda (2.23) şərtindən alırıq ki, Günəşin 
+batmayan olması üçün 
+δ
+☼
+ ≥ 90° − ϕ = 90°−66o34′ =+ 23o26′  
+olmalıdır. Yay günəşduruşu günü (22 iyun) Günəşin 
+meyli 
+δ
+☼
+=+23o26'     
+olduğundan Yerin şimal qütb dairəsində iyunun 22-də, 
+yalnız bir gün Günəş batmır, yəni 24 saat gündüz olur. 
+Eyni qayda ilə (2.21) şərtindən Günəşin doğmayan 
+olması üçün 
+δ
+☼
+ ≤ ϕ − 90° = 66o34′−90o  = -23o26′  
+olmalıdır. Dekabrın 22-də qış günəşduruşu günü 
+Günəşin meyli 
+δ
+☼
+ = -23o26′     
+olur. Deməli, həmin gün Yerin şimal qütb dairəsində 
+ 49
+Günəş doğmur, yəni, 24 saat gecə olur. 
+3. Yerin şimal tropikində (ϕ= +23o26′) 
+ Yerin şimal tropikində Günəş hər gün doğur və 
+batır. Yay günəşduruşu günü (22 iyun) Günəşin 
+günorta hündürlüyü 
+h
+☼
+ = 90o − ϕ +δ
+☼
+= 90o -23o26′+23o26′ =+90o  
+və ya 
+z
+☼
+ = 0o      
+olur. Yəni həmin gün Yerin şimal tropikində Günəş 
+günorta zenitdən keçir. 
+4. Yer ekvatorunda (ϕ= 0o) 
+Yer ekvatorunda bütün göy cisimləri, o cümlədən 
+Günəş hər gün doğur və batır. Gecə gündüzə 
+bərabərdir. 
+Martın 21-də və sentyabrın 23-də Günəşin meyli 
+δ
+☼
+ = 0o.      
+Ona görə  həmin günlər Günəşin günorta hündürlüyü 
+h
+☼
+ = 90o−ϕ +δ
+☼
+ = + 90o,    
+və ya 
+                       z
+☼
+ = 90o - h
+☼
+ = 0   
+olur. Deməli, Yer ekvatorunda yaz və payız bərabərliyi 
+günləri günorta Günəş zenitdən keçir. 
+Beləliklə: 
+Soyuq qurşaqlarda (ϕ ≥ + 66o34′ və ϕ ≤ - 66o34′) 
+Günəş doğmayan və batmayan ola bilər. Qütb gecələri 
+(və gündüzləri ) 24 saatdan 6 aya qədər davam edə 
+bilər. 
+Mülayim qurşaqlarda (+23o26′≤ϕ≤+66o34-
+66o34′≤ϕ≤−23o26′) Günəş hər gün doğur və batır. 
+ 50
+Gündüzün və gecənin uzunluğu 24 saatdan kiçikdir. 
+Yayda gündüzlər gecələrdən uzun, qışda isə gecələr 
+gündüzlərdən uzun olur. 
+İsti qurşaqlarda (−23o26′ ≤ ϕ ≤+ 23o26′) Günəş hər 
+gün doğur və batır. İldə iki dəfə günorta (yuxari 
+kulminasiyada) Günəş zenitdən keçir. 
+ 
+§ 4.6. Günəşin günorta hündürlüyünün dəyişməsi 
+ 
+Günəşin ekliptika üzrə illik hərəkəti zamanı onun 
+günorta hündürlüyü və doğub batma nöqtəsi günbəgün 
+dəyişir. 
+Qış günəşduruşu zamanı (22dekabr) Günəş cənub 
+şərqdə doğur və cənubi qərbdə batır. Bu zaman 
+gündüzün uzunluğu ən qısa (minimal) olur. 
+Yaz və payız bərabərliyi günləri Günəş şərq 
+nöqtəsində doğur və qərb nöqtəsində batır. 
+Yaz bərabərliyi günündən başlayaraq Günəşin 
+günorta hündürlüyü böyüyür, doğma və batma 
+nöqtələri şimala doğru sürüşür. Bu Günəşin yay 
+Günəşduruşu anına qədər davam edir. Bu zaman 
+Günəş şimali şərqdə doğur, şimali qərbdə isə batır. 
+Günəşin günorta hündürlüyü maksimal olur. Bu andan 
+başlayaraq Günəşin günorta  hündürlüyü azalır, günün 
+uzunluğu qısalır.Sentyabrın 22-də yenidən gecə 
+gündüzə bərabər olur. 
+Şəkil 4.3-də Günəşin il ərzində günorta 
+hündürlüyünün dəyişməsi göstərilmişdir. 
+ 51
+ 
+Şəkil 4.3. Günəşin günorta hündürlüyünün il ərzində 
+dəyişməsi 
+Bakıda refraksiyanı nəzərə almasaq 
+qışgünəşduruşu günü ( δ
+☼
+ =-23o5) Günəşin günorta 
+hündürlüyü 
+h
+☼
+ = 90o − ϕ +δ
+☼
+ = 24° 5;   
+yaz və payız bərabərliyi günləri (δ
+☼
+=0) 
+h
+☼
+ = 90o −ϕ +δ
+☼
+ =62 °5 ;   
+yay günəşduruşu günü isə ( δ
+☼
+ =+23°5) 
+h
+☼
+ = 90o − ϕ + δ
+☼
+=71°5.   
+ 
+ 52
+ 
+ 
+ 
+ 
+ 
+ 
+V FƏSİL                  
+              YERİN HƏRƏKƏTİ 
+ 
+Elmə xor baxan gələcəyə kor baxar. 
+Azərbaycan atalar sözü 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 53
+§ 5.1. Yerin öz oxu ətrafında fırlanması 
+ 
+Öz oxu (diametrlərindən biri) ətrafında fırlanmaq 
+bütün göy cisimlərinə xas olan bir əlamətdir. Bu 
+cismin tarazlığını saxlamaq üçün vacibdir. Kopernik 
+də özünün heliosentrik sistemində heç bir isbatsız 
+qəbul etmişdir ki, Yer öz diametrlərindən biri ətrafında 
+fırlanır və bu göy sferinin günlük fırlanmasına səbəb 
+olur. Yerin öz oxu ətrafında fırlanma dövrü bir gün 
+adlanır. Yerin öz oxu ətrafında fırlanması qərbdən 
+şərqə doğru baş verir. 
+Yer ekvatorunda onun öz oxu ətrafında 
+fırlanmasının xətti sürəti 
+./465
+045623
+2
+0 sm
+R
+smhekv ===
+⊕
+=
+π
+υυϕ    
+Aydındır ki, Yer səthində ixtiyari coğrafi enlikdə 
+xətti  sürət 
+ϕυυϕ cos⋅= ekv      
+olar. Məsələn, Bakı enliyində ( 3240 ′= oϕ ) Yerin xətti 
+fırlanma sürəti 
+smo /3013240 =′=ϕυ     
+olar. Aydındır ki, qütblərdə o90=ϕ  olduğundan 
+090 === qo υυϕ      
+olar. 
+Yerin öz oxu ətrafında fırlanmasını göstərən 
+dəlillər: 
+1. Sərbəst düşən cisimlərin şərqə tərəf meyl 
+etməsi 
+ Məlum olmuşdur ki,  böyük hündürlükdən 
+ 54
+sərbəst düşən cisimlər hündürlüyün dibinə düşmür, 
+Yerin fırlanma istiqamətinə, yəni şərqə doğru meyl 
+edir. 
+2. Fuko rəqqası 
+ 1851-ci ildə Fuko Parisdə Panteonun 
+kupolundan uzunluğu 67m, ucu 28 kq olan rəqqas 
+asmışdır. Rəqqaslar rəqs müstəvisini saxladığından 
+rəqs istiqamətindən bir qədər qərbə doğru 
+yerləşdirilmiş cisimlər Yerin fırlanması nəticəsində 
+rəqqasın qarşısına çıxır və rəqqas tərəfindən vurulur. 
+1931-ci ildə S. Peterburqda İsaki soborunda daha 
+böyük bir rəqqas asılmışdır. Onun uzunluğu 98m, 
+ucunun ağırlığı 54 kq, amplitudu 5 m-dir. 
+3. Yerin qütblərdən basıqlığı 
+ Mexanikadan məlumdur ki, öz oxu ətrafında 
+fırlanan cisimlər bir qədər basıq forma almalıdır. Yer 
+də fırlandığına görə qütblərdən basıq olub kürə 
+şəklində yox, fırlanma ellipsoidi, daha dəqiq desək 
+geoid şəklindədir. 
+4. Passatlar 
+ Yerin tropik bölgələrində həmişə Yerin şimal 
+yarımkürəsində şimali şərqdən ekvatora doğru, cənub 
+yarımkürəsində isə cənubi şərqdən ekvatora doğru 
+küləklər əsir. Bu da Yerin qərbdən şərqə doğru 
+fırlanması ilə əlaqədardır. 
+5. Çayların sahillərinin yuyulması 
+Yerin öz oxu ətrafında fırlanması nəticəsində Koriolis 
+qüvvəsi meydana gəlir və ona görə Yerin şimal 
+yarımkürəsində çayların sağ sahili, cənub 
+yarımkürəsində isə sol sahili yuyulur. 
+ 55
+§ 5.2. Yerin Günəş ətrafında dolanması 
+ 
+ Yerin Günəş ətrafında dolanması Kopernikin 
+heliosentrik sistemində əsaslandırılmış və 
+göstərilmişdir ki, Günəşin zodiak üzrə hərəkəti zahiri 
+hərəkət olub Yerin Günəş ətrafında dolanmasının 
+təzahürüdür. Lakin Yerin Günəş ətrafında dolanması 
+yalnız iki hadisə ilə tam sübut olunur. Bu hadisələr 
+ulduzların parallaktik və oberrasiya sürüşməsidir. 
+1. Ulduzların parallaktik sürüşməsi 
+Yer illik dövrlə Günəş ətrafında elliptik orbit üzrə 
+hərəkət edir. Ona görə verilmiş ulduz müxtəlif anlarda 
+Yerdən müxtəlif istiqamətlərdə görünür, yəni ulduzlar 
+parallaktik sürüşməyə məruz qalır. Parallaktik sürüşmə 
+Günəşin görünən vəziyyətinə doğru baş verir. Ekliptik 
+enliyi 0 o <β<90o şərtini ödəyən ulduzlar il ərzində göy 
+atmosferində kiçik ellips cızır. Ekliptikanın qütbü 
+yaxınlığındakı ulduzlar üçün ellips dairəyə, ekliptika 
+müstəvisinə yaxın olan ulduzlar üçün isə kiçik xəttə və 
+ya qövs parçasına çevrilir. 
+Parallaktik ellipsin böyük yarımoxu (dairənin 
+radiusu və eləcə də ekliptikada parallaktik qövsün 
+yarısı) ulduzun illik parallaksına bərabərdir. Onların 
+ölçüsü ulduza qədər olan məsafədən asılıdır. Ulduz 
+Yerdən uzaq olduqca ellipsin böyük yarımoxu 
+(dairənin radiusu və qövsün yarısı) kiçik olur. 
+2. Aberrasiya sürüşməsi 
+Ulduzların aberrasiya sürüşməsi 1728-ci ildə 
+ingilis astronomu Bradley tərəfindən kəşf olunmuşdur. 
+O, ulduzların parallaktik sürüşməsinə oxşar sürüşmə 
+ 56
+aşkar etmiş və əvvəlcə onu parallaktik sürüşmə hesab 
+etmişdir. Lakin sonra aydın olmuşdur ki, bu sürüşmə 
+parallaktik sürüşmədə olduğu kimi Günəşin görünən 
+vəziyyətinə doğru deyil, ekliptikada Günəşdən 90° 
+qərbdə yerləşən nöqtəyə yönəlmişdir. Bu sürüşmə işıq 
+sürətinin sonlu olması və Yerin Günəş ətrafında  
+dolanması ilə əlaqədardır. Bu iki səbəbdən hərəkətdə 
+olan müşahidəçi verilmiş ulduzu həqiqi yerindən bir 
+qədər sürüşmüş, başqa yerdə görür. Bu hadisə 
+astronomik aberrasiya və ya işığın aberrasiyası 
+adlanır. 
+Aberrasiya nəticəsində ekliptikanın qütbündə olan 
+ulduzlar kiçik dairələr cızır. Qütbdən uzuqlaşdıqda 
+dairə böyük yarımoxu dairənin radiusuna bərabər olan 
+ellipsə, ekliptikada isə yarısı dairənin radiusuna 
+bərabər olan kiçik qövs parçasına çevrilir. Parallktik 
+sürüşmədən fərqli olaraq aberrasiya dairəsinin, 
+ellipsinin və qövs parçasının ölçüsü ulduzlara qədər 
+olan məsafədən asılı deyil. 
+Aberrasiya hadisəsini izah edək. 
+ Fərz edək ki, şəkil 5.2-da göstərildiyi kimi 
+verilmiş anda Yerin orbit üzrə hərəkət sürəti vektoru 
+KA istiqamətindədir. K nöqtəsində yerləşən 
+müşahidəçi M göy cismini müşahidə etmək üçün 
+cihazını KM istiqamətində yönəldir. Lakin işığın sürəti 
+sonlu olduğundan işıq şüaları cihazın O obyektivindən 
+K okulyarına çatana kimi Yer K nöqtəsindən K1 
+nöqtəsinə keçir və ona görə də müşahidəçi M cismini 
+görə bilmir. O, M göy cismini müşahidə etmək üçün 
+cihazın okulyar qurtaracağını KK1 qədər əks tərəfə, 
+ 57
+yəni K2 nöqtəsinə yerləşdirməlidir. KM və K2M  
+istiqamətləri arasındakı bucağa aberrasiya bucağı  
+deyilir. 
+Əgər işıq cihazın obyektivindən okulyarına qədər 
+olan OK yolunu t müddətə qət edərsə və Yerin orbit 
+üzrə xətti sürəti υ olarsa, şəkil 5.2 -dən yaza bilərik: 
+,
+)sin(
+sin 2
+cct
+t
+KO
+KK υυ
+σβ
+σ
+===
+−
+    
+və ya σ<<β olduğundan 
+βυσ sinsin
+c
+= .    (5.1) 
+Burada c-işıq sürəti, b-ekliptik enlikdir. Aberrasiya 
+bucağı kiçik olduğundan (5.1)- i 
+βυσ sin520626
+c
+′′=    (5.2) 
+kimi yazmaq olar. 
+Yerin orbit üzrə xətti sürətinin υ=29.765 km/s və 
+işıq sürətinin c=299792 km/s olduğunu bilərək (5.2)-
+dən yaza bilərik ki, 
+βσ sin496.02 ′′=   (5.3) 
+Ekliptikanın qütbündə olan göy cismi (ulduz) üçün 
+β=90o olduğundan 
+σ= σ° = 20".496  (5.4) 
+olar. Burada 
+496.02520626 ′′=′′==
+co
+υσσ  (5.5) 
+aberrasiya sabiti adlanır. Onda (5.4) ifadəsi aşağıdakı 
+kimi yazıla bilər: 
+σ= σo sinβ .   (5.6) 
+ 58
+ 
+ 
+ 
+Şəkil5.2. Astronomik aberrasiya 
+Aberrasiya nəticəsində il ərzində ekliptikanın 
+qütbü yaxınlığında (β=90o) olan ulduzlar radiusu r=σo 
+olan  
+dairə, ekliptik enliyi 0o<β<90o olan ulduzlar böyük 
+yarımoxu α=σo, kiçik yarımoxu β=σo sinb olan ellips 
+və ekliptik enliyi β=0 olan ulduzlar uzunluğu λ = 
+2σo=41" olan qövs parçası cızır. 
+  
+§ 5.3. Yerin orbiti 
+ 
+Yer digər planetlər kimi Günəş ətrafında 
+fokuslarından birində Günəş olan elliptik orbit üzrə 
+qərbdən şərqə doğru, yəni öz oxu ətrafında fırlanma 
+istiqamətində hərəkət edir. Yerin Günəşdən orta 
+məsafəsi 1 astronomik vahid (a.v.) adlanır. 
+ 59
+Şəkil 5.1. Yerin Günəşətrafı hərəkət orbiti  
+ 
+Yadımıza salaq ki, astronomik vahid 
+a = 149 600 000 km.    
+Yer orbitinin eksentrisiteti 
+.0167.0
+22
+=
+−
+=
+⊕
+⊕⊕
+a
+ba
+e     
+Göründüyü kimi Yerin orbiti dairədən çox az 
+fərqlənir. Yerin orbiti şəkil 5.1 -də verilmişdir. Yerin 
+periheli məsafəsi 
+q⊕≈147 000 000 km,    
+afeli məsafəsi isə 
+Q⊕≈152 000 000 km-dir.   
+Yerin Günəş ətrafında tam bir dolanmasına lazım 
+olan zaman müddətinə Yerin siderik dolanma dövrü və 
+ya ulduz ili deyilir. Ulduz ili 
+T⊕ = 365.2564 orta Günəş günü = 
+= 365d 06h 09m 10s. 
+Onda Yerin orbital xətti sürəti 
+ 60
+skm
+T
+a
+orb /765.29
+2
+==
+⊕
+⊕πυ    
+olar. 
+ Yerin Günəş ətrafıında orbit boyunca günlük 
+yerdəyişməsi ücün taparıq ki,  
+oo
+o
+T
+n 1986.0360 ≈==
+⊕
+⊕ .    
+Deməli, Yer illik  hərəkəti nəticəsində ulduzlar 
+arasında qərbdən şərqə doğru öz yerini gündə 1° 
+dəyişir. 
+§5.4. Fəsillərin əmələ gəlməsi 
+ 
+Yerdə fəsillərin əmələ gəlməsinə səbəb olan 
+hadisələr: 
+1. Yerin Günəş ətrafında illik dolanması 
+Şəkil 5.3. Yerdə fəsillərin dəyişməsi 
+ 61
+2. İl ərzində Yerin fırlanma oxunun fəzada öz 
+vəziyyətini saxlaması. 
+3. Yerin fırlanma oxunun onun orbit müstəvisinə 
+meylli olması. 
+1. Martın 21-də, Günəş diski mərkəzi yaz 
+bərabərliyi nöqtəsindən keçdiyi gün Yerin şimal 
+yarımkürəsində yaz, cənub yarımkürəsində isə payız 
+fəsli başlayır. 
+2. İyunun 22-də, Günəş diski mərkəzi yay 
+günəşduruşu nöqtəsindən keçdiyi gün Yerin şimal 
+yarımkürəsində yay, cənub yarımkürəsində isə qış fəsli 
+başlayır. 
+3. Sentyabrın 23-də, Günəş diski mərkəzi payız 
+bərabərliyi nöqtəsindən keçdiyi gün Yerin şimal 
+yarımkürəsində payız, cənub yarımkürəsində isə yaz 
+fəsli başlayır. 
+4. Dekabrın 22-də, Günəş diski mərkəzi qış 
+günəşduruşu nöqtəsindən keçdiyi gün Yerin şimal 
+yarımkürəsində qış, cənub yarımkürəsində isə yay fəsli 
+başlayır. 
+Şəkil 5.3-də Yerin Günəş ətrafında illik dolanması 
+və bu zaman il ərzində Yerin fırlanma oxunun fəzada 
+özünə paralel köçürülərək öz vəziyyətini saxlaması 
+göstərilmişdir. 
+İndi fəsillərin əmələ gəlməsini izah edək. 
+Məlumdur ki, Yer səthində vahid zamanda verilmiş 
+səth elementinə Günəşdən düşən işıq seli işıq 
+şüalarının səthə çəkilmiş normalla əmələ gətirdiyi 
+bucağın, başqa sözlə, düşmə bucağının kosinusu ilə 
+mütənasib olacaqdır, yəni, 
+ 62
+Φ=Φocosi.   (5.7) 
+Burada Φo-səthə normal düşən (i=0o olduqda) sel, 
+i-isə işıq şüalarının səthin normalı ilə əmələ gətirdiyi 
+bucaqdır. 
+Şəkil 5.4-də yay günəşduruşu (22.VI), qış 
+günəşduruşu (22.XII), yaz və payız bərabərliyi (21.III 
+və 22.IX) günlərində Yer səthindəki ixtiyari j enlikli 
+nöqtədə Günəşin işıq şüalarının düşmə bucaqları i 
+göstərilmişdir. Göründüyü kimi yay günəşduruşu günü 
+i = z
+☼
+= ϕ-ε   (5.8) 
+olduğundan 
+Φ = Φocos(ϕ-ε),  (5.9) 
+qış günəşduruşu günü isə 
+i = z
+☼
+=ϕ+ε    (5.10) 
+olduğundan 
+Φ = Φocos(ϕ+ε)  (5.11) 
+olar. 
+Nəhayət yaz və payız bərabərliyi günlərində 
+i=z
+☼
+=ϕ     (5.12) 
+olduğundan 
+Φ=Φocosϕ    (5.13) 
+olar. (5.8) - (5.13) düsturlarında ϕ-müşahidə yerinin 
+coğrafi enliyi, z
+☼
+-Günəşin günorta zenit məsafəsi və ε 
+-ekliptikanın meylidir. Bu ifadələrdən göründüyü kimi, 
+Yer səthindəki verilmiş səth elementi vahid zamanda 
+yayda qışdakından xeyli çox Günəş enerjisi alır.  
+Məlum olduğu kimi, Yerin Günəş ətrafında 
+dolanma orbiti ellipsdir. Ona görə perihelidə (3 
+yanvar) Yer Günəşə afelidəkindən (4 iyul) təxminən 5 
+ 63
+milyon km yaxın olur. Eyni zamanda məlumdur ki, 
+səthin işıqlanması məsafənin kvadratı ilə tərs 
+mütənasibdir. 
+ 
+ 
+Şəkil 5.4. Yay və qış Günəşduruşu, eləcə də bərabərlik 
+günlərində Yer səthinə düşən işıq selinin dəyişməsi 
+ 64
+Ona görə ilk baxışda elə gəlir ki, Yer Günəşə yaxın 
+olduqda o Günəşdən daha çox enerji alar və yay olar. 
+Lakin Yerdə fəsillərin əmələ gəlməsində əsas rolu Yer 
+oxunun orbit müstəvisinə meyli oynayır. Qış və yayda 
+Yerin Günəşdən olan məsafəsinin fərqi isə onda özünü 
+göstərir ki, Yerin şimal yarımkürəsində (Yer Günəşdən 
+ən uzaqda olduqda) yay cənub yarımkürəsinə nisbətən 
+bir qədər sərin (təxminən 7%), qış isə (Yer Günəşə ən 
+yaxın olduqda) Yerin şimal yarımkürəsindəkinə 
+nisbətən bir qədər mülayim olur 
+ 65
+ 
+ 
+ 
+ 
+ 
+ 
+VI FƏSİL 
+ AYIN HƏRƏKƏTİ 
+ 
+Yalnız bir xoşbəxtlik - bilik,  
+yalnız bir bədbəxtlik  
+- cahillik var. 
+Sokrat 
+ 66
+§ 6.1. Ay haqqında qısa məlumat 
+ 
+Ayın kütləsi 
+M  = 7.34⋅1025q = 0.012⋅M⊕,   
+radiusu 
+R = 1738 km = 0.23⋅R⊕,    
+orta sıxlığı 
+⊕=== ρ
+π
+ρ 667.0/34.3
+3
+4
+3
+3
+smq
+R
+M    
+və orta geosentrik məsafəsi 
+r  = 384 400 km.     
+Ay səthində ağırlıq qüvvəsinin təcili 
+g = 163 sm/s2 = 0.167⋅g⊕    
+parabolik sürət isə 
+υp(Ay) = 2.38 km/s = 0.217⋅υp(Yer)-dir. 
+ 
+§ 6.2. Ayın öz oxu ətrafında fırlanması 
+ 
+Ay özü işıqlandırmayan kürə şəkilli cisimdir. O, 
+Günəş işığını qaytarır və ona görə parlaq görünür. Ay 
+öz oxu ətrafında (diametrlərindən biri ətrafında) 
+qərbdən şərqə doğru, yəni Ayın Yer ətrafında dolanma 
+istiqamətində fırlanır. Onun fırlanma oxu orbit 
+müstəvisilə 83°21'-lik bucaq əmələ gətirir. Ayın öz 
+oxu ətrafında fırlanma oxunun fəzada vəziyyəti şəkil 
+6.1- də  göstərilmişdir.  
+Ayın öz oxu ətrafında fırlanma dövrü 27.32 orta 
+Günəş gününə  bərabərdir. Maraqlıdır ki, Ayın öz oxu 
+ətrafında fırlanma dövrü onun Yer ətrafında dolanma 
+ 67
+dövrünə bərabərdir. Ayın öz oxu ətrafında fırlanması 
+və Yer ətrafında dolanması eyni istiqamətdə baş 
+verdiyindən Yerdən Ayın yalnız bir tərəfi, daha 
+doğrusu, Ay səthinin yarısı görünür. 
+ 
+ 
+ 
+Şəkil 6.1. Ayın öz oxu ətrafında fırlanması 
+ 
+Ayın ekvatoru (müstəvisi Ayın mərkəzindən keçən 
+və onun fırlanma oxuna perpendikulyar olan böyük Ay 
+dairəsi) ekliptika ilə 031 ′o  1°30 -lik, Yer ətrafı orbit 
+müstəvisilə isə 6°39'-lik bucaq əmələ gətirir. Bu üç 
+müstəvi (Ayın ekvator müstəvisi, orbit müstəvisi və 
+ekliptika müstəvisi) bir düz xətt üzrə kəsişir. Bunu ilk 
+dəfə Kassini aşkar etmiş və Kassini qanunu adlanır. 
+Yerin cazibə təsiri ilə Ayın fırlanma oxu 1861 illik 
+dövrlə konus cızır, yəni Yerin oxu kimi presesiya edir. 
+Ayın ekvatorunda xətti fırlanma sürəti  
+υekv km/saat  16.652427.32
+R2
+=
+⋅
+=
+π .   
+ 
+ 
+ 68
+§ 6.3. Ayın Yer ətrafında dolanması 
+ 
+Ay, Yer ətrafında fokuslarından birində Yer olan 
+elliptik orbit üzrə dolanır. Bu dolanma qərbdən şərqə 
+doğru, yəni Yerin Günəş ətrafında dolanma 
+istiqamətində baş verir. Ayın orbiti şəkil 6.2-də 
+göstərilmişdir. Ay orbitinin böyük və kiçik yarımoxları 
+aşağıdakı kimidir: 
+a = 384400 km ,    
+b  = 383823 km .    
+Ay orbitinin eksentrisiteti 
+055.0
+22
+=
+−
+=
+a
+bae .    
+Ay orbitinin Yerə ən yaxın nöqtəsi orbitin perigeyi, 
+ən uzaq nöqtəsi isə apogeyi adlanır. 
+Ayın perigey məsafəsi 
+q  =a (1-e)=363 400 km   
+apogey məsafəsi isə 
+Q = a(1+e)=405 400 km -dir.  
+Ayın orbit müstəvisinin ekliptika müstəvisinə 
+meyli 
+i =05°09' .     
+Günəşin və başqa göy cisimlərinin sarsıdıcı təsiri 
+ilə Ay orbitinin meyli i =04°51'  ilə i =05°20' arasında 
+dəyişir, yəni 
+i =04°51'÷05°20'.    
+Ayın Yer ətrafında bir tam dolanma dövrü onun 
+siderik və ya ulduz dolanma dövrü  (bəzən sadəcə 
+siderik ay) adlanır. 
+Ayın siderik dolanma dövrü onun öz oxu ətrafında 
+ 69
+fırlanma dövrünə bərabərdir. 
+Ayın siderik dolanma dövrü 
+T  = 27.32 orta Günəş günü = 27d07h43m11s.47. 
+Asanlıqla hesablamaq olar ki, Ayın orbit üzrə orta 
+xətti sürəti 
+skmkm/saat
+T
+r
+orb. /1 3682
+2
+≈==
+πυ    
+olar. 
+Aydındır ki, Ayın göy sferiində günlük bucaq 
+yerdəyişməsi 
+18.13360 o
+o
+T
+n ==     
+olar. 
+ 
+§ 6.4. Ayın fazaları 
+ 
+Yerdən Ay müxtəlif şəkillərdə: tam dairə, 
+yarımdairə, oraq və s. şəkillərdə görünür. Bunlar dövrü 
+olaraq bir-birini əvəz edir və təkrarlanır. 
+Ayın Yerdən müxtəlif görünən şəkilləri onun 
+fazaları adlanır. 
+Faza ədədi qiymətcə Ayın diskinin işıqlanan 
+(parlaq görünən) hissəsinin ən böyük eninin  d, onun 
+diskinin diametrinə D  nisbətinə bərabərdir, yəni 
+R
+d
+D 2
+==Φ
+d .     
+Ay diskinin işıqlanan hissəsini işıqlanmayan 
+hissəsindən ayıran xəttə terminator deyilir. 
+Terminator əksər hallarda yarım ellips şəklində olur. 
+ 70
+ 
+ 
+Şəkil 6.2. Ayın fazaları 
+ 
+.  
+ 
+Şəkil 6.3. Terminator 
+. 
+Aydındır ki, yeni Ay və dolu Ay  fazalarında 
+terminator ümumiyyətlə yoxdur, I və axırıncı rüb Ay 
+fazalarında isə terminator düz xəttə çevrilir. Şəkil 6.3 - 
+ 71
+də terminator göstərilmişdir. Ayın müxtəlif şəkillərdə 
+görünməsi (fazaları) onunla əlaqədardır ki, Ay şəffaf 
+olmayan cisim olduğundan Günəşdən gələn işıq şüaları 
+(Günəş çox uzaq olduğundan onun şüalarını paralel 
+hesab etmək olar) onun həmişə yarısını işıqlandırır, o 
+biri yarısına isə işıq düşmür və ona görə görünmür. 
+Aydan Günəşə və Aydan Yerə olan istiqamətlər 
+arasındakı bucağa faza bucağı ψ  deyilir. 
+ Şəkil 6.4 - də Ayın fazaları göstərilmişdir. 
+Şəkildən göründüyü kimi: 
+I vəziyyətində Ayın Yerə tərəf çevrilmiş yarısı 
+işıqlanmır və ona görə Yerdən Ay görünmür. Buna 
+təzə Ay deyilir. Təzə Ay fazasında Ay Yerlə Günəş 
+arasında olur. Bu fazada Ay birləşmə 
+konfiqurasiyasındadır, onun fazası və faza bucağı 
+Φ =0, ψ=180o .     
+Təzə Ay fazasından 2-3 gün sonra Ay Günəş batan 
+kimi qabarıq tərəfi Günəşə tərəf çevrilmiş nazik oraq 
+şəklində görünür. 
+II vəziyyətində Yerdən baxdıqda Ay yarım disk 
+şəklində görünür. Yarım diskin qabarıq tərəfi Günəşə 
+doğru yönəlib. Bu fazaya I rüb deyilir. Bu zaman Ay 
+şərq kvadraturasında olur. Ay gecənin birinci yarısı 
+görünür. Onun fazası və faza bucağı 
+Φ=1/2 , ψ =90°    
+olar. 
+III vəziyyətində Ay dolu disk şəklində görünür. 
+Günəş, Yer və Ay bir düz xətt üzərindədir. Yer Ayla 
+Günəşin arasındadır. Bu faza dolu Ay və ya 
+bədirlənmiş Ay adlanır. Bu zaman Ay əksdurma 
+ 72
+konfiqurasiyasında olur. Bu fazada Ay Günəş batan 
+kimi doğur, bütün gecəni görünür, Günəş doğan kimi 
+batır. Onun fazası və faza bucağı 
+Φ =1 , ψ =0° .     
+IV vəziyyətində  Ay yarım disk şəklində görünür, 
+yarım diskin qabarıq tərəfi Günəşdən  əks tərəfə 
+yönəlir. Bu fazaya  axırıncı rüb deyilir. Bu zaman Ay 
+qərb kvadraturasında olur. Ay gecənin ikinci yarısı 
+görünür. Onun fazası və faza bucağı 
+Φ =1/2 , ψ =90°    
+olar 
+ 
+§ 6.5. Ayın dolanma dövrləri 
+ 
+Ayın hərəkətində bir neçə dövr anlayışı istifadə 
+olunur. Onlardan Ayın siderik dolanma dövrü və ya 
+siderik ayla bu fəslin üçüncü paraqrafında tanış 
+olmuşuq. Ayın digər dolanma dövrləri ilə tanış olaq. 
+Ayın iki ardıcıl eyni fazası arasındakı zaman 
+fasiləsinə Ayın sinodik dolanma dövrü və ya sinodik 
+ay deyilir. 
+ Ayın sinodik dolanma dövrü onun siderik 
+dolanma dövründən bir qədər böyükdür. Bunu izah 
+etmək üçün şəkil 6.4 -ə nəzər salaq. Şəkildə G -Günəş, 
+T-Yer və L-Aydır. Göründüyü kimi I vəziyyətində Ay 
+bədirlənmiş Ay fazasındadır. Bir siderik dolanma 
+dövründən sonra Ay və Yer II vəziyyətinə  gələr və Ay 
+Yer ətrafında bir tam dövr edərək ulduzlar arasında öz 
+yerinə qayıdar. Lakin Ayın yenidən bədirlənmiş Ay 
+fazasında olması üçün Ay Yerlə birlikdə bir qədər də 
+ 73
+yol qət edərək III vəziyyətinə gəlməlidir. Onun üçün 
+Yer öz orbitində hərəkət edərək sinodik ayla siderik 
+ayın fərqi qədər zaman sərf etməlidir. Yəni, sinodik 
+dolanma dövrü siderik dolanma dövründən bu fərq 
+qədər böyük olmalıdır. 
+ 
+ 
+ 
+ 
+Şəkil 6.4. Ayın dolanma dövrlərinə dair 
+ 
+Ay üçün sinodik hərəkət tənliyi daxili planetlərdəki 
+kimi, yəni, 
+⊕
+−=
+TTS
+111      
+olacaqdır. Burada  S  və T  uyğun olaraq Ayın sinodik 
+və siderik dolanma dövrləri və T⊕- ulduz ilidir (və ya 
+Yerin siderik dolanma dövrüdür). Bu tənlikdən S  və 
+ 74
+T⊕-yə görə  T  təyin oluna bilər. Ayın sinodik dolanma 
+dövrü 
+S  =29.53 orta Günəş günü = 29d12h44m29s. 
+Beləliklə, sinodik ay siderik aydan 2.21 gün 
+uzundur. 
+Ayın öz orbitinin perigeyindən iki ardıcıl keçməsi 
+arasındakı zaman fasiləsinə anomalistik ay deyilir. 
+Anomalistik ay 27.55 orta Günəş gününə və ya 
+27d13h12m00s -ə bərabərdir. 
+Ayın öz orbitinin verilmiş düyünündən iki ardıcıl 
+keçməsi arasındakı zaman fasiləsinə əjdaha ayı deyilir. 
+Əjdaha ayının uzunluğu  27.21 orta Günəş gününə 
+və ya 27d05h02m52s,8 bərabərdir. 
+Ayın ekliptik uzunluğunun 360° artmasına lazım 
+olan zaman fasiləsinə tropik ay deyilir. 
+Tropik ayın uzunluğu siderik aydan cəmi 7 saniyə 
+qısa olub 27.321 orta Günəş gününə və ya 
+27d07h43m04s.47 -yə bərabərdir. 
+ 75
+ 
+ 
+ 
+ 
+ 
+ 
+VII FƏSİL 
+VAXTIN ÖLÇÜLMƏSİ  
+VƏ SAXLANILMASI 
+ 
+Təhsilin kökləri acı, 
+meyvələri şirindir. 
+Aristotel 
+ 76
+§ 7.1. Astronomiyada  zaman vahidləri 
+ 
+Zaman materiyanın varlıq formasıdır. Materiya 
+məkansız təsəvvür oluna bilmədiyi kimi zamansız da 
+təsəvvür oluna bilməz. Materiya yalnız məkanda və 
+zamanda mövcud ola bilər. Bu fəsildə astronomiyada 
+zaman vahidləri, zamanın (vaxtın) hesablama 
+sistemləri, zamanın  ölçülməsi və saxlanılması ilə tanış 
+olacağıq. Burada astronomiya təqvimlərinə, xüsusilə 
+müsəlman dünyasında istifadə olunan Ay təqvimlərinə 
+böyük yer verilir. 
+Astronomiyada əsas zaman vahidi Yerin öz oxu 
+ətrafında fırlanma dövrüdür. Bu zaman vahidi gün 
+adlanır. Gün seçilmiş göy cisminin və ya xəyali bir 
+nöqtənin verilmiş coğrafi meridianda iki ardıcıl eyni 
+adlı kulminasiyası arasındakı vaxtdır. Cöy sferində 
+seçilmiş cismə və ya nöqtəyə görə gün xüsusi ad alır. 
+Məsələn, həqiqi Günəş günü, orta Günəş günü, ulduz 
+günü və s. 
+Sonra görəcəyimiz kimi bu günlərin uzunluğu bir 
+qədər fərqlidir. Kiçik zaman fasilələrini ölçmək üçün 
+günün hissələrindən istifadə olunur. Məsələn,  həqiqi 
+Günəş gününün 24-də birinə bir Günəş saatı, Günəş 
+saatının 60-da birinə bir Günəş dəqiqəsi və Günəş 
+dəqiqəsinin 60-da birinə bir Günəş saniyəsi deyilir. 
+Aydındır ki, bir  Günəş gününün 86400-də biri bir 
+saniyə olacaqdır. Yəni, 
+1s = 1/(24·60·60) = 
+86400
+1  orta Günəş günü . 
+Böyük zaman fasilələrini ölçmək üçün sinodik ay 
+ 77
+(Ayın iki ardıcıl eyni adlı fazası arasındakı zaman 
+fasiləsi), siderik ay (Ayın Yer ətrafında bir dövr etməsi 
+üçün lazım olan zaman fasiləsi), tropik il (Günəş diski 
+mərkəzinin yaz bərabərliyi nöqtəsindən iki ardıcıl 
+keçməsi arasındakı zaman fasiləsi) və ulduz ili 
+(Günəşin ulduzlar arasında öz əvvəlki yerinə qayıtması 
+üçün lazım olan zaman fasiləsi) zaman vahidlərindən 
+istifadə olunur. Bu vahidlər orta Günəş günləri ilə 
+aşağıdakı kimi ifadə olunurlar: 
+Sinodik ay = 29.5306 (29d12h44m2s.8) orta Günəş 
+günü, 
+Siderik ay = 27.3216 (27d07h43m11s.5) orta Günəş 
+günü, 
+Tropik il = 365.2422 (365d05h48m46s) orta Günəş 
+günü, 
+Ulduz ili = 365.2564 (365d06h09m10s) orta Günəş 
+günü. 
+ 
+ § 7.2. Ulduz vaxtı 
+ 
+Verilmiş coğrafi meridianda yaz bərabərliyi 
+nöqtəsinin iki ardıcıl eyni adlı kulminasiyası (aşağı və 
+ya yuxarı kulminasiya) arasında keçən zaman 
+fasiləsinə ulduz günü deyilir. 
+Ulduz gününün başlanğıcı yaz bərabərliyi 
+nöqtəsinin yuxarı kulminasiyasından hesablanır. 
+Yaz bərabərliyi nöqtəsinin yuxarı kulminasiyasından 
+verilmiş ana qədər keçən vaxta ulduz vaxtı deyilir. 
+Aydındır ki, verilmiş coğrafi meridianda ulduz 
+vaxtı ədədi qiymətcə yaz bərabərliyi nöqtəsinin  saat 
+ 78
+bucağına bərabər olacaqdır. Yəni, şəkil 6.1-dən 
+göründüyü kimi, 
+s=tϒ.    (7.1) 
+ 
+ 
+ 
+Şəkil 7.1. Ulduz vaxtına dair. 
+ 
+Yaz bərabərliyi nöqtəsi xəyali bir nöqtə 
+olduğundan onun saat bucağını həqiqi bir M göy 
+cisminin düz doğuşu və saat bucağı ilə ifadə etsək 
+ulduz vaxtını 
+s=tM=αM+tM   (7.2) 
+kimi yaza bilərik. Seçdiyimiz göy cismi yuxarı 
+kulminasiyada (meridianda) olduqda onun saat bucağı  
+tM=0      
+olduğundan 
+s=αM    (7.3) 
+olar. M göy cismi aşağı kulminasiyada olduqda isə 
+ulduz vaxtı 
+s = αM +12h   (7.4) 
+olar. Bir çox astronomik məsələlərin həllində ulduz 
+ 79
+vaxtından istifadə etmək əlverişlidir. Lakin bizim 
+həyatımız və əməli fəaliyyətimiz üçün bu vaxt anlayışı 
+yaramır. Bizim gündəlik həyatımız Günəşin doğub-
+batması ilə əlaqədar olduğundan Günəş günü və Günəş 
+vaxtından istifadə etmək daha uyğundur. 
+ 
+§7.3. Həqiqi Günəş vaxtı 
+ 
+Eyni coğrafi meridianda Günəş diski mərkəzinin 
+iki ardıcıl eyni adlı kulminasiyası (yuxarı və ya aşağı) 
+arasında keçən zaman fasiləsi həqiqi Günəş günü 
+adlanır. 
+Həqiqi Günəş günü, Günəş diski mərkəzinin aşağı 
+kulminasiyasından hesablanır. 
+Həqiqi Günəş diski mərkəzinin aşağı 
+kulminasiyasından verilmiş ana qədər keçən vaxta 
+həqiqi Günəş vaxtı deyilir. 
+Aydındır ki, həqiqi Günəş vaxtı Günəş diski 
+mərkəzinin saat bucağının 12 saat artırılmış qiymətinə 
+bərabər olacaqdır. Həqiqi Günəş vaxtını T  və həqiqi 
+Günəşin saat bucağını t  ilə işarə etsək yaza bilərik ki, 
+T
+☼
+ = t
+☼
+ +12h.   (7.5) 
+Günəş yuxarı kulminasiyada olduqda (günorta) 
+onun  saat bucağı 
+t
+☼
+ = 0h     
+olduğundan günorta həqiqi Günəş  vaxtı 
+T
+☼
+ = 12h     
+olar. Eləcə də Günəş aşağı  kulminasiyada olduqda 
+(gecəyarı) onun saat bucağı 
+t
+☼
+ = 12h     
+ 80
+olduğundan gecəyarısı  həqiqi Günəş  vaxtı 
+T
+☼
+ = 24h     
+olar. Günəş günü ulduz günündən 3 dəqiqə 56 saniyə 
+böyükdür. Bu da onunla əlaqədardır ki, Günəşin illik 
+hərəkəti onun günlük hərəkətinin əksinə yönəlmişdir 
+və Günəş gündə illik yolunun təxminən 1/365-i qədər 
+yerini dəyişir. 
+Ulduz günündən fərqli olaraq həqiqi Günəş günü 
+sabit qalmayıb il ərzində dəyişir. Dekabrın 22-də 
+həqiqi Günəş günü ən uzun, sentyabrın 23-də isə ən 
+qısa olur. Bu zaman ən uzun və ən qısa həqiqi Günəş 
+günlərinin fərqi 50 - 51 saniyəyə çatır. 
+Həqiqi Günəş gününün belə dəyişməsinin iki 
+səbəbi vardır: 
+1. Günəşin illik hərəkəti ekliptika üzrə baş verir, 
+onun vaxtı təyin edən saat bucağı isə ekliptika ilə 
+23o26'22"-lik bucaq əmələ gətirən göy ekvatoru 
+boyunca ölçülür. 
+2. Günəşin ekliptika üzrə hərəkəti bərabərsürətli 
+deyil. 
+Beləliklə, həqiqi Günəş günü və onunla bağlı olan 
+həqiqi Günəş vaxtı bərabərsürətlə axmır. Ona görə orta 
+Günəş və onunla təyin olunan orta Günəş vaxtı 
+anlayışları daxil edilir. 
+ 
+§ 7.4. Orta Günəş vaxtı 
+ 
+Günəşin ekliptika üzrə illik hərəkətinin orta sürəti 
+ilə ekvator boyunca sabit sürətlə hərəkət edən və yaz 
+bərabərliyi nöqtəsindən Günəşlə eyni vaxtda keçən 
+ 81
+xəyali nöqtə orta Günəş və ya orta ekvatorial Günəş 
+adlanır. 
+Eyni coğrafi meridianda orta ekvatorial Günəşin 
+iki ardıcıl eyni adlı kulminasiyası arasında keçən vaxt 
+fasiləsinə orta Günəş günü deyilir. 
+Orta Günəş gününün də başlanğıcı onun aşağı 
+kulminasiyasından hesablanır. 
+Orta Günəşin aşağı kulminasiyası anından verilmiş 
+ana qədər keçən vaxta orta Günəş vaxtı deyilir. 
+Orta Günəş vaxtını Tm və orta Günəşin saat 
+bucağını tm ilə işarə etsək 
+Tm = tm+12h   (7.6) 
+olar. Orta Günəş yuxarı kulminasiyada olduqda 
+orta günorta olur. Bu anda 
+tm = 0h     
+olduğundan günorta vaxtı 
+Tm=12h     
+olar. Orta Günəş aşağı kulminasiyada olduqda 
+(gecəyarısı) 
+tm = 12h     
+və orta Günəş vaxtı 
+Tm= 24h     
+olar. Hazırda bütün dünyada istifadə olunan vaxt orta 
+Günəş vaxtıdır. Qeyd edək ki, bundan sonra gün 
+dedikdə biz orta Günəş gününü, vaxt dedikdə isə orta 
+Günəş vaxtını nəzərdə tutacağıq. 
+ 
+§ 7.5. Vaxt tənliyi 
+ 
+Eyni an üçün verilmiş coğrafi meridianda orta və 
+ 82
+həqiqi Günəş vaxtlarının fərqi 
+η = Tm - T☼= tm - t☼   (7.7) 
+vaxt tənliyi adlanır. Vaxt tənliyini əslində vaxt düzəlişi 
+adlandırmaq daha doğru olardı. Lakin o tarixi olaraq 
+astronomiyaya vaxt tənliyi kimi daxil olmuşdur. 
+Vaxt tənliyi il ərzində kəsilmədən dəyişir. η  bəzən 
+müsbət, bəzən də mənfi olur, ildə 4 dəfə (15 aprel, 14 
+iyun, 1 sentyabr və 24 dekabr) sıfra çevrilir; 4 dəfə isə 
+ekstremal qiymət alır. Onların ən başlıcası fevralın 11-
+də (η = +14m) və noyabrın 2-də (η = -16m) olur. 
+Doğrudan da, (7.2) -ə görə yaza bilərik ki, ulduz 
+vaxtı 
+s = α
+☼
++ t
+☼
+,   (7.8) 
+və ya 
+s = αm+ tm.   (7.9) 
+Əgər (7.8) və (7.9)-u (7.6)-də nəzərə alsaq yaza 
+bilərik: 
+η= α
+☼
+ - αm.                 (7.10) 
+Buradan göründüyü kimi, α
+☼
+>αm olduqda vaxt 
+tənliyi müsbət (η>0), α
+☼
+<αm olduqda isə vaxt tənliyi 
+mənfi (η<0) olacaqdır. 
+Vaxt tənliyi ilin bütün günləri üçün əvvəlcədən 
+hesablanır və astronomiya hərilliklərində verilir. Ona 
+görə həqiqi Günəşin saat bucağına və vaxt tənliyinə 
+görə orta Günəş vaxtını aşağıdakı kimi təyin etmək 
+olar: 
+Tm = T☼+ η.    (7.11) 
+ Doğrudan da orta ekvatorial Günəş həqiqi bir 
+cisim olmadığından onun saat bucağını təyin etmək 
+ 83
+olmur. Ona görə həqiqi Günəşin saat bucağı 
+müşahidədən təyin olunur və hər bir gün üçün məlum 
+η-ya görə orta Günəş vaxtı təyin olunur. 
+ 
+§ 7.6. Vaxt hesablama sistemləri 
+ 
+Aydındır ki, ixtiyari göy cismi və ya xəyali nöqtə 
+(həqiqi Günəş, orta Günəş, yaz bərabərliyi nöqtəsi və 
+s.) müxtəlif coğrafi meridianlarda müxtəlif anlarda 
+kulminasiya edir, başqa sözlə müxtəlif anlarda göy 
+meridianından keçir. Bu səbəbdən müxtəlif coğrafi 
+meridianlarda gün müxtəlif anlarda başlayır və vaxt 
+müxtəlif olur. Ona görə müxtəlif vaxt anlayışları daxil 
+edilir. 
+1. Yerli vaxt 
+Verilmiş coğrafi meridiandakı vaxta həmin 
+meridianın yerli vaxtı deyilir. 
+Verilmiş coğrafi meridianın bütün yerlərində 
+verilmiş göy cismi (məsələn, Günəş) eyni anda 
+kulminasiya etdiyindən, bu coğrafi meridianın hər 
+yerində yerli vaxt eyni olacaqdır. Coğrafi uzunluqları  
+l1  və l2 olan iki məntəqənin vaxtlarının fərqi bu 
+coğrafi uzunluqların fərqinə bərabər olacaqdır. 
+Məsələn, 11 və l2 uzunluqlu məntəqələrin ulduz, 
+həqiqi və orta Günəş vaxtlarının  fərqi aşağıdakı kimi 
+yazıla bilər: 
+s1 - s2 = λ1 - λ 2,   (7.12) 
+T
+☼1 - T☼2 = λ1- λ 2,    (7.13) 
+Tm1 - Tm2 = λ 1 - λ 2,   (7.14) 
+ 
+ 84
+2. Ümumdünya vaxtı 
+Sıfırıncı Qrinviç meridianı üçün yerli vaxt 
+ümumdünya vaxtı adlanır. 
+Coğrafi uzunluq sıfırıncı meridiandan şərqə doğru 
+hesablanır. Onda aydındır ki, Yer səthinin verilmiş 
+nöqtəsindəki yerli vaxt ümumdünya vaxtı ilə həmin 
+nöqtənin saatlarla hesablanmış coğrafi uzunluğunun 
+cəminə bərabər olacaqdır. Əgər ümumdünya vaxtını To 
+ilə işarə etsək, coğrafi uzunluğu λ  olan  meridianda 
+yerli orta Günəş vaxtı 
+λ+= TTm    (7.15) 
+olar. 
+3. Dilim vaxtı 
+Aydındır ki, Yer səthində sonsuz sayda meridian 
+çəkmək olar və sonsuz sayda yerli vaxt olar. Bu 
+uyğunsuzluğu aradan qaldırmaq üçün 1884-cü ildə 
+dilim vaxtı anlayışı daxil edilmişdir. Bu məqsədlə Yer 
+səthi hər biri o15  təşkil edən 24 dilimə ayrılır və 
+verilmiş dilimin mərkəzi meridianının yerli vaxtı bütün 
+dilimə şamil edilir və dilim vaxtı adlanır. Yəni vaxt 
+hesabı yalnız bu dilimlərin mərkəzi meridianlarında 
+aparılır. 
+Mərkəzi meridianı Qrinviçdən keçən dilim 
+başlanğıc dilim qəbul edilir. Dilimlərin nömrəsi bu 
+dilimdən şərqə tərəf hesablanır. Onda aydındır ki, hər 
+dilim 1h təşkil etdiyindən ixtiyari n-ci dilim üçün orta 
+dilim vaxtı 
+h
+n nTT += o    (7.16) 
+olar. Burada n dilimin nömrəsidir. Azərbaycanın 
+ 85
+paytaxtı Bakı şəhəri üçüncü dilimdə (n=3) yerləşdiyi 
+üçün Bakıda dilim vaxtı 
+h
+n TT 3+=    (7.17) 
+olar. 
+4. Fərman vaxtı 
+1930-cu ildən keçmiş Sovetlər İttifaqında gündüz 
+işığından səmərəli istifadə etmək üçün saatlar dilim 
+vaxtına nəzərən bir saat qabağa çəkilmişdir. Bu vaxta 
+fərman vaxtı (və ya dekret vaxtı) deyilir. Fərman vaxtı 
+hh
+nf nTTT )1(1 ++=+= o   (7.18) 
+Bakıda fərman vaxtı 
+hh
+f TnTT 4)1( +=++= oo
+ (7.19) 
+olar. 
+Bəzi ölkələrdə, o cümlədən, Azərbaycanda mart 
+ayının axırıncı bazar gecəsindən etibarən saatlar daha 
+bir saat qabağa çəkilir. Buna yay vaxtı deyilir. Yay 
+vaxtı 
+hhhh
+fy nTnTTT )2(1)1(1 ++=+++=+= o  (7.20) 
+Yay vaxtı oktyabr ayının axırıncı bazar gecəsinə 
+qədər davam edir.  
+Bakıda yay vaxtı 
+Ty=Tf+1h=Tn+2h =T☼+(n+2)
+h =T
+☼
++5h (7.21) 
+olar. 
+ 
+§ 7.7. Ulduz və orta Günəş vaxtları arasında 
+əlaqə 
+ 
+Məlum olduğu kimi Günəşin illik hərəkəti günlük 
+ 86
+hərəkətinin əks tərəfinə yönəlib. Əgər nəzərə alsaq ki, 
+Günəş illik hərəkəti zamanı gündə təxminən yerini 1o 
+dəyişir, göstərmək olar ki, orta Günəş günü ulduz 
+günündən təxminən 4m, daha doğrusu 03m56s.6 = 
+03m.9426 uzundur. 
+Doğrudan da tropik il ərzində Günəş 360o və ya 
+24h dönür. Onda bir gündə Günəşin dönməsi 
+556.563
+2422.365
+24 smh ==μ     
+olar. Beləliklə, tropik ildə 365.2422 orta Günəş günü 
+və 366.2422 ulduz günü vardır. Yəni 
+365.2422 orta Günəş günü = 366.2422 ulduz günü. 
+Buradan 
+1 orta Günəş günü = 1.00273 ulduz günü 
+və ya 
+1 orta Günəş günü = 24h03m 56s.556. 
+1 ulduz günü = 0.997270 orta Günəş günü 
+və ya 
+1 ulduz günü = 23h56m04s.091. 
+Aydındır ki, orta vaxt vahidləri ilə vaxt intervalı 
+ΔTm olsa, ulduz vaxtı vahidləri ilə vaxt intervalı 
+ΔS = kΔTm 
+olar və ya əksinə 
+SSTm Δ′=Δ⋅=Δ κκ
+1  
+olar. Burada 
+.99727.0
+2422.366
+2422.365
+,00273.1
+2422.365
+2422.366
+==′
+==
+k
+k
+   
+ 87
+§ 7.8. Atom vaxtı 
+ 
+Çoxsaylı müşahidələrlə müəyyən olunmuşdur ki, 
+Yerin öz oxu ətrafında fırlanması bərabərsürətli deyil. 
+Bu səbəbdən orta Günəş vaxtı da bərabərsürətlə axmır. 
+Bəzi astronomik məsələlərin həlli üçün isə yüksək 
+dəqiqliklə bərabərsürətlə axan vaxt sistemi tələb 
+olunur. Bu məqsədlə kvars saatlarından istifadə olunur. 
+Bu saatlarda kvars lövhə yuksək gərginlikli dəyişən 
+cərəyanla sabit və yüksək tezliklə rəqs etdirilir. Sonra 
+xüsusi qurğu ilə yüksək tezlikli rəqslər kiçik tezlikli 
+sabit rəqslərə çevrilir və bu rəqslər saatın əqrəbinə 
+ötürülərək saniyə impulsları yaradır. Kvars saatları ilə 
+vaxtı 10-6 saniyə dəqiqliyi ilə ölçmək olur. 
+Bəzi elmi-texniki məsələlərin həlli vaxtın 10-8 
+saniyə dəqiqliyi ilə ölçülməsini tələb edir. Bunun üçün 
+sezium 133Cs izotopunun əsas səviyyəsinin ifrat incə 
+yarım səviyyələri arasında rezonans keçidə uyğun 
+gələn tezliyin tərs qiyməti atom saniyəsi qəbul edilir. 
+Bu bir saniyədə 9192631770 rəqsə uyğun gəlir və ona 
+əsaslanan vaxta atom vaxtı deyilir. Atom saniyəsi 
+1967-ci ildə beynəlxalq sistemdə vaxt vahidi kimi 
+qəbul olunmuşdur. Vaxt sisteminin sezium etalonu bir 
+çox astronomiya və meteorologiya mərkəzlərində 
+saxlanılır. Astronomiya vaxtı ilə atom vaxtı arasındakı 
+fərq çox kiçikdir. Bu fərqi nəzərə almaq üçün hər il 
+dekabrın 31-də, bəzi illərdə isə dekabrın 31-də və 
+iyunun 30-da günün axırında astronomik vaxt hesabına 
+±1 saniyə düzəliş edilir və bununla Yerin öz oxu 
+ətrafında fırlanmasının bərabərsürətli olmaması nəzərə 
+ 88
+alınır. 
+§ 7.9. Efemerid vaxtı 
+ 
+Yuxarıda dediyimiz kimi Yerin fırlanmasının 
+qeyri-bərabərliyi ilə əlaqədar olaraq astronomik 
+müşahidələrdən təyin olunan vaxt bərabər axan vaxt 
+deyil. Bu vaxta həqiqi vaxt və ya ümumdünya vaxtı 
+deyilir. Ayın, Merkuri və Veneranın hərəkətlərinə 
+əsaslanan vaxt bərabərsürətlə axan vaxtdır. Bu vaxta 
+Nyuton vaxtı və ya efemerid vaxtı deyilir. 
+ 
+§ 7.10. Yuli günləri 
+ 
+Visokos sistemini nəzərə almaqla eyni vaxt 
+sistemində sonra baş vermiş hadisə tarixindən əvvəlki 
+hadisənin baş vermə tarixini çıxmaqla bu hadisələr 
+arasında keçən vaxtı hesablamaq olar. Lakin uzun vaxt 
+fasilələrini hesabladıqda bu bəzi çətinliklərə gətirə 
+bilər. Ona görə XI əsrdə Skaligerin təklifi ilə bizim 
+eradan əvvəl 4713-cü ilin yanvarın 1- dən günlərin 
+ardıcıl hesabı aparılır. Skaliger atasının şərəfinə bu 
+günləri Yuli günləri adlandırmışdır. Yuli günlərinin 
+başlanğıcı Qrinviç meridianının günortası qəbul 
+olunmuşdur. 
+Skaliger Yuli günlərinin hesablanma başlanğıcını 
+üç kiçik dövrün hasilindən alınan 7980 illik böyük 
+dövrün başlanğıcı kimi seçmişdir. Bu dövrlər 
+aşağıdakılardır: 
+1. 28 illik dövr (28 illik dövrlə yeddi günlük 
+həftənin günləri təqvim ilinin eyni gününə düşür), 
+ 89
+2. 19 illik dövr (Meton dövrü, hər 19 ildən bir Ayın 
+fazaları təqvim ilinin eyni gününə düşür), 
+3. 15 illik dövr (Qədim Romada vergi sistemində 
+istifadə olunurdu). 
+Doğrudan da 
+28·19·15 = 7980 
+olar. 
+Skaliger hesablamışdır ki, bu dövrlərin başlanğıcı 
+yeni eradan əvvəl 4713-cü il yanvarın 1-nə uyğun 
+gəlir. 
+ 
+§ 7.11. Tarixin dəyişmə xətti 
+ 
+Yuxarıda dediyimiz kimi qərbdən şərqə doğru hər 
+bir dilimdə saatlar bir saat irəlini göstərir. Ona görə 
+Yerin fırlanma istiqamətində, yəni qərbdən şərqə 
+doğru hərəkət edən yolçu hər yeni dilimə keçdikcə 
+saatını 1 saat qabağa çəkməlidir. Beləliklə, saatda 1 
+dilim qət edən yolçu Yer ətrafında tam bir dövr edib 
+əvvəlki yerinə qayıtdıqda saatını 24 saat qabağa 
+çəkməli olur. Nəticədə onun təqvim hesabı bir gün 
+əvvəli göstərir. Ona görə ki, o, Yer ətrafında əlavə bir 
+dövr etmiş olur. 
+Əksinə, şərqdən qərbə doğru, Yerin fırlanmasının 
+əksi istiqamətində hərəkət edən yolçu təqvimdə 1 gün 
+itirmiş olar. Məsələn, martın 24-də  şərqdən qərbə 
+doğru hərəkət edən və saatda 1 dilim qət edən yolçu 
+əvvəlki yerinə qayıdanda görər ki, orada martın 25-i 
+yox  hələ 24-dür. 
+Bu hərcmərcliyi aradan qaldırmaq üçün Qrinviç 
+ 90
+meridianından 180o fərqlənən meridiandan keçən xətt 
+tarixin dəyişmə xətti qəbul olunmuşdur. Bu xətt 
+yaşayış olmayan Antarktida istisna olmaqla heç yerdə 
+quruya toxunmur. Hər yeni gün ilk olaraq bu xətdə 
+başlayır, başqa sözlə, ayın tarixi birinci bu xətdə 
+dəyişir. Bu xətti qərbdən şərqə tərəf keçən yolçu 
+təqvim tarixinin rəqəmini bir vahid azaltmalı, şərqdən 
+qərbə keçən isə bir vahid artırmalıdır. 
+ 91
+ 
+ 
+ 
+ 
+ 
+ 
+VIII FƏSİL 
+GÜNƏŞ TƏQVİMLƏRİ 
+ 
+Günəş müqəddəsdir cümlə Cahanda 
+Onun öz yeri var, demə, hər yanda, 
+Mərkəzi cismidir bizim sistemin, 
+Ona arxayınıq, olmuşuq əmin. 
+ 
+Cəfər Quluzadə 
+ 92
+§ 8.1. Günəş təqvimlərinin astronomik əsasları 
+ 
+Günəş təqvimləri Günəşin zahiri hərəkətinə 
+əsaslanır.Bu təqvimlərin əsasında iki astronomik 
+hadisə durur. Bunlardan biri Yerin öz oxu ətrafında 
+fırlanma dövrü –gün, digəri isə günəşin ekliptika üzrə 
+görünən (zahiri) illik hərəkətinin dövrünü təyin edən 
+tropik ildir. Tropik il Günəş diski mərkəzinin yaz 
+bərabərliyi nöqtəsindən iki ardıcıl keçməsi arasındakı 
+vaxtdır. 
+Yerin öz oxu ətrafında fırlanma dövrü müxtəlif göy 
+cisimlərinə görə təyin oluna bilər. Ona uyğun olaraq 
+astronomiyada Günəş günü, ulduz günü və s. 
+anlayışları daxil edilmişdir. Həqiqi Günəş günü Günəş 
+diski mərkəzinin iki ardıcıl eyni adlı (yuxarı və ya 
+aşağı) kulminasiya arasında keçən vaxta deyilir. Günəş 
+təqvimlərində də əsas vaxt vahidi olaraq Günəş günü 
+götürülür. Lakin həqiqi Günəş günü bərabər 
+axmadığından orta Günəş və ona uyğun orta Günəş 
+günü istifadə olunur. 
+Tropik ilin uzunluğu dövrümüzdə çox cüzi olaraq 
+dəyişir. 
+Əgər başlanğıcı 1900-cü ildən götürsək tropik ilin 
+uzunluğu aşağıdakı düsturla təyin oluna bilər. 
+Tropik il = 365.24219879-0. 000000614(N-1900). 
+Burada N-ilin sıra nömrəsidir. 
+Tropik ilin müasir uzunluğu 
+T = 365.2422 orta Günəş günü = 365 gün 5 
+saat=48 dəqiqə 46 saniyədir. 
+Yeri gəlmişkən qeyd edək ki, tropik il ulduz 
+ 93
+ilindən (Yerin Günəş ətrafında bir tam dövr etmə 
+dövrü) 20 dəqiqə 24 saniyə qısadır. Bu da presessiya 
+hadisəsi ilə əlaqədardır. 
+Ulduz ili = 365.2564 orta Günəş günü =365 gün 6 
+saat 9 dəqiqə 10 saniyə 
+İlk Günəş təqvimləri təxminən 5min əvvəl Misirdə 
+tərtib olunmuşdur. Daha dəqiq Günəş təqvimləri 
+Romada, Çində tərtib olunmuşdur. 
+ 
+§ 8.2 Günəş təqvimlərinin riyazi əsası 
+ 
+Yuxarıda dediyimiz kimi tropik ilin uzunluğu 
+365,24220 gündür. Təqvim ilin uzunluğu isə 365 və ya 
+366 gün ola bilər. 365 günlük illər adi, 366 günlük illər 
+isə uzun və ya visokos illər adlanır. Adi ilin uzunluğu 
+tropik ildən 
+ 
+Tropik il – Adi təqvim ili = 365.24220 –  
+365.00000 =0.24220 = 
+5000
+1211
+100000
+24220
+=  
+gün qısadır. 
+Deməli 5000 ildə tropik illə təqvim ilinin fərqi 
+1211 gün təşkil edir. Ona görə 5000 ildən 1211-i 
+visokos il olmalıdır. 
+Aydındır ki, 
+5000
+1211   kəsrini aşağıdakı  kimi də ifadə 
+etmək olar: 
+ 94
+;
+1211
+1564
+1
+1211
+5000
+1
+5000
+1211
++
+==     
+Əgər birinci yaxınlaşmada 156/1211 kəsrini atsaq 
+alarıq ki, 
+25000,0
+4
+1
+5000
+1211
+1 ==≈ К     
+Yə'ni, 4 ildən 3-ü adi,  I-i isə visokos olmalıdır. 
+İkinci yaxınlaşma üçün alırıq: 
+156
+119
+14
+1
+156
+1211
+14
+1
+1211
+1564
+1
++
+=
++
+=
++
+   
+Əgər 119/156 kəsrini nəzərə almasaq 
+.24138,0
+29
+7
+7
+14
+1
+2 ==
++
+=К    
+Yə'ni ikinci yaxınlaşmada 29 ildən 22-si adi, 7-si 
+isə visokos olmalıdır. 
+Bu qayda ilə 3 –cü, 4-cü, 5 –ci və s.yaxınlaşmalar 
+üçün tapırıq: 
+50000
+1211 = 
+156
+1197
+14
+1
++
++
+ = 
+119
+156
+17
+14
+1
++
++
+=
+119
+371
+17
+14
+1
++
++
++
+ = 
+ 
+ 95
+=
+37
+119
+11
+17
+14
+1
++
++
++
+ = 
+37
+83
+11
+17
+14
+1
++
++
++
++
+ = 
+=
+8
+54
+13
+11
+17
+14
+1
++
++
++
++
++
+ 
+ 
+Beləliklə 3-cü yaxınlaşmada 
+119
+37  kəsrini atsaq  
+K3 = 33
+8 , 4- cü yaxınlaşmada 
+37
+8  kəsrini nəzərə 
+almasaq K4 = 128
+31  və 5-ci yaxınlaşmada 
+8
+5  kəsrini 
+nəzərə almasaq K5 = 545
+132   alarıq. Yəni, 3-cü 
+yaxınlaşmada 33 ildən 8–i, 4-cü yaxınlaşmada 128 
+ildən 31-i  və 5-ci yaxınlaşmada 545 ildən 132-i 
+visokos olmalıdır.Buradan alırıq ki, 3-cü, 4-cü və 5-ci 
+yaxınlaşmalarda uyğun olaraq 33 ildən 25-i adi, 8-i 
+visokos; 128 ildən 97-i adi, 31-i visokos, 545 ildən 
+413-ü adi, 132-ü isə visokos olmalıdır. 
+Müxtəlif visokos sistemləri üçün təqvim ilinin orta 
+uzunluğu aşağıdakı kimi tə'yin olunur: 
+ 96
+21
+21 366365
+NN
+NN
+Т
++
+⋅+⋅
+= .    
+Burada N1- təqvim tsiklindəki adi illərin sayı, N2- 
+həmin tsikldəki visokos illərin sayı və T- təqvim ilinin 
+seçilmiş dövr üçün orta uzunluğudur. 
+Aşağıdakı cədvəldə müxtəlif yaxınlaşmalar üçün 
+verilmiş dövrdə adi illərin sayı, visokos illərin sayı,  
+təqvim ilinin orta uzunluğu və təqvim ili ilə tropik ilin 
+uzunluğunun fərqi və bu fərqin neçə ilə 1 günə bərabər 
+olması verilmişdir. 
+Cədvəl 8.1. 
+Müxtəlif yaxinlaşmalar ücün visokos və adi illərin sayi 
+və təqvim ilinin orta uzunlugu 
+Yaxınlaş-
+ma 
+Dövr Adi 
+illərin
+sayı 
+N1 
+Viso 
+kos 
+illərin
+sayı 
+N2 
+Təqvim 
+ilinin 
+orta 
+uzunluğu 
+(günlərlə)
+ 
+Təqvim 
+ili 
+ilə tropik 
+ilin 
+uzunluğunu
+n 
+fərqi 
+(günlərlə) 
+ 
+Fərq 
+neçə 
+ilə 
+1 günə 
+çatar 
+ 
+1 4 3 1 365,2500 0,00780 128 
+2 29 22 7 365,24138 0,00082 1220 
+3 33 25 8 365,24242 0,00022 4545 
+4 128 97 31 365,24219 0,00001 100000 
+5 545 413 132 365,24220 0,00000 ∞ 
+ 
+§8.3. Qədim misir təqvimi 
+ 
+Hələ yeni eradan 4 min il əvvəl qədim misirlilər 
+ 97
+müəyyən etmişlər ki, yay günəş duruşu, göyün ən 
+parlaq ulduzu olan Siriusun ilk səhərqabağı doğuşu və 
+Nil çayının daşması hər il üst-üstə düşür. Uzun illər 
+ərzində aparılan müşahidələr nəticəsində onlar 
+Siriusun iki ardıcıl səhərqabağı doğma arasındakı vaxt 
+müddətinin, başqa sözlə, ilin uzunluğunun 360 gündən 
+ibarət olduğunu müəyyən etmişlər. Bunun əsasındı 
+Misirdə ilk Günəş təqvimlərindən biri yaranmışdır. 
+Təqvim ili hər biri 30 gündən ibarət olan 12 aya, hər ay 
+isə 10 günlük üç böyük həftəyə və ya 5 günlük 6 kiçik 
+həftəyə bölünür. 
+Bundan başqa təqvim ili hər biri 4 aydan ibarət 
+olan üç mövsümə ayrılırdı. Bu mövsümlər: Nil çayının 
+daşma vaxtı, səpin vaxtı və məhsulyığma vaxtı. 
+Sonralar uzun illər ərzində Siriusun səhərqabağı 
+doğmasını müşahidə edən misirlilər ilin uzunluğunun 
+365 gün olduğu müəyyən etdilər. Lakin əlavə olunan 5 
+gün əvvəlki ayların heç birinə  əlavə olunmadı. Bu 5 
+gün 12 aydan sonra təqvimə ayrıca olunub allahların 
+«anadan olma» günləri kimi bayram edilirdi. 
+Bizim eradan bir neçə yüz il əvvəl Misirin elm 
+adamları hiss etmişlər ki, onların təqvim ili həqiqi 
+ildən qısadır. Lakin onlar təqvimə əlavə gün daxil 
+etməkdən imtina edirdilər. Bundan məqsəd o idi ki, 
+dini bayramlar həmişə eyni vaxta düşməsin, bütün 
+ayları gəzsin. 
+Qədim misir təqvimində təqvim ilinin uzunluğu 
+tropik ildən 5 saat 48 dəqiqə 46 saniyə qısadır. Bu fərq 
+4 ildə 1 günə yaxınlaşır. Beləliklə, təqvim ilinin 
+başlanğıcı tədricən sonrakı aylara sürüşür və bütün 
+ 98
+ayları gəzirdi. Nəhayət, 365 x 4= 1460 ildən sonra 
+təqvim ilinin başlanğıcı Siriusun səhərqabağıdoğma 
+vaxtına düşürdü.  
+Bu dövrə «Böyük il» dövrü deyilir. Hər 1460 ildən 
+bir ilin başlanğıcı yay günəşduruşuna və ya Siriusun 
+səhərqabağı doğma vaxtına düşür. 
+Bizim eradan əvvəl 26-cı ildə təqvim ilinin 
+uzunluğu 365,25 gün götürülürdü. Bu əsasda 
+düzəldilmiş təqvim Kopt təqvimi adlanır. Bu təqvimdə 
+ilin uzunluğu sonra tanış olacağımız Yuli 
+təqvimindəkinə bərabərdir. Lakin Kopt təqvimində 
+yalnız o illər visokos və ya uzun hesab olunur ki, ilin 
+nömrəsini 4-ə böldükdə qalıq 3-ə bərabər olsun. 
+Qədim Misir təqvimində ilin başlanğıcı Siriusun 
+ilk səhərqabağı doğma vaxtı qəbul olunurdu. Bu da 
+yay günəş duruşu vaxtına uyğün gəlir. 
+Qədim Misirdə və Sudanda istifadə olunan Kopt 
+erası bizim eranın 283-cü ilindən başlanır. 
+ 
+ § 8.4. Qədim Roma təqvimi 
+ 
+Bizim eradan əvvəl VIII əsrdə Romada tərtib  
+olunan Günəş təqvimi 10 aydan ibarət idi. Təqvimin 
+birinci ayı mart ayı idi. Bu ay 31 gündən, sonra isə 
+növbə ilə cələn aylar: aprel 30 gündən, may 31 
+gündən, iyun 30 gündən, kvintilis /beşinci/ 31 gündən, 
+sekstilis /altıncı/ 30 gündən, sentyabr 30 gündən, 
+oktyabr 31gündən, noyabr və dekabr ayları isə 30 
+gündən ibarət idi. Beləliklə  təqvim  ilinin uzunluğu 
+cəmi 304 günə bərabər idi. 
+ 99
+Bizim eradan əvvəl VII əsrdə təqvimə iki yeni ay -
+yanvar (on birinci) və fevral (on ikinci) daxil olundu. 
+Bu təqvimdə aylardakı günlərin sayı Cidəl 8.2 – də 
+verilmişdir.  
+Bu təqvimdə təqvim ilinin uzunluğu 355 gün təşkil 
+edir. Bu da tropik ildən təxminən 10 gün qısadır.  
+ 
+Cədvəl 8.2 
+Qədim Roma təqvimi 
+ 
+Ayların 
+nömrəsi 
+Ayların adı Aydakı günlərin 
+sayısı 
+1 Mart 31 
+2 Aprel 29 
+3 May 31 
+4 İyun 29 
+5 Kvintilis 31 
+6 Sekstilis 29 
+7 Sentyabr 29 
+8 Oktyabr 31 
+9 Noyabr 29 
+10 Dekabr 29 
+11 Yanvar 29 
+12 Fevral 28 
+ 
+ Sonralar bu fərqi aradan cötürmək üçün dörd ildən 
+bir təqvimə bir dəfə 22, bir dəfə də 23 gündən ibarət 
+olan iki əlavə ay daxil edildi. Beləliklə dördillik 
+perioda təqvim ilinin orta uzunluğu 
+ 100
+25.366
+4
+)23355(355)22355(355
+=
++++++   
+gün olur. Bu da tropik ildən təxminən bir gün 
+böyükdür. Tropik illə təqvim iki arasındakı fərqi ləğv 
+etmək üçün təqvimə daxil edilmiş əlavə ayın uzunluğu 
+gah artırılırdı, gah da azaldılırdı. Bu da təqvimdə 
+nizamsızlığa, Dini bayramların keçirilməsində 
+çaşqınlığa səbəb olurdu. 
+ 
+ § 8.5. Yuli təqvimi ( köhnə stil) 
+ 
+Qədim Romada təqvim ilinin uzunluğu 366,25 gün 
+təşkil edirdi. Bu da tropik ildən 1 gün artıq idi. Bu da 
+təqvimdə nizamsızlığa və dini bayramların təyinində 
+çətinliyə səbəb olurdu. 
+Bu nizamsızlığı aradan götürmək üçün bizim 
+eradan əvvəl 46-cı ildə Roma imperatoru Yuli Sezarın 
+təklifi və göstərişi ilə misir astronomu Sozigen yeni 
+təqvim layihəsi vermişdir. Bu layihəyə yuxarıda 
+göstərilmiş birinci yaxınlaşmaya görə yapılmışdır. 4 
+illik dövrlə təqvim ilinin uzunluğu 3 il dalbadal 365 
+gündən, dördüncü il isə 366 gündən ibarətdir. 
+ Beləliklə, təqvim ilinin orta uzunluğu 
+25,365
+4
+3663365
+=
++⋅
+=ortaT     
+günə bərabərdir. Sozigen həm ayların sıra nömrəsini, 
+həm də günlərin aylara görə paylanmasını  qaydaya 
+salmışdır. O, ilin birinci ayı olaraq yanvarı, ikinci ayı 
+olaraq fevralı götürmüşdür. Qalan aylar əvvəlki 
+ardıcıllıqla təqvimin üçüncü, dördüncü və s. ayları 
+ 101
+olmuşlar. Təqvimdə tək aylar (yanvar, mart, may, 
+kvintilis, sentyabr və noyabr) 31 gündən, fevraldan 
+başqa cüt ayların hamısı (aprel, iyun, sekstilis, oktyabr 
+və dekabr) 30 gündən ibarətdir. 
+Yuli təqvimində təqvim ili ilə tropik ilin fərqi 
+Δ =Təqvim ili − tropik il=365.2500-365.24220=0.0078 
+gün=11 dəqiqə 14 saniya 
+ Bu fərq 128 ilə 1 günə, 400 ildə isə 3 günə çatır. 
+Təqvimdəki hərcmərrcliyi aradan qaldırlığı və hərbi 
+xidmətlərinə görə senatın qərarı ilə kvintilis ayına Yuli 
+Sezarın şərəfinə iyul adı verildi. 
+Cədvəl 8.3. 
+Yuli təqvimi 
+ 
+Ayların 
+sıra 
+nömrəsi 
+Ayların adı Aydakı 
+günlərin 
+sayısı 
+1 Yanvar 31 
+2 Fevral 28(29) 
+3 Mart 31 
+4 Aprel 30 
+5 May 31 
+6 İyun 30 
+7 İyul (kvintilis) 31 
+8 Avqust (sekstilis) 31 
+9 Sentyabr 30 
+10 Oktyabr 31 
+11 Noyabr 30 
+12 Dekabr 31 
+ 
+Yeni eradan əvvəl 8-ci ildə aydın oldu ki, təqvimə 
+nəzarət edən kollegiya Sozigenin visokos sistemini 
+ 102
+düzgün tətbiq etməmişdir. Visokos il dörd ildən bir 
+yox, (üç il adi, dördüncü visokos) üç ildən bir (iki il 
+adi, üçüncü visokos) daxil edilmişdir. Bu səhvi 
+düzəltmək və səhv daxil edilmiş günləri təqvimdən 
+atmaq üçün imperator Avqust islahat vermişdir. Ona 
+görə senatın qərarı ilə sekstilis ayına avqust adı 
+verilmişdir. Avqustu Yuli Sezardan hörmətsiz 
+saymamaq üçün senat fevraldan bir gün götürüb 
+avqusta əlavə etmişdir. Ona görə fevrala adi illərdə 28, 
+visokos illərdə isə 29 gün qalmışdır. Beləliklə üç ay 
+dalbadal (iyul, avqust, sentyabr) 31 gündən ibarət 
+olurdu. Ona görə sentyabrdan bir gün oktyabra verildi. 
+ 
+ § 8.6. Qriqori təqvimi (Yeni stil) 
+ 
+XVI əsrdə Yuli təqvimi ili ilə tropik il arasındakı 
+fərq on sutkaya çatmışdır. Həmin əsrin axırlarında yaz 
+bərabərliyi martın 21-nə yox, 11-nə düşürdü. Bu 
+nöqsanı aradan götürmək və yaz bərabərliyini öz 
+yerinə qaytarmaq üçün 1582-ci ildə Roma papası XIII 
+Qriqori xüsusi komissiya təşkil etdi. Komissiya fransız 
+riyaziyyatçısı və həkimi Lullinin layihəsini bəyəndi. 
+Bu layihə əsasında XIII Qriqori xüsusi əmr verdi. Bu 
+əmrdə deyilirdi : 
+ 1. 1582-ci il martın 4-dən sonra 5-i yox martın 
+15-i hesab olunsun. 
+ 2. Gələgəkdə də yaz bərabərliyini öz yerində 
+saxlamaq üçün hər 400 ildən bir təqvim ilində yığılan 
+ 3 gün fərqi təqvimdən atılsın. Bu məqsədlə 
+yalnız o əsri illər visokos hesab edilsin ki, onların 
+ 103
+yüzilliklərinin sayı 4-ə bölünsün. 
+Bu təqvim Qriqori təqvimi (yeni stil) adlandı. 
+Qriqori təqvimində 400 illik dövrdə təqvim ilinin otra 
+uzunluğu 
+242500.365
+400
+97366303365
+=
+⋅+⋅ gün.  
+Beləliklə, təqvim ili ilə tropik ilin fərqi üçün alırıq: 
+Δ =365.242500-365.242200= 0.0003 gün. 
+Bu fərq 3280 ildə bir günə çatır. Bu təqvim 
+dünyanın əksər ölkələrində qəbul olunub. Hazırda 
+bizim istifadə etdiyimiz təqvim də Qriqori təqvimidir. 
+Aşağıdakı cədvəldə (8.4) Qriqori təqvimində 
+ayların adı və onlardakı günlərin sayı verilmişdir. 
+ Cədvəl 8.4. 
+Qriqori təqvimi 
+ 
+Ayın 
+sıra sayı 
+Ayın adı Aydakı 
+günlərin sayı 
+1 Yanvar 31 
+2 Fevral 28 / 29/ 
+3 Mart 31 
+4 Aprel 30 
+5 May 31 
+6 İyun 30 
+7 İyul 31 
+8 Avqust 31 
+9 Sentyabr 30 
+10 Oktyabr 31 
+11 Noyabr 30 
+12 Dekabr 31 
+ 
+Köhnə stildən yeni stilə keçmək üçün müxtəlif 
+ 104
+dövrlərdə müxtəlif düzəliş vermək lazımdır. Bu düzəliş 
+aşağıdakı cədvəl 8.5-də verilmişdir. 
+Məsələn, Böyük Oktyabr Sosialist inqilabı köhnə 
+stillə 1917-ci il oktyabrın 25-də qələbə çalmışdır. Bu 
+qələbə yeni stillə 13 gün sonraya, yə'ni noyabrın 7-nə 
+düşür. 
+Onu da qeyd edək ki, Qriqori təqvimi və ya "yeni 
+stil" hər yerdə eyni vaxtda qəbul olunmamışdur. 
+Hakim dini katoliklik olan Fransa, İtaliya, İspaniya, 
+Portuqaliya, Polşa və s. ölkələrdə yeni stilə Qriqori 
+islahatı verilən ildən, yeni 1582-ci ildən keçilmişdir. 
+ Cədvəl8.5 
+Köhnə stildən yeni stilə keçmək üçün düzəliş 
+Köhnə stillə hesablanan dövr 
+ervalı 
+Düzəliş 
+(günlərlə) 
+5.x I582-29.II I700 10 
+I.III I700-29.II I800 11 
+I.III I800-29.II I900 12 
+I.III I900-29.II 2I00 13 
+I.III 2I00-29.II 2200 14 
+Böyük Britaniyada yeni stilə 1752-ci ildə, 
+Yaponiyada 1873-cü ildə, Türkiyədə 1926-cı ildə, 
+Misirdə 1928-ci ildə və s. keçilmişdir. 
+ 
+§ 8.7. Yeni Yuli təqvimi 
+ 
+Qriqori təqvimi katolik papası göstərişi ilə tərtib 
+olunduğundan pravoslav kilsəsi onu qəbul etməkdən 
+imtina etdi. Ona görə Yuqoslaviyada, Rumıniyada və 
+Yunanıstanda əhalinin katolik hissəsi dini bayramları 
+ 105
+yeni stillə, pravoslav hissəsi isə köhnə stillə qeyd 
+edirdi. Bu hərcmərcliyi aradan götürmək üçün 1923-cü 
+ilin may ayında Konstantinopolda kilsələrinin 
+yığıncağında təqvim islahatı keçirmək haqqında qərar 
+qəbul olundu. Bu islahata görə yeni stilə (Qriqori 
+təqviminə) keçməmək üçün Yuli təqvimini 
+təkmilləşdirmək lazımdır. Yeni Yuli təqvimi adlanan 
+bu təqvim Yuqoslaviyanın Belqrad universitetinin 
+professoru Milutin Milankoviç tərəfindən tərtib edildi. 
+Bu təqvimdə 900 illik dövrdə 682 adi və 218 
+visokos il vardır. Ona görə təqvim ilinin orta uzunluğu 
+üçün tapırıq : 
+242222.365
+900
+328718
+900
+218366682365
+==
++ хх gün 
+Onda təqvim ili ilə tropik ilin fərqi 
+Δ =Təqvim ili - tropik il=0.000023 gün.   
+Bu fərq 43500 ilə bir günə çatır. 
+Yeni Yuli təqvimində yalnız o əsri illər visokos 
+adlanır ki, ondakı yüzilliklərin sayını 9-a böldükdə 
+qalıq 2 və ya 6 olsun. Belə illər 2000-ci, 2400-cü, 
+2900-cü, 3300 və 3800-cü və s. illər olacaqdır. 
+Yeni Yuli təqvimi heç bir dövlətdə qəbul 
+olunmayıb. Hazırda bu təqvim yalnız pravoslav 
+kilsəsində işlədilir. 
+ 
+§ 8.8. Ömər Xəyyam təqvimi 
+ 
+Hələ İran ərəb xəlifəliyi tərəfindən işğal 
+edilməzdən İranda Günəş təqvimindən istifadə 
+olunurdu. Bu təqvimdə ilin başlanğıcı Günəşin Qoç 
+ 106
+bürcünə daxil olduğu gündən, başqa sözlə yaz 
+bərabərliyindən hesablanırdı. Təqvimin erası səsanilər 
+sulaləsinin axırıncı çarı III Yezdigerdin hakimiyyətə 
+gəldiyi cündən (16 iyun 632-ci il) hesablanırdı, və 
+Yezdigerd təqvimi adlanırdı. 
+Yezdigerd təqvimində visokos il yox idi. Təqvim 
+ili hər biri 30 cündən ibarət olan 12 aya bölünürdü. 
+Ona görə təqvim ilinin başlanğıcı ilə yazbərabərliyi 
+arasında fərq əmələ cəlirdi. Bunu aradan qaldırmaq 
+üçün hər 119 ildən bir təqvimə 13-cü ay (bəzən 1-ci 
+aydan, bəzən 2-ci aydan, bə'zən 3-cü aydan və s.) daxil 
+edilirdi. 
+Bu hərcmərcliyi aradan qaldırmaq üçün 1079-cu 
+ildə Məlik şahın göstərişi ilə təqvim islahatı keçirildi. 
+İslahat komissiyasına böyük filosof, astronom, 
+riyaziyyatçı və şair Ömər Xəyyam başçılıq edirdi. 
+Ömər Xəyyamın tərtib etdiyi Günəş təqvimində 33 
+illik dövrdə 25 sadə, 8 visokos il vardır. Özü də 7 dəfə 
+visokos il 3 ildən bir, 8-ci visokos il isə dörd ildən 
+sonra daxil edilir. Yəni 33 illik periodda 4-cü, 8-ci, 12-
+ci, 16-cı, 24-cü, 28-ci və 33-cü illər visokos il olur. 
+Təqvim ilinin orta uzunluğu 
+24242.365
+33
+836625365
+=
++ хх gün.   
+Bu tropik ildən cəmi 0.00022 gün böyükdür. Ona 
+görə təqvim ili ilə tropik il arasındakı fərq 4500 ilə bir 
+günə çatır. 
+Ömər Xəyyama məlum idi ki, Günəşin ekliptika 
+üzrə hərəkət sürəti qış və payızda yay və yazdakından 
+böyükdür. Yaz bərabərliyindən payız bərabərliyinə 
+ 107
+Günəş 186 günə gəlir, payız bərabərliyindən  yaz 
+bərabərliyinə isə 179 günə gəlir. Ona görə Ömər 
+Xəyyam təqvimində yay və yaza uyğun gələn aylar 30 
+gündən, qış və payıza uyğun gələn aylar isə 31 gündən 
+ibarət götürülmüşdür. 
+Cədvəl 8.6 
+Ömər Xəyyam təqvimi 
+ 
+№ Ayın adı Aydakı günlərin sayı 
+1 Fərvərdin 31 
+2 Ordibehişt 31 
+3 Xordad 31 
+4 Tir 31 
+5 Mordad 31 
+6 Şəhrivər 31 
+7 Mehr 30 
+8 Aban 30 
+9 Azar 30 
+10 Dey 30 
+11 Bəhmən 30 
+12 İsfənd 30 /29/ 
+ 
+Bu təqvim İranda XIX əsrin ortalarına qədər 
+istifadə olunmuşdur. 
+ 
+§ 8.9. Bürc təqvimi 
+ 
+İran bürc təqvimində Günəşin hansı zodiak 
+ 108
+bürclərində olmasına uyğun olaraq aylara uyğun 
+zodiak bürclərinin adı verilmişdir. Məsələn, martın 21-
+dən aprelin 21-nə kimi Günəş qoç bürcündə 
+olduğundan bu dövrə uyğun gələn ay qoç ayı adlanır. 
+Ayların rəsmi adı ərəbcə, qeyri rəsmi adı isə farsca 
+çağrılır. Bürc təqvimində ayların ərəbcə, farsca, rusca 
+və türkcə adları aşağıdakı cədvəldə verilmişdir. 
+Bürc təqvimində ilin birinci günü yaz bərabərliyinə 
+(hamal ayının 1-i) düşür. Bu təqvimdə də era 
+Məhəmməd peyğəmbərin Məkkədən Mədinəyə hicrət 
+etdiyi ildən (622-ci il) hesablanır. 
+Cədvəl 8.7 
+Bürc təqvimi 
+ 
+Ayın 
+nömrəsi 
+Zodiak bürclərin adı  
+ərəbcə farsca rusca türkcə 
+1 Həməl Bərrə Oven Qoç 
+2 Sour Gav Teleü Boğa 
+3 Covza Dopeykər Blizneüı Ekizlər 
+4 Səratan Xərçəng Rak Xərçəng 
+5 Asəd Şir Lev Aslan 
+6 Sonboe Doxtar Deva Başak 
+7 Mizan Tərazu Vesı Tərəzi 
+8 Əkrəb Kəjdom Skorpion Əqrəb 
+9 Qous Kəman Streleü Üsiyan 
+10 Cezdi Bozqale Kozeroq Oğlaq 
+11 Dəlv Dul Vodoley Kva 
+12 Hut Mahi Rıbı Balıqlar 
+ 
+ 109
+Bürc təqvimində aydakı günlərin sayı sabit deyil. 
+Aylardakı günlərin sayı 29-dan 32-yə qədər dəyişə 
+bilir. Bürc təqvimi 1911-ci ildən 1925-ci il martın 21-
+nə kimi İranda rəsmi dövlət təqvimi olmuşdur. 1925-ci 
+ildə məclisin qərarı ilə Bürc təqvimi hicri-şəmsi 
+təqvimi ilə əvəz olunmuşdur. 
+ 
+§ 8.10. Əfqan təqvimi 
+ 
+Əvvəllər İranda olduğu kimi Əfqanıstanda da 
+Günəş bürc təqvimi işlədilirdi. Əfqan bürc təqvimində 
+də Ömər Xəyyam verdiyi visokos qaydasından (33 
+ildən 8-i visokos) istifadə olunur. Lakin Əfqan 
+təqvimində bəzi aylarda (akrab, kaus, cadi və dalv 
+aylarında) günlərin sayı sabit qalmır. 
+Əfqan təqvimində ayların sıra sayı ilə adları 
+aşağıdakı kimidir: hamal, saur, cazda, səratan, asad, 
+sumbula, mizan, akrab, kaus, cadi, dalv və hut. Bu 
+adlar ərəbcə zodiak bürclərinin adlarıdır. 
+Əfqan təqvimində ilin başlanğıcı yaz bərabərliyi ilə 
+üst-üstə düşür. Başqa sözlə Hamal ayının 1-i Qriqori 
+təqvimi ilə martın 21-nə uyğun gəlir. Yaz bərabərliyi 
+günü−yəni martın 21-i Əfqanıstanda rəsmi yeni il 
+bayramıdır. Təqvimdə eranın başlanğıcı İran 
+təqvimində olduğu kimi hicrət ilindən (622-ci il iyulun 
+16-dan, yəni Məhəmməd peyğəmbərin Məkkədən 
+Mədinəyə hicrətindən) hesablanır. Ona görə Əfqan 
+Günəş təqvimi də hicri Günəş təqvimi adlanır. 
+Miladi tarixə 1958 ildə (hicri şəmsi tarixlə 1337-ci 
+ildə) əfqan hicri Günəş təqvimi müasir İran təqviminə 
+ 110
+yaxınlaşdırılmış, aylardakı günlərin sayının dəyişməsi 
+aradan götürülmüşdür. İndi fərq yalnız ondan ibarətdir 
+ki, İran təqvimində axırıncı ay−İsfəid adi illərdə 29 
+gündən, visokos illərdə isə 30 gündən ibarətdir; Əfqan 
+təqvimində axırıncı ay−Xut həmişə 30 gündən 
+ibarətdir. Bunun əvəzində 10-cu ay−cadi adi illərdə 29 
+gündən, visokos illərdə isə 30 gündən ibarət olur. 
+ 
+ § 8.11. Kopt təqvimi 
+ 
+Misirin təqvim sakinləri olan və xristian dininə 
+qulluq edən koptlar indiyə qədər də qədim misir 
+təqvimi əsasında tərtib olunmuş Günəş təqvimindən 
+istifadə edirlər. Bu təqvim Kopt təqvimi adlanır. 
+Kopt təqvimində il hər birində 30 gün olan 12 
+aydan ibarətdir. Adi illərdə təqvimə 12-ci aydan sonra 
+5 gün, visokos illərdə isə 6 gün əlavə olunur. Beləliklə, 
+adi illərdə təqvim ili 365 gündən, visokos illərdə isə 
+366 gündən ibarət olur. 
+Kopt təqvimində o illər visokos adlanır ki, ilin 
+nömrəsini 4-ə böldükdə qalıq 3-ə bərabər olsun. Əgər 
+qalıq 1, 2 və 0 olsa il adi ildir. 
+Kopt təqvimində era bizim eranın 284-cü ilin 
+avqustun 29-dan hesablanır. Bu era Diokletian erası 
+adlanır. Koptların yeni ili Yuli təqvimi ilə avqustun 
+29-na, Qriqori təqvimi ilə isə sentyabrın 11-nə düşür. 
+Kopt təqvimində visokos ildən sonrakı il əlavə bir gün 
+avqustun 30-na, Qriqori təqvimi ilə isə sentyabrın 12-
+nə düşür. 
+Kopt təqvimi yalnız Həbətistanda rəsmi təqvim 
+ 111
+kimi qəbul olunmuşdur. 
+ 
+§ 8.12. Medler təqvimi 
+ 
+Alman astronomu Medler 1864-cü ildə Qriqori 
+təqviminin yeni variantını təklif etmişdir. O, 128 ildə 
+31 visokos və 97 adi il götürür. Onda təqvim ilinin orta 
+uzunluğu üçün tapırıq: 
+24219.365
+128
+46751
+128
+3136697365
+==
+×+×  gün.  
+Bu tropik ildən cəmi 0,00001 gün fərqlənir. 
+Beləliklə, bu təqvimdə tropik illə təqvim ilinin fərqi 
+100 000 ildə cəmi bir günə çatır. Bu çox böyük 
+dəqiqlikdir. 
+1899-cü ildə rus astronomiya cəmiyyətində məsələ 
+qaldırılmışdır ki, Rusiyada Qriqori təqvimindən 
+Medler təqviminə keçirilsin. Lakin bu təklifi həyata 
+keçirmək mümkün olmamışdır. 
+ 
+§ 8.13. Vahid milli hind təqvimi 
+ 
+Əhalisi 200-dən çox dildə danışan çox−millətli 
+Hindistanda hələ qədim zamanlardan çoxlu sayda 
+Günəş, Ay və Ay−Günəş təqvimlərindən istifadə 
+olunurdu. Ölkədə vahid milli təqvim tərtib etmək üçün 
+1952-ci ilin noyabrında baş nazir C.Nehrunun cöstərişi 
+ilə xüsusi komitə yaradılmışdır. Komitə məşhur fizik-
+astronom professor Mehnad Sahanın sədrliyi altında 
+yeni vahid milli hind təqviminin layihəsini 
+hazırlamışdır. 
+ 112
+Milli hind təqvimi Günəş təqvimidir. Adi illərdə 
+mülki təqvim ili 365 gündən, visokos illərdə isə 366 
+gündən ibarətdir. İl 12 aydan ibarətdir. Ayların sıra 
+nömrəsi ilə adları aşağıdakı kimidir: Çaytra, Vaisakha, 
+Caşiha, Asadha, Sravana, Bhadra, Azvina, Kartika, 
+Aqrahayana, Pauza, Maqha və Phalquna. Birinci 6 ay 
+31 gündən, qalan 6 ay isə 30 gündən ibarətdir. Adi 
+illərdə təqvimin birinci ayı  Çaytra 30 gündən, visokos 
+illərdə isə 31 gündən ibarətdir. 
+Təqvim Sak erasına əsaslanır. Bu era bizim eranın 
+15 mart 78-ci ilindən başlanır. Bu təqvimin visokos 
+sistemi aşağıdakı kimidir. Əgər verilmiş ilin üzərinə 78 
+gəldikdə o qalıqsız 4-ə bölünərsə il visokos ildir. 
+Bundan sonra gələn hər dördüncü il də visokos il 
+olacaqdır. Əgər ilin üzərinə 78 gəldikdə cəm 100-ün 
+tam misillərinə bərabər olsa il o vaxt visokos adlanır 
+ki, cəm 400- ə qalıqsız bölünür. 
+Vahid milli hind təqvimində ilin başlanğıcı Çaytra 
+ayının 1-dir. Adi illərdə Çaytra ayının 1-i bizim 
+təqvimlə martın 22-nə, visokos illərdə isə martın 21-nə 
+düşür. 
+Aşağıdakı cədvəldə vahid milli hind təqvimi 
+verilmişdir. 
+ 
+Cədvəl 8.8 
+Vahid milli hind təqvimi 
+Ayın 
+nömrəsi 
+Ayın adı Aydakı 
+günlərin 
+sayı 
+Qriqori təqviminin 
+hansı tarixinə 
+uyğun gəlir 
+1 Çaytra 30 (31) 22 (21)III-20.IV 
+2 Vaisakha 31 21.IV-21.V 
+ 113
+3 Caittha 31 20.V-21.VI 
+4 Asadha 31 22.VI-22.VII 
+5 Sravana 31 23.VII-23.VIII 
+6 Bhadra 31 23.VIII-23.IX 
+7 Azvina 30 23.IX-22.X 
+8 Kartika 30 23.X-21.XI 
+9 Aqrahayana 30 22.XI-21.XII 
+10 Pauza 30 22.XII-20.I 
+11 Maqha 30 21.I-19.II 
+12 Phalquna 30 20.II-20.III 
+ 
+ § 8.14. Mayya təqvimi 
+ 
+Yeni eradan 1000 il əvvəllərdən başlayaraq 
+Meksikada yaşayan Mayyalılarda elm və mədəniyyət 
+sürətlə inkişaf etməyə başlamışdır. XV əsrdə ispanlar 
+bu yerləri işğal edərkən burada hündürlüyü 60 metr 
+olan 40000 piramida, çoxlu sayda məbədlər, daş 
+sütunlar üzərində 5000-dən çox heroqlif yazıları və s. 
+aşkar edilmişdir. Əfsuslar olsun ki, ispan işğalı zamanı 
+bu abidələrin böyük əksəriyyəti məhv edilmiş, qiymətli 
+əlyazmalar yandırılmışdır. Yalnız üç əlyazması 
+qalmışdır ki, onlar da Drezden, Paris və Madrid 
+kitabxanalarında  saxlanılır. Mayyalılarda kifayət 
+qədər dəqiq astronomiya təqvimləri də olmuşdur. 
+Onlar eyni zamanda üç növ təqvimdən istifadə 
+etmişlər. Bu təqvimlərdə illər Solkin, Tun və Haab 
+adlanır. 
+“Solkin” təqvim ili hər birinin uzunluğu 20 gün 
+olan 13 aydan ibarətdir. Ona görə Solkin ilinin 
+ 114
+uzunluğu 
+Solkin təqvim ili =20⋅13=260 gün.  
+Bu təqvim səpin və məhsul yığımı dövrlərini 
+müəyyən etmək üçün istifadə edilmişdir. 
+Uzunluğu 360 gündən ibarət olan il “Tun” adlanır. 
+Tun ili hər birinin uzunluğu 20 gün olan 18 aydan 
+ibarətdir. Tun təqvim ilinin uzunluğu 
+Tun təqvim ili =20⋅18=360 gün    
+Sonralar Mayyalılar müəyyən etmişlər ki, ilin 
+uzunluğu 360 yox 365 gündür. Ona görə onlar Tun 
+ilinə 5 gün əlavə etmişlər. 
+Cədvəl 8.9  
+Mayya təqvimində günlərin adı və mənası 
+ 
+№ Günün
+ adı 
+Mənası № Günü
+n  
+adı 
+Mənası 
+1 İmiş Toxum 11 Çuen Əşya 
+2 Jk Külək 12 Eb Bulud 
+3 Akbal Yağış 13 Ben Qaç 
+4 Kan Yemək 14 Iş Bəbir 
+5 Çikçan Buludlu 15 Men İş 
+6 Kimi Məhv 16 Kib Klevat 
+7 Manik Təklənmə 17 Kaban Yerqorxan 
+8 Lamaf Parıldayan ulduz 18 Esanab
+Nikkel bıçağı 
+9 Muluk Su 19 Kavak Xoşagəlməz hava 
+10 Ok İt 20 Ax Hökmdar 
+ 
+Uzunluğu 365 gündən ibarət olan təqvim ili 
+ 115
+“Haab” təqvim ili adlanır. Haab təqvim ili 20 günlük 
+18 aydan və ilin axırında əlavə edilən 5 gündən 
+ibarətdir. Yəni Haab təqvim ilinin uzunluğu 
+Haab təqvim ili =(20∗18)+5=365 gün 
+ 
+Cədvəl 8.10  
+Mayya təqvimində ayların adı 
+ 
+№ Ayların adı № Ayların adı 
+1 Pop 10 Yaş 
+2 Vo 11 Sak 
+3 Sip 12 Kex 
+4 Sots 13 Mak 
+5 Sek 14 Kankin 
+6 Şul 15 Muan 
+7 Yaşkin 16 Paş 
+8 Mol 17 Kayhyab 
+9 Çen 18 Kumxu 
+ 
+Mayya təqvimində hər günün və hər ayın öz adı 
+vardır. Əlavə olunan 5 günün isə adı yoxdur, o günlər 
+bayram günləri adlanır. Ənənəyə görə hökmdarlar da 
+bu günlərin birində dəyişdirilirdi. 
+Mayya mifologiyasına görə göyün 13 müqəddəs 
+qatı mövcuddur və onların hər biri bir allaha 
+məxsusdur, allahlar onu idarə edir. Hər 400 ildən bir 
+göydə hakimiyyət dəyişir və bu allahlar dünyanı növbə 
+ilə idarə edir. Mayyalılar hesab edirdilər ki, 13 dəfə 
+400 illik bitdiyində guya dünya tamam dəyişməli, 
+dünyanın nizamı pozulmalı və yeni bir nizam 
+ 116
+yaranmalıdır. Başqa sözlə dünyanın axırı  çatmalıdır. 
+Meksikanın Tabasko ştatında saxlanılan bir 
+monument üzərində mayyalıların belə bir yazısı həkk 
+olunmuşdur: 
+“13-cü 400 illik Kanki ayının 3-də, Yahav günü 
+başa çatacaqdır”. 
+Bu da bizim eranın 2012-ci ilin 21 dekabrına 
+uyğun gəlir. Bu mifoloji əsaslara söykənən 
+məlumatlara görə məsuliyyətsiz “elm adamları” , 
+yazarlar, mediya işçiləri dünyanın sonu 2012-ci ildə 
+olacağını söyləyirlər. Bu fikirlər elmdən, həqiqətdən, 
+ədalətdən çox uzaqdır. Bu məsuliyyətsiz fikirləri radio-
+televiziya kanallarında söyləmək, qəzetlərdə yazmaq 
+cəmiyyətə çox böyük ziyan verə bilər. Sinir sistemi  
+zəif olan adamlar  depresiyaya düşə bilər. 
+Bəs  2012-ci  il dekabırın  21-də planetlərin  paradı  
+olacaqmı? 
+Müasir astronomiya elmi planetlərin efemeridini 
+(göydə yerini) istənilən vaxt üçün cox böyük 
+dəqiqliklə təyin edə bilər. Bu şayiələrdən sonra 2012-ci 
+il dekabrın 21-ində planetlərin yeri dəqiq 
+öyrənilmişdir. Beləki Müəyyən olmuşdur ki, dekabrın 
+21-də Günəş Oğlaq bürcündə, Ay Qoç bürcündə, 
+Merkuri və Venera Oxatan bürcündə, Mars Oğlaq 
+bürcündə, Yupiter Əkizlər bürcündə , Saturn Əqrəb 
+bürcündə, Uran Qoç bürcündə, Neptun Balıqlar 
+bürcündə, və Pluton Oğlaq bürcündə olacaqdır. 
+Buradan göründüyü kimi planetlərin heç bir paradı 
+gözlənilmir. 
+Onu da qeyd edək ki, planetlərin hamısı bir düz 
+ 117
+xətt üzrə düzülsələr belə onlar Günəşə heç bir təsir edə 
+bilməzlər. Planetlərin hamısının kütləsinin cəmi 
+Günəşin kütləsinin təxminən 0.1%-ni təşkil edir. 
+Günəş sistemi mükəmməl dinamik sistemdir və onun 
+nizamını pozmaq qeyri mümkündür. 
+Planetlərin paradının dünyanı qaranlığa qərq 
+etməsi isə heç mümkün deyil. Günəş Yerdən 150 
+mliyon km məsafədədir. Yerlə Günəş arasında isə 
+yalnız Merkuri və Venera yerləşir. Onlar isə Yerdən 
+baxdıqda səmada  nöqtə kimi görunur. Onlar Günəşin 
+qarşısını  qətiyyən kəsə  bilməzlər. 
+Günəşin qarşısını kəsə biləcək yeganə göy cismi 
+Aydır. Ayın bucaq diametri Günəşin bucaq diametrinə 
+bərabər olduğundan yeni Ay fazasında Günəş 
+tutulması  baş verir. Onun tam tutulma fazası isə 2-3 
+dəqiqə cəkir, Yer kürəsində tam qaranlıq baş vermir. 
+ 118
+ 
+ 
+ 
+ 
+ 
+IX FƏSİL 
+AY TƏQVİMLƏRİ 
+Biliksiz ağlın gecəsi− Aysız və 
+ulduzsuz gecədir. 
+M. Siseron 
+ 119
+§ 9.1. Ay təqvimlərinin astronomik əsasları. 
+ 
+Ay təqvimləri Ayın Yer ətrafında dolanmasına 
+əsaslanır. Bu təqvimlərin əsasında orta Günəş günü , 
+sinodik ay –Ayın iki ardıcıl eyni adlı fazasında keçən 
+vaxt durur və 12 sinodik aydan ibarət olan Ay ili durur. 
+Sinodik ay = 29, 5306 orta Günəş günü = 29 orta 
+Günəş günü ,12 saat, 44 dəqiqə, 2,8 saniyə 
+Ay- Günəş təqvimləri həm Günəşin illik zahiri 
+hərəkətinə həm də Ayın Yer ətrafında dolanmasına 
+əsaslanır. Bu təqvimlərdə əsas zaman vahidləri gün, 
+sinodik ay və tropik ildir. 
+Ay təqvimlərində əsas zaman vahidi gün və 
+sinodik aydır (ayın iki ardıcıl eyni adlı fazası 
+arasındakı vaxt müddəti). Ay təqvimində də il 12 
+aydan ibarətdir. Sinodik ay 29,535059 gün olduğundan 
+tapırıq ki, Ay astronomik ilin uzunluğu 
+29,535059x12=354,36706 gündür  . 
+Təqvim ilində aylar tam günlərdən ibarət olmalıdır. 
+Ona görə 6 ay 30 gün, 6 ay isə 29 gün götürülür. Onda 
+Ay təqvim ilinin uzunluğu 
+29x6+30x6=354 gün     
+olacaqdır.   
+Onda Ay astronomik ilin uzunluğu ilə Ay təqvim 
+ilinin uzunluğunun fərqi 
+Δ =0,36706 gün     
+olur.    
+Ay təqvimində hər ayın başlanğıcı, eləcə də hər ilin 
+başlanğıcı təzə Ay fazasına düşməlidir. Lakin Ay 
+0,36706 gün qısa olduğundan hər il təqvim ilinin 
+ 120
+başlanğıcı təzə Ay fazasından 0,36706 gün qabağa 
+düşür. Bu fərqi aradan götürmək üçün təqvimə arabir 
+bir gün əlavə etmək lazımdır. Belə illər günəş 
+təqvimlərində olduğu kimi visokos illər adlanır. Bəs 
+visokos sistemini necə seçmək lazımdır? Bu barədə 
+sonrakı paraqraflarda danışacağıq. 
+ 
+§ 9.2. Ay təqvimlərinin riyazi əsasları. 
+ 
+Ay təqvim ili 12 sinodik aydan ibarət olub  
+Ay ili = 29,53076*12 = 354.36706 gün   
+Ay təqvim ili = 6*30 + 6*29 = 354 gün   
+Ay ili ilə Ay təqvim ilinin fərqi    
+Δ = 0,36706 gün      
+Bu fərqi adi kəsrə çevirmək üçün yaza bilərik. 
+K=
+100000
+36706 =
+50000
+18353 =
+18353
+50000
+1 =
+18353
+132942
+1
++
+=
+13294
+18353
+12
+1
++
+= 
+ 
+=
+13294
+50591
+12
+1
++
++
+ = 
+5059
+13294
+11
+12
+1
++
++
+ = 
+5059
+31762
+11
+12
+1
++
++
++
+= 
+ 
+ 121
+= 
+13294
+50591
+12
+1
++
++
+ = 
+5059
+13294
+11
+12
+1
++
++
+ = 
+5059
+31762
+11
+12
+1
++
++
++
+=  
+=
+3176
+5059
+12
+11
+12
+1
++
++
++
+ = 
+3176
+1882
+11
+12
+11
+12
+1
++
++
++
++
+ 
+ 
+Ardıcıl olaraq 
+18353
+13294 , 
+13294
+5059 , 
+5059
+3176 , 
+3176
+1882  və s. 
+kəsrlərini ataraq alırıq: 
+K1 = 2
+1 , K2 = 3
+1 , K3 = 8
+3 , K4 = 19
+7 , K5 = 30
+11 ,  
+K6 = = 79
+29  və K7 = 109
+40  
+Beləliklə, birici yaxınlaşmada 2 ildən 1-i, ikinci 
+yaxınlaşmada 3 ildən 1-i, üçüncü yaxınlaşmada 8 ildən 
+3-ü, dördüncü yaxınlaşmada 19 ildən 7-si, beşinci 
+yaxınlaşmada 30 ildən 11-i, altıncı yaxınlaşmada 79 
+ildən 29 –u, yeddinci yaxınlaşmada 109 ildən 40 –ı 
+visokos il olmalıdır. 
+Beləliklə alırıq ki, 3-cü yaxınlaşmada 8 illik 
+dövrdə 5 adi, 3 visokos, 4-cü yaxınlaşmada 11 illik 
+dövrdə 7 adi, 4 visokos, 5-ci yaxınlaşmada 19 illik 
+dövrdə 12 adi,  
+ 122
+7 visokos, 6-cı yaxınlaşmada isə 30 illik dövrdə 19 adi, 
+11 visokos il olmalıdır. 
+ Aşağıdakı cədvəldə müxtəlif yaxınlaşmalarda 
+dövrlər, adi illərin sayı, visokos illərin sayı, təqvim 
+ilinin orta uzunluğu, ay ili ilə təqvim ilinin fərqi və bu 
+fərqin neçə ilə bir günə çatması verilmişdir 
+ 
+Cədvəl 9.1 
+Müxtəlif yaxınlaşmalarda dövrlər, adi illərin sayı, 
+visokos illərin sayı, təqvim ilinin orta uzunluğu, ay ili ilə 
+təqvim ilinin fərqi və bu fərqin 
+ neçə ilə bir günə çatması 
+ 
+Yaxın-
+laşma
+Dövr Adi
+illərin
+sayı
+Visokos
+Illərin
+sayı 
+Təqvim 
+ilinin  
+orta 
+uzunluğu 
+Ay ili ilə 
+təqvim 
+ilinin 
+fərqi 
+Fərq 
+neçə 
+ilə 1 
+günə 
+çatar 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+2 
+3 
+8 
+19 
+30 
+79 
+109
+1 
+2 
+5 
+12 
+19 
+50 
+69 
+1 
+1 
+3 
+7 
+11 
+29 
+40 
+354,5 
+354,33333 
+354,375 
+354,36842 
+354,36666 
+354,36708 
+354,36697 
+0,13294 
+0,03373 
+0,00794 
+0,00136 
+-0,0004 
+0,00002 
+-0,00009 
+7,5 
+29,6 
+126 
+735 
+-2500 
+50000 
+-11111 
+ 
+İndi görək hansı dövrdə Ay təqvim ili ilə Ay 
+astronomik il arasında fərq kiçik olur. Təbiidir ki, elə 
+dövr seçmək lazımdır ki, ondakı günlərin sayı tam 
+ədədə kifayət qədər yaxın olsun. Yuxarıda tapdığımız 
+dövrlərdən bu şərti ödəyən 3-cü və 6-cı 
+yaxınlaşmadakı dövrlərdir. Doğrudan da 
+ 123
+354,36706x8=2834,93648,    
+354,36706x30=10631,01180.   
+Aşağıdakı cədvəldə müxtəlif dövrlər üçün təqvim 
+günləri ilə astronomik günlərin fərqi hesablanmışdır. 
+ 
+Cədvəl 9.2 
+Müxtəlif dövrlər üçün təqvim günləri ilə astronomik 
+günlərin fərqi 
+ 
+Y
+ax
+ın
+la
+şm
+a 
+D
+öv
+r 
+A
+di
+ i
+llə
+ri
+n 
+sa
+yı
+ 
+(m
+) 
+V
+is
+ok
+os
+ 
+ill
+ər
+in
+ 
+sa
+yı
+ (n
+) 
+Dövrdəki 
+təqvim 
+günlərinin 
+sayı 
+Dövrdəki 
+astronomik 
+günlərin 
+sayı 
+ 
+Fərq 
+ 
+ 
+ 
+(günlərlə)
+1 2 1 1 709 708,73412 0,26588 
+2 3 2 1 1063 1063,10118 -0,10118 
+3 8 5 3 2835 2834,93648 0,06352 
+4 11 7 4 3898 3898,03766 -0,03766 
+5 19 12 7 6733 6732,97414 0,02586 
+6 30 19 11 10631 10631,01180 -0,01180 
+ 
+§ 9.3. Türk Ay təqvimi 
+ 
+Türk Ay təqvimi 8 illik dövrə əsaslanmışdır. 
+Dövrdə 5 adi, 3 visokos il vardır. Visokos illərin daxil 
+edilməsi elə seçilir ki, təqvim ilinin axırında Ay 
+astronomik ili ilə Ay təqvim ilinin fərqi yarım gündən 
+artıq olmasın. Bu o vaxt ödənilir ki, 8 illik dövrün 2-ci, 
+5-ci və 8-ci illəri visokos olsun. 
+Türk Ay təqvim ilinin 8 illik dövrdəki orta 
+uzunluğu 
+ 124
+3750,354
+8
+33555354
+=
+⋅+⋅  gündür.  
+ 
+Onda tapırıq ki, Ay təqvim ilinin orta uzunluğu ilə 
+Ay astronomik ilin uzunluğunun fərqi 
+Δ=354,37500−354,36706 = 0,00794 gün  
+Bu fərq 126 ildə 1 günə çatır. 
+Maraqlıdır ki, türk dövründə Ay təqvim ilindəki 
+günlərin sayı həftədəki günlərin sayına qalıqsız 
+bölünür: 
+405
+7
+33555354
+=
+⋅+⋅     
+Bu elə daimi təqvim düzəltməyə imkan verir ki, 
+hər 8 illik dövrdə ayın tarixi ilə həftənin günləri 
+arasında uyğunluq alınsın. Məsələn, hər ayın 
+başlanğıcı həftənin eyni gününə uyğun gəlsin. 
+ 
+§ 9.4. Ərəb Ay təqvimi 
+ 
+Bu təqvim 30 illik dövrə əsaslanıb. 
+Bu dövrdə 19 adi, 11 visokos il vardır. Visokos 
+illər elə daxil edilməlidir ki, ilin axırında Ay təqvim ili 
+ilə Ay astronomik ilinin fərqi yarım sutkadan böyük 
+olmasın. Göstərmək olar ki, bu şərtin ödənilməsi üçün 
+visokos illər 30 illik dövrün 2-ci, 5-ci, 7-ci, 10-cu, 13-
+cü, 16-cı, 18-ci, 21-ci, 24-cü, 26-cı və 29-cu illəri 
+olmalıdır. 
+Aydındır ki, 30 illik tsikldə Ay təqvim ilinin orta 
+uzunluğu 
+ 125
+36667,354
+30
+1135519354
+=
+⋅+⋅  gün  
+olar. 
+Beləliklə tapırıq ki, Ay təqvim ili ilə Ay 
+astronomik ilin fərqi 
+Δ = 354,36706 - 354,36667 = 0,00039 gün. 
+Bu fərq 2564 ildə bir günə çatır. 
+Ərəb Ay təqvimi Müsəlman təqvimi də adlanır. 
+Təqvim 12 aydan ibarətdir. Ayların adı və aydakı 
+günlərin sayı aşağıdakı cədvəldə verilmişdir: 
+ 
+      Cədvəl 9.3 
+Ərəb Ay təqvimi 
+ 
+Ayın 
+sıra 
+nömrəsi 
+Ayın adı Aydakı günlərin 
+Sayı 
+İlin əvvəlindən keçən
+günlərin sayı 
+sadə il visokos il sadə il visokos il 
+1 Məhərrəm 30 30 30 30 
+2 Səfər 29 29 59 59 
+3 Rəbi I 30 30 89 89 
+4 Rəbi II 29 29 118 118 
+5 Cümada I 30 30 148 148 
+6 Cümada II 29 29 177 177 
+7 Rəcəb 30 30 207 207 
+8 Şaban 29 29 236 236 
+9 Ramazan 30 30 266 266 
+10 Şəvval 29 29 295 295 
+11 Zülqədə 30 30 325 325 
+12 Zülhiccə 29 30 354 355 
+ 
+Visokos illərdə əlavə gün təqvimin axırıncı ayına 
+daxil edilir. 
+Ay təqvim ilinin uzunluğu Günəş təqvim ilinin 
+ 126
+uzunluğundan kiçikdir. Əgər Ay ili sadə, Günəş ili 
+visokos olsa, fərq 12 gün, hər iki təqvim ili adi və ya 
+visokos olsa isə 11 gün təşkil edir. 
+Müsəlman təqvimində verilmiş ilin visokos və ya 
+adi olmasını necə təyin etmək olar? Bunun üçün ili 
+göstərən ədədi 30-a bölmək lazımdır. Əgər qalıq 2, 5, 
+7, 10, 13, 16, 18, 21. 24, 26 və 29 ədədlərindən birinə 
+bərabər olarsa, təqvim ili visokos olur. 
+Ərəblər bilirdilər ki, onların təqvim ili Günəş 
+ilindən 11-12 gün qısadır. Ona görə təqvimə 13 ay 
+daxil edildi. 24 illik tsiklin 9 ili 13 aydan, 15-i isə 12 
+aydan ibarət idi. Beləliklə, ərəblərin Ay təqviminin 
+ilinin orta uzunluğu tropik ilə yaxınlaşdırıldı. Ona görə 
+Təqvim ayları hər il təxminən eyni fəsillərə uyğun 
+gəlirdi. İndi işlədilən Ərəb ay təqvimi aylarının adları 
+uyğun fəsillərə görə adlandırılmışdı. 
+Məhəmməd peyğəmbər 632-ci ildən təqvimə 13-cü 
+ay daxil etməyi qadağan etdi. Bununla da ayların adı 
+öz mənasını itirdi. 
+Beləliklə, Ərəb Ay təqvimində fəsil ayları yoxdur. 
+Təqvim ilinin əvvəli, eləcə də hər ayın əvvəli hər il 11-
+12 gün qabağa düşür və müxtəlif fəsillərə uyğyn gəlir. 
+Müsəlmanların dini bayramlarının da hər il 11-12 gün 
+qabağa düşməsi və bütün fəsilləri gəzməsi Ay təqvim 
+ilinin Günəş təqvim ilindən 11-12 gün qısa olması ilə 
+əlaqədardır. 
+ 127
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X FƏSİL 
+AY-GÜNƏŞ TƏQVİMİ 
+Yüksəklik yaşla deyil, elmlə, ağılla, şərəflidir. 
+Nizami Gəncəvi 
+ 128
+§ 10.1. Ay-Günəş təqvimlərinin   
+  astrononomik əsasları 
+ 
+Bu təqvimlər həm Ayın hərəkətinə, həm də 
+Günəşin hərəkətinə əsaslanıb. Ay-Günəş təqvimi tərtib 
+olunarkən çalışılır ki, 1) təqvim ayının başı yeni Ay 
+səfhəsinə düşsün, 2) təqvim ili mümkün qədər tropik 
+ilə yaxın olsun. Beləliklə Ay səfhələri ilə Günəşin illik 
+hərəkəti arasında əlaqə yaradılır. 
+Ay-Günəş təqvimləri Günəş və Ay təqvimlərindən 
+xeyli mürəkkəbdir. Bu təqvim indi yalnız İsraildə 
+istifadə olunur. 
+ 
+§ 10.2. Ay-Günəş təqvimlərinin riyazi əsası 
+ 
+Ay Günəş təqvimlərində hər ayın başlanğıcı 
+mümkün qədər Yeni Ay fazasına uyğun gəlməli, 
+təqvim ilinin uzunluğu isə tropik ilin uzunluğuna 
+mümkün qədər yaxın olmalıdır. Beləliklə, Ayın 
+fazaları ilə Günəşin illik hərəkəti əlaqələndirilməlidir. 
+Təqvim ilində 12 sinodik ay olmalıdır. Ona görə 
+tropik illə təqvim ilinin fərqi 
+Tropik il−təqvim ili=365.24220−12.2953059= 
+=10.87512 gün 
+Tropik ilin uzunluğunu sinodik ayın uzunluğuna 
+bölərək alarıq ki, tropik ildə 12 sinodik ay və əlavə 
+müəyyən onluq kəsr vardır: 
+aySinodik
+ilTropik  = 368266.12
+53059.29
+24220.365
+=  
+Bu onluq kəsri aşağıdakı kimi yazmaq olar: 
+ 129
+1087512
+2953059
+1
+2953059
+1087512
+= =
+1087512
+7780352
+1
++
+; 
+ 
+Əgər 
+1087512
+778035  kəsrini atsaq birinci yaxınlaşma 
+üçün taparıq ki, 
+K1= 2
+1
+2953059
+1087512
+≈ .    
+Yəni, bu yaxınlaşmada 2 ildən biri visokos il 
+olmalıdır. Əməliyyatı davam etdirərək alırıq: 
+478035
+3094761
+12
+1
+778035
+1087512
+12
+1...
+2953059
+1087512
++
++
+=
++
+== ; 
+Əgər 
+77035
+309476  kəsrini atsaq alarıq ki, 
+ 
+K2= 3
+1
+2953059
+1087512
+≈ .    
+Deməli ikinci yaxınlaşmada üç ildən biri visokos il 
+olmalıdır. Əməliyyatı yenə davam etdirərək alarıq: 
+3094776
+1578322
+11
+12
+1
+309476
+778035
+1
+1
+12
+1...
+2953059
+1087512
++
++
++
+=
++
++
+==  ; 
+Əgər 
+3094776
+157832  kəsrini atsaq alarıq ki, 
+K3= 8
+3
+2953059
+1087512
+≈ .    
+ 130
+Deməli, üçüncü yaxınlaşmada alarıq ki, 8 ildən 3-ü 
+visokos il olmalıdır. 
+ Bu qayda ilə tapmaq olar ki, 11 ildə 4, 19 ildə 7, 
+334 ildə 123, 1021 ildə 376 və s. visokos il olmalıdır. 
+ Aşağıdakı cədvəldə müxtəlif yaxınlaşmalarda 
+dövr, adi və visokos illərin sayı, təqvim ilinin orta 
+uzunluğu, ay ili və təqvim ilinin fərqi və bu fərqin neçə 
+ildə 1 günə çatması verilmişdir. 
+Cədvəl 10.1 
+Müxtəlif yaxınlaşmalarda dövr, adi və visokos illərin sayı, 
+təqvim ilinin orta uzunluğu, ay ili və təqvim ilinin fərqi və 
+bu fərqin neçə ildə 1 günə çatması 
+ 
+Yaxın-
+laşma Dövr
+Adi
+illərin
+sayı
+Visokos
+illərin
+sayı 
+Təqvim 
+ilinin orta 
+uzunluğu 
+Təqvim ili ilə 
+ay ilinin fərqi 
+Neçə 
+ilə fərq 
+1 gün 
+təşkil 
+edər 
+1 2 1 1 354.50000 0.13294 7 
+2 3 2 1 354.33333 -0.03373 27 
+3 8 5 3 354.37500 0.00794 126 
+4 11 7 4 354.36364 -0.00342 252 
+5 19 12 7 354.36842 0.00136 735 
+6 334 211    123 354.38024 0.01318 759 
+7 1021 645    376 354.36827 0.00121 826 
+ 
+§ 10.3. Çin Ay – Günəş təqvimi 
+ 
+ Bizim eradan təxminən min il əvvəl Çində ilk 
+Ay və Ay – Günəş təqvimləri tərtib olunmuşdur. 
+Müşahidələrlə Çin astronomları sinodik ayın və Günəş 
+ilinin uzunluğunu təyin etmişlər. Onlara görə 
+ 131
+Sinodik ay = 29.5 gün, 
+Günəş ili = 365.25 gün. 
+Çin Ay – Günəş təqvimində il 12 aya bölünür. Tək 
+aylar 29 gündən, cüt aylar isə 30 gündən ibarətdir. Ona 
+görə il 
+29.6 + 30.6= 354 gün 
+təşkil edirdi. Bu isə Günəş ilindən 11-12 gün qısadır. 
+Ona görə təqvim ilinin uzunluğunun Günəş ilinin 
+uzunluğuna gətirmək üçün 19 illik dövrdə 7 dəfə 13-cü 
+ay daxil edilirdi. 13-cü ay dövrün 3-cü, 6-cı, 8-ci, 11-
+ci, 14-cü,16-cı və 19-cu illərində daxil edilirdi. 
+Çin Ay – Günəş təqvimində hər ayın başlanğıcı 
+Yeni Ay fazasına uyğun gəlirdi. İlin başlanğıcı (Yeni 
+il) Günəşin Dolça bürcünə daxil olma ərəfəsinə düşən 
+Yeni ay fazasına uyğun gəlirdi. Bu da Qriqori təqvimi 
+ilə yanvar və ya fevral aylarına uyğun gəlir. 
+Çin Ay−Günəş təqvimində ayların xüsusi adı 
+yoxdur. Onlar sıra sayı ilə (birinci, ikinci,...) adlanırdı. 
+Hər ay 10 günlüklərə ayrılırdı. Ayın 1-ci,11-ci və 21-ci 
+günləri istirahət günü sayılır. 
+ 
+ § 10.4. Meton  tsikli 
+ 
+Ay−Günəş təqvimlərindən ən çox yayılanı Meton 
+tsiklidir. Bu tsikl yuxarıda göstərdiyimiz beşinci 
+yaxınlaşmaya əsaslanır: 
+19 tropik il = 235 sinodik ay. 
+Aydındır ki, 
+19 tropik il = 365,24220 x 19 = 6939,6010, 
+235 sinodik ay = 29,53059 x 235 = 6939,68865. 
+ 132
+Təqvim ayı ya 29, ya da 30 gündən ibarət 
+olduğunu fərz etsək ki, 235 aydan 110-u 29 gündən, 
+125-i isə 30 gündən ibarət olar. Onda 235 təqvim 
+ayındakı günlərin sayı 
+110 x 29 + 125 x 30 = 6940 gün 
+Bu tsikldə 19 ildən 12-si 12 aydan (adi illər), 7-si 
+13 aydan (visokos illər) ibarətdir. 
+Ayın fazalarının dəyişməsini Günəşin illik hərəkəti 
+ilə daha yaxşı uzlaşdırmaq üçün visokos illər tsiklin 3-
+cü, 6-cı, 8-ci, 11-ci, 14-cü, 17-ci və 19-cu illəri qəbul 
+olunur. 
+ 
+ § 10.5. Yəhudi təqvimi 
+ 
+Yəhudi təqvimi də 19 illik tsiklə əsaslanıb. Təqvim 
+yeni eradan əvvəl I əsrdə tərtib olunub və uzun müddət 
+təhkimləşdirilib. 19 illik tsikldə 12 adi və 7 visokos il 
+vardır. Adi illər 12 aydan, visokos illər isə 13 aydan 
+ibarətdir. Visokos illər tsiklin 3-cü, 6-cı, 8-ci, 11-ci, 
+14-cü, 17-ci və 19-cu illəridir. 
+Yəhudi təqvimində hər ayın başlanğıcı yeni ay 
+fazasına uyğun gəlir. 
+Yəhudi adətlərinə görə yeni ilin başlanğıcı bazar, 
+üçüncü və beşinci gününə düşməməlidir. Ona görə 
+əgər yeni il bu günlərdən birinə uyğun gəlsə o bir gün, 
+bəzən isə iki gün sonraya keçirilir. Ona görə təqvimdə 
+həm adi, həm də visokos illər üç növ olar: 
+ 1) gödək illər 
+ 2) normal illər 
+ 3) uzun illər 
+ 133
+Ona görə adi illər 353 (gödək), 354 (orta) və 355 
+(uzun) gündən, visokos illər isə 383 (gödək), 384 (orta) 
+və 385 (uzun) gündən ibarət olur. 
+Cədvəl 10.2 
+Yəhudi təqvimi 
+ 
+Ayın 
+sıra 
+nöm- 
+si 
+Ayların
+adı 
+Sadə illərdə aydakı 
+günlərin sayı 
+Visokos illərdə 
+aydakı 
+günlərin sayı 
+qısa 
+il 
+normal 
+il 
+uzun 
+il 
+qısa 
+il 
+normal 
+il 
+uzun 
+il 
+1 Nisan 30 30 30 30 30 30 
+2 İyar 29 29 29 29 29 29 
+3 Sivon 30 30 30 30 30 30 
+4 Tamuz 29 29 29 29 29 29 
+5 Ov 30 30 30 30 30 30 
+6 Elul 29 29 29 29 29 29 
+7 Tişri 30 30 30 30 30 30 
+8 Keşvon 29 29 30 29 29 30 
+9 Kislev 29 30 30 29 30 30 
+10 Teyvas 29 29 29 29 29 29 
+11 Şvat 30 30 30 30 30 30 
+12 Adar 29 29 29 30 30 30 
+13 Veadar - - - 29 29 29 
+İldəki günlərin 
+tam sayı 353 354 355 383 384 385 
+ 
+Bizim eradan əvvəl III əsrin əvvəlinə qədər Yəhudi 
+Ay-Günəş təqvimində ilin başlanğıcı Nisan ayının 1-
+dən hesablanırdı. Bu da Qriqori Günəş təqvimi ilə 11 
+mart−11 aprel intervalına düşürdü. Yeni eradan əvvəl 
+III əsrdə ilin başlanğıcı tişri ayının 1-nə keçirildi. Bu 
+ 134
+da payız bərabərliyinə yaxın olan 5 sentyabr−5 oktyabr 
+intervalına uyğun gəlir. 
+Bəs yəhudi təqvimində era hansı hadisədən 
+hesablanır? 
+Yəhudi təqvimində era "dünyanın əmələ gəldiyi " 
+gündən ("Adəm erası") hesablanır. Guya bu hadisə 
+b.e.ə. 3731 - ci il oktyabrın 7-də baş vermişdir. Bu era 
+hazırda yalnız İsraildə istifadə olunur. 
+ 135
+ 
+ 
+ 
+ 
+ 
+ 
+XI FƏSİL 
+TARİXLƏRİN ÇEVRİLMƏSİ 
+Ədalət kainatın ruhudur. 
+Ömər Xəyyam 
+ 136
+§ 11.1. Tarixlərin təqribi çevrilməsi. 
+ 
+Hazırda dünyanın əksər ölkələrində Günəş Qriqori 
+təqvimi işlənilir. Müsəlman ölkələrində Günəş təqvimi 
+ilə yanaşı Ay təqvimi də istifadə olunur. Bəzi 
+müsəlman ölkələrində rəsmi dövlət işlərində Günəş 
+təqvimindən, dini məsələlərdə isə Ay təqvimindən 
+istifadə olunur. Günəş Qriqori təqvimində era 
+miladdan (İsa peyğəmbərin anadan olduğu ildən) 
+hesablanır və buna görə təyin olunmuş tarix miladi 
+tarix adlanır. Ay müsəlman təqviminə görə era 
+Məhəmməd peyğəmbərin Məkkədən Mədinəyə 
+məcburi hicrət etməsi günündən (miladi tarixlə 622-ci 
+il iyun ayının 15-dən 16-na keçən gecə, cümə günü) 
+hesablanır və hicri tarix adlanır. 
+Miladi tarixlə təqvim ilinin uzunluğu 365 (366) 
+gün, hicri tarixlə isə 354 (355) gün olduğundan miladi 
+tarixlə hicri tarixin fərqi təxminən 33 ildə bir ilə çatır. 
+Ona görə təqribi olaraq hicri tarixdən miladi tarixə 
+keçmək üçün 
+M = H + 622 – 
+33
+H  
+düsturundan istifadə etmək olar. Burada M –Miladi 
+tarixi, H –Hicri tarixi göstərilir. 
+Məsələn  hicri tarixlə 1434 - cü ilə uyğun gələn 
+miladi tarix üçün tapırıq : 
+M = 1434 + 622 – 43.45 = 2013 – Δ. 
+Burada Δ 2013-dən çıxılacaq qalıq kəsrdir. Beləliklə 
+tapırıq ki, hicri tarixlə 1434 - cü il, miladi tarixlə  
+2012-2013- cü illərə uyğun gəlir. 
+ 137
+Eləcə də miladi tarixdən hicri tarixə keçmək üçün 
+yaza bilərik: 
+H = M − 622 + 
+32
+H  = M − 622 + 
+32
+622−M .  
+Məsələn, miladi tarixlə 2013 –cü ilə uyğun gələn 
+hicri tarixi tapaq: 
+H = 2013 – 622 – 1 = 1391 + 43,4688 = 1434 +Δ. 
+Burada Δ, 1434-ün üzərinə gələcək qalıq kəsrdir. 
+Beləliklə tapırıq ki, miladi tarixlə 2013-cü ilə hicri 
+qəməri tarixlə 1434 –1435 –ci illər uyğun gəlir. 
+ 
+§ 11.2. Tarixlərin dəqiq çevrilməsi 
+ 
+Miladi tarixdən hicri qəməri tarixinə keçmək üçün 
+600- cü ildən etibarən 100 illik intervalla 2500 –cü ilə 
+qədər keçən günlərin sayını, miladi tarixlə 4 illik 
+intervalla keçən günlərin sayını və miladi aylara uyğun 
+gələn günlərin sayını hesablayaq. Bunlar uyğun olaraq 
+cədvəl M1, cədvəl M2 və cədvəl M3-də verilmişdir. 
+      Cədvəl M1 
+Miladi tarixlə 600- cü ildən 2500- cü ilə qədər keçən 
+günlərin sayı 
+ 
+İl Gün İl Gün İl Gün 
+600 0 1300 255675 1900 474812 
+700 36525 1400 292200 2000 511337 
+800 73050 1500 328725 2100 547862 
+900 109575 1582 358665 2200 584387 
+1000 146100 1600 365240 2300 620912 
+1100 182625 1700 401764 2400 657437 
+1200 219150 1800 438288 2500 693962 
+ 138
+Cədvəl M2  
+Miladi tarixlə 4 illik intervalla keçən günlərin sayı 
+ 
+İl Gün İl Gün İl Gün İl Gün 
+4 1461 32 11688 60 474812 88 32142 
+8 2922 36 13149 64 511337 92 33603 
+12 4383 40 14610 68 547862 96 35064 
+16 5844 44 16071 72 584387   
+20 7305 48 17532 76 620912   
+24 8766 52 18993 80 657437   
+28 10227 56 20454 84 693962   
+ 
+Cədvəl M3 
+ 
+ 
+Eləcə də Hicri tarixlə 0 –cı ildən 1500- cü ilə qədər 
+keçən günlərin cəmini, Hicri tarixlə birillik aralıqlara 
+uyğun gələn günlərin cəmini və Hicri aylara uyğun  
+gələn günlərin cəmini hesablayaq. Bu cəmlər uyğun 
+olaraq cədvəl H1, H2 və H3-də verilmişdir. 
+ 
+ 
+Miladi aylara uyğun gələn günlərin sayı 
+ 
+İl
+ 
+Y
+an
+va
+r 
+Fe
+vr
+al
+ 
+M
+ar
+t 
+A
+pr
+el
+ 
+M
+ay
+ 
+İy
+un
+ 
+İy
+ul
+ 
+A
+vq
+us
+t 
+se
+nt
+ya
+br
+ 
+O
+kt
+ya
+br
+ 
+N
+oy
+ab
+r 
+D
+ek
+ab
+r 
+0 0 31 60 91 121 152 182 213 244 274 305 335 
+1 366 397 425 456 486 517 547 578 609 639 670 700 
+2 731 762 790 821 851 882 912 943 974 1004 1035 1065 
+ 139
+Cədvəl H1  
+Hicri tarixlə 0-cı ildən 1500 –cü ilə qədər keçən günlərin 
+sayı 
+ 
+İl Gün İl Gün İl Gün İl Gün İl Gün 
+0 8232 300 114542 600 220852 900 327162 1200 433472 
+30 18863 330 125173 630 231483 930 337793 1230 444103 
+60 29494 360 135804 660 242114 960 348424 1260 454734 
+90 40125 390 146435 690 252745 990 359055 1290 465365 
+120 50756 420 157066 720 263376 1020 369686 1320 475996 
+150 61387 450 167697 750 274007 1050 380317 1350 486627 
+180 72018 480 178328 780 284638 1080 390948 1380 497258 
+210 82649 510 188959 810 295269 1110 401579 1410 507889 
+240 93280 540 199590 840 305900 1140 412210 1440 518520 
+270 103911 570 210221 870 316531 1170 422841 1470 529151 
+        1500 539782 
+ 
+Cədvəl H2  
+Hicri tarixlə 1 illik intervallara uyğun günlərin sayı 
+ 
+İl Gün İl Gün İl Gün İl Gün 
+1 0 10 3189 19 6379 28 9568 
+2 354 11 3544 20 6733 29 9922 
+3 709 12 3898 21 7087 30 10277 
+4 1063 13 4252 22 7442   
+5 1417 14 4607 23 7796   
+6 1772 15 4961 24 8150   
+7 2126 16 5315 25 8505   
+8 2481 17 5670 26 8859   
+9 2835 18 6024 27 9214   
+ 
+Misal 1. Miladi tarixlə 2013 - cü il fevral ayının 
+25-i hicri tarixlə hansı ilə və günə uyğun gəldiyini 
+hesablayaq. 
+ 
+ 140
+Cədvəl H3  
+Hicri aylara uyğun gələn günlərin cəmi 
+Ay Gün 
+Məhərrəm 0 
+Səfər 30 
+Rəbiyüləvvəl (Rəbi I) 59 
+Rəbiyülaxır (Rəbi I I) 89 
+Cəmadiyəvvəl 118 
+Cəmədiyaxır 148 
+Rəcəb 177 
+Şaban 207 
+Ramazan 236 
+Şəvval 266 
+Zilkadə 295 
+Zilhiccə 325 
+ 
+Cədvəl M1-dən 600 - cü ildən 2000- ci ilin axırına 
+qədər olan günlərinin cəmi 511337, cədvəl M2-dən 13 
+ildə keçən günlərin cəmi 4383, fevralın 1-nə qədər 
+keçən günlərin cəmi 397 olduğunu tapırıq. Onda 600 -
+cü ildən 2013 - cü il fevralın 25 - nə qədər günlərin 
+cəmi üçün tarırıq: 
+2000-ci ilə qədər keçən günlərin sayı − 511337 
+12 ildə keçən günlərin sayı − 4383 
+1 fevrala qədər keçən günlərin sayı − 397 
+25 fevrala qədər keçən günlərin sayı − 25 
+     Cəmi 516142 gün 
+Daha sonra H1 cədvəlinə girərək tapırıq ki, 516142 
+sayına ən yaxın və ondan kiçik olan hicri günlərinin 
+cəmi 507887. Cədvəldən alırıq ki, buna uyğun gələn 
+hicri tarix 1410-cu ildir. 516142-507889 = 8253. Onda 
+cədvəl H2-dən tapırıq ki, bu fərqə ən yaxın və ondan 
+kiçik olan günlərin sayı 8150-dir. Buna isə 24 hicri ili 
+ 141
+uyğun gəlir. Daha sonra tapırıq ki, 8253 – 8150 =103 
+gün. Cədvəl H3-dən tapırıq ki, bu fərqə ən yaxın və 
+ondan kiçik 89 gündür. Buna isə rəbiyulaxir ayi uyğun 
+gəlir. 103-89 =14 fərqinə görə tapırıq ki, rəbiyulaxir 
+ayının 14 –nə uyğun gəlir. 
+Beləliklə tapırıq: 
+507889 _______ 1410 il 
+8150________ 24 il 
+89________ 1 il 
+14_______ 14 gün 
+     Cəmi1434 il 14 gün 
+Beləliklə tapırıq ki, miladi tarixlə 2013 -cü il fevral 
+ayının 25 -nə hicri qəməri tarixin 1434 -cü il 
+rəbbulaxir ayının 14 -ü uyğun gəlir. 
+Misal 2. Hicri tarixlə 14 rəbbülaxır 1434-cü ildən 
+miladi tarixə keçək. 
+Cədvəl H1 -dən tapırıq ki, 1434 -ə ən yaxın il 1410-
+dur.Ona uyğun günlərin sayı isə 507789-dur. Cədvəl 
+H2-dən tapırıq ki, 1434−1410 =24-ə uyğun gələn 
+günlərin sayı 8150-dir. Daha sonra cədvəl H3-dən 
+tapırıq ki, rəbiyülaxir ayının əvvəlinə qədər keçən 
+günlərin sayı 89- dur. Rəbiyülaxir ayının 14 -nə qədər 
+keçən günlərin sayı isə 14-dür. Bunların hamısını 
+toplayaraq tapırıq ki, 1434- cü il 14 rəbiyülaxir ayının 
+14-nə qədər keçən günlərin toplam sayı 
+507889 + 5150 +89 + 14 = 516142.  
+Cədvəl M1 –dən tapırıq ki, 516142- ə ən yaxın gün 
+cəmi 511337 –dir. Buna isə 2000 –ci il uyğun gəlir. 
+516142 – 511337 = 4805    
+fərqinə M2 cədvəlində ən yaxın gələn rəqəm (gün 
+ 142
+cəmi) 4383 –dür. Buna isə 12 il uyğun gəlir. 
+4805 – 4383 = 422     
+fərqinə  isə cədvəl M3 -də ən yaxın rəqəm 397 –dir. 
+Buna isə cədvəl M3-də 1 il və fevral ayı uyğun gəlir. 
+422 – 397 = 25      
+fərqindən isə tapırıq ki, bu tarix fevral ayının 25 –
+nə uyğun gəlir. 
+Beləliklə tapırıq ki, hicri tarixlə 14 rəbiyülaxir 
+1434 –cü il miladi tarixlə 
+2000 + 12 + 1 = 2013 -cü il fevral ayının 25 -nə 
+uyğun gəlir. 
+ 143
+ 
+ 
+ 
+ 
+ 
+XII FƏSİL  
+TSİKLİK TƏQVİMLƏR 
+ 
+Müdrik, bilikli olmaq üçün 
+gözü və qulağı açmaq kifayət 
+deyil dərin ağıl lazımdır. 
+ 
+Heraklit 
+ 144
+§ 12.1. Tsiklik çin təqvimi 
+ 
+Bir çox şərq xalqlarında adi Günəş və Ay 
+təqvimləri ilə yanaşı tsiklik təqvimlərdən də geniş 
+istifadə olunmuşdur. Belə tsiklik təqvimlərin ən geniş 
+yayılanı Çində tərtib olunmuşdur. 
+Çində astronomiya təqviminin tarixi çox böyükdür. 
+Bizim eradan təxminən min il əvvəl Çində ilk 
+təqvimlər tərtib olunmuşdur. Sonralar bu təqvimlər 
+xeyli təkmilləşdirilmişdir. 
+Çin təqvimləri içərisində təxminən iki min il 
+bundan əvvəl tərtib olunmuş tsiklik təqvim xüsusi yer 
+tutur. Tsikl 60 ildən ibarətdir. Tam tsikl 5 dövrdən 
+(göy  budaqlarından) və 12 perioddan (yer 
+budaqlarından) ibarətdir. Hər bir göy budağı tsiklin cüt 
+və tək illərinə uyğun gələn iki yarım budağa ayrılır. 
+Tsiklin dövrləri ağac, torpaq, metal və su 
+adlandırılmışdır. Bundan başqa hər bir period bir 
+heyvan ilə işarə olunmuşdur. Bu heyvanlar: siçan, 
+inək, pələng, dovşan, əjdaha, ilan, at, qoç, meymun, 
+quş, it və canavardır. Aşağıdakı cədvəldə 60 illik 
+tsiklik Çin təqvimi bir qədər sadələşdirilmiş şəkildə 
+verilmişdir. Cədvəldən göründüyü kimi tsiklin hər bir 
+ili bir göy budağına və bir yer budağına uyğun gəlir. 
+Məsələn, tsiklin birinci ili – ağac və siçan ili, ikinci ili 
+– ağac və inək ili, üçüncü ili – od və pələng ili, 
+dördüncü – od və dovşan ili, beşinci ili – yer və əjdaha 
+ili, altıncı ili – yer və ilan ili, yeddinci ili – metal və at 
+ili, səkkizinci ili – metal və qoç ili, doqquzuncu ili – su 
+və meymun ili, onuncu ili – su və quş ili, on birinci ili 
+ 145
+– odun və it ili, on ikinci ili – ağac və donuz ili və s. 
+ 
+                                                     Cədvəl 12.1 
+Tsiklik çin təqvimi 
+ 
+Y
+er
+ b
+ud
+aq
+la
+rı
+ 
+  
+Göy budaqları 
+I II III IV V 
+ağac od torpaq metal su 
+I Siçan 1  13  25  37  49  
+II Inək  2  14  26  38  50 
+III Pələng 51  3  15  27  39  
+IV Dovşan  52  4  16  28  40 
+V Əjdaha 41  53  5  17  29  
+VI Ilan  42  54  6  18  30 
+VII At 31  43  55  7  19  
+VIII Qoyun  32  44  56  8  20 
+IX Meymun 21  33  45  57  9  
+X Xoruz  22  34  46  58  10 
+XI İt 11  23  35  47  59  
+XII Donuz  12  24  36  48  60 
+ 
+Çox zaman illər yalnız yer budaqları ilə adlanır. 
+Onda cədvəldən göründüyü kimi tsiklin 1, 13, 25, 37 
+və 49 -cu illəri siçan ili, 2, 14, 26, 38 və 50 -ci illəri 
+inək ili, 51, 3, 15, 27 və 39 -cu illəri pələng ili, 52, 4, 
+16, 28 və 40 -cı illəri dovşan ili və s. olacaqdır. 
+Beləliklə 60 illik tsikldə hər bir heyvan ilə işarə 
+olunmuş il on iki ildən bir təkrar olunur. Ona görə 
+illərin hansı heyvana uyğun gəldiyini əvvəlcədən uzun 
+müddət hesablamaq olar. 
+Əlbəttə, illərin yuxarıda qeyd olunan heyvanlarla 
+adlandırılmasının heç bir elmi əsası yoxdur. 
+Bizim eradan tsiklik təqvimə keçmək üçün ili 
+göstərən ədədi 60 -a bölmək lazımdır. Bölmədən 
+ 146
+alınan qalıqdan 3 çıxaraq tsiklik təqvimdə ili tapırıq. 
+Əgər bölünmədən alınan qalıq üçdən kiçik və ya üçə 
+bərabər olsa ona əvvəlcə 60 əlavə olunur, sonra isə 
+ondan 3 çıxılır. Nəticədə alınan ədəd ilin tsiklik təqvim 
+ili göstərir. 
+Məsələn, 1984 -cü ilin tsiklik təqvim ilini tapaq. 
+1984 -ü 60 -a böldükdə qalıq 4 alınır. Ondan 3 
+çıxsaq 1 qalır. Deməli 1984 -cü il tsiklin 1 -ci ilidir. 
+Tsiklik eranın başlanğıcı olaraq bizim eradan əvvəl 
+2637 -ci il götürülüb. Bu əfsanəvi hökmdar Xuan Da-
+min hakimiyyətə başladığı ildir. 
+Asanlıqla hesablamaq olar ki, 1983 - cü il 77 -ci 
+tsiklin axırıncı ilidir. 1984- cü ildən 78 - ci tsikl 
+başlanır.  
+ 
+ § 12.2. Çin mövsüm təqvimi  
+ 
+Yeni eradan əvvəl, təxminən 230−200 -cü illərdə 
+Çində mövsüm təqvimi tərtib edilmişdir. Bu təqvimdə 
+il 12 aya və 24 mövsümə ayrılır. Təqvim əsasən kənd 
+təsərrüfatı işçiləri üçün tərtib olunmuşdur. Təqvimin 
+24 mövsümü ilin uyğun dövrlərini xarakterizə edir, 
+əkin, biçin, məhsul yığımı və s. vaxtlarını göstərir. 
+ Aşağıdakı cədvəldə Çin mövsüm təqvimi 
+verilmişdir.  
+ 147
+                                                               Cədvəl 12.2      
+Çin mövsüm təqvimi 
+ 
+Sıra 
+nöm- 
+rəsi 
+Çin dilində 
+mövsümün 
+adı 
+Azərbaycan 
+dilində mövsümün 
+adı 
+Qriqori 
+təqviminə 
+uyğunluğu 
+1 Liçun Yazın başlanğıcı 4/5 fevral 
+2 Yayşuy Yağış suyu 19/20 fevral 
+3 Dzinçje Həşaratların oyanması 5/6 mart 
+4 Çunfen Yaz bərabərliyi 20/21 mart 
+5 Tsinmin Aydın və işıqlı 5/5 aprel 
+6 Quyuy Zəmi üçün yağışlar 20/21 aprel 
+7 Yisya Yayın başlanğıcı 6/1 may 
+8 Syaoman Kiçik bolluq 21/22 may 
+9 Mançjun Taxılın yellənməsi 7/8 iyun 
+10 Syaçji Yay günəşduruşu 21/22 iyun 
+11 Syaoşu Kiçik istilər 7/8 iyul 
+12 Daşu Böyük istilər 23/24 iyul 
+13 Litsyu Payızın başlanğıcı 8/9 avqust 
+14 Çusu İstilərin sonu 23/24 avqust 
+15 Baylu Ağ şehlər 8/9 sentyabr 
+16 Tsyufen Payız bərabərliyi 23/24 sentyabr 
+17 Hanlu Soyuq şehlər 8/9 oktyabr 
+18 Şuantszyan Şaxtaların düşməsi 23/24 oktyabr 
+19 Lidun Qışın başlanğıcı 1/8 noyabr 
+20 Syaosyue Kiçik qarlar 22/23 noyabr 
+21 Dasyue Böyük qarlar 7/8 dekabr 
+22 Dyunçji Qış Günəşduruşu 21/22 dekabr 
+23 Syaoxan Kiçik soyuqlar 6/7 yanvar 
+24 Daxan Böyük soyuqlar 20/21 yanvar 
+ 
+ 148
+ 
+ 
+ 
+ 
+ 
+XIII FƏSİL 
+ERALAR VƏ TƏQVİM İLİNİN BAŞLANĞICI 
+Mənəm, mənəm deyib öymə özünü, 
+Həmişə müxtəsər eylə sözünü 
+Xəqani 
+ 149
+§ 13.1 . Eralar və ya xronologiya 
+ 
+Astronomiya təqvimləri ilə bağlı olan 
+problemlərdən biri də xronologiyanın aparılması və ya 
+eranın başlanğıcının təyinidir. Eranın başlanğıcını real 
+təbiət hadisəsindən götürmək daha məqsədə uyğun 
+olardı. 
+İndiyə kimi yüzdən çox era məlumdur. Onlardan 
+bəzilərini verməklə kifayətlənmək olar. Bu eralar 
+aşağıdakılardır: 
+1.Vizantiya erası 
+Bu era Yunanıstanda qəbul olunmuş və yeni eradan 
+əvvəl 5508 -ci ildən başlayır. Bu era “ Dünyanın əmələ 
+gəlməsi erası “ da adlanır. Guya dünya yeni eradan 
+əvvəl 5508 –ci ildə yaranıb. Bu era hazırda provoslav 
+kilsəsində geniş istifadə olunur. 
+1. Skaliger erası 
+Bu era məşhur fransa astronomu Jozef Skaliger 
+tərəfindən təklif olunmuşdur. Skaliger erası yeni 
+eradan əvvəl 1 yanvar 1713 -cü ildən başlayır. Hazırda 
+astronomik tədqiqatlarda istifadə olunur. 
+3. Yahudi erası. 
+Yahidi erası yeni eradan əvvəl 7 oktyabr 3761- 
+ildən hesablanır. Yahidilərə görə dünya yeni eradan 
+əvvəl 5508 -i ildə yox, 7 oktyabr 3761 -i ildə əmələ 
+gəlmişdir. 
+4. Çin erası 
+ Çin erası əfsanəvi Çin çarı Qoanq –tinin çarlığa 
+başladığı ildən başlayır.Bu da yeni eradan əvvəl 2637 -
+ci ilə təsadüf edir. 
+ 150
+5. Buddi erası 
+Bu era yeni eradan əvvəl 250-ci ildən başlıyır. 
+Buddi erası Çində, Yaponiyada və Monqolustanda 
+istifadə olunur. 
+6. Olimpiya erası 
+Olimpiya erası birinci olimpiya oyunlarının 
+keçirildiyi ildən (yeni eradan əvvəl 1 iyul 776 -ci il) 
+başlayır. 
+7. Xristian (xaçpərəst) erası 
+Bu era İsa peyğəmbərin anadan olduğu ildən 
+başlayır. Daha doğrusu Xristian erası 1 yanvar 1 - ci 
+ildən hesablanır. Yeni eranın 525 - ci ilində Roma 
+monaxı kiçik Dionisiy tərəfindən daxil edilmişdir. 
+8. Sak erası 
+9. Diokletian erası. Bu era bizim eranın III. 78- ci 
+ilindən başlayır. 
+Roma imperatoru Diolektianın çarlığa başladığı 
+ildən – yeni eranın 29 avqust 284 - cü ildən hesablanır. 
+10. Müsəlman erası 
+İslam peyğəmbəri Məhəmməd əleysalamın 
+Məkkədən Mədinəyə hicrat etdiyi gündən (16 iyul 622 
+- ci il) hesablanır. İranda, Əfqanıstanda və digər islam 
+ölkələrində istifadə olunur. Hicr erası da adlanır. 
+11. Cəlaləddin erası 
+Məşhur şair və riyaziyyatçı Ömər Xəyyam 
+tərəfindən daxil edilmiş, Cəlaləddinin şahlığa başladığı 
+ildən (15 mart 1079 - cu il) hesablanır. 
+Hazırda dünyanın əksər ölkələrində Xristian erası 
+işlədilir. Bu era Rusiyada 1700 - cü ildə, Çində 1911 -
+ci ildə, Türkiyədə 1926 - ci ildə, Misirdə 1928 - ci ildə 
+ 151
+və s. qəbul edilmişdir. 
+ 
+§ 13.2. İlin başlanğıcı 
+ 
+Bəs ilin başlanğıcını hansı aydan hesablamaq 
+lazımdır. Müxtəlif təqvimlərdən istifadə edən müxtəlif 
+xalqlar təqvim ilinin başlanğıcını başqa sözlə yeni ili 
+müxtəlif vaxtlarda qeyd edirlər. 
+Bizim hazırda işlətdiyimiz təqvimdə yeni il 
+yanvarın 1 –də qeyd olunur. Demək olar ki, bütün 
+Avropa ölkələri də yeni il bayramını yanvarın 1 - də 
+qeyd edir. 
+Qeyd etmək lazımdır ki, yanvarın 1 -i heç bir 
+astronomik hadisəyə uyğun gəlmir. 
+Kopt təqvimində ilin başlanğıcı bizim işlətdiyimiz 
+təqvimin sentyabr ayının 11−12 -nə uyğun gəlir. Bu 
+təqvimdən Ərəbistanda, Misirdə və Sudanda istifadə 
+olunur. 
+Sak erasında və Sak təqvimində ilin başlanğıcı 
+martın 21−22 -nə uyğun gəlir. Bu təqvim Hindistanda, 
+Şri Lankada və Kenalda istifadə olunur. 
+Misirdə işlədilən Diokletian erasında təqvim ilinin 
+başlanğıcı sentyabrın 11−12 -nə düşür. 
+Müsəlmanların Ay hicri təqvimində ilin başlanğıcı 
+Məhərrəm ayının 1 -nə düşür. Bu təqvim ili tropik 
+ildən 1−12 gün kiçik olduğundan yeni il bizim 
+işlətdiyimiz təqvimin müxtəlif günlərinə düşür. 
+Bu təqvimdən Əlcəzairdə, İranda, Yəməndə, 
+Livanda, Liviyada, Mərakeşdə, Misirdə, Suriyada, 
+Səudiyyə Ərəbistanında, Somalidə və s. müsəlman 
+ 152
+ölkələrində istifadə olunur. 
+Bu yaxınlara qədər Hindistanda bir çox təqvim 
+sistemlərindən istifadə olunurdu. Bu çox təqvimliyi 
+aradan götürmək üçün 1952 -ci ildə C. Neruqun 
+göstərişi ilə vahid milli hind təqvimi tərtib etmək üçün 
+məşhur frənk Mehnad Saxanın sədrliyi altında xüsusi 
+komissiya təşkil edilmişdir. Komissiyanın hazırladığı 
+Günəş təqvimində yeni il (Çaytra ayının 1-i) mart 
+ayının 22 -nə düşür. 1957- ci ildən bu təqvim sistemi 
+xüsusi dövlət qərarı ilə qəbul olunmuşdur. 
+Maraqlıdır ki, qədim Roma Günəş təqvimində 
+təqvim ili mart ayından başlayır.Yalnız b.e ə. 46 -cı 
+Yuli təqvimi tərtib olunarkən ilin başlanğıcı yanvarın 1 
+–nə keçirilmişdir. 
+Bizim eradan iki min əvvəl Vavilionda tərtib 
+olunan ay təqvimində də ilin əvvəli martın 22 -si ilə 
+aprelin 22 -si arasına düşürdü. 
+Beləliklə görürük ki, ilin başlanğıcı martın 21 -dən, 
+yəni yaz bərabərliyi anından başlamağının tarixi çox 
+böyükdür. 
+İlin başlanğıcını martın 21 -dən götürməyin nə 
+kimi üstünlüyü və elmi əsası vardır? 
+Əvvəlcə onu qeyd edək ki, martın 21 -də Günəş 
+göy ekvatorunu kəsərək dünyanın cənub 
+yarımkürəsindən şimal yarımkürəsinə keçir. Bu an 
+Günəş koordinat başlanğıcında olur, onun göy sferində 
+vəziyyətini təyin edən hər iki koordinatlar (düz doğuş 
+və meyl) sıfıra bərabər olur. Bu zaman gecə- gündüz 
+bərabər olur. Təbiidir ki, Günəşlə bağlı olan təqvim 
+ilinin məhz bu andan, Günəşin koordinat başlanğıcında 
+ 153
+olduğu andan başlamaq daha məqsədə uyğundur. 
+Digər tərəfdən, martın 21-i əsrin şimal 
+yarımkürəsində baharın başlanğıcıdır. Bahar isə 
+fəsillərin ən gözəlidir. Baharda bütün bitkilər oyanır, 
+yeni həyata başlayır, təbiətdə böyük canlanma baş 
+verir. Sərt qışdan bahara çıxan insanların da qəlbi 
+sevinclə dolur, onlarda yaşamaq, yaratmaq həvəsi artır. 
+ 154
+ 
+ 
+ 
+ 
+ 
+ 
+XIV FƏSİL 
+GƏLƏCƏK ÜMUMDÜNYA GÜNƏŞ  
+TƏQVİMİ 
+ LAYİHƏLƏRİ 
+ 
+Qəmlənmə ki, insanlar səni tanımır, 
+qəmlən ki, sən insanları tanımırsan. 
+Konfutsi 
+ 155
+§ 14.1. Armelin təqvimi 
+ 
+ Müasir Günəş təqvimlərinin əsas nöqsanı onların 
+daxili quruluşunun kamil olmamasıdır. Bu qeyri-
+kamillik başqa sözlə desək, təqvimlərin daxili 
+quruluşundakı nöqsanlar aşağıdakılardır : 
+ 1) Yarımillərdəki, kvartallardakı və aylardakı 
+günlərin sayı eyni deyil. Məsələn, indi işlətdiyimiz 
+Qriqori təqvimində yarımillər 181, 182 və 184 gündən; 
+kvartallar 90, 91 və 92 gündən; aylar isə 28, 29, 30 və 
+31 gündən ibarət ola bilər. 
+ 2) Verilmiş il üçün və müxtəlif illər üçün ayların 
+günləri və həftənin günləri arasında uyğunluq yoxdur. 
+Məsələn : müxtəlif illərdə ayların əvvəli həftənin 
+müxtəlif günlərinə düşür. Hətta verilmiş il ərzində 
+müxtəlif ayların əvvəli və ya ixtiyarı tarixi (məsələn 
+ayın 15 -i) həftənin müxtəlif günlərinə düşür. 
+Bunun nəticəsində verilmiş ilin müxtəlif aylarında 
+günlərin sayı sabit olmayıb dəyişir. Eləcə də müxtəlif 
+illərin aylarındakı iş günlərinin sayı eyni olmur. 
+Təqvimdəki bu nöqsanları aradan qaldırmaq üçün hələ 
+keçən əsrin əvvəllərindən təqvim islahatı keçirmək 
+fikirləri yaranmışdır. Məlum olduğu kimi hazırda 
+dünyanın əsas ölkələrində Qriqori təqvimi qəbul 
+olunmuşdur. Ona görə bu təqvimin yeni islahatı bir 
+ölkə daxilində yox, bir çox ölkələrdə keçirilməli və 
+dünyanın əsas dövlətlərini təmsil edən Beynəlxalq 
+Millətlər Təşkilatında təsdiq olunmalıdır. 
+Yeni təqvim islahatı ilk dəfə bizim əsrin 30 -cu 
+illərində Millətlər təşkilatının xüsusi komissiyasında 
+ 156
+müzakirə edilmişdir. Lakin ikinci dünya müharibəsi ilə 
+əlaqədar olaraq bu məsələ təxirə salınmışdır. 
+İkinci dəfə Hindistanın təklifi ilə bu məsələ 1956 - 
+cı ilin martında BMT-nin iqtisadi şurasının 21 -ci 
+sessiyasında müzakirə olunmuşdur. Müzakirəyə 
+yüzlərlə təqvim layihəsi təqdim olunmuşdur. Bu 
+layihələr arasında ən uyğunu fransalı Armelinin 
+layihəsi sayılır. 
+Təqvimin 5000 ildən çox tarixi olmasına 
+baxmayaraq bugünə qədər dəqiq təqvim tərtib etmək 
+mümkün olmamışdır və gələcəkdə də mümkün 
+olmayacaqdır. Bu da onunla əlaqədardır ki, 
+təqvimlərdə istifadə olunan əsas zaman vahidləri orta 
+Günəş günü, sinodik ay və tropik il bir- birilə dəqiq 
+ifadə olunmur. 
+İndi istifadə etdiyimiz təqvimlərin əsas qüsuru 
+aylardakı günlərin sayının eyni olmaması, 
+kvartallardakı günlərin sayının eyni olmaması, həftənin 
+günlərinin təqvimin eyni tarixlərinə düşməməsi, Günəş 
+təqvimlərində təqvim ilinin uzunluğunun tropik ilin 
+uzunluğundan fərqli olması, Ay təqvimlərində Ay 
+təqvim ilinin Ay ilindən fərqli olmasıdır. 
+Yuxarıda göstərilən qüsurları qismən də olsa 
+aradan qaldırmaq üçün bir çox layihələr təklif 
+olunmuşdur. Onlardan Armelinin verdiyi layihə daha 
+maraqlıdır. Bu layihəyə görə təqvim ili 4 kvartala 
+bölünür. Hər kvartalın birinci ayı 31 gündən, digər 
+ikisi isə 30 gündən ibarətdir. Kvartalların hamısı eyni 
+uzunluqlu olub 13 həftədən və 91 gündən ibarətdir. 
+Hər kvartal və təqvim ili həftənin eyni gününə uyğun 
+ 157
+gəlir. Beləliklə təqvimlərin uzunluğu 
+Təqvim ili = 91 ⋅ 4 = 364 gün   
+olur. Təqvim ili isə adi illərdə 365 gündən, Visokos 
+illərdə isə 366 gündən ibarət olmalıdır. Ona görə adi 
+illərdə dekabrın 30 -u ilə Yanvarın 1 -i arasında bir gün 
+hesaba alınmır və beynəlxalq Yeni il bayramı hesab 
+olunur. Visokos illərdə belə beynəlxalq istirahət günü 
+iyun ayının 30 -dan sonra da daxil olunur. 
+                                                        Cədvəl 14.1 
+Armelin təqvimi 
+ 
+      I kvartal      II kvartal 
+Ayların 
+sıra 
+sayı 
+Ayl
+arın 
+adı
+Aydakı 
+günlərin 
+sayı 
+Ayları
+n 
+sıra 
+sayı 
+Ayların
+adı 
+Aydakı 
+günlərin sayı
+1 
+2 
+3 
+Yanvar 
+Fevral 
+Mart 
+31 
+30 
+30 
+4 
+5 
+6 
+Aprel 
+May 
+İyun 
+31 
+30 
+30 
+III kvartal IV kvartal 
+7 
+8 
+9 
+İyul 
+Avqust 
+Sentyabr
+31 
+30 
+30 
+10 
+11 
+12 
+Oktyabr
+Noyabr 
+Dekabr 
+31 
+30 
+30 
+ 
+§ 14.2. Ümumdünya təqvim layihəsi 
+ 
+Bir çox astronomun təklifi ilə 12 aylıq ümumdünya 
+təqvim layihəsi təklif olunmuşdur. Bu təqvim 
+layihəsinə görə təqvim ili hər birində 182 gün olan iki 
+yarımilə və hər birində 91 gün olan dörd kvartala 
+bölünür. Hər kvartal üç aydan ibarət olur. Armelin 
+təqvimində olduğu kimi hər kvartalın birinci ayı 31 
+gündən, qalan iki ayı isə 30 gündən ibarətdir. 
+ 158
+Bu təqvimdə hər ayın birinci günü (ayın biri) bazar 
+gününə düşür. Bundan başqa hər kvartal bazar 
+günündən başlayır, şənbə günü isə başa çatır. Hər 
+kvartal on üç həftədən ibarətdir. Bütün aylardakı iş 
+günlərinin sayı sabit olub 26 günə bərabərdir. 
+                                                          Cədvəl 14.2 
+Ümumdünya təqvim layihəsi 
+I kvartal
+Bazar 1 8 15 22 29 5 12 19 26 3 10 17 24
+Bazar ertəsi 2 9 16 23 30 6 13 20 27 4 11 18 25
+Çərşənbə axşamı 3 10 17 24 31 7 14 21 28 5 12 19 26
+Çərşənbə 4 11 18 25 1 8 15 22 29 6 13 20 27
+Cümə axşamı 5 12 19 26 2 9 16 23 30 7 14 21 28
+Cümə 6 13 20 27 3 10 17 24 1 8 15 22 29
+Şənbə 7 14 21 28 4 11 18 25 2 9 16 23 30
+II kvartal Aprel
+Bazar 1 8 15 22 29 5 12 19 26 3 10 17 24
+Bazar ertəsi 2 9 16 23 30 6 13 20 27 4 11 18 25
+Çərşənbə axşamı 3 10 17 24 31 7 14 21 28 5 12 19 26
+Çərşənbə 4 11 18 25 1 8 15 22 29 6 13 20 27
+Cümə axşamı 5 12 19 26 2 9 16 23 30 7 14 21 28
+Cümə 6 13 20 27 3 10 17 24 1 8 15 22 29
+Şənbə 7 14 21 28 4 11 18 25 2 9 16 23 30
+III kvartal Sentyabr
+Bazar 1 8 15 22 29 5 12 19 26 3 10 17 24
+Bazar ertəsi 2 9 16 23 30 6 13 20 27 4 11 18 25
+Çərşənbə axşamı 3 10 17 24 31 7 14 21 28 5 12 19 26
+Çərşənbə 4 11 18 25 1 8 15 22 29 6 13 20 27
+Cümə axşamı 5 12 19 26 2 9 16 23 30 7 14 21 28
+Cümə 6 13 20 27 3 10 17 24 1 8 15 22 29
+Şənbə 7 14 21 28 4 11 18 25 2 9 16 23 30
+IV kvartal Dekabr
+Bazar 1 8 15 22 29 5 12 19 26 3 10 17 24
+Bazar ertəsi 2 9 16 23 30 6 13 20 27 4 11 18 25
+Çərşənbə axşamı 3 10 17 24 31 7 14 21 28 5 12 19 26
+Çərşənbə 4 11 18 25 1 8 15 22 29 6 13 20 27
+Cümə axşamı 5 12 19 26 2 9 16 23 30 7 14 21 28
+Cümə 6 13 20 27 3 10 17 24 1 8 15 22 29
+Şənbə 7 14 21 28 4 11 18 25 2 9 16 23 30
+İyul Avqust
+Oktyabr Noyabr
+Yanvar Fevral Mart
+May İyun
+ 
+ 159
+Armelin təqvimində olduğu kimi adi illərdə bir 
+əlavə istirahət günü (30 dekabrdan sonrakı gün), 
+visokos illərdə isə iki istirahət günü (30 dekabrdan 
+sonrakı və 30 iyundan sonrakı günlər) daxil edilir. 
+Ümumdünya təqvim layihəsi bir çox baxımdan 
+istifadə üçün əlverişlidir. Lakin dini baxımdan xristian 
+ölkələrinin çoxu bunu qəbul etmək istəmir. Bu təqvim 
+layihəsi aşağıdakı cədvəldə verilmişdir. 
+  
+§ 14.3. Turan – Novruz təqvimi 
+ 
+Astronomiya həvəskarı Səməndər Salmanov bir 
+təqvim təklif etmişdir. Təqvimdə yeni il−ilin 
+başlanğıcı yaz bərabərliyi günü (21 mart) qəbul 
+edilmişdir. 
+Təqvim Ömər Xəyyamın təqviminə uyğundur. 33 
+illik dövrdə 8 visokos il vardır. Yəni 7 dəfə hər 4 ildən 
+bir və 1 dəfə 5 ildən bir visokos il olur. 
+Uzun ( visokos) illərdə təqvim ilinin uzunluğu 366 
+gün, adi illərdə isə 365 gün təskil edir. Günəşin 
+ekliptika boyunca hərəkətində 366 –cı gün yoxdur. 
+Ona görə tropik ilin uzunluğundakı kəsr hissəciklərin 
+(0,242219) toplanmasından alınan gün təqvimdən atılır 
+və ona sülh günü deyilir. Bununla əbədi olaraq ayın 
+günləri həftənin eyni gününə düşür. Onunla nail olunur 
+ki, həftənin verilmiş günündə baş verən hadisə hər il 
+həftənin həmin gününə düşür. Məsələn, həftənin bazar 
+günü doğulmuş adamın doğum günü hər il bazar 
+gününə düşür. 
+Bu təqvim layihəsində təqvim ili ilə tropik il 
+ 160
+arasındakı fərq 4500 ilə cəmi 1 gün təşkil edir. Deməli, 
+tərtib olunmuş təqvim 4500 ilə istifadə oluna bilər. 
+Turan−Novruz təqvimdə ayların adı aşağıdakı 
+cədvəldə verilmişdir. 
+Cədvəl 14.3. 
+Turan -Novruz təqvimində ayların adı 
+ 
+Ayın sıra 
+nömrəsi 
+Ayın 
+adı 
+Aydakı 
+günlərin 
+sayı 
+Hansı bürcə uyğun gəlir 
+Miladi təqvimlə hansı 
+dövrə düşür 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+Çiçək 
+Qazax 
+Uyğur 
+Monqol 
+Oğuz 
+Qırğız 
+Xəzər 
+Qıpçaq 
+Hun 
+Çağatay 
+Tatar 
+Mart 
+31 
+30 
+31 
+32 
+31 
+31 
+30 
+31 
+29 
+30 
+29 
+30 
+Qoç, 21 mart-20 aprel 
+Buğa, 20 aprel-20 may 
+Əkizlər, 21 may-20 iyun 
+Xərçəng, 21 iyun-22 iyul 
+Şir, 23 iyul-22 avqust 
+Qız, 23 avqust-22 sentyabr 
+Tərəzi,23sentyabr-22oktyabr 
+Əqrəb,23oktyabr-22noyabr 
+Oxatan,23noyabr-21dekabr 
+Oğlaq,22dekabr-20yanvar 
+Dolça,21yanvar-18fevral 
+Balıqlar,19fevral-20mart 
+    
+Turan−Novruz təqvimində həftənin günlərinə də 
+yeni adlar verilib. Aşağıdakı cədvəldə həftənin 
+günlərinin adı verilmişdir 
+Cədvəl.14.4  
+Turan – Novruz təqvimində həftənin günlərinin adı 
+ 
+Həftənin 
+gününün sıra 
+nömrəsi 
+Həftənin 
+gününün 
+adı 
+Adın mənası 
+1 
+2 
+3 
+4 
+5 
+Adəm 
+Nuh 
+Altay 
+Adına 
+Cümə 
+Adəm peyğəmbərin şərəfinə 
+Nuh peyğəmbərin şərəfinə 
+Türklərin yarandığı yer 
+Həftənin qədim tarixi adı 
+Islam dini ilə bağlı gün 
+ 161
+6 
+7 
+Noqay 
+Xas 
+Müsəlman və xristian kazakları 
+Həftənin keçmiş tarixi adı 
+Cədvəl 14.5 -də Turan–Novruz təqviminin daimi 
+cədvəli verilmişdir. 
+Cədvəl 14.5 
+Turan-Novruz təqviminin daimi cədvəli 
+ 
+Həftənin günləri 
+ÇİÇƏK AYI 
+(Qoç bürcü) 
+QAZAX AYI 
+(Buğa bürcü) 
+UYQUPAVAR
+AYI 
+(Əkizlər 
+bürcü) 
+T.Novruz 
+üzrə 
+Miladi 
+üzrə 
+Adəm Bazar ert. 1 8 15 22 29 5 12 19 26 3 10 17 24 31 
+Nuh Çərş.ax. 2 9 16 23 30 6 13 20 27 4 11 18 25 
+Altay Çərşənbə 3 10 17 24 31 7 14 21 28 5 12 19 26 
+Adına Cümə ax. 4 11 18 25 1 8 15 22 29 6 13 20 27 
+Cümə Cümə 5 12 19 26 2 9 16 23 30 7 14 21 28 
+Noqay Şənbə 6 13 20 27 3 10 17 24 1 8 15 22 29 
+Xaç 
+(bazar) Bazar 7 14 21 28 4 11 18 25 2 9 16 23 30 
+Həftənin günləri MONQOL AYI 
+(Xərçəng bürcü) 
+OĞUZ AYI 
+(Şir bürcü) 
+QIRĞIZ AYI 
+(Qız bürcü) T.Novruz üzrə 
+Miladi 
+üzrə 
+Adəm Bazar ert. 7 14 21 28 3 10 17 24 31 7 14 21 28 
+Nuh Çərş.ax. 1 8 15 22 29 4 11 18 25 1 8 15 22 29 
+Altay Çərşənbə 2 9 16 23 30 5 12 19 26 2 9 16 23 30 
+Adına Cümə ax. 3 10 17 24 31 6 13 20 27 3 10 17 24 31 
+Cümə Cümə 4 11 18 25 32 7 14 21 28 4 11 18 25 
+Noqay Şənbə 5 12 19 26 1 8 15 22 29 5 12 19 26 
+Xaç 
+(bazar) Bazar 6 13 20 27 2 9 16 23 30 6 13 20 27 
+ 
+ 
+ 
+ 
+ 162
+ 
+ 
+Cədvəl 14.4-in davamı 
+ 
+Həftənin günləri XƏZƏR AYI 
+(Tərəzi bürcü) 
+QIPÇAQ AYI 
+(Əqrəb bürcü)
+HUN AYI 
+(Oxatan 
+bürcü) 
+T.Novruz 
+üzrə 
+Miladi 
+üzrə 
+Adəm Bazar ert. 4 11 18 25 2 9 16 23 30 6 13 20 27 
+Nuh Çərş.ax. 5 12 19 26 3 10 17 24 31 7 14 21 28 
+ Çərşənbə 6 13 20 27 4 11 18 25 1 8 15 22 29 
+Adına Cümə ax. 7 14 21 28 5 12 19 26 2 9 16 23 
+Cümə Cümə 1 8 15 22 29 6 13 20 27 3 10 17 22 
+Noqay Şənbə 2 9 16 23 30 7 14 21 28 4 11 18 25 
+Xas 
+(bazar) Bazar 3 10 17 24 1 8 15 22 29 5 12 19 26 
+Həftənin günləri ÇIĞATAY AYI 
+(Oğlaq bürcü) 
+TATAR AYI 
+(Dolça bürcü) 
+MART AYI 
+(Balıq bürcü) T.Novruz üzrə 
+Miladi 
+üzrə 
+Adəm Bazar ert. 5 12 19 26 3 10 17 24 2 9 16 23 30 
+Nuh Çərş.ax. 6 13 20 27 4 11 18 25 3 10 17 24 AT 
+Altay Çərşənbə 7 14 21 28 5 12 19 26 4 11 18 25 
+Adına Cümə ax. 1 8 15 22 29 6 13 20 27 5 12 19 26 
+Cümə Cümə 2 9 16 23 30 7 14 21 28 6 13 20 27 
+Noqay Şənbə 3 10 17 24 1 8 15 22 29 7 14 21 28 
+Xas 
+(bazar) Bazar 4 11 18 25 2 9 16 23 1 8 15 22 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 163
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+XV FƏSİL 
+GÜNLƏR, HƏFTƏLƏR VƏ AYLAR 
+Səxavətsiz səadət olmaz 
+N. Tusi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 164
+ 
+ 
+        § 15.1. Həftələr və günlər 
+ 
+Qədim Misirdə ayın həftələrə bölünməsi yox idi. 
+XVIII əsrin axırlarında Fransada tərtib olunan “Fransa 
+inqilabının Respublika təqvimi”ndə də ayların 
+həftələrə bölünməsi yoxdur. 
+Sonralar təqvimlərin tərtibində 7 günlük və 10 gün-
+lük həftələrdən istifadə olunmuşdur. Bəzi təqvimlərdə 
+5 günlük və 13 günlük həftələr də daxil edilmişdir. 
+Qədimdə bir əldəki barmaqların sayına uyğun 
+olaraq 5 günlük həftə işlədilirmiş. Buna kiçik həftə 
+deyilir. Daha sonra iki əldəki barmaqların sayına görə 
+10 günlük həftə işlədilmişdir. Bu həftəyə böyük həftə 
+deyilir. 
+13 günlük həftə mayalıların 260 günlük təqvimində 
+istifadə olunmuşdur. 
+Yeddi günlük həftə ilk dəfə qədim Vavilonda daxil 
+edilmişdir. Sonralar bu yəhudilərə, yunanlara və 
+italyanlara keçmişdir. Daha sonra 7 günlük həftə bütün 
+Avropaya yayılmışdır. 
+Ərəblərin tərtib etdiyi təqvimlərdə də 7 günlük 
+həftə qəbul edilmişdir. İslam dinində qəbul edilmiş Ay 
+təqvimlərində də ayların 7 günlük həftələrə bölünməsi 
+saxlanılmışdır. 
+Ayların 10 günlük həftəyə bölünməsi mayalıların 
+Günəş təqvimində istifadə olunmuşdur. 
+Günəş təqvimlərində 7 günlük həftənin daxil 
+edilməsi uyğun deyil. Ona görə ki, aydakı günlərin 
+ 165
+sayı 7-yə bölünmür. Bu baxımdan Günəş 
+təqvimlərində 10 günlük həftələr daha uyğundur. 
+Ay təqvimlərində isə 7 günlük həftələr daha 
+uyğundur. Ona görə ki, sinodik ayın uzunluğu 29.5 
+gündür. Onun 1.5 günü Ay görünmür. Qalan 28 gün 
+isə 7-yə qalıqsız bölünür və ay 4 həftədən ibarət olur. 
+Bəs həftənin 7 günlük həftənin qəbul edilməsi nə ilə 
+əlaqədardır? 
+Bəziləri hesab edir ki, 7 müqəddəs rəqəm olub 
+astrologiya ilə bağlıdır. Əslində isə 7 rəqəmi ona görə 
+qəbul olunmuşdur ki, qədimdən Günəş sistemində 7 
+göy cismi məlum idi: Günəş, Ay, Merkuri, Mars, 
+Venera və Saturn. Bu göy cisimlərinin hərəsinə bir gün 
+ayrılmış və onlara həmin göy cisminin adı verilmişdir. 
+Hind dilində də həftənin günləri Ay, Günəş və 
+planetlərin adı ilə adlandırılmışdır. 
+Ay təqvimlərində bu daha da aydındır-hər 7 gündən 
+bir Ayın fazası dəyişir. Ayın təzə Ay fazasından I rübə, 
+I rübdən Dolu Aya, Dolu Aydan axırıncı rübə və 
+axırıncı rübdən təzə Ay fazasına keçid 7 günə baş 
+verir. 
+Cədvəl 15.1-də latın və hind dillərində həftənin 
+günlərinin adı və onları mənası verilmişdir. 
+ 
+§ 15.2. Həftənin günlərinin adlarının mənası 
+ 
+15.2.1. Rusca həftənin günlərinin adının mənası 
+ 
+Əvvəllər xaçpərəstlərdə və Yəhudilərdə həftənin 6-
+cı günü (saturn günü) istirahət günü sayılırdı. Qədim 
+ 166
+yəhudi dilində “sabbat” (şabaş) istirahət deməkdir. 
+Ona görə həftənin 6-cı günü “subbota” 
+adlandırılmışdır. 
+ 
+Cədvəl 15.1 
+Latın və hind dillərində həftənin günlərinin adı 
+ 
+Həftənin  
+günləri 
+Günlərin adı  
+Mənası Latınca Hindcə 
+I Dies Lumae Samvar Ay günü 
+II Dies Martis Manqalvar Mars günü 
+III Dies Mekkuri Budxavar Mekkuri günü 
+IV Dies Jovis Birvar Yupiter günü 
+V Dies Veneris Şukkivar Venera günü 
+VI Dies Saturni Şanivar Saturn günü 
+VII Dies Solis Pavivar Günəş günü 
+ 
+Cədvəl 15.2-də rus və ingilis dillərində həftənin günlərinin adı 
+verilmişdir. 
+Cədvəl 15.2.  
+Rus və ingilis dillərində həftənin günlərinin adı 
+ 
+Həftənin günləri 
+Günlərin adı 
+Rusca İngiliscə 
+I Ponedelnik Monday 
+II Vtornik Tuesday 
+III Sreda Wednesday 
+IV Çetverq Thursday 
+V Pyatnisa Friday 
+ 167
+VI Subbota Saturday 
+VII Voskresenye Sunday 
+Cədvəl 15.3- də Azərbaycan və türk dillərində 
+həftənin günlərinin adı verilmişdir. 
+Cədvəl 15.3  
+Azərbaycan və türk dillərində həftənin günlərinin adı 
+ 
+Həftənin günləri 
+Həftənin günlərinin adı 
+Azərbaycanca Türkcə 
+I Bazar ertəsi Pazartesi 
+II Çərşənbə axşamı Sah 
+III Çərşənbə Çarşamba 
+IV Cümə axşamı Perşembe 
+V Cümə Cüma 
+VI Şənbə Cümartesi 
+VII Bazar Pazar 
+ 
+ 321-ci ildən Roma imperatorunun sərəncamı ilə 
+istirahət günü həftənin 6-cı günündən 7- ci gününə 
+keçirildi. Həftənin bu günü İsa peyğəmbərin “dirilmə” 
+günü olduğundan bu günə voskresenye 2dirilmə” adı 
+verilmişdir. 
+ Həftənin 7-ci günü əvvəllər “nedelya” adlanırdı. 
+Ona görə nedelya günündən sonrakı günə 
+“ponedelnik”, nedelyadan iki gün sonrakı günə 
+“vtornik”, üç gün sonrakı günə “sreda” (orta), dörd gün 
+sonrakı günə “çetverq” (dördüncü), beş gün sonrakı 
+günə “pyatnitsa” (beşinci) adı verilmişdir. Həftənin 
+altıncı günü isə, əvvəldən deyildiyi kimi “subbota” adı 
+ 168
+ilə saxlanılmışdır. 
+ Qeyd etmək lazımdır ki, Rusiya və digər 
+xaçpərəst ölkələrdə əvvəllər “voskresenye” sözü 
+həftənin istirahət günü kim yox, İsa peyğəmbərin 
+dirilmə günü kimi işlədilmiş və ildə bircə gün – Pasxa 
+bayramı kimi işlədilmişdir. Yalnız XVI əsrdən 
+“voskresenye” həftənin istirahət gününün adı kimi 
+istifadə edilməyə başlanmışdır. 
+ 
+15.2.2. Farsca həftənin günlərinin adı və mənası 
+ 
+Cədvəl 15.4 – də Fars dillərində həftənin günlərinin 
+adı və mənası verilmişdir. 
+Cədvəl 15.4. 
+Farsca həftənin günlərinin adı və mənası 
+Həftənin 
+günləri 
+Həftənin 
+günlərinin adı Mənası 
+I dü şənbə Şənbənin ikinci günü 
+II Se şənbə Şənbənin üçüncü günü 
+III Çahar şənbə Şənbənin dördüncü günü 
+IV Pənc şənbə Şənbənin beşinci günü 
+V Cümə (adinə) Cəm, cəmləşmə, toplaşma 
+VI Şənbə 
+Yəhudi sözü 
+“şaabaş”(istirahət, 
+dinclik)sözündən 
+götürülüb 
+VII Yek şənbə Şənbənin birinci günü 
+ 
+15.2.3. Ərəb dilində həftənin günlərinin 
+ 169
+adı və mənası 
+Cədvəl 15.5-də Ərəb dillərində həftənin günlərinin adı 
+və mənası verilmişdir. 
+Cədvəl 15.5. 
+Ərəbcə həftənin günlərinin adı və mənası 
+ 
+Həftənin 
+günləri 
+Həftənin 
+günlərinin 
+adı 
+Mənası 
+I Youmu-l-əl İsneyn 
+Həftənin ikinci günü deməkdir, 
+daha yüngül mənasını daşıyır. 
+II Youmu-s- əs Sülasə 
+Həftənin üçüncü günü 
+deməkdir. “Cəbbar” (qüdrətli) 
+mənasını daşıyır. 
+III Youmu-l əl-Ərbia 
+Həftənin dördüncü günü 
+deməkdir. Cahilliyə dövründə 
+“məğlubiyyət, məğlubiyyətə 
+uğramaq və s” mənalarını 
+daşıyır. 
+IV Youmu-l əl-Xəmis 
+Yəni həftənin beşinci günü 
+deməkdir. Xeyirxah, səmimi, 
+dost və s. mənasını daşıyır. 
+V Youmu-l- əl Cümə 
+Cümə ictimai sözündən 
+(yığıncaq, toplu, məcmu və s.) 
+alınmışdır. Əsdil, mənşə, 
+törəmə, əmələ gəlmə və s 
+mənalarını daşıyır. 
+VI Youmu-s- əs-Səbt 
+rahatlıq, dinclik və s. deməkdir. 
+“Şəbt” sözündən alınmışdır, 
+mənası rahatlıq, sükut və 
+sakitlik deməkdir. 
+VII əl-Əhəd Vahid mənasındadır və 
+ 170
+ədəblıərin birincisidir. Həftənin 
+birinci günü deməkdir 
+ 
+§ 15.3. Aylar və onların adlarının mənası 
+ 
+15.3.1. Qriqori təqvimində ayların adının mənası 
+ 
+1. Yanvar-iki başlı Yanuc allahın şərəfinə 
+adlandırılmışdır. 
+2. 2. Fevral-Yeraltı çarlıq Allahı Febəuusun 
+şərəfinə adlandırılmışdır. 
+3. Mart-Müharibə Allahı Martiusun adı ilə 
+bağlıdır. 
+4. Aprel- Latınca aperire sözündəndir. Tumurcuq 
+deməkdir. Bu ayda ağacların tumurcuqları açılmağa 
+başlayır. 
+5. May – Merkuri Allahının anası Mağus Allahın 
+Şərəfinə adlandırılmışdır. 
+6. İyun – Yupiterin arvadı Yunon (Yunius) 
+Allahının adına adlandırılmışdır. 
+7. İyul- Roma imperatoru Yuri Sezarın şərəfinə 
+adlandırılıb. Əvvəllər bu ayın adı kvintilis (beşinci) 
+olmuşdur. 
+8. Avqust – Roma imperatoru Avqustun şərəfinə 
+adlandırılıb. Əvvəllər bu ayın adı sekstilis (altıncı) 
+olmuşdur. 
+9. Sentyabr – September (yeddinci) sözündəndir. 
+10. Oktyabr – Oktober (səkkizinci) deməkdir. 
+11. Noyabr – November (doqquzuncu) deməkdir. 
+12. Dekabr – December (onuncu) deməkdir. 
+ 171
+Aydınlıq üçün qeyd edək ki, qədim Roma 
+təqvimində il 10 aydan ibarət idi. İlin birinci ayı Mart 
+ayı sayılırdı. Yanvar və Fevral ayları təqvimə sonralar 
+(Yuli Sezarın vaxtında) daxil edilmişdir. 
+ 
+15.3.2. Ömər Xəyyam təqvimində ayların 
+adlarının mənası 
+ 
+Fərvərdin – Qədim fars (qoruyucu məlakə) 
+sözündəndir. Baharın ilk ayı, bitkilərin oyanma ayıdır. 
+Ordebehişt – Behiştə bənzər deməkdir. Baharın orta 
+ayıdır. 
+Xordad – qədim fars “hourzatat” (bütövlük) 
+sözündəndir. 
+Tir- Merkurinin adı “titriya” sözündəndir. 
+Mordad – Qədim fars “ameratat” (qorxusuz) 
+sözündəndir, məlakə adıdır. Yayın ilk ayıdır. 
+Bəhrələrin yetişdiyi aydır. 
+Şəhrivər – “Şavrevar” sözündəndir. Gəlirlərin 
+çoxalma ayı, yayın son ayıdır. 
+Mehr – “Misr” (işıq) sözündəndir. Mehribanlıq ayı, 
+payızın ilk ayıdır. 
+Aban –“Anan” (su məlakəsi) sözündəndir. 
+Yağışların başlaması və çaylarda suyun artma ayıdır. 
+Azar – “Azur” (od məlakəsi) sözündəndir. 
+Soyuqların düşməsilə oda ehtiyacın artma ayıdır. 
+Dey – “Darv” və ya “dizvah” 
+(yaradıcı)sözündəndir. Ən sərt aydır, qışın birinci 
+ayıdır. 
+Bəhmən  – “Bahuman”(vicdanlı) sözündəndir. 
+ 172
+İsfəndərmuz  – “asfand” (bəhrə) sözündəndir. 
+Bitkilərin boy atmağa başladığı aydır. 
+ 
+15.3.3.Hicri – qəməri təqvimdə ayların adlarının 
+mənası 
+ 
+1. Məhərrəm - ərəbcə “haram”, qadağan olunmuş 
+deməkdir. Bu ayda müharibə etmək qadağan edilmiş, 
+haram buyrulmuşdur. Ona görə bu aya “məhərrəm” adı 
+verilmişdir. 
+2. Səfər – “Aclıq”, “boşluq”, “sarı” deməkdir. Bu 
+ayda ərəblər ərzaq toplamaq, istilərdən qaçmaq üçün 
+öz yerlərindən qaçdıqlarına görə bu aya “səfər” adı 
+verilmişdir. 
+3. Rəbiul - əvvəl- Birinci bahar deməkdir. Bu ayda 
+yaşıllıq, göylük əmələ gəlir. 
+4. Rəbiul – axər – Axırıncı (ikinci) bahar 
+deməkdir. 
+5. Cəmadul - əvvəl – Birinci soyuqlaşma 
+(buzlaşma), donma- deməkdir. Soyuqların düşməsinə, 
+suyun donmasına görə belə adlandırılmışdır. 
+6. Cəmadul – axər- Axırıncı (ikinci) donma, 
+soyuqlaşma deməkdir. 
+7. Rəcəb – Təzim (Tərcib) sözündəndir. Bu ayda 
+müharibələrdən əl çəkin deyildiyinə görə rəcəb ayı 
+verilmişdir. 
+8. Şaban – “Səpələnmə”, “yayılma” deməkdir. Bu 
+ayda ərəblər qarət məqsədilə ətrafa səpələndiyinə görə 
+ona şaban adı verilmişdir. 
+9. Ramazan – “Əl- Rəmza”  (isti, qaynar) 
+ 173
+kəlməsindəndir. Bu ayda daşlar qızar və istilər 
+düşərmiş. Orucluq ayıdır. 
+10. Şəvval – Qeyri kafi, yetişməyəcək qədər 
+kəlməsindən götürülüb. Bu ayda havaların istiləşməsilə 
+əlaqədar olaraq dəvələrin südünün azalmasına görə bu 
+aya şəvval adı verilib. 
+11. Zül-qədə−“Qədə” (oturmaq) sözündəndir. 
+Müharibələrin haram buyrulduğu aylardan biridir. Bu 
+ayda ərəblər müharibəni tərk edər, oturaq həyat 
+keçirərmiş. 
+12. Zül-hiccə – Həcc ziyarəti keçirilən ay 
+olduğundan belə adlandırılmışdır. 
+ 174
+Ədəbiyyat 
+ 
+1.C. M. Quluzadə, Klassik Astronomiya, Bakı,  2007. 
+2. R. Ə. Hüseynov, Astronomiya, Bakı, 1997 
+3. C. U. Ceлещников, История календаря и 
+хронология, Москва 1970 
+4. Н. В. Володомонов, календаръ: прошилое, на-
+стоящее, будущее; Москва, 1987. 
+5. А. Б. Буткевич, М. С. Зеликсон, Вечные календа-
+ри, Москва, 1984. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 175
+Kitabın içindəkilər 
+Səh 
+Ön söz...........................................................................3 
+Giriş..............................................................................5 
+ 
+I FƏSİL. YER GÖY CİSMİ KİMİ...........................9 
+ 
+§ 1.1. Yer haqqında qısa məlumat..............................10 
+§ 1.2. Yerin forma və ölçüləri.....................................11 
+§ 1.3. Coğrafi koordinatlar.........................................14 
+§1.4. Yerin iqlim qurşaqları........................................18 
+ 
+II FƏSİL. GÖY SFERİ............................................20 
+ 
+§ 2.1. Göy sferinin əsas elementləri...........................21 
+§ 2.2. Göy sferinin fırlanması.....................................24 
+ 
+ 
+III FƏSİL. ASTRONOMİK KOORDİNAT   
+SİSTEMLƏRİ...........................................................28 
+ 
+§ 3.1. Üfüqi koordinat sistemi....................................29 
+§ 3.2. Ekvatorial koordinat sistemi.............................31 
+§ 3.3. Göy cisimlərinin doğması və batması..............33 
+§ 3.4. Göy cisimlərinin kulminasiyası........................35 
+ 
+IV FƏSİL 
+GÜNƏŞİN HƏRƏKƏTİ..........................................37 
+ 
+§ 4.1. Günəş haqqında ümumi məlumat.....................38 
+ 176
+§ 4.2. Günəşin günlük hərəkəti...................................39 
+§ 4.3. Günəşin illik hərəkəti........................................40 
+§ 4.4. Günəşin illik hərəkətinin bərabərsürətli 
+olmaması.....................................................................45 
+§ 4.5. Müxtəlif en dairələrində Günəşin hərəkəti.......46 
+§ 4.6. Günəşin günorta hündürlüyünün dəyişməsi.....49 
+ 
+ 
+V FƏSİL. YERİN HƏRƏKƏTİ..............................51 
+ 
+§ 5.1. Yerin öz oxu ətrafında fırlanması.....................52 
+§ 5.2. Yerin Günəş ətrafında dolanması.....................54 
+§ 5.3. Yerin orbiti.......................................................57 
+§5.4. Fəsillərin əmələ gəlməsi....................................59 
+ 
+VI FƏSİL. AYIN HƏRƏKƏTİ...............................64 
+ 
+§ 6.1. Ay haqqında qısa məlumat...............................65 
+§ 6.2. Ayın öz oxu ətrafında fırlanması......................65 
+§ 6.3. Ayın Yer ətrafında dolanması...........................67 
+§ 6.4. Ayın fazaları.....................................................68 
+§ 6.5. Ayın dolanma dövrləri......................................71 
+ 
+VII FƏSİL. VAXTIN ÖLÇÜLMƏSİ  
+VƏ SAXLANILMASI..............................................74 
+ 
+§7.1. Astronomiyada  zaman vahidləri.......................75 
+§7.2. Ulduz vaxtı........................................................76 
+§7.3. Həqiqi Günəş vaxtı............................................78 
+§7.4. Orta Günəş vaxtı................................................79 
+ 177
+§7.5. Vaxt tənliyi........................................................80 
+§7.6. Vaxt hesablama sistemləri.................................82 
+§7.7. Ulduz və orta Günəş vaxtları arasında əlaqə.....84 
+§7.8. Atom vaxtı.........................................................86 
+§ 7.9. Efemerid vaxtı..................................................87 
+§ 7.10. Yuli günləri.....................................................87 
+§ 7.11. Tarixin dəyişmə xətti......................................88 
+ 
+VIII FƏSİL. GÜNƏŞ TƏQVİMLƏRİ....................90 
+ 
+§ 8.1. Günəş təqvimlərinin astronomik əsasları.........91 
+§ 8.2 Günəş təqvimlərinin riyazi əsası........................92 
+§8.3. Qədim misir təqvimi..........................................95 
+§8.4. Qədim Roma təqvimi.........................................97 
+§ 8.5. Yuli təqvimi ( köhnə stil)..................................99 
+§ 8.6. Qriqori təqvimi (Yeni stil)..............................101 
+§ 8.7. Yeni Yuli təqvimi...........................................103 
+§ 8.8. Ömər Xəyyam təqvimi...................................104 
+§ 8.9. Bürc təqvimi...................................................106 
+§ 8.10. Əfqan təqvimi...............................................108 
+§ 8.11. Kopt təqvimi.................................................109 
+§ 8.12. Medler təqvimi.............................................110 
+§ 8.13. Vahid milli hind təqvimi..............................110 
+§ 8.14. Mayya təqvimi..............................................112 
+ 
+IX FƏSİL. AY TƏQVİMLƏRİ.............................117 
+ 
+§ 9.1. Ay təqvimlərinin astronomik əsasları.............118 
+§ 9.2. Ay təqvimlərinin riyazi əsasları......................119 
+§ 9.3. Türk Ay təqvimi.............................................122 
+ 178
+§ 9.4. Ərəb Ay təqvimi.............................................123 
+ 
+X FƏSİL. AY-GÜNƏŞ TƏQVİMİ........................126 
+ 
+§10.1.Ay-Günəş təqvimlərinin astrononomik 
+əsasları......................................................................127 
+§ 0.2. Ay-Günəş təqvimlərinin riyazi əsası..............127 
+§10.3. Çin Ay – Günəş təqvimi................................129 
+§ 10.4. Meton  tsikli..................................................130 
+§10.5. Yəhudi təqvimi..............................................131 
+ 
+XI FƏSİL. TARİXLƏRİN 
+ÇEVRİLMƏSİ........................................................134 
+ 
+§ 11.1. Tarixlərin təqribi çevrilməsi.........................135 
+§ 11.2. Tarixlərin dəqiq çevrilməsi...........................136 
+ 
+XII FƏSİL. TSİKLİK TƏQVİMLƏR..................142 
+ 
+§12.1. Tsiklik çin təqvimi.........................................143 
+§12.2. Çin mövsüm təqvimi.....................................145 
+ 
+XIII FƏSİL. ERALAR VƏ TƏQVİM İLİNİN 
+BAŞLANĞICI.........................................................147 
+ 
+§13.1. Eralar və ya xronologiya................................148 
+§ 13.2. İlin başlanğıcı...............................................150 
+ 
+XIV FƏSİL. GƏLƏCƏK ÜMUMDÜNYA GÜNƏŞ 
+TƏQVİMİ LAYİHƏLƏRİ.....................................153 
+ 179
+§14.1. Armelin təqvimi.............................................154 
+§ 14.2. Ümumdünya təqvim layihəsi........................156 
+§ 14.3. Turan – Novruz təqvimi...............................158 
+ 
+ 
+XV FƏSİL. GÜNLƏR, HƏFTƏLƏR 
+VƏ AYLAR.............................................................162 
+ 
+§15.1. Həftələr və günlər..........................................163 
+§ 15.2. Həftənin günlərinin adlarının mənası...........164 
+15.2.1. Rusca həftənin günlərinin adının mənası.....164 
+15.2.2. Farsca həftənin günlərinin adı və mənası....167 
+15.2.3. Ərəb dilində həftənin günlərinin 
+adı və mənası............................................................167 
+§15.3. Aylar və onların adlarının mənası.................169 
+15.3.1. Qriqori təqvimində ayların adının mənası...169 
+15.3.2. Ömər Xəyyam təqvimind ayların adlarının 
+mənası.......................................................................170 
+15.3.3.Hicri – qəməri təqvimdə ayların adlarının 
+mənası.......................................................................171 
+Ədəbiyyat.................................................................173 
+ 
