@@ -1,4 +1,4 @@
-QAFQAZ
+﻿QAFQAZ
 UN VERS TET
 Borland
 C++

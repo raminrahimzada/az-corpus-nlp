@@ -1,4 +1,4 @@
-       
+﻿       
   
   C++ proqramlaşdırma dili
        Birinci buraxılış
