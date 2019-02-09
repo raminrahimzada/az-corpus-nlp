@@ -26,8 +26,8 @@ YOLU
 BAKl—2003 
  
   
-Zəfər yolu________________ 2 
-Zəfər yolu________________ 3
+ 2 
+ 3
  
  
  
@@ -51,7 +51,7 @@ ESSE
 «GƏNCLİK» NƏŞRİYYATI BAKI 
 BAKI- 2003 
   
-Zəfər yolu________________ 4
+ 4
  
 Az 
 M 
@@ -81,7 +81,7 @@ M
  
 © H.Mirələmov, 2003 
   
-Zəfər yolu________________ 5
+ 5
  
  
  
@@ -108,7 +108,7 @@ Bu Saray bahar günəşinin səhər
 rəngə boyanmışdı. Böyük İnsanın illər 
 boyu inam və 
   
-Zəfər yolu________________ 6
+ 6
  
 inadla keçdiyi yolda sonsuz zəhməti və 
 gücü ilə başa gətirdiyi Dövlət 
@@ -134,7 +134,7 @@ Qara yellərin soyuq nəfəsi qönçə tutan
 Vətən — Ananın fəryadlarını O — 
 Böyük İnsan eşidirdi, duyurdu. Bu 
 fəryadlar 
-Zəfər yolu________________ 7
+ 7
  
 qəlbini göyür-göyür göynədir, sinəsini 
 deşirdi. 
@@ -160,7 +160,7 @@ qoşan, fəqət Tanrının hökmü ilə tarix
 səhnəsindən gedən kimi onu fikirlərdə, 
 beyinlərdə   amansızlıqla,   qəddarlıqla   
 dəfn 
-Zəfər yolu________________ 8
+ 8
   
 etməyi bacaran rejimin sərt qanunları 
 çərçivəsində yaşamaq və işləmək 
@@ -186,7 +186,7 @@ saat mexanizmi kimi dəqiqliklə yaşamaq,
 günəşin kainatda  payladığı işıqdan, 
 enerjidən 
   
-Zəfər yolu________________ 9
+ 9
  
 payına düşənlərin hamısından 
 bəhrələnməklə həyati arzulara nəfəs 
@@ -212,7 +212,7 @@ döyüşlərdən qalib çıxmış bir ömrün
 zirvəsindən baxanda həmin ifadənin 
 mahiyyətə tam cavab vermədiyi necə 
 də aydın görünür. 
-Zəfər yolu________________ 10
+ 10
   
 Ən kəskin, sərt və bəlkə də, qəddar 
 opponentlərin belə heyrətləndiyi 
@@ -238,7 +238,7 @@ Sonra da iti baxışları ilə çox-çox
 aşağılarda qalmış dərələri, göz 
 işlədikcə uzanıb gedən düzənləri seyr 
 etməyə başlayır. 
-Zəfər yolu________________ 11
+ 11
  
  Böyük İnsan tarixə qovuşmuş illərin 
 zəfər dolu yollarına baxdıqca onun nurani 
@@ -264,7 +264,7 @@ yorular, yan yolda qalardı. Onda da
 həyatın, yaşamağın mənası olmazdı. 
 Mübarizələrin, döyüşlərin, əzabların, 
 iztirabların mənasızlığı İnsanı 
-Zəfər yolu________________ 12
+ 12
  
 bezdirərdi. Axı İnsanı yaşadan 
 amalları, arzularıdır. 
@@ -290,7 +290,7 @@ Budur iradəni sipərə döndərən,
 budur Böyük İnsanı bütün sınaqlardan 
 keçirib ona sarsılmaz dözüm, dəyanət 
 bəxş edən. 
-Zəfər yolu________________ 13
+ 13
  
 Budur İnsanı yer üzünün əşrəfi edən, 
 kamillik, alilik zirvəsində əbədi yerini 
@@ -315,7 +315,7 @@ dövlət qurmaq elmidir. Bu, bəşəri
 dəyərlərə, xalqına, millətinə, torpağına, 
 ədəbiyyata, incəsənətə, diplomatiyaya, 
 bağışlamağı ba- 
-Zəfər yolu________________ 14
+ 14
  
 carmaq, dünəni unutmadan sabahı görmək 
 məharətinə həsr olunmuş elmdir. Ən çətin, 
@@ -340,7 +340,7 @@ qəlbinin hökmünə, zəkasının qüdrətinə
 söykənmişdir. Bu səbəbdən də tarixin ən 
 burulğanlı, sıx dumanlı məqam- 
   
-Zəfər yolu________________ 15
+ 15
  
 larında azmadı, yolunu itirmədi, 
 yaınlmadı. 
@@ -366,7 +366,7 @@ hərarətini ondan əsirgəmir.
 Böyük İnsan sevinir. Bu, təkcə onun 
 özünün, şəxsi həyatının şirinliyini ifadə 
 eləyən 
-Zəfər yolu________________ 16
+ 16
  
 sevinc deyil. Bu, qabağa düşüb, qoşunu 
 susuz səhralardan keçirən, insanları 
@@ -391,7 +391,7 @@ ahənginə qovuşacaq. O, öz ölkəsini öz
 varlığına köçürmüşdü. Dünyanın harasında 
 olsa da, hansı 
   
-Zəfər yolu________________ 17
+ 17
  
 vəzifə kürsüsündə otursa da, mövcud 
 qanunların diqtəsi ilə danışsa da, 
@@ -417,7 +417,7 @@ ona görə qoruyurdu ki, öz xalqını ağ günə
 xoşbəxtliyi naminə idi. Bu qədər ağırlığı, 
 göy qübbəsi 
   
-Zəfər yolu________________ 18
+ 18
  
 qədər yükü çiyinlərində Atlantsayağı bir 
 qüvvə ilə necə daşıyırdı? Böyük İnsan 
@@ -443,9 +443,9 @@ dəqiq məntiqi, əsaslandırılmış cavabları ilə
 susdura bilirdi. Sübut edə bilirdi ki, 
 Vətənin, onun   qəlbində   yuva 
   
-Zəfər yolu________________ 19
-Zəfər yolu________________ 20 
-Zəfər yolu________________ 21
+ 19
+ 20 
+ 21
  
 qurmuş, çırpınan, titrək ürəyin — Vətən 
 — Ananın buna tam haqqı var. O, çox 
@@ -471,7 +471,7 @@ durur, ilham verir. Ucalığa gedən yolların
 tər damlalarının şəffaflığında  işığa, nura  
 bələndiyini, bu 
   
-Zəfər yolu________________ 22
+ 22
  
 yolların alın tərinin töküldüyü yerdən 
 başlandığını deyirdi. 
@@ -497,7 +497,7 @@ vaxtında duya bilirdi.
 Böyük İnsan açıq okeanda tənha 
 üzən gəmini sahilə çatdırmağa qadir 
 olan və bu 
-Zəfər yolu________________ 23
+ 23
  
 yolda idarə elədiyi gəmini hər cür 
 gözlənilməzliklərdən qoruyub sahilə 
@@ -525,7 +525,7 @@ tarix səhnəsindən götürmək istəyirdilər.
 Bəh, onlar məhz belə 
   
  
-Zəfər yolu________________ 24
+ 24
  
 düşünürdülər. Ancaq zaman Böyük 
 İnsanın xeyrinə işləyirdi. Yeni siyasət 
@@ -550,7 +550,7 @@ Böyük İnsan kriteriyaların, ölçülərin,
 nizamların dəyişməsinə göz qoyurdu. Və 
 bütün bunları qanunauyğun hesab edirdi. 
 Təkcə  
-Zəfər yolu________________ 25
+ 25
  
 banşmadığı onun ölkəsinə — ürəyinə qarşı 
 haqsızlıq, ədalətsizlik, namərdlik, 
@@ -576,7 +576,7 @@ xəyanət idi ki, onun qarşısında
 sarsılmamaq üçün qeyri-adi güc tələb 
 olunurdu. İmzalı- 
   
-Zəfər yolu________________ 26
+ 26
  
 imzasız məktubların təşkilatçıları milli 
 xəyanətkarlar idilər. Böyük İnsanın 
@@ -602,7 +602,7 @@ tökən, zavodda, fabrikdə, dəzgah
 arxasında gecə-gündüz çalışan, lap 
 bazarlarda meyvə-tərəvəz satanlar— 
 sadə, sıravi adamlar etsəydilər, 
-Zəfər yolu________________ 27
+ 27
  
 güman etmək olardı ki, aldanırlar. Həyatın 
 mürəkkəb mexanizmindən baş çıxara 
@@ -627,7 +627,7 @@ edirdi. Çünki özünün keçdiyi yol halallıq
 Böyük İnsan şəraiti düzgün qiymət-
 ləndirirdi. Neçə il Vətəndən uzaqda soyuq 
   
-Zəfər yolu________________ 28
+ 28
  
 iqlimdə — yad, bəli, hər cəhətdən yad 
 adamlar arasında, sözün həqiqi mənasında 
@@ -653,7 +653,7 @@ Vətənin hədələndiyi sərhədlərdə, konkret
 desək, erməni faşistlərinə qarşı — 
 Qarabağda getməli idi. 
   
-Zəfər yolu________________ 29
+ 29
  
 Ölkənin şərqindən qərbinəcən, şimalından 
 cənubunacan hər yanda güllə səsləri 
@@ -679,7 +679,7 @@ Böyük İnsan sədaqəti həmişə   yüksək
 qiymətləndirib. O, yaxşı 
   
  
-Zəfər yolu________________ 30
+ 30
  
 bilirdi ki, çox vaxt həyatın nizam-tərəzisini 
 qoruyanlar sədaqətli insanlardır. O 
@@ -707,7 +707,7 @@ beləcə də düşünürdü.
  
  
  
-Zəfər yolu________________ 31
+ 31
  
 O isə Azərbaycanın azadlığını tam 
 aydınlığı ilə görür və buna öz varlığı kimi 
@@ -734,7 +734,7 @@ közərirdi. Böyük İnsan o işığın hardan
 gəldi- 
   
  
-Zəfər yolu________________ 32
+ 32
  
 yini, necə gəldiyini bildiyi üçün ona üz 
 tutdu. Övladlarının da qəlbini isitdi. 
@@ -760,7 +760,7 @@ beşiyi bura idi.
 Böyük İnsan həm də ona görə 
 qayıdırdı ki, mənəvi ata kimi, böyük 
 siyasi xadim, 
-Zəfər yolu________________ 33
+ 33
  
 diplomat, dövlət adamı, ictimai xadim 
 kimi uzun illər qazandığı təcrübəsini 
@@ -786,7 +786,7 @@ qorxmaz, qüdrətli bir insan, dəmir iradə, iti
 zəka sahibi kimi yaddaşında saxladığı 
   
  
-Zəfər yolu________________ 34
+ 34
  
 Böyük İnsan obrazına can, qan, hərarət, 
 güc versin, arxasınca getsin. 
@@ -813,9 +813,9 @@ dünyanı heyrətə gətirir. Cəlladlar
 vahiməyə düşür. 
   
  
-Zəfər yolu________________ 35
-Zəfər yolu________________ 36
-Zəfər yolu________________ 37
+ 35
+ 36
+ 37
  
 Böyük İnsanın bütün gücü yenidən 
 boy göstərir. Dünya bu səsi eşidir. 
@@ -841,7 +841,7 @@ Böyük İnsan həyatın müdriklik
 dərslərini kifayət qədər əxz etmişdi. 
 Onun keçdiyi yol artıq özü   zəngin   
 müdriklik,   aqillik 
-Zəfər yolu________________ 38
+ 38
   
 məktəbi idi. Ona görə də hər cür 
 soyuqluğa və biganəliyə qarşı hazır idi. 
@@ -866,7 +866,7 @@ tikib-qurduğu, həyatının 10 ildən çoxunu
 bilavasitə rəhbəri olduğu Vətənin — yaşa- 
   
   
-Zəfər yolu________________ 39
+ 39
  
 maq, yaratmaq haqqı olduğu doğma 
 yurdun paytaxtına gəlməyə qoymadılar. 
@@ -891,7 +891,7 @@ ad vermək olardı? Bəlkə də, Böyük
 qeydlərin arasına insanlığı utandıran, 
 xəcalət hissi yaradan həmin sözləri yazma- 
   
-Zəfər yolu________________ 40
+ 40
  
 ğa lüzum olmazdı. Ancaq insanhğm 
 gələcəyi naminə həmin məqamların 
@@ -915,7 +915,7 @@ dözməyib sınmalarına təəssüf edirdi.
 Gülüşü də facianə gülüş idi. Çünki özü 
 faciə qəhrəmanının vəziyyətinə düşmüşdü. 
 Bütün ictimai mühitə qarşı 
-Zəfər yolu________________ 41
+ 41
  
 tək bir insanın xarakteri döyüşməli idi. 
 Sanki hər şey təzədən başlanırdı. O, başa 
@@ -939,7 +939,7 @@ sevdiyi, sonsuz məhəbbət bəslədiyi sıravi
 adamların — xalqın təkidi və tələbi ilə 
 gəlməlı oldu. 
   
-Zəfər yolu________________ 42
+ 42
  
 Qorxaqların, cılızların birliyi sürünü 
 xatırladır. Bu birlik cılız niyyətlər xatirinə 
@@ -964,7 +964,7 @@ dəqiq desək, yarasa xislətlilər Böyük
 bu mümkün olmayacaq. Ancaq bunun 
 üçün də 
   
-Zəfər yolu________________ 43
+ 43
  
 vaxt lazım idi. İnsanları aldadan, Böyük 
 İnsanın müsbət obrazını dağıtmaq üçün 
@@ -991,7 +991,7 @@ kəsilməsi göstərirdi ki, bu torpaq axıracan
 ona həyan olacaq, gələcək mübarizələri 
 üçün ona ruh verə- 
   
-Zəfər yolu________________ 44
+ 44
  
 cəkdir. Zirvədən enmiş qartalın ürəyi zirvə 
 üçün atlanarsa, qanadları sağlamdırsa, o, 
@@ -1014,7 +1014,7 @@ dövlət sarayının özülləri sarsılmaz sütunlar
 üstündə bərqərar olmuşdu. Memarı 
 yaşadan əməlləridir. İndi zamanın keçmiş 
 adlanan tərəfində qalmış o iztirablı günləri 
-Zəfər yolu________________ 45
+ 45
  
 beləcə təfərrüatıyla xatırlamağa 
 dəyərdimi... 
@@ -1040,7 +1040,7 @@ taleyində heç vaxt yaşamadığı
 insana əcdadlarından, milyon illərin 
 arxasında amansız təbiətlə üzbəüz qalan 
   
-Zəfər yolu________________ 46
+ 46
  
 insanın özündən miras qalıb. Bu, hardasa 
 insanın baş verə biləcək təhlükələrə qarşı 
@@ -1065,7 +1065,7 @@ taktiki məsələləri planlaşdırdı, xüsusi
 əhəmiyyətsiz görünən, yaxud az 
 əhəmiyyət kəsb edən 
   
-Zəfər yolu________________ 47
+ 47
  
 heç nəyi nəzərdən qaçırmadı. Hələ ilk 
 gəncliyindən əsaslarını mükəmməl 
@@ -1089,7 +1089,7 @@ Böyük İnsan ilk addımlarını hardan,
 nədən başlayacağını dəqiqləşdirir. Qarşıya 
 çıxacaq maneələri aydınlaşdırırdı. 
   
-Zəfər yolu________________ 48
+ 48
  
 Problem olacaq nə varsa, dəfələrlə 
 təhlilə çəkilir. Böyük İnsanı zəfər yolu ilə 
@@ -1116,7 +1116,7 @@ müstəqilliyi əbədi olacaq. Bu Dövlət
 Sarayının memarı kimi əbədi yaşanlıq 
 haqqı qazanacaqdır. 
   
-Zəfər yolu________________ 49
+ 49
  
 Böyük İnsan üçün siyasi fəaliyyət 
 meydanında əhəmiyyətsiz heç nə yoxdur. 
@@ -1141,7 +1141,7 @@ sığındılar. Ən ağır, çətin günlərini birgə
 yaşadılar. Böhranın, maddi çətinliklərin, 
 düşmən hədələrinin, blokadanın məngənə- 
  
-Zəfər yolu________________ 50
+ 50
   
 sində boğulan əyalətin bütün ağrı-acılarına 
 şərik oldu. Ən aşağı həyat səviyyəsinin 
@@ -1166,7 +1166,7 @@ Böyük İnsan həm də görürdü ki, artıq
 bu şöhrət və sərvət düşgünlərini heç bir 
 milli 
   
-Zəfər yolu________________ 51
+ 51
  
 mənafe narahat eləmir. Onlar sağlam 
 düşüncə tərzindən çoxdan uzaqlaşıblar. 
@@ -1192,7 +1192,7 @@ adamlar davam gətirə bilməzdilər. Çığır-
 bağırdan başqa əlindən 
  
   
-Zəfər yolu________________ 52
+ 52
  
 heç nə gəlməyənlər mübahisəyə layiq 
 deyildilər. 
@@ -1217,7 +1217,7 @@ görməmək, bəlkə də, özünü görməzliyə
 vurmaq sadəcə, mümkünsüz idi. Həyatı 
 boyu əxz etdiyi sağlam, mənəvi 
   
-Zəfər yolu________________ 53
+ 53
  
 prinsiplərə arxa çevirə bilməzdi. Onu 
 danışmağa məcbur edən ürəyi — ürəyinə 
@@ -1242,7 +1242,7 @@ girdabında boğulurdu. Xalq «mənim
 xalqım» deyənlərin      fərsizliyini,   
 bacarıqsızlığını 
   
-Zəfər yolu________________ 54
+ 54
  
 görüb aldadıldığını dərk edir, təəssüflər 
 içində boğulur, yaxınlaşan fəlakət 
@@ -1267,7 +1267,7 @@ bənzəri olmayan yırtıcıya çevrilib
 insanların gələcəyə inamını, iradəsini 
 yeyirdi. 
   
-Zəfər yolu________________ 55
+ 55
  
 Böyük İnsan xalqın ümid çağırışlarını 
 eşitməyə bilməzdi. O, xalqının, onun adını 
@@ -1290,7 +1290,7 @@ düşündürən beyni, vuran ürəyi, xilas
 məşəli, millətin Atatürk timsallı Atası idi. 
 O isə demək olar ki, heç bir mühafizəsi 
 olmadan ən ağır nöqtələrdə xalqın səsini 
-Zəfər yolu________________ 56
+ 56
  
 eşitməkdən, xalqın mənəvi dəstəyini 
 duymaqla acı və dəhşətli həqiqətləri öz 
@@ -1316,7 +1316,7 @@ lənətlə damğalayırdı. Bu, onların ifşası idi.
 Tarix səhnəsindən, siyasət səhnəsindən bu 
 cür 
   
-Zəfər yolu________________ 57
+ 57
  
 biabırçılıq və şərəfsizliklə getməyin bəlkə 
 də təkrarı heç vaxt olmayacaq. 
@@ -1342,7 +1342,7 @@ güclərini səfərbər eləməyə çağırdı.
 İmkanlıları rəhmə, humanizmə   səslədi. 
 Azərbaycan  həqiqətlərini 
   
-Zəfər yolu________________ 58
+ 58
  
 bütün dünyaya car çəkdi. Aşkarlığa, 
 demokratiyaya, qanunların aliliyinə 
@@ -1368,7 +1368,7 @@ Konstitusiyanı başı üzərinə qaldırdı.
 burnunun ucundan o tərəfi görməyənlər bir  
 vaxt   qəbul  elə- 
   
-Zəfər yolu________________ 59
+ 59
  
 mirdilər. O dövrdə Böyük İnsan həmin 
 bayrağı əyalətdə qaldırmışdı... 
@@ -1392,7 +1392,7 @@ hesab edirdi. Hələ bir il əvvəl ona üz tutan,
 onun proqramını qəbul edən, ona dəstək 
 verən ziyalıların, sədaqətli  insanların in- 
   
-Zəfər yolu________________ 60
+ 60
  
 tellektini, gücünü özünün sərvəti hesab 
 edirdi. 
@@ -1418,7 +1418,7 @@ Azərbaycanı iqtisadi böhrandan çıxarmaq
 təqdir olunan ən böyük addımı idi. Böyük 
 İnsan 
   
-Zəfər yolu________________ 61
+ 61
  
 bütün şəkkakların, boşboğazların 
 müqavimətini qırdı. Xalqı özünün maddi 
@@ -1443,7 +1443,7 @@ bilməzdi. Böyük İnsan artıq bir il əvvəl
 həmin soyuq yay günlərində bu niyyətlərin 
 — ölkəni şimaldan və cənubdan hədələyən 
   
-Zəfər yolu________________ 62
+ 62
  
 bayquşların səsini kəsmişdi. İndi yeniləri 
 — vaxtilə qınına çəkilmiş avantüraçılar 
@@ -1468,7 +1468,7 @@ gücü qoruyub xalqın özünə qarşı
 çevirəcəkləri günü gözləyənləri də ifşa 
 etdi. Artıq ölkənin kifayət 
   
-Zəfər yolu________________ 63
+ 63
  
 qədər sağlam güc nazirlikləri, sağlam 
 əsaslar üzərində qurulmuş ordusu var idi. 
@@ -1493,7 +1493,7 @@ humanizmi, demokratik dəyərləri əsas
 tutaraq, elm xadimlərini, ziyalıları, 
 mütəxəssisləri 
   
-Zəfər yolu________________ 64
+ 64
  
 fikir mübadiləsinə çağırdı. Onlara hökm 
 etmədən dilimizlə — dilimizin adı ilə bağlı 
@@ -1519,7 +1519,7 @@ sərvətlər yaratdı. Bu sərvətlərin əsasında
 xalqa, Vətənə sevgi durur. «Kitabi-Dədə 
 Qorqud»un 
   
-Zəfər yolu________________ 65
+ 65
  
 1300 ilük tarixinin təntənələri, Mövlanə 
 Füzuli sənətinin sevgilərlə anılması, dünya 
@@ -1543,7 +1543,7 @@ ilə azad edəcəkdir. Əgər namərd düşmən
 bu mübarizədə uduzduğunu etiraf edib 
 işğal niyyətlərindən əl çəkməsə, öz xalqını 
 Ali 
-Zəfər yolu________________ 66
+ 66
  
 Baş komandan kimi, son və qəti döyüşə 
 aparacaqdır. 
@@ -1568,7 +1568,7 @@ sevindirir. Xalq o vaxt yenilməz və
 qürurlu olur ki, onun fəxarət yeri, onun 
 güvənc yeri olur. 
   
-Zəfər yolu________________ 67
+ 67
  
 Böyük İnsan dayandığı zirvədən 
 səhər günəşinə boylanan insanların 
@@ -1590,7 +1590,7 @@ Böyük İnsan ömrünü yaşayanlar
 üçün bu sualın cavabını zaman özü 
 verir... 
   
-Zəfər yolu________________ 68
+ 68
  
 *    *    * 
 Ucalardan uca Tanrı onu qorudu. 
@@ -1618,7 +1618,7 @@ dünyanın hər tərə-
   
  
  
-Zəfər yolu________________ 69
+ 69
  
 finə səpələnmiş soydaşlarımızın 
 hamısının qəlbinə çatacaq, onlara 
@@ -1628,7 +1628,7 @@ Yolçu yolda, — deyib atalar.
 Yolun uğurlu olsun, Böyük İnsan!  
 Biz gələcəyə işığınla gedirik! 
   
-Zəfər yolu________________ 70
+ 70
  
  
  
